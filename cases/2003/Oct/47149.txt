@@ -1,0 +1,543 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			459 Phil. 395
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 149717, October 07, 2003 ]
+
+
+EASTERN ASSURANCE & SURETY CORPORATION (EASCO), PETITIONER, VS. LAND TRANSPORTATION FRANCHISING AND REGULATORY BOARD (LTFRB), RESPONDENT.
+D E C I S I O N
+
+
+
+
+PANGANIBAN, J.:
+
+
+The operation of monopolies is not totally banned by the Constitution. However, the State shall regulate them when public interest so requires. In the present case, the two consortia of insurance companies that have been authorized to issue passenger insurance policies are adequately regulated by the Land Transportation Franchising and Regulatory Board (LTFRB) to protect the riding public. While individual insurance companies may somehow be adversely affected by this scheme, the paramount public interest involved must be upheld. In any event, all legitimate insurance companies are allowed to become members of the consortia. Thus, there is no restraint of trade or unfair competition involved.
+The Case
+Before us is a Petition for Review
+[1]
+ under Rule 45 of the Rules of Court, seeking to set aside the August 20, 2001 Decision
+[2]
+ of the Court of Appeals
+[3]
+ (CA) in CA-GR SP No. 63149. The dispositive portion of the assailed Decision reads as follows:
+"WHEREFORE, in view of the foregoing premises, the Petition is hereby DISMISSED for lack of merit. No costs."
+[4]
+The Facts
+The factual antecedents of the case are summarized by the CA as follows:
+"[I]n its desire to improve public service and its assistance to the victims of road accidents involving PUVs [public utility vehicles], the [Land Transportation Franchising and Regulatory] Board conducted a thorough investigation on the sufficiency of existing insurance policies for PUVs. In the course of its investigation, the Board discovered that insurance coverage of PUVs was only P50,000.00 for the entire vehicle regardless of the number of passengers or persons killed or injured.
+"The Board, then, undertook x x x nationwide consultations among the transport operators and insurance companies and held meetings with the officials of the Insurance Commission.
+"Thereafter, the Board issued 
+Memorandum Circular No. 99-011
+ fixing the insurance coverage of PUVs on the basis of the number of persons that may be killed or injured instead of the entire vehicle alone. The coverage is denominated as 
+Passenger Accident Insurance Coverage (
+PAIC), which fixes the coverage of P50,000.00 per passenger.
+"During the effectivity of 
+Memorandum Circular No. 99-011, 
+the Board received several complaints from various transport organizations such as the Federation of Jeepney Operators and Drivers Association of the Philippines 
+(FEJODAP),
+ Pagkakaisa ng mga Samahan ng Tsuper at Operator Nationwide 
+(PISTON),
+ and the Philippine Confederation of Drivers Organization, Alliance of Concerned Transport Operators 
+(PCDO-ACTO).
+ The thrust of their complaints are: (1) the proliferation of fake insurance policies; (2) the predatory pricing among competing insurance firms; (3) the proliferation of fixers in the premises of the LTFRB endorsing certain insurance companies; and (4) the `moonlighting' by personnel of the LTFRB who induced operators to secure their policies from favored companies.
+"To address these complaints, the Board held a series of meetings with the officers of various transport groups composed of operators of bus, jeepney and taxi as well as representatives of several insurance companies and officials of the Insurance Commission.
+"In a meeting held on 12 December 2000, where herein petitioner Eastern Assurance & Surety Corporation 
+(EASCO, 
+for brevity) was represented by a certain Dante Baronia, the transport groups proposed the creation of [a] `
+two-group system'
+ and of [a] 
+`blacklisting scheme.'
+"In a letter dated 19 January 2001, the aforesaid proposal was then referred by the Board to the Insurance Commission for confirmation, to wit:
+`1. The Commission interposes no objection to, there being no legal obstacle to the same, x x x the suggestion of various insurance groups to allow only two (2) groups to participate in the Passenger Accident Insurance Program (PAIP) of the LTFRB. It is understood that all insurance companies accredited by the Commission may participate in the program by joining any of the groups.
+`2. The Commission interposes no objection, there being no legal obstacle to the same, to the suggestion of the various transport groups to create an accreditation and de-listing criteria to be used in the implementation of the PAIP, x x x and
+`3. The Commission also is of the position that the LTFRB may, on its own set up, require and implement the two groups system and/or the accreditation and de-listing criteria without need of prior approval from the Commission.' x x x
+"On 30 January 2001, Insurance Commissioner Eduardo Malinis wrote LTFRB Chairman Dante M. Lantin, the whole text of which, reads:
+`We hereby confirm the points enumerated in your letter of January 19, 2001 regarding the implementation of the Passenger Personal Accident Insurance Program (PAIP) of the LTFRB, as the same aim to achieve a simple and systematic implementation of said program.'
+"Thus, on 1 February 2001, public respondent LTFRB issued the herein assailed 
+Memorandum Circular No. 2001-001
+ that reads, as follows:
+`MEMORANDUM CIRCULAR NO. 2001-001
+`SUBJECT: Amending Memorandum Circular No. 99-011
+(Passenger Accident Insurance Requirement of PUV Operators)
+`I.       PREFATORY STATEMENT
+`In response to numerous complaints from passenger accident victims involving public utility vehicles, the Board passed Memorandum Circular No. 99-011 dated June 22, 1999 requiring all public utility vehicles to secure a `no fault' passenger accident insurance. This circular was further refined with the passage of Memorandum Circular No. 2000-010 dated March 27, 2000.
+`After a year of implementation, the Board now has received numerous complaints coming from various transport groups and from its regional offices. These complaints [range] from non-payment or late payment of claims, fake certificates of cover, predatory pricing, non-payment or under payment of taxes, graft and corruption, and the non implementation of the computerized data bank of all public utility vehicles.
+`In addressing these concerns, the different transport groups proposed the creation of a two (2) group system whereby all insurance companies who would like to participate in the passenger accident insurance program of the LTFRB must join any of the two groups, and that the passenger insurance requirement of the PUV operators be divided between these two groups on the basis of the number of their respective LTO license plates. The transport group argue that through this scheme the following objectives will be attained:
+ 
+ 
+`1.
+ 
+ 
+Fake certificates of cover will be minimized, if not eradicated, due to better monitoring of operations as there would only be two kinds of certificates that would be circulating.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+`2.
+ 
+ 
+Payment of the proper taxes can be assured. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+`3.
+ 
+ 
+Graft and corruption will be minimized, if not eliminated, since discretion as to which insurance company to patronize will be removed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+`4. 
+ 
+Payment of claims will be prompt due to better monitoring. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+`5. 
+ 
+The proposed computerized data bank of all PUV[,] nationwide will be attained without a single cost to government.' 
+ 
+ 
+`It must be noted that the passenger accident insurance program of the LTFRB was implemented after numerous dialogues with all the transport organizations nationwide, and only after all issues raised have been sufficiently addressed. More importantly, this program is without any cost to the government. The added insurance expense is shouldered by the PUV operators.
+`In pursuing this proposal further, the Board conducted meetings and conferences with the transport operators and with the insurance companies. It also met [with] the Insurance Commission where the latter, in its letter dated January 30, 2001, confirmed that it has no objection to the proposal of the various transport groups, there being no legal impediment to the same.
+`II.      AMENDMENTS
+`AMENDMENTS TO M.C. NO. 99-011
+`IN VIEW OF THE FOREGOING PREMISES, and upon the clamor of the transport operators who are the ones paying the added insurance cost, paragraph seven (7) of Memorandum Circular No. 99-011 is hereby amended to read as follows:
+`In order to make sure that future claims of PUV operators and passenger accident victims are paid within the required time, and in order to minimize, if not eliminate, fake certificates of cover and graft and corruption, as well as to ensure the payment of the proper taxes much needed by the government, as well as to create a computerized data bank without any cost to the government which is necessary for transport planning[,] the Board will only accept, as proof of compliance of this program, insurance polic[i]es/certificates of cover duly approved by the Insurance Commission specifically for this project, and issued by any of the two groups as authorized by the Board.'
+`CREATION OF THE TWO GROUP SYSTEM
+`Accordingly, as there is already one group duly authorized by the Board to participate in this program in the person of the Passenger Accident Managers, Inc. (PAMI for brevity), THERE IS A NEED TO FORM ANOTHER GROUP IN ORDER TO FULLY IMPLEMENT THE PROGRAM. All other insurance companies who wish to continue participating in the program, therefore, are hereby required to either join PAMI or form a second group.
+`In order to maintain their good standing with the Board, each group must maintain and present to the Board proof of compliance with the following minimum requirements:
+ 
+ 
+ 
+`1.
+ 
+ 
+Membership of at least ten (10) insurance companies with valid and subsisting license issued by the Insurance Commission; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+`2. 
+ 
+Aggregate paid-up capitalization of P500 Million;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+`3. 
+ 
+Compliance with the computerized dat[a] as required by the Board;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+`4. 
+ 
+Payment of all claims within seven (7) calendar days from submission of all documents;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+`5.
+ 
+Issuance of one (1) certificate of cover with the standard form and contents duly approved by the Insurance Commission and the Board; and
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+`6.
+ 
+ 
+Submission and compliance with all other reports x x x and requirements of the Board.'
+ 
+ 
+ 
+`ODD-EVEN SYSTEM
+`In order to address the issue of graft and corruption, there is a need to remove discretion on the part of government officials. Accordingly, the Board supports the proposal of the transport groups and hereby adopts the following system:
+`All PUV's covered by this program whose LTO license plate, as per latest LTO Official Receipt, has an even middle number must have an insurance policy/certificate cover coming from the first insurance group (in its case PAMI), while those with an odd middle number must have a policy/cover coming from the second group. This odd-even system shall be interchanged on a year to year basis in order to ensure equality and fairness in distribution. Accordingly, the Board will not accept, as proof of compliance with this program, any insurance policy/cover that does not comply with this odd-even scheme, except in the following cases where the operator may choose the insurance group of its choice provided if is one of the two authorized by the Board, to wit:
+ 
+ 
+`1. 
+ 
+Where the operator or franchise holder has 50 or more operating units registered in its name; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+`2. 
+ 
+Where the operator files a verified petition with the Board justifying his preference over the other group. In this case, the Board may allow a switch if it can be shown that there are more benefits to be attained [from] the insurance group of his choice, and provided further that these benefits are legal and do not result to any form of predatory pricing, such as x x x unjustified commissions and discounts.'
+ 
+ 
+`Other than [for] these reasons[,] no switch may be allowed by any officer of the LTFRB unless otherwise duly approved by the Board en banc.
+`EFFECTIVITY OF THE TWO GROUP SYSTEM
+`The effectivity of the two group system will take place on March 1, 2001, unless otherwise extended by the Board en banc.
+`III.           INTERIM GUIDELINES
+`In the meantime, in order to immediately address the concerns of the transport groups, the following should be strictly complied with:
+ 
+ 
+ 
+`1. 
+ 
+No insurance company, its agents and employees shall resort to predatory pricing[,] which means selling or offering to sell any product at a price unreasonably below the industry average cost so as to attract customers to the detriment of competitors. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+`2. 
+ 
+The amount of commission/discount which a company will offer in the market should be in writing and duly approved by the LTFRB, who, in turn, will coordinate the same with the Insurance Commission. Any violation of the declared commission/discount shall be subject to the penalties provided for herein.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. 
+ 
+Only branch offices duly identified by the company, together with the designated officer-in-charge, and submitted in writing to the LTFRB shall issue, distribute, market or release the required policy/certificate of cover.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+`4.
+ 
+ 
+Payment of all claims should be made within seven (7) calendar days from submission of all the required x x x documents. Accordingly, the company shall provide the LTFRB with the list of required documents.'
+ 
+ 
+ 
+`Any insurance company found to have violated any of the above prohibitions shall, after notice and hearing, be banned permanently from participating in the program either directly or indirectly, including its principal stockholders, key officers and successors-in-interest if evidence warrants. The Board, may, in the interest of the public, issue a cease and desist order enjoining a company from participating in the program for not more than thirty (30) days pending full investigation.
+`All insurance companies who are "blacklisted" in any government agency or instrumentality including court and other quasi-judicial agencies are automatically disallowed to participate in this program. Accordingly, no policy or certificate of cover shall be accepted from these companies as proof of compliance with this program. The Board shall issue from time to time the list of the "blacklisted" or suspended companies.
+`All insurance policies[/]certificates of cover issued by their insurance companies in their individual capacities prior to the effectivity of the "Two Group System" shall remain in full force and effect until its expiration, and said companies shall be primarily liable for the payment of claims subject of said policies/certificates of cover.
+x x x                                                   x x x                                            x x x
+"For the dissemination and implementation of the aforequoted 
+Memorandum,
+ the LTFRB made a one month nationwide information campaign on the nature of 
+`the two-group system'
+ and of 
+`the blacklisting scheme.'
+ And in a meeting with the different insurance companies, including the representative of petitioner EASCO, the Insurance Commission representative [read] before the participants the insurance firms 
+blacklisted
+ by the Regional Trial Court of Quezon City which includes petitioner EASCO. The purpose of this information is to afford the blacklisted firms an opportunity to clear their records and settle the claims against them."
+[5]
+Claiming that Memorandum Circular No. 2001-001 and the implementing Circulars had deprived it of its right to engage in the passenger accident insurance business, Eastern Assurance & Surety Corporation (EASCO) filed a Petition for 
+Certiorari
+ and Prohibition with the CA questioning the validity of those issuances.
+Ruling of the Court of Appeals
+The CA ruled that Memorandum Circular No. 2001-001 had not been issued 
+ultra vires
+ by the LTFRB and constituted a valid exercise of police power. Hence, the appellate court ruled:
+"x x x [T]he Board has the power to require as a condition for the issuance of certificate of public convenience an insurance policy or certificate provided by a member of one of the two accredited groups. The clear purpose of the condition is to ensure the benefit of the riding public and pedestrians who may become victims of accidents involving PUVs. For this purpose, the Board may, as it did, coordinate with the Insurance Commission, the governmental agency regulating the insurance business, for the adoption of `
+the two-group and blacklisting system
+' to enhance the insurance coverage of passengers and persons who become victims of accident for their benefit or of their heirs.
+"Without doubt, the imposition of the requirements is 
+germane
+ to the powers, functions and purpose of the Board as a regulatory body in charge of administering public utilities.   x x x."
+[6]
+Moreover, the CA found that the Circular had not violated the provisions of the Constitution on free enterprise, equal protection and substantive due process. The appellate court explained "that PAIC II and PAMI merely serve as 
+service arms
+ of their respective members. In other words, these two (2) groups, strictly speaking, are not engaged in insurance business. Moreover, the `two-group / consortium' scheme under the 
+Memorandum Circular No. 2001-001
+ is open to all insurance firms [that] want to join any of the two groups. It does not vest any privilege or advantage to any single firm or group to carry out the business of providing the insurance coverage under the program. The fact that the program is open to all insurance firms including petitioner negates its pretense of exclusivity. No firm is discriminated against since the two consortia cannot refuse membership in their respective groups to any interested firm [that] wants and is qualified to join."
+[7]
+Hence, this Petition.
+[8]
+The Issues
+In its Memorandum, petitioner raises the following issues for our consideration:
+"a)     the assailed LTFRB circulars with [their] implementing circulars violat[e] the constitutional proscription against monopoly, combination in restraint of trade and unfair competition[;] b) there is a violation of [the] equal protection clause; c) LTFRB exceeded its legal mandate because it exercised administrative control/jurisdiction over insurance companies which properly and exclusively belongs to the Insurance Commission[;] d) EASCO, petitioner, was disenfranchise[d] of its legitimate insurance business; x x x e) the Court of Appeals erred in ruling that the [P]etition for [C]ertiorari which raises purely legal issues is not exempt from the rule on exhaustion of administrative remedies, contrary to existing jurisprudence on the matter[; f)] the Court of Appeals committed grave abuse in completely disregarding vital facts borne by the records and admissions by the parties; and x x x [g)] x x x noted the assailed LTFRB memorandum circular did not comply with publication requirements for its validity."
+[9]
+The main issue in the case before us, as in the Court of Appeals, is the validity of Memorandum Circular Nos. 2001-001 and 2001-010.
+The Court's Ruling
+The Petition has no merit.
+Main Issue:
+Validity of the LTFRB Memorandum Circulars
+Petitioner contends that Memorandum Circular No. 2001-001 and the subsequent implementing Circulars violate the constitutional proscription against monopoly as well as unfair competition and combination in restraint of trade. Petitioner further argues that these were issued with grave abuse of discretion and without jurisdiction on the part of the LTFRB.
+Monopoly
+The constitutional provision on monopolies is found in Article XII as follows:
+"Sec. 19. The State shall regulate or prohibit monopolies when the public interest so requires. No combinations in restraint of trade or unfair competition shall be allowed."
+While embracing free enterprise as an economic creed, the Constitution does not totally prohibit the operation of monopolies.
+[10]
+ However, it mandates the State to regulate them when public interest so requires.
+Intense competition has led insurance companies/agents offering insurance policies for public utility vehicles to resort to ruinous tactics to sell their services. Notorious agents of these companies have engaged in predatory pricing -- selling the compulsory insurance coverage at an unbelievable discount of sixty to eighty percent (60 to 80%) off the market rate. The huge coverage and liability under the "no-fault clause" of the passenger accident insurance are grossly disproportionate to the small premiums actually being paid.
+Moreover, different persons or operators were issued certificates of cover (COC) or policies bearing the same number. Thus, claims under these policies were not paid, or payments were unreasonably delayed, resulting in prejudice to the riding public.
+The present case shows a clear public necessity to regulate the proliferation of such insurance companies. Because of the PUV operators' complaints, the LTFRB thus assessed the situation. It found that in order to protect the interests of the riding public and to resolve problems involving the passenger insurance coverage of PUVs, it had to issue Memorandum Circular No. 2001-001 authorizing the two-group system. Subsequently, it promulgated Memorandum Circular No. 2001-010 accrediting PAMI and PAIC II as the two groups allowed to participate in the program.
+Memorandum Circular No. 2001-010 required that "[a]ll public utility vehicles whose LTO license plate, as per latest LTO Official Receipt, with an EVEN middle number (0, 2, 4, 6 and 8) shall be insured with UCPB insurance (PAMI), while those with an ODD middle number (1, 3, 5, 7 and 9) shall be insured with Great Domestic Insurance (PAIC 2) x x x."
+[11]
+Undoubtedly, Memorandum Circular No. 2001-010 authorized and regulated two separate monopolies. In 
+Garcia v. Corona,
+[12]
+ the Court stated:
+"The simplest form of monopoly exists when there is only one seller or producer of a product or service for which there are no substitute. In its more complex form, monopoly is defined as the joint acquisition or maintenance by members of a conspiracy formed for that purpose, of the power to control and dominate trade and commerce in a commodity to such an extent that they are able, as a group, to exclude actual or potential competitors from the field, accompanied with the intention or purpose to exercise such power."
+[13]
+It should be stressed that PUVs, as common carriers, are engaged in a business affected with public interest.
+[14]
+ Under Article 1756 of the Civil Code, in cases of death or injuries to passengers, common carriers are presumed to be at fault and are required to compensate the victims, unless they observed extraordinary diligence. To assure this compensation, PUVs are required to obtain insurance policies.
+[15]
+Even with this insurance requirement, the riding public remains at risk of inadequate cover, because many insurance companies are individually incapable of meeting the compensation standards. Worse, the pernicious competition and fraudulent practices described above have resulted in failure to meet the compensation requirements of the law.
+Indeed, in authorizing and regulating the two insurance monopolies, the LTFRB acted within its prerogatives in promoting public interest and protecting the riding public. After all, the consortia are open to all insurance companies, including petitioner. There is no discrimination against any legitimate insurer. On the whole, the public is given protection without unfair competition or undue restraint of trade. As the Court of Appeals pointed out, the two consortia are not engaged in the insurance business; they merely serve as "service arms" of their respective members.
+At bottom, the subject Memorandum Circulars were issued for the stated purpose of promoting public interest; and of protecting the riding public and PUV operators from being defrauded by fake, undervalued or misrepresented insurance policies.
+Grave Abuse of Discretion
+In alleging grave abuse of discretion on the part of the LTFRB, petitioner describes at length potential disasters to the insuring public that may result from the two-group system authorized by the assailed Circulars. Petitioner calls into question the wisdom of those Circulars by projecting scenarios which, however, cannot be properly addressed and resolved in the present case. Litigations are limited to resolving actual, not hypothetical, controversies.
+Doubts on the capability of the assailed Circulars to provide an adequate long-term solution to PUV operators' insurance problems are not legally sufficient to strike down those Circulars. In our form of government, courts cannot inquire into the wisdom or the expediency of the acts of the executive or the legislative branches of government, unless there is a clear showing that those acts are constitutionally infirm or have been committed with grave abuse of discretion amounting to lack or excess of jurisdiction.
+"In 
+Angara v. Electoral Commission
+, Justice Laurel made it clear that `the judiciary does not pass upon questions of wisdom, justice or expediency of legislation.' And fittingly so for in the exercise of judicial power, we are allowed only `to settle actual controversies involving rights which are legally demandable and enforceable, `and may not annul an act of the political departments simply because we feel it is unwise or impractical. It is true that, under the expanded concept of the political question, we may now also `determine whether or not there has been a grave abuse of discretion amounting to lack or excess of jurisdiction on the part of any branch or instrumentality of the Government.'"
+[16]
+By grave abuse of discretion is meant such capricious and whimsical exercise of judgment equivalent to lack of jurisdiction. Mere abuse of discretion is not enough. It must be 
+grave
+, as when it is exercised arbitrarily or despotically by reason of passion or personal hostility; and such abuse must be so patent and so gross as to amount to an evasion of a positive duty or to a virtual refusal to perform the duty enjoined or to act at all in contemplation of law.
+[17]
+ The jurisprudential elements of arbitrariness, despotism, passion and hostility have not been shown to exist under the present circumstances.
+Further, petitioner argues that the LTFRB's haste in accrediting PAMI and PAIC II is an indication of grave abuse of discretion. However, since the two-group system was to take effect starting March 1, 2001, accrediting the two groups on February 28, 2001 was not unreasonable. In the absence of contrary evidence, we must uphold the presumption of regularity in the performance of duties by public officers.
+[18]
+Authority and Jurisdiction
+Petitioner contends that in issuing the assailed Circulars, the LTFRB effectively delimited, regulated and controlled the business of passenger accident insurance. It argues that the Board acted without jurisdiction and usurped the exclusive jurisdiction of the Insurance Commission.
+Executive Order No. 202,
+[19]
+ which created the LTFRB, conferred the following powers on the Board:
+"SEC. 5. 
+Powers and Functions of the Land Transportation Franchising and Regulatory Board.
+ The Board shall have the following powers and functions:
+x x x                                         x x x                                  x x x
+"b. To issue, amend, revise, suspend or cancel Certificates of Public Convenience or permits authorizing the operation of public land transportation services provided by motorized vehicles, and to prescribe the appropriate terms and conditions therefore;
+x x x                                         x x x                                  x x x
+"k. To formulate, promulgate, administer, implement and enforce rules and regulations on land transportation public utilities, standards of measurements and/or design, and rules and regulations requiring operators of any public land transportation service 
+to equip
+, install and provide in their utilities and in their stations such 
+devices
+, 
+equipment facilities and operating procedures and techniques 
+as may promote safety, protection, comfort and convenience to persons and property in their charges as well as the safety of persons and property within their areas of operations;
+"l. 
+To coordinate and cooperate 
+with other government agencies and entities concerned with any aspect involving public land transportation services with the end in view of effecting continuing improvement of such services; and
+"m. To perform such other functions and duties as may be provided by law, or as may be 
+necessary
+, or 
+proper 
+or 
+incidental
+ to the purposes and objectives of this Executive Order." (Italics supplied)
+Paragraph "b" gives the LTFRB the power to prescribe appropriate terms and conditions for the issuance, amendment, revision, and suspension or cancellation of certificates of public convenience (CPC) or of permits authorizing the operation of public land transportation services. Under this paragraph, the Board has the prerogative to require, as a condition for the issuance of CPCs, that an applicant get insurance coverage from a particular group of insurance companies.
+Corollary to this power must necessarily be construed the authority of the LTFRB to require insurance companies to group themselves for the purpose of providing passenger accident insurance coverage. Paragraph "m" directly authorizes it to perform such other functions as may be necessary or incidental to the purposes and objectives of EO 202.
+By providing passenger accident insurance policies to operators of PUVs, insurance companies and their businesses directly affect public land transportation. By limiting its regulation of such companies to the segment of their business that directly affects public land transportation, the LTFRB has acted within its jurisdiction in issuing the assailed Circulars.
+Administrative bodies like the LTFRB have expertise in specific matters within the purview of their respective jurisdictions. Thus, the law concedes to them the power to promulgate rules and regulations to implement the policies of a given statute -- provided such rules and regulations conform to the terms and standards prescribed by that statute and purport to carry its general policies into effect.
+[20]
+It should also be pointed out that before issuing the Circulars, the LTFRB made proper representation and coordination with the Insurance Commission, which had no objection to the two-consortia scheme.
+EASCO's Business
+Since petitioner has failed to show any cogent reason to strike down the assailed Circulars, their implementation cannot be restrained. They may indeed adversely affect its business, but the protection of the general welfare is of paramount importance. Petitioner's individual business interests must be subordinated to the benefit of the greater number. 
+Salus populi est suprema lex. Sic utere tuo ut alienum non laedas
+.
+[21]
+Publication
+Petitioner raises for the first time in its Memorandum the issue of the alleged noncompliance with the publication requirement, which must first be met before the assailed Circulars can be deemed valid. This argument is improper at this stage. Points of law, theories, issues and arguments not adequately brought to the attention of the lower court need not be -- and ordinarily will not be -- considered by a reviewing court, as they cannot be raised for the first time on appeal.
+[22]
+ Indeed, it is settled jurisprudence that an issue that was neither raised in the complaint or in the court below cannot be raised for the first time on appeal, as to do so would be offensive to the basic rules of fair play, justice, and due process.
+[23]
+WHEREFORE
+, the Petition is 
+DENIED
+ and the assailed Decision 
+AFFIRMED
+. Costs against petitioner.
+SO ORDERED.
+Puno, (Chairman), Sandoval-Gutierrez 
+and 
+Carpio-Morales, JJ., 
+concur.
+Corona, J.,
+ on leave.
+[1]
+ Rollo, pp. 3-33.
+[2]
+ Id., pp. 35-37.
+[3]
+ Sixth Division. Written by Justice Alicia L. Santos, with the concurrence of Justices Ramon A. Barcelona (Division chairman) and Rodrigo V. Cosico (member).
+[4]
+ Assailed CA Decision, p. 22; 
+rollo
+, p. 56.
+[5]
+ Id., pp. 2-10 & 36-44.
+[6]
+ Id., pp. 13 & 47.
+[7]
+ Id., pp. 15 & 49.
+[8]
+ This case was deemed submitted for decision on December 5, 2002, upon receipt by this Court of petitioner's Memorandum signed by Atty. Rodolfo T. Gascon. Respondent's Memorandum, signed by Assistant Solicitor General Nestor J. Ballacillo and Associate Solicitor Juliet A. Buenviaje-Reyes of the Office of the Solicitor General (OSG), was filed with this Court on November 14, 2002.
+[9]
+ Petitioner's Memorandum, p. 4; id., p. 559.
+[10]
+ 
+Tatad v. The Secretary of the Department of Energy,
+ 346 Phil. 321, 367, November 5, 1997.
+[11]
+ Annex "H" to the Petition; rollo, p. 82.
+[12]
+ 378 Phil. 848, December 17, 1999.
+[13]
+ Id., p. 860, per Ynares-Santiago, 
+J
+.
+[14]
+ 
+Singson v. CA
+, 346 Phil. 831, November 18, 1997.
+[15]
+ 
+Shafer v. Judge
+, 
+RTC Olongapo City, Br. 75, 
+167 SCRA 386, November 14, 1998; 
+First Integrated Banking & Insurance Co., Inc. v. Hernando
+, 199 SCRA 796, July 31, 1991.
+[16]
+ 
+Garcia v. Executive Secretary, 
+204 SCRA 516, 523, December 2, 1991, per Cruz, 
+J.
+[17]
+ 
+TaÃ±ada v. Angara, 
+338 Phil. 546, May 2, 1997, citing 
+Zarate Jr. v. Olegario
+, 331 Phil. 278, October 7, 1996; 
+San Sebastian College v. Court of Appeals
+, 197 SCRA 138, May 15, 1991; 
+Commisioner of Internal Revenue v. Court of Tax Appeals
+, 195 SCRA 444, March 20, 1991; 
+Simon v. Civil Service Commission
+, 215 SCRA 410, November 5, 1992; 
+Bustamante v. Commissioner on Audit
+, 216 SCRA 134, November 27, 1992.
+[18]
+ 
+Beautifont, Inc. v. Court of Appeals
+, 157 SCRA 481, January 29, 1988; 
+Pangasinan Transportation Co., Inc. v. The Public Service Commission, 
+70 Phil. 221, June 26, 1940.
+[19]
+ Dated June 19, 1987.
+[20]
+ 
+Del Mar v. The Philippine Veterans Administration, 
+51 SCRA 340, 348, June 27, 1973.
+[21]
+ "The welfare of the people is the supreme law. Use your own property so as not to injure that of another." R. S. Vasan (ed.), 
+Latin Words & Phrases for Lawyers 
+(1980), pp. 219 & 224.
+[22]
+ 
+Tay Chun Suy v. Court of Appeals, 
+229 SCRA 151, January 7, 1994; 
+Santos v. Intermediate Appellate Court, 
+145 SCRA 592, November 14, 1986.
+[23]
+ 
+Gevero v. Intermediate Appellate Court, 
+189 SCRA 201, August 30, 1990, citing 
+Matienzo v. Servidad, 
+194 Phil. 263, September 10, 1981; 
+De la Santa v. Court of Appeals, 
+140 SCRA 44, November 18, 1985; 
+Dihiansan v. Court of Appeals, 
+153 SCRA 712, September 14, 1987; 
+Roman Catholic Archbishop of Manila v. Court of Appeals, 
+269 SCRA 145, March 3, 1997; 
+People v. Chua, 
+356 SCRA 225, April 4, 2001.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

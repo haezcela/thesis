@@ -1,0 +1,266 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			456 Phil. 213
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 126627, August 14, 2003 ]
+
+
+SMITH KLINE BECKMAN CORPORATION, PETITIONER, VS. THE HONORABLE COURT OF APPEALS AND TRYCO PHARMA CORPORATION, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+CARPIO MORALES, J.:
+
+
+Smith Kline Beckman Corporation (petitioner), a corporation existing by virtue of the laws of the state of Pennsylvania, United States of America (U.S.) and licensed to do business in the Philippines, filed on October 8, 1976, as assignee, before the Philippine Patent Office (now Bureau of Patents, Trademarks and Technology Transfer) an application for patent over an invention entitled "Methods and Compositions for Producing Biphasic Parasiticide Activity Using Methyl 5 Propylthio-2-Benzimidazole Carbamate." The application bore Serial No. 18989.
+On September 24, 1981, Letters Patent No. 14561
+[1]
+ for the aforesaid invention was issued to petitioner for a term of seventeen (17) years.
+The letters patent provides in its claims
+[2]
+ that the patented invention consisted of a new compound named methyl 5 propylthio-2-benzimidazole carbamate and the methods or compositions utilizing the compound as an active ingredient in fighting infections caused by gastrointestinal parasites and lungworms in animals such as swine, sheep, cattle, goats, horses, and even pet animals.
+Tryco Pharma Corporation (private respondent) is a domestic corporation that manufactures, distributes and sells veterinary products including Impregon, a drug that has Albendazole for its active ingredient and is claimed to be effective against gastro-intestinal roundworms, lungworms, tapeworms and fluke infestation in carabaos, cattle and goats.
+Petitioner sued private respondent for infringement of patent and unfair competition before the Caloocan City Regional Trial Court (RTC).
+[3]
+ It claimed that its patent covers or includes the substance Albendazole such that private respondent, by manufacturing, selling, using, and causing to be sold and used the drug Impregon without its authorization, infringed Claims 2, 3, 4, 7, 8 and 9 of Letters Patent No. 14561
+[4]
+ as well as committed unfair competition under Article 189, paragraph 1 of the Revised Penal Code and Section 29 of Republic Act No. 166 (The Trademark Law) for advertising and selling as its own the drug Impregon although the same contained petitioner's patented Albendazole.
+[5]
+On motion of petitioner, Branch 125 of the Caloocan RTC issued a temporary restraining order against private respondent enjoining it from committing acts of patent infringement and unfair competition.
+[6]
+ A writ of preliminary injunction was subsequently issued.
+[7]
+Private respondent in its Answer
+[8]
+ averred that Letters Patent No. 14561 does not cover the substance Albendazole for nowhere in it does that word appear; that even if the patent were to include Albendazole, such substance is unpatentable; that the Bureau of Food and Drugs allowed it to manufacture and market Impregon with Albendazole as its known ingredient; that there is no proof that it passed off in any way its veterinary products as those of petitioner; that Letters Patent No. 14561 is null and void, the application for the issuance thereof having been filed beyond the one year period from the filing of an application abroad for the same invention covered thereby, in violation of Section 15 of Republic Act No. 165 (The Patent Law); and that petitioner is not the registered patent holder.
+Private respondent lodged a Counterclaim against petitioner for such amount of actual damages as may be proven; P1,000,000.00 in moral damages; P300,000.00 in exemplary damages; and P150,000.00 in attorney's fees.
+Finding for private respondent, the trial court rendered a Decision dated July 23, 1991,
+[9]
+ the dispositive portion of which reads:
+WHEREFORE, in view of the foregoing, plaintiff's 
+complaint should be, as it is hereby, DISMISSED.
+ The Writ of injunction issued in connection with the case is hereby ordered DISSOLVED.
+The Letters Patent No. 14561 issued by the then Philippine Patents Office is hereby declared null and void
+ for being in violation of Sections 7, 9 and 15 of the Patents Law.
+Pursuant to Sec. 46 of the Patents Law, the Director of Bureau of Patents is hereby directed to 
+cancel Letters Patent No. 14561
+ issued to the plaintiff and to publish such cancellation in the Official Gazette.
+Defendant 
+Tryco Pharmaceutical Corporation is hereby awarded P330,000.00 actual damages and P100,000.00 attorney's fees as prayed for in its counterclaim
+ but said amount awarded to defendant is subject to the lien on correct payment of filing fees.
+SO ORDERED. (Underscoring supplied)
+On appeal, the Court of Appeals, by Decision of April 21, 1995,
+[10]
+ upheld the trial court's finding that private respondent was not liable for any infringement of the patent of petitioner in light of the latter's failure to show that Albendazole is the same as the compound subject of Letters Patent No. 14561. Noting petitioner's admission of the issuance by the U.S. of a patent for Albendazole in the name of Smith Kline and French Laboratories which was petitioner's former corporate name, the appellate court considered the U.S. patent as implying that Albendazole is different from methyl 5 propylthio-2-benzimidazole carbamate. It likewise found that private respondent was not guilty of deceiving the public by misrepresenting that Impregon is its product.
+The appellate court, however, declared that Letters Patent No. 14561 was not void as it sustained petitioner's explanation that Patent Application Serial No. 18989 which was filed on October 8, 1976 was a divisional application of Patent Application Serial No. 17280 filed on June 17, 1975 with the Philippine Patent Office, well within one year from petitioner's filing on June 19, 1974 of its Foreign Application Priority Data No. 480,646 in the U.S. covering the same compound subject of Patent Application Serial No. 17280.
+Applying Section 17 of the Patent Law, the Court of Appeals thus ruled that Patent Application Serial No. 18989 was deemed filed on June 17, 1995 or still within one year from the filing of a patent application abroad in compliance with the one-year rule under Section 15 of the Patent Law. And it rejected the submission that the compound in Letters Patent No. 14561 was not patentable, citing the jurisprudentially established presumption that the Patent Office's determination of patentability is correct. Finally, it ruled that petitioner established itself to be the one and the same assignee of the patent notwithstanding changes in its corporate name. Thus the appellate court disposed:
+WHEREFORE, the judgment appealed from is 
+AFFIRMED with the MODIFICATION that the orders for the nullification of Letters Patent No. 14561 and for its cancellation are deleted therefrom.
+SO ORDERED.
+Petitioner's motion for reconsideration of the Court of Appeals' decision having been denied
+[11]
+ the present petition for review on certiorari
+[12]
+ was filed, assigning as errors the following:
+ THE COURT OF APPEALS GRAVELY ERRED IN NOT FINDING THAT ALBENDAZOLE, THE ACTIVE INGREDIENT IN TRYCO'S "IMPREGON" DRUG, IS INCLUDED IN PETITIONER'S LETTERS PATENT NO. 14561, AND THAT CONSEQUENTLY TRYCO IS ANSWERABLE FOR PATENT INFRINGEMENT.
+ THE COURT OF APPEALS GRAVELY ERRED IN AWARDING TO PRIVATE RESPONDENT TRYCO PHARMA CORPORATION P330,000.00 ACTUAL DAMAGES AND P100,000.00 ATTORNEY'S FEES.
+Petitioner argues that under the 
+doctrine of equivalents
+ for determining patent infringement, Albendazole, the active ingredient it alleges was appropriated by private respondent for its drug Impregon, is substantially the same as methyl 5 propylthio-2-benzimidazole carbamate covered by its patent since both of them are meant to combat worm or parasite infestation in animals. It cites the "unrebutted" testimony of its witness Dr. Godofredo C. Orinion (Dr. Orinion) that the chemical formula in Letters Patent No. 14561 refers to the compound Albendazole. Petitioner adds that the two substances substantially do the same function in substantially the same way to achieve the same results, thereby making them truly identical. Petitioner thus submits that the appellate court should have gone beyond the literal wordings used in Letters Patent No. 14561, beyond merely applying the literal infringement test, for in spite of the fact that the word Albendazole does not appear in petitioner's letters patent, it has ably shown by evidence its sameness with methyl 5 propylthio-2-benzimidazole carbamate.
+Petitioner likewise points out that its application with the Philippine Patent Office on account of which it was granted Letters Patent No. 14561 was merely a divisional application of a prior application in the U. S. which granted a patent for Albendazole. Hence, petitioner concludes that both methyl 5 propylthio-2-benzimidazole carbamate and the U.S.-patented Albendazole are dependent on each other and mutually contribute to produce a single result, thereby making Albendazole as much a part of Letters Patent No. 14561 as the other substance is.
+Petitioner concedes in its Sur-Rejoinder
+[13]
+ that although methyl 5 propylthio-2-benzimidazole carbamate is not identical with Albendazole, the former is an improvement or improved version of the latter thereby making both substances still substantially the same.
+With respect to the award of actual damages in favor of private respondent in the amount of P330,000.00 representing lost profits, petitioner assails the same as highly speculative and conjectural, hence, without basis. It assails too the award of P100,000.00 in attorney's fees as not falling under any of the instances enumerated by law where recovery of attorney's fees is allowed.
+In its Comment,
+[14]
+ private respondent contends that application of the 
+doctrine of equivalents
+ would not alter the outcome of the case, Albendazole and methyl 5 propylthio-2-benzimidazole carbamate being two different compounds with different chemical and physical properties. It stresses that the existence of a separate U.S. patent for Albendazole indicates that the same and the compound in Letters Patent No. 14561 are different from each other; and that since it was on account of a divisional application that the patent for methyl 5 propylthio-2-benzimidazole carbamate was issued, then, by definition of a divisional application, such a compound is just one of several independent inventions alongside Albendazole under petitioner's original patent application.
+As has repeatedly been held, only questions of law may be raised in a petition for review on certiorari before this Court. Unless the factual findings of the appellate court are mistaken, absurd, speculative, conjectural, conflicting, tainted with grave abuse of discretion, or contrary to the findings culled by the court of origin,
+[15]
+ this Court does not review them.
+From an examination of the evidence on record, this Court finds nothing infirm in the appellate court's conclusions with respect to the principal issue of whether private respondent committed patent infringement to the prejudice of petitioner.
+The burden of proof to substantiate a charge for patent infringement rests on the plaintiff.
+[16]
+ In the case at bar, petitioner's evidence consists primarily of its Letters Patent No. 14561, and the testimony of Dr. Orinion, its general manager in the Philippines for its Animal Health Products Division, by which it sought to show that its patent for the compound methyl 5 propylthio-2-benzimidazole carbamate also covers the substance Albendazole.
+From a reading of the 9 claims of Letters Patent No. 14561 in relation to the other portions thereof, no mention is made of the compound Albendazole. All that the claims disclose are: the covered invention, that is, the compound methyl 5 propylthio-2-benzimidazole carbamate; the compound's being anthelmintic but nontoxic for animals or its ability to destroy parasites without harming the host animals; and the patented methods, compositions or preparations involving the compound to maximize its efficacy against certain kinds of parasites infecting specified animals.
+When the language of its claims is clear and distinct, the patentee is bound thereby and may not claim anything beyond them.
+[17]
+ And so are the courts bound which may not add to or detract from the claims matters not expressed or necessarily implied, nor may they enlarge the patent beyond the scope of that which the inventor claimed and the patent office allowed, even if the patentee may have been entitled to something more than the words it had chosen would include.
+[18]
+It bears stressing that the mere absence of the word Albendazole in Letters Patent No. 14561 is not determinative of Albendazole's non-inclusion in the claims of the patent. While Albendazole is admittedly a chemical compound that exists by a name different from that covered in petitioner's letters patent, the language of Letter Patent No. 14561 fails to yield anything at all regarding Albendazole. And no extrinsic evidence had been adduced to prove that Albendazole inheres in petitioner's patent in spite of its omission therefrom or that the meaning of the claims of the patent embraces the same.
+While petitioner concedes that the mere literal wordings of its patent cannot establish private respondent's infringement, it urges this Court to apply the 
+doctrine of equivalents
+.
+The 
+doctrine of equivalents
+ provides that an infringement also takes place when a device appropriates a prior invention by incorporating its innovative concept and, although with some modification and change, performs substantially the same function in substantially the same way to achieve substantially the same result.
+[19]
+ Yet again, a scrutiny of petitioner's evidence fails to convince this Court of the substantial sameness of petitioner's patented compound and Albendazole. While both compounds have the effect of neutralizing parasites in animals, 
+identity of result does not amount to infringement of patent unless Albendazole operates in substantially the same way or by substantially the same means as the patented compound, even though it performs the same function and achieves the same result.
+[20]
+ In other words, 
+the 
+principle or mode of operation
+ must be the same or substantially the same.
+[21]
+The 
+doctrine of equivalents
+ thus requires satisfaction of the function-means-and-result test, the patentee having the burden to show that all three components of such equivalency test are met.
+[22]
+As stated early on, petitioner's evidence fails to explain how Albendazole is in every essential detail identical to methyl 5 propylthio-2-benzimidazole carbamate. Apart from the fact that Albendazole is an anthelmintic agent like methyl 5 propylthio-2-benzimidazole carbamate, nothing more is asserted and accordingly substantiated regarding the method or means by which Albendazole weeds out parasites in animals, thus giving no information on whether that method is substantially the same as the manner by which petitioner's compound works. The testimony of Dr. Orinion lends no support to petitioner's cause, he not having been presented or qualified as an expert witness who has the knowledge or expertise on the matter of chemical compounds.
+As for the concept of divisional applications proffered by petitioner, it comes into play when two or more inventions are claimed in a single application but are of such a nature that a single patent may not be issued for them.
+[23]
+ The applicant thus is required "to divide," that is, to limit the claims to whichever invention he may elect, whereas those inventions not elected may be made the subject of separate applications which are called "divisional applications."
+[24]
+ What this only means is that petitioner's methyl 5 propylthio-2-benzimidazole carbamate is an invention distinct from the other inventions claimed in the original application divided out, Albendazole being one of those other inventions. Otherwise, methyl 5 propylthio-2-benzimidazole carbamate would not have been the subject of a divisional application if a single patent could have been issued for it as well as Albendazole.
+The foregoing discussions notwithstanding, this Court does not sustain the award of actual damages and attorney's fees in favor of private respondent. The claimed actual damages of P330,000.00 representing lost profits or revenues incurred by private respondent as a result of the issuance of the injunction against it, computed at the rate of 30% of its alleged P100,000.00 monthly gross sales for eleven months, were supported by the testimonies of private respondent's President
+[25]
+ and Executive Vice-President that the average monthly sale of Impregon was P100,000.00 and that sales plummeted to zero after the issuance of the injunction.
+[26]
+ While indemnification for actual or compensatory damages covers not only the loss suffered (
+damnum emergens) 
+but also profits which the obligee failed to obtain (
+lucrum cessans 
+or 
+ganacias frustradas
+), it is necessary to prove the actual amount of damages with a reasonable degree of certainty based on competent proof and on the best evidence obtainable by the injured party.
+[27]
+ The testimonies of private respondent's officers are not the competent proof or best evidence obtainable to establish its right to actual or compensatory damages for such damages also require presentation of documentary evidence to substantiate a claim therefor.
+[28]
+In the same vein, this Court does not sustain the grant by the appellate court of attorney's fees to private respondent anchored on Article 2208 (2) of the Civil Code, private respondent having been allegedly forced to litigate as a result of petitioner's suit. Even if a claimant is compelled to litigate with third persons or to incur expenses to protect its rights, still attorney's fees may not be awarded where no sufficient showing of bad faith could be reflected in a party's persistence in a case other than an erroneous conviction of the righteousness of his cause.
+[29]
+ There exists no evidence on record indicating that petitioner was moved by malice in suing private respondent.
+This Court, however, grants private respondent temperate or moderate damages in the amount of P20,000.00 which it finds reasonable under the circumstances, it having suffered some pecuniary loss the amount of which cannot, from the nature of the case, be established with certainty.
+[30]
+WHEREFORE
+, the assailed decision of the Court of Appeals is hereby 
+AFFIRMED with MODIFICATION.
+ The award of actual or compensatory damages and attorney's fees to private respondent, Tryco Pharma Corporation, is DELETED; instead, it is hereby awarded the amount of P20,000.00 as temperate or moderate damages.
+SO ORDERED.
+Puno, (Chairman), Panganiban, Sandoval-Gutierrez,
+ and 
+Corona, JJ.,
+ concur.
+[1]
+ Records, Exhibit "A" at 320-342.
+[2]
+ 
+Id.
+ at 340-341.
+[3]
+ Records at 1.
+[4]
+ 
+Id.
+ at 2-3.
+[5]
+ 
+Id.
+ at 4.
+[6]
+ 
+Id.
+ at 34.
+[7]
+ 
+Id.
+ at 250.
+[8]
+ Records at 35-40.
+[9]
+ Records at 454-462.
+[10]
+ Court of Appeals 
+Rollo
+ at 97-107.
+[11]
+ Supreme Court 
+Rollo
+ at 47-51.
+[12]
+ 
+Id.
+ at 8-33.
+[13]
+ Supreme Court 
+Rollo
+ at 119-122.
+[14]
+ Supreme Court 
+Rollo
+ at 66-84.
+[15]
+ 
+Ramirez v. Court of Appeals,
+ 294 SCRA 512 [1998].
+[16]
+ 
+Vargas v. F. M. Yaptico Co.,
+ 40 Phil. 195 [1919].
+[17]
+ 69 C.J.S. 684.
+[18]
+ 69 C.J.S. 684 - 685.
+[19]
+ 
+Godines v. Court of Appeals,
+ 226 SCRA 338 [1993].
+[20]
+ 60 Am Jur 2d 631-632.
+[21]
+ 69 C. J. S. 860.
+[22]
+ 
+Malta v. Schulmerich Carillons, Inc.,
+ 13 U.S.P.Q. 2d 1900 [1989].
+[23]
+ 69 C.J.S. 455.
+[24]
+ 
+Ibid.
+[25]
+ TSN, March 30, 1990, pp. 15-16.
+[26]
+ TSN, May 11, 1990, pp. 3-5.
+[27]
+ 
+Integrated Packaging Corporation v. Court of Appeals,
+ 333 SCRA 170 [2000].
+[28]
+ 
+Producers Bank of the Philippines vs. Court of Appeals,
+ 365 SCRA 326 [2001].
+[29]
+ 
+ABS-CBN Broadcasting Corporation v. Court of Appeals,
+ 301 SCRA 572 [1999].
+[30]
+ Civil Code, art. 2224.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

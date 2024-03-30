@@ -1,0 +1,346 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			440 Phil. 29
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 133978, November 12, 2002 ]
+
+
+JOSE S. CANCIO, JR., REPRESENTED BY ROBERTO L. CANCIO, PETITIONER, VS. MERENCIANA ISIP, RESPONDENT.
+
+D E C I S I O N
+
+
+
+
+YNARES-SANTIAGO, J.:
+
+
+ 
+The instant petition for review under Rule 45 of the Rules of Court raises pure questions of law involving the March 20, 1998
+[1]
+ and June 1, 1998
+[2]
+ Orders
+[3]
+ rendered by the Regional Trial Court of Pampanga, Branch 49, in Civil Case No. G-3272. 
+ 
+ The undisputed facts are as follows: 
+ 
+Petitioner, assisted by a private prosecutor, filed three cases of Violation of B.P. No. 22 and three cases of Estafa, against respondent for allegedly issuing the following checks without sufficient funds, to wit: 1) Interbank Check No. 25001151 in the amount of P80,000.00; 2) Interbank Check No. 25001152 in the amount of P 80,000.00; and 3) Interbank Check No. 25001157 in the amount of P30,000.00.
+[4]
+ 
+ 
+The Office of the Provincial Prosecutor dismissed Criminal Case No. 13356, for Violation of B.P. No. 22 covering check no. 25001151 on the ground that the check was deposited with the drawee bank after 90 days from the date of the check. The two other cases for Violation of B.P. No. 22 (Criminal Case No. 13359 and 13360) were filed with and subsequently dismissed by the Municipal Trial Court of Guagua, Pampanga, Branch 1, on the ground of âfailure to prosecute.â
+[5]
+ 
+ 
+Meanwhile, the three cases for Estafa were filed with the Regional Trial Court of Pampanga, Branch 49, and docketed as Criminal Case Nos. G-3611 to G-3613. On October 21, 1997, after failing to present its second witness, the prosecution moved to dismiss the estafa cases against respondent. The prosecution likewise reserved its right to file a separate civil action arising from the said criminal cases. On the same date, the trial court granted the motions of the prosecution. Thus- 
+ 
+ 
+Upon motion of the prosecution for the dismissal of these cases without prejudice to the refiling of the civil aspect thereof and there being no comment from the defense, let these cases be dismissed without prejudice to the refiling of the civil aspect of the cases. 
+ 
+SO ORDER[ED].
+[6]
+ 
+ 
+ 
+On December 15, 1997, petitioner filed the instant case for collection of sum of money, seeking to recover the amount of the checks subject of the estafa cases. On February 18, 1998, respondent filed a motion to dismiss the complaint contending that petitionerâs action is barred by the doctrine of 
+res judicata
+. Respondent further prayed that petitioner should be held in contempt of court for forum-shopping.
+[7]
+ 
+ 
+On March 20, 1998, the trial court found in favor of respondent and dismissed the complaint. The court held that the dismissal of the criminal cases against respondent on the ground of lack of interest or failure to prosecute is an adjudication on the merits which amounted to 
+res judicata
+ on the civil case for collection. It further held that the filing of said civil case amounted to forum-shopping. 
+ 
+ On June 1, 1998, the trial court denied petitionerâs motion for reconsideration.
+[8]
+ Hence, the instant petition. 
+ 
+The legal issues for resolution in the case at bar are: 1) whether the dismissal of the estafa cases against respondent bars the institution of a civil action for collection of the value of the checks subject of the estafa cases; and 2) whether the filing of said civil action violated the anti-forum-shopping rule. 
+ 
+An act or omission causing damage to another may give rise to two separate civil liabilities on the part of the offender, i.e., (1) civil liability 
+ex delicto
+, under Article 100 of the Revised Penal Code;
+[9]
+ and (2) independent civil liabilities, such as those (a) not arising from an act or omission complained of as felony [e.g. culpa contractual or obligations arising from law under Article 31
+[10]
+ of the Civil Code,
+[11]
+ intentional torts under Articles 32
+[12]
+ and 34,
+[13]
+ and culpa aquiliana under Article 2176
+[14]
+ of the Civil Code]; or (b) where the injured party is granted a right to file an action independent and distinct from the criminal action [Article 33,
+[15]
+ Civil Code].
+[16]
+ Either of these two possible liabilities may be enforced against the offender subject, however, to the caveat under Article 2177 of the Civil Code that the offended party âcannot recover damages twice for the same act or omissionâ or under both causes.
+[17]
+ 
+ 
+The modes of enforcement of the foregoing civil liabilities are provided for in the Revised Rules of Criminal Procedure. Though the assailed order of the trial court was issued on March 20, 1998, the said Rules, which took effect on December 1, 2000, must be given retroactive effect in the instant case considering that statutes regulating the procedure of the court are construed as applicable to actions pending and undetermined at the time of their passage.
+[18]
+ 
+ 
+Section 1, Rule 111, of the Revised Rules of Criminal Procedure provides: 
+ 
+ 
+SECTION 1.
+ Institution of criminal and civil actions.
+ â (a) When a criminal action is instituted, the civil action for the recovery of civil liability arising from the offense charged shall be deemed instituted with the criminal action unless the offended party waives the civil action, reserves the right to institute it separately or institutes the civil action prior to the criminal action. 
+ 
+The reservation of the right to institute separately the civil action shall be made before the prosecution starts presenting its evidence and under circumstances affording the offended party a reasonable opportunity to make such reservation. 
+ 
+x x x x x x x x x 
+ 
+Where the civil action has been filed separately and trial thereof has not yet commenced, it may be consolidated with the criminal action upon application with the court trying the latter case. If the application is granted, the trial of both actions shall proceed in accordance with section 2 of this Rule governing consolidation of the civil and criminal actions. 
+ 
+ 
+Under the 1985 Rules on Criminal Procedure, as amended in 1988 and under the present Rules, the civil liability ex-delicto is deemed instituted with the criminal action, but the offended party is given the option to file a separate civil action before the prosecution starts to present evidence.
+[19]
+ 
+ 
+Anent the independent civil actions under Articles 31, 32, 33, 34 and 2176 of the Civil Code, the old rules considered them impliedly instituted with the civil liability ex-delicto in the criminal action, unless the offended party waives the civil action, reserves his right to institute it separately, or institutes the civil action prior to the criminal action. Under the present Rules, however, the independent civil actions may be filed separately and prosecuted independently even without any reservation in the criminal action. The failure to make a reservation in the criminal action is not a waiver of the right to file a separate and independent civil action based on these articles of the Civil Code.
+[20]
+ 
+ 
+In the case at bar, a reading of the complaint filed by petitioner show that his cause of action is based on culpa contractual, an independent civil action. Pertinent portion of the complaint reads: 
+ 
+ 
+x x x x x x x x x 
+ 
+2. That plaintiff is the owner/proprietor to CANCIOâS MONEY EXCHANGE with office address at Guagua, Pampanga; 
+ 
+3. That on several occasions, particularly on February 27, 1993 to April 17 1993, inclusive, defendant drew, issued and made in favor of the plaintiff the following checks: 
+ 
+CHECK NO. DATE AMOUNT 
+ 
+1. Interbank Check No. 25001151 March 10, 1993 P80,000.00 
+ 
+2. Interbank Check No. 25001152 March 27, 1993 P80,000.00 
+ 
+3. Interbank Check No. 25001157 May 17, 1993 P30,000.00 in exchange of cash with the assurance that the said checks will be honored for payment on their maturity dates, copy of the aforementioned checks are hereto attached and marked. 
+ 
+4. That when the said checks were presented to the drawee bank for encashment, the same were all dishonored for reason of DRAWN AGAINST INSUFFICIENT FUNDS (DAIF); 
+ 
+5. That several demands were made upon the defendant to make good the checks but she failed and refused and still fails and refuses without justifiable reason to pay plaintiff; 
+ 
+6. That for failure of the defendant without any justifiable reason to pay plaintiff the value of the checks, the latter was forced to hire the services of undersigned counsel and agreed to pay the amount of P30,000.00 as attorneyâs fees and P1,000.00 per appearance in court; 
+ 
+7. That for failure of the defendant without any justifiable reason to pay plaintiff and forcing the plaintiff to litigate, the latter will incur litigation expenses in the amount of P20,000.00. 
+ 
+IN VIEW OF THE FOREGOING, it is prayed of this Court that after due notice and hearing a judgment be rendered ordering defendant to pay plaintiff as follows: 
+ 
+a. the principal sum of P190,000.00 plus the legal interest; 
+ 
+b. attorneyâs fees of P30,000.00 plus P1,000.00 per court appearance; 
+ 
+c. litigation expenses in the amount of P20,000.00 
+ 
+PLAINTIFF prays for other reliefs just and equitable under the premises. 
+ 
+x x x x x x x x x.
+[21]
+ 
+ 
+ 
+Evidently, petitioner sought to enforce respondentâs obligation to make good the value of the checks in exchange for the cash he delivered to respondent. In other words, petitionerâs cause of action is the respondentâs breach of the contractual obligation. It matters not that petitioner claims his cause of action to be one based on delict.
+[22]
+ The nature of a cause of action is determined by the facts alleged in the complaint as constituting the cause of action. The purpose of an action or suit and the law to govern it is to be determined not by the claim of the party filing the action, made in his argument or brief, but rather by the complaint itself, its allegations and prayer for relief.
+[23]
+ 
+ 
+Neither does it matter that the civil action reserved in the October 21, 1997 order of the trial court was the civil action 
+ex delicto
+. To reiterate, an independent civil action arising from contracts, as in the instant case, may be filed separately and prosecuted independently even without any reservation in the criminal action. Under Article 31 of the Civil Code â[w]hen the civil action is based on an obligation not arising from the act or omission complained of as a felony, [e.g. culpa contractual] such civil action may proceed independently of the criminal proceedings and regardless of the result of the latter.â Thus, in Vitola, et al. v. Insular Bank of Asia and America,
+[24]
+ the Court, applying Article 31 of the Civil Code, held that a civil case seeking to recover the value of the goods subject of a Letter of Credit-Trust Receipt is a civil action ex contractu and not 
+ex delicto
+. As such, it is distinct and independent from the estafa case filed against the offender and may proceed regardless of the result of the criminal proceedings. 
+ 
+One of the elements of 
+res judicata
+ is identity of causes of action.
+[25]
+ In the instant case, it must be stressed that the action filed by petitioner is an independent civil action, which remains separate and distinct from any criminal prosecution based on the same act.
+[26]
+ Not being deemed instituted in the criminal action based on culpa criminal, a ruling on the culpability of the offender will have no bearing on said independent civil action based on an entirely different cause of action, i.e., culpa contractual. 
+ 
+In the same vein, the filing of the collection case after the dismissal of the estafa cases against respondent did not amount to forum-shopping. The essence of forum-shopping is the filing of multiple suits involving the same parties for the same cause of action, either simultaneously or successively, to secure a favorable judgment. Although the cases filed by petitioner arose from the same act or omission of respondent, they are, however, based on different causes of action. The criminal cases for estafa are based on culpa criminal while the civil action for collection is anchored on culpa contractual. Moreover, there can be no forum-shopping in the instant case because the law expressly allows the filing of a separate civil action which can proceed independently of the criminal action.
+[27]
+ 
+ 
+Clearly, therefore, the trial court erred in dismissing petitionerâs complaint for collection of the value of the checks issued by respondent. Being an independent civil action which is separate and distinct from any criminal prosecution and which require no prior reservation for its institution, the doctrine of 
+res judicata
+ and forum-shopping will not operate to bar the same. 
+ 
+WHEREFORE,
+ in view of all the foregoing, the instant petition is GRANTED. The March 20, 1998 and June 1, 1998 Orders of the Regional Trial Court of Pampanga, Branch 49, in Civil Case No. G-3272 are REVERSED and SET ASIDE. The instant case is REMANDED to the trial court for further proceedings. 
+ 
+SO ORDERED
+. 
+ 
+Davide, Jr., C.J., (Chairman), Vitug, Carpio
+, and 
+Azcuna, JJ., 
+concur. 
+ 
+ 
+ 
+ 
+[1]
+ Annex âEâ, Rollo, p. 38. 
+[2]
+ Annex âGâ, Rollo, p. 47. 
+ 
+[3]
+ Penned by Judge Rogelio C. Gonzales. 
+ 
+[4]
+ Rollo, p. 29. 
+ 
+[5]
+ Order dated May 18, 1995, Rollo, p. 33. 
+ 
+[6]
+ Rollo, p. 24. 
+ 
+[7]
+ Rollo, p. 30. 
+ 
+[8]
+ Rollo, p. 47. 
+ 
+[9]
+ Article 100. Every person criminally liable for a felony is also civilly liable. 
+ 
+[10]
+ ART. 31. When the civil action is based on an obligation not arising from the act or omission complained of as a felony, such civil action may proceed independently of the criminal proceedings and regardless of the result of the latter. 
+ 
+[11]
+ Bernaldes, Sr. v. Bohol Land Transportation, Inc., 7 SCRA 276, 279 [1963]. 
+ 
+[12]
+ ART. 32. Any public officer or employee, or any private individual, who directly or indirectly obstructs, defeats, violates or in any manner impedes or impairs any of the following rights and liberties of another person shall be liable to the latter for damages; 
+ 
+ 
+(1) Freedom of religion; 
+ 
+(2) Freedom of speech; 
+ 
+(3) Freedom to write for the press or to maintain a periodical publication; 
+ 
+(4) Freedom from arbitrary or illegal detention;
+ 
+(5) Freedom of suffrage; 
+ 
+(6) The right against deprivation of property without due process of law; 
+ 
+(7) The right to a just compensation when private property is taken for public use; 
+ 
+(8) The right to the equal protection of the laws; 
+ 
+(9) The right to be secure in one's person, house, papers, and effects against unreasonable searches and seizures; 
+ 
+(10) The liberty of abode and of changing the same; 
+ 
+(11) The privacy of communication and correspondence; 
+ 
+(12) The right to become a member of associations or societies for purposes not contrary to law; 
+ 
+(13) The right to take part in a peaceable assembly to petition the Government for redress of grievances; 
+ 
+(14) The right to be free from involuntary servitude in any form;
+ 
+(15) The right of the accused against excessive bail; 
+ 
+(16) The right of the accused to be heard by himself and counsel, to be informed of the nature and cause of the accusation against him, to have a speedy and public trial, to meet the witnesses face to face, and to have compulsory process to secure the attendance of witness in his behalf; 
+ 
+(17) Freedom from being compelled to be a witness against one's self, or from being forced to confess guilt, or from being induced by a promise of immunity or reward to make such confession, except when the person confessing becomes a State witness; 
+ 
+(18) Freedom from excessive fines, or cruel and unusual punishment, unless the same is imposed or inflicted in accordance with a statute which has not been judicially declared unconstitutional; and 
+ 
+(19) Freedom of access to the courts. 
+ 
+ 
+In any of the cases referred to in this article, whether or not the defendant's act or omission constitutes a criminal offense, the aggrieved party has a right to commence an entirely separate and distinct civil action for damages, and for other relief. Such civil action shall proceed independently of any criminal prosecution (if the latter be instituted), and may be proved by a preponderance of evidence. 
+ 
+The indemnity shall include moral damages. Exemplary damages may also be adjudicated. 
+ 
+The responsibility herein set forth is not demandable from a judge unless his act or omission constitutes a violation of the Penal Code or the penal statute. 
+ 
+[13]
+ ART. 34. When a member of a city or municipal police force refuses or fails to render aid or protection to any person in case of danger to life or property, such peace officer shall be primarily liable for damages, and the city or municipality shall be subsidiarily responsible therefor. The civil action herein recognized shall be independent of any criminal proceedings, and a preponderance of evidence shall suffice to support such action. 
+ 
+[14]
+ ART. 2176. Whoever by act or omission causes damage to another, there being fault or negligence, is obliged to pay for the damage done. Such fault or negligence, if there is no pre-existing contractual relation between the parties, is called a quasi-delict and is governed by the provisions of this Chapter. 
+ 
+[15]
+ ART. 33. In cases of defamation, fraud, and physical injuries, a civil action for damages, entirely separate and distinct from the criminal action, may be brought by the injured party. Such civil action shall proceed independently of the criminal prosecution, and shall require only a preponderance of evidence. 
+ 
+[16]
+ Vitug, Civil Law and Jurisprudence, pp. 25-26 [1993 ed.]. 
+ 
+[17]
+ Jarantilla v. Court of Appeals, et al., 171 SCRA 429, 436 [1989], citing Barredo v. Garcia, et al., 73 Phil. 607 [1942]; Mendoza v. Arrieta, 91 SCRA 113 [1979]; Padilla v. Court of Appeals, et al., 129 SCRA 558 [1984]. 
+ 
+[18]
+ Casupanan v. Laroya, G.R. No. 145391, August 26, 2002, citing People v. Arrojado, 350 SCRA 679 [2001] ; Ocampo v. Court of Appeals, 180 SCRA 27 [1989]; Alday v. Camilon, 120 SCRA 521 [1983]; People v. Sumilang, 77 Phil. 764 [1946]. 
+ 
+[19]
+ Ibid. 
+ 
+[20]
+ Id. 
+ 
+[21]
+ Annex âBâ, Rollo, pp. 25-26. 
+ 
+[22]
+ Rollo, p. 18. 
+ 
+[23]
+ Dulay, et al. v. Court of Appeals, et al., 243 SCRA 220, 227-228 [1995], citing Republic v. Estenzo, 158 SCRA 282 [1988]; De Tavera v. Philippine Tuberculosis Society, 112 SCRA 243 [1982]. 
+ 
+[24]
+ 150 SCRA 578, 585-586 [1987] . 
+ 
+[25]
+ Elements of 
+res judicata
+: 1) the judgment sought to bar the new action must be final; (2) the decision must have been rendered by a court having jurisdiction over the subject matter and the parties; (3) the disposition of the case must be a judgment on the merits; and (4) there must be between the first and second action, identity of parties, subject matter and causes of action. (Quezon Province v. Honorable Abelio M. Marte, G.R. No. 139274, October 23, 2001, citing Esperas v. Court of Appeals, 341 SCRA 583 [2000]. 
+ 
+[26]
+ Neplum, Inc. v. Orbeso, G.R. No. 141986, July 11, 2002. 
+ 
+[27]
+ Casupanan v. Laroya, supra, citing Melo v. Court of Appeals, 318 SCRA 94 [1999]; International School, Inc. (Manila) v. Court of Appeals, 309 SCRA 474 [1999].
+ 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

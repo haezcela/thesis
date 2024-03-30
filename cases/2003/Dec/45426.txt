@@ -1,0 +1,439 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			462 Phil. 694
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 136960, December 08, 2003 ]
+
+
+IRON BULK SHIPPING PHILIPPINES, CO., LTD., PETITIONER, VS. REMINGTON INDUSTRIAL SALES CORPORATION, RESPONDENT. 
+DECISION
+
+
+
+
+AUSTRIA-MARTINEZ, J.:
+
+
+Before us is a petition for review on certiorari under Rule 45 of the Rules of Court assailing the August 28, 1998 Decision
+[1]
+ and the December 24, 1998 Resolution of the Court of Appeals in CA-G.R. CV No. 49725,
+[2]
+ affirming 
+in toto
+ the decision of the Regional Trial Court of Manila (Branch 9).
+The factual background of the case is summarized by the appellate court, thus:
+ Sometime in the latter part of 1991, plaintiff Remington Industrial Sales Corporation (hereafter Remington for short) ordered from defendant Wangs Company, Inc. (hereafter Wangs for short) 194 packages of hot rolled steel sheets, weighing 686.565 metric tons, with a total value of $219,380.00, then equivalent to P6,469,759.17.  Wangs forwarded the order to its supplier, Burwill (Agencies) Ltd., in Hongkong.  On or about November 26, 1991, the 194 packages were loaded on board the vessel MV `Indian Reliance' at the Port of Gdynia, Poland, for transportation to the Philippines, under Bill of Lading No. 27 (Exh. `C'). The vessel's owner/charterer is represented in the Philippines by defendant Iron Bulk Shipping Phils., Inc. (hereafter Iron Bulk for short).
+Remington had the cargo insured for P6,469,759.17 during the voyage by Marine Insurance Policy No. 7741 issued by defendant Pioneer Asia Insurance Corporation (hereafter Pioneer for short).
+On or about January 3, 1992, the MV `Indian Reliance' arrived in the Port of Manila, and the 194 packages of hot rolled steel sheets were discharged from the vessel.  The cargo was inspected twice by SGS Far East Ltd. and found to be wet (with slight trace of salt) and rusty, extending from 50
+%
+ to 80
+%
+ of each plate. Plaintiff filed formal claims for loss amounting to P544,875.17 with Pioneer, Iron Bulk, Manila Port Services, Inc. (MPS) and ESE Brokerage Corporation (ESE).  No one honored such claims.
+Thus, plaintiff filed an action for collection, plus attorney's fees, against Wangs, Pioneer and Iron Bulk. . . ."
+[3]
+and affirmed 
+in toto
+ the following findings of the trial court, on February 1, 1995, to wit:
+ ...
+The evidence on record shows that the direct and immediate cause of the rusting of the goods imported by the plaintiff was the water found inside the cargo hold of M/V `Indian Reliance' wherein those goods were stored during the voyage, particularly the water found on the surface of the merchandise and on the floor of the vessel hatch.  And even at the time the cargoes were being unloaded by crane at the Pier of Manila, Iron Bulk's witnesses noticed that water was dripping from the cargoes.  (TSN dated July 20, 1993, pp. 13-14; TSN dated May 30, 1994, pp. 8-9, 14, 24-25; TSN dated June 3, 1994, pp. 31-32; TSN dated July 14, 1994, pp. 10-11).
+SGS Far East Limited, an inspection agency hired by defendant Wangs, issued Certificate of Inspection and Analysis No 6401/35071 stating the following findings:
+ Results of tests indicated that a very slight trace of salt was present in the sample as confirmed by the test of Sodium.  The results however does not necessarily indicate that the rusty condition of the material was caused by seawater.
+Tan-Gatue Adjustment Co., Inc., a claims adjustment firm hired by defendant Pioneer, submitted a Report (Exh. 10-Pioneer) dated February 20, 1992 to Pioneer which pertinently reads as follows:
+ All the above 3,971 sheets were heavily rusty at sides/ends/edges/surfaces.  Pieces of cotton were rubbed by us on different rusty steel sheets and submitted to Precision Analytical Services, Inc. to determine the cause of wetting. Result thereof as per Laboratory Report No. 077-92 of this firm showed that:  `The sample was wetted/contaminated by fresh water.
+After considering the foregoing test results and the other evidence on record, the Court found no clear and sufficient proof showing that the water which stayed in the cargo hold of the vessel and which contaminated the merchandise was seawater.  The Court, however, is convinced that the subject goods were exposed to salt conditions as evidenced by the presence of about 17
+%
+ Sodium on the rust sample tested by SGS.
+As to the source of the water found in the cargo hold, there is also no concrete and competent evidence on record establishing that such water leaked from the pipe installed in Hatch No. 1 of M/V `Indian Reliance', as claimed by plaintiff. Indeed, the plaintiff based such claim only from information it allegedly received from its supplier, as stated in its letter to defendant Iron Bulk dated March 28, 1992 (Exh. K-3).  And no one took the witness stand to confirm or establish the alleged leakage.
+Nevertheless, since Iron Bulk's own evidence shows that there was water inside the cargo hold of the vessel and that the goods stored therein were wet and full of rust, without sufficient explanation on its part as to when and how water found its way into the vessel holds, the Court finds and so holds that Iron Bulk failed to exercise the extraordinary diligence required by law in the handling and transporting of the goods.
+. . . . .
+Iron Bulk did not even exercise due diligence because admittedly, water was dripping from the cargoes at the time they were being discharged from the vessel.  Had Iron Bulk done so, it could have discovered by ordinary inspection that the cargo holds and the cargoes themselves were affected by water and it could have provided some remedial measures to prevent or minimize the damage to the cargoes.  But it did not, showing its lack of care and diligence over the goods.
+Besides, since the goods were undoubtedly damaged, and as Iron Bulk failed to establish by any clear and convincing evidence any of the exempting causes provided for in Article 1734 of the Civil Code, it is presumed to have been at fault or to have acted negligently.
+. . . . .
+WHEREFORE, the Court finding preponderance of evidence for the plaintiff hereby renders judgment in favor of it and against all the defendants herein as follows: 
+Ordering defendant Pioneer Asia Insurance Corporation to pay plaintiff the following amounts:
+a) P544,875.17 representing the loss allowance for the goods insured, plus interest at the legal rate (6
+%
+ p.a.) reckoned from the time of filing of this case until full payment is made;
+b) P50,000.00 for and as attorney's fees; and
+c) the cost of suit.
+Ordering defendant Iron Bulk Shipping Co. Inc. immediately upon payment by defendant Pioneer of the foregoing award to the plaintiff, to reimburse defendant Pioneer the total amount it paid to the plaintiff, in respect to its right of subrogation.
+Denying the counterclaims of all the defendants and the cross-claim of defendant Wangs Company, Incorporated and Iron Bulk Shipping Co., Inc. for lack of merit.
+Granting the cross-claim of defendant Pioneer Asia Insurance Corporation against defendant Iron Bulk by virtue of its right of subrogation.
+Dismissing the case against defendant Wangs Company, Inc. 
+ SO ORDERED.
+[4]
+Only Iron Bulk filed the present petition raising the following Assignment of Errors:
+ FIRSTLY, the Court of Appeals erred in its insistent reliance on the pro forma Bills of Lading to establish the condition of the cargo upon loading;
+SECONDLY, the Court of Appeals erred in not exculpating petitioner since the cargo was not contaminated during the time the same was in possession of the vessel, as evidenced by the express finding of the lower court that the contamination and rusting was chemically established to have been caused by fresh water;
+THRIDLY, the Court of Appeals erred in making a sweeping finding that the petitioner as carrier failed to exercise the requisite diligence under the law, which is contrary to what is demonstrated by the evidence adduced; and
+FINALLY, the Court of Appeals erred in affirming the amount of damages adjudicated by the Court below, which is at best speculative and not supported by damages.
+[5]
+The general rule is that only questions of law are entertained in petitions for review by certiorari under Rule 45 of the Rules of Court.  The trial court's findings of fact, which the Court of Appeals affirmed, are generally binding and conclusive upon this court.
+[6]
+ There are recognized exceptions to this rule, among which are: (1) the conclusion is grounded on speculations, surmises or conjectures; (2) the inference is manifestly mistaken, absurd or impossible; (3) there is grave abuse of discretion; (4) the judgment is based on a misapprehension of facts; (5) the findings of facts are conflicting; (6) there is no citation of specific evidence on which the factual findings are based; (7) the finding of absence of facts is contradicted by the presence of evidence on record; (8) the findings of the CA are contrary to the findings of the trial court; (9) the CA manifestly overlooked certain relevant and undisputed facts that, if properly considered, would justify a different conclusion; (10) the findings of the CA are beyond the issues of the case; and (11) such findings are contrary to the admissions of both parties.
+[7]
+ Petitioner failed to demonstrate that its petition falls under any one of the above exceptions, except as to damages which will be discussed forthwith.
+Anent the first assigned error: That the Court of Appeals erred in relying on the pro forma Bills of Lading to establish the condition of the cargo upon landing.
+There is no merit to petitioner's contention that the Bill of Lading covering the subject cargo cannot be relied upon to indicate the condition of the cargo upon loading.  It is settled that a bill of lading has a two-fold character. In 
+Phoenix Assurance Co., Ltd. vs. United States Lines
+, we held that:
+ [A] bill of lading operates both as a receipt and as a contract. It is a receipt for the goods shipped and a contract to transport and deliver the same as therein stipulated.  As a receipt, it recites the date and place of shipment, describes the goods as to quantity, weight, dimensions, identification marks and condition, quality and value.  As a contract, it names the contracting parties, which include the consignee, fixes the route, destination, and freight rate or charges, and stipulates the rights and obligations assumed by the parties.
+[8]
+We find no error in the findings of the appellate court that the questioned bill of lading is a clean bill of lading, i.e., it does not indicate any defect in the goods covered by it, as shown by the notation, "CLEAN ON BOARD"
+[9]
+ and "Shipped at the Port of Loading in apparent good condition on board the vessel for carriage to Port of Discharge".
+[10]
+Petitioner presented evidence to prove that, contrary to the recitals contained in the subject bill of lading, the cargo therein described as clean on board is actually wet and covered with rust.  Indeed, having the nature of a receipt, or an acknowledgement of the quantity and condition of the goods delivered, the bill of lading, like any other receipts, may be explained, varied or even contradicted.
+[11]
+  However, we agree with the Court of Appeals that far from contradicting the recitals contained in the said bill, petitioner's own evidence shows that the cargo covered by the subject bill of lading, although it was partially wet and covered with rust was, nevertheless, found to be in a "fair, usually accepted condition" when it was accepted for shipment.
+[12]
+The fact that the issued bill of lading is 
+pro forma
+ is of no moment.  If the bill of lading is not truly reflective of the true condition of the cargo at the time of loading to the effect that the said cargo was indeed in a damaged state, the carrier could have refused to accept it, or at the least, made a marginal note in the bill of lading indicating the true condition of the merchandise.  But it did not.  On the contrary, it accepted the subject cargo and even agreed to the issuance of a clean bill of lading without taking any exceptions with respect to the recitals contained therein.  Since the carrier failed to annotate in the bill of lading the alleged damaged condition of the cargo when it was loaded, said carrier and the petitioner, as its representative, are bound by the description appearing therein and they are now estopped from denying the contents of the said bill.
+Petitioner presented in evidence the Mate's Receipts
+[13]
+ and a Survey Report
+[14]
+ to prove the damaged condition of the cargo. However, contrary to the asseveration of petitioner, the Mate's Receipts and the Survey Report which were both dated November 6, 1991, are unreliable evidence of the true condition of the shipment at the time of loading since said receipts and report were issued twenty days prior to loading and before the issuance of the clean bill of lading covering the subject cargo on November 26, 1991.  Moreover, while the surveyor, commissioned by the carrier to inspect the subject cargo, found the inspected steel goods to be contaminated with rust he, nonetheless, estimated the merchandise to be in a fair and usually accepted condition.
+Anent the second and third assigned errors:  That the Court of Appeals erred in not finding that the contamination and rusting was chemically to have been caused by fresh water; and that the appellate court erred in finding that petitioner failed to exercise the requisite diligence under the law.
+Petitioner's arguments in support of the assigned errors are not plausible.  Even granting, for the sake of argument, that the subject cargo was already in a damaged condition at the time it was accepted for transportation, the carrier is not relieved from its responsibility to exercise due care in handling the merchandise and in employing the necessary precautions to prevent the cargo from further deteriorating.  It is settled that the extraordinary diligence in the vigilance over the goods tendered for shipment requires the common carrier to know and to follow the required precaution for avoiding damage to, or destruction of the goods entrusted to it for safe carriage and delivery.
+[15]
+ It requires common carriers to render service with the greatest skill and foresight and to use all reasonable means to ascertain the nature and characteristic of goods tendered for shipment, and to exercise due care in the handling and stowage, including such methods as their nature requires.
+[16]
+ Under Article 1742 of the Civil Code, even if the loss, destruction, or deterioration of the goods should be caused, among others, by the character of the goods, the common carrier must exercise due diligence to forestall or lessen the loss.  This extraordinary responsibility lasts from the time the goods are unconditionally placed in the possession of, and received by the carrier for transportation until the same are delivered, actually or constructively, by the carrier to the consignee, or to the person who has a right to receive them.
+[17]
+ In the instant case, if the carrier indeed found the steel sheets to have been covered by rust at the time that it accepted the same for transportation, such finding should have prompted it to apply additional safety measures to make sure that the cargo is protected from corrosion.  This, the carrier failed to do.
+Article 1734 of the Civil Code states that:
+ Common carriers are responsible for the loss, destruction or deterioration of the goods, unless the same is due to any of the following causes only:
+(1)     Flood, storm, earthquake, lightning, or other natural disaster or calamity;
+(2)     Act of the public enemy in war, whether international or civil;
+(3)     Act or omission of the shipper or owner of the goods;
+(4)     The character of the goods or defects in the packing or in the containers;
+(5)     Order or act of competent public authority.
+Except in the cases mentioned under Article 1734, if the goods are lost, destroyed or deteriorated, common carriers are presumed to have been at fault or to have acted negligently, unless they prove that they observed extraordinary diligence as required under the law.
+[18]
+ The Court of Appeals did not err in finding that no competent evidence was presented to prove that the deterioration of the subject cargo was brought about by any of the causes enumerated under the aforequoted Article 1734 of the said Code.  We likewise agree with appellate court's finding that the carrier failed to present proof that it exercised extraordinary diligence in its vigilance over the goods.  The presumption that the carrier was at fault or that it acted negligently was not overcome by any countervailing evidence.
+Anent the last assigned error: That the Court of Appeals erred in affirming the amount of damages awarded by the trial court.
+We agree with the contention of the petitioner in its last assigned error that the amount of damages adjudicated by the trial court and affirmed by the appellate court is not in consonance with the evidence presented by the parties.  The judgments of both lower courts are based on misapprehension of facts as we find no competent evidence to prove the actual damages sustained by respondent.
+Based on the Packing List issued by Burwill (Agencies) Limited, the supplier of the steel sheets, the cargo consigned to Remington consisted of hot rolled steel sheets with lengths of eight feet and twenty feet.  The eight-foot length steel sheets contained in 142 packages had a weight of 491.54 metric tons while the twenty-foot steel sheets which were contained in 52 packages weighed 194.25 metric tons.
+[19]
+ The goods were valued at $320.00 per metric ton.
+[20]
+It is not disputed that at the time of inspection of the subject merchandise conducted by SGS Far East Limited on January 21-24, 1992 and January 27-28, 1992, only 30
+%
+ of said goods originally consigned to Remington was available for examination at Remington's warehouse in Manila and that Remington had already disposed of the remaining 70
+%
+.  In the Certificate of Inspection issued by SGS, dated February 18, 1992, it was reported that the surface of the steel sheets with length of twenty feet were found to be rusty "extending from 60
+%
+ to 80
+%
+ per plate".
+[21]
+ However, there was no proof to show how many metric tons of twenty-foot and eight-foot length steel sheets, respectively, comprise the remaining 30
+%
+ of the cargo.  No competent evidence was presented to prove the weight of the remaining twenty-foot length steel sheets, on the basis of which the amount of actual damages could have been ascertained.
+Remington claims that 70
+%
+ of the twenty-foot length steel sheets were damaged.  Remington's general manager, Rowina Tan Saban, testified that the "70
+%
+" figure was based on the reports submitted by SGS and Tan-Gatue and Remington's independent survey to confirm these reports.
+[22]
+  Saban further testified that on the basis of these reports, Remington came up with a summary of the amount of damages sustained by the subject cargo, to wit: 
+ 
+ 
+ 
+Plates 8 ft lengths 
+ 
+491.540 MT -
+ 
+US$157,292.80
+ 
+ 
+ 
+Quantity Damaged                                                               
+ 
+ 
+25
+%
+ 
+ 
+ 
+Loss Allowance                                                                    
+ 
+ 
+13
+%
+ 
+ 
+ 
+Total Plates 8 ft lengths 
+ 
+ 
+US$ 15,211.56
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Plates 20 ft lengths 
+ 
+194.025 MT - 
+ 
+US$ 62,088.00
+ 
+ 
+ 
+Quantity Damaged                                                               
+ 
+ 
+70
+%
+ 
+ 
+ 
+Loss Allowance
+ 
+ 
+ 
+35
+%
+ 
+ 
+ 
+Total Plates 20 ft lengths 
+ 
+ 
+P544,875.71
+ 
+ 
+with the following detailed computation:
+ 
+ 
+ 
+Plates under 8 ft lengths 491.540 MT @ 
+ 
+      $320./MT
+ 
+ 
+ 
+ 
+ 
+US $157,292.80
+ 
+ 
+ 
+Multiply by
+ 
+ 25
+%
+ Qty. damaged                      
+ 
+      $  39,323.20
+ 
+ 
+ 
+ 
+ 
+13
+% 
+Loss allowance    
+ 
+      $    5,112.02
+ 
+ 
+ 
+Plates under 20 ft. lengths 194.025 MT @
+ 
+      $320./MT 
+ 
+ 
+ 
+ 
+ 
+US $  62,088.00
+ 
+ 
+ 
+Multiple
+ 
+ 70
+%
+ Qty. damaged              
+ 
+US $  43,461.60
+ 
+ 
+ 
+ 
+ 
+35
+% 
+Loss allowance                
+ 
+      $  15,211.56
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total claim
+ 
+ US $ 5,112.02
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+$15,211.56
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+US $20,323.58 @ $26.81 = P544,875.17
+ 
+ 
+ 
+ 
+and which the trial court based the actual damages awarded in favor of Remington.
+However, after a careful examination of the reports submitted by SGS and Tan-Gatue, we find nothing in the said reports and computation to justify the claim of Remington that 70
+%
+ of the twenty-foot length steel sheets were damaged.  Neither does the alleged survey conducted by Remington consisting only of photographs,
+[23]
+ prove the quantity of the damaged cargo.
+As to the eight-foot length steel sheets, SGS reported that they were found oiled all over which makes it hard to determine the rust condition on its surface.
+[24]
+ On the other hand, the report issued by Tan-Gatue did not specify the extent of damage done to the said merchandise.
+[25]
+ There is also no proof of the weight of the remaining eight-foot length steel sheets.  From the foregoing, it is evident that the extent of actual damage to the subject cargo is likewise not satisfactorily proven.
+It is settled that actual or compensatory damages are not presumed and should be proven before they are awarded.  In 
+Spouses Quisumbing vs. Meralco
+[26]
+, we held that
+ Actual damages are compensation for an injury that will put the injured party in the position where it was before it was injured.  They pertain to such injuries or losses that are actually sustained and susceptible of measurement.  Except as provided by law or stipulation, a party is entitled to an adequate compensation only for such pecuniary loss as it has duly proven.
+Hence, for failure of Remington to present sufficient evidence which is susceptible of measurement, it is not entitled to actual damages.
+Nonetheless, since it was established that the subject steel sheets sustained damage by reason of the negligence of the carrier, albeit no competent proof was presented to justify the award of actual damages, we find that Remington is entitled to temperate damages in accordance with Articles 2216, 2224 and 2225 of the Civil Code, to wit:
+ Art. 2216.      No proof of pecuniary loss is necessary in order that moral, nominal, temperate, liquidated or exemplary damages may be adjudicated. The assessment of such damages, except liquidated ones, is left to the discretion of the court, according to the circumstances of each case.
+Art. 2224.      Temperate or moderate damages, which are more than nominal but less than compensatory damages, may be recovered when the court finds that some pecuniary loss has been suffered but its amount cannot, from the nature of the case, be proved with certainty.
+Art. 2225.      Temperate damages must be reasonable under the circumstances.
+Thirty percent of the alleged cost of damages, i.e., P544, 875.17 or P165,000.00 is reasonable enough for temperate damages.
+We likewise agree with petitioner's claim that it should not be held liable for the payment of attorney's fees because it was always willing to settle its liability by offering to pay 30
+%
+ of Remington's claim and that it is only Remington's unwarranted refusal to accept such offer that led to the filing of the instant case.  As found earlier, there is no evidence that the 70
+%
+ of the 20-foot length steel sheets which had been disposed of had been damaged.  Neither is there competent evidence proving the actual extent of damage sustained by the eight-foot length steel sheets.  Petitioner was therefore justified in refusing to satisfy the full amount of Remington's claims.
+WHEREFORE, the assailed Decision of the Court of Appeals dated August 28, 1998 and the Resolution dated December 24, 1998, in CA-G.R. CV No. 49725 are MODIFIED as follows:  The award of actual damages and attorney's fees are deleted.  Respondent is awarded temperate damages in the amount of P165,000.00.  In all other respects, the appealed decision and resolution are affirmed.
+No pronouncement as to costs.
+SO ORDERED.
+Puno, (Chairman), Quisumbing, Callejo, Sr.
+, and 
+Tinga. JJ.
+, concur.
+ 
+[1]
+ Penned by Justice Hector L. HofileÃ±a, concurred in by Justices Minerva P. Gonzaga-Reyes and Omar U. Amin.
+[2]
+ Entitled, "Remington Industrial Sales Corporation, Plaintiff, versus Wangs Company Incorporated, Iron Bulk Shipping Co., Ltd., and Pioneer Asia Insurance Corporation, Defendants".
+[3]
+ CA Records, pp. 196-197.
+[4]
+ Original Records, pp. 440-447.
+[5]
+ Rollo, pp. 9-10.
+[6]
+ Ermac vs. Ermac, G.R. No. 149679, May 30, 2003.
+[7]
+ Larena vs. Mapili, G.R. No. 146341, August 7, 2003.
+[8]
+ 22 SCRA 674, 678 (1968).
+[9]
+ Exhibit "1-A", OR, p. 307.
+[10]
+ Exhibit "1-B", OR, p. 307.
+[11]
+ Commentaries and Jurisprudence on the Commercial Laws of the Philippines, Agbayani, 1983 Edition, p. 119.
+[12]
+ Exhibit "7-E-Iron Bulk", OR, pp. 700-706.
+[13]
+ Exhibits "5-A" to "5-V-Iron Bulk", OR, pp. 666-687.
+[14]
+ Exhibit "7-E-Iron Bulk", 
+supra
+.
+[15]
+ Compania Maritima vs. Court of Appeals, 164 SCRA 685, 691-692 (1988).
+[16]
+ 
+Ibid
+.
+[17]
+ Article 1736, Civil Code.
+[18]
+ Article 1735, Civil Code.
+[19]
+ Exhibit "D"/"2-Wangs", OR, p. 518.
+[20]
+ 
+Ibid
+.
+[21]
+ Exhibit "I-1", OR, p. 531.
+[22]
+ TSN, July 20, 1993, pp. 7-17.
+[23]
+ Exhibits "MTC" to "MTC-7", OR, pp. 547-549.
+[24]
+ Exhibit "I-1", supra.
+[25]
+ Exhibit "R", "10-Pioneer", OR, pp. 627-629.
+[26]
+ G.R. No. 142943, April 3, 2002.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

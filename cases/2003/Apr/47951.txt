@@ -1,0 +1,284 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			448 Phil. 643
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 150978, April 03, 2003 ]
+
+
+POWTON CONGLOMERATE
+[1]
+, INC., AND PHILIP C. CHIEN, PETITIONERS, VS. JOHNNY AGCOLICOL, RESPONDENT.
+D E C I S I O N
+
+
+
+
+YNARES-SANTIAGO, J.:
+
+
+In a contract to build a structure or any other work for a stipulated price, the contractor cannot demand an increase in the contract price on account of higher cost of labor or materials, unless there has been a change in the plan and specification which was authorized in writing by the other party and the price has been agreed upon in writing by both parties.
+[2]
+This is a petition for review on 
+certiorari
+ assailing the September 3, 2001 Decision
+[3]
+ of the Court of Appeals in CA-G.R. CV No. 65100, and its December 5, 2001 Resolution
+[4]
+ denying petitionerâs motion for reconsideration.
+Sometime in November 1990, respondent Johnny Agcolicol, proprietor of Japerson Engineering, entered into an âElectrical Installation Contractâ with Powton Conglomerate, Inc. (Powton), thru its President and Chairman of the Board, Philip C. Chien. For a contract price of 
+P
+5,300,000.00, respondent undertook to provide electrical works as well as the necessary labor and materials for the installation of electrical facilities at the Ciano Plaza Building owned by Powton, located along M. Reyes Street, corner G. Mascardo Street, Bangkal, Makati, Metro Manila.
+[5]
+ In August 1992, the City Engineerâs Office of Makati inspected the electrical installations at the Ciano Plaza Building and certified that the same were in good condition. Hence, it issued the corresponding certificate of electrical inspection.
+On December 16, 1994, respondent filed with the Regional Trial Court of Pasay City, Branch 115, the instant complaint for sum of money against the petitioners.
+[6]
+ He alleged that despite the completion of the electrical works at Ciano Plaza Building, the latter only paid the amount of 
+P
+5,031,860.40, which is equivalent to more than 95% of the total contract price, thereby leaving a balance of 
+P
+268,139.80. Respondent likewise claimed the amount of 
+P
+722,730.38 as additional electrical works which were necessitated by the alleged revisions in the structural design of the building.
+[7]
+In their answer, petitioners contended that they cannot be obliged to pay the balance of the contract price because the electrical installations were defective and were completed beyond the agreed period.
+[8]
+ During the trial, petitioner Chien testified that they should not be held liable for the additional electrical works allegedly performed by the petitioner because they never authorized the same.
+[9]
+At the pre-trial conference, the parties stipulated, 
+inter alia
+, that the unpaid balance claimed by the respondent is 
+P
+268,139.60 and the cost of additional work is 
+P
+722,730.38.
+[10]
+On August 16, 1999, a decision was rendered awarding the respondent the total award of 
+P
+990,867.38 representing the unpaid balance and the costs of additional works. The dispositive portion thereof reads:
+Wherefore, this Court renders its judgment in favor of the plaintiff and orders the defendants Powton Congolmerate and Philip C. Chien to pay the plaintiff, jointly and severally, the amount of 
+P
+990,867.38 representing their total unpaid obligations plus legal interest from the time of the filing of this complaint. No pronouncement as to costs.
+SO ORDERED.
+[11]
+Aggrieved, petitioners appealed to the Court of Appeals which, however, affirmed the decision of the trial court.
+[12]
+ The motion for reconsideration was likewise denied.
+[13]
+Hence, the instant petition.
+Is the petitioner liable to pay the balance of the contract price and the increase in costs brought about by the revision of the structural design of the Ciano Plaza Building?
+The petition is partly meritorious.
+We agree with the findings of both the trial court and the Court of Appeals that petitioners failed to show that the installations made by respondent were defective and completed beyond the agreed period. The justification cited by petitioners for not paying the balance of the contract price is the self-serving allegation of petitioner Chien. Pertinent portion of his testimony, reads:
+COURT:
+ 
+ 
+Q:
+You are telling the Court that you did not accept the job because it is not yet complete. That is [a] general statement.
+ 
+ATTY. FLORENCIO:
+ 
+ 
+Q:
+Why did you say that the job was not yet complete?
+ 
+COURT: Specify.
+ 
+WITNESS:
+ 
+ 
+ 
+A:
+I am not an electrical engineer but my men. . .we also get independent engineer to certify that the job was not complete, your Honor.
+ 
+COURT:
+ 
+ 
+ 
+Q:
+You mean to say you hired an independent electrical engineer and he certified that the job is not yet complete and there is danger?
+ 
+WITNESS:
+ 
+A:
+Yes, your Honor.
+ 
+COURT:
+ 
+ 
+Q:
+You have to present that engineer.
+ 
+ATTY. FLORENCIO:
+A:
+Yes, your Honor.
+[14]
+Notwithstanding the above promise, petitioners never presented the engineer or any other competent witness to testify on the matter of delay and defects. Having failed to present sufficient proof, petitionersâ bare assertion of unsatisfactory and delayed installation will not justify their non-payment of the balance of the contract price. Hence, we affirm the ruling of the trial court and the Court of Appeals ordering petitioners to pay the balance of 
+P
+268,139.80.
+In awarding additional costs to respondent, both the trial court and the Court of Appeals sweepingly applied the principle of unjust enrichment without discussing the relevance in the instant case of Article 1724 of the Civil Code, which provides:
+Art. 1724. The contractor who undertakes to build a structure or any other work for a stipulated price, in conformity with plans and specifications agreed upon with the landowner, can neither withdraw from the contract nor demand an increase in the price on account of the higher cost of labor or materials, save when there has been a change in the plans and specifications, provided:
+(1) Such change has been authorized by the proprietor in writing; and
+(2) The additional price to be paid to the contractor has been determined in writing by both parties.
+Article 1724 of the Civil Code was copied from Article 1593 of the Spanish Civil Code,
+[15]
+ which provided as follows:
+No architect or contractor who, for a lump sum, undertakes the construction of a building, or any other work to be done in accordance with a plan agreed upon with the owner of the ground, may demand an increase of the price, even if the costs of the materials or labor has increased; but he may do so when any change increasing the work is made in the plans, provided the owner has given his consent thereto.
+[16]
+The present Civil Code added substantive requisites before recovery of the contractor may be validly had. It will be noted that while under the precursor provision, recovery for additional costs may be allowed if consent to make such additions can be proved, the present provision clearly requires that the changes should be authorized, such authorization by the proprietor in writing. The evident purpose of the amendment is to prevent litigation for additional costs incurred by reason of additions or changes in the original plan. Undoubtedly, it was adopted to serve as a safeguard or a substantive condition precedent to recovery.
+[17]
+In 
+Weldon Construction Corporation v. Court of Appeals
+,
+[18]
+ involving a contract of supervision of construction of a theater, we denied the contractorâs claim to recover costs for additional works. It was held that the contract entered into by the parties was one for a piece of work for a stipulated price, wherein the right of the contractor to recover the cost of additional works is governed by Article 1724 of the Civil Code. Thus â
+In addition to the owner's authorization for any change in the plans and specifications, Article 1724 requires that the additional price to be paid for the contractor be likewise reduced in writing. Compliance with the two requisites in Article 1724, a specific provision governing additional works, is a condition precedent to recovery (
+San Diego v. Sayson
+, 
+supra
+.). The absence of one or the other bars the recovery of additional costs. Neither the authority for the changes made nor the additional price to be paid therefor may be proved by any other evidence for purposes of recovery.
+In the case before this Court, the records do not yield any written authority for the changes made on the plans and specifications of the Gay Theater building. Neither can there be found any written agreement on the additional price to be paid for said "extra works." While the trial court may have found in the instant case that the private respondent admitted his having requested the "extra works" done by the contractor (Record on Appeal, p. 66 [C.F.I. Decision]), this does not save the day for the petitioner. The private respondent claims that the contractor agreed to make the additions without additional cost. Expectedly, the petitioner vigorously denies said claim of the private respondent. This is precisely a misunderstanding between parties to a construction agreement which the lawmakers sought to avoid in prescribing the two requisites under Article 1724 (Report of the Code Commission, p. 148). And this case is a perfect example of a tedious litigation which had ensued between the parties as a result of such misunderstanding. Again, this is what the law endeavors to prevent (
+San Diego v. Sayson
+, 
+supra
+.)
+In the absence of a written authority by the owner for the changes in the plans and specifications of the building and of a written agreement between the parties on the additional price to be paid to the contractor, as required by Article 1724, the claim for the cost of additional works on the Gay Theater building must be denied.
+[19]
+In the instant case, the parties entered into a contract for the execution of all the electrical works at the Ciano Plaza âas shown and described in the plans and specification prepared by RCG Consult (hereinafter referred to as the ARCHITECT/ENGINEER).â
+[20]
+ The contract was for a fixed price of 
+P
+5,300,000, with the stipulation that âany additionâ¦ or reduction in the cost of work shall be 
+mutually agreed in writing
+ by both the OWNER and [the] CONTRACTOR upon recommendation/advisement of the ARCHITECT/ENGINEERS 
+before execution
+.â
+[21]
+ As admitted by both parties, several revisions and deviations from the original plan and specification of the building were introduced during the construction thereof.
+[22]
+ It appears, however, that though respondent was aware of such revisions and of the consequent increase in the cost of the electrical works, he nevertheless completed the installation of electrical facilities in the constructed building without first entering into a written agreement with the petitioners for the increase in costs. The fact that petitioner Chien testified
+[23]
+ that his Engineer/Architect, the R.C. Gaite & Associates, recommended payment of the increase in costs, does not prove that he was informed of such increase before the job was completed.
+[24]
+ The records reveal that the demand letter which in effect notified the petitioners of the increase in the costs of electrical installations was sent by the respondent to petitioners after the completion of the project.
+[25]
+ This was clearly not in accord with the express stipulation of the parties requiring a prior written agreement authorizing the increased costs, as well as with the provisions of Article 1724.
+It must be stressed that the âchange in the plans and specificationsâ referred to in Article 1724 pertains to the very contract entered into by the owner of the building and the contractor. While there is a revision of plan and specification in the instant case, the same pertains to the structural design of the building and not to the electrical installation contract of the parties. The consent given by the petitioners to the revision of the former will not necessarily extend to the latter. As emphasized in 
+Weldon Construction Corporation
+, the issue of consent to the higher cost could have been determined with facility had the respondent complied with the requirement of a written agreement for additional costs as mandated not only by their contract but also by Article 1724 of the Civil Code. The written consent of the owner to the increased costs sought by the respondent is not a mere formal requisite, but a vital precondition to the validity of a subsequent contract authorizing a higher or additional contract price. Moreover, the safeguards enshrined in the provisions of Article 1724 are not only intended to obviate future misunderstandings but also to give the parties a chance to decide whether to bind oneâs self to or withdraw from a contract. Had the increase in costs of the electrical installations been disclosed before completion of the project, petitioners could have opted to bargain with the respondent or hire another contractor for a cheaper price. Respondent, on the other hand, could have gladly accepted the bargain or simply backed out from the contract instead of gambling on the consequences of assuming the increased costs without the prior written authorization of the petitioners. Indeed, the principle of unjust enrichment cannot be validly invoked by the respondent who, through his own act or omission, took the risk of being denied payment for additional costs by not giving the petitioners prior notice of such costs and/or by not securing their written consent thereto, as required by law and their contract.
+Finally, we note that the trial court held petitioner Chien solidarily liable with petitioner Powton. The settled rule is that, a corporation is invested by law with a personality separate and distinct from those of the persons composing it, such that, save for certain exceptions, corporate officers who entered into contracts in behalf of the corporation cannot be held personally liable for the liabilities of the latter. Personal liability of a corporate director, trustee or officer along (although not necessarily) with the corporation may so validly attach, as a rule, only when â (1) he assents to a patently unlawful act of the corporation, or when he is guilty of bad faith or gross negligence in directing its affairs, or when there is a conflict of interest resulting in damages to the corporation, its stockholders or other persons; (2) he consents to the issuance of watered down stocks or who, having knowledge thereof, does not forthwith file with the corporate secretary his written objection thereto; (3) he agrees to hold himself personally and solidarily liable with the corporation; or (4) he is made by a specific provision of law personally answerable for his corporate action.
+[26]
+ Considering that none of the foregoing exceptions was established in the case at bar, petitioner Chien, who entered into a contract with respondent in his capacity as President and Chairman of the Board of Powton, cannot be held solidarily liable with the latter.
+WHEREFORE,
+ in view of all the foregoing, the instant petition is 
+PARTIALLY GRANTED
+. The Decision of the Court of Appeals in CA-G.R. CV No. 65100 is 
+MODIFIED
+. Petitioner Powton Conglomerate, Inc. is ordered to pay respondent Johnny Agcolicol the sum of 
+P
+268,139.60 representing the unpaid balance in the âElectrical Installation Contractâ between them. Petitioner Philip C. Chien, President and Chairman of the Board of Powton Conglomerate, Inc. is absolved from personal liability.
+SO ORDERED.
+Davide, Jr., C.J. (Chairman), Vitug, Carpio
+, and 
+Azcuna, JJ.
+, concur.
+[1]
+ Sometimes spelled as âConglomeratesâ in the records.
+[2]
+ Civil Code, Article 1724; 
+San Diego v. Sayson
+, 112 Phil. 1073 (1961).
+[3]
+ Penned by Associate Justice Oswaldo D. Agcaoili (Chairman), concurred in by Associate Justices Elvi John S. Asuncion and Eriberto U. Rosario (members).
+[4]
+ 
+Rollo
+, p. 43.
+[5]
+ Exhibit â1â, Records, p. 5.
+[6]
+ Complaint, Records, p. 1.
+[7]
+ Complaint, Records, p. 2.
+[8]
+ Answer, Records, p. 26.
+[9]
+ TSN, 19 October 1995, pp. 19-28.
+[10]
+ Pre-trial Order dated April 28, 1995, Records, p. 48.
+[11]
+ Records, p. 241.
+[12]
+ Decision, 
+Rollo
+, p. 33.
+[13]
+ Resolution, 
+Rollo
+, p. 43.
+[14]
+ TSN, September 14, 1995, pp. 23-25.
+[15]
+ 
+San Diego v. Sayson
+, 
+supra
+, note 2.
+[16]
+ 
+Supra
+, note 2 at 1076.
+[17]
+ 
+Supra
+, note 1 at 1076-1077.
+[18]
+ G.R. No. L-35721, 12 October 1987, 154 SCRA 618.
+[19]
+ 
+Id.
+, at 633-634.
+[20]
+ Exhibit â1â, Records, p. 5.
+[21]
+ 
+Id.
+, at 7; emphasis ours.
+[22]
+ TSN, 9 June 1995, pp. 19-20; 11 August 1995, pp. 2-4; 19 October 1995, pp. 19-23.
+[23]
+ TSN, 19 October 1995, pp. 20-23.
+[24]
+ See also TSN, 1 September 1995, pp. 33-34. Petitioners offered as Exhibit âGâ, a letter dated 12 January 1994, sent by Mr. R.C. Gaite to petitioners recommending payment of the increase in costs. This exhibit does not, however, appear in the records.
+[25]
+ See Exhibit âDâ, Demand Letter dated 17 December 1993, Records, p. 14; (The earliest demand letter after completion of the project appears to be the one offered as Exhibit âEâ, dated 19 August 1993. Said exhibit is not, however, found in the records [See TSN, 1 September 1995, p. 32]).
+[26]
+ 
+FCY Construction Group, Inc. v. Court of Appeals
+, 381 Phil. 282, 289-290 (2000); citing 
+Rustan Pulp & Paper Mills, Inc. v. Intermediate Appellate Court
+, G.R. No. 70789, 19 October 1992, 214 SCRA 665; 
+Tramat Mercantile, Inc. v. Court of Appeals
+, G.R. No. 111008, 7 November 1994, 238 SCRA 14.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

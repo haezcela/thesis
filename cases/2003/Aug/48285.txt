@@ -1,0 +1,379 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			456 Phil. 610
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 147246, August 19, 2003 ]
+
+
+ASIA LIGHTERAGE AND SHIPPING, INC., PETITIONER, VS. COURT OF APPEALS AND PRUDENTIAL GUARANTEE AND ASSURANCE, INC., RESPONDENTS.
+D E C I S I O N
+
+
+
+
+PUNO, J.:
+
+
+On appeal is the Court of Appeals' May 11, 2000 Decision
+[1]
+ in CA-G.R. CV No. 49195 and February 21, 2001 Resolution
+[2]
+ affirming with modification the April 6, 1994 Decision
+[3]
+ of the Regional Trial Court of Manila which found petitioner liable to pay private respondent the amount of indemnity and attorney's fees.
+First, the facts.
+On June 13, 1990, 3,150 metric tons of Better Western White Wheat in bulk, valued at US$423,192.35
+[4]
+ was shipped by Marubeni American Corporation of Portland, Oregon on board the vessel M/V NEO CYMBIDIUM V-26 for delivery to the consignee, General Milling Corporation in Manila, evidenced by Bill of Lading No. PTD/Man-4.
+[5]
+ The shipment was insured by the private respondent Prudential Guarantee and Assurance, Inc. against loss or damage for P14,621,771.75 under Marine Cargo Risk Note RN 11859/90.
+[6]
+On July 25, 1990, the carrying vessel arrived in Manila and the cargo was transferred to the custody of the petitioner Asia Lighterage and Shipping, Inc. The petitioner was contracted by the consignee as carrier to deliver the cargo to consignee's warehouse at Bo. Ugong, Pasig City.
+On August 15, 1990, 900 metric tons of the shipment was loaded on barge PSTSI III, evidenced by Lighterage Receipt No. 0364
+[7]
+ for delivery to consignee. The cargo did not reach its destination.
+It appears that on August 17, 1990, the transport of said cargo was suspended due to a warning of an incoming typhoon. On August 22, 1990, the petitioner proceeded to pull the barge to Engineering Island off Baseco to seek shelter from the approaching typhoon. PSTSI III was tied down to other barges which arrived ahead of it while weathering out the storm that night. A few days after, the barge developed a list because of a hole it sustained after hitting an unseen protuberance underneath the water. The petitioner filed a Marine Protest on August 28, 1990.
+[8]
+ It likewise secured the services of Gaspar Salvaging Corporation which refloated the barge.
+[9]
+ The hole was then patched with clay and cement.
+The barge was then towed to ISLOFF terminal before it finally headed towards the consignee's wharf on September 5, 1990. Upon reaching the Sta. Mesa spillways, the barge again ran aground due to strong current. To avoid the complete sinking of the barge, a portion of the goods was transferred to three other barges.
+[10]
+The next day, September 6, 1990, the towing bits of the barge broke. It sank completely, resulting in the total loss of the remaining cargo.
+[11]
+ A second Marine Protest was filed on September 7, 1990.
+[12]
+On September 14, 1990, a bidding was conducted to dispose of the damaged wheat retrieved and loaded on the three other barges.
+[13]
+ The total proceeds from the sale of the salvaged cargo was P201,379.75.
+[14]
+On the same date, September 14, 1990, consignee sent a claim letter to the petitioner, and another letter dated September 18, 1990 to the private respondent for the value of the lost cargo.
+On January 30, 1991, the private respondent indemnified the consignee in the amount of P4,104,654.22.
+[15]
+ Thereafter, as subrogee, it sought recovery of said amount from the petitioner, but to no avail.
+On July 3, 1991, the private respondent filed a complaint against the petitioner for recovery of the amount of indemnity, attorney's fees and cost of suit.
+[16]
+ Petitioner filed its answer with counterclaim.
+[17]
+The Regional Trial Court ruled in favor of the private respondent. The dispositive portion of its Decision states:
+WHEREFORE
+, premises considered, judgment is hereby rendered ordering defendant Asia Lighterage Shipping, Inc. liable to pay plaintiff Prudential Guarantee Assurance Co., Inc. the sum of P4,104,654.22 with interest from the date complaint was filed on July 3, 1991 until fully satisfied plus 10% of the amount awarded as and for attorney's fees. Defendant's counterclaim is hereby DISMISSED. With costs against defendant.
+[18]
+Petitioner appealed to the Court of Appeals insisting that it is not a common carrier. The appellate court affirmed the decision of the trial court with modification. The dispositive portion of its decision reads:
+WHEREFORE, the decision appealed from is hereby AFFIRMED with modification in the sense that the salvage value of P201,379.75 shall be deducted from the amount of P4,104,654.22. Costs against appellant.
+SO ORDERED.
+Petitioner's Motion for Reconsideration dated June 3, 2000 was likewise denied by the appellate court in a Resolution promulgated on February 21, 2001.
+Hence, this petition. Petitioner submits the following errors allegedly committed by the appellate court, 
+viz
+:
+[19]
+(1)
+THE COURT OF APPEALS DECIDED THE CASE 
+A QUO
+ IN A WAY NOT IN ACCORD WITH LAW AND/OR WITH THE APPLICABLE DECISIONS OF THE SUPREME COURT WHEN IT HELD THAT PETITIONER IS A COMMON CARRIER.
+ 
+ 
+(2)
+THE COURT OF APPEALS DECIDED THE CASE 
+A QUO
+ IN A WAY NOT IN ACCORD WITH LAW AND/OR WITH THE APPLICABLE DECISIONS OF THE SUPREME COURT WHEN IT AFFIRMED THE FINDING OF THE LOWER COURT 
+A QUO
+ THAT ON THE BASIS OF THE PROVISIONS OF THE CIVIL CODE APPLICABLE TO COMMON CARRIERS, 
+"THE LOSS OF THE CARGO IS, THEREFORE, BORNE BY THE CARRIER IN ALL CASES EXCEPT IN THE FIVE (5) CASES ENUMERATED."
+ 
+ 
+(3)
+THE COURT OF APPEALS DECIDED THE CASE 
+A QUO
+ IN A WAY NOT IN ACCORD WITH LAW AND/OR WITH THE APPLICABLE DECISIONS OF THE SUPREME COURT WHEN IT EFFECTIVELY CONCLUDED THAT PETITIONER FAILED TO EXERCISE DUE DILIGENCE AND/OR WAS NEGLIGENT IN ITS CARE AND CUSTODY OF THE CONSIGNEE'S CARGO.
+The issues to be resolved are:
+(1)
+Whether the petitioner is a common carrier; and,
+ 
+ 
+(2)
+Assuming the petitioner is a common carrier, whether it exercised extraordinary diligence in its care and custody of the consignee's cargo.
+On the first issue, we rule that petitioner is a common carrier.
+Article 1732 of the Civil Code defines 
+common carriers
+ as persons, corporations, firms or associations engaged in the business of carrying or transporting passengers or goods or both, by land, water, or air, for compensation, offering their services to the public.
+Petitioner contends that it is not a common carrier but a private carrier. Allegedly, it has no fixed and publicly known route, maintains no terminals, and issues no tickets. It points out that it is not obliged to carry indiscriminately for any person. It is not bound to carry goods unless it consents. In short, it does not hold out its services to the general public.
+[20]
+We disagree.
+In 
+De Guzman vs. Court of Appeals
+,
+[21]
+ we held that the definition of 
+common carriers
+ in Article 1732 of the Civil Code makes no distinction between one whose principal business activity is the carrying of persons or goods or both, and one who does such carrying only as an ancillary activity. We also did not distinguish between a person or enterprise offering transportation service on a regular or scheduled basis and one offering such service on an occasional, episodic or unscheduled basis. Further, we ruled that Article 1732 does not distinguish between a carrier offering its services to the 
+general public
+, and one who offers services or solicits business only from a narrow segment of the general population.
+In the case at bar, the principal business of the petitioner is that of lighterage and drayage
+[22]
+ and it offers its barges to the public for carrying or transporting goods by water for compensation. Petitioner is clearly a common carrier. In 
+De Guzman
+,
+ supra
+,
+[23]
+ we considered private respondent Ernesto CendaÃ±a to be a common carrier even if his principal occupation was not the carriage of goods for others, but that of buying used bottles and scrap metal in Pangasinan and selling these items in Manila.
+We therefore hold that petitioner is a common carrier whether its carrying of goods is done on an irregular rather than scheduled manner, and with an only limited clientele. A common carrier need not have fixed and publicly known routes. Neither does it have to maintain terminals or issue tickets.
+To be sure, petitioner fits the test of a common carrier as laid down in 
+Bascos vs. Court of Appeals
+.
+[24]
+ The test to determine a common carrier is "whether the given undertaking is a part of the business engaged in by the carrier which he has held out to the general public as his occupation rather than the quantity or extent of the business transacted."
+[25]
+ In the case at bar, the petitioner admitted that it is engaged in the business of shipping and lighterage,
+[26]
+ offering its barges to the public, despite its limited clientele for carrying or transporting goods by water for compensation.
+[27]
+On the second issue, we uphold the findings of the lower courts that petitioner failed to exercise extraordinary diligence in its care and custody of the consignee's goods.
+Common carriers are bound to observe extraordinary diligence in the vigilance over the goods transported by them.
+[28]
+ They are presumed to have been at fault or to have acted negligently if the goods are lost, destroyed or deteriorated.
+[29]
+ To overcome the presumption of negligence in the case of loss, destruction or deterioration of the goods, the common carrier must prove that it exercised extraordinary diligence. There are, however, exceptions to this rule. Article 1734 of the Civil Code enumerates the instances when the presumption of negligence does not attach:
+Art. 1734. Common carriers are responsible for the loss, destruction, or deterioration of the goods, unless the same is due to any of the following causes only:
+(1)
+Flood, storm, earthquake, lightning, or other natural disaster or calamity;
+ 
+ 
+(2)
+Act of the public enemy in war, whether international or civil;
+ 
+ 
+(3)
+Act or omission of the shipper or owner of the goods;
+ 
+ 
+(4)
+The character of the goods or defects in the packing or in the containers;
+ 
+ 
+(5)
+Order or act of competent public authority.
+In the case at bar, the barge completely sank after its towing bits broke, resulting in the total loss of its cargo. Petitioner claims that this was caused by a typhoon, hence, it should not be held liable for the loss of the cargo. However, petitioner failed to prove that the typhoon is the proximate and only cause of the loss of the goods, and that it has exercised due diligence before, during and after the occurrence of the typhoon to prevent or minimize the loss.
+[30]
+ The evidence show that, even before the towing bits of the barge broke, it had already previously sustained damage when it hit a sunken object while docked at the Engineering Island. It even suffered a hole. Clearly, this could not be solely attributed to the typhoon. The partly-submerged vessel was refloated but its hole was patched with only clay and cement. The patch work was merely a provisional remedy, not enough for the barge to sail safely. Thus, when petitioner persisted to proceed with the voyage, it recklessly exposed the cargo to further damage. A portion of the cross-examination of Alfredo Cunanan, cargo-surveyor of Tan-Gatue Adjustment Co., Inc., states:
+CROSS-EXAMINATION BY ATTY. DONN LEE:
+[31]
+x x x                                              x x x                                              x x x
+q -
+Can you tell us what else transpired after that incident?
+a -
+After the first accident, through the initiative of the barge owners, they tried to pull out the barge from the place of the accident, and bring it to the anchor terminal for safety, then after deciding if the vessel is stabilized, they tried to pull it to the consignee's warehouse, now while on route another accident occurred, now this time the barge totally hitting something in the course.
+ 
+ 
+q -
+You said there was another accident, can you tell the court the nature of the second accident?
+a -
+The sinking, sir.
+ 
+ 
+q -
+Can you tell the nature . . . can you tell the court, if you know what caused the sinking?
+a -
+Mostly it was related to the first accident because there was already a whole 
+(sic)
+ on the bottom part of the barge.
+x x x                                              x x x                                              x x x
+This is not all. Petitioner still headed to the consignee's wharf despite knowledge of an incoming typhoon. During the time that the barge was heading towards the consignee's wharf on September 5, 1990, typhoon "Loleng" has already entered the Philippine area of responsibility.
+[32]
+ A part of the testimony of Robert Boyd, Cargo Operations Supervisor of the petitioner, reveals:
+DIRECT-EXAMINATION BY ATTY. LEE:
+[33]
+x x x                                              x x x                                              x x x
+q -
+Now, Mr. Witness, did it not occur to you it might be safer to just allow the Barge to lie where she was instead of towing it?
+a -
+Since that time that the Barge was refloated, GMC (General Milling Corporation, the consignee) as I have said was in a hurry for their goods to be delivered at their Wharf since they needed badly the wheat that was loaded in PSTSI-3. It was needed badly by the consignee.
+ 
+ 
+q -
+And this is the reason why you towed the Barge as you did?
+a -
+Yes, sir.
+x x x                                              x x x                                              x x x
+CROSS-EXAMINATION BY ATTY. IGNACIO:
+[34]
+x x x                                              x x x                                        x x x
+q -
+And then from ISLOFF Terminal you proceeded to the premises of the GMC? Am I correct?
+a -
+The next day, in the morning, we hired for additional two (2) tugboats as I have stated.
+ 
+ 
+q -
+Despite of the threats of an incoming typhoon as you testified a while ago?
+a -
+It is already in an inner portion of Pasig River. The typhoon would be coming and it would be dangerous if we are in the vicinity of Manila Bay.
+ 
+ 
+q -
+But the fact is, the typhoon was incoming? Yes or no?
+a -
+Yes.
+ 
+ 
+q -
+And yet as a standard operating procedure of your Company, you have to secure a sort of Certification to determine the weather condition, am I correct?
+a -
+Yes, sir.
+ 
+ 
+q -
+So, more or less, you had the knowledge of the incoming typhoon, right?
+a -
+Yes, sir.
+ 
+ 
+q -
+And yet you proceeded to the premises of the GMC?
+a -
+ISLOFF Terminal is far from Manila Bay and anytime even with the typhoon if you are already inside the vicinity or inside Pasig entrance, it is a safe place to tow upstream.
+Accordingly, the petitioner cannot invoke the occurrence of the typhoon as force majeure to escape liability for the loss sustained by the private respondent. Surely, meeting a typhoon head-on falls short of due diligence required from a common carrier. More importantly, the officers/employees themselves of petitioner admitted that when the towing bits of the vessel broke that caused its sinking and the total loss of the cargo upon reaching the Pasig River, it was no longer affected by the typhoon. The typhoon then is not the proximate cause of the loss of the cargo; a human factor, 
+i.e.
+, negligence had intervened.
+IN VIEW THEREOF
+, the petition is DENIED. The Decision of the Court of Appeals in CA-G.R. CV No. 49195 dated May 11, 2000 and its Resolution dated February 21, 2001 are hereby AFFIRMED. Costs against petitioner.
+SO ORDERED.
+Panganiban,
+ and 
+Sandoval-Gutierrez, JJ.,
+ concur.
+Corona,
+ and 
+Carpio-Morales, JJ.,
+ on official leave.
+[1]
+ Rollo, pp. 49-59.
+[2]
+ 
+Id.
+, p. 61.
+[3]
+ 
+Id.
+, pp. 71-73.
+[4]
+ Exhibit "B," Records, p. 91.
+[5]
+ Exhibit "A," 
+id.
+, p. 90.
+[6]
+ Exhibits "I" and "I-1,"
+ id.
+, pp. 107-108.
+[7]
+ Exhibit "C,"
+ id.
+, p. 92.
+[8]
+ Exhibit "4," 
+id.
+, p. 144.
+[9]
+ Exhibits "G-1" and "1-A,"
+ id.
+, p. 100.
+[10]
+ Exhibits "G-2" and "1-B," 
+id.
+, p. 101.
+[11]
+ 
+Ibid.
+[12]
+ Exhibit "5," Records, p. 145.
+[13]
+ 
+Supra
+ note 10.
+[14]
+ Exhibits "G-3" and "1-C," Records, p. 102.
+[15]
+ Exhibit "L," 
+id.
+, p. 110.
+[16]
+ 
+Id.
+, pp. 1-4.
+[17]
+ 
+Id.
+, pp. 21-22.
+[18]
+ 
+Id.
+, p. 172.
+[19]
+ Rollo, p. 22.
+[20]
+ 
+Id.
+, pp. 147-150.
+[21]
+ G.R. No. L-47822, 22 December 1988.
+[22]
+ Rollo, p. 127.
+[23]
+ 
+See
+ note 21.
+[24]
+ G.R. No. 101089, 07 April 1993, 221 SCRA 318.
+[25]
+ 
+Id.
+, pp. 323-324.
+[26]
+ Rollo, p. 14.
+[27]
+ 
+Id.
+, pp. 148-150.
+[28]
+ Article 1733, Civil Code. Common carriers, from the nature of their business and for reasons of public policy, are bound to observe extraordinary diligence in the vigilance over the goods and for the safety of the passengers transported by them, according to all the circumstances of each case.
+Such extraordinary diligence in vigilance over the goods is further expressed in articles 1734, 1735, and 1745, Nos. 5, 6, and 7, while the extraordinary diligence for the safety of the passengers is further set forth in articles 1755 and 1756.
+[29]
+ Article 1735, Civil Code. In all cases other than those mentioned in Nos. 1, 2, 3, 4, and 5 of the preceding article, if the goods are lost, destroyed or deteriorated, common carriers are presumed to have been at fault or to have acted negligently, unless they prove that they observed extraordinary diligence as required in article 1733.
+[30]
+ Article 1739, Civil Code. In order that the common carrier may be exempted from responsibility, the natural disaster must have been the proximate and only cause of the loss. However, the common carrier must exercise due diligence to prevent or minimize the loss before, during and after the occurrence of flood, storm or other natural disaster in order that the common carrier may be exempted from liability for the loss, destruction, or deterioration of the goods. The same duty is incumbent upon the common carrier in case of an act of the public enemy referred to in article 1734, no. 2.
+[31]
+ TSN, 04 March 1993, pp. 12-13.
+[32]
+ Certification dated 02 August 1991 issued by the Philippine Atmospheric Geophysical Astronomical Services Administration (PAGASA), Exhibit "7," Records, p. 147.
+[33]
+ TSN, 09 March 1993, pp. 70-71.
+[34]
+ 
+Id.
+, pp. 76-77.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

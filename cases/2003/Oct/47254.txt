@@ -1,0 +1,878 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			459 Phil. 875
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 142381, October 15, 2003 ]
+
+
+PHILIPPINE BLOOMING MILLS, INC., AND ALFREDO CHING, PETITIONERS, VS. COURT OF APPEALS AND TRADERS ROYAL BANK, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+CARPIO, J.:
+
+
+The Case
+This is a petition for review on 
+certiorari
+ 
+[1]
+ to annul the Decision 
+[2]
+ dated 16 July 1999 of the Court of Appeals in CA-G.R. CV No. 39690, as well as its Resolution dated 17 February 2000 denying the motion for reconsideration.  The Court of Appeals affirmed with modification the Decision 
+[3]
+ dated 31 August 1992 rendered by Branch 113 of the Regional Trial Court of Pasay City ("trial court"). The trial court's Decision declared petitioner Alfredo Ching ("Ching") liable to respondent Traders Royal Bank ("TRB") for the payment of the credit accommodations extended to Philippine Blooming Mills, Inc.  ("PBM").
+Antecedent Facts
+This case stems from an action to compel Ching to pay TRB the following amounts:
+P959,611.96 under Letter of Credit No. 479 AD covered by Trust Receipt No. 106; 
+[4]
+P1,191,137.13 under Letter of Credit No. 563 AD covered by Trust Receipt No. 113; 
+[5]
+ and
+P3,500,000 under the trust loan covered by a notarized Promissory Note. 
+[6]
+Ching was the Senior Vice President of PBM.  In his personal capacity and not as a corporate officer, Ching signed a Deed of Suretyship dated 21 July 1977 binding himself as follows:
+xxx as primary obligor(s) and not as mere guarantor(s), hereby warrant to the TRADERS ROYAL BANK, its successors and assigns, the due and punctual payment by the following individuals and/or companies/firms, hereinafter called the DEBTOR(S), of such amounts whether due or not, as indicated opposite their respective names, to wit:
+ 
+ 
+NAME OF DEBTOR(S) 
+ 
+AMOUNT OF OBLIGATION
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PHIL. BLOOMING MILLS CORP. 
+ 
+TEN MILLION PESOS
+ (P 10,000,000.00) 
+ 
+ 
+owing to said TRADERS ROYAL BANK, hereafter called the CREDITOR, as evidenced by all notes, drafts, overdrafts and other credit obligations of every kind and nature contracted/incurred by said DEBTOR(S) in favor of said CREDITOR.
+In case of default by any and/or all of the DEBTOR(S) to pay the whole or part of said indebtedness herein secured at maturity,  I/We, jointly and severally, agree and engage to the CREDITOR, its successors and assigns, the prompt payment, without demand or notice from said CREDITOR, of such notes, drafts, overdrafts and other credit obligations on which the DEBTOR(S) 
+may now be indebted or may hereafter become indebted 
+to the CREDITOR, together with all interests, penalty and other bank charges as may accrue thereon and all expenses which may be incurred by the latter in collecting any or all such instruments.
+I/WE further warrant the due and faithful performance by the DEBTOR(S) of all the obligations to be performed under any contracts, evidencing indebtedness/obligations and any supplements, amendments, charges or modifications made thereto, including but not limited to, the due and punctual payment by the said DEBTOR(S).
+I/WE hereby expressly waive notice of acceptance of this suretyship, and also presentment, demand, protest and notice of dishonor of any and all such instruments, loans, advances, credits, or other indebtedness or obligations hereinbefore referred to.
+MY/OUR liability on this Deed of Suretyship shall be 
+solidary, direct and immediate and not contingent
+ upon the pursuit by the CREDITOR, its successors or assigns, of whatever remedies it or they may have against the DEBTOR(S) or the securities or liens it or they may possess; and I/WE hereby agree to be and remain bound upon this suretyship, irrespective of the existence, value or condition of any collateral, and notwithstanding also that all obligations of the DEBTOR(S) to you outstanding and unpaid at any time may exceed the aggregate principal sum herein above stated.
+In the event of judicial proceedings, I/WE hereby expressly agree to pay the creditor for and as attorney's fees a sum equivalent to TEN PER CENTUM (10%) of the total indebtedness (principal and interest) then unpaid, exclusive of all costs or expenses for collection allowed by law. 
+[7]
+   (Emphasis supplied)
+On 24 March and 6 August 1980, TRB granted PBM letters of credit on application of Ching in his capacity as Senior Vice President of PBM. Ching later accomplished and delivered to TRB trust receipts, which acknowledged receipt in trust for TRB of the merchandise subject of the letters of credit.  Under the trust receipts, PBM had the right to sell the merchandise for cash with the obligation to turn over the entire proceeds of the sale to TRB as payment of PBM's indebtedness.  Letter of Credit No. 479 AD, covered by Trust Receipt No. 106, has a face value of US$591,043, while Letter of Credit No. 563 AD, covered by Trust Receipt No. 113, has a face value of US$155,460.34.
+Ching further executed an Undertaking for each trust receipt, which uniformly provided that:
+x x x
+All obligations of the undersigned under the agreement of trusts shall bear interest at the rate of __ per centum ( __%) per annum from the date due until paid.
+[I]n consideration of the Trust Receipt, 
+the undersigned hereby jointly and severally undertake and agree to pay on demand on the said BANK
+, all sums and amounts of money which said BANK may call upon them to pay arising out of, pertaining to, and/or in any manner connected with this receipt.  In case it is necessary to collect the draft covered by the Trust Receipt by or through an attorney-at-law, the undersigned hereby further agree(s) to pay an additional of 10% of the total amount due on the draft as attorney's fees, exclusive of all costs, fees and other expenses of collection but shall in no case be less than P200.00" 
+[8]
+   (Emphasis supplied)
+On 27 April 1981, PBM obtained a P3,500,000 trust loan from TRB.  Ching signed as co-maker in the notarized Promissory Note evidencing this trust loan.  The Promissory Note reads:
+FOR VALUE RECEIVED THIRTY (30) DAYS after date, I/We, jointly and severally, promise to pay the TRADERS ROYAL BANK or order, at its Office in 4
+th
+ Floor, Kanlaon Towers Bldg., Roxas Blvd., Pasay City, the sum of Pesos: THREE MILLION FIVE HUNDRED THOUSAND ONLY (P3,500,000.00), Philippine Currency, with the interest rate of Eighteen Percent (18%) per annum until fully paid.
+In case of non-payment of this note at maturity, I/We, jointly and severally, agree to pay an additional amount equivalent to two per cent (2%) of the principal sum per annum, as penalty and collection charges in the form of liquidated damages until fully paid,
+ and the further sum of ten percent (10%) thereof in full, without any deduction, as and for attorney's fees whether actually incurred or not, exclusive of costs and other judicial/extrajudicial expenses; moreover, I/We jointly and severally, further empower and authorize the TRADERS ROYAL BANK at its option, and without notice to set off or to apply to the payment of this note any and all funds, which may be in its hands on deposit or otherwise belonging to anyone or all of us, and to hold as security therefor any real or personal property which may be in its possession or control by virtue of any other contract. 
+[9]
+  (Emphasis supplied)
+PBM defaulted in its payment of Trust Receipt No. 106 (Letter of Credit No. 479 AD) for P959,611.96, and of Trust Receipt No. 113 (Letter of Credit No. 563 AD) for P1,191,137.13.  PBM also defaulted on its P3,500,000 trust loan.
+On 1 April 1982, PBM and Ching filed a petition for suspension of payments with the Securities and Exchange Commission ("SEC"), docketed as SEC Case No. 2250. 
+[10]
+ The petition sought to suspend payment of PBM's obligations and prayed that the SEC allow PBM to continue its normal business operations free from the interference of its creditors.  One of the listed creditors of PBM was TRB. 
+[11]
+On 9 July 1982, the SEC placed all of PBM's assets, liabilities, and obligations under the rehabilitation receivership of Kalaw, Escaler and Associates. 
+[12]
+On 13 May 1983, ten months after the SEC placed PBM under rehabilitation receivership, TRB filed with the trial court a complaint for collection against PBM and Ching.  TRB asked the trial court to order defendants to pay solidarily the following amounts:
+ 
+ 
+(1)
+ 
+ 
+P6,612,132.74 exclusive of interests, penalties, and bank charges [representing its indebtedness arising from the letters of credit issued to its various suppliers]; 
+ 
+ 
+ 
+(2)
+ 
+ 
+P4,831,361.11, exclusive of interests, penalties, and other bank charges [due and owing from the trust loan of 27 April 1981 evidenced by a promissory note];
+ 
+ 
+ 
+(3)
+ 
+ 
+P783,300.00 exclusive of interests, penalties, and other bank charges [due and owing from the money market loan of 1 April 1981 evidenced by a promissory note];
+ 
+ 
+ 
+(4)
+ 
+ 
+To order defendant Ching to pay P10,000,000.00 under the Deed of Suretyship in the event plaintiff can not recover the full amount of PBM's indebtedness from the latter;
+ 
+ 
+ 
+(5)
+ 
+ 
+The sum equivalent to 10% of the total sum due as and for attorney's fees;
+ 
+ 
+ 
+(6)
+ 
+ 
+Such other amounts that may be proven by the plaintiff during the trial, by way of damages and expenses for litigation. 
+[13]
+ 
+ 
+On 25 May 1983, TRB moved to withdraw the complaint against PBM on the ground that the SEC had already placed PBM under receivership. 
+[14]
+  The trial court thus dismissed the complaint against PBM. 
+[15]
+On 23 June 1983, PBM and Ching also moved to dismiss the complaint on the ground that the trial court had no jurisdiction over the subject matter of the case.  PBM and Ching invoked the assumption of jurisdiction by the SEC over all of PBM's assets and liabilities. 
+[16]
+TRB filed an opposition to the Motion to Dismiss.  TRB argued that (1) Ching is being sued in his personal capacity as a surety for PBM; (2) the SEC decision declaring PBM in suspension of  payments  is not  binding  on TRB; and (3) Presidential Decree No. 1758 ("PD No. 1758"), 
+[17]
+ which Ching relied on to support his assertion that all claims against PBM are suspended, does not apply to Ching as the decree regulates corporate activities only. 
+[18]
+In its order dated 15 August 1983, 
+[19]
+ the trial court denied the motion to dismiss with respect to Ching and affirmed its dismissal of the case with respect to PBM. The trial court stressed that TRB was holding Ching liable under the Deed of Suretyship.  As Ching's obligation was solidary, the trial court ruled that TRB could proceed against Ching as surety upon default of the principal debtor PBM.  The trial court also held that PD No. 1758 applied only to corporations, partnerships and associations and not to individuals.
+Upon the trial court's denial of his Motion for Reconsideration, Ching filed a Petition for Certiorari and Prohibition 
+[20]
+ before the Court of Appeals.  The appellate court granted Ching's petition and ordered the dismissal of the case.  The appellate court ruled that the SEC assumed jurisdiction over Ching and PBM to the exclusion of courts or tribunals of coordinate rank.
+TRB assailed the Court of Appeals' Decision 
+[21]
+ before this Court.  In 
+Traders Royal Bank v. Court of Appeals
+, 
+[22]
+ this Court upheld TRB and ruled that Ching was merely a nominal party in SEC Case No. 2250.  Creditors may sue individual sureties of debtor corporations, like Ching, in a separate proceeding before regular courts despite the pendency of a case before the SEC involving the debtor corporation.
+In his Answer dated 6 November 1989, Ching denied liability as surety and accommodation co-maker of PBM.  He claimed that the SEC had already issued a decision 
+[23]
+ approving a revised rehabilitation plan for PBM's creditors, and that PBM obtained the credit accommodations for corporate purposes that did not redound to his personal benefit.  He further claimed that even as a surety, he has the right to the defenses personal to PBM.  Thus, his liability as surety would attach only if, after the implementation of payments scheduled under the rehabilitation plan, there would remain a balance of PBM's debt to TRB. 
+[24]
+ Although Ching admitted PBM's availment of the credit accommodations, he did not show any proof of payment by PBM or by him.
+TRB admitted certain partial payments on the PBM account made by PBM itself and by the SEC-appointed receiver. 
+[25]
+ Thus, the trial court had to resolve the following remaining issues:
+How much exactly is the corporate defendant's outstanding obligation to the plaintiff?
+Is defendant Alfredo Ching personally answerable, and for exactly how much? 
+[26]
+TRB presented Mr. Lauro Francisco, loan officer of the Remedial Management Department of TRB, and Ms. Carla Pecson, manager of the International Department of TRB, as witnesses. Both witnesses testified to the following:
+The existence of a Deed of Suretyship dated 21 July 1977 executed by Ching for PBM's liabilities to TRB up to P10,000,000; 
+[27]
+The application of PBM and grant by TRB on 13 March 1980 of Letter of Credit No. 479 AD for US$591,043, and the actual availment by PBM of the full proceeds of the credit accommodation; 
+[28]
+The application of PBM and grant by TRB on 6 August 1980 of Letter of Credit No. 563 AD for US$156,000, and the actual availment by PBM of the full proceeds of the credit accommodation; 
+[29]
+ and
+The existence of a trust loan of P3,500,000 evidenced by a notarized Promissory Note dated 27 April 1981 wherein Ching bound himself solidarily with PBM; 
+[30]
+ and
+Per TRB's computation, Ching is liable for P19,333,558.16 as of 31 October 1991. 
+[31]
+Ching presented Atty. Vicente Aranda, corporate secretary and First Vice President of the Human Resources Department of TRB, as witness.  Ching sought to establish that TRB's Board of Directors adopted a resolution fixing the PBM account at an amount lower than what TRB wanted to collect from Ching. The trial court allowed Atty. Aranda to testify over TRB's manifestation that the Answer failed to plead the subject matter of his testimony.  Atty. Aranda produced TRB Board Resolution No. 5935, series of 1990, which contained the minutes of the special meeting of TRB's Board of Directors held on 8 June 1990. 
+[32]
+  In the resolution, the Board of Directors advised TRB's Management "not to release Alfredo Ching from his JSS liability to the bank." 
+[33]
+   The resolution also stated the following:
+ 
+ 
+a)
+ 
+ 
+Accept the P1.373 million deposits remitted over a period of 17 years or until 2006 which shall be applied directly to the account (as remitted per hereto attached schedule). The amount of P1.373 million shall be considered as full payment of PBM's account. (The receiver is amenable to this alternative) 
+ 
+ 
+ 
+ 
+The initial deposit/remittance which amounts to P150,000.00 shall be remitted upon approval of the above and conforme to PISCOR and PBM. Subsequent deposits shall start on the 3
+rd
+ year and annually thereafter (every June 30
+th
+ of the year) until June 30, 2006.
+ 
+ 
+ 
+ 
+Failure to pay one annual installment shall make the whole obligation due and demandable.
+ 
+ 
+ 
+b)
+ 
+ 
+Write-off immediately P4.278 million. The balance [of] P1.373 million to remain outstanding in the books of the Bank. Said balance will equal the deposits to be remitted to the Bank for a period of 17 years. 
+[34]
+ 
+ 
+However, Atty. Aranda himself testified that both items (a) and (b) quoted above were never complied with or implemented.  Not only was there no initial deposit of P150,000 as required in the resolution, TRB also disapproved the document prepared by the receiver, which would have released Ching from his suretyship. 
+[35]
+The Ruling of the Trial Court
+The trial court found Ching liable to TRB for P19,333,558.16 under the Deed of Suretyship.  The trial court explained:
+[T]he liability of Ching as a surety attaches independently from his capacity as a stockholder of the Philippine Blooming Mills.  Indisputably, under the Deed of Suretyship defendant Ching unconditionally agreed to assume PBM's liability to the plaintiff in the event PBM defaulted in the payment of the said obligation in addition to whatever penalties, expenses and bank charges that may occur by reason of default.  Clear enough, under the Deed of Suretyship (Exh. J), defendant Ching bound himself jointly and severally with PBM in the payment of the latter's obligation to the plaintiff.  The obligation being solidary, the plaintiff Bank can hold Ching liable upon default of the principal debtor.  This is explicitly provided in Article 1216 of the New Civil Code already quoted above. 
+[36]
+The dispositive portion of the trial court's Decision reads:
+WHEREFORE, judgment is hereby rendered declaring defendant Alfredo Ching liable to plaintiff bank in the amount of P19,333,558.16 (NINETEEN MILLION THREE HUNDRED THIRTY THREE THOUSAND FIVE HUNDRED FIFTY EIGHT & 16/100) as of October 31, 1991, and to pay the legal interest thereon from such date until it is fully paid.  To pay plaintiff 5% of the entire amount by way of attorney's fees.
+SO ORDERED. 
+[37]
+The Ruling of the Court of Appeals
+On appeal, Ching stated that as surety and solidary debtor, he should benefit from the changed nature of the obligation as provided in Article 1222 of the Civil Code, which reads:
+Article 1222.  A solidary debtor may, in actions filed by the creditor, avail himself of all defenses which are derived from the nature of the obligation and of those which are personal to him, or pertain to his own share. With respect to those which personally belong to the others, he may avail himself thereof only as regards that part of the debt for which the latter are responsible.
+Ching claimed that his liability should likewise be reduced since the equitable apportionment of PBM's remaining assets among its creditors under the rehabilitation proceedings would have the effect of reducing PBM's liability.  He also claimed that the amount for which he was being held liable was excessive. He contended that the outstanding principal balance, as stated in TRB Board Resolution No. 5893-1990, was only P5,650,749.09. 
+[38]
+ Ching also contended that he was not liable for interest, as the loan documents did not stipulate the interest rate, pursuant to Article 1956 of the Civil Code. 
+[39]
+ Finally, Ching asserted that the Deed of Suretyship executed on 21 July 1977 could not guarantee obligations incurred after its execution. 
+[40]
+TRB did not file its appellee's brief.  Thus, the Court of Appeals resolved to submit the case for decision. 
+[41]
+The Court of Appeals considered the following issues for its determination:
+Whether the Answer of Ching amounted to an admission of liability.
+Whether Ching can still be sued as a surety after the SEC placed PBM under rehabilitation receivership, and if in the affirmative, for how much. 
+[42]
+The Court of Appeals resolved the first two questions in favor of TRB.  The appellate court stated:
+Ching did not deny under oath the genuineness and due execution of the L/Cs, Trust Receipts, Undertaking, Deed of Surety, and the 3.5 Million Peso Promissory Note upon which TRB's action rested.  He is, therefore, presumed to be liable unless he presents evidence showing payment, partially or in full, of these obligations (Investment and Underwriting Corporation of the Philippines v. Comptronics Philippines, Inc. and Gene v. Tamesis, 192 SCRA 725 [1990]).
+As surety of a corporation placed under rehabilitation receivership, Ching can answer separately for the obligations of debtor PBM (Rizal Banking Corporation v. Court of Appeals, Philippine Blooming Mills, Inc., and Alfredo Ching, 178 SCRA 738 [1990], and Traders Royal Bank v. Philippine Blooming Mills and Alfredo Ching, 177 SCRA 788 [1989]).
+Even a[n] SEC injunctive order cannot suspend payment of the surety's obligation since the rehabilitation receivers are limited to the existing assets of the corporation. 
+[43]
+The dispositive portion of the Decision of the Court of Appeals reads:
+WHEREFORE, the judgment of the lower court is hereby AFFIRMED but modified with respect to the amount of liability of defendant Alfredo Ching which is lowered from P19,333,558.16 to P15,773,708.78 with legal interest of 12% per annum until it is fully paid.
+SO ORDERED. 
+[44]
+The Court of Appeals denied Ching's Motion for Reconsideration for lack of merit.
+Hence, this petition.
+Issues
+Ching assigns the following as errors of the Court of Appeals:
+THE COURT OF APPEALS COMMITTED AN ERROR WHEN IT RULED THAT PETITIONER ALFREDO CHING WAS LIABLE FOR OBLIGATIONS CONTRACTED BY PBM LONG AFTER THE EXECUTION OF THE DEED OF SURETYSHIP.
+THE COURT OF APPEALS COMMITTED AN ERROR WHEN IT RULED THAT THE PETITIONERS WERE LIABLE FOR THE TRUST RECEIPTS DESPITE THE FACT THAT PRIVATE RESPONDENT HAD PREVENTED THEIR FULFILLMENT.
+THE COURT OF APPEALS COMMITTED AN ERROR WHEN IT FOUND PETITIONER ALFREDO CHING LIABLE FOR P15,773,708.78 WITH LEGAL INTEREST AT 12% PER ANNUM UNTIL FULLY PAID DESPITE THE FACT THAT UNDER THE REHABILITATION PLAN OF PETITIONER PBM, WHICH WAS APPROVED BY THE SECURITIES AND EXCHANGE COMMISSION, PRIVATE RESPONDENT IS ONLY ENTITLED TO P1,373,415.00. 
+[45]
+Ching asserted that the Deed of Suretyship dated 21 July 1977 could not answer for obligations not yet in existence at the time of its execution. Specifically, Ching maintained that the Deed of Suretyship could not answer for debts contracted by PBM in 1980 and 1981.  Ching contended that no accessory contract of suretyship could arise without an existing principal contract of loan.  Ching likewise argued that TRB could no longer claim on the trust receipts because TRB had already taken the properties subject of the trust receipts.  Ching likewise maintained that his obligation as surety could not exceed the P1,373,415 apportioned to PBM under the SEC-approved rehabilitation plan.
+In its Comment, TRB asserted that the first two assigned errors raised factual issues not brought before the trial court.  Furthermore, TRB pointed out that Ching never presented PBM's rehabilitation plan before the trial court.  TRB also stated that the Supreme Court ruling in 
+Traders Royal Bank v. Court of Appeals
+ 
+[46]
+ constitutes 
+res judicata
+ between the parties.  Therefore, TRB could proceed against Ching separately from PBM to enforce in full Ching's liability as surety. 
+[47]
+The Ruling of the Court
+The petition has no merit.
+The case before us is an offshoot of the trial court's denial of Ching's motion to have the case dismissed against him.  The petition is a thinly veiled attempt to make this Court reconsider its decision in the prior case of 
+Traders Royal Bank v. Court of Appeals
+. 
+[48]
+  This Court has already resolved the issue of Ching's separate liability as a surety despite the rehabilitation proceedings before the SEC.  We held in 
+Traders Royal Bank
+ that:
+Although Ching was impleaded in SEC Case No. 2250, as a co-petitioner of PBM, the SEC could not assume jurisdiction over his person and properties.  The Securities and Exchange Commission was empowered, as rehabilitation receiver, to take custody and control of the assets and properties of PBM only, for the SEC has jurisdiction over corporations only [and] not over private individuals, except stockholders in an intra-corporate dispute (Sec. 5, P.D. 902-A and Sec. 2 of P.D. 1758).  Being a nominal party in SEC Case No. 2250, Ching's properties were not included in the rehabilitation receivership that the SEC constituted to take custody of PBM's assets.  Therefore, 
+the petitioner bank was not barred from filing a suit against Ching, as a surety for PBM
+.  An anomalous situation would arise if individual sureties for debtor corporations may escape liability by simply co-filing with the corporation a petition for suspension of payments in the SEC whose jurisdiction is limited only to corporations and their corporate assets.
+x x x
+Ching can be sued separately to enforce his liability as surety for PBM, as expressly provided by Article 1216 of the New Civil Code.
+x x x
+It is elementary that a corporation has a personality distinct and separate from its individual stockholders and members.  Being an officer or stockholder of a corporation does not make one's property the property also of the corporation, for they are separate entities (Adelio Cruz vs. Quiterio Dalisay, 152 SCRA 482).
+Ching's act of joining as a co-petitioner with PBM in SEC Case No. 2250 did not vest in the SEC jurisdiction over his person or property, for jurisdiction does not depend on the consent or acts of the parties but upon express provision of law (Tolentino vs. Social Security System, 138 SCRA 428; Lee vs. Municipal Trial Court of Legaspi City, Br. I, 145 SCRA 408).   (Emphasis supplied)
+Traders Royal Bank
+ has fully resolved the issue regarding Ching's liability as a surety of the credit accommodations TRB extended to PBM.  The decision amounts to 
+res judicata
+ 
+[49]
+ which bars Ching from raising the same issue again.  Hence, the only question that remains is the amount of Ching's liability.   Nevertheless, we shall resolve the issues Ching has raised in his attempt to escape liability under his surety.
+Whether Ching is liable for obligations PBM contracted after execution of the Deed of Suretyship
+Ching is liable for credit obligations contracted by PBM against TRB before and after the execution of the 21 July 1977 Deed of Suretyship. This is evident from the tenor of the deed itself, referring to amounts PBM  "may now be indebted or may hereafter become indebted" to TRB.
+The law expressly allows a suretyship for "future debts".  Article 2053 of the Civil Code provides:
+A guaranty may also be given as 
+security for future debts
+, the amount of which is not yet known; there can be no claim against the guarantor until the debt is liquidated. A conditional obligation may also be secured.  (Emphasis supplied)
+Furthermore, this Court has ruled in 
+DiÃ±o v. Court of Appeals
+ 
+[50]
+ that:
+Under the Civil Code, a guaranty may be given to secure even future debts, the amount of which may not be known at the time the guaranty is executed.  This is the basis for contracts denominated as continuing guaranty or suretyship.  A continuing guaranty is one which is not limited to a single transaction, but which contemplates a future course of dealing, covering a series of transactions, generally for an indefinite time or until revoked.  It is prospective in its operation and is generally intended to provide security with respect to future transactions within certain limits, and contemplates a succession of liabilities, for which, as they accrue, the guarantor becomes liable.  Otherwise stated, a continuing guaranty is one which covers all transactions, including those arising in the future, which are within the description or contemplation of the contract of guaranty, until the expiration or termination thereof. A guaranty shall be construed as continuing when by the terms thereof it is evident that the object is to give a standing credit to the principal debtor to be used from time to time either indefinitely or until a certain period; especially if the right to recall the guaranty is expressly reserved.  Hence, where the contract states that the guaranty is to secure advances to be made "from time to time," it will be construed to be a continuing one.
+In other jurisdictions, it has been held that the use of particular words and expressions such as payment of "any debt," "any indebtedness," or "any sum," or the guaranty of "any transaction," or money to be furnished the principal debtor "at any time," or "on such time" that the principal debtor may require, have been construed to indicate a continuing guaranty.
+Whether Ching's liability is limited
+to the amount stated in PBM's rehabilitation plan
+Ching would like this Court to rule that his liability is limited, at most, to the amount stated in PBM's rehabilitation plan.  In claiming this reduced liability, Ching invokes Article 1222 of the Civil Code which reads:
+Art. 1222.  A solidary debtor may, in actions filed by the creditor, avail himself of all defenses which are derived from the nature of the obligation and of those which are personal to him, or pertain to his own share. With respect to those which personally belong to the others, he may avail himself thereof only as regards that part of the debt for which the latter are responsible.
+In granting the loan to PBM, TRB required Ching's surety precisely to insure full recovery of the loan in case PBM becomes insolvent or fails to pay in full.  This was the very purpose of the surety.  Thus, Ching cannot use PBM's failure to pay in full as justification for his own reduced liability to TRB.  As surety, Ching agreed to pay in full PBM's loan in case PBM fails to pay in full for any reason, including its insolvency.
+TRB, as creditor, has the right under the surety to proceed against Ching for the entire amount of PBM's loan.  This is clear from Article 1216 of the Civil Code:
+ART. 1216.   The creditor may proceed against any one of the solidary debtors or some or all of them simultaneously.  The demand made against one of them shall not be an obstacle to those which may subsequently be directed against the others, so long as the debt has not been 
+fully 
+collected. (Emphasis supplied)
+Ching further claims a reduced liability under TRB Board Resolution No. 5935.   This resolution states that PBM's outstanding loans may be reduced to P1.373 million subject to certain conditions like the payment of P150,000 initial payment. 
+[51]
+   The resolution also states that TRB should not release Ching's solidary liability under his surety.  The resolution even directs TRB's management to study Ching's criminal liability under the trust documents. 
+[52]
+Ching's own witness testified that Resolution No. 5935 was never implemented.  For one, PBM or its receiver never paid the P150,000 initial payment to TRB.  TRB also rejected the document that PBM's receiver presented which would have released Ching from his suretyship.  Clearly, Ching cannot rely on Resolution No. 5935 to escape liability under his suretyship.
+Ching's attempts to have this Court review the factual issues of the case are improper.  It is not a function of the Supreme Court to assess and evaluate again the evidence, testimonial and evidentiary, adduced by the parties particularly where the findings of both the trial court and the appellate court coincide on the matter. 
+[53]
+Whether Ching is liable for the trust receipts
+Ching is still liable for the amounts stated in the letters of credit covered by the trust receipts.  Other than his bare allegations, Ching has not shown proof of payment or settlement with TRB.  Atty. Vicente Aranda, TRB's corporate secretary and First Vice President of its Human Resource Management Department, testified that the conditions in the TRB board resolution presented by Ching were not met or implemented, thus:
+ 
+ 
+ATTY. AZURA 
+ 
+ 
+ 
+Q 
+ 
+Going into the resolution itself. A certain stipulation ha[s] been outlined, and may I refer you to condition or step No. 1, which reads: "a) Accept the P1.373 million deposits remitted over a period of 17 years or until 2006 which shall be applied directly to the account (as remitted per hereto attached schedule). The amount of P1.373 million shall be considered as full payment of PBM's account. (The receiver is amenable to this alternative.) The initial deposit/remittance which amounts to P150,000.00 shall be remitted upon approval of the above and conforme of PISCOR [xxx] and PBM. Subsequent deposits shall start on the 3
+rd
+ year and annually thereafter (every June 30
+th
+ of the year) until June 30, 2006.
+ 
+ 
+ 
+ 
+Failure to pay one annual installment shall make the whole obligation due and demandable. Now Mr. Witness, would you be in a position to inform [the court] if these conditions listed in item (a) in Resolution No. 5935, series of 1990, were implemented or met?
+ 
+ 
+ 
+A 
+ 
+Yes. I know for a fact that the conditions, more particularly the initial deposit/remittance in the amount of P150,000.00 which have to be done with approval was not remitted or met.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q
+ 
+ 
+Will you clarify your answer. Would you be in a position to inform the court if those conditions were met? Because your initial answer was yes.
+ 
+ 
+ 
+A 
+ 
+Yes sir, I am in a position to state that these conditions were not met.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q 
+ 
+Let me refer you to the condition listed as item (b) of the same resolution which I read and quote: "Write off immediately P4.278 million. The balance of P1.373 million to remain outstanding in the books of the bank. Said balance will be remitted to the Bank for a period of 17 years." Mr. Witness, would you be in a position to inform the court if the bank implemented that particular condition?
+ 
+ 
+ 
+A 
+ 
+In the implementation of this settlement the receiver prepared a document for approval and conformity of the bank. The said document would in effect release the suretyship of Alfredo Ching and for that reason the bank refused or denied fixing its conformity and approval with the court.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xxx
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ATTY. ATIENZA ON REDIRECT EXAMINATION
+ 
+ 
+ 
+Q 
+ 
+Mr. Witness you stated that the reason why the plaintiff bank did not implement these conditionalities [sic] was because the former defendant corporation requested that the suretyship of Alfredo Ching be released, is that correct?
+ 
+ 
+ 
+A 
+ 
+I did not say that. I said that in effect the document prepared by the lawyer of the receiver xxx the bank would release the suretyship of Alfredo Ching, that is why the bank is not amenable to such a document.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q
+ 
+ Despite this approved resolution the bank, because of said requirement or conformity did not seek to implement these conditionalities [sic]?
+ 
+ 
+ 
+A 
+ 
+Yes sir because the conditions imposed by the board is not being followed in that document because it was the condition of the board that the suretyship should not be released but the document being presented to the bank for signature and conformity in effect if signed would release the suretyship. So it would be a violation with the approval of the board so the bank did not sign the conformity. 
+[54]
+ 
+ 
+Ching also claims that TRB prevented PBM from fulfilling its obligations under the trust receipts when TRB, together with other creditor banks, took hold of PBM's inventories, including the goods covered by the trust receipts.  Ching asserts that this act of TRB released him from liability under the suretyship.   Ching forgets that he executed, on behalf of PBM,  separate Undertakings for each trust receipt expressly granting to TRB the right to take possession of the goods at any time to protect TRB's interests. TRB may exercise such right without waiving its right to collect the full amount of the loan to PBM.  The Undertakings also provide that any suspension of payment or any assignment by PBM for the benefit of creditors renders the loan due and demandable.  Thus, the separate Undertakings uniformly provide:
+That the said 
+BANK may at any time cancel the foregoing trust and take possession of said merchandise with the right to sell and dispose of the same under such terms and conditions it may deem best, or of the proceeds of such of the same as may then have been sold,
+ wherever the said merchandise or proceeds may then be found and all the provisions of the Trust Receipt shall apply to and be deemed to include said above-mentioned merchandise if the same shall have been made up or used in the manufacture of any other goods, or merchandise, and the said BANK shall have the same rights and remedies against the said merchandise in its manufactured state, or the product of said manufacture as it would have had in the event that such merchandise had remained [in] its original state and irrespective of the fact that other and different merchandise is used in completing such manufacture.  In the event of 
+any suspension, or failure or assignment for the benefit of creditors on the part of the undersigned or of the non-fulfillment of any obligation, or of the non-payment at maturity of any acceptance
+ made under said credit, or any other credit issued by the said BANK on account of the undersigned or of the 
+non-payment of any indebtedness on the part of the undersigned to the said BANK, all obligations, acceptances, indebtedness and liabilities whatsoever shall thereupon without notice mature and become due and payable and the BANK may avail of the remedies provided herein
+. 
+[55]
+   (Emphasis supplied)
+Presidential Decree No. 115 ("PD No. 115"), otherwise known as the Trust Receipts Law, expressly allows TRB to take possession of the goods covered by the trust receipts.  Thus, Section of 7 of PD No. 115 states:
+SECTION 7. 
+Rights of the entruster. 
+-- The entruster shall be entitled to the proceeds from the sale of the goods, documents or instruments released under a trust receipt to the entrustee to the extent of the amount owing to the entruster or as appears in the trust receipt, or to the return of the goods, documents or instruments in case of non-sale, and to the enforcement of all other rights conferred on him in the trust receipt provided such are not contrary to the provisions of this Decree.
+The entruster may cancel the trust and take possession of the goods, documents or instruments subject of the trust or of the proceeds realized therefrom at any time upon default or failure of the entrustee to comply with any of the terms and conditions of the trust receipt or any other agreement between the entruster and the entrustee,
+ and the entruster in possession of the goods, documents or instruments may, on or after default, give notice to the entrustee of the intention to sell, and may, not less than five days after serving or sending of such notice, sell the goods, documents or instruments at public or private sale, and the entruster may, at a public sale, become a purchaser. 
+The proceeds of any such sale, whether public or private, shall be applied (a) to the payment of the expenses thereof; (b) to the payment of the expenses of re-taking, keeping and storing the goods, documents or instruments; (c) to the satisfaction of the entrustee's indebtedness to the entruster. The entrustee shall receive any surplus but shall be liable to the entruster for any deficiency
+. Notice of sale shall be deemed sufficiently given if in writing, and either personally served on the entrustee or sent by post-paid ordinary mail to the entrustee's last known business address. (Emphasis supplied)
+Thus, even though TRB took possession of the goods covered by the trust receipts, PBM and Ching remained liable for the entire amount of the loans covered by the trust receipts.
+Absent proof of payment or settlement of PBM and Ching's credit obligations with TRB, Ching's liability is what the Deed of Suretyship stipulates, plus the applicable interest and penalties.  The trust receipts, as well as the Letter of Undertaking dated 16 April 1980 
+[56]
+ executed by PBM, stipulate in writing the payment of interest without specifying the rate.  In such a case, the applicable interest rate shall be the legal rate, which is now 12% per annum. 
+[57]
+  This is in accordance with Central Bank Circular No. 416, which states:
+By virtue of the authority granted to it under Section 1 of Act No. 2655, as amended, otherwise known as the "Usury Law," the Monetary Board, in its Resolution No. 1622 dated July 29, 1974, has prescribed that 
+the rate of interest for the loan or forbearance of any money, goods or credits and the rate allowed in judgments, in the absence of express contract as to such rate of interest, shall be twelve per cent (12%) per annum
+.  (Emphasis supplied)
+On the other hand, the Promissory Note evidencing the P3,500,000 trust loan provides for 18% interest per annum plus 2% penalty interest per annum in case of default.  This stipulated interest should continue to run until full payment of the P3,500,000 trust loan.  In addition, the accrued interest on all the credit accommodations should earn legal interest from the date of filing of the complaint pursuant to Article 2212 of the Civil Code.
+Art. 2212.  Interest due shall earn legal interest from the time it is judicially demanded, although the obligation may be silent upon this point.
+The trial court found and the appellate court affirmed that the outstanding principal amounts as of the filing of the complaint with the trial court on 13 May 1983 were P959,611.96 under Trust Receipt No. 106, P1,191,137.13 under Trust Receipt No. 113, and P3,500,000 for the trust loan.  As extracted from TRB's Statement of Account as of 31 October 1991, 
+[58]
+ the accrued interest on the trust receipts and the trust loan as of the filing of the complaint on 13 May 1983 were P311,387.51 
+[59]
+ under Trust Receipt No. 106, P338,739.81 
+[60]
+ under Trust Receipt No. 113, and P1,287,616.44 
+[61]
+ under the trust loan.  The penalty interest on the trust loan amounted to  P137,315.07. 
+[62]
+ Ching did not rebut this Statement of Account which TRB presented during trial.
+Thus, the following is the summary of Ching's liability under the suretyship as of 13 May 1983, the date of filing of TRB's complaint with the trial court:
+ 
+ 
+1.
+ 
+On Trust Receipt No. 106 (Letter of Credit No. 479 AD) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Outstanding Principal 
+ 
+P 959,611.96 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accrued Interest (12% per annum) 
+ 
+311,387.51
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.
+ 
+On Trust Receipt No. 113 (Letter of Credit No. 563 AD) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Outstanding Principal 
+ 
+P 1,191,137. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accrued Interest (12% per annum)
+ 
+338,739.82
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.
+ 
+On the Trust Loan (Promisorry Note) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Outstanding Principal
+ 
+P 3,500,000.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accrued Interest (18% per annum) 
+ 
+1,287,616.44
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accrued Penalty Interest (2% per annum) 
+ 
+137,315.07
+ 
+ 
+WHEREFORE
+, we AFFIRM the decision of the Court of Appeals with MODIFICATION.  Petitioner Alfredo Ching shall pay respondent Traders Royal Bank the following (1) on the credit accommodations under the trust receipts, the total principal amount of P2,150,749.09 with legal interest at 12% per annum from 14 May 1983 until full payment; (2) on the trust loan evidenced by the Promissory Note, the principal sum of P3,500,000 with 20% interest per annum from 14 May 1983 until full payment; (3) on the total accrued interest as of 13 May 1983, P2,075,058.84 with 12% interest per annum from 14 May 1983 until full payment.  Petitioner Alfredo Ching shall also pay attorney's fees to respondent Traders Royal Bank equivalent to 5% of the total principal and interest.
+SO ORDERED.
+Davide, Jr., C.J. (Chairman), Vitug 
+and 
+Azcuna, JJ.,
+ concur.
+Ynares-Santiago, J.,
+ on leave.
+ 
+[1]
+ Under Rule 45 of the Rules of Court.
+ 
+[2]
+ Penned by Associate Justice Conchita Carpio-Morales, with Associate Justices Artemon D. Luna and Bernardo P. Abesamis, concurring.
+ 
+[3]
+ Penned by Judge Baltazar Relativo Dizon.
+ 
+[4]
+ Annex "A," Records, p. 11; Exh. "O," Records, p. 382.
+ 
+[5]
+ Annex "D," Records, p. 23; Exh. "O," Records, p. 382.
+ 
+[6]
+ Annex "H," Records, p. 44.
+ 
+[7]
+ Annex "J," Records, p. 46.
+ 
+[8]
+ Interest rate in item number 6 was left blank. Annexes "G" to "G-5," Records, pp. 38-43.
+ 
+[9]
+ Annex "H," Records, p. 44.
+ 
+[10]
+ In the Matter of the Petition for Suspension of Payments, Philippine Blooming Mills Co., Inc., et al.
+ 
+[11]
+ 
+Rollo
+, p. 19.
+ 
+[12]
+ 
+Ibid
+.
+ 
+[13]
+ Records, pp. 7-8.
+ 
+[14]
+ 
+Ibid
+., p. 47.
+ 
+[15]
+ 
+Ibid
+., p. 48.
+ 
+[16]
+ 
+Ibid
+., pp. 59-62.
+ 
+[17]
+ Section 3 of  PD No. 1758 provides as follows:  "Section 5 of the same Presidential Decree (PD No. 902-A)  is hereby amended by adding thereunder sub-paragraph d) to read as follows:
+d)         Petitions of corporations, partnerships or associations to be declared in the state of suspension of payments in cases where the corporation, partnership or association possesses sufficient property to cover all its debts but foresees the impossibility of meeting them when they respectively fall due or in cases where the corporation, partnership or association has no sufficient assets to cover its liabilities, but is under the management of a Rehabilitation Receiver or Management Committee created pursuant to this Decree."
+ 
+[18]
+ Records, pp. 87-89.
+ 
+[19]
+ 
+Ibid
+., pp. 90-91.
+ 
+[20]
+ Docketed  as  CA-G.R. SP No. 03593,  29 April 1987,  Records,  pp. 119-125. Entitled "Alfredo Ching 
+v.
+ Hon. Baltazar R. Dizon, Judge, Regional Trial Court, Pasay City, Br. 113,  and Traders Royal Bank."
+ 
+[21]
+ Penned by Associate  Justice Jesus M. Elbinias, with Associate Justices Fidel P. Purisima and Emeterio C. Cui, concurring.
+ 
+[22]
+ G.R. No. 78412, 26 September 1989, 177 SCRA 788,  Records, pp. 198-205.  Penned by Associate Justice Carolina C. GriÃ±o-Aquino, with Associate Justices Andres R. Narvasa, Isagani A. Cruz, Emilio A. Gancayco, and Leo D. Medialdea, concurring.
+ 
+[23]
+ Exh. "1," Records, pp. 167-181.
+ 
+[24]
+ Records, pp. 159-165.
+ 
+[25]
+ Exh. "O," Records, p. 382.
+ 
+[26]
+ Records, p. 214.
+ 
+[27]
+ TSN, 15 November 1991, Records, p. 417 (Lauro Francisco).
+ 
+[28]
+ TSN, 15 November 1991, Records, p. 416 (Lauro Francisco); 6 December 1991, Records, pp. 434-450 (Carla Pecson).
+ 
+[29]
+ TSN, 15 November 1991, Records, p. 416 (Lauro Francisco); 10 January 1992, Records, pp. 453-462 (Carla Pecson).
+ 
+[30]
+ TSN, 15 November 1991, Records, p. 416 (Lauro Francisco); 10 January 1992, Records, pp. 464-465 (Carla Pecson).
+ 
+[31]
+ TSN, 15 November 1991, Records, pp. 418-419 (Lauro Francisco); 10 January 1992, Records, pp. 467-468 (Carla Pecson).
+ 
+[32]
+ TSN, 6 July 1992, Records, pp. 524-529.
+ 
+[33]
+ Exh. "I," Records, p. 395.
+ 
+[34]
+ 
+Ibid
+.
+ 
+[35]
+ TSN, 6 July 1992, Records, pp. 534-537.
+ 
+[36]
+ Records, pp. 542-543.
+ 
+[37]
+ 
+Ibid
+., p. 545.
+ 
+[38]
+ CA 
+Rollo
+, p. 35.
+ 
+[39]
+ Art. 1956.  No interest shall be due unless it has been expressly stipulated in writing.
+ 
+[40]
+ CA 
+Rollo
+, pp. 39-43.
+ 
+[41]
+ 
+Ibid
+., p. 57.
+ 
+[42]
+ 
+Rollo
+, p. 23.
+ 
+[43]
+ 
+Ibid
+., pp. 23-24.
+ 
+[44]
+ 
+Ibid
+., p. 27.
+ 
+[45]
+ 
+Ibid
+., p. 11.
+ 
+[46]
+ 
+Supra,
+ note 22.
+ 
+[47]
+ 
+Rollo
+, pp. 134-136.
+ 
+[48]
+ 
+Supra,
+ note 22.
+ 
+[49]
+  The following are the requisites of 
+res judicata:
+The  former judgment or order must be final;
+It must have been rendered by a court having jurisdiction of the subject matter and of the parties;
+It must be a judgment or order on the merits; and
+There must be identity of parties, of subject matter, and of cause of action between the first and second actions.   San Diego v. Cardona, 70 Phil. 281 (1940); Dr. Santos v. Gabriel, 150-A Phil. 641 (1972).
+ 
+[50]
+ G.R. No. 89775, 26 November 1992, 216 SCRA 9.
+ 
+[51]
+ Exh. "1-a," Records, p. 395.
+ 
+[52]
+ Exh. "Q," Records, p. 395.
+ 
+[53]
+ Republic  v. Court of Appeals, G.R. No. 116372, 18 January 2001, 349 SCRA 87; Telefunken Semiconductors Employees Union-FFW  v. Court of Appeals, G.R. No. 143013-14, 18 December 2000, 348 SCRA 565; Sulpicio Lines, Inc.  v. Court of Appeals, 365 Phil. 21 (1999).
+ 
+[54]
+ TSN, 6 July 1992, Records, pp. 534-537.
+ 
+[55]
+ Annexes "G" to "G-5," Records, pp. 38-43.
+ 
+[56]
+ Records, p. 330.
+ 
+[57]
+ Tan  . Court of Appeals, G.R. No. 116285, 19 October 2001, 367 SCRA 571; Eastern Shipping Lines, Inc.  v. Court of Appeals, G.R. No. 12 July 1994, 234 SCRA 78; Reformina  v. Tomol, Jr., No. L-59096, 11 October 1985, 139 SCRA 260.
+ 
+[58]
+ Exh. "K," Records, p. 363.
+ 
+[59]
+ Legal Interest Pursuant to Central Bank Circular No. 416 = 12% per annum
+Period from 29 August 1980 (Execution of trust receipt) to 13 May 1983 (Filing of the complaint) = 987 days
+Interest Due = (Principal) (Interest Rate) (Number of Days) / 365 days
+Interest Due = (P959,611.96) (.12)  (987days)/365 days = P311,387.51
+ 
+[60]
+ Legal Interest Pursuant to Central Bank Circular No. 416 = 12% per annum
+Period from 29 December 1980 (Execution of trust receipt) to 13 May 1983 (Filing of the complaint) = 865 days
+Interest Due = (Principal) (Interest Rate) (Number of Days) / 365 days
+Interest Due = (P1,191,137.13) (.12) (865 days)/365 days = P338,739.82
+ 
+[61]
+ Stipulated Interest Rate = 18% per annum
+Period from 27 April 1981(Execution of promissory note) to 13 May 1983 (Filing of the complaint) = 746 days
+Interest Due = (Principal) (Interest Rate) (Number of Days) / 365 days
+Interest Due = (P3,500,000) (.18) (746 days)/365 days = P1,287,616.44
+ 
+[62]
+ Stipulated Penalty Interest Rate = 2% per annum
+Period from 27 May 1980 (Maturity of promissory note) to 13 May 1983 (Filing of the complaint) = 716 days
+Interest Due = (Principal) (Interest Rate) (Number of Days) / 365 days
+Interest Due = (P3,500,000) (.02) (716 days)/365 days = P137,315.07
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

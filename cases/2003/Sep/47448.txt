@@ -1,0 +1,286 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			457 Phil. 771
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 153126, September 11, 2003 ]
+
+
+MONTEREY FOODS CORP. AND RAMON F. LLANOS, PETITIONERS, VS. VICTORINO E. ESERJOSE, AND THE BRANCH SHERIFF ASSIGNED TO THE REGIONAL TRIAL COURT OF QUEZON CITY, BRANCH 224, NATIONAL CAPITAL JUDICIAL REGION, RESPONDENTS.
+DECISION
+
+
+
+
+YNARES-SANTIAGO, J.:
+
+
+This is a petition for review seeking to reverse and set aside the decision
+[1]
+ of the Court of Appeals dated November 21, 2001, which upheld the Orders of the Regional Trial Court of Quezon City, Branch 224 in Civil Case No. Q-98-36421.
+[2]
+It is alleged in the petition that for a period of twelve years, respondent bought from petitioner Monterey Foods Corporation live cattle and hogs which he in turn sold and distributed to his customers.  The transactions were covered by invoices and delivery receipts and were payable within ten days from invoice date.  Due to respondent's inability to pay for his purchases, his overdue account amounted to P87,434,689.37, and as a consequence, petitioner corporation ceased its transactions with respondent.
+Sometime in 1998, during the existence of the contractual relations between the parties, they entered into a contract growing agreement whereby petitioner corporation supplied livestock for respondent to grow, care for and nurture in his farm located in San Jose, Batangas.  After five months of operation, petitioner corporation withdrew from the contract without paying respondent for his services, alleging that respondent failed to post the requisite bond under the contract and poorly performed his farm management functions to the detriment of the animals.
+Respondent repeatedly demanded that petitioner corporation pay him for his services under the contract, amounting to P1,280,000.00.  His demands went unheeded; thus, he filed with the Regional Trial Court of Quezon City, Branch 224, an action for sum of money and damages against petitioner corporation and its President, petitioner Ramon F. Llanes, which was docketed as Civil Case No. Q-98-36421.
+[3]
+ After petitioners filed their Joint Answer, the case was scheduled for pre-trial conference on May 14, 1999.
+At the pre-trial conference, petitioners and their counsel failed to appear, and an Order was issued declaring them as in default and allowing respondent to present evidence 
+ex parte
+.
+[4]
+  On May 24, 1999, the trial court rendered judgment, the dispositive portion of which reads:
+ WHEREFORE, premises considered, judgment is hereby rendered in favor of the plaintiff and against the defendants ordering the latter to pay the former the following: 
+ 
+P1,280,000.00 representing the principal obligation; 
+P100,000.00, jointly and severally, as damages; and 
+P50,000.00 as attorney's fees. 
+ IT IS SO ORDERED.
+[5]
+Petitioners filed a motion for new trial,
+[6]
+ which the trial court granted.
+[7]
+  Hence, the case was again set for pre-trial conference and both parties submitted their respective pre-trial briefs.
+[8]
+After the pre-trial, respondent submitted a manifestation and motion alleging that petitioners have admitted their liability under the contract growing agreement at least to the extent of P482,766.88 when they alleged in their Joint Answer: "In accordance with the standard contract growing fee provision plaintiff [respondent herein] was entitled to a compensation of net P482,766.88."
+[9]
+ Respondent thus prayed that reverse trial be conducted.
+[10]
+Petitioners opposed the manifestation and motion, stating that the reverse trial order has no basis since the amount allegedly admitted was dramatically less than the total of P1,280,000.00 claimed by respondent.
+[11]
+At the initial hearing of the case, petitioners confirmed in open court that they indeed entered into a contract growing agreement with respondent and that the latter was entitled to a net compensation of P482,766.88 under the said contract.
+[12]
+ The trial court, acting on petitioners' judicial admission, rendered partial summary judgment insofar as the amount of P482,766.88 was concerned, and set the case for trial for the presentation of evidence on petitioners' claim for damages.
+[13]
+ Respondent moved for the execution of the partial summary judgment, which the trial court granted.
+Petitioners filed a motion for reconsideration, which was denied for lack of merit.
+[14]
+ Accordingly, on December 15, 1999, the trial court issued a writ of execution directing the sheriff to cause the execution of the partial summary decision.
+[15]
+On December 17, 1999, petitioners filed a petition for 
+certiorari
+ before the Court of Appeals, docketed as CA-G.R. SP No. 56305.
+[16]
+ On November 21, 2001, the Court of Appeals dismissed the petition.
+[17]
+ Petitioners' motion for reconsideration was likewise denied for lack of merit.
+[18]
+Petitioners are now before us assigning the following errors:
+ A.
+WHETHER OR NOT THE COURT OF APPEALS COMMITTED A CLEAR AND REVERSIBLE ERROR WHEN IT SANCTIONED THE WRIT OF EXECUTION ISSUED BY THE TRIAL COURT OF A PARTIAL SUMMARY JUDGMENT WHICH WAS NOT YET FINAL IN CHARACTER.
+B.
+WHETHER OR NOT THE COURT OF APPEALS COMMITTED A CLEAR AND REVERSIBLE ERROR WHEN IT UPHELD THE WRIT OF EXECUTION OF THE PARTIAL SUMMARY JUDGMENT ISSUED ON AN EX-PARTE MOTION THAT DENIED PETITIONER AN OPPORTUNITY TO BE HEARD.
+C.
+WHETHER OR NOT THE COURT OF APPEALS COMMITTED A CLEAR AND REVERSIBLE ERROR WHEN IT UPHELD THE WRIT OF EXECUTION OF THE PARTIAL SUMMARY JUDGMENT ISSUED ON THE BASIS THAT A BOND IS SUFFICIENT REASON FOR DISCRETIONARY EXECUTION TO ISSUE.
+D.
+WHETHER OR NOT THE COURT OF APPEALS COMMITTED A CLEAR AND REVERSIBLE ERROR WHEN IT UPHELD THE WRIT OF EXECUTION ON THE BASIS OF A PARTIAL SUMMARY JUDGMENT THAT IS PATENTLY INVALID
+E.
+WHETHER OR NOT THE COURT OF APPEALS COMMITTED A CLEAR AND REVERSIBLE ERROR WHEN IT UPHELD THE PARTIAL SUMMARY JUDGMENT THAT WAS RENDERED IN DISPARAGEMENT OF DUE PROCESS.
+F.
+WHETHER OR NOT THE COURT OF APPEALS COMMITTED A CLEAR AND REVERSIBLE ERROR WHEN IT UPHELD THE TRIAL COURT'S PARTIAL SUMMARY JUDGMENT ISSUED ON THE BASIS THAT THERE ARE NO GENUINE TRIABLE ISSUES OF FACT
+G.
+WHETHER OR NOT THE COURT OF APPEALS COMMITTED A CLEAR AND REVERSIBLE ERROR WHEN IT SANCTIONED THE DEPARTURE OF THE TRIAL COURT FROM THE ACCEPTED AND USUAL COURSE OF JUDICIAL PROCEEDINGS.
+[19]
+Simply put, the primordial question to be resolved hinges on whether summary judgment is proper in the case at bar.
+A summary judgment or accelerated judgment is a procedural technique to promptly dispose of cases where the facts appear undisputed and certain from the pleadings, depositions, admissions and affidavits on record, or for weeding out sham claims or defenses at an early stage of the litigation to avoid the expense and loss of time involved in a trial.  Its object is to separate what is formal or pretended in denial or averment from what is genuine and substantial so that only the latter may subject a party in interest to the burden of trial.
+[20]
+ Moreover, said summary judgment must be premised on the absence of any other triable genuine issues of fact.
+[21]
+ Otherwise, the movant cannot be allowed to obtain immediate relief.  A "genuine issue" is such issue of fact which requires presentation of evidence as distinguished from a sham, fictitious, contrived or false claim.
+[22]
+Rule 35, Section 3 of the Rules of Court provides two (2) requisites for summary judgment to be proper: (1) there must be no genuine issue as to any material fact, except for the amount of damages; and (2) the party presenting the motion for summary judgment must be entitled to a judgment as a matter of law.
+[23]
+Applying these principles to the case at bar, we find that the Court of Appeals did not commit any reversible error in affirming the assailed orders of the trial court.  Hence, the instant petition must be denied.
+The record shows that at the hearing on November 25, 1999, petitioners admitted liability under the contract growing agreement in the amount of P482,766.88.
+[24]
+ As a result, respondent agreed to waive all his other claims in the complaint, including his claim for consequential damages.
+[25]
+ Correspondingly, insofar as the complaint was concerned, there was no other genuine issue left for which the complaint for sum of money and damages may be prosecuted.  Also by reason of such admission, petitioners, in effect, likewise waived whatever defenses they may have to deter recovery by respondent under the said contract.  Thus, respondent became entitled, as a matter of law, to the execution of the partial summary judgment.  When there are no genuine issues of fact to be tried, the Rules of Court allows a party to obtain immediate relief by way of summary judgment.  In short, since the facts are not in dispute, the court is allowed to decide the case summarily by applying the law to the material facts.
+[26]
+Clearly, the judgment finally disposed of all the reliefs sought in the complaint.  The order granting summary judgment was akin to a judgment on the merits made after a full-blown trial.  Its consequent execution, therefore, may issue as a matter of right in favor of respondent unless appeal was seasonably made therein, which petitioners failed to do.  Instead of filing a notice of appeal with the trial court, petitioners elevated the matter to the Court of Appeals 
+via 
+petition for certiorari under Rule 65 of the Rules of Court, which is not a substitute for the lost remedy of appeal.
+Petitioners maintain that the order granting partial summary judgment was merely interlocutory in nature and did not dispose of the action in its entirety.  They cite the doctrines laid down in 
+Province of Pangasinan v. Court of Appeals
+[27]
+ and 
+Guevarra v. Court of Appeals
+,
+[28]
+ where the Court categorically stated that a partial summary judgment is not a final or appealable judgment.
+Petitioners' position is untenable.
+The rulings in 
+Province of Pangasinan 
+and 
+Guevarra
+ is not applicable in the case at bar.  The said cases specifically delved on the appeal of a partial summary judgment, which did not dispose of all the reliefs sought in the complaint.  In the case at bar, other than the admitted liability of petitioners to respondents under the contract growing agreement, all other reliefs sought under the complaint had already been expressly waived by respondent before the trial court. Accordingly, the assailed November 25, 1999 Order of the trial court which granted partial summary judgment in favor of respondent was in the nature of a final order which leaves nothing more for the court to adjudicate in respect to the complaint.  In 
+Santo Tomas University Hospital v. Surla
+,
+[29]
+ the Court distinguished a final judgment or order from an interlocutory issuance in this wise:
+ The concept of a 
+final judgment or order
+, distinguished form an interlocutory issuance, is that the former decisively 
+puts to a close, or disposes of a case or a disputed issue leaving nothing else to be done by the court in respect thereto
+.  Once that judgment or order is rendered, 
+the adjudicative task of the court is likewise ended on the particular matter involved
+.  An order is interlocutory, upon the other hand, if its effects would only be provisional in character and would still leave substantial proceedings to be further had by the issuing court in order to put the controversy to rest.
+We are not unmindful of petitioners' counterclaim.  However, our cursory evaluation of the same fails to convince us that the issues raised therein are closely related to or intertwined with the growing contract agreement.  The issues raised therein clearly involved transactions distinct and separate from the growing contract agreement; they refer to the alleged obligations of respondent under their separate contract for the sale and distribution of cattle and hogs.  As such, these are in the nature of permissive counterclaims which can be litigated independently of the main complaint.
+Petitioners also argue that they were denied an opportunity to be heard on the motion to execute the summary judgment; and that the summary judgment was rendered in disregard of due process.
+The argument is not well-taken.
+A party cannot successfully invoke deprivation of due process if he was accorded the opportunity of a hearing, through either oral arguments or pleadings.
+[30]
+ Contrary to petitioners' claims, the record shows that petitioners were duly represented by counsel when the motion for summary judgment as well as the execution of the same were heard by the trial court.  Petitioners' counsel did not register any opposition to respondent's oral motion for summary judgment, saying that under the Rules of Court it should be furnished a written motion for summary judgment at least 10 days before it is heard.  We find, however, that the absence of the written notice did not divest the trial court of authority to pass on the merits of the motion made in open court.  The order of the court granting the motion for summary judgment and its execution thereof despite absence of a notice of hearing, or proof of service thereof, is merely an irregularity in the proceedings.  It cannot deprive the court of its authority to pass on the merits of the motion.  The remedy of the aggrieved party in such cases is either to have the order set aside or the irregularity otherwise cured by the court, or to appeal from the final judgment, and not thru certiorari.
+[31]
+In fact, the counsel for petitioners actively participated in disposing of the reliefs prayed for in the complaint when he sought the reduction in respondent's claim to P482,766.88. Besides, we find from the records that petitioners expressly agreed to the summary judgment
+[32]
+ and to the execution of the same after respondent posts a bond in an amount fixed by the court.
+[33]
+ In short, petitioners were never deprived of their day in court.  Thus, they cannot now be allowed to claim that they were denied due process.  The Rules of Court should be liberally construed in order to promote their objective of securing a just, speedy and inexpensive disposition of every action and proceeding.
+[34]
+Thus, in 
+Ley Construction and Development Corporation v. Union Bank of the Philippines
+,
+[35]
+ it was held:
+ Admittedly, there is nothing in the records which indicates that Judge Arcangel conducted a hearing before he resolved respondent's motion for summary judgment.  Nevertheless, as explained in 
+Carcon Development Corporation v. Court of Appeals
+, in proceedings for summary judgment, the court is merely expected to act chiefly on the basis of what is in the records of the case and that the hearing contemplated in the Rules is not 
+de riguer 
+as its purpose is merely to determine whether the issues are genuine or not, and not to receive evidence on the issues set up in the pleadings.
+xxx.  In view of the fact that they admitted having incurred the obligation which is the basis of the complaint, a hearing would have served no pertinent purpose.  The records already provide sufficient basis for the court to resolve respondent's motion. Thus, we find that even if the trial court did not conduct a hearing, this fact would not affect the validity of the summary judgment rendered by Judge Arcangel.
+Neither does the fact that respondent's motion to resolve its motion for summary judgment was filed 
+ex parte 
+affect the validity of Judge Arcangel's resolution.  The requirement in Rule 35, Â§3 that the opposing party be furnished a copy of the motion 10 days before the time specified for the hearing applies to the motion for summary judgment itself and not to the motion to resolve such motion. xxx. Thus, it could not be said that they were deprived of the opportunity to question the motion.
+WHEREFORE,
+ in view of all the foregoing, the instant petition for review is 
+DENIED 
+for lack of merit.  The assailed decision of the Court of Appeals dated November 21, 2001 in CA-G.R. SP No. 56305, which affirmed the Orders of the Regional Trial Court of Quezon City, Branch 224, directing the execution of partial summary judgment in Civil Case No. Q-98-36421, is 
+AFFIRMED
+.
+SO ORDERED.
+Davide, Jr., C.J., (Chairman), Vitug
+, and 
+Carpio, JJ.
+, concur.
+Azcuna, J.
+, on official leave.
+ 
+[1]
+ Penned by Associate Justice Eubulo G. Verzola, concurred in by Associate Justices Rodrigo V. Cosico and Eliezer R. De Los Santos.
+[2]
+ Rollo, pp. 96-99; penned by Judge Emilio L. Leachon, Jr.
+[3]
+ Rollo, pp. 100-103.
+[4]
+ Rollo, p. 133.
+[5]
+ 
+Id
+., p. 131.
+[6]
+ 
+Id
+., pp. 134-152.
+[7]
+ 
+Id
+., pp. 157-160.
+[8]
+ RTC Record, Vol. I, p. 214.
+[9]
+ Joint Answer, p. 9, par. (c); Rollo, p. 113.
+[10]
+ Rollo, p. 161.
+[11]
+ 
+Id
+., p. 167.
+[12]
+ TSN, 25 November 1999, p. 66.
+[13]
+ 
+Supra
+, note 2; TSN, 25 November 1999, pp. 73-74.
+[14]
+ 
+Supra
+, note 3.
+[15]
+ 
+Supra
+, note 4.
+[16]
+ Rollo, pp. 65-95.
+[17]
+ 
+Id
+., pp. 57-64.
+[18]
+ 
+Id
+., p. 256.
+[19]
+ Petition, pp. 11-12; Rollo, pp. 18-19.
+[20]
+ Spouses Agbada v. Inter-Urban Developers, Inc., et al., G.R. No. 144029, 19 September 2002, citing Excelsa Industries, Inc. v. CA, 317 Phil. 664 (1995).
+[21]
+ Solidbank Corporation v. Court of Appeals, G.R. No. 120010, 3 October 2002.
+[22]
+ Manufacturer's Hanover Trust Co. and/or Chemical Bank v. Guerrero, G.R. No. 136804, 19 February 2003.
+[23]
+ Solidbank Corporation v. Court of Appeals, 
+supra.
+[24]
+ TSN, 25 November 1999, p. 66.
+[25]
+ TSN, 25 November 1999, pp. 27-29.
+[26]
+ 
+Supra
+, note 26.
+[27]
+ G.R. No. 104266, 31 March 1993, 220 SCRA 726.
+[28]
+ G.R. Nos. L-49017 and L-49024, 30 August 1983, 124 SCRA 297.
+[29]
+ 355 Phil. 804, 811 (1998).
+[30]
+ Alauya, Jr. v. COMELEC, G.R. Nos. 152151-52, 22 January 2003; 
+See
+ Rule 15, Section 2 of the Rules of Court provides: All motions shall be in writing 
+except
+ those made in open court or in the course of a hearing or trial.
+[31]
+ See Galvez v. CA, G.R. No. 114046, 24 October 1994, 237 SCRA 685, 698, citing People, et al. v. Vergara, etc., et al., G.R. Nos. 101557-58, 28 April 1993, 221 SCRA 560, 570-571.
+[32]
+ TSN, 25 November 1999, pp. 42-50.
+[33]
+ TSN, 25 November 1999, pp. 68-69.
+[34]
+ Section 6, Rule 1 of the Rules of Court.
+[35]
+ 389 Phil. 788, 799 (2000).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

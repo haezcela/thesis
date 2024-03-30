@@ -1,0 +1,793 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			456 Phil. 755
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 129368, August 25, 2003 ]
+
+
+LAND BANK OF THE PHILIPPINES, PETITIONER, VS. THE HON. COURT OF APPEALS, MAMERTA B. RODRIGUEZ, SPS. ARMANDO AND ZENAIDA STA ANA, EL OBSERVATORIO DE MANILA INCORPORADA, SPS. WILFREDO AND AURORA POSADAS, REGINALD F. FRANCISCO, BIENVENIDO L. MACEDA, SPS. HECTOR AND MATILDE MENDOZA AND EUGENIO V. ROMILLO, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+CALLEJO, SR., J.:
+
+
+Before this Court is a petition for 
+certiorari
+ under Rule 65 of the Revised Rules of Court which seeks to annul and set aside the Decision
+[1]
+ and Resolution of the Court of Appeals in CA-G.R. CV Nos. 12533-35 dated November 12, 1996 and April 14, 1997, respectively, reversing the Order
+[2]
+ of the Regional Trial Court of Makati City, Branch 136, in Special Proceedings Cases Nos. M-108, M-125 and M-126.
+THE ANTECEDENTS
+Manotoc Securities, Inc. (MSI) was a duly licensed broker and dealer in securities, doing business and operating under the provisions of the Securities Act. The Insular Bank of Asia and America (IBAA) and the Land Bank of the Philippines (LBP) are private commercial banking corporations duly authorized to operate as trust companies.
+IBAA and MSI offered and sold securities to the public. Among the purchasers were private respondents Mamerta B. Rodriguez, the Spouses Armando and Zenaida Sta. Ana, El Observatorio de Manila, Incorporada, Spouses Wilfredo and Aurora Posadas, Reginald F. Francisco, Bienvenido L. Maceda, Spouses Hector and Matilde Mendoza, and Eugenio V. Romillo.
+[3]
+ As evidence of their purchases, the private respondents executed individual investment agreements with MSI.
+Under the said agreements, MSI undertook to invest funds primarily in a portfolio of certain specified securities for fixed periods of time, and to return upon maturity the funds of the investors and their corresponding share in the income of the same. As security for compliance of its undertaking with private respondents, MSI, as the investment agent of the private respondents, delivered qualified securities to the IBAA. Thus, on August 19, 1976, MSI and IBAA executed a custodianship agreement in which the latter was constituted as custodian bank of the investment portfolio/collateral pool of securities of the private respondents with corresponding duties and responsibilities thereunder defined, some of which are as follows:
+g)
+To sell out the portfolio in whole or in part upon failure by the Company to deliver additional securities as provided for in Section 2.03 hereof, up to an amount that would at least equal to the maximum security value of the Custodian Receipt outstanding and to hold such proceeds from the sale as part of the portfolio under cash accounts until duly claimed (i) by the Company upon presentation of additional qualified securities or cancellation of custodian receipts or (ii) the Investor upon failure of the Company to make such presentation, upon proper presentation of the Investment Agreement together with the Custodian Receipt.
+ 
+ 
+h)
+To do and perform such other acts and things as the Company may, by any future instrument in writing delivered to the Custodian, require of the Custodian, provided that such other acts and things are germane to the intent and purpose of this Agreement.
+[4]
+ of default by the investment agent, the custodian bank as its attorney-in-fact was authorized to sell so much of the qualified securities held in the portfolio and to apply the proceeds thereof, thus:
+Section 5.03. 
+Sale of Securities Portfolio
+The Company, by adhesion to this Agreement in the manner herein provided, shall be deemed as having expressly in (
+sic
+) irrevocably constituted and appointed the Custodian, as its true and lawful attorney-in-fact, with full power and authority, upon the occurrence of an event of default, to perform the following:
+a)
+To sell so much of the qualified securities held in the portfolio as may be necessary to satisfy the amounts due and payable whether by term or by declaration or otherwise such sale to be effected at such time or times as the Trustee may determine, and any such sale or sales may be made at a public or private sale in any broker's board or securities exchange, or may be made over-the-counter;
+ 
+ 
+b)
+To collect and receive the proceeds of the sale and to issue receipts therefor and/or execute and/or deliver such papers or documents and perform such acts as may be necessary to transfer to the purchaser or purchasers of the qualified securities so sold, all the rights, title and interest on such securities.
+Section 5.04. Application of Proceeds of Sale; Accounting
+The proceeds from the sale of the qualified securities held in the Portfolio shall be applied as follows:
+a) 
+First
+To the payment of the costs and expenses of the sale, and the compensation and other claims of the Custodian pursuant to Section 3.09 hereof;
+ 
+ 
+b) 
+Second
+To the payment in full of the amounts then due and unpaid for principal and income of the Investor's investment upon the maturity of the Investment Agreement;
+ 
+ 
+c) 
+Third
+To the placement of cash accounts as part of the portfolio so as to maintain the aggregate maximum security value required to cover custodian receipts outstanding pursuant to Section 2.03 and 3.01 (g) hereof;
+ 
+ 
+d) 
+Fourth
+Any surplus remaining shall be returned to the Company, its successors or assigns or to whomsoever may be lawfully entitled to receive the same.
+The Custodian shall submit and render to the Company written statements and reports of sales transactions under this Section, if any, fifteenth (15th) day of each calendar month.
+[5]
+MSI executed in favor of IBAA, conformably to the said custodianship agreement, deeds of assignment, quoted in part as follows:
+NOW THEREFORE, for and in consideration of the foregoing premises and by way of security for the faithful compliance by the Company with the terms and conditions of the Investment Agreement and pursuant to the Agreement, the Company 
+hereby transfers, assigns, sets over and delivers to the Custodian for the benefit and security of Investors, all rights, title and interest whether legal or beneficial in and to the securities more particularly described in the schedule attached hereto
+ as Exhibit "1" hereof, and to such other securities as may from time to time be brought under the operation of this assignment from time to time by way of supplementary schedules hereto incorporated and made an integral part hereof by their terms of reference.
+The Company hereby reiterates and affirms, as integral parts of this Agreement, all of the warranties set forth in Section 4.01 of the Agreement, to which Agreement reference is hereby made for the other terms and conditions applicable hereto.
+[6]
+On December 12, 1979, MSI as trustor and LBP as trustee executed a contract denominated as "Substitution of Trustee with Assumption of Liabilities" in which LBP substituted and succeeded IBAA as custodian bank of the collateral pool of securities under the custodianship agreement, and thus assumed the previous duties and responsibilities of IBAA as custodian and safekeeper of qualified securities for the benefit of the investors:
+ Also effective as of December 12, 1979, Land Bank has agreed to be substituted as Custodian in place of IBAA under the aforementioned Custodianship Agreement, and has assumed any and all liabilities of IBAA thereunder.
+ IBAA, upon the instruction of the TRUSTOR shall, under the mechanics to be agreed upon subsequent hereto, transfer the custody and management of the collateral pool to LAND BANK.
+ TRUSTOR undertake[s] to hold IBAA free from any and all liability which may arise under the CUSTODIANSHIP AGREEMENT, referred to above, and agree to defend IBAA from any and all suits which may arise by virtue thereof.
+ LAND BANK undertakes to collect all outstanding IBAA Custodian Receipts issued pursuant to the CUSTODIANSHIP AGREEMENT mentioned above, and to substitute its own Custodianship Receipts thereof within thirty (30) days from the execution of this AGREEMENT.
+ LAND BANK further agrees to notify all investors of the fact of substitution of IBAA as trustee of the collateral pool, pursuant to Section 3.05 of the CUSTODIANSHIP AGREEMENT dated August 19, 1976.
+ The provision of Section 3.04-A of the said AGREEMENT relative to the effectivity of removal or resignation of the trustee after the thirtieth banking day from date of notice is hereby waived.
+ The TRUSTOR shall, upon the execution of this AGREEMENT, liquidate all its outstanding obligations with IBAA, including but not limited to outstanding trust fees and out of pocket expenses.
+ Upon the execution of this AGREEMENT, IBAA will render its final accounting to the TRUSTOR. Any exception thereto must be communicated in writing to IBAA within thirty (30) days from receipt thereof, otherwise the same shall be deemed conclusively correct.
+[7]
+In the same month, Ricardo L. Manotoc, Jr. and Teodoro M. Kalaw filed a petition with the Securities and Exchange Commission (SEC) docketed as SEC Case No. 1826 for the rehabilitation of MSI and the appointment of a Management Committee for the said corporation "to avoid an imminent danger of paralyzation of its business operations brought about by serious financial problems." Teodoro M. Kalaw likewise filed a similar petition with the SEC docketed as SEC Case No. 1835 for the rehabilitation of the Trans-Insular Management, Inc. 
+et al.
+ and for the appointment of a Management Committee.
+On December 20, 1979 and January 11, 1980, the SEC issued orders placing MSI under rehabilitation and appointing a Management Committee as interim receiver of the real and personal properties and assets of MSI, its subsidiaries and subdivisions. The SEC issued another order on April 2, 1980 delineating the duties of the Management Committee as interim receiver:
+ To bring and defend such action in its own name;
+ To take and keep possession of the properties in controversy;
+ To receive rents and other income;
+ To collect debts due to the corporations as receiver and all such funds, property and estate, due to person or corporation of which it is receiver;
+ To compound for and compromise the same;
+ To make transfer;
+ To pay outstanding debts; to divide the money and other property that shall remain among the persons legally entitled to receive the same;
+ To negotiate with any financial institution whether public or private, domestic or foreign, for such funding and financial arrangement as may be necessary to support the rehabilitation project and program. For this purpose, the Committee or its duly authorized representative may sign such documents and papers as may be necessary;
+ To make such reports to the Commission as may be decreed necessary from time to time regarding the aforementioned projects; and generally to do such acts respecting the property as the Commission may authorize, including the authority to rehabilitate the said corporation, if possible.
+[8]
+Wilfrido B. Jacinto was appointed as Officer-In-Charge of the Committee.
+On February 13, 1980, MSI wrote the LBP, advising the latter that the corporation had been placed under rehabilitation, and that the SEC had appointed a Management Committee to handle its affairs. MSI directed the LBP--
+... to suspend any movement, disposition or substitution of any and all properties you now hold either, as collateral, security or custodian for the above-mentioned companies as per the directive of the Securities and Exchange Commission.
+[9]
+On April 18, 1982, the private respondents, through counsel, wrote the LBP, requesting the latter to return their investments with the MSI. The LBP referred the letter of the private respondents to the Management Committee which on May 28, 1982 rejected the demands of the private respondents. On June 1, 1982, the LBP wrote the private respondents that it could not possibly comply with their demands:
+As what we have told you in our letter of May 20, 1982 we referred your demands to the SEC-Appointed Management Committee which took over Manotoc Securities, Inc. in view of the SEC order suspending any movement or disposition of any and all properties of the company under our custody as per letter of Enrique J. Unson, Asst. Vice-President of Manotoc Securities, Inc., and noted by W. B. Jacinto, Officer-In-Charge for the SEC-Appointed Management Committee, dated February 13, 1980.
+We are, therefore, attaching herewith a copy of the reply-letter from the SEC-Appointed Management Committee dated May 28, 1982 which is self-explanatory.
+Likewise, we would like to inform you that we shall be turning over all the properties/securities lodged with us by Manotoc to the SEC-Appointed Management Committee pursuant to the directive of the Bank's top management to terminate and close this account.
+[10]
+On June 24, 1982, the private respondents acknowledged receipt of the June 1, 1982 Letter and informed LBP that as trustee of the investment portfolio, it held legal title over the same. As such, the said portfolio could not be affected by any directives of the Management Committee. The private respondents urged the LBP to--
+... desist from "terminating and closing the account" and turning over the Investment Portfolio to the Securities and Exchange Commission as you propose to do, and we hereby reiterate our request that you proceed to sell and dispose of the securities in your custody for the satisfaction of the claims of our clients, without prejudice to taking such action as you may consider necessary for securing a clarificatory order or directive from the Securities and Exchange Commission regarding the scope and extent of its alleged directive to you, or a reversal or nullification of said directive, as the case may require. Needless to say, our clients shall hold you responsible for any and all acts or omissions in breach of trust, and for any loss or damage which they or the trust estate may suffer resulting from such acts or omissions.
+[11]
+The LBP rejected the demands of the private respondents.
+On June 29, 1982, the private respondents demanded for an accounting of their portfolio.
+[12]
+ The LBP, in a Letter dated July 20, 1982, informed the private respondents that it could not give due course to the demands because as mere custodian of the securities in the portfolio, it does not have legal title over the same. The demands of the private respondents for the remittance of their investments and the earnings thereof, and for an accounting of their portfolio was, thus, further rejected by the bank.
+[13]
+In the meantime, the Management Committee proposed the appointment of a 
+permanent Receiver
+ to perform the following:
+(a)
+To liquidate the assets immediately for distribution to creditors and investors without prejudice to the possibility of developing small but viable real estate properties;
+ 
+ 
+(b)
+To continue to pursue collection efforts and/or legal action against all debtors;
+ 
+ 
+(c)
+To run after the unlimited liability of the principal stockholders, Teodoro V. Kalaw, Jr. and Ricardo L. Manotoc, Jr.;
+ 
+ 
+(d)
+To call on the terms of the broker/dealer bond issued by FGU Insurance Corporation;
+ 
+ 
+(e)
+To file a case against a former company officer, Raul R. Leveriza, Jr. and other parties involved in the fake title case; and
+ 
+ 
+(f)
+To take proper action against the company and other parties for violations of the Securities Act regarding the pledging of shares of stock without the approval of the client-owners.
+[14]
+Fearing that their investments were in serious jeopardy due to the abovementioned developments, private respondents Mamerto B. Rodriguez and Spouses Armando and Zenaida Sta. Ana filed a petition with the RTC of Makati under Rule 98 of the Revised Rules of Court, seeking the removal of IBAA as trustee and the appointment of a substitute trustee.
+[15]
+ On June 30, 1983, private respondents El Observatorio de Manila, Incorporada, Spouses Wilfredo and Aurora Posadas and Reginald Francisco
+[16]
+ on the one hand, and private respondents Bienvenido Maceda, Spouses Hector and Matilde Mendoza and Eugenio Romillo,
+[17]
+ on the other, also filed similar petitions. The respective petitions of the private respondents were thereafter consolidated and assigned to the RTC of Makati, Branch 136.
+[18]
+ALLEGATIONS OF FACTS IN THE COMPLAINTS
+The three petitions for the removal of IBAA as trustee of the investment portfolio created under the custodianship agreements contained substantially similar allegations. The private respondents alleged 
+inter alia
+ that MSI named and appointed IBAA as the trustee of an investment portfolio, which was to consist initially of investment funds solicited and obtained by MSI and IBAA from the issuance and sale to the public of certain securities denominated as investment agreements and custodian receipts.
+[19]
+ On May 24, 1977 and October 4, 1977, MSI and IBAA amended the agreement under instruments entitled "Amendment to Custodianship Agreement." Under its provisions, the funds of the investors in the investment pool were to be invested primarily in financing the margin accounts of clients of MSI and other stockbrokers in the stock market, the payment of which was to be secured only with certain specified shares of stock at 150% cover and/or real estate properties at 200% cover, based on the latest available market quotations on such shares and the latest independent appraisal of such real estate properties.
+[20]
+ The investment portfolio was to be held by IBAA in trust for the benefit and protection of the investors therein, as security for the payment at maturity of the principal and income due on their respective investments.
+[21]
+The petitioner in Sp. Proc. Case No. M-125 alleged that on August 3, 1979, IBAA opened Trust Account No. 576 and entered upon the discharge of its duties as trustee when it received investment funds in the amount of P545,000 and accepted the conveyance and delivery of 9,900,000 A shares of Basic Petroleum and Minerals, Inc. and 5,990,000 A shares of Philippine Overseas Drilling and Development Corporation under a deed of assignment.
+[22]
+On August 14, 1978, LBP opened Trust Account No. 03-019 in its Makati Branch for the petitioner in Sp. Proc. Case No. M-126. LBP entered into the discharge of its duties as trustee upon its acceptance of the conveyance and delivery of certain securities.
+[23]
+ In Sp. Proc. Case No. M-108, the custodianship agreement was entered into on August 23, 1976, upon IBAA's initial receipt of funds in the amount of P1,074,558.66, and the receipt of specified securities.
+[24]
+As part of and in connection with the investments made by the private respondents and other investors in the portfolio, and as security for the payment or return of the said investments, IBAA as trustee issued custodian receipts to the private respondents, certifying that it was holding in custody a portfolio of qualified securities with values equivalent to the amounts of the investments, and acknowledged that its custodian receipts, together with their corresponding investment agreements, constituted a lien on the portfolio of qualified securities in its custody to the total amount of the investment portfolio.
+[25]
+Despite repeated demands made by the private respondents, MSI refused, failed and neglected to pay over or return their investments as and when they matured, as follows:
+ P20,000.00 to Mamerta Rodriguez under Investment Agreement (IA) No. 4493 as of January 18, 1980;
+ P13,569.01 to the Sta. Ana spouses, under IA No. 3874 as of January 23, 1980;
+ P11,593.67 to Zenaida Sta. Ana under IA No. 4186 as of January 21, 1980;
+ P11,241.07 to Zenaida Sta. Ana under IA No. 4265 as of December 5, 1979;
+ P13,579.29 to Zenaida Sta. Ana under IA No. 4312 as of January 21, 1980;
+[26]
+ P53,416.67 to 
+Observatorio de Manila
+ under IA No. 019 as of December 7, 1979;
+ P53,416.67 to Aurora S. Posadas under IA No. 015 as of December 4, 1979;
+ P309,133.11 to Reginald Francisco under IA No. 069 as of February 1, 1980;
+[27]
+ P135,005.00 to Bienvenido L. Maceda under IA No. 4231 as of December 10, 1979;
+ P120,000.00 to Matilde R. Mendoza and/or Bienvenido L. Maceda under IA No. 4232 as of December 10, 1979; and
+ P40,895.56 to Eugenio V. Romillo under IA No. 4277 as of December 18, 1979.
+[28]
+The private respondents further alleged that MSI failed to maintain the required security value of the investment portfolio at a level equivalent to at least 100% of the amount of the outstanding custodian receipts even earlier than July 30, 1979, and at no time during the period between July 10 to December 10, 1979 did MSI deliver or assign sufficient securities to bring the security value of the portfolio to the level of at least 100% of the amount of the outstanding custodian receipts. Thus, the non-payment by MSI to private respondents and other investors of their returns on the investment agreements at maturity, and the failure of MSI to maintain the security value of the investment portfolio as agreed upon, constituted events of default under the terms and conditions of the custodianship agreement.
+[29]
+The private respondents claimed that instead of being obliged to deliver additional qualified securities to cover the recurring deficiencies in the said investment portfolio, MSI was repeatedly allowed to effect the release or withdrawal and/or substitution of securities which formed part of the same. IBAA likewise failed and neglected to declare the principal and income of all investments then outstanding as due and payable, or to make any serious and prompt demand on MSI to deliver additional securities. IBAA allowed MSI to avail of funds pertaining to the trust, and to misappropriate and misapply the funds by directly borrowing therefrom, and/or by extending loans to its parent and subsidiary companies, to companies and enterprises owned and controlled by its principal officers and directors or their families, and/or controlling stockholders, as well as to other ineligible borrowers. IBAA furthermore allowed MSI to accept inadequate security, or to accept as security unimproved real estate, or real estate of dubious value or with questionable title, notwithstanding clear indications that such security was worthless, grossly inflated in value, ineligible and not readily convertible to cash if needed to pay maturing investment agreements.
+[30]
+To prevent IBAA from declaring all outstanding investment agreements as immediately due and payable, MSI wrote a letter on December 10, 1979 advising IBAA that it was terminating the custodianship agreement effective that same date and that LBP was assuming as the new trustee. On December 12, 1979, MSI and IBAA, together with LBP, executed an instrument entitled "Substitution of Trustee with Assumption of Liabilities" whereby IBAA ceased to act as trustee, and LBP assumed as its substitute. Both the purported termination of the agreement and the purported substitution of IBAA by LBP as trustee of the investment portfolio were sought to be implemented or carried out without the knowledge and consent of the investors, without the benefit of any accounting by IBAA, on its administration and management of the investment portfolio, and without IBAA being discharged of its office and liability as trustee of the investment portfolio by a court of competent jurisdiction.
+[31]
+ In the interim, the SEC had appointed a Management Committee to take custody of the properties and assets of MSI, to protect the interest of the investors, creditors and stockholders, and to effectively carry out a program of rehabilitation.
+The private respondents prayed that after due proceedings, judgment be rendered in their favor (a) ordering the removal of IBAA and LBP as trustee and substitute trustee of the investment portfolio of the private respondents; (b) appointing Prudential Bank as trustee in substitute of IBAA and LBP; (c) declaring as of no force and effect with respect to them the "Substitution of Trustee with Assumption of Liabilities" executed by LBP and MSI; and to --
+ Order IBAA and LBP to render to the court for approval a full, just and complete accounting of their administration and management of the IP;
+ Order IBAA and LBP to restore to the Investment Portfolio whatever losses, damages and injuries it may have suffered through their fault or negligence or due to their failure to observe the terms and conditions of the Custodianship Agreement and to perform the duties of trustee thereunder;
+ Restrain and enjoin LBP from selling, disposing or encumbering any of the securities or assets of the IP presently in its custody;
+ Order IBAA and LBP to turn over all the trust properties in their custody to the new trustee and to execute any and all instruments necessary to accomplish such purpose, and restrain and enjoin both of them from any further interference in the administration and management of the trust;
+ Order the forfeiture by the IBAA and/or LBP of any right of compensation as trustee of the IP;
+ Order IBAA and LBP, jointly and severally, to pay petitioners damages by way of attorney's fees and expenses of litigation in such amount as may be considered just and reasonable;
+ Order the discharge or release of IBAA and LBP from any and all other duties and responsibilities as trustee under the CA only upon full restoration to the IP of all losses, damages and injuries it may have suffered which are properly chargeable to either or both IBAA and LBP, full payment of attorney's fees and expenses of litigation, and approval in due course of their accounting of the administration and management of the IP.
+Both IBAA and LBP moved to dismiss/suspend the said petitions on the ground that it was the SEC, and not the RTC, which had jurisdiction over the subject matter of the cases, pursuant to Presidential Decree No. 902-A as amended by P.D. Nos. 1653 and 1799. Thus, conformably to Section 6(c) of P.D. 902-A, as amended, all claims against the distressed corporation should be suspended upon the constitution of the Management Committee. MSI, through its SEC-Appointed Management Committee, also filed a motion to dismiss/suspend proceedings in SP Proc. Case No. 125 on the same ground. In behalf of MSI, Ricardo L. Manotoc, Jr. filed a motion to intervene and a motion to suspend the proceedings, also on the same ground. In their Reply, the private respondents averred that IBAA and LBP were trustees of the investment portfolio, and as such, had acquired title over the properties included in the same; hence, the distressed corporation was not the owner of the said investment portfolio. Consequently, the SEC had no jurisdiction over the matter.
+The petitions were set for hearing, during which the petitioners therein (private respondents herein) adduced evidence to prove their claim.
+THE TRIAL COURT'S RULING
+[32]
+In an Order dated February 12, 1985, the trial court found merit in the motion to suspend the proceedings pursuant to Section 6 of P.D. 902-A as amended. According to the court, the allegations in the petitions indicated that although there was no prayer specifically directed against Manotoc or MSI, the petitions were in reality claims against the latter, or, at the very least, the disposition of the petitions would affect properties belonging or pertaining to a corporation under management or receivership of the SEC.
+In ruling for the petitioners, the trial court held that the SEC had primary jurisdiction to the exclusion of the RTC, and that the matter of determining whether the agreement was one of agency, bailment, or trust, should be raised in and determined first by the SEC to the exclusion of the court. Since its jurisdiction was merely secondary, the authority of the court was limited to reviewing the SEC's final deliberations on the petitions. The private respondents should have exhausted all remedies before the SEC. To entertain the suit would open the gates to confusion, resulting in a duplication of proceedings arising out of a conflict of jurisdiction, which could very well be avoided by respecting the jurisdiction of the SEC.
+The trial court resolved, thus:
+ Allowing Manotoc/MSI to intervene in all the cases;
+ Ordering the suspension and archiving of the case until after the termination of the proceedings before the SEC in SEC Cases Nos. 1826 and 1835.
+[33]
+The private respondents thereafter filed a motion for reconsideration which was denied on January 16, 1986. The private respondents appealed from the order to the Court of Appeals.
+The private respondents alleged on appeal that when MSI named and appointed IBAA as trustee of the investment portfolio, it carried no other implication than that IBAA, as trustee, became the legal owner of the funds in the investment portfolio.
+[34]
+ Although the SEC placed MSI under management and receivership, its jurisdiction extends only to the properties and assets of MSI. The doctrine of exhaustion of administrative remedies should be applied only to those who, having gone to the SEC for relief, failed to avail of and exhaust all possible remedies therein before seeking judicial intervention. The said doctrine was erroneously applied by the trial court, as they were not parties to SEC Cases Nos. 1826 and 1835.
+[35]
+ While Ricardo Manotoc, Jr. may be a stockholder of MSI, he does not have any legal interest in the trust properties involved in the proceedings; it is the trustee who has legal ownership of the properties held in trust, subject, however, to the equitable rights of the beneficiaries of the same.
+[36]
+The petitioner bank, for its part, maintained that IBAA/LBP is a mere custodian of MSI under the custodianship agreement with specific duties to perform, and as such, is only an agent of MSI; it is not a trustee in the strict and legal sense, and does not hold any legal title over the properties or securities.
+[37]
+Manotoc, in behalf of MSI, contended that as one of the parties who filed the petition for the appointment of a Management Committee and the approval of a rehabilitation scheme for the said corporation and its affiliate companies, he has legal interests in the matter in litigation sufficient to entitle him to intervene in the action.
+[38]
+THE RULING OF THE COURT OF APPEALS
+[39]
+The CA reversed and set aside the assailed orders of the RTC. It held that IBAA and LBP were trustees of the investments of the private respondents and not merely custodians thereof; hence, IBAA and LBP had legal title over the property covered by the said investments. The order of the lower court to archive the cases and to relinquish 
+in toto 
+its jurisdiction over the actions initiated by the private respondents was premature. The RTC should have resolved the motions on their merits and determined whether or not the petitioner and IBAA were trustees of the investment portfolio.
+The CA further explained that because of the existence of a trusteeship agreement, under Rule 98, Sections 8 and 9 of the Rules of Court, the RTC had jurisdiction over the petitions of the private respondents. The court 
+a quo
+ ought to have given due course to the petitions as originally filed, 
+and thereafter determine which of the reliefs sought were available, in the light of the limitations imposed by the receivership status of the MSI and the SEC's jurisdiction over its affairs and the claims against it, instead of archiving the petition and suspending the proceedings
+. Moreover, the doctrine of primary jurisdiction cannot be invoked as a pretext to bar the private respondents from seeking judicial relief until the final resolution of SEC Cases Nos. 1826 and 1835, given the fact that the IBAA and LBP were 
+trustees
+ of the portfolio of the private respondents. The CA further stated that the RTC had jurisdiction over petitions for the removal of trustees:
+MSI and its assets have been placed under a management committee assigned by the Securities and Exchange Commission. We do not see, however, how this, of necessity, cancels the power of the court, when it finds it meritorious and just, to order IBAA to render an accounting to the beneficiaries. The doctrine of primary jurisdiction, in fact, has a positive import, insofar as judicial authority is concerned. It is this that Davis, an acknowledged American authority on administrative law, propounds:
+"The purpose of the doctrine of primary jurisdiction is not to divide powers between courts and agencies, but to determine which tribunal should take initial action. An agency which has primary jurisdiction may in effect merely lay the foundation for a judicial determination. x x x The reason for the primary jurisdiction doctrine is not a belief that an agency's expertise makes it superior to a court; the reason is that a court confronted with problems within an agency's area of specialization should have the advantage of whatever contributions the agency can make to the solutions
+" (Davis, 
+Administrative Law,
+ 381)
+Seen as urged on us by Davis, some circumstances of the instant cases become important: the investor-appellees worry that in the tangle of convoluted relations entered into by MSI with IBAA and LBP, they have lost track of their investment and worse still that IBAA, to their disadvantage, has not complied with the terms of the trust. 
+Coupled with the clear mandate of the Rules of Court to entertain petitions for the removal of a trustee, the doctrine of primary jurisdiction cannot be invoked as a pretext to bar the petitioners from seeking judicial relief. They have the right, at least, to be heard by the court. It is for the lower court, after due hearing and after having passed on the evidence, to determine which reliefs sought for are allowed and which are not, in view of the receivership status of MSI. It cannot be right, however, for the lower court to eschew any authority over the cases at all.
+[40]
+The petitioner received a copy of the assailed decision of the CA on November 18, 1996 and consequently filed its motion for reconsideration on December 3, 1996. On April 18, 1997, the petitioner received a copy of the questioned resolution dated April 14, 1997, denying its motion for reconsideration. Instead of filing a petition for review on 
+certiorari
+ under Rule 45 of the Revised Rules of Court, the petitioner filed on June 17, 1997 the instant petition for certiorari under Rule 65.
+PETITIONER'S ARGUMENTS
+The petitioner avers that the CA committed a grave abuse of its discretion amounting to lack or excess of jurisdiction in ruling that the petitioner was a trustee of the portfolio of the private respondents and that the RTC had jurisdiction over the petitions of the latter. It asserts that it has no appeal, nor any plain, speedy, and adequate remedy in the ordinary course of law. As a mere custodian of MSI under the custodianship agreement with specific duties to perform, it is only an agent and not a trustee in the strict legal sense, and does not hold any legal title over the properties and securities.
+[41]
+ The CA acted despotically when it ignored the various documents showing the true relationship between it and the private respondents.
+The petitioner asserts that since it is not a trustee but a mere custodian, Section 8, Rule 98 of the Rules of Court
+[42]
+ is clearly inapplicable. Consequently, the trial court does not have jurisdiction over the petitions filed by the private respondents for the removal of LBP as trustee. Instead, the petitioner asserts, it is the SEC who rightly has jurisdiction over the petitions. While cleverly denominated as "petition for the removal of IBAA or LBP as trustee," the petitions are, in reality, a mere sly scheme of private respondents to implement the custodianship agreement between LBP and MSI through the instrumentality of the trial court. Even assuming that the petitions are not claims or actions against MSI, nonetheless, at the very least, their disposition would affect properties belonging or pertaining to a corporation under management or receivership of the SEC, and thus should accordingly be suspended, conformably to Section 6(c) of P.D. 902-A, as amended. Since the petitions before the court 
+a quo 
+are in effect clearly claims/actions against a corporation under management or receivership by the SEC which even private respondents admit to have been placed under management/receivership due to, among others, the alleged acts/schemes of its board of directors/officers/partners amounting to fraud and misrepresentation which may be detrimental to the interest of the public, it then follows that the trial court has no jurisdiction to entertain the same. Thus, only the SEC has jurisdiction over the said cases to the exclusion of the courts. 
+[43]
+Petitioner LBP also states its willingness to perform its duties and obligations as custodian bank under the custodianship agreement even without instigation. It, however, averred that in deference to the SEC Order of April 2, 1980 which directed it to suspend any movement, disposition or substitution of any and all properties held in behalf of MSI, whether as collateral security or as custodian thereof, it is unable to do so. The petitioner contends that it is duty-bound to comply with the order, considering that it was issued by the SEC in the legitimate and valid exercise of its regulatory and adjudicatory powers pursuant to P.D. 902-A. LBP reiterates that the petitions are part of a sly scheme to implement the custodianship agreement between LBP and MSI through the instrumentality of the trial court.
+[44]
+PRIVATE RESPONDENTS' ARGUMENTS
+In their Comment, the private respondents moved to dismiss the petition. According to them, appeal under Rule 45 of the Rules of Court was available to the petitioner and that it was an equally beneficial, speedy and sufficient remedy in the ordinary course of law, which consequently should have been availed of.
+[45]
+ It is not enough for the petitioner to merely allege that appeal is not a speedy or adequate remedy in the instant case. Although the petitioner contends that it had to file the instant petition for 
+certiorari
+ under Rule 65 to prevent it from further litigating the matter, it has not shown that an ordinary appeal from the assailed decision would not have obtained the same effect. As a matter of fact, as the private respondents assert, an appeal would have stayed the decision by preventing it from becoming final and executory, from being entered by the Clerk of Court of the CA in the book of entries of judgments, and from being remanded to the lower court.
+Precisely, where the remedy of appeal is available, as it was in this case, the petitioner must interpose its appeal under Rule 45 within the reglementary period of 15 days from notice of the decision, or of the resolution denying its motion for reconsideration. The private respondents vehemently argue that the petitioner cannot allow the period to appeal to expire, and after having lost his right to appeal, seek to regain it by recourse to certiorari under Rule 65.
+[46]
+The petitioner admits in its petition that it received a copy of the questioned decision on November 18, 1996 and filed its motion for reconsideration on December 3, 1996. Then, on April 18, 1997, it received a copy of the questioned resolution denying its motion for reconsideration. According to the private respondents, it is clear from the foregoing that the petitioner had 15 days from receipt of the resolution denying its motion for reconsideration (April 18, 1997), within which to take an appeal to this Court. For failure to do so, the decision and resolution of the CA became final and executory on May 3, 1997. It was, thus, too late for petitioner LBP to take an appeal or to file a petition for certiorari under Rule 65.
+[47]
+In the statement of facts and of the case in the petition for 
+certiorari
+, petitioner LBP makes reference to the following pleadings and documents:
+ Investment Agreements of private respondents with MSI (3rd paragraph, p. 2);
+ Custodianship Agreement dated August 19, 1976 (1st paragraph, p. 3);
+ Order/s of the Securities and Exchange Commission issued in SEC Cases No. 1826 and No. 1835 placing MSI and all its subsidiaries under Receivership and Management Committee (1st paragraph, p. 4);
+ Petition filed on June 8, 1983 by private respondents Mamerta Rodriguez and Spouses Armando and Zenaida Sta. Ana with the Regional Trial Court of Makati seeking the removal of IBAA as trustee and the appointment of a substitute trustee (2nd paragraph, p. 4);
+ Petition filed on June 30, 1983 by private respondents El Observatorio de Manila Incorporada, Spouses Wilfredo and Aurora Posadas and Reginald Francisco seeking the removal of IBAA (as alleged trustee) and LBP (as alleged substitute trustee [
+sic
+]) and the appointment of a substitute trustee (
+Ibid.
+);
+ Petition filed on June 30, 1983 by private respondents Bienvenido Maceda, Spouses Hector and Matilde Mendoza and Eugenio Romillo (
+Ibid.
+);
+ Order/s consolidating the above petitions and their assignment to Branch 136 of the Regional Trial Court (
+Ibid.
+);
+ Motion/s filed by petitioner LBP to dismiss/suspend said petitions (
+Ibid.
+);
+ Motion for reconsideration filed by private respondents (1st paragraph, p. 5);
+ Order dated January 16, 1986 denying private respondents' motion for reconsideration (
+Ibid.
+);
+ (Notice of) Appeal filed by private respondents (2nd paragraph, p. 5);
+ Appellants' Brief filed by private respondents herein with the Court of Appeals (
+Ibid.
+);
+ Appellee's Brief filed by petitioner LBP (
+Ibid.
+);
+ Custodian receipts (3rd paragraph, p. 10).
+[48]
+According to the private respondents, most, if not all, of the foregoing pleadings and documents are relevant and pertinent to the instant petition for 
+certiorari
+, and are absolutely necessary for a clear understanding of the facts of the case. The petitioner's failure to attach them to its petition, in violation of the requirements of Section 1, Rule 65 of the Revised Rules of Court can only be fatal to its cause, and constitutes another ground for dismissal of the instant petition.
+[49]
+Another argument relied upon by the private respondents is that one of the conclusions reached by public respondent CA which is sought to be corrected by the instant petition for 
+certiorari
+ is that 
+a trust was created in each of the custodianship agreements
+. This conclusion, even if erroneous, amounts to nothing more than an error of judgment, correctible by appeal. The private respondents assert that the instant petition for 
+certiorari
+ cannot correct errors of judgment, since it is confined to the correction of errors of jurisdiction only, or grave abuse of discretion amounting to lack or excess of jurisdiction.
+[50]
+According to the petitioner, the finding of facts made by the respondent CA as to the transfer, assignment, set over, and delivery to IBAA and LBP of the securities in the investment portfolios for the benefit and security of the investors should be conclusive upon the Court, except only if shown to have been reached with abuse of discretion amounting to lack of jurisdiction, which petitioner has failed to do.
+Even the claim of petitioner LBP that the disposition of the petitions for removal of trustees would affect properties belonging or pertaining to a corporation (MSI) under SEC management or receivership lacks factual basis. By virtue of the assignment of the securities in the investment portfolios to the trustee banks, title and interest therein were in fact vested in them, making them the legal owners of the same.
+Anent the contention of LBP that it is willing to perform its duties were it not for the directive issued by the SEC, the private respondents assert that the SEC Order dated April 2, 1980 contains no such directive, nor is it even addressed to LBP. It is simply a resolution placing MSI and its subsidiaries under receivership, and appointing the Management Committee of the said entities as interim receiver of their properties. And even if the SEC order had indeed contained an actual directive addressed to LBP to suspend any movement, disposition or substitution of any and all properties of MSI, it knew or ought to have known that an order so issued would be in excess of jurisdiction and would not be binding upon it, because no court or tribunal can take property in the possession of a stranger to the action who claims in good faith to be the owner thereof. Furthermore, under the terms of the appointment, the Management Committee was not given the power or authority to take over the management or control of assets or properties not belonging to MSI. LBP, according to the private respondents, would then be obliged, in the exercise of its duty as trustee, to defend the trust property from all adverse claimants and to take the necessary action to nullify or set such order aside.
+[51]
+THE DECISIVE ISSUE
+The threshold issue in the case at bar is whether or not a petition for 
+certiorari
+ under Rule 65 of the Revised Rules of Court is the proper recourse of the petitioner for the reversal of the assailed decision and resolution of the CA.
+The petition is dismissed.
+Section 1, Rule 65 of the Revised Rules of Court reads:
+SECTION 1. 
+Petition for certiorari.
+ - When any tribunal, board or officer exercising judicial or quasi-judicial functions has acted without or in excess of its or his jurisdiction, or with grave abuse of discretion amounting to lack or excess of jurisdiction, and there is no appeal, or any plain, speedy, and adequate remedy in the ordinary course of law, a person aggrieved thereby may file a verified petition in the proper court, alleging the facts with certainty and praying that judgment be rendered annulling or modifying the proceedings of such tribunal, board or officer, and granting such incidental reliefs as law and justice may require.
+The petition shall be accompanied by a certified true copy of the judgment, order or resolution subject thereof, copies of all pleadings and documents relevant and pertinent thereto, and a sworn certification of non-forum shopping as provided in the third paragraph of Section 3, Rule 46.
+A writ of 
+certiorari
+ has been called a "supervisory or superintending" writ. It was a common law writ of ancient origin. It's earliest use was in the crown or criminal side of the Court of King's bench. Its use on the civil side later came into general use.
+[52]
+ Certiorari is a remedy narrow in scope and unflexible in character. It is not a general utility tool in the legal workshop.
+[53]
+The writ of certiorari issues for the correction of errors of jurisdiction only or grave abuse of discretion amounting to lack or excess of jurisdiction. It cannot be legally used for any other purpose. Its function is only to keep the inferior court within the bounds of its jurisdiction or to prevent it from committing such a grave abuse of discretion amounting to lack or excess of jurisdiction.
+[54]
+ It may issue only when the following requirements are alleged in the petition and established: (1) the writ is directed against a tribunal, a board or any officer exercising judicial or quasi-judicial functions; (2) such tribunal, board or officer has acted without or in excess of jurisdiction, or with grave abuse of discretion amounting to lack or excess of jurisdiction; and (3) there is no appeal or any plain, speedy and adequate remedy in the ordinary course of law.
+[55]
+ Excess of jurisdiction as distinguished from absence of jurisdiction means that an act, though within the general power of a tribunal, board or officer is not authorized, and invalid with respect to the particular proceeding, because the conditions which alone authorize the exercise of the general power in respect of it are wanting.
+[56]
+ Without jurisdiction means lack or want of legal power, right or authority to hear and determine a cause or causes, considered either in general or with reference to a particular matter. It means lack of power to exercise authority.
+[57]
+The general rule is that a 
+cert
+ writ will not issue where the remedy of appeal is available to the aggrieved party. The remedies of appeal in the ordinary course of law and that of 
+certiorari
+ under Rule 65 of the Revised Rules of Court are mutually exclusive and not alternative or cumulative.
+[58]
+ Hence, the special civil action for 
+certiorari
+ under Rule 65 is not and cannot be a substitute for an appeal, where the latter remedy is available. Such a remedy will not be a cure for failure to timely file a petition for review on 
+certiorari
+ under Rule 45. Nor can it be availed of as a substitute for the lost remedy of an ordinary appeal, especially if such loss or lapse was occasioned by one's own negligence or error in the choice of remedies.
+[59]
+ However, there are cases where the 
+cert
+ writ may still issue even if the aggrieved party has a remedy of appeal in the ordinary course of law. Thus, where the exigencies of the case are such that the ordinary methods of appeal may not prove adequate either in point of promptness or completeness so that a partial or total failure of justice may result, a 
+cert
+ writ may issue.
+[60]
+In 
+SMI Development Corporation v. Republic of the Philippines,
+[61]
+ we held that 
+certiorari
+ is available when the remedy of appeal is not adequate, or equally beneficial, speedy and sufficient. The determination as to what exactly constitutes a plain, speedy and adequate remedy rest on judicial discretion and depends on the particular circumstances of each case. There are many authorities that subscribe to the view that it is the inadequacy, and not the mere absence, of all other legal remedies, and the danger of a failure of justice without it, that must usually determine the propriety of the writ.
+[62]
+ An adequate remedy is a remedy which is equally beneficial, speedy and sufficient, not merely a remedy which at some time in the future will bring about a revival of the judgment of the lower court complained of in the 
+certiorari
+ proceeding, but a remedy which would promptly relieve the petitioner from the injurious effects of that judgment and the acts of the inferior court, tribunal, board or officer.
+[63]
+Grave abuse of discretion implies such capricious and whimsical exercise of judgment as is equivalent to lack of jurisdiction or, in other words, where the power is exercised in an arbitrary manner by reason of passion, prejudice, or personal hostility, and it must be so patent or gross as to amount to an evasion of a positive duty or to a virtual refusal to perform the duty enjoined or to act at all in contemplation of law.
+[64]
+The special civil action for 
+certiorari
+ is a remedy designed for the correction of errors of jurisdiction and not errors of judgment. The 
+raison d'etre
+ for the rule is when a court exercises its jurisdiction, an error committed while so engaged does not deprive it of the jurisdiction being exercised when the error is committed. If it did, every error committed by a court would deprive it of its jurisdiction and every erroneous judgment would be a void judgment. In such a scenario, the administration of justice would not survive.
+[65]
+ Hence, where the issue or question involved affects the wisdom or legal soundness of the decision - not the jurisdiction of the court to render said decision - the same is beyond the province of a special civil action for 
+certiorari
+.
+[66]
+The proper recourse of the aggrieved party from a decision of the CA is a petition for review on 
+certiorari
+ under Rule 45 of the Revised Rules of Court. On the other hand, if the error subject of the recourse is one of jurisdiction, or the act complained of was perpetrated by a quasi-judicial officer or agency with grave abuse of discretion amounting to lack or excess of jurisdiction, the proper remedy available to the aggrieved party is a petition for certiorari under Rule 65 of the said Rules. As expostulated by the Court in 
+Fortich v. Corona
+:
+[67]
+Anent the first issue, in order to determine whether the recourse of petitioners is proper or not, it is necessary to draw a line between an error of judgment and an error of jurisdiction. An 
+error of judgment
+ is one which the court may commit 
+in the exercise of its jurisdiction
+, and which error is reviewable only by an appeal. On the other hand, an 
+error of jurisdiction
+ is one where the act complained of was issued by the court, officer or a quasi-judicial body 
+without
+ or 
+in excess of jurisdiction
+, or 
+with grave abuse of discretion which is tantamount to lack or in excess of jurisdiction
+. This error is correctible only by the extraordinary writ of certiorari.
+[68]
+The supervisory jurisdiction of the court to issue a 
+cert
+ writ cannot be exercised in order to review the judgment of the lower court as to its intrinsic correctness, either upon the law or the facts of the case.
+[69]
+The general rule is that questions or findings of facts in the lower court, board or tribunal, and the probative weight and sufficiency of the evidence upon which the said findings were based are not reviewable by 
+certiorari
+ under Rule 65 of the Revised Rules of Court. However, the sufficiency of the evidence may be inquired into in order to determine whether jurisdictional facts were or were not proved or whether the lower court had exceeded its jurisdiction. This exception arises out of the most important office and function of the writ - the keeping of the lower court and tribunal within their jurisdiction. If the decision of the lower court as to the sufficiency of the evidence to establish jurisdictional facts were not reviewable, certiorari would be of no avail as a remedy against an assumption of jurisdiction. For the purpose of enabling the reviewing court to determine whether jurisdictional facts were established, it may delve into and review the evidence on which such facts were based.
+[70]
+THE ERRORS ASCRIBED TO
+THE COURT OF APPEALS IN
+ITS DECISION ARE ERRORS
+OF JUDGMENT AND NOT
+OF JURISDICTION.
+Inscrutably, the CA had jurisdiction over the appeals of the private respondents from the order of the trial court. The decision of the CA was thus rendered by it in the proper exercise of its jurisdiction. In its decision, the CA enumerated the following findings of facts:
+(a)
+the RTC erred in ordering the petitions archived and the proceedings in said petitions suspended simply because of the pendency of SEC Cases Nos. 1826 and 1835 and of the appointment of Management Committee as interim receiver;
+ 
+ 
+(b)
+based on the pleadings of the parties and the evidence on record, the petitioner and the IBAA were trustees of the investment portfolios; hence, owners and not mere agents of MSI;
+ 
+ 
+(c)
+the investment portfolios are not assets of MSI;
+ 
+ 
+(d)
+the SEC had no jurisdiction over the investment portfolios held in trust by the petitioner and IBAA;
+ 
+ 
+(e)
+only those actions for claims against the distressed corporation are suspended, but the petition for the dissolution of the trusteeship for IBAA and the petitioner LBP to render an accounting of their stewardship of the investment portfolios, and to pay damages on account of their mishandling and/or defalcation of the same, are not suspended but may proceed until the petitions are finally resolved;
+ 
+ 
+(f)
+the principle of primary administrative jurisdiction does not apply in the instant case.
+[71]
+These findings are mere 
+errors of judgment
+ and not errors of jurisdiction, correctible by a petition for review on 
+certiorari
+ with this Court under Rule 45 of the Revised Rules of Court. Hence, the petitioner should have filed with this Court a petition for review on 
+certiorari
+ under Rule 45 within the period therefor, and not a petition for 
+certiorari
+ under Rule 65 of the said Rules.
+APPEAL UNDER RULE 45 OF
+THE RULES OF COURT AS
+AMENDED IS A SPEEDY AND
+ADEQUATE REMEDY IN THE
+ORDINARY COURSE OF LAW.
+The petitioner avers that an appeal via a petition for review on 
+certiorari
+ under Rule 45 would not promptly relieve it from the injurious effects of the patently erroneous decision and resolution of the CA; the instant petition for 
+certiorari
+ under Rule 65 would afford it a more expeditious and efficient relief. The petitioner also points out that if the petitions of the private respondents were to be remanded to the RTC for appropriate proceedings, the already clogged dockets of the trial court would be needlessly exacerbated considering that it had no jurisdiction over the petitions.
+We do not agree with the petitioner. A petition for review on 
+certiorari
+ under Rule 45 of the Revised Rules of Court is a plain, speedy and adequate remedy in the ordinary course of law. It bears stressing that if the petitioner had filed its petition for review on 
+certiorari
+ under Rule 45 within the period therefor, the assailed decision would have been stayed. In such case, the petitioner could have raised issues involving questions of law, such as whether or not the RTC has jurisdiction over the petitions of the private respondents, or whether the petitions are in effect actions for claims as defined by this Court in 
+Finasia Investments & Finance Corp. v. Court of Appeals
+:
+[72]
+The word 
+"
+claim
+" is also defined as:
+Right to payment, whether or not such right is reduced to judgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, legal, equitable, secured, or unsecured; or right to an equitable remedy for breach of performance if such breach gives rise to a right to payment, whether or not such right to an equitable remedy is reduced to judgment, fixed, contingent, matured, unmatured, disputed, undisputed, secured, unsecured.
+In conflicts of law, a receiver may be appointed in any state which has jurisdiction over the defendant who owes a claim.
+[73]
+THE DECISION OF THE
+CA HAS BECOME FINAL
+AND EXECUTORY.
+The petitioner received a copy of the decision of the CA on November 18, 1996. It had until December 3, 1996 within which to file its motion for reconsideration of the decision. The petitioner did so on the said date and received on April 18, 1997 the resolution of the CA denying its motion for reconsideration. The petitioner filed its petition at bar only on June 17, 1997, well beyond the period therefor. Patently then, the decision of the CA had become, in the interim, final and executory, beyond the purview of this Court to act upon.
+[74]
+IN LIGHT OF ALL THE FOREGOING
+, the Petition is 
+DISMISSED.
+ The Decision of the Court of Appeals in CA-G.R. CV Nos. 12533-35 is 
+AFFIRMED.
+ Costs against the petitioner.
+SO ORDERED.
+Bellosillo, (Chairman), Quisumbing, Austria-Martinez,
+ and 
+Tinga, JJ.,
+ concur.
+[1]
+ Penned by Associate Justice Hilarion L. Aquino, with Associate Justices Jainal D. Rasul and Hector L. HofileÃ±a concurring.
+[2]
+ Penned by Judge Ricardo J. Francisco who later became an Associate Justice of the Supreme Court.
+[3]
+ CA 
+Rollo
+, p. 301.
+[4]
+ Folder of Exhibits, pp. 86-87.
+[5]
+ 
+Id.
+ at 90-91.
+[6]
+ Record on Appeal, p. 48 (Italics supplied).
+[7]
+ Folder of Exhibits, p. 121.
+[8]
+ Records, Sp. Proc. No. M-126, pp. 70-71 (Annex "D").
+[9]
+ 
+Id.
+ at 80 (Annex "F-1").
+[10]
+ 
+Id.
+ at 81 (Annex "G").
+[11]
+ 
+Id.
+ at 84 (Annex "H").
+[12]
+ 
+Id.
+ at 85-88 (Annex "I").
+[13]
+ 
+Id.
+ at 89-91 (Annex "J").
+[14]
+ Annex "A."
+[15]
+ SP Proc. Case No. M-108.
+[16]
+ SP Proc. Case No. M-125.
+[17]
+ SP Proc. Case No. M-126.
+[18]
+ Records, Sp. Proc. No. M-125, p. 7.
+[19]
+ Only in Sp. Proc. Cases Nos. M-108 and M-125. In Sp. Proc. Case No. M-126, the LBP had already been appointed as the trustee of the investment portfolio. IBAA was not made a party to the case.
+[20]
+ Records, Sp. Proc. Case No. M-108, p. 3.
+[21]
+ 
+Id.
+ at 4.
+[22]
+ Records, p. 4.
+[23]
+ Records, pp. 3-4.
+[24]
+ 
+Id.
+ at 4.
+[25]
+ 
+Id.
+ at 5.
+[26]
+ 
+Id.
+ at 6.
+[27]
+ Records, SP Proc. Case No. M-125, pp. 5-6.
+[28]
+ Records, SP Proc. Case No. M-126, p. 6.
+[29]
+ Records, SP Proc. Case No. M-108, pp. 7-9.
+[30]
+ 
+Id.
+ at 9-11.
+[31]
+ 
+Id.
+ at 11-12.
+[32]
+ 
+Rollo
+, pp. 55-60.
+[33]
+ 
+Id.
+ at 60.
+[34]
+ CA 
+Rollo
+, pp. 60-61.
+[35]
+ 
+Id.
+ at 78-79.
+[36]
+ 
+Id.
+ at 86.
+[37]
+ 
+Id.
+ at 129.
+[38]
+ 
+Id.
+ at 173.
+[39]
+ 
+Rollo
+, pp. 25-33.
+[40]
+ 
+Rollo
+, pp. 31-32 (Emphasis supplied).
+[41]
+ 
+Id.
+ at 8.
+[42]
+ Sec. 8. Removal or resignation of trustee. - The proper Regional Trial Court may, upon petition of the parties beneficially interested and after due notice to the trustee and hearing, remove a trustee if such removal appears essential in the interests of the petitioners....
+[43]
+ 
+Rollo
+, pp. 14-16.
+[44]
+ 
+Id.
+ at 17.
+[45]
+ 
+Id.
+ at 74.
+[46]
+ 
+Id.
+ at 122.
+[47]
+ 
+Id.
+ at 75-77.
+[48]
+ 
+Id.
+ at 78-79.
+[49]
+ 
+Id.
+ at 79.
+[50]
+ 
+Id.
+ at 80-83.
+[51]
+ 
+Id.
+ at 86-89.
+[52]
+ 
+Conners v. City of Knoxville,
+ 189 S.W. 870 (1916).
+[53]
+ 
+San Miguel Foods, Inc.-Cebu B-Meg Feed Plant v. Laguesma,
+ 263 SCRA 69 (1996).
+[54]
+ 
+Silverio v. Court of Appeals,
+ 141 SCRA 527 (1986).
+[55]
+ 
+Cuison v. Court of Appeals,
+ 289 SCRA 159 (1998).
+[56]
+ 
+Conners v. City of Knoxville,
+ 
+supra
+.
+[57]
+ Martin, Rules of Court of the Philippines, 2nd ed., Vol. 3, p. 152 (1969).
+[58]
+ 
+Sumndad v. Harrigan,
+ G.R. No. 132358, April 12, 2002; 
+Banco Filipino Savings and Mortgage Bank v. Court of Appeals,
+ 334 SCRA 305 (2000); 
+Rosete v. Court of Appeals,
+ 331 SCRA 193 (2000); 
+Republic v. Court of Appeals,
+ 322 SCRA 81 (2000); 
+Ligon v. Court of Appeals,
+ 294 SCRA 73 (1998).
+[59]
+ 
+National Irrigation Administration v. Court of Appeals,
+ 318 SCRA 255 (1999).
+[60]
+ 
+State v. Guinotte,
+ 57 S.W. 281 (1900).
+[61]
+ 323 SCRA 862 (2000).
+[62]
+ 
+People v. State Treasurer,
+ 24 Mich., loc.cit. 477; 
+Inhabitants of Cushing v. Gay,
+ 23 Me. 9; 
+Hopkins v. Fogler,
+ 60 Me. 266; 
+Spofford v. Railroad Co.,
+ 66 Med. 26; 
+Edgar v. Greer,
+ 14 Iowa, loc.cit. 212, all cited in 
+State v. Guinotte,
+ 
+supra
+.
+[63]
+ 
+State v. Guinotte,
+ 
+supra
+; 
+Silvestre v. Torres and Oben,
+ 57 Phil. 885.
+[64]
+ 
+De Baron v. Court of Appeals,
+ 368 SCRA 407 (2001).
+[65]
+ 
+Supra
+.
+[66]
+ 
+New York Marine Managers, Inc. v. Court of Appeals,
+ 249 SCRA 416 (1995).
+[67]
+ 289 SCRA 624 (1998).
+[68]
+ 
+Id.
+ at 642.
+[69]
+ 
+Hunt v. Norton,
+ 5 ALR 2nd 668 (1948).
+[70]
+ 
+Ibid.
+[71]
+ 
+Rollo
+, pp. 24-33 (CA Decision).
+[72]
+ 237 SCRA 446 (1994).
+[73]
+ 
+Id.
+ at 450, citing Black's Law Legal Dictionary, p. 224, 5th ed.
+[74]
+ 
+Zacate v. Commission on Elections,
+ 353 SCRA 441 (2001); 
+Republic v. Court of Appeals,
+ 322 SCRA 81 (2000); 
+National Irrigation Commission v. Court of Appeals,
+ 
+supra
+.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)
