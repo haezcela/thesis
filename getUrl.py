@@ -3,6 +3,14 @@ from bs4 import BeautifulSoup
 import os
 from tqdm import tqdm
 
+def generate_month_urls(base_url, year):
+    months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+    month_urls = []
+    for month in months:
+        month_url = f"{base_url}/thebookshelf/docmonth/{month}/{year}/1"
+        month_urls.append((month, month_url))  # Store both month name and URL
+    return month_urls
+
 def extract_and_modify_links(url):
     # Send a GET request to the URL
     response = requests.get(url)
@@ -54,11 +62,16 @@ def save_data_to_txt(data, folder, filename):
         file.write(data)
 
 # Example usage:
-url = "https://elibrary.judiciary.gov.ph/thebookshelf/docmonth/Feb/1998/1"
-modified_links = extract_and_modify_links(url)
+base_url = "https://elibrary.judiciary.gov.ph"
+year = "2000"
 
-for link, filename in tqdm(modified_links):
-    data = scrape_content_from_link(link)
-    folder = 'cases/1998'  # Folder path for the year 1998
-    save_data_to_txt(data, folder, f'{filename}.txt')  # Save in TXT format
-    print(f"Content from link {link} saved to {folder}/{filename}.txt")
+month_urls = generate_month_urls(base_url, year)
+
+for month_name, month_url in tqdm(month_urls):
+    print(f"Extracting links for {month_name} {year}...")
+    modified_links = extract_and_modify_links(month_url)
+    for link, filename in modified_links:
+        data = scrape_content_from_link(link)
+        folder = f'cases/{year}/{month_name}'  # Folder path for the year and month
+        save_data_to_txt(data, folder, f'{filename}.txt')
+        print(f"Content from link {link} saved to {folder}/{filename}.txt")
