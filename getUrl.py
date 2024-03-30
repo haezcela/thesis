@@ -4,7 +4,7 @@ import os
 from tqdm import tqdm
 
 def generate_month_urls(base_url, year):
-    months = ['Aug', 'Sep', 'Oct', 'Nov']
+    months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
     month_urls = []
     for month in months:
         month_url = f"{base_url}/thebookshelf/docmonth/{month}/{year}/1"
