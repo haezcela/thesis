@@ -1,0 +1,343 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			555 Phil. 661
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. NO. 169836, July 31, 2007 ]
+
+
+PHILIPPINE FISHERIES DEVELOPMENT AUTHORITY, PETITIONER, VS. COURT OF APPEALS, OFFICE OF THE PRESIDENT, DEPARTMENT OF FINANCE AND THE CITY OF ILOILO, RESPONDENTS.
+DECISION             
+
+
+
+
+YNARES-SANTIAGO, J.:
+
+
+Assailed in this petition for review is the June 21, 2005 Decision
+[1]
+ of the Court of Appeals in CA-G.R. SP No. 81228, which held that petitioner Philippine Fisheries Development Authority (hereafter referred to as Authority) is liable to pay real property taxes on the land and buildings of the Iloilo Fishing Port Complex (IFPC) which are owned by the Republic of the Philippines but operated and governed by the Authority.
+The facts are not disputed.
+On August 11, 1976, then President Ferdinand E. Marcos issued Presidential Decree No. 977 (PD 977) creating the Authority and placing it under the direct control and supervision of the Secretary of Natural Resources. On February 8, 1982, Executive Order No. 772 (EO 772) was issued amending PD 977, and renaming the Authority as the now "Philippine Fisheries Development Authority," and attaching said agency to the Ministry of Natural Resources.  Upon the effectivity of the Administrative Code (EO 292), the Authority became an attached agency of the Department of Agriculture.
+[2]
+Meanwhile, beginning October 31, 1981, the then Ministry of Public Works and Highways reclaimed from the sea a 21-hectare parcel of land in Barangay Tanza, Iloilo City, and constructed thereon the IFPC, consisting of breakwater, a landing quay, a refrigeration building, a market hall, a municipal shed, an administration building, a water and fuel oil supply system and other port related facilities and machineries.  Upon its completion, the Ministry of Public Works and Highways turned over IFPC to the Authority, pursuant to Section 11 of PD 977, which places fishing port complexes and related facilities under the governance and operation of the Authority.   Notwithstanding said turn over, title to the land and buildings of the IFPC remained with the Republic.
+The Authority thereafter leased portions of IFPC to private firms and individuals engaged in fishing related businesses.
+Sometime in May 1988, the City of Iloilo assessed the 
+entire
+ IFPC for real property taxes.  The assessment remained unpaid until the alleged total tax delinquency of the Authority for the fiscal years 1988 and 1989 amounted to P5,057,349.67, inclusive of penalties and interests.  To satisfy the tax delinquency, the City of Iloilo scheduled on August 30, 1990, the sale at public auction of the IFPC.
+The Authority filed an injunction case with the Regional Trial Court. At the pre-trial, the parties agreed to avail of administrative proceedings, 
+i.e.,
+ for the Authority to file a claim for tax exemption with the Iloilo City Assessor's Office.  The latter, however, denied the claim for exemption, hence, the Authority elevated the case to the Department of Finance (DOF).
+In its letter-decision
+[3]
+ dated March 6, 1992, the DOF ruled that the Authority is liable to pay real property taxes to the City of Iloilo because it enjoys the beneficial use of the IFPC.  The DOF added, however, that in satisfying the amount of the unpaid real property taxes, the property that is owned by the Authority shall be auctioned, and not the IFPC, which is a property of the Republic.
+[4]
+The Authority filed a petition before the Office of the President but it was dismissed.
+[5]
+  It also denied the motion for reconsideration filed by the Authority.
+[6]
+On petition with the Court of Appeals, the latter affirmed the decision of the Office of the President.  It opined, however, that the IFPC may be sold at public auction to satisfy the tax delinquency of the Authority.
+[7]
+  The dispositive portion thereof, reads:
+WHEREFORE, premises considered, the instant Petition for Review is DENIED, and accordingly the June 30, 2003 Decision and December 3, 2003 Order of the Office of the President are hereby AFFIRMED.
+SO ORDERED.
+[8]
+Hence, this petition.
+The issues are as follows: Is the Authority liable to pay real property tax to the City of Iloilo?  If the answer is in the affirmative, may the IFPC be sold at public auction to satisfy the tax delinquency?
+To resolve said issues, the Court has to determine (1) whether the Authority is a government owned or controlled corporation (GOCC) or an instrumentality of the national government; and (2) whether the IFPC is a property of public dominion.
+The Court rules that the Authority is not a GOCC but an instrumentality of the national government which is generally exempt from payment of real property tax.   However, said exemption does not apply to the portions of the IFPC which the Authority leased to private entities.  With respect to these properties, the Authority is liable to pay real property tax.   Nonetheless, the IFPC, being a property of public dominion cannot be sold at public auction to satisfy the tax delinquency.
+In 
+Manila International Airport Authority (MIAA) v. Court of Appeals
+,
+[9]
+  the Court made  a  distinction  between  a  GOCC and  an instrumentality.  Thus:
+Section 2(13) of the Introductory Provisions of the Administrative Code of 1987 defines a government-owned or controlled corporation as follows:
+SEC. 2. 
+General Terms Defined.
+ â x x x
+(13) 
+Government-owned or controlled corporation
+ refers to any agency 
+organized as a stock or non-stock corporation
+, vested with functions relating to public needs whether governmental or proprietary in nature, and owned by the Government directly or through its instrumentalities either wholly, or, where applicable as in the case of stock corporations, to the extent of at least fifty-one (51) percent of its capital stock: x x x  (Emphasis supplied)
+A government-owned or controlled corporation must be "
+organized as a stock or non-stock corporation.
+"  MIAA is not organized as a stock or non-stock corporation.  MIAA is not a stock corporation because it has 
+no capital stock divided into shares
+.  MIAA has no stockholders or voting shares.
+x x x x
+Section 3 of the Corporation Code defines a stock corporation as one whose "capital stock is divided into shares and x x x authorized to distribute to the holders of such shares dividends x x x." 
+MIAA has capital but it is not divided into shares of stock.  MIAA has no stockholders or voting shares.  Hence, MIAA is not a stock corporation.
+MIAA is also not a non-stock corporation because it has no members.   Section 87 of the Corporation Code defines a non-stock corporation as "one where no part of its income is distributable as dividends to its members, trustees or officers.
+"  A non-stock corporation must have members.  Even if we assume that the Government is considered as the sole member of MIAA, this will not make MIAA a non-stock corporation.  Non-stock corporations cannot distribute any part of their income to their members.   Section 11 of the MIAA Charter mandates MIAA to remit 20% of its annual gross operating income to the National Treasury.  This prevents MIAA from qualifying as a non-stock corporation.
+Section 88 of the Corporation Code provides that non-stock corporations are "organized for charitable, religious, educational, professional, cultural, recreational, fraternal, literary, scientific, social, civil service, or similar purposes, like trade, industry, agriculture and like chambers."   MIAA is not organized for any of these purposes.  MIAA, a public utility, is organized to operate an international and domestic airport for public use.
+Since MIAA is neither a stock nor a non-stock corporation, MIAA does not qualify as a government-owned or controlled corporation.
+[10]
+ (Emphasis supplied)
+Thus, for an entity to be considered as a GOCC, it must either be organized as a stock or non-stock corporation.  Two requisites must concur before one may be classified as a stock corporation, namely: (1) that it has capital stock divided into shares, and (2) that it is authorized to distribute dividends and allotments of surplus and profits to its stockholders.  If only one requisite is present, it cannot be properly classified as a stock corporation.  As for non-stock corporations, they must have members and must not distribute any part of their income to said members.
+[11]
+On the basis of the parameters set in the 
+MIAA
+ case, the Authority should be classified as an instrumentality of the national government.  As such, it is generally exempt from payment of real property tax, except those portions which have been leased to private entities.
+In the 
+MIAA
+ case, petitioner Philippine Fisheries Development Authority was cited as among the instrumentalities of the national government.  Thus â
+Some of the national government instrumentalities vested by law with juridical personalities are:
+ Bangko Sentral ng Pilipinas,  Philippine   Rice   Research Institute, Laguna Lake Development Authority, 
+Fisheries Development Authority
+, Bases Conversion Development Authority, Philippine Ports Authority, Cagayan de Oro Port Authority, San Fernando Port Authority, Cebu Port Authority, and Philippine National Railways.
+Indeed, the Authority is not a GOCC but an instrumentality of the government.  The Authority has a capital stock but it is not divided into shares of stocks.
+[12]
+  Also, it has no stockholders or voting shares.  Hence, it is not a stock corporation.  Neither it is a non-stock corporation because it has no members.
+The Authority is actually a national government instrumentality which is defined as an agency of the national government, not integrated within the department framework, vested with special functions or jurisdiction by law, endowed with some if not all corporate powers, administering special funds, and enjoying operational autonomy, usually through a charter.
+[13]
+  When the law vests in a government instrumentality corporate powers, the instrumentality does not become a corporation.   Unless the government instrumentality is organized as a stock or non-stock corporation, it remains a government instrumentality exercising not only governmental but also corporate powers.
+Thus, the Authority which is tasked with the special public function to carry out the government's policy "to promote the development of the country's fishing industry and improve the efficiency in handling, preserving, marketing, and distribution of fish and other aquatic products,"  exercises the governmental powers of eminent domain,
+[14]
+ and the power to levy fees and charges.
+[15]
+  At the same time, the Authority exercises "the general corporate powers conferred by laws upon private and government-owned or controlled corporations."
+[16]
+The MIAA case held
+[17]
+ that unlike GOCCs, 
+instrumentalities of the national government
+, like MIAA, are exempt from local taxes pursuant to Section 133(o) of the Local Government Code.   This exemption, however, admits of an 
+exception
+ with respect to real property taxes.  Applying Section 234(a) of the Local Government Code, the Court ruled that when an instrumentality of the national government grants to a taxable person the beneficial use of a real property owned by the Republic, said instrumentality becomes liable to pay real property tax.   Thus, while MIAA was held to be an instrumentality of the national government which is generally exempt from local taxes, it was at the same time declared liable to pay real property taxes on the airport lands and buildings which it leased to private persons.  It was held that the real property tax assessments and notices of delinquencies issued by the City of Pasay to MIAA are void 
+except
+ those pertaining to portions of the airport which are leased to private parties.  Pertinent portions of the decision, reads:
+Section 193 of the Local Government Code expressly withdrew the tax exemption of all juridical persons "
+[u]nless otherwise provided in this Code
+."   Now, Section 133(o) of the Local Government Code 
+expressly provides otherwise
+, specifically 
+prohibiting
+ local governments from imposing any kind of tax on national government instrumentalities.   Section 133(o) states:
+SEC. 133.  
+Common Limitations on the Taxing Powers of Local Government Units.
+  â   Unless otherwise provided herein, 
+the exercise of the taxing powers of provinces, cities, municipalities, and barangays shall not extend to the levy of the following
+:
+x x x x
+(o) 
+Taxes, fees or charges of any kinds on the National Government, its agencies and 
+instrumentalities
+, and local government units.
+By express mandate of the Local Government Code, local governments 
+cannot impose any kind of tax 
+on national government instrumentalities like the MIAA.   
+Local governments are devoid of power to tax the national government, its agencies and instrumentalities.
+     The taxing powers of local governments do not extend to the national government, its agencies and instrumentalities, "[u]nless otherwise provided in this Code" as stated in the saving clause of Section 133. x x x
+x x x x
+The saving clause in Section 133 refers to the exception to the exemption in Section 234(a) of the Code
+, which 
+makes the national government subject to real estate tax when it gives the beneficial use of its real properties to a taxable entity
+.  Section 234(a) of the Local Government Code provides:
+SEC. 234. 
+Exemptions from Real Property Tax
+ â 
+The following are exempted from payment of the real property tax:
+(a) 
+Real property owned by the Republic of the Philippines
+ or any of its political subdivisions 
+except when the beneficial use thereof has been granted, for consideration or otherwise, to a taxable person
+.
+x x x
+[18]
+ (Emphasis supplied)
+WHEREFORE,
+ we 
+GRANT
+ the petition.  We 
+SET ASIDE
+ the assailed Resolutions of the Court of Appeals of 5 October 2001 and 27 September 2002 in CA-G.R. SP No. 66878.   We 
+DECLARE
+ the Airport Lands and Buildings of the Manila International Airport Authority 
+EXEMPT
+ from the real estate tax imposed by the City of ParaÃ±aque.  
+We declare 
+VOID
+ all the real estate tax assessments, including the final notices of real estate tax delinquencies
+, issued by the City of ParaÃ±aque on the Airport Lands and Buildings of the Manila International Airport Authority, 
+except
+ for the portions that the Manila International Airport Authority has leased to private parties
+.   We also declare 
+VOID
+ the assailed auction sale, and all its effects, of the Airport Lands and Buildings of the Manila International Airport Authority.
+x x x x.
+[19]
+ (Emphasis added)
+In light of the foregoing, the Authority should be classified as an instrumentality of the national government which is liable to pay taxes only with respect to the portions of the property, the beneficial use of which were  vested in private entities.  When local governments invoke the power to tax on national government instrumentalities, such power is construed strictly against local governments.  The rule is that a tax is never presumed and there must be clear language in the law imposing the tax.   Any doubt whether a person, article or activity is taxable is resolved against taxation.  This rule applies with greater force when local governments seek to tax national government instrumentalities.
+[20]
+Thus, the real property tax assessments issued by the City of Iloilo should be upheld only with respect to the portions leased to private persons.  In case the Authority fails to pay the real property taxes due thereon, said portions cannot be sold at public auction to satisfy the tax delinquency.  In 
+Chavez v. Public Estates Authority
+ it was held that 
+reclaimed lands
+ are lands of the 
+public domain
+ and cannot, without Congressional fiat, be subject of a sale, public or private, thus:
+[21]
+The salient provisions of CA No. 141, on government reclaimed, foreshore and marshy lands of the public domain, are as follows:
+Sec. 59.  
+The lands disposable under this title shall be classified as follows:
+(a) Lands reclaimed by the Government by dredging, filling, or other means;
+(b) Foreshore;
+(c) Marshy lands 
+or lands covered with water bordering upon the shores or banks of navigable lakes or rivers;
+(d) Lands not included in any of the foregoing classes.
+x x x x
+Sec. 61.  
+The lands comprised in classes (a), (b), and (c) of section fifty-nine shall be disposed of to private parties by lease only and not otherwise,
+ as soon as 
+the President
+, upon recommendation by the Secretary of Agriculture, 
+shall declare that the same are not necessary for the public service
+ and are open to disposition under this chapter.  
+The lands included in class (d) may be disposed of by sale or lease under the provisions of this Act.
+"  (Emphasis supplied)
+x x x x
+Since then and until now, the 
+only way the government can sell to private parties government reclaimed and marshy disposable lands of the public domain is for the legislature to pass a law authorizing such sale
+.  CA No. 141 does not authorize the President to reclassify government reclaimed and marshy lands into other non-agricultural lands under Section 59 (d). Lands classified under Section 59 (d) are the only alienable or disposable lands for non-agricultural purposes that the government could sell to private parties.  (Emphasis supplied)
+In the same vein, the port built by the State in the Iloilo fishing complex is a property of the public dominion and cannot therefore be sold at public auction.  Article 420 of the Civil Code, provides:
+ARTICLE 420. The following things are 
+property of public dominion
+:
+(1) 
+Those intended for public use, such as
+ roads, canals, rivers, torrents, 
+ports
+ and bridges 
+constructed by the State
+, banks, shores, roadsteads, and others of similar character;
+(2) 
+Those which belong to the State
+, without being for public use, and are 
+intended for some public service
+ or for the development of the national wealth.
+The Iloilo fishing port which was constructed by the State for public use and/or public service falls within the term "port" in the aforecited provision.  Being a property of public dominion the same cannot be subject to execution or foreclosure sale.
+[22]
+  In like manner, the reclaimed land on which the IFPC is built cannot be the object of a private or public sale without Congressional authorization. Whether there are improvements in the fishing port 
+complex
+ that should not be construed to be embraced within the term "port," involves evidentiary matters that cannot be addressed in the present case.   As for now, considering that the Authority is a national government instrumentality, any doubt on whether the entire IFPC may be levied upon to satisfy the tax delinquency should be resolved against the City of Iloilo.
+In sum, the Court finds that the Authority is an instrumentality of the national government, hence, it is liable to pay real property taxes assessed by the City of Iloilo on the IFPC only with respect to those portions which are leased to private entities.  Notwithstanding said tax delinquency on the leased portions of the IFPC, the latter or any part thereof, being a property of public domain, cannot be sold at public auction.  This means that the City of Iloilo has to satisfy the tax delinquency through means other than the sale at public auction of the IFPC.
+WHEREFORE,
+ the petition is 
+GRANTED
+ and the June 21, 2005 Decision of the Court of Appeals in CA-G.R. SP No. 81228 is 
+SET ASIDE
+.   The real property tax assessments issued by the City Iloilo on the land and buildings of the Iloilo Fishing Port Complex, is declared 
+VOID EXCEPT
+ those pertaining to the portions leased to private parties.   The City of Iloilo is 
+DIRECTED
+ to refrain from levying on the Iloilo Fishing Port Complex to satisfy the payment of the real property tax delinquency.
+No costs.
+SO ORDERED.
+Austria-Martinez, 
+and 
+Chico-Nazario, JJ., 
+concur.
+Nachura, J.,
+ No part.  Filed pleadings as Sol Gen.
+[1]
+ 
+Rollo,
+ pp. 47-55.  Penned by Associate Justice Rosmari D. Carandang and concurred in by Associate Justices Remedios A. Salazar-Fernando and Monina Arevalo-Zenarosa.
+[2]
+ Book IV, Title IV, Chapter 6, Section 47, Executive Order No. 292 (1987).
+[3]
+ 
+Rollo,
+ pp. 128-131.
+[4]
+ 
+Id.
+ at 131.
+[5]
+ 
+Id. 
+at 87-89.
+[6]
+ 
+Id.
+ at 90.
+[7]
+ 
+Id.
+ at 54.
+[8]
+ Id.
+ at 55.  Petitioner filed a motion for reconsideration but was denied (
+Rollo,
+ pp. 57-58).
+[9]
+ G.R. No. 155650, July 20, 2006, 495 SCRA 591, 615.  The decision became final and executory on November 3, 2006.
+[10]
+ 
+Id.
+ at 615-617.
+[11]
+Agbayani, Commentaries and Jurisprudence on the Commercial Laws of the Philippines, vol. 3, 1998 edition, pp. 54-55.
+[12]
+ Sec. 5. Capitalization; Sinking Fund.  The Authority shall have an authorized capital stock of Five Hundred Million Pesos (P500,000,000.00) which shall be fully subscribed by the Republic of the Philippines, and the following amounts shall be paid in:
+(a) The net assets of the Authority, including the Navotas fishing port complex, the valuation of which shall be determined jointly with the Office of Budget and Management and the Commission on Audit;
+(b) The amount corresponding to the balance of the programmed appropriations for the Authority for calendar year 1981; and
+(c) The amount corresponding to the programmed appropriations for the Authority for the calendar year 1982.
+The Authority is authorized to establish a sinking fund necessary to meet such obligations as may be incurred by the Authority.  The annual contributions to the sinking fund shall come from the revenues derived from its fishing port complexes and, where such revenues are deficient, from such other corporate funds not otherwise intended for any specific purpose as may be designated by the Board.  Unless otherwise directed by the Board, the sinking fund shall be placed under the custody of any government bank which shall invest the same in such manner as may be advantageous to the Authority.
+[13]
+ Section 2(10) of the Introductory Provisions of the Administrative Code.
+[14]
+ Section 4 (k) of PD 977, as amended by EO 772.
+[15]
+ Section 4 (e) of PD 977, as amended by EO 772.
+[16]
+  Section 4 (j) of PD 977, as amended by EO 772.
+[17]
+ 
+Supra
+ note 9 at 645.
+[18]
+ Id. at 631-634.
+[19]
+ 
+Id.
+ at 646.
+[20]
+ 
+Id.
+ at 619.
+[21]
+ 
+Chavez v. Public Estates Authority, 
+G.R. No. 133250, July 9, 2002, 384 SCRA 152, 202-203.
+[22]
+ 
+Manila International Airport Authority (MIAA) v. Court of Appeals, supra
+ note 9 at 646; 
+Laurel v. Garcia,
+ G.R. Nos. 92013 & 92047, July 25, 1990, 187 SCRA 797, 808-809.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

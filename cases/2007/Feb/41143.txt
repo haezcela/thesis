@@ -1,0 +1,215 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			545 Phil. 1
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. NO. 147295, February 16, 2007 ]
+
+
+THE COMMISIONER OF INTERNAL REVENUE, PETITIONER, VS. ACESITE (PHILIPPINES) HOTEL CORPORATION, RESPONDENT.    
+
+ D E C I S I O N
+
+
+
+
+VELASCO, JR., J.:
+
+
+The Case
+Before us is a Petition for Review on Certiorari
+[1]
+ under Rule 45 of the Rules of Court, assailing the November 17, 2000 Decision
+[2]
+ of the Court of Appeals (CA) in CA-G.R. SP No. 56816, which affirmed the January 3, 2000 Decision
+[3]
+ of the Court of Tax Appeals (CTA) in CTA Case No. 5645 entitled 
+Acesite (Philippines) Hotel Corporation v. The Commissioner of Internal Revenue
+ for Refund of VAT Payments.
+The Facts
+The facts as found by the appellate court are undisputed, thus:
+Acesite is the owner and operator of the Holiday Inn Manila Pavilion Hotel along United Nations Avenue in Manila.  It leases 6,768.53 square meters of the hotelâs premises to the Philippine Amusement and Gaming Corporation [hereafter, PAGCOR] for casino operations.  It also caters food and beverages to PAGCORâs casino patrons through the hotelâs restaurant outlets.  For the period January (sic) 96 to April 1997, Acesite incurred VAT amounting to P30,152,892.02 from its rental income and sale of food and beverages to PAGCOR during said period.  Acesite tried to shift the said taxes to PAGCOR by incorporating it in the amount assessed to PAGCOR but the latter refused to pay the taxes on account of its tax exempt status.
+Thus, PAGCOR paid the amount due to Acesite minus the P30,152,892.02 VAT while the latter paid the VAT to the Commissioner of Internal Revenue [hereafter, CIR] as it feared the legal consequences of non-payment of the tax.  However, Acesite belatedly arrived at the conclusion that its transaction with PAGCOR was subject to zero rate as it was rendered to a tax-exempt entity.  On 21 May 1998, Acesite filed an administrative claim for refund with the CIR but the latter failed to resolve the same.  Thus on 29 May 1998, Acesite filed a petition with the Court of Tax Appeals [hereafter, CTA] which was decided in this wise:
+As earlier stated, Petitioner is subject to zero percent tax pursuant to Section 102 (b)(3) [now 106(A)(C)] insofar as its gross income from rentals and sales to PAGCOR, a tax exempt entity by virtue of a special law. Accordingly, the amounts of P21,413,026.78 and P8,739,865.24, representing the 10% EVAT on its sales of food and services and gross rentals, respectively from PAGCOR shall, as a matter of course, be refunded to the petitioner for having been inadvertently remitted to the respondent.
+Thus, taking into consideration the prescribed portion of Petitionerâs claim for refund of P98,743.40, and considering further the principle of 
+âsolutio indebitiâ
+ which requires the return of what has been delivered through mistake, Respondent must refund to the Petitioner the amount of P30,054,148.64 computed as follows:
+ Total amount per claim 
+ 30,152,892.02
+ 
+ Less Prescribed amount (Exhs A, X, & X-20)
+ 
+ 
+ January 1996
+ P 2,199.94
+ 
+ February 1996
+    26,205.04
+ 
+ March 1996
+    70,338.42
+          98,743.40
+ 
+ 
+ P30,054,148.64
+ 
+ 
+ vvvvvvvvvvvvv
+WHEREFORE, in view of all the foregoing, the instant Petition for Review is partially GRANTED.  The Respondent is hereby ORDERED to REFUND to the petitioner the amount of THIRTY MILLION FIFTY FOUR THOUSAND ONE HUNDRED FORTY EIGHT PESOS AND SIXTY FOUR CENTAVOS (P30,054,148.64) immediately.
+SO ORDERED.
+[4]
+The Ruling of the Court of Appeals
+Upon appeal by petitioner, the CA affirmed 
+in toto
+ the decision of the CTA holding that PAGCOR was not only exempt from direct taxes but was also exempt from indirect taxes like the VAT and consequently, the transactions between respondent Acesite and PAGCOR were âeffectively zero-ratedâ because they involved the rendition of services to an entity exempt from indirect taxes.  Thus, the CA affirmed the CTAâs determination by ruling that respondent Acesite was entitled to a refund of PhP 30,054,148.64 from petitioner.
+The Issues
+Hence, we have the instant petition with the following issues: (1) whether PAGCORâs tax exemption privilege includes the indirect tax of VAT to entitle Acesite to zero percent (0%) VAT rate; and (2) whether the zero percent (0%) VAT rate under then Section 102 (b)(3) of the Tax Code (now Section 108 (B)(3) of the Tax Code of 1997) legally applies to Acesite.
+The petition is devoid of merit.
+In resolving the first issue on whether PAGCORâs tax exemption privilege includes the indirect tax of VAT to entitle Acesite to zero percent (0%) VAT rate, we answer in the affirmative.  We will however discuss both issues together.
+PAGCOR is exempt from payment of indirect taxes
+It is undisputed that P.D. 1869, the charter creating PAGCOR, grants the latter an exemption from the payment of taxes.  Section 13 of P.D. 1869 pertinently provides:
+Sec. 13.  
+Exemptions.
+ â
+x x x x
+(2)  Income and other taxes. â (a)  Franchise Holder:  
+No tax of any kind or form, income or otherwise, as well as fees, charges or levies of whatever nature, whether National or Local, shall be assessed and collected under this Franchise from the Corporation; nor shall any form of tax or charge attach in any way to the earnings of the Corporation,
+ except a Franchise Tax of five (5%) percent of the gross revenue or earnings derived by the Corporation from its operation under this Franchise.  Such tax shall be due and payable quarterly to the National Government and shall be in lieu of all kinds of taxes, levies, fees or assessments of any kind, nature or description, levied, established or collected by any municipal, provincial, or national government authority.
+x x x x
+(b) Others:  The 
+exemptions herein granted for earnings derived from the operations conducted under the franchise specifically from the payment of any tax, income or otherwise, as well as any form of charges, fees or levies, 
+shall inure to the benefit of and extend to corporation(s), association(s), agency(ies), or individual(s) with whom the Corporation or operator has any contractual relationship in connection with the operations
+ of the casino(s) authorized to be conducted under this Franchise
+ and to those receiving compensation or other remuneration from the Corporation or operator as a result of essential facilities furnished and/or technical services rendered to the Corporation or operator. (Emphasis supplied.)
+Petitioner contends that the above tax exemption refers only to PAGCORâs direct tax liability and not to indirect taxes, like the VAT.
+We disagree.
+A close scrutiny of the above provisos clearly gives PAGCOR a blanket exemption to taxes with no distinction on whether the taxes are direct or indirect.  We are one with the CA ruling that PAGCOR is also exempt from indirect taxes, like VAT, as follows:
+Under the above provision [Section 13 (2) (b) of P.D. 1869], the term âCorporationâ or operator refers to PAGCOR.  Although the law does not specifically mention PAGCORâs exemption from indirect taxes, 
+PAGCOR is undoubtedly exempt from such taxes because the law exempts from taxes persons or entities contracting with PAGCOR in casino operations.
+  Although, differently worded, the provision clearly exempts PAGCOR from indirect taxes.  
+In fact, it goes one step further by granting tax exempt status to persons dealing with PAGCOR in casino operations.
+  The unmistakable conclusion is that PAGCOR is not liable for the P30,152,892.02 VAT and neither is Acesite as the latter is effectively subject to zero percent rate under Sec. 108 B (3). R.A. 8424.  (Emphasis supplied.)
+Indeed, by extending the exemption to entities or individuals dealing with PAGCOR, the legislature clearly granted exemption also from indirect taxes.  It must be noted that the indirect tax of VAT, as in the instant case, can be shifted or passed to the buyer, transferee, or lessee of the goods, properties, or services subject to VAT.  Thus, by extending the tax exemption to entities or individuals dealing with PAGCOR in casino operations, it is exempting PAGCOR from being liable to indirect taxes.
+The manner of charging VAT does not make PAGCOR liable to said tax
+It is true that VAT can either be incorporated in the value of the goods, properties, or services sold or leased, in which case it is computed as 1/11 of such value, or charged as an additional 10% to the value.  Verily, the seller or lessor has the option to follow either way in charging its clients and customer.  In the instant case, Acesite followed the latter method, that is, charging an additional 10% of the gross sales and rentals.  Be that as it may, the use of either method, and in particular, the first method, does not denigrate the fact that PAGCOR is exempt from an indirect tax, like VAT.
+VAT exemption extends to Acesite
+Thus, while it was proper for PAGCOR not to pay the 10% VAT charged by Acesite, the latter is not liable for the payment of it as it is exempt in this particular transaction by operation of law to pay the indirect tax.  Such exemption falls within the former Section 102 (b) (3) of the 1977 Tax Code, as amended (now Sec. 108 [b] 
+[3]
+ of R.A. 8424), which provides:
+Section 102.  Value-added tax on sale of services â (a) Rate and base of tax â There shall be levied, assessed and collected, a value-added tax equivalent to 10% of gross receipts derived by any person engaged in the sale of services x x x;  Provided, that the following services performed in the Philippines by VAT-registered persons shall be subject to 0%.
+x x x x
+(b) Transactions subject to zero percent (0%) rated.â
+x x x x
+(3)
+  Services rendered to persons or entities whose exemption under special laws
+ or international agreements to which the Philippines is a signatory effectively subjects the supply of such services to zero (0%) rate (emphasis supplied).
+The rationale for the exemption from indirect taxes provided for in P.D. 1869 and the extension of such exemption to entities or individuals dealing with PAGCOR in casino operations are best elucidated from the 1987 case of 
+Commissioner of Internal Revenue v. John Gotamco & Sons, Inc.,
+[5]
+ where the absolute tax exemption of the World Health Organization (WHO) upon an international agreement was upheld.  We held in said case that the exemption of contractee WHO should be implemented to mean that the entity or person exempt is the contractor itself who constructed the building owned by contractee WHO, and such does not violate the rule that tax exemptions are personal because the 
+manifest intention of the agreement is to exempt the contractor so that no contractorâs tax may be shifted to the contractee WHO.
+  Thus, the proviso in P.D. 1869, extending the exemption to entities or individuals dealing with PAGCOR in casino operations, is clearly to proscribe any indirect tax, like VAT, that may be shifted to PAGCOR.
+Acesite paid VAT by mistake
+Considering the foregoing discussion, there are undoubtedly erroneous payments of the VAT pertaining to the effectively zero-rate transactions between Acesite and PAGCOR.  Verily, Acesite has clearly shown that it paid the subject taxes under a mistake of fact, that is, when it was not aware that the transactions it had with PAGCOR were zero-rated at the time it made the payments.  In 
+UST Cooperative Store v. City of Manila,
+[6]
+ we explained that âthere is erroneous payment of taxes when a taxpayer pays under a mistake of fact, as for the instance in a case where he is not aware of an existing exemption in his favor at the time the payment was made.â
+[7]
+ Such payment is held to be not voluntary and, therefore, can be recovered or refunded.
+[8]
+Moreover, it must be noted that aside from not raising the issue of Acesiteâs compliance with pertinent Revenue Regulations on exemptions during the proceedings in the CTA, it cannot be gainsaid that Acesite should have done so as it paid the VAT under a mistake of fact.  Hence, petitionerâs argument on this point is utterly tenuous.
+Solutio indebiti applies to the Government
+Tax refunds are based on the principle of quasi-contract or 
+solutio indebiti
+ and the pertinent laws governing this principle are found in Arts. 2142 and 2154 of the Civil Code, which provide, thus:
+Art. 2142.  Certain lawful, voluntary, and unilateral acts give rise to the juridical relation of quasi-contract to the end that no one shall be unjustly enriched or benefited at the expense of another.
+Art. 2154.  If something is received when there is no right to demand it, and it was unduly delivered through mistake, the obligation to return it arises.
+When money is paid to another under the influence of a mistake of fact, that is to say, on the mistaken supposition of the existence of a specific fact, where it would not have been known that the fact was otherwise, it may be recovered.  The ground upon which the right of recovery rests is that money paid through misapprehension of facts belongs in equity and in good conscience to the person who paid it.
+[9]
+The Government comes within the scope of 
+solutio indebiti
+ principle as elucidated in 
+Commissioner of Internal Revenue v. Firemanâs Fund Insurance Company,
+ where we held that: âEnshrined in the basic legal principles is the time-honored doctrine that no person shall unjustly enrich himself at the expense of another.  It goes without saying that the Government is not exempted from the application of this doctrine.â
+[10]
+Action for refund strictly construed; Acesite discharged the
+burden of proof
+Since an action for a tax refund partakes of the nature of an exemption, which cannot be allowed unless granted in the most explicit and categorical language, it is strictly construed against the claimant who must discharge such burden convincingly.
+[11]
+  In the instant case, respondent Acesite had discharged this burden as found by the CTA and the CA.  Indeed, the records show that Acesite proved its actual VAT payments subject to refund, as attested to by an independent Certified Public Accountant who was duly commissioned by the CTA.  On the other hand, petitioner never disputed nor contested respondentâs testimonial and documentary evidence.  In fact, petitioner never presented any evidence on its behalf.
+One final word.  The BIR must release the refund to respondent without any unreasonable delay.  Indeed, fair dealing is expected by our taxpayers from the BIR and this duty demands that the BIR should refund without any unreasonable delay what it has erroneously collected.
+[12]
+WHEREFORE, 
+the petition is 
+DENIED
+ for lack of merit and the November 17, 2000 Decision of the CA is hereby 
+AFFIRMED.
+  No costs.
+SO ORDERED.
+Quisumbing, (Chairperson), Carpio, Carpio-Morales,
+ and 
+Tinga, JJ.,
+ concur.
+[1]
+ 
+Rollo,
+ pp. 7-18.
+[2]
+ Id. at 30-35. The Decision was penned by Associate Justice Buenaventura J. Guerrero (Chairman) and concurred in by Associate Justices Jose L. Sabio, Jr. and Eliezer R. De Los Santos.
+[3]
+ Id. at 36-45.  The Decision was penned by Presiding Judge Ernesto D. Acosta and concurred in by Associate Judges Ramon O. De Veyra and Amancio Q. Saga.
+[4]
+ Supra note 2, at 30-32.
+[5]
+ G.R. No. L-31092, February 27, 1987, 148 SCRA 36.
+[6]
+ G.R. No. L-17133, December 31, 1965, 15 SCRA 656.
+[7]
+ 51 Am. Jur. 1023.
+[8]
+ Supra note 6.
+[9]
+ 4 Am. Jur. 514.
+[10]
+ G.R. No. L-30644, March 9, 1987, 148 SCRA 315, 324-325, citing
+ Ramie Textile, Inc. v. Ismael Mathay, Sr., 
+G.R. No. L-32364, April 30, 1979, 89 SCRA 586.
+[11]
+ 
+See Commissioner of Internal Revenue v. S.C. Johnson and Son, Inc., et al.
+, G.R. No. 127105, June 25, 1999, 309 SCRA 87; 
+Philex Mining Corporation v. Commissioner of Internal Revenue, et al.,
+ G.R. No. 120324, April 21, 1999, 306 SCRA 126; 
+Commissioner of Internal Revenue v. Court of Appeals, et al.,
+ G.R. No. 122161, February 1, 1999, 302 SCRA 442; 
+Davao Gulf Lumber Corporation v. Commissioner of Internal Revenue, et al.,
+ G.R. No. 117359, July 23, 1998, 293 SCRA 76; 
+Commissioner of Internal Revenue v. Tokyo Shipping Co., Ltd.,
+ G.R. No. 68282, May 26, 1995, 244 SCRA 332.
+[12]
+ 
+Commissioner of Internal Revenue v. Tokyo Shipping Co., Ltd., 
+supra note 11.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

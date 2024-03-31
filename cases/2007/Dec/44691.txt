@@ -1,0 +1,524 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			564 Phil. 774
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 172835, December 13, 2007 ]
+
+
+AIR PHILIPPINES CORPORATION, PETITIONER, VS. PENNSWELL, INC. RESPONDENT. 
+D E C I S I O N
+
+
+
+
+CHICO-NAZARIO, J.:
+
+
+Petitioner Air Philippines Corporation seeks, 
+via
+ the instant Petition for Review under Rule 45 of the Rules of Court, the nullification of the 16 February 2006 Decision
+[1]
+ and the 25 May 2006 Resolution
+[2]
+ of the Court of Appeals in CA-G.R. SP No. 86329, which affirmed the Order
+[3]
+ dated 30 June 2004 of the Regional Trial Court (RTC), Makati City, Branch 64, in Civil Case No. 00-561.
+Petitioner Air Philippines Corporation is a domestic corporation engaged in the business of air transportation services.  On the other hand, respondent Pennswell, Inc. was organized to engage in the business of manufacturing and selling industrial chemicals, solvents, and special lubricants.
+On various dates, respondent delivered and sold to petitioner sundry goods in trade, covered by Sales Invoices No. 8846,
+[4]
+ 9105,
+[5] 
+ 8962,
+[6]
+ and 8963,
+[7]
+ which correspond to Purchase Orders No. 6433, 6684, 6634 and 6633, respectively. Under the contracts, petitionerâs total outstanding obligation amounted to P449,864.98 with interest at 14% per annum until the amount would be fully paid.  For failure of the petitioner to comply with its obligation under said contracts, respondent filed a Complaint
+[8]
+ for a Sum of Money on 28 April 2000 with the RTC.
+In its Answer,
+[9]
+ petitioner contended that its refusal to pay was not without valid and justifiable reasons.  In particular, petitioner alleged that it was defrauded in the amount of P592,000.00 by respondent for its previous sale of four items, covered by Purchase Order No. 6626.  Said items were misrepresented by respondent as belonging to a new line, but were in truth and in fact, identical with products petitioner had previously purchased from respondent.  Petitioner asserted that it was deceived by respondent which merely altered the names and labels of such goods.  Petitioner specifically identified the items in question, as follows:
+  
+Label/Description
+Item No.
+Amount
+P.O.
+Date
+ 
+ 
+ 
+ 
+ 
+1. a. Anti-Friction Fluid
+    b. Excellent Rust Corrosion (fake)
+MPL-800 
+MPL-008
+153,941.40 
+155,496.00
+ 
+5714 
+  5888
+05/20/99 
+06/20/99
+2. a. Contact Grease
+    b. Connector Grease (fake)
+COG #2 
+CG
+115,236.00 
+230,519.52
+5540 
+  6327
+04/26/99 
+08/05/99
+3. a. Trixohtropic Grease
+    b. Di-Electric Strength
+        Protective Coating (fake)
+EPC 
+EPC#2
+81,876.96 
+81,876.96
+4582 
+  5446
+01/29/99 
+04/21/99
+4. a. Dry Lubricant
+    b. Anti-Seize Compound (fake)
+ASC-EP 
+ASC-EP 2000
+87,346.52 
+124,108.10
+5712 
+    4763 & 5890
+05/20/99 
+02/16/99 & 06/24/99
+According to petitioner, respondentâs products, namely Excellent Rust Corrosion, Connector Grease, Electric Strength Protective Coating, and Anti-Seize Compound, are identical with its Anti-Friction Fluid, Contact Grease, Thixohtropic Grease, and Dry Lubricant, respectively.  Petitioner asseverated that had respondent been forthright about the identical character of the products, it would not have purchased the items complained of.  Moreover, petitioner alleged that when the purported fraud was discovered, a conference was held between petitioner and respondent on 13 January 2000, whereby the parties agreed that respondent would return to petitioner the amount it previously paid.  However, petitioner was surprised when it received a letter from the respondent, demanding payment of the amount of P449,864.94, which later became the subject of respondentâs Complaint for Collection of a Sum of Money against petitioner.
+During the pendency of the trial, petitioner filed a Motion to Compel
+ [10]
+ respondent to give a detailed list of the ingredients and chemical components of the following products, to wit: (a) Contact Grease and Connector Grease; (b) Thixohtropic Grease and Di-Electric Strength Protective Coating; and (c) Dry Lubricant and Anti-Seize Compound.
+[11]
+  It appears that petitioner had earlier requested the Philippine Institute of Pure and Applied Chemistry (PIPAC) for the latter to conduct a comparison of respondentâs goods.
+On 15 March 2004, the RTC rendered an Order granting the petitionerâs motion.  It disposed, thus:
+The Court directs [herein respondent] Pennswell, Inc. to give [herein petitioner] Air Philippines Corporation[,] a detailed list of the ingredients or chemical components of the following chemical products:
+Contact Grease to be compared with Connector Grease;
+Thixohtropic Grease to be compared with Di-Electric Strength Protective Coating; and
+Dry Lubricant to be compared with Anti-Seize Compound[.]
+[Respondent] Pennswell, Inc. is given fifteen (15) days from receipt of this Order to submit to [petitioner] Air Philippines Corporation the chemical components of all the above-mentioned products for chemical comparison/analysis.
+[12]
+Respondent sought reconsideration of the foregoing Order, contending that it cannot be compelled to disclose the chemical components sought because the matter is confidential.  It argued that what petitioner endeavored to inquire upon constituted a trade secret which respondent cannot be forced to divulge.  Respondent maintained that its products are specialized lubricants, and if their components were revealed, its business competitors may easily imitate and market the same types of products, in violation of its proprietary rights and to its serious damage and prejudice.
+The RTC gave credence to respondentâs reasoning, and reversed itself.  It issued an Order dated 30 June 2004, finding that the chemical components are respondentâs trade secrets and are privileged in character.  
+A priori,
+ it rationalized:
+The Supreme Court held in the case of Chavez vs. Presidential Commission on Good Government, 299 SCRA 744, p. 764, that âthe drafters of the Constitution also unequivocally affirmed that aside from national security matters and intelligence information, trade or industrial secrets (pursuant to the Intellectual Property Code and other related laws) as well as banking transactions (pursuant to the Secrecy of Bank Deposit Act) are also exempted from compulsory disclosure.â
+Trade secrets may not be the subject of compulsory disclosure.  By reason of [their] confidential and privileged character, ingredients or chemical components of the products ordered by this Court to be disclosed constitute trade secrets lest [herein respondent] would eventually be exposed to unwarranted business competition with others who may imitate and market the same kinds of products in violation of [respondentâs] proprietary rights. Being privileged, the detailed list of ingredients or chemical components may not be the subject of mode of discovery under Rule 27, Section 1 of the Rules of Court, which expressly makes privileged information an exception from its coverage.
+[13]
+Alleging grave abuse of discretion on the part of the RTC, petitioner filed a Petition for 
+Certiorari
+ under Rule 65 of the Rules of Court with the Court of Appeals, which denied the Petition and affirmed the Order dated 30 June 2004 of the RTC.
+The Court of Appeals ruled that to compel respondent to reveal in detail the list of ingredients of its lubricants is to disregard respondentâs rights over its trade secrets.  It was categorical in declaring that the chemical formulation of respondentâs products and their ingredients are embraced within the meaning of âtrade secrets.â In disallowing the disclosure, the Court of Appeals expounded, thus:
+The Supreme Court in 
+Garcia v. Board of Investments
+ (177 SCRA 374 [1989]) held that trade secrets and confidential, commercial and financial information are exempt from public scrutiny.  This is reiterated in 
+Chavez v. Presidential Commission on Good Government
+ (299 SCRA 744 [1998]) where the Supreme Court enumerated the kinds of information and transactions that are recognized as restrictions on or privileges against compulsory disclosure.  There, the Supreme Court explicitly stated that:
+âThe drafters of the Constitution also unequivocally affirmed that, aside from national security matters and intelligence information, 
+trade or industrial secrets
+ (pursuant to the Intellectual Property Code and other related laws) as well as banking transactions (pursuant to the Secrecy of Bank Deposits Act) re also exempt from compulsory disclosure.â
+It is thus clear from the foregoing that a party cannot be compelled to produce, release or disclose documents, papers, or any object which are considered trade secrets.
+In the instant case, petitioner [Air Philippines Corporation] would have [respondent] Pennswell produce a detailed list of ingredients or composition of the latterâs lubricant products so that a chemical comparison and analysis thereof can be obtained.  On this note, We believe and so hold that the ingredients or composition of [respondent] Pennswellâs lubricants are trade secrets which it cannot be compelled to disclose.
+[Respondent] Pennswell has a proprietary or economic right over the ingredients or components of its lubricant products.  The formulation thereof is not known to the general public and is peculiar only to [respondent] Pennswell. The legitimate and economic interests of business enterprises in protecting their manufacturing and business secrets are well-recognized in our system.
+[Respondent] Pennswell has a right to guard its trade secrets, manufacturing formulas, marketing strategies and other confidential programs and information against the public.  Otherwise, such information can be illegally and unfairly utilized by business competitors who, through their access to [respondent] Pennswellâs business secrets, may use the same for their own private gain and to the irreparable prejudice of the latter.
+x x x x
+In the case before Us, the alleged trade secrets have a factual basis, i.e., it comprises of the ingredients and formulation of [respondent] Pennswellâs lubricant products which are unknown to the public and peculiar only to Pennswell.
+All told, We find no grave abuse of discretion amounting to lack or excess of jurisdiction on the part of public respondent Judge in finding that the detailed list of ingredients or composition of the subject lubricant products which petitioner [Air Philippines Corporation] seeks to be disclosed are trade secrets of [respondent] Pennswell; hence, privileged against compulsory disclosure.
+[14]
+Petitionerâs Motion for Reconsideration was denied.
+Unyielding, petitioner brought the instant Petition before us, on the sole issue of:
+WHETHER THE COURT OF APPEALS RULED IN ACCORDANCE WITH PREVAILING LAWS AND JURISPRUDENCE WHEN IT UPHELD THE RULING OF THE TRIAL COURT THAT THE CHEMICAL COMPONENTS OR INGREDIENTS OF RESPONDENTâS PRODUCTS ARE TRADE SECRETS OR INDUSTRIAL SECRETS THAT ARE NOT SUBJECT TO COMPULSORY DISCLOSURE.
+[15]
+Petitioner seeks to convince this Court that it has a right to obtain the chemical composition and ingredients of respondentâs products to conduct a comparative analysis of its products.  Petitioner assails the conclusion reached by the Court of Appeals that the matters are trade secrets which are protected by law and beyond public scrutiny. Relying on Section 1, Rule 27 of the Rules of Court, petitioner argues that the use of modes of discovery operates with desirable flexibility under the discretionary control of the trial court.  Furthermore, petitioner posits that its request is not done in bad faith or in any manner as to annoy, embarrass, or oppress respondent.
+A trade secret is defined as a plan or process, tool, mechanism or compound known only to its owner and those of his employees to whom it is necessary to confide it.
+[16]
+  The definition also extends to a secret formula or process not patented, but known only to certain individuals using it in compounding some article of trade having a commercial value.
+[17] 
+  A trade secret may consist of any formula, pattern, device, or compilation of information that: (1) is used in one's business; and (2) gives the employer an opportunity to obtain an advantage over competitors who do not possess the information.
+[18]
+  Generally, a trade secret is a process or device intended for continuous use in the operation of the business, for example, a machine or formula, but can be a price list or catalogue or specialized customer list.
+ [19]
+  It is indubitable that trade secrets constitute proprietary rights.  The inventor, discoverer, or possessor of a trade secret or similar innovation has rights therein which may be treated as property, and ordinarily an injunction will be granted to prevent the disclosure of the trade secret by one who obtained the information "in confidence" or through a "confidential relationship."
+ [20]
+  American jurisprudence has utilized the following factors
+ [21]
+ to determine if an information is a trade secret, to wit:   
+(1)
+ 
+the extent to which the information is known outside of the employer's business;
+ 
+(2)
+ 
+the extent to which the information is known by employees and others involved in the business;
+ 
+(3)
+ 
+the extent of measures taken by the employer to guard the secrecy of the information;
+ 
+(4)
+ 
+the value of the information to the employer and to competitors;
+ 
+(5)
+ 
+the amount of effort or money expended by the company in developing the information; and
+ 
+(6)
+the extent to which the information could be easily or readily obtained through an independent source. 
+[22]
+In 
+Cocoland Development Corporation v. National Labor Relations Commission
+,
+[23]
+ the issue was the legality of an employeeâs termination on the ground of unauthorized disclosure of trade secrets.  The Court laid down the rule that any determination by management as to the confidential nature of technologies, processes, formulae or other so-called trade secrets must have a substantial factual basis which can pass judicial scrutiny.  The Court rejected the employerâs naked contention that its own determination as to what constitutes a trade secret should be binding and conclusive upon the NLRC.  As a caveat, the Court said that to rule otherwise would be to permit an employer to label almost anything a trade secret, and thereby create a weapon with which he/it may arbitrarily dismiss an employee on the pretext that the latter somehow disclosed a trade secret, even if in fact there be none at all to speak of.
+[24]
+  Hence, in 
+Cocoland
+, the parameters in the determination of trade secrets were set to be such 
+substantial factual basis that can withstand judicial scrutiny.
+The chemical composition, formulation, and ingredients of respondentâs special lubricants are trade secrets within the contemplation of the law.  Respondent was established to engage in the business of general manufacturing and selling of, and to deal in, distribute, sell or otherwise dispose of goods, wares, merchandise, products, including but not limited to industrial chemicals, solvents, lubricants, acids, alkalies, salts, paints, oils, varnishes, colors, pigments and similar preparations, among others.  It is unmistakable to our minds that the manufacture and production of respondentâs products proceed from a formulation of a secret list of ingredients.  In the creation of its lubricants, respondent expended efforts, skills, research, and resources.  What it had achieved by virtue of its investments may not be wrested from respondent on the mere pretext that it is necessary for petitionerâs defense against a collection for a sum of money. By and large, the value of the information to respondent is crystal clear.  The ingredients constitute the very fabric of respondentâs production and business.  No doubt, the information is also valuable to respondentâs competitors.  To compel its disclosure is to cripple respondentâs business, and to place it at an undue disadvantage.  If the chemical composition of respondentâs lubricants are opened to public scrutiny, it will stand to lose the backbone on which its business is founded.  This would result in nothing less than the probable demise of respondentâs business.  Respondentâs proprietary interest over the ingredients which it had developed and expended money and effort on is incontrovertible. Our conclusion is that the detailed ingredients sought to be revealed have a commercial value to respondent.  Not only do we acknowledge the fact that the information grants it a competitive advantage; we also find that there is clearly a glaring intent on the part of respondent to keep the information confidential and not available to the prying public.
+We now take a look at Section 1, Rule 27 of the Rules of Court, which permits parties to inspect documents or things upon a showing of good cause before the court in which an action is pending.  Its entire provision reads:
+SECTION 1. 
+Motion for production or inspection order. 
+â Upon motion of any party showing good cause therefore, the court in which an action is pending may (a) order any party to produce and permit the inspection and copying or photographing, by or on behalf of the moving party, of any designated documents, papers, books, accounts, letters, photographs, objects or tangible things, not privileged, which constitute or contain evidence material to any matter involved in the action and which are in his possession, custody or control; or (b) order any party to permit entry upon designated land or other property in his possession or control for the purpose of inspecting, measuring, surveying, or photographing the property or any designated relevant object or operation thereon.  The order shall specify the time, place and manner of making the inspection and taking copies and photographs, and may prescribe such terms and conditions as are just.
+A more than cursory glance at the above text would show that the production or inspection of documents or things as a mode of discovery sanctioned by the Rules of Court may be availed of by any party upon a showing of good cause therefor before the court in which an action is pending.  The court may order any party: a) to produce and permit the inspection and copying or photographing of any designated documents, papers, books, accounts, letters, photographs, objects or tangible things, which are 
+not privileged;
+[25]
+ which constitute or contain evidence material to any matter involved in the action; and which are in his possession, custody or control; or b) to permit entry upon designated land or other property in his possession or control for the purpose of inspecting, measuring, surveying, or photographing the property or any designated relevant object or operation thereon.
+Rule 27 sets an unequivocal proviso that the documents, papers, books, accounts, letters, photographs, objects or tangible things that may be produced and inspected should 
+not be privileged.
+ [26]
+  The documents must not be privileged against disclosure.
+[27] 
+  On the ground of public policy, the rules providing for production and inspection of books and papers do not authorize the production or inspection of privileged matter; that is, books and papers which, because of their confidential and privileged character, could not be received in evidence.
+[28] 
+ Such a condition is in addition to the requisite that the items be specifically described, and must constitute or contain evidence material to any matter involved in the action and which are in the partyâs possession, custody or control.
+Section 24
+[29]
+ of Rule 130 draws the types of disqualification by reason of privileged communication, to wit: (a) communication between husband and wife; (b) communication between attorney and client; (c) communication between physician and patient; (d) communication between priest and penitent; and (e) public officers and public interest.  
+There are, however, other privileged matters that are not mentioned by Rule 130.
+  Among them are the following: (a) editors may not be compelled to disclose the source of published news; (b) voters may not be compelled to disclose for whom they voted; (c) 
+trade secrets;
+ (d) information contained in tax census returns; and (d) bank deposits. 
+[30]
+We, thus, rule against the petitioner.  We affirm the ruling of the Court of Appeals which upheld the finding of the RTC that there is substantial basis for respondent to seek protection of the law for its proprietary rights over the detailed chemical composition of its products.
+That trade secrets are of a privileged nature is beyond quibble.  The protection that this jurisdiction affords to trade secrets is evident in our laws.  The Interim Rules of Procedure on Government Rehabilitation, effective 15 December 2000, which applies to: (1) petitions for rehabilitation filed by corporations, partnerships, and associations pursuant to Presidential Decree No. 902-A,
+[31]
+ as amended; and (2) cases for rehabilitation transferred from the Securities and Exchange Commission to the RTCs pursuant to Republic Act No. 8799, otherwise known as The Securities Regulation Code, expressly provides that the court may issue an order to 
+protect trade secrets or other confidential research, development, or commercial information
+ belonging to the debtor. 
+[32]
+  Moreover, the Securities Regulation Code is explicit that the Securities and Exchange Commission is 
+not required or authorized to require the revelation of trade secrets or processes in any application, report or document filed with the Commission.
+[33] 
+  This confidentiality is made paramount as a limitation to the right of any member of the general public, upon request, to have access to all information filed with the Commission.
+[34] 
+Furthermore, the Revised Penal Code endows a cloak of protection to trade secrets under the following articles:
+Art. 291. 
+Revealing secrets with abuse of office. 
+â The penalty of 
+arresto mayor
+ and a fine not exceeding 500 pesos shall be imposed upon any manager, employee or servant who, in such capacity, 
+shall learn the secrets of his principal or master and shall reveal such secrets.
+Art. 292. 
+Revelation of industrial secrets.
+ â The penalty of 
+prision correccional
+ in its minimum and medium periods and a fine not exceeding 500 pesos shall be imposed 
+upon the person in charge, employee or workman of any manufacturing or industrial establishment who, to the prejudice of the owner thereof, shall reveal the secrets of the industry of the latter.
+Similarly, Republic Act No. 8424, otherwise known as the National Internal Revenue Code of 1997, has a restrictive provision on trade secrets, penalizing the revelation thereof by internal revenue officers or employees, to wit:
+SECTION 278. 
+Procuring Unlawful Divulgence of Trade Secrets.
+ - Any person who causes or procures an officer or employee of the Bureau of Internal Revenue 
+to divulge any confidential information regarding the business, income or inheritance of any taxpayer, knowledge of which was acquired by him in the discharge of his official duties,
+ and which it is unlawful for him to reveal, and any person who publishes or prints in any manner whatever, not provided by law, any income, profit, loss or expenditure appearing in any income tax return, shall be punished by a fine of not more than two thousand pesos (P2,000), or suffer imprisonment of not less than six (6) months nor more than five (5) years, or both.
+Republic Act No. 6969, or the Toxic Substances and Hazardous and Nuclear Wastes Control Act of 1990, enacted to implement the policy of the state to regulate, restrict or prohibit the importation, manufacture, processing, sale, distribution, use and disposal of chemical substances and mixtures that present unreasonable risk and/or injury to health or the environment, also contains a provision 
+that limits the right of the public to have access to records, reports or information concerning chemical substances and mixtures including safety data submitted and data on emission or discharge into the environment, if the matter is confidential such that it would divulge trade secrets, production or sales figures; or methods, production or processes unique to such manufacturer, processor or distributor; or would otherwise tend to affect adversely the competitive position of such manufacturer, processor or distributor.
+[35]
+Clearly, in accordance with our statutory laws, this Court has declared that intellectual and industrial property rights cases are not simple property cases.
+[36]
+  Without limiting such industrial property rights to trademarks and trade names, this Court has ruled that all agreements concerning intellectual property are intimately connected with economic development.
+ [37]
+  The protection of industrial property encourages investments in new ideas and inventions and stimulates creative efforts for the satisfaction of human needs.  It speeds up transfer of technology and industrialization, and thereby bring about social and economic progress.
+[38]
+  Verily, the protection of industrial secrets is inextricably linked to the advancement of our economy and fosters healthy competition in trade.
+Jurisprudence has consistently acknowledged the private character of trade secrets.  There is a privilege not to disclose oneâs trade secrets.
+[39]
+  Foremost, this Court has declared that trade secrets and banking transactions are among the recognized restrictions to the right of the people to information as embodied in the Constitution.
+[40]
+ We said that the drafters of the Constitution also unequivocally affirmed that, aside from national security matters and intelligence information, trade or industrial secrets (pursuant to the Intellectual Property Code and other related laws) as well as banking transactions (pursuant to the Secrecy of Bank Deposits Act), are also exempted from compulsory disclosure.
+[41]
+Significantly, our cases on labor are replete with examples of a protectionist stance towards the trade secrets of employers.  For instance, this Court upheld the validity of the policy of a pharmaceutical company prohibiting its employees from marrying employees of any competitor company, on the rationalization that the company has a right to guard its trade secrets, manufacturing formulas, marketing strategies and other confidential programs and information from competitors.
+[42]
+  Notably, it was in a labor-related case that this Court made a stark ruling on the proper determination of trade secrets.
+In the case at bar, petitioner cannot rely on Section 77
+[43]
+ of Republic Act 7394, or the Consumer Act of the Philippines, in order to compel respondent to reveal the chemical components of its products.  While it is true that all consumer products domestically sold, whether manufactured locally or imported, shall indicate their general make or active ingredients in their respective labels of packaging, the law does not apply to respondent.  Respondentâs specialized lubricants -- namely, Contact Grease, Connector Grease, Thixohtropic Grease, Di-Electric Strength Protective Coating, Dry Lubricant and Anti-Seize Compound -- are not consumer products. âConsumer products,â as it is defined in Article 4(q),
+[44]
+ refers to goods, services and credits, debts or obligations which are primarily for personal, family, household or agricultural purposes, which shall include, but not be limited to, food, drugs, cosmetics, and devices.  This is not the nature of respondentâs products.  Its products are not intended for personal, family, household or agricultural purposes.  Rather, they are for industrial use, specifically for the use of aircraft propellers and engines.
+Petitionerâs argument that Republic Act No. 8203, or the Special Law on Counterfeit Drugs, requires the disclosure of the active ingredients of a drug is also on faulty ground.
+[45]
+ Respondentâs products are outside the scope of the cited law.  They do not come within the purview of a drug
+[46]
+ which, as defined therein, refers to any chemical compound or biological substance, other than food, that is intended for use in the treatment, prevention or diagnosis of disease in man or animals. Again, such are not the characteristics of respondentâs products.
+What is clear from the factual findings of the RTC and the Court of Appeals is that the chemical formulation of respondentâs products is not known to the general public and is unique only to it.  Both courts uniformly ruled that these ingredients are not within the knowledge of the public.  Since such factual findings are generally not reviewable by this Court, it is not duty-bound to analyze and weigh all over again the evidence already considered in the proceedings below.
+[47]
+  We need not delve into the factual bases of such findings as questions of fact are beyond the pale of Rule 45 of the Rules of Court.  Factual findings of the trial court when affirmed by the Court of Appeals, are binding and conclusive on the Supreme Court.
+[48]
+We do not find merit or applicability in petitionerâs invocation of Section 12
+ [49]
+ of the Toxic Substances and Hazardous and Nuclear Wastes Control Act of 1990, which grants the public access to records, reports or information concerning chemical substances and mixtures, including safety data submitted, and data on emission or discharge into the environment.  
+To reiterate, Section 12
+[50]
+ 
+of said Act deems as confidential matters, which may not be made public, those that would divulge trade secrets, including production or sales figures or methods; production or processes unique to such manufacturer, processor or distributor, or would otherwise tend to affect adversely the competitive position of such manufacturer, processor or distributor.
+  It is true that under the same Act, the Department of Environment and Natural Resources may release information; however, the clear import of the law is that said authority is limited by the right to confidentiality of the manufacturer, processor or distributor, which information may be released only to a medical research or scientific institution where the information is needed for the purpose of medical diagnosis or treatment of a person exposed to the chemical substance or mixture.  The right to confidentiality is recognized by said Act as primordial.  Petitioner has not made the slightest attempt to show that these circumstances are availing in the case at bar.
+Indeed, the privilege is not absolute; the trial court may compel disclosure where it is indispensable for doing justice. 
+[51]
+ We do not, however, find reason to except respondentâs trade secrets from the application of the rule on privilege.  The revelation of respondentâs trade secrets serves no better purpose to the disposition of the main case pending with the RTC, which is on the collection of a sum of money.  As can be gleaned from the facts, petitioner received respondentâs goods in trade in the normal course of business.  To be sure, there are defenses under the laws of contracts and sales available to petitioner.  On the other hand, the greater interest of justice ought to favor respondent as the holder of trade secrets.  If we were to weigh the conflicting interests between the parties, we rule in favor of the greater interest of respondent.  
+Trade secrets should receive greater protection from discovery, because they derive economic value from being generally unknown and not readily ascertainable by the public.
+ 
+[52]
+  To the mind of this Court, petitioner was not able to show a compelling reason for us to lift the veil of confidentiality which shields respondentâs trade secrets.
+WHEREFORE
+, the Petition is 
+DENIED
+.  The Decision dated 16 February 2006, and the Resolution dated 25 May 2006, of the Court of Appeals in CA-G.R. SP No. 86329 are 
+AFFIRMED
+.  No costs.
+SO ORDERED.
+Ynares-Santiago, (Chairperson),  Austria-Martinez, Nachura,
+  and 
+Reyes, JJ.,
+ concur.
+[1]
+ Penned by Associate Justice Jose C. Reyes, Jr. with Associate Justice Eliezer R. de los Santos and Associate Justice Arturo G. Tayag, concurring. CA 
+rollo
+, pp. 166-176.
+[2]
+ Id. at 206.
+[3]
+ Penned by Judge Delia H. Panganiban. Records, p. 313-314.
+[4]
+ Corresponding to the sale of Penns-Lube Graphite Grease. Id. at 7.
+[5]
+ Corresponding to the sale of Rectified Insulation and Carbon Remover. Id. at 9.
+[6]
+ Corresponding to the sale of Anti-Contaminant. Id. at 11.
+[7]
+ Corresponding to the sale of Non-Toxic Ease Off with Product Code Penns-Chem CIR. Id. at 13.
+[8]
+ Id. at 1-6.
+[9]
+ Id. at 33-48.
+[10]
+ Id. at 291-294.
+[11]
+ Id. at 291-292.
+[12]
+ Id. at 300.
+[13]
+ Id. at 313-314.
+[14]
+ CA 
+rollo
+, pp. 172-175.
+[15]
+ 
+Rollo,
+ p. 26
+[16]
+ BLACKâS LAW DICTIONARY 1494 (1991),  6
+TH
+ ed.
+[17]
+ Id., citing 
+Palin Mfg. Co., Inc. v. Water Technology, Inc.
+, 103 Ill.App.3d 926, 59 Ill.Dec. 553, 431
+[18]
+ AMJUR EMPLOYMENT Â§ 178, citing 
+Saunders v. Florence Enameling Co., Inc.
+, 540 So. 2d 651 (Ala. 1988); 
+Air Products and Chemicals, Inc. v. Johnson
+, 296 Pa. Super. 405, 442 A.2d 1114 (1982).  The foregoing citation also expounded that trade secrets need not be technical in nature. Market-related information such as information on current and future projects, as well as potential future opportunities for a firm, may constitute a trade secret., citing 
+Air Products and Chemicals, Inc. v. Johnson
+, 296 Pa. Super. 405, 442 A.2d 1114 (1982).
+[19]
+ Id., citing 
+Saunders v. Florence Enameling Co., Inc.
+, 540 So. 2d 651 (Ala. 1988); 
+Air Products and Chemicals, Inc. v. Johnson
+, 296 Pa. Super. 405, 442 A.2d 1114 (1982). A former employee of an insurance company, who routinely received information regarding the company's customer list and policy termination dates while serving as vice-president, was barred from disclosing that information, even though the company had partially disclosed the customer list in attempts to secure new clients. 
+Alexander & Alexander, Inc. v. Drayton
+, 378 F. Supp. 824 (E.D. Pa. 1974), aff'd, 505 F.2d 729 (3d Cir. 1974).
+[20]
+ 9 A.L.R.3d 665, citing Am Jur, Injunctions (Rev ed Â§ 72). The 
+Restatement of the Law of Torts Â§ 757
+, emphasizes that liability for the disclosure of a trade secret learned under conditions giving no privilege of disclosure or use is not based on the mere copying or use but on the improper means by which the information was procured.
+[21]
+ Id., as adopted from the Uniform Trade Secrets Act which is intended to provide states with a legal framework for improved trade-secret protection.
+[22]
+ Id.
+[23]
+ 328 Phil. 351 (1996).
+[24]
+ Id.
+[25]
+ âPrivileged communicationsâ are communications which occur in a context of legal or other recognized professional confidentiality.  The fact that a certain communication is termed privileged allows the speakers to resist legal pressure to disclose its contents. (
+See
+ Barronâs Law Dictionary, 3
+rd
+ ed., p. 373.) The term âprivilegedâ in Section 2, Rule 24, Rules of Court, on depositions and discovery, refers to privileged confidential communications under Sec. 21, Rule 130, Rules of Court. (
+See
+ Philippine Law Dictionary, 1982 ed., p. 484.)
+[26]
+ Feria and Noche, CIVIL PROCEDURE ANNOTATED (2001 ed.), p. 553.
+[27]
+ Agpalo, HANDBOOK ON CIVIL PROCEDURE (2001 ed.), p. 288.
+[28]
+ Id. at 289.
+[29]
+ Sec. 24. 
+Disqualification by reason of privileged communication.
+ â The following persons cannot testify as to matters learned in confidence in the following cases:
+(a) The husband or the wife, during or after the marriage cannot be examined without the consent of the other as to any communication received in confidence by one from the other during the marriage except in a civil case by one against the other, or in a criminal case for a crime committed by one against the other or the latter's direct descendants or ascendants;
+(b) An attorney cannot, without the consent of his client, be examined as to any communication made by the client to him, or his advice given thereon in the course of, or with a view to, professional employment, nor can an attorney's secretary, stenographer, or clerk be examined, without the consent of the client and his employer, concerning any fact the knowledge of which has been acquired in such capacity;
+(c) A person authorized to practice medicine, surgery or obstetrics cannot in a civil case, without the consent of the patient, be examined as to any advice or treatment given by him or any information which he may have acquired in attending such patient in a professional capacity, which information was necessary to enable him to act in capacity, and which would blacken the reputation of the patient;
+(d) A minister or priest cannot, without the consent of the person making the confession, be examined as to any confession made to or any advice given by him in his professional character in the course of discipline enjoined by the church to which the minister or priest belongs;
+(e) A public officer cannot be examined during his term of office or afterwards, as to communications made to him in official confidence, when the court finds that the public interest would suffer by the disclosure.
+[30]
+ Francisco, EVIDENCE (3
+rd
+ ed., 1996), pp. 171-173.
+[31]
+ SEC Reorganization Act.
+[32]
+ Section 4, Rule 3 of the Interim Rules of Procedure on Government Rehabilitation.
+[33]
+ Section 66.2 of the Securities Regulation Code of 2000 provides that, â66.2. Nothing in this Code shall be construed to require, or to authorize the Commission to require, the revealing of trade secrets or processes in any application, report, or document filed with the Commission.
+[34]
+ SEC. 66. 
+Revelation of Information Filed with the Commission.
+ â  66.1. All information filed with the Commission in compliance with the requirements of this Code shall be made available to any member of the general public, upon request, in the premises and during regular office hours of the Commission, except as set forth in this Section.
+[35]
+ Section 12. - 
+Public Access to Records, Reports or Notification.
+ The public shall have access to records, reports, or information concerning chemical substances and mixtures including safety data submitted, data on emission or discharge into the environment, and such documents shall be available for inspection or reproduction during normal business hours except that the Department of Environment and Natural Resources may consider a record, report or information or particular portions thereof confidential and may not be made public when such would divulge trade secrets, production or sales figures or methods, production or processes unique to such manufacturer, processor or distributor, or would otherwise tend to affect adversely the competitive position of such manufacturer, processor or distributor. The Department of Environment and Natural Resources, however, may release information subject to claim of confidentiality to a medical research or scientific institution where the information is needed for the purpose of medical diagnosis or treatment of a person exposed to the chemical substance or mixture.
+[36]
+ 
+Mirpuri v. Court of Appeals
+, 376 Phil. 628 (1999).
+[37]
+ Id.
+[38]
+ Id. In 
+Mirpuri
+ (id. at 666), the Court acknowledges the Philippinesâ respect for intellectual and industrial property, and held:
+The Intellectual Property Code of the Philippines declares that "an effective intellectual and industrial property system is vital to the development of domestic and creative activity, facilitates transfer of technology, it attracts foreign investments, and ensures market access for our products." The Intellectual Property Code took effect on January 1, 1998 and by its express provision, repealed the Trademark Law, the Patent Law, Articles 188 and 189 of the Revised Penal Code, the Decree on Intellectual Property, and the Decree on Compulsory Reprinting of Foreign Textbooks. The Code was enacted to strengthen the intellectual and industrial property system in the Philippines as mandated by the country's accession to the Agreement Establishing the World Trade Organization (WTO).
+[39]
+ Id.
+[40]
+ The pertinent Constitutional provisions on the right of the people to information are, to wit:
+Sec. 7 [Article III].  The right of the people to information on matters of public concern shall be recognized. Access to official records, and to documents, and papers pertaining to official acts, transactions, or decisions, as well as to government research data used as basis for policy development, shall be afforded the citizen, subject to such limitations as may be provided by law.
+Sec. 28 [Article II].  Subject to reasonable conditions prescribed by law, the State adopts and implements a policy of full public disclosure of all its transactions involving public interest.
+[41]
+ 
+Chavez v. Presidential Commission on Good Government and Magtanggol Gunigundo
+, 360 Phil. 133, 161 (1998).
+[42]
+ 
+Duncan Association of Detailman-PTGWO v. Glaxo Wellcome Philippines, Inc.
+, G.R. No. 162994, 17 September 2004, 438 SCRA 343, 352; 
+See also Star Paper Corporation v. Simbol,
+ G.R. No. 164774, 12 April 2006, 487 SCRA 228, 242.
+[43]
+ ARTICLE 77. Minimum Labeling Requirements for Consumer Products. All consumer products domestically sold whether manufactured locally or imported shall indicate the following in their respective labels of packaging:
+a) its correct and registered trade name or brand name;
+b) its duly registered trademark;
+c) its duly registered business name;
+d) the address of the manufacturer, importer, repacker of the consumer product in the Philippines;
+e) its general make or active ingredients;
+f) the net quantity of contents, in terms of weight, measure or numerical count rounded off to at least the nearest tenths in the metric system;
+g) country of manufacture, if imported; and
+h) if a consumer product is manufactured, refilled or repacked under license from a principal, the label shall so state the fact.
+The following may be required by the concerned department in accordance with the rules and regulations they will promulgate under authority of this Act:
+a) whether it is flammable or inflammable;
+b) directions for use, if necessary;
+c) warning of toxicity;
+d) wattage, voltage or amperage; or
+e) process of manufacture used, if necessary.
+Any word, statement or other information required by or under authority of the preceding paragraph shall appear on the label or labeling with such conspicuousness as compared with other words, statements, designs, or devices therein, and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase or use.
+The above requirements shall form an integral part of the label without danger of being erased or detached under ordinary handling of the product.
+[44]
+ ARTICLE 4. 
+Definition of Terms.
+ For purposes of this Act, the term:
+x x x x
+q) "Consumer products and services" means goods, services and credits, debts or obligations which are primarily for personal, family, household or agricultural purposes, which shall include but not limited to, food, drugs, cosmetics, and devices.
+[45]
+ Petitioner cites the definition of a counterfeit drug/medicine in Republic Act 8203 or the Special Law on Counterfeit Drugs to buttress its argument, specifically Section 3(b)(4) thereof, to wit:
+a drug which contains no amount of, or a different active ingredient, or less than eighty percent (80%) of the active ingredient it purports to possess, as distinguished from an adulterated drug including reduction or loss or efficacy due to expiration.
+[46]
+ SECTION 3. 
+Definition of Terms
+ â For purposes of this Act, the terms:
+(a) Drugs shall refer to any chemical compound or biological substance, other than food, intended for use in the treatment, prevention or diagnosis of disease in man or animals, including but not limited to:
+(1) any article recognized in the official United States Pharmacopoeia â National Formulary (USP-NF), official Homeopathic Pharmacopoeia of the United States, Philippines National Drug Formulary, British Pharmacopoeia, any National Compendium or any supplement to any of them;
+(2) any article intended for use in the diagnosis, cure mitigation, treatment, or prevention of disease in man or animals;
+(3) any article other than food intended to affect the structure or any function of the body of man or animals;
+(4) any article intended for use as a component of any articles specified in clauses (1), (2), (3) not including devices or their components, parts, or accessories; and
+(5) herbal and/or traditional drugs which are articles of plant or animal origin used in folk medicine which are:
+(a) recognized in the Philippine National Drug Formulary; (b) intended for use in the treatment or cure or mitigation of disease symptoms, injury or body defect in man; (c) other than food, intended to affect the structure or any function of the body of man;  (d) in  finished or ready-to-use dosage form; and (e) intended for use as a component of any of the articles specified in clauses (a), (b), (c) and (d).
+[47]
+ 
+Ceballos v. Intestate Estate of the Late Emigdio Mercado
+, G.R. No. 155856, 28 May 2004, 430 SCRA 323, 331.
+[48]
+ 
+Filinvest Land, Inc. v. Court of Appeals
+, G.R. No. 138980, 20 September 2005, 470 SCRA 260, 267-268.
+[49]
+ Section 12. - 
+Public Access to Records, Reports or Notification. 
+The public shall have access to records, reports or information concerning chemical substances and mixtures including safety data submitted, data on emission or discharge into the environment, and such documents shall be available for inspection or reproduction during normal business hours except that the Department of Environment and Natural Resources may consider a record, report or information or particular portions thereof confidential and may not be made public when such would divulge trade secrets, production or sales figures or methods, production or processes unique to such manufacturer, processor or distributor, or would otherwise tend to affect adversely the competitive position of such manufacturer, processor or distributor. The Department of Environment and Natural Resources, however, may release information subject to claim of confidentiality to a medical research or scientific institution where the information is needed for the purpose of medical diagnosis or treatment of a person exposed to the chemical substance or mixture.  (Republic Act No. 6969.)
+[50]
+ Republic Act No. 6969.
+[51]
+ Francisco, EVIDENC
+E
+ (3
+rd
+ ed., 1996), pp. 171-173.
+[52]
+ AMJUR DEPOSITION Â§42 , citing  
+Ex parte Miltope Corp., 823 So. 2d 640 (Ala. 2001).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

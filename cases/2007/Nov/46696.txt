@@ -1,0 +1,480 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			563 Phil. 495
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 123498, November 23, 2007 ]
+
+
+BPI FAMILY BANK, PETITIONER, VS. AMADO FRANCO AND COURT OF APPEALS, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+NACHURA, J.:
+
+
+Banks are exhorted to treat the accounts of their depositors with meticulous care and utmost fidelity. We reiterate this exhortation in the case at bench.
+Before us is a Petition for Review on 
+Certiorari
+ seeking the reversal of the Court of Appeals (CA) Decision
+[1]
+ in CA-G.R. CV No. 43424 which affirmed with modification the judgment
+[2]
+ of the Regional Trial Court, Branch 55, Manila (Manila RTC), in Civil Case No. 90-53295.
+This case has its genesis in an ostensible fraud perpetrated on the petitioner BPI Family Bank (BPI-FB) allegedly by respondent Amado Franco (Franco) in conspiracy with other individuals,
+[3]
+ some of whom opened and maintained separate accounts with BPI-FB, San Francisco del Monte (SFDM) branch, in a series of transactions.
+On August 15, 1989, Tevesteco Arrastre-Stevedoring Co., Inc. (Tevesteco) opened a savings and current account with BPI-FB. Soon thereafter, or on August 25, 1989, First Metro Investment Corporation (FMIC) also opened a time deposit account with the same branch of BPI-FB with a deposit of P100,000,000.00, to mature one year thence.
+Subsequently, on August 31, 1989, Franco opened three accounts, namely, a current,
+[4]
+ savings,
+[5]
+ and time deposit,
+[6]
+ with BPI-FB. The current and savings accounts were respectively funded with an initial deposit of P500,000.00 each, while the time deposit account had P1,000,000.00 with a maturity date of August 31, 1990. The total amount of P2,000,000.00 used to open these accounts is traceable to a check issued by Tevesteco allegedly in consideration of Francoâs introduction of Eladio Teves,
+[7]
+ who was looking for a conduit bank to facilitate Tevestecoâs business transactions, to Jaime Sebastian, who was then BPI-FB SFDMâs Branch Manager. In turn, the funding for the P2,000,000.00 check was part of the P80,000,000.00 debited by BPI-FB from FMICâs time deposit account and credited to Tevestecoâs current account pursuant to an Authority to Debit purportedly signed by FMICâs officers.
+It appears, however, that the signatures of FMICâs officers on the Authority to Debit were forged.
+[8]
+ On September 4, 1989, Antonio Ong,
+[9]
+ upon being shown the Authority to Debit, personally declared his signature therein to be a forgery. Unfortunately, Tevesteco had already effected several withdrawals from its current account (to which had been credited the P80,000,000.00 covered by the forged Authority to Debit) amounting to P37,455,410.54, including the P2,000,000.00 paid to Franco.
+On September 8, 1989, impelled by the need to protect its interests in light of FMICâs forgery claim, BPI-FB, thru its Senior Vice-President, Severino Coronacion, instructed Jesus Arangorin
+[10]
+ to debit Francoâs savings and current accounts for the amounts remaining therein.
+[11]
+ However, Francoâs time deposit account could not be debited due to the capacity limitations of BPI-FBâs computer.
+[12]
+In the meantime, two checks
+[13]
+ drawn by Franco against his BPI-FB current account were dishonored upon presentment for payment, and stamped with a notation âaccount under garnishment.â Apparently, Francoâs current account was garnished by virtue of an Order of Attachment issued by the Regional Trial Court of Makati (Makati RTC) in Civil Case No. 89-4996 (Makati Case), which had been filed by BPI-FB against Franco et al.,
+[14]
+ to recover the P37,455,410.54 representing Tevestecoâs total withdrawals from its account.
+Notably, the dishonored checks were issued by Franco and presented for payment at BPI-FB prior to Francoâs receipt of notice that his accounts were under garnishment.
+[15]
+ In fact, at the time the Notice of Garnishment dated September 27, 1989 was served on BPI-FB, Franco had yet to be impleaded in the Makati case where the writ of attachment was issued.
+It was only on May 15, 1990, through the service of a copy of the Second Amended Complaint in Civil Case No. 89-4996, that Franco was impleaded in the Makati case.
+[16]
+ Immediately, upon receipt of such copy, Franco filed a Motion to Discharge Attachment which the Makati RTC granted on May 16, 1990. The Order Lifting the Order of Attachment was served on BPI-FB on even date, with Franco demanding the release to him of the funds in his savings and current accounts. Jesus Arangorin, BPI-FBâs new manager, could not forthwith comply with the demand as the funds, as previously stated, had already been debited because of FMICâs forgery claim. As such, BPI-FBâs computer at the SFDM Branch indicated that the current account record was ânot on file.â
+With respect to Francoâs savings account, it appears that Franco agreed to an arrangement, as a favor to Sebastian, whereby P400,000.00 from his savings account was temporarily transferred to Domingo Quiaoitâs savings account, subject to its immediate return upon issuance of a certificate of deposit which Quiaoit needed in connection with his visa application at the Taiwan Embassy. As part of the arrangement, Sebastian retained custody of Quiaoitâs savings account passbook to ensure that no withdrawal would be effected therefrom, and to preserve Francoâs deposits.
+On May 17, 1990, Franco pre-terminated his time deposit account. BPI-FB deducted the amount of P63,189.00 from the remaining balance of the time deposit account representing advance interest paid to him.
+These transactions spawned a number of cases, some of which we had already resolved.
+FMIC filed a complaint against BPI-FB for the recovery of the amount of P80,000,000.00 debited from its account.
+[17]
+ The case eventually reached this Court, and in 
+BPI Family Savings Bank, Inc. v. First Metro Investment Corporation,
+[18]
+ we upheld the finding of the courts below that BPI-FB failed to exercise the degree of diligence required by the nature of its obligation to treat the accounts of its depositors with meticulous care. Thus, BPI-FB was found liable to FMIC for the debited amount in its time deposit. It was ordered to pay P65,332,321.99 plus interest at 17% per annum from August 29, 1989 until fully restored. In turn, the 17% shall itself earn interest at 12% from October 4, 1989 until fully paid.
+In a related case, Edgardo Buenaventura, Myrna Lizardo and Yolanda Tica (Buenaventura, 
+et al
+.),
+[19]
+ recipients of a P500,000.00 check proceeding from the P80,000,000.00 mistakenly credited to Tevesteco, likewise filed suit. Buenaventura et al., as in the case of Franco, were also prevented from effecting withdrawals
+[20]
+ from their current account with BPI-FB, Bonifacio Market, Edsa, Caloocan City Branch. Likewise, when the case was elevated to this Court docketed as 
+BPI Family Bank v. Buenaventura,
+[21]
+ we ruled that BPI-FB had no right to freeze Buenaventura, et al.âs accounts and adjudged BPI-FB liable therefor, in addition to damages.
+Meanwhile, BPI-FB filed separate civil and criminal cases against those believed to be the perpetrators of the multi-million peso scam.
+[22]
+ In the criminal case, Franco, along with the other accused, except for Manuel Bienvenida who was still at large, were acquitted of the crime of Estafa as defined and penalized under Article 351, par. 2(a) of the Revised Penal Code.
+[23]
+ However, the civil case
+[24]
+ remains under litigation and the respective rights and liabilities of the parties have yet to be adjudicated.
+Consequently, in light of BPI-FBâs refusal to heed Francoâs demands to unfreeze his accounts and release his deposits therein, the latter filed on June 4, 1990 with the Manila RTC the subject suit. In his complaint, Franco prayed for the following reliefs: (1) the interest on the remaining balance
+[25]
+ of his current account which was eventually released to him on October 31, 1991; (2) the balance
+[26]
+ on his savings account, plus interest thereon; (3) the advance interest
+[27]
+ paid to him which had been deducted when he pre-terminated his time deposit account; and (4) the payment of actual, moral and exemplary damages, as well as attorneyâs fees.
+BPI-FB traversed this complaint, insisting that it was correct in freezing the accounts of Franco and refusing to release his deposits, claiming that it had a better right to the amounts which consisted of part of the money allegedly fraudulently withdrawn from it by Tevesteco and ending up in Francoâs accounts. BPI-FB asseverated that the claimed consideration of P2,000,000.00 for the introduction facilitated by Franco between George Daantos and Eladio Teves, on the one hand, and Jaime Sebastian, on the other, spoke volumes of Francoâs participation in the fraudulent transaction.
+On August 4, 1993, the Manila RTC rendered judgment, the dispositive portion of which reads as follows:
+WHEREFORE, in view of all the foregoing, judgment is hereby rendered in favor of [Franco] and against [BPI-FB], ordering the latter to pay to the former the following sums:
+ P76,500.00 representing the legal rate of interest on the amount of P450,000.00 from May 18, 1990 to October 31, 1991;
+ P498,973.23 representing the balance on [Francoâs] savings account as of May 18, 1990, together with the interest thereon in accordance with the bankâs guidelines on the payment therefor;
+ P30,000.00 by way of attorneyâs fees; and
+ P10,000.00 as nominal damages.
+The counterclaim of the defendant is DISMISSED for lack of factual and legal anchor.
+Costs against [BPI-FB].
+SO ORDERED.
+[28]
+Unsatisfied with the decision, both parties filed their respective appeals before the CA. Franco confined his appeal to the Manila RTCâs denial of his claim for moral and exemplary damages, and the diminutive award of attorneyâs fees. In affirming with modification the lower courtâs decision, the appellate court decreed, to wit:
+WHEREFORE, foregoing considered, the appealed decision is hereby AFFIRMED with modification ordering [BPI-FB] to pay [Franco] P63,189.00 representing the interest deducted from the time deposit of plaintiff-appellant. P200,000.00 as moral damages and P100,000.00 as exemplary damages, deleting the award of nominal damages (in view of the award of moral and exemplary damages) and increasing the award of attorneyâs fees from P30,000.00 to P75,000.00.
+Cost against [BPI-FB].
+SO ORDERED.
+[29]
+In this recourse, BPI-FB ascribes error to the CA when it ruled that: (1) Franco had a better right to the deposits in the subject accounts which are part of the proceeds of a forged Authority to Debit; (2) Franco is entitled to interest on his current account; (3) Franco can recover the P400,000.00 deposit in Quiaoitâs savings account; (4) the dishonor of Francoâs checks was not legally in order; (5) BPI-FB is liable for interest on Francoâs time deposit, and for moral and exemplary damages; and (6) BPI-FBâs counter-claim has no factual and legal anchor.
+The petition is partly meritorious.
+We are in full accord with the common ruling of the lower courts that BPI-FB cannot unilaterally freeze Francoâs accounts and preclude him from withdrawing his deposits. However, contrary to the appellate courtâs ruling, we hold that Franco is not entitled to unearned interest on the time deposit as well as to moral and exemplary damages.
+First. On the issue of who has a better right to the deposits in Francoâs accounts, BPI-FB urges us that the legal consequence of FMICâs forgery claim is that the money transferred by BPI-FB to Tevesteco is its own, and considering that it was able to recover possession of the same when the money was redeposited by Franco, it had the right to set up its ownership thereon and freeze Francoâs accounts.
+BPI-FB contends that its position is not unlike that of an owner of personal property who regains possession after it is stolen, and to illustrate this point, BPI-FB gives the following example: where Xâs television set is stolen by Y who thereafter sells it to Z, and where Z unwittingly entrusts possession of the TV set to X, the latter would have the right to keep possession of the property and preclude Z from recovering possession thereof. To bolster its position, BPI-FB cites Article 559 of the Civil Code, which provides:
+Article 559. The possession of movable property acquired in good faith is equivalent to a title. Nevertheless, one who has lost any movable or has been unlawfully deprived thereof, may recover it from the person in possession of the same.
+If the possessor of a movable lost or of which the owner has been unlawfully deprived, has acquired it in good faith at a public sale, the owner cannot obtain its return without reimbursing the price paid therefor.
+BPI-FBâs argument is unsound. To begin with, the movable property mentioned in Article 559 of the Civil Code pertains to a specific or determinate thing.
+[30]
+ A determinate or specific thing is one that is individualized and can be identified or distinguished from others of the same kind.
+[31]
+In this case, the deposit in Francoâs accounts consists of money which, albeit characterized as a movable, is generic and fungible.
+[32]
+ The quality of being fungible depends upon the possibility of the property, because of its nature or the will of the parties, being substituted by others of the same kind, not having a distinct individuality.
+[33]
+Significantly, while Article 559 permits an owner who has lost or has been unlawfully deprived of a movable to recover the exact same thing from the current possessor, BPI-FB simply claims ownership of the equivalent amount of money, 
+i.e.,
+ the value thereof, which it had mistakenly debited from FMICâs account and credited to Tevestecoâs, and subsequently traced to Francoâs account. In fact, this is what BPI-FB did in filing the Makati Case against Franco, 
+et al.
+ It staked its claim on the money itself which passed from one account to another, commencing with the forged Authority to Debit.
+It bears emphasizing that money bears no earmarks of peculiar ownership,
+[34]
+ and this characteristic is all the more manifest in the instant case which involves money in a banking transaction gone awry. Its primary function is to pass from hand to hand as a medium of exchange, without other evidence of its title.
+[35]
+ Money, which had passed through various transactions in the general course of banking business, even if of traceable origin, is no exception.
+Thus, inasmuch as what is involved is not a specific or determinate personal property, BPI-FBâs illustrative example, ostensibly based on Article 559, is inapplicable to the instant case.
+There is no doubt that BPI-FB owns the deposited monies in the accounts of Franco, but not as a legal consequence of its unauthorized transfer of FMICâs deposits to Tevestecoâs account. BPI-FB conveniently forgets that the deposit of money in banks is governed by the Civil Code provisions on simple loan or mutuum.
+[36]
+ As there is a debtor-creditor relationship between a bank and its depositor, BPI-FB ultimately acquired ownership of Francoâs deposits, but such ownership is coupled with a corresponding obligation to pay him an equal amount on demand.
+[37]
+ Although BPI-FB owns the deposits in Francoâs accounts, it cannot prevent him from demanding payment of BPI-FBâs obligation by drawing checks against his current account, or asking for the release of the funds in his savings account. Thus, when Franco issued checks drawn against his current account, he had every right as creditor to expect that those checks would be honored by BPI-FB as debtor.
+More importantly, BPI-FB does not have a unilateral right to freeze the accounts of Franco based on its mere suspicion that the funds therein were proceeds of the multi-million peso scam Franco was allegedly involved in. To grant BPI-FB, or any bank for that matter, the right to take whatever action it pleases on deposits which it supposes are derived from shady transactions, would open the floodgates of public distrust in the banking industry.
+Our pronouncement in 
+Simex International (Manila), Inc. v. Court of Appeals
+[38]
+ continues to resonate, thus:
+The banking system is an indispensable institution in the modern world and plays a vital role in the economic life of every civilized nation. Whether as mere passive entities for the safekeeping and saving of money or as active instruments of business and commerce, banks have become an ubiquitous presence among the people, who have come to regard them with respect and even gratitude and, most of all, confidence. Thus, even the humble wage-earner has not hesitated to entrust his lifeâs savings to the bank of his choice, knowing that they will be safe in its custody and will even earn some interest for him. The ordinary person, with equal faith, usually maintains a modest checking account for security and convenience in the settling of his monthly bills and the payment of ordinary expenses. x x x.
+In every case, the depositor expects the bank to treat his account with the utmost fidelity, whether such account consists only of a few hundred pesos or of millions. The bank must record every single transaction accurately, down to the last centavo, and as promptly as possible. This has to be done if the account is to reflect at any given time the amount of money the depositor can dispose of as he sees fit, confident that the bank will deliver it as and to whomever directs. A blunder on the part of the bank, such as the dishonor of the check without good reason, can cause the depositor not a little embarrassment if not also financial loss and perhaps even civil and criminal litigation.
+The point is that as a business affected with public interest and because of the nature of its functions, the bank is under obligation to treat the accounts of its depositors with meticulous care, always having in mind the fiduciary nature of their relationship. x x x.
+Ineluctably, BPI-FB, as the trustee in the fiduciary relationship, is duty bound to know the signatures of its customers. Having failed to detect the forgery in the Authority to Debit and in the process inadvertently facilitate the FMIC-Tevesteco transfer, BPI-FB cannot now shift liability thereon to Franco and the other payees of checks issued by Tevesteco, or prevent withdrawals from their respective accounts without the appropriate court writ or a favorable final judgment.
+Further, it boggles the mind why BPI-FB, even without delving into the authenticity of the signature in the Authority to Debit, effected the transfer of P80,000,000.00 from FMICâs to Tevestecoâs account, when FMICâs account was a time deposit and it had already paid advance interest to FMIC. Considering that there is as yet no indubitable evidence establishing Francoâs participation in the forgery, he remains an innocent party. As between him and BPI-FB, the latter, which made possible the present predicament, must bear the resulting loss or inconvenience.
+Second.
+ With respect to its liability for interest on Francoâs current account, BPI-FB argues that its non-compliance with the Makati RTCâs Order Lifting the Order of Attachment and the legal consequences thereof, is a matter that ought to be taken up in that court.
+The argument is tenuous. We agree with the succinct holding of the appellate court in this respect. The Manila RTCâs order to pay interests on Francoâs current account arose from BPI-FBâs unjustified refusal to comply with its obligation to pay Franco pursuant to their contract of mutuum. In other words, from the time BPI-FB refused Francoâs demand for the release of the deposits in his current account, specifically, from May 17, 1990, interest at the rate of 12% began to accrue thereon.
+[39]
+Undeniably, the Makati RTC is vested with the authority to determine the legal consequences of BPI-FBâs non-compliance with the Order Lifting the Order of Attachment. However, such authority does not preclude the Manila RTC from ruling on BPI-FBâs liability to Franco for payment of interest based on its continued and unjustified refusal to perform a contractual obligation upon demand. After all, this was the core issue raised by Franco in his complaint before the Manila RTC.
+Third.
+ As to the award to Franco of the deposits in Quiaoitâs account, we find no reason to depart from the factual findings of both the Manila RTC and the CA.
+Noteworthy is the fact that Quiaoit himself testified that the deposits in his account are actually owned by Franco who simply accommodated Jaime Sebastianâs request to temporarily transfer P400,000.00 from Francoâs savings account to Quiaoitâs account.
+[40]
+ His testimony cannot be characterized as hearsay as the records reveal that he had personal knowledge of the arrangement made between Franco, Sebastian and himself.
+[41]
+BPI-FB makes capital of Francoâs belated allegation relative to this particular arrangement. It insists that the transaction with Quiaoit was not specifically alleged in Francoâs complaint before the Manila RTC. However, it appears that BPI-FB had impliedly consented to the trial of this issue given its extensive cross-examination of Quiaoit.
+Section 5, Rule 10 of the Rules of Court provides:
+Section 5. 
+Amendment to conform to or authorize presentation of evidence.
+â 
+When issues not raised by the pleadings are tried with the express or implied consent of the parties, they shall be treated in all respects as if they had been raised in the pleadings. Such amendment of the pleadings as may be necessary to cause them to conform to the evidence and to raise these issues may be made upon motion of any party at any time, even after judgment; but failure to amend does not affect the result of the trial of these issues.
+ If evidence is objected to at the trial on the ground that it is now within the issues made by the pleadings, the court may allow the pleadings to be amended and shall do so with liberality if the presentation of the merits of the action and the ends of substantial justice will be subserved thereby. The court may grant a continuance to enable the amendment to be made. (Emphasis supplied)
+In all, BPI-FBâs argument that this case is not the right forum for Franco to recover the P400,000.00 begs the issue. To reiterate, Quiaoit, testifying during the trial, unequivocally disclaimed ownership of the funds in his account, and pointed to Franco as the actual owner thereof. Clearly, Francoâs action for the recovery of his deposits appropriately covers the deposits in Quiaoitâs account.
+Fourth.
+ Notwithstanding all the foregoing, BPI-FB continues to insist that the dishonor of Francoâs checks respectively dated September 11 and 18, 1989 was legally in order in view of the Makati RTCâs supplemental writ of attachment issued on September 14, 1989. It posits that as the party that applied for the writ of attachment before the Makati RTC, it need not be served with the Notice of Garnishment before it could place Francoâs accounts under garnishment.
+The argument is specious. In this argument, we perceive BPI-FBâs clever but transparent ploy to circumvent Section 4,
+[42]
+ Rule 13 of the Rules of Court. It should be noted that the strict requirement on service of court papers upon the parties affected is designed to comply with the elementary requisites of due process. Franco was entitled, as a matter of right, to notice, if the requirements of due process are to be observed. Yet, he received a copy of the Notice of Garnishment only on September 27, 1989, several days after the two checks he issued were dishonored by BPI-FB on September 20 and 21, 1989. Verily, it was premature for BPI-FB to freeze Francoâs accounts without even awaiting service of the Makati RTCâs Notice of Garnishment on Franco.
+Additionally, it should be remembered that the enforcement of a writ of attachment cannot be made without including in the main suit the owner of the property attached by virtue thereof. Section 5, Rule 13 of the Rules of Court specifically provides that âno levy or attachment pursuant to the writ issued x x x shall be enforced unless it is preceded, or contemporaneously accompanied, by service of summons, together with a copy of the complaint, the application for attachment, on the defendant within the Philippines.â
+Franco was impleaded as party-defendant only on May 15, 1990. The Makati RTC had yet to acquire jurisdiction over the person of Franco when BPI-FB garnished his accounts.
+[43]
+ Effectively, therefore, the Makati RTC had no authority yet to bind the deposits of Franco through the writ of attachment, and consequently, there was no legal basis for BPI-FB to dishonor the checks issued by Franco.
+Fifth.
+ Anent the CAâs finding that BPI-FB was in bad faith and as such liable for the advance interest it deducted from Francoâs time deposit account, and for moral as well as exemplary damages, we find it proper to reinstate the ruling of the trial court, and allow only the recovery of nominal damages in the amount of P10,000.00. However, we retain the CAâs award of P75,000.00 as attorneyâs fees.
+In granting Francoâs prayer for interest on his time deposit account and for moral and exemplary damages, the CA attributed bad faith to BPI-FB because it (1) completely disregarded its obligation to Franco; (2) misleadingly claimed that Francoâs deposits were under garnishment; (3) misrepresented that Francoâs current account was not on file; and (4) refused to return the P400,000.00 despite the fact that the ostensible owner, Quiaoit, wanted the amount returned to Franco.
+In this regard, we are guided by Article 2201 of the Civil Code which provides:
+Article 2201. In contracts and quasi-contracts, the damages for which the obligor who acted in good faith is liable shall be those that are the natural and probable consequences of the breach of the obligation, and which the parties have foreseen or could have reasonable foreseen at the time the obligation was constituted.
+In case of fraud, bad faith, malice or wanton attitude, the obligor shall be responsible for all damages which may be reasonably attributed to the non-performance of the obligation.
+ (Emphasis supplied.)
+We find, as the trial court did, that BPI-FB acted out of the impetus of self-protection and not out of malevolence or ill will. BPI-FB was not in the corrupt state of mind contemplated in Article 2201 and should not be held liable for all damages now being imputed to it for its breach of obligation. For the same reason, it is not liable for the unearned interest on the time deposit.
+Bad faith does not simply connote bad judgment or negligence; it imports a dishonest purpose or some moral obliquity and conscious doing of wrong; it partakes of the nature of fraud.
+[44]
+ We have held that it is a breach of a known duty through some motive of interest or ill will.
+[45]
+ In the instant case, we cannot attribute to BPI-FB fraud or even a motive of self-enrichment. As the trial court found, there was no denial whatsoever by BPI-FB of the existence of the accounts. The computer-generated document which indicated that the current account was ânot on fileâ resulted from the prior debit by BPI-FB of the deposits. The remedy of freezing the account, or the garnishment, or even the outright refusal to honor any transaction thereon was resorted to solely for the purpose of holding on to the funds as a security for its intended court action,
+[46]
+ and with no other goal but to ensure the integrity of the accounts.
+We have had occasion to hold that in the absence of fraud or bad faith,
+[47]
+ moral damages cannot be awarded; and that the adverse result of an action does not per se make the action wrongful, or the party liable for it. One may err, but error alone is not a ground for granting such damages.
+[48]
+An award of moral damages contemplates the existence of the following requisites: (1) there must be an injury clearly sustained by the claimant, whether physical, mental or psychological; (2) there must be a culpable act or omission factually established; (3) the wrongful act or omission of the defendant is the proximate cause of the injury sustained by the claimant; and (4) the award for damages is predicated on any of the cases stated in Article 2219 of the Civil Code.
+[49]
+Franco could not point to, or identify any particular circumstance in Article 2219 of the Civil Code,
+[50]
+ upon which to base his claim for moral damages.
+Thus, not having acted in bad faith, BPI-FB cannot be held liable for moral damages under Article 2220 of the Civil Code for breach of contract.
+[51]
+We also deny the claim for exemplary damages. Franco should show that he is entitled to moral, temperate, or compensatory damages before the court may even consider the question of whether exemplary damages should be awarded to him.
+[52]
+ As there is no basis for the award of moral damages, neither can exemplary damages be granted.
+While it is a sound policy not to set a premium on the right to litigate,
+[53]
+ we, however, find that Franco is entitled to reasonable attorneyâs fees for having been compelled to go to court in order to assert his right. Thus, we affirm the CAâs grant of P75,000.00 as attorneyâs fees.
+Attorneyâs fees may be awarded when a party is compelled to litigate or incur expenses to protect his interest,
+[54]
+ or when the court deems it just and equitable.
+[55]
+ In the case at bench, BPI-FB refused to unfreeze the deposits of Franco despite the Makati RTCâs Order Lifting the Order of Attachment and Quiaoitâs unwavering assertion that the P400,000.00 was part of Francoâs savings account. This refusal constrained Franco to incur expenses and litigate for almost two (2) decades in order to protect his interests and recover his deposits. Therefore, this Court deems it just and equitable to grant Franco P75,000.00 as attorneyâs fees. The award is reasonable in view of the complexity of the issues and the time it has taken for this case to be resolved.
+[56]
+Sixth. As for the dismissal of BPI-FBâs counter-claim, we uphold the Manila RTCâs ruling, as affirmed by the CA, that BPI-FB is not entitled to recover P3,800,000.00 as actual damages. BPI-FBâs alleged loss of profit as a result of Francoâs suit is, as already pointed out, of its own making. Accordingly, the denial of its counter-claim is in order.
+WHEREFORE,
+ the petition is 
+PARTIALLY GRANTED.
+ The Court of Appeals Decision dated November 29, 1995 is 
+AFFIRMED
+ with the 
+MODIFICATION
+ that the award of unearned interest on the time deposit and of moral and exemplary damages is 
+DELETED.
+No pronouncement as to costs.
+SO ORDERED.
+Ynares-Santiago, (Chairperson), Austria-Martinez, Chico-Nazario,
+ and 
+Reyes, JJ.,
+ concur.
+[1]
+ Penned by Associate Justice Eugenio S. Labitoria, with Associate Justices Cancio C. Garcia (retired Associate Justice of the Supreme Court) and Portia Alino Hormachuelos, concurring; 
+rollo,
+ pp. 40-55.
+[2]
+ CA 
+rollo,
+ pp. 70-79.
+[3]
+ Antonio T. Ong, Manuel Bienvenida, Jr., Milagros Nayve, Jaime Sebastian, Ador de Asis, and Eladio Teves. 
+Rollo,
+ pp. 160-207. RTC, Quezon City, Branch 85, Decision in Crim. Case No. Q91-22386.
+[4]
+ Account No. 840-107483-7.
+[5]
+ Account No. 1668238-1.
+[6]
+ Account No. 08523412.
+[7]
+ President of Tevesteco.
+[8]
+ BPI-FBâs Memorandum, 
+rollo,
+ pp. 104-105.
+[9]
+ Executive Vice-President of FMIC.
+[10]
+ The new BPI-FB SFDM branch manager who replaced Jaime Sebastian.
+[11]
+ BPI-FBâs Memorandum, rollo, p. 105.
+[12]
+ Id.
+[13]
+ Respectively dated September 11 and 18, 1989. The first check dated August 31, 1989 Franco issued in the amount of P50,000.00 was honored by BPI-FB.
+[14]
+ Supra note 3. The names of other defendants in Crim. Case No. Q91-22386.
+[15]
+ Franco received the Notice of Garnishment on September 27, 1989, but the 2 checks he had issued were presented for payment at BPI-FB on September 20 & 21, 1989, respectively.
+[16]
+ Francoâs Memorandum, rollo, p. 137.
+[17]
+ Docketed as Civil Case No. 89-5280 and entitled 
+âFirst Metro Investment Corporation v. BPI  Family Bank.â
+[18]
+ G.R. No. 132390, May 21, 2004, 429 SCRA 30.
+[19]
+ Officers of the International Baptist Church and International Baptist Academy in Malabon, Metro Manila.
+[20]
+ The checks issued by Buenaventura et al. were dishonored upon presentment for payment.
+[21]
+ G.R. No. 148196, September 30, 2005, 471 SCRA 431.
+[22]
+ Supra note 3.
+[23]
+ 
+Rollo,
+ pp. 160-208.
+[24]
+ The Makati Case for recovery of the P37,455,410.54 representing Tevestecoâs total withdrawals wherein Franco was belatedly impleaded, and a Writ of Garnishment was issued on Francoâs accounts.
+[25]
+ P450,000.00.
+[26]
+ The reflected amount of P98,973.23 plus P400,000.00 representing what was transferred to Quiaoitâs account under their arrangement
+[27]
+ P63,189.00.
+[28]
+ CA 
+rollo,
+ p. 79.
+[29]
+ 
+Rollo,
+ p. 54.
+[30]
+ 
+See
+ Article 1460, paragraph 1 of the Civil Code. A thing is determinate when it is particularly designated or physically segregated from all others of the same class.
+[31]
+ Tolentino, Civil Code of the Philippines Commentaries and Jurisprudence, Vol. IV, 1985, p. 90.
+[32]
+ 
+See
+ Article 418 of the Civil Code, taken from Article 337 of the Old Civil Code which used the words âfungible or non-fungible.â
+[33]
+ Tolentino, Civil Code of the Philippines Commentaries and Jurisprudence, Vol. II, 1983, p. 26.
+[34]
+ 
+United States v. Sotelo,
+ 28 Phil. 147, 158 (1914).
+[35]
+ Id.
+[36]
+ Article 1980 of the Civil Code: Fixed, savings, and current deposits of money in banks and similar institutions shall be governed by the provisions concerning loan. See Article 1933 of the Civil Code.
+[37]
+ Article 1953 of the Civil Code: A person who receives a loan of money or any other fungible thing acquires the ownership thereof, and is bound to pay the creditor an equal amount of the same kind and quality.
+[38]
+ G.R. No. 88013, March 19, 1990, 183 SCRA 360, 366-367.
+[39]
+ 
+See Eastern Shipping Lines, Inc. v. Court of Appeals,
+ G.R. No. 97412, July 12, 1994, 234 SCRA 78, 95.
+[40]
+ TSN, July 30, 1991, p. 5.
+[41]
+ Id. at 5-11.
+[42]
+ 
+SEC. 4.
+ 
+Papers required to be filed and served.
+â Every judgment, resolution, order, pleading subsequent to the complaint, written motion, notice, appearance, demand, offer of judgment or similar papers shall be filed with the court, and served upon the parties affected.
+[43]
+ 
+See Sievert v. Court of Appeals,
+ G.R. No. L-84034, December 22, 1988, 168 SCRA 692, 696.
+[44]
+ 
+Board of Liquidators v. Heirs of Maximo Kalaw, et al.,
+ 127 Phil. 399, 421 (1967).
+[45]
+ 
+Lopez, et al. v. Pan American World Airways,
+ 123 Phil. 256, 264-265 (1966).
+[46]
+ CA 
+rollo,
+ p. 74.
+[47]
+ 
+Suario v. Bank of the Philippine Islands,
+ G.R. No. 50459, August 25, 1989, 176 SCRA 688, 696; citing 
+Guita v. Court of Appeals,
+ 139 SCRA 576, 580 (1985).
+[48]
+ 
+Bank of the Philippine Islands v. Casa Montessori Internationale,
+ G.R. No. 149454, May 28, 2004, 430 SCRA 261, 293-294.
+[49]
+ 
+United Coconut Planters Bank v. Ramos,
+ 461 Phil. 277, 298 (2003); citing 
+Cathay Pacific Airways, Ltd. v. Spouses Vazquez,
+ 447 Phil. 306 (2003).
+[50]
+ Art. 2219. Moral damages may be recovered in the following and analogous cases:
+ 
+ 
+(1)
+ 
+ A criminal offense resulting in physical injuries;
+ 
+ 
+ 
+(2)
+ 
+ Quasi-delicts causing physical injuries;
+ 
+ 
+ 
+(3)
+ 
+ Seduction, abduction, rape, or other lascivious acts;
+ 
+ 
+ 
+(4)
+ 
+ Adultery or concubinage;
+ 
+ 
+ 
+(5)
+ 
+ Illegal or arbitrary detention or arrest;
+ 
+ 
+ 
+(6) 
+ 
+Illegal search;
+ 
+ 
+ 
+(7) 
+ 
+Libel, slander or any other form of defamation;
+ 
+ 
+ 
+(8)
+ 
+ Malicious prosecution;
+ 
+ 
+ 
+(9) 
+ 
+Acts mentioned in Article 309;
+ 
+ 
+ 
+(10)
+ 
+ Acts and actions referred to in Articles 21, 26, 27, 28, 29, 30, 32, 34, and 35.
+ 
+ 
+The parents of the female seduced, abducted, raped, or abused, referred to in No. 3 of this article, may also recover moral damages.
+The spouse, descendants, ascendants, and brother and sisters may bring the action mentioned in No. 9 of this article, in the order named.
+[51]
+ Art. 2220. Willful injury to property may be a legal ground for awarding moral damages if the court should find that, under the circumstances, such damages are justly due. The same rule applies to breaches of contract where the defendant acted fraudulently or in bad faith.
+[52]
+ Article 2234 of the Civil Code.
+Art. 2234. While the amount of the exemplary damages need not be proved, the plaintiff must show that he is entitled to moral, temperate or compensatory damages before the court may consider the question of whether or not exemplary damages should be awarded. In case liquidated damages have been agreed upon, although no proof of loss is necessary in order that such liquidated damages may be recovered, nevertheless, before the court may consider the question of granting exemplary in addition to the liquidated damages, the plaintiff must show that he would be entitled to moral, temperate or compensatory damages were it not for the stipulation for liquidated damages.
+[53]
+ 
+Bank of the Philippine Islands v. Casa Montessori Internationale,
+ supra note 48, at 296.
+[54]
+ CIVIL CODE, Art. 2208, par. (2).
+[55]
+ CIVIL CODE, Art. 2208, par. (11).
+[56]
+ 
+Ching Sen Ben v. Court of Appeals,
+ 373 Phil. 544, 555 (1999).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

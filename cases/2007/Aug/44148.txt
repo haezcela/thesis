@@ -1,0 +1,230 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			556 Phil. 31
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. NO. 154068, August 03, 2007 ]
+
+
+COMMISSIONER OF INTERNAL REVENUE, PETITIONER, VS. ROSEMARIE ACOSTA, AS REPRESENTED BY VIRGILIO A. ABOGADO, RESPONDENT.
+ DECISION
+
+
+
+
+QUISUMBING, J.:
+
+
+Assailed in this petition for review are the Decision
+[1]
+ and Resolution
+[2]
+ dated February 13, 2002 and May 29, 2002, respectively, of the Court of Appeals in CA-G.R. SP No. 55572 which had reversed the Resolution
+[3]
+ dated August 4, 1999 of the Court of Tax Appeals in C.T.A. Case No. 5828 and ordered the latter to resolve respondent's petition for review.
+The facts are as follows:
+Respondent is an employee of Intel Manufacturing Phils., Inc. (Intel).  For the period January 1, 1996 to December 31, 1996, respondent was assigned in a foreign country.  During that period, Intel withheld the taxes due on respondent's compensation income and remitted to the Bureau of Internal Revenue (BIR) the amount of P308,084.56.
+On March 21, 1997, respondent and her husband filed with the BIR their Joint Individual Income Tax Return for the year 1996.  Later, on June 17, 1997, respondent, through her representative, filed an amended return and a Non-Resident Citizen Income Tax Return, and paid the BIR P17,693.37 plus interests in the amount of P14,455.76.  On October 8, 1997, she filed another amended return indicating an overpayment of P358,274.63.
+Claiming that the income taxes withheld and paid by Intel and respondent resulted in an overpayment of P340,918.92,
+[4]
+ respondent filed on April 15, 1999 a petition for review docketed as C.T.A. Case No. 5828 with the Court of Tax Appeals (CTA).  The Commissioner of Internal Revenue (CIR) moved to dismiss the petition for failure of respondent to file the mandatory written claim for refund before the CIR.
+In its Resolution dated August 4, 1999, the CTA dismissed respondent's petition.  For one, the CTA ruled that respondent failed to file a written claim for refund with the CIR, a condition precedent to the filing of a petition for review before the CTA.
+[5]
+  Second, the CTA noted that respondent's omission, inadvertently or otherwise, to allege in her petition the date of filing the final adjustment return, deprived the court of its jurisdiction over the subject matter of the case.
+[6]
+  The decretal portion of the CTA's resolution states:
+WHEREFORE
+, in view of all the foregoing, Respondent's Motion to Dismiss is 
+GRANTED
+.  Accordingly[,] the Petition for Review is hereby 
+DISMISSED
+.
+SO ORDERED.
+[7]
+Upon review, the Court of Appeals reversed the CTA and directed the latter to resolve respondent's petition for review.  Applying Section 204(c)
+[8]
+ of the 1997 National Internal Revenue Code (NIRC), the Court of Appeals ruled that respondent's filing of an amended return indicating an overpayment was sufficient compliance with the requirement of a written claim for refund.
+[9]
+  The decretal portion of the Court of Appeals' decision reads:
+WHEREFORE, finding the petition to be meritorious, this Court 
+GRANTS
+ it due course and 
+REVERSES
+ the appealed Resolutions and 
+DIRECTS
+ the Court of Tax Appeal[s] to resolve the petition for review on the merits.
+SO ORDERED.
+[10]
+Petitioner sought reconsideration, but it was denied.  Hence, the instant petition raising the following questions of law:
+I.
+WHETHER OR NOT THE 1997 TAX REFORM ACT CAN BE APPLIED RETROACTIVELY.
+II.
+WHETHER OR NOT THE CTA HAS JURISDICTION TO TAKE [COGNIZANCE] OF RESPONDENT'S PETITION FOR REVIEW.
+[11]
+While the main concern in this controversy is the CTA's jurisdiction, we must first resolve two issues.  First, does the amended return filed by respondent indicating an overpayment constitute the written claim for refund required by law, thereby vesting the CTA with jurisdiction over this case?  Second, can the 1997 NIRC be applied retroactively?
+Petitioner avers that an amended return showing an overpayment does not constitute the written claim for refund required under Section 230
+[12]
+ of the 1993 NIRC
+[13]
+ (old Tax Code).  He claims that an actual written claim for refund is necessary before a suit for its recovery may proceed in any court.
+On the other hand, respondent contends that the filing of an amended return indicating an overpayment of P358,274.63 constitutes a written claim for refund pursuant to the clear proviso stated in the last sentence of Section 204(c) of the 1997 NIRC (new Tax Code), to wit:
+x x x x
+...
+Provided, however,
+ That a return filed showing an overpayment shall be considered as a written claim for credit or refund.
+x x x x
+Along the same vein, respondent invokes the liberal application of technicalities in tax refund cases, conformably with our ruling in 
+BPI-Family Savings Bank, Inc. v. Court of Appeals
+.
+[14]
+  We are, however, unable to agree with respondent's submission on this score.
+The applicable law on refund of taxes pertaining to the 1996 compensation income is Section 230 of the old Tax Code, which was the law then in effect, and not Section 204(c) of the new Tax Code, which was effective starting only on January 1, 1998.
+Noteworthy, the requirements under Section 230 for refund claims are as follows: 
+A 
+written claim
+ for refund or tax credit must be filed by the taxpayer with the Commissioner;
+The claim for refund must be a 
+categorical demand
+ for reimbursement;
+The claim for refund or tax credit must be filed, or the suit or proceeding therefor must be commenced in court 
+within two (2) years from date of payment of the tax or penalty regardless of any supervening cause
+.
+[15]
+ (Emphasis ours.)
+In our view, the law is clear.  A claimant must first file a written claim for refund, categorically demanding recovery of overpaid taxes with the CIR, before resorting to an action in court.  This obviously is intended, first, to afford the CIR an opportunity to correct the action of subordinate officers; and second, to notify the government that such taxes have been questioned, and the notice should then be borne in mind in estimating the revenue available for expenditure.
+[16]
+Thus, on the first issue, we rule against respondent's contention.  Entrenched in our jurisprudence is the principle that tax refunds are in the nature of tax exemptions which are construed 
+strictissimi juris
+ against the taxpayer and liberally in favor of the government.  As tax refunds involve a return of revenue from the government, the claimant must show indubitably the specific provision of law from which her right arises; it cannot be allowed to exist upon a mere vague implication or inference
+[17]
+ nor can it be extended beyond the ordinary and reasonable intendment of the language 
+actually used
+ by the legislature in granting the refund.
+[18]
+  To repeat, strict compliance with the conditions imposed for the return of revenue collected is a doctrine consistently applied in this jurisdiction.
+[19]
+Under the circumstances of this case, we cannot agree that the amended return filed by respondent constitutes the written claim for refund required by the old Tax Code, the law prevailing at that time.  Neither can we apply the liberal interpretation of the law based on our pronouncement in the case of 
+BPI-Family Savings Bank, Inc. v. Court of Appeals
+, as the taxpayer therein filed a written claim for refund aside from presenting other evidence to prove its claim, unlike this case before us.
+On the second issue, petitioner argues that the 1997 NIRC cannot be applied retroactively as the instant case involved refund of taxes withheld on a 1996 income.  Respondent, however, points out that when the petition was filed with the CTA on April 15, 1999, the 1997 NIRC was already in effect, hence, Section 204(c) should apply, despite the fact that the refund being sought pertains to a 1996 income tax.  Note that the issue on the retroactivity of Section 204(c) of the 1997 NIRC arose because the last paragraph of Section 204(c) was not found in Section 230 of the old Code.  After a thorough consideration of this matter, we find that we cannot give retroactive application to Section 204(c) abovecited.  We have to stress that tax laws are prospective in operation, unless the language of the statute clearly provides otherwise.
+[20]
+Moreover, it should be emphasized that a party seeking an administrative remedy must not merely initiate the prescribed administrative procedure to obtain relief, but also pursue it to its appropriate conclusion before seeking judicial intervention in order to give the administrative agency an opportunity to decide the matter itself correctly and prevent unnecessary and premature resort to court action.
+[21]
+  This the respondent did not follow through.  Additionally, it could not escape notice that at the time respondent filed her amended return, the 1997 NIRC was not yet in effect.  Hence, respondent had no reason at that time to think that the filing of an amended return would constitute the written claim for refund required by applicable law.
+Furthermore, as the CTA stressed, even the date of filing of the Final Adjustment Return was omitted, inadvertently or otherwise, by respondent in her petition for review.  This omission was fatal to respondent's claim, for it deprived the CTA of its jurisdiction over the subject matter of the case.
+Finally, we cannot agree with the Court of Appeals' finding that the nature of the instant case calls for the application of remedial laws.  Revenue statutes are substantive laws and in no sense must their application be equated with that of remedial laws.  As well said in a prior case, revenue laws are not intended to be liberally construed.
+[22]
+  Considering that taxes are the lifeblood of the government and in Holmes's memorable metaphor, the price we pay for civilization, tax laws must be faithfully and strictly implemented.
+WHEREFORE
+, the petition is 
+GRANTED
+.  Both the assailed Decision and Resolution dated February 13, 2002 and May 29, 2002, respectively, of the Court of Appeals in CA-G.R. SP No. 55572 are 
+REVERSED and SET ASIDE
+.  The Resolution dated August 4, 1999 of the Court of Tax Appeals in C.T.A. Case No. 5828 is hereby 
+REINSTATED
+.
+No pronouncement as to costs.
+SO ORDERED.
+Carpio, Carpio-Morales, Tinga,
+ and 
+Velasco, Jr., JJ.,
+ concur.
+[1]
+ 
+Rollo
+, pp. 22-27.  Penned by Associate Justice Hilarion L. Aquino, with Associate Justices Buenaventura J. Guerrero and Mercedes Gozo-Dadole concurring.
+[2]
+ Id. at 28-29.
+[3]
+ Id. at 30-37.  Penned by Presiding Judge Ernesto D. Acosta, with Associate Judges Amancio Q. Saga and Ramon O. De Veyra concurring.
+[4]
+ Id. at 86.
+[5]
+ Id. at 34.
+[6] 
+Id. at 37.
+[7] 
+Id.
+[8]
+ SEC. 204.  
+Authority of the Commissioner to Compromise, Abate and Refund or Credit Taxes
+. - The Commissioner may -
+x x x x
+(C) Credit or refund taxes erroneously or illegally received or penalties imposed without authority, refund the value of internal revenue stamps when they are returned in good condition by the purchaser, and, in his discretion, redeem or change unused stamps that have been rendered unfit for use and refund their value upon proof of destruction.  No credit or refund of taxes or penalties shall be allowed unless the taxpayer files in writing with the Commissioner a claim for credit or refund within two (2) years after the payment of the tax or penalty.  
+Provided, however,
+ That a return filed showing an overpayment shall be considered as a written claim for credit or refund.
+  (Emphasis ours.)
+x x x x
+[9]
+ 
+Rollo
+, p. 26.
+[10] 
+Id. at 27.
+[11] 
+Id. at 73-74.
+[12]
+ 
+Sec. 230.  Recovery of tax erroneously or illegally collected.
+ - 
+No suit or proceeding shall be maintained in any court for the recovery of any national internal revenue tax hereafter alleged to have been erroneously or illegally assessed or collected
+, or of any penalty claimed to have been collected without authority, or of any sum alleged to have been excessive or in any manner wrongfully collected, 
+until a claim for refund or credit has been duly filed with the Commissioner
+; but such suit or proceeding may be maintained, whether or not such tax, penalty, or sum has been paid under protest or duress. (Emphasis ours.)
+x  x  x  x
+[13]
+ The 1993 NIRC pertains to the National Internal Revenue Code of 1986, as amended.  
+See
+ V. Reyes, INCOME TAX, LAW AND ACCOUNTING A NEW APPROACH, 5 (2003 Edition).
+[14]
+ G.R. No. 122480, April 12, 2000, 330 SCRA 507.
+[15]
+ Prescribed under Section 230 of the old Tax Code, now Section 229 of the new Tax Code.  See B. Aban, LAW OF BASIC TAXATION IN THE PHILIPPINES, 326-327 (2001 Edition).
+[16]
+ 
+Bermejo v. Collector of Internal Revenue
+, 87 Phil. 96, 97 (1950).
+[17]
+ 
+Floro Cement Corporation v. Gorospe
+, G.R. No. 46787, August 12, 1991, 200 SCRA 480, 488.
+[18]
+ See 
+Paper Industries Corporation of the Philippines v. Court of Appeals
+, G.R. Nos. 106949-50, December 1, 1995, 250 SCRA 434, 457-458.
+[19]
+ Supra note 16, at 98.
+[20] 
+J. Vitug and E. Acosta, TAX LAW AND  JURISPRUDENCE, 39 (2000 Edition), citing 
+Hydro Resources Contractors Corp. v. Court of Tax Appeals
+, G.R. No. 80276, December 21, 1990, 192 SCRA 604, 611.
+[21]
+ 
+Gorospe v. Vinzons-Chato
+, G.R. No. 132228, January 21, 2003, p. 6 (Unsigned Resolution).
+[22] 
+Froehlich & Kuttner v. Collector of Customs
+, 18 Phil. 461, 481-482 (1911).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)
