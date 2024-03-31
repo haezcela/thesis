@@ -1,0 +1,668 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			597 Phil. 363
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 170574, January 30, 2009 ]
+
+
+PHILIPPINE BANKING CORPORATION (NOW: GLOBAL BUSINESS BANK, INC.), PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+D E C I S I O N
+
+
+
+
+CARPIO, J.:
+
+
+The Case
+The Philippine Banking Corporation, now, Global Business Bank, Inc., (petitioner) filed this Petition for Review
+[1]
+ to reverse the Court of Tax Appealsâ Decision
+[2]
+ dated 23 November 2005 in CTA EB No. 63 (C.T.A. Case No. 6395). In the assailed decision, the Court of Tax Appeals 
+En Banc
+ ordered petitioner to pay P17,595,488.75 and P47,767,756.24 as deficiency documentary stamp taxes for the taxable years 1996 and 1997, respectively, on its bank product called âSpecial/Super Savings Deposit Accountâ (SSDA).
+The Facts
+Petitioner is a domestic corporation duly licensed as a banking institution.
+[3]
+ For the taxable years 1996 and 1997, petitioner offered its SSDA to its depositors. The SSDA is a form of a savings deposit evidenced by a passbook and earning a higher interest rate than a regular savings account. Petitioner believes that the SSDA is not subject to Documentary Stamp Tax (DST) under Section 180 of the 1977 National Internal Revenue Code (NIRC), as amended.
+[4]
+On 10 January 2000, the Commissioner of Internal Revenue (respondent) sent petitioner a Final Assessment Notice assessing deficiency DST based on the outstanding balances of its SSDA, including increments, in the total sum of P17,595,488.75 for 1996 and P47,767,756.24 for 1997. These assessments were based on the outstanding balances of the SSDA appearing in the schedule attached to petitionerâs audited financial statements for the taxable years 1996 and 1997.
+[5]
+Petitioner claims that the SSDA is in the nature of a regular savings account since both types of accounts have the following common features:
+They are both evidenced by a passbook;
+The depositors can make deposits or withdrawals anytime which are not subject to penalty; and
+Both can have an Automatic Transfer Agreement (ATA) with the depositorâs current or checking account.
+[6]
+Petitioner alleges that the only difference between the regular savings account and the SSDA is that the SSDA is for depositors who maintain savings deposits with a substantial average daily balance, and as an incentive, they are given higher interest rates than regular savings accounts. These deposits are classified separately in petitionerâs financial statements in order to maintain a separate record for savings deposits with substantial balances entitled to higher interest rates.
+[7]
+Petitioner maintains that the tax assessments are erroneous because Section 180 of the 1977 NIRC does not include deposits evidenced by a passbook among the enumeration of instruments subject to DST. Petitioner asserts that the language of the law is clear and requires no interpretation.
+[8]
+ Section 180 of the 1977 NIRC, as amended,
+[9]
+ provides:
+Sec. 180. 
+Stamp tax on all loan agreements, promissory notes, bills of exchange, drafts, instruments and securities issued by the government or any of its instrumentalities, certificates of deposit bearing interest and others not payable on sight or demand.
+ â On all loan agreements signed abroad wherein the object of the contract is located or used in the Philippines; bills of exchange (between points within the Philippines), drafts, instruments and securities issued by the Government or any of its instrumentalities or 
+certificates of deposits drawing interest
+, or orders for the payment of any sum of money otherwise than at the sight or on demand, or on all promissory notes, whether negotiable or non-negotiable, except bank notes issued for circulation, and on each renewal of any such note, there shall be collected a documentary stamp tax of Thirty centavos (P0.30) on each Two hundred pesos, or fractional part thereof, of the face value of any such agreement, bill of exchange, draft, certificate of deposit, or note: provided, that only one documentary stamp tax shall be imposed on either loan agreement, or promissory note issued to secure such loan, whichever will yield a higher tax: provided, however, that loan agreements or promissory notes the aggregate of which does not exceed Two hundred fifty thousand pesos (P250,000) executed by an individual for his purchase on installment for his personal use or that of his family and not for business, resale, barter or hire of a house, lot, motor vehicle, appliance or furniture shall be exempt from the payment of the documentary stamp tax provided under this section. (Boldfacing supplied)
+Petitioner insists that the SSDA, being issued in the form of a passbook, cannot be construed as a certificate of deposit subject to DST under Section 180 of the 1977 NIRC. Petitioner explains that the SSDA is a necessary offshoot of the deregulated interest rate regime in bank deposits.
+[10]
+ Petitioner elucidates:
+With the removal of the respective interest rate ceilings on savings and time deposit, banks are enabled to legitimately offer higher rates on savings account which may even be at par with rates on time deposit. Practically, the distinction between a savings and a time deposit was removed insofar as interest rates are concerned. This being so, and for the legitimate purpose of further enticing deposits for savings account, banks have evolved a product â the Super/Special Savings Account â which offers the flexibility of a savings deposit but does away with the rigidity of a time deposit account and with interest rate at par with the latter. This is offered as an incentive for depositors who maintain or who wish to maintain deposits with substantial average daily balance. Such depositors will be entitled to an attractive interest rate, a rate higher than that to which the regular savings account is entitled. Just like an ordinary savings, Super/Special Savings Deposits can be withdrawn anytime. Of course, to be entitled to preferential interest rate, such account must conform to a stated minimum deposit balance within a specified holding period. Otherwise, the depositor will lose the incentive of a higher interest rate and the account will revert to an ordinary savings account and be entitled only to prevailing rates of interest applicable to regular savings account. And unlike a time deposit account, the Super/Special Savings Account comes in the form of a passbook, hence need not be formally renewed in the manner that a time deposit certificate has to be formally surrendered and renewed upon maturity.
+[11]
+Petitioner argues that the DST is imposed on the basis of a mere inference or perceived implication of what the SSDA is supposed to be and not on the basis of what the law specifically states. Petitioner points out the differences between the SSDA and time deposits:
+[12]
+Time Deposits
+SSDA
+1. The holding period is fixed beforehand.
+1. The holding period floats at the option of the depositor. It can be 30, 60, 90 or 120 days or more and as an incentive for maintaining a longer holding period, the depositor earns higher interest.
+2. There is pre-termination because there is no partial withdrawal of a certificate. Pre-termination results in the surrender and cancellation of the certificate of deposit.
+2. No pre-termination and the passbook account is simply reverted to an ordinary savings status in case of early or partial withdrawal or if the required holding period is not met.
+Petitioner also argues that even on the assumption that a passbook evidencing the SSDA is a certificate of deposit, no DST will be imposed because only negotiable certificates of deposits are subject to tax under Section 180 of the 1977 NIRC.
+[13]
+ Petitioner reasons that a savings passbook is not a negotiable instrument and it cannot be denied that savings passbooks have never been taxed as certificates of deposits.
+[14]
+Petitioner alleges that prior to the passage of Republic Act No. 9243
+[15]
+ (RA 9243), there was no law subjecting SSDA to DST during the taxable years 1996 and 1997. The amendatory provision in RA 9243 now specifically includes âcertificates or other evidences of deposits that are either drawing interest significantly higher than the regular savings deposit taking into consideration the size of the deposit and the risks involved or drawing interest and having a specific maturity date.â
+[16]
+ Petitioner admits that with this new taxing clause, its SSDA is now subject to DST. However, the fact remains that this provision was non-existent during the taxable years 1996 and 1997 subject of the assessments in the present case.
+[17]
+Respondent, through the Office of the Solicitor General, contends that the SSDA is substantially the same and identical to that of a time deposit account because in order to avail of the SSDA, one has to deposit a minimum of P50,000 and this amount must be maintained for a required period of time to earn higher interest rates.
+[18]
+ In a time deposit account, the minimum deposit requirement is P20,000 and this amount must be maintained for the agreed period to earn the agreed interest rate. If a time deposit is pre-terminated, a penalty will be imposed resulting in a lower interest income. In a regular savings account, the interest rate is fixed and there is no penalty imposed for as long as the required minimum balance is maintained. Thus, respondent asserts that the SSDA is a time deposit account, albeit in the guise of a regular savings account evidenced by a passbook.
+[19]
+Respondent explains that under Section 180 of the 1977 NIRC, certificates of deposits deriving interest are subject to the payment of DST. Petitionerâs passbook evidencing its SSDA is considered a certificate of deposit, and being very similar to a time deposit account, it should be subject to the payment of DST.
+[20]
+Respondent also argues that Section 180 of the 1977 NIRC categorically states that certificates of deposit deriving interest are subject to DST without limiting the enumeration to negotiable certificates of deposit. Based on the definition of a certificate of deposit in 
+Far East Bank and Trust Company v. Querimit
+,
+[21]
+ a certificate of deposit may or may not be negotiable, since it may be payable only to the depositor.
+[22]
+The Ruling of the Court of Tax Appeals
+On 23 November 2005, the Court of Tax Appeals 
+En Banc
+ (CTA) affirmed the Decision and Resolution of the CTAâs Second Division. The dispositive portion reads:
+WHEREFORE, the instant petition is 
+DENIED
+ for lack of merit. Accordingly, the petitioner is hereby 
+ORDERED
+ to 
+PAY
+ the amounts of P17,595,488.75 and P47,767,756.24 as deficiency documentary stamp taxes for the taxable years 1996 and 1997, plus 25% surcharge for late payment and 20% annual delinquency interest for late payment from January 20, 2002 until fully paid pursuant to Sections 248 and 249 of the Tax Code.
+[23]
+The CTA ruled that a deposit account with the same features as a time deposit, i.e., a fixed term in order to earn a higher interest rate, is subject to DST imposed in Section 180 of the 1977 NIRC.
+[24]
+ It is clear that âcertificates of deposit drawing interestâ are subject to DST. The CTA, citing 
+Far East Bank and Trust Company v. Querimit
+,
+[25]
+ defined a certificate of deposit as âa written acknowledgment by a bank or banker of the receipt of a sum of money on deposit which the bank or banker promises to pay to the depositor, to the order of the depositor, or some other person or his order, whereby the relation of debtor and creditor between the bank and the depositor is created.â
+[26]
+The CTA pointed out that this Court neither referred to a particular form of deposit nor limited the coverage to time deposits only. This Court used the term âwritten acknowledgmentâ which means that for as long as there is some written memorandum of the fact that the bank accepted a deposit of a sum of money from a depositor, the writing constitutes a certificate of deposit. The CTA held that a passbook representing an interest-earning deposit account issued by a bank qualifies as a certificate of deposit drawing interest.
+[27]
+The CTA emphasized that Section 180 of the 1977 NIRC imposes DST on documents, whether the documents are negotiable or non-negotiable.
+[28]
+ The CTA held that petitionerâs argument that Section 180 of the 1977 NIRC imposes the DST only on negotiable certificates of deposit as implied from the old tax provision is erroneous.
+[29]
+ Section 217 of Commonwealth Act No. 466, as amended (old NIRC) reads:
+Sec. 217. Stamp tax on negotiable promissory notes, bills of exchange, drafts, certificate of deposit bearing interest and others not payable on sight or demand.
+ - On all bills of exchange (between points within the Philippines), drafts or certificates of deposit drawing interest, or orders for the payment of any sum of money otherwise than at sight or on demand, 
+or all negotiable promissory notes
+, except bank notes issued for circulation, and on each renewal of any such note, there shall be collected a documentary stamp tax of four centavos on each two hundred pesos, or fractional part thereof, of the face value of any such bill of exchange, draft, certificate of deposit, or note. (As amended by Sec. 6, Republic Act No. 40)
+[30]
+ (Emphasis in the original)
+The CTA observed that the requirement of negotiability pertains to promissory notes only. Such intention is disclosed by the fact that the word 
+negotiable
+ was written before 
+promissory notes
+ followed by a comma, hence, the word 
+negotiable
+ modifies promissory notes only. Therefore, with respect to all other documents mentioned in Section 217 of the old NIRC, the attribute of negotiability is not required.
+[31]
+ The CTA added that the applicable provision is Section 180 of the 1977 NIRC and not Section 217 of the old NIRC.
+[32]
+ Section 180 of the 1977 NIRC provides that the following are subject to DST, to wit: (1) Loan Agreements; (2) Bills of Exchange; (3) Drafts; (4) Instruments and Securities issued by the Government or any of its instrumentalities; (5) Certificates of Deposits drawing interest; (6) Orders for the payment of any sum of money otherwise than at sight or on demand; and (7) Promissory Notes, whether negotiable or non-negotiable. Therefore, the DST is imposed on all certificates of deposit drawing interest without any qualification.
+[33]
+The CTA held that a certificate of time deposit, a type of a certificate of deposit drawing interest, is subject to DST. The CTA observed that the SSDA has the same nature and characteristics as a time deposit.
+[34]
+ The CTA discussed the similarities of a time deposit account with an SSDA:
+In order for the depositor to earn the agreed higher interest rate in a Special/Super Savings Account, the required minimum amount of deposit must not only be met but should also be maintained for a definite period. Thus, the Special/Super Savings Account is a deposit with a fixed term. Withdrawal before the expiration of said fixed term results to the reduction of the interest rate. The fixed term and reduction of interest rate in case of pre-termination are 
+essentially
+ the features of a time deposit. Hence, this Court concurs with the conclusion reached in the assailed Decision that petitionerâs Special/Super Savings Deposits and certificates of time deposit are substantially the same, if not one and the same product, and therefore both are subject to the DST on certificates of deposit.
+[35]
+The CTA stated that the fact that the SSDA is evidenced by a passbook is immaterial because in determining whether certain instruments are subject to DST, substance would control over form and labels.
+[36]
+On 14 December 2005, petitioner appealed to this Court the CTA decision.
+[37]
+The Issue
+Petitioner submits this sole issue for our consideration: whether petitionerâs product called Special/Super Savings Account is subject to DST under Section 180 of the 1977 NIRC prior to the passage of RA 9243 in 2004.
+[38]
+The Ruling of the Court
+The issue in the present case is whether petitionerâs SSDAs are âcertificates of deposits drawing interestâ as used in Section 180 of the 1977 NIRC. If they are, then the SSDAs are subject to DST. If not, then they are merely regular savings account which concededly are not subject to DST. So what are âcertificates of deposits drawing interest,â and how do they differ from a regular savings account?
+Section 180 of the 1977 NIRC, as amended, provides:
+Sec. 180. 
+Stamp tax on all loan agreements, promissory notes, bills of exchange, drafts, instruments and securities issued by the government or any of its instrumentalities, certificates of deposit bearing interest and others not payable on sight or demand.
+ â On all loan agreements signed abroad wherein the object of the contract is located or used in the Philippines; bills of exchange (between points within the Philippines), drafts, instruments and securities issued by the Government or any of its instrumentalities or 
+certificates of deposits drawing interest
+, or orders for the payment of any sum of money otherwise than at the sight or on demand, or on all promissory notes, whether negotiable or non-negotiable, except bank notes issued for circulation, and on each renewal of any such note, there shall be collected a documentary stamp tax of Thirty centavos (P0.30) on each Two hundred pesos, or fractional part thereof, of the face value of any such agreement, bill of exchange, draft, certificate of deposit, or note: provided, that only one documentary stamp tax shall be imposed on either loan agreement, or promissory note issued to secure such loan, whichever will yield a higher tax: provided, however, that loan agreements or promissory notes the aggregate of which does not exceed Two hundred fifty thousand pesos (P250,000) executed by an individual for his purchase on installment for his personal use or that of his family and not for business, resale, barter or hire of a house, lot, motor vehicle, appliance or furniture shall be exempt from the payment of the documentary stamp tax provided under this section. (Boldfacing and underscoring supplied)
+In 
+Far East Bank and Trust Company v. Querimit
+,
+[39]
+ the Court defined a certificate of deposit as âa written acknowledgment by a bank or banker of the receipt of a sum of money on deposit which the bank or banker promises to pay to the depositor, to the order of the depositor, or to some other person or his order, whereby the relation of debtor and creditor between the bank and the depositor is created.â A certificate of deposit is also defined as âa receipt issued by a bank for an interest-bearing time deposit coming due at a specified future date.â
+[40]
+The deposit operations of a bank as listed in the 
+Bangko Sentral ng Pilipinas
+ Manual of Regulations for Banks
+[41]
+ consist of the following:
+Demand Deposits â are deposits, subject to withdrawal either by check or thru the automated tellering machines which are otherwise known as current or checking accounts. The Bank may or may not pay interest on these accounts.
+[42]
+Savings Deposits â are interest-bearing deposits which are withdrawable either upon presentation of a properly accomplished withdrawal slip together with the corresponding passbook or thru the automated tellering machines.
+[43]
+Negotiable Order of Withdrawal Accounts â are interest-bearing savings deposit which are withdrawable by means of Negotiable Orders of Withdrawal.
+[44]
+Time Deposits â are interest-bearing deposits with specific maturity dates and evidenced by certificates issued by the bank.
+[45]
+Petitioner treats the SSDA as a regular savings deposit account since it is evidenced by a passbook and allows withdrawal. Respondent treats the SSDA as a time deposit account because of the higher interest rates and holding period. It is then significant to differentiate a regular savings deposit and a time deposit vis-Ã -vis the SSDA to determine if the SSDA is a certificate of deposit drawing interest referred to in Section 180 of the 1977 NIRC. A comparison of a savings account, time deposit account, and SSDA is shown in the table below:
+Savings Account
+Time Deposit
+SSDA
+Interest rate
+Regular savings interest
+Higher interest rate
+Higher interest rate
+Period
+None
+Fixed Term
+Fixed Term
+Evidenced by:
+Passbook
+Certificate of Time Deposit
+Passbook
+Pre-termination
+None
+With penalty
+With penalty
+Holding Period
+None
+Yes
+Yes
+Withdrawal
+Allowed
+Withdrawal amounts to pre-termination
+Allowed provided the minimum amount to earn the higher interest rate is maintained, otherwise, the regular savings interest rate will apply.
+Based on the definition and comparison, it is clear that a certificate of deposit drawing interest as used in Section 180 of the 1977 NIRC refers to a time deposit account. As the Bureau of Internal Revenue (BIR) explained in Revenue Memorandum Circular No. 16-2003,
+[46]
+ the distinct features of a certificate of deposit from a technical point of view are as follows:
+Minimum deposit requirement;
+Stated maturity period;
+Interest rate is higher than the ordinary savings account;
+Not payable on sight or demand, but upon maturity or in case of pre-termination, prior notice is required; and
+Early withdrawal penalty in the form of partial loss or total loss of interest in case of pre-termination.
+The SSDA is for depositors who maintain savings deposits with substantial average daily balance and which earn higher interest rates. The holding period of an SSDA floats at the option of the depositor at 30, 60, 90, 120 days or more and for maintaining a longer holding period, the depositor earns higher interest rates. There is no pre-termination of accounts in an SSDA because the account is simply reverted to an ordinary savings status in case of early or partial withdrawal or if the required holding period is not met. Based on the foregoing, the SSDA has all of the distinct features of a certificate of deposit.
+Petitioner argues that a deposit account evidenced by a passbook cannot be construed as a certificate of deposit subject to DST under Section 180 of the 1977 NIRC. In 
+International Exchange Bank v. Commissioner of Internal Revenue
+,
+[47]
+ this Court categorically ruled that a passbook representing an interest earning deposit account issued by a bank qualifies as a certificate of deposit drawing interest and should be subject to DST. The Court added that âa document to be deemed a certificate of deposit requires no specific form as long as there is some written memorandum that the bank accepted a deposit of a sum of money from a depositor.â
+[48]
+Petitioner also argues that prior to the passage of RA 9243, there was no law subjecting SSDA to DST. In 
+International Exchange Bank v. Commissioner of Internal Revenue
+,
+[49]
+ the Court held that the amendment to include âother evidences of deposits that are drawing interest significantly higher than the regular savings depositâ was intended to eliminate the ambiguity. The Court explained:
+If at all, the further amendment was intended to eliminate precisely the scheme used by banks of issuing passbooks to âcloakâ its time deposits as regular savings deposits. This is reflected from the following exchanges between Mr. Miguel Andaya of the Bankers Association of the Philippines and Senator Ralph Recto, Senate Chairman of the Committee on Ways and Means, during the deliberations on Senate Bill No. 2518 which eventually became RA 9243:
+MR. MIGUEL ANDAYA (Bankers Association of the Philippines). Just to clarify. 
+Savings deposit at the present is not subject to DST
+.
+THE CHAIRMAN. Thatâs right.
+MR. ANDAYA. 
+Time deposit is subject
+. I agree with you in principle that if we are going to encourage deposits, whether savings or time...
+THE CHAIRMAN. Uh-huh.
+MR. ANDAYA. ...itâs questionable whether we should tax it with DST at all, even the question of imposing final withholding tax has been raised as an issue.
+THE CHAIRMAN. If I had it my way, I'll cut it by half.
+MR. ANDAYA. Yeah, but I guess concerning the constraint of government revenue, even the industry itself right now is not pushing in that direction, but in the long term, when most of us in this room are gone, we hope that DST will disappear from the face of this earth, no. 
+Now, I think the move of the DOF to expand the coverage of or to add that phrase, âOther evidence of indebtedness,â it just removed ambiguity
+. When we testified earlier in the House on this very same bill, we did not interpose any objections if only for the sake of avoiding further ambiguity in the implementation of DST on deposits. Because of what has happened so far is, we don't know whether the examiner is gonna come in and say, âThis savings deposit is not savings but itâs time deposit.â So, I think what DOF has done is to eliminate any confusion. They said that a deposit that has a maturity...
+THE CHAIRMAN. Uh-huh.
+MR. ANDAYA. ...which is time, in effect, regardless of what form it takes should be subject to DST.
+THE CHAIRMAN. Would you include savings deposit now?
+MR. ANDAYA. 
+So that if we cloaked a deposit as savings deposit but it has got a fixed maturity
+...
+THE CHAIRMAN. Uh-huh.
+MR. ANDAYA. ..
+that would fall under the purview
+. (Italics in the original)
+DST is imposed on Certificates of Deposits Bearing Interest including a special savings account evidenced by a passbook.
+Documentary stamp tax is a tax on documents, instruments, loan agreements, and papers evidencing the acceptance, assignment, sale or transfer of an obligation, right or property incident thereto. A DST is actually an excise tax because it is imposed on the transaction rather than on the document.
+[50]
+ A DST is also levied on the exercise by persons of certain privileges conferred by law for the creation, revision, or termination of specific legal relationships through the execution of specific instruments.
+[51]
+ Hence, in imposing the DST, the Court considers not only the document but also the nature and character of the transaction.
+Section 180 of the 1977 NIRC imposes a DST of P0.30 on each P200 of the face value of any certificate of deposit drawing interest. As correctly observed by the CTA, a certificate of deposit is a written acknowledgment by a bank of the receipt of a sum of money on deposit which the bank promises to pay to the depositor, to the order of the depositor, or to some other person or his order, whereby the relation of debtor or creditor between the bank and the depositor is created.
+[52]
+Petitionerâs SSDA has the following features:
+1. Although the money placed in the SSDA can be withdrawn anytime, the money is subject to a holding period in order to earn a higher interest rate. Otherwise, in case of premature withdrawal, the depositor will not earn the preferred interest ranging from 8% or higher but only the normal interest rate on regular savings deposit.
+2. In order to qualify for an SSDA, the depositor must place a substantial amount of money of not less than P50,000. This amount is even larger than what is needed to open a time deposit which is P20,000. Aside from the substantial amount of money required, this amount must be maintained within a certain period just like a time deposit.
+3. On the issue of penalty, in an SSDA, if the depositor withdraws the money and the balance falls below the âminimum balanceâ of P50,000, the interest is reduced. This condition is identical to that imposed on a time deposit that is withdrawn before maturity. 
+[53]
+Based on these features, it is clear that the SSDA is a certificate of deposit drawing interest subject to DST even if it is evidenced by a passbook and non-negotiable in character. In 
+International Exchange Bank v. Commissioner of Internal Revenue
+,
+[54]
+ we held that:
+A document to be deemed a certificate of deposit requires no specific form as long as there is some written memorandum that the bank accepted a deposit of a sum of money from a depositor. What is important and controlling is the nature or meaning conveyed by the passbook and not the particular label or nomenclature attached to it, inasmuch as substance, not form, is paramount.
+Moreover, a certificate of deposit may be payable to the depositor, to the order of the depositor, or to some other person or his order. From the use of the conjunction or, instead of 
+and
+, the negotiable character of a certificate of deposit is immaterial in determining the imposition of DST.
+[55]
+In 
+Banco de Oro Universal Bank v. Commissioner of Internal Revenue
+,
+[56]
+ this Court upheld the CTAâs decision and ruled:
+The CTA 
+en banc
+ likewise declared that in practice, a time deposit transaction is covered by a certificate of deposit while petitioner's Investment Savings Account (ISA) transaction is through a passbook. Despite the differences in the form of any documents, the CTA 
+en banc
+ ruled that a time deposit and ISA have essentially the same attributes and features. It explained that like time deposit, ISA transactions bear a fixed term or maturity because the bank acknowledges receipt of a sum of money on deposit which the bank promises to pay the depositor, bearer or to the order of a bearer on a specified period of time. Section 180 of the 1997 NIRC does not prescribed the form of a certificate of deposit. It may be any 'written acknowledgment by a bank of the receipt of money on deposit.' 
+The definition of a certificate of deposit is all encompassing to include a savings account deposit such as ISA.
+ (Emphasis supplied)
+Availment of the Tax Amnesty Program
+On 24 May 2007, during the pendency of this case before this Court, Republic Act No. 9480 or âAn Act Enhancing Revenue Administration and Collection by Granting an Amnesty on All Unpaid Internal Revenue Taxes Imposed by the National Government for Taxable Year 2005 and Prior Yearsâ (RA 9480), lapsed into law.
+The pertinent provisions of RA 9480 are:
+Section 1. 
+Coverage
+.
+ There is hereby authorized and granted a tax amnesty which shall 
+cover all national internal revenue taxes for the taxable year 2005 and prior years
+, with or without assessments duly issued therefor, that have remained unpaid as of December 31, 2005: Provided, however, That the amnesty hereby authorized and granted shall not cover persons or cases enumerated under Section 8 hereof.
+x x x
+Sec. 6. 
+Immunities and Privileges
+.
+ Those who availed themselves of the tax amnesty under Section 5 hereof, and have fully complied with all its conditions shall be entitled to the following immunities and privileges:
+1. 
+The taxpayer shall be immune from the payment of taxes, as well as addition thereto, and the appurtenant civil, criminal or administrative penalties under the National Internal Revenue Code of 1997, as amended, arising from the failure to pay any and all internal revenue taxes for taxable year 2005 and prior years.
+x x x
+Sec. 8. 
+Exceptions
+.
+ The tax amnesty provided in Section 5 hereof shall not extend to the following persons or cases existing as of the effectivity of this Act:
+1. Withholding agents with respect to their withholding tax liabilities;
+2. Those with pending cases falling under the jurisdiction of the Presidential Commission on Good Government;
+3. Those with pending cases involving unexplained or unlawfully acquired wealth or under the Anti-Graft and Corrupt Practices Act;
+4. Those with pending cases filed in court involving violation of the Anti-Money Laundering Law;
+5. Those with pending criminal cases for tax evasion and other criminal offenses under Chapter II of Title X of the National Internal Revenue Code of 1997, as amended, and the felonies of frauds, illegal exactions and transactions, and malversation of public funds and property under Chapters III and IV of Title VII of the Revised Penal Code; and
+6.
+ 
+Tax cases subject of final and executory judgment by the courts.
+ (Emphasis supplied)
+The Department of Finance (DOF) issued DOF Department Order No. 29-07 (DO 29-07).
+[57]
+ Section 6 of DO 29-07 provides:
+SEC. 6. Method of Availment of Tax Amnesty.
+ -
+1. Forms/Documents to be filed. - To avail of the general tax amnesty, concerned taxpayers shall file the following documents/requirements:
+Notice of Availment in such form as may be prescribed by the BIR;
+Statements of Assets, Liabilities and Networth (SALN) as of December 31, 2005 in such form, as may be prescribed by the BIR;
+Tax Amnesty Return in such form as may be prescribed by the BIR.
+x x x
+The Acceptance of Payment Form, the Notice of Availment, the SALN, and the Tax Amnesty Return shall be submitted to the RDO, which shall be received only after complete payment. 
+The completion of these requirements shall be deemed full compliance with the provisions of RA 9480.
+ (Emphasis supplied)
+The BIR issued Revenue Memorandum Circular No. 19-2008 (RMC 19-2008).
+[58]
+ The pertinent provisions are:
+Who may avail of the amnesty?
+The following taxpayers may avail of the Tax Amnesty Program:
+ 
+- Individuals
+- Estates and Trusts
+- Corporations
+- Cooperatives and tax-exempt entities that have become taxable as of December 31, 2005
+- Other juridical entities including partnerships.
+> Fiscal year taxpayers may likewise avail of the tax amnesty using their Financial Statement ending in any month of 2005.
+EXCEPT:
+X
+ Withholding agents with respect to their withholding tax liabilities
+X
+ Those with pending cases:
+X
+ Under the jurisdiction of the PCGG
+X
+ Involving violations of the Anti-Graft and Corrupt Practices Act
+X
+ Involving violations of the Anti-Money Laundering Law
+X
+ For tax evasion and other criminal offenses under the NIRC and/or the RPC
+X
+ 
+Issues and cases which were ruled by any court (even without finality) in favor of the BIR prior to amnesty availment of the taxpayer.
+ (
+e.g.
+ Taxpayers who have failed to observe or follow BOI and/or PEZA rules on entitlement to Income Tax Holiday Incentives and other incentives)
+X
+ 
+Cases involving issues ruled with finality by the Supreme Court prior to the effectivity of RA 9480 (
+e.g.
+ DST on Special Savings Account)
+X
+ Taxes passed on and collected from customers for remittance to the BIR
+X
+ Delinquent Accounts/Accounts Receivable considered as assets of the BIR/Government, including self-assessed tax. (Emphasis supplied)
+The BIR also issued Revenue Memorandum Circular No. 69-2007 (RMC 69-2007).
+[59]
+ The pertinent portion provides:
+Q-32 May 
+surviving or new corporations avail of the tax amnesty in behalf of the corporations absorbed or dissolved
+ pursuant to a merger or consolidation that took effect prior to Taxable Year 2005? Can they avail of the Tax Amnesty?
+A-32 
+Yes
+, these companies can avail of the tax amnesty for purposes of obtaining tax clearances for the dissolved or absorbed corporations. (Emphasis supplied)
+On 21 September 2007, Metropolitan Bank and Trust Company (Metrobank), the surviving entity that absorbed petitionerâs banking business, filed a Tax Amnesty Return,
+[60]
+ paid the amnesty tax and fully complied with all the requirements
+[61]
+ of the Tax Amnesty Program under RA 9480. Petitioner alleges that by virtue of this availment, petitioner is now deemed âimmune from the payment of taxes as well as additions thereto,â and is statutorily discharged from paying all internal revenue tax liabilities for the taxable year 2005 and prior years. Petitioner contends that the availment includes all deficiency tax assessments of the BIR subject of this petition.
+A tax amnesty is a general pardon or the intentional overlooking by the State of its authority to impose penalties on persons otherwise guilty of violation of a tax law. It partakes of an absolute waiver by the government of its right to collect what is due it and to give tax evaders who wish to relent a chance to start with a clean slate. A tax amnesty, much like a tax exemption, is never favored nor presumed in law. The grant of a tax amnesty, similar to a tax exemption, must be construed strictly against the taxpayer and liberally in favor of the taxing authority.
+[62]
+The DST is one of the taxes covered by the Tax Amnesty Program under RA 9480.
+[63]
+ As discussed above, petitioner is clearly liable to pay the DST on its SSDA for the years 1996 and 1997. However, petitioner, as the absorbed corporation, can avail of the tax amnesty benefits granted to Metrobank.
+Records show that Metrobank, a qualified tax amnesty applicant,
+[64]
+ has duly complied with the requirements enumerated in RA 9480, as implemented by DO 29-07 and RMC 19-2008.
+[65]
+ Considering that the completion of these requirements shall be deemed full compliance with the tax amnesty program,
+[66]
+ the law mandates that the taxpayer shall thereafter be immune from the payment of taxes, and additions thereto, as well as the appurtenant civil, criminal or administrative penalties under the NIRC of 1997, as amended, arising from the failure to pay any and all internal revenue taxes for taxable year 2005 and prior years.
+[67]
+The BIRâs inclusion of âissues and cases which were ruled by any court (even without finality) in favor of the BIR prior to amnesty availment of the taxpayerâ as one of the exceptions in RMC 19-2008 is misplaced. RA 9480 is specifically clear that the exceptions to the tax amnesty program include âtax cases subject of final and executory judgment by the courts.â The present case has not become final and executory when Metrobank availed of the tax amnesty program.
+Wherefore
+, we 
+GRANT
+ the petition, and 
+SET ASIDE
+ the Court of Tax Appealsâ Decision dated 23 November 2005 in CTA EB No. 63 solely in view of petitionerâs availment of the Tax Amnesty Program.
+SO ORDERED.
+Austria-Martinez
+,
+**
+ 
+Corona, Carpio-Morales
+,
+***
+ and 
+Leonardo-De Castro, JJ.
+, concur.
+*
+ Per Special Order No. 552-A.
+**
+ Designated member per Special Order No. 553.
+***
+ Designated member per Special Order No. 553.
+[1]
+ Under Rule 45 of the Rules of Court.
+[2]
+ Penned by Associate Justice Juanito C. CastaÃ±eda, Jr. with Presiding Justice Ernesto D. Acosta, Associate Justices Lovell R. Bautista, Erlinda P. Uy, Olga Palance-Enriquez, concurring and Associate Justice Caesar A. Casanova, dissenting.
+[3]
+ Philippine Banking Corporation was merged with the Global Business Bank, Inc. On 4 September 2002, Global Business Bank, Inc. was changed into a holding company under the name Global Business Holdings, Inc. On 11 October 2002, the banking business of Global Business Bank, Inc. was subsequently transferred and absorbed by Metropolitan Bank and Trust Company.
+[4]
+ 
+Rollo
+, p. 5.
+[5]
+ 
+Id.
+[6]
+ 
+Id.
+ at 7.
+[7]
+ 
+Id.
+ at 8.
+[8]
+ 
+Id.
+ at 14.
+[9]
+ The 1977 NIRC was amended by Republic Act No. 7660. An Act Rationalizing Further the Structure and Administration of the Documentary Stamp Tax, Amending for the Purpose Certain Provisions of the National Internal Revenue Code, as Amended, Allocating Funds for Specific Programs, and For Other Purposes (23 December 1993).
+[10]
+ 
+Rollo
+, pp. 11-12.
+[11]
+ 
+Id.
+ at 13.
+[12]
+ 
+Id.
+ at 15-16.
+[13]
+ 
+Id.
+ at 16.
+[14]
+ 
+Id.
+ at 18.
+[15]
+ An Act Rationalizing the Provisions of the Documentary Stamp Tax of the National Internal Revenue Code of 1997, as Amended and for other Purposes. Promulgated on 17 February 2004.
+[16]
+ 
+Rollo
+, pp. 22-23.
+[17]
+ 
+Id.
+ at 24.
+[18]
+ 
+Id.
+ at 429.
+[19]
+ 
+Id.
+ at 429-430.
+[20]
+ 
+Id.
+ at 430-431.
+[21]
+ 424 Phil. 721 (2002).
+[22]
+ 
+Rollo
+, p. 433.
+[23]
+ 
+Id.
+ at 36-37.
+[24]
+ 
+Id.
+ at 42-43.
+[25]
+ 
+Supra.
+[26]
+ 
+Rollo
+, pp. 43-44.
+[27]
+ 
+Id.
+ at 44.
+[28]
+ 
+Id.
+[29]
+ 
+Id.
+ at 44-45.
+[30]
+ 
+Id.
+ at 45.
+[31]
+ 
+Id.
+ at 45-46.
+[32]
+ 
+Id.
+ at 46.
+[33]
+ 
+Id.
+ at 46-47.
+[34]
+ 
+Id.
+ at 47.
+[35]
+ 
+Id.
+ at 48-49.
+[36]
+ 
+Id.
+ at 49.
+[37]
+ 
+Id.
+ at 3.
+[38]
+ 
+Id.
+ at 7.
+[39]
+ 
+Supra
+ note 21 at 730.
+[40]
+ Websterâs Third New International Dictionary, Unabridged.
+[41]
+ Issued 1993 and amended in 2005. Part II- Deposit and Borrowing Operations.
+[42]
+ BSP Manual of Accounts for Expanded Commercial Banks and Commercial Banks 2-1-02-02, p. 27.
+[43]
+ 
+Id.
+, 2-1-02-04, at 28.
+[44]
+ 
+Id.
+, 2-1-02-06, at 28.
+[45]
+ 
+Id.
+, 2-1-02-08, at 29.
+[46]
+ BIR Revenue Memorandum Circular No. 16-2003, Defining the Term âCertificate of Depositâ for the Purpose of Clarifying its Taxability Under Section 180 of the National Internal Revenue Code (Tax Code) of 1997, 18 February 2003.
+[47]
+ G.R. No. 171266, 4 April 2007, 520 SCRA 688.
+[48]
+ 
+Id.
+ at 697.
+[49]
+ 
+Id.
+ at 701-703.
+[50]
+ Sec. 173, 1997 NIRC. See De Leon and De Leon, 
+The National Internal Revenue Code Annotated
+, 8
+th
+ ed. Volume 2 (2003). See also 
+Michel J. Lhuillier Pawnshop, Inc. v. Commissioner of Internal Revenue
+, G.R. No. 166786, 3 May 2006, 489 SCRA 147, 152-153.
+[51]
+ 
+Philippine Home Assurance Corporation v. Court of Appeals
+, 361 Phil. 368, 372-373 (1999).
+[52]
+ 
+Far East Bank and Trust Company v. Querimit, supra
+ note 21.
+[53]
+ CTA 
+En Banc rollo
+, pp. 61-62.
+[54]
+ 
+Supra
+ note 47 at 697.
+[55]
+ 
+Id
+. at 697-698.
+[56]
+ G.R. No. 173602, 15 January 2007.
+[57]
+ Rules and Regulations to Implement Republic Act No. 9480 (15 August 2007).
+[58]
+ Circularizing the Full Text of âA Basic Guide on the Tax Amnesty Act of 2007â for Taxpayers Who Wish to Avail of the Tax Amnesty Pursuant To Republic Act No. 9480 (Tax Amnesty Act of 2007). (22 February 2008).
+[59]
+ Clarification of Issues Concerning The Tax Amnesty Program Under Republic Act No. 9480 as Implemented by Department Order No. 29-07 (5 November 2007).
+[60]
+ 
+Rollo
+, pp. 510-512. Metrobank paid a total of P88,549,049.10 as Amnesty Tax.
+[61]
+ Under RMC 19-2008, the requisites are as follows:
+Forms to be submitted are:
+- Notice of Availment of Tax Amnesty
+- Statement of Assets, Liabilities and Networth (SALN)
+- Tax Amnesty Return (BIR Form No. 2116)
+- Payment Form (BIR Form No. 0617)
+[62]
+ 
+Commissioner of Internal Revenue v. Marubeni Corp.
+, 423 Phil. 862, 874 (2001).
+[63]
+ RMC 69-2007. Q-1, A-1.
+[64]
+ On the time of the availment of the tax amnesty program, this case is not subject of a final and executory judgment.
+[65]
+ 
+Rollo
+, p. 508 (Notice of Availment of Tax Amnesty), p. 509 (SALN), p. 510 (BIR Form No. 2116 and BIR Form No. 0617), and p. 512 (Certificate from Development Bank of the Philippines that Metrobank has paid the Amnesty Tax).
+[66]
+ Section 6, DO 20-07.
+[67]
+ Section 6, RA 9480.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

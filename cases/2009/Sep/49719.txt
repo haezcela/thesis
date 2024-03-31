@@ -1,0 +1,857 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			616 Phil. 387
+			
+
+
+
+
+SPECIAL FIRST DIVISION
+
+
+[ G.R. No. 167330, September 18, 2009 ]
+
+
+PHILIPPINE HEALTH CARE PROVIDERS, INC., PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT. 
+R E S O L U T I O N
+
+
+
+
+CORONA, J.:
+
+
+ARTICLE II
+ Declaration of Principles and State Policies
+Section 15.  The State shall protect and promote the right to health of the people and instill health consciousness among them.
+ARTICLE XIII 
+Social Justice and Human Rights
+Section 11.  The State shall adopt an integrated and comprehensive approach to health development which shall endeavor to make essential goods, health and other social services available to all the people at affordable cost. There shall be priority for the needs of the underprivileged sick, elderly, disabled, women, and children. The State shall endeavor to provide free medical care to paupers.
+[1]
+For resolution are a motion for reconsideration and supplemental motion for reconsideration dated July 10, 2008 and July 14, 2008, respectively, filed by petitioner Philippine Health Care Providers, Inc.
+[2]
+We recall the facts of this case, as follows:
+Petitioner is a domestic corporation whose primary purpose is "[t]o establish, maintain, conduct and operate a prepaid group practice health care delivery system or a health maintenance organization to take care of the sick and disabled persons enrolled in the health care plan and to provide for the administrative, legal, and financial responsibilities of the organization." Individuals enrolled in its health care programs pay an annual membership fee and are entitled to various preventive, diagnostic and curative medical services provided by its duly licensed physicians, specialists and other professional technical staff participating in the group practice health delivery system at a hospital or clinic owned, operated or accredited by it.
+xxx  xxx  xxx
+On January 27, 2000, respondent Commissioner of Internal Revenue [CIR] sent petitioner a formal demand letter and the corresponding assessment notices demanding the payment of deficiency taxes, including surcharges and interest, for the taxable years 1996 and 1997 in the total amount of P224,702,641.18. xxxx
+The deficiency [documentary stamp tax (DST)] assessment was imposed on petitioner's health care agreement with the members of its health care program pursuant to Section 185 of the 1997 Tax Code xxxx
+xxx  xxx  xxx
+Petitioner protested the assessment in a letter dated February 23, 2000. As respondent did not act on the protest, petitioner filed a petition for review in the Court of Tax Appeals (CTA) seeking the cancellation of the deficiency VAT and DST assessments.
+On April 5, 2002, the CTA rendered a decision, the dispositive portion of which read:
+WHEREFORE, in view of the foregoing, the instant Petition for Review is PARTIALLY GRANTED.  Petitioner is hereby ORDERED to PAY the deficiency VAT amounting to P22,054,831.75 inclusive of 25% surcharge plus 20% interest from January 20, 1997 until fully paid for the 1996 VAT deficiency and P31,094,163.87 inclusive of 25% surcharge plus 20% interest from January 20, 1998 until fully paid for the 1997 VAT deficiency.  Accordingly, VAT Ruling No. [231]-88 is declared void and without force and effect. The 1996 and 1997 deficiency DST assessment against petitioner is hereby CANCELLED AND SET ASIDE.  Respondent is ORDERED to DESIST from collecting the said DST deficiency tax.
+SO ORDERED.
+Respondent appealed the CTA decision to the [Court of Appeals (CA)] insofar as it cancelled the DST assessment. He claimed that petitioner's health care agreement was a contract of insurance subject to DST under Section 185 of the 1997 Tax Code.
+On August 16, 2004, the CA rendered its decision.  It held that petitioner's health care agreement was in the nature of a non-life insurance contract subject to DST.
+WHEREFORE, the petition for review is GRANTED. The Decision of the Court of Tax Appeals, insofar as it cancelled and set aside the 1996 and 1997 deficiency documentary stamp tax assessment and ordered petitioner to desist from collecting the same is REVERSED and SET ASIDE.
+Respondent is ordered to pay the amounts of P55,746,352.19 and P68,450,258.73 as deficiency Documentary Stamp Tax for 1996 and 1997, respectively, plus 25% surcharge for late payment and 20% interest per annum from January 27, 2000, pursuant to Sections 248 and 249 of the Tax Code, until the same shall have been fully paid.
+SO ORDERED.
+Petitioner moved for reconsideration but the CA denied it. Hence, petitioner filed this case.
+xxx  xxx  xxx
+In a decision dated June 12, 2008, the Court denied the petition and affirmed the CA's decision.  We held that petitioner's health care agreement during the pertinent period was in the nature of non-life insurance which is a contract of indemnity, citing 
+Blue Cross Healthcare, Inc. v. Olivares
+[3]
+ and 
+Philamcare Health Systems, Inc. v. CA
+.
+[4]
+ We also ruled that petitioner's contention that it is a health maintenance organization (HMO) and not an insurance company is irrelevant because contracts between companies like petitioner and the beneficiaries under their plans are treated as insurance contracts.  Moreover, DST is not a tax on the business transacted but an excise on the privilege, opportunity or facility offered at exchanges for the transaction of the business.
+Unable to accept our verdict, petitioner filed the present motion for reconsideration and supplemental motion for reconsideration, asserting the following arguments:
+ 
+ 
+(a)
+ 
+ 
+The DST under Section 185 of the National Internal Revenue of 1997 is imposed only on a company engaged in the business of fidelity bonds and other insurance policies. Petitioner, as an HMO, is a service provider, not an insurance company.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+The Court, in dismissing the appeal in 
+CIR v. Philippine National Bank
+, affirmed in effect the CA's disposition that health care services are not in the nature of an insurance business.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c)
+ 
+ 
+Section 185 should be strictly construed.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(d)
+ 
+ 
+Legislative intent to exclude health care agreements from items subject to DST is clear, especially in the light of the amendments made in the DST law in 2002.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(e)
+ 
+ 
+Assuming 
+arguendo 
+that petitioner's agreements are contracts of indemnity, they are not those contemplated under Section 185.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(f) 
+ 
+Assuming 
+arguendo 
+that petitioner's agreements are akin to health insurance, health insurance is not covered by Section 185.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(g)
+ 
+ 
+The agreements do not fall under the phrase "other branch of insurance" mentioned in Section 185.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(h)
+ 
+ 
+The June 12, 2008 decision should only apply prospectively.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i)
+ 
+ 
+Petitioner availed of the tax amnesty benefits under RA
+[5]
+ 9480 for the taxable year 2005 and all prior years. Therefore, the questioned assessments on the DST are now rendered moot and academic.
+[6]
+ 
+ 
+Oral arguments were held in Baguio City on April 22, 2009.  The parties submitted their memoranda on June 8, 2009.
+In its motion for reconsideration, petitioner reveals for the first time that it availed of a tax amnesty under RA 9480
+[7]
+ (also known as the "Tax Amnesty Act of 2007") by fully paying the amount of P5,127,149.08 representing 5% of its net worth as of the year ending December 31, 2005.
+[8]
+We find merit in petitioner's motion for reconsideration.
+Petitioner was formally registered and incorporated with the Securities and Exchange Commission on June 30, 1987.
+[9]
+  It is engaged in the dispensation of the following medical services to individuals who enter into health care agreements with it:
+Preventive
+ medical services such as periodic monitoring of health problems, family planning counseling, consultation and advices on diet, exercise and other healthy habits, and immunization;
+Diagnostic
+ medical services such as routine physical examinations, x-rays, urinalysis, fecalysis, complete blood count, and the like and
+Curative
+ medical services which pertain to the performing of other remedial and therapeutic processes in the event of an injury or sickness on the part of the enrolled member.
+[10]
+Individuals enrolled in its health care program pay an annual membership fee. Membership is on a year-to-year basis. The medical services are dispensed to enrolled members in a hospital or clinic owned, operated or accredited by petitioner, through physicians, medical and dental practitioners under contract with it. It negotiates with such health care practitioners regarding payment schemes, financing and other procedures for the delivery of health services.  Except in cases of emergency, the professional services are to be provided only by petitioner's physicians, 
+i.e
+. those directly employed by it
+[11]
+ or whose services are contracted by it.
+[12]
+ Petitioner also provides hospital services such as room and board accommodation, laboratory services, operating rooms, x-ray facilities and general nursing care.
+[13]
+ If and when a member avails of the benefits under the agreement, petitioner pays the participating physicians and other health care providers for the services rendered, at pre-agreed rates.
+[14]
+To avail of petitioner's health care programs, the individual members are required to sign and execute a standard health care agreement embodying the terms and conditions for the provision of the health care services.  The same agreement contains the various health care services that can be engaged by the enrolled member, 
+i.e.
+, preventive, diagnostic and curative medical services.  Except for the curative aspect of the medical service offered, the enrolled member may actually make use of the health care services being offered by petitioner at any time.
+HEALTH MAINTENANCE ORGANIZATIONS
+ARE NOT ENGAGED IN THE INSURANCE BUSINESS 
+We said in our June 12, 2008 decision that it is irrelevant that petitioner is an HMO and not an insurer because its agreements are treated as insurance contracts and the DST is not a tax on the business but an excise on the privilege, opportunity or facility used in the transaction of the business.
+[15]
+Petitioner, however, submits that it is of critical importance to characterize the business it is engaged in, that is, to determine whether it is an HMO or an insurance company, as this distinction is indispensable in turn to the issue of whether or not it is liable for DST on its health care agreements.
+[16]
+A second hard look at the relevant law and jurisprudence convinces the Court that the arguments of petitioner are meritorious.
+Section 185 of the National Internal Revenue Code of 1997 (NIRC of 1997) provides:
+Section 185. 
+Stamp tax on fidelity bonds and other insurance policies
+. - 
+On all policies of insurance
+ or bonds or obligations 
+of the nature of indemnity for loss, damage, or liability made or renewed by any person, association or company or corporation transacting the business of
+ accident, fidelity, employer's liability, plate, glass, steam boiler, burglar, elevator, automatic sprinkler, 
+or other branch of insurance (except life, marine, inland, and fire insurance)
+, and all bonds, undertakings, or recognizances, conditioned for the performance of the duties of any office or position, for the doing or not doing of anything therein specified, and on all obligations guaranteeing the validity or legality of any bond or other obligations issued by any province, city, municipality, or other public body or organization, and on all obligations guaranteeing the title to any real estate, or guaranteeing any mercantile credits, which may be made or renewed by any such person, company or corporation, there shall be collected a documentary stamp tax of fifty centavos (P0.50) on each four pesos  (P4.00), or fractional part thereof, of the premium charged. (Emphasis supplied)
+It is a cardinal rule in statutory construction that no word, clause, sentence, provision or part of a statute shall be considered surplusage or superfluous, meaningless, void and insignificant.  To this end, a construction which renders every word operative is preferred over that which makes some words idle and nugatory.
+[17]
+  This principle is expressed in the maxim 
+Ut magis valeat quam pereat
+, that is, we choose the interpretation which gives effect to the whole of the statute - its every word.
+[18]
+From the language of Section 185, it is evident that 
+two requisites
+ must concur before the DST can apply, namely: (1) the document must be a 
+policy of insurance or an obligation in the nature of indemnity
+ 
+and
+ (2) 
+the maker should be transacting the business of
+ accident, fidelity, employer's liability, plate, glass, steam boiler, burglar, elevator, automatic sprinkler, or other branch of 
+insurance 
+(except life, marine, inland, and fire insurance).
+Petitioner is admittedly an HMO.  Under RA 7875 (or "The National Health Insurance Act of 1995"), an HMO is "an entity that provides, offers or arranges for coverage of designated health services needed by plan members for a fixed prepaid premium."
+[19]
+ The payments do not vary with the extent, frequency or type of services provided.
+The question is: was petitioner, as an HMO, engaged in the business of insurance during the pertinent taxable years?  We rule that it was not.
+Section 2 (2) of PD
+[20]
+ 1460 (otherwise known as the Insurance Code) enumerates what constitutes "doing an insurance business" or "transacting an insurance business:"
+ 
+ 
+a)
+ 
+ 
+making or proposing to make, as insurer, any insurance contract;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b) 
+ 
+making or proposing to make, as surety, any contract of suretyship as a vocation and not as merely incidental to any other legitimate business or activity of the surety;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c)
+ 
+ 
+doing any kind of business, including a reinsurance business, specifically recognized as constituting the doing of an insurance business within the meaning of this Code;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d)
+ 
+ 
+doing or proposing to do any business in substance equivalent to any of the foregoing in a manner designed to evade the provisions of this Code.
+ 
+ 
+In the application of the provisions of this Code, the fact that no profit is derived from the making of insurance contracts, agreements or transactions or that no separate or direct consideration is received therefore, shall not be deemed conclusive to show that the making thereof does not constitute the doing or transacting of an insurance business.
+Various courts in the United States, whose jurisprudence has a persuasive effect on our decisions,
+[21]
+ have determined that HMOs are not in the insurance business.  One test that they have applied is whether the assumption of risk and indemnification of loss (which are elements of an insurance business) are the principal object and purpose of the organization or whether they are merely incidental to its business.  If these are the principal objectives, the business is that of insurance.  But if they are merely incidental and service is the principal purpose, then the business is not insurance.
+Applying the "principal object and purpose test,"
+[22]
+ there is significant American case law supporting the argument that a corporation (such as an HMO, whether or not organized for profit), whose main object is to provide the members of a group with health services, is not engaged in the insurance business.
+The rule was enunciated in 
+Jordan v. Group Health Association
+[23]
+ wherein the Court of Appeals of the District of Columbia Circuit held that Group Health Association should not be considered as engaged in insurance activities since it was created primarily for the distribution of health care services rather than the assumption of insurance risk.
+xxx Although Group Health's activities may be considered in one aspect as creating security against loss from illness or accident more truly they constitute the quantity purchase of well-rounded, continuous medical service by its members. xxx 
+The functions of such an organization are not identical with those of insurance or indemnity companies
+. The latter are concerned primarily, if not exclusively, with risk and the consequences of its descent, not with service, or its extension in kind, quantity or distribution; with the unusual occurrence, not the daily routine of living. Hazard is predominant. 
+On the other hand, the cooperative is concerned principally with getting service rendered to its members and doing so at lower prices made possible by quantity purchasing and economies in operation. Its primary purpose is to reduce the cost rather than the risk of medical care; to broaden the service to the individual in kind and quantity; to enlarge the number receiving it; to regularize it as an everyday incident of living, like purchasing food and clothing or oil and gas, rather than merely protecting against the financial loss caused by extraordinary and unusual occurrences, such as death, disaster at sea, fire and tornado.
+ It is, in this instance, to take care of colds, ordinary aches and pains, minor ills and all the temporary bodily discomforts as well as the more serious and unusual illness. 
+To summarize, the distinctive features of the cooperative are the rendering of service, its extension, the bringing of physician and patient together, the preventive features, the regularization of service as well as payment, the substantial reduction in cost by quantity purchasing in short, getting the medical job done and paid for; not, except incidentally to these features, the indemnification for cost after the services is rendered. Except the last, these are not distinctive or generally characteristic of the insurance arrangement.
+ There is, therefore, a substantial difference between contracting in this way for the rendering of service, even on the contingency that it be needed, and contracting merely to stand its cost when or after it is rendered.
+That an incidental element of risk distribution or assumption may be present should not outweigh all other factors. If attention is focused only on that feature, the line between insurance or indemnity and other types of legal arrangement and economic function becomes faint, if not extinct. This is especially true when the contract is for the sale of goods or services on contingency.  But obviously it was not the purpose of the insurance statutes to regulate all arrangements for assumption or distribution of risk.  That view would cause them to engulf practically all contracts, particularly conditional sales and contingent service agreements.  
+The fallacy is in looking only at the risk element, to the exclusion of all others present or their subordination to it. The question turns, not on whether risk is involved or assumed, but on whether that or something else to which it is related in the particular plan is its principal object purpose.
+[24]
+  (Emphasis supplied)
+In 
+California Physicians' Service v. Garrison
+,
+[25]
+ the California court felt that, after scrutinizing the plan of operation as a whole of the corporation, it was service rather than indemnity which stood as its principal purpose.
+There is another and more compelling reason for holding that the service is not engaged in the insurance business. 
+Absence or presence of assumption of risk or peril is not the sole test to be applied in determining its status. The question, more broadly, is whether, looking at the plan of operation as a whole, `service' rather than `indemnity' is its principal object and purpose.
+ Certainly the objects and purposes of the corporation organized and maintained by the California physicians have a wide scope in the field of social service. 
+Probably there is no more impelling need than that of adequate medical care on a voluntary, low-cost basis for persons of small income. The medical profession unitedly is endeavoring to meet that need. Unquestionably this is `service' of a high order and not `indemnity.'
+[26]
+ (Emphasis supplied)
+American courts have pointed out that the main difference between an HMO and an insurance company is that HMOs undertake to provide or arrange for the provision of medical services through participating physicians while insurance companies simply undertake to indemnify the insured for medical expenses incurred up to a pre-agreed limit.  
+Somerset
+ 
+Orthopedic Associates, P.A.
+ 
+v. Horizon Blue Cross and Blue Shield of New Jersey
+[27]
+ is clear on this point:
+The basic distinction between medical service corporations and ordinary health and accident insurers is that the former undertake to provide prepaid medical services 
+through participating physicians, 
+thus relieving subscribers of any further financial burden, while the latter only undertake to indemnify an insured for medical expenses up to, but not beyond, the schedule of rates contained in the policy.
+xxx  xxx  xxx
+The primary purpose of a medical service corporation, however, is an undertaking to provide physicians who will render services to subscribers on a prepaid basis. 
+Hence, if there are no physicians participating in the medical service corporation's plan, not only will the subscribers be deprived of the protection which they might reasonably have expected would be provided
+, 
+but the corporation will, in effect, be doing business solely as a health and accident indemnity insurer
+ without having qualified as such and rendering itself subject to the more stringent financial requirements of the General Insurance Laws....
+A participating provider of health care services is one who agrees in writing to render health care services to or for persons covered by a contract issued by health service corporation in return 
+for which the health service corporation agrees to make payment directly to the participating provider
+.
+[28]
+ (Emphasis supplied)
+Consequently, the mere presence of risk would be insufficient to override the primary purpose of the business to provide medical services as needed, with payment made directly to the provider of these services.
+[29]
+ In short, even if petitioner assumes the risk of paying the cost of these services even if significantly more than what the member has prepaid, it nevertheless cannot be considered as being engaged in the insurance business.
+By the same token, any indemnification resulting from the payment for services rendered in case of emergency by non-participating health providers would still be incidental to petitioner's purpose of providing and arranging for health care services and does not transform it into an insurer.  To fulfill its obligations to its members under the agreements, petitioner is required to set up a system and the facilities for the delivery of such medical services. This indubitably shows that indemnification is not its sole object.
+In fact, a substantial portion of petitioner's services covers preventive and diagnostic medical services intended to keep members from developing medical conditions or diseases.
+[30]
+  As an HMO, it is its obligation to maintain the good health of its members.  
+Accordingly, its health care programs are designed to prevent or to minimize the
+ 
+possibility of any assumption of risk on its part.
+ Thus, its undertaking under its agreements is not to indemnify its members against any loss or damage arising from a medical condition but, on the contrary, to provide the health and medical services needed to prevent such loss or damage.
+[31]
+Overall, petitioner appears to provide insurance-type benefits to its members (with respect to its 
+curative
+ medical services), but these are incidental to the principal activity of providing them medical care.  The "insurance-like" aspect of petitioner's business is miniscule compared to its noninsurance activities.  Therefore, since it substantially provides health care services rather than insurance services, it cannot be considered as being in the insurance business.
+It is important to emphasize that, in adopting the "principal purpose test" used in the above-quoted U.S. cases, we are not saying that petitioner's operations are identical in every respect to those of the HMOs or health providers which were parties to those cases.  What we are stating is that, for the purpose of determining what "doing an insurance business" means, we have to scrutinize the operations of the business as a whole and not its mere components.  This is of course only prudent and appropriate, taking into account the burdensome and strict laws, rules and regulations applicable to insurers and other entities engaged in the insurance business.  Moreover, we are also not unmindful that there are other American authorities who have found particular HMOs to be actually engaged in insurance activities.
+[32]
+Lastly, it is significant that petitioner, as an HMO, is not part of the insurance industry.  This is evident from the fact that it is not supervised by the Insurance Commission but by the Department of Health.
+[33]
+ In fact, in a letter dated September 3, 2000, the Insurance Commissioner confirmed that petitioner is not engaged in the insurance business.  This determination of the commissioner must be accorded great weight. It is well-settled that the interpretation of an administrative agency which is tasked to implement a statute is accorded great respect and ordinarily controls the interpretation of laws by the courts.  The reason behind this rule was explained in 
+Nestle Philippines, Inc. v. Court of Appeals
+:
+[34]
+The rationale for this rule relates not only to the emergence of the multifarious needs of a modern or modernizing society and the establishment of diverse administrative agencies for addressing and satisfying those needs; it also relates to the accumulation of experience and growth of specialized capabilities by the administrative agency charged with implementing a particular statute. In 
+Asturias Sugar Central, Inc. vs. Commissioner of Customs
+,
+[35]
+ the Court stressed that executive officials are presumed to have familiarized themselves with all the considerations pertinent to the meaning and purpose of the law, and to have formed an independent, conscientious and competent expert opinion thereon. The courts give much weight to the government agency officials charged with the implementation of the law, their competence, expertness, experience and informed judgment, and the fact that they frequently are the drafters of the law they interpret.
+[36]
+A Health Care Agreement Is Not An 
+Insurance Contract Contemplated
+ Under Section 185 Of The NIRC of
+ 1997 
+Section 185 states that DST is imposed on "all policies of insurance... or obligations of the nature of indemnity for loss, damage, or liability...."  In our decision dated June 12, 2008, we ruled that petitioner's health care agreements are contracts of indemnity and are therefore insurance contracts:
+It is ... incorrect to say that the health care agreement is not based on loss or damage because, under the said agreement, petitioner assumes the liability and indemnifies its member for hospital, medical and related expenses (such as professional fees of physicians). The term "loss or damage" is broad enough to cover the monetary expense or liability a member will incur in case of illness or injury.
+Under the health care agreement, the rendition of hospital, medical and professional services to the member in case of sickness, injury or emergency or his availment of so-called "out-patient services" (including physical examination, x-ray and laboratory tests, medical consultations, vaccine administration and family planning counseling) is the contingent event which gives rise to liability on the part of the member. In case of exposure of the member to liability, he would be entitled to indemnification by petitioner.
+Furthermore, the fact that petitioner must relieve its member from liability by paying for expenses arising from the stipulated contingencies belies its claim that its services are prepaid. The expenses to be incurred by each member cannot be predicted beforehand, if they can be predicted at all. Petitioner assumes the risk of paying for the costs of the services even if they are significantly and substantially more than what the member has "prepaid." Petitioner does not bear the costs alone but distributes or spreads them out among a large group of persons bearing a similar risk, that is, among all the other members of the health care program. This is insurance.
+[37]
+We reconsider.  We shall quote once again the pertinent portion of Section 185:
+Section 185. 
+Stamp tax on fidelity bonds and other insurance policies
+. - 
+On all policies of insurance
+ or bonds 
+or obligations
+ 
+of the nature of indemnity for loss, damage, or liability 
+made or renewed by any person, association or company or corporation transacting the business of accident, fidelity, employer's liability, plate, glass, steam boiler, burglar, elevator, automatic sprinkler, or other branch of insurance (except life, marine, inland, and fire insurance), xxxx (Emphasis supplied)
+In construing this provision, we should be guided by the principle that tax statutes are strictly construed against the taxing authority.
+[38]
+ This is because taxation is a destructive power which interferes with the personal and property rights of the people and takes from them a portion of their property for the support of the government.
+[39]
+ Hence, tax laws may not be extended by implication beyond the clear import of their language, nor their operation enlarged so as to embrace matters not specifically provided.
+[40]
+We are aware that, in 
+Blue Cross 
+and 
+Philamcare
+, the Court pronounced that a health care agreement is in the nature of non-life insurance, which is primarily a contract of indemnity. However, those cases did not involve the interpretation of a tax provision.  Instead, they dealt with the liability of a health service provider to a member under the terms of their health care agreement.  Such contracts, as contracts of adhesion, are liberally interpreted in favor of the member and strictly against the HMO. For this reason, we reconsider our ruling that 
+Blue Cross
+ and 
+Philamcare
+ are applicable here.
+Section 2 (1) of the Insurance Code defines a contract of insurance as an agreement whereby one undertakes for a consideration to indemnify another against loss, damage or liability arising from an unknown or contingent event.  An insurance contract exists where the following elements concur:
+The insured has an insurable interest;
+The insured is subject to a risk of loss by the happening of the designed peril;
+The insurer assumes the risk;
+Such assumption of risk is part of a general scheme to distribute actual losses among a large group of persons bearing a similar risk and
+In consideration of the insurer's promise, the insured pays a premium.
+[41]
+Do the agreements between petitioner and its members possess all these elements? They do not.
+First
+. In our jurisdiction, a commentator of our insurance laws has pointed out that, even if a contract contains all the elements of an insurance contract, if its primary purpose is the rendering of service, it is not a contract of insurance:
+It does not necessarily follow however, that a contract containing all the four elements mentioned above would be an insurance contract. 
+The primary purpose of the parties in making the contract may negate the existence of an insurance contract
+. For example, a law firm which enters into contracts with clients whereby in consideration of periodical payments, it promises to represent such clients in all suits for or against them, is not engaged in the insurance business. Its contracts are simply for the purpose of rendering personal services. On the other hand, a contract by which a corporation, in consideration of a stipulated amount, agrees at its own expense to defend a physician against all suits for damages for malpractice is one of insurance, and the corporation will be deemed as engaged in the business of insurance. Unlike the lawyer's retainer contract, the essential purpose of such a contract is not to render personal services, but to indemnify against loss and damage resulting from the defense of actions for malpractice.
+[42]
+ (Emphasis supplied)
+Second
+.  Not all the necessary elements of a contract of insurance are present in petitioner's agreements.  To begin with, there is no loss, damage or liability on the part of the member that should be indemnified by petitioner as an HMO.  Under the agreement, the member pays petitioner a predetermined consideration in exchange for the hospital, medical and professional services rendered by the petitioner's physician or affiliated physician to him.  In case of availment by a member of the benefits under the agreement, petitioner does not reimburse or indemnify the member as the latter does not pay any third party.  Instead, it is the petitioner who pays the participating physicians and other health care providers for the services rendered at pre-agreed rates. The member does not make any such payment.
+In other words, there is nothing in petitioner's agreements that gives rise to a monetary liability on the part of the member to any third party-provider of medical services which might in turn necessitate indemnification from petitioner. The terms "indemnify" or "indemnity" presuppose that a liability or claim has already been incurred.  There is no indemnity precisely because the member merely avails of medical services to be paid or already paid in advance at a pre-agreed price under the agreements.
+Third
+.  According to the agreement, a member can take advantage of the bulk of the benefits anytime, 
+e.g. 
+laboratory services, x-ray, routine annual physical examination and consultations, vaccine administration as well as family planning counseling, even in the absence of any peril, loss or damage on his or her part.
+Fourth
+.  In case of emergency, petitioner is obliged to reimburse the member who receives care from a non-participating physician or hospital.  However, this is only a very minor part of the list of services available. The assumption of the expense by petitioner is not confined to the happening of a contingency but includes incidents even in the absence of illness or injury.
+In 
+Michigan Podiatric Medical Association v. National Foot Care Program, Inc.
+,
+[43]
+ although the health care contracts called for the defendant to partially reimburse a subscriber for treatment received from a non-designated doctor, this did not make defendant an insurer. Citing 
+Jordan
+, the Court determined that "the primary activity of the defendant (was) the provision of podiatric services to subscribers in consideration of prepayment for such services."
+[44]
+  Since indemnity of the insured was not the focal point of the agreement but the extension of medical services to the member at an affordable cost, it did not partake of the nature of a contract of insurance.
+Fifth
+. Although risk is a primary element of an insurance contract, it is not necessarily true that risk alone is sufficient to establish it.  Almost anyone who undertakes a contractual obligation always bears a certain degree of financial risk.  Consequently, there is a need to distinguish prepaid service contracts (like those of petitioner) from the usual insurance contracts.
+Indeed, petitioner, as an HMO, undertakes a business risk when it offers to provide health services: the risk that it might fail to earn a reasonable return on its investment.  But it is not the risk of the type peculiar only to insurance companies.  Insurance risk, also known as actuarial risk, is the risk that the cost of insurance claims might be higher than the premiums paid.  The amount of premium is calculated on the basis of assumptions made relative to the insured.
+[45]
+However, assuming that petitioner's commitment to provide medical services to its members can be construed as an acceptance of the risk that it will shell out more than the prepaid fees, it still will not qualify as an insurance contract because petitioner's objective is to provide medical services at reduced cost, not to distribute risk like an insurer.
+In sum, an examination of petitioner's agreements with its members leads us to conclude that it is not an insurance contract within the context of our Insurance Code.
+There Was No Legislative Intent To 
+Impose DST On Health Care 
+Agreements Of HMOs 
+Furthermore, militating in convincing fashion against the imposition of DST on petitioner's health care agreements under Section 185 of the NIRC of 1997 is the provision's legislative history.  The text of Section 185 came into U.S. law as early as 1904 when HMOs and health care agreements were not even in existence in this jurisdiction. It was imposed under Section 116, Article XI of Act No. 1189 (otherwise known as the "Internal Revenue Law of 1904")
+[46]
+ enacted on July 2, 1904 and became effective on August 1, 1904.  Except for the rate of tax, Section 185 of the NIRC of 1997 is a verbatim reproduction of the pertinent portion of Section 116, to wit:
+ARTICLE XI
+Stamp Taxes
+ on Specified Objects
+Section 116. There shall be levied, collected, and paid for and in respect to the several bonds, debentures, or certificates of stock and indebtedness, and other documents, instruments, matters, and things mentioned and described in this section, or for or in respect to the vellum, parchment, or paper upon which such instrument, matters, or things or any of them shall be written or printed by any person or persons who shall make, sign, or issue the same, on and after January first, nineteen hundred and five, the several taxes following:
+xxx  xxx  xxx
+Third xxx 
+(c) on all policies of insurance or bond or obligation of the nature of indemnity for loss, damage, or liability made or renewed by any person, association, company, or corporation transacting the business of accident, fidelity, employer's liability, plate glass, steam boiler, burglar, elevator, automatic sprinkle, or other branch of insurance (except life, marine, inland, and fire insurance) 
+xxxx (Emphasis supplied)
+On February 27, 1914, Act No. 2339 (the Internal Revenue Law of 1914) was enacted revising and consolidating the laws relating to internal revenue. The aforecited pertinent portion of Section 116, Article XI of Act No. 1189 was completely reproduced as Section 30 (l), Article III of Act No. 2339. The very detailed and exclusive enumeration of items subject to DST was thus retained.
+On December 31, 1916, Section 30 (l), Article III of Act No. 2339 was again reproduced as Section 1604 (l), Article IV of Act No. 2657 (Administrative Code). Upon its amendment on March 10, 1917, the pertinent DST provision became Section 1449 (l) of Act No. 2711, otherwise known as the Administrative Code of 1917.
+Section 1449 (1) eventually became Sec. 222 of Commonwealth Act No. 466 (the NIRC of 1939), which codified all the internal revenue laws of the Philippines. In an amendment introduced by RA 40 on October 1, 1946, the DST rate was increased but the provision remained substantially the same.
+Thereafter, on June 3, 1977, the same provision with the same DST rate was reproduced in PD 1158 (NIRC of 1977) as Section 234. Under PDs 1457 and 1959, enacted on June 11, 1978 and October 10, 1984 respectively, the DST rate was again increased.
+Effective January 1, 1986, pursuant to Section 45 of PD 1994, Section 234 of the NIRC of 1977 was renumbered as Section 198. And under Section 23 of EO
+[47]
+ 273 dated July 25, 1987, it was again renumbered and became Section 185.
+On December 23, 1993, under RA 7660, Section 185 was amended but, again, only with respect to the rate of tax.
+Notwithstanding the comprehensive amendment of the NIRC of 1977 by RA 8424 (or the NIRC of 1997), the subject legal provision was retained as the present Section 185.  In 2004, amendments to the DST provisions were introduced by RA 9243
+[48]
+ but Section 185 was untouched.
+On the other hand, the concept of an HMO was introduced in the Philippines with the formation of Bancom Health Care Corporation in 1974. The same pioneer HMO was later reorganized and renamed Integrated Health Care Services, Inc. (or Intercare). However, there are those who claim that Health Maintenance, Inc. is the HMO industry pioneer, having set foot in the Philippines as early as 1965 and having been formally incorporated in 1991. Afterwards, HMOs proliferated quickly and currently, there are 36 registered HMOs with a total enrollment of more than 2 million.
+[49]
+We can clearly see from these two histories (of the DST on the one hand and HMOs on the other) that when the law imposing the DST was first passed, HMOs were yet unknown in the Philippines.  However, when the various amendments to the DST law were enacted, they were already in existence in the Philippines and the term had in fact already been defined by RA 7875.  If it had been the intent of the legislature to impose DST on health care agreements, it could have done so in clear and categorical terms.  It had many opportunities to do so.  But it did not.  The fact that the NIRC contained no specific provision on the DST liability of health care agreements of HMOs at a time they were already known as such, belies any legislative intent to impose it on them.  
+As a matter of fact, petitioner was assessed its DST liability only on January 27, 2000, after more than a decade in the business as an HMO.
+[50]
+Considering that Section 185 did not change since 1904 (except for the rate of tax), it would be safe to say that health care agreements were never, at any time, recognized as insurance contracts or deemed engaged in the business of insurance within the context of the provision.
+THE POWER TO TAX IS NOT 
+THE POWER TO DESTROY
+As a general rule, the power to tax is an incident of sovereignty and is unlimited in its range, acknowledging in its very nature no limits, so that security against its abuse is to be found only in the responsibility of the legislature which imposes the tax on the constituency who is to pay it.
+[51]
+  So potent indeed is the power that it was once opined that "the power to tax involves the power to destroy."
+[52]
+Petitioner claims that the assessed DST to date which amounts to P376 million
+[53]
+ is way beyond its net worth of P259 million.
+[54]
+ Respondent never disputed these assertions. Given the realities on the ground, imposing the DST on petitioner would be highly oppressive.  It is not the purpose of the government to throttle private business. On the contrary, the government ought to encourage private enterprise.
+[55]
+ Petitioner, just like any concern organized for a lawful economic activity, has a right to maintain a legitimate business.
+[56]
+  As aptly held in 
+Roxas, et al. v. CTA, et al.
+:
+[57]
+The power of taxation is sometimes called also the power to destroy. Therefore it should be exercised with caution to minimize injury to the proprietary rights of a taxpayer. It must be exercised fairly, equally and uniformly, lest the tax collector kill the "hen that lays the golden egg."
+[58]
+Legitimate enterprises enjoy the constitutional protection not to be taxed out of existence.  Incurring losses because of a tax imposition may be an acceptable consequence but killing the business of an entity is another matter and should not be allowed.  It is counter-productive and ultimately subversive of the nation's thrust towards a better economy which will ultimately benefit the majority of our people.
+[59]
+PETITIONER'S TAX LIABILITY
+WAS EXTINGUISHED UNDER
+THE PROVISIONS OF RA 9840
+Petitioner asserts that, regardless of the arguments, the DST assessment for taxable years 1996 and 1997 became moot and academic
+[60]
+ when it availed of the tax amnesty under RA 9480 on December 10, 2007. It paid P5,127,149.08 representing 5% of its net worth as of the year ended December 31, 2005 and complied with all requirements of the tax amnesty.  Under Section 6(a) of RA 9480, it is entitled to immunity from payment of taxes as well as additions thereto, and the appurtenant civil, criminal or administrative penalties under the 1997 NIRC, as amended, arising from the failure to pay any and all internal revenue taxes for taxable year 2005 and prior years.
+[61]
+Far from disagreeing with petitioner, respondent manifested in its memorandum:
+Section 6 of [RA 9840] provides that availment of tax amnesty entitles a taxpayer to immunity from payment of the tax involved, including the civil, criminal, or administrative penalties provided under the 1997 [NIRC], for tax liabilities arising in 2005 and the preceding years.
+In view of petitioner's availment of the benefits of [RA 9840], and without conceding the merits of this case as discussed above, 
+respondent concedes that such tax amnesty extinguishes the tax liabilities of petitioner
+.  This admission, however, is not meant to preclude a revocation of the amnesty granted in case it is found to have been granted under circumstances amounting to tax fraud under Section 10 of said amnesty law.
+[62]
+  (Emphasis supplied)
+Furthermore, we held in a recent case that DST is one of the taxes covered by the tax amnesty program under RA 9480.
+[63]
+ There is no other conclusion to draw than that petitioner's liability for DST for the taxable years 1996 and 1997 was totally extinguished by its availment of the tax amnesty under RA 9480.
+Is The Court Bound By A Minute
+ Resolution In Another Case? 
+Petitioner raises another interesting issue in its motion for reconsideration: whether this Court is bound by the ruling of the CA
+[64]
+ in 
+CIR v. Philippine National Bank
+[65]
+ that a health care agreement of Philamcare Health Systems is not an insurance contract for purposes of the DST.
+In support of its argument, petitioner cites the August 29, 2001 minute resolution of this Court dismissing the appeal in 
+Philippine National Bank 
+(G.R. No. 148680).
+[66]
+ Petitioner argues that the dismissal of G.R. No. 148680 by minute resolution was a judgment on the merits; hence, the Court should apply the CA ruling there that a health care agreement is not an insurance contract.
+It is true that, although contained in a minute resolution, our dismissal of the petition was a disposition of the merits of the case. When we dismissed the petition, we effectively affirmed the CA ruling being questioned. As a result, our ruling in that case has already become final.
+[67]
+ When a minute resolution denies or dismisses a petition for failure to comply with formal and substantive requirements, the challenged decision, together with its findings of fact and legal conclusions, are deemed sustained.
+[68]
+ But what is its effect on other cases?
+With respect to the same subject matter and the same issues concerning the same parties, it constitutes 
+res judicata
+.
+[69]
+ However, if other parties or another subject matter (even with the same parties and issues) is involved, the minute resolution is not binding precedent. Thus, in 
+CIR v. Baier-Nickel
+,
+[70]
+ the Court noted that a previous case, 
+C
+IR v. Baier-Nickel
+[71]
+ 
+involving the same parties and the same issues
+, was previously disposed of by the Court thru a minute resolution dated February 17, 2003 sustaining the ruling of the CA. Nonetheless, the Court ruled that 
+the previous case "ha(d) no bearing" 
+on the latter case
+ 
+because
+ 
+the two cases involved different subject matters as they were concerned with the taxable income of different taxable years.
+[72]
+Besides, there are substantial, not simply formal, distinctions between a minute resolution and a decision. The constitutional requirement under the first paragraph of Section 14, Article VIII of the Constitution that the facts and the law on which the judgment is based must be expressed clearly and distinctly applies only to decisions, not to minute resolutions. A minute resolution is signed only by the clerk of court by authority of the justices, unlike a decision. It does not require the certification of the Chief Justice.  Moreover, unlike decisions, minute resolutions are not published in the Philippine Reports. Finally, the proviso of Section 4(3) of Article VIII speaks of a decision.
+[73]
+ Indeed, as a rule, this Court lays down doctrines or principles of law which constitute binding precedent in a decision duly signed by the members of the Court and certified by the Chief Justice.
+Accordingly, since petitioner was not a party in G.R. No. 148680 and since petitioner's liability for DST on its health care agreement was not the subject matter of G.R. No. 148680, petitioner cannot successfully invoke the minute resolution in that case (which is not even binding precedent) in its favor. Nonetheless, in view of the reasons already discussed, this does not detract in any way from the fact that petitioner's health care agreements are not subject to DST.
+A Final Note 
+Taking into account that health care agreements are clearly not within the ambit of Section 185 of the NIRC and there was never any legislative intent to impose the same on HMOs like petitioner, the same should not be arbitrarily and unjustly included in its coverage.
+It is a matter of common knowledge that there is a great social need for adequate medical services at a cost which the average wage earner can afford. HMOs arrange, organize and manage health care treatment in the furtherance of the goal of providing a more efficient and inexpensive health care system made possible by quantity purchasing of services and economies of scale.  They offer advantages over the pay-for-service system (wherein individuals are charged a fee each time they receive medical services), including the ability to control costs.  They protect their members from exposure to the high cost of hospitalization and other medical expenses brought about by a fluctuating economy. Accordingly, they play an important role in society as partners of the State in achieving its constitutional mandate of providing its citizens with affordable health services.
+The rate of DST under Section 185 is equivalent to 12.5% of the premium charged.
+[74]
+ Its imposition will elevate the cost of health care services. This will in turn necessitate an increase in the membership fees, resulting in either placing health services beyond the reach of the ordinary wage earner or driving the industry to the ground.  At the end of the day,  neither side wins, considering the indispensability of the services offered by HMOs.
+WHEREFORE
+, the motion for reconsideration is 
+GRANTED
+.
+ 
+The August 16, 2004 decision of the Court of Appeals in CA-G.R. SP No.
+ 
+70479
+ 
+is 
+REVERSED 
+and
+ SET ASIDE
+. The 1996 and 1997 deficiency DST assessment against petitioner is hereby 
+CANCELLED 
+and
+ SET ASIDE.  
+Respondent is ordered to desist from collecting the said tax.
+No costs.
+SO ORDERED
+.
+Puno, C.J., (Chairperson), Chico-Nazario,
+*
+ Leonardo-De Castro
+ and 
+Bersamin, JJ.,
+ 
+**
+concur.
+*
+ Per Special Order No. 698 dated September 4, 2009.
+**
+ Additional member per raffle list of 13 April 2009.
+[1]
+ 1987 Constitution.
+[2]
+ Now known as Maxicare Healthcare Corp.  
+Rollo
+, p. 293.
+[3]
+  G.R. No. 169737, 12 February 2008, 544 SCRA 580.
+[4]
+ 429 Phil. 82 (2002).
+[5]
+ Republic Act.
+[6]
+ 
+Rollo
+, pp. 257-258.
+[7]
+ Entitled "An Act Enhancing Revenue Administration and Collection by Granting an Amnesty on All Unpaid Internal Revenue Taxes Imposed by the National Government for Taxable Year 2005 and Prior Years."
+[8]
+ 
+Rollo
+, p. 288.
+[9]
+ Id., p. 591.
+[10]
+ Id., pp. 592, 613.
+[11]
+ This is called the Staff Model, 
+i.e.
+, the HMO employs salaried health care professionals to provide health care services.  (Id., pp. 268, 271.)
+[12]
+ This is referred to as the Group Practice Model wherein the HMO contracts with a private practice group to provide health services to its members. (Id., pp. 268, 271, 592.)  Thus, it is both a service provider and a service contractor.  It is a service provider when it directly provides the health care services through its salaried employees.  It is a service contractor when it contracts with third parties for the delivery of health services to its members.
+[13]
+ Id., p. 102.
+[14]
+ Id., p. 280.
+[15]
+ Decision, p. 422.
+[16]
+ 
+Rollo
+, p. 265.
+[17]
+ 
+Allied Banking Corporation v. Court of Appeals
+, G.R. No. 124290, 16 January 1998, 284 SCRA 327, 367, citing 
+Shimonek v. Tillanan
+, 1 P. 2d., 154.
+[18]
+ 
+Inding v. Sandiganbayan
+, G.R. No. 143047, 14 July 2004, 434 SCRA 388, 403.
+[19]
+ Section 4 (o) (3) thereof.  Under this law, it is one of the classes of a "health care provider."
+[20]
+ Presidential Decree.
+[21]
+ Our Insurance Code was based on California and New York laws.  When a statute has been adopted from some other state or country and said statute has previously been construed by the courts of such state or country, the statute is deemed to have been adopted with the construction given.  (
+Prudential Guarantee and Assurance Inc. v. Trans-Asia Shipping Lines, Inc.
+, G.R. No. 151890, 20 June 2006, 491 SCRA 411, 439; 
+Constantino v. Asia Life Inc. Co.
+, 87 Phil. 248, 251 [1950]; 
+Gercio v. Sun Life Assurance Co. of Canada
+, 48 Phil. 53, 59 [1925];
+ Cerezo v. Atlantic, Gulf & Pacific Co.
+, 33 Phil. 425, 428-429 [1916]).
+[22]
+ H. S. de Leon, The Insurance Code of the Philippines Annotated, p. 56 (2002 ed.).
+[23]
+ 107 F.2d 239 (D.C. App. 1939).  This is a seminal case which had been reiterated in succeeding cases, 
+e.g.
+ 
+Smith v. Reserve Nat'l Ins. Co.
+, 370 So. 2d 186 ( La. Ct. App. 3d Cir. 1979);  
+Transportation Guarantee Co. v. Jellins
+, 29 Cal.2d 242, 174 P.2d 625 (1946); 
+State v. Anderson
+, 195 Kan. 649, 408 P.2d 864 (1966); 
+Commissioner of Banking and Insurance v. Community Health Service
+, 129 N.J.L. 427, 30 A.2d 44 (1943).
+[24]
+ Id., pp. 247-248.
+[25]
+ 28 Cal. 2d 790 (1946).
+[26]
+ Id., p. 809.
+[27]
+ 345 N.J. Super. 410, 785 A.2d 457 (2001);< http://lawlibrary.rutgers.edu/courts/appellate/a1562-00.opn.html> (visited July 14, 2009).
+[28]
+ Id., citing 
+Group Health Ins. of N.J. v. Howell
+, 40 N.J.436, 451 (1963).
+[29]
+ L.R. Russ and S.F. Segalla, 1 Couch on Ins. Â§ 1:46 (3
+rd
+ ed., December 2008).
+[30]
+ This involves the determination of a medical condition (such as a disease) by physical examination or by study of its symptoms (
+Rollo
+, p. 613, citing Black's Law Dictionary, p. 484 [8
+th
+ ed.]).
+[31]
+ 
+Rollo
+, pp. 612-613.
+[32]
+ One such decision of the United States Supreme Court is 
+Rush Prudential HMO, Inc. v. Moran
+ (536 U.S. 355 [2002]).  In that case, the Court recognized that HMOs provide both insurance and health care services and that Congress has understood the insurance aspects of HMOs since the passage of the HMO Act of 1973.  This case is not applicable here.  Firstly, this was not a tax case.  Secondly, the Court stated that Congress expressly understood and viewed HMOs as insurers. It is not the same here in the Philippines.  As will be discussed below, there is no showing that the Philippine Congress had demonstrated an awareness of HMOs as insurers.
+[33]
+ See Executive Order No. 119 (1987) and Administrative Order (AO) No. 34 (1994), as amended by AO No. 36 (1996).
+[34]
+ G.R. No. 86738, 13 November 1991, 203 SCRA 504.
+[35]
+ 140 Phil. 20 (1969).
+[36]
+ Supra note 34, pp. 510-511.
+[37]
+ Decision, pp. 420-421.
+[38]
+ 
+Commissioner of Internal Revenue v. Solidbank Corporation
+, G.R. No. 148191, 25 November 2003, 416 SCRA 436, citing 
+Miller v. Illinois Cent.
+ 
+R Co.
+, Ill. So. 559, 28 February 1927.
+[39]
+ 
+Paseo Realty & Development Corporation v. Court of Appeals
+, G.R. No. 119286, 13 October 2004, 440 SCRA 235, 251.
+[40]
+ 
+Collector of Int. Rev. v. La TondeÃ±a, Inc. and CTA
+, 115 Phil. 841, 846 (1963).
+[41]
+ 
+Gulf Resorts, Inc. v. Philippine Charter Insurance Corporation
+, G.R. No. 156167, 16 May 2005, 458 SCRA 550, 566, citations omitted.
+[42]
+ M. C. L. Campos, Insurance, pp. 17-18 (1983), citing 
+Physicians' Defense Co. v. O'Brien
+, 100 Minn. 490, 111 N.W. 397 (1907).
+[43]
+ 438 N.W.2d 350. (Mich. Ct. App. 1989).
+[44]
+ Id., p. 354.
+[45]
+ 
+Rollo
+, p. 702, citing Phillip, Booth 
+et al
+., Modern Actuarial Theory and Practice (2005).
+[46]
+ Entitled "An Act to Provide for the Support of the Insular, Provincial and Municipal Governments, by Internal Taxation."
+[47]
+ Executive Order No.
+[48]
+ An Act Rationalizing the Provisions of the DST of the NIRC of 1997, as amended, and for other purposes.
+[49]
+ 
+Rollo
+, pp. 589, 591, citing 
+; 
+;
+ (visited July 15, 2009).
+[50]
+ Id., p. 592.
+[51]
+ 
+MCIAA v. Marcos
+, 330 Phil. 392, 404 (1996).
+[52]
+ United States Chief Justice Marshall in 
+McCulloch v. Maryland
+, 17 U.S. 316, 4 Wheat, 316, 4 L ed. 579, 607 (1819).
+[53]
+ Inclusive of penalties.
+[54]
+ 
+Rollo
+, p. 589.
+[55]
+ 
+Manila Railroad Company v. A. L. Ammen Transportation Co., Inc.
+, 48 Phil. 900, 907 (1926).
+[56]
+ Constitution, Section 3, Article XIII on Social Justice and Human Rights reads as follows:
+Section 3.  xxx
+The State shall regulate the relations between workers and employers, recognizing the right of labor to its just share in the fruits of production and the 
+right of enterprises to reasonable return on investments, and to expansion and growth
+. (Emphasis supplied)
+[57]
+ 131 Phil. 773 (1968).
+[58]
+ Id., pp. 780-781.
+[59]
+ 
+Manatad v. Philippine Telegraph and Telephone Corporation
+, G.R. No. 172363, 7 March 2008, 548 SCRA 64, 80.
+[60]
+ 
+Rollo
+, p. 661.
+[61]
+ Id., pp. 260-261.
+[62]
+ Id., p. 742.
+[63]
+ 
+Philippine Banking Corporation v. CIR
+, G.R. No. 170574, 30 January 2009.
+[64]
+ CA-G.R. SP No. 53301, 18 June 2001.
+[65]
+ G.R. No. 148680.
+[66]
+ The dismissal was due to the failure of petitioner therein to attach a certified true copy of the assailed decision.
+[67]
+ 
+Del Rosario v. Sandiganbayan
+, G.R. No. 143419, 22 June 2006, 492 SCRA 170, 177.
+[68]
+ 
+Complaint of Mr. Aurelio Indencia Arrienda Against SC Justices Puno, Kapunan, Pardo, Ynares-Santiago, et al.
+, A.M. No. 03-11-30-SC, 9 June 2005, 460 SCRA 1, 14, citing 
+Tan v. Nitafan
+, G.R. No. 76965, 11 March 1994, 231 SCRA 129; 
+Republic v. CA
+, 381 Phil. 558, 565 (2000), citing 
+Bernarte, et al. v. Court of Appeals, et al.
+, 331 Phil. 643, 659 (1996).
+[69]
+ 
+See
+ 
+Bernarte, et al. v. Court of Appeals, et al.
+, id., p. 567.
+[70]
+ G.R. No. 153793, 29 August 2006, 500 SCRA 87.
+[71]
+ Extended Resolution, G.R. No. 156305, 17 February 2003.
+[72]
+ Supra note 70, p. 102.  G.R. No. 156305 referred to the income of Baier-Nickel for taxable year 1994 while G.R. No. 153793 pertained to Baier-Nickel's income in 1995.
+[73]
+ Section 4.  xxx
+(3)  Cases or matters heard by a Division shall be decided or resolved with the concurrence of a majority of the members who actually took part in the deliberation on the issues in the case and voted thereon, and in no case, without the concurrence of at least three of such members. When the required number is not obtained, the case shall be decided 
+En Banc
+: 
+Provided
+, 
+that no doctrine or principle of law laid down by the Court in a decision rendered 
+En Banc
+ or in Division may be modified or reversed except by the Court sitting 
+En Banc
+. (Emphasis supplied)
+[74]
+ That is, fifty centavos (P0.50) on each four pesos (P4.00), or a fractional part thereof, of the premium charged.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

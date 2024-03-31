@@ -1,0 +1,100 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			597 Phil. 663
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 176669, February 04, 2009 ]
+
+
+ASSET POOL A (SPV-AMC), INC., PETITIONER, VS. COURT OF APPEALS, LEPANTO CERAMICS, INC. AND GUOCO INDUSTRIES, INC., RESPONDENTS.
+D E C I S I O N
+
+
+
+
+CARPIO MORALES, J.:
+
+
+The present petition is one for Certiorari, filed by ASSET POOL A (SPV-AMC), INC. (petitioner), which assails the June 21, 2006
+[1]
+ Resolution of the Court of Appeals in CA G.R. CV No. 84170, "
+Far East Bank and Trust Company (now merged with Bank of the Philippine Islands), Plaintiff-Appellee, v. Lepanto Ceramics, Inc. and Guoco Industries, Inc.,Defendants-Appellants,"
+ denying its MOTION FOR 1) SUBSTITUTION OF B[ANK OF] P[HILIPPINE] I[SLANDS] AS PLAINTIFF-APPELLEE and 2) EXTENSION OF TIME TO FILE APPELLEE'S BRIEF.
+The antecedent facts of the petition are as follows:
+On July 26, 2005, the "Far East Bank and Trust Company, now merged with the Bank of the Philippine Islands (BPI)," filed before the Regional Trial Court of Makati a complaint for sum of money against "Lepanto Ceramics, Inc. (formerly Guoco Ceramics, Inc.) and Guoco Industries, Inc." (private respondents) arising from their failure to settle their  outstanding obligations covered by, among other things, Promissory Note (PN) No. 2800980920 in the amount of P29,800,000.00.
+BPI subsequently assigned PN No. 2800980920 (the subject PN) to petitioner via a Deed of Assignment.  In light of the assignment, petitioner filed the above-said Motion before the appellate court before which the defendants-herein private respondents appealed the trial court's decision.
+Private respondents, however, countered that BPI was not a party to the Deed of Assignment as it was BPI Asset Management and Trust Group (BPI-AMTG) which has a separate personality from BPI, hence, the Deed of Assignment did not bind BPI.  They added that the signatories to the Deed of Assignment had not shown that they were duly authorized since there were no corporate secretary's certificates to prove that their respective Boards of Directors had adopted resolutions authorizing them to execute the Deed of Assignment.
+The Court of Appeals denied petitioner's above-said motion by the challenged Resolution upon a finding that petitioner is a Special Purpose Vehicle (SPV) created pursuant to Republic Act No. 9182 (An Act Granting Tax Exemptions And Fee Privileges To Special Purpose Vehicles Which Acquire Or Invest In Non-Performing Assets, Setting The Regulatory Framework Therefor, And For Other Purposes) or the SPV law, and since the notice requirement under said law was not complied with, the assignment was ineffective.
+x x x x
+As defined under the law, there is no question that BPI is a financial institution [FI] and that the loan under Promissory Note No. 2800980920 is considered as a non-performing asset [NPA] or non-performing loan [NPL] since the principal amount thereof (P29,800,000.00) has remained unpaid for more than 180 days after it has become past due [Roll, p. 79].
+As to the fact that 
+[herein petitioner Asset Pool A] is a special purpose vehicle [SPV] created pursuant to the provisions of Republic Act No. 9182, it should be noted that in its pleadings, [it] did not specifically deny that it is an SPV created under the said law
+. In fact, in its pleadings and in the Deed of Assignment, APA consistently referred to itself as SPV-AMC. Ergo, 
+the provisions of Republic Act No. 9182 are applicable.
+x x x x
+Based on the foregoing, 
+the effectivity of the transfer of non-performing loans to an SPV depends upon the financial institution's compliance with the notice requirement mandated by Republic Act No. 9182
+. In the case at bench,
+ APA did not adduce any evidence to prove that defendants-appellants [-herein private respondents] were notified prior to or after the execution of the Deed of Assignment by and between the BPI Asset Management and Trust Group and the APA
+. Moreover, APA 
+failed to prove that BPI filed an application for eligibility of Lepanto Ceramics' loan as a non-performing asset or that BPI had given Lepanto Ceramics a period of 90 days to restructure or renegotiate the loan
+.
+[2]
+  (Emphasis and underscoring supplied)
+Petitioner's Motion for Reconsideration was likewise denied by Resolution of December 21, 2006,
+[3]
+ hence, the present petition for Certiorari.
+[4]
+Arguing that the appellate court erred in denying its Motion, petitioner asserts that the assignment to it of the subject PN was done under the provisions of the Civil Code which require no notice to the debtor prior to the assignment; and that, in any event, Republic Act No. 9343 which extended to May 14, 2006 the period for availment of the SPV law did not provide for retroactivity.
+[5]
+Additionally, petitioner asserts that the notarized certification of BPI that assignor BPI AMTG is its mere division shows that there was a valid assignment of credit by BPI.
+[6]
+RA No. 9343 amended Sections 6 (Period for filing of applications) and 15 (Tax Exemptions and Fee Privileges) of the SPV law. As the notice requirement under Section 12 of Article III of the SPV Law was not amended, the same was still necessary to effect transfer of Non-Performing Loans to an SPV, like petitioner, to be effective.  There being no compliance with such notice requirement at the time of the assignment to petitioner of the subject PN during the effectivity of the SPV law, as amended, it could not substitute BPI as party plaintiff-appellee.   The appellate court's denial of petitioner's Motion was thus not attended with grave abuse of discretion.
+WHEREFORE
+, the petition is 
+DISMISSED
+.
+SO ORDERED.
+Quisumbing, (Chairperson), Carpio Morales, Velasco, Jr.,
+ and 
+Brion, JJ., 
+Concur.
+[1]
+ 
+Rollo
+, pp. 34-43.  Penned by Justice Edgardo F. Sundiam with the concurrence of Justices Rodrigo V. Cosico and Japar B. Dimaampao.
+[2]
+ 
+Rollo
+, pp. 39-41.
+[3]
+ Id. at 45-51.  Penned by Justice Edgardo F. Sundiam with the concurrence of Justices Rodrigo V. Cosico and Japar B. Dimaampao.
+[4]
+ Id. at 3-32.
+[5]
+ Id. at 20-25.
+[6]
+ Id. at 26-27.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

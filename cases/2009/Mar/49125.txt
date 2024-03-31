@@ -1,0 +1,440 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			600 Phil. 547
+			
+
+
+
+
+EN BANC
+
+
+[ G.R. No. 182559, March 13, 2009 ]
+
+
+COMMISSION ON AUDIT, REPRESENTED BY ITS CHAIRMAN, GUILLERMO CARAGUE, PETITIONER, VS. LINK WORTH INTERNATIONAL, INC., RESPONDENT. 
+D E C I S I O N
+
+
+
+
+TINGA, J.:
+
+
+The Commission on Audit (COA), through the Office of the Solicitor General (OSG), questions the Decision
+[1]
+  dated April 21, 2008, of the Court of Appeals in CA-G.R. SP No. 94345, which affirmed the Decision
+[2]
+  dated January 18, 2006 of the Regional Trial Court (RTC) of Quezon City, Branch 222, as amended by the RTC's orders dated February 13, 2006
+[3]
+  and March 10, 2006,
+[4]
+  nullifying the COA's award of a bidding contract in favor of Audio Visual Driver International, Inc. (
+Audio Visual
+). The assailed Decision, however, deleted the RTC's award of damages in favor of herein respondent Link Worth International, Inc. (
+Link Worth
+).
+The undisputed facts are quoted from the Decision of the appellate court as follows:
+On July 14, 2004, the Commission on Audit's Bids and Awards Committee (COA-BAC) conducted a bidding for various information communication technology equipment, specifically for Lot 6, which includes 3 units of document cameras.
+Link Worth and Audio Visual were among the bidders declared by COA-BAC to have "passed" the technical specifications for the equipment.  However, COA-BAC did not disclose the respective specifications of the equipment offered by the bidders. Thereafter, the COA-BAC opened the envelopes containing the financial bid for Lot 6, which were as follows:
+ 
+ 
+ 
+Bidder
+ 
+ 
+ 
+Bid Amount
+ 
+ 
+ 
+ 
+ All Visual 
+ 
+ P2,801,000.00 
+ 
+ 
+ 
+ Columbia Tech 
+ 
+ P2,953,392.00 
+ 
+ 
+ 
+ Audio Visual Driver 
+ 
+ P3,299,000.00 
+ 
+ 
+ 
+ Link Worth 
+ 
+ P3,357,000.00 
+ 
+ 
+ 
+ Ayala 
+ 
+ P3,599,251.00 
+ 
+ 
+ 
+ Unison 
+ 
+ P4,000,000.00 
+ 
+ 
+Not having made the lowest financial bid among the "passing" bidders, Link Worth thought that it had lost the bidding, until the COA-BAC asked Link Worth and Audio Visual for product demonstration of their document camera. Link Worth, later, learned that the COA-BAC disqualified the first 2 lowest bidders for failure to meet the technical specifications.
+On August 13, 2004, Link Worth and Visual Driver conducted the product demonstration. Link Worth told the Technical Working Group (TWG), before whom the project demonstration was conducted, that the equipment offered by Audio Visual failed to satisfy the technical specifications required for the document camera. Link Worth identified the following technical specifications which Audio Visual failed to satisfy:
+ 
+ 
+ 
+ 
+ 
+Bid Specifications
+ 
+ 
+ 
+Audio Visual Specifications
+ 
+ 
+ 
+ 
+ Frame Rate 
+ 
+ 15 frame/second 
+ 
+ 2-way Filter Control 
+ 
+ 
+ 
+ Power Supply 
+ 
+ DC 12V 
+ 
+ 6V Power Supply 
+ 
+ 
+ 
+ Maximum Weight 
+ 
+ 1.5 Kg. 
+ 
+ 1.7 Kg. 
+ 
+ 
+Link Worth insisted that the technical specifications should be strictly complied with. Audio Visual did not dispute that their equipment, the Ave Vision 300 camera, failed to meet the product specifications required. After the product demonstration, the TWG asked Audio Visual to submit a clarification as to the frame rate of the document camera. Thus, Audio Visual submitted a certification, dated September 6, 2004, issued by AverMedia Technologies, Inc., that Aver Vision 300, complies with the 15 frames/second specification. AverMedia, Inc. is the manufacturer of the Aver Vision 300, the document camera offered by Audio Visual.
+In a Memorandum, dated August 16, 2004, the TWG recommended that the contract for Lot 6 be awarded to Audio Visual for the following reasons:
+Performance, in terms of capture, projection of images on the screen, digital zoom and pan and 180
+0
+  rotation function
+Sharper image projection than that of the Lumens DC80A
+Ease of Use
+Compact and Sturdy
+With remote Control
+The 0.27kg. weight excess is immaterial
+On September 2, 2004, Link Worth filed with COA-BAC a motion for the reconsideration of the TWG's Memorandum, alleging that the Audio Visual's document camera failed to comply with the technical specifications. Link Worth prayed for the reversal of the TWG's recommendation to declare Audio Visual as the lowest calculated responsive bid. Link Worth also alleged that the bidding rules and regulations were violated when TWG member Engr. Bernardita Geres, received Audio Visual's certification that its document camera complies with the 15 frame/second specifications.
+On September 14, 2004, COA-BAC awarded the contract for Lot 6 to Audio Visual.
+On September 20, 2004, Link Worth wrote to COA-BAC, questioning the award of the contract to Audio Visual and prayed that the COA-BAC award the same to Link Worth having submitted the lowest calculated responsive bid. On September 23, 2004, Link Worth received a faxed letter dated September 21, 2004, from COA-BAC dismissing its complaint.
+On September 27, 2004, Link Worth filed a formal protest with the COA Chairman Guillermo Carague. However, the same was likewise dismissed in COA's Order dated December 9, 2004, issued by Assistant Commissioner Raquel R. Ramirez-Habitan, under authority of the Chairman.
+On February 2, 2005, pursuant to Section 58 of R.A. No. 9184, otherwise known as the Government Procurement Reform Act, Link Worth filed a Petition for Certiorari under the 1997 Rules of Civil Procedure, ascribing grave abuse of discretion to the COA "
+when it denied Petitioner's protest, which denial effectively sanctioned the disregard of technical specifications by COA-BAC in the subject procurement, and sanctioned the clear violations of the Procurement Law and its IRR-A."
+On January 18, 2006, the RTC rendered the assailed Decision, as amended by the RTC's Orders, dated February 13, 2006 and March 10, 2006, disposing as follows:
+WHEREFORE, premises considered, the petition for certiorari is hereby GRANTED and accordingly, the assailed Resolution, dated December 9, 2004 is REVERSED and SET ASIDE for having been issued in grave abuse of discretion amounting to excess of its jurisdiction and accordingly, the award of the subject bidding in favor of private respondent Audio Visual Driver International, Inc. (AVD) is NULLIFIED and respondent COA is directed to pay petitioner the following amounts:
+(1) P100,000.00 as exemplary damages;
+(2) P100,000.00 as attorney's fees;
+(3) Cost.
+Rejecting COA's assertion that the contract's technical specifications varied insignificantly with those submitted by Audio Visual, the RTC ruled that COA committed grave abuse of discretion in awarding the bid contract to Audio Visual and in denying Link Worth's protest. The RTC found that "
+COA's manifest conduct in awarding the contract to a bidder which failed to comply with the requisite bid specifications from the very beginning smacks of favoritism and partiality toward [Audio Visual] to whom it awarded the contract. In sum, estoppel, whether by silence or laches, is unavailing in this case. Otherwise, it would stamp validity to an act that is against public policy."
+The RTC rejected COA's assertion that "
+even as the technical proposal of [Audio Visual] varied from the bid specifications, these variances were found to be insignificant and did not warrant the bidder's disqualification." 
+The RTC ruled that "
+if COA knew that any such deviation would be immaterial, then it should not have specified the technical standards/requirements which must be met at the first step of the bid qualification. 
+The RTC notes that when COA found that 
+"the technical specifications submitted by [Audio Visual] were not the same as that of the bid specifications provided by COA, it should have rejected [Audio Visual's] bid upon opening of its technical bid envelope and not pronounce it as having `passed' the bidding criteria." 
+The RTC further ruled that 
+"the certification xxx and information from the internet was received and obtained after the product demonstration had already been conducted," 
+in violation of Section 26 of R.A. No. 9184.
+[5]
+The Court of Appeals affirmed the RTC's finding that 
+Audio Visual
+ failed to comply with several technical specifications required of the document cameras, and that COA violated certain provisions of R.A. No. 9184 and its Implementing Rules. However, the appellate court deleted the award of damages to 
+Link Worth
+, holding that COA cannot be held liable for damages as this would violate the commission's immunity from suit.  COA and 
+Audio Visual
+ were directed to make mutual restitution.
+In the instant petition
+[6]
+  dated June 3, 2008, filed under Rule 45 of the Rules of Court but erroneously entitled Petition for Certiorari, COA asserts that the post-qualification proceedings it conducted showed that 
+Audio Visual's 
+document camera was compliant with the required technical specifications. Moreover, 
+Link Worth 
+is allegedly estopped from questioning the "pass" rating granted by COA to 
+Audio Visual
+ since the former failed to raise an objection to the acceptability of the technical specifications of 
+Audio Visual's
+ bid during the preliminary examination stage.
+Link Worth
+ filed a Comment
+[7]
+  dated July 30, 2008, asserting that COA had ignored the required technical specifications when it awarded the contract to 
+Audio Visual
+. Specifically, 
+Link Worth
+ points out that 
+Audio Visual's
+ document camera merely provided a two (2)-level flicker filter which lessens but does not eliminate the flicker effect contrary to the required frame rate of 15 frames/second. The 12V power supply requirement was also not met because 
+Audio Visual's
+ document camera used a 6V power supply.  The camera's weight of 1.77 kg. also exceeded the required maximum weight of 1.5 kg.
+COA allegedly allowed subjectivity to come into play when it allowed end-users to participate in the decision-making process contrary to R.A. No. 9184,
+[8]
+  which seeks to eliminate subjectivity in award of government contracts.  
+Link Worth
+ further insists that it availed of the remedies under R.A. No. 9184 in its effort to question the award to 
+Audio Visual 
+and can thus not be held in estoppel.
+Finally, 
+Link Worth
+ claims that it suffered damages by reason of COA's breach of R.A. No. 9184 and should accordingly be allowed to recover its losses from COA.
+The OSG deemed it best not to file a reply.
+[9]
+Public bidding as a method of government procurement is governed by the principles of transparency, competitiveness, simplicity and accountability.  These principles permeate the provisions of R.A. No. 9184 from the procurement process to the implementation of awarded contracts.  It is particularly relevant in this case to distinguish between the steps in the procurement process, such as the declaration of eligibility of prospective bidders, the preliminary examination of bids, the bid evaluation, and the post-qualification stage, which the Bids and Awards Committee (BAC) of all government procuring entities should follow.
+Except only in cases in which alternative methods of procurement are allowed, all government procurement shall be done by competitive bidding.
+[10]
+  This is initiated by the BAC, which advertises the Invitation to Bid for contracts under competitive bidding in order to ensure the widest possible dissemination thereof.
+[11]
+   The BAC then sets out to determine the eligibility of the prospective bidders based on their compliance with the eligibility requirements set forth in the Invitation to Bid
+[12]
+  and their submission of the legal, technical and financial documents  required under Sec. 23.6, Rule VIII of the Implementing Rules and Regulations of R.A. No. 9184 (IRR-A).
+It is well to note at this point that among the technical documents required of prospective bidders to aid the BAC in determining their eligibility to bid is a statement of the prospective bidder of all its ongoing and completed government and private contracts within the relevant period, including contracts awarded but not yet started.  In relation to contracts which are ongoing, completed, or awarded but not yet started, the prospective bidder shall include in the statement the name of the contract, date of the contract, kinds of goods sold, amount of contract and value of outstanding contracts, date of delivery, end user's acceptance, if completed, and specification whether the prospective bidder is a manufacturer, supplier or distributor.
+[13]
+   The technical specifications of the particular contract specified in the Invitation to Bid is not among the documents required to determine the prospective bidder's eligibility to bid.
+The BAC then informs the eligible prospective bidders that they have been found eligible to participate in the bidding
+[14]
+   and prepares a short list of bidders who shall be allowed to submit their respective bids.
+[15]
+Sec. 25, Art. VIII of R.A. No. 9184 provides that, "A bid shall have two (2) components, namely, technical and financial components which should be in separate sealed envelopes and which shall be submitted simultaneously." Sec. 25.3, Rule VIII of IRR-A provides that, "The first envelope (Technical Proposal) shall contain the following technical information/documents, at the least:
+A. 
+For the procurement of goods:
+The Bid Security as to form, amount and validity period;
+Authority of the signatory;
+Production/delivery schedule;
+Manpower requirements;
+After-sales service/parts, if applicable;
+Technical specifications;
+Commitment from a licensed bank to extend to the bidder a credit line if awarded the contract to be bid, or a cash deposit certificate, in an amount not lower than that set by the procuring entity in the Bidding Documents, which shall be at least equal to ten percent (10%) of the approved budget for the contract to be bid: 
+Provided, however, 
+That if the bidder previously submitted this document as an eligibility requirement, the said previously submitted document shall suffice;
+Certificate from the bidder under oath of its compliance with existing labor laws and standards, in the case of procurement of services; and
+A sworn affidavit of compliance with the Disclosure Provision under Section 47 of the Act in  relation to other provisions of R.A. No. 3019; and
+Other documents/materials as stated in the Instructions to Bidders. [Emphasis supplied]
+The BAC shall first open and examine the technical proposal and, using "pass/fail" criteria, determine whether all required documents are present.  Sec. 30, Art. IX of R.A. No. 9184 provides:
+Sec. 30. 
+Preliminary Examination of Bids.--
+Prior to Bid evaluation, the BAC shall examine first the technical components of the bid using "pass/fail" criteria to determine whether all required documents are present. Only bids that are determined to contain 
+all
+ the bid requirements of the technical component shall be considered for opening and evaluation of their financial component. [Emphasis supplied]
+Sec. 30.1 of IRR-A echoes the provision, 
+viz
+:
+Sec. 30. 
+Preliminary Examination of Bids
+30.1. The BAC shall open the 
+first bid envelopes 
+(Technical Proposals) of eligible bidders in public to determine each bidder's compliance with the documents required to be submitted for the first component of the bid, as prescribed in this IRR-A. For this purpose, the BAC shall check the submitted documents of each bidder against a checklist of required documents to ascertain if they are all present in the first bid envelope, using the non-discretionary "pass/fail" criteria, as stated in the Invitation to Apply for Eligibility and to Bid and the Instruction to Bidders. If a bidder submits the required documents, it shall be rated "passed" for that particular requirement. In this regard, 
+failure to submit a requirement, or an incomplete or patently insufficient submission shall be considered "failed" for that particular requirement concerned. x x x 
+[Emphasis supplied]
+During the preliminary examination stage, the BAC checks whether all the required documents were submitted by the eligible bidders. Note should be taken of the fact that the technical specifications of the product bidded out is among the documentary requirements evaluated by the BAC during the preliminary examination stage.  At this point, therefore, the BAC should have already discovered that the technical specifications of 
+Audio Visual's
+ document camera differed from the bid specifications in at least three (3) respects, namely: the 15 frames/second frame rate, the weight specification, and the power supply requirement.  Using the non-discretionary criteria laid out in R.A. No. 9184 and IRR-A, therefore, the BAC should have rated 
+Audio Visual's
+ bid as "failed" instead of "passed."
+After the preliminary examination stage, the BAC opens, examines, evaluates and ranks all bids and prepares the Abstract of Bids which contains, among others, the names of the bidders and their corresponding calculated bid prices arranged from lowest to highest.
+[16]
+   The objective of the bid evaluation is to identify the bid with the lowest calculated price or the Lowest Calculated Bid.
+[17]
+  The Lowest Calculated Bid shall then be subject to post-qualification to determine its responsiveness to the eligibility and bid requirements.  If, after post-qualification, the Lowest Calculated Bid is determined to be post-qualified, it shall be considered the Lowest Calculated Responsive Bid and the contract shall be awarded to the bidder.
+Sec. 34, Rule X of IRR-A outlines the post-qualification process as follows:
+Sec. 34. 
+Objective and Process of Post-Qualification
+34.1. Within seven (7) calendar days from the determination of Lowest Calculated Bid or the Highest Rated Bid, as the case may be, the BAC shall conduct and accomplish a post-qualification of the bidder with the Lowest Calculated Bid/Highest Rated Bid, to determine whether the bidder concerned complies with and is responsive to all the requirements and conditions for eligibility, the bidding of the contract, as specified in the bidding documents, in which case the bidder's bid shall be considered and declared as the "Lowest Calculated Responsive Bid" for the procurement of goods and infrastructure projects, or the "
+Highest Rated Responsive Bid
+" for the procurement of consulting services. In exceptional cases, the seven (7) calendar day period may be extended by the GPPB.
+34.2. The post-qualification shall verify, validate and ascertain all statements made and documents submitted by the bidder with the Lowest Calculated Bid/Highest Rated Bid, using non-discretionary criteria, as stated in the Invitation to Apply for Eligibility and to Bid and the Instruction to Bidders. These criteria shall consider, but shall not be limited to, the following:
+x x x
+b) Technical Requirements. To determine compliance of the goods, infrastructure projects or consulting services offered with the requirements of the contract and bidding documents, including, where applicable: (i) verification and validation of the bidder's stated competence and experience, and the competence and experience of the bidder's key personnel to be assigned to the project, for the procurement of infrastructure projects and consulting services; (ii) verification of availability and commitment, and/or inspection and testing, of equipment units to be owned or leased by the bidder, as well as checking the performance of the bidder in its ongoing government and private contracts (if any of these on-going contracts shows a reported negative slippage of at least fifteen percent (15%), or substandard quality of work as per contract plans and specifications, or unsatisfactory performance of his obligations as per contract terms and conditions, at the time of inspection, and if the BAC verifies any of these deficiencies to be due to the contractor's fault or negligence, the agency shall disqualify the contractor from the award), for the procurement of infrastructure projects; 
+(iii) verification and/or inspection and testing of the goods/product, after-sales and/or maintenance capabilities, in applicable cases, for the procurement of goods;
+ and (iv) ascertainment of the sufficiency of the Bid Security as to type, amount, form and wording, and validity period. [Emphasis supplied]
+In this case, the bidders ranked as the two lowest bidders, 
+All Visual
+ and 
+Columbia Tech
+, were disqualified by the BAC presumably at the post-qualification stage when their bids failed to meet the technical specifications for the project.  Remarkably, however, despite the fact that there also existed technical variances between the bid specifications and 
+Audio Visual's
+ document camera, the BAC did not post-disqualify 
+Audio Visual
+.
+On the contrary, COA's Technical Working Group (TWG) declared, during post-qualification, that there is no frame speed variance between 
+Audio Visual's
+ document camera and the required specification because 
+Audio Visual's
+ document camera is compliant with the 15 frames/second requirement.  It is well to point out that it was initially unclear whether 
+Audio Visual's 
+document camera met the bid specification requiring a frame rate of 15 frames/second.  What 
+Audio Visual 
+indicated was that its document camera, Aver Vision 300, featured a "2-way Filter Control." However, this feature does not even pertain to the camera's capture frame rate, or the frequency at which the camera produces unique consecutive images called frames.
+[18]
+  As its User Manual indicates, the flicker filter refers to how the camera is synchronized with an external projector or display.
+[19]
+The Aver Vision 300's compliance with the 15 frames/second frame rate specification was only made certain when the product's manufacturer, AverMedia Technologies, Inc. issued a certification dated September 6, 2004, upon the TWG's request, it should be added, that it indeed complies with the 15 frames/second specification.
+[20]
+Assuming that there is no frame rate variance between 
+Audio Visual's 
+document camera and that required in the bid specifications, the TWG's, and the BAC's, disregard of the fact that 
+Audio Visual's
+ document camera exceeded the specified weight by 0.27 kg. and used a 6V power supply instead of the required 12V power supply, was still unwarranted and highly irregular.   The post-qualification procedure, under which the Lowest Calculated Bid undergoes verification and validation to determine whether all the requirements and conditions specified in the Bidding Documents, have been met,
+[21]
+  should have effectively weeded out 
+Audio Visual'
+s bid.
+The function of post-qualification is to verify, inspect and test whether the technical specifications of the goods offered comply with the requirements of the contract and the bidding documents.  It does not give occasion for the procuring entity to arbitrarily exercise its discretion and brush aside the very requirements it specified as vital components of the goods it bids out.
+In 
+Agan, Jr. v. PIATCO,
+[22]
+ 
+ 
+petitioners questioned the validity of the Concession Agreement for the Build-Operate-and-Transfer Arrangement of the Ninoy Aquino International Airport Passenger Terminal III (referred to as the 1997 Concession Agreement), on the ground that it contains provisions that substantially depart from the draft Concession Agreement included in the Bid Documents.  PIATCO, on the other hand, maintained that the Concession Agreement attached to the Bid Documents was intended to be a draft, therefore, subject to change, alteration or modification.  The Court declared that the amendments made on the 1997 Concession Agreement had resulted in substantial variance between the conditions under which the bids were invited and the contract executed after the award thereof. Thus, the 1997 Concession Agreement was declared null and void for being contrary to public policy.  The Court held:
+An essential element of a publicly bidded contract is that all bidders must be on equal footing. Not simply in terms of application of the procedural rules and regulations imposed by the relevant government agency, 
+but more importantly, on the contract bidded upon. Each bidder must be able to bid on the same thing.
+[23]
+x x x
+x x x  By its very nature and characteristic, competitive public bidding aims to protect the public interest by giving the public the best possible advantages through open competition. It has been held that the three principles in public bidding are (1) the offer to the public; (2) opportunity for competition; and (3) a basis for the exact comparison of bids.  A regulation of the matter which excludes any of these factors destroys the distinctive character of the system and thwarts the purpose of its adoption. These are the basic parameters which every awardee of a contract bidded out must conform to, requirements of financing and borrowing notwithstanding. Thus, upon a concrete showing that, as in this case, the contract signed by the government and the contract-awardee is an entirely different contract from the contract bidded, courts should not hesitate to strike down said contract in its entirety for violation of public policy on public bidding. A strict adherence on the principles, rules and regulations on public bidding must be sustained if only to preserve the integrity and the faith of the general public on the procedure.
+[24]
+The fact is all too glaring that during the post-qualification stage, the BAC considered some factors which were extraneous to and not included in the bid documents, such as ease of use, compactness and sturdiness, and the remote control of 
+Audio Visual's
+ document camera, and, at the same time, glossed over two of the requirements which 
+were 
+indicated in the bid documents, 
+i.e., 
+the weight and power supply requirements.  Had the prospective bidders known that all of the above factors formed part of the bid specifications, a different set of bids might have emerged.  Essentially, it can be said that the eligible bidders did not bid upon the same thing.
+On the matter of estoppel, we agree with the appellate court's finding that 
+Link Worth
+ raised timely objections and seasonably filed motions for reconsideration of the decisions of the BAC and the TWG.  It cannot, therefore, be held in estoppel.  Its failure to object to the pass rating given to 
+Audio Visual
+ during the preliminary examination stage was satisfactorily explained by the fact that the technical specifications of the machines offered by the eligible bidders were not shown onscreen, an assertion COA never bothered to dispute.
+No award of damages can be made in favor of 
+Audio Visual
+ in this case, however.  COA is an unincorporated government agency which does not enjoy a separate juridical personality of its own. Hence, even in the exercise of proprietary functions incidental to its primarily governmental functions, COA cannot be sued without its consent.
+[25]
+   Assuming that the contract it entered into with 
+Audio Visual
+ can be taken as an implied consent to be sued, and further that incidental reliefs such as damages may be awarded in certiorari proceedings,
+[26]
+  
+Link Worth 
+did not appeal the Court of Appeals' Decision deleting the award of damages against COA. Consequently, 
+Link Worth
+ is bound by the findings of fact and conclusions of law of the Court of Appeals, including the deletion of the award of exemplary damages, attorney's fees and costs.
+[27]
+It is remarkably ironic that COA, the constitutional watchdog, signed its imprimatur to a transaction which resulted from an irreparably flawed bidding process. The Commission, in this case, has displayed a lamentable disregard of its mandate as the sentinel of government resources.  The nullification of the award of the contract to 
+Audio Visual 
+and the mutual restitution directed by the Court of Appeals are both appropriate consequences.  It is, however, paramount that COA be reminded of its most important role, seemingly forgotten in this case, in the promotion of transparency and accountability in public financial transactions.
+ 
+WHEREFORE
+, the Decision of the Court of Appeals dated April 21, 2008 is hereby 
+AFFIRMED
+. No pronouncement as to costs.
+SO ORDERED
+.
+Quisumbing, Acting C.J., Ynares-Santiago,  Carpio, Austria-Martinez, Corona, Carpio Morales, Chico-Nazario, Velasco, Jr., Leonardo-De Castro, Brion
+ and 
+Peralta, JJ.,
+ concur. 
+Puno, C.J.,
+ on official leave.
+Nachura, J.,
+ no part. signed pleadings as Sol Gen.
+[1]
+ 
+Rollo
+, pp. 29-45; Penned by Associate Justice Noel G. Tijam with the concurrence of Associate Justices Martin S. Villarama, Jr. and Myrna Dimaranan Vidal.
+[2]
+ Id. at 94-98; Penned by Judge Rogelio M. Pizarro.
+[3]
+ Id. at 101.
+[4]
+ Id. at 105-106.
+[5]
+ Id. at 30-35.
+[6]
+ Id. at 7-27.
+[7]
+ Id. at 111-137.
+[8]
+ Entitled "An Act Providing for the Modernization, Standardization and Regulation of the Procurement Activities of the Government and For Other Purposes."
+[9]
+ Id. at 139-141.
+[10]
+ Republic Act No.  9184 (2003), Art. IV, Sec. 10.
+[11]
+ Republic Act No.  9184 (2003), Rule VII, Sec. 21.
+[12]
+ Republic Act No. 9184 (2003), Art. VIII, Sec. 23.
+[13]
+ Memorandum Order No. 119 (2003), Rule VIII, Sec. 23.6(f).
+[14]
+ Memorandum Order No. 119 (20033) Rule VIII, Sec. 23.3
+[15]
+ Republic Act No. 9184 (2003), Art. VIII, Sec. 24.
+[16]
+ Memorandum Order No.  119 (2003), Rule IX, Sec. 32.5.
+[17]
+ Memorandum Order No.  119, (2003), Rule IX, Sec. 32.
+[18]
+ http://en.wikipedia.org/wiki/Frame_rate.
+[19]
+ http://www.aver.com/2005home/support/downloads/User_Manual/AVerVision300.pdf.
+[20]
+ 
+Rollo
+, p. 31.
+[21]
+ Republic Act No.  9184 (2003), Art. X, Sec. 34.
+[22]
+ 450 Phil. 744 (2003).
+[23]
+ Id. at 814.
+[24]
+ Id. at 824.
+[25]
+ 
+Republic v. Nolasco
+, G.R. No. 155108, April 27, 2005, 457 SCRA 400.
+[26]
+ The provenance of this case is the petition for certiorari filed with the RTC under Rule 65 of the Rules of Court in accordance with Sec. 58, Art. XVII of R.A. No. 9184, which provides:
+Sec. 58. 
+Resort to Regular Courts; Certiorari.â
+ 
+Court action may be resorted to only after the protests contemplated in this Article shall have been completed. Cases that are filed in violation of the process specified in this Article shall be dismissed for lack of jurisdiction. The regional trial court shall have jurisdiction over final decisions of the head of the procuring entity. Court actions shall be governed by Rule 65 of the 1997 Rules of Civil Procedure.
+This provision is without prejudice to any law conferring on the Supreme Court the sole jurisdiction to issue temporary restraining orders and injunctions relating to Infrastructure Projects of Government.
+[27]
+ 
+Citibank, N.A. (Formerly First National City Bank) v. Sabeniano
+, G.R. No. 156132, October 12, 2006, 504 SCRA 378.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)
