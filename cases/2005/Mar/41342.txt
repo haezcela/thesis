@@ -1,0 +1,393 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			493 Phil. 785
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. NO. 141658, March 18, 2005 ]
+
+
+COMMISSIONER OF INTERNAL REVENUE, PETITIONER, VS. THE PHILIPPINE AMERICAN ACCIDENT INSURANCE COMPANY, INC., THE PHILIPPINE AMERICAN ASSURANCE COMPANY, INC., AND THE PHILIPPINE AMERICAN GENERAL INSURANCE CO., INC., RESPONDENTS.
+
+
+D E C I S I O N
+
+
+
+
+CARPIO, J.:
+
+
+The Case
+Before the Court is a petition for review
+[1]
+ assailing the Decision
+[2]
+ of 7 January 2000 of the Court of Appeals in CA-G.R. SP No. 36816.  The Court of Appeals affirmed the Decision
+[3]
+ of 5 January 1995 of the Court of Tax Appeals (âCTAâ) in CTA Cases Nos. 2514, 2515 and 2516.  The CTA ordered the Commissioner of Internal Revenue (âpetitionerâ) to refund a total of P29,575.02 to respondent companies (ârespondentsâ).
+Antecedent Facts
+Respondents are domestic corporations licensed to transact insurance business in the country.  From August 1971 to September 1972, respondents paid the Bureau of Internal Revenue under protest the 3% tax imposed on lending investors by Section 195-A
+[4]
+ of Commonwealth Act No. 466 (âCA 466â), as amended by Republic Act No. 6110 (âRA 6110â) and other laws.  CA 466 was the National Internal Revenue Code (âNIRCâ) applicable at the time.
+Respondents paid the following amounts:  P7,985.25 from Philippine American (âPHILAMâ) Accident Insurance Company; P7,047.80 from PHILAM Assurance Company; and P14,541.97 from PHILAM General Insurance Company.  These amounts represented 3% of each companyâs interest income from mortgage and other loans.  Respondents also paid the taxes required of insurance companies under CA 466.
+On 31 January 1973, respondents sent a letter-claim to petitioner seeking a refund of the taxes paid under protest.  When respondents did not receive a response, each respondent filed on 26 April 1973 a petition for review with the CTA.  These three petitions, which were later consolidated, argued that respondents were not lending investors and as such were not subject to the 3% lending investorsâ tax under Section 195-A.
+The CTA archived respondentsâ case for several years while another case with a similar issue was pending before the higher courts.  When respondentsâ case was reinstated, the CTA ruled that respondents were entitled to their refund.
+The Ruling of the Court of Tax Appeals
+The CTA held that respondents are not taxable as lending investors because the term âlending investorsâ does not embrace insurance companies.  The CTA traced the history of the tax on lending investors, as follows:
+Originally, a person who was engaged in lending money at interest was taxed as a money lender.  [Sec. 1464(x), Rev.    Adm. Code] The term money lenders was defined as including âall persons who make a practice of lending money for themselves or others at interest.â [Sec. 1465(v), id.]  Under this law, an insurance company was not considered a money lender and was not taxable as such.  To quote from an old BIR Ruling:
+âThe lending of money at interest by insurance companies constitutes a necessary incident of their regular business.  For this reason, insurance companies are not liable to tax as money lenders or real estate brokers for making or negotiating loans secured by real property.  (Ruling, February 28, 1920; BIR 135.2)â (The Internal Revenue Law, Annotated, 2nd ed., 1929, by B.L. Meer, page 143)
+The same rule has been applied to banks.
+âFor making investments on salary loans, banks will not be required to pay the money lenderâs tax imposed by this subsection, for the reason that money lending is considered a mere incident of the banking business.  [See Ruling No. 43, (October 8, 1926) 25 Off. Gaz. 1326)â (The Internal Revenue Law, Annotated, id.)
+The term âmoney lendersâ was later changed to âlending investorsâ but the definition of the term remains the same.  [Sec. 1464(x), Rev. Adm. Code, as finally amended by Com. Act No. 215, and Sec. 1465(v) of the same Code, as finally amended by Act No. 3963]  The    same law is embodied in the present National Internal Revenue Code (Com. Act No. 466) without change, except in the amount of the tax.  [See Secs. 182(A) (3) (dd) and 194(u), National Internal Revenue Code.]
+It is a well-settled rule that an administrative interpretation of a law which has been followed and applied for a long time, and thereafter the law is re-enacted without substantial change,    such administrative interpretation is deemed to have received legislative approval.  In short, the administrative interpretation becomes part of the law as it is presumed to carry out the legislative purpose.
+[5]
+The CTA held that the practice of lending money at interest is part of the insurance business.  CA 466 already taxes the insurance business.  The CTA pointed out that the law recognizes and even regulates this practice of lending money by insurance companies.
+The CTA observed that CA 466 also treated differently insurance companies from lending investors in regard to fixed taxes.  Under Section 182(A)(3)(gg), insurance companies were subject to the same fixed tax as banks and finance companies.  The CTA reasoned that insurance companies were grouped with banks and finance companies because the latterâs lending activities were also integral to their business.  In contrast, lending investors were taxed at a different fixed tax under Section 182(A)(3)(dd) of CA 466. The CTA stated that âinsurance companies xxx had never been required by respondent [CIR] to pay the fixed tax imposed on lending investors xxx.â
+[6]
+The dispositive portion of the Decision of 5 January 1995 of the Court of Tax Appeals (âCTA Decisionâ) reads:
+WHEREFORE, premises considered, petitioners Philippine American Accident Insurance Co., Philippine American Assurance Co., and Philippine American General Insurance Co., Inc. are not taxable on their lending transactions independently of their insurance business.  Accordingly, respondent is hereby ordered to refund to petitioner[s] the sum of P7,985.25, P7,047.80 and P14,541.97 in CTA    Cases No. 2514, 2515 and 2516, respectively representing the fixed and percentage taxes when (sic) paid by petitioners as lending investor from August 1971 to September 1972.
+No pronouncement as to cost.
+SO ORDERED.
+[7]
+Dissatisfied, petitioner elevated the matter to the Court of Appeals.
+[8]
+The Ruling of the Court of Appeals
+The Court of Appeals ruled that respondents are not taxable as lending investors.  In its Decision of 7 January 2000 (âCA Decisionâ), the Court of Appeals affirmed the ruling of the CTA, thus:
+WHEREFORE, premises considered, the petition is DISMISSED, hereby AFFIRMING the decision, dated January 5, 1995, of the Court of Tax Appeals in CTA Cases Nos. 2514, 2515 and 2516.
+SO ORDERED.
+[9]
+Petitioner appealed the CA Decision to this Court.
+The Issues
+Petitioner raises the sole issue:
+WHETHER RESPONDENT INSURANCE COMPANIES ARE SUBJECT TO THE 3% PERCENTAGE TAX AS LENDING INVESTORS UNDER SECTIONS 182(A)(3)(DD) AND 195-A, RESPECTIVELY IN RELATION TO SECTION 194(U), ALL OF THE NIRC.
+[10]
+The Ruling of the Court
+The petition lacks merit.
+On the Additional Issue Raised by Petitioner
+Section 182(A)(3)(dd) of CA 466 imposes an annual 
+fixed tax
+ on lending investors, depending on their location.
+[11]
+ The sole question before the CTA was whether respondents were subject to the 
+percentage tax
+ on lending investors under Section 195-A.  Petitioner raised for the first time the issue of the fixed tax in the Petition for Review
+[12]
+ petitioner filed before the Court of Appeals.
+Ordinarily, a party cannot raise for the first time on appeal an issue not raised in the trial court.
+[13]
+ The Court of Appeals should not have taken cognizance of the issue on respondentsâ supposed liability under Section 182(A)(3)(dd).  However, we cannot entirely fault the Court of Appeals or petitioner.  Even if the percentage tax on lending investors was the sole issue before it, the CTA ordered petitioner to refund to the PHILAM companies âthe fixed and percentage    taxes [t]hen paid by petitioners as lending investor.â
+[14]
+ Although the amounts for refund consisted only of what respondents paid as percentage taxes, the CTA Decision also ordered the refund to respondents of the fixed tax on lending investors.  Respondents in their pleadings deny any liability under Section 182(A)(3)(dd), on the same ground that they are not lending investors.
+The question of whether respondents should pay the fixed tax under Section 182(A)(3)(dd) revolves around the same issue of whether respondents are taxable as lending investors.  In similar circumstances, the Court has held that an appellate court may consider an unassigned error if it is closely related to an error that was properly assigned.
+[15]
+ This rule properly applies to the present case.  Thus, we shall consider and rule on the issue of whether respondents are subject to the fixed tax under Section 182(A)(3)(dd).
+Whether Insurance Companies are
+Taxable as Lending Investors
+Invoking Sections 195-A and 182(A)(3)(dd) in relation to Section 194(u) of CA 466, petitioner argues that insurance companies are subject to two fixed taxes and two percentage taxes.  Petitioner alleges that:
+As a lending investor, an insurance company is subject to an annual fixed tax of P500.00 and another P500.00 under Section 182 (A)(3)(dd) and (gg) of the Tax Code.  As an underwriter, an insurance company is subject to the 3% tax of the total premiums collected and another 3% on the gross receipts as a lending investor under Sections 255 and 195-A, respectively of the same Code. xxx
+[16]
+Petitioner also contends that the refund granted to respondents is in the nature of a tax exemption, and cannot be allowed unless granted explicitly and categorically.
+The rule that tax exemptions should be construed strictly against the taxpayer presupposes that the taxpayer is clearly subject to the tax being levied against him.  Unless a statute imposes a tax clearly, expressly and unambiguously, what applies is the equally well-settled rule that the imposition of a tax cannot be presumed.
+[17]
+ Where there is doubt, tax laws must be construed strictly against the government and in favor of the taxpayer.
+[18]
+ This is because taxes are burdens on the taxpayer, and should not be unduly imposed or presumed beyond what the statutes expressly and clearly import.
+[19]
+Section 182(A)(3)(dd) of CA 466 also provides:
+Sec. 182. Fixed taxes. â (A) On business xxx
+xxx
+(3) 
+Other fixed taxes
+. â The following fixed taxes shall be collected as follows, the amount stated being    for the whole year, when not otherwise specified;
+xxx
+(dd) Lending investors â
+In chartered cities and first class municipalities, five hundred pesos;
+In second and third class municipalities, two hundred and fifty pesos;
+In fourth and fifth class municipalities and municipal districts, one hundred and twenty-five pesos;  Provided, That lending investors who do business as such in more than one province shall pay a tax of five hundred pesos.
+Section 195-A of CA 466 provides:
+Sec. 195-A. 
+Percentage tax on dealers in securities; lending investors. 
+â Dealers in securities and lending investors shall pay a tax    equivalent to three per centum on their gross income.
+Neither Section 182(A)(3)(dd) nor Section 195-A mentions insurance companies.  Section 182(A)(3)(dd) provides for the taxation of lending investors in different localities.  Section 195-A refers to dealers in securities and lending investors.  The burden is thus on petitioner to show that insurance companies are lending investors for purposes of taxation.
+In this case, petitioner does not dispute that respondents are in the insurance business.  Petitioner merely alleges that the definition of lending investors under CA 466 is broad enough to encompass insurance companies.  Petitioner insists that because of Section 194(u), the two principal activities of the insurance business, namely, underwriting and investment, are separately taxable.
+[20]
+Section 194(u) of CA 466 states:
+(u) âLending investorâ includes all persons who make a practice of lending money for themselves or others at interest.
+xxx
+As can be seen, Section 194(u) does not tax the practice of lending per se.  It merely defines what lending investors are.  The question is whether the lending activities of insurance companies make them lending investors for purposes of taxation.
+We agree with the CTA and Court of Appeals that it does not.  Insurance companies cannot be considered lending investors under CA 466, as amended.
+Definition of Lending
+Investors under CA 466 Does
+Not Include Insurance
+Companies.
+The definition in Section 194(u) of CA 466 is not broad enough to include the business of insurance companies.  The Insurance Code of 1978
+[21]
+ is very clear on what constitutes an insurance company.  It provides that an insurer or insurance company âshall include all individuals, partnerships, associations or corporations xxx engaged as principals in the insurance business, excepting mutual benefit associations.â
+[22]
+ More specifically, respondents fall under the category of insurance corporations as defined in Section 185 of the Insurance Code, thus:
+SECTION 185. Corporations formed or organized to save any person or persons or other corporations harmless from loss, damage, or liability arising from any unknown or future or contingent event, or to indemnify or to compensate any person or persons or other corporations for any such loss, damage, or liability, or to guarantee the performance of or compliance with contractual obligations or the payment of debts of others shall be known as âinsurance corporations.â
+Plainly, insurance companies and lending investors are different enterprises in the eyes of the law.  Lending investors cannot, for a consideration, hold anyone harmless from loss, damage or liability, nor provide compensation or indemnity for loss.  The underwriting of risks is the prerogative of insurers, the great majority of which are incorporated insurance companies
+[23]
+ like respondents.
+Granting of Mortgage and
+other Loans are Investment
+Practices that are Part of the
+Insurance Business.
+True, respondents granted mortgage and other kinds of loans.  However, this was not done independently of respondentsâ insurance business.  The granting of certain loans is one of several means of investment allowed to insurance companies.  No less than the Insurance Code mandates and regulates this practice.
+[24]
+Unlike the practice of lending investors, the lending activities of insurance companies are circumscribed and strictly regulated by the State.  Insurance companies cannot freely lend to âthemselves or othersâ as lending investors can,
+[25]
+ nor can insurance companies grant simply any kind of loan.  Even prior to 1978, the Insurance Code prescribed strict rules for the granting of loans by insurance companies.
+[26]
+ These provisions on mortgage, collateral and policy loans were reiterated in the Insurance Code of 1978 and are still in force today.
+Petitioner concedes that respondentsâ investment practices are as much a part of the insurance business as the task of underwriting.  Nevertheless, petitioner argues that such investment practices are separately taxable under CA 466.
+The CTA and the Court of Appeals found that the investment of premiums and other funds received by respondents â through the granting of mortgage and other loans â was necessary to respondentsâ business and hence, should not be taxed separately.
+Insurance companies are required by law to possess and maintain substantial legal reserves to meet their obligations to policyholders.
+[27]
+ This obviously cannot be accomplished through the collection of premiums alone, as the legal reserves and capital and surplus insurance companies are obligated to maintain run into millions of pesos.  As such, the creation of âinvestment incomeâ has long been held to be generally, if not necessarily, 
+essential
+ to the business of insurance.
+[28]
+The creation of investment income in the manner sanctioned by the laws on insurance is thus part of the business of insurance, and the fruits of these investments are essentially income from the insurance business.  This is particularly true if the invested assets are held either as reserved funds to provide for policy obligations or as capital and surplus to provide an extra margin of safety which will be attractive to insurance buyers.
+[29]
+The Court has also held that when a company is taxed on its main business, it is no longer taxable further for engaging in an activity or work which is merely a part of, incidental to and is necessary to its main business.
+[30]
+ Respondents already paid percentage and fixed taxes on their insurance business.  To require them to pay percentage and fixed taxes again for an activity which is necessarily a part of the same business, the law must expressly require such additional payment of tax. There is, however, no provision of law requiring such additional payment of tax.
+Sections 195-A and 182(A)(3)(dd) of CA 466 do not require insurance companies to pay double percentage and fixed taxes.  They merely tax lending investors, not lending activities.  Respondents were not transformed into lending investors by the mere fact that they granted loans, as these investments were part of, incidental and necessary to their insurance business.
+Different Tax Treatment of
+Insurance Companies and
+Lending Investors.
+Section 182(A)(3) of CA 466 accorded different tax treatments to lending investors and insurance companies.  The relevant portions of Section 182 state:
+Sec. 182. 
+Fixed taxes.
+ â (A) 
+On business xxx
+(3) 
+Other fixed taxes.
+ â The following fixed taxes shall be collected as follows, the amount stated being for the whole year, when not otherwise specified;
+xxx
+(
+dd
+) Lending investors â
+In chartered cities and first class municipalities, five hundred pesos;
+In second and third class municipalities, two hundred and fifty pesos;
+In fourth and fifth class municipalities and municipal districts, one hundred and twenty-five pesos;  Provided, That lending investors who do business as such in more than one province shall pay a tax of five hundred pesos.
+xxx
+(
+gg
+) Banks, insurance companies, finance and investment companies doing business in the Philippines and franchise grantees, five hundred pesos.
+xxx (Emphasis supplied.)
+The separate provisions on lending investors and insurance companies demonstrate an intention to treat these businesses differently.  If Congress intended insurance companies to be taxed as lending investors, there would be no need for Section 182(A)(3)(gg).  Section 182(A)(3)(dd) would have been sufficient.  That insurance companies were included with banks, finance and investment companies also supports the CTAâs conclusion that insurance companies had more in common with the latter enterprises than with lending investors.  As the CTA pointed out, banks also regularly lend money at interest, but are not taxable as lending investors.
+We find no merit in petitionerâs contention that Congress intended to subject respondents to two percentage taxes and two fixed taxes.  Petitionerâs argument goes against the doctrine of strict interpretation of tax impositions.
+Petitionerâs argument is likewise not in accord with existing jurisprudence.  In 
+Commissioner of Internal Revenue v. Michel J. Lhuillier Pawnshop, Inc.
+,
+[31]
+ the Court ruled that the different tax treatment accorded to pawnshops and lending investors in the NIRC of 1977 and the NIRC of 1986 showed âthe intent of Congress to deal with both subjects differently.â  The same reasoning applies squarely to the present case.
+Even the current tax law does not treat insurance companies as lending investors.  Under Section 108(A)
+[32]
+ of the NIRC of 1997, lending investors and non-life insurance companies, except for their crop insurances, are subject to value-added tax (âVATâ).  Life insurance companies are exempt from VAT, but are subject to percentage tax under Section 123 of the NIRC of 1997.
+Indeed, the fact that Sections 195-A and 182(A)(3)(dd) of CA 466 failed to mention insurance companies already implies the latterâs exclusion from the coverage of these provisions.  When a statute enumerates the things upon which it is to operate, everything else by implication must be excluded from its operation and effect.
+[33]
+Definition of Lending
+Investors in CA 466 is Not
+New.
+Petitioner does not dispute that it issued a ruling in 1920 to the effect that the lending of money at interest was a necessary incident of the insurance business, and that insurance companies were thus not subject to the tax on money lenders.  Petitioner argues only that the 1920 ruling does not apply to the instant case because RA 6110 introduced the definition of lending investors to CA 466 only in 1969.
+The subject definition was actually introduced much earlier, at a time when lending investors were still referred to as money lenders.  Sections 45 and 46 of the Internal Revenue Law of 1914
+[34]
+ (â1914 Tax Codeâ) state:
+SECTION 45.  Amount of Tax on Business. â Fixed taxes on business shall be collected as follows, the amount stated being for the whole year, when not otherwise specified:
+xxx
+(x) Money lenders, eighty pesos;
+xxx
+SECTION 46. Words and Phrases Defined. â In applying the provisions of the preceding section words and phrases shall be taken in the sense and extension indicated below:
+xxx
+â
+Money lender
+â includes 
+all persons who make a practice of lending money for themselves or others at interest.
+  (Emphasis supplied)
+As can be seen, the definitions of âmoney lenderâ under the 1914 Tax Code and âlending investorâ under CA 466 are identical.  The term âmoney lenderâ was merely changed to âlending investorâ when Act No. 3963 amended the Revised Administrative Code in 1932.
+[35]
+ This same definition of lending investor has since appeared in Section 194(u) of CA 466 and later tax laws.
+Note that insurance companies were not included among the businesses subject to an annual fixed tax under the 1914 Tax Code.
+[36]
+  That Congress later saw the need to introduce Section 182(A)(3)(gg) in CA 466 bolsters our view that there was no legislative intent to tax insurance companies as lending investors.  If insurance companies were already taxed as lending investors, there would have been no need for a separate provision specifically requiring insurance companies to pay fixed taxes.
+The Court Accords Great
+Weight to the Factual Findings
+of the CTA.
+Dedicated exclusively to the study and consideration of tax problems, the CTA has necessarily developed an expertise in the subject of taxation that this Court has recognized time and again.  For this reason, the findings of fact of the CTA, particularly when affirmed by the Court of Appeals, are generally conclusive on this Court absent grave abuse of discretion or palpable error,
+[37]
+ which are not present in this case.
+WHEREFORE
+, we DENY the instant petition and AFFIRM the Decision of 7 January 2000 of the Court of Appeals in CA-G.R. SP No. 36816.
+SO ORDERED.
+Davide, Jr., C.J., (Chairman), Quisumbing, Ynares-Santiago
+, and 
+Azcuna, JJ.
+, concur.
+[1]
+ Under Rule 45 of the Rules of Civil Procedure.
+[2]
+ 
+Rollo
+, pp. 20-30.  Penned by Associate Justice Ramon Mabutas, Jr. with Associate Justices Artemio G. Tuquero and Mercedes Gozo Dadole concurring.
+[3]
+ Ibid., pp. 32-43. Penned by Associate Judge Manuel K. Gruba with Presiding Judge Ernesto D. Acosta and Associate Judge Ramon O. De Veyra concurring.
+[4]
+ Section 195-A was added to CA 466 by RA 6110.  It states: Sec. 195-A. 
+Percentage tax on dealers in securities; lending investors.
+ â Dealers in securities and lending investors shall pay a tax equivalent to three 
+per centum
+ on their gross income.
+[5]
+ 
+Rollo
+, pp. 34-35.
+[6]
+ Ibid., p. 39.
+[7]
+ Ibid., p. 42.
+[8]
+ Note that under Republic Act No. 9282, decisions of the CTA are now appealable to the Supreme Court via a verified petition for review on 
+certiorari
+.
+[9]
+ 
+Rollo
+, p. 30.
+[10]
+ Ibid., p. 10.
+[11]
+ Sec. 182. 
+Fixed taxes
+. â (A) 
+On business xxx
+xxx
+(3)  
+Other fixed taxes
+. â The following fixed taxes shall be collected as follows, the amount stated being for the whole year, when not otherwise specified;
+xxx
+(
+dd
+) Lending investors â
+In chartered cities and first class municipalities, five hundred pesos;
+In second and third class municipalities, two hundred and fifty pesos;
+In fourth and fifth class municipalities and municipal districts, one hundred and twenty-five pesos;  Provided, That lending investors who do business as such in more than one province shall pay a tax of five hundred pesos.
+[12]
+ CA 
+Rollo
+, pp. 7-18.
+[13]
+ 
+Lim v. Queensland Tokyo Commodities, Inc.
+, 424 Phil. 35 (2002).
+[14]
+ 
+Rollo
+, p. 42.
+[15]
+ 
+Garrido v. Court of Appeals
+, G.R. No. 101262, 14 September 1994, 236 SCRA 450.  See also 
+F.F. MaÃ±acop Construction Co., Inc. v. Court of Appeals
+, G.R. No. 122196, 15 January 1997, 266 SCRA 235.
+[16]
+ 
+Rollo
+, p. 112.
+[17]
+ 
+CIR v. CA
+, 338 Phil. 322 (1997).
+[18]
+ 
+Lincoln Philippine Life Insurance Co., Inc. v. CA
+, 354 Phil. 896 (1998); CIR v. CA, supra.
+[19]
+ Ibid.
+[20]
+ 
+Rollo
+, pp. 12-13.
+[21]
+ Presidential Decree No. 1460 (1978), as amended.
+[22]
+ Section 184, ibid.
+[23]
+ Maria Clara L. Campos, Insurance 7  (University of  the Philippines Law Center 1983); 43 Am Jur 2d,  Insurance, Â§188.
+[24]
+ See Sections 198 to 203 of Presidential Decree No. 1460.  Loans are not even the chief means of investment.  According to the Insurance Commission, loans accounted for only 16.61% of the investments made by the insurance industry in 2002.  Compare this with the industryâs investment in bonds and government securities, which amounted to 45.75% (http://www.ic.gov.ph/main.asp?pages=statper2002).
+[25]
+ In fact, pursuant to Insurance Circular Letter No. 064-60 (1960), reiterated in the Insurance Circular Letter of 20 May 1985, no insurance company could grant a loan to any of its officers or directors without the prior approval of the Insurance Commissioner.
+[26]
+ Presidential Decree No. 612 (1974) provided:
+Sec. 198.  No insurance company shall loan any of its money or deposits to any person, corporation or association, except upon first mortgage or deeds of trust of unencumbered, improved or unimproved real estate, including condominiums, in cities and centers of population of municipalities in the Philippines when the amount of such loan is not in excess of seventy per centum of the market value of such real estate; or upon the security of first mortgages or deeds of trust of actually cultivated, improved and unencumbered agricultural lands in the Philippines when the amount of such loan is not in excess of forty per centum of the market value of such land; or upon the purchase money mortgages or like securities received by it upon the sale or exchange of real property acquired pursuant to sections two hundred and two hundred two; or upon bonds or other evidences of debt of the Government of the Philippines or its political subdivisions authorized by law to issue bonds, or upon bonds or other evidences of debt of government-owned or controlled corporations and instrumentalities including the Central Bank or upon obligations issued or guaranteed by the International Bank for Reconstruction and Development; or upon stocks, bonds or other evidences of debt as are specified in section two hundred.
+A life insurance company, however, may lend to any of its policyholders upon the security of the value of its policy such sum as may be determined pursuant to the provisions of the policy.
+Loans granted upon the security of real estate for a period longer than five years shall be amortized in monthly, quarterly, semi-annual or annual installments; Provided, That no such loans shall have a maturity in excess of twenty years.
+The phrase âimproved real estateâ used above is hereby defined to mean land with permanent building or buildings erected or being erected thereon. Except as otherwise approved by the Commissioner, in case the building or buildings on land do not belong to the owner of the latter, no loan shall be granted on the security of the real estate in question unless both the owner of the building or buildings and the owner of the land sign the deed of mortgage, and unless the owner of the land is the Government of the Philippines or one of its political subdivisions, in which event the owner is not required to sign the deed of mortgage.
+Sec. 199.   No loan by any insurance company on the security of real estate shall be made unless the title to such real estate shall have first been registered in accordance with the existing Land Registration Act, or shall be a titulo real duly registered, or have been previously registered under the provisions of the existing Mortgage Law.
+These provisions were carried over in the Insurance Code of 1978.
+[27]
+ 
+Spouses Tibay v. CA
+, 326 Phil. 931 (1996).  See also Sections 194, 210 to 214 of Presidential Decree  No. 1460.
+[28]
+ 
+Bowers v. Lawyersâ Mortg. Co.
+, 285 U.S. 182 (1932).
+[29]
+ Justice Jose C. Vitug and Justice Ernesto D. Acosta, Tax Law and Jurisprudence, 2nd ed., 256, citing Commissioner of Internal Revenue v. Court of Tax Appeals, CA-G.R. SP No. 39511 to 39513, 30 September 1996.  This CA decision was never appealed to this Court.
+[30]
+ 
+Standard-Vacuum Oil Co. v. Antigua, etc., et al.
+, 96 Phil. 909 (1955).
+[31]
+ G.R. No. 150947, 15 July 2003, 406 SCRA 178.
+[32]
+ The relevant portion of Sec. 108(A) states:
+(A) Rate and Base of Tax. â There shall be levied, assessed and collected, a value-added tax equivalent to ten percent (10%) of gross receipts derived from the sale or exchange of services, including the use or lease of properties.
+The phrase âsale or exchange of servicesâ means the performance of all kinds of services in the Philippines for others for a fee, remuneration or consideration, including those performed or rendered by xxx 
+lending investors
+; xxx services of banks, non-bank financial intermediaries and finance companies; and 
+non-life insurance companies
+ (except their crop insurances), including surety, fidelity, indemnity and bonding companies; xxx.  (Emphasis supplied)
+[33]
+ Applying the maxim 
+expressio unius est exclusio alterius.  See
+ 
+Commissioner of Internal Revenue v. Michel J. Lhuillier Pawnshop, Inc.
+, supra note 31.
+[34]
+ Act No. 2339 (1914).
+[35]
+ Act No. 3963 (1932) provides:
+Sec. 2  Paragraph (v) of section fourteen hundred and sixty-five of the Revised Administrative Code is hereby amended so as to read as follows:
+â(v) âLending investorâ includes all persons who make a practice of lending money for themselves or others at interest.â  xxx
+[36]
+ The receipts of insurance companies were instead subject to internal revenue taxes under Sec. 21(e) of the 1914 Tax Code.
+[37]
+ Supra note 17.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

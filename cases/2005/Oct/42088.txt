@@ -1,0 +1,667 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			509 Phil. 728
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. NO. 159831, October 14, 2005 ]
+
+
+PILIPINAS SHELL PETROLEUM CORPORATION, PETITIONER, VS. JOHN BORDMAN LTD. OF ILOILO, INC., RESPONDENT.
+D E C I S I O N
+
+
+
+
+PANGANIBAN, J.:
+
+
+Deeply imbedded in our jurisprudence is the doctrine that the factual findings of the Court of Appeals (CA) affirming those of the trial court are, subject to some exceptions, binding upon this Court.  Otherwise stated, only questions of law, not of facts, may be raised before this Court in petitions for review under Rule 45 of the Rules of Court.  Nonetheless, in the interest of substantial justice, the Court delved into both the factual and the legal issues raised in the present case and found no reason to overturn the CA's main Decision.  Furthermore, under the peculiar factual circumstances of the instant appeal, this Court holds that the period for reckoning the prescription of the present cause of action began only when respondent discovered with certainty the short deliveries made by petitioner.
+The Case
+Before us is a Petition for Review
+[1]
+ under Rule 45 of the Rules of Court, assailing the August 20, 2002 Decision
+[2]
+ and August 29, 2003 Resolution
+[3]
+ of the Court of Appeals (CA) in CA-GR CV No. 46974.  The challenged Decision disposed as follows:
+"
+WHEREFORE
+, premises considered, the assailed decision dated August 30, 1991 of the RTC, Branch 26, Manila in Civil Case No. 13419 is hereby 
+AFFIRMED
+ with the 
+MODIFICATION
+ that the award of exemplary damages and attorney's fees be both reduced to P100,000.00.
+"The order dated December 9, 1991 is likewise 
+AFFIRMED
+."
+[4]
+The assailed Resolution denied reconsideration.
+The Facts
+Petitioner Pilipinas Shell Petroleum Corporation ("Pilipinas Shell") is a corporation engaged in the business of refining and processing petroleum products.
+[5]
+ The invoicing of the products was made by Pilipinas Shell, but delivery was effected through Arabay, Inc., its sole distributor at the time material to the present case.
+[6]
+ From 1955 to 1975, Respondent John Bordman Ltd. of Iloilo, Inc. ("John Bordman") purchased bunker oil in drums from Arabay.
+[7]
+ When Arabay ceased its operations in 1975, Pilipinas Shell took over and directly marketed its products to John Bordman.
+[8]
+On August 20, 1980, John Bordman filed against Pilipinas Shell a civil case for specific performance.  The former demanded the latter's short deliveries of fuel oil since 1955; as well as the payment of exemplary damages, attorney's fees and costs of suit.
+[9]
+ John Bordman alleged that Pilipinas Shell and Arabay had billed it at 210 liters per drum, while other oil companies operating in Bacolod had billed their customers at 200 liters per drum.  On July 24, 1974, when representatives from John Bordman and Arabay conducted a volumetric test to determine the quantity of fuel oil actually delivered, the drum used could only fill up to 190 liters, instead of 210 liters, or a short delivery rate of 9.5%.
+[10]
+ After this volumetric test, Arabay reduced its billing rate to 200 (instead of 210) liters per drum, except for 4 deliveries between August 1 and September 9, 1974, when the billing was at 190 liters per drum.
+[11]
+On January 23, 1975, another volumetric test allegedly showed that the drum could contain only 187.5 liters.
+[12]
+ On February 1, 1975, John Bordman requested from Pilipinas Shell that 640,000 liters of fuel oil, representing the latter's alleged deficient deliveries, be credited to the former's account.
+[13]
+ The volume demanded was adjusted to 780,000 liters, upon a realization that the billing rate of 210 liters per drum had been effective since 1966.
+On October 24, 1977 and November 9, 1977, representatives from John Bordman, the auditor of the Iloilo City Commission on Audit, pump boat carriers, and truck drivers conducted actual measurements of fuel loaded on tanker trucks as transferred to dented drums at mouth full.  They found that the drums could contain 180 liters only.
+[14]
+ In its Complaint, John Bordman prayed for the appointment of commissioners to ascertain the volume of short deliveries.
+[15]
+On October 21, 1980, Pilipinas Shell and Arabay filed their Answer with Counterclaim.
+[16]
+ They specifically denied that fuel oil deliveries had been less than those billed.
+[17]
+ Moreover, the drums used in the volumetric tests were allegedly not representative of the ones used in the actual deliveries.
+[18]
+By way of affirmative defense, Pilipinas Shell and Arabay countered that John Bordman had no cause of action against them.
+[19]
+ If any existed, it had been waived or extinguished; or otherwise barred by prescription, laches, and estoppel.
+[20]
+During the pretrial, the parties agreed to limit the issues to the following: (1) whether the action had prescribed, and (2) whether there had been short deliveries in the quantities of fuel oil.
+[21]
+ John Bordman's Motion for Trial by Commissioner was granted by the RTC,
+[22]
+ and the court-appointed commissioner submitted her Report on April 20, 1988.
+[23]
+On April 3, 1989, Pilipinas Shell and Arabay filed a Motion for Resolution of their affirmative defense of prescription.
+[24]
+ Because prescription had not been established with certainty, the RTC ordered them on November 6, 1989, to present evidence in support of their defense.
+[25]
+On August 30, 1991, the RTC issued a Decision in favor of respondent.
+[26]
+ Pilipinas Shell and Arabay were required to deliver to John Bordman 916,487.62 liters of bunker fuel oil, to pay actual damages of P1,000,000; exemplary damages of P500,000; attorney's fees of P500,000; and the costs of suit.
+[27]
+ The basis of the trial court's decision was predicated on the following pronouncement:
+"Since [respondent] had fully paid their contract price at 210 liters per drum, then the [petitioner] should deliver to the [respondent] the undelivered volume of fuel oil from 1955 to 1974, which is 20 liters per drum; and 10 liters per drum from 1974 to 1977.  Per the invoice receipts submitted, the total volume of fuel oil which [petitioner] have failed to deliver to [respondent] is 916,487.62 liters."
+[28]
+Pilipinas Shell appealed to the CA, alleging that John Bordman had failed to prove the short deliveries; and that the suit had been barred by estoppel, laches, and prescription.
+[29]
+Ruling of the Court of Appeals
+Upholding the trial court, the CA overruled petitioner's objections to the evidence of respondent in relation to the testimonies of the latter's witnesses and the results of the volumetric tests.
+[30]
+ The CA noted that deliveries from 1955 to 1977 had been admitted by petitioner; and the fact of deficiency, established by respondent.
+[31]
+The appellate court also debunked petitioner's claims of estoppel and laches.  It held that the stipulation in the product invoices stating that respondent had received the products in good order was not controlling.
+[32]
+ On the issue of prescription, the CA ruled that the action had been filed within the period required by law.
+[33]
+Hence, this Petition.
+[34]
+The Issues
+Petitioner states the issues in this wise:
+"I.
+Respondent's allegation that the Petition must be summarily dismissed for containing a false, defective and unauthorized verification and certification against forum shopping is patently unmeritorious, as the requisites for a valid verification and certification against forum shopping have been complied with.
+"II.
+The Decisions of the court 
+a quo
+ and of the Honorable Court of Appeals were clearly issued with grave abuse of discretion, based as they are on an unmistakable misappreciation of facts clearly appearing in the records of the case.
+A.
+The Honorable Court of Appeals erred giving full faith and credence to the testimony of respondent's sole witness, who was neither an "expert witness" nor one with personal knowledge of the material facts.
+B.
+The Honorable Court of Appeals erred in ruling that the testimony of respondent's sole witness was not controverted and that the results of his volumetric tests were not disproved by petitioner as the records of the court 
+a quo
+ indubitably show that petitioner disputed the testimony of said witness in every material respect.
+C.
+The court 
+a quo
+ and the Honorable Court of Appeals erred when it failed to hold that the results of the volumetric tests conducted by respondent's sole witness are not worthy of full faith and credence, considering that drums subjected to said tests in 1974 and 1975 were 
+not the same with, or otherwise similar to
+ those used by petitioner in the deliveries made to respondent since 1955.
+D.
+The Honorable Court of Appeals erred in holding that petitioner's unilateral reduction of billing rates constitutes an implied admission of the fact of short deliveries.  The reduction was made for no other purpose than as a business accommodation of a valued client.
+"III.
+The court 
+a quo
+, as well as the Honorable Court of Appeals, gravely erred in not ruling that respondent's claims of alleged short deliveries for the period 1955 to 1976 were already barred by prescription.
+"IV.
+The Honorable Court of Appeals and the court a quo erred in not ruling that respondent's claims are barred by estoppel and laches considering that respondent failed to assert its claim for about twenty-five (25) years.
+"V.
+The Honorable Court of Appeals erred in awarding to respondent compensatory damages, exemplary damages, attorney's fees and cost of suit, when petitioner has not otherwise acted in a wanton, fraudulent, reckless, oppressive or malevolent manner."
+[35]
+The Court's Ruling
+In the main, the Petition has no merit, except in regard to the CA's grant of exemplary damages.
+First Issue:
+Validity of Verification and Certification
+Preliminarily, the Court shall tackle respondent's allegation that petitioner's verification and certification against forum shopping had not complied with, and were in fact made in contravention of, Section 4 of Rule 45 of the Rules of Court.
+[36]
+  Respondent alleges that Romeo B. Garcia, vice-president of Pilipinas Shell, had no authority to execute them.
+[37]
+The records, however, show that petitioner's president conferred upon its vice-president the power to institute actions.  As certified by the assistant board secretary, the delegation was authorized by petitioner's board of directors.
+[38]
+ The power to institute actions necessarily included the power to execute the verification and certification against forum shopping, as required in a petition for review before this Court.
+In any event, the policy of liberal interpretation of procedural rules compels us to give due course to the Petition.
+[39]
+ There appears to be no intention to circumvent the need for proper verification and certification, which are intended to assure the truthfulness and correctness of the allegations in the Petition and to discourage forum shopping.
+[40]
+Second Issue:
+Appreciation of Facts
+As a general rule, questions of fact may not be raised in a petition for review.
+[41]
+ The factual findings of the trial court, especially when affirmed by the appellate court, are binding and conclusive on the Supreme Court.
+[42]
+ Nevertheless, this rule has certain exceptions,
+[43]
+ which petitioner asserts are present in this case.
+[44]
+ The Court reviewed the evidence presented and revisited the applicable pertinent rules.  Being intertwined, the issues raised by petitioner relating to the evidence will be discussed together.
+Objection to Respondent's Witness
+Petitioner claims that the trial court erred in giving credence to the testimony of respondent's witness, Engineer Jose A. Macarubbo.  The testimony had allegedly consisted of his personal opinion.  Under the Rules of Evidence, the opinion of a witness is not admissible, unless it is given by an expert.
+[45]
+ Macarubbo was allegedly not an expert witness; neither did he have personal knowledge of material facts.
+[46]
+We clarify.  Macarubbo testified that sometime in May 1974, respondent had contacted him to review the reception of fuel at its lime plant.  He discovered that Arabay had been billing respondent at 210 liters per drum, while other oil companies billed their customers at 200 liters per drum.
+[47]
+ On July 24, 1974, he and Jerome Juarez, branch manager of Pilipinas Shell, conducted a volumetric test to determine the amount of fuel that was actually being delivered to respondent.
+[48]
+ On January 25, 1975, the test was again conducted in the presence of Macarubbo, Juarez and Manuel Ravina (Arabay's sales supervisor).
+[49]
+From the foregoing facts, it is evident that Macarubbo did not testify as an expert witness.  The CA correctly noted that he had testified based on his personal knowledge and involvement in discovering the short deliveries.
+[50]
+  His testimony as an ordinary witness was aptly allowed by the appellate court under the following rule on admissibility:
+"Sec. 36. 
+Testimony generally confined to personal knowledge; hearsay excluded
+. - A witness can testify only to those facts which he knows of his personal knowledge; that is, which are derived from his own perception, except as otherwise provided in these rules."
+[51]
+Challenge to Volumetric Tests
+Petitioner disputes the CA's finding that it had failed to disprove the results of the volumetric tests conducted by respondent.  The former claims that it was able to controvert the latter's evidence.
+[52]
+During the July 24, 1974 volumetric test, representatives of both petitioner and respondent allegedly agreed to conduct two tests using drums independently chosen by each.
+[53]
+ Respondent allegedly chose the worst-dented drum that could fill only up to 190 liters.  The second drum, which was chosen by petitioner, was not tested in the presence of Macarubbo because of heavy rain.
+[54]
+ It supposedly filled up to 210 liters, however.
+[55]
+The issue, therefore, relates not to the submission of evidence, but to its weight and credibility.  While petitioner may have submitted evidence, it failed to disprove the short deliveries.  The lower courts obviously gave credence to the volumetric tests witnessed by both parties as opposed to those done solely by petitioner.
+Petitioner also challenges the reliability of the volumetric tests on the grounds of failure to simulate the position of the drums during filling
+[56]
+ and the fact that those tested were not representative of the ones used from 1955 to 1974.
+[57]
+ These contentions fail to overturn the short deliveries established by respondent.
+The evidence of petitioner challenging the volumetric tests was wanting.  It did not present any as regards the correct position of the drums during loading.  Notably, its representative had witnessed the two tests showing the short deliveries.
+[58]
+ He therefore had the opportunity to correct the position of the drums, if indeed they had been incorrectly positioned.  Further, there was no proof that those used in previous years were all good drums with no defects.  Neither was there evidence that its deliveries from 1955 had been properly measured.
+From the foregoing observations, it is apparent that the evidence presented by both parties preponderates in favor of respondent.  The Court agrees with the following observations of the CA:
+"[Petitioner] posits that its fuel deliveries were properly measured and/or calibrated.  To the mind of this Court, regardless of what method or manner the deliveries were made, whether pre-packed drums, by the dip stick method or through ex-jetty, the fact remains that [petitioner] failed to overcome the burden of proving that indeed the drums used during the deliveries contain 210 liters.  The [petitioner], to support its claim, adduced no evidence.  Moreover, it failed to disprove the results of the volumetric tests."
+[59]
+Having sustained the finding of short deliveries, the Court finds it no longer necessary to address the contention of petitioner that its subsequent reduction of billings constituted merely a business accommodation.
+[60]
+Third Issue:
+Prescription
+Action Based on Contract
+Petitioner avers that respondent's action -- a claim for damages as a result of over-billing -- has already prescribed.  Respondent's claim supposedly constitutes a quasi-delict, which prescribes in four years.
+[61]
+We do not agree.  It is elementary that a quasi-delict, as a source of an obligation, occurs only when there is no preexisting contractual relation between the parties.
+[62]
+ The action of respondent for specific performance was founded on short deliveries, which had arisen from its Contract of Sale with petitioner, and from which resulted the former's obligation in the present case.  Any action to enforce a breach of that Contract prescribes in ten years.
+[63]
+Prescriptive Period Counted from
+the Accrual of the Cause of Action
+Petitioner avers that the action of respondent, even if based on a Contract, has nevertheless already prescribed, because more than ten years had lapsed since 1955 to August 20, 1970 -- the period of short deliveries that the latter seeks to recover.
+[64]
+ Respondent's request for fuel adjustments on October 24, 1974, February 1, 1975, April 3, 1975, and September 22, 1975, were not formal demands that would interrupt the prescriptive period, says petitioner.
+The Court shall first address the contention that formal demands were not alleged in the Complaint.  This argument was not raised in the courts 
+a quo
+; thus, it cannot be brought before this tribunal.
+[65]
+ Well settled is the rule that issues not argued in the lower courts cannot be raised for the first time on appeal.
+[66]
+ At any rate, it appears from the records that respondent's letters to petitioner dated October 24, 1974 and February 1, 1975 were formal and written extrajudicial demands that interrupted the prescriptive period.
+[67]
+ Nevertheless, the interruption has no bearing on the prescriptive period, as will be shown presently.
+Cause of Action Defined
+Actions based upon a written contract should be brought within ten years from the time the right of action accrues.
+[68]
+ This accrual refers to the cause of action, which is defined as the act or the omission by which a party violates the right of another.
+[69]
+Jurisprudence is replete with the elements of a cause of action:  (1) a right in favor of the plaintiff by whatever means and under whatever law it arises or is created; (2) an obligation on the part of the named defendant to respect or not to violate the right; and (3) an act or omission on the part of the defendant violative of the right of the plaintiff or constituting a breach of an obligation to the latter.
+[70]
+ It is only when the last element occurs that a cause of action arises.
+[71]
+Applying the foregoing elements, it can readily be determined that a cause of action in a contract arises upon its breach or violation.
+[72]
+  Therefore, the period of prescription commences, not from the date of the execution of the contract, but from the 
+occurrence of the breach
+.
+The cause of action resulting from a breach of contract is dependent on the facts of each particular case.  The following cases involving prescription illustrate this statement.
+Nabus v. Court of Appeals
+[73]
+ dealt with an action to rescind a Contract of Sale.  The cause of action arose at the time when the last installment was not paid.  Since the case was filed ten years after that date, the action was deemed to have prescribed.
+[74]
+In 
+Elido v. Court of Appeals
+,
+[75]
+ the overdraft Agreement stipulated that the obligation was payable on demand.  Thus, the breach started only when that judicial demand was made.  This rule was applied recently to 
+China Banking Corporation v. Court of Appeals
+,
+[76]
+ which held that the prescriptive period commenced on the date of the demand, not on the maturity of the certificate of indebtedness.  In that case, the certificate had stipulated that payment should be made upon presentation.
+Banco Filipino Savings & Mortgage Bank v. Court of Appeals
+[77]
+ involved a Contract of Loan with real estate mortgages, whereby the creditor could unilaterally increase the interest rate.  When the debtor failed to pay the loan, the creditor foreclosed on the mortgage.  The Court ruled that the cause of action for the annulment of the foreclosure sale should be counted from the date the debtor discovered the increased interest rate.
+[78]
+In 
+Cole v. Gregorio
+,
+[79]
+ the agreement to buy and sell was conditioned upon the conduct of a preliminary survey of the land to verify whether it contained the area stated in the Tax Declaration.  Both the agreement and the survey were made in 1963.  The Court ruled that the right of action for specific performance arose only in 1966, when the plaintiff discovered the completion of the survey.
+[80]
+Serrano v. Court of Appeals
+[81]
+dealt with money claims arising from a Contract of Employment, which would prescribe in three years from the time the cause of action accrued.
+[82]
+ The Court noted that the cause of action had arisen when the employer made a definite denial of the employee's claim.  It was deemed that the issues had not yet been joined prior to the definite denial of the claim, because the employee could have still been reinstated.
+[83]
+Naga Telephone Co. v. Court of Appeals
+[84]
+ involved the reformation of a Contract.  Among others, the grounds for the action filed by the plaintiff included allegations that the contract was too one-sided in favor of the defendant, and that certain events had made the arrangement inequitable.
+[85]
+ The Court ruled that the cause of action for a reformation would arise only when the contract appeared disadvantageous.
+[86]
+Cause of Action in
+the Present Case
+The Court of Appeals noted that, in the case before us, respondent had been negotiating with petitioner since 1974.  Accordingly, the CA ruled that the cause of action had arisen only in 1979, after a manifestation of petitioner's denial of the claims.
+[87]
+The nature of the product in the present factual milieu is a major factor in determining when the cause of action has accrued.  The delivery of fuel oil requires the buyer's dependence upon the seller for the correctness of the volume.  When fuel is delivered in drums, a buyer readily assumes that the agreed volume 
+can
+ be, and 
+actually
+ is, contained in those drums.
+Buyer dependence is common in many ordinary sale transactions, as when gasoline is loaded in the gas tanks of motor vehicles, and when beverage is purchased in bottles and ice cream in bulk containers.  In these cases, the buyers rely, to a considerable degree, on the sellers' representation that the agreed volumes are being delivered.  They are no longer expected to make a meticulous measurement of each and every delivery.
+To the mind of this Court, the cause of action in the present case arose on July 24, 1974, when respondent discovered the short deliveries with certainty.  Prior to the discovery, the latter had no indication that it was not getting what it was paying for.  There was yet no issue to speak of; thus, it could not have brought an action against petitioner.  It was only after the discovery of the short deliveries that respondent got into a position to bring an action for specific performance.  Evidently then, that action was brought within the prescriptive period when it was filed on August 20, 1980.
+Fourth Issue:
+Estoppel
+Petitioner alleges, in addition to prescription, that respondent is estopped from claiming short deliveries.
+[88]
+ It is argued that, since the initial deliveries had been made way back in 1955, the latter belatedly asserted its right only in 1980, or after twenty-five years.  Moreover, respondent should allegedly be bound by the Certification in the delivery Receipts and Invoices that state as follows:
+"RECEIVED ABOVE PRODUCT(S) IN GOOD CONDITION.  I HAVE INSPECTED THE COMPARTMENTS OF THE BULK LORRY, WHEN FULL AND EMPTY, AND FOUND THEM IN ORDER."
+[89]
+Estoppel by Laches
+Estoppel by laches is the failure or neglect for an unreasonable length of time to do that which, by the exercise of due diligence, could or should have been done earlier.
+[90]
+ Otherwise stated, negligence or omission to assert a right within a reasonable time warrants a presumption that the party has abandoned or declined the right.
+[91]
+ This principle is based on grounds of public policy, which discourages stale claims for the peace of society.
+[92]
+Respondent cannot be held guilty of delay in asserting its right during the time it did not yet know of the short deliveries.  The facts in the present case show that after the discovery of the short deliveries, it immediately sought to recover the undelivered fuel from petitioner.
+[93]
+ Laches refers, 
+inter alia
+, to the length of time in asserting a claim.  The Court, therefore, agrees with the lower courts that respondent's claim was not lost by laches.
+Alleged Certification Not a Bar
+It is not disputed that the alleged Certification stating that respondent received the fuel oil in good condition is in the nature of a contract of adhesion.
+[94]
+  The statement was in fine print at the lower right of petitioner's invoices.
+[95]
+  It was made in the form and language prepared by petitioner.  The latter's customers, including respondent, were required to sign the statement upon every delivery.  The primary purpose of an invoice, however, is merely to evidence delivery and receipt of the goods stated in it.
+While the Court has sustained the validity of similar stipulations in other contracts, it has also recognized that reliance on them cannot be favored when the facts and circumstances warrant the contrary.
+[96]
+ Noting the nature of the product in the present factual milieu, as discussed earlier in the claim of prescription, the dependence of the buyer upon the seller makes the stipulation inapplicable.
+Indeed, it would be too cumbersome and impractical for respondent to measure the fuel oil in each and every drum delivered.  Nonetheless, upon delivery by petitioner, the former was obliged to sign the Certification in the invoice.  In signing it, respondent could not have waived the right to a legitimate claim for hidden defects.  Thus, it is not estopped from recovering short deliveries.
+Doubts in the interpretation of stipulations in contracts of adhesion should be resolved against the party that prepared them.  This principle especially holds true with regard to waivers, which are not presumed, but which must be clearly and convincingly shown.
+[97]
+Fourth Issue:
+Exemplary Damages and Attorney's Fees
+In the last error assigned, petitioner challenges the Order for specific performance and the awards of exemplary damages and attorney's fees in favor of respondent.
+[98]
+ The directive for the delivery of 916,487.62 liters of bunker oil will no longer be taken up because, as discussed earlier, this fact is borne out by the evidence.
+The CA sustained the award of exemplary damages because of petitioner's wanton refusal to deliver the shortages of fuel oil after the demand was made.
+[99]
+  Similarly, attorney's fees were imposed, because respondent had been compelled to litigate to protect its interests.
+[100]
+ Both awards, however, were each reduced from P500,000 to P100,000.
+[101]
+Exemplary Damages Not Proper
+Exemplary damages are imposed as a corrective measure
+[102]
+ when the guilty party has acted in a wanton, fraudulent, reckless, oppressive, or malevolent manner.
+[103]
+ These damages are awarded in accordance with the sound discretion of the court.
+[104]
+Petitioner argues that its refusal to deliver the shortages of fuel was premised on good faith.
+[105]
+ Indeed, records reveal that it had reviewed respondent's requests for the delivery of shortages before declining them.
+[106]
+ It likewise readily granted respondent's requests to conduct volumetric tests.  It simply had the mistaken belief that it was not liable for any shortages.  Unfortunately, the evidence showed the contrary.
+Absent any showing of bad faith on the part of petitioner, exemplary damages cannot be imposed upon it.
+Attorney's Fees Allowed
+Petitioner claims that the award of attorney's fees was tied up with the award for exemplary damages.
+[107]
+ Since those damages were not recoverable, then the attorney's fees allegedly had no legal basis. 
+While attorney's fees are recoverable when exemplary damages are awarded, the former may also be granted when the court deems it just and equitable.
+[108]
+ The grant of attorney's fees depends on the circumstances of each case and lies within the discretion of the court.  They may be awarded when a party is compelled to litigate or to incur expenses to protect its interest by reason of an unjustified act by the other.
+[109]
+The Court agrees that the award of P100,000 as attorney's fees is very reasonable;
+[110]
+ in fact, it is almost symbolic, as it will not totally recompense respondent for the actual fees spent to prosecute its cause.  The case has dragged on unnecessarily despite petitioner's failure to present countervailing evidence during the trial.  Moreover, respondent was compelled to litigate, notwithstanding its attempt at an amicable settlement from the time it discovered the shortages in 1974 until the actual filing of the case in 1980.
+[111]
+WHEREFORE, the Petition is hereby 
+DENIED
+.  The assailed Decision and Resolution are 
+AFFIRMED
+ with the slight 
+MODIFICATION
+ that the award of exemplary damages is deleted.  Costs against petitioner.
+SO ORDERED.
+Sandoval-Gutierrez, Corona, Carpio Morales,
+ and 
+Garcia, JJ.,
+ concur.
+[1]
+ Rollo, pp. 83-122.
+[2]
+ Id., pp. 130-149.  Tenth Division.  Penned by Justice Remedios A. Salazar-Fernando, with the concurrence of Justices Romeo J. Callejo Sr. (Division chair and now a member of this Court) and Danilo B. Pine (member).
+[3]
+ Id., p. 151.
+[4]
+ CA Decision, p. 19; rollo, p. 148.
+[5]
+ Petitioner's Memorandum, p. 7; rollo, p. 501.
+[6]
+ RTC Decision dated August 30, 1991, p. 5; CA rollo, p. 86.
+[7]
+ Ibid; Petitioner's Memorandum, p. 7; rollo, p. 501.
+[8]
+ IbId.; Petitioner's Exhibit "4" (records, p. 1179).
+[9]
+ Complaint, p. 7; records, p. 9.
+[10]
+ Id., pp. 2-3 & 4-5.
+[11]
+ Id., pp. 3 & 5.
+[12]
+ Ibid.
+[13]
+ Id., pp. 4 & 6.
+[14]
+ Id., pp. 6 & 8.
+[15]
+ Id., pp. 7 & 9.
+[16]
+ Assailed Decision, p. 8; rollo, p. 137.
+[17]
+ Answer with Counterclaim, p. 4; records, p. 13.
+[18]
+ Ibid.
+[19]
+ Id., pp. 10-11 & 19-20.
+[20]
+ Id., pp. 11-12 & 20-21.
+[21]
+ RTC Order dated August 5, 1982; records, p. 72.
+[22]
+ There were three commissioners:  Mr. Victoriano T. Macarubo (representing John Bordman), Atty. Luis A. Vera Cruz Jr. (representing Pilipinas Shell and Arabay), and Rebecca R. Mariano (as appointed by the trial court).
+[23]
+ Report by Commissioner Rebecca R. Mariano; records, pp. 283-284.
+[24]
+ Assailed Decision, p. 8; rollo, p. 137.
+[25]
+ RTC Order dated November 6, 1989, pp. 2-3; records, pp. 1043-1044.
+[26]
+ RTC Decision; CA rollo, pp. 82-91.
+[27]
+ Id., pp. 9-10; CA rollo, pp. 90-91.
+[28]
+ RTC Decision, pp. 8-9; CA rollo, pp. 89-90.
+[29]
+ Appellant's Brief, pp. 9-10; CA rollo, pp. 53-54.
+[30]
+ Assailed Decision, pp. 12-13; rollo, pp. 140-141.
+[31]
+ Ibid.
+[32]
+ Id., pp. 14 & 142.
+[33]
+ Id., pp. 17 & 145.
+[34]
+ The case was deemed submitted for decision on November 18, 2004, upon this Court's receipt of petitioner's Memorandum, signed by Attys. Ana Teresa Arnaldo-Oracion and Ria Corazon A. Golez.  Respondent's Memorandum, signed by Atty. Miguel Antonio H. Galvez, was received by this Court on November 3, 2004.
+[35]
+ Petitioner's Memorandum, pp. 12-13; rollo, pp. 506-507.  Original in uppercase.
+[36]
+ The rule requires a certification against forum shopping and verification that the allegations in the Petition are true and correct based on personal knowledge and authentic records.
+[37]
+ Respondent's Memorandum, pp. 1-2; rollo, pp. 425-426.
+[38]
+ Certification of Efren L. Legaspi; rollo, p. 127.
+[39]
+ Â§6 of Rule 1 of the Rules of Court.
+[40]
+ See 
+BA Savings Bank v. Sia
+, 336 SCRA 484, July 27, 2000.
+[41]
+ Â§1 of Rule 45 of the Rules of Court.
+[42]
+ 
+Sps. Lagandaon v. Court of Appeals
+, 352 Phil. 928, May 21, 1998; 
+Yu Bun Guan v. Ong
+, 419 Phil. 845, October 18, 2001; 
+Cuenco v. Cuenco vda. de Manguerra
+, 440 SCRA 252, October 13, 2004.
+[43]
+ 
+CIR v. EmbroIdery and Garments Industries (Phil.), Inc
+., 364 Phil. 541, 546, March 22, 1999; 
+Medina v. Asistio
+, 191 SCRA 218, 223, November 8, 1990.
+[44]
+ Petitioner claims that (1) the factual findings are grounded entirely on speculations, surmises or conjectures; (2) the lower court's inference from its factual findings were manifestly mistaken, absurd or impossible; (3) there was grave abuse of discretion in the appreciation of facts; (4) there was a misappreciation of facts, as those averred by petitioner were not disputed by the respondent; and (5) the factual findings of the Court of Appeals, which were premised on absence of evidence, are contradicted by the evidence on record.  (Petitioner's Memorandum, pp. 2-3; rollo, pp. 496-497)
+[45]
+ Â§48 of Rule 130 of the Rules of Court.
+[46]
+ Petitioner's Memorandum, p. 18; Rollo, p. 512.
+The Court, however, observes that in its Memorandum, petitioner failed to explain how Macarubbo lacked any personal knowledge on the material facts.
+[47]
+ RTC Decision, p. 1; CA rollo, p. 82.
+[48]
+ Id., pp. 2 & 83.  
+See also
+ Answer, p. 2; records, p. 11; TSN dated September 13, 1983, pp. 11-16; TSN dated May 29, 1990, p. 17.
+[49]
+ IbId. See also Answer, p. 2; records, p. 11; TSN dated September 13, 1983, p. 21; TSN dated May 29, 1990, p. 19; Answer, p. 2; records, p. 11.
+[50]
+ Assailed Decision, p. 11; rollo, p. 140.
+[51]
+ Rule 130 of the Rules of Court.
+[52]
+ Petitioner's Memorandum, p. 23; rollo, p. 517.
+[53]
+ Petitioner's Memorandum, pp. 23-24; rollo, pp. 517-518.
+[54]
+ Petitioner's Memorandum, p. 24; rollo, p. 518.
+[55]
+ Id., p. 25; Rollo, p. 519.
+[56]
+ Petitioner claims that a drum will contain more fuel oil when loaded in an inclined position than when it is filled up in an upright position, because of less ullage or allowance for gas expansion.  (Petitioner's Memorandum, p. 26; rollo, p. 520)
+[57]
+ Petitioner's Memorandum, p. 29; rollo, p. 523.
+[58]
+ TSN dated May 29, 1990, pp. 17 & 20.
+[59]
+ Assailed Decision, p. 13; rollo, p. 141.
+[60]
+ The CA found that the accuracy of the volumetric tests had been bolstered by Shell's voluntary reduction of its billing rate.  (Assailed Decision, p. 11; rollo, p. 140).
+Petitioner voluntarily reduced its billing rate effective July 24, 1974, the date on which the first volumetric test was conducted.  (Answer, p. 2; records, p. 11; TSN dated May 29, 1990, p. 19.
+[61]
+ Petitioner's Memorandum, p. 34; rollo, p. 528 (citing Art. 1146 of the Civil Code).
+[62]
+ Art. 2126 of the Civil Code.
+[63]
+ Art. 1144 of the Civil Code.
+[64]
+ Petitioner's Memorandum. pp. 34-35; rollo, pp. 528-529.
+[65]
+ 
+See
+ Petitioner's Appellant Brief, pp. 30-32; CA rollo, pp. 74-76.
+[66]
+ 
+Elido v. Court of Appeals
+, 216 SCRA 637, 646, December 16, 1992; 
+BA Finance Corporation v. Court of Appeals
+, 201 SCRA 17, 164, August 28, 1991.
+[67]
+ Petitioner's Exhibits "D" and "E;" records, pp. 318-337.
+The interruption of the prescriptive period by a written extrajudicial demand means that the period to file would commence anew from the receipt of the demand.  (
+Permanent Savings and Loan Bank v. Velarde
+, 439 SCRA 1, 11, September 23, 2004)
+[68]
+ Art. 1144 of the Civil Code.
+[69]
+ Â§2 of Rule 2 of the Rules of Court.
+[70]
+ 
+China Banking Corporation v. Court of Appeals
+, GR No. 153267, June 23, 2005; 
+Swagman Hotels & Travel, Inc. v. Court of Appeals
+, GR No. 161135, April 8, 2005; 
+Nabus v. Court of Appeals
+, 193 SCRA 732, 747, February 7, 1991; 
+Cole v. Gregorio
+, 202 Phil. 226, 236, September 21, 1982.
+[71]
+ Ibid.
+[72]
+ Ibid.
+[73]
+ 193 SCRA 732, February 7, 1991.
+[74]
+ Id., p. 747.
+[75]
+ 216 SCRA 637, 644, December 16, 1992.
+[76]
+ Supra.
+[77]
+ 388 Phil. 27, May 30, 2000.
+[78]
+ Id., p. 40.
+[79]
+ Supra.
+[80]
+ Id., p. 238.
+[81]
+ 415 Phil. 447, August 15, 2001.
+[82]
+ Art. 291 of the Labor Code.
+[83]
+ Supra, p. 458.
+[84]
+ 230 SCRA 351, February 24, 1994.
+[85]
+ Id., p. 355.
+[86]
+ Id., p. 369.
+[87]
+ Assailed Decision, p. 17; rollo, p. 145.
+[88]
+ Petitioner's Memorandum, p. 37; rollo, p. 531.
+[89]
+ Ibid.
+[90]
+ Alfredo v. Borras
+, 404 SCRA 145, 167, June 17, 2003; 
+Felizardo v. Fernandez
+, 363 SCRA 182, 191, August 15, 2001; 
+Tijam v. Sibonghanoy
+, 131 Phil. 556, 563, April 15, 1968.
+[91]
+ Ibid.
+[92]
+ 
+Felizardo v. Fernandez
+, Supra, 
+Catholic Bishop of Balanga v. Court of Appeals
+, 332 Phil. 206, 219, November 14, 1996.
+[93]
+ Exhibits "C" and "D"; records, pp. 317-318.
+[94]
+ A contract of adhesion is one wherein a party prepares the stipulations in the contract, while the other party merely affixes the latter's signature to it.  (
+Gulf Resorts v. Phil. Charter Insurance Corp
+., GR No. 156167, May 16, 2005)
+[95]
+ Respondent's Exhibits "O," "O-1" to "O-136," "P," "P-1" to "P-105," "Q," "Q-1" to "Q-147," "R," "R-1" to "R-135," "S," and "S-1" to "S-86"; records, pp. 353-971.
+[96]
+ 
+Cebu Shipyard & Engineering Works v. William Lines
+, 366 Phil. 439, 457, May 5, 1999; 
+Sweet Lines, Inc. v. Teves
+, 83 SCRA 361, 369, May 19, 1978.  See also 
+Philippine National Bank v. Court of Appeals
+, 196 SCRA 536, 545, April 30, 1991.
+[97]
+ See 
+Ramirez v. Court of Appeals
+, 98 Phil. 225, 228, January 25, 1956; 
+Arrieta v. National Rice and Corn Corp
+., 119 Phil. 339, 347, January 31, 1964.
+[98]
+ Petitioner's Memorandum, pp. 43-44; Rollo, pp. 537-538.
+The Court observes that petitioner is no longer challenging the actual or compensatory damages in the amount of P1,000,000 that was awarded by the trial court.  (RTC Decision, p. 9; CA rollo, p. 90).
+[99]
+ Assailed Decision, p. 18; rollo, p. 147.
+[100]
+ Ibid.
+[101]
+ Id., p. 19; rollo, p. 148.
+[102]
+ Art. 2229 of the Civil Code.
+[103]
+ Art. 2232 of the Civil Code.
+[104]
+ Art. 2233 of the Civil Code.
+[105]
+ Petitioner's Memorandum, p. 43; rollo, p. 537.
+[106]
+ Petitioner's Exhibit "1," "3" and "4;" records, pp. 1171, 1177 and 1179.
+[107]
+ Petitioner's Memorandum, p. 44; rollo, p. 538.
+[108]
+ Art. 2208 of the Civil Code.
+[109]
+ 
+Chavez v. Court of Appeals
+, 453 SCRA 843, 854, March 18, 2005; 
+Tugade v. Court of Appeals
+, 407 SCRA 497, 515, July 31, 2003.
+[110]
+ Art. 2208 of the Civil Code.
+[111]
+ Petitioner's Exhibits "C," "D," "E," "M," and "N"; records, pp. 317, 318, 327, and 348-352.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)
