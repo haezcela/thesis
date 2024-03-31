@@ -1,0 +1,212 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			540 Phil. 279
+			
+
+
+
+
+EN BANC
+
+
+[ G.R. NO. 157875, December 19, 2006 ]
+
+
+DR. TERESITA L. SALVA,PRESIDENT OF THE PALAWAN STATE UNIVERSITY (FORMERLY PALAWAN STATE COLLEGE), PETITIONER, VS. GUILLERMO N. CARAGUE, AS CHAIRMAN, COMMISSION ON AUDIT, RAUL FLORES,  AS COMMISSIONER, COMMISSION ON AUDIT AND EMMANUEL M. DALMAN,  IN HIS CAPACITY AS COMMISSIONER, RESPONDENTS
+
+
+
+
+AUSTRIA-MARTINEZ, J.
+
+
+Petitioner Dr. Teresita L. Salva, President of the Palawan State University (formerly Palawan State College [PSC]), is being held personally liable by the Commission on Audit (COA) for the disallowance made on the construction of Phase II, Multi-Purpose Building of the PSC in the amount of P274,726.38.
+In 1992, the PSC and the Integrand Development Construction, Inc. (IDCI) entered into a Construction Agreement for the construction of the PSC Multi-Purpose Building (Phase II) for the price of P1,685,883.45.
+[1]
+  When the COA-Technical Audit Specialist (COA-TAS) reviewed the contract, it found an excess of P456,242.97, which was later reduced to P274,726.38.  The excess was attributed to the costs of items of mobilization/demobilization and earthfill and compaction.  The COA-TAS's computation was as follows:
+Contract Price
+COA Estimates
+Excess
+ I. Mobilization
+P  85,000.00
+P  20,576.44 
+ P 64,423.56 
+II. Earthfill and Compaction 
+530, 910.00 
+197,157.15
+333,752.85
+III.Construction CS-I 
+21,226.90 
+19,871.99 
+1,354.01
+IV. Construction of Bleacher
+363,047.00
+364,962,89
+(1,915.89)
+ V. Concreting of Slab 
+555,790.00 
+551,918.26
+3,871.74
+VI.  Construction of Interior Walls 
+97,454.00
+93,337.32
+4,116.68
+VII.  Installation of RCS Pipes
+32,456.45
+35,046.02
+(2,589.57)
+Total
+P1,685,883.45
+P1,282,870.07
+P403,013.38
+10%
+128,287.00
+(128,287.00)
+P1,685,883.45
+P1,411,157.07
+P274,726.38
+[2]
+Petitioner contested the assessment made by the COA-TAS, arguing that the mobilization and demobilization was computed at P20,567.44 based at 2% Direct Costs per DPWH Order No. 3 but excluding the cost of providing temporary facilities such as 
+bodega
+, perimeter fence, and access road, which were all included in the computation of the mobilization item by the agency; and the cost of earthfill and compaction was computed only at 8 working days, which is too short for a volume of 2,0334 cubic meters.
+In COA Decision No. 95-211 dated March 28, 1995, the disallowance made by the COA-TAS was affirmed, and petitioner, together with PSC Vice-President Francisco M. Romantico and PSC Accountant Carolina S. Baloran, were held jointly and severally liable for the amount of P274,726.38.
+[3]
+The COA further affirmed said disallowance in COA Decision No. 2000-273 dated September 26, 2000, with the modification that Romantico and Baloran were excused from any liability, while Engineers Norberto S. Dela Cruz and Lucy Janet Pasion, and the IDCI Manager, were included as persons liable for the amount.
+[4]
+Petitioner sought reconsideration thereof but it was denied by the OCA per its Resolution dated March 18, 2003 denominated as COA Decision No. 2003-063, the dispositive portion of which reads:
+WHEREFORE, in view of all the foregoing considerations and upon the recommendation of the Technical Services Division, COA Regional Office No. IV, Quezon City, that no new material evidence or substantial matters have been raised to warrant a reversal or modification of the subject decision, this Commission has no other recourse but to deny the instant motion for reconsideration.
+Accordingly, COA Decision No. 2000-273, dated September 26, 2000 is hereby 
+affirmed with finality
+.  Engr. Norberto S. Dela Cruz, Engr. Lucy Janet Pasion, Dr. Teresita Salva and the Manager, Integrand Development Construction, Inc. remain to be liable for the disallowed amount of P274,726.38.
+[5]
+Hence, the present Amended Petition for 
+Certiorari
+ under Rule 65 of the Rules of Court, claiming that the COA committed grave abuse of discretion amounting to excess or lack of jurisdiction
+ x x x IN NOT FINDING THAT THE PETITIONER SHOULD NOT BE MADE LIABLE ON THE GROUND THAT SHE APPROVED IN GOOD FAITH THE AWARD;
+ x x x WHEN IT AFFIRMED THE COMPUTATION OF THE AMOUNT OF DISALLOWANCE MADE BY THE COA TECHNICAL AUDIT SPECIALIST;
+ x x x WHEN IT RENDERED THE ASSAILED RESOLUTION IN DENIAL OF THE PETITIONER'S RIGHT TO DUE PROCESS;
+ x x x IN AFFIRMING THE LIABILITY OF THE PETITIONER WHILE ABSOLVING THE OTHER OFFICIALS AND EVEN THE BOARD OF TRUSTEES OF THE PSC, THUS VIOLATING HER RIGHT TO EQUAL PROTECTION.
+[6]
+The pivotal issue in this petition is whether or not petitioner should be held personally liable for the disallowed amount of P274,726.38.
+Petitioner is found liable under Section 103 of Presidential Decree No. 1445 or the Government Auditing Code of the Philippines, which provides:
+SECTION 103. 
+General liability for unlawful expenditures
+.âExpenditures of government funds or uses of government property in violation of law or regulations shall be a personal liability of the official or employee found to be directly responsible therefor.
+Under this provision, an official or employee shall be personally liable for unauthorized expenditures if the following requisites are present, to wit:  (a) there must be an expenditure of government funds or use of government property; (b) the expenditure is in violation of law or regulation; and (c) the official is found directly responsible therefor.
+[7]
+Related to the foregoing is Section 19 of the Manual on Certificate of Settlement and Balances,
+[8]
+ which states:
+19.1 The liability of public officers and other persons for audit disallowances shall be determined on the basis of: (a) the nature of the disallowance; (b) the duties, responsibilities or obligations of the officers/ persons concerned; (c) the extent of their participation or involvement in the disallowed transaction; and (d) the amount of losses or damages suffered by the government thereby.  x x x
+In the present case, the reason put forth by the COA in holding petitioner liable was due to the diversion of the sources for filling materials resulting in the use of additional equipment and expense.  The COA found that since it was petitioner who directly caused such diversion, then she should be personally liable for the resulting additional expense.
+It should be noted that the disallowance fell under Mobilization and Demobilization, and Earthfill and Compaction expenses, as appearing in the Approved Agency Estimates (AAE).  Under the AAE, the contract price for the Mobilization and Demobilization was at P85,000.00 as against the COA estimate of P20,576.44, while the Earthfill and Compaction was at P530,910.00 as against the COA estimate of P197,157.15.  The COA computed the Mobilization/Demobilization at 2% of the estimated direct cost per DPWH Department Order No. 30 (January 30, 1991).  On the other hand, COA estimated the Earthfill and Compaction cost at P77.60 per cubic meter, while the PSU estimated the same at P77.60.  Thus, the resulting discrepancy in the costing made by the COA and the PSU.
+The AAE was prepared by PSU Engineers Norberto S. dela Cruz and Lucy Janet R. Pasion.
+[9]
+  Petitioner's only participation therein was to approve the same.  As in the case of Suarez v. Commission on Audit,
+[10]
+ petitioner had nothing to do with the preparation and the computation of the AAE.  Therefore, she should not have been held liable for the amounts disallowed during the post-audit.
+The fact that petitioner is the President of the PSU does not automatically make her the party ultimately liable in case of disallowance of expenses for questionable transactions of her agency.  Petitioner cannot be held personally liable for the disallowance simply because she was the final approving authority of the transaction in question and that the officers/employees who processed the same were directly under her supervision.
+[11]
+ 
+More importantly, petitioner satisfactorily justified the incurrence of such additional expense.  As explained in her letter of March 9, 1993, the fencing, construction of temporary access roadway for the entrance of heavy equipment and construction of stockroom were included under Mobilization; filling materials were taken from the area approximately 200 meters away from the project site instead of buying from other sources; and the change in the source of filling materials called for the utilization of additional various heavy equipment such as a payloader, water truck, compactor, grader and dump truck.   All these were done after consultation and recommendation of the project engineer provided all the fruit trees in the area are preserved and proper care is maintained during the leveling.  Soil tests were likewise conducted to ascertain that the area was a good source of filling materials.
+[12]
+Engineer dela Cruz likewise proffered an explanation for the additional expense incurred for the Earthfill and Compaction, to wit:
+The undersigned, as Project Engineer didn't allow payloader, Dumptruck and Grader inside the building instead use [sic] manpower to spread filling materials layer by layer for proper dewatering and compaction.
+At the left side of the building, the height of filling materials is 2.60 m.  This will create horizontal pressure at the wall, possible failure.  As Engineer in Charge, the undersigned convinced the Contractor to work for this, promising them that he'll include this in the program of Phase II of the project, and will help them to negotiate for it.  Utilizing Bulldozer, Payloader, Dumptruck and Grader, the work have been executed.  The horizontal pressure at the wall was neutralized and the site development provision for parking was done. 
+ x x x x
+The earthfill inside the building which represents 2.190 cu.m. was quarried outside PSC Campus.   Unit cost of which is P150.00 per cu.m.
+The earthworks outside the building which include cut and fill, and serve as protection and parking was not included in the program of phase II of this project and the Agency was not able to pay this.
+[13]
+The COA, in fact, "acknowledged" petitioner's explanation although it refused to accept the same, taking note of some alleged "irregularities," e.g., mobilization costs were already included and accomplished under Phase I of the project in which IDCI was also the contractor; there was no Variation Order issued to effect the change in the detailed estimate; there was no affidavit of site inspection to determine the geological conditions, etc; and the number of hours used per equipment appear to be overestimated.
+[14]
+In 
+National Center for Mental Health Management v. Commission on Audit,
+[15]
+ it was explained that the term "irregular", as with the terms "unnecessary," "excessive," and "extravagant," when used in reference to expenditure of funds or uses of property, are relative.  The determination of which expenditures of funds or use of property belongs to this or that type is situational.  Circumstances of time and place, behavioral and ecological factors, as well as political, social and economic conditions, would influence any such determination.  Viewed from this perspective, transactions under audit are to be judged on the basis of not only the standards of legality but also those of regularity, necessity, reasonableness and moderation.
+In this light, it cannot be said that the additional expense incurred for the construction were irregular or excessive, unnecessary or unconscionable.  It is evident that the additional expense was for the benefit of the PSU, as it was spent for the construction of Phase II of the PSU Multi-Purpose Building, and there is no indication that it was used for ay other nefarious endeavor.  The additional expense was also within the Approved agency Estimates.  Further, there is no showing that petitioner was ill-motivated, or that she had personally profited or sought to profit from the transactions,
+[16]
+ 
+or that the disbursements have been made for personal or selfish ends.
+[17]
+ 
+ Thus, petitioner should not be held personally liable for the disallowances.
+Given the foregoing, the Court finds it unnecessary to dwell on the other issues raised in this case.
+WHEREFORE,
+ the petition is 
+GRANTED.
+  The Resolution of the Commission on Audit dated March 18, 2003 issued in COA Decision No. 2003-063 is 
+REVERSED
+ and 
+SET ASIDE
+ insofar only as herein petitioner Dr. Teresita L. Salva is concerned.  She is exonerated from liability.
+No pronouncement as to costs.
+SO ORDERED.
+Puno, C.J., Quisumbing, Ynares-Santiago, Sandoval-Gutierrez, Carpio, Corona, Carpio-Morales, Callejo, Sr., Azcuna, Tinga, Chico-Nazario, Garcia, 
+and 
+Velasco, Jr., JJ., 
+concur.
+[1]
+ 
+Rollo,
+ pp. 120-130.
+[2]
+ Id. at 108, Annex "A".
+[3]
+ Id. at 138.
+[4]
+ Id. at 146.
+[5]
+ Id. at 114.
+[6]
+ Id. at 96-97.
+[7]
+ 
+Albert v. Gangan,
+ G.R. No. 126557.  March 6, 2001, 353 SCRA 673, 687-688.
+[8]
+ Per COA Circular No. 94-001 dated January 24, 1994, entitled "Prescribing the Use of the Manual on Certificate of Settlement and Balances (Revised 1993).
+[9]
+ 
+Rollo,
+ p. 118.
+[10]
+ 355 Phil. 527 (1998).
+[11]
+ 
+Albert case,
+ supra, note 7.
+[12]
+ 
+Rollo,
+ pp. 190-194.
+[13]
+ Id. at 154-155.
+[14]
+ Id. at 185-186.
+[15]
+ 333 Phil.  222 (1996).
+[16]
+ 
+Andres v. Commission on Audit,
+ G.R. No. 94476, September 26, 1991, 201 SCRA 780, 791.
+[17]
+ 
+National Center for Mental Health Management case
+, supra at 239, note 15.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

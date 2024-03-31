@@ -1,0 +1,242 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			522 Phil. 523
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. NO. 156978, May 02, 2006 ]
+
+
+ABOITIZ SHIPPING CORPORATION, PETITIONER, VS. NEW INDIA ASSURANCE COMPANY, LTD., RESPONDENT.
+DECISION
+
+
+
+
+QUISUMBING, J.:
+
+
+For review on certiorari are the Decision
+[1]
+ dated August 29, 2002 of the Court of Appeals in CA-G.R. CV No. 28770 and its Resolution
+[2]
+ dated January 23, 2003 denying reconsideration.  The Court of Appeals affirmed the Decision
+[3]
+ dated November 20, 1989 of the Regional Trial Court of Manila in Civil Case No. 82-1475, in favor of respondent New India Assurance Company, Ltd.
+This petition stemmed from the action for damages against petitioner, Aboitiz Shipping Corporation, arising from the sinking of its vessel, 
+M/V P. Aboitiz
+, on October 31, 1980.
+The pertinent facts are as follows:
+Societe Francaise Des Colloides
+ loaded a cargo of textiles and auxiliary chemicals from France on board a vessel owned by Franco-Belgian Services, Inc.  The cargo was consigned to General Textile, Inc., in Manila and insured by respondent New India Assurance Company, Ltd.  While in Hongkong, the cargo was transferred to 
+M/V P. Aboitiz
+ for transshipment to Manila.
+[4]
+Before departing, the vessel was advised by the Japanese Meteorological Center that it was safe to travel to its destination.
+[5]
+  But while at sea, the vessel received a report of a typhoon moving within its general path.  To avoid the typhoon, the vessel changed its course.  However, it was still at the fringe of the typhoon when its hull leaked.  On October 31, 1980, the vessel sank, but the captain and his crew were saved.
+On November 3, 1980, the captain of 
+M/V P. Aboitiz
+ filed his "Marine Protest", stating that the wind force was at 10 to 15 knots at the time the ship foundered and described the weather as "moderate breeze, small waves, becoming longer, fairly frequent white horses."
+[6]
+Thereafter, petitioner notified
+[7]
+ the consignee, General Textile, of the total loss of the vessel and all of its cargoes.  General Textile, lodged a claim with respondent for the amount of its loss.  Respondent paid General Textile and was subrogated to the rights of the latter.
+[8]
+Respondent hired a surveyor, Perfect, Lambert and Company, to investigate the cause of the sinking.  In its report,
+[9]
+ the surveyor concluded that the cause was the flooding of the holds brought about by the vessel's questionable seaworthiness.  Consequently, respondent filed a complaint for damages against petitioner Aboitiz, Franco-Belgian Services and the latter's local agent, F.E. Zuellig, Inc. (Zuellig).  Respondent alleged that the proximate cause of the loss of the shipment was the fault or negligence of the master and crew of the vessel, its unseaworthiness, and the failure of defendants therein to exercise extraordinary diligence in the transport of the goods.  Hence, respondent added, defendants therein breached their contract of carriage.
+[10]
+Franco-Belgian Services and Zuellig responded, claiming that they exercised extraordinary diligence in handling the shipment while it was in their possession; its vessel was seaworthy; and the proximate cause of the loss of cargo was a fortuitous event.  They also filed a cross-claim against petitioner alleging that the loss occurred during the transshipment with petitioner and so liability should rest with petitioner.
+For its part, petitioner also raised the same defense that the ship was seaworthy.  It alleged that the sinking of 
+M/V P. Aboitiz
+ was due to an unforeseen event and without fault or negligence on its part.  It also alleged that in accordance with the real and hypothecary nature of maritime law, the sinking of 
+M/V P. Aboitiz
+ extinguished its liability on the loss of the cargoes.
+[11]
+Meanwhile, the Board of Marine Inquiry (BMI) conducted its own investigation to determine whether the captain and crew were administratively liable.  However, petitioner neither informed respondent nor the trial court of the investigation.  The BMI exonerated the captain and crew of any administrative liability; and declared the vessel seaworthy and concluded that the sinking was due to the vessel's exposure to the approaching typhoon.
+On November 20, 1989, the trial court, citing the Court of Appeals decision in 
+General Accident Fire and Life Assurance Corporation v. Aboitiz Shipping Corporation
+[12]
+ involving the same incident, ruled in favor of respondent.  It held petitioner liable for the total value of the lost cargo plus legal interest, thus:
+WHEREFORE, PREMISES CONSIDERED, judgment is hereby rendered in favor of New India and against Aboitiz ordering the latter to pay unto the former the amount of P142,401.60, plus legal interest thereon until the same is fully paid, attorney's fees equivalent to fifteen [percent] (15%) of the total amount due and the costs of suit.
+The complaint with respect to Franco and Zuellig is dismissed and their counterclaim against New India is likewise dismissed
+SO ORDERED.
+[13]
+Petitioner elevated the case to the Court of Appeals and presented the findings of the BMI.  However, on August 29, 2002, the appellate court affirmed 
+in toto
+ the trial court's decision.  It held that the proceedings before the BMI was only for the administrative liability of the captain and crew, and was unilateral in nature, hence not binding on the courts.  Petitioner moved for reconsideration but the same was denied on January 23, 2003.
+Hence, this petition for review, alleging that the Court of Appeals gravely erred in:
+I.
+x x x DISREGARDING THE RULINGS OF THE HONORABLE SUPREME COURT ON THE APPLICATION OF THE RULE ON LIMITED LIABILITY UNDER ARTICLE 587, 590 AND 837 OF THE CODE OF COMMERCE TO CASES INVOLVING THE SINKING OF THE M/V "P. ABOITIZ;
+A.
+x x x NOT APPLYING THE RULINGS IN THE CASES OF 
+MONARCH INSURANCE CO., INC. ET AL. V. COURT OF APPEALS ET AL. AND ABOITIZ SHIPPING CORPORATION V. GENERAL ACCIDENT FIRE AND LIFE ASSURANCE CORPORATION, LTD.;
+B.
+x x x RULING THAT THE ISSUE ON THE APPLICATION OF THE RULE ON LIMITED LIABILITY UNDER ARTICLES 587, 590 AND 837 OF THE CODE OF COMMERCE HAD BEEN CONSIDERED AND PASSED UPON IN ITS DECISION;
+II.
+x x x NOT LIMITING THE AWARD OF DAMAGES TO RESPONDENT TO ITS 
+PRO-RATA
+ SHARES IN THE INSURANCE PROCEEDS FROM THE SINKING OF THE M/V "P. ABOITIZ".
+[14]
+Stated simply, we are asked to resolve whether the limited liability doctrine, which limits respondent's award of damages to its pro-rata share in the insurance proceeds, applies in this case.
+Petitioner, citing 
+Monarch Insurance Co. Inc. v. Court of Appeals
+, 
+[15]
+ contends that respondent's claim for damages should only be against the insurance proceeds and limited to its pro-rata share in view of the doctrine of limited liability.
+Respondent counters that the doctrine of real and hypothecary nature of maritime law is not applicable in the present case because petitioner was found to have been negligent.  Hence, according to respondent, petitioner should be held liable for the total value of the lost cargo.
+It bears stressing that this Court has variedly applied the doctrine of limited liability to the same incident - the sinking of 
+M/V P. Aboitiz 
+on October 31, 1980.  
+Monarch
+, the latest ruling, tried to settle the conflicting pronouncements of this Court relative to the sinking of 
+M/V P. Aboitiz
+.  In 
+Monarch
+, we said that the sinking of the vessel was not due to 
+force majeure
+, but to its unseaworthy condition.
+[16]
+  Therein, we found petitioner concurrently negligent with the captain and crew.
+[17]
+  But the Court stressed that the circumstances therein still made the doctrine of limited liability applicable.
+[18]
+Our ruling in 
+Monarch
+ may appear inconsistent with the exception of the limited liability doctrine, as explicitly stated in the earlier part of the 
+Monarch
+ decision.  An exception to the limited liability doctrine is when the damage is due to the fault of the shipowner or to the concurrent negligence of the shipowner and the captain.  In which case, the shipowner shall be liable to the full-extent of the damage.
+[19]
+  We thus find it necessary to clarify now the applicability here of the decision in 
+Monarch
+.
+From the nature of their business and for reasons of public policy, common carriers are bound to observe extraordinary diligence over the goods they transport according to all the circumstances of each case.
+[20]
+  In the event of loss, destruction or deterioration of the insured goods, common carriers are responsible, unless they can prove that the loss, destruction or deterioration was brought about by the causes specified in Article 1734 of the Civil Code.
+[21]
+  In all other cases, common carriers are presumed to have been at fault or to have acted negligently, unless they prove that they observed extraordinary diligence.
+[22]
+  Moreover, where the vessel is found unseaworthy, the shipowner is also presumed to be negligent since it is tasked with the maintenance of its vessel.  Though this duty can be delegated, still, the shipowner must exercise close supervision over its men.
+[23]
+In the present case, petitioner has the burden of showing that it exercised extraordinary diligence in the transport of the goods it had on board in order to invoke the limited liability doctrine.  Differently put, to limit its liability to the amount of the insurance proceeds, petitioner has the burden of proving that the unseaworthiness of its vessel was not due to its fault or negligence.  Considering the evidence presented and the circumstances obtaining in this case, we find that petitioner failed to discharge this burden.  It initially attributed the sinking to the typhoon and relied on the BMI findings that it was not at fault.  However, both the trial and the appellate courts, in this case, found that the sinking was not due to the typhoon but to its unseaworthiness.  Evidence on record showed that the weather was moderate when the vessel sank.  These factual findings of the Court of Appeals, affirming those of the trial court are not to be disturbed on appeal, but must be accorded great weight.  These findings are conclusive not only on the parties but on this Court as well.
+[24]
+In contrast, the findings of the BMI are not deemed always binding on the courts.
+[25]
+  Besides, exoneration of the vessel's officers and crew by the BMI merely concerns their respective administrative    liabilities.
+[26]
+  It does not in any way operate to absolve the common carrier from its civil liabilities arising from its failure to exercise extraordinary diligence, the determination of which properly belongs to the courts.
+[27]
+Where the shipowner fails to overcome the presumption of negligence, the doctrine of limited liability cannot be applied.
+[28]
+  Therefore, we agree with the appellate court in sustaining the trial court's ruling that petitioner is liable for the total value of the lost cargo.
+WHEREFORE
+, the petition is 
+DENIED
+ for lack of merit.  The Decision dated August 29, 2002 and Resolution dated January 23, 2003 of the Court of Appeals in CA-G.R. CV No. 28770 are 
+AFFIRMED
+.
+Costs against petitioner.
+SO ORDERED
+.
+Carpio, Carpio-Morales, Tinga,
+ and 
+Velasco, Jr., JJ.,
+ concur.
+[1]
+ Rollo
+, pp. 84-97.  Penned by Associate Justice Romeo J. Callejo, Sr. (now a member of this Court), with Associate Justices Remedios Salazar-Fernando, and Danilo B. Pine concurring.
+[2] 
+Id. at 99.  Penned by Associate Justice Danilo B. Pine, with Associate Justices Godardo A. Jacinto, and Remedios Salazar-Fernando concurring.
+[3]
+ Id. at 149-166.
+[4]
+ Id. at 84-85, 150.
+[5] 
+Id. at 65.
+[6]
+ Id. at 163-164.
+[7] 
+Exhibit "F-1," folder of exhibits, p. 8.
+[8] 
+Exhibits "G, G-1, G-2," Id. at 11.
+[9]
+ Records, pp. 562-580.
+[10] 
+Id. at 5-6.
+[11] 
+Id. at 18-19, 23-24.
+[12] 
+CA-G.R. C.V. No. 10609, March 9, 1989 (Now SC G.R No. 89757, August 6, 1990, 188 SCRA 387).
+[13] 
+Records, p. 859.
+[14]
+ 
+Rollo
+, pp. 68-69.
+[15]
+ G.R. No. 92735, June 8, 2000, 333 SCRA 71.
+[16] 
+Id. at 98-99.
+[17]
+ Id. at 101.
+[18]
+ Id. at 103.
+[19]
+ Id. at 97.
+[20] 
+Civil Code, Art. 1733.  Common carriers, from the nature of their business and for reasons of public policy, are bound to observe extraordinary diligence in the vigilance over the goods and for the safety of the passengers transported by them, according to all the circumstances of each case.
+Such extraordinary diligence in the vigilance over the goods is further expressed in articles 1734, 1735, and 1745, Nos. 5, 6, and 7, while the extraordinary diligence for the safety of the passengers is further set forth in articles 1755 and 1756.
+[21]
+ Id. at Art. 1734.  Common carriers are responsible for the loss, destruction, or deterioration of the goods, unless the same is due to any of the following causes only:
+(1) Flood, storm, earthquake, lightning, or other natural disaster or calamity;
+(2) Act of the public enemy in war, whether international or civil;
+(3) Act or omission of the shipper or owner of the goods;
+(4) The character of the goods or defects in the packing or in the containers;
+(5) Order or act of competent public authority.
+[22]
+ Id. at Art. 1735.  In all cases other than those mentioned in Nos. 1, 2, 3, 4, and 5 of the preceding article, if the goods are lost, destroyed or deteriorated, common carriers are presumed to have been at fault or to have acted negligently, unless they prove that they observed extraordinary diligence as required in article 1733.
+[23]
+ 
+Philippine American General Insurance Co., Inc. v. Court of Appeals
+, G.R. No. 116940, June 11, 1997, 273 SCRA 262, 272.
+[24]
+ 
+Prudential Bank v. Chonney Lim
+, G.R. No. 136371, November 11, 2005, p. 5.
+[25]
+ See 
+Aboitiz Shipping Corporation v. Court of Appeals
+, G.R. No. 89757, August 6, 1990, 188 SCRA 387, 390-391.
+[26]
+ 
+Delsan Transport Lines, Inc. v. Court of Appeals
+,  G.R. No. 127897, November 15, 2001, 369 SCRA 24, 33.
+[27]
+ Id. at 33-34.
+[28]
+ 
+Central Shipping Company, Inc. v. Insurance Company of North America
+, G.R. No. 150751, September 20, 2004, 438 SCRA 511, 523-524.			     
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

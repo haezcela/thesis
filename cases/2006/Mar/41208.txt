@@ -1,0 +1,139 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			520 Phil. 801
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. NOS. 149840-41, March 31, 2006 ]
+
+
+SPS. FRANCISCO AND RUBY  REYES, PETITIONERS,  VS.    A BPI FAMILY SAVINGS BANK, INC., AND MAGDALENA L. LOMETILLO, IN HER CAPACITY AS EX-OFFICIO PROVINCIAL SHERIFF FOR ILOILO, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+CORONA, J.:
+
+
+Via this petition for review under Rule 45 of the Rules of Court, petitioners assail the decision
+[1]
+ of the Court of Appeals (CA) in CA-G.R. SP Nos. 45629 and 45877 and its resolution denying their motion for reconsideration.
+The facts are simple.
+On March 24, 1995, the Reyes spouses executed a real estate mortgage on their property in Iloilo City in favor of respondent BPI Family Savings Bank, Inc. (BPI-FSB) to secure a P15,000,000 loan of Transbuilders Resources and Development Corporation (Transbuilders).  The mortgage contract between petitioners and BPI-FSB provided, among others:
+That for and in consideration of the above-mentioned    sum received by way of a loan, and other credit accommodations of whatever nature obtained by the Borrower/Mortgagor, the Borrower/Mortgagor by this Agreement, hereby constitutes a first mortgage, special and voluntary over the property/ies specifically described in Annex "A", together with all existing improvements as well as those that may hereafter be made to exist or constructed thereon, inclusive of all fruits and rents, in favor of the Bank, its successors and assigns. 
+[2]
+When Transbuilders failed to pay its P15M loan within the stipulated period of one year, the bank restructured the loan through a promissory note executed by Transbuilders in its favor. The pertinent provisions of the promissory note
+[3]
+ stated that:
+The proceeds of the Note shall be applied to loan account no. 21108336
+[4]
+; and
+The new obligation of Transbuilders to respondent Bank for fifteen million (P15,000,000.00) shall be paid in twenty (20) quarterly installments commencing on September 28, 1996 and at an interest rate of eighteen (18%) per annum.
+Petitioners    aver that they were not informed about the restructuring of Transbuilders' loan. In fact, when they learned of the new loan agreement sometime in December 1996, they wrote BPI-FSB requesting the cancellation of their mortgage and the return of their certificate of title to the mortgaged property. They claimed that the new loan novated the loan agreement of March 24, 1995. Because the novation was without their knowledge and consent, they were allegedly released from their obligation under the mortgage.
+When BPI-FSB refused to cancel the mortgage, petitioners filed separate petitions for mandamus and prohibition with the Regional Trial Court (RTC) of Manila to compel the bank to return their certificate of title and cancel the mortgage.  BPI-FSB, on the other hand, instituted extrajudicial foreclosure proceedings against petitioners in Iloilo City after Transbuilders defaulted in its payments. Consequently, a sheriff's notice of sale of petitioners' property at public auction was issued.
+The Manila RTC dismissed petitioners' actions for mandamus and prohibition. Their appeal to the Court of Appeals was likewise dismissed:
+The mortgage contract between the petitioners and the respondent BPI does not limit the obligation or loan for which it may stand to the loan agreement between Transbuilders and BPI, dated March 24, 1995, considering that under the terms of that contract, the intent of all the parties, including the petitioners, to secure future indebtedness is apparent'. 
+On the whole, the contract of loan/mortgage dated March 24, 1995, appears to include even the new loan agreement between Transbuilders and BPI, entered into on June 28, 1996
+.
+xxx   xxx   xxx
+There is likewise no merit to the petitioners' submission that there was a novation of the March 24, 1995 contract. There is no clear intent of the parties to make the new contract completely supersede and abolish the old loan/mortgage contract. The established rule is that novation is never presumed. Novation will not be allowed unless it is clearly shown by express agreement, or by acts of equal import. Thus, to effect an objective novation it is imperative that the new obligation expressly declares that the old obligation is thereby extinguished or that the new obligation be on every point incompatible with the new one.  (Ajax Marketing & Development Corporation v. Court of Appeals, 248 SCRA 222 [1995])  Without such clear intent to abolish the old contract, there is no merit to affirm the existence of a novation.
+There is no basis therefore, to the charge that respondent BPI had gravely erred in    not surrendering the petitioners' certificate of title, as the mortgage undertaking of the petitioners has not been cancelled. For the same reason, the respondent BPI acted within its prerogative when it initiated extra-judicial foreclosure proceedings over the petitioners' property.
+WHEREFORE, premises considered, the instant appeals from the Decision of the Regional Trial Court of Iloilo City in CA-G.R. SP No. 45887 and the Order of dismissal of the Regional Trial Court of Manila in CA-G.R. SP No. 45629 are hereby DISMISSED.
+SO ORDERED.
+[5]
+ (emphasis ours)
+Petitioners moved for a reconsideration of the decision but were unsuccessful.  Hence, this appeal.
+The only issue for our consideration is whether there was a novation of the mortgage loan contract between petitioners and BPI-FSB that would result in the extinguishment of petitioners' liability to the bank.
+We agree with the CA that there was none.
+Novation is defined as the extinguishment of an obligation by the substitution or change of the obligation by a subsequent one which terminates the first, either by changing the object or principal conditions, or by substituting the person of the debtor, or subrogating a third person in the rights of the creditor.
+[6]
+Article 1292 of the Civil Code on novation further    provides:
+Article 1292.  In order that an obligation may be extinguished by another which substitute the same, it is imperative that it be so declared in unequivocal terms, or that the old and the new obligations be on every point incompatible with each other.
+The cancellation of the old obligation by the new one is a necessary element of novation which may be effected either expressly or impliedly.  While there is really no hard and fast rule to determine what might constitute sufficient change resulting in novation, the touchstone, however, is irreconcilable incompatibility between the old and the new obligations.
+[7]
+In 
+Garcia, Jr. v. Court of Appeals
+,
+[8]
+ we held that:
+In every novation there are four essential requisites:(1) a previous valid obligation; (2) the agreement of all the parties to the new contract; (3) the extinguishment of the old contract; and (4) validity of the new one.  There must be consent of all the parties to the substitution, resulting in the extinction of the old obligation and the creation of a valid new one.  The acceptance of the promissory note by the plaintiff is not novation of the contract. The legal doctrine is that an obligation to pay a sum of money is not novated in a new instrument by changing the term of payment and adding other obligations not incompatible with the old one. It is not proper to consider an obligation novated as in the case at bar by the mere granting of extension of payment which did not even alter its essence. To sustain novation necessitates that the same be declared in unequivocal terms or that there is complete and substantial incompatibility between the two obligations. An obligation to pay a sum of money is not novated in a new instrument wherein the old is ratified by changing only the terms of payment and adding other obligations not incompatible with the old one or wherein the old contract is merely supplementing the old one.
+Thus, the well-settled rule is that, with respect to obligations to pay a sum of money, the obligation is not novated by an instrument that expressly recognizes the old, changes only the terms of payment, adds other obligations not incompatible with the old ones, or the new contract merely supplements the old one.
+[9]
+BPI-FSB and Transbuilders only extended the repayment term of the loan from one year to twenty quarterly installments at 18% interest per annum.  There was absolutely no intention by the parties to supersede or abrogate the old loan contract secured by the real estate mortgage executed by petitioners in favor of BPI-FSB. In fact, the intention of the new agreement was precisely to revive the old obligation after the original period expired and the loan remained unpaid. The novation of a contract cannot be presumed. In the absence of an express agreement, novation takes place only when the old and the new obligations are incompatible on every point.
+[10]
+Moreover, under the real estate mortgage executed by them in favor of BPI-FSB, petitioners undertook to secure the P15M loan of Transbuilders to BPI-FSB 
+"and other credit accommodations of whatever nature obtained by the Borrower/Mortgagor."
+ While this stipulation proved to be onerous to petitioners, neither the law nor the courts will extricate a party from an unwise or undesirable contract entered into with all the required formalities and with full awareness of its consequences.
+[11]
+ Petitioners voluntarily executed the real estate mortgage on their property in favor of BPI-FSB to secure the P15M loan of Transbuilders. They cannot now be allowed to repudiate their obligation to the bank after Transbuilders' default. While petitioners' liability was written in fine print and in a contract prepared by BPI-FSB, it has been the consistent holding of this Court that contracts of adhesion are not invalid per se.  On numerous occasions, we have upheld the binding effects of such contracts.
+[12]
+WHEREFORE
+, the petition is hereby 
+DENIED
+ for lack of merit.
+SO ORDERED.
+Puno, J., Chairperson, Sandoval-Gutierrez, Corona, Azcuna, 
+and 
+Garcia, JJ., 
+concur.
+[1]
+  Penned by Associate Justice Rodrigo V. Cosico, and concurred in by Associate Justice Ramon A. Barcelona (retired) and Associate Justice Alicia L. Santos of the Eighth Division of the Court of Appeals, 
+rollo
+, pp. 26-32.
+[2]
+  Mortgage Loan Agreement, Annex "C," rollo, p. 37.
+[3]
+  Promissory Note, Id., p. 42.
+[4]
+  Referring to the original P15M loan of Transbuilders that remained unpaid.
+[5]
+  CA decision,
+ rollo,
+ pp. 30-31.
+[6]
+  
+Idolor v. Court of Appeals
+, G.R. No. 141853, 7 February 2001, 351 SCRA 399.
+[7]
+  
+California Bus Lines, Inc. v. State Investment House, Inc
+., G.R. No. 147950, 11 December 2003, 418 SCRA 297.
+[8]
+  G.R. No. L-80201, 20 November 1990, 191 SCRA 493 (citations omitted).
+[9]
+  Supra at note 5.
+[10]
+ 
+Tay v. Court of Appeals
+, 355 Phil. 381 (1998).
+[11]
+ 
+Opulencia v. Court of Appeals,
+ 355 Phil. 124 (1998).
+[12]
+ 
+Palmares v. Court of Appeals, 
+351 Phil. 664 (1998); see also Ridjo Tape and Chemical Corporation v. Court of Appeals, 350 Phil. 184 (1998).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

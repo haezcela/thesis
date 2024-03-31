@@ -1,0 +1,573 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			521 Phil. 73
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. NO. 159457, April 07, 2006 ]
+
+
+NATIONAL POWER CORPORATION, PETITIONER, VS. PHILIPPINE ELECTRIC PLANT OWNERS ASSOCIATION PROMULGATED: (PEPOA), INC., RESPONDENT
+DECISION
+
+
+
+
+PANGANIBAN, CJ:
+
+
+THE SUPPLY OF ELECTRICITY IS A PUBLIC SERVICE THAT AFFECTS NATIONAL SECURITY, ECONOMIC GROWTH AND PUBLIC INTEREST. TO ACHIEVE COHERENT AND EFFECTIVE POLICY FORMULATION, COORDINATION, IMPLEMENTATION AND MONITORING WITHIN THE ENERGY SECTOR, IT BECAME NECESSARY TO ENTRUST IN ONE BODY THE REGULATORY FUNCTIONS COVERING THE ENERGY SECTOR.  THUS, THE ENERGY REGULATORY BOARD
+[1]
+ (ERB) WAS CREATED.  THE ERB WAS GIVEN THE POWER TO DETERMINE, FIX AND PRESCRIBE THE RATES -- INCLUDING PENALTY CHARGES --OF ALL ENERGY PROVIDERS, INCLUDING THE NATIONAL POWER CORPORATION (NPC).
+The Case
+Before us is a Petition for Review
+[2]
+ under Rule 45 of the Rules of Court, assailing the March 3, 2003 Decision
+[3]
+ and August 12, 2003 Resolution
+[4]
+ of the Court of Appeals (CA) in CA-GR SP No. 50782.  The challenged Decision disposed as follows:
+"
+WHEREFORE
+, the instant petition is
+ DENIED 
+and is accordingly 
+DISMISSED
+ for lack of merit."
+[5]
+The assailed Resolution denied reconsideration.
+The Facts
+The NPC is a government-owned and -controlled corporation, existing by virtue of Commonwealth Act No. 120 and Republic Act No. 6395.  Philippine Electric Plant Owners Association (PEPOA), Inc., is a non-stock corporation composed of private electric plant operators.
+[6]
+  Some members of PEPOA purchase electric power from petitioner to service power requirements in their respective franchise areas.
+[7]
+On December 15, 1995, PEPOA filed before the ERB a Complaint
+[8]
+ against the NPC for alleged unauthorized collection of rates in the guise of penalty for 1) excess consumption, double or triple the existing rates; or 2) unused consumption, as if fully availed of.
+[9]
+  The penalties were being charged pursuant to the NPC's Rules on the Sale of Electricity, specifically Nos. 5 (Minimum Charges) and 6 (Penalty for Consumption in Excess of the Allowable Limit of the Contract Demand/Energy) of the Schedule of Charges.
+[10]
+  The provisions read:
+"
+5. MINIMUM CHARGES
+"Whenever Customer's registered demand/ energy falls below the Contract Demand and/or Contract Energy, the difference shall be billed at applicable demand and/or Energy rates as if the Contract Demand and/or Energy [have] been fully availed of.  Provided, that during Customer's yearly maintenance of its facilities not to exceed two (2) billing periods in a year, the basis of the minimum charge on energy shall be reduced to only fifty percent (50%) of the Contract Energy; provided further, that thirty (30) days advance written notice is given to Corporation, and that actual maintenance is subject to confirmation of Corporation.
+"
+6. PENALTY FOR CONSUMPTION IN EXCESS OF THE ALLOWABLE LIMIT OF THE CONTRACT DEMAND/ ENERGY
+"Customer's consumption in excess of the maximum  limits  set  forth in the Service Specifications x x x in the Contract, shall be penalized by billing the excess demand and/or energy at a Rate Equal to Twice the unit price of the highest priced block in the rate schedule."
+[11]
+On December 20, 1995, the ERB issued an Order
+[12]
+ directing the NPC to cease and desist from collecting the penalties, pending resolution of the case.  On May 12, 1998, the ERB rendered its Decision, the dispositive portion of which reads:
+"
+WHEREFORE
+, in view of the foregoing, the Board hereby directs respondent NPC to refund or correspondingly credit to the complainants (affected electric distribution utilities) the total amount of P28,870,497.08 corresponding to the said charges as penalties for excess consumption over the maximum allowable demand energy and consumption below the contracted demand/energy, computed as follows:
+"A. Penalties Billed and Collected for Excess Consumption from:
+"1.  Angeles Electric Corp. (AEC)           P   2,184,952.80
+"2.  Visayan Electric Co., Inc. (VECO)    P 23,471,542.00
+"3.  Cagayan Electric Power and Light
+       Co. (CEPALCO)                             P590,515.20
+"B. Penalty Billed and Collected for Below Consumption from:
+"4.  Tarlac Enterprises, Inc. (TEI)            P 
+ 2,623,487.08
+Total Penalties Billed and Collected         P28,870,497.08
+                                                                ============
+"However, if the payments made under protest by the affected distribution utilities to respondent NPC were passed on to the utilities customers, the reimbursements thereon should also extend to the end-users.
+"In the event that the affected distribution utilities have actually refunded the same to its customers, the said utilities are hereby directed to submit a report to the Board showing that an actual refund was made to their customers or end-users.
+"The collection/imposition of penalty for consumption in excess of the allowable unit and penalty for below consumption of the contracted demand/energy or unused energy imposed by NPC shall likewise be not applicable to electric cooperatives and all other NPC customers.
+"Finally, the Cease and Desist Order issued by the Board in its Order dated December 20, 1995 is hereby made permanent."
+[13]
+The ERB denied reconsideration on January 12, 1999.
+[14]
+  The NPC filed a Petition for Review with the Court of Appeals on March 3, 1999.
+Ruling of the Court of Appeals
+The CA found no errors of fact or law that would warrant a reversal of the ERB's Decision.  The imposition of penalties by the NPC was tantamount to an increase in rates that required authorization by the ERB, which was mandated to determine, fix and prescribe electric rates.
+[15]
+  Since the latter's approval had not been sought, the charges were deemed void.
+Hence, this Petition.
+[16]
+The Issues
+Petitioner raises the following issues:
+"I. Whether or not the Energy Regulatory Board had jurisdiction over the subject matter of imposition of penalties for contract violations.
+"II.  Whether or not the imposition of the penalties is an increase in power rates that requires authorization of the Energy Regulatory Board.
+"III. Whether or not the discounts provided in the Contract also requires the authorization of the Energy Regulatory Board.
+"IV. Whether or not the issuance of the cease and desist order without the benefit of notice and hearing is within the authority of the Energy Regulatory Board.
+"V. Whether or not a temporary restraining order/preliminary injunction should be issued pending resolution of the petition for review."
+[17]
+The issues can be reduced to the following: 1) whether the ERB has jurisdiction over the subject matter of this case; and 2) whether its Cease and Desist Order is justified.
+The Court's Ruling
+The Petition is unmeritorious.
+First Issue:
+Jurisdiction Over the Controversy
+Petitioner contends that the jurisdiction of the ERB to fix, set and determine rates does not include the authority to overrule the imposition of penalties stipulated in the Contract of Sale and Delivery of Power.
+[18]
+The NPC adds that only its rate-making authority was transferred to the ERB under Section 18 of RA 7638.  Petitioner, however, retained its power to promulgate rules and regulations governing its operations in order to provide adequate, stable, reliable, and reasonably priced electric power.
+[19]
+ In conducting its day-to-day operations, it allegedly had to regulate the system loads of its transmission lines by requiring its customers to have a contractual level and to maintain a maximum limit for the demand and the energy consumption.
+[20]
+In effect, the NPC claims that the penalty clauses in their contracts with customers are policy matters relating to the implementation of its corporate purpose, not to    the fixing of rates.
+Authority to Fix Rates
+To complete this decision on the present controversy, the Court needs to trace briefly petitioner's rate-fixing authority.
+Commonwealth Act No. 120
+[21]
+ created the NPC and gave it the power to produce and "sell electric power and to fix the rates and provide for the collection of the charges for any service rendered."
+[22]
+ The rates were not subject to revision by the Public Service Commission,
+[23]
+ which was then the government entity that had jurisdiction over all public services.
+[24]
+Republic Act No. 6395
+[25]
+ revised the charter of the NPC, whose power to fix the rates and fees was retained, but became subject to review by the Public Service Commission.
+[26]
+Later, Republic Act No. 7638,
+[27]
+ or the "Department of Energy Act of 1992," recreated the Department of Energy and reorganized the functions of some government agencies.
+[28]
+  The power of the NPC to determine and fix the rates being charged its customers was transferred to the ERB in this wise:
+"
+The power of the NPC to determine, fix and prescribe the rates being charged to its customers under Section 4 of Republic Act No. 6395, as amended, x x x are hereby transferred to the Energy Regulatory Board.
+  x x x."
+[29]
+ERB Jurisdiction
+Executive Order No. 172
+[30]
+ created the ERB to provide the policy guidelines and regulatory framework for the activities and operations of the power sector.
+[31]
+ The ERB was to regulate the business of importing, exporting, re-exporting, shipping, transporting, processing, refining, marketing and distributing energy resources.
+[32]
+  Under Section 4 of the Executive Order, it was also tasked to assume the functions of the Board of Energy
+[33]
+ and of the Bureau of Energy Utilization.
+[34]
+Significantly, Republic Act No. 7638 transferred the ERB's non-price regulatory jurisdiction, powers and functions to the Department of Energy.
+[35]
+Republic Act No. 9136,
+[36]
+ the "Electric Power Industry Reform Act of 2001" (EPIRA), transferred the powers of the ERB to the Energy Regulatory Commission (ERC).
+[37]
+Rate and Rate-Fixing Defined
+The crux of the controversy is whether the penalty charges imposed by the NPC are included in the term "
+rates.
+"  Unfortunately, the pertinent laws stated above do not define rates and what is involved in 
+rate-fixing.
+  The Court, however, is not precluded from using other means to define these terms.
+In the absence of legislative intent to the contrary, the general rule is that words and phrases are to be given their plain, ordinary and common-usage meaning.
+[38]
+  It is presumed that the lawmakers employed the words in this sense.
+[39]
+Rate 
+is defined as "a charge, payment, or price fixed according to a ratio, scale, or standard;"
+[40]
+  or "an amount paid or charged for a good or service."
+[41]
+Rates are 
+fixed
+ on the basis of the investment amount or property value that the public utility is allowed to earn -- an amount value otherwise called "rate base."
+[42]
+  Property valuation is dependent on the particular circumstances and relevant facts affecting each utility.
+[43]
+  After all, rate-fixing calls for a technical examination and a specialized review of specific details primarily entrusted to the administrative or regulating authority -- in the present case, the ERB.
+[44]
+There are many factors considered in ascertaining this value, such as the original cost of construction; the amount expended in permanent improvements; the amount and market value of the bonds and stock of the public utility; the present cost compared with the original cost of construction; the probable earning capacity of the property under the particular rates prescribed; and the sum required to meet operating expenses.
+[45]
+  It must be noted that the government is not bound to apply any particular method or formula for determining rates.
+[46]
+A just rate is founded on conditions that are fair and reasonable to both the public utility and the public.
+[47]
+  This stipulation means that the public utility must have, as profit, a fair return on the reasonable value of the property.
+[48]
+  The imposition of the maximum rates it charges cannot be confiscatory.
+[49]
+  As to the public, reasonableness requires entitlement to the service at an affordable cost.
+[50]
+Penalties as Rates
+The penalties imposed by the NPC in its "Rules on the Sale of Electricity" are covered by the definition of 
+rate
+. "Minimum Charges" and "Penalties for Consumption in Excess of Allowable Limit" are exacted from customers in relation to the sale of energy.  These charges cannot be imposed without the sale of energy.  Indeed, a consideration in fixing rates is the purpose for which the penalties are constituted: the regulation of the system loads of transmission lines,
+[51]
+ 
+so as to ensure the continuous operation of the public utility or to cover part of its operating expenses.
+The power to determine, fix and prescribe rates being charged customers is vested in the ERB.  Therefore, unless it gives prior approval, the penalties cannot be imposed by the NPC.  Without that authority, the challenged provisions in the "Rules on the Sale of Electricity" cannot be imposed on the electric plant operators that PEPOA represents.  While petitioner may issue rules and regulations consistent with its corporate objectives, provisions that have a bearing on the impositions of rates must be approved by the ERB.
+In determining whether penalties are included in the term rates, this Court upholds the principle that the authority of a board or commission is construed in the light of the purposes for which it was created; and that whatever is incidentally necessary to a full implementation of the legislative intent should be upheld as germane to the law.
+[52]
+  Jurisdiction over penalties is necessarily part of the ERB's regulatory functions; and is in line with the intent of achieving a coherent and effective policy formulation, coordination, implementation and monitoring within the energy sector.
+[53]
+Discounts, Not Rates
+Petitioner contends that if the penalties are subject to ERB approval, so too must be the discounts in the latter's "Rules on the Sale of Electricity."
+[54]
+  The discounts allegedly affect rates and benefit electric plant operators, who must then reimburse the NPC accordingly.
+[55]
+  We do not agree.
+Indeed, petitioner correctly points out that because the discounts affect rates, they should thus be a consideration in rate-fixing.  They are, however, not amounts paid or charged for the sale of electricity, but are 
+reductions in rates.
+Republic Act No. 7638 transferred the NPC's power to determine, fix and prescribe the rates 
+being charged customers.
+  They are charged nothing, though, when they are given discounts.  Evidently, the ERB's approval of the discounts is not necessary.
+Second Issue:
+Provisional Relief
+Petitioner further challenges the ERB's December 20, 1995 Order, which directed it to cease and desist from collecting the penalties, pending resolution of the case.
+[56]
+  The NPC contends that the provisional relief required notice and hearing prior to being granted, similar to the requirement of the rule on preliminary injunction under Rule 58
+[57]
+ of the Rules of Court.
+[58]
+  Petitioner adds that PEPOA did not submit any supporting documents or affidavits to show the great or irreparable injury that would justify the provisional relief.
+[59]
+Authority to Grant
+Provisional Relief
+The authority to grant provisional relief was conferred on the ERB, not under the Rules of Court but under Executive Order 172, whose pertinent provision reads:
+"Section 8. 
+Authority to Grant Provisional Relief.
+ - The Board may, upon the filing of an application, petition or complaint or at any stage thereafter and without prior hearing, on the basis of supporting papers duly verified or authenticated, grant provisional relief on motion of a party in the case or on its own initiative, without prejudice to a final    decision after hearing, should the Board find that the pleadings, together with such affidavits, documents and other evidence which may be submitted in support of the motion, substantially support the provisional order: Provided, That the Board shall immediately schedule and conduct a hearing thereon within thirty (30) days thereafter, upon publication and notice to all affected parties."
+This Court explained the cited provision in C
+itizens' Alliance for Consumer Protection v. Energy Regulatory Board
+,
+[60]
+ as follows:
+"x x x [ERB] is authorized in appropriate cases to grant provisional relief, whether on its own initiative or on motion of a party, either (1) upon filing of an application, petition or complaint; or (2) at any state thereafter and without need of prior hearing, subject, however, to conducting a hearing thereon within (30) days thereafter.  Issuance of an order granting such provisional relief must rest upon substantial evidence and is without prejudice, however, to rendition of a 
+final decision after hearing
+."
+[61]
+Plainly, the ERB has the authority to issue provisional relief 1) upon motion or on its own initiative; 2) without notice and hearing; and 3) after the filing of an application, a petition or a complaint.
+Need to Substantiate
+Provisional Relief
+The ERB has the discretion to grant provisional relief. Section 8 of Executive Order No. 172 simply requires that its exercise of this discretion be supported by substantial evidence
+[62]
+ in the form of authenticated or verified documents.
+[63]
+  The reason can easily be discerned from the fact that the order is, by its nature, temporary and subject to adjustment after final hearing.
+[64]
+The silence of the law cannot be construed as granting limitless discretion to the ERB.  The standard for granting provisional relief may be found in the laws creating or relating to the ERB.  After all, statutes should be construed as a whole and in relation to their amendments.
+[65]
+  Thus, the ERB should exercise its discretion in consideration of its mandate to ensure the quality, reliability, security and affordability of the supply of electric power.
+[66]
+  Provisional relief cannot be ordered in a whimsical, arbitrary or oppressive manner.
+If supported by substantial evidence, the factual finding of the ERB -- an administrative body charged with a specific field of expertise -- is conclusive and should not be disturbed.
+[67]
+ Administrative bodies are given wide latitude in the evaluation of evidence, including the authority to take judicial notice of facts within their special competence.
+[68]
+ Absent any proof to the contrary, the presumption    is that official duty has been regularly performed.
+[69]
+  Hence, the ERB is presumed to have performed its duty of studying the available evidence, prior to the issuance of the provisional relief.
+The ERB issued the Cease and Desist Order in recognition of the fact that end consumers    would ultimately pay for the penalties imposed by the NPC.
+[70]
+  It is clear that the latter did not even rebut this justification.
+Factual issues may not be raised in a petition for review under Rule 45.
+[71]
+  Even assuming that the present case falls under the exceptions to this rule,
+[72]
+ the Court is precluded from considering the allegation that PEPOA did not submit any document or affidavit to support the latter's prayer for a Cease and Desist Order.  Petitioner has made only bare allegations without referring at all to the evidence.
+WHEREFORE, the Petition is 
+DENIED
+ 
+and the assailed Decision and Resolution 
+AFFIRMED
+. Costs against petitioner.
+SO ORDERED.
+Ynares-Santiago, Austria-Martinez, Callejo, Sr., 
+and 
+Chico-Nazario, JJ.,
+ concur.
+[1]
+ Now the Energy Regulatory Commission (ERC).
+[2]
+ Rollo
+, pp. 11-34.
+[3]
+ Id. at 38-49.  Special Third Division.  Penned by Justice Eubulo G. Verzola (Division chairperson), with the concurrence of Justices Sergio L. PestaÃ±o and Amelita G. Tolentino (members).
+[4]
+ Id. at 50-51.
+[5] 
+Id. at 49.
+[6]
+ ERB Decision, p. 2; 
+rollo
+, p. 53.
+[7]
+ Petitioner's Memorandum, p. 3, 
+rollo,
+ p. 144; Respondent's Memorandum, p. 2; 
+rollo
+, p. 173.
+[8]
+ Docketed as ERB Case No. 95-390.
+[9]
+ Assailed CA Decision, p. 2;
+ rollo
+, p. 39.
+[10]
+ ERB Decision, p. 2;
+ rollo,
+ p. 53.
+[11]
+ Id. at 3; id. at 54, NPC Rules on the Sale of Electricity; 
+rollo
+, p. 92.
+[12]
+ 
+Rollo
+, pp. 77-80.
+[13]
+ ERB Decision, pp. 20-21; 
+rollo
+, pp. 71-72.
+[14]
+ 
+Rollo
+, pp. 74-76.
+[15]
+ Assailed CA Decision, p. 9; 
+rollo,
+ p. 46.
+[16]
+ This case was deemed submitted for Decision on June 14, 2004, upon this Court's receipt of respondent's Memorandum signed by Attys. Norberto F. Manjares, Jr. and Norberto C. Manjares III.  Petitioner's Memorandum -- signed by Attys. Rainier B. Butalid, Comie P. Doromal, Melchor P. Ridulme, Ronald Dylan P. Concepcion and Gordon Sy Montojo -- was filed on June 3, 2004.
+[17]
+ Petitioner's Memorandum, p. 8; 
+rollo
+, p. 149.  Uppercase in the original.
+[18]
+ Id. at 9; id. at 150.
+[19]
+ Id. at 10; id. at 151.
+[20]
+ Id.
+[21]
+ "An Act Creating The 'National Power Corporation,' Prescribing Its Powers and Activities, Appropriating the Necessary Funds Therefor, and Reserving the Unappropriated Public Waters for Its Use," approved on November 3, 1936.
+[22]
+ Id., Sec. 2(g).
+[23]
+ Id.
+[24]
+ Commonwealth Act No. 146 or "The Public Service Act," Sec. 14 -- approved on November 7, 1936 -- includes the operation of electric light, heat and power as a public service.
+[25]
+ "An Act Revising the Charter of the National Power Corporation," approved on September 10, 1971.
+[26]
+ Republic Act 6395, Sec. 4 reads:
+"SEC. 4. 
+ Fixing of Rates by the Board and Review by the Public Service Commission.
+ - The Board shall fix the rates and fees to be charged by the Corporation so that the Corporation's rate of return shall be not more than ten 
+per centum
+ (10%) on a rate base composed of the sum of its net assets in operation as revalued from time to time plus two months' operating capital x x x.  The Public Service Commission shall have exclusive original jurisdiction over all cases contesting said rates or fees. x x x.  The Public Service Commission shall verify the rate base, and the rate of return computed therefrom, in accordance with the standards herein outlined."
+[27]
+ "An Act Creating the Department of Energy, Rationalizing the Organization and Functions of Government Agencies Related to Energy, and for Other Purposes," approved on December 9, 1992.
+[28]
+ Prior to Republic Act 7638, a Department of Energy was established under Presidential Decree No. 1206, "Creating the Department of Energy," approved on October 6, 1977.
+[29]
+ Republic Act No. 7638, supra note 27, Sec. 18.
+[30]
+ "Creating the Energy Regulatory Board," approved on May 8, 1987.
+[31]
+ Id., first "Whereas" clause.
+[32]
+ The pertinent provision reads:
+"Section 3.
+ Jurisdiction, Powers and Functions of the Board.
+ - When warranted and only when public necessity requires, the Board may regulate the business of importing, exporting, re-exporting, shipping, transporting, processing, refining, marketing and distributing energy resources. Energy resource means any substance or phenomenon which by itself or in combination with others, or after processing or refining or the application to it of technology, emanates, generates or causes the emanation or generation of energy, such as but not limited to, petroleum or petroleum products, coal, marsh gas, methane gas, geothermal and hydroelectric sources of energy, uranium and other similar radioactive minerals, solar energy, tidal power, as well as non-conventional existing and potential sources.
+"The Board shall, upon proper notice and hearing, exercise the following, among other powers and functions:
+"(a) Fix and regulate the prices of petroleum products;
+"(b) Fix and regulate the rate schedule or prices of piped gas to be charged by duly franchised gas companies which distribute gas by means of underground pipe system;
+"(c) Fix and regulate the rates of pipeline concessionaires under the provisions of Republic Act No. 387, as amended, otherwise known as the "Petroleum Act of 1949," as amended by Presidential Decree No. 1700;
+"(d) Regulate the capacities of new refineries or additional capacities of existing refineries and license refineries that may be organized after the issuance of this Executive Order, under such terms and conditions as are consistent with the national interest;
+"(e) Whenever the Board has determined that there is a shortage of any petroleum product, or when public interest so requires, it may take such steps as it may consider necessary, including the temporary adjustment of the levels of prices of petroleum products and the payment to the Oil Price Stabilization Fund created under Presidential Decree No. 1956 by persons or entities engaged in the petroleum industry of such amounts as may be determined by the Board, which will enable the importer to recover its cost of importation."
+[33]
+ Presidential Decree No. 1206, Secs. 9 and 12 enumerated the powers and functions of the Board of Energy.  Pertinent to the present case is the following provision of Sec. 9:
+"c.  Regulate and fix the power rates to be charged by electric companies except (1) electric cooperatives which shall continue to be governed by Presidential Decree No. 269, as amended, and (2) the National Power Corporation which shall continue to be governed by Republic Act No. 6395, as amended;"
+[34]
+ Presidential Decree No. 1206, Secs. 7 and 12 enumerated the powers and functions of the Bureau of Energy Utilization.
+[35]
+ Republic Act No. 7638, supra note 27, Sec. 18.
+[36]
+ An Act Ordaining Reforms in the Electric Power Industry, Amending for the Purpose Certain Laws and for other Purposes," approved on June 8, 2001.
+[37]
+ Id., Sec. 44.  The other functions of the ERC are enumerated in Republic Act No. 9136, Sec. 43.
+[38]
+ 
+Commissioner of Internal Revenue v. Court of Appeals,
+ 363 Phil. 130, February 23, 1999; 
+Domingo v. Commission on Audit,
+ 357 Phil. 842, October 7, 1998; 
+Lalican v. Vergara,
+ 342 Phil. 485, July 31, 1997, 
+Mustang Lumber Inc., v. Court of Appeals, 
+257 SCRA 430, June 18, 1996.
+[39]
+ R. AGPALO, STATUTORY CONSTRUCTION 177 (4
+th
+ ed., 1998); citing 
+People v. Kottinger
+, 45 Phil. 352, October 29, 1923.
+[40]
+ WEBSTER'S THIRD NEW INTERNATIONAL DICTIONARY 1884 (unabridged).
+[41]
+ BLACK'S LAW DICTIONARY 1289 (8th ed.).
+[42]
+ Id. See 
+Republic v. Manila Electric Company
+, 440 Phil. 389, November 15, 2002; 
+Municipality of Daet v. Hidalgo Enterprises,
+ 138 SCRA 265, August 28, 1985; 
+Manila Electric Company v. Public Service Commission,
+ 124 Phil. 1268, November 14, 1966; 
+Metropolitan Water District v. Public Service Commission
+, 58 Phil. 397, September 15, 1933.
+[43]
+ 
+Republic v. Medina
+, 41 SCRA 643, October 4, 1971.
+[44]
+ 
+Batangas CATV, Inc.,  v. Court of Appeals
+, 439 SCRA 326, September 29, 2004; 
+Republic v. Manila Electric Company
+, 449 Phil. 118, April 9, 2003.
+[45]
+ Smyth v. Ames,
+ 169 US 466, 42 L. Ed. 819 (1898). See also 
+Republic v. Medina
+, supra note 43 at 673; 
+Republic v. Manila Electric Company
+, supra at 403.
+[46]
+ 
+Republic v. Manila Electric Company,
+ supra.
+[47]
+ Id. at 408; 
+Municipality of Daet v. Hidalgo Enterprises
+, supra note 42, 
+Philippine Long Distance Telephone Company v. Medina
+, 127 Phil. 47, July 18, 1967.
+[48]
+ 73 CJS 1008.
+[49]
+ 
+Knoxville v. Knoxville Water Company
+, 212 US 1, 53 L Ed. 371 (1909).
+[50]
+ Supra note 48.
+[51]
+ Petitioner's Memorandum, p. 14; 
+rollo
+, p. 155.
+[52]
+ 
+Matienzo v. Abellera
+, 162 SCRA 1, June 1, 1988.
+[53]
+ See second "Whereas" Clause of Executive Order No. 172.
+[54]
+ Petitioner's Memorandum, p. 18; 
+rollo,
+ p. 159.
+According to the NPC, the plant operators benefited from the prompt payment discount, power factor adjustment, and primary voltage discount, under the following provisions of its Rules on the Sale of Electricity:
+"805. Prompt Payment Discount
+"1.  Full Payment
+"Customer shall be entitled to a two percent (2%) prompt payment discount on the total monthly bill due provided that the total monthly bill is paid in full on or before the fifteenth (15th) day of the month immediately following the billing period and provided that [the] Customer has no unpaid power account including interests and other charges.
+"2.  Partial Payment
+"A two percent (2%) prompt payment discount for partial payments made within the discount period shall be allowed for Customer who is up-to-date in its power account including other charges thereon at the time of application, provided that the current bill is settled in full within the credit period.  Failure to remit full payment of the current bill within said period shall mean forfeiture of the discount on payments made within the discount period."
+"Appendix B
+"Schedule of Charges
+"The customer shall be billed the following:
+"A.  BASIC CHARGES
+"x x x
+"B.  BILLING ADJUSTMENT
+"1.  Power Factor (P.F.) Adjustment
+"A Power Factor Adjustment (PFA) charge during any billing period shall be added in the power bill if the P.F. is less than 85% lagging.  However, for P.F. of above 90% up to 95%, a bonus is granted to customer provided that a P.F. of above 95% shall be considered as 95% in the computation of the P.F. adjustment bonus.  x x x.
+"x x x                       x x x            x x x
+"4.  Primary Voltage Discount (PVD)
+"When the primary voltage is as indicated below, the sum of customers" basic demand and energy charges shall be given a discount equal to the following
+"Delivery Voltage      Discount (%)
+Below 69 kV                 None
+69 kV                           2.5%
+115 kV/138 kV              3.0%
+230 kV and Above         3.5%
+"For multiple points of delivery served at different voltage levels, the primary voltage discount shall be calculated on the basis of the weighted average of the maximum demand/energy delivered and the applicable discount rates at the point of delivery."  (NPC Rules on the Sale of Electricity, supra at  note 11).
+[55]
+ Id. at 22; id. at 163.
+[56]
+ Id. at 24; id. at 165.
+[57]
+ RULES OF COURT, Rule 58, Sec. 1 reads: "A preliminary injunction is an order granted at any stage of an action or proceeding prior to the judgment or final order, requiring a party or a court, agency or a person to refrain from a particular act or acts."  Under Section 4, a preliminary injunction may only be granted upon verified application and filing of a bond.  Section 5 requires prior hearing and notice to the party or person sought to be enjoined unless great or irreparable injury would result to the applicant before the matter could be heard on notice.
+[58]
+ Petitioner's Memorandum, p. 25; 
+rollo
+, p.166.
+[59]
+ Id.
+[60]
+ 162 SCRA 521, June 23, 1988.
+[61]
+ Id. at 535, per Feliciano, J.
+[62]
+ 
+Substantial evidence
+ is that amount of relevant evidence that a reasonable mind might accept to justify a conclusion.  It is the quantum of evidence required to establish a fact in cases before administrative and quasi-judicial bodies, like the ERB. 
+Vertudes v. Buenaflor,
+ GR No. 153166, December 16, 2005; 
+Mendoza v. Rural Bank of Lucban,
+ 433 SCRA 756, July 7, 2004.
+[63]
+ 
+Bautista v. Board of Energy
+, 169 SCRA 167, January 13, 1989.
+[64]
+ 
+Radio Communications of the Philippines v. National Telecommunications Commission,
+ 184 SCRA 517, 523, April 23, 1990.
+[65]
+ R. AGPALO, STATUTORY CONSTRUCTION 265 (4th ed., 1998); citing 
+People v. Garcia, 
+85 Phil. 651, February 28, 1950.
+[66]
+ 
+See
+ Republic Act No.  9136, Sec. 2 (b).
+[67]
+ 
+Republic v. Manila Electric Company,
+ supra note 44; 
+Republic v. Express Telecommunication Co.
+, 424 Phil. 372, January 15, 2002.
+[68]
+ 
+Quiambao v. Court of Appeals
+, 454 SCRA 17, March 28, 2005.
+[69]
+ Rules of Court, Rule 131, Sec. 3, par. (m).
+[70]
+ ERB Order dated December 20, 1995, p. 4;
+ rollo
+, p. 80; Assailed CA Decision, p. 11;
+ rollo
+, p. 48.
+[71]
+ RULES OF COURT,  Rule 45, Sec. 1.
+[72]
+ 
+Rosario v. PCI Leasing & Finance, Inc.
+, GR No. 139233, November 11, 2005; 
+Commissioner of Internal Revenue v. Embroidery and Garments Industries (Phil), Inc.
+, 364 Phil. 541, March 22, 1999.
+ 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

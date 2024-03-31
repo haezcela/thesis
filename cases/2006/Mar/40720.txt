@@ -1,0 +1,221 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			520 Phil. 266
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. NO. 166876, March 24, 2006 ]
+
+
+ARTEMIO INIEGO,[1] PETITIONER, VS. THE HONORABLE JUDGE GUILLERMO G. PURGANAN, IN HIS OFFICIAL CAPACITY AS PRESIDING JUDGE OF THE REGIONAL TRIAL COURT, BRANCH 42, CITY OF MANILA, AND FOKKER C. SANTOS, RESPONDENTS              
+
+ D E C I S I O N
+
+
+
+
+CHICO-NAZARIO, J.:
+
+
+For this Court to grant this petition for review on 
+certiorar
+i under Rule 45 of the Rules of Court, petitioner has to persuade us on two engaging questions of law. First, he has to convince us that actions for damages based on quasi-delict are actions that are capable of pecuniary estimation, and therefore would fall under the jurisdiction of the municipal courts if the claim does not exceed the jurisdictional amount of P400,000.00 in Metro Manila. Second, he has to convince us that the moral and exemplary damages claimed by the private respondent should be excluded from the computation of the above-mentioned jurisdictional amount because they arose from a cause of action other than the negligent act of the defendant.
+Petitioner urges us to reverse the 28 October 2004 Decision and 26 January 2005 Resolution of the Court of Appeals, Eighth Division, in CA-G.R. SP No. 76206 denying due course to the petition for 
+certiorari
+ filed by petitioner under Rule 65, elevating the 21 October 2002 Omnibus Order and the 21 January 2003 Order of the Regional Trial Court (RTC), Branch 42, City of Manila.  The dispositive portion of the 28 October 2004 Decision of the Court of Appeals reads:
+WHEREFORE, the petition is DENIED DUE COURSE and DISMISSED for lack of merit.
+[2]
+The factual and procedural antecedents of this case are as follows:
+On 1 March 2002, private respondent Fokker Santos filed a complaint for quasi-delict and damages against Jimmy T. Pinion, the driver of a truck involved in a traffic accident, and against petitioner Artemio Iniego, as owner of the said truck and employer of Pinion.  The complaint stemmed from a vehicular accident that happened on 11 December 1999, when a freight truck allegedly being driven by Pinion hit private respondent's jitney which private respondent was driving at the time of the accident.
+On 24 August 2002, private respondent filed a Motion to Declare defendant in Default allegedly for failure of the latter to file his answer within the final extended period.  On 28 August 2002, petitioner filed a Motion to Admit and a Motion to Dismiss the complaint on the ground, among other things, that the RTC has no jurisdiction over the cause of action of the case.
+On 21 October 2002, public respondent Judge Guillermo G. Purganan, acting as presiding judge of the RTC, Branch 42, Manila, issued the assailed Omnibus Order denying the Motion to Dismiss of the petitioner and the Motion to Declare Defendant in Default of the private respondent. Pertinent portions of the Omnibus Order and the dispositive portion thereof read:
+In his opposition to the motion to declare him in default and his Motion to Admit defendant IÃEGO alleged that he never received the Order dated 12 August 2002. But believing in good faith, without being presumptuous, that his 3
+rd
+ Motion for additional Time to file or any appropriate [pleading] would be granted, he filed the aforesaid Motion received by the Court on 23 August 2002.
+The explanation of defendant IÃEGO has merit. The order dated 12 August 2002 was sent to a wrong address, thus defendant IÃEGO did not receive it. Since it was not received, he was not aware that the court would grant no further extension. The Motion to Admit Motion to Dismiss has to be granted and the Motion to declare Defendant IÃEGO [in default] has to be DENIED.
+x x x x
+The plaintiff opines that this court has exclusive jurisdiction because the cause of action is the claim for damages, which exceeds P400,000.00. The complaint prays for actual damages in the amount of P40,000.00, moral damages in the amount of P300,000.00, and exemplary damages in the amount of P150,000.00. Excluding attorney's fees in the amount of P50,000.00, the total amount of damages being claimed is P490,000.00.
+Proceeding on the assumption that the cause of action is the claim of (sic) for damages in the total amount of P490,000.00, this court has jurisdiction. But is the main cause of action the claim for damages?
+This court is of the view that the main cause of action is not the claim for damages but quasi-delict. Damages are being claimed only as a result of the alleged fault or negligence of both defendants under Article 2176 of the Civil Code in the case of defendant Pinion and under Article 2180 also of the Civil Code in the case of defendant Iniego. But since fault or negligence (quasi-delicts) could not be the subject of pecuniary estimation, this court has exclusive jurisdiction.
+x     x     x     x
+WHEREFORE, 
+in view of all the foregoing
+, the motion to declare defendant Iniego in default and the said defendant's motion to dismiss are denied.
+[3]
+On 7 November 2002, petitioner filed a Motion for Reconsideration of the Omnibus Order of 21 October 2002.  On 21 January 2003, public respondent issued an Order denying petitioner's motion for reconsideration. Pertinent portions of the 21 January 2003 Order are reproduced hereunder:
+What this court referred to in its Order sought to be reconsidered as not capable of pecuniary estimation is the CAUSE OF ACTION, which is quasi-delict and NOT the amount of damage prayed for.
+x x x x
+WHEREFORE, 
+in view of the foregoing,
+ the motion for reconsideration is DENIED.
+[4]
+Petitioner elevated the 21 October 2002 and 21 January 2003 Orders of the RTC to the Court of Appeals on petition for 
+certiorari
+ under Rule 65 of the Rules of Court.  On 28 October 2004, the Court of Appeals promulgated the assailed Decision, the dispositive portion thereof reads:
+WHEREFORE, the petition is DENIED DUE COURSE and dismissed for lack of merit.
+[5]
+On 22 November 2004, petitioner moved for reconsideration, which was denied by the Court of Appeals on 26 January 2005.  Hence, this present petition.
+Petitioner claims that actions for damages based on quasi-delict are actions that are 
+capable 
+of pecuniary estimation; hence, the jurisdiction in such cases falls upon either the municipal courts (the Municipal Trial Courts, Metropolitan Trial Courts, Municipal Trial Courts In Cities, And Municipal Circuit Trial Courts), or the Regional Trial Courts, depending on the value of the damages claimed.
+Petitioner argues further that should this Court find actions for damages capable of pecuniary estimation, then the total amount of damages claimed by the private respondent must exceed P400,000.00 in order that it may fall under the jurisdiction of the RTC. Petitioner asserts, however, that the moral and exemplary damages claimed by private respondent be excluded from the computation of the total amount of damages for jurisdictional purposes because the said moral and exemplary damages arose, not from the quasi-delict, but from the petitioner's refusal to pay the actual damages.
+I
+Actions for damages based on quasi-delicts are primarily and effectively actions for the recovery of a sum of money for the damages suffered because of the defendant's alleged tortious acts, and are therefore 
+capable 
+of pecuniary estimation.
+In a recent case,
+[6]
+ we did affirm the jurisdiction of a Municipal Circuit Trial Court in actions for damages based on quasi-delict, although the ground used to challenge said jurisdiction was an alleged forum shopping, and not the applicability of Section 19(1) of Batas Pambansa Blg. 129.
+According to respondent Judge, what he referred to in his assailed Order as not capable of pecuniary estimation is the cause of action, which is a quasi-delict, and not the amount of damage prayed for.
+[7]
+  From this, respondent Judge concluded that since fault or negligence in quasi-delicts cannot be the subject of pecuniary estimation, the RTC has jurisdiction.  The Court of Appeals affirmed respondent Judge in this respect.
+[8]
+Respondent Judge's observation is erroneous.  It is crystal clear from B.P. Blg. 129, as amended by Republic Act No. 7691, that what must be determined to be capable or incapable of pecuniary estimation is not the cause of action, but the 
+subject matter
+ of the action.
+[9] 
+ A cause of action is "the delict or wrongful act or omission committed by the defendant in violation of the primary rights of the plaintiff."
+[10]
+ On the other hand, the "subject matter of the action" is "the physical facts, the thing real or personal, the money, lands, chattels, and the like, in relation to which the suit is prosecuted, and not the delict or wrong committed by the defendant."
+[11]
+The case of 
+Lapitan v. Scandia, Inc., et al.,
+[12]
+ has guided this Court time and again in determining whether the subject matter of the action is capable of pecuniary estimation. In 
+Lapitan, 
+the Court spoke through the eminent Mr. Justice Jose B.L. Reyes:
+In determining whether an action is one the subject matter of which is not capable of pecuniary estimation this Court has adopted the criterion of first ascertaining the nature of the principal action or remedy sought. I
+f it is primarily for the recovery of a sum of money, the claim is considered capable of pecuniary estimation, and whether jurisdiction is in the municipal courts or in the courts of first instance [now Regional Trial Courts] would depend on the amount of the claim. 
+However, where the basic issue is something other than the right to recover a sum of money, where the money claim is purely incidental to, or a consequence of, the principal relief sought like suits to have the defendant perform his part of the contract (specific performance) and in actions for support, or for annulment of a judgment or to foreclose a mortgage, this court has considered such actions as cases where the subject of the litigation may not be estimated in terms of money, and are cognizable exclusively by courts of first instance [now Regional Trial Courts]. x x x.
+[13]
+  (Emphasis supplied.)
+Actions for damages based on quasi-delicts are primarily and effectively actions for the recovery of a sum of money for the damages suffered because of the defendant's alleged tortious acts.  The damages claimed in such actions represent the monetary equivalent of the injury caused to the plaintiff by the defendant, which are thus sought to be 
+recovered 
+by the plaintiff.  This money claim is the principal relief sought, and is not merely incidental thereto or a consequence thereof. It bears to point out that the complaint filed by private respondent before the RTC actually bears the caption "for DAMAGES."
+Fault or negligence, which the Court of Appeals claims is not capable of pecuniary estimation, is not actionable by itself. For such fault or negligence to be actionable, there must be a resulting damage to a third person. The relief available to the offended party in such cases is for the reparation, restitution, or payment of such damage, without which any alleged offended party has no cause of action or relief. The fault or negligence of the defendant, therefore, is inextricably intertwined with the claim for damages, and there can be no action based on quasi-delict without a claim for damages.
+We therefore rule that the subject matter of actions for damages based on quasi-delict is capable of pecuniary estimation.
+II
+The amount of damages claimed is within the jurisdiction of the RTC, since it is the claim for all kinds of damages that is the basis of determining the jurisdiction of courts, whether the claims for damages arise from the same or from different causes of action.
+Despite our concurrence in petitioner's claim that actions for damages based on quasi-delict are actions that are capable of pecuniary estimation, we find that the total amount of damages claimed by the private respondent nevertheless still exceeds the jurisdictional limit of P400,000.00 and remains under the jurisdiction of the RTC.
+Petitioner argues that in actions for damages based on quasi-delict, claims for damages arising from a different cause of action (
+i.e., 
+other than the fault or negligence of the defendant) should not be included in the computation of the jurisdictional amount. According to petitioner, the moral and exemplary damages claimed by the respondents in the case at bar are not direct and proximate consequences of the alleged negligent act. Petitioner points out that the complaint itself stated that such moral and exemplary damages arose from the alleged refusal of defendants to honor the demand for damages, and therefore there is no reasonable cause and effect between the fault or negligence of the defendant and the claim for moral and exemplary damages.
+[14]
+  If the claims for moral and exemplary damages are not included in the computation for purposes of determining jurisdiction, only the claim for actual damages in the amount of P40,000.00 will be considered, and the MeTC will have jurisdiction.
+We cannot give credence to petitioner's arguments.  The distinction he made between damages arising directly from injuries in a quasi-delict and those arising from a refusal to admit liability for a quasi-delict is more apparent than real, as the damages sought by respondent originate from the same cause of action: the quasi-delict.  The fault or negligence of the employee and the 
+juris tantum
+ presumption of negligence of his employer in his selection and supervision are the seeds of the damages claimed, without distinction.
+Even assuming, for the sake of argument, that the claims for moral and exemplary damages arose from a cause of action other than the quasi-delict, their inclusion in the computation of damages for jurisdictional purposes is still proper. All claims for damages should be considered in determining the jurisdiction of the court regardless of whether they arose from a single cause of action or several causes of action. Rule 2, Section 5, of the Rules of Court allows a party to assert as many causes of action as he may have against the opposing party.  Subsection (d) of said section provides that where the claims in all such joined causes of action are principally for recovery of money, the aggregate amount claimed shall be the test of jurisdiction.
+[15]
+Hence, whether or not the different claims for damages are based on a single cause of action or different causes of action, it is the total amount thereof which shall govern.  Jurisdiction in the case at bar remains with the RTC, considering that the total amount claimed,
+ inclusive
+ of the moral and exemplary damages claimed, is P490,000.00.
+In sum, actions for damages based on quasi-delicts are actions that are 
+capable
+ of pecuniary estimation.  As such, they fall within the jurisdiction of either the RTC or the municipal courts, depending on the amount of damages claimed.  In this case, the amount of damages claimed is within the jurisdiction of the RTC, since it is the claim for all kinds of damages that is the basis of determining the jurisdiction of courts, whether the claims for damages arise from the same or from different causes of action.
+WHEREFORE,
+ the petition for review on 
+certiorari
+ is hereby 
+DENIED
+ for lack of merit.  The Decision and Resolution of the Court of Appeals dated 28 October 2004 and 26 January 2005, respectively, are 
+AFFIRMED
+ insofar as they held that the Regional Trial Court has jurisdiction.  No costs.
+SO ORDERED.
+Panganiban, C.J., (Chairperson), Ynares-Santiago,  Austria-Martinez,
+ and  
+Callejo, Sr., JJ., 
+concur.
+[1]
+ Also spelled as IÃ±ego in some parts of the rollo and records.
+[2]
+ 
+Rollo, 
+p. 17.
+[3]
+ Id.,
+ p. 35.
+[4]
+ 
+Id., 
+p. 40.
+[5]
+ 
+Id.
+, p. 17.
+[6]
+ 
+See Casupanan v. Laroya,
+ 436 Phil. 582, 592 (2002).
+[7]
+ 
+Rollo, 
+p. 40.
+[8]
+ Rollo
+, p. 16.
+[9]
+ Batas Pambansa Blg. 129, Sec. 19: 
+Jurisdiction in Civil Cases
+. â Regional Trial Courts shall exercise exclusive jurisdiction:
+(1) In all civil actions in which the subject of the litigation is incapable of pecuniary estimation;
+(2) x x x x
+[10] 
+Joseph v. Bautista,
+ G.R. No. 41423, 23 February 1989, 170 SCRA 540, 544.
+[11]
+ 
+Mathay v. Consolidated Bank and Trust Company,
+ 157 Phil. 551, 565 (1974).
+[12]
+ 133 Phil. 526 (1968); 
+See Spouses Huguete v. Spouses Embudo,
+ 453 Phil. 170, 176-177 (2003); 
+Radio Communications of the Philippines v. Dulawon,
+ 435 Phil. 62, 66 (2002); 
+Barangay San Roque, Talisay, Cebu v. Heirs of Pastor,
+ 389 Phil. 467, 471 (2000); 
+Russell v. Vestil, 
+364 Phil. 392, 400 (1999); 
+De Leon v. Court of Appeals, 
+350 Phil. 535, 541 (1998); 
+Raymundo v. Court of Appeals,
+ G.R. No. 97805, 2 September 1992, 213 SCRA 457, 460-461; 
+Amorganda v. Court of Appeals, 
+G.R. No. 80040, 30 September 1988, 166 SCRA 203, 212; 
+Singsong v. Isabela Sawmill, 
+G.R. No. L-27343, 28 February 1979,  88 SCRA 623, 637.
+[13]
+ 
+Lapitan v. Scandia, Inc., et al., id.
+ at 528.
+[14]
+ 
+Rollo, 
+p. 68.
+[15]
+ See also SC
+ Administrative Circular No. 09-04 (1994).
+ 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

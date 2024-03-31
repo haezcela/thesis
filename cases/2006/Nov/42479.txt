@@ -1,0 +1,884 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			538 Phil. 646
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. NO. 150253, November 30, 2006 ]
+
+
+DAVAO LIGHT AND POWER CORPORATION, INC., PETITIONER, VS. ANTONIO G. DIAZ AND FRANCISCO P. TESORERO, RESPONDENTS. 
+ D E C I S I O N
+
+
+
+
+CHICO-NAZARIO, J.:
+
+
+Before Us is a Petition for Review on 
+Certiorari 
+seeking the reversal of the Decision dated 23 February 2001
+[1]
+ and Resolution dated 27 September 2001
+[2]
+ of the Court of Appeals in CA-G.R. SP No. 50771 entitled, "
+Antonio G. Diaz and Francisco P. Tesorero v. Energy Regulatory Board and Davao Light & Power Co., Inc.
+"  The assailed Decision and Resolution imputed grave abuse of discretion on the part of the Energy Regulatory Board
+[3]
+ (ERB) for altering the cut-off date from 18 September 1989 to 14 December 1984 for the purpose of computing consumers' refund.
+Petitioner
+[4]
+ is the authorized operator of electric light, heat, and power services in Davao City and in the municipalities of Panabo, Sto. Tomas, and Carmen, all situated in the province of Davao del Norte.
+Respondents Antonio Diaz and Francisco Tesorero are consumers of the electric power supplied by petitioner and are therefore the latter's customers.
+On 24 June 1982, petitioner filed an application with the then Board of Energy (BOE) for the approval of the sound value appraisal of its properties, assets, and equipment in service as of 9 October 1981.  In its application, initially docketed as BOE Case No. 82-684 and re-docketed as ERB Case No. 91-181, petitioner pegged the sound value appraisal of its properties, assets, and equipment in the amount of P302,109,000.00.  The BOE, in its Decision dated 6 December 1983, reduced this amount to P282,024,877.40.
+Still unsatisfied with the BOE's action, respondents Diaz and Tesorero filed a Petition for Review on 
+Certiorari
+ before this Court seeking the annulment of the 6 December 1983 decision of the BOE.  Said petition was docketed as G.R. No. 69592
+[5]
+ and, on 8 May 1990, we modified the BOE's decision by further reducing the sound value appraisal of petitioner's properties, assets, and equipment in service as of 9 October 1981 from P282,024,877.40 to P122,175,433.40.  We likewise denied petitioner's Motion for Reconsideration in our Resolution dated 27 June 1990.
+On 9 October 1985, while G.R. No. 69592 was still pending with this Court, petitioner filed another application before the BOE for the approval of the sound value appraisal of its properties, assets, and equipment in service as of 14 December 1984.  This second application was docketed as BOE Case No. 85-103 and re-docketed as ERB Case No. 87-70.
+On 18 September 1989, the ERB rendered a decision approving petitioner's sound value appraisal for its properties, assets, and equipment in service as of 14 December 1984 at P420,606,811.82, thus:
+After a judicious evaluation of the records of the case, the Board finds the herein application of Davao Light & Power Co., Inc. for approval of the sound value appraisal of its properties and equipment in service as of December 14, 1984, to be meritorious.
+WHEREFORE, in view of all the foregoing, the Board hereby approves the revaluation and appraisal, as modified herein, of the property and equipment of Davao Light & Power Co., Inc. with a total cost of reproduction new of P845,052,967.27 and a total sound value of P420,606,811.82, as herein below shown:
+ 
+ 
+Property Plant and Equipment
+ 
+1984 Reproduction Cost New
+ 
+1984 Sound Value
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Land
+ 
+P 10,630,900.00
+ 
+P 10,630,900.00
+ 
+ 
+ 
+Buildings
+ 
+19,782,100.00
+ 
+13,528,500.00
+ 
+ 
+ 
+Other Land Improvements
+ 
+ 
+4,601,500.00
+ 
+ 
+ 
+ 
+ 
+6,123,700.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Machinery and Equipment:
+ 
+ 
+ 
+ 
+ 
+Power Plant
+ 
+431,350,000.00
+ 
+ 
+175,319,000.00
+ 
+ 
+ 
+Control Room
+ 
+1,483,800.00
+ 
+668,000.00
+ 
+ 
+ 
+Machine Shop
+ 
+971,900.00
+ 
+267,500.00
+ 
+ 
+ 
+Electrical Laboratory Equipment
+ 
+310,300.00
+ 
+92,800.00
+ 
+ 
+ 
+Yard and Outside
+ 
+8,899,400.00
+ 
+4,122,800.00
+ 
+ 
+ 
+Electric Data Processing Equipment
+ 
+7,220,380.00
+ 
+ 
+5,054,000.00
+ 
+ 
+ 
+Desilting Equipment
+ 
+685,000.00
+ 
+ 
+240,000.00
+ 
+ 
+ 
+Power Plant Laboratory Equipment
+ 
+397,000.00
+ 
+260,700.00
+ 
+ 
+ 
+Electrical System Equipment
+ 
+297,700.00
+ 
+181,600.00
+ 
+ 
+ 
+Power Plant Electrical Equipment
+ 
+151,100.00
+ 
+79,100.00
+ 
+ 
+ 
+Injector Room Equipment
+ 
+161,300.00
+ 
+79,100.00
+ 
+ 
+ 
+Injector Room Equipment
+ 
+161,300.00
+ 
+69,100.00
+ 
+ 
+ 
+Pollution Control Equipment
+ 
+290,000.00
+ 
+174,000.00
+ 
+ 
+ 
+Power Plant Miscellaneous Equipment
+ 
+11,945,600.00
+ 
+5,538,300.00
+ 
+ 
+ 
+Fire Fighting Equipment
+ 
+257,000.00
+ 
+180,000.00
+ 
+ 
+ 
+Radio Communication Equipment
+ 
+2,927,000.00
+ 
+1,902,500.00
+ 
+ 
+ 
+Ponciano Reyes Repair Equipment
+ 
+197,600.00
+ 
+76,500.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Electrical Equipment:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Substations
+ 
+76,150,000.00
+ 
+51,412,000.00
+ 
+ 
+ 
+Transmissions and Distribution Poles Transformers
+ 
+168,007,000.00
+ 
+92,002,000.00
+ 
+ 
+ 
+Overhead Transmission and Distribution Line
+ 
+86,865,000.00
+ 
+46,157,000.00
+ 
+ 
+ 
+Consumer Meters
+ 
+94,592,000.00
+ 
+42,693,000.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transportation Equipment
+ 
+2,732,000.00
+ 
+2,364,000.00
+ 
+ 
+ 
+T O T A L
+ 
+P932,427,780.00
+ 
+P457,614,800.00
+ 
+ 
+ 
+ 
+ 
+0
+ 
+ 
+ 
+ 
+Less:
+ 
+ 
+ 
+ 
+ 
+Values of Property and Equipment which were either not used by the Company on its operation, not existing, or used by other Companies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Buildings
+ 
+P3,590,597.00
+ 
+P2,615,252.00
+ 
+ 
+ 
+Other Land Improvements
+ 
+19,500.00
+ 
+14,600.00
+ 
+ 
+ 
+Machinery and Equipment
+ 
+95,000,942.00
+ 
+36,775,197.00
+ 
+ 
+ 
+ 
+Electrical Equipment
+ 
+6,998,481.00
+ 
+3,270,519.00
+ 
+ 
+ 
+Transportation Equipment
+ 
+275,000.00
+ 
+275,000.00
+ 
+ 
+ 
+TOTAL
+ 
+P105,884,520.00
+ 
+P42,950,568.00
+ 
+ 
+ 
+ 
+ 
+0
+ 
+0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOTAL
+ 
+P826,543,260.00
+ 
+P414,664,232.00
+ 
+ 
+ 
+ 
+ 
+0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Add: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Value of assets which are not included in the appraisal report of 1984 but listed as assets of Davao Light & Power 
+Company on its Books
+ 
+P18,509,707.27
+ 
+P5,942,579.82
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOTAL VALUE OF ASSETS APPROVED
+ 
+P845,052,967.27
+ 
+P420,606,811.82
+ 
+ 
+This Decision shall take effect on the date hereof.
+SO ORDERED.
+Pasig, Metro Manila, September 18, 1989.
+[6]
+On 17 January 1995, respondents filed a petition before the ERB praying for the declaration of nullity of its 18 September 1989 Decision.
+[7]
+  Respondents argued that said ERB decision was void 
+ab initio
+ because included therein were certain generators which were ordered excluded by this Court in the computation of the sound value appraisal of petitioner's properties, assets, and equipment in our decision in G.R. No. 69592.
+[8]
+In its Comment,
+[9]
+ petitioner insisted that the 18 September 1989 ERB decision had long become final and executory as respondents did not file a motion for reconsideration thereof neither did they assail said finding on appeal; thus, respondents' petition was an attempt to reopen proceedings which had been terminated five years earlier. Moreover, respondents could not invoke our ruling in G.R. No. 69592 as it was only promulgated on 8 May 1990 while the ERB decision in ERB Case No. 87-70 was rendered on 18 September 1989.
+The ERB dismissed the respondents' petition for lack of merit on 23  July 1996
+[10]
+ and respondents' motion for reconsideration was denied on 3 October 1996.
+[11]
+Respondents' efforts for a favorable ruling before the Court of Appeals and this Court proved to be similarly fruitless.  The Court of Appeals, in its 27 May 1999 Decision,
+[12]
+ denied respondents' Petition for Review on 
+Certiorari
+ due to lack of merit.  When respondents elevated the matter through a Petition for Review on 
+Certiorari
+ before this Court,
+[13]
+ we deemed it proper to deny respondents' plea in our Resolution of 18 August 1999.
+[14]
+Buoyed, however, by this Court's 8 May 1990 ruling in G.R. No. 69592, respondents sent a letter dated 1 December 1990 to the ERB for the institution of refund proceeding.  The pertinent portion of respondents' letter reads:
+It is crystal clear, therefore, that since the Supreme Court has finally decided the case with FINALITY disapproving the appraisals made bloating the value of the properties, assets and equipment of Davao Light & Power Co., Inc. thus weighed down the profit to 12% as mandated by law, had already been reduced to P112,175,433.40, the excess from the collections made by Davao Light & Power Co., Inc. be now ordered returned to the more than 70,000 different customers according to the bracket of excess payments made and tendered by each customer since 1981.
+It is now therefore the most opportune and proper time that the Energy Regulatory Board, in observing and adhering to the spirit and mandate of the Decision of the Supreme Court to institute a Refund Proceedings in order that all the excess payments made by the more than 70,000 electric customers/consumers in Davao City, Panabo, Carmen, Sto. Tomas, all of Davao Province, be returned to said consumers/customers beginning the year 1981; or, in the alternative, to convert the total excess payments collected from the aforesale [sic] electric consumers/customers be credited as their equity participation with Davao Light & Power Co., Inc., as a lumpsum reimbursement will become a massive financial drain of the financial standing of Davao Light & Power Co., Inc. and which would, in effect, compel them to render poor service to the public.
+It is respectfully prayed of the Honorable Chairman of the Energy Regulatory Board that the institution of the Refund Proceedings be acted upon in accordance with the provisions of Republic Act 6713, otherwise known as the Code of Conduct and Ethical Standards for Public Officials and Employees.
+[15]
+On 8 June 1992, the ERB granted the petition for the institution of refund proceedings.
+[16]
+  Petitioner's motion for reconsideration of this decision was denied by the ERB on 1 July 1992 and thereafter, it filed a petition for review before the Court of Appeals.
+[17]
+  On 22 July 1996, the Court of Appeals rendered its decision stating, among other things, the following:
+Notwithstanding the foregoing, We still recognize private respondents' right to a refund inasmuch as the rates charged them, in the light of the decision of the Supreme Court in the case of 
+Tesorero v. Mathay,
+ were excessive.
+It is noteworthy that in 
+Tesorero, et al. v. Mathay,
+ 185 SCRA 124, 132-133, the Supreme Court modified the decision of the then Board of Energy dated December 6, 1983 by excluding certain properties of DALIGHT as not being used in the generation and distribution electricity and approved only the sum of P122,175,433.40 as the fair and reasonable value of DALIGHT's properties, assets and equipment in service as of  October 9, 1981.  Such exclusion must necessarily reduce the sound value of petitioner's allowable rate base and ultimately result in the reduction of the rate of return, which is limited by law to twelve percent (12%) of the rate base.  While it cannot be disclaimed that petitioner's rates were fixed by the then Board of Energy (BOE) (now the Energy Regulatory Board) in prior orders, respondent ERB, however, is not without authority to order refund proceedings in the light of the ruling in the aforecited 
+Tesorero
+ case.  Such refund proceedings, however, must take into account the overriding principle of fairness which stems from the all-important fact that public utilities such as the petitioner DALIGHT make their financial plans, projections and investments on the basis of the expected revenues.  Respondent ERB must therefore consider such facts and circumstances as would minimize the unsettling effect upon the petitioner of having to make necessary reparation or refund revenues which it had already collected on the basis of rates previously approved by the Board.
+x x x x
+Under the circumstances, the ERB could make the necessary adjustments in the subsequent rates to be charged by DALIGHT in consideration of the revaluation of DALIGHT's assets and the excess payments it received to be reckoned from the date when private respondents first raised their opposition to such valuation on January 19, 1984 when they filed their Motion for Reconsideration of the December 6, 1983 decision of the then BOE.
+WHEREFORE, IN VIEW OF THE FOREGOING,
+ 
+the petition is hereby 
+DISMISSED.
+ 
+ No pronouncement as to costs.
+[18]
+Petitioner then filed a Motion for Clarification/Reconsideration before the Court of Appeals which was however disregarded by the appellate court in its resolution of 30 October 1996.  Subsequently, petitioner filed a Petition for Review before this Court but later had it withdrawn.
+[19]
+Respondents thereafter filed before the ERB a Motion to Require Respondents (petitioner herein) Specifications on Certain Items, to wit:
+Petitioners (respondents herein) are in need of the following specifications from the annual books of accounts of respondent Davao Light and Power Co., Inc. in the items stated hereunder:
+FOR
+ 
+THE
+ 
+YEARS
+ 
+1984
+ 
+TO
+ 
+1996
+a. Breakdown of credits to fire, typhoon, calamity, insurance reserve;
+b. Rentals collected from telephone and other companies for rent of electric posts;
+c.  Details of annual expenditures for:
+c-1.  Legal fees
+c-2.  Representations
+c-3.  Donations
+d.  Interest earned on customers' deposits;
+e.  Interest paid on loan secured by Dalight from other sources;
+f.  Interests paid on customers' deposits;
+g.  Interest earned on deposit of Dalight funds;
+h.  Realty taxes paid for all Generators of Dalight.
+[20]
+Petitioner opposed this motion "insofar as the period (1984 to 1996) is concerned"
+[21]
+ as the refund proceedings should be limited from 19 January 1984 to 14 December 1984.
+[22]
+The ERB granted the motion of respondents to require petitioner to provide specification on certain items in its Order dated 26 February 1998 â
+WHEREFORE, finding petitioners' Francisco P. Tesorero and Antonio G. Diaz's motion to be meritorious, the same is hereby granted with modification.  Accordingly, applicant is hereby directed to furnish the Board with the documents above stated during the period from January 19, 1984 to December 14, 1984, within five (5) days from receipt hereof.
+[23]
+Petitioner moved to have the aforesaid order reconsidered on the ground that the data sought by respondents were irrelevant to the refund proceedings.  This was opposed by respondents who claimed that the 26 February 1998 order of the ERB clearly stated that the period covered shall be from 19 January 1984 to 18 September 1989 and not from 19 January 1984 to 14 December 1984.
+[24]
+  They also argued that approval of the valuation of petitioner's properties, assets, and equipment in use as of 14 December 1984 took effect on the date of its promulgation on 18 September 1989 as stated in the dispositive portion of the ERB decision.
+[25]
+On 4 June 1998, the ERB granted petitioner's motion for reconsideration and ordered the Commission on Audit (COA) to audit and examine the pertinent books and other records of petitioner necessary for the purpose of computing the refund covering the period from 19 January 1984 to 14 December 1984.
+[26]
+  Respondents' motion for reconsideration of this order was denied by the ERB for being filed out of time and due to lack of merit on 4 October 1998.
+[27]
+On 9 November 1998, respondents filed a Joint Affidavit-Complaint before the Office of the Ombudsman accusing the chairman and the members of the ERB of falsification, violation of Republic Act No. 3019, grave misconduct, dishonesty, oppression, and acts prejudicial to public service.
+[28]
+  The charges stemmed from the alleged alteration of the ERB Order dated 26 February 1998 in that the copy of said order which they received directed petitioner to present certain financial records from 19 January 1984 to 18 September 1989 while the official copies of the same order stated the period to be 19 January 1984 to 14 December 1984.  These charges against the chairman and the members of the ERB were ordered dismissed on 7 May 1999.  Respondents' petition before the Court of Appeals ascribing grave abuse of discretion on the part of the officials of the Office of the Ombudsman was dismissed on 10 November 2003.
+[29]
+  The dispositive portion of the Court of Appeals' decision provides:
+WHEREFORE, premises considered, the petition for certiorari is DENIED and is accordingly DISMISSED for lack of merit.
+[30]
+In the meantime, respondents filed a Petition for Certiorari before the Court of Appeals to annul the 4 June 1998 and 4 October 1998 Orders of the ERB which allegedly reduced the refund period from 19 January 1984 to 14 December 1984 instead of 19 January 1984 to 18 September 1989.
+On 23 February 2001, the Court of Appeals granted respondents' petition with the dispositive portion of the decision stating:
+WHEREFORE, premises considered, the petition is GRANTED and the Orders dated June 4, 1998 and October 4, 1998 of the public respondent is (sic) hereby ANNULLED and SET ASIDE.  Public respondent is hereby ordered to regard September 18, 1989 as the effective cut-off date of the period for computing petitioners' (respondents herein) refund.
+[31]
+Petitioner's Motion for Reconsideration was ordered denied by the Court of Appeals on 27 September 2001.
+[32]
+  Hence, the present recourse imputing the following errors on the Court of Appeals:
+I
+The Ninth Division of the Court of Appeals erred in ruling that the 
+effective date
+ of the sound value appraisal of DLPC's properties, assets, and equipment in service as of 14 December 1984 is on 18 September 1989, the date when the ERB rendered its decision approving the same, in complete disregard of existing laws and jurisprudence on the determination of the rate base of a power utility firm for the purpose of rate fixing.
+[33]
+II
+The Ninth Division of the Court of Appeals violated elementary norms in the provision of proof of official records and in the performance of official duty when it relied on an alleged copy of the 26 February 1998 ERB Order, as attached by respondents in their petition for certiorari in CA-G.R. SP No. 50771, despite the presentation of the original of the order on file with the ERB, through a certified true copy thereof, and the explicit manifestation of the issuing authority itself, the ERB, that the same is not the order it issued.
+[34]
+III
+The Court of Appeals, by giving due course to and ruling on the petition for certiorari in CA-G.R. SP No. 50771, sanctioned forum shopping by the respondents who had earlier filed another proceeding involving the same factual issue, i.e., the contents of the ERB's 26 February 1998 Order.
+[35]
+In fine, the present petition for review poses the following questions:  when is the effective date of the sound value appraisal of petitioner's properties, assets, and equipment in service as of a particular date for the purpose of rate fixing; and second, which copy of the 26 February 1998 order of the ERB should prevail.
+Petitioner contends that in an appraisal proceeding, the ERB is required to set the value of an electric company's assets in service as of a specific date such that when it was asked by petitioner to determine the sound value appraisal of the latter's assets in service as of 14 December 1984, its approval or disapproval of the value submitted by petitioner should be confined only to said date and not to any other period.  Moreover, it has been the uniform practice of the ERB to set the effective date of revaluation of power utilities' assets in service as of a specific date and not on the date of the promulgation of its decision.  This practice, petitioner argues, is recognized even by respondents themselves when they stated in their motion for reconsideration dated 8 April 1998 in ERB Case No. 91-181 that it has been customary for COA to compute the rate base on the basis of the latest appraisal which is recorded in the books even prior to the approval of the said appraisal.
+[36]
+As for the dispositive portion of the ERB's decision of 18 September 1989, petitioner maintains that the same is vague because the body of the decision clearly states that the approved valuation of petitioner's assets is supposed to take effect on 14 December 1984 and not on the date of the promulgation of said decision.
+[37]
+On the other hand, respondents insist that the present petition failed to raise a question of law
+[38]
+ and that the findings of fact of the Court of Appeals with respect to which copy of the 26 February 1998 ERB order should be relied upon binds this Court.
+We find merit in the petition.
+It is well recognized that a public utility such as petitioner is entitled to a reasonable compensation in return for the service it provides and that it may exact reasonable charges in accordance with the service provided or the rates established therefor.
+[39]
+  In computing the just and reasonable rates to be charged by a public utility, three major factors are to be considered.  These are:  the rate of return; the rate base; and the return itself or the computed revenue to be earned by the public utility based on the rate of return and rate base.
+[40]
+  The rate of return is a percentage which when multiplied by the rate base provides a fair return to the public utility for the use and risks it undertook for the investment of its money.
+[41]
+  The rate of return in our jurisdiction has been set at 12% by administrative and judicial pronouncements.
+[42]
+  The rate base refers to the total amount of invested capital or of property "values" on which the public utility is entitled to a reasonable rate of compensation.
+[43]
+  It includes an allowance for working capital in addition to the net valuation of the utility's tangible property.
+[44]
+  The valuation of a public utility's assets is an integral portion of the rate base.
+In this case, respondents argue that the sound value appraisal of petitioner's properties, assets, and equipment in use as of 14 December 1984 must be made to apply even five years after the appraisal was conducted or on 18 September 1989.  We cannot agree with such proposition.
+Appraisal is defined as a valuation or an estimation of value of property 
+as of a given date
+ by disinterested persons of suitable qualifications.
+[45]
+  It must be emphasized that in conducting the appraisal of a property, one seeks to determine its worth at a specific time; thus, its value varies as the reckoning period changes.  Respondent's view that the sound value appraisal of petitioner's properties, assets, and equipment in service as of 14 December 1984 should be the same as its valuation almost five years after overlooks a basic and generally held concept that assessment of these items change over time such that some of them may have depreciated while the valuation of the others might have appreciated.  Either way, the values of the properties will no longer be the same particularly in this case where the period separating the date of appraisal and the date of the ERB decision is almost five years.  Surely, by the time the ERB came up with its decision in 1989 approving the sound value appraisal of petitioner's properties in service as of 1984, their values are no longer the same.
+We likewise find respondents' reliance on the dispositive portion of the 18 September 1989 decision of the ERB stating that said decision was "to take effect on the date hereof" to be unacceptable.
+While are aware that the portion of a decision that becomes the subject of execution is that ordained or decreed in the dispositive part thereof nevertheless, we are equally conscious of the exceptions to this rule, to wit:
+(a) where there is ambiguity or uncertainty, the body of the opinion may be referred to for purposes of construing the judgment because the dispositive part of a decision must find support from the decision's 
+ratio decidendi
+;
+(b) where extensive and explicit discussion and settlement of the issue is found in the body of the decision.
+[46]
+A reading of the whole 18 September 1989 decision of the ERB reveals that it refers to the estimated values of petitioner's properties as of 14 December 1984 and that the factors used by the independent appraiser in the valuation were those existing at the time they conducted the appraisal and not when the ERB rendered its decision a few years after, thus:
+At the February 22 & 23, 1988 hearings, applicant presented as its final witness, Engr. Elias MaÃ±ago, a licensed Mechanical Engineer and Project Manager of Asian Appraisal Co., Inc. who testified on the actual valuation of the machineries and equipment, electrical and transportation equipment of applicant Davao Light & Power Co., Inc. 
+as of December 14, 1984. 
+ Witness MaÃ±ago explained that in determining the cost of reproduction new [sic], they used either the market data approach or the cost approach.  x x x.
+x x x x
+At the August 9, 1988 hearing, applicant presented its fourth witness, Mr. Efren S. Ocampo, Actg. Head, Real Estate Division of the Asian Appraisal Co., Inc. who testified on the valuation of applicant's lands, buildings and other land improvements 
+as of December 14, 1984
+. x x x
+x x x x
+The fifth and last witness presented by applicant was Mrs. Bienvenida Cavan, its Chief Accountant, who is based in Cebu City.  Witness Cavan testified on the veracity and truthfulness of Exhibit "K," Certification that Davao Light & Power Co., Inc. had no loans, obligations or the like constituting a lien or encumbrance on the properties of Davao Light 
+as of December 14, 1984.
+[47]
+Indeed, it is in reading the whole decision, and not just the dispositive portion alone, that one arrives at the true meaning of any of its part.
+[48]
+In addition, the ERB itself, in its manifestation dated 11 April 2001, filed before the Court of Appeals explained that â
+As this Honorable Court noted in its 
+Davao Light v. ERB
+ decision, one of the variables taken into consideration in the fixing of rates of public utilities is the rate base, which is made up of the value of properties in service plus two months working capital.  With respect to the properties in service, the present or sound value is used, conformably with rulings of the Supreme Court in 
+Manila Electric Company vs. Public Service Commission
+ (18 SCRA 651 at 667-669)  and a long line of earlier cases cited therein.
+It is precisely in this context that DALIGHT sought the approval by the Board of the sound value appraisal of its properties in service as of December 14,1984, and the same context in which the Board's approval was granted.
+x x x x
+In other words, the Board through the said decision, confirmed that the sound value of DALIGHT's properties in service on December 14, 1984 was P420,606,811.82.
+In a technical, as well as practical sense, the P420,606,811.82 valuation and the value date, December 14, 1984, have to go together.  Should such date be changed, the value of the properties would almost certainly be likewise different.
+It is in this perspective that the time frame of the refund should be determined particularly the ending cut-off date thereof.
+Viewed differently, the basis of the refund is the reduction of the value of DALIGHT's properties in service from P282,024,877.40 to P122,175,433.40.  When the said value increased to P420,606,811.82, the reason for the refund ceased.
+That time came to pass on December 14, 1984, not on September 18, 1989.
+Be that as it may, the Board realizes the necessity of explaining the statement â
+"This Decision shall take effect on the date hereof."
+To be candid, that sentence is not only an unnecessary surplusage, but is to a large extent, meaningless.  Generally, the statement is used in connection with the approval of rate adjustments, which necessarily have beginning effectivity dates.  On the other hand, the approval of an appraisal, by itself, does not have any effect at all on the rates of a public utility.  It is only when an adjustment is made on a utility's rates, using the appraisal as basis, could it be correctly said that the appraisal has taken effect.
+[49]
+As regards the second issue, the Court of Appeals held that â
+As to the second issue, it is necessary to refer to the pertinent portions of the following orders:
+1) "x x x  Accordingly, 
+applicant is hereby directed to 
+furnish the Board with the documents
+ above stated
+ during the period form January 19, 1984 to September 18, 1989
+,
+ x x x" (Order dated February 26, 1998).
+2) "x x x The Commission on Audit (COA) is hereby requested to cause the audit and examination of the book and other records of DALIGHT as it deemed necessary, 
+including the abovementioned documents, 
+for purposes of computing the refund
+ in this case 
+covering the period from January 19, 1984 to December 14, 1984
+, and thereafter submit to the Board its audit report, copies furnished the parties herein who are given fifteen (15) days from receipt hereof to submit their respective comments thereon, in order to aid the Board in determining the appropriate refund.  x x x" (Order dated June 4, 1998)
+We consider that while the period in the later order was declared by respondent Board for the purpose of computing petitioners' refund, there was no such express declaration in the earlier order.  The period in the first order refers to the inclusive dates of the documents to be furnished to public respondent by private.  However, the latter had the effect of providing a period of computing petitioners' refund.
+Query?  Why else then would documents pertaining to the said period be submitted were it not for the purpose of computing petitioners' refund?  It would be inutile to issue such order if not for the accomplishment of the said purpose.
+Clearly, one can perceive that the Order of June 4, 1998 modified and/or changed the February 26, 1998 Order.  While the earlier order provided the cut-off date as September 18, 1989, the later order specified the cut-off date of December 14, 1984.
+The foregoing modification materially affected the rights of petitioners, as the reduction of the cut-off date shortened the period of the computation of petitioners' refund, which resulted in the diminution of the amount of said refund.
+[50]
+In arriving at the afore-quoted conclusion, the Court of Appeals proceeded from the presumption that the 26 February 1996 order of the ERB contained 18 September 1989 as the cut-off date.  A review of the records of this case discloses that what was attached as Annex "N"
+[51]
+ to respondents' Petition for 
+Certiorari 
+before the Court of Appeals was indeed an order dated 26 February 1998 by the ERB directing petitioner to furnish it with certain financial documents covering the period 19 January 1984 to 18 September 1989.  Respondents' copy of the 26 February 1998 order was issued as a certified copy by Priscilla B. Salgado of the Special Audit Office.
+On the other hand, attached as Annex "S" to this petition is a 26 February 1998 order rendered by the ERB which is similar to that presented by respondents before the Court of Appeals except for two items. First, in the Annex "S" of this petition, the cut-off period of the financial records to be submitted by petitioner is 14 December 1984.  The second material difference between the two is that Annex "S" of this petition contains the signatures of the chairman and members of the board of the ERB
+[52]
+ while Annex "N" of respondents petition before the Court of Appeals does not contain any signature although stamped above the names of the ERB chairman and its board members was the phrase "original signed."   Petitioner's copy of the 26 February 1998 order is a "certified copy" by Edith S. Angeles, Records Officer of the Energy Regulatory Commission.
+The pertinent provisions of the Rules of Court on this matter state:
+Rule 132
+PRESENTATION OF EVIDENCE
+x x x x
+Sec. 19.  
+Classes of documents.
+ â For the purpose of their presentation in evidence, documents are either public or private.
+Public documents are:
+(a)  The written official acts, or records of the official acts of the sovereign authority, official bodies and tribunals, and public officers, whether of the Philippines, or of a foreign country;
+(b)  Documents acknowledged before a notary public except last wills and testaments; and
+(c)  Public records, kept in the Philippines, of private documents required by law to be entered therein.
+All other writings are private.
+x x x x
+Sec. 23.  
+Public documents as evidence
+. â Documents consisting of entries in public records made in the performance of a duty by a public officer are prima facie evidence of the facts therein stated.  All other public documents are evidence, even against a third person, of the fact which gave rise to their execution and of the dated of the latter.
+Sec. 24.  
+Proof of official record.
+ -  The record of public documents referred in paragraph (a) of Section 19, when admissible for any purpose, may be evidenced by an official publication thereof or by a copy attested by the officer having the legal custody of the record, or by his deputy, and accompanied, if the record is not kept in the Philippines, with a certificate that such officer has the custody.  If the office in which the record is kept is in a foreign country, the certificate may be made by a secretary of the embassy or legation, consul general, consul, vice consul, or consular agent or by any officer in the foreign service of the Philippines stationed in the foreign country in which the record is kept, and authenticated by the seal of his office.
+Sec. 25.  What attestation of copy must state. -  Whenever a copy of a document or record is attested for the purpose of evidence, the attestation must state, in substance that the copy is a correct copy of the original, or a specific part thereof, as the case may be.  The attestation must be under the official seal of the attesting officer, if there be any, or if he be the clerk of a court having seal, under the seal of such court.
+In this case, we are inclined to give credence to the copy of the 26 February 1998 ERB order attached to the present petition as it was the certified copy issued by the ERB â the agency which promulgated it and is presumed to maintain the true and correct copy of said decision in its files.  Besides, even the ERB maintains that the Annex "N" in respondents' petition before the Court of Appeals is not a faithful copy of the original and that "[t]he February 26, 1998 Order actually issued by the Board and which forms part of the records of ERB Case No. 91-181 specifies the period January 19, 1984 to 
+December 14, 1984
+."
+[53]
+As aptly observed by the Court of Appeals in CA-G.R. SP No. 55735
+Moreover, even if it was indeed true that the ERB Order received by petitioners stated that the period was "from January 19, 1984 to September 18, 1989," that does not 
+ipso facto
+ mean that the private respondents altered or falsified the said order when it is clear that the order on file before the ERB states that the cut-off period was "from January 14, 1984 to December 14, 1984."  The signed original copy of the questioned order, which is on file with the ERB, shall be considered as the best evidence anent the contents of said order.  It is significant to point out that other than [sic] petitioners' imputation of the alleged alteration of  dates, no other evidence was shown to substantiate the allegation that private respondents were the ones who initiated or took part in the said falsification and/or alteration.  We also note that other than petitioners' bare allegations, no evidence was presented to show that private respondents gave unwarranted benefits, advantage or preference to any party causing undue damage to them.
+[54]
+WHEREFORE,
+ premises considered, this Petition is 
+GRANTED
+.  The Decision of the Court of Appeals dated 23 February 2001 and the Resolution dated 27 September 2001 are hereby 
+REVERSED
+ and 
+SET ASIDE
+.  The Energy Regulatory Commission is ordered to proceed with the refund proceedings instituted by respondents herein with reasonable dispatch consistent with this Decision.  No costs.
+SO ORDERED.
+Panganiban, C.J., (Chairperson), Ynares-Santiago, 
+ and 
+Callejo, Sr., JJ., 
+concur.
+Austria-Martinez, J.,
+ No part.
+[1]
+ Penned by Associate Justice Eliezer R. de los Santos with Associate Justices Godardo A. Jacinto and Bernardo P. Abesamis, concurring; 
+rollo
+, pp. 69-78.
+[2]
+ 
+Rollo, 
+pp. 80-82.
+[3]
+ Now the Energy Regulatory Commission.
+[4]
+ Referred to in the records of the case as DALIGHT or DLPC.
+[5]
+ Entitled "
+Francisco P. Tesorero v. Ponciano G.A. Mathay.
+"
+[6]
+ 
+Rollo,
+ pp. 88-90.
+[7]
+ Annex "D" of the Petition. 
+Rollo
+, pp. 91-101.
+[8]
+ In G.R. No. 69592, we stated that "[u]nder Presidential Decree No. 40 it is expressly provided that the setting up of transmission lines grids and the construction of associated generation facilities shall be the responsibility of the National Power Corporation as the authorized implementing agency of the State.  In the same manner plant additions necessary to meet the increase in power demand in the area covered thereby shall be constructed and owned by the NPC.
+Accordingly, there is no dispute that DALIGHT (petitioner herein) is no longer allowed to replace its generators.  In fact, the obligation to pay for four (4) generators was assumed by NPC and they were just leased to DALIGHT.
+On the other hand, the claim of DALIGHT that it was advised by NPC to retain its generators as standby units, appears to be a mere temporary measure when there was only one line connecting the Agus Grid in Iligan City to Davao City passing through dangerous rebel infested territories, then in constant danger of sabotage.  Presently, however, there are more lines passing safe areas which precluded the danger of Davao City from being cut off from the Agno Grid thru sabotage.  x x x.
+As DALIGHT is precluded by PD No. 40 from replacing these assets said generators with an approved sound value of P153,504,500.00 should have been excluded from the appraisal." (
+Tesorero v. Mathay,
+ G.R. No. 69592, 8 May 1990, 185 SCRA 124, 130-131.)
+[9]
+ Annex "E" of the Petition. 
+Rollo, 
+102-113.
+[10]
+ Annex "F," id. at 114-119.
+[11]
+ Annex "G," id. at 120-121.
+[12]
+ Annex "H," id. at 122-127.
+[13]
+ G.R. No. 134225.
+[14]
+ Annex "I" of the Petition.
+ Rollo, 
+p. 128.
+[15]
+ Id. at 132-133.
+[16]
+ Id. at 134-144.
+[17]
+ Docketed as CA-G.R. SP No. 28409.
+[18]
+ Penned by Associate Justice Fermin A. Martin, Jr. with Associate Justices Cancio C. Garcia and Ma. Alicia M. Austria-Martinez (now both members of this Court), concurring; 
+Rollo,
+ pp. 154-156.
+[19]
+ G.R. No. 126900 entitled, "
+Davao Light and Power Co., Inc. v. Court of Appeals, Antonio Diaz, et al.
+"
+[20]
+ 
+Rollo
+, p. 180.
+[21]
+ Id. at 183.
+[22]
+ Id. at 184.
+[23]
+ Id. at 192.
+[24]
+ Id. at 199.
+[25]
+ Id. at 200.
+[26]
+ Id. at 212.
+[27]
+ Id. at 217.
+[28]
+ OMB Case No. 0-98-2279.
+[29]
+ Docketed as CA-G.R. SP No. 55735. Penned by Associate Justice Eubulo G. Verzola with Associate Justices Remedios Salazar-Fernando and Edgardo F. Sundiam, concurring;
+ rollo
+, pp. 296-302.
+[30]
+ Id. at 301.
+[31]
+ Id. at 77.
+[32]
+ Id. at 80-82.
+[33]
+ Id. at 39.
+[34]
+ Id. at 55.
+[35]
+ Id. at 60.
+[36]
+ Id. at 51.
+[37]
+ Id.
+[38]
+ Id. at 253.
+[39]
+ 64 Am. Jur. 2d, Â§ 45.
+[40]
+ 
+Republic of the Philippines v. Manila Electric Company,
+ 440 Phil. 389, 400 (2002).
+[41]
+ Nichols and Welch, Ruling Principles of Utility Regulations, Rate of Return Supplement A, 1964 Ed, p. 1.
+[42]
+ Supra note 38.
+[43]
+ Principles of Public Utility Rates, James C. Bonbright, p. 150.
+[44]
+ Annotation on Rate Making, 41 SCRA 690, 691.
+[45]
+ West's Legal Desk Reference, William P. Statsky, Bruce L. Hussey, Michael R. Diamond, Richard H. Nakamura; emphasis supplied.
+[46]
+ 
+Ong Ching Kian Chung v. China National Cereals Oil and Foodstuffs Import and Export Corp., 
+G.R. No. 131502, 8 June 2000, 333 SCRA 390, 401.
+[47]
+ 
+Rollo, 
+pp. 86-87; emphasis supplied.
+[48]
+ 
+Republic of the Philippines v. Hon. de los Angeles,
+ 148-B Phil. 902, 928-929 (1971).
+[49]
+ 
+Rollo,
+ pp. 240-243.
+[50]
+ Id. at pp. 74-75; emphasis in the original.
+[51]
+ CA 
+rollo,
+ pp. 90-94.
+[52]
+ Chairman Neptali S. Franco and Board Members Melinda L. Ocampo, Bernarda C. Lavisores and Artemio P. Magabo.
+[53]
+ 
+Rollo,
+ p. 235.
+[54]
+ Id. at 301.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

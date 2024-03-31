@@ -1,0 +1,246 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			525 Phil. 644
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. NO. 148512, June 26, 2006 ]
+
+
+COMMISSIONER OF INTERNAL REVENUE, PETITIONER, VS. CENTRAL LUZON DRUG CORPORATION, RESPONDENT.
+DECISION
+
+
+
+
+AZCUNA, J.:
+
+
+This is a petition for review under Rule 45 of the Rules of Court seeking the nullification of the Decision, dated May 31, 2001, of the Court of Appeals (CA) in CA-G.R. SP No. 60057, entitled "Central Luzon Drug Corporation v. Commissioner of Internal Revenue," granting herein respondent Central Luzon Drug Corporation's claim for tax credit equal to the amount of the 20% discount that it extended to senior citizens on the latter's purchase of medicines pursuant to Section 4(a) of Republic Act (R.A.) No. 7432, entitled "An Act to Maximize the Contribution of  Senior Citizens to Nation Building, Grant Benefits and Special Privileges and for other Purposes" otherwise known as the Senior Citizens Act.
+The antecedents are as follows:
+Central Luzon Drug Corporation has been a retailer of medicines and other pharmaceutical products since December 19, 1994. In 1995, it opened three (3) drugstores as a franchisee under the business name and style of "Mercury Drug."
+For the period January 1995 to December 1995, in conformity to the mandate of Sec. 4(a) of R.A. No. 7432, petitioner granted a 20% discount on the sale of medicines to qualified senior citizens amounting to P219,778.
+Pursuant to Revenue Regulations No. 2-94
+[1]
+ implementing R.A. No. 7432, which states that the discount given to senior citizens shall be deducted by the establishment from its gross sales for value-added tax and other percentage tax purposes, respondent deducted the total amount of P219,778 from its gross income for the taxable year 1995. For said taxable period, respondent reported a net loss of P20,963 in its corporate income tax return.  As a consequence, respondent did not pay income tax for 1995.
+Subsequently, on December 27, 1996, claiming that according to Sec. 4(a) of R.A. No. 7432, the amount of P219,778 should be applied as a tax credit, respondent filed a claim for refund in the amount of P150,193, thus:
+Net Sales
+ 
+ 
+P
+ 37,014,807.00 
+ 
+ 
+ 
+Add:
+Cost of 20% Discount
+ 
+ 
+ to Senior Citizens 
+ 
+      219,778.00
+ 
+Gross Sales
+ 
+ 
+P
+ 37,234,585.00 
+ 
+Less:
+ Cost of Sales 
+ 
+ Merchandise Inventory, beg 
+ 
+P
+ 1,232,740.00 
+ 
+ Purchases 
+ 41,145,138.00 
+ 
+ Merchandise Inventory, end 
+ 
+    8,521,557.00
+ 
+ 
+ 33,856,621.00
+ 
+ Gross Profit 
+ 
+ 
+P
+ 3,377,964.00 
+ 
+ Miscellaneous Income 
+      39,014.00 
+ 
+Total Income 
+ 
+ 
+3,416,978.00 
+ 
+ Operating Expenses 
+ 
+ 3,199,230.00
+ 
+ 
+Net Income Before Tax 
+ 
+ 
+P
+    217,748.00 
+ 
+ Income Tax (35%) 
+ 69,585.00 
+ Less: 
+ Tax Credit 
+ 
+ (Cost of 20% Discount 
+ 
+ to Senior Citizens) 
+ 
+    219,778.00
+ 
+ 
+Income Tax Payable 
+ 
+( 
+P
+ 150,193.00) 
+ 
+ Income Tax Actually Paid 
+-0-
+ 
+ 
+Tax Refundable/Overpaid Income Tax 
+ 
+ 
+( 
+P
+ 150,193.00) 
+ 
+As shown above, the amount of P150,193 claimed as a refund represents the tax credit allegedly due to respondent under R.A. No. 7432. Since the Commissioner of Internal Revenue "was not able to decide the claim for refund on time,"
+[2]
+ respondent filed a Petition for Review with the Court of Tax Appeals (CTA) on March 18, 1998.
+On April 24, 2000, the CTA dismissed the petition, declaring that even if the law treats the 20% sales discounts granted to senior citizens as a tax credit, the same cannot apply when there is no tax liability or the amount  of the tax credit is greater than the tax due. In the latter case, the tax credit will only be to the extent of the tax liability.
+[3]
+ Also, no refund can be granted as no tax was erroneously, illegally and actually collected based on the provisions of Section 230, now Section 229, of the Tax Code. Furthermore, the law does not state that a refund can be claimed by the private establishment concerned as an alternative to the tax credit.
+Thus, respondent filed with the CA a Petition for Review on August 3, 2000.
+On May 31, 2001, the CA rendered a Decision stating that Section 229 of the Tax Code does not apply in this case. It concluded that the 20% discount given to senior citizens which is treated as a tax credit pursuant to Sec. 4(a) of R.A. No. 7432 is considered just compensation and, as such, may be carried over to the next taxable period if there is no current tax liability. In view of this, the CA held:
+WHEREFORE, the instant petition is hereby GRANTED and the decision of the CTA dated 24 April 2000 and its resolution dated 06 July 2000 are SET ASIDE. A new one is entered granting petitioner's claim for tax credit in the amount of Php: 150,193.00. No costs.
+SO ORDERED.
+[4]
+Hence, this petition raising the sole issue of whether the 20% sales discount granted by respondent to qualified senior citizens pursuant to Sec. 4(a) of R.A. No. 7432 may be claimed as a tax credit or as a deduction from gross sales in accordance with Sec. 2(1) of Revenue Regulations No. 2-94.
+Sec. 4(a) of R.A. No. 7432 provides:
+Sec. 4.  Privileges for the Senior citizens. â The senior citizens shall be entitled to the following:
+(a)
+    
+the grant of twenty percent (20%) discount from all establishments relative to utilization of transportations services, hotels and similar lodging establishments, restaurants and recreation centers and purchase of medicines anywhere in the country: 
+Provided
+,  That private establishments may claim the cost as tax credit.
+The CA and the CTA correctly ruled that based on the plain wording of the law discounts given under R.A. No. 7432 should be treated as tax credits, not deductions from income.
+It is a fundamental rule in statutory construction that the legislative intent must be determined from the language of the statute itself especially when the words and phrases therein are clear and unequivocal. The statute in such a case must be taken to mean exactly what it says.
+[5]
+ Its literal meaning should be followed;
+[6]
+ to depart from the meaning expressed by the words is to alter the statute.
+[7]
+The above provision explicitly employed the word "tax credit."  Nothing in the provision suggests for it to mean a "deduction" from gross sales. To construe it otherwise would be a departure from the clear mandate of the law.
+Thus, the 20% discount required by the Act to be given to senior citizens is a tax credit, not a deduction from the gross sales of the establishment concerned. As a corollary to this, the definition of "tax credit" found in Section 2(1) of Revenue Regulations No. 2-94 is erroneous as it refers to 
+tax credit
+ as the amount representing the 20% discount  that "shall be deducted by the said establishment from their gross sales for value added tax and other percentage tax purposes." This definition is contrary to what our lawmakers had envisioned with regard to the treatment of the discount granted to senior citizens.
+Accordingly, when the law says that the cost of the discount may be claimed as a tax credit, it means that the amount -- when claimed â shall be treated as a reduction from any tax liability.
+[8]
+  The law cannot be amended by a mere regulation. The administrative agencies issuing these regulations may not enlarge, alter or restrict the provisions of the law they administer.
+[9]
+ In fact, a regulation that "operates to create a rule out of harmony with the statute is a mere nullity."
+[10]
+Finally, for purposes of clarity, Sec. 229
+[11]
+ of the Tax Code does not apply to cases that fall under Sec. 4 of R.A. No. 7432 because the former provision governs exclusively all kinds of refund or credit of internal revenue taxes that were erroneously or illegally imposed and collected pursuant to the Tax Code while the latter extends the tax credit benefit to the private establishments concerned even before tax payments have been made. The tax credit that is contemplated under the Act is a form of just compensation, not a remedy for taxes that were erroneously or illegally assessed and collected. In the same vein, prior payment of any tax liability is not a precondition before a taxable entity can benefit from the tax credit. The credit may be availed of upon payment of the tax due, if any. Where there is no tax liability or where a private establishment reports a net loss for the period, the tax credit can be availed of and carried over to the next taxable year.
+It must also be stressed that unlike in Sec. 229 of the Tax Code wherein the remedy of refund is available to the taxpayer, Sec. 4 of the law speaks only of a tax credit, not a refund.
+As earlier mentioned, the tax credit benefit granted to the establishments can be deemed as their just compensation for private property taken by the State for public use. The privilege enjoyed by the senior citizens does not come directly from the State, but rather from the private establishments concerned.
+[12]
+WHEREFORE
+, the petition is 
+DENIED
+. The Decision of the Court of Appeals in CA-G.R. SP No. 60057, dated May 31, 2001, is 
+AFFIRMED
+.
+No pronouncement as to costs.
+SO ORDERED.
+Puno, (Chairperson), Sandoval-Gutierrez, Corona,
+ and 
+Garcia, JJ.,
+ concur.
+[1]
+ Section 2(i) of Revenue Regulations No. 2-94:
+i.  Tax Credit - refers to the amount representing the 20% discount granted to a qualified senior citizen by all establishments relative to their utilization of transportation services, hotels and centers, theaters, cinema houses, concert halls, circuses, carnivals and other similar places of culture, leisure and amusement, which discount shall be deducted by the said establishment from their gross sales for value-added tax and other percentage tax purposes.
+[2]
+ Rollo, p. 24.
+[3]
+ 
+Id
+. at  24, 39.
+[4]
+ 
+Id
+. at 29.
+[5]
+ 
+Banawa v. Mirano
+, G.R. No. 24750, May 16, 1980, 97 SCRA 517.
+[6]
+ 
+Tan Lin v. Republic
+, 112 Phil. 308 (1961).
+[7]
+ 
+TaÃ±ada v. Yulo
+, 61 Phil. 515 (1935).
+[8]
+ 
+Id
+.
+[9]
+ 
+Pilipinas Kao, Inc. v. Court of Appeals
+, G.R. No. 105014, December 18, 2001, 372 SCRA 548.
+[10]
+ 
+Id
+., citing 
+Commissioner of Internal Revenue v. Vda. De Prieto
+, 109 Phil. 592, 597 (1960).
+[11]
+ SEC. 229. 
+Recovery of Tax Erroneously or Illegally Collected
+. - No suit or proceeding  shall be maintained in any court for the recovery of any national internal revenue tax hereafter alleged to have been erroneously or illegally assessed or collected, or of any penalty claimed to have been collected without authority, or of any sum alleged to have been excessively or in any manner wrongfully collected, until a claim for refund or credit has been duly filed with the Commissioner; but such suit or proceeding may be maintained, whether or not such tax, penalty or sum has been paid under protest or duress.
+In any case, no such suit or proceeding shall be filed after the expiration of two (2) years from the date of payment of the tax or penalty regardless of any supervening cause that may arise after payment: 
+Provided, however
+, That the Commissioner may, even without a written claim therefor, refund or credit any tax, where on the face of the return upon which payment was made, such payment appears clearly to have been erroneously paid.
+[12]
+ 
+Commissioner of Internal Revenue v. Central Luzon Drug Corporation
+, G.R. No. 159647, April 15, 2005, 456 SCRA 414.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)
