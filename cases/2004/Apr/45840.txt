@@ -1,0 +1,640 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			471 Phil. 582
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 154618, April 14, 2004 ]
+
+
+AGILENT TECHNOLOGIES SINGAPORE (PTE) LTD., PETITIONER, VS. INTEGRATED SILICON TECHNOLOGY PHILIPPINES CORPORATION, TEOH KIANG HONG, TEOH KIANG SENG, ANTHONY CHOO, JOANNE KATE M. DELA CRUZ, JEAN KAY M. DELA CRUZ AND ROLANDO T. NACILLA, RESPONDENTS. 
+D E C I S I O N
+
+
+
+
+YNARES-SATIAGO, J.:
+
+
+This petition for review assails the Decision dated August 12, 2002 of the Court of Appeals in CA-G.R. SP No. 66574, which dismissed Civil Case No. 3123-2001-C and annulled and set aside the Order dated September 4, 2001 issued by the Regional Trial Court of Calamba, Laguna, Branch 92.
+Petitioner Agilent Technologies Singapore (Pte.), Ltd. (âAgilentâ) is a foreign corporation, which, by its own admission, is not licensed to do business in the Philippines.
+[1]
+ Respondent Integrated Silicon Technology Philippines Corporation (âIntegrated Siliconâ) is a private domestic corporation, 100% foreign owned, which is engaged in the business of manufacturing and assembling electronics components.
+[2]
+ Respondents Teoh Kiang Hong, Teoh Kiang Seng and Anthony Choo, Malaysian nationals, are current members of Integrated Siliconâs board of directors, while Joanne Kate M. dela Cruz, Jean Kay M. dela Cruz, and Rolando T. Nacilla are its former members.
+[3]
+The juridical relation among the various parties in this case can be traced to a 5-year Value Added Assembly Services Agreement (âVAASAâ), entered into on April 2, 1996 between Integrated Silicon and the Hewlett-Packard Singapore (Pte.) Ltd., Singapore Components Operation (âHP-Singaporeâ).
+[4]
+ Under the terms of the VAASA, Integrated Silicon was to locally manufacture and assemble fiber optics for export to HP-Singapore.  HP-Singapore, for its part, was to consign raw materials to Integrated Silicon; transport machinery to the plant of Integrated Silicon; and pay Integrated Silicon the purchase price of the finished products.
+[5]
+ The VAASA had a five-year term, beginning on April 2, 1996, with a provision for annual renewal by mutual written consent.
+[6]
+ On September 19, 1999, with    the consent of Integrated Silicon,
+[7]
+ HP-Singapore assigned all its rights and obligations in the VAASA to Agilent.
+[8]
+On May 25, 2001, Integrated Silicon filed a complaint for âSpecific Performance and Damagesâ against Agilent and its officers Tan Bian Ee, Lim Chin Hong, Tey Boon Teck and Francis Khor, docketed as Civil Case No. 3110-01-C.  It alleged that Agilent breached the partiesâ oral agreement to extend the VAASA.  Integrated Silicon thus prayed that defendant be ordered to execute a written extension of the VAASA for a period of five years as earlier assured and promised; to comply with the extended VAASA; and to pay actual, moral, exemplary damages and attorneyâs fees.
+[9]
+On June 1, 2001, summons and a copy of the complaint were served on Atty. Ramon Quisumbing, who returned these processes on the claim that he was not the registered agent of Agilent.  Later, he entered a special appearance to assail the courtâs jurisdiction over the person of Agilent.
+On July 2, 2001, Agilent filed a separate complaint against Integrated Silicon, Teoh Kang Seng, Teoh Kiang Gong, Anthony Choo, Joanne Kate M. dela Cruz, Jean Kay M. dela Cruz and Rolando T. Nacilla,
+[10]
+ for âSpecific Performance, Recovery of Possession, and Sum of Money with Replevin, Preliminary Mandatory Injunction, and Damagesâ, before the Regional Trial Court, Calamba, Laguna, Branch 92, docketed as Civil Case No. 3123-2001-C.  Agilent prayed that    a writ of replevin or, in the alternative, a writ of preliminary mandatory injunction, be issued ordering defendants to immediately return and deliver to plaintiff its equipment, machineries and the materials to be used for fiber-optic components which were left in the plant of Integrated Silicon.  It further prayed that defendants be ordered to pay actual and exemplary damages and attorneyâs fees.
+[11]
+Respondents filed a Motion to Dismiss in Civil Case No. 3123-2001-C,
+[12]
+ on the grounds of lack of Agilentâs legal capacity to sue;
+[13]
+ 
+litis pendentia
+;
+[14]
+ forum shopping;
+[15]
+ and failure to state a cause of action.
+[16]
+On September 4, 2001, the trial court denied the Motion to Dismiss and granted petitioner Agilentâs application for a writ of replevin.
+[17]
+Without filing a motion for reconsideration, respondents filed a petition for certiorari with the Court of Appeals.
+[18]
+In the meantime, upon motion filed by respondents, Judge Antonio S. Pozas of Branch 92 voluntarily inhibited himself in Civil Case No. 3123-2001-C.  The case was re-raffled and assigned to Branch 35, the same branch where Civil Case No. 3110-2001-C is pending.
+On August 12, 2002, the Court of Appeals granted respondentsâ petition for certiorari, set aside the assailed Order of the trial court dated September 4, 2001, and ordered the dismissal of Civil Case No. 3123-2001-C.
+Hence, the instant petition raising the following errors:
+I.
+THE COURT OF APPEALS COMMITTED REVERSIBLE ERROR IN NOT DISMISSING RESPONDENTSâ PETITION FOR CERTIORARI FOR RESPONDENTSâ FAILURE TO FILE A MOTION FOR RECONSIDERATION BEFORE RESORTING TO THE REMEDY OF CERTIORARI.
+II.
+THE COURT OF APPEALS COMMITTED REVERSIBLE ERROR IN ANNULLING AND SETTING ASIDE THE TRIAL COURTâS ORDER DATED 4 SEPTEMBER 2001 AND ORDERING THE DISMISSAL OF CIVIL CASE NO. 3123-2001-C BELOW ON THE GROUND OF 
+LITIS PENDENTIA
+, ON ACCOUNT OF THE PENDENCY OF CIVIL CASE NO. 3110-2001-C.
+III.
+THE COURT OF APPEALS COMMITTED REVERSIBLE ERROR IN ANNULLING AND SETTING ASIDE THE TRIAL COURTâS ORDER DATED 4 SEPTEMBER 2001 AND ORDERING THE DISMISSAL OF CIVIL CASE NO. 3123-2001-C BELOW ON THE GROUND OF FORUM SHOPPING, ON ACCOUNT OF THE PENDENCY OF CIVIL CASE NO. 3110-2001-C.
+IV.
+THE COURT OF APPEALS COMMITTED REVERSIBLE ERROR IN ORDERING THE DISMISSAL OF CIVIL CASE NO. 323-2001-C BELOW INSTEAD OF ORDERING IT CONSOLIDATED WITH CIVIL CASE NO. 3110-2001-C.
+[19]
+The two primary issues raised in this petition: (1) whether or not the Court of Appeals committed reversible error in giving due course to respondentsâ petition, notwithstanding the failure to file a Motion for Reconsideration of the September 4, 2001 Order; and (2) whether or not the Court of Appeals committed reversible error in dismissing Civil Case No. 3123-2001-C.
+We find merit in the petition.
+The Court of Appeals, citing the case of 
+Malayang Manggagawa sa ESSO v. ESSO
+ Standard Eastern, Inc.,
+[20]
+ held that the lower court had no jurisdiction over Civil Case No. 3123-2001-C because of the pendency of Civil Case No. 3110-2001-C and, therefore, a motion for reconsideration was not necessary before resort to a petition for certiorari.  This was error.
+Jurisdiction is fixed by law.  Batas Pambansa Blg. 129 vests jurisdiction over the subject matter of Civil Case No. 3123-2001-C in the RTC.
+[21]
+The Court of Appealsâ ruling that the assailed Order issued by the RTC of Calamba, Branch 92, was a nullity for lack of jurisdiction due to 
+litis pendentia
+ and forum shopping, has no legal basis.  The pendency of another action does not strip a court of the jurisdiction granted by law.
+The Court of Appeals further ruled that a Motion for Reconsideration was not necessary in view of the urgent necessity in this case.  We are not convinced.  In the case of 
+Bache and Co. (Phils.), Inc. v. Ruiz,
+[22]
+ relied on by the Court of Appeals, it was held that âtime is of the essence in view of the tax assessments sought to be enforced by respondent officers of the Bureau of Internal Revenue against petitioner corporation, on account of which immediate and more direct action becomes necessary.â Tax assessments in that case were based on documents seized by virtue of an illegal search, and the deprivation of the right to due process tainted the entire proceedings with illegality.  Hence, the urgent necessity of preventing the enforcement of the tax assessments was patent.  Respondents, on the other hand, cite the case of 
+Geronimo v. Commission on Elections,
+[23]
+ where the urgent necessity of resolving a disqualification case for a position in local government warranted the expeditious resort to certiorari.  In the case at bar, there is no analogously urgent circumstance which would necessitate the relaxation of the rule on a Motion for Reconsideration.
+Indeed, 
+none
+ of the exceptions for dispensing with a Motion for Reconsideration is present here. None of the following cases cited by respondents serves as adequate basis for their procedural lapse.
+In 
+Vigan Electric Light Co., Inc. v. Public Service Commission
+,
+[24]
+ the questioned order was null and void for failure of respondent tribunal to comply with due process requirements; in 
+Matanguihan v. Tengco,
+[25]
+ the questioned order was a patent nullity for failure to acquire jurisdiction over the defendants, which fact the records plainly disclosed; and in 
+National Electrification Administration v.Court of Appeals
+,
+[26]
+ the questioned orders were void for vagueness. No such patent nullity is evident in the Order issued by the trial court in this case.  Finally, while urgency may be a ground for dispensing with a Motion for Reconsideration, in the case of 
+Vivo v. Cloribel
+,
+[27]
+ cited by respondents, the slow progress of the case would have rendered the issues moot had a motion for reconsideration been availed of. We find no such urgent circumstance in the case at bar.
+Respondents, therefore, availed of a premature remedy when they immediately raised the matter to the Court of Appeals on certiorari; and the appellate court committed reversible error when it took cognizance of respondentsâ petition instead of dismissing the same outright.
+We come now to the substantive issues of the petition.
+Litis pendentia
+ is a Latin term which literally means âa pending suit.â It is variously referred to in some decisions as lis pendens and auter action pendant. While it is normally connected with the control which the court has on a property involved in a suit during the continuance proceedings, it is more interposed as a ground for the dismissal of a civil action pending in court.
+Litis pendentia
+ as a ground for the dismissal of a civil action refers to that situation wherein another action is pending between the same parties for the same cause of action, such that the second action becomes unnecessary and vexatious.  For 
+litis pendentia
+ to be invoked, the concurrence of the following requisites is necessary:
+ 
+ 
+(a)
+ 
+identity of parties or at least such as represent the same interest in both actions;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)
+ 
+identity ofrights asserted and reliefs prayed for, the reliefs being founded on the same facts; and
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c)
+ 
+the identity in the two cases should be such that the judgment that may be rendered in one would, regardless of which party is successful, amount to res judicata in the other.
+[28]
+ 
+ 
+The Court of Appeals correctly appreciated the identity of parties in Civil Cases No. 3123-2001-C and 3110-2001-C. Well-settled is the rule that 
+lis pendens
+ requires only 
+substantial
+, and not absolute, identity of parties.
+[29]
+ There is substantial identity of parties when there is a community of interest between a party in the first case and a party in the second case, even if the latter was not impleaded in the first case.
+[30]
+ The parties in these cases are vying over the interests of the two opposing corporations; the individuals are only incidentally impleaded, being the natural persons purportedly accused of violating these corporationsâ rights.
+Likewise, the fact that the positions of the parties are reversed, i.e., the plaintiffs in the first case are the defendants in the second case or vice versa, does not negate    the identity of parties for purposes of determining whether the case is dismissible on the ground of 
+litis pendentia
+.
+[31]
+The identity of parties notwithstanding, 
+litis pendentia
+ does not obtain in this case because of the absence of the second and third requisites.  The rights asserted in each of the cases involved are separate and distinct; there are two subjects of controversy presented for adjudication; and two causes of action are clearly involved.  The fact that respondents instituted a prior action for âSpecific Performance and Damagesâ is not a ground for defeating the petitionersâ action for âSpecific Performance, Recovery of Possession, and Sum of Money with Replevin, Preliminary Mandatory Injunction, and Damages.â
+In Civil Case No. 3110-2001-C filed by respondents, the issue is whether or not there was a breach of an oral promise to renew of the VAASA.  The issue in Civil Case No. 3123-2001-C, filed by petitioner, is whether petitioner has the right to take possession of the subject properties.  Petitionerâs right of possession is founded on the ownership of the subject goods, which ownership is not disputed and is not contingent on the extension or non-extension of the VAASA.  Hence, the replevin suit can validly be tried even while the prior suit is being litigated in the Regional Trial Court.
+Possession of the subject properties is 
+not
+ an issue in Civil Case No. 3110-2001-C.  The reliefs sought by respondent Integrated Silicon therein are as follows: (1) execution of a written extension or renewal of the VAASA; (2) compliance with the extended VAASA; and (3) payment of overdue accounts, damages, and attorneyâs fees.  The reliefs sought by petitioner Agilent in Civil Case No. 3123-2001-C, on the other hand, are as follows: (1) issuance of a Writ of Replevin or Writ of Preliminary Mandatory Injunction; (2) recovery of possession of the subject properties; (3) damages and attorneyâs fees.
+Concededly, some items or pieces of evidence may be admissible in both actions.  It cannot be said, however, that 
+exactly
+ the same evidence will support the decisions in both, since the legally significant and controlling facts in each case are entirely different. Although the VAASA figures prominently in both suits, Civil Case No. 3110-2001-C is premised on a purported breach of an oral obligation to 
+extend
+ the VAASA, and damages arising out of Agilentâs alleged failure to comply with such purported extension.  Civil Case No. 3123-2001-C, on the other hand, is premised on a breach of the VAASA 
+itself
+, and damages arising to Agilent out of that purported breach.
+It necessarily follows that the third requisite for 
+litis pendentia
+ is also absent.  The following are the elements of 
+res judicata
+:
+ 
+ 
+(a)
+ 
+The former judgment must be final;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)
+ 
+The court which rendered judgment must have jurisdiction over the parties and the subject matter;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c)
+ 
+It must be a judgment on the merits; and
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(d)
+ 
+There must be between the first and second actions identity of parties, subject matter, and cause of action.
+[32]
+ 
+ 
+In this case, any judgment rendered in one of the actions will not amount to 
+res judicata
+ in the other action.  There being different causes of action, the decision in one case will not constitute 
+res judicata
+ as to the other.
+Of course, a decision in one case may, to a certain extent, affect the other case.  This, however, is not the test to determine the identity of the causes of action.  Whatever difficulties or inconvenience may be entailed if both causes of action are pursued on separate remedies, the proper solution is not the dismissal order of the Court of Appeals. The possible    consolidation of said cases, as well as stipulations and appropriate modes of discovery, may well be considered by the court below to subserve not only procedural expedience but, more important, the ends of justice.
+[33]
+We now proceed to the issue of forum shopping.
+The test for determining whether a party violated the rule against forum-shopping was laid down in the case of 
+Buan v. Lopez
+.
+[34]
+ Forum shopping exists where the elements of litis pendentia are present, or where a final judgment in one case will amount to 
+res judicata
+ in the final other.  There being no 
+litis pendentia
+ in this case, a judgment in the said case will not amount to 
+res judicata
+ in Civil Case No. 3110-2001-C, and respondentsâ contention on forum shopping must likewise fail.
+We are not unmindful of the afflictive consequences that may be suffered by both petitioner and respondents if replevin is granted by the trial court in Civil Case No. 3123-2001-C.  If respondent Integrated Silicon eventually wins Civil Case No. 3110-2001-C, and the VAASAâs terms are extended, petitioner corporation will have to comply with its obligations thereunder, which would include the consignment of properties similar to those it may recover by way of replevin in Civil Case No. 3123-2001-C.  However, petitioner will also suffer an injustice if denied the remedy of replevin, resort to which is not only allowed but encouraged by law.
+Respondents argue that since Agilent is an unlicensed foreign corporation doing business in the Philippines, it lacks the legal capacity to file suit.
+[35]
+ The assailed acts of petitioner Agilent, purportedly in the nature of âdoing businessâ in the Philippines, are the following:  (1) mere entering into the VAASA, which is a âservice contractâ;
+[36]
+ (2) appointment of a full-time representative in Integrated Silicon, to âoversee and supervise the productionâ of Agilentâs products;
+[37]
+ (3) the appointment by Agilent of six full-time staff members, who were permanently stationed at Integrated Siliconâs facilities in order to inspect the finished goods for Agilent;
+[38]
+ and (4) Agilentâs participation in the management, supervision and control of Integrated Silicon,
+[39]
+ including instructing Integrated Silicon to hire more employees to meet Agilentâs increasing production needs,
+[40]
+ regularly performing quality audit, evaluation and supervision of Integrated Siliconâs employees,
+[41]
+ regularly performing inventory audit of raw materials to be used by Integrated Silicon, which was also required to provide weekly inventory updates to Agilent,
+[42]
+ and providing and dictating Integrated Silicon on the daily production schedule, volume and models of the products to manufacture and ship for Agilent.
+[43]
+A foreign corporation without a license is not ipso facto incapacitated from bringing an action in Philippine courts.  A license is necessary only if a foreign corporation is âtransactingâ or âdoing businessâ in the country.  The Corporation Code provides:
+Sec. 133. 
+Doing business without a license.
+ â No foreign corporation transacting business in the Philippines without a license, or its successors or assigns, shall be permitted to maintain or intervene in any action, suit or proceeding in any court or administrative agency of the Philippines; but such corporation may be sued or proceeded against before Philippine courts or administrative tribunals on any valid cause of action recognized under Philippine laws.
+The aforementioned provision prevents an unlicensed foreign corporation âdoing businessâ in the Philippines from accessing our courts.
+In a number of cases, however, we have held that an unlicensed foreign corporation doing business in the Philippines may bring suit in Philippine courts against a Philippine citizen or entity who had contracted with and benefited from said corporation.
+[44]
+ Such a suit is premised on the doctrine of estoppel.  A party is estopped from challenging the personality of a corporation after having acknowledged the same by entering into a contract with it.  This doctrine of estoppel to deny corporate existence and capacity applies to foreign as well as domestic corporations.
+[45]
+ The application of this principle prevents a person contracting with a foreign corporation from later taking advantage of its noncompliance with the statutes chiefly in cases where such person has received the benefits of the contract.
+[46]
+The principles regarding the right of a foreign corporation to bring suit in Philippine courts may thus be condensed in four statements: (1) if a foreign corporation does business in the Philippines without a license, it cannot sue before the Philippine courts;
+[47]
+ (2) if a foreign corporation is not doing business in the Philippines, it needs no license to sue before Philippine courts on an isolated transaction or on a cause of action entirely independent of any business transaction
+[48]
+; (3) if a foreign corporation does business in the Philippines without a license, a Philippine citizen or entity which has contracted with said corporation may be estopped from challenging the foreign corporationâs corporate personality in a suit brought before Philippine courts;
+[49]
+ and (4) if a foreign corporation does business in the Philippines 
+with
+ the required license, it can sue before Philippine courts on any transaction.
+The challenge to Agilentâs legal capacity to file suit hinges on whether or not it is doing business in the Philippines.  However, there is no definitive rule on what constitutes âdoingâ, âengaging inâ, or âtransactingâ business in the Philippines, as this Court observed in the case of 
+Mentholatum v. Mangaliman.
+[50]
+ The Corporation Code itself is silent as to what acts constitute doing or transacting business in the Philippines.
+Jurisprudence has it, however, that the term âimplies a continuity of commercial dealings and arrangements, and contemplates, to that extent, the performance of acts or works or the exercise of some of the functions normally incident to or in progressive prosecution of the purpose and subject of its organization.â
+[51]
+In 
+Mentholatum
+,
+[52]
+ this Court discoursed on the two general tests to determine whether or not a foreign corporation can be considered as âdoing businessâ in the Philippines.  The first of these is the 
+substance
+ test, thus:
+[53]
+The true test [for doing business], however, seems to be whether the foreign corporation is continuing the body of the business or enterprise for which it was organized or whether it has substantially retired from it and turned it over to another.
+The second test is the 
+continuity
+ test, expressed thus:
+[54]
+The term [doing business] implies a continuity of commercial dealings and arrangements, and contemplates, to that extent, the performance of acts or works or the exercise of some of the functions normally incident to, and in the progressive prosecution of, the purpose and object of its organization.
+Although each case must be judged in light of its attendant circumstances, jurisprudence has evolved several guiding principles for the application of these tests.  For instance, considering that it transacted with its Philippine counterpart for seven years, engaging in futures contracts, this Court concluded that the foreign corporation in 
+Merrill Lynch Futures, Inc. v. Court of Appeals and Spouses Lara,
+[55]
+ was doing business in the Philippines. In 
+Commissioner of Internal Revenue v. Japan Airlines
+ (âJALâ),
+[56]
+ the Court held that JAL was doing business in the Philippines, i.e., its commercial dealings in the country were continuous â despite the fact that no JAL aircraft landed in the country â as it sold tickets in the Philippines through a general sales agent, and opened a promotions office here as well.
+In 
+General Corp. of the Phils. v. Union Insurance Society of Canton and Firemanâs Fund Insurance
+,
+[57]
+ a foreign insurance corporation was held to be doing business in the Philippines, as it appointed a settling agent here, and issued 12 marine insurance policies.  We held that these transactions were not isolated or casual, but manifested the continuity of the foreign corporationâs conduct and its intent to establish a continuous business in the country.  In 
+Eriks PTE Ltd. v. Court of Appeals and Enriquez
+,
+[58]
+ the foreign corporation sold its products to a Filipino buyer who ordered the goods 16 times within an eight-month period.  Accordingly, this Court ruled that the corporation was doing business in the Philippines, as there was a clear intention on its part to continue the body of its business here, despite the relatively short span of time involved.  
+Communication Materials and Design, Inc., et al. v. Court of Appeals, ITEC, et al
+.
+[59]
+ and 
+Top-Weld Manufacturing v. ECED, IRTI, et al
+.
+[60]
+ both involved the License and Technical Agreement and Distributor Agreement of foreign corporations with their respective local counterparts that were the primary bases for the Courtâs ruling that the foreign corporations were doing business in the Philippines.
+[61]
+ In particular, the Court cited the 
+highly restrictive nature of certain provisions in the agreements involved
+, such that, as stated in Communication Materials, the Philippine entity is reduced to a mere extension or instrument of the foreign corporation.  For example, in 
+Communication Materials
+, the Court deemed the âNo Competing Productâ provision of the Representative Agreement therein restrictive.
+[62]
+The case law definition has evolved into a statutory definition, having been adopted with some qualifications in various pieces of legislation.  The Foreign Investments Act of 1991 (the âFIAâ; Republic Act No. 7042, as amended), defines âdoing businessâ as follows:
+Sec. 3, par. (d). The phrase âdoing businessâ shall include soliciting orders, service contracts, opening offices, whether called âliaisonâ offices or branches; appointing representatives or distributors domiciled in the Philippines or who in any calendar year stay in the country for a period or periods totaling one hundred eighty (180) days or more; participating in the management, supervision or control of any domestic business, firm, entity, or corporation in the Philippines; and any other act or acts that imply a continuity of commercial dealings or arrangements, and contemplate to that extent the performance of acts or works, or the exercise of some of the functions normally incident to, and in the progressive prosecution of, commercial gain or of the purpose and object of the business organization.
+An analysis of the relevant case law, in conjunction with Section 1 of the Implementing Rules and Regulations of the FIA (as amended by Republic Act No. 8179), would demonstrate that the acts enumerated in the VAASA do 
+not
+ constitute âdoing businessâ in the Philippines.
+Section 1 of the Implementing Rules and Regulations of the FIA (as amended by Republic Act No. 8179) provides that the following shall not be deemed âdoing businessâ:
+ 
+ 
+(1)
+ 
+Mere investment as a shareholder by a foreign entity in domestic corporations duly registered to do business, and/or the exercise of rights as such investor;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2)
+ 
+Having a nominee director or officer to represent its interest in such corporation;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3)
+ 
+Appointing a representative or distributor domiciled in the Philippines which transacts business in the representativeâs or distributorâs own name and account;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4)
+ 
+The publication of a general advertisement through any print or broadcast media;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5)
+ 
+Maintaining a stock of goods in the Philippines solely for the purpose of having the same processed by another entity in the Philippines;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(6)
+ 
+Consignment by a foreign entity of equipment with a local company to be used in the processing of products for export;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(7)
+ 
+Collecting information in the Philippines; and
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(8)
+ 
+Performing services auxiliary to an existing isolated contract of sale which are not on a continuing basis, such as installing in the Philippines machinery it has manufactured or exported to the Philippines, servicing the same, training domestic workers to operate it, and similar incidental services.
+ 
+ 
+By and large, to constitute âdoing businessâ, the activity to be undertaken in the Philippines is one that is for 
+profit-making
+.
+[63]
+By the clear terms of the VAASA, Agilentâs activities in the Philippines were confined to (1) maintaining a stock of goods in the Philippines solely for the purpose of having the same processed by Integrated Silicon; and (2) consignment of equipment with Integrated Silicon to be used in the processing of products for export.  As such, we hold that, based on the evidence presented thus far, Agilent cannot be deemed to be âdoing businessâ in the Philippines.  Respondentsâ contention that Agilent lacks the legal capacity to file suit is therefore devoid of merit.  As a foreign corporation not doing business in the Philippines, it needed no license before it can sue before our courts.
+Finally, as to Agilentâs purported failure to state a cause of action against the individual respondents, we likewise rule in favor of petitioner.  A Motion to Dismiss hypothetically admits all the allegations in the Complaint, which plainly alleges that these individual respondents had committed or permitted the commission of acts prejudicial to Agilent.  Whether or not these individuals had divested themselves of their interests in Integrated Silicon, or are no longer members of Integrated Siliconâs Board of Directors, is a matter of defense best threshed out during trial.
+WHEREFORE, PREMISES CONSIDERED
+, the petition is 
+GRANTED
+.  The Decision of the Court of Appeals in CA-G.R. SP No. 66574 dated August 12, 2002, which dismissed Civil Case No. 3123-2001-C, is 
+REVERSED and SET ASIDE
+.  The Order dated September 4, 2001 issued by the Regional Trial Court of Calamba, Laguna, Branch 92, in Civil Case No. 3123-2001-C, is 
+REINSTATED
+.  Agilentâs application for a Writ of Replevin is 
+GRANTED.
+No pronouncement as to costs.
+SO ORDERED.
+Davide, Jr., C.J., (Chairman), Panganiban, Carpio
+, and 
+Azcuna, JJ.
+, concur.
+[1]
+ Rollo, p. 4.
+[2]
+ 
+Id.
+, p. 93.
+[3]
+ 
+Id.
+, pp. 93-94.
+[4]
+ 
+Id.
+, p. 112.
+[5]
+ 
+Id.
+, pp. 112-122.
+[6]
+ 
+Id.
+, p. 112.
+[7]
+ 
+Id.
+, pp. 135-36.
+[8]
+ 
+Id.
+[9]
+ CA Records, pp. 405-407.
+[10]
+ Rollo, p. 137.
+[11]
+ 
+Id.
+, pp. 149-150.
+[12]
+ 
+Id.
+, p. 253.
+[13]
+ 
+Id.
+, pp. 255-60.
+[14]
+ 
+Id.
+, pp. 260-61.
+[15]
+ 
+Id.
+, pp. 261-63.
+[16]
+ 
+Id,
+ pp. 263-64.
+[17]
+ 
+Id.
+, p. 43.
+[18]
+ 
+Id.
+, p. 98.
+[19]
+ 
+Id.
+, p. 24.
+[20]
+ 122 Phil. 147 (1965), at 155.
+[21]
+ Batas Pambansa Blg. 129, sec. 19.
+[22]
+ 148 Phil. 794, 812 (1971).
+[23]
+ G.R. No. L-52413, 26 September 1981, 107 SCRA 614.
+[24]
+ 119 Phil. 304 (1964).
+[25]
+ G.R. No. L-27781, 28 January 1980, 95 SCRA 478.
+[26]
+ G.R. No. L-32490, 29 December 1983, 126 SCRA 394.
+[27]
+ G.R. No. L-23239, 23 November 1966, 18 SCRA 713.
+[28]
+ Northcott & Co. v. Villa-Abrille, 41 Phil. 462 (1921).
+[29]
+ Santos v. Court of Appeals, G.R. No. 101818, 21 September 1993, 226 SCRA 630, 637.
+[30]
+ Santos v. Court of Appeals, 
+supra,
+ citing Anticamara v. Ong, 82 SCRA 337 (1978).
+[31]
+ Yu v. Court of Appeals, G.R. No. 106818, 27 May 1994, 232 SCRA 594.
+[32]
+ Saura v. Saura, Jr., 372 Phil. 337 (1999).
+[33]
+ Ramos v. Ebarle, G.R. No. L-49833, 15 February 1990, 182 Phil. 245.
+[34]
+ 229 Phil. 65 (1986).
+[35]
+ Rollo, pp. 1739-1744.
+[36]
+ 
+Id.
+, pp. 508-510.
+[37]
+ 
+Id.
+, p. 510.
+[38]
+ 
+Id.
+, pp. 510-511.
+[39]
+ 
+Id.,
+ p. 511.
+[40]
+ 
+Id.
+[41]
+ 
+Id.
+, p. 512.
+[42]
+ 
+Id.
+[43]
+ 
+Id.
+[44]
+ Merrill Lynch Futures v. Court of Appeals, G.R. No. 97816, 24 July 1992, 211 SCRA 824.
+[45]
+ 
+Georg Grotjahn GMBH v. Isnani
+, G.R. No. 109272, 10 August 1994, 235 SCRA 216.
+[46]
+ Merrill Lynch Futures v. Court of Appeals
+,
+ 
+supra
+, citing Sherwood v. Alvis, 83 Ala. 115, 3 So 307, limited and distinguished in Dudley v. Collier, 84 Ala 431, 6 So. 304; Spinney v. Miller, 114 Iowa 210, 86 NW 317.
+[47]
+ Corporation Code, sec. 133.
+[48]
+ Eastboard Navigation, Ltd. v. Juan Ysmael & Company, Inc
+.
+, 102 Phil. 1 (1957).
+[49]
+ 
+Merrill Lynch Futures v. Court of Appeals
+,
+ 
+supra
+, citing Sherwood vs. Alvis, 83 Ala. 115, 3 So 307, limited and distinguished in Dudley v. Collier, 84 Ala 431, 6 So. 304;
+ Spinney v. Miller,
+ 114 Iowa 210, 86 NW 317.
+[50]
+ 72 Phil. 524 (1941).
+[51]
+ 
+Columbia Pictures, Inc., et al. v. Court of Appeals
+, 
+329 Phil. 875 (1996).
+[52]
+ 72 Phil. 524 (1941).
+[53]
+ See Villanueva, Philippine Corporate Law 596, et seq. (1998 ed.).
+[54]
+ Id.
+[55]
+ G.R. No. 97816, 24 July 1992, 211 SCRA 824.
+[56]
+ G.R. No. 60714, 4 October 1991, 202 SCRA 450.
+[57]
+ 87 Phil. 313 (1950).
+[58]
+ 335 SCRA 229 (1997).
+[59]
+ 329 Phil. 487 (1996).
+[60]
+ G.R. No. L-44944, 9 August 1985, 138 SCRA 118.
+[61]
+ According to the Court in Communication Materials, it was persuaded to conclude that the foreign corporation was doing business in the Philippines, as this was âthe inevitable result after a scrutiny of the different contracts and agreements entered intoâ by the foreign corporation.
+[63]
+ C. Villanueva, Philippine Corporate Law 590 (1998 ed.).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

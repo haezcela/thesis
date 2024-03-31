@@ -1,0 +1,269 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			480 Phil. 456
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 150094, August 18, 2004 ]
+
+
+FEDERAL EXPRESS CORPORATION, PETITIONER, VS. AMERICAN HOME ASSURANCE COMPANY AND PHILAM INSURANCE COMPANY, INC., RESPONDENTS.
+DECISION
+
+
+
+
+PANGANIBAN, J.:
+
+
+Basic is the requirement that before suing to recover loss of or damage to transported goods, the plaintiff must give the carrier notice of the loss or damage, within the period prescribed by the Warsaw Convention and/or the airway bill.
+The Case
+Before us is a Petition for Review
+[1]
+ under Rule 45 of the Rules of Court, challenging the June 4, 2001 Decision
+[2]
+ and the September 21, 2001 Resolution
+[3]
+ of the Court of Appeals (CA) in CA-GR CV No. 58208. The assailed Decision disposed as follows:
+âWHEREFORE, premises considered, the present appeal is hereby DISMISSED for lack of merit. The appealed Decision of Branch 149 of the Regional Trial Court of Makati City in 
+Civil Case No. 95-1219
+, entitled â
+American Home Assurance Co. and PHILAM Insurance Co., Inc. v. FEDERAL EXPRESS CORPORATION and/or CARGOHAUS, INC. (formerly U-WAREHOUSE, INC.)
+,â is hereby 
+AFFIRMED
+ and 
+REITERATED.
+âCosts against the [petitioner and Cargohaus, Inc.].â
+[4]
+The assailed Resolution denied petitionerâs Motion for Reconsideration.
+The Facts
+The antecedent facts are summarized by the appellate court as follows:
+âOn January 26, 1994, SMITHKLINE Beecham (SMITHKLINE for brevity) of Nebraska, USA delivered to Burlington Air Express (BURLINGTON), an agent of [Petitioner] Federal Express Corporation, a shipment of 109 cartons of veterinary biologicals for delivery to consignee SMITHKLINE and French Overseas Company in Makati City, Metro Manila.  The shipment was covered by Burlington Airway Bill No. 11263825 with the words, âREFRIGERATE WHEN NOT IN TRANSITâ and âPERISHABLEâ stamp marked on its face. That same day, Burlington insured the    cargoes in the amount of $39,339.00 with American Home Assurance Company (AHAC). The following day, Burlington turned over the custody of said cargoes to Federal Express which transported the same to Manila. The first shipment, consisting of 92 cartons arrived in Manila on January 29, 1994 in Flight No. 0071-28NRT and was immediately stored at [Cargohaus Inc.âs] warehouse. While the second, consisting of 17 cartons, came in two (2) days later, or on January 31, 1994, in Flight No. 0071-30NRT which was likewise immediately stored at Cargohausâ warehouse. Prior to the arrival of the cargoes, Federal Express informed GETC Cargo International Corporation, the customs broker hired by the consignee to facilitate the release of its cargoes from the Bureau of Customs, of the impending arrival of its clientâs cargoes.
+âOn February 10, 1994, DARIO C. DIONEDA (âDIONEDAâ), twelve (12) days after the cargoes arrived in Manila, a non-licensed customâs broker who was assigned by GETC to facilitate the release of the subject cargoes, found out, while he was about to cause the release of the said cargoes, that the same [were] stored only in a room with two (2) air conditioners running, to cool the place instead of a refrigerator. When he asked an employee of Cargohaus why the cargoes were stored in the âcool roomâ only, the latter told him that the cartons where the vaccines were contained specifically indicated therein that it should not be subjected to hot or cold temperature. Thereafter, DIONEDA, upon instructions from GETC, did not proceed with the withdrawal of the vaccines and instead, samples of the same were taken and brought to the Bureau of Animal Industry of the Department of Agriculture in the Philippines by SMITHKLINE for    examination wherein it was discovered that the âELISA reading of vaccinates sera are below the positive reference serum.â
+âAs a consequence of the foregoing result of the veterinary biologics test, SMITHKLINE abandoned the shipment and, declaring âtotal lossâ for the unusable shipment, filed a claim with AHAC through its representative in the Philippines, the Philam Insurance Co., Inc. (âPHILAMâ) which recompensed SMITHKLINE for the whole insured amount of THIRTY NINE THOUSAND THREE HUNDRED THIRTY NINE DOLLARS ($39,339.00). Thereafter, [respondents] filed an action for damages against the [petitioner] imputing negligence on either or both of them in the handling of the cargo.
+âTrial ensued and ultimately concluded on March 18, 1997 with the [petitioner] being held solidarily liable for the loss as follows:
+âWHEREFORE, judgment is hereby rendered in favor of [respondents] and [petitioner and its Co-Defendant Cargohaus] are directed to pay [respondents], jointly and severally, the following:
+ Actual damages in the amount of the peso equivalent of US$39,339.00 with interest from the time of the filing of the complaint to the time the same is fully paid.
+ Attorneyâs fees in the amount of P50,000.00 and
+ Costs of suit.
+âSO ORDERED.â
+âAggrieved, [petitioner] appealed to [the CA].â
+[5]
+Ruling of the Court of Appeals
+The Test Report issued by the United States Department of Agriculture (Animal and Plant Health Inspection Service) was found by the CA to be inadmissible in evidence. Despite this ruling, the appellate court held that the shipping Receipts were a prima facie proof that the goods had indeed been delivered to the carrier in good condition. We quote from the ruling as follows:
+âWhere the plaintiff introduces evidence which shows 
+prima facie
+ that the goods were delivered to the carrier in good condition [i.e., the shipping receipts], and that the carrier delivered the goods in a damaged condition, 
+a presumption is raised that the damage occurred through the fault or negligence of the carrier
+, and this casts upon the carrier the burden of showing that the goods were not in good condition when delivered to the carrier, or that the damage was occasioned by some cause excepting the carrier from absolute liability. This the [petitioner] failed to discharge. x x x.â
+[6]
+Found devoid of merit was petitionerâs claim that respondents had no personality to sue. This argument was supposedly not raised in the Answer or during trial.
+Hence, this Petition.
+[7]
+The Issues
+In its Memorandum, petitioner raises the following issues for our consideration:
+âI.
+Are the decision and resolution of the Honorable Court of Appeals proper subject for review by the Honorable Court under Rule 45 of the 1997 Rules of Civil Procedure?
+âII.
+Is the conclusion of the Honorable Court of Appeals â petitionerâs claim that respondents have no personality to sue because the payment was made by the respondents to Smithkline when the insured under the policy is Burlington Air Express is devoid of merit â correct or not?
+âIII.
+Is the conclusion of the Honorable Court of Appeals that the goods were received in good condition, correct or not?
+âIV.
+Are Exhibits âFâ and âGâ hearsay evidence, and therefore, not admissible?
+âV.
+Is the Honorable Court of Appeals correct in ignoring and disregarding respondentsâ own admission that petitioner is not liable? and
+âVI.
+Is the Honorable Court of Appeals correct in ignoring the Warsaw Convention?â
+[8]
+Simply stated, the issues are as follows: (1) Is the Petition    proper for review by the Supreme Court? (2) Is Federal Express liable for damage to or loss of the insured goods?
+This Courtâs Ruling
+The Petition has merit.
+Preliminary Issue:
+Propriety of Review
+The correctness of legal conclusions drawn by the Court of Appeals from undisputed facts is a question of law cognizable by the Supreme Court.
+[9]
+In the present case, the facts are undisputed. As will be shown shortly, petitioner is questioning the conclusions drawn from such facts. Hence, this case is a proper subject for review by this Court.
+Main Issue:
+Liability for Damages
+Petitioner contends that respondents have no personality to sue -- thus, no cause of action against it -- because the payment made to Smithkline was erroneous.
+Pertinent to this issue is the Certificate of Insurance
+[10]
+ (âCertificateâ) that both opposing parties cite in support of their respective positions. They differ only in their interpretation of what their rights are under its terms. The determination of those rights involves a question of law, not a question of fact. âAs distinguished from a question of law which exists âwhen the doubt or difference arises as to what the law is on a certain state of factsâ -- âthere is a question of fact when the doubt or difference arises as to the truth or the falsehood of alleged factsâ; or when the âquery necessarily invites calibration of the whole evidence considering mainly the credibility of witnesses, existence and relevancy of specific surrounding circumstance, their relation to each other and to the whole and the probabilities of the situation.ââ
+[11]
+Proper Payee
+The Certificate specifies that loss of or damage to the insured cargo is âpayable to order x x x upon surrender of this Certificate.â Such wording conveys the right of collecting on any such damage or loss, as fully as if the property were covered by a special policy in the name of the holder itself. At the back of the Certificate appears the signature of the representative of Burlington. This document has thus been duly indorsed in blank and is deemed a bearer instrument.
+Since the Certificate was in the possession of Smithkline, the latter had the right of collecting or of being indemnified for loss of or damage to the insured shipment, as fully as if the property were covered by a special policy in the name of the holder. Hence, being the holder of the Certificate and having an insurable interest in the goods, Smithkline was the proper payee of the insurance proceeds.
+Subrogation
+Upon receipt of the insurance proceeds, the consignee (Smithkline) executed a subrogation Receipt
+[12]
+ in favor of respondents. The latter were thus authorized âto file claims and begin suit against any such carrier, vessel, person, corporation or government.â Undeniably, the consignee had a legal right to receive the goods in the same condition it was delivered for transport to petitioner. If that right was violated, the consignee would have a cause of action against the person responsible therefor.
+Upon payment to the consignee of an indemnity for the loss of or damage to the insured goods, the insurerâs entitlement to subrogation 
+pro tanto
+ -- being of the highest equity -- equips it with a cause of action in case of a contractual breach or negligence.
+[13]
+ âFurther, the insurerâs subrogatory right to sue for recovery under the bill of lading in case of loss of or damage to the cargo is jurisprudentially upheld.â
+[14]
+In the exercise of its subrogatory right, an insurer may proceed against an erring carrier. To all intents and purposes, it stands in the place and in substitution of the consignee. 
+A fortiori
+, both the insurer and the consignee are bound by the contractual stipulations under the bill of lading.
+[15]
+Prescription of Claim
+From the initial proceedings in the trial court up to the present, petitioner has tirelessly pointed out that respondentsâ claim and right of action are already barred. The latter, and even the consignee, never filed with the carrier any written notice or complaint regarding its claim for damage of or loss to the subject cargo within the period required by the Warsaw Convention and/or in the airway bill. Indeed, this fact has never been denied by respondents and is plainly evident from the records.
+Airway Bill No. 11263825, issued by Burlington as agent of petitioner, states:
+â6. No action shall be maintained in the case of damage to or partial loss of the shipment unless a written notice, sufficiently describing the goods concerned, the approximate date of the damage or loss, and the details of the claim, is presented by shipper or consignee to an office of Burlington within (14) days from the date the goods are placed at the disposal of the person entitled to delivery, or in the case of total loss (including non-delivery) unless presented within (120) days from the date of issue of the [Airway Bill].â
+[16]
+Relevantly, petitionerâs airway bill states:
+â12./12.1 The person entitled to delivery must make a complaint to the carrier in writing in the case:
+12.1.1 of visible damage to the goods, immediately after discovery of the damage and at the latest within fourteen (14) days from receipt of the goods;
+12.1.2 of other damage to the goods, within fourteen (14) days from the date of receipt of the goods;
+12.1.3 delay, within twenty-one (21) days of the date the goods are placed at his disposal; and
+12.1.4 of non-delivery of the goods, within one hundred and twenty (120) days from the date of the issue of the air waybill.
+12.2 For the purpose of 12.1 complaint in writing may be made to the carrier whose air waybill was used, or to the first carrier or to the last carrier or to the carrier who performed the transportation during which the loss, damage or delay took place.â
+[17]
+Article 26 of the Warsaw Convention, on the other hand, provides:
+âART. 26. (1) Receipt by the person entitled to the delivery of baggage or goods without complaint shall be prima facie evidence that the same have been delivered in good condition and in accordance with the document of transportation.
+(2) In case of damage, the person entitled to delivery must complain to the carrier forthwith after the discovery of the damage, and, at the latest, within 3 days from the date of receipt in the case of baggage and 7 days from the date of receipt in the case of goods. In case of delay the complaint must be made at the latest within 14 days from the date on which the baggage or goods have been placed at his disposal.
+(3) Every complaint must be made in writing upon the document of transportation or by separate notice in writing dispatched within the times aforesaid.
+(4) Failing complaint within the times aforesaid, no action shall lie against the carrier, save in the case of fraud on his part.â
+[18]
+Condition Precedent
+In this jurisdiction, the filing of a claim with the carrier within the time limitation therefor actually constitutes a condition precedent to the accrual of a right of action against a carrier for loss of or damage to the goods.
+[19]
+ The shipper or consignee must allege and prove the fulfillment of the condition. If it fails to do so, no right of action against the carrier can accrue in favor of the former. The aforementioned requirement is a reasonable condition precedent; it does not constitute a limitation of action.
+[20]
+The requirement of giving notice of loss of or injury to the goods is not an empty formalism. The fundamental reasons for such a stipulation are (1) to inform the carrier that the cargo has been damaged, and that it is being charged with liability therefor; and (2) to give it an opportunity to examine the nature and extent of the injury. âThis protects the carrier by affording it an opportunity to make an investigation of a claim while the matter is fresh and easily investigated so as to safeguard itself from false and fraudulent claims.â
+[21]
+When an airway bill -- or any contract of carriage for that matter -- has a stipulation that requires a notice of claim for loss of or damage to goods shipped and the stipulation is not complied with, its enforcement can be prevented and the liability cannot be imposed on the carrier. To stress, notice is a condition precedent, and the carrier is not liable if notice is not given in accordance with the stipulation.
+[22]
+ Failure to comply with such a stipulation bars recovery for the loss or damage suffered.
+[23]
+Being a condition precedent, the notice must precede a suit for enforcement.
+[24]
+ In the present case, there is neither an allegation nor a showing of respondentsâ compliance with this requirement within the prescribed period. While respondents may have had a cause of action then, they cannot now enforce it for their failure to comply with the aforesaid condition precedent.
+In view of the foregoing, we find no more necessity to pass upon the other issues raised by petitioner.
+We note that respondents are not without recourse. Cargohaus, Inc. -- petitionerâs co-defendant in respondentsâ Complaint below -- has been adjudged by the trial court as liable for, 
+inter alia
+, âactual damages in the amount of the peso equivalent of US $39,339.â
+[25]
+ This judgment was affirmed by the Court of Appeals and is already final and executory.
+[26]
+WHEREFORE, the Petition is 
+GRANTED
+, and the assailed Decision 
+REVERSED
+ insofar as it pertains to Petitioner Federal Express Corporation. No pronouncement as to costs.
+SO ORDERED.
+Corona
+, and 
+Carpio-Morales, JJ.
+, concur.
+Sandoval-Gutierrez, J.
+, on leave.
+[1]
+ Rollo, pp. 14-33.
+[2]
+ Id., pp. 35-43. Twelfth Division. Penned by Justice Martin S. Villarama Jr., with the concurrence of Justices Conrado M. Vasquez Jr. (Division chair) and Alicia L. Santos (member).
+[3]
+ Id., pp. 45-47.
+[4]
+ Assailed CA Decision, p. 9; rollo, p. 43.
+[5]
+ Id., pp. 1-3 & 35-37.
+[6]
+ Id., pp. 8 & 42.
+[7]
+ The case was deemed submitted for decision on September 20, 2002, upon this Courtâs receipt of respondentsâ Memorandum, signed by Atty. Mary Joyce M. Sasan. Petitionerâs Memorandum, signed by Atty. Emiliano S. Samson, was received by this Court on August 28, 2002.
+[8]
+ Petitionerâs Memorandum, p. 10; rollo, p. 116. Citations omitted.
+[9]
+ 
+Pilar Development Corp. v. IAC
+, 146 SCRA 215, December 12, 1986.
+[10]
+ Exhibit âDâ; records, p. 142.
+[11]
+ 
+Bernardo v. CA
+, 216 SCRA 224, December 7, 1992, per Campos Jr., 
+J
+.
+[12]
+ Exhibit âNâ; records, p 159.
+[13]
+ 
+Philippine American General Insurance Co., Inc. v. Sweet Lines, Inc.
+, 212 SCRA 194, August 5, 1992 (citing 
+Firemanâs Fund Insurance Company, Inc. v. Jamila & Company, Inc.
+, 70 SCRA 323, April 7, 1976).
+[14]
+ 
+Philippine American General Insurance Co., Inc. v. Sweet Lines, Inc., supra
+, p. 201, per Regalado, 
+J
+. (citing 
+National Development Company v. Court of Appeals
+, 164 SCRA 593, August 19, 1988).
+[15]
+ 
+Philippine American General Insurance Co., Inc. v. Sweet Lines, Inc.
+, supra.
+[16]
+ Exhibit âBâ of respondent; records, p. 139-A. This airway bill was issued on January 26, 1994.
+[17]
+ Exhibit â5-aâ of Federal Express; records, p. 189-A.
+[18]
+ 51 OG 5091-5092, October 1955.
+[19]
+ 
+Philippine American General Insurance Co., Inc. v. Sweet Lines, Inc.
+, supra.
+[20]
+ 
+Government of the Philippine Islands v. Inchausti & Co.
+, 24 Phil. 315, February 14, 1913; 
+Triton Insurance Co. v. Jose
+, 33 Phil. 194, January 14, 1916.
+[21]
+ 
+Philippine American General Insurance Co., Inc. v. Sweet Lines, Inc.
+, supra, p. 208, per Regalado, J.
+[22]
+ Id. (citing 14 Am. Jur. 2d, Carriers 97; 
+Roldan v. Lim Ponzo & Co.
+, 37 Phil. 285, December 7, 1917; 
+Consunji v. Manila Port Service
+, 110 Phil. 231, November 29, 1960).
+[23]
+ 
+Philippine American General Insurance Co., Inc. v. Sweet Lines, Inc.
+, supra, pp. 208-209.
+[24]
+ 
+Philippine American General Insurance Co. Inc v. Sweet Lines, Inc.
+, supra.
+[25]
+ The insured value of the goods lost.
+[26]
+ Entry of judgment in the Supreme Court was made on March 11, 2003.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

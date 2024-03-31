@@ -1,0 +1,394 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			473 Phil. 116
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 147324, May 25, 2004 ]
+
+
+PHILIPPINE COMMUNICATIONS SATELLITE CORPORATION, PETITIONER, VS. GLOBE TELECOM, INC. (FORMERLY AND GLOBE MCKAY CABLE AND RADIO CORPORATION), RESPONDENTS.
+GLOBE TELECOM, INC., PETITIONER, VS. PHILIPPINE COMMUNICATION SATELLITE CORPORATION, RESPONDENT.
+D E C I S I O N
+
+
+
+
+TINGA, J,:
+
+
+Before the Court are two 
+Petitions
+ for Review assailing the Decision of the Court of Appeals, dated 27 February 2001, in CA-G.R. CV No. 63619.
+[1]
+The facts of the case are undisputed.
+For several years prior to 1991, Globe Mckay Cable and Radio Corporation, now Globe Telecom, Inc. (Globe), had been engaged in the coordination of the provision of various communication facilities for the military bases of the United States of America (US) in Clark Air Base, Angeles, Pampanga and Subic Naval Base in Cubi Point, Zambales.  The said communication facilities were installed and configured for the exclusive use of the US Defense Communications Agency (USDCA), and for security reasons, were operated only by its personnel or those of American companies contracted by it to operate said facilities. The USDCA contracted with said American companies, and the latter, in turn, contracted with Globe for the use of the communication facilities.  Globe, on the other hand, contracted with local service providers such as the Philippine Communications Satellite Corporation (Philcomsat) for the provision of the communication facilities.
+On 07 May 1991, Philcomsat and Globe entered into an Agreement whereby Philcomsat obligated itself to establish, operate and provide an IBS Standard B earth station (earth station) within Cubi Point for the exclusive use of the USDCA.
+[2]
+ The term of the contract was for 60 months, or five (5) years.
+[3]
+ In turn, Globe promised to pay Philcomsat monthly rentals for each leased circuit involved.
+[4]
+At the time of the execution of the Agreement, both parties knew that the Military Bases Agreement between the Republic of the Philippines and the US (RP-US Military Bases Agreement), which was the basis for the occupancy    of the Clark Air Base and Subic Naval Base in Cubi Point, was to expire in 1991.  Under Section 25, Article XVIII of the 1987 Constitution, foreign military bases, troops or facilities, which    include those located at the US Naval Facility in Cubi Point, shall not be allowed in the Philippines unless a new treaty is duly concurred in by the Senate and ratified by a majority of the votes cast by the people in a national    referendum when the Congress so requires, and such new treaty is recognized as such by the US Government.
+Subsequently, Philcomsat installed and established the earth station at Cubi Point and the USDCA made use of the same.
+On 16 September 1991, the Senate passed and adopted Senate Resolution No. 141, expressing its decision not to concur in the ratification of the Treaty of Friendship, Cooperation and Security and its Supplementary Agreements that was supposed to extend the term of the use by the US of Subic Naval Base, among others.
+ [5]
+    The last two paragraphs of the Resolution state:
+ FINDING that the Treaty constitutes a defective framework for the    continuing relationship between the two countries in the spirit of friendship, cooperation and sovereign equality:  Now, therefore, be it
+Resolved by the Senate, as it is hereby resolved, To express its decision not to concur in the ratification of the Treaty of Friendship, Cooperation and Security and its Supplementary Agreements, at the same time reaffirming its desire to continue friendly relations with the government and people of the United States of America.
+[6]
+On 31 December 1991, the Philippine Government sent a 
+Note Verbale
+ to the US Government through the US Embassy, notifying it of the Philippinesâ termination of the RP-US Military Bases Agreement.  The
+ Note Verbale
+ stated that since the RP-US Military Bases Agreement, as amended, shall terminate on 31 December 1992, the withdrawal of all US military forces from Subic Naval Base should be completed by said date.
+In a letter dated 06 August 1992, Globe notified Philcomsat of its intention to discontinue the use of the earth station effective 08 November 1992 in view of the withdrawal of US military personnel from Subic Naval Base after the termination of the RP-US Military Bases Agreement.  Globe invoked as basis for the letter of termination Section 8 (Default) of the Agreement, which provides:
+ Neither party shall be held liable or deemed to be in default for any failure to perform its obligation under this Agreement if such failure results directly or indirectly from force majeure or fortuitous event.  Either party is thus precluded from performing its obligation until such force majeure or fortuitous event shall terminate.  For the purpose of this paragraph, force majeure shall mean circumstances beyond the control of the party involved including, but not limited to, any law, order, regulation, direction or request of the Government of the Philippines, strikes or other labor difficulties, insurrection riots, national emergencies, war, acts of public enemies, fire, floods, typhoons or other catastrophies or acts of God.
+Philcomsat sent a reply letter dated 10 August 1992 to Globe, stating that âwe expect [Globe] to know its commitment to pay the stipulated rentals for the remaining terms of the Agreement even after [Globe] shall have discontinue[d] the use of the earth station after November 08, 1992.â
+[7]
+ Philcomsat referred to Section 7 of the Agreement, stating as follows:
+ 7. DISCONTINUANCE OF SERVICE
+Should [Globe] decide to discontinue with the use of the earth station after it has been put into operation, a written notice shall be served to PHILCOMSAT at least sixty (60) days prior to the expected date of termination.  Notwithstanding the non-use of the earth station, [Globe] shall continue to pay PHILCOMSAT for the rental of the actual number of T1 circuits in use, but in no case shall be less than the first two (2) T1 circuits, for the remaining life of the agreement.  However, should PHILCOMSAT make use or sell the earth station subject to this agreement, the obligation of [Globe] to pay the rental for the remaining life of the agreement shall be at such monthly rate as may be agreed upon by the parties.
+[8]
+After the US military forces left Subic Naval Base, Philcomsat sent Globe a letter dated 24 November 1993 demanding payment of its outstanding obligations under the Agreement amounting to US$4,910,136.00 plus interest and attorneyâs fees.  However, Globe refused to heed Philcomsatâs demand.
+On 27 January 1995, Philcomsat filed with the Regional Trial Court of Makati a 
+Complaint
+ against Globe, praying that the latter be ordered to pay liquidated damages under the Agreement, with legal interest, exemplary damages, attorneyâs fees and costs of suit.  The case was raffled to Branch 59 of said court.
+Globe filed an Answer to the Complaint, insisting that it was constrained to end the Agreement due to the termination of the RP-US Military Bases Agreement and the non- ratification by the Senate of the Treaty of Friendship and Cooperation, which events constituted force majeure under the Agreement.  Globe explained that the occurrence of said events exempted it from paying rentals for the remaining period of the Agreement.
+On 05 January 1999, the trial court rendered its Decision, the dispositive portion of which reads:
+WHEREFORE, premises considered, judgment is hereby rendered as follows:
+Ordering the defendant to pay the plaintiff the amount of Ninety Two Thousand Two Hundred Thirty Eight US Dollars (US$92,238.00) or its equivalent in Philippine Currency (computed at the exchange rate prevailing at the time of compliance or payment) representing    rentals for the month of December 1992 with interest thereon at the legal rate of twelve percent (12%) per annum starting December 1992 until the amount is fully paid;
+Ordering the defendant to pay the    plaintiff the amount of Three Hundred Thousand (P300,000.00) Pesos as and for attorneyâs fees;
+Ordering the DISMISSAL of defendantâs counterclaim for lack of merit; and
+With costs against the defendant.
+SO ORDERED.
+[9]
+ 
+Both parties appealed the trial courtâs Decision to the Court of Appeals.
+Philcomsat claimed that the trial court erred in ruling that: (1) the non-ratification by the Senate of the Treaty of Friendship, Cooperation and Security and its Supplementary Agreements constitutes
+ force majeure
+ which exempts Globe from complying with its obligations under the Agreement; (2) Globe is not liable to pay the rentals for the remainder of the term of the Agreement; and (3) Globe is not liable to Philcomsat for exemplary damages.
+Globe, on the other hand, contended that the RTC erred in holding it liable for payment of rent of the earth station for December 1992 and of attorneyâs fees.  It explained that it terminated Philcomsatâs services on 08 November 1992; hence, it had no reason to pay for rentals beyond that date.
+On 27 February 2001, the Court of Appeals promulgated its Decision dismissing Philcomsatâs appeal for lack of merit and affirming the trial courtâs finding that certain events constituting 
+force majeure
+ under Section 8 the Agreement occurred and justified the non-payment by Globe of rentals for the remainder of the term of the Agreement.
+The appellate court ruled that the non-ratification by the Senate of the Treaty of Friendship, Cooperation and Security, and its Supplementary Agreements, and the termination by the Philippine Government of the RP-US Military Bases Agreement effective 31 December 1991 as stated in the Philippine Governmentâs
+ Note Verbale
+ to the US Government, are acts, directions, or requests of the Government of the Philippines which constitute 
+force majeure.
+  In addition, there were circumstances beyond the control of the parties, such as the issuance of a formal order by Cdr. Walter Corliss of the US Navy, the issuance of the letter notification from ATT and the complete withdrawal of all US military forces and personnel from Cubi Point, which prevented further use of the earth station under the Agreement.
+However, the Court of Appeals ruled that although Globe sought to terminate Philcomsatâs services by 08 November 1992, it is still liable to pay rentals for the December 1992, amounting to US$92,238.00 plus interest, considering that the US military forces and personnel completely withdrew from Cubi Point only on 31 December 1992.
+[10]
+Both parties filed their respective 
+Petitions for Review
+ assailing the 
+Decision 
+of the Court of Appeals.
+In 
+G.R. No. 147324
+,
+[11]
+ petitioner Philcomsat raises the following assignments of error:
+THE HONORABLE COURT OF APPEALS ERRED IN ADOPTING A DEFINITION OF 
+FORCE MAJEURE
+ DIFFERENT FROM WHAT ITS LEGAL DEFINITION FOUND IN ARTICLE 1174 OF THE CIVIL CODE, PROVIDES, SO AS TO EXEMPT GLOBE TELECOM FROM COMPLYING WITH ITS OBLIGATIONS UNDER THE SUBJECT AGREEMENT.
+THE HONORABLE COURT OF APPEALS ERRED IN RULING THAT GLOBE TELECOM IS NOT LIABLE TO PHILCOMSAT FOR RENTALS FOR THE REMAINING TERM OF THE AGREEMENT, DESPITE THE CLEAR TENOR OF SECTION 7 OF THE AGREEMENT.
+THE HONORABLE OCURT OF APPEALS ERRED IN DELETING THE TRIAL COURTâS AWARD OF ATTORNEYâS FEES IN FAVOR OF PHILCOMSAT.
+THE HONORABLE COURT OF APPEALS ERRED IN RULING THAT GLOBE TELECOM IS NOT LIABLE TO PHILCOMSAT FOR EXEMPLARY DAMAGES.
+[12]
+Philcomsat argues that the termination of the RP-US Military Bases Agreement cannot be considered a fortuitous event because the happening thereof was foreseeable.  Although the Agreement was freely entered into by both parties, Section 8 should be deemed ineffective because it is contrary to Article 1174 of the Civil Code.  Philcomsat posits the view that the validity of the partiesâ definition of 
+force majeure
+ in Section 8 of the Agreement as âcircumstances beyond the control of the party involved including,    but not limited to, any law, order, regulation, direction or request of the Government of the Philippines, strikes or other labor difficulties, insurrection riots, national emergencies, war, acts of public enemies, fire, floods, typhoons or other catastrophies or acts of God,â should be deemed subject to Article 1174 which defines fortuitous events as events which could not be foreseen, or which, though foreseen, were inevitable.
+[13]
+Philcomsat further claims that the Court of Appeals erred in holding that Globe is not liable to pay for the rental of the earth station for the entire term of the Agreement because it runs counter to what was plainly stipulated by the parties in Section 7 thereof.  Moreover, said ruling is inconsistent with the appellate courtâs pronouncement that Globe is liable to pay rentals for December 1992 even though it terminated Philcomsatâs services effective 08 November 1992, because the US military and personnel completely withdrew from Cubi Point only in December 1992.  Philcomsat points out that it was Globe which proposed the five-year term of the Agreement, and that the other provisions of the Agreement, such as Section 4.1
+ [14]
+ thereof, evince the intent of Globe to be bound to pay rentals for the entire five-year term.
+[15]
+Philcomsat also maintains that contrary to the appellate courtâs    findings, it is entitled to attorneyâs fees and exemplary damages.
+[16] 
+In its 
+Comment
+ to Philcomsatâs 
+Petition
+, Globe asserts that Section 8 of the Agreement is not contrary to Article 1174 of the Civil Code because said provision does not prohibit parties to a contract from providing for other instances when they would be exempt from fulfilling their contractual obligations.  Globe also claims that the termination of the RP- US Military Bases Agreement constitutes 
+force majeure
+ and exempts it from complying with its obligations under the Agreement.
+[17] 
+ On the issue of the propriety of awarding attorneyâs fees and exemplary damages to Philcomsat, Globe maintains that Philcomsat is not entitled thereto because in refusing to pay rentals for the remainder of the term of the Agreement, Globe only acted in accordance with its rights.
+[18]
+In
+ G.R. No. 147334
+,
+[19]
+ Globe, the petitioner therein, contends that the Court of Appeals erred in finding it liable for the amount of US$92,238.00, representing rentals for December 1992, since Philcomsatâs services were actually terminated on 08 November 1992.
+[20]
+In its 
+Comment,
+ Philcomsat claims that Globeâs petition should be dismissed as it raises a factual issue which is not cognizable by the Court in a petition for review on 
+certiorari.
+ 
+[21]
+On 15 August 2001, the Court issued a 
+Resolution
+ giving due course to Philcomsatâs 
+Petition
+ in 
+G.R. No. 147324
+ and required the parties to submit their respective memoranda.
+[22]
+Similarly, on 20 August 2001, the Court issued a Resolution giving due course to the Petition filed by Globe in G.R. No. 147334 and required both parties to submit their memoranda.
+[23]
+Philcomsat and Globe thereafter filed their respective 
+Consolidated Memoranda
+ in the two cases, reiterating their arguments in their respective petitions.
+The Court is tasked to resolve the following issues: (1) whether the termination of the RP-US Military Bases Agreement, the non-ratification of the Treaty of Friendship, Cooperation and Security, and the consequent withdrawal of US military forces and personnel from Cubi Point constitute 
+force majeure
+ which would exempt Globe from complying with its obligation to pay rentals under its Agreement with Philcomsat; (2) whether Globe is liable to pay rentals under the Agreement for the month of December 1992; and (3) whether Philcomsat is entitled to attorneyâs fees and exemplary damages.
+No reversible error was committed by the Court of Appeals in issuing the assailed Decision; hence the petitions are denied.
+There is no merit is Philcomsatâs argument that Section 8 of the    Agreement cannot be given effect because the enumeration of events constituting 
+force majeure
+ therein unduly expands the concept of a fortuitous event under Article 1174 of the Civil Code and is therefore invalid.
+In support of its position, Philcomsat contends that under Article 1174 of the Civil Code, an event must be unforeseen in order to exempt a party to a contract from complying with its obligations therein.  It insists that since the expiration of the RP-US Military Bases Agreement, the non-ratification of the Treaty of Friendship, Cooperation and Security and the withdrawal of US military forces and personnel from Cubi Point were not unforeseeable, but were possibilities known to it and Globe at the time they entered into the Agreement, such events cannot exempt Globe from performing its obligation of paying rentals for the entire five-year term thereof.
+However, Article 1174, which exempts an obligor from liability on account of fortuitous events or 
+force majeure,
+ refers not only to events that are unforeseeable, 
+but also to those which are foreseeable, but inevitable:
+ Art. 1174. Except in cases specified by the law, or when it is otherwise declared by stipulation, or when the nature of the obligation requires the assumption of risk, no person shall be responsible for those events which, could not be foreseen, or which, though foreseen were inevitable.
+A fortuitous event under Article 1174 may either be an âact of God,â or natural occurrences such as floods or typhoons,
+[24]
+ or an âact of man,â such as riots, strikes or wars.
+[25]
+Philcomsat and Globe agreed in Section 8 of the Agreement that the following events shall be deemed events constituting 
+force majeure:
+Any law, order, regulation, direction or request of the Philippine Government;
+Strikes or other labor difficulties;
+Insurrection;
+Riots;
+National emergencies;
+War;
+Acts of public enemies;
+Fire, floods, typhoons or other catastrophies or acts of God;
+Other circumstances beyond the control of the parties.
+Clearly, the foregoing are either unforeseeable, or foreseeable but beyond the control of the parties.  There is nothing in the enumeration that runs contrary to, or expands, the concept of a fortuitous event under Article 1174.
+Furthermore, under Article 1306
+[26]
+ of the Civil Code, parties to a contract may establish such stipulations, clauses, terms and conditions as they may deem fit, as long as the same do not run counter to the law, morals, good customs, public order or public policy.
+[27] 
+Article 1159 of the Civil Code also provides that â[o]bligations arising from contracts have the force of law between the contracting parties and should be complied with in good faith.â
+[28]
+ Courts cannot stipulate for the parties nor amend their agreement where the same does not contravene law, morals, good customs, public order or public policy, for to do so would be to alter the real intent of the parties, and would run contrary to the function of the courts to give force and effect thereto.
+[29]
+Not being contrary to law, morals, good customs, public order, or public policy, Section 8 of the Agreement which Philcomsat and Globe freely agreed upon has the force of law between them.
+[30]
+In order that Globe may be exempt from non-compliance with its obligation to pay rentals under Section 8, the concurrence of the following elements must be established:  (1) the event must be independent of the human will; (2) the occurrence must render it impossible for the debtor to fulfill the obligation in a normal manner; and (3) the obligor must be free of participation in, or aggravation of, the injury to the creditor.
+[31]
+The Court agrees with the Court of Appeals and the trial court that the abovementioned requisites are present in the instant case.  Philcomsat and Globe had no control over the non-renewal of the term of the RP-US Military Bases Agreement when the same expired in 1991, because the prerogative to ratify the treaty extending the life thereof belonged to the Senate. Neither did the parties have control over the subsequent withdrawal of the US military forces and personnel from Cubi Point in December 1992:
+ Obviously the non-ratification by the Senate of the RP-US Military Bases Agreement (and its Supplemental Agreements) under its Resolution No. 141. (
+Exhibit â2â
+) on September 16, 1991 is beyond the control of the parties.  This resolution was followed by the sending on December 31, 1991 o[f] a 
+âNote Verbale
+â (
+Exhibit â3â
+) by the Philippine Government to the US Government notifying the latter of the formerâs termination of the RP-US Military Bases Agreement (as amended) on 31 December 1992 and that accordingly, the withdrawal of all U.S. military forces from Subic Naval Base should be completed by said date. Subsequently, defendant [Globe] received a formal order from Cdr. Walter F. Corliss II Commander USN dated July 31, 1992 and a notification from ATT dated July 29, 1992 to terminate the provision of T1s services (via an IBS Standard B Earth Station) effective November 08, 1992.  Plaintiff [Philcomsat] was furnished with copies of the said order and letter by the defendant on August 06, 1992.
+Resolution No. 141 of the Philippine Senate and the Note Verbale of the Philippine Government to the US Government are acts, direction or request of the Government of the Philippines and circumstances beyond the control of the defendant.  The formal order from Cdr. Walter Corliss of the USN, the letter notification from ATT and the complete withdrawal of all the military forces and personnel from Cubi Point in the year-end 1992 are also acts and circumstances beyond the control of the defendant.
+Considering the foregoing, the Court finds and so holds that the afore-narrated circumstances constitute âforce majeure or fortuitous event(s) as defined under paragraph 8 of the Agreement.
+ â¦ 
+From the foregoing, the Court finds that the defendant is exempted from paying the rentals for the facility for the remaining term of the contract.
+As a consequence of the  termination of the RP-US Military Bases Agreement (as amended) the continued stay of all US Military forces and personnel from Subic Naval Base would no longer be allowed, hence, plaintiff would no longer be in any position to render the service it was obligated under the Agreement.  To put it blantly (sic), since the US military forces and personnel left or withdrew from Cubi Point in the year end December 1992, there was no longer any necessity for the plaintiff to continue maintaining the IBS facilityâ¦. 
+[32]
+ (Emphasis in the original.)
+The aforementioned events made impossible the continuation of the Agreement until the end of its five-year term without fault on the part of either party.  The Court of Appeals was thus correct in ruling that the happening of such fortuitous events rendered Globe exempt from payment of rentals for the remainder of the term of the Agreement.
+Moreover, it would be unjust to require Globe to continue paying rentals even though Philcomsat cannot be compelled to perform its corresponding obligation under the Agreement. As noted by the appellate court:
+ We also point out the sheer inequity of PHILCOMSATâs position.  PHILCOMSAT would like to charge GLOBE rentals for the balance of the lease term without there being any corresponding telecommunications service subject of the lease.  It will be grossly unfair and iniquitous to hold GLOBE liable for lease charges for a service that was not and could not have been rendered due to an act of the government which was clearly beyond GLOBEâs control.  The binding effect of a contract on both parties is based on the principle that the obligations arising from contracts have the force of law between the contracting parties, and there must be mutuality between them based essentially on their equality under which it is repugnant to have one party bound by the contract while leaving the other party free therefrom (
+Allied Banking Corporation v. Court of Appeals, 284 SCRA 357)â¦.
+[33]
+With respect to the issue of whether Globe is liable for payment of rentals for the month of December 1992, the Court likewise affirms the appellate courtâs ruling that Globe should pay the same.
+Although Globe alleged that it terminated the Agreement with Philcomsat effective 08 November 1992 pursuant to the formal order issued by Cdr. Corliss of the US Navy, the date when they actually ceased using the earth station subject of the Agreement was not established during the trial.
+[34]
+ However, the trial court found that the US military forces and personnel completely withdrew from Cubi Point only on 31 December 1992.
+[35]
+ Thus, until that date, the USDCA had control over the earth station and had the option of using the same.  Furthermore, Philcomsat could not have removed or rendered ineffective said communication facility until after 31 December 1992 because Cubi Point was accessible only to US naval personnel up to that time.  Hence, the Court of Appeals did not err when it affirmed the trial courtâs ruling that Globe is liable for payment of rentals until December 1992.
+Neither did the appellate court commit any error in holding that Philcomsat is not entitled to attorneyâs fees and exemplary damages.
+The award of attorneyâs fees is the exception rather than the rule, and must be supported by factual, legal and equitable justifications.
+[36]
+ In previously decided cases, the Court awarded attorneyâs fees where a party acted in gross and evident bad faith in refusing to satisfy the other partyâs claims and compelled the former to litigate to protect his rights;
+[37]
+ when the action filed is clearly unfounded,
+[38]
+ or where moral or exemplary damages are awarded. 
+[39]
+ However, in cases where both parties have legitimate claims against each other and no party actually prevailed, such as in the present case where the claims of both parties were sustained in part, an award of attorneyâs fees would not be warranted.
+[40] 
+Exemplary damages may be awarded in cases involving contracts or quasi-contracts, if the erring party acted in a wanton, fraudulent, reckless, oppressive or malevolent manner. 
+[41]
+ In the present case, it was not shown that Globe acted wantonly or oppressively in not heeding Philcomsatâs demands for payment of rentals.  It was established during the trial of the case before the trial court that Globe had valid grounds for refusing to comply with its contractual obligations after 1992.
+WHEREFORE, the 
+Petitions
+ are DENIED for lack of merit.  The assailed 
+Decision 
+of the Court of Appeals in CA-G.R. CV No. 63619 is AFFIRMED.
+SO ORDERED.
+Quisumbing, Austria-Martinez,
+ and 
+Callejo, Sr., JJ.,
+ concur.
+Puno, J., (Chairman),
+ on official leave.
+ 
+ 
+[1]
+ Philippine Communications Satellite Corporation v. Globe Telecom, Inc. [formerly Globe Mackay Cable and Radio Corporation]. Penned by J. Candido V. Rivera and concurred in by J. Jose L. Sabio, Jr. and J. Rebecca de Guia-Salvador.
+[2]
+ Agreement, G.R. No. 147324, Rollo, p. 65; G.R. No. 147334, Rollo, p. 79.
+[3]
+ Section 11, Agreement, 
+Id.
+ at 73;
+ Id.
+ at 87.
+[4]
+ Section 4, Agreement,
+ Id.
+ at 67-69; Id. at 82-83.
+[5]
+ Resolution No. 141, G.R. No. 147324, Rollo, pp. 75-78; G.R. No. 147334, Rollo, pp. 98-101.
+[6]
+ 
+Id.
+ at 78; 
+Id.
+ at 101.
+[7]
+ CA Decision, 
+Id. 
+at 28-29; 
+Id.
+ at 48-49.
+[8]
+ 
+Id. 
+at 71-72;
+ Id.
+ at 94-95.
+[9]
+ Id.
+ at 100; Id. at 123.
+[10]
+ 
+Id. 
+at 25-38; Id. at 45-58.
+[11]
+ Philippine Communications Satellite Corporation, 
+Petitioner,
+ v. Globe Telecom (formerly Globe Mackay Cable and Radio Corporation),
+ Respondent.
+[12]
+ G.R. No. 147324, Rollo, p. 8.
+[13]
+ 
+Id.
+ at 9-16.
+[14]
+ Said Section provides:
+In consideration of the use of facilities and after taking into account the tax and duty free provisions under the U.S. and R.P. Military Base Agreement, GMCR [now Globe] shall pay PHILCOMSAT the following rates exclusive of space segment charges:
+ a)   First two (2) t-1 circuits at US$ 46,119 per circuit per month;
+b)   Third and fourth T-1 circuits at US$ 30,333.00 per circuit per month;
+c)   Extension of the first two (2) T-1 circuits in (a) above, starting  on the 61st month, at US$ 40,406.00 per circuit per month;
+d)   Extension of the third and fourth circuits in (b) above, starting on the 61st month, at US$ 22, 200.00 per circuit per month;
+The above-mentioned monthly lease of circuits become due and payable within fifteen (15) days from service establishment date or availment of the service whichever comes earlier and within the fifteenth day of each month thereafter.
+[15]
+ Id.
+ at 16-20.
+[16]
+ Id. 
+at 20.
+[17]
+ Id.
+ at 53-61.
+[18]
+ Id.
+ at 61.
+[19]
+ Globe Telecom, Inc., 
+Petitioner
+ v. Philippine Communications Satellite Corporation, 
+Respondent.
+[20]
+ G.R. No. 147334, Rollo, pp.36-37.
+[21]
+ Id.
+ at 167-176.
+[22]
+ Rollo, G.R. No. 147324, pp. 116-117.
+[23]
+ Rollo, G.R. No. 147334, pp. 183-184.
+[24]
+ Blackâs Law Dictionary, Seventh Edition, p. 657.
+[25]
+ 
+Ibid.
+[26]
+ The contracting parties may establish such stipulations, clauses, terms and conditions as they may deem convenient, provided they are not contrary to law, morals, good customs, public order, or public policy.
+[27]
+ 
+See
+ Development Bank of the Philippines v. Court of Appeals, G.R. No. 137557, 30 October 2000, 344 SCRA 492; Roman Catholic Archbishop of Manila v. Court of Appeals, G.R. Nos. 77425 and 77450, 19 June 1991, 198 SCRA 300; De Luna v. Abrigo, G.R. No. 57455, 18 January 1990, 181 SCRA 150; Rocamora, et al. v. RTC- Cebu (Branch VIII),
+ et al.
+, G.R. No. L-65037, 23 November 1988, 167 SCRA 615; Community Savings & Loan Association, G.R. No. 75786, 31 August 1987, 153 SCRA 564.
+[28]
+ 
+See
+ National Sugar Trading and/or the Sugar Regulatory Administration v. Philippine National Bank, G.R. No. 151218, 28 January 2003; Pilipinas Hino, Inc. v. Court of Appeals, G.R. No. 126570, 18 August 2000, 338 SCRA 355.
+[29]
+ Heirs of Juan San Andres v. Rodriguez, G.R. No. 135634, 31 May 2000, 332 SCRA 769.
+[30]
+ 
+Ibid.
+[31]
+ Bacolod-Murcia Milling Co., Inc. v. Hon. Court of Appeals and Gatuslao, G.R. Nos. 81100-01, 07 February 1990, 182 SCRA 24; Juan F. Nakpil & Sons v. Court of Appeals, G.R. Nos. L-47851, 47863 and 47896, 03 October 1986, 144 SCRA 596; Vasquez v. Court of Appeals, G.R. No. L-42926, 13 September 1985, 138 SCRA 553; Servando, et al. v. Philippine Steam Navigation, Co., G.R. Nos. L-36481-2, 23 October 1982, 117 SCRA 832; Austria v. Court of Appeals, G.R. No. L-29640, 10 June 1971, 39 SCRA 527; Lasam v. Smith, 45 Phil. 657 (1924).
+[32]
+ CA Decision 
+citing
+ RTC Decision, G.R. No. 147324, Rollo, pp. 32-33; G.R. No. 147334, Rollo, pp. 16-17.
+[33]
+ 
+Id.
+ at 36.
+[34]
+ See Id., at 37.
+[35]
+ RTC Decision, Id. at 99.
+[36]
+ GSIS v. Labung-Deang, G.R. No. 135644, 17 September 2001, 365 SCRA 341; SCC Chemicals Corporation v. Court of Appeals, et al., G.R. No. 128538, 28 February 2001, 353 SCRA 70; Philippine National Bank v. Court of Appeals, G.R. No. 107508, 25 April 1996, 256 SCRA 491; Scott Consultants & Resource Development Corporation, Inc. v. Court of Appeals, G.R. No. 112916, 16 March 1995, 242 SCRA 393.
+[37]
+ Industrial Insurance Company, Inc. v. Bondad, G.R. No. 136722, 12 April 2000, 330 SCRA 706; Sulpicio Lines, Inc. v. Court of Appeals, G.R. No. 93291, 29 March 1999, 305 SCRA 478; Brahm Industries, Inc. v. National Labor Relations Commission, G.R. No. 118853, 16 October 1997, 280 SCRA 828.
+[38]
+ Union Motor Corporation v. Court of Appeals, G.R. No. 117187, 20 July 2001, 361 SCRA 506; Lim v. Court of Appeals, G.R. No. 118347, 24 October 1996, 263 SCRA 569.
+[39]
+ Estanislao, Jr. v. Court of Appeals, G.R. No. 143687, 30 July 2001, 362 SCRA 229.
+[40]
+ Sarmiento v. Court of Appeals, G.R. No. 110871, 02 July 1998, 291 SCRA 656.
+[41]
+ Article 2232, Civil Code. 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

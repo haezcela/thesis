@@ -1,0 +1,336 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			468 Phil. 755
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 128064, March 04, 2004 ]
+
+
+R.V. MARZAN FREIGHT, INC., PETITIONER, VS. COURT OF APPEALS AND SHIELAâS MANUFACTURING, INC., RESPONDENTS.
+ DECISION
+
+
+
+
+CALLEJO, SR., J.:
+
+
+This is a petition for review under Rule 45 of the 1997 Rules of Civil Procedure of the Decision
+[1]
+ of the Court of Appeals in CA-G.R. CV No. 49905 affirming with modification the Decision
+[2]
+ of the Regional Trial Court of Rizal, Pasig, Branch 154, in Civil Case No. 61644.
+THE FACTS
+The petitioner RV Marzan Freight, Inc., owned and operated a customs-bonded warehouse located at the Bachrach Corporation Building, where it accepted all forms of goods and merchandise for storage and safekeeping.   Private respondent Shielaâs Manufacturing, Inc., on the other hand, was a corporation organized and existing under Philippines laws, and engaged in the garment business.
+Philippine Fire and Marine Insurance Corporation (Philfire) issued Insurance Policy No. F-8952/4358-HO dated December 11, 1989
+[3]
+ in favor of the petitioner, covering its warehouse as well as âstocks in trade of every kind and description usual to the warehouse operation of the Assured and/or other interest that may appear during the currency of this policy whilst contained in the building, known as BACHRACH CORP.â
+On April 12, 1989, raw materials consigned to the private respondent covered by Invoice No. TG-89125
+[4]
+ arrived in the Philippines from Keelung, Taiwan on board the vessel SS World Lion V-302W owned by Sea-Land Service, Inc. from its supplier, Tricon Enterprises Ltd. The materials were valued at US$32,006.93.
+[5]
+ The Bureau of Customs treated the raw materials as subject to ordinary import taxes and were not immediately released to the private respondent.  Moreover, the consignee failed to file the requisite import entry
+[6]
+ and failed to claim the cargo.
+[7]
+In a Letter
+[8]
+ to the Office of the District Collector of the Bureau of Customs dated July 24, 1989, Sea-Land Service Inc. authorized the petitioner to take delivery of Container No. SEAU-462597 consigned to the private respondent for stripping and safekeeping.
+In a Letter
+[9]
+ addressed to Bureau of Customs District Collector Emma M. Rosqueta dated September 11, 1989, the International Container Terminal Services, Inc. (ICTSI) requested for authority âto clear the storage areas of cargoes which have been abandoned by their owners or seized by the Bureau of Customs.â  Included in the request was the cargo of the private respondent.  The District Collector of Customs initiated Abandonment Proceedings No. 288-89 over the cargo.  On September 29, 1989, the District Collector issued a Notice
+[10]
+ to the consignee of various overstaying cargo, including that of the private respondent, giving them fifteen (15) days from notice thereof to file entry of the cargoes without prejudice to the right of the consignees to redeem articles pursuant to Section 1801 of the Tariff and Customs Code within the prescribed period therein; otherwise, the cargoes would be deemed abandoned and sold at public auction.  As ordered, the Notice of the Abandonment Proceedings was posted on the Bureauâs bulletin board on September 29, 1980.
+[11]
+ No separate notice was sent to the private respondent because per the ICTSIâs records, the address of the consignee was unknown.
+Earlier, on November 7, 1989, Leonardo S. Doctor, Chief of the Law Division of the Bureau of Customs, issued a Memorandum
+[12]
+ informing the Chief for Auction and Cargo Disposal Division that the declaration of abandonment in the aforestated proceedings had already become final and executory as of October 30, 1989 and that the cargoes subject matter thereof should be inventoried and sold at public auction.
+However, before the inventory and sale at public auction of the goods could be accomplished, part of the warehouse containing the shipment was burned on July 26, 1990.  The private respondentâs shipment was, likewise, burned and destroyed.  The Philfire paid to the private respondent the amount of P12,000,000, for which the latter was issued a receipt.
+On March 19, 1991, the private respondent, through counsel, sent a letter to the petitioner demanding payment of the value of the goods in the amount of US$32,006.93.   However, the petitioner rejected the demands.  Meanwhile, on October 28, 1991, the petitioner executed a âRelease of Claim and Hold Harmless Undertaking.â
+[13]
+On December 26, 1991, or after the lapse of more than two years from the arrival of the cargo in the Philippines, the private respondent filed a complaint for damages before the RTC of Pasig City, Branch 154, against the petitioner.  The private respondent alleged, 
+inter alia
+, that its goods were stored in the petitionerâs bonded warehouse due to the problem it encountered at the Bureau of Customs; that the goods were gutted by fire on July 26, 1990 while stored in said bonded warehouse; and, despite demands for the release of the goods, the petitioner refused to release the same. The private respondent prayed that the petitioner and Philfire be held jointly and severally liable to pay the following: 
+a) the sum of US$32,006.93 or its peso equivalent computed based on the rate of exchange prevailing at the time of payment with interest thereon from the time of the filing of complaint up to the time of actual payment; 
+b) the sum of P30,000.00 as and for attorneyâs fees;  
+c) the costs of suit;
+[14]
+In its answer, the petitioner interposed special and affirmative defenses.   Aside from alleging that there was no privity of contract between it and the private respondent, the petitioner also alleged that the private respondent lost the right of action against it as it was not the real party-in-interest in the case. The petitioner averred that the goods in question were received not from the private respondent but from the Bureau of Customs, under Customs Administrative Order No. 102-88 dated August 30, 1988, covering Forfeited Cargoes (FC), Abandoned Cargoes (AC) and Cargoes held under Warrant/Seizure and Detention (CWSD). According to the petitioner, before the subject cargo was destroyed by accidental fire, the private respondent had violated the Tariff and Customs Code and related laws, rules and regulations, and failed to pay the corresponding taxes, duties and penalties for the importation.  Furthermore, the private respondent failed to make the corresponding claim for the release of the said cargo, until the same was declared as âoverstaying cargo,â and later as âabandoned cargo.â The petitioner further asserted that the government, and not the private respondent, was the owner thereof.  As such, the private respondent was not entitled to the insurance proceeds arising out of the fire policy covering the petitioner as a customs bonded warehouse.  Furthermore, considering that the cause of the loss of the subject cargo was a fortuitous event, an âact of God,â and the petitioner, having exercised the required due care under the circumstances, cannot be held legally liable for such loss.  Finally, the petitioner alleged that its warehouse is legally considered as an âextension of the Bureau of Customsâ and all goods transferred therein continue to be in the custody of the Bureau of Customs, with all its legal implications.
+[15]
+Defendant Philfire, for its part, filed a motion to dismiss
+[16]
+ on the ground that it had no contractual obligation to the private respondent; hence, the latter had no cause of action against it.  The trial court deferred the resolution of the said motion
+[17]
+ until the grounds appeared to be indubitable.  In its answer,
+[18]
+ Philfire alleged that there was no privity of contract between it and the private respondent, considering that the petitioner was the insured party.  Furthermore, the private respondent had no insurable interest in the goods that were burned in the petitionerâs warehouse.  Finally, Philfire alleged that the obligation sought to be enforced by the private respondent had already been settled when it paid its obligation under the insurance policy
+[19]
+ as shown in the âRelease of Claim and Hold Harmless Undertakingâ dated October 28, 1991, executed and signed for and in behalf of the petitioner by its Vice-President, Mr. Cesar D. Catalan.
+The private respondent filed its pre-trial brief proposing that the following issues to be litigated by the parties and resolved by the Court: 
+ 
+Corporate personality of the plaintiff;
+Value of plaintiffâs goods stored in R.V. Marzanâs warehouse and which were destroyed by fire;
+Whether or not at the time of the fire on July 26, 1990. plaintiffâs goods were already âabandoned goodsâ so that the plaintiff, at the time of the fire, was no longer the owner of the said goods.
+Attorneyâs fees and damages;
+[20]
+ 
+ However, the trial court did not issue a pre-trial order.
+During the trial, the petitioner presented Atty. Leonardo S. Doctor, the Law Division Chief of the Bureau of Customs, as one of its witnesses to prove that the cargo had already been declared by the District Collector of Customs as âabandoned cargoâ in Abandonment Proceedings No. 288-89, and that the cargo was destroyed by fire before it could be sold at public auction.
+Thereafter, the private respondent filed its memorandum stating, 
+inter alia
+, that it did not abandon the goods because it did not receive the notice of abandonment of the cargo from the Bureau of Customs.  The petitioner insisted that upon the abandonment of the cargo under Section 1802 of the Tariff and Customs Code of the Philippines (TCCP), it became,
+ ipso facto
+, the property of the government; hence, the private respondent had no right to claim the value of the shipment.
+After trial, the court rendered judgment, the decretal portion of which reads: 
+ WHEREFORE, foregoing premises considered, defendant RV Marzan is held solely liable for the loss suffered by the plaintiff and is hereby ordered to pay the plaintiff the following: 
+ 
+ 
+The sum of US$32,006.93 or its peso equivalent computed on the rate of exchange prevailing at the time of payment with 6% interest thereon from the time of filing of complaint up to the time of actual payment;
+The sum of P30,000.00 as and for attorneyâs fees; and
+Costs of suit.
+ 
+ The complaint against Philfire, the counterclaim against Shielaâs and the cross-claim against R.V. Marzan, are hereby dismissed.
+[21] 
+According to the trial court, the Bureau of Customsâ subsequent declaration that the subject shipment was âabandoned cargoâ was ineffective, as the private respondent was not sent a copy of the September 29, 1989 Notice as required by Sec. 1801 of the Tariff and Customs Code.  Under the law, notice of the proceedings of abandonment should be given to the private respondent as the consignee or its agent, to enable it to adduce evidence at a public hearing, conformably to the requirement of due process.  Since the private respondent was never notified of the abandonment proceedings, it cannot, thus, be said that it impliedly abandoned the shipment and lost its ownership over the same in favor of the government.
+The trial court rejected the petitionerâs claim that it could not be held liable for the private respondentâs loss because the fire that destroyed the subject cargo was an âact of God.â According to the trial court, this is precisely one of the reasons why a bonded warehouse is required by law to insure the goods received and stored against fire; otherwise, persons dealing with a bonded warehouse would not be afforded due protection.  According to the court, the policy procured by the petitioner inures equally and proportionately to the benefit of all the owners of the property insured, even if the owner of the goods did not request or know of the insurance. Citing Section 1902 of the Tariff and Customs Code, the trial court pointed out that the petitionerâs bonded warehouse is considered as an extension of the Bureau of Customs only insofar as it continues with the storage and safekeeping of goods transferred to it by the latter.
+Finally, the trial court ruled that the private respondent had no cause of action against the insurer Philfire, as it was not a party to the insurance contract between the petitioner and Philfire.  Since the terms of the insurance contract do not confer a benefit upon a third person as required by Article 1311 of the Civil Code, the private respondent had no right to the insurance proceeds.
+The petitioner appealed the decision to the Court of Appeals, docketed as CA-G.R. CV No. 49905, and assigned the following errors: 
+ I  â  THE TRIAL COURT ERRED IN NOT DISMISSING THE COMPLAINT FOR LACK OF A VALID CAUSE OF ACTION AND IN HOLDING THE DEFENDANT MARZAN LIABLE FOR THE LOSS SUFFERED BY PLAINTIFF IN SPITE OF THE FACT THAT, LONG BEFORE THE FIRE OF JULY 26, 1990, WHICH GUTTED DEFENDANTâS WAREHOUSE, THE PLAINTIFFâS SHIPMENT HAS ALREADY BEEN DECLARED ABANDONED BY FINAL ORDER OF THE BUREAU OF CUSTOMS.
+II â THE TRIAL COURT ERRED IN AWARDING ATTORNEYâS FEE[S] OF P30,000.00.
+[22]
+ 
+ The petitioner asserted that the private respondent renounced its interests over the cargo by its continued failure and refusal, despite notice to it, to claim the cargo and pay the corresponding duties and taxes. It disclaimed liability on the following grounds: 
+ 
+That contrary to the plaintiffâs submission, it was not exempt from the payment of customs duties and taxes and hence, required to file entry within five (5) days from arrival of the shipment as provided for under 1801 of the Tariff and Customs Codeâ¦;
+The subject shipment was declared abandoned by the Bureau of Customs due to the failure of the plaintiff-consignee to claim the same within the 15-day reglementary period from the date of posting of the notice to claim as provided in Section 1801(b) of Republic Act No. 7651; and,
+The abandonment of the cargo was already declared final as of October 30, 1989 in the abandonment proceedings conducted by the Bureau of Customs, and, hence the plaintiffâs shipment 
+ipso facto
+ became the property of the government pursuant to Section 1802 of the same Act.
+It was only on January 6, 1992, that plaintiff filed the present complaint against the defendant or more than two years after the declaration of abandonment of subject shipment became final and executory.
+[23]
+ 
+ Anent the award of attorneyâs fees in favor of the private respondent, the petitioner averred that, as there was no finding of malice or bad faith in its refusal to pay the private respondent, there was no factual basis for the award.
+In its brief, the private respondent contended that, as found by the trial court, there was no valid and effective abandonment over the subject goods.  It was also pointed out that if the petitionerâs claim that the subject goods belonging to the private respondent had been declared abandoned cargo and the same had become government property, then the government, through the Bureau of Customs, should have intervened in the case, considering the private respondentâs vigorous stance in denying it had ever abandoned its goods. Despite the fact that the Bureau of Customs was clearly apprised of the case when the petitioner presented Atty. Doctor as its witness, there was no such attempt from the government to intervene and claim ownership over the cargo. The private respondent also pointed out that the petitionerâs refusal to satisfy a valid, just and demandable claim had compelled it to litigate and incur expenses to protect its interest. The petitionerâs refusal to satisfy the private respondentâs claim was in furtherance of an intention to unjustly enrich itself, and was evidence of the latterâs gross and evident bad faith.
+The Court of Appeals upheld the trial courtâs ruling in its Decision dated January 31, 1997.  The appellate court held that the District Collector of Customs failed to give due notice of the abandonment proceedings to the private respondent, and that the same constituted denial of due process of law.  Although notice of the declaration of abandonment was posted on the Bureau of Customs bulletin board, the same was insufficient; such notice would be proper only in cases where the owner or importer is unknown, pursuant to Section 2304 of the Tariff and Customs Code. The appellate court averred that the private respondent is duly registered with the Garment and Textile Export Board and with the Bureau of Customs as Garments Manufacturer and Exporter; as such, the Bureau of Customs knew or should have known the address of the private respondent and should have sent the required notice to it at said address.  For the Collector of Customsâ failure to duly notify the private respondent, the goods in question cannot be considered as impliedly abandoned cargo.
+The decretal portion of the decision of the Court of Appeals reads, thus: 
+ WHEREFORE, the appealed decision in Civil Case No. 61644 is hereby AFFIRMED by this Court, with costs against defendant-appellant.
+[24]
+ 
+ The petitioner assails the decision of the Court of Appeals contending that: 
+ 
+I
+The Court of Appeals erred in failing to consider the fact that the Regional Trial Court did not have jurisdiction over the central issue of the case.
+II
+The Court of Appeals erred in not dismissing the Respondentâs Complaint outright for lack of cause of action.
+[25]
+ 
+ The petitioner asserts that the private respondent had a cause of action against it for the value of the shipment only if the latter was still the owner of the shipment when it was gutted by fire on July 26, 1990.  The ultimate issues were as follows: whether the private respondent had impliedly abandoned the cargo and whether the declaration of abandonment made by the Chief of the Law Division of the Bureau of Customs in the abandonment proceedings had become final and executory.  However, according to the petitioner, the resolution of such issues is within the exclusive jurisdiction of the District Collector of Customs, and within the appellate jurisdiction of the Court of Tax Appeals.  Thus, the RTC had no jurisdiction to delve into and resolve the issue of whether or not the private respondent was duly served with a copy of the notice of the abandonment proceedings and to pass upon the validity of the abandonment proceedings itself.  The petitioner asserts that the Bureau of Customs has exclusive and original jurisdiction to hear and decide cases concerning the implementation of Customs Laws or any other law that the Bureau is charged to implement.  Even if there was a violation of due process in the seizure and forfeiture case, the Bureau retained jurisdiction over the same, to the exclusion of the regular courts.   According to the petitioner, it behooved the RTC to dismiss the complaint of the private respondent for lack of jurisdiction, without prejudice to the latterâs right to appeal the notice of abandonment to the Commissioner of Customs, and, from an adverse ruling of the Commissioner of Customs, to the Court of Tax Appeals.
+In its Comment, the private respondent avers that the petitioner raised for the first time only in this Court the issue of the trial courtâs jurisdiction, as well as the matter of its failure to appeal from the declaration of abandonment of the District Collector of Customs with the Commissioner of Customs.  The private respondent never raised the issue in its pleading in the RTC and in the CA.  Thus, the petitioner is barred by laches from raising such issue in this case.  The private respondent asserts that the petitionerâs motive is clearly to assail the factual findings of the trial court as affirmed by the CA and introduce new matters in the case.  According to the private respondent, this runs counter to established jurisprudence that the Supreme Court is not a trier of facts.
+The private respondent also asserts that the RTC did not pass upon the validity or invalidity of the administrative proceedings before the Collector of Customs, but merely applied the law, particularly the last sentence of   Sec. 1801 of the Tariff and Customs Code.  Contrary to the private respondentâs contention, the trial court had jurisdiction over its action. As admitted by the petitionerâs witness, Atty. Leonardo Doctor, the private respondent was not furnished a notice giving it fifteen days to file the appropriate import entry documents.  Hence, the private respondent was not deemed to have abandoned the cargo.  The private respondent also posits that considering that actions of the Collector of Customs are reviewable to the Court of Tax Appeals, which are, in turn, ultimately reviewable by the Court of Appeals, the latter court, to which the petitionerâs appeal had eventually found its way, would therefore be fully competent to pass upon the validity of the abandonment proceedings.  Furthermore, according to the private respondent, an appeal of the abandonment proceedings before the District Collector of Customs would be a futile exercise as the goods had already been burned and destroyed.  The private respondent further posits that if, indeed, the goods had been abandoned by the private respondent and became the property of the government, as averred by the petitioner, the Bureau of Customs should have intervened in the case, pursuant to Sec. 1, Rule 19 of the 1997 Rules of Civil Procedure.  The fact that the government did not intervene gives rise to doubts as to the petitionerâs claim that the subject goods had been declared abandoned by the Bureau of Customs and, thus, became the property of the government.  Finally, the private respondent argued, the Bureau of Customs lost jurisdiction over the cargo when it was gutted by fire before the sale at public auction.
+In its reply, the petitioner insists that the defense of lack of jurisdiction may be interposed at any time, during appeal or even after final judgment, conformably to the previous rulings of the Court.
+THE ISSUE
+The core issue raised by the petitioner for resolution in this case is whether or not the trial court had jurisdiction to review and declare ineffective the declaration of the District Collector of Customs in Abandonment Proceedings No. 288-89 that the subject shipment was abandoned cargo and that, thenceforth, the government 
+ipso facto
+ became the owner thereof.
+We uphold the contention of the petitioner.  Irrefragably, the RTC had jurisdiction over the nature of the private respondentâs action, which was one for the collection of the value of the cargo gutted by fire, while under the custody and control of the petitioner preparatory to its sale at public auction by the Bureau of Customs.  The jurisdiction of the court or other tribunal is determined by the relevant allegations of the complaint and the character of the relief sought, irrespective of whether or not the plaintiff is entitled to recover upon all or some of the claims accorded therein.  The jurisdiction of the trial court does not depend upon the defenses in the answer or in a motion to dismiss.
+[26]
+ However, the jurisdiction of the court or tribunal over the issues, as gleaned from the pleadings of the parties, is determined by the law which is determinative and decisive of said issue.
+As gleaned from the pleadings of the parties in the trial court, the core issue therein was whether or not the private respondent was the owner of the cargo when it was gutted by fire, as claimed by the private respondent, or owned by the government after it was declared by the District Collector of Customs as abandoned cargo, as claimed by the petitioner.  Indeed, the private respondent, in its pre-trial brief, listed this as one of the issues to be resolved by the Court, thus: 
+ â¦ 
+ 
+Whether or not at the time of the fire on July 26, 1990. plaintiffâs goods were already âabandoned goodsâ so that the plaintiff, at the time of the fire, was no longer the owner of said goods.â
+[27]
+ 
+ If the government owned the cargo before it was gutted by fire, then the private respondent had no cause of action against the petitioner.  But the resolution of the issue is riveted to and intertwined with the resolution of the issue of whether the RTC is vested with jurisdiction to review and nullify a declaration made by the District Collector of Customs that the shipment was abandoned cargo and, thus, ipso facto belonged to the government.  The resolution of both issues involved the application of Section 1801 and Section 1802 of the Tariff and Customs Code, which read: 
+ SEC. 1801.  
+Abandonment, Kinds and Effects of.
+ â Abandonment is expressed when it is made direct to the Collector by the interested party in writing, and is implied when, from the action or omission of the interested party to file the import entry within five (5) days or an extension thereof from the discharge of the vessel or aircraft, or having filed such entry, the interested party fails to claim his importation within five (5) days thereafter or within an extension of not more than five (5) days shall be deemed an implied abandonment.  An implied abandonment shall not be effective until the article shall be declared by the Collector to have been abandoned after notice thereof is given to the interested party as in seizure cases.
+Any person who abandons an article or who fails to claim his importation as provided for in the preceding paragraph shall be deemed to have renounced all his interests and property rights therein.
+SEC. 1802.  
+Abandonment of Imported Articles.
+- The owner or importer of any articles may, within ten days after filing of the import entry, abandon to the Government all or a part of the articles included in an invoice, and, thereupon, he shall be relieved from the payment of duties, taxes and all other charges and expenses due thereon:  Provided, That the portion so abandoned is not less than ten per cent of the total invoice and is not less than one package, except in cases of articles imported for personal or family use.  The articles so abandoned shall be delivered by the owner or importer at such place within the port of arrival as the Collector shall designate, and upon his failure to so comply, the owner or importer shall be liable for all expenses that may be incurred in connection with the disposition of the articles.
+â¦
+Nothing in this section shall be construed as relieving such owner or importer from any criminal liability which may arise from any violation of law committed in connection with the importation of the abandoned article. 
+ The resolution of the issue also calls for the application of Section 2601 of the said Code which provides that the property in customsâ custody, including abandoned articles, shall be subject to sale under the conditions provided therein.  Indeed, the trial court resolved the issues under Section 1801 of the Tariff and Customs Code and found the petitioner liable to the private respondent, under Section 1902
+[28]
+ of the said Code. 
+The trial court held ineffective the declaration made by the District Collector of Customs that the cargo was abandoned because the notice to the consignee as mandated by Section 1801 of the Code was not complied with.  Thus, according to the trial court, the private respondent owned the cargo and had a cause of action against the petitioner:
+lauren 
+In trying to avoid liability, RV Marzan admits that the plaintiff was the consignee of the cargo upon its arrival in the Philippines.  However, RV Marzan avers that at the time of the fire, the goods were already the property of the government.  Before the fire, RV Marzan received the cargo from the Bureau of Customs pursuant to a Memorandum Order declaring it as âabandoned cargo.â  This Memorandum Order which is in accordance with Sec. 1801 of the Tariff and Customs Code, provides as follows:
+â¦
+An examination of the records reveal that the subject shipment was subsequently declared abandoned by the Bureau of Customs as âabandoned cargoâ for the plaintiffâs failure to file the import entry.
+This declaration is found by the Court to be ineffective.  Under the law, notice of the proceedings of abandonment was not given to the consignee or the plaintiff herein or his agent.  The consignee in this case being known, should have been notified of the abandonment of his property in favor of the government and that he should have been given a chance at a public hearing to present evidence and to be heard with respect to the cargo subject of  abandonment.  This is part of due process.
+[29]
+ 
+ Evidently, the resolution of the foregoing issues is within the exclusive competence of the District Collector of Customs, the Commissioner of Customs and within the appellate jurisdiction of the Court of Tax Appeals.  Indeed, in 
+Alemarâs, Inc. v. Court of Appeals
+,
+[30]
+ we held that: 
+ Petitioner primarily seeks the annulment of the act of the Collector of Customs declaring the subject importation abandoned and ordering it sold at public auction, claiming that the abandonment proceeding held by the Collector of Customs was irregular since the latter did not give notice to petitioner of the abandonment before declaring the importation abandoned.
+Consequently, the case falls within the jurisdiction of the Commissioner of Customs and the Court of Tax Appeals vis-Ã -vis the averments in the amended petition, not with the regional trial court. 
+ In 
+Jao v. Court of Appeals
+,
+[31]
+ we held that the RTC is devoid of any competence to pass upon the validity or regularity of seizure and forfeiture proceedings conducted by the Bureau of Customs, and to enjoin or otherwise interfere with the said proceedings even if the seizure was illegal.  Such act does not deprive the Bureau of Customs of jurisdiction thereon.  Thus, we held: 
+ There is no question that Regional Trial Courts are devoid of any competence to pass upon the validity or regularity of seizure and forfeiture proceedings conducted by the Bureau of Customs and to enjoin or otherwise interfere with these proceedings.  The Collector of Customs sitting in seizure and forfeiture proceedings has 
+exclusive jurisdiction
+ to hear and determine all questions touching on the seizure and forfeiture of dutiable goods.  The Regional Trial Courts are precluded from assuming cognizance over such matters even through petitions of certiorari, prohibition or mandamus.
+It is likewise well-settled that the provisions of the Tariff and Customs Code and that of Republic Act No. 1125, as amended, otherwise known as âAn Act Creating the Court of Tax Appeals,â specify the proper fora and procedure for the ventilation of any legal objections or issues raised concerning these proceedings.  Thus, actions of the Collector of Customs are appealable to the Commissioner of Customs, whose decision, in turn, is subject to the exclusive appellate jurisdiction of the Court of Tax Appeals and from there to the Court of Appeals.
+The rule that Regional Trial Courts have no review powers over such proceedings is anchored upon the policy of placing no unnecessary hindrance on the governmentâs drive, not only to prevent smuggling and other frauds upon Customs, but more importantly, to render effective and efficient the collection of import and export duties due the State, which enables the government to carry out the functions it has been instituted to perform.
+Even if the seizure by the Collector of Customs were illegal, which has yet to be proven, we have said that such act does not deprive the Bureau of Customs of jurisdiction thereon. 
+ âRespondents assert that respondent Judge could entertain the replevin suit as the seizure is illegal, allegedly because the warrant issued is invalid and the seizing officer likewise was devoid of authority.  This is to lose sight of the distinction between the existence of the power and the regularity of the proceeding taken under it. The governmental agency concerned, the Bureau of Customs, is vested with exclusive authority.  Even if it be assumed that in the exercise of such exclusive competence a taint of illegality may be correctly imputed, the most that can be said is that under certain circumstances the grave abuse of discretion conferred may oust it of such jurisdiction.  It does not mean, however, that correspondingly a court of first instance is vested with competence when clearly in the light of the decisions the law has not seen fit to do so.â 
+ The allegations of petitioners regarding the propriety of the seizure should properly be ventilated before the Collector of Customs.  We have had occasion to declare: 
+ âThe Collector of Customs when sitting in forfeiture proceedings constitutes a tribunal expressly vested by law with jurisdiction to hear and determine the subject matter of such proceedings without any interference from the Court of First Instance (Auyong Hian v. Court of Tax Appeals, et al., 19 SCRA 10). The Collector of Customs of Sual-Dagupan in Seizure Identification No. 14-F-72 constituted itself as a tribunal to hear and determine among other things, the question of whether or not the M/V Lucky Star I was seized within the territorial waters of the Philippines.  If the private respondents believe that the seizure was made outside the territorial jurisdiction of the Philippines, it should raise the same as a defense before the Collector of Customs and if not satisfied, follow the correct appellate procedures.  A separate action before the Court of First Instance is not the remedy.â 
+ The trial court was incompetent to pass upon and nullify (1) the seizure of the cargo in the abandonment proceedings, and (2) the declaration made by the District Collector of Customs that the cargo was abandoned and 
+ipso facto
+ owned by the government.  It, likewise, had no jurisdiction to resolve the issue of whether or not the private respondent was the owner of the cargo before it was gutted by fire.  The trial court should have rendered judgment dismissing the complaint, without prejudice to the right of the private respondent to ventilate the issue before the Commissioner of Customs and/or to the Court of Tax Appeals as provided for in the Tariff and Customs Code.
+The District Collector of Customs did not lose jurisdiction over the abandonment proceedings.  The loss of the cargo did not extinguish his incipient jurisdiction in the said proceedings, nor render 
+functus officio
+ her declaration that the subject shipment had been abandoned.
+The private respondent cannot argue that if its complaint against the petitioner is dismissed, the latter would be enriching itself at the expense of the private respondent.  In point of fact, the petitioner is liable to the government for the duties and taxes due for the imported cargo under Section 1902 of the Tariff and Customs Code, which reads: 
+ SEC. 1902.  
+Responsibility of Operators.
+ â The operators of bonded warehouse in case of loss of the imported articles stored shall be liable for the payment of duties and taxes due thereon.
+The government assumes no legal responsibility in (sic) respect to the safekeeping of articles stored in any customs warehouses, sheds, yards or premises. 
+ Neither may the private respondent invoke estoppel, because the parties, in their pleadings in the trial court and in the Court of Appeals, raised the same issues for resolution.
+It must be stressed that the cargo arrived in the Philippines on April 12, 1989.  The private respondent failed to accomplish the required import entry declarations, pay the requisite taxes and duties, if any, and take delivery of the cargo.  It was only after the lapse of more than two years, or on December 21, 1991, that the private respondent filed its complaint against the petitioner in the RTC.  By then, the cargo had been gutted by fire.  The private respondent has not made any valid justification for its silence thereon and its inaction.  In can be said then that the private respondent went to court with unclean hands.
+The refusal of the Bureau of Customs to intervene in the trial court does not, in any way, fortify the private respondentâs claim that it is the owner of the cargo.  The government had no legal obligation to intervene in the trial court considering that the latter had no jurisdiction over the complaint.  It was enough that then Bureau of Customs Law Division Chief Atty. Doctor testified that the cargo was duly declared by the District Collector of Customs as abandoned property, that the said declaration had become final, and that the government became
+ ipso facto
+ the owner of the cargo.  The government had every right to expect that the trial court would dismiss the complaint for lack of jurisdiction over the issue raised therein.
+IN THE LIGHT OF THE FOREGOING
+, the petition is 
+GRANTED
+.  The Decisions of the RTC and of the Court of Appeals are 
+SET ASIDE
+ and 
+REVERSED
+.  The RTC is 
+ORDERED
+ to dismiss the complaint of the private respondent against the petitioner, as well as the counterclaim of the latter against the private respondent.
+SO ORDERED.
+Quisumbing, (Acting Chairman), Austria-Martinez,
+ and 
+Tinga, JJ.,
+ concur. 
+Puno, (Chairman), J.,
+ on leave.
+ 
+[1]
+ Penned by Associate Justice Lourdes K. Tayao-Jaguros with Associate Justices Emeterio C. Cui and Romeo A. Brawner concurring.
+[2]
+ Penned by Judge Ramon R. Buenaventura.
+[3]
+ Annex âAâ and Annex âB,â Records, pp. 31-32.
+[4]
+ Exhibit âB,â 
+Id.
+ at 121.
+[5]
+ Exhibit âB-1,â 
+Id.
+[6]
+ Exhibit â1,â 
+Id.
+ at 142.
+[7]
+ Under Section 1301 of the Tariff and Customs Code imported vehicles not entered in the customhouse at the point of entry within 30 days, the declaration of import entry required in Section 1304 of the Tariff and Customs Code should be signed by the importer, consignee, or holder of the bill by or for whom the entry is effected as provided for in Section 1305 of said Code.
+[8]
+ Exhibit â4,â Records, p. 146.
+[9]
+ Exhibit â2,â Id. at 143.
+[10]
+ Exhibit â1,â 
+supra.
+[11]
+ 
+Id.
+[12]
+ Exhibit â5,â Records, p. 147.
+[13]
+ Exhibit â1â 
+Id.
+ at 154-155.
+[14]
+ Records, p. 4.
+[15]
+ Records, p. 22.
+[16]
+ 
+Id.
+ at 24-30.
+[17]
+ Order of July 1, 1992, 
+Id.
+ at 54.
+[18]
+ Records, pp. 58-65.
+[19]
+ Exhibit â2,â 
+Id.
+ at 156.
+[20]
+ Records, pp. 75-76.
+[21]
+ CA 
+Rollo
+, p. 43.
+[22]
+ CA 
+Rollo
+, pp. 23-24
+[23]
+ 
+Id.
+ at 29-30.
+[24]
+ 
+Rollo
+, p. 38.
+[25]
+ 
+Id.
+ at 16.
+[26]
+ 
+Alemarâs, Inc. v. Court of Appeals
+, 350 SCRA 333 (2001).
+[27]
+ Records, pp. 75-76.
+[28]
+ SEC. 1902.  
+Responsibility of Operators.
+ â The operators of bonded warehouse in case of loss of the imported articles stored shall be liable for the payment of duties and taxes due thereon.
+The government assumes no legal responsibility in respect to the safekeeping of articles stored in any customs warehouses, sheds, yards or premises.
+[29]
+ Records, pp. 221-222.
+[30]
+ 
+Supra.
+[31]
+ 249 SCRA 35 (1995). 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

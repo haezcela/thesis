@@ -1,0 +1,1041 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			476 Phil. 294
+			
+
+
+
+
+EN BANC
+
+
+[ G.R. No. 163193, June 15, 2004 ]
+
+
+SIXTO S. BRILLANTES, JR. PETITIONER, VS. JOSE CONCEPCION, JR., JOSE DE VENECIA, EDGARDO J. ANGARA, DR. JAIME Z. GALVEZ, TAN, FRANKLIN M. DRILON, FRISCO SAN JUAN, NORBERTO M. GONZALES, HONESTO M. ISLETA, AND JOSE A. BERNAS, PETITIONERS-IN-INTERVENTION, VS. COMMISSION ON ELECTIONS, RESPONDENT.
+D E C I S I O N
+
+
+
+
+CALLEJO, SR., J.:
+
+
+Before us is the petition for certiorari and prohibition under Rule 65 of the Rules of Court filed by Atty. Sixto S. Brillantes, Jr., a voter and taxpayer, seeking to nullify, for having been issued with grave abuse of discretion amounting to lack or excess of jurisdiction, Resolution No. 6712 dated April 28, 2004 approved by the Commission on Elections (COMELEC) 
+En Banc 
+captioned GENERAL INSTRUCTIONS FOR THE ELECTRONIC TRANSMISSION AND CONSOLIDATION OF ADVANCED RESULTS IN THE MAY 10, 2004 ELECTIONS.
+[1]
+ The petitioner, likewise, prays for the issuance of a temporary restraining order and, after due proceedings, a writ of prohibition to permanently enjoin the respondent COMELEC from enforcing and implementing the questioned resolution.
+After due deliberation, the Court resolved to require the respondent to comment on the petition and to require the parties to observe the status quo prevailing before the issuance by the COMELEC of the assailed resolution. The parties were heard on oral arguments on May 8, 2004. The respondent COMELEC was allowed during the hearing to make a presentation of the Electronic Transmission, Consolidation and Dissemination (PHASE III) program of the COMELEC, through Mr. Renato V. Lim of the Philippine Multi-Media System, Inc. (PMSI).
+The Court, thereafter, resolved to maintain the 
+status quo
+ order issued on May 6, 2004 and expanded it to cover any and all other issuances related to the implementation of the so-called election quick count project. In compliance with the resolution of the Court, the respondent, the petitioner and the petitioners-in-intervention submitted the documents required of them.
+The Antecedents
+On December 22, 1997, Congress enacted Republic Act No. 8436
+[2]
+ authorizing the COMELEC to use an automated election system (AES) for the process of voting, counting of votes and canvassing/consolidating the results of the national and local elections. It also mandated the COMELEC to acquire automated counting machines (ACMs), computer equipment, devices and materials; and to adopt new electoral forms and printing materials.
+The COMELEC initially intended to implement the automation during the May 11, 1998 presidential elections, particularly in the Autonomous Region in Muslim Mindanao (ARMM). The failure of the machines to read correctly some automated ballots, however, deferred its implementation.
+[3]
+In the May 2001 elections, the counting and canvassing of votes for both national and local positions were also done manually, as no additional ACMs had been acquired for that electoral exercise because of time constraints.
+On October 29, 2002, the COMELEC adopted, in its Resolution No. 02-0170, a modernization program for the 2004 elections consisting of three (3) phases, to wit:
+(1) PHASE I â Computerized system of registration and voters validation or the so-called âbiometricsâ system of registration;
+(2) PHASE II â Computerized voting and counting of votes; and
+(3) PHASE III â Electronic transmission of results.
+It resolved to conduct biddings for the three phases.
+On January 24, 2003, President Gloria Macapagal-Arroyo issued Executive Order No. 172,
+[4]
+ which allocated the sum of P2,500,000,000 to exclusively fund the AES in time for the May 10, 2004 elections.
+On January 28, 2003, the COMELEC issued an Invitation to Bid
+[5]
+ for the procurement of supplies, equipment, materials and services needed for the complete implementation of all three phases of the AES with an approved budget of P2,500,000,000.
+On February 10, 2003, upon the request of the COMELEC, President Gloria Macapagal-Arroyo issued Executive Order No. 175,
+[6]
+ authorizing the release of a supplemental P500 million budget for the AES project of the COMELEC. The said issuance, likewise, instructed the Department of Budget and Management (DBM) to ensure that the aforementioned additional amount be used exclusively for the AES prescribed under Rep. Act No. 8436, particularly âthe process of voting, counting of votes and canvassing/consolidation of results of the national and local elections.â
+[7]
+On April 15, 2003, the COMELEC promulgated Resolution No. 6074 awarding the contract for Phase II of the AES to Mega Pacific Consortium and correspondingly entered into a contract with the latter to implement the project. 
+On the same day,
+ the COMELEC entered into a separate contract with Philippine Multi-Media System, Inc. (PMSI) denominated âELECTRONIC TRANSMISSION, CONSOLIDATION & DISSEMINATION OF ELECTION RESULTS PROJECT CONTRACT.
+[8]
+ The contract, by its very terms, pertains to Phase III of the respondent    COMELECâs AES modernization program. It    was predicated on a previous bid award of the contract, for the lease of 1,900 units of satellite-based Very Small Aperture Terminals (VSAT) each unit consisting of an indoor and outdoor equipment, to PMSI for possessing the legal, financial and technical expertise necessary to meet the projectâs objectives. The COMELEC bound and obliged itself to pay PMSI the sum of P298,375,808.90 as rentals for the leased equipment and for its services.
+In the meantime, the Information Technology Foundation of the Philippines (ITFP), filed a petition for certiorari and prohibition in this Court for the nullification of Resolution No. 6074 approving the contract for Phase II of AES to Mega Pacific Consortium, entitled and docketed as 
+Information Technology Foundation of the Philippines, et al. vs. COMELEC, et al.,
+ G.R. No. 159139.  While the case was pending in this Court, the COMELEC paid the contract fee to the PMSI in trenches.
+On January 13, 2004, this Court promulgated its Decision nullifying COMELEC Resolution No. 6074 awarding the contract for Phase II of the AES to Mega Pacific Consortium. Also voided was the subsequent contract entered into by the respondent COMELEC with Mega Pacific Consortium for the purchase of computerized voting/counting machines for the purpose of implementing the second phase of the modernization program. Phase II of the AES was, therefore, scrapped based on the said Decision of the Court and the COMELEC had to maintain the old manual voting and counting system for the May 10, 2004 elections.
+On the other hand, the validation scheme under Phase I of the AES apparently encountered problems in its implementation, as evinced by the COMELECâs pronouncements prior to the elections that it was reverting to the old listing of voters. Despite the scrapping of Phase II of the AES, the COMELEC nevertheless ventured to implement Phase III of the AES through an electronic transmission of advanced âunofficialâ results of the 2004 elections for national, provincial and municipal positions, also dubbed as an âunofficial quick count.â
+Senate President Franklin Drilon had misgivings and misapprehensions about the constitutionality of the proposed electronic transmission of results for the positions of President and Vice-President, and apprised COMELEC Chairman Benjamin Abalos of his position during their meeting on January 28, 2004. He also wrote Chairman Abalos on February 2, 2004. The letter reads:
+Dear Chairman Abalos,
+This is to confirm my opinion which I relayed to you during our meeting on January 28th that the Commission on Elections cannot and should not conduct a âquick countâ on the results of the elections for the positions of President and Vice-President.
+Under Section 4 of Article VII of the Constitution, it is the Congress that has the sole and exclusive authority to canvass the votes for President and Vice-President. Thus, any quick count to be conducted by the Commission on said positions would in effect constitute a canvass of the votes of the President and Vice-President, which not only would be pre-emptive of the authority of the Congress, but also would be lacking of any Constitutional authority. You conceded the validity of the position we have taken on this point.
+In view of the foregoing, we asked the COMELEC during that meeting to reconsider its plan to include the votes for President and Vice-President in the âquick countâ, to which you graciously consented. Thank you very much.
+[9]
+The COMELEC approved a Resolution on February 10, 2004 referring the letter of the Senate President to the members of the COMELEC and its Law Department for study and recommendation. Aside from the concerns of the Senate President, the COMELEC had to contend with the primal problem of sourcing the money for the implementation of the project since the money allocated by the Office of the President for the AES had already been spent for the acquisition of the equipment. All these developments notwithstanding, and despite the explicit specification in the project contract for Phase III that the same was functionally intended to be an interface of Phases I and II of the AES modernization program, the COMELEC was determined to carry out Phase III of the AES. On April 6, 2004, the COMELEC, in coordination with the project contractor PMSI, conducted a field test of the electronic transmission of election results.
+On April 27, 2004, the COMELEC met en banc to update itself on and resolve whether to proceed with its implementation of Phase III of the AES.
+[10]
+ During the said meeting, COMELEC Commissioner Florentino Tuason, Jr. requested his fellow Commissioners that 
+âwhatever is said here should be confined within the four walls of this room and the minutes so that 
+walang masyadong problema
+.
+[11]
+ Commissioner Tuason, Jr. stated that he had no objection as to the Phase III of the modernization project itself, but had concerns about the budget. He opined that other funds of the COMELEC may not be proper for realignment. Commissioners Resurreccion Z. Borra and Virgilio Garcillano also expressed their concerns on the budget for the project. Commissioner Manuel Barcelona, Jr. shared the sentiments of Commissioners Garcillano and Tuason, Jr. regarding personnel and budgetary problems. Commissioner Sadain then manifested that the consideration for the contract for Phase III had already been almost fully paid even before the Courtâs nullification of the contract for Phase II of the AES, but he was open to the possibility of the realignment of funds of the COMELEC for the funding of the project. He added that if the implementation of Phase III would not be allowed to continue just because Phase II was nullified, then it would be P300,000,000 down the drain, in addition to the already allocated disbursement on Phase II of the AES.
+[12]
+ Other concerns of the Commissioners were on the legality of the project considering the scrapping of Phase II of the AES, as well as the operational constraints related to its implementation.
+Despite the dire and serious reservations of most of its members, the COMELEC, the next day, April 28, 2004, barely two weeks before the national and local elections, approved the assailed resolution declaring that it âadopts the policy that the precinct election results of each city and municipality shall be immediately transmitted electronically in advance to the COMELEC, Manila.â
+[13]
+ For the purpose, respondent COMELEC established a National Consolidation Center (NCC), Electronic Transmission Centers (ETCs) for every city and municipality, and a special ETC at the COMELEC, Manila, for the Overseas Absentee Voting.
+[14]
+Briefly, the procedure for this electronic transmission of precinct results is outlined as follows:
+ The NCC shall receive and consolidate all precinct results based on the data transmitted to it by each ETC;
+[15]
+ Each city and municipality shall have an ETC âwhere votes obtained by each candidate for all positions shall be encoded, and shall consequently be transmitted electronically to the NCC, through Very Small Aperture Terminal (VSAT) facilities.â
+[16]
+ For this purpose, personal computers shall be allocated for all cities and municipalities at the rate of one set for every one hundred seventy-five (175) precincts;
+[17]
+ A Department of Education (DepEd) Supervisor shall be designated in the area who will be assigned in each polling center for the purpose of gathering from all Board of Election Inspectors (BEI) therein the envelopes containing the Copy 3 of the Election Returns (ER) for national positions and Copy 2 of the ER for local positions, both intended for the COMELEC, which shall be used as basis for the encoding and transmission of advanced precinct results.
+[18]
+The assailed resolution further provides that written notices of the date, time and place of the electronic transmission of advanced precinct results shall be given not later than May 5, 2004 to candidates running for local positions, and not later than May 7, 2004 to candidates running for national positions, as well as to political parties fielding candidates, and parties, organizations/coalitions participating under the party-list system.
+[19]
+In relation to this, Section 13 of the assailed resolution provides that the 
+encoding proceedings were ministerial and the tabulations were âadvanced unofficial results.â
+ The entirety of Section 13, reads:
+Sec. 13. 
+Right to observe the ETC proceedings.
+ â Every registered political party or coalition of parties, accredited political party, sectoral party/organization or coalition thereof under the party-list, through its representative, and every candidate for national positions has the 
+right to observe/witness the encoding and electronic transmission
+ of the ERs within the authorized perimeter.
+Provided, That candidates for the 
+sangguniang panlalawigan, sangguniang panglungsod or sangguniang bayan
+ belonging to the same slate or ticket shall collectively be entitled to only one common observer at the ETC.
+The citizensâ arm of the Commission, and civic, religious, professional, business, service, youth and other similar organizations collectively, with prior authority of the Commission, shall each be entitled to one (1) observer. Such fact shall be recorded in the Minutes.
+The observer shall have the right to observe, take note of and make    observations on the proceedings of the team. Observations shall be in writing and, when submitted, shall be attached to the Minutes.
+The encoding proceedings being ministerial in nature, and the tabulations being 
+advanced unofficial results,
+ no objections or protests shall be allowed or entertained by the ETC.
+In keeping with the âunofficialâ character of the electronically transmitted precinct results, the assailed resolution expressly provides that âno print-outs shall be released at the ETC and at the NCC.â
+[20]
+ Instead, consolidated and per-precinct results shall be made available via the Internet, text messaging, and electronic billboards in designated locations. Interested parties may print the result published in the COMELEC web site.
+[21]
+When apprised of the said resolution, the National Citizens Movement for Free Elections (NAMFREL), and the heads of the major political parties, namely, Senator Edgardo J. Angara of the 
+Laban ng Demokratikong Pilipino
+ (LDP) and Chairman of the 
+Koalisyon ng mga Nagkakaisang Pilipino
+ (KNP) Executive Committee, Dr. Jaime Z. Galvez Tan of the 
+Aksyon Demokratiko,
+ Frisco San Juan of the Nationalist Peopleâs Coalition (NPC), Gen. Honesto M. Isleta of Bangon Pilipinas, Senate President Franklin Drilon of the Liberal Party, and Speaker Jose de Venecia of the Lakas-Christian Muslim Democrats (CMD) and Norberto M. Gonzales of the 
+Partido Demokratiko Sosyalista ng Pilipinas,
+ wrote the COMELEC, on May 3, 2004 detailing their concerns about the assailed resolution:
+This refers to COMELEC Resolution 6712 promulgated on 28 April 2004.
+NAMFREL and political parties have the following concerns about Resolution 6712 which arose during consultation over the past week[:]
+a) The Resolution disregards RA 8173, 8436, and 7166 which authorize only the citizenâs arm to use an election return for an unofficial count; other unofficial counts may not be based on an election return; Indeed, it may be fairly inferred from the law that except for the copy of the citizenâs arm, election returns may only be used for canvassing or for receiving dispute resolutions.
+b) The Commissionâs copy, the second or third copy of the election return, as the case may be, has always been intended to be an archived copy and its integrity preserved until required by the Commission to resolve election disputes. Only the Board of Election Inspectors is authorized to have been in contact with the return before the Commission unseals it.
+c) The instruction contained in Resolution 6712, to break the seal of the envelope containing copies Nos. 2 and 3 will introduce a break in the chain of custody prior to its opening by the Commission on Election[s]. In the process of prematurely breaking the seal of the Board of Election Inspectors, the integrity of the Commissionâs copy is breached, thereby rendering it void of any probative value.
+To us, it does appear that the use of election returns as prescribed in Resolution 6712 departs from the letters and spirit of the law, as well as previous practice. More importantly, questions of legalities aside, the conduct of an advanced count by the COMELEC may affect the credibility of the elections because it will differ from the results obtained from canvassing. Needless to say, it does not help either that Resolution 6712 was promulgated only recently, and perceivably, on the eve of the elections.
+In view of the foregoing, we respectfully request the Commission to reconsider Resolution 6712 which authorizes the use of election returns for the consolidation of the election results for the May 10, 2004 elections.
+[22]
+The Present Petition
+On May 4, 2004, the petition at bar was filed in this Court.
+Jose Concepcion, Jr., Jose De Venecia, Edgardo J. Angara, Dr. Jaime Z. Galvez-Tan, Franklin M. Drilon, Frisco San Juan, Norberto M. Gonzales, Honesto M. Isleta and Jose A. Bernas, filed with this Court their Motion to Admit Attached Petition-in-Intervention. In their petition-in-intervention, movants-petitioners urge the Court to declare as null and void the assailed resolution and permanently enjoin the respondent COMELEC from implementing the same. The Court granted the motion of the petitioners-in-intervention and admitted their petition.
+In assailing the validity of the questioned resolution, the petitioner avers in his petition that there is no provision under Rep. Act No. 8436 which authorizes the COMELEC to engage in the biometrics/computerized system of validation of voters (Phase I) and a system of electronic transmission of election results (Phase III). Even assuming for the nonce that all the three (3) phases are duly authorized, they must complement each other as they are not distinct and separate programs but mere stages of one whole scheme. Consequently, considering the failed implementation of Phases I and II, there is no basis at all for the respondent COMELEC to still push through and pursue with Phase III. The petitioner essentially posits that the counting and consolidation of votes contemplated under Section 6 of Rep. Act No. 8436 refers to the 
+official COMELEC count
+ under the fully automated system and not any kind of 
+âunofficialâ count via electronic transmission of advanced results
+ as now provided under the assailed resolution.
+The petitioners-in-intervention point to several constitutional infractions occasioned by the assailed resolution. They advance the view that the assailed resolution effectively preempts the sole and exclusive authority of Congress under Article VII, Section 4 of the Constitution to canvass the votes for President and Vice-President. Further, as there has been no appropriation by Congress for the respondent COMELEC to conduct an âunofficialâ electronic transmission of results of the May 10, 2004 elections, any expenditure for the said purpose contravenes Article VI, Section 29 (par. 1) of the Constitution.
+On statutory grounds, the petitioner and petitioners-in-intervention contend that the assailed resolution encroaches upon the authority of NAMFREL, as the citizensâ accredited arm, to conduct the âunofficialâ quick count as provided under pertinent election laws. It is, likewise, impugned for violating Section 52(i) of the Omnibus Election Code, relating to the requirement of notice to the political parties and candidates of the adoption of technological and electronic devices during the elections.
+For its part, the COMELEC preliminarily assails the jurisdiction of this Court to pass upon the assailed resolutionâs validity claiming that it was promulgated in the exercise of the respondent COMELECâs executive or administrative power. It asserts that the present controversy involves a âpolitical question;â hence, beyond the ambit of judicial review. It, likewise, impugns the standing of the petitioner to file the present petition, as he has not alleged any injury which he would or may suffer as a result of the implementation of the assailed resolution.
+On the merits, the respondent COMELEC denies that the assailed resolution was promulgated pursuant to Rep. Act No. 8436, and that it is the implementation of Phase III of its modernization program. Rather, as its bases, the respondent COMELEC invokes the general grant to it of the power to enforce and administer all laws relative to the conduct of elections and to promulgate rules and regulations to ensure free, orderly and honest elections by the Constitution, the Omnibus Election Code, and Rep. Acts Nos. 6646 and 7166. The COMELEC avers that granting arguendo that the assailed resolution is related to or connected with Phase III of the modernization program, no specific law is violated by its implementation. It posits that Phases I, II and III are mutually exclusive schemes such that, even if the first two phases have been scrapped, the latter phase may still proceed independently of and separately from the others. It further argues that there is statutory basis for it to conduct an âunofficialâ quick count. Among others, it invokes the general grant to it of the power âto ensure free, orderly, honest, peaceful and credible elections.â Finally, it claims that it had complied with Section 52(i) of the Omnibus Election Code, as the political parties and all the candidates of the 2004 elections were sufficiently notified of the electronic transmission of advanced election results.
+The COMELEC trivializes as âpurely speculativeâ these constitutional concerns raised by the petitioners-in-intervention and the Senate President. It maintains that what is contemplated in the assailed resolution is not a canvass of the votes but merely consolidation and transmittal thereof. As such, it cannot be made the basis for the proclamation of any winning candidate. Emphasizing that the project is âunofficialâ in nature, the COMELEC opines that it cannot, therefore, be considered as preempting or usurping the exclusive power of Congress to canvass the votes for President and Vice-President.
+The Issues
+At the said hearing on May 8, 2004, the Court set forth the issues for resolution as follows:
+ Whether the petitioner and the petitioners-intervenors have standing to sue;
+ Assuming that they have standing, whether the issues they raise are political in nature over which the Court has no jurisdiction;
+ Assuming the issues are not political, whether Resolution No. 6712 is void:
+(a)
+for preempting the sole and exclusive authority of Congress under Art. VII, Sec. 4 of the 1987 Constitution to canvass the votes for the election of President and Vice-President;
+ 
+(b)
+for violating Art. VI, Sec. 29 (par. 1) of the 1987 Constitution that âno money shall be paid out of the treasury except in pursuance of an appropriation made by law;â
+ 
+(c)
+for disregarding Rep. Acts Nos. 8173, 8436 and 7166 which authorize only the citizensâ arm to use an election return for an âunofficialâ count;
+ 
+(d)
+for violation of Sec. 52(i) of the Omnibus Election Code, requiring not less than thirty (30) days notice of the use of new technological and electronic devices; and,
+ 
+(e)
+for lack of constitutional or statutory basis; and,
+ Whether the implementation of Resolution No. 6712 would cause trending, confusion and chaos.
+The Ruling of the Court
+The issues, as earlier defined, shall now be resolved in seriatim:
+The Petitioners And Petitioners-In-
+Intervention Possess The Locus
+Standi To Maintain The Present
+Action
+The gist of the question of standing is whether a party has "alleged such a personal stake in the outcome of the controversy as to assure that concrete adverseness which sharpens the presentation of issues upon which the court so largely depends for illumination of difficult constitutional questions.
+[23]
+ Since the implementation of the assailed resolution obviously involves the expenditure of funds, the petitioner and the petitioners-in-intervention, as taxpayers, possess the requisite standing to question its validity as they have sufficient interest in preventing the illegal expenditure of money raised by taxation.
+[24]
+ In essence, taxpayers are allowed to sue where there is a claim of illegal disbursement of public funds, or that public money is being deflected to any improper purpose, or where the petitioners seek to restrain the respondent from wasting public funds through the enforcement of an invalid or unconstitutional law.
+[25]
+Most of the petitioners-in-intervention are also representatives of major political parties that have participated in the May 10, 2004 elections. On the other hand, petitioners-in-intervention Concepcion and Bernas represent the National Citizens Movement for Free Elections (NAMFREL), which is the citizensâ arm authorized to conduct an âunofficialâ quick count during the said elections. They have sufficient, direct and personal interest in the manner by which the respondent COMELEC would conduct the elections, including the counting and canvassing of the votes cast therein.
+Moreover, the petitioners-in-intervention Drilon and De Venecia are, respectively, President of the Senate and Speaker of the House of Representatives, the heads of Congress which is exclusively authorized by the Constitution to canvass the votes for President and Vice-President. They have the requisite standing to prevent the usurpation of the constitutional prerogative of Congress.
+The Issue Raised By The
+Petition Is Justiciable
+Article VIII, Section 1 of the 1987 Constitution expands the concept of judicial review by providing that:
+SEC. 1. The judicial power shall be vested in one Supreme Court and in such lower courts as may be established by law.
+Judicial power includes the duty of the courts of justice to settle actual controversies involving rights which are legally demandable and enforceable, and 
+to determine whether or not there has been grave abuse of discretion amounting to lack or excess of jurisdiction on the part of any branch or instrumentality of the Government.
+The Court does not agree with the posture of the respondent COMELEC that the issue involved in the present petition is a political question beyond the jurisdiction of this Court to review. As the leading case of 
+TaÃ±ada vs. Cuenco
+[26]
+ put it, political questions are concerned with âissues dependent upon the 
+wisdom
+, not 
+legality
+ of a particular measure.â
+The issue raised in the present petition does not merely concern the wisdom of the assailed resolution but focuses on its alleged disregard for applicable statutory and constitutional provisions. In other words, that the petitioner and the petitioners-in-intervention are questioning the legality of the respondent COMELECâs administrative issuance will not preclude this Court from exercising its power of judicial review to determine whether or not there was grave abuse of discretion amounting to lack or excess of jurisdiction on the part of the respondent COMELEC in issuing Resolution No. 6712. Indeed, administrative issuances must not override, supplant or modify the law, but must remain consistent with the law they intend to carry out.
+[27]
+ When the grant of power is qualified, conditional or subject to limitations, the issue of whether the prescribed qualifications or conditions have been met or the limitations respected, is justiciable â the problem being one of legality or validity, not its wisdom.
+[28]
+ In the present petition, the Court must pass upon the petitionerâs contention that Resolution No. 6712 does not have adequate statutory or constitutional basis.
+Although not raised during the oral arguments, another procedural issue that has to be addressed is whether the substantive issues had been rendered moot and academic. Indeed, the May 10, 2004 elections have come and gone. Except for the President and Vice-President, the newly- elected national and local officials have been proclaimed. Nonetheless, the Court finds it necessary to resolve the merits of the substantive issues for future guidance of both the bench and bar.
+[29]
+ Further, it is settled rule that courts will decide a question otherwise moot and academic if it is âcapable of repetition, yet evading review.â
+[30]
+The Respondent COMELEC
+Committed Grave Abuse Of
+Discretion Amounting To Lack Or
+Excess Of Jurisdiction In Issuing
+Resolution No. 6712
+The preliminary issues having been thus resolved, the Court shall proceed to determine whether the respondent COMELEC committed grave abuse of discretion amounting to lack or excess of jurisdiction in promulgating the assailed resolution.
+The Court rules in the 
+affirmative.
+An administrative body or tribunal acts without jurisdiction if it does not have the legal power to determine the matter before it; there is excess of jurisdiction where the respondent, being clothed with the power to determine the matter, oversteps its authority as determined by law.
+[31]
+ There is grave abuse of discretion justifying the issuance of the writ of certiorari when there is a capricious and whimsical exercise of his judgment as is equivalent to lack of jurisdiction.
+[32]
+First.
+ The assailed resolution usurps, under the guise of an âunofficialâ tabulation of election results based on a copy of the election returns, the sole and exclusive authority of Congress to canvass the votes for the election of President and Vice-President. Article VII, Section 4 of the Constitution provides in part:
+The returns of every election for President and Vice-President duly certified by the board of canvassers of each province or city, shall be transmitted to the Congress, directed to the President of the Senate. Upon receipt of the certificates of canvass, the President of the Senate shall, not later than thirty days after the day of the election, open all the certificates in the presence of the Senate and the House of Representatives in joint public session, and the Congress, upon determination of the authenticity and due execution thereof in the manner provided by law, canvass the votes.
+As early as January 28, 2004, Senate President Franklin M. Drilon already conveyed to Chairman Benjamin S. Abalos, Sr. his deep-seated concern that the respondent COMELEC could not and should not conduct any âquick countâ of the votes cast for the positions of President and Vice-President. In his Letter dated February 2, 2004
+[33]
+ addressed to Chairman Abalos, Senate President Drilon reiterated his position emphasizing that âany quick count to be conducted by the Commission on said positions would in effect constitute a canvass of the votes of the President and Vice-President, which not only would be pre-emptive of the authority of Congress, but would also be lacking of any constitutional authority.â
+[34]
+Nonetheless, in disregard of the valid objection of the Senate President, the COMELEC proceeded to promulgate the assailed resolution. Such resolution directly infringes the authority of Congress, considering that Section 4 thereof allows the use of the third copy of the Election Returns (ERs) for the positions of President, Vice-President, Senators and Members of the House of Representatives, intended for the COMELEC, as basis for the encoding and transmission of advanced precinct results, and in the process, canvass the votes for the President and Vice-President, 
+ahead of the canvassing of the same votes by Congress.
+Parenthetically, even the provision of Rep. Act No. 8436 confirms the constitutional undertaking of Congress as the sole body tasked to canvass the votes for the President and Vice-President. Section 24 thereof provides:
+SEC. 24. 
+Congress as the National Board of Canvassers for President and Vice-President.
+ -- The Senate and the House of Representatives, in joint public session, shall compose the national board of canvassers for president and vice-president. The returns of every election for president and vice-president duly certified by the board of canvassers of each province or city, shall be transmitted to the Congress, directed to the president of the Senate. Upon receipt of the certificates of canvass, the president of the Senate shall, not later than thirty (30) days after the day of the election, open all the certificates in the presence of the Senate and the House of Representatives in joint public session, and the Congress upon determination of the authenticity and the due execution thereof in the manner provided by law, canvass all the results for president and vice-president by consolidating the results contained in the data storage devices submitted by the district, provincial and city boards of canvassers and thereafter, proclaim the winning candidates for president and vice-president.
+The contention of the COMELEC that its tabulation of votes is not prohibited by the Constitution and Rep. Act No. 8436 as such tabulation is âunofficial,â is puerile and totally unacceptable. If the COMELEC is proscribed from conducting an official canvass of the votes cast for the President and Vice-President, the COMELEC is, with more reason, prohibited from making an âunofficialâ canvass of said votes.
+The COMELEC realized its folly and the merits of the objection of the Senate President on the constitutionality of the resolution that it decided not to conduct an âunofficialâ quick count of the results of the elections for President and Vice-President. Commissioner Sadain so declared during the hearing:
+JUSTICE PUNO:
+ 
+ 
+ 
+The word you are saying that within 36 hours after election, more or less, you will be able to tell the people on the basis of your quick count, who won the election, is that it?
+ 
+ 
+COMM. SADAIN:
+ 
+ 
+ 
+Well, itâs not exactly like that, Your Honor. Because the fact of winning the election would really depend on the canvassed results, but probably, it would already give a certain degree of comfort to certain politicians to people rather, as to who are leading in the elections, as far as Senator down are concerned, but not to President and Vice-President.
+ 
+ 
+JUSTICE PUNO:
+ 
+ 
+ 
+So as far as the Senatorial candidates involved are concerned, but you donât give this assurance with respect to the Presidential and Vice-Presidential elections which are more important?
+ 
+ 
+COMM. SADAIN:
+ 
+ 
+ 
+In deference to the request of the Senate President and the House Speaker, Your Honor. According to them, they will be the ones canvassing and proclaiming the winner, so it is their view that we will be pre-empting their canvassing work and the proclamation of the winners and we gave in to their request.
+[35]
+â¦
+JUSTICE CALLEJO, [SR.]:
+ 
+ 
+ 
+Perhaps what you are saying is that the system will minimize 
+âdagdag-bawasâ
+ but not totally eradicate âdagdag-bawasâ?
+ 
+ 
+COMM. SADAIN:
+ 
+ 
+ 
+Yes, Your Honor.
+ 
+ 
+JUSTICE CALLEJO, [SR.]:
+ 
+ 
+ 
+Now, I heard either Atty. Bernas or Atty. Brillantes say (sic) that there was a conference between the Speaker and the Senate President and the Chairman during which the Senate President and the Speaker voice[d] their objections to the electronic transmission results system, can you share with us the objections of the two gentlemen?
+ 
+ 
+COMM. SADAIN:
+ 
+ 
+ 
+These was relayed to us Your Honor and their objection or request rather was for us to refrain from consolidating and publishing the results for presidential and vice-presidential candidates which we have already granted Your Honors. So, there is going to be no consolidation and no publication of the â¦
+ 
+ 
+COMM. SADAIN:
+ 
+ 
+ 
+Reason behind being that it is actually Congress that canvass that the official canvass for this and proclaims the winner.
+[36]
+Second.
+ The assailed COMELEC resolution contravenes the constitutional provision that âno money shall be paid out of the treasury except in pursuance of an appropriation made by law.â
+[37]
+By its very terms, the electronic transmission and tabulation of the election results projected under Resolution No. 6712 is âunofficialâ in character, meaning ânot emanating from or sanctioned or acknowledged by the government or government body.
+[38]
+ Any disbursement of public funds to implement this project is contrary to the provisions of the Constitution and Rep. Act No. 9206, which is the 2003 General Appropriations Act. The use of the COMELEC of its funds appropriated for the AES for the âunofficialâ quick count project may even be considered as a felony under Article 217 of the Revised Penal Code, as amended.
+[39]
+Irrefragably, the implementation of the assailed resolution would entail, in due course, the hiring of additional manpower, technical services and acquisition of equipment, including computers and software, among others. According to the COMELEC, it needed P55,000,000 to operationalize the project, including the encoding process.
+[40]
+ Hence, it would necessarily involve the disbursement of public funds for which there must be the corresponding appropriation.
+The COMELEC posited during the hearing that the 2003 General Appropriations Act has appropriated the amount needed for its âunofficialâ tabulation. We quote the transcript of stenographic notes taken during the hearing:
+JUSTICE VITUG:
+ 
+ 
+ 
+And you mentioned earlier something about 55 million not being paid as yet?
+ 
+ 
+COMM. SADAIN:
+ 
+ 
+ 
+This is an extra amount that we will be needing to operationalize.
+ 
+ 
+JUSTICE VITUG:
+ 
+ 
+ 
+And this has not yet been done?
+ 
+ 
+COMM. SADAIN:
+ 
+ 
+It has not yet been done, Your Honor.
+ 
+ 
+JUSTICE VITUG:
+ 
+ 
+ 
+Would you consider the funds that were authorized by you under the General Appropriations Act as capable of being used for this purpose?
+ 
+ 
+COMM. SADAIN:
+ 
+ 
+ 
+Yes, thatâs our position, Your Honor.
+[41]
+But then the COMELEC, through Commissioner Sadain, admitted during the said hearing that although it had already approved the assailed resolution, it was still looking for the P55,000,000 needed to operationalize the project:
+JUSTICE CARPIO:
+ 
+ 
+ 
+Just a clarification. You stated that you signed already the main contract for 300 million but you have not signed the 55 million supplemental contract for the encoding?
+ 
+ 
+COMM. SADAIN:
+ 
+ 
+ 
+Yes, Your Honor.
+ 
+ 
+JUSTICE CARPIO:
+ 
+ 
+ 
+Because you still donât have the money for that?
+ 
+ 
+COMM. SADAIN:
+ 
+ 
+ 
+Well, yes, we are trying to determine where we can secure the money.
+ 
+ 
+JUSTICE CARPIO:
+ 
+ 
+ 
+Now, the encoding is crucial; without the encoding, the entire project collapses?
+ 
+ 
+COMM. SADAIN:
+ 
+ 
+ 
+Yes.
+[42]
+Inexplicably, Commissioner Sadain contradicted himself when he said that its Financial Department had already found the money, but that proper documentation was forthcoming:
+JUSTICE CARPIO:
+ 
+ 
+ 
+Just a clarification. You stated that you signed already the main contract for 300 million but you have not signed the 55 million supplemental contract for the encoding?
+ 
+ 
+COMM. SADAIN:
+ 
+ 
+ 
+Yes, Your Honor.
+ 
+ 
+JUSTICE CARPIO:
+ 
+ 
+ 
+Because you still donât have the money for that?
+ 
+ 
+COMM. SADAIN:
+ 
+ 
+ 
+Well, yes, we are trying to determine where we can secure the money.
+ 
+ 
+JUSTICE CARPIO:
+ 
+ 
+ 
+Now, the encoding is crucial; without the encoding, the entire project collapses?
+ 
+ 
+COMM. SADAIN:
+ 
+ 
+ 
+Yes.
+ 
+ 
+JUSTICE CARPIO:
+ 
+ 
+ 
+So, you have two (2) days to look for the 55 million, you have signed the contract on the main contract and if you donât get that 55 million, that 300 million main contract goes to waste, because you cannot encode?
+ 
+ 
+COMM. SADAIN:
+ 
+ 
+ 
+Itâs just a matter of proper documentation, Your Honor, because I was informed by our Finance Department that the money is there.
+ 
+ 
+JUSTICE CARPIO:
+ 
+ 
+ 
+So, you have found the money already?
+ 
+ 
+COMM. SADAIN:
+ 
+ 
+ 
+Yes, Your Honor.
+[43]
+Earlier, during the April 27, 2004 meeting of the COMELEC 
+En Banc,
+ the Commissioners expressed their serious concerns about the lack of funds for the project, the propriety of using the funds for Phase III of its modernization, and the possibility of realigning funds to finance the project:
+Comm. Tuason:
+ 
+May I just request all the parties who are in here 
+na
+ whatever is said here should be confined within the four walls of this room and the minutes so that 
+walang masyadong problema.
+ 
+ 
+Comm. Borra:
+ 
+Sa akin lang,
+ we respect each otherâs opinion. I will not make any observations. I will just submit my own memo to be incorporated in the minutes.
+ 
+ 
+Comm. Tuason:
+ 
+Commissioner Borra will submit a comment to be attached to the minutes but not on the resolution. 
+Ako naman, 
+I will just make it on record my previous reservation. I do not have any objection as to the Phase III modernization project itself. 
+My main concern is the budget.
+ I would like to make it on record that 
+the budget for Phase III should be taken from the modernization program fund because Phase III is definitely part of the modernization project. Other funds, for instance other funds to be used for national elections may not be proper for realignment. That is why I am saying that the funds to be used for Phase III should properly come from the modernization. The other reservation is that the Election Officers are now plagued with so much work such as the preparation of the list of voters and their concern in their respective areas. They were saying to me, specially so in my own region, that to burden them with another training at this point in time will make them loose (sic) focus on what they are really doing for the national elections and what they are saying is that they should not be subjected to any training anymore.
+ And they also said that come canvassing time, their priority would be to canvass first before they prepare the certificate of votes to be fed to the encoders [to be fed to the encoders] for electronic transmission. I share the sentiments of our people in the field. That is also one of my reservations. Thank you.
+ 
+ 
+Comm. Garcillano:
+ 
+I also have my observations regarding the financial restraint that we are facing 
+if the money that is going to be used for this is taken from the Phase II, I donât think there is money left.
+ 
+ 
+Comm. Borra:
+ 
+There is no more money in Phase II because the budget for Phase II is 1.3 Billion. The award on the contract for Phase II project is 1.248 billion. So the remaining has been allocated for additional expenses for the technical working group and staff for Phase II.
+ 
+ 
+Comm. Garcillano:
+ 
+I also have one problem. We have to have additional people to man this which I think is already being taken cared of. Third is, I know that this will disrupt the canvassing that is going to be handled by our EO and Election Assistant. I do not know if it is given to somebody (inaudible)
+ 
+ 
+Comm. Tuason:
+ 
+Those are your reservations.
+ 
+ 
+Comm. Barcelona:
+ 
+As far as I am concerned, I also have my reservations because I have the same experience as Commissioner Tuason when I went to Region IX and Caraga. 
+Our EOs and PESâ expressed apprehension over the additional training period that they may have to undergo although, they say, that if that is an order they will comply but it will be additional burden on them. I also share the concern of Commissioner Tuason with regard to the budget that should be taken from the modernization budget.
+ 
+ 
+Comm. Borra:
+ 
+For the minutes, my memo is already prepared. I will submit it in detail. On three counts naman yan eh â legal, second is technical/operational and third is financial.
+ 
+ 
+Comm. Sadain:
+ 
+Ako naman,
+ for my part as the CIC for Phase III, we were left with no choice but to implement Phase III inasmuch as expenses has already been incurred in Phase III to the tune of almost 100% at the time when the Phase II contract was nullified. So if we stop the implementation of Phase III just because Phase II was nullified, which means that there would be no consolidation and accounting â consolidation for the machines, then it would be again 300 million pesos down the drain. Necessarily there would be additional expense but we see this as a consequence of the loss of Phase II. 
+I share the view of Comm. Tuason that as much as possible this should be taken from the modernization fund as much as this is properly modernization concern. However, I would like to open myself to the possibility na in case wala talaga, we might explore the possibility of realigning funds although that might not
+ â¦(inaudible). Now with regards the legality, I think what Commissioner Borra has derived his opinion but I would like to think the legality issue must have been settled already as early as when we approved the modernization program involving all three phases 
+although we also grant the benefit of the argument for Commissioner Borra if he thinks that there is going to be a legal gap for the loss of Phase II. With regards the concern with the Election Officers, I also share the same concern.
+ In fact, on this matter alone, we try to make the GI as simple as possible so that whatever burden we will be giving to the EOs and EAs will be minimized. As in fact, we will be recommending that the EOs will no longer be bothered to attend the training. 
+They can probably just sit in for the first hour and then they can go on with their normal routine and then leave the encoders as well as the reception officers to attend the training because there (sic) are the people who will really be doing the ministerial, almost mechanical, work of encoding and transmitting the election results. 
+Yun lang
+.
+[44]
+We have reviewed Rep. Act No. 9206, the General Appropriations Act, which took effect on April 23, 2003 and find no appropriation for the project of the COMELEC for electronic transmission of âunofficialâ election results. What is appropriated therein is the amount of P225,000,000 of the capital outlay for the modernization of the electoral system.
+B. PROJECTS
+Maintenance & Other Operating Expenses
+Capital Outlays
+Total
+I. Locally-Funded Projects
+a. For the Modernization of Electoral 
+System
+225,000,000
+225,000,000
+b. FY 2003 Preparatory Activities for 
+National Elections
+250,000,000
+250,000,000
+c. Upgrading of Votersâ Database
+125,000,000
+125,000,000
+d. Conduct of Special Election to
+fill the vacancy in the Third District
+of Cavite
+6,500,000
+ 
+6,500,000
+ 
+ 
+ 
+ 
+e. Implementation of Absentee
+ 
+ 
+ 
+Voting Act of 2003 (RA 9189)
+300,000,000
+ 
+300,000,000
+ 
+==========
+=========
+==========
+ 
+ 
+ 
+ 
+Sub-Total, Locally-Funded Projects
+681,500,000
+225,000,000
+300,000,000
+[45]
+Under paragraph 3 of the special provisions of Rep. Act No. 9206, the amount of P225,000,000 shall be used primarily for the establishment of the AES prescribed under Rep. Act No. 8436, viz:
+ Modernization of Electoral System. The appropriations herein authorized for the Modernization of the Electoral System in the amount of Two Hundred Twenty-Five Million Pesos (P225,000,000.00) shall be used primarily for the establishment of the automated election system, prescribed under Republic Act No. 8436, particularly for the process of voting, counting of votes and canvassing/consolidation of results of the national and local elections.
+[46]
+Section 52 of Rep. Act No. 9206 proscribes any change or modification in the expenditure items authorized thereunder. Thus:
+Sec. 52. Modification of Expenditure Components. Unless specifically authorized in this Act, no change or modification shall be made in the expenditure items in this Act and other appropriations laws unless in cases of augmentation from savings in appropriations as authorized under Section 25(5), Article VI of the 1987 Philippine Constitution.
+Neither can the money needed for the project be taken from the COMELECâs savings, if any, because it would be violative of Article VI, Section 25 (5)
+[47]
+ of the 1987 Constitution.
+The power to augment from savings lies dormant 
+until authorized by law.
+[48]
+ In this case, no law has, thus, far been enacted authorizing the respondent COMELEC to transfer savings from another item in its appropriation, if there are any, to fund the assailed resolution. No less than the Secretary of the Senate certified that there is no law appropriating any amount for an âunofficialâ count and tabulation of the votes cast during the May 10, 2004 elections:
+CERTIFICATION
+I hereby certify that per records of the Senate, Congress has not legislated any appropriation intended to defray the cost of an unofficial count, tabulation or consolidation of the votes cast during the May 10, 2004 elections.
+May 11, 2004. Pasay City, Philippines.
+What is worrisome is that despite the concerns of the Commissioners during its 
+En Banc
+ meeting on April 27, 2004, the COMELEC nevertheless approved the assailed resolution the very next day. The COMELEC had not executed any supplemental contract for the implementation of the project with PMSI. Worse, even in the absence of a certification of availability of funds for the project, it approved the assailed resolution.
+Third.
+ The assailed resolution disregards existing laws which authorize solely the duly-accredited citizensâ arm to conduct the âunofficialâ counting of votes. Under Section 27 of Rep. Act No. 7166, as amended by Rep. Act No. 8173,
+[49]
+ and reiterated in Section 18 of Rep. Act No. 8436,
+[50]
+ the accredited citizenâs arm - in this case, NAMFREL - is exclusively authorized to use a copy of the election returns in the conduct of an âunofficialâ counting of the votes, whether for the national or the local elections. No other entity, including the respondent COMELEC itself, is authorized to use a copy of the election returns for purposes of conducting an âunofficialâ count. In addition, the second or third copy of the election returns, while required to be delivered to the COMELEC under the aforementioned laws, are not intended for undertaking an âunofficialâ count. The aforesaid COMELEC copies are archived and unsealed only when needed by the respondent COMELEC to verify election results in connection with resolving election disputes that may be imminent. However, in contravention of the law, the assailed Resolution authorizes the so-called Reception Officers (RO), to open the second or third copy intended for the respondent COMELEC as basis for the encoding and transmission of advanced âunofficialâ precinct results. This not only violates the exclusive prerogative of NAMFREL to conduct an âunofficialâ count, but also taints the integrity of the envelopes containing the election returns, as well as the returns themselves, by creating a gap in its chain of custody from the Board of Election Inspectors to the COMELEC.
+Fourth.
+ Section 52(i) of the Omnibus Election Code, which is cited by the COMELEC as the statutory basis for the assailed resolution, does not cover the use of the latest technological and election devices for âunofficialâ tabulations of votes. Moreover, the COMELEC failed to notify the authorized representatives of accredited political parties and all candidates in areas affected by the use or adoption of technological and electronic devices not less than thirty days prior to the effectivity of the use of such devices. Section 52(i) reads:
+SEC. 52. 
+Powers and functions of the Commission on Elections.
+ â In addition to the powers and functions conferred upon it by the Constitution, the Commission shall have exclusive charge of the enforcement and administration of all laws relative to the conduct of elections for the purpose of ensuring free, orderly and honest elections, and shall :
+â¦
+(i) Prescribe the use or adoption of the latest technological and electronic devices, taking into account the situation prevailing in the area and the funds available for the purpose: Provided, That the Commission shall notify the authorized representatives of accredited political parties and candidates in areas affected by the use or adoption of technological and electronic devices not less than thirty days prior to the effectivity of the use of such devices.
+From the clear terms of the above provision, before the COMELEC may resort to and adopt the latest technological and electronic devices for electoral purposes, it must act in accordance with the following conditions:
+(a) Take into account the situation prevailing in the area and the funds available for the purpose; and,
+(b) Notify the authorized representatives of accredited political parties and candidates in areas affected by the use or adoption of technological and electronic devices not less than thirty days prior to the effectivity of the use of such devices.
+It is quite obvious that the purpose of this provision is to accord to all political parties and all candidates the opportunity to object to the effectiveness of the proposed technology and devices, and, if they are so minded not to object, to allow them ample time to field their own trusted personnel especially in far flung areas and to take other necessary measures to ensure the reliability of the proposed electoral technology or device.
+As earlier pointed out, the assailed resolution was issued by the COMELEC despite most of the Commissionersâ apprehensions regarding the legal, operational and financial impediments thereto. More significantly, since Resolution No. 6712 was made effective immediately a day after its issuance on April 28, 2004, the respondent COMELEC could not have possibly complied with the thirty-day notice requirement provided under Section 52(i) of the Omnibus Election Code. This indubitably violates the constitutional right to due process of the political parties and candidates. The Office of the Solicitor General (OSG) concedes this point, as it opines that âthe authorized representatives of accredited political parties and candidates should have been notified of the adoption of the electronic transmission of election returns nationwide at the latest on April 7, 2004, April 8 and 9 being Holy Thursday and Good Friday, pursuant to Section 52(i) of the Omnibus Election Code.â
+[51]
+ Furthermore, during the hearing on May 18, 2004, Commissioner Sadain, who appeared for the COMELEC, unabashedly admitted that it failed to notify all the candidates for the 2004 elections, as mandated by law:
+JUSTICE CARPIO:
+ 
+You stated that you have notified in writing all the political parties and candidates as required in Section 52 (i)?
+ 
+ 
+COMM. SADAIN:
+ 
+Yes, Your Honor.
+ 
+ 
+JUSTICE CARPIO:
+ 
+Now, how many candidates are there nationwide now?
+ 
+ 
+COMM. SADAIN:
+ 
+I must admit you Honor we were not able to notify the candidates but we notified the politicians.
+ 
+ 
+JUSTICE CARPIO:
+ 
+Yes, but what does the law state? Read the law please.
+ 
+ 
+COMM. SADAIN:
+ 
+Yes, Your Honor. I understand that it includes candidates.
+ 
+ 
+JUSTICE CARPIO:
+ 
+And there are how many candidates nationwide running in this election?
+ 
+ 
+COMM. SADAIN:
+ 
+Hundreds of thousands, Your Honor.
+ 
+ 
+JUSTICE CARPIO:
+ 
+Hundreds of thousands, so you mean you just notified the political parties not the candidates?
+ 
+ 
+COMM. SADAIN:
+ 
+Yes, Your Honor.
+ 
+ 
+JUSTICE CARPIO:
+ 
+And you think that is substantial compliance, you would notify how many political parties as against hundreds of thousands of candidates?
+ 
+ 
+COMM. SADAIN:
+ 
+Yes, Your Honor, we notified the major political parties, Your Honor.
+ 
+ 
+JUSTICE CARPIO:
+ 
+Only the major political parties?
+ 
+ 
+COMM. SADAIN:
+ 
+Including party list?
+ 
+ 
+JUSTICE CARPIO:
+ 
+But not the candidates, individual candidates?
+ 
+ 
+COMM. SADAIN:
+ 
+We were not able to do that, Your Honor, I must admit.
+ 
+ 
+JUSTICE CARPIO:
+ 
+So, you did not notify hundreds of thousands of candidates?
+ 
+ 
+COMM. SADAIN:
+ 
+No, Your Honors.
+[52]
+The respondent COMELEC has, likewise, failed to submit any resolution or document to prove that it had notified all political parties of the intended adoption of Resolution No. 6712, in compliance with Section 52(i) of the Omnibus Election Code. This notwithstanding the fact that even long before the issuance of the assailed resolution, it had admittedly entered into a contract on April 15, 2003
+[53]
+ and acquired facilities pertaining to the implementation of the electronic transmission and official tabulation of election results. As correctly pointed out by the petitioners-in-intervention, the invitations dated January 15, 2004 regarding the January 20, 2004 COMELEC Conference with the political parties on election security measures did not mention electronic transmission of advanced results, much less the formal adoption of the purpose of the conference. Such ânoticesâ merely invited the addressee thereof or its/his authorized representative to a conference where the COMELEC would show a sample of the official ballot to be used in the elections, discuss various security measures that COMELEC had put in place, and solicit suggestions to improve the administration of the polls.
+[54]
+ Further, the invitations purportedly sent out to the political parties 
+regarding the April 6, 2004 Field Test
+ of the Electronic Transmission, Consolidation and Dissemination System to be conducted by the COMELEC appear to have been sent out in the 
+late afternoon of April 5, 2004, after office hours.
+ There is no showing that all the political parties attended the Field Test, or received the invitations. More importantly, the said invitations did not contain a formal notice of the adoption of a technology, as required by Section 52(i) of the Omnibus Election Code.
+[55]
+Fifth.
+ The assailed resolution has no constitutional and statutory basis. That respondent COMELEC is the sole body tasked to âenforce and administer all laws and regulations relative to the conduct of an election, plebiscite, initiative, referendum and recallâ
+[56]
+ and to ensure âfree, orderly, honest, peaceful and credible electionsâ
+[57]
+ is beyond cavil. That it possesses the power to promulgate rules and regulations in the performance of its constitutional duties is, likewise, undisputed. However, the duties of the COMELEC under the Constitution, Rep. Act No. 7166, and other election laws are carried out, 
+at all times,
+ in its 
+official capacity
+. There is no constitutional and statutory basis for the respondent COMELEC to undertake a separate and an âunofficialâ tabulation of results, whether manually or electronically. Indeed, by conducting such âunofficialâ tabulation of the results of the election, the COMELEC descends to the level of a private organization, 
+spending public funds for the purpose.
+ Besides, it is absurd for the COMELEC to conduct two kinds of electoral counts â a slow but âofficialâ count, and an alleged quicker but âunofficialâ count, the results of each may substantially differ.
+Clearly, the assailed resolution is an implementation of Phase III of the modernization program of the COMELEC under Rep. Act No. 8436. Section 2 of the assailed resolution expressly refers to the Phase III-Modernization Project of the COMELEC. Since this Court has already scrapped the contract for Phase II of the AES, the COMELEC cannot as yet implement the Phase III of the program. This is so provided in Section 6 of Rep. Act No. 8436.
+SEC. 6. 
+Authority to Use an Automated Election System.
+ -- To carry out the above-stated policy, the Commission on Elections, herein referred to as the Commission, is hereby authorized to use an automated election system, herein referred to as the System, for the process of voting, counting of votes and canvassing/consolidation of results of the national and local elections: 
+Provided, however,
+ That for the May 11, 1998 elections, the System shall be applicable in all areas within the country only for the positions of president, vice-president, senators and parties, organizations or coalitions participating under the party-list system.
+To achieve the purpose of this Act, the Commission is authorized to procure by purchase, lease or otherwise, any supplies, equipment, materials and services needed for the holding of the elections by an expedited process of public bidding of vendors, suppliers or lessors: 
+Provided,
+ That the accredited political parties are duly notified of and allowed to observe but not to participate in the bidding. If in spite of its diligent efforts to implement this mandate in the exercise of this authority, it becomes evident by February 9, 1998 that the Commission 
+cannot fully
+ implement the automated election system for national positions in the May 11, 1998 elections, 
+the elections for both national and local positions shall be done manually
+ except in the Autonomous Region in Muslim Mindanao (ARMM) where the automated election system shall be used for all positions.
+The AES provided in Rep. Act No. 8436 constitutes the entire âprocess of voting, counting of votes and canvassing/consolidation of results of the national and local electionsâ corresponding to the Phase I, Phase II and Phase III of the AES of the COMELEC. The three phases cannot be effected independently of each other. The implementation of Phase II of the AES is a condition 
+sine qua non
+ to the implementation of Phase III. The nullification by this Court of the contract for Phase II of the System effectively put on hold, at least for the May 10, 2004 elections, the implementation of Phase III of the AES.
+Sixth.
+ As correctly observed by the petitioner, there is a great possibility that the âunofficialâ results reflected in the electronic transmission under the supervision and control of the COMELEC would significantly vary from the results reflected in the COMELEC official count. The latter follows the procedure prescribed by the Omnibus Election Code, which is markedly different from the procedure envisioned in the assailed resolution.
+Under the Omnibus Election Code, after the votes are cast and the polls closed, the Board of Election Inspectors (BEI) for each precinct is enjoined to publicly count the votes and record the same simultaneously on the tally boards and on two sets of ERs. Each set of the ER is prepared in eight (8) copies. After the ERs are accomplished, they are forwarded to the Municipal Board of Canvassers (MBC), which would canvass all the ERs and proclaim the elected municipal officials. All the results in the ERs are transposed to the statements of votes (SOVs) by precinct. These SOVs are then transferred to the certificates of canvass (COCs) which are, in turn, brought to the Provincial Board of Canvassers (PBC). Subsequently, the PBC would canvass all the COCs from various municipalities and proclaim the elected provincial officials, including those to the House of Representatives. The PBC would then prepare two sets of Provincial Certificates of Canvass (PCOCs). One set is forwarded to Congress for its canvassing of the results for the President and Vice-President. The other set is forwarded to the COMELEC for its canvassing of the results for Senators.
+As the results are transposed from one document to another, and as each document undergoes the procedure of canvassing by various Boards of Canvassers, election returns and certificates of canvass are objected to and at times 
+excluded
+ and/or 
+deferred
+ and 
+not tallied
+, long after the pre-proclamation controversies are resolved by the canvass boards and the COMELEC.
+On the other hand, under the assailed resolution, the precinct results of each city and municipality received by the ETCs 
+would be immediately electronically transmitted to the NCC.
+ Such data, which 
+have not undergone the process of canvassing,
+ would expectedly be dissimilar to the data on which the official count would be based.
+Resultantly, the official and unofficial canvass, both to be administered by the respondent COMELEC, would most likely not tally. In the past elections, the âunofficialâ quick count conducted by the NAMFREL had never tallied with that of the official count of the COMELEC, giving rise to allegations of âtrendingâ and confusion. With a second âunofficialâ count to be conducted by the official election body, the respondent COMELEC, in addition to its official count, allegations of âtrending,â would most certainly be aggravated. As a consequence, the electoral process would be undermined.
+The only intimated utility claimed by the COMELEC for the âunofficialâ electronic transmission count is to avert the so-called âdagdag-bawas.â The purpose, however, as the petitioner properly characterizes it, is a total sham. The Court cannot accept as tenable the COMELECâs profession that from the results of the âunofficialâ count, it would be able to validate the credibility of the official tabulation. To sanction this process would in effect allow the COMELEC to preempt or prejudge an election question or dispute which has not been formally brought before it for quasi-judicial cognizance and resolutions.
+Moreover, the Court doubts that the problem of âdagdag-bawasâ could be addressed by the implementation of the assailed resolution. It is observed that such problem arises because of the element of human intervention. In the prevailing set up, there is human intervention because the results are manually tallied, appreciated, and canvassed. On the other hand, the electronic transmission of results is not entirely devoid of human intervention. The crucial stage of encoding the precinct results in the computers prior to the transmission requires human intervention. Under the assailed resolution, encoding is accomplished by employees of the PMSI. Thus, the problem of âdagdag-bawasâ could still occur at this particular stage of the process.
+As it stands, the COMELEC âunofficialâ quick count would be but a needless duplication of the NAMFREL âquickâ count, an illegal and unnecessary waste of government funds and effort.
+Conclusion
+The Court is mindful of the salutary goals that the respondent COMELEC had envisioned in promulgating the assailed resolution, to wit: [t]o renew the publicâs confidence in the Philippine Electoral System by:
+ Facilitating transparency in the process;
+ Ensuring the integrity of the results;
+ Reducing election results manipulation;
+ Providing timely, fast and accurate information to provide the public re election results;
+ Enabling the validation of its own official count and other counts;
+ Having an audit trail in its own account.
+[58]
+Doubtless, these are laudable intentions. But the rule of law requires that even the best intentions must be carried out within the parameters of the Constitution and the law. Verily, laudable purposes must be carried out by legal methods.
+[59]
+WHEREFORE,
+ the petition is 
+GRANTED.
+ The assailed Resolution No. 6712 dated April 28, 2004 issued by the Commission on Elections (COMELEC) En Banc is hereby declared 
+NULL AND VOID.
+SO ORDERED.
+Davide, Jr., C.J., Puno, Panganiban, Quisumbing, Sandoval-Gutierrez, Carpio, Austria-Martinez, Carpio-Morales, Azcuna
+ and 
+Tinga, JJ.,
+ concur.
+Vitug, and Corona, JJ.,
+ on official leave.
+Ynares-Santiago, J.,
+ on leave.
+[1]
+ Annex âA;â 
+Rollo,
+ pp. 105-117.
+[2]
+ AN ACT AUTHORIZING THE COMMISSION ON ELECTIONS TO USE AN AUTOMATED ELECTION SYSTEM IN THE MAY 11, 1998 NATIONAL OR LOCAL ELECTIONS AND IN SUBSEQUENT NATIONAL AND LOCAL ELECTORAL EXERCISES, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES.
+[3]
+ 
+Loong vs. COMELEC,
+ 305 SCRA 832 (1999).
+[4]
+ DIRECTING THE DEPARTMENT OF BUDGET AND MANAGEMENT TO ALLOCATE FUNDS FOR AN AUTOMATED ELECTION SYSTEM FOR THE MAY 10, 2004 NATIONAL AND LOCAL ELECTIONS AND SUBSEQUENT NATIONAL AND LOCAL ELECTORAL EXERCISES.
+[5]
+ INVITATION TO APPLY FOR ELIGIBILITY AND TO BID
+The Commission on Elections (COMELEC), pursuant to the mandate of Republic Act Nos. 8189 and 8436, invites interested offerors, vendors, suppliers or lessors to apply for eligibility and to bid for the procurement by purchase, lease, lease with option to purchase, or otherwise, supplies, equipment, materials and services needed for a comprehensive Automated Election System, consisting of three (3) phases: (a) registration/verification of voters, (b) automated counting and consolidation of votes, and (c) electronic transmission of election results, with an approved budget of TWO BILLION FIVE HUNDRED MILLION (Php2,500,000,000) Pesos.
+Only bids from the following entities shall be entertained :
+ Duly licensed Filipino citizens/proprietorships;
+ Partnerships duly organized under the laws of the Philippines and of which at least sixty percent (60%) of the interest belongs to citizens of the Philippines;
+ Corporations duly organized under the laws of the Philippines, and of which at least sixty percent (60%) of the outstanding capital stock belongs to citizens of the Philippines;
+ Manufacturers, suppliers and/or distributors forming themselves into a joint venture, i.e., a group of two (2) or more manufacturers, suppliers and/or distributors that intend to be, jointly and severally, responsible or liable for a particular contract, provided that Filipino ownership thereof shall be at least sixty percent (60%); and
+ Cooperatives duly registered with the Cooperatives Development Authority.
+Bid documents for the three (3) phases may be obtained starting 10 February 2003, during office hours from the Bids and Awards Committee (BAC) Secretariat/Office of Commissioner Resurreccion Z. Borra, 7
+th
+ Floor, Palacio del Governador, Intramuros, Manila, upon payment at the Cash Division, Commission on Elections, in cash or cashierâs check, payable to the Commission on Elections, of a non-refundable amount of FIFTEEN THOUSAND PESOS (P15,000.00) for each phase. For this purpose, interested offerors, vendors, suppliers or lessors have the option to participate in any or all of the three (3) phases of the comprehensive Automated Election System.
+A Pre-Bid Conference is scheduled on 13 February 2003, at 9:00 a.m. at the Session Hall, Commission on Elections, Postigo Street, Intramuros, Manila. Should there be questions on the bid documents, bidders are required to submit their queries in writing to the BAC Secretariat prior to the scheduled Pre-Bid Conference.
+Deadline for submission to the BAC of applications for eligibility and bid envelopes for the supply of the comprehensive Automated Election System shall be at the Session Hall, Commission on Elections, Postigo Street, Intramuros, Manila on 28 February 2003 at 9:00 a.m.
+The COMELEC reserves the right to review the qualifications of the bidders after the bidding and before the contract is executed. Should such review uncover any misrepresentation made in the eligibility statements, or any changes in the situation of the bidder to materially downgrade the substance of such statements, the COMELEC shall disqualify the bidder upon due notice without any obligation whatsoever for any expenses or losses that may be incurred by it in the preparation of its bid. (
+Information Technology Foundation of the Philippines, et al. vs. COMELEC, et al.,
+ G.R. No. 159139, January 13, 2004, citing Annex â7â of the Comment of Private Respondents MPC and MPEI therein, Rollo, Vol. II, p. 638.)
+[6]
+ DIRECTING THE DEPARTMENT OF BUDGET AND MANAGEMENT TO ALLOCATE THE ADDITIONAL AMOUNT OF FIVE HUNDRED MILLION PESOS FOR AN AUTOMATED ELECTION SYSTEM FOR THE MAY 10, 2004 NATIONAL AND LOCAL ELECTIONS AND SUBSEQUENT NATIONAL AND LOCAL ELECTORAL EXERCISES.
+[7]
+ Sec. 6, Rep. Act No. 8436.
+[8]
+ Annex âAâ of the respondent COMELECâs Supplemental Compliance dated May 11, 2004; Rollo, pp. 277-294.
+[9]
+ 
+Rollo,
+ p. 252.
+[10]
+ 
+Infra.
+[11]
+ 
+Rollo,
+ p. 164.
+[12]
+ 
+Id.
+ at 167.
+[13]
+ Section 1, Resolution No. 6712.
+[14]
+ 
+Ibid.
+[15]
+ Section 2.
+[16]
+ Section 3.
+[17]
+ 
+Ibid.
+[18]
+ Section 4.
+[19]
+ Section 6 (Underscoring supplied).
+[20]
+ Section 18.
+[21]
+ 
+Ibid.
+[22]
+ 
+Rollo,
+ pp. 118-119.
+[23]
+ 
+Baker v. Carr,
+ 369 U.S. 186, 7 L. Ed. 2d 633 cited in, among others, 
+Agan v. PIATCO,
+ G.R. Nos. 155001, 155547 and 155661.
+[24]
+ 
+Del Mar v. Philippine Amusement and Gaming Corp.,
+ 346 SCRA 485 (2000).
+[25]
+ 
+Ibid.
+[26]
+ 103 Phil. 1051 (1957).
+[27]
+ 
+Romulo, Mabanta, Buenaventura, Sayoc & De los Angeles vs. Home Development Mutual Fund,
+ 333 SCRA 777 (2000).
+[28]
+ 
+Integrated Bar of the Philippines vs. Zamora, supra.
+[29]
+ 
+Acop v. Guingona, Jr.,
+ 383 SCRA 577 (2002).
+[30]
+ 
+Ibid.
+[31]
+ 
+Sanchez vs. Court of Appeals,
+ 279 SCRA 647 (1997).
+[32]
+ 
+Malinias v. Commission on Elections,
+ 390 SCRA 480 (2002).
+[33]
+ 
+Supra.
+[34]
+ 
+Rollo,
+ p. 240.
+[35]
+ TSN, 8 May 2004, pp. 382-383.
+[36]
+ 
+Id.
+ at 260-263 (Underscoring supplied).
+[37]
+ Par. 1, Section 29, Article VI of the Constitution.
+[38]
+ Webster New International Dictionary, 1993 Ed., p. 2505.
+[39]
+ ART. 217. 
+Malversation of public funds or property.
+â Any public officer who, by reason of the duties of his office, is accountable for public funds or property, shall appropriate the same, or shall take or misappropriate the same, or shall take or misappropriate or shall consent, or through abandonment or negligence, shall permit any other person to take such public funds or property, wholly or partially, or shall otherwise be guilty of the misappropriation or malversation of such funds or property, shall suffer:
+1) The penalty of 
+prision correccional
+ in its medium and maximum periods, if the amount involved in the misappropriation or malversation does not exceed Two Hundred Pesos.
+2) The penalty of 
+prision mayor
+ in its minimum and medium periods, if the amount involved is more than 200 pesos but does not exceed 6,000 pesos.
+3) The penalty of 
+prision mayor
+ in its maximum period to reclusion temporal in its minimum period, if the amount involved is more than 6,000 pesos but is less than 12,000 pesos.
+4) The penalty of 
+reclusion temporal
+ in its medium and maximum periods, if the amount involved is more than 12,000 pesos but is less than 22,000 pesos. If the amount exceeds the latter, the penalty shall be reclusion temporal in its maximum period to 
+reclusion perpetua
+.
+In all cases, persons guilty of malversation shall also suffer the penalty of perpetual special disqualification and a fine equal to the amount of the funds malversed or equal to the total value of the property embezzled.
+The failure of a public officer to have duly forthcoming any public funds or property with which he is chargeable, upon demand by any duly-authorized officer, shall be prima facie evidence that he has put such missing funds or property to personal uses.
+[40]
+ TSN, 8 May 2004, pp. 367-368.
+[41]
+ 
+Id.
+ at 367-368.
+[42]
+ 
+Id.
+ at 368-370.
+[43]
+ 
+Id.
+ at 370.
+[44]
+ 
+Rollo,
+ pp. 164-168 (Underscoring supplied).
+[45]
+ Official Gazette, Vol. 99, No. 19.
+[46]
+ 
+Id. 
+at 661.
+[47]
+ Section 25 (5) of Article VI of the Constitution reads:
+(5) No law shall be passed authorizing any transfer of appropriations; however, the President, the President of the Senate, the Speaker of the House of Representatives, the Chief Justice of the Supreme Court, and the heads of the Constitutional Commissions may, by law, be authorized to augment any item in the general appropriations law for their respective offices from savings in other items of their respective appropriations.
+[48]
+ 
+Gonzales vs. Macaraig, Jr.,
+ 191 SCRA 452 (1990).
+[49]
+ SEC. 27. 
+Number of Copies of Election Returns and Their Distribution.
+ -- The board of election inspectors shall prepare in handwriting the election returns in their respective polling places, in the number of copies herein provided and in the form to be prescribed and provided by the Commission.
+The copies of the election returns shall be distributed as follows :
+(a) In the election of President, Vice-President, Senators and Members of the House of Representatives :
+â¦
+(3) the third copy, to the Commission;
+â¦
+(6) The sixth copy, to a citizensâ arm authorized by the Commission to conduct an unofficial count: Provided, however, That the accreditation of the citizensâ arm shall be subject to the provisions of Section 52(k) of Batas Pambansa Blg. 881; and
+â¦
+(b) In the election of local officials:
+â¦
+(3) the third copy, to the Provincial Board of Canvassers;
+â¦
+(6) The sixth copy, to a citizensâ arm authorized by the Commission to conduct an unofficial count: 
+Provided, however,
+ That the accreditation of the citizensâ arm shall be subject to the provisions of Section 52(k) of Batas Pambansa Blg. 881; â¦
+[50]
+ SEC. 18. Election Returns. -- After the ballots of the precincts have been counted, the election officer or any official authorized by the Commission shall, in the presence of watchers and representatives of the accredited citizensâ arm, political parties/candidates, if any, store the results in a data storage device and print copies of the election returns of each precinct. The printed election returns shall be signed and thumbmarked by the fourth member and COMELEC authorized representative. The Chairman of the Board shall then publicly read and announce the total number of votes obtained by each candidate based on the election returns. Thereafter, the copies of the election returns shall be sealed and placed in the proper envelopes for distribution as follows:
+A. In the election of president, vice president, senators and party-list system:
+â¦
+(3) the third copy, to the Commission;
+(4) the fourth copy, to the citizensâ arm authorized by the Commission to conduct an unofficial count. In the conduct of the unofficial quick count by any accredited citizensâ arm, the Commission shall promulgate rules and regulations to ensure, among others, that said citizensâ arm releases in the order of their arrival one hundred percent (100%) results of a precinct indicating the precinct, municipality or city, province and region: Provided, however, That, the count shall continue until all precincts shall have been reported; â¦
+B. In the election of local officials and members of the House of Representatives :
+â¦
+(3) the third copy, to the Commission;
+(4) the fourth copy, to the citizensâ arm authorized by the Commission to conduct an unofficial count. In the conduct of the unofficial quick count by any accredited citizensâ arm, the Commission shall promulgate rules and regulations to ensure, among others, that said citizensâ arm releases in the order of their arrival one hundred percent (100%) results of a precinct indicating the precinct, municipality or city, province and region: 
+Provided, however,
+ That, the count shall continue until all precincts shall have been reported; â¦
+[51]
+ 
+Rollo,
+ p. 270.
+[52]
+ TSN, 8 May 2004, pp. 343-346.
+[53]
+ 
+Rollo,
+ p. 278.
+[54]
+ Annexes â2â to â32â; 
+Rollo,
+ pp. 208-232.
+[55]
+ Annexes â33â to â40â; 
+Id.
+ at 233-240.
+[56]
+ Section 2(1), Article IX.
+[57]
+ Section 2(4), Article IX.
+[58]
+ 2004 National and Local Elections: Consolidation and Dissemination of Results, Presentation of the respondent COMELEC during the Oral Arguments on May 8, 2004.
+[59]
+ 
+Pimentel, Jr. v. Aguirre,
+ 336 SCRA 201 (2000).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

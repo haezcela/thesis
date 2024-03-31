@@ -1,0 +1,486 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			480 Phil. 861
+			
+
+
+
+
+EN BANC
+
+
+[ G.R. No. 150769, August 31, 2004 ]
+
+
+KAPISANAN NG MGA MANGGAGAWA SA GOVERNMENT SERVICE INSURANCE SYSTEM (KMG), PETITIONER, VS. COMMISSION ON AUDIT, GUILLERMO N. CARAGUE, IN HIS CAPACITY AS CHAIRMAN, COMMISSION ON AUDIT, RAUL C. FLORES , IN HIS CAPACITY AS COMMISSIONER, COMMISSION ON AUDIT, AND THE RESIDENT AUDITOR OF THE GOVERNMENT SERVICE INSURANCE SYSTEM, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+TINGA, J,:
+
+
+Before the Court is a 
+Petition for Certiorari
+ assailing the 
+Decision No. 2001-068
+ dated May 10, 2001
+[1]
+ and 
+Resolution No. 2001-207
+ dated November 13, 2001
+[2]
+ of the Commission on Audit (COA) which affirmed the disallowance of, among others, hazard pay benefits under Republic Act No. 7305 (R.A. No. 7305) to the Social Insurance Group (SIG) personnel of the Government Service Insurance System (GSIS).
+R.A. No. 7305, otherwise known as the âMagna Carta for Public Health Workers,â was enacted by Congress on January 28, 1992. Signed into law by then President Corazon C. Aquino on March 26, 1992, it took effect on April 17, 1992. The law aims to promote and improve the economic and social well-being as well as the living and working conditions of health workers in the public sector; to develop their skills and capabilities to make them more responsive and better equipped to deliver health projects and programs; and to attract the best and the brightest health workers to join and remain in government service.
+[3]
+ Accordingly, in addition to the basic salary of public health workers, the law provides for hazard pay, subsistence, longevity pay, laundry and remote assignment allowances for them.
+On January 25, 1993, the Secretary of Health
+[4]
+ wrote Dr. Orlando C. Misa, Vice President and Medical Director of the GSIS, that the Medical Services Group personnel of the GSIS were public health workers under R.A. No. 7305.
+[5]
+However, in a letter dated January 17, 1994 written in response to a query from the Department of Budget and Management (DBM) whether personnel of the Medical Department of the GSIS and the Social Security System can avail of the benefits under R.A. No. 7305, the Secretary of Health
+[6]
+ stated that the said personnel cannot be classified as public health workers until their respective agencies have been considered as health-related establishments as defined in the Implementing Rules of R.A. No. 7305.
+On January 5, 1996, the Secretary of Health
+[7]
+ granted the request for payment of hazard pay, subsistence and laundry allowances under R.A. No. 7305 of five departments of the GSIS, namely, the Medical Services Group, the Medical Units of branch offices, the Employees Compensation Department, the Customer Relations and Monitoring Department and the Office of the Vice President-Social Insurance III.
+[8]
+ Pursuant to such grant, the GSIS Board of Trustees issued Resolution No. 52 granting hazard pay, subsistence and laundry allowance to the aforementioned departments.
+[9]
+Subsequently, in a letter dated September 18, 1996, the Secretary of Health
+[10]
+ granted the request of the remaining units of the SIG for hazard pay benefits    under R.A. No. 7305.
+[11]
+On June 9, 1999, GSIS Resident Auditor Ma. Cristina D. Dimagiba (Dimagiba) issued 
+Notice of Disallowance No. 99-0120-XXX
+ regarding the payment of allowances under R.A. No. 7305 for January 1998 to the SIG personnel. The retroactive disallowance was made in accordance with a letter dated May 5, 1999 from the DBM stating that employees belonging to the SIG are not considered as âhealth-related workersâ and are therefore not qualified to receive hazard pay under R.A. No. 7305.
+[12]
+Thereafter, on September 9, 1999, Dimagiba issued 
+Notice of Disallowance No. 99-0138-ZZZ
+ regarding the payment of hazard pay to the SIG personnel from January 1998 to the present. The disallowance was based on the DBMâs letter dated May 5, 1999, the suspension of payment of hazard pay under R.A. No. 7305 pursuant to Administrative Order No. 170 dated December 13, 1994 and DBM Circular Letter dated December 15, 1997.
+[13]
+On October 29, 1999, GSIS Chief Legal Counsel Manuel S. Crudo, Jr., on behalf of the employees in the SIG, requested for the reconsideration of 
+Notice of Disallowance No. 99-0138-ZZZ
+.
+[14]
+ However, Dimagiba maintained that the disallowance was proper.
+The KMG, the recognized employeesâ union in the GSIS, appealed the disallowance of allowances under R.A. No. 7305 to the SIG personnel to the COA. However, on May 10, 2001, the COA rendered 
+Decision No. 2001-068
+ affirming the disallowance of allowances under R.A. No. 7305 for the SIG personnel.
+[15]
+ The KMG filed a motion for reconsideration of the decision but on November 13, 2001, the COA issued its 
+Resolution No. 2001-207
+ denying the KMGâs motion for reconsideration.
+[16]
+On December 20, 2002, the KMG filed the instant petition. It raises the following issues:
+ WHETHER OR NOT PUBLIC RESPONDENT COMMISSION COMMITTED GRAVE ABUSE OF DISCRETION AMOUNTING TO LACK OF OR EXCESS OF JURISDICTION IN GROSSLY MISAPPRECIATING AND MISEVALUATING THE EVIDENCE THAT RESULTED IN THE DISALLOWANCE OF PAYMENT OF HAZARD PAY BENEFITS TO THE MEMBERS OF PETITIONER BELONGING TO THE SOCIAL INSURANCE GROUP.
+ WHETHER OR NOT PUBLIC RESPONDENT COMMISSION COMMITTED GRAVE ABUSE OF DISCRETION AMOUNTING TO LACK OF OR EXCESS OF JURISDICTION IN USURPING THE POWER AND PREROGATIVE VESTED BY RA 7305 TO THE DEPARTMENT OF HEALTH.
+ WHETHER OR NOT PUBLIC RESPONDENT COMMISSION COMMITTED GRAVE ABUSE OF DISCRETION AMOUNTING TO LACK OF OR EXCESS OF JURISDICTION IN APPLYING AND INTERPRETING THE PROVISIONS OF RA 7305.
+ WHETHER OR NOT PUBLIC RESPONDENT COMMISSION COMMITTED GRAVE ABUSE OF DISCRETION AMOUNTING TO LACK OF OR EXCESS OF JURISDICTION IN SUSTAINING BASELESS AND ERRONEOUS DISALLOWANCES.
+ WHETHER OR NOT PUBLIC RESPONDENT COMMISSION COMMITTED GRAVE ABUSE OF DISCRETION AMOUNTING TO LACK OF OR EXCESS OF JURISDICTION IN NOT APPLYING THE SAME PRINCIPLE PRONOUNCED IN ITS PRECEDENTS PERTAINING TO SIMILAR ISSUE.
+[17]
+The Court notes that although the assailed decision and resolution of the COA affirmed the disallowance of hazard pay, subsistence and laundry allowances under R.A. No. 7305, the KMG only questions the disallowance of hazard pay.
+[18]
+The KMG contends that the COA erroneously concluded that the GSIS managementâs continued grant of hazard pay benefits to the SIG personnel was unjustified because the DBM had disallowed such grant in its September 1995 letter. According to the petitioner, the GSIS was well within its right to grant hazard pay because it was so authorized by the DOH, the agency tasked to implement RA No. 7305. Moreover, the September 18, 1996 and July 18, 1997 letters of the Secretary of Health expressly state that the SIG personnel are entitled to hazard pay.
+[19]
+The KMG also claims that the COA committed grave abuse of discretion in declaring that the SIG personnel are not âhealth-related workersâ as the term is defined under RA No. 7305. It insists that as employees who process numerous medical claims, the SIG personnel are considered employees of a health-related establishment and are therefore entitled to receive hazard pay. In support of its argument, the KMG cites the Revised Implementing Rules of R.A. No. 7305 (Implementing Rules) which defines âhealth-related establishmentâ as a âhealth service facility or unit which performs health delivery functions within an agency whose legal mandate is not primarily the delivery of health services.â The KMG explains that their processing of numerous medical claims inevitably brings them into contact with infected persons, documents and objects, thereby exposing them to the risk of contracting diseases. The nature of their work thus renders them qualified to receive hazard pay.
+[20]
+It is likewise argued by the KMG that the COAâs statement that in view of the relatively higher pay of GSIS employees there is no need to grant them hazard pay is immaterial to the of issue whether the nature of the job of the SIG personnel entitles them to hazard pay allowances.
+The petitioner asserts that in disallowing the grant of hazard pay to the SIG personnel, the COA usurped the powers granted by R.A. No. 7305 to the Secretary of Health. Under Section 35 of R.A. No. 7305, it is the Secretary of Health or the Head of the Unit, with the approval of the Secretary of Health who determines who are entitled to hazard pay. Conversely, only the Secretary of Health can determine who are not entitled thereto. Thus, the KMG maintains, since the Secretary of Health previously declared that the SIG personnel are qualified to receive hazard pay under R.A. No. 7305, the disallowance of such benefit would be proper only if such disallowance is made by the Secretary of Health.
+[21]
+The KMG further argues that since they had been receiving hazard pay for several years already, such grant in their favor has ripened into a vested right.
+[22]
+The COA, on the other hand, asserts that it acted in accordance with law when it affirmed the disallowance of payment of hazard pay to the SIG personnel. According to the respondent, since the SIG personnel do not render actual medical services to the clients of GSIS, they are not health-related workers as defined under R.A. No. 7305.
+[23]
+It also claims that the DOH does not have blanket authority under R.A. No. 7305 to enact the implementing rules and regulations thereof as the KMG erroneously suggests. Under Section 35 of the law, the DOH must first consult the appropriate agencies of the Government, as well as professional and health workersâ organizations or unions before formulating the implementing rules of R.A. No. 7305.
+[24]
+ 
+The COA also points out that the certification issued by the DOH regarding the classification of an agency as a health-related agency for the purpose of determining entitlement to hazard pay is effective only for the year during which such certification was issued.
+[25]
+Finally, the COA disagrees with the KMGâs claim that the SIG personnelâs entitlement to hazard pay has ripened into a vested right because they have been receiving said benefits for several years already. It insists that hazard pay previously received by the SIG personnel is in the nature of an allowance and is therefore a mere privilege which may be withdrawn.
+[26]
+On October 8, 2002, the Court issued a 
+Resolution
+ giving due course to the petition and requiring both parties to submit their respective memoranda.
+[27]
+On November 29, 2002 and December 20, 2002 respectively, the KMG and the COA submitted their memoranda,
+[28]
+ reiterating the arguments in their pleadings filed earlier.
+The fundamental issues for the Courtâs resolution are interrelated.  They are as follows: (1) whether or not the SIG personnel are public health workers as defined by, or for purposes of, R.A. No. 7305 and (2) whether the COA committed grave abuse of discretion in disallowing the grant of hazard pay to the SIG personnel under the same law.
+There is no merit in the petition.
+Under R.A. No. 7305, the term âhealth workersâ meansâ
+. . . all persons who are engaged in health and health-related work, and all persons employed in all hospitals, sanitaria, health infirmaries, health centers, rural health units, barangay health stations, clinics and other health-related establishments owned and operated by the Government or its political subdivisions with original charters and shall include medical, allied health professionals, administrative and support personnel employed regardless of their employment status.
+[29]
+The Implementing Rules further define âpublic health workers,â or persons engaged in health and health-related work, as follows:
+Public Health Workers (PWH) â Persons engaged in health and health-related works. These cover employees in any of the following:
+ Any government entity whose primary function according to its legal mandate is the delivery of health services and the operation of hospitals, sanitaria, health infirmaries, health centers, rural health units, barangay health stations, clinics or other institutional forms which similarly perform health delivery functions, like clinical laboratories, treatment and rehabilitation centers, x-ray facilities and other similar activities involving the rendering of health services to the public; and
+ Offices attached to agencies whose primary function according to their legal mandates involves provision, financing or regulation of health services.
+Also covered are medical and allied health professionals, as well as administrative and support personnel, regardless of their employment status.
+[30]
+A careful reading of the aforequoted provisions of R.A. No. 7305 and the Implementing Rules readily shows that the nexus between a government employeeâs official functions and the provision of health services is not as tenuous as the KMG suggests. To be included within the coverage of R.A. No. 7305, a government employee must be 
+principally tasked to render health or health-related services.
+ Otherwise put, an employee performing functions not directly connected with the delivery of health services is not a public health worker within the contemplation of the law.
+The same conclusion is reached when the principle of 
+ejusdem generis
+ is used to ascertain the meaning of the term âpublic health workerâ under R.A. No. 7305 and its Implementing Rules. Under the principle of 
+ejusdem generis
+, where a statute describes things of a particular class or kind accompanied by words of a generic character, the generic word will usually be limited to things of a similar nature with those particularly enumerated, unless there be something in the context of the state which would repel such inference.
+[31]
+Applying the principle of 
+ejusdem generis
+, the inescapable conclusion is that a mere incidental or slight connection between the employeeâs work and the delivery of health or health-related services is not sufficient to make a government employee a public health worker within the meaning of R.A. 7305. The employee must be principally engaged in the delivery of health or health-related services to be deemed a public health worker.
+The question then arises whether the SIG personnel are performing functions which are health or health-related as to include them within the coverage of R.A. No. 7305.
+The GSIS, as the administrator of the funds for the pension and retirement funds of government employees,
+[32]
+ is obviously not a health or health-related establishment. Therefore, it must be established that the SIG is an office in the GSIS rendering health or health-related services for the SIG personnel to qualify as public health workers under R.A. No. 7305.
+In this regard, the Implementing Rules define a âhealth-related establishmentâ as a health service facility or unit which performs health service delivery functions within an agency whose legal mandate is not primarily the delivery of health services. Health-related establishments include clinics and medical departments of government corporations, medical corps and hospitals of the Armed Forces of the Philippines (AFP), and the specific health service section, division or bureau of a government agency not primarily engaged in health services.
+[33]
+The record reveals that the functions of the SIG personnel are not principally related to health. The SIG personnel perform tasks for the processing of GSIS membersâ claims for life insurance, retirement, disability and survivorship benefits.
+[34]
+ These functions are not similar to those of persons working in health-related establishments such as clinics or medical departments of government corporations, medical corps and hospitals of the AFP, and the specific health service units of government agencies. Undoubtedly, the SIG personnel cannot be considered public health workers under R.A. No. 7305.
+Significantly, the classes of persons considered as public health workers under R.A. No. 7305 and the Implementing Rules are those persons required to render primarily health or health-related services, 
+viz
+:
+(1) employees of government agencies primarily engaged in the delivery of health services;
+[35]
+(2) employees of government agencies primarily engaged in the operation of hospitals, sanitaria, health infirmaries, health centers, rural health units, barangay health stations, clinics or other similar institutions;
+[36]
+(3) employees of government agencies primarily engaged in the operation of clinical laboratories, treatment and rehabilitation centers, x-ray facilities and other similar facilities;
+[37]
+(4) employees in offices attached to government agencies principally involved in financing or regulation of health services; 
+[38]
+(5) medical professionals, allied health professionals, administrative and support personnel in the aforementioned agencies or offices;
+[39]
+ and
+(6) employees rendering health or health-related work in offices attached to an agency which is not principally engaged in health or health-related services.
+[40]
+Employees in the sixth category are deemed employees of âhealth-related establishments,â that is, facilities or units engaged in the delivery of health services, although the agencies to which such facilities or units are attached are not primarily involved in health or health-related services. Under the Implementing Rules, such health-related establishments include clinics or medical departments of government corporations, medical corps and hospitals of the Armed Forces of the Philippines, and the specific health service section, division, bureau or unit of a government agency.
+[41]
+Even assuming 
+arguendo
+ that the SIG personnel may be considered public health workers, they would still not be qualified to receive hazard pay benefits because the requirements for the grant of hazard pay under R.A. 7305 are duly circumscribed. Section 21 thereof states:
+Hazard Allowance
+. â Public health workers in hospitals, sanitaria, rural health units, main health centers, health infirmaries, barangay health stations, clinics and 
+other health-related establishments located in difficult areas, strife-torn or embattled areas, distressed or isolated stations, prisons (sic) camps, mental hospitals, radiation-exposed clinics, laboratories or disease-infested areas or in areas declared under state of calamity or emergency for the duration thereof which expose them to great danger, contagion, radiation, volcanic activity/eruption, occupational risks or perils to life as determined by the Secretary of Health or the Head of the unit with the approval of the Secretary of Health,
+ shall be compensated hazard allowances equivalent to at least twenty-five percent (25%) of the monthly basic salary of health workers receiving salary grade 19 and below, and five percent (5%) for health workers with salary grade 20 and above. (Emphasis supplied.)
+It is clear that only public health workers working in establishments specifically mentioned in Section 21 are entitled to receive hazard pay benefits.
+The Implementing Rules provide additional guidelines regarding entitlement to hazard pay benefits, including proof that the work of the public health worker concerned exposes him or her to specific kinds of hazard for at least fifty percent (50%) of his or her working hours,
+[42]
+ and outlines the procedure for the determination of a public health workerâs entitlement to hazard pay.
+[43]
+It cannot therefore be gainsaid that under R.A. 7305 and its Implementing Rules, the nature of the working conditions of the SIG personnel do not justify their entitlement to hazard pay under Section 21 thereof. Even if their work were primarily health-related, they do not stay in contaminated, strife-torn or isolated areas, and the risks brought about by their work environment to their health are not so grave as to warrant their entitlement to such benefit. 
+It is also worthy of note that the letters of the Secretary of Health dated January 5, 1996
+[44]
+ and September 18, 1996
+[45]
+ do not contain any explicit declaration that the SIG personnel are working in any of the areas mentioned in Section 21 of R.A. No. 7305 or that their working conditions expose them to health hazards to justify the grant of hazard pay in their favor.
+There is likewise no merit in the KMGâs contention that the COA gravely abused its discretion in disallowing the grant of hazard pay to the SIG personnel because it is the DOH which is mandated by law to make the determination as to who are entitled to the benefits under R.A. No. 7305.
+The DOH is the unit of the executive branch of government tasked to administer all laws, rules and regulations in the field of health.
+[46]
+ In addition, it is the DOH which is specifically tasked under Section 35 of R.A. No. 7305 to consult the appropriate government agencies and professional and health workersâ organizations or unions, and thereafter, to formulate and prepare the implementing rules and regulations of R.A. No. 7305.
+[47]
+Although it is the DOH which principally determines who are specifically entitled to benefits under R.A. No. 7305, its authority to make such determination must be in accordance with the definition of terms and standards set in the law and its Implementing Rules. Moreover, there is nothing in the law which precludes review of the DOHâs determinations by other government agencies such as the DBM and the COA in the performance of their respective functions. In fact, in accordance with Section 35 of R.A. 7305, the Secretary of Health collaborated with other government agencies and health workersâ organizations in drafting the Implementing Rules which lay down, among others, the guidelines and procedure for the grant of hazard pay to public health workers. Also, mindful of the objectives of R.A. No. 7305, the DBM had earlier requested for a moratorium on the DOHâs approval of requests made by agencies for certifications that their personnel are covered by R.A. No. 7305 due to âserious lapsesâ in the issuance of such certifications.
+[48]
+The DBM is mandated by law to assist the Chief Executive in the preparation, 
+execution and control of the national budget
+.
+[49]
+ It was therefore merely performing its duty to enforce and control the use of government funds when it evaluated the grant of hazard pay to the SIG personnel and discovered that such grant was not justified under R.A. No. 7305.
+The COA, on the other hand, is vested by the Constitution with the power and duty to examine, audit and settle all accounts pertaining to the revenue and receipts of, and expenditures or uses of funds or property owned or held in trust by, or pertaining to government owned and controlled corporations with original charters such as the GSIS, on a post-audit basis.
+[50]
+ It is mandated to determine whether government entities comply with laws and regulations in disbursing government funds, and to disallow illegal or irregular disbursements of government funds.
+[51]
+Thus, the COA acted pursuant to its duty and within the bounds of its jurisdiction in reviewing the grant of hazard pay to the SIG personnel under R.A. No. 7305 and subsequently disallowing the same for being violative of the provisions thereof.
+Considering all the foregoing and under any reasonable yeardstick, no grave abuse of discretion can be ascribed to the COA in disallowing the grant of hazard pay benefits to the SIG personnel. Clearly, under R.A. No. 7305 the SIG personnel are not public health workers. Clearly also under the same law, they are not entitled to hazard pay in any case.
+Furthermore, the KMG cannot invoke the previous determinations by the DOH that the SIG personnel are considered public health workers under R.A. No. 7305 to justify their entitlement to hazard pay under that law. The Court has previously held that practice, no matter how long continued, cannot give rise to any vested right if it is contrary to law.
+[52]
+ The erroneous application and enforcement of the law by public officers does not estop the Government from making a subsequent correction of such errors.
+[53]
+ Where the law expressly limits the grant of certain benefits to a specified class of persons, such limitation must be enforced even if it prejudices certain parties due to a previous mistake committed by public officials in granting such benefit.
+[54]
+The Court however finds that the DOH and GSIS officials concerned who granted hazard pay under R.A. No. 7305 to the SIG personnel acted in good faith, in the honest belief that there was legal basis for such grant. The SIG personnel in turn accepted the hazard pay benefits likewise believing that they were entitled to such benefit. At that time, neither the concerned DOH and GSIS officials nor the SIG personnel knew that the grant of hazard pay to the latter is not sanctioned by law. Thus, following the rulings of the Court in 
+De Jesus v. Commission on Audit
+,
+[55]
+ and 
+Blaquera v. Alcala
+,
+[56]
+ the SIG personnel who previously received hazard pay under R.A. No. 7305 need not refund such benefits.
+WHEREFORE, the petition is dismissed for lack of merit. COA 
+Decision No. 2001-068
+ and 
+Resolution No. 2001-207
+ are affirmed.
+SO ORDERED.
+Davide, Jr., C.J., Quisumbing, Ynares-Santiago, Austria-Martinez, Corona, Carpio-Morales, Callejo, Sr., Azcuna
+, and 
+Chico-Nazario, JJ.
+, concur.
+Puno, Panganiban, Sandoval-Gutierrez
+, and 
+Carpio, JJ.
+, on official leave.
+[1]
+ Re: Appeal of the Kapisanan ng mga Manggagawa sa Government Service Insurance System (GSIS-KMG) from Notice of Disallowance No. 99-120-XXX and 99-0138-ZZZ issued by COA Commissioners Guillermo N. Carague (Chairman), Raul C. Flores and Emmanuel M. Dalman, Rollo, pp. 37-42.
+[2]
+ Re: Motion of the Kapisanan ng mga Manggagawa sa Government Service Insurance System (KMG-GSIS) for reconsideration of COA Decision No. 2001-068 dated May 10, 2001 issued by COA Commissioners Guillermo N. Carague (Chairman), Raul C. Flores and Emmanuel M. Dalman, 
+Ibid.
+ at 35-36.
+[3]
+ Section 2, R.A. No. 7305.
+[4]
+ Dr. Juan M. Flavier.
+[5]
+ Rollo, pp. 62-63.
+[6]
+ Dr. Juan M. Flavier.
+[7]
+ Dr. Hilarion J. Ramiro, Jr., who succeeded Dr. Flavier.
+[8]
+ Rollo, pp. 45-46.
+[9]
+ 
+Ibid.
+ at 74-76.
+[10]
+ Dr. Carmencita N. Reodica, who succeeded Dr. Ramiro.
+[11]
+ Rollo, p. 47.
+[12]
+ 
+Ibid.
+ at 43.
+[13]
+ 
+Id.
+ at 44.
+[14]
+ 
+Id.
+ at 48-85.
+[15]
+ 
+Id.
+ at 37-42.
+[16]
+ 
+Id.
+ at 35-36.
+[17]
+ 
+Id.
+ at 388.
+[18]
+ 
+Supra
+ note 17.
+[19]
+ Memorandum of the KMG, 
+Id.
+ at 389-393.
+[20]
+ 
+Id.
+ at 393-396, 400-404.
+[21]
+ 
+Id.
+ at 398-400.
+[22]
+ 
+Id.
+ at 398-399.
+[23]
+ Memorandum of the COA, 
+Id.
+ at 371-374.
+[24]
+ 
+Id.
+ at 374-375.
+[25]
+ 
+Id.
+ at 375.
+[26]
+ 
+Id.
+ at 376.
+[27]
+ 
+Id.
+ at. 367.
+[28]
+ Memorandum of the KMG, 
+Id.
+ at 368-379; Memorandum of the COA, 
+Id.
+ at 383-411.
+[29]
+ Section 3, R.A. No. 7305.
+[30]
+ Paragraph 1, Rule III, Implementing Rules.
+[31]
+ 
+See
+ Philippine Basketball Association v. Court of Appeals, G.R. No. 119122, August 8, 2000, 337 SCRA 358; National Power Corporation v. Angas, G.R. Nos. 60225-26, May 8, 1992, 208 SCRA 542; Cebu Institute of Technology v. Ople, G.R. No. L-58870, December 18, 1987, 156 SCRA 629; Ollada v. Court of Tax Appeals, 99 Phil. 604 [1956]; Murphy, Morris & Co. v. Collector of Customs, 11 Phil. 456 [1908].
+[32]
+ 
+See
+ Republic Act No. 8291(the Revised GSIS Act of 1997); Section 3, Commonwealth Act No. 186 (An Act to Create and Establish a âGovernment Service Insurance Systemâ, to Provide for its Administration, and to Appropriate the Necessary Funds Therefor); Act No. 1638 (An Act providing for the retirement of officers and enlisted men of the Philippine Constabulary on part pay after twenty or more years of satisfactory service, and amending Act Numbered Six Hundred and Nineteen); Act No. 3050 (An Act to provide annual pensions for teachers employed in the Philippine public schools; to appropriate money and regulate the disbursement thereof); Act No. 3173 (An Act providing for the maintenance in the Insular Treasury of a special fund to be known as Pension and Retirement Fund for certain officers of the Philippine Health Service, and prescribing ways and means for its creation and application, and for other purposes).
+[33]
+ Section 2, Rule III of the Implementing Rules reads in full:
+Health-related Establishmentâhealth service facility or unit which performs health service delivery functions within an agency whose legal mandate is not primarily the delivery of health services. This applies to, among others, clinics and medical departments of government corporations, medical corps and hospitals of the AFP and the specific health service, section, division or bureau or any type of organizational subdivision of a government agency. In no case shall the law apply to the whole agency when the primary function of the agency is not the delivery of health services.
+[34]
+ 
+See
+ Records of COA Decision No. 2001-068, File 1 and Resolution No. 2001-207, File 1.
+[35]
+ Section 3, R.A. No. 7305, Paragraph 1, Rule III, Implementing Rules.
+[36]
+ 
+Ibid.
+[37]
+ 
+Id.
+[38]
+ Paragraph 1, Rule III, Implementing Rules.
+[39]
+ 
+Ibid.
+[40]
+ Section 1, Rule I in relation to Section 2, Rule III, Implementing Rules.
+Section 1, Rule I states:
+These Rules and Regulations shall cover persons 
+engaged in health and health-related work, employed in
+ hospitals, sanitaria, health centers, rural health units, barangay health stations, clinics and 
+other health-related establishments owned and operated by the government or its political subdivisions,
+ regardless of their employment status. Also covered are medical and allied professionals and support services personnel. (Emphasis supplied.)
+For full text of Section 2, Rule III, 
+see
+ note 33.
+[41]
+ Section 2, Rule III, Implementing Rules.
+[42]
+ Sections 7.1.1, 7.1.3, 7.1.5 and 7.1.6, Rule XV of the Implementing Rules provide:
+7.1.1. Eligibility to Receive Hazard Pay. â All public health workers covered under RA 7305 are eligible to receive hazard pay when the nature of their work exposes them to high risk/low risk hazards for at least fifty percent (50%) of their working hours as determined and approved by the Secretary of Health or his authorized representatives.
+7.1.2. Basis for Granting Hazard Pay. â The following hazards are recognized under RA 7305: difficult locations; strife-torn or embattled areas; distressed and isolated stations; prison camps; mental hospitals; radiation exposed clinics; laboratories and disease-infested areas; areas declared under a state of calamity or emergency for the duration when there is exposure to danger, contagious disease, radiation, volcanic activity or eruption, occupational risks and perils to life as determined by the Secretary of Health or the Head of the Unit with the approval of the Secretary of Health.
+7.1.3. Based on the standards provided by law, the following categories of hazard are hereby recognized:
+ High risk exposure shall refer to the direct, unavoidable and frequent exposure to radiation, communicable/contagious/infectious/biological hazards. It includes those who from time to time are authorized to travel and be assigned to hazardous workplaces where the above conditions exist.
+ High risk hazardous areas shall include the following:
+ Work areas in hospitals, sanitaria, rural health units, health centers, clinics, barangay health stations, municipal health offices and infirmaries which shall include public health workers but not limited to medical and allied health personnel directly involved in the delivery of services to patients with highly contagious and communicable diseases including those handling hospital paraphernalia used by patients such as linen, utensils, bed pan, etc. Under this category, all field health workers giving direct service delivery are already classified as high risk.
+ Radiation exposed areas/clinics such as laboratories and service workshops which involves operation of radiation emitting equipment and handling of radioactive and toxic substances but not limited to the services of x-ray technicians and physiotherapists.
+ Institutions for mental health where exposure to bodily harm, and risks from psychiatric patients actually exists.
+ Drug-abuse drop-in-centers or rehabilitation centers where exposure to bodily harm and risks from drug-crazed patient exists.
+ Work areas where rescue operations/evacuation have to be carried out due to natural calamities, where the health workers/rescuers are directly and actually exposed to harm danger or occupational risks or perils to life in the course of performing their duties.
+ Chemical and medical laboratories where health workers receive and directly handle infectious specimens or materials including but not limited to services rendered by pathologists, laboratory technicians and medical technicians.
+ Highly disease-infected and vector-infested areas including but not limited to services rendered by malariologists, entomologists, and zoologists.
+ Work areas involving handling of and spraying of insecticides, molluscides and hazardous chemicals, flammable, noxious and explosive substances including but not limited to services rendered by malaria spraymen, schistosomiasis spray-men, sanitary inspector and chemists.
+ Work areas involving direct handling of laboratory animals for purposes of experimentation, research, observation and the like.
+ Low risk exposure refers to infrequent and minimum degree of exposure in a hazardous workplace wherein personnel are not directly involved in the delivery of services but nevertheless are in contact from time to time with the former including the intended clientele and patients. Low-risk hazardous areas shall include the following:
+ Work areas in hospitals, sanitaria and infirmaries which entail minimal risks or danger to health and safety due to indirect and infrequent exposure to patients in the said areas which shall include technical and administrative personnel whose duties/functions require visitation, networking, coordinating, monitoring, evaluating, referrals, etc.
+ Work areas adjacent to near hospitals dealing with infectious diseases.
+â¦
+7.1.5. Rates of Hazard Pay
+ Public health workers shall be compensated hazard allowances equivalent to at least twenty-five (25%) of the monthly basic salary of health workers, receiving salary grade 19 and below, and five percent (5%) for health workers with salary grade 20 and above. This may be granted on a monthly, quarterly or annual basis.
+ The implementation of Hazard Pay shall be made on staggered basis provided that at the fifth year, the 25% and 5% differentiation shall have been fully complied with or fully satisfied.
+1999
+-
+1st year
+-
+5%
+2000
+-
+2nd year
+-
+10%
+2001
+-
+3rd year
+-
+15%
+2002
+-
+4th year
+-
+20%
+2003
+-
+5th year
+-
+25%
+ The public health workers exposed to high risk hazard may receive a hazard pay not exceeding 5% higher than those prescribed above.
+7.1.6. Limitations
+Officials and employees who are under the following instance of more than one (1) full calendar month shall not be entitled to Hazard Duty Pay:
+ Those on vacation, sick, and study leave with or without pay;
+ Those on maternity/paternity and terminal leave; and
+ Those on full time attendance in training grant/scholarship grant/seminar or any other similar activity, except when the place of activity is certified to be risky or hazardous area as specified under 7.1.2. and 7.1.3.
+[43]
+ Section 7.1.4, Rule XV of the Implementing Rules provides:
+7.1.4.Entitlement and Determination of Personnel Exposed to Hazards:
+ Each agency shall prepare a list of positions in its plantilla with the corresponding job description that describes the basis for justifying such positions that are exposed to high risk or low risk hazard This list shall be reviewed by a DOH technical committee created for the purpose at the national and regional levels, according to the standards provided above. Occupants of these positions shall then be granted hazard pay during their periods of work.
+ Each head of agency shall establish a procedure for identifying personnel who shall be exposed to high risk or low risk hazard including the duration of such exposure. This procedure shall be similar to the provisions authorizing overtime pay.
+ The Head of Agency/Local Chief Executive is authorized to allow the grant of hazard pay to all public health workers in accordance with the rules and regulations in this IRR without the need for approval by the Department of Budget and Management (DBM) and shall ensure that funds for this purpose are set aside and made readily available.
+ The period of entitlement to Hazard Pay shall be co-terminus with the duration of the actual assignment of the official or employee in the work areas enumerated under item 7.1.3 above.
+ Part-time officials and employees shall receive half of the amount received by the full-time official or employee in the same situation.
+ Hazard Pay of officials and employees who are on full-time or part-time detail with another agency shall be paid by their mother agency.
+ Officials and employees, who would appear to be entitled to more than one type of Hazard Pay due to the peculiar nature of their work, shall only be allowed to enjoy one type of Hazard Pay that is more advantageous to them.
+[44]
+ Rollo, pp. 45-46.
+[45]
+ 
+Id.
+ at 47.
+[46]
+ Section 3, Chapter 1, Title IX, Book IV, Revised Administrative Code of 1987.
+[47]
+ Section 35, R.A. 7305 provides:
+Rules and Regulations
+. â The Secretary of Health after consultation with appropriate agencies of the Government as well as professional and health workers' organizations or unions, shall formulate and prepare the necessary rules and regulations to implement the provisions of this Act. Rules and regulations issued pursuant to this Section shall take effect thirty (30) days after publication in a newspaper of general circulation.
+[48]
+ 
+See
+ COA Decision No. 2001-068, Rollo, p. 39.
+[49]
+ Section 3, Chapter 1, Title XVII, Book IV of the Revised Administrative Code of 1987 reads in full:
+Powers and Functions
+. â The Department of Budget and management shall assist the President in the preparation of a national resources and expenditures budget, preparation, execution and control of the National Budget, preparation and maintenance of accounting systems essential to the budgetary process, achievement of more economy and efficiency in the management of government operations, administration of compensation and position classification systems, assessment of organizational effectiveness and review and evaluation of legislative proposals having budgetary or organizational implications.
+[50]
+ Section 2, Subdivision D, Article IX, Constitution; Section 11, Chapter 4, Subtitle B, Title I, Book V, Administrative Code of 1987. 
+See also
+ Feliciano v. Commission on Audit, G.R. No. 147402, January 14, 2004.
+[51]
+ De Jesus v. Commission on Audit, G.R. No. 149154, June 10, 2003, 403 SCRA 666, citing National Electrification Administration v. Commission on Audit, G.R. No. 143481, February 15, 2002, 377 SCRA 223.
+[52]
+ Baybay Water District v. Commission on Audit, G.R. Nos. 147248-49, January 23, 2002, 374 SCRA 482; Grace Christian High School v. Court of Appeals, G.R. No. 108905, October 23, 1997, 281 SCRA 133.
+[53]
+ Baybay Water District v. Commission on Audit, 
+supra
+; E.Rodriguez, Inc. v. Collector of Internal Revenue, G.R. No. L-23041, July 31, 1969, 28 SCRA 1119; Republic v. Philippine Long Distance Telephone Company, G.R. No. L-18841, January 27, 1969, 26 SCRA 620; Philippine Long Distance Telephone Company v. Collector of Internal Revenue, 90 Phil 674 (1952).
+[54]
+ Baybay Water District v. Commission on Audit, 
+supra
+; Cebu Portland Cement Company v. De Jesus, G.R. No. L-18146, March 30, 1963, 7 SCRA 572.
+[55]
+ G.R. No. 149154, June 10, 2003, 403 SCRA 666.
+[56]
+ G.R. No. 109406, September 11, 1998, 295 SCRA 366.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)
