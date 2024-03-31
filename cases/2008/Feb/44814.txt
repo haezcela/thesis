@@ -1,0 +1,253 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			568 Phil. 572
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 151413, February 13, 2008 ]
+
+
+CAGAYAN VALLEY DRUG CORPORATION, Petitioner, vs. COMMISSIONER OF INTERNAL REVENUE, Respondent.
+D E C I S I O N
+
+
+
+
+VELASCO JR., J.:
+
+
+The Case
+This petition for review under Rule 45 of the Rules of Court seeks the recall of the August 31, 2000 Resolution
+[1]
+ of the Court of Appeals (CA) in CA-G.R. SP No. 59778, which dismissed petitioner Cagayan Valley Drug Corporationâs petition for review of the April 26, 2000 Decision
+[2]
+ of the Court of Tax Appeals (CTA) in C.T.A. Case No. 5581 on the ground of defective verification and certification against forum shopping.
+The Facts
+Petitioner, a corporation duly organized and existing under Philippine laws, is a duly licensed retailer of medicine and other pharmaceutical products. It operates two drugstores, one in Tuguegarao, Cagayan, and the other in Roxas, Isabela, under the name and style of âMercury Drug.â
+Petitioner alleged that in 1995, it granted 20% sales discounts to qualified senior citizens on purchases of medicine pursuant to Republic Act No. (RA) 7432
+[3]
+ and its implementing rules and regulations.
+In compliance with Revenue Regulation No. (RR) 2-94, petitioner treated the 20% sales discounts granted to qualified senior citizens in 1995 as deductions from the gross sales in order to arrive at the net sales, instead of treating them as tax credit as provided by Section 4 of RA 7432.
+On December 27, 1996, however, petitioner filed with the Bureau of Internal Revenue (BIR) a claim for tax refund/tax credit of the full amount of the 20% sales discount it granted to senior citizens for the year 1995, allegedly totaling to PhP 123,083 in accordance with Sec. 4 of RA 7432.
+The BIRâs inaction on petitionerâs claim for refund/tax credit compelled petitioner to file on March 18, 1998 a petition for review before the CTA docketed as C.T.A. Case No. 5581 in order to forestall the two-year prescriptive period provided under Sec. 230
+[4]
+ of the 1977 Tax Code, as amended. Thereafter, on March 31, 2000, petitioner amended its petition for review.
+The Ruling of the Court of Tax Appeals
+On April 26, 2000, the CTA rendered a Decision dismissing the petition for review for lack of merit.
+[5]
+The CTA sustained petitionerâs contention that pursuant to Sec. 4 of RA 7432, the 20% sales discounts petitioner extended to qualified senior citizens in 1995 should be treated as tax credit and not as deductions from the gross sales as erroneously interpreted in RR 2-94. The CTA reiterated its consistent holdings that RR 2-94 is an invalid administrative interpretation of the law it purports to implement as it contravenes and does not conform to the standards RA 7432 prescribes.
+Notwithstanding petitionerâs entitlement to a tax credit from the 20% sales discounts it extended to qualified senior citizens in 1995, the CTA nonetheless dismissed petitionerâs action for refund or tax credit on account of petitionerâs net loss in 1995. First, the CTA rejected the refund as it is clear that RA 7432 only grants the 20% sales discounts extended to qualified senior citizens as tax credit and not as tax refund. Second, in rejecting the tax credit, the CTA reasoned that while petitioner may be qualified for a tax credit, it cannot be so extended to petitioner on account of its net loss in 1995.
+The CTA ratiocinated that on matters of tax credit claim, the government applies the amount determined to be reimbursable after proper verification against any sum that may be due and collectible from the taxpayer. However, if no tax has been paid or if no amount is due and collectible from the taxpayer, then a tax credit is unavailing. Moreover, it held that before allowing recovery for claims for a refund or tax credit, it must first be established that there was an actual collection and receipt by the government of the tax sought to be recovered. In the instant case, the CTA found that petitioner did not pay any tax by virtue of its net loss position in 1995.
+Petitionerâs Motion for Reconsideration was likewise denied through the appellate tax courtâs June 30, 2000 Resolution.
+[6]
+The Ruling of the Court of Appeals
+Aggrieved, petitioner elevated the matter before the CA, docketed as CA-G.R. SP No. 59778. On August 31, 2000, the CA issued the assailed Resolution
+[7]
+ dismissing the petition on procedural grounds. The CA held that the person who signed the verification and certification of absence of forum shopping, a certain Jacinto J. Concepcion, President of petitioner, failed to adduce proof that he was duly authorized by the board of directors to do so.
+As far as the CA was concerned, the main issue was whether or not the verification and certification of non-forum shopping signed by the President of petitioner is sufficient compliance with Secs. 4 and 5, Rule 7 of the 1997 Rules of Civil Procedure.
+The verification and certification in question reads:
+I, JACINTO J. CONCEPCION, of legal age with office address at 2nd Floor, Mercury Drug Corporation, No. 7 Mercury Ave, Bagumbayan, Quezon City, under oath, hereby state that:
+1. I am the President of Cagayan Valley Drug Corporation, Petitioner in the above-entitled case and am duly authorized to sign this Verification and Certification of Absence of Forum Shopping by the Board of Director.
+x x x x
+The CA found no sufficient proof to show that Concepcion was duly authorized by the Board of Directors of petitioner. The appellate court anchored its disposition on our ruling in 
+Premium Marble Resources, Inc. v. Court of Appeals 
+(
+Premium
+), that â[i]n the absence of an authority from the Board of Directors, no person, not even the officers of the corporation, can validly bind the corporation.â
+[8]
+Hence, we have this petition.
+The Issues
+Petitioner raises two issues: 
+first
+, whether petitionerâs president can sign the subject verification and certification sans the approval of its Board of Directors. And 
+second
+, whether the CTA committed reversible error in denying and dismissing petitionerâs action for refund or tax credit in C.T.A. Case No. 5581.
+The Courtâs Ruling
+The petition is meritorious.
+Premium
+ not applicable
+As regards the first issue, we find the CA to have erroneously relied on 
+Premium
+. In said case, the issue tackled was not on whether the president of Premium Marble Resources, Inc. was authorized to sign the verification and certification against forum shopping, but rather on which of the two sets of officers, both claiming to be the legal board of directors of Premium, have the authority to file the suit for and in behalf of the company. The factual antecedents and issues in 
+Premium
+ are not on all fours with the instant case and is, therefore, not applicable.
+With respect to an individual litigant, there is no question that litigants must sign the sworn verification and certification unless they execute a power of attorney authorizing another person to sign it. With respect to a juridical person, Sec. 4, Rule 7 on verification and Sec. 5, Rule 7 on certification against forum shopping are silent as to who the authorized signatory should be. Said rules do not indicate if the submission of a board resolution authorizing the officer or representative is necessary.
+Corporate powers exercised through board of directors
+It must be borne in mind that Sec. 23, in relation to Sec. 25 of the Corporation Code, clearly enunciates that all corporate powers are exercised, all business conducted, and all properties controlled by the board of directors. A corporation has a separate and distinct personality from its directors and officers and can only exercise its corporate powers through the board of directors. Thus, it is clear that an individual corporate officer cannot solely exercise any corporate power pertaining to the corporation without authority from the board of directors. This has been our constant holding in cases instituted by a corporation.
+In a slew of cases, however, we have recognized the authority of some corporate officers to sign the verification and certification against forum shopping. In 
+Mactan-Cebu International Airport Authority v. CA
+, we recognized the authority of a general manager or acting general manager to sign the verification and certificate against forum shopping;
+[9]
+ in 
+Pfizer v. Galan
+, we upheld the validity of a verification signed by an âemployment specialistâ who had not even presented any proof of her authority to represent the company;
+[10]
+ in 
+Novelty Philippines, Inc., v. CA
+, we ruled that a personnel officer who signed the petition but did not attach the authority from the company is authorized to sign the verification and non-forum shopping certificate;
+[11]
+ and in 
+Lepanto Consolidated Mining Company v. WMC Resources International Pty. Ltd.
+ (
+Lepanto
+), we ruled that the Chairperson of the Board and President of the Company can sign the verification and certificate against non-forum shopping even without the submission of the boardâs authorization.
+[12]
+In sum, we have held that the following officials or employees of the company can sign the verification and certification without need of a board resolution: (1) the Chairperson of the Board of Directors, (2) the President of a corporation, (3) the General Manager or Acting General Manager, (4) Personnel Officer, and (5) an Employment Specialist in a labor case.
+While the above cases do not provide a complete listing of authorized signatories to the verification and certification required by the rules, the determination of the sufficiency of the authority was done on a case to case basis. The rationale applied in the foregoing cases is to justify the authority of corporate officers or representatives of the corporation to sign the verification or certificate against forum shopping, being âin a position to verify the truthfulness and correctness of the allegations in the petition.â
+[13]
+Authority from board of directors required
+In 
+Philippine Airlines v. Flight Attendants and Stewards Association of the Philippines
+, we ruled that only individuals vested with authority by a valid board resolution may sign the certificate of non-forum shopping on behalf of a corporation. The action can be dismissed if the certification was submitted unaccompanied by proof of the signatoryâs authority.
+[14]
+ We believe that appending the board resolution to the complaint or petition is the better procedure to obviate any question on the authority of the signatory to the verification and certification. The required submission of the board resolution is grounded on the basic precept that corporate powers are exercised by the board of directors,
+[15]
+ and not solely by an officer of the corporation. Hence, the power to sue and be sued in any court or quasi-judicial tribunal is necessarily lodged with the said board.
+There is substantial compliance with Rule 7, Secs. 4 and 5
+In the case at bar, we so hold that petitioner substantially complied with Secs. 4 and 5, Rule 7 of the 1997 Revised Rules on Civil Procedure. 
+First
+, the requisite board resolution has been submitted albeit belatedly by petitioner. 
+Second
+, we apply our ruling in 
+Lepanto
+ with the rationale that the President of petitioner is in a position to verify the truthfulness and correctness of the allegations in the petition. 
+Third
+, the President of petitioner has signed the complaint before the CTA at the inception of this judicial claim for refund or tax credit.
+Consequently, the petition in CA-G.R. SP No. 59778 ought to be reinstated. However, in view of the enactment of RA 9282 which made the decisions of the CTA appealable to this Court, we will directly resolve the second issue which is a purely legal one.
+Petitioner entitled to tax credit
+The pith of the dispute between petitioner and respondent is whether petitioner is entitled to a tax refund or tax credit of 20% sales discount granted to senior citizens under RA 7432 or whether the discount should be treated as a deduction from gross income.
+This issue is not new, as the Court has resolved several cases involving the very same issue. In 
+Commissioner of Internal Revenue v. Central Luzon Drug Corporation
+ (
+Central Luzon
+),
+[16]
+ we held that private drug companies are entitled to a tax credit for the 20% sales discounts they granted to qualified senior citizens under RA 7432 and nullified Secs. 2.i and 4 of RR 2-94. In 
+Bicolandia Drug Corporation (formerly Elmas Drug Corporation) v. Commissioner of Internal Revenue
+,
+[17]
+ we ruled that petitioner therein is entitled to a tax credit of the âcostâ or the full 20% sales discounts it granted pursuant to RA 7432. In the related case of 
+Commissioner of Internal Revenue v. Bicolandia Drug Corporation
+,
+[18]
+ we likewise ruled that respondent drug company was entitled to a tax credit, and we struck down RR 2-94 to be null and void for failing to conform with the law it sought to implement.
+A perusal of the April 26, 2000 CTA Decision shows that the appellate tax court correctly ruled that the 20% sales discounts petitioner granted to qualified senior citizens should be deducted from petitionerâs income tax due and not from petitionerâs gross sales as erroneously provided in RR 2-94. However, the CTA erred in denying the tax credit to petitioner on the ground that petitioner had suffered net loss in 1995, and ruling that the tax credit is unavailing.
+Net loss in a taxable year does not preclude grant of tax credit
+It is true that petitioner did not pay any tax in 1995 since it suffered a net loss for that taxable year. This fact, however, without more, does not preclude petitioner from availing of its statutory right to a tax credit for the 20% sales discounts it granted to qualified senior citizens. The law then applicable on this point is clear and without any qualification. Sec. 4 (a) of RA 7432 pertinently provides:
+Sec. 4. Privileges for the Senior citizens.ââThe senior citizens shall be entitled to the following:
+ 
+a)
+the grant of twenty percent (20%) discount from all establishments  relative to utilization of transportation services, hotels and similar  lodging establishments, restaurants and recreation centers and purchase  of medicines anywhere in the country: 
+Provided
+, That 
+private  establishments may claim the cost as tax credit
+. (Emphasis ours.)
+ 
+The fact that petitioner suffered a net loss in 1995 will not make the tax credit due to petitioner unavailable. This is the core issue resolved in 
+Central Luzon
+, where we ruled that the net loss for a taxable year does not bar the grant of the tax credit to a taxpayer pursuant to RA 7432 and that prior tax payments are not required for such grant. We explained:
+Although this 
+tax credit
+ benefit is available, it need not be used by losing ventures, since there is no tax liability that calls for its application.  Neither can it be reduced to nil by the quick yet callow stroke of an administrative pen, simply because no reduction of taxes can instantly be effected.  By its nature, the 
+tax credit
+ may still be deducted from a 
+future
+, not a 
+present
+, tax liability, without which it does not have any use. x x x
+x x x x
+While a tax liability is essential to the 
+availment or use
+ of any 
+tax credit
+, prior tax payments are not.  On the contrary, for the 
+existence or grant
+ solely of such credit, neither a tax liability nor a prior tax payment is needed.  The Tax Code is in fact replete with provisions granting or allowing 
+tax credits
+, even though no taxes have been previously paid.
+[19]
+It is thus clear that petitioner is entitled to a tax credit for the full 20% sales discounts it extended to qualified senior citizens for taxable year 1995. Considering that the CTA has not disallowed the PhP 123,083 sales discounts petitioner claimed before the BIR and CTA, we are constrained to grant them as tax credit in favor of petitioner.
+Consequently, petitionerâs appeal before the CA in CA-G.R. SP No. 59778 must be granted, and, necessarily, the April 26, 2000 CTA Decision in C.T.A. Case No. 5581 reversed and set aside.
+WHEREFORE
+, the petition is 
+GRANTED
+. The August 31, 2000 CA Resolution in CA-G.R. SP No. 59778 is 
+ANNULLED
+ and 
+SET ASIDE
+. The April 26, 2000 CTA Decision in C.T.A. Case No. 5581 dismissing petitionerâs claim for tax credit is accordingly 
+REVERSED AND SET ASIDE
+. The Commissioner of Internal Revenue is 
+ORDERED
+ to issue a Tax Credit Certificate in the name of petitioner in the amount of PhP 123,083. No costs.
+SO ORDERED.
+Quisumbing, (Chairperson), Carpio, Carpio-Morales,
+ and 
+Tinga, JJ.,
+ concur.
+[1]
+ 
+Rollo
+, pp. 77-78. Penned by Associate Justice Ramon A. Barcelona and concurred in by Associate Justices Marina L. Buzon and Edgardo P. Cruz.
+[2]
+ Id. at 37-44. Penned by Associate Judge Ramon O. De Veyra and concurred in by Associate Judge Amancio Q. Saga. Presiding Judge Ernesto D. Acosta dissented.
+[3]
+ âAn Act to Maximize the Contribution of Senior Citizens to Nation Building, Grant Benefits and Special Privileges and for Other Purposesâ (1992).
+[4]
+ Now Sec. 229 of RA 8424 entitled âAn Act Amending the National Internal Revenue Code, as Amended, and for Other Purposesâ (1997).
+[5]
+ Supra note 2, at 44.
+[6]
+ 
+Rollo
+, p. 50.
+[7]
+ Supra note 1.
+[8]
+ G.R. No. 96551, November 4, 1996, 264 SCRA 11, 18.
+[9]
+ G.R. No. 139495, November 27, 2000, 346 SCRA 126, 132-133.
+[10]
+ G.R. No. 143389, May 25, 2001, 358 SCRA 240, 246-248.
+[11]
+ G.R. No. 146125, September 17, 2003, 411 SCRA 211, 217-220.
+[12]
+ G.R. No. 153885, September 24, 2003, 412 SCRA 101, 109.
+[13]
+ 
+Pfizer v. Galan
+, supra note 10, at 247.
+[14]
+ G.R. No. 143088, January 24, 2006, 479 SCRA 605, 608.
+[15]
+ CORPORATION CODE, Sec. 23.
+[16]
+ G.R. No. 159647, April 15, 2005, 456 SCRA 414.
+[17]
+ G.R. No. 142299, June 22, 2006, 492 SCRA 159.
+[18]
+ G.R. No. 148083, July 21, 2006, 496 SCRA 176.
+[19]
+ Supra note 16, at 429-430.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

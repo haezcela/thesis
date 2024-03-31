@@ -1,0 +1,701 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			585 Phil. 337
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 173176, August 26, 2008 ]
+
+
+JUDY ANNE L. SANTOS, PETITIONER, VS. PEOPLE OF THE PHILIPPINES AND BUREAU OF INTERNAL REVENUE, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+CHICO-NAZARIO, J.:
+
+
+Before this Court is a Petition for Review on 
+Certiorari
+[1]
+ under Rule 45 of the Revised Rules of Court filed by petitioner Judy Anne L. Santos (Santos) seeking the reversal and setting aside of the Resolution,
+[2]
+ dated 19 June 2006, of the Court of Tax Appeals (CTA) 
+en banc
+ in C.T.A. EB. CRIM. No. 001 which denied petitioner's Motion for Extension of Time to File Petition for Review.  Petitioner intended to file the Petition for Review with the CTA 
+en banc 
+to appeal the Resolutions dated 23 February 2006
+[3]
+ and 11 May 2006
+[4]
+ of the CTA First Division in C.T.A. Crim. Case No. 0-012 denying, respectively, her Motion to Quash the Information filed against her for violation of Section 255, in relation to Sections 254 and 248(B) of the National Internal Revenue Code (NIRC), as amended; and her Motion for Reconsideration.
+There is no controversy as to the facts that gave rise to the present Petition.
+On 19 May 2005, then Bureau of Internal Revenue (BIR) Commissioner Guillermo L. Parayno, Jr. wrote to the Department of Justice (DOJ) Secretary Raul M. Gonzales a letter
+[5]
+ regarding the possible filing of criminal charges against petitioner.  BIR Commissioner Parayno began his letter with the following statement:
+I have the honor to refer to you for preliminary investigation and filing of an information in court if evidence so warrants, the herein attached Joint Affidavit of 
+RODERICK C. ABAD, STIMSON P. CUREG, VILMA V. CARONAN, RHODORA L. DELOS REYES 
+under Group Supervisor 
+TEODORA V. PURINO
+, of the National Investigation Division, BIR National Office Building, BIR Road, Diliman, Quezon City, recommending the criminal prosecution of 
+MS. JUDY ANNE LUMAGUI SANTOS
+ for 
+substantial underdeclaration of income, which constitutes as 
+prima facie
+ evidence of false or fraudulent return
+ under Section 248(B) of the NIRC and punishable under Sections 254 and 255 of the Tax Code.
+In said letter, BIR Commissioner Parayno summarized the findings of the investigating BIR officers that petitioner, in her Annual Income Tax Return for taxable year 2002 filed with the BIR, declared an income of P8,033,332.70 derived from her talent fees solely from ABS-CBN; initial documents gathered from the BIR offices and those given by petitioner's accountant and third parties, however, confirmed that petitioner received in 2002 income in the amount of at least P14,796,234.70, not only from ABS-CBN, but also from other sources, such as movies and product endorsements; the estimated tax liability arising from petitioner's underdeclaration amounted to P1,718,925.52, including incremental penalties; the non-declaration by petitioner of an amount equivalent to at least 84.18% of the income declared in her return was considered a substantial underdeclaration of income, which constituted 
+prima facie
+ evidence of false or fraudulent return under Section 248(B)
+[6]
+ of the NIRC, as amended; and petitioner's failure to account as part of her income the professional fees she received from sources other than ABS-CBN and her underdeclaration of the income she received from ABS-CBN amounted to manifest violations of Sections 254
+[7]
+ and 255,
+[8]
+ as well as Section 248(B) of the NIRC, as amended.
+After an exchange of affidavits and other pleadings by the parties, Prosecution Attorney Olivia Laroza-Torrevillas issued a Resolution
+[9]
+ dated 21 October 2005 finding probable cause and recommending the filing of a criminal information against petitioner for violation of Section 255 in relation to Sections 254 and 248(B) of the NIRC, as amended.  The said Resolution was approved by Chief State Prosecutor Jovencito R. Zuno.
+Pursuant to the 21 October 2005 DOJ Resolution, an Information
+[10]
+ for violation of Section 255 in relation to Sections 254 and 248(B) of the NIRC, as amended, was filed with the CTA on 3 November 2005 and docketed as C.T.A. Crim. Case No. 0-012. However, the CTA First Division, after noting several discrepancies in the Information filed, required the State Prosecutor to clarify and explain the same, and to submit the original copies of the parties' affidavits, memoranda, and all other evidence on record.
+[11]
+Consequently, Prosecution Attorney Torrevillas, on behalf of respondent People, submitted on 1 December 2005 a Compliance with 
+Ex Parte
+ Motion to Admit Attached Information.
+[12]
+  Prosecution Attorney Torrevillas moved that the documents submitted be admitted as part of the record of the case and the first Information be substituted by the attached second Information.  The second Information
+[13]
+ addressed the discrepancies noted by the CTA in the first Information, by now reading thus:
+The undersigned Prosecution Attorney of the Department of Justice hereby accuses 
+JUDY ANNE SANTOS y Lumagui
+ of the offense of violation of Section 255, of Republic Act No. 8424, otherwise known as the "Tax Reform Act of 1997," as amended, committed as follows:
+"That on or about the 15
+th
+ day of April, 2003, at Quezon City, Philippines, and within the jurisdiction of this Honorable Court, the above-named accused did then and there, willfully, unlawfully, and feloniously file a false and fraudulent income tax return for taxable year 2002 by indicating therein a gross income of P8,033,332.70 when in truth and in fact her correct income for taxable year 2002 is P16,396,234.70 or a gross underdeclaration/difference of P8,362,902 resulting to an income tax deficiency of P1,395,116.24 excluding interest and penalties thereon of P1,319,500.94 or a total income tax deficiency of P2,714,617.18 to the damage and prejudice of the government of the same amount.["]
+In a Resolution
+[14]
+ dated 8 December 2005, the CTA First Division granted the People's 
+Ex Parte
+ Motion and admitted the second Information.
+The CTA First Division then issued on 9 December 2005 a warrant for the arrest of petitioner.
+[15]
+  The tax court lifted and recalled the warrant of arrest on 21 December 2005 after petitioner voluntarily appeared and submitted herself to its jurisdiction and filed the required bail bond in the amount of P20,000.00.
+[16]
+On 10 January 2006, petitioner filed with the CTA First Division a Motion to Quash
+[17]
+ the Information filed in C.T.A. Crim. Case No. 0-012 on the following grounds:
+The facts alleged in the INFORMATION do not constitute an offense;
+The officer who filed the information had no authority to do so;
+The Honorable Court of Tax Appeals has no jurisdiction over the subject matter of the case; and
+The information is void 
+ab
+ initio
+, being violative of due process, and the equal protection of the laws.
+In a Resolution
+[18]
+ dated 23 February 2006, the CTA First Division denied petitioner's Motion to Quash and accordingly scheduled her arraignment on 2 March 2006 at 9:00 a.m.  Petitioner filed a Motion for Reconsideration and/or Reinvestigation,
+[19]
+ which was again denied by the CTA First Division in a Resolution
+[20]
+ dated 11 May 2006.
+Petitioner received a copy of the 11 May 2006 Resolution of the CTA First Division on 17 May 2006.  On 1 June 2006, petitioner filed with the CTA 
+en banc
+ a Motion for Extension of Time to File Petition for Review, docketed as C.T.A. EB. CRIM. No. 001.  She filed her Petition for Review with the CTA 
+en banc
+ on 16 June 2006.  However, in its Resolution
+[21]
+ dated 19 June 2006, the CTA 
+en banc
+ denied petitioner's Motion for Extension of Time to File Petition for Review, ratiocinating that:
+In the case before Us, the petitioner is asking for an extension of time to file her Petition for Review to appeal the denial of her motion to quash in C.T.A. Crim. Case No. 0-012.  As stated above, a resolution denying a motion to quash is not a proper subject of an appeal to the Court 
+En Banc
+ under Section 11 of R.A. No. 9282 because a ruling denying a motion to quash is only an interlocutory order, as such, it cannot be made the subject of an appeal pursuant to said law and the Rules of Court.  Section 1 of Rule 41 of the Rules of Court provides that "no appeal may be taken from an interlocutory order" and Section 1 (i) of Rule 50 provides for the dismissal of an appeal on the ground that "the order or judgment appealed from is not appealable".  Time and again, the Supreme Court had ruled that the remedy of the accused in case of denial of a motion to quash is for the accused to enter a plea, go to trial and after an adverse decision is rendered, to appeal therefrom in the manner authorized by law.
+Since a denial of a Motion to Quash is not appealable, granting petitioner's Motion for Extension of Time to File Petition for Review will only be an exercise in futility considering that the dismissal of the Petition for Review that will be filed by way of appeal is mandated both by law and jurisprudence.
+[22]
+Ultimately, the CTA 
+en banc
+ decreed:
+WHEREFORE
+, premises considered, petitioner's Motion for Extension of Time to File Petition for Review filed on June 1, 2006 is hereby DENIED for lack of merit.
+[23]
+Now comes petitioner before this Court raising the sole issue of:
+WHETHER A RESOLUTION OF A CTA DIVISION DENYING A MOTION TO QUASH IS A PROPER SUBJECT OF AN APPEAL TO THE CTA 
+EN BANC
+ UNDER SECTION 11 OF REPUBLIC ACT NO. 9282, AMENDING SECTION 18 OF REPUBLIC ACT NO. 1125.
+[24]
+Section 18 of Republic Act No. 1125,
+[25]
+ as amended by Republic Act No. 9282,
+[26]
+ provides:
+SEC. 18. 
+Appeal to the Court of Tax Appeals En Banc
+. -  No civil proceedings involving matters arising under the National Internal Revenue Code, the Tariff and Customs Code or the Local Government Code shall be maintained, except as herein provided, until and unless an appeal has been previously filed with the CTA and disposed of in accordance with the provisions of this Act.
+A party adversely affected by a resolution of a Division of the CTA on a motion for reconsideration or new trial, may file a petition for review with the CTA 
+en banc
+.
+Petitioner's primary argument is that a resolution of a CTA Division denying a motion to quash is a proper subject of an appeal to the CTA 
+en banc
+ under Section 18 of Republic Act No. 1125, as amended, because the law does not say that only a resolution that constitutes a final disposition of a case may be appealed to the CTA 
+en banc
+. If the interpretation of the law by the CTA 
+en banc
+ prevails, a procedural void is created leaving the parties, such as petitioner, without any remedy involving erroneous resolutions of a CTA Division.
+The Court finds no merit in the petitioner's assertion.
+The petition for review under Section 18 of Republic Act No. 1125, as amended, may 
+be new to the CTA, but it is actually a mode of appeal long available in courts of 
+general jurisdiction.
+Petitioner is invoking a very narrow and literal reading of Section 18 of Republic Act No. 1125, as amended.
+Indeed, the filing of a petition for review with the CTA 
+en banc 
+from a decision, resolution, or order of a CTA Division is a remedy newly made available in proceedings before the CTA, necessarily adopted to conform to and address the changes in the CTA.
+There was no need for such rule under Republic Act No. 1125, prior to its amendment, since the CTA then was composed only of one Presiding Judge and two Associate Judges.
+[27]
+  Any two Judges constituted a quorum and the concurrence of two Judges was necessary to promulgate any decision thereof.
+[28]
+The amendments introduced by Republic Act No. 9282 to Republic Act No. 1125 elevated the rank of the CTA to a collegiate court, with the same rank as the Court of Appeals, and increased the number of its members to one Presiding Justice and five Associate Justices.
+[29]
+ The CTA is now allowed to sit 
+en banc
+ or in two Divisions with each Division consisting of three Justices.  Four Justices shall constitute a quorum for sessions 
+en banc
+, and the affirmative votes of four members of the Court 
+en banc
+ are necessary for the rendition of a decision or resolution; while two Justices shall constitute a quorum for sessions of a Division and the affirmative votes of two members of the Division shall be necessary for the rendition of a decision or resolution.
+[30]
+In A.M. No. 05-11-07-CTA, the Revised CTA Rules, this Court delineated the jurisdiction of the CTA 
+en banc
+[31]
+ and in Divisions.
+[32]
+  Section 2, Rule 4 of the Revised CTA Rules recognizes the exclusive appellate jurisdiction of the CTA 
+en banc
+ to review by appeal the following decisions, resolutions, or orders of the CTA Division:
+SEC. 2. 
+Cases within the jurisdiction of the Court en banc.
+ - The Court 
+en banc
+ shall exercise exclusive appellate jurisdiction to review by appeal the following:
+(a) Decisions or resolutions on motions for reconsideration or new trial of the Court in Divisions in the exercise of its exclusive appellate jurisdiction over:
+ 
+ 
+ 
+(1) 
+ 
+Cases arising from administrative agencies - Bureau of Internal Revenue, Bureau of Customs, Department of Finance, Department of Trade and Industry, Department of Agriculture;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) 
+ 
+Local tax cases decided by the Regional Trial Courts in the exercise of their original jurisdiction; and
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3)
+ 
+ 
+Tax collection cases decided by the Regional Trial Courts in the exercise of their original jurisdiction involving final and executory assessments for taxes, fees, charges and penalties, where the principal amount of taxes and penalties claimed is less than one million pesos;
+ 
+ 
+x x x x
+(f) Decisions, resolutions or orders on motions for reconsideration or new trial of the Court in Division in the exercise of its exclusive original jurisdiction over cases involving criminal offenses arising from violations of the National Internal Revenue Code or the Tariff and Customs Code and other laws administered by the Bureau of Internal Revenue or Bureau of Customs.
+(g) Decisions, resolutions or order on motions for reconsideration or new trial of the Court in Division in the exercise of its exclusive appellate jurisdiction over criminal offenses mentioned in the preceding subparagraph; x x x.
+Although the filing of a petition for review with the CTA 
+en banc
+ from a decision, resolution, or order of the CTA Division, was newly made available to the CTA, such mode of appeal has long been available in Philippine courts of general jurisdiction.  Hence, the Revised CTA Rules no longer elaborated on it but merely referred to existing rules of procedure on petitions for review and appeals, to wit:
+RULE 7
+PROCEDURE IN THE COURT OF TAX APPEALS
+SEC. 1. 
+Applicability of the Rules of the Court of Appeals
+. - The procedure in the Court 
+en banc
+ or in Divisions in original and in appealed cases shall be the same as those in petitions for review and appeals before the Court of Appeals 
+pursuant to the applicable provisions of Rules 42, 43, 44 and 46 of the Rules of Court
+, except as otherwise provided for in these Rules.
+RULE 8
+PROCEDURE IN CIVIL CASES
+x x x x
+SEC. 4. Where 
+to appeal; mode of appeal.
+ -
+x x x x
+(b) An appeal from a decision or resolution of the Court in Division on a motion for reconsideration or new trial shall be taken to the Court by petition for review 
+as provided in Rule 43 of the Rules of Court
+.  The Court 
+en banc
+ shall act on the appeal.
+x x x x
+RULE 9
+PROCEDURE IN CRIMINAL CASES
+SEC. 1. 
+Review of cases in the Court.
+ - The review of criminal cases in the Court en banc or in Division shall be governed by the applicable provisions of Rule 124 of the Rules of Court.
+x x x x
+SEC. 9. 
+Appeal; period to appeal.
+ -
+x x x x
+(b) An appeal to the Court 
+en banc
+ in criminal cases decided by the Court in Division shall be taken by filing a petition for review as provided in 
+Rule 43 of the Rules of Court
+ within fifteen days from receipt of a copy of the decision or resolution appealed from. The Court may, for good cause, extend the time for filing of the petition for review for an additional period not exceeding fifteen days.  (Emphasis ours.)
+Given the foregoing, the petition for review to be filed with the CTA 
+en banc
+ as the mode for appealing a decision, resolution, or order of the CTA Division, under Section 18 of Republic Act No. 1125, as amended, is not a totally new remedy, unique to the CTA, with a special application or use therein.  To the contrary, the CTA merely adopts the procedure for petitions for review and appeals long established and practiced in other Philippine courts. Accordingly, doctrines, principles, rules, and precedents laid down in jurisprudence by this Court as regards petitions for review and appeals in courts of general jurisdiction should likewise bind the CTA, and it cannot depart therefrom.
+General rule: The denial of a motion to quash is an interlocutory order which is not the
+proper subject of an appeal or a petition for certiorari.
+According to Section 1, Rule 41 of the Revised Rules of Court, governing appeals from the Regional Trial Courts (RTCs) to the Court of Appeals, an appeal may be taken only from a judgment or final order that completely disposes of the case or of a matter therein when declared by the Rules to be appealable.  Said provision, thus, explicitly states that no appeal may be taken from an interlocutory order.
+[33]
+The Court distinguishes final judgments and orders from interlocutory orders in this wise:
+Section 2, Rule 41 of the Revised Rules of Court provides that "(o)nly final judgments or orders shall be subject to appeal." Interlocutory or incidental judgments or orders do not stay the progress of an action nor are they subject of appeal "until final judgment or order is rendered for one party or the other." The test to determine whether an order or judgment is interlocutory or final is this: "Does it leave something to be done in the trial court with respect to the merits of the case? If it does, it is interlocutory; if it does not, it is final". A court order is final in character if it puts an end to the particular matter resolved or settles definitely the matter therein disposed of, such that no further questions can come before the court except the execution of the order. The term "final" judgment or order signifies a judgment or an order which disposes of the cause as to all the parties, reserving no further questions or directions for future determination. The order or judgment may validly refer to the entire controversy or to some definite and separate branch thereof. "In the absence of a statutory definition, a final judgment, order or decree has been held to be x x x one that finally disposes of, adjudicates, or determines the rights, or some right or rights of the parties, either on the entire controversy or on some definite and separate branch thereof, and which concludes them until it is reversed or set aside."  The central point to consider is, therefore, the effects of the order on the rights of the parties. A court order, on the other hand, is merely interlocutory in character if it is provisional and leaves substantial proceeding to be had in connection with its subject.  The word "interlocutory" refers to "something intervening between the commencement and the end of a suit which decides some point or matter but is not a final decision of the whole controversy."
+[34]
+In other words, after a final order or judgment, the court should have nothing more to do in respect of the relative rights of the parties to the case. Conversely, "an order that does not finally dispose of the case and does not end the Court's task of adjudicating the parties' contentions in determining their rights and liabilities as regards each other, but obviously indicates that other things remain to be done by the Court, is interlocutory."
+[35]
+The rationale for barring the appeal of an interlocutory order was extensively discussed in 
+Matute
+ v. Court of Appeals
+,
+[36]
+ thus:
+It is settled that an "interlocutory order or decree made in the progress of a case is always under the control of the court until the final decision of the suit, and may be modified or rescinded upon sufficient grounds shown at any time before final judgment . . ." Of similar import is the ruling of this Court declaring that "it is rudimentary that such (interlocutory) orders are subject to change in the discretion of the court." Moreover, one of the inherent powers of the court is "To amend and control its process and orders so as to make them conformable to law and justice. In the language of Chief Justice Moran, paraphrasing the ruling in 
+Veluz
+ vs. Justice of the Peace of Sariaya
+, "since judges are human, susceptible to mistakes, and are bound to administer justice in accordance with law, they are given the inherent power of amending their orders or judgments so as to make them conformable to law and justice, and they can do so before they lose their jurisdiction of the case, that is before the time to appeal has expired and no appeal has been perfected."  And in the abovecited 
+Veluz
+ case, this Court held that "If the trial court should discover or be convinced that it had committed an error in its judgment, or had done an injustice, before the same has become final, it may, upon its own motion or upon a motion of the parties, correct such error in order to do justice between the parties. . . . It would seem to be the very height of absurdity to prohibit a trial judge from correcting an error, mistake, or injustice which is called to his attention before he has lost control of his judgment." Corollarily, it has also been held "that a judge of first instance is not legally prevented from revoking the interlocutory order of another judge in the very litigation subsequently assigned to him for judicial action."
+Another recognized reason of the law in permitting appeal only from a final order or judgment, and not from an interlocutory or incidental one, is to avoid multiplicity of appeals in a single action, which must necessarily suspend the hearing and decision on the merits of the case during the pendency of the appeal.  If such appeal were allowed, the trial on the merits of the case would necessarily be delayed for a considerable length of time, and compel the adverse party to incur unnecessary expenses, for one of the parties may interpose as many appeals as incidental questions may be raised by him, and interlocutory orders rendered or issued by the lower court.
+[37]
+There is no dispute that a court order denying a motion to quash is interlocutory.  The denial of the motion to quash means that the criminal information remains pending with the court, which must proceed with the trial to determine whether the accused is guilty of the crime charged therein. Equally settled is the rule that an order denying a motion to quash, being interlocutory, is not immediately appealable,
+[38]
+ nor can it be the subject of a petition for 
+certiorari
+.  Such order may only be reviewed in the ordinary course of law by an appeal from the judgment after trial.
+[39]
+The Court cannot agree in petitioner's contention that there would exist a procedural void following the denial of her Motion to Quash by the CTA First Division in its Resolutions dated 23 February 2006 and 11 May 2006, leaving her helpless.  The remedy of an accused from the denial of his or her motion to quash has already been clearly laid down as follows:
+An order denying a Motion to Acquit (like an order denying a motion to quash) is interlocutory and not a final order. It is, therefore, not appealable. Neither can it be the subject of a petition for 
+certiorari
+. Such order of denial may only be reviewed, in the ordinary course of law, by an appeal from the judgment, after trial. As stated in 
+Collins vs. Wolfe
+, and reiterated in 
+Mill vs. Yatco
+, the accused, after the denial of his motion to quash, should have proceeded with the trial of the case in the court below, and if final judgment is rendered against him, he could then appeal, and, upon such appeal, present the questions which he sought to be decided by the appellate court in a petition for 
+certiorari
+.
+In 
+Acharon
+ vs. Purisima
+, the procedure was well defined, thus:
+"Moreover, when the motion to quash filed by Acharon to nullify the criminal cases filed against him was denied by the Municipal Court of General Santos his remedy was not to file a petition for 
+certiorari
+ but to go to trial without prejudice on his part to reiterate the special defenses he had invoked in his motion and, if, after trial on the merits, an adverse decision is rendered, to appeal therefrom in the manner authorized by law. This is the procedure that he should have followed as authorized by law and precedents. Instead, he took the usual step of filing a writ of 
+certiorari
+ before the Court of First Instance which in our opinion is unwarranted it being contrary to the usual course of law."
+[40]
+Hence, the CTA 
+en banc
+ herein did not err in denying petitioner's Motion for Extension of Time to File Petition for Review, when such Petition for Review is the wrong remedy to assail an interlocutory order denying her Motion to Quash.
+While the general rule proscribes the appeal of an interlocutory order, there are also recognized exceptions to the same.  The general rule is not absolute.  Where special circumstances clearly demonstrate the inadequacy of an appeal, then the special civil action of 
+certiorari
+ or prohibition may exceptionally be allowed.
+[41]  
+This Court recognizes that under certain situations, recourse to extraordinary legal remedies, such as a petition for 
+certiorari
+, is considered proper to question the denial of a motion to quash (or any other interlocutory order) in the interest of a "more enlightened and substantial justice";
+[42]
+ or to promote public welfare and public policy;
+[43]
+ or when the cases "have attracted nationwide attention, making it essential to proceed with dispatch in the consideration thereof";
+[44]
+ or when the order was rendered with grave abuse of discretion.
+[45]
+  
+Certiorari
+ is an appropriate remedy to assail an interlocutory order (1) when the tribunal issued such order without or in excess of jurisdiction or with grave abuse of discretion; and (2) when the assailed interlocutory order is patently erroneous, and the remedy of appeal would not afford adequate and expeditious relief.
+[46]
+Recourse to a petition for 
+certiorari 
+to assail an interlocutory order is now expressly recognized in the ultimate paragraph of Section 1, Rule 41 of the Revised Rules of Court on the subject of appeal, which states:
+In all the above instances where the judgment or final order is not appealable, the aggrieved party may file an appropriate special civil action under Rule 65.
+As to whether the CTA 
+en banc
+, under its expanded jurisdiction in Republic Act No. 9282, has been granted jurisdiction over special civil actions for 
+certiorari
+ is not raised as an issue in the Petition at bar, thus, precluding the Court from making a definitive pronouncement thereon. However, even if such an issue is answered in the negative, it would not substantially affect the ruling of this Court herein, for a party whose motion to quash had been denied may still seek recourse, under exceptional and meritorious circumstances, 
+via
+ a special civil action for 
+certiorari
+ with this Court, refuting petitioner's assertion of a procedural void.
+The CTA First Division did not commit grave abuse of discretion in denying 
+petitioner's Motion to Quash.
+Assuming that the CTA 
+en banc
+, as an exception to the general rule, allowed and treated petitioner's Petition for Review in C.T.A. EB. CRIM. No. 001 as a special civil action for 
+certiorari
+, 
+[47]
+ it would still be dismissible for lack of merit.
+An act of a court or tribunal may only be considered as committed in grave abuse of discretion when the same was performed in a capricious or whimsical exercise of judgment, which is equivalent to lack of jurisdiction. The abuse of discretion must be so patent and gross as to amount to an evasion of positive duty or to a virtual refusal to perform a duty enjoined by law or to act at all in contemplation of law, as where the power is exercised in an arbitrary and despotic manner by reason of passion or personal hostility.  In this connection, it is only upon showing that the court acted without or in excess of jurisdiction or with grave abuse of discretion that an interlocutory order such as that involved in this case may be impugned.  Be that as it may, it must be emphasized that this practice is applied only under certain exceptional circumstances to prevent unnecessary delay in the administration of justice and so as not to unduly burden the courts.
+[48]
+Certiorari
+ is not available to correct errors of procedure or mistakes in the judge's findings and conclusions of law and fact. It is only in the presence of extraordinary circumstances evincing a patent disregard of justice and fair play where resort to a petition for 
+certiorari
+ is proper. A party must not be allowed to delay litigation by the sheer expediency of filing a petition for 
+certiorari
+ under Rule 65 of the Revised Rules of Court based on scant allegations of grave abuse.
+[49]
+A writ of 
+certiorari
+ is not intended to correct every controversial interlocutory ruling: it is resorted to only to correct a grave abuse of discretion or a whimsical exercise of judgment equivalent to lack of jurisdiction. Its function is limited to keeping an inferior court within its jurisdiction and to relieve persons from arbitrary acts - acts which courts or judges have no power or authority in law to perform. It is not designed to correct erroneous findings and conclusions made by the courts.
+[50]
+The Petition for Review which petitioner intended to file before the CTA 
+en banc
+ relied on two grounds: (1) the lack of authority of Prosecuting Attorney Torrevillas to file the Information; and (2) the filing of the said Information in violation of petitioner's constitutional rights to due process and equal protection of the laws.
+Anent the first ground, petitioner argues that the Information was filed without the approval of the BIR Commissioner in violation of Section 220 of NIRC, as amended, which provides:
+SEC. 220. 
+Form and Mode of Proceeding in Actions Arising under this Code.
+ - Civil and criminal actions and proceedings instituted in behalf of the Government under the authority of this Code or other law enforced by the Bureau of Internal Revenue shall be brought in the name of the Government of the Philippines and shall be conducted by legal officers of the Bureau of Internal Revenue but no civil or criminal action for the recovery of taxes or the enforcement of any fine, penalty or forfeiture under this Code shall be filed in court without the approval of the Commissioner.
+Petitioner's argument must fail in light of BIR Commissioner Parayno's letter dated 19 May 2005 to DOJ Secretary Gonzales referring "for preliminary investigation 
+and filing of an information in court
+ if evidence so warrants," the findings of the BIR officers recommending the criminal prosecution of petitioner.  In said letter, BIR Commissioner Parayno already gave his prior approval to the filing of an information in court should the DOJ, based on the evidence submitted, find probable cause against petitioner during the preliminary investigation.  Section 220 of the NIRC, as amended, simply requires that the BIR Commissioner approve the institution of civil or criminal action against a tax law violator, but it does not describe in what form such approval must be given.  In this case, BIR Commissioner Parayno's letter of 19 May 2005 already states his express approval of the filing of an information against petitioner and his signature need not appear on the Resolution of the State Prosecutor or the Information itself.
+Still on the purported lack of authority of Prosecution Attorney Torrevillas to file the Information, petitioner asserts that it is the City Prosecutor under the Quezon City Charter, who has the authority to investigate and prosecute offenses allegedly committed within the jurisdiction of Quezon City, such as petitioner's case.
+The Court is not persuaded.  Under Republic Act No. 537, the Revised Charter of Quezon City, the City Prosecutor shall have the following duties relating to the investigation and prosecution of criminal offenses:
+SEC. 28.  
+The City Attorney - His assistants - His duties.
+ -
+x x x x
+(g) He shall also have charge of the prosecution of all crimes, misdemeanors, and violations of city ordinances, in the Court of First Instance and the municipal courts of the city, and shall discharge all the duties in respect to the criminal prosecutions enjoined by law upon provincial fiscals.
+(h) He shall cause to be investigated all charges of crimes, misdemeanors, and violations of ordinances and have the necessary information or complaints prepared or made against the persons accused. He or any of his assistants may conduct such investigations by taking oral evidence of reputable witnesses, and for this purpose may issue subpoena, summon witnesses to appear and testify under oath before him, and the attendance or evidence of an absent or recalcitrant witness may be enforced by application to the municipal court or the Court of First Instance. No witness summoned to testify under this section shall be under obligation to give any testimony which tend to incriminate himself.
+Evident from the foregoing is that the City Prosecutor has the power to investigate crimes, misdemeanors, and violations of ordinances committed within the territorial jurisdiction of the city, and which can be prosecuted before the trial courts of the said city.  The charge against petitioner, however, is already within the exclusive original jurisdiction of the CTA,
+[51]
+ as the Information states that her gross underdeclaration resulted in an income tax deficiency of P1,395,116.24, excluding interest and penalties.  The City Prosecutor does not have the authority to appear before the CTA, which is now of the same rank as the Court of Appeals.
+In contrast, the DOJ is the principal law agency of the Philippine government which shall be both its legal counsel and prosecution arm.
+[52]
+  It has the power to investigate the commission of crimes, prosecute offenders and administer the probation and correction system.
+[53]
+  Under the DOJ is the Office of the State Prosecutor whose functions are described as follows:
+Sec. 8. 
+Office of the Chief State Prosecutor.
+ - The Office of the Chief State Prosecutor shall have the following functions:
+(1) Assist the Secretary in the performance of powers and functions of the Department relative to its role as the prosecution arm of the government;
+(2) Implement the provisions of laws, executive orders and rules, and carry out the policies, plans, programs and projects of the Department relative to the investigation and prosecution of criminal cases;
+(3) Assist the Secretary in exercising supervision and control over the National Prosecution Service as constituted under P.D. No. 1275 and/or otherwise hereinafter provided; and
+(4) Perform such other functions as may be provided by law or assigned by the Secretary.
+[54]
+As explained by CTA First Division in its Resolution dated 11 May 2006:
+[T]he power or authority of the Chief State Prosecutor Jovencito ZuÃ±o, Jr. and his deputies in the Department of Justice to prosecute cases is national in scope; and the Special Prosecutor's authority to sign and file informations in court proceeds from the exercise of said person's authority to conduct preliminary investigations.
+[55]
+Moreover, there is nothing in the Revised Quezon City Charter which would suggest that the power of the City Prosecutor to investigate and prosecute crimes, misdemeanors, and violations of ordinances committed within the territorial jurisdiction of the city is to the exclusion of the State Prosecutors.  In fact, the Office of the State Prosecutor exercises control and supervision over City Prosecutors under Executive Order No. 292, otherwise known as the Administrative Code of 1987.
+As regards petitioner's second ground in her intended Petition for Review with the CTA 
+en banc
+, she asserts that she has been denied due process and equal protection of the laws when similar charges for violation of the NIRC, as amended, against Regina Encarnacion A. Velasquez (Velasquez) were dismissed by the DOJ in its Resolution dated 10 August 2005 in I.S. No. 2005-330 for the reason that Velasquez's tax liability was not yet fully determined when the charges were filed.
+The Court is unconvinced.
+First, a motion to quash should be based on a defect in the information which is evident on its face.
+[56]
+  The same cannot be said herein. The Information against petitioner appears valid on its face; and that it was filed in violation of her constitutional rights to due process and equal protection of the laws is not evident on the face thereof. As pointed out by the CTA First Division in its 11 May 2006 Resolution, the more appropriate recourse petitioner should have taken, given the dismissal of similar charges against Velasquez, was to appeal the Resolution dated 21 October 2005 of the Office of the State Prosecutor recommending the filing of an information against her with the DOJ Secretary.
+[57]
+Second, petitioner cannot claim denial of due process when she was given the opportunity to file her affidavits and other pleadings and submit evidence before the DOJ during the preliminary investigation of her case and before the Information was filed against her.  Due process is merely an opportunity to be heard.  In addition, preliminary investigation conducted by the DOJ is merely inquisitorial.  It is not a trial of the case on the merits. Its sole purpose is to determine whether a crime has been committed and whether the respondent therein is probably guilty of the crime. It is not the occasion for the full and exhaustive display of the parties' evidence. Hence, if the investigating prosecutor is already satisfied that he can reasonably determine the existence of probable cause based on the parties' evidence thus presented, he may terminate the proceedings and resolve the case.
+[58]
+Third, petitioner cannot likewise aver that she has been denied equal protection of the laws.
+The equal protection clause exists to prevent undue favor or privilege. It is intended to eliminate discrimination and oppression based on inequality. Recognizing the existence of real differences among men, the equal protection clause does not demand absolute equality.  It merely requires that all persons shall be treated alike, under like circumstances and conditions, both as to the privileges conferred and liabilities enforced.
+[59]
+Petitioner was not able to duly establish to the satisfaction of this Court that she and Velasquez were indeed similarly situated, 
+i.e.
+, that they committed identical acts for which they were charged with the violation of the same provisions of the NIRC; and that they presented similar arguments and evidence in their defense - yet, they were treated differently.
+Furthermore, that the Prosecution Attorney dismissed what were supposedly similar charges against Velasquez did not compel Prosecution Attorney Torrevillas to rule the same way on the charges against petitioner. In 
+People v. Dela Piedra
+,
+[60]
+ this Court explained that:
+The prosecution of one guilty person while others equally guilty are not prosecuted, however, is not, by itself, a denial of the equal protection of the laws. Where the official action purports to be in conformity to the statutory classification, an erroneous or mistaken performance of the statutory duty, although a violation of the statute, is not without more a denial of the equal protection of the laws.  The unlawful administration by officers of a statute fair on its face, resulting in its unequal application to those who are entitled to be treated alike, is not a denial of equal protection unless there is shown to be present in it an element of intentional or purposeful discrimination. This may appear on the face of the action taken with respect to a particular class or person, or it may only be shown by extrinsic evidence showing a discriminatory design over another not to be inferred from the action itself. 
+But a discriminatory purpose is not presumed, there must be a showing of "clear and intentional discrimination."
+ Appellant has failed to show that, in charging appellant in court, that there was a "clear and intentional discrimination" on the part of the prosecuting officials.
+The discretion of who to prosecute depends on the prosecution's sound assessment whether the evidence before it can justify a reasonable belief that a person has committed an offense.  
+The presumption is that the prosecuting officers regularly performed their duties, and this presumption can be overcome only by proof to the contrary, not by mere speculation.
+Indeed, appellant has not presented any evidence to overcome this presumption. The mere allegation that appellant, a Cebuana, was charged with the commission of a crime, while a ZamboangueÃ±a, the guilty party in appellant's eyes, was not, is insufficient to support a conclusion that the prosecution officers denied appellant equal protection of the laws.
+There is also common sense practicality in sustaining appellant's prosecution.
+While all persons accused of crime are to be treated on a basis of equality before the law, it does not follow that they are to be protected in the commission of crime.
+ It would be unconscionable, for instance, to excuse a defendant guilty of murder because others have murdered with impunity. 
+The remedy for unequal enforcement of the law in such instances does not lie in the exoneration of the guilty at the expense of society
+ x x x. Protection of the law will be extended to all persons equally in the pursuit of their lawful occupations, but no person has the right to demand protection of the law in the commission of a crime.
+Likewise, [i]f the failure of prosecutors to enforce the criminal laws as to some persons should be converted into a defense for others charged with crime, the result would be that the trial of the district attorney for nonfeasance would become an issue in the trial of many persons charged with heinous crimes and the enforcement of law would suffer a complete breakdown. (Emphasis ours.)
+In the case at bar, no evidence of a clear and intentional discrimination against petitioner was shown, whether by Prosecution Attorney Torrevillas in recommending the filing of Information against petitioner or by the CTA First Division in denying petitioner's Motion to Quash. The only basis for petitioner's claim of denial of equal protection of the laws was the dismissal of the charges against Velasquez while those against her were not.
+And lastly, the Resolutions of the CTA First Division dated 23 February 2006 and 11 May 2006 directly addressed the arguments raised by petitioner in her Motion to Quash and Motion for Reconsideration, respectively, and explained the reasons for the denial of both Motions.  There is nothing to sustain a finding that these Resolutions were rendered capriciously, whimsically, or arbitrarily, as to constitute grave abuse of discretion amounting to lack or excess of jurisdiction.
+In sum, the CTA 
+en banc
+ did not err in denying petitioner's Motion for Extension of Time to File Petition for Review.  Petitioner cannot file a Petition for Review with the CTA 
+en banc
+ to appeal the Resolution of the CTA First Division denying her Motion to Quash. The Resolution is interlocutory and, thus, unappealable.  Even if her Petition for Review is to be treated as a petition for 
+certiorari
+, it is dismissible for lack of merit.
+WHEREFORE
+, premises considered, the instant Petition for Review is hereby 
+DENIED
+.  Costs against petitioner.
+SO ORDERED.
+Ynares-Santiago, (Chairperson), Austria-Martinez, Corona,
+ and 
+Reyes, JJ.
+, concur.
+*
+  Justice Renato C. Corona was designated to sit as additional member replacing Justice Antonio Eduardo B. Nachura per Raffle dated 3 January 2008.
+[1]
+ 
+Rollo
+, pp. 3-24.
+[2]
+ Signed by Associate Justices Juanito C. CastaÃ±eda, Jr, Lovell R. Bautista, Erlinda P. Uy, and Caesar A. Casanova; with Presiding Justice Ernesto D. Acosta and Associate Justice Olga Palanca-Enriquez, on leave. Id. at 25-28.
+[3]
+ Signed by Caesar A. Casanova, with a Separate Concurring Opinion penned by Presiding Justice Ernesto D. Acosta;  Associate Justice Lovell R. Bautista, on leave. Id. at 340-342.
+[4]
+ Signed by Presiding Justice Ernesto D. Acosta and Associate Justices Lovell R. Bautista and Caesar A. Casanova.  Id. at 364-372.
+[5]
+ Id. at 298-299.
+[6]
+ SEC. 248. 
+Civil Penalties.
+ -
+x x x x
+(b) In case of willful neglect to file the return within the period prescribed by this Code or by rules and regulations, or in case a false or fraudulent return is wilfully made, the penalty to be imposed shall be fifty percent (50%) of the tax or of the deficiency tax, in case any payment has been made on the basis of such return before the discovery of the falsity or fraud: 
+Provided,
+ That a substantial underdeclaration of taxable sales, receipts or income, or a substantial overstatement of deductions, as determined by the Commissioner pursuant to the rules and regulations to be promulgated by the Secretary of Finance, shall constitute prima facie evidence of a false or fraudulent return: 
+Provided,
+ 
+further, 
+That failure to report sales, receipts or income in an amount exceeding thirty percent (30%) of that declared per return, and a claim of deductions in an amount exceeding (30%) of actual deductions, shall render the taxpayer liable for substantial underdeclaration of sales, receipts or income or for overstatement of deductions, as mentioned herein.
+[7]
+ SEC. 254. 
+Attempt to Evade or Defeat Tax.
+ 
+-
+ Any person who willfully attempts in any manner to evade or defeat any tax imposed under this Code or the payment thereof shall, in addition to other penalties provided by law, upon conviction thereof, be punished by a fine not less than Thirty thousand pesos (P30,000) but not more than One hundred thousand pesos (P100,000) and suffer imprisonment of not less than two (2) years but not more than four (4) years: 
+Provided,
+ That the conviction or acquittal obtained under this Section shall not be a bar to the filing of a civil suit for the collection of taxes.
+[8]
+ SEC. 255. 
+Failure to File Return, Supply Correct and Accurate Information, Pay Tax Withhold and Remit Tax and Refund Excess Taxes Withheld on Compensation
+. 
+-
+ Any person required under this Code or by rules and regulations promulgated thereunder to pay any tax, make a return, keep any record, or supply any correct and accurate information, who willfully fails to pay such tax, make such return, keep such record, or supply correct and accurate information, or withhold or remit taxes withheld, or refund excess taxes withheld on compensation, at the time or times required by law or rules and regulations shall, in addition to other penalties provided by law, upon conviction thereof, be punished by a fine of not less than Ten thousand pesos (P10,000) nor more than Fifty thousand pesos (P50,000.00) and suffer imprisonment of not less than one (1) year but not more than ten (10) years.
+[9] 
+Rollo
+, 
+pp. 322-330.
+[10]
+ Id. at 331-333.
+[11]
+ CTA First Division Resolution, dated 14 November 2005. Id. at 212-214.
+[12]
+ Id. at 215-217.
+[13]
+ Id. at 334-336.
+[14]
+ Signed by Presiding Justice Ernesto D. Acosta and Associate Justices Lovell R. Bautista and Caesar A. Casanova.  Id. at 218.
+[15]
+ Id. at 219.
+[16]
+ CTA First Division Resolution signed by Associate Justices Lovell R. Bautista and Caesar A. Casanova, with Presiding Justice Ernesto D. Acosta, on leave.  Id. at 220.
+[17]
+ Id. at 337-339.
+[18]
+ Id. at 340-342.
+[19]
+ Id. at 347-354.
+[20]
+ Id. at 364-372.
+[21]
+ Id. at 25-28.
+[22]
+ Id. at 27-28.
+[23]
+ Id. at 28.
+[24]
+ Id. at 10.
+[25]
+ An Act Creating the Court of Tax Appeals.
+[26]
+ An Act Expanding the Jurisdiction of the Court of Tax Appeals (CTA), Elevating Its Rank to the Level of a Collegiate Court with Special Jurisdiction and Enlarging Its Membership, Amending for the Purpose Certain Sections of Republic Act No. 1125, as Amended, Otherwise Known as the Law Creating the Court of Tax Appeals, and for Other Purposes.
+[27]
+ Section 1 of Republic Act No. 1125.
+[28]
+ Section 2 of Republic Act No. 1125.
+[29]
+ Section 1 of Republic Act No. 9282.
+[30]
+ Section 2 of Republic Act No. 9282.
+[31]
+ Section 2, Rule 4.
+[32]
+ Section 3, Rule 4.
+[33]
+ Section 1(c), Rule 41 of the Revised Rules of Court.
+[34]
+ 
+De la Cruz v. Paras
+, G.R. No. L-41053, 27 February 1976, 69 SCRA 556, 560-561.
+[35]
+ 
+BA Finance Corporation v. Court of Appeals
+, G.R. No. 84294, 16 October 1989, 178 SCRA 589, 596.
+[36]
+ 136 Phil. 157, 203-204 (1969).
+[37]
+ 
+Sitchon
+ v. Sheriff of Occidental 
+Negros
+, 80 Phil. 397, 399 (1948).
+[38]
+ 
+Villasin
+ v. Seven-Up Bottling 
+Co.
+ of the 
+Philippines
+, 107 Phil. 801, 802 (1960).
+[39]
+ 
+Gamboa
+ v. Cruz
+, G.R. No. L-56291, 27 June 1988, 162 SCRA 642, 652.
+[40]
+ Id. at 652-653.
+[41]
+ 
+Principio
+ v. Barrientos
+, G.R. No. 167025, 19 December 2005, 478 SCRA 639, 646.
+[42]
+ 
+Mead v. Hon. Argel
+, 200 Phil. 650, 656 (1982); 
+Yap
+ v. Lutero
+, 105 Phil. 1307, 1308 (1959).
+[43]
+ 
+Pineda v. Bartolome
+, 95 Phil. 930, 937 (1954), citing 
+People v. Zulueta
+, 89 Phil. 752, 756 (1951).
+[44]
+ Id.
+[45]
+ Id.
+[46]
+ 
+Casil
+ v. Court of Appeals
+, 349 Phil. 187, 196-197 (1998).
+[47]
+ This Court proceeds with the discussion on the assumption that the CTA 
+en banc
+ has jurisdiction over special civil actions for 
+certiorari
+.  The issue on whether the CTA, under its expanded jurisdiction in Republic Act No. 9282, has been granted jurisdiction over special civil actions for 
+certiorari
+ is not raised in the Petition at bar, thus, precluding the Court from making a definitive pronouncement thereon.  If such an issue is subsequently ruled upon by this Court in the negative, it would not substantially alter the ruling of this Court herein, for under exceptional and meritorious circumstances, a party whose motion to quash has been denied may still seek recourse via a special civil action for 
+certiorari
+ with this Court.
+[48]
+ 
+Yee v. Bernabe
+, G.R. No. 141393, 19 April 2006, 487 SCRA 385, 393.
+[49]
+ 
+La Campana Development Corp. v.
+ See
+, G.R. No. 149195, 26 June 2006, 492 SCRA 584, 590.
+[50]
+ 
+Bonifacio
+ Construction Management Corporation v. Perlas-Bernabe
+, G.R. No. 148174,  30 June 2005, 462 SCRA 392, 396-397, citing 
+Indiana Aerospace University v. Commission on Higher Education
+, 408 Phil. 483, 501 (2001).
+[51]
+ According to Section 7(b)(1) of Republic Act No. 1125, as amended by Republic Act No. 9282:
+SEC. 7. 
+Jurisdiction
+. - The CTA shall exercise:
+x x x x
+ 
+ 
+ 
+(b)
+ 
+ Jurisdiction over cases involving criminal offenses as herein provided:
+ 
+ 
+ 
+(1)
+ 
+ 
+Exclusive original jurisdiction over all criminal offenses arising from violations of the National Internal Revenue Code or Tariff and Customs Code and other laws administered by the Bureau of Internal Revenue or the Bureau of Customs: Provided, however, That offenses or felonies mentioned in this paragraph where the principal amount of taxes and fees, exclusive of charges and penalties, claimed is less than One million pesos (P1,000,000.00) or where there is no specified amount claimed shall be tried by the regular Courts and the jurisdiction of the CTA shall be appellate. Any provision of law or the Rules of Court to the contrary notwithstanding, the criminal action and the corresponding civil action for the recovery of civil liability for taxes and penalties shall at all times be simultaneously instituted with, and jointly determined in the same proceeding by the CTA, the filing of the criminal action being deemed to necessarily carry with it the filing of the civil action, and no right to reserve the filing of such civil action separately from the criminal action shall be recognized.
+ 
+ 
+[52]
+ Section 1, Chapter 1, Title III, Book IV of Executive Order No. 292, otherwise known as the Administrative Code of 1987.
+[53]
+ Section 3(2), Chapter 1, Title III, Book IV of the Administrative Code of 1987.
+[54]
+ Chapter 2, Title III, Book IV of the Administrative Code of 1987.
+[55]
+ 
+Rollo
+, 
+pp. 369-370.
+[56]
+ 
+Gozos
+ v. Hon. Tac-An
+, 360 Phil. 453, 464 (1998).
+[57]
+ 
+Rollo
+, 
+pp. 370-371.
+[58]
+ De Ocampo v. Secretary of Justice, G.R. No.
+ G.R. No. 147932, 25 January 2006, 480 SCRA 71, 81-82.
+[59]
+ 
+Himagan
+ v.
+ People, G.R. No. 113811, 
+7 October 1994, 237 SCRA 538, 551.
+[60]
+ 403 Phil. 31, 54-56 (2001).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

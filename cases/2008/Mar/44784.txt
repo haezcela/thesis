@@ -1,0 +1,343 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			571 Phil. 418
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 161953, March 06, 2008 ]
+
+
+PILIPINAS SHELL PETROLEUM CORPORATION, Petitioner, vs. REPUBLIC OF THE PHILIPPINES, represented by the BUREAU OF CUSTOMS, Respondent. 
+D E C I S I O N
+
+
+
+
+CORONA, J.:
+
+
+This petition for review on certiorari
+[1]
+ seeks to set aside the decision of the Court of Appeals (CA) in CA-G.R. SP No. 71756
+[2]
+ and its resolution denying reconsideration.
+[3]
+The present controversy sprang from the cancellation of tax debit memos (TDMs) and the corresponding tax credit certificates (TCCs) assigned to petitioner Pilipinas Shell Petroleum Corporation (Shell) by various entities.
+[4]
+ The assignment to Shell had the approval of the Board of Investments and the One Stop Shop Inter- Agency Tax Credit and Duty Drawback Center (Center). Some of these TCCs were subsequently accepted as payment by the Bureau of Customs (BoC) for petitioner's taxes and import duties in 1997 and 1998.
+[5]
+On November 3, 1999, then Secretary Edgardo B. Espiritu of the Department of Finance (DOF) informed petitioner that its TDMs and TCCs were fraudulently issued and transferred,
+[6]
+ and had to be cancelled.
+[7]
+ He asked petitioner to immediately pay the BoC and the Bureau of Internal Revenue the value of the canceled TCCs as well as the related penalties, surcharges and interests.
+[8]
+Petitioner assailed the action of the DOF.
+[9]
+ It asserted that there was no legal and factual basis to invalidate the TCCs.
+[10]
+ Because petitioner was an assignee in good faith (i.e., it observed the procedure prescribed by the Center), the TCCs were authentic and genuine as far as it was concerned. 
+[11]
+ Petitioner likewise pointed out discrepancies between the amount claimed by respondent and those it (petitioner) actually paid in satisfaction of its liabilities.
+[12]
+Despite petitioner's objections, Commissioner Nelson A. Tan of the BoC demanded from it the amount of P209,129,141.
+[13]
+ Thus, petitioner filed a formal protest on December 23, 1999.
+[14]
+ However, the BoC did not act on this protest. Consequently, petitioner filed a petition for review questioning the legality of the cancellation of the TCCs in the Court of Tax Appeals (CTA).
+[15]
+Meanwhile, on April 3, 2002, respondent filed a complaint for collection
+[16]
+ in the Regional Trial Court (RTC) of Manila, Branch 19. It alleged that the TCCs petitioner purchased from Filipino Way Industries amounting to P10,088,912 were spurious
+[17]
+ and were used by petitioner to pay customs duties and taxes on its importations in 1997.
+[18] 
+ Thus, in view of the invalidation, petitioner still owed respondent the amount of P10,088,912 in unpaid customs duties and taxes.
+[19] 
+Petitioner immediately moved to dismiss the collection case.
+[20]
+ It contended that the RTC had no jurisdiction over the subject matter and that the complaint for collection was prematurely filed in view of its pending petition for review in the CTA. 
+[21]
+ On June 7, 2002, the RTC denied petitioner's motion and instead ordered it to file an answer.
+[22]
+ On June 14, 2002, petitioner filed an answer 
+ex abundanti cautela
+.
+[23]
+Petitioner questioned the jurisdiction of the RTC. It averred that, in view of its pending petition for review in the CTA, the RTC had no jurisdiction over the subject matter pursuant to 
+Yabes v. Flojo
+. 
+[24]
+ According to Yabes, the RTC
+[25]
+ acquires jurisdiction over a collection case only if an assessment made by the Commissioner of Internal Revenue has become final and incontestable.
+[26]
+On June 21, 2002, the RTC issued a notice of pre-trial.
+ [27]
+ Petitioner moved for the reconsideration of the June 7, 2002 order
+[28]
+ but it was denied in an order dated June 28, 2002.
+[29]
+Aggrieved, petitioner filed a petition for certiorari in the CA assailing the June 7, 2002 and June 28, 2002 orders of the RTC.
+[30]
+ This petition was denied by the appellate court in a decision dated October 23, 2003.
+[31]
+ According to the CA, the BoC's assessment had already become final and conclusive. Hence, its written demand for payment was not an assessment that could still be protested under the Tariff and Customs Code of the Philippines (TCCP).
+[32]
+ Thus, the jurisdiction over the subject matter was well within the jurisdiction of the RTC, not the CTA.
+[33]
+Petitioner moved for reconsideration but it was denied. Thus, this petition.
+Petitioner essentially contends that the RTC had no jurisdiction over the collection case inasmuch as the CTA had not yet decided the petition for review.
+[34] 
+ Therefore, the RTC should have dismissed the collection case and transfered it to the CTA where it should be treated as a counterclaim (in the petition for review).
+[35]
+We deny the petition.
+THE FILING OF THE COLLECTION
+CASE WAS A PROPER REMEDY
+Assessments inform taxpayers of their tax liabilities.
+[36] 
+ Under the TCCP, the assessment is in the form of a liquidation made on the face of the import entry return and approved by the Collector of Customs.
+[37]
+ Liquidation is the 
+final computation and ascertainment by the Collector of Customs of the duties due on imported merchandise
+ based on official reports as to the quantity, character and value thereof, and the Collector of Customs' own finding as to the applicable rate of duty.
+[38]
+ A liquidation is considered to have been made when the entry is officially stamped âliquidated.â
+[39] 
+Petitioner claims that it paid the duties due on its importations. Section 1603 of the old TCCP stated:
+Section 1603. 
+Finality of Liquidation.
+ When articles have been entered and passed free of duty or final adjustments of duties made, with subsequent delivery, such entry and passage free of duty or settlement of duties will, after the expiration of one year from the date of the final payment of duties, in the absence of fraud or protest, be final and conclusive upon all parties, unless the liquidation of the import entry was merely tentative.
+[40]
+An assessment or liquidation by the BoC attains finality and conclusiveness one year from the date of the final payment of duties except when:
+(a)
+ there was fraud;
+ 
+ 
+(b)
+ there is a pending protest or
+ 
+ 
+(c)
+ the liquidation of import entry was merely tentative.
+None of the foregoing exceptions is present in this case. There was no fraud as petitioner claimed (and was presumed) to be in good faith. Respondent does not dispute this. Moreover, records show that petitioner paid those duties without protest using its TCCs. Finally, the liquidation was not a tentative one as the assessment had long become final and incontestable. Consequently, pursuant to 
+Yabes
+[41]
+ and because of the cancellation of the TCCs, respondent had the right to file a collection case.
+Section 1204 of the TCCP provides:
+Section 1204. 
+Liability of Importer for Duties.
+ Ã¢â¬â¢ Unless relieved by laws or regulations, the 
+liability for duties, taxes, fees and other charges attaching on importation constitutes a personal debt due from the importer to the government
+ which can be discharged only by payment in full of all duties, taxes, fees and other charges legally accruing. It also constitutes a 
+lien upon the articles imported which may be enforced while such articles are in the custody or subject to the control of the government.
+ (emphasis supplied)
+Under this provision, import duties constitute a personal debt of the importer that must be paid in full. The importerâs liability therefore constitutes a lien on the article which the government may choose to enforce while the imported articles are either in its custody or under its control.
+When respondent released petitioner's goods, its (respondentâs) lien over the imported goods was extinguished. Consequently, respondent could only enforce the payment of petitioner's import duties in full by filing a case for collection against petitioner.
+[42] 
+THE SUBJECT MATTER FALLS WITHIN 
+THE JURISDICTION OF THE RTC
+Respondent filed its complaint for collection on April 3, 2002. The governing law at that time was RA
+[43]
+ 1125 or the old CTA Law. Section 7 thereof stated:
+Section 7. Jurisdiction. The Court of Tax Appeals shall exercise exclusive appellate jurisdiction to review by appeal, as herein provided Ã¢â¬â¢
+(1) Decision of the Commissioner of Internal Revenue in cases involving disputed assessment, refunds of internal revenue taxes, fees or other charges, penalties imposed in relation thereto, or other matters arising under the National Internal Revenue Code or other laws or part of law administered by the Bureau of Internal Revenue;
+(2) 
+Decisions of the Commissioner of Customs in cases involving liability for customs duties, fees or other money charges; seizure, detention or release of property affected; fines and forfeitures or other penalties imposed in relation thereto; or other matters arising under Customs Law or other laws or part of law administered by the Bureau of Customs;
+ and
+(3) Decisions of the provincial or city Boards of Assessment Appeals in cases involving the assessment and taxation of real property or other matters arising under the Assessment Law, including rules and regulations relative thereto.
+[44]
+ (emphasis supplied)
+Inasmuch as the present case did not involve a decision of the Commissioner of Customs in any of the instances enumerated in Section 7(2) of RA 1125, the CTA had no jurisdiction over the subject matter. It was the RTC that had jurisdiction under Section 19(6) of the Judiciary Reorganization Act of 1980, as amended:
+[45]
+Section 19. Jurisdiction in Civil Cases. Ã¢â¬â¢ Regional Trial Courts shall exercise exclusive original jurisdiction:
+xxx xxx xxx
+(6) In all cases not within the exclusive jurisdiction of any court, tribunal, person or body exercising judicial or quasi-judicial functions, xxx.
+In view of the foregoing, the RTC should forthwith proceed with Civil Case No. 02-103191 and determine the extent of petitioner's liability.
+We are not unmindful of petitioner's pending petition for review in the CTA where it is questioning the validity of the cancellation of the TCCs. However, respondent cannot and should not await the resolution of that case before it collects petitioner's outstanding customs duties and taxes for such delay will unduly restrain the performance of its functions.
+ [46]
+ Moreover, if the ultimate outcome of the CTA case turns out to be favorable to petitioner, the law affords it the adequate remedy of seeking a refund.
+WHEREFORE,
+ this petition is hereby 
+DENIED
+. The Regional Trial Court of Manila, Branch 19 is ordered to proceed expeditiously with the pre-trial conference and trial of Civil Case No. 02-103191.
+Costs against petitioner.
+SO ORDERED.
+Puno, C.J., (Chairperson), Carpio, Azcuna
+ and 
+Leonardo-De Castro, JJ.
+, concur.
+[1]
+ Under Rule 45 of the Rules of Court.
+[2]
+ Penned by Associate Justice Lucas P. Bersamin and concurred in by Associate Justices Renato C. Dacudao (retired) and Elvi John S. Asuncion (dismissed from the service) of the Special Fourth Division of the Court of Appeals. Dated October 23, 2003. 
+Rollo
+, pp. 40-47.
+[3]
+ Dated January 26, 2004. Id., p. 49.
+[4]
+ Id., pp. 51-54. Petitioner purchased its TCCs from the following entities: Alliance Thread Co., Inc., Allstar Spinning, Inc., Diamond Knitting Corp., Express Colours Industries, Inc., Fiber Technology Corp., Filstar Textile Industrial Corp., FLB International Fiber Corp., Filipino Ways Industries, Jantex Phils., Inc., Jibtex Industrial Corp., Mannequin International Corp., Master Colour System Corp., Nikko Textile Mills, Inc., Scope Industries, Inc. and Spintex Int'l., Inc.
+[5]
+ Id., pp. 11-12.
+[6]
+ Annex âC,â id., p. 50.
+[7]
+ Pursuant to EXCOM Resolution No. 03-05-99. Annex âE,â id., pp. 58-65.
+[8]
+ Id.
+[9]
+ Annex âD,â id., pp. 55-57.
+[10]
+ Id., p. 55.
+[11]
+ Id., p. 56.
+[12]
+ Id.
+  
+ 
+Amount claimed 
+Amount actually used
+BIR 
+P 621,431,650 
+P 506,771,707
+BoC 
+209,129,141
+99,009,855
+[13]
+ Annex âF,â id., p. 68. This was equivalent to 44 TCCs.
+[14]
+ Annex âH,â id., pp. 70-79.
+[15]
+ Docketed as CTA Case No. 6484. Annex âJ,â id., pp. 88-116.
+[16]
+ Docketed as Civil Case No. 02-103191. Annex âI,â id., pp. 80-83.
+[17]
+ Id., p. 81.
+TCC No.
+TDM No.
+Date Issued 
+Amount
+006889
+ 97-2251-C-I 
+February 18, 1997
+ 
+P 2,542,918.00
+006977 
+97-2249-C-I 
+March 14, 1997
+2,573,422.00
+006978 
+97-2250-C-I 
+March 14, 1997
+2,559,493.00
+006979 
+97-2248-C-I 
+March 14, 1997
+  2,413,079.00
+ 
+TOTAL 
+ 
+P10,088,912.00
+[18]
+ Id.
+[19]
+ Id., p. 83.
+[20]
+ Annex âK,â id., pp. 176-189.
+[21]
+ Id.
+[22]
+ Penned by Judge Concepcion S. Alarcon- Vergara. Dated June 7, 2002. Id., p. 199.
+[23]
+ Id., pp. 381-394.
+[24]
+ 200 Phil. 672 (1982).
+[25]
+ Formerly Court of First Instance (CFI).
+[26]
+ 
+Rollo
+, p. 38 
+citing Yabes v. Flojo, supra
+ note 24 at 673.
+[27]
+ Order dated June 21, 2002. Id., pp. 422-423.
+[28]
+ Id., pp. 317-324.
+[29]
+ Id., p. 43.
+[30]
+ Annex âO,â id., pp. 237-252.
+[31]
+ 
+Supra
+ note 2.
+[32]
+ Id., p. 44.
+[33]
+ Id., p. 44.
+[34]
+ Id., pp. 16-20.
+[35]
+ Id., p. 20.
+[36]
+ 
+Commissioner of Internal Revenue v. PASCOR Realty and Development Corporation
+, 368 Phil. 714, 722 (1999).
+[37]
+ 
+See
+ CUSTOMS CODE, Sec. 1601. The section provides:
+Section 1601. Liquidation and Record of Entries. â If the Collector shall approve the returns of the appraiser and the report of the weights, gauge or quantity, 
+the liquidation shall be made on the face of the entry showing the particulars thereof
+, initialed by the customs assessor, approved by the chief customs assessor, and recorded in the record of liquidations.
+A daily record of all entries liquidated shall be posted in the public corridor of the customhouse, stating the name of the vessel or aircraft, the port from which she arrived, the date of her arrival, the name of the importer and the serial number and date of entry. A daily record must also be kept by the Collector of all additional duties, taxes and other charges found upon liquidation, and notice shall promptly be sent to the interested parties. (emphasis supplied)
+[38]
+ Section 151(a), Customs Duties, 25 C.J.S. 430.
+[39]
+ Id. 
+See also
+ Section 1601 
+supra.
+[40]
+ This provision has been amended by Section 4, RA 9135.
+[41]
+ 
+Supra
+ note 24.
+[42]
+ Jose C. Vitug and Ernesto D. Acosta, TAX LAW AND JURISPRUDENCE, 2
+nd
+ ed., 374-375. See also Republic v. Hon. Peralta, G.R. No. 56568, 20 May 1987, 150 SCRA 37.
+[43]
+ Republic Act.
+[44]
+ This provision has been amended by Section 7, RA 9282.
+[45]
+ 
+See Proton Pilipinas Corporation v. Republic
+, G.R. No. 165027, 16 October 2006, 504 SCRA 528, 544.
+[46]
+ Id., p. 548.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

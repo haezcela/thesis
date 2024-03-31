@@ -1,0 +1,582 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			577 Phil. 285
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 167330, June 12, 2008 ]
+
+
+PHILIPPINE HEALTH CARE PROVIDERS, INC., PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+D E C I S I O N
+
+
+
+
+CORONA, J.:
+
+
+Is a health care agreement in the nature of an insurance contract and therefore subject to the documentary stamp tax (DST) imposed under Section 185 of Republic Act 8424 (Tax Code of 1997)?
+This is an issue of first impression. The Court of Appeals (CA) answered it affirmatively in its August 16, 2004 decision
+[1]
+ in CA-G.R. SP No.
+ 
+70479. Petitioner Philippine Health Care Providers, Inc. believes otherwise and assails the CA decision in this petition for review under Rule 45 of the Rules of Court.
+Petitioner is a domestic corporation whose primary purpose is "[t]o establish, maintain, conduct and operate a prepaid group practice health care delivery system or a health maintenance organization to take care of the sick and disabled persons enrolled in the health care plan and to provide for the administrative, legal, and financial responsibilities of the organization."
+[2]
+ Individuals enrolled in its health care programs pay an annual membership fee and are entitled to various preventive, diagnostic and curative medical services provided by its duly licensed physicians, specialists and other professional technical staff participating in the group practice health delivery system at a hospital or clinic owned, operated or accredited by it.
+[3]
+The pertinent part of petitioner's membership or health care agreement
+[4]
+ provides:
+VII  BENEFITS
+Subject to paragraphs VIII [on pre-existing medical condition] and X [on claims for reimbursement] of this Agreement, Members shall have the following Benefits under this Agreement:
+In-Patient Services.
+ In the event that a Member contract[s] sickness or suffers injury which requires confinement in a participating Hospital[,] the services or benefits stated below shall be provided to the Member free of charge, but in no case shall [petitioner] be liable to pay more than P75,000.00 in benefits with respect to anyone sickness, injury or related causes. If a member has exhausted such maximum benefits with respect to a particular sickness, injury or related causes, all accounts in excess of P75,000.00 shall be borne by the enrollee. It is[,] however, understood that the payment by [petitioner] of the said maximum in In-Patient Benefits to any one member shall preclude a subsequent payment of benefits to such member in respect of an unrelated sickness, injury or related causes happening during the remainder of his membership term.
+ 
+ 
+ 
+(a) 
+ 
+Room and Board
+ 
+ 
+ 
+(b) 
+ 
+Services of physician and/or surgeon or specialist
+ 
+ 
+ 
+(c) 
+ 
+Use of operating room and recovery room
+ 
+ 
+ 
+(d) 
+ 
+Standard Nursing Services
+ 
+ 
+ 
+(e) 
+ 
+Drugs and Medication for use in the hospital except those which are used to dissolve blood clots in the vascular systems (i.e., trombolytic agents)
+ 
+ 
+ 
+(f) 
+ 
+Anesthesia and its administration
+ 
+ 
+ 
+(g) 
+ 
+Dressings, plaster casts and other miscellaneous supplies
+ 
+ 
+ 
+(h) 
+ 
+Laboratory tests, x-rays and other necessary diagnostic services
+ 
+ 
+ 
+(i) 
+ 
+Transfusion of blood and other blood elements
+ 
+ 
+Condition for in-Patient Care. 
+The provision of the services or benefits mentioned in the immediately preceding paragraph shall be subject to the following conditions:
+ 
+ 
+ 
+(a) 
+ 
+The Hospital Confinement must be approved by [petitioner's] Physician, Participating Physician or [petitioner's] Medical Coordinator in that Hospital prior to confinement.
+ 
+ 
+ 
+(b) 
+ 
+The confinement shall be in a Participating Hospital and the accommodation shall be in accordance with the Member[`]s benefit classification.
+ 
+ 
+ 
+(c) 
+ 
+Professional services shall be provided only by the [petitioner's] Physicians or Participating Physicians.
+ 
+ 
+ 
+(d) 
+ 
+If discharge from the Hospital has been authorized by [petitioner's] attending Physician or Participating Physician and the Member shall fail or refuse to do so, [petitioner] shall not be responsible for any charges incurred after discharge has been authorized.
+ 
+ 
+Out-Patient Services. 
+A Member is entitled free of charge to the following services or benefits which shall be rendered or administered either in [petitioner's] Clinic or in a Participating Hospital under the direction or supervision of [petitioner's] Physician, Participating Physician or [petitioner's] Medical Coordinator.
+ 
+ 
+ 
+(a) 
+ 
+Gold Plan Standard Annual Physical Examination on the anniversary date of membership, to be done at [petitioner's] designated hospital/clinic, to wit:
+ 
+ 
+ 
+ 
+(i) 
+ 
+Taking a medical history
+ 
+ 
+ 
+ 
+(ii) 
+ 
+Physical examination
+ 
+ 
+ 
+ 
+(iii) 
+ 
+Chest x-ray
+ 
+ 
+ 
+ 
+(iv) 
+ 
+Stool examination
+ 
+ 
+ 
+ 
+(v) 
+ 
+Complete Blood Count
+ 
+ 
+ 
+ 
+(vi) 
+ 
+Urinalysis
+ 
+ 
+ 
+ 
+(vii) 
+ 
+Fasting Blood Sugar (FBS)
+ 
+ 
+ 
+ 
+(viii) 
+ 
+SGPT
+ 
+ 
+ 
+ 
+(ix) 
+ 
+Creatinine
+ 
+ 
+ 
+ 
+(x) 
+ 
+Uric Acid
+ 
+ 
+ 
+ 
+(xi) 
+ 
+Resting Electrocardiogram
+ 
+ 
+ 
+ 
+(xii) 
+ 
+Pap Smear (Optional for women 40 years and above)
+ 
+ 
+ 
+(b) 
+ 
+Platinum Family Plan/Gold Family Plan and Silver Annual Physical Examination.
+ 
+ 
+ 
+ 
+The following tests are to be done as part of the Member[`]s Annual check-up program at [petitioner's] designated clinic, to wit:
+ 
+ 
+ 
+ 
+1) 
+ 
+Routine Physical Examination
+ 
+ 
+ 
+ 
+2) 
+ 
+CBC (Complete Blood Count)
+ 
+ 
+ 
+ 
+ 
+* Hemoglobin             * Hematocrit
+ 
+ 
+ 
+ 
+ 
+* Differential              * RBC/WBC
+ 
+ 
+ 
+ 
+3) 
+ 
+Chest X-ray
+ 
+ 
+ 
+ 
+4) 
+ 
+Urinalysis
+ 
+ 
+ 
+ 
+5) 
+ 
+Fecalysis
+ 
+ 
+ 
+(c) 
+ 
+Preventive Health Care, which shall include:
+ 
+ 
+ 
+ 
+(i) 
+ 
+Periodic Monitoring of Health Problems
+ 
+ 
+ 
+ 
+(ii) 
+ 
+Family planning counseling
+ 
+ 
+ 
+ 
+(iii) 
+ 
+Consultation and advices on diet, exercise and other healthy habits
+ 
+ 
+ 
+ 
+(iv) 
+ 
+Immunization but excluding drugs for vaccines used
+ 
+ 
+ 
+(d)
+ 
+ 
+Out-Patient Care, which shall include:
+ 
+ 
+ 
+ 
+(i) 
+ 
+Consultation, including specialist evaluation
+ 
+ 
+ 
+ 
+(ii) 
+ 
+Treatment of injury or illness
+ 
+ 
+ 
+ 
+(iii) 
+ 
+Necessary x-ray and laboratory examination
+ 
+ 
+ 
+ 
+(iv) 
+ 
+Emergency medicines needed for the immediate relief of symptoms
+ 
+ 
+ 
+ 
+(v) 
+ 
+Minor surgery not requiring confinement
+ 
+ 
+Emergency Care. 
+Subject to the conditions and limitations in this Agreement and those specified below, a Member is entitled to receive emergency care [in case of emergency. For this purpose, all hospitals and all attending physician(s) in the Emergency Room automatically become accredited. In participating hospitals, the member shall be entitled to the following services free of charge: (a) doctor's fees, (b) emergency room fees, (c) medicines used for immediate relief and during treatment, (d) oxygen, intravenous fluids and whole blood and human blood products, (e) dressings, casts and sutures and (f) x-rays, laboratory and diagnostic examinations and other medical services related to the emergency treatment of the patient.]
+[5]
+ Provided, however, that in no case shall the total amount payable by [petitioner] for said Emergency, inclusive of hospital bill and professional fees, exceed P75,000.00.
+If the Member received care in a non-participating hospital, [petitioner] shall reimburse [him]
+[6]
+ 80% of the hospital bill or the amount of P5,000.00[,] whichever is lesser, and 50% of the professional fees of non-participating physicians based on [petitioner's] schedule of fees provided that the total amount[,] inclusive of hospital bills and professional fee shall not exceed P5,000.00.
+On January 27, 2000, respondent Commissioner of Internal Revenue sent petitioner a formal demand letter and the corresponding assessment notices demanding the payment of deficiency taxes, including surcharges and interest, for the taxable years 1996 and 1997 in the total amount of P224,702,641.18. The assessment represented the following:
+ 
+ 
+ 
+ 
+ Value Added Tax (VAT) 
+ 
+                             DST 
+ 
+ 
+ 
+ 
+1996 
+ 
+ P   45,767,596.23 
+ 
+                    P 55,746,352.19 
+ 
+ 
+ 
+ 
+1997 
+ 
+       54,738,434.03
+ 
+                       68,450,258.73
+ 
+ 
+ 
+ 
+ 
+ P 100,506,030.26 
+ 
+                   P 124,196,610.92 
+ 
+ 
+The deficiency DST assessment was imposed on petitioner's health care agreement with the members of its health care program pursuant to Section 185 of the 1997 Tax Code which provides:
+Section 185. 
+Stamp tax on fidelity bonds and other insurance policies
+. - 
+On all policies of insurance
+ or bonds or obligations 
+of the nature of indemnity for loss, damage, or liability made or renewed by any person, association or company or corporation transacting the business of
+ accident, fidelity, employer's liability, plate, glass, steam boiler, burglar, elevator, automatic sprinkler, 
+or other branch of insurance (except life, marine, inland, and fire insurance)
+, and all bonds, undertakings, or recognizances, conditioned for the performance of the duties of any office or position, for the doing or not doing of anything therein specified, and on all obligations guaranteeing the validity or legality of any bond or other obligations issued by any province, city, municipality, or other public body or organization, and on all obligations guaranteeing the title to any real estate, or guaranteeing any mercantile credits, which may be made or renewed by any such person, company or corporation, there shall be collected a documentary stamp tax of fifty centavos (P0.50) on each four pesos  (P4.00), or fractional part thereof, of the premium charged. (emphasis supplied)
+Petitioner protested the assessment in a letter dated February 23, 2000. As respondent did not act on the protest, petitioner filed a petition for review in the Court of Tax Appeals (CTA) seeking the cancellation of the deficiency VAT and DST assessments.
+On April 5, 2002, the CTA rendered a decision,
+[7]
+ the dispositive portion of which read:
+WHEREFORE, in view of the foregoing, the instant Petition for Review is PARTIALLY GRANTED.  Petitioner is hereby ORDERED to PAY the deficiency VAT amounting to P22,054,831.75 inclusive of 25% surcharge plus 20% interest from January 20, 1997 until fully paid for the 1996 VAT deficiency and P31,094,163.87 inclusive of 25% surcharge plus 20% interest from January 20, 1998 until fully paid for the 1997 VAT deficiency.  Accordingly, VAT Ruling No. [231]-88 is declared void and without force and effect. The 1996 and 1997 deficiency DST assessment against petitioner is hereby CANCELLED AND SET ASIDE.  Respondent is ORDERED to DESIST from collecting the said DST deficiency tax.
+SO ORDERED.
+[8]
+Respondent appealed the CTA decision to the CA
+[9]
+ insofar as it cancelled the DST assessment. He claimed that petitioner's health care agreement was a contract of insurance subject to DST under Section 185 of the 1997 Tax Code.
+On August 16, 2004, the CA rendered its decision.
+[10]
+ It held that petitioner's health care agreement was in the nature of a non-life insurance contract subject to DST:
+WHEREFORE, the petition for review is GRANTED. The Decision of the Court of Tax Appeals, insofar as it cancelled and set aside the 1996 and 1997 deficiency documentary stamp tax assessment and ordered petitioner to desist from collecting the same is REVERSED and SET ASIDE.
+Respondent is ordered to pay the amounts of P55,746,352.19 and P68,450,258.73 as deficiency Documentary Stamp Tax for 1996 and 1997, respectively, plus 25% surcharge for late payment and 20% interest per annum from January 27, 2000, pursuant to Sections 248 and 249 of the Tax Code, until the same shall have been fully paid.
+SO ORDERED.
+[11]
+Petitioner moved for reconsideration but the CA denied it. Hence, this petition.
+Petitioner essentially argues that its health care agreement is not a contract of insurance but a contract for the provision on a prepaid basis of medical services, including medical check-up, that are not based on loss or damage. Petitioner also insists that it is not engaged in the insurance business. It is a health maintenance organization regulated by the Department of Health, not an insurance company under the jurisdiction of the Insurance Commission. For these reasons, petitioner asserts that the health care agreement is not subject to DST.
+We do not agree.
+The DST is levied on the exercise by persons of certain privileges conferred by law for the creation, revision, or termination of specific legal relationships through the execution of specific instruments.
+[12]
+ It is an excise upon the privilege, opportunity, or facility offered at exchanges for the transaction of the business.
+[13]
+ In particular, 
+t
+he DST under Section 185 of the 1997 Tax Code is imposed on the privilege of making or renewing any policy of insurance (except life, marine, inland and fire insurance)
+, bond or obligation 
+in the nature of indemnity
+ for loss, damage, or liability.
+Under the law, a contract of insurance is an agreement whereby one undertakes for a consideration to indemnify another against loss, damage or liability arising from an unknown or contingent event.
+[14]
+ The event insured against must be designated in the contract and must either be unknown or contingent.
+[15]
+Petitioner's health care agreement is primarily a contract of indemnity. And in the recent case of 
+Blue Cross Healthcare, Inc. v. Olivares
+,
+[16]
+ this Court ruled that a health care agreement is in the nature of a non-life insurance policy.
+Contrary to petitioner's claim, its health care agreement is not a contract for the provision of medical services. Petitioner does not actually provide medical or hospital services but merely arranges for the same
+[17]
+ and pays for them up to the stipulated maximum amount of coverage. It is also incorrect to say that the health care agreement is not based on loss or damage because, under the said agreement, petitioner assumes the liability and indemnifies its member for hospital, medical and related expenses (such as professional fees of physicians). The term "loss or damage" is broad enough to cover the monetary expense or liability a member will incur in case of illness or injury.
+Under the health care agreement, the rendition of hospital, medical and professional services to the member in case of sickness, injury or emergency or his availment of so-called "out-patient services" (including physical examination, x-ray and laboratory tests, medical consultations, vaccine administration and family planning counseling) is the contingent event which gives rise to liability on the part of the member. In case of exposure of the member to liability, he would be entitled to indemnification by petitioner.
+Furthermore, the fact that petitioner must relieve its member from liability by paying for expenses arising from the stipulated contingencies belies its claim that its services are prepaid. The expenses to be incurred by each member cannot be predicted beforehand, if they can be predicted at all. Petitioner assumes the risk of paying for the costs of the services even if they are significantly and substantially more than what the member has "prepaid." Petitioner does not bear the costs alone but distributes or spreads them out among a large group of persons bearing a similar risk, that is, among all the other members of the health care program. This is insurance.
+Petitioner's health care agreement is substantially similar to that involved in 
+Philamcare Health Systems, Inc
+.
+ v. CA
+.
+[18]
+ The health care agreement in
+ 
+that case entitled the subscriber to avail of the hospitalization benefits, whether ordinary or emergency, listed therein. It also provided for "out-patient benefits" such as annual physical examinations, preventive health care and other out-patient services. This Court ruled in 
+Philamcare Health Systems, Inc.
+:
+[T]he insurable interest of [the subscriber] in obtaining the health care agreement was his own health. 
+The health care agreement was in the nature of non-life insurance, which is primarily a contract of indemnity
+. Once the member incurs hospital, medical or any other expense arising from sickness, injury or other stipulated contingency, the health care provider must pay for the same to the extent agreed upon under the contract.
+[19]
+ (emphasis supplied)
+Similarly, the insurable interest of every member of petitioner's health care program in obtaining the health care agreement is his own health. Under the agreement, petitioner is bound to indemnify any member who incurs hospital, medical or any other expense arising from sickness, injury or other stipulated contingency to the extent agreed upon under the contract.
+Petitioner's contention that it is a health maintenance organization and not an insurance company is irrelevant. Contracts between companies like petitioner and the beneficiaries under their plans are treated as insurance contracts.
+[20]
+Moreover, DST is not a tax on the business transacted but an excise on the privilege, opportunity, or facility offered at exchanges for the transaction of the business.
+[21]
+ 
+It is an excise on the facilities used 
+in the transaction of the business,
+ separate and apart from the business itself
+.
+[22]
+WHEREFORE
+, the petition is hereby 
+DENIED
+.
+ 
+The August 16, 2004 decision of the Court of Appeals in CA-G.R. SP No.
+ 
+70479
+ 
+is 
+AFFIRMED
+.
+Petitioner is ordered to pay the amounts of P55,746,352.19 and P68,450,258.73 as deficiency documentary stamp tax for 1996 and 1997, respectively, plus 25% surcharge for late payment and 20% interest per annum from January 27, 2000 until full payment thereof.
+Costs against petitioner.
+SO ORDERED
+.
+Puno, C.J., (Chairperson), Carpio, Azcuna,
+ and 
+Leonardo-De Castro, JJ.
+, concur.
+[1]
+ Penned by Associate Justice Marina L. Buzon and concurred in by Associate Justices Mario L. GuariÃ±a III and Santiago Javier Ranada (retired) of the Twelfth Division of the Court of Appeals. 
+Rollo
+, pp. 49-55.
+[2]
+ Paragraph 14, Petition for Review on Certiorari. Id., p. 17.
+[3] 
+Paragraph 15, id.
+[4]
+ Id., pp. 132-137.
+[5] 
+The copy of the membership/health care agreement attached to the petition had been cut in this portion. Reference was therefore made to petitioner's description of its member's rights and privileges under the health care agreement as stated in paragraph 20 of the petition. Id., p. 11.
+[6]
+ The copy of the membership/health care agreement attached to the petition is blurred in this portion.
+[7] 
+Penned by Associate Judge (now Associate Justice) Juanito C. CastaÃ±eda, Jr. with Associate Judge Amancio Q. Saga (retired) concurring. Presiding Judge (now Presiding Justice) Ernesto D. Acosta submitted a concurring and dissenting opinion wherein he concurred with the cancellation of the deficiency DST assessment and dissented with the affirmation of the deficiency VAT assessment. 
+Rollo
+, pp. 107-131.
+[8] 
+Id. On motion for reconsideration, the CTA set aside the deficiency VAT assessment. On appeal, the CA affirmed the CTA resolution on the motion for reconsideration. When the case was elevated to this Court, we affirmed the CA decision. (
+See Commissioner of Internal Revenue v. Philippine Health Care Providers, Inc.
+, G.R. No. 168129, 24 April 2007.)
+[9] 
+Under RA 9282 which took effect on April 23, 2004, decisions of the CTA are now appealable to the Supreme Court instead of the Court of Appeals.
+[10] 
+Supra
+ note 1.
+[11] 
+Id.
+[12]
+ 
+International Exchange Bank v. Commissioner of Internal Revenue
+, G.R. No. 171266, 04 April 4, 2007.
+[13]
+ 
+Philippine Home Assurance Corporation v. CA
+, 361 Phil. 368 (1999).
+[14]
+ Section 2(1), Insurance Code.
+[15] 
+An unknown event is something which is certain to happen but the time of its happening is not known, while a contingent event is something which is not certain to take place. Campos, Maria Clara L., INSURANCE, 1983 edition, U.P. Law Center, p. 15.
+[16] 
+G.R. No. 169737, 12 February 2008.
+[17]
+ 
+Commissioner of Internal Revenue v. Philippine Health Care Providers, Inc.
+, 
+supra
+ note 8.
+[18]
+ 429 Phil. 82 (2002).
+[19]
+ Id.
+[20] 
+Lutsky v. Blue Cross Hosp. Service, Inc. of Missouri
+, 695 S.W.2d 870 (1985); 
+North Kansas 
+City Memorial Hospital v. Wiley
+, 385 S.W.2d 218 (Mo.App.1964); 
+Myers v. Kitsip Physicians Service
+, 78 Wash.2d 286, 474 P.2d 109 (1970).
+[21]
+ 
+Philippine Home Assurance Corporation v. CA
+, 
+supra
+ note 13.
+[22]
+ Id.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)
