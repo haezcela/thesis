@@ -1,0 +1,676 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			838 Phil. 984
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. Nos. 236577 and 236597, August 15, 2018 ]
+
+
+PHILIPPINE CHARITY SWEEPSTAKES OFFICE, PETITIONER, VS. HON. MAXIMO M. DE LEON, PRESIDING JUDGE OF THE MAKATI CITY REGIONAL TRIAL COURT, BRANCH 143, AND PHILIPPINE GAMING AND MANAGEMENT CORPORATION, RESPONDENTS.
+DECISION
+
+
+
+
+LEONEN, J.:
+
+
+Absent the showing of an existing right to be protected, a party's application for an injunctive relief must necessarily be denied.
+This is a Petition for Certiorari
+[1]
+ under Rule 65 of the 1997 Rules of Civil Procedure, praying that the August 3, 2017
+[2]
+ and November 7, 2017
+[3]
+ Resolutions and the August 10, 2017 Writ of Preliminary Injunction
+[4]
+ of the Regional Trial Court be reversed and set aside.
+[5]
+ The Regional Trial Court granted the Philippine Gaming and Management Corporation's application for injunctive relief.
+[6]
+Petitioner Philippine Charity Sweepstakes Office likewise prays for the issuance of a 
+status quo ante
+ order or a Temporary Restraining Order and/or Writ of Preliminary Injunction to enjoin the Philippine Gaming and Management Corporation and Presiding Judge Maximo M. De Leon (Judge De Leon): (1) "from committing or performing any acts pursuant to the Assailed Resolution and Writ and/or barring or preventing [the Philippine Charity Sweepstakes Office] from bidding the [Nationwide On-line Lottery System] project and/or from proceeding with any procurement activities to procure online lottery equipment;"
+[7]
+ and (2) "from doing anything that will adversely affect, impede, obstruct, and/or prevent the smooth conduct of the bidding for the [Nationwide On-line Lottery System] project."
+[8]
+This case arose from the Equipment Lease Agreement
+[9]
+ executed on January 25, 1995 by the Philippine Charity Sweepstakes Office and the Philippine Gaming and Management Corporation. The Equipment Lease Agreement provided that the Philippine Charity Sweepstakes Office, as lessee, will lease the lottery equipment and accessories of the Philippine Gaming and Management Corporation, as lessor, for the operation of its onÂ­line lottery in Luzon. The term of the Equipment Lease Agreement was eight (8) years or until 2003.
+[10]
+On November 14, 1997, the Philippine Charity Sweepstakes Office and the Philippine Gaming and Management Corporation amended the Equipment Lease Agreement "to reduce the original number of required terminals from 2,000 to 1,250 terminals."
+[11]
+ Several cases were filed in court causing the 8-year term of the Equipment Lease Agreement to commence in 1999. With the 4-year delay, the Equipment Lease Agreement would end in 2007.
+[12]
+On December 29, 2004, the Philippine Charity Sweepstakes Office and the Philippine Gaming and Management Corporation executed another lease agreement, amending the Equipment Lease Agreement.
+[13]
+ One of the provisions in the Amendments to Equipment Lease Agreement
+[14]
+ was on the extension of the lease duration to another eight (8) years or until 2015.
+[15]
+ Paragraph 3 of the Amendments to Equipment Lease Agreement provides:
+Paragraph 3
+ of the [Equipment Lease Agreement] is hereby amended by extending the lease term for a period of eight (8) years commencing 23 August 2007; provided that, all of the upgraded/replacement equipment shall be ready for commercial operation no later than 23 August 2007; and provided further that, every two (2) years thereafter until the end of the term of this Agreement, as required by mutual agreement of the parties, the LESSOR guarantees the periodic upgrading of all equipment at no additional cost on the part of the LESSEE.
+[16]
+ (Emphasis in the original)
+In 2011, the Equipment Lease Agreement was investigated by the Philippine Senate Blue Ribbon Committee.
+[17]
+ The investigation was conducted due to an alleged "lapse in financial judgment"
+[18]
+ when the Philippine Charity Sweepstakes Office rented lottery machines for US$148,000,000.00, instead of purchasing them for US$25,000,000.00.
+[19]
+ After investigation, the Philippine Senate Blue Ribbon Committee recommended that the Philippine Charity Sweepstakes Office proceed with the renegotiation of the rental fee "to ensure that the basis for the fees is commensurate to the cost of the subject of the lease and that the amount thereof is not unduly burdensome to the public."
+[20]
+ The Philippine Senate Blue Ribbon Committee also recommended that the renegotiations should be pursued not only with the Philippine Gaming and Management Corporation but also with the Pacific Online Systems Corporation (Pacific Online), the on-line lottery operator for Visayas and Mindanao.
+[21]
+Pursuant to the Philippine Senate Blue Ribbon Committee's recommendation, the Philippine Charity Sweepstakes Office sought the renegotiation of the lease rental rate with the Philippine Gaming and Management Corporation, and Pacific Online. Pacific Online conceded for the reduction of the lease rental to 7.85% of the gross lotto sales. Since the Philippine Gaming and Management Corporation declined to reduce the rental rate of 10% of the gross lotto sales, the Philippine Charity Sweepstakes Office allowed Pacific Online to provide lottery equipment for the on-line lottery operations in Luzon.
+[22]
+On June 8, 2012, while the Amendments to Equipment Lease Agreement was still in effect, the Philippine Gaming and Management Corporation filed a Petition for Indirect Contempt with Temporary Restraining Order and/or Writ of Preliminary Injunction before the Regional Trial Court of Makati City. The case was docketed as SCA Case 12-530.
+[23]
+ The Philippine Gaming and Management Corporation argued that the Philippine Charity Sweepstakes Office "violated a Court order confirming its exclusiv[e] right."
+[24]
+ Impleaded as respondents were the Philippine Charity Sweepstakes Office, its Chairman Margarita P. Juico, and its Board of Directors, namely, Ma. Aleta L. Tolentino, Betty B. Nantes, Mabel V. Mamba, and Francisco G. Joaquin III (collectively, the Philippine Charity Sweepstakes Office and its Board and Officials).
+On the other hand, the Philippine Charity Sweepstakes Office and its Board and Officials filed an Omnibus Motion to Dismiss Ad Cautelam
+[25]
+ on June 26, 2012 and a Supplemental Motion to Dismiss on July 9, 2012.
+[26]
+ They contended that the Regional Trial Court has no jurisdiction over the case and that the Philippine Gaming and Management Corporation "has no exclusive right as the sole supplier of on-line lottery equipment to [the Philippine Charity Sweepstakes Office] in Luzon territory."
+[27]
+On July 12, 2012, then Acting Presiding Judge Rommel Baybay (Judge Baybay) issued a Resolution
+[28]
+ granting the Philippine Gaming and Management Corporation's application for a Writ of Preliminary Injunction.
+[29]
+ The Philippine Charity Sweepstakes Office moved for reconsideration.
+[30]
+In October 2012, another Petition for contempt,
+[31]
+ docketed as SCA Case No. 12-1011, was filed by the Philippine Gaming and Management Corporation against the Philippine Charity Sweepstakes Office and its Board and Officials. The Philippine Gaming and Management Corporation alleged that the Philippine Charity Sweepstakes Office refused to comply with the Writ of Preliminary Injunction.
+[32]
+ SCA Case Nos. 12-530 and 12-1011 were then consolidated before Branch 143, Regional Trial Court, Makati City.
+[33]
+On November 14, 2012, Judge Baybay issued a Reso1ution,
+[34]
+ denying the June 26, 2012 Motion to Dismiss Ad Cautelam and the July 9, 2012 Supplemental Motion to Dismiss filed by the Philippine Charity Sweepstakes Office and its Board and Officials.
+[35]
+On January 18, 2013, the Philippine Charity Sweepstakes Office and its Board and Officials filed a Petition for Certiorari
+[36]
+ against Judge Baybay before the Court of Appeals. The case was docketed as CA-G.R. SP No. 128259.
+[37]
+ They alleged that Judge Baybay committed grave abuse of discretion when he denied their Motion to Dismiss and granted the Philippine Gaming and Management Corporation's application for a Writ of Preliminary Injunction.
+[38]
+On December 11, 2013, during the pendency of SCA Case Nos. 12-530 and 12-1011 before the Regional Trial Court, the Philippine Charity Sweepstakes Office and the Philippine Gaming and Management Corporation entered into an Interim Settlement,
+[39]
+ which provided:
+3. The parties hereby agree that the exclusivity issue and all matters arising related to or consequential therefrom, shall be resolved through an arbitration proceeding using [International Chamber of Commerce] Rules by a three[-]member Arbitral Tribunal in Manila;
+4. The parties further agree to archive in the meantime the two contempt cases, docketed as SCA 12-520 (sic) and 12-1011 now pending before the Makati City RTC until the parties shall proceed to arbitration[.]
+[40]
+In accordance with the Interim Settlement, a Request for Arbitration
+[41]
+ was filed by the Philippine Gaming and Management Corporation on March 13, 2014 before the International Chamber of Commerce, International Court of Arbitration. The Philippine Gaming and Management Corporation raised the issue of whether it has "the exclusiv[e] right to supply online lottery equipment to [the Philippine Charity Sweepstakes Office] in Luzon."
+[42]
+ The Philippine Charity Sweepstakes Office filed its Answer.
+[43]
+ Thereafter, preliminary hearings were conducted.
+[44]
+Meanwhile, the Philippine Charity Sweepstakes Office and the Philippine Gaming and Management Corporation executed a Supplemental and Status Quo Agreement
+[45]
+ on August 13, 2015. They agreed to extend the term of the Equipment Lease Agreement from August 22, 2015 to August 21, 2018.
+[46]
+ The Supplemental and Status Quo Agreement provided:
+II. STATUS QUO
+The parties shall dismiss all pending judicial and civil actions between them but shall continue with the arbitration proceedings until resolved with finality, for the purpose of determining territorial exclusivity. [The Philippine Gaming and Management Corporation] shall no longer claim any damages from the [Philippine Charity Sweepstakes Office], Board and officials in said arbitration proceedings, without prejudice to the claim for performance, if warranted.
+Except as otherwise provided, upon the execution of this Agreement, the parties agree to maintain the status quo existing as provided in the Interim Settlement for a period of three years from 22 August 2015.
+[47]
+ (Emphasis in the original)
+Pursuant to the Interim Settlement, and the Supplemental and Status Quo Agreement, the Philippine Charity Sweepstakes Office and its Board and Officials filed on January 20, 2016 two (2) motions to dismiss: (1) a Manifestation with Motion to Dismiss
+[48]
+ before the Court of Appeals; and (2) a Consolidated Motion to Revive and to Dismiss Cases Based on Status Quo Agreement
+[49]
+ before Branch 143, Regional Trial Court, Makati City.
+[50]
+ They sought to dismiss the Petition for Certiorari against Judge Baybay docketed as CA-G.R. SP No. 128259 pending before the Court of Appeals
+[51]
+ and the Indirect Contempt cases docketed as SCA Case Nos. 12-530 and 12-1011 pending before the Makati City Regional Trial Court.
+[52]
+Meanwhile, the Philippine Charity Sweepstakes Office and its Board and Officials filed a Request to Direct Philippine Gaming and Management Corporation to Amend its Memorials Pursuant to the Parties' August 13, 2015 Status Quo Agreement
+[53]
+ dated January 21, 2016 before the International Chamber of Commerce, International Court of Arbitration. They alleged that the Philippine Gaming and Management Corporation's Memorials "raised several issues that fall outside the limited scope of 'exclusivity issue'."
+[54]
+On March 1, 2016, the Court of Appeals issued a Resolution
+[55]
+ granting the Philippine Charity Sweepstakes Office and its Board and Officials' Manifestation with Motion to Dismiss and directed the Division Clerk of Court to issue an Entry of Judgment.
+[56]
+ Thus, an Entry of Judgment
+[57]
+ was issued on March 1, 2016.
+On March 30, 2016, the Philippine Charity Sweepstakes Office and its Board and Officials immediately filed a Manifestation and Motion for Reconsideration
+[58]
+ before the Court of Appeals. They prayed for the reversal of the March 1, 2016 Resolution of the Court of Appeals because the Supplemental and Status Quo Agreement's validity was being questioned by the Philippine Gaming and Management Corporation before the International Chamber of Commerce, International Court of Arbitration. They stressed that the Supplemental and Status Quo Agreement was the basis of the Philippine Charity Sweepstakes Office and its Board and Officials' filing of the Manifestation with Motion to Dismiss.
+[59]
+On November 2, 2016, the Court of Appeals issued a Resolution,
+[60]
+ denying the Philippine Charity Sweepstakes Office and its Board and Officials' Manifestation and Motion for Reconsideration.
+[61]
+On December 29, 2016, the Philippine Charity Sweepstakes Office and its Board and Officials filed a Petition for Review
+[62]
+ against the Philippine Gaming and Management Corporation before this Court, assailing the March 1, 2016 and November 2, 2016 Resolutions of the Court of Appeals.
+[63]
+ This case was docketed as G.R. No. 228801 and is also pending with the Third Division.
+[64]
+Meanwhile, since the term of the Equipment Lease Agreement was about to expire in August 2018, the Philippine Charity Sweepstakes Office started preparations for the public bidding of the Nationwide On-line Lottery System.
+[65]
+On July 11, 2017, the Philippine Gaming and Management Corporation filed a new application
+[66]
+ for the issuance of a Temporary Restraining Order and a Writ of Preliminary Injunction in SCA Case Nos. 12-530 and 12-1011. It sought for the cessation of the nationwide bidding for the procurement of the Nationwide On-line Lottery System.
+[67]
+After the conduct of the summary hearing on the Philippine Gaming and Management Corporation's application for Temporary Restraining Order, Judge De Leon, the new presiding judge of Branch 143, granted the Temporary Restraining Order application in a July 21, 2017 Order.
+[68]
+ He enjoined the Philippine Charity Sweepstakes Office and its officials from proceeding with the nationwide public bidding that was scheduled on July 27,2017.
+[69]
+On August 3, 2017, Judge De Leon issued a Resolution
+[70]
+ granting the Philippine Gaming and Management Corporation's application for a Writ of Preliminary Injunction, which was issued on August 10, 2017.
+[71]
+ The dispositive portion of the August 3, 2017 Resolution provided:
+WHEREFORE, premises considered, pending the conclusion of the trial of the instant cases and the arbitration proceedings before the Arbitral Tribunal, petitioner's application for the issuance of a writ of preliminary injunction is 
+GRANTED
+, subject to the posting of an injunction bond in the amount of TWENTY[-]FIVE MILLION PESOS (Php 25,000,000.00). Upon posting of the said bond, let a writ of preliminary injunction issue, ENJOINING respondent Philippine Charity Sweepstakes Office (PCSO) as represented by its board of directors not to proceed with its public bidding process BUT INSOFAR as Luzon territory only is concerned.
+Furthermore, this Resolution is without prejudice to any ruling of the Honorable Supreme Court in connection with the pending application for Temporary Restraining Order]/Prohibitory Injunction filed by [the Philippine Charity Sweepstakes Office].
+Meanwhile, it is understood that this Injunction will only cover the area of Luzon territory and will not cover Visayas and Mindanao territories.
+Let these cases remain in the archive pursuant to May 10, 2016 Resolution.
+SO ORDERED.
+[72]
+ (Emphasis in the original)
+The Philippine Charity Sweepstakes Office filed a Motion for Reconsideration,
+[73]
+ which was denied by the Regional Trial Court in its November 7, 2017 Resolution.
+[74]
+On February 1, 2018, the Philippine Charity Sweepstakes Office filed a Petition for Certiorari
+[75]
+ against Judge De Leon and the Philippine Gaming and Management Corporation before this Court. This case was docketed as G.R. Nos. 236577 and 236597.
+[76]
+Petitioner alleges that respondent Judge De Leon committed grave abuse of discretion:
+Judge De Leon gravely abused his discretion amounting to lack or excess of jurisdiction when he issued the assailed injunctive writ because it is an interference to the arbitral panel's jurisdiction in [International Chamber of Commerce] Case 20105CYK pending before the [International Chamber of Commerce] International Court of Arbitration.
+. . . when he assumed jurisdiction over the application for relief.
+. . . when he ruled that [the Philippine Gaming and Management Corporation] has a right that must be protected pursuant to Section 2 of the Interim Settlement.
+. . . when he relied on the pendency of the arbitral proceeding as basis in granting the injunctive relief application.
+. . . when he ruled that [the Philippine Gaming and Management Corporation]'s action in immediately applying for [Temporary Restraining Order]/Injunctive relief is an indicia that it has a right to be violated.
+. . . in finding that [the Philippine Gaming and Management Corporation] will suffer grave and irreparable injury if [the Philippine Charity Sweepstakes Office] pursues the [Nationwide On-line Lottery System] bidding and that no extreme urgency exists.
+[77]
+Petitioner argues that respondent Judge De Leon should have denied or deferred action on respondent Philippine Gaming and Management Corporation's application for Temporary Restraining Order/Writ of Preliminary Injunction considering that the latter already instituted a similar application before the International Chamber of Commerce, International Court of Arbitration. In granting the application, respondent Judge De Leon violated Section 28(l) of the International Chamber of Commerce Rules and Rule 5.15 of the Special Rules of Court on Alternative Dispute Resolution. Petitioner also notes that the Philippine Gaming and Management Corporation's application was filed without a verified petition, in violation of Rule 5.5 of the Supreme Court Administrative Matter No. 07-11-08 or the Special Rules of Court on Alternative Dispute Resolution.
+[78]
+Petitioner claims that despite respondent Judge De Leon's declaration that he did not rule on the contractual rights between petitioner and respondent Philippine Gaming and Management Corporation, the August 3, 2017 Resolution stated otherwise.
+[79]
+ In respondent Judge De Leon's Resolution, he "practically made a preliminary finding on the contractual right of [the Philippine Gaming and Management Corporation] on the [Interim Settlement] which is strictly prohibited in an indirect contempt proceeding like the present case."
+[80]
+Petitioner avers that contrary to respondent Judge De Leon's findings, respondent Philippine Gaming and Management Corporation "has no right to be protected by the writ."
+[81]
+ Respondent Judge De Leon ruled that the Interim Settlement is the source of the Philippine Gaming and Management Corporation's right, which needed to be protected. However, he also held that the Supplemental and Status Quo Agreement already supplemented the Interim Settlement. This was also admitted by respondent Philippine Gaming and Management Corporation.
+[82]
+Petitioner contends that respondent Judge De Leon erred when he used the pending arbitral proceeding as basis in issuing the Writ of Preliminary Injunction. It points out that the only issue before the International Chamber of Commerce, International Court of Arbitration is the alleged exclusive right of respondent Philippine Gaming and Management Corporation with respect to the Equipment Lease Agreement and the Amendments to Equipment Lease Agreement, which was extended until August 22, 2018. On the other hand, the writ applied for by respondent Philippine Gaming and Management Corporation is on the Nationwide OnÂ­line Lottery System bidding covering the period of five (5) years starting on August 23, 2018. Thus, the pending arbitration proceeding is irrelevant to the application of the writ and should not have been relied upon by respondent Judge De Leon.
+[83]
+Petitioner maintains that respondent Philippine Gaming and Management Corporation failed to show "any positive, clear and unmistakable right to be protected, much less, the right to be the Lessor for on-line lottery equipment after 22 August 2018 and 5 years thereafter or until 2023."
+[84]
+ Without any legal right to be protected, respondent Philippine Gaming and Management Corporation cannot claim to suffer irreparable injury.
+[85]
+ Absent respondent Philippine Gaming and Management Corporation's legal right and proof of irreparable injury, respondent Judge De Leon should not have issued the injunctive writ.
+[86]
+Petitioner likewise notes that "[t]here was no extreme urgency for the issuance of an injunctive writ."
+[87]
+ It asserts:
+[I]f the [Nationwide On-line Lottery System] project is awarded to a winning bidder following the opening of bids on 27 July 2017, a 10-month period is still necessary to conduct a test-run to ensure that the lottery system is workable and acceptable to [the Philippine Charity Sweepstakes Office] by the time [the Philippine Gaming and Management Corporation]'s extended [Equipment Lease Agreement] expires in August 2018.
+[88]
+Finally, petitioner alleges that respondent Judge De Leon violated its freedom to contract. By issuing the Writ of Preliminary Injunction, "the [Regional Trial Court] has practically, without authority, extended already [the Philippine Gaming and Management Corporation's Equipment Lease Agreement] beyond 22 August 2018."
+[89]
+ It will have to adjust its timetables for the procurement of the Nationwide On-line Lottery System and will need another 10 months for the test run. As a result, it will be forced to extend the unfavorable lease agreement with respondent Philippine Gaming and Management Corporation until the procurement of a new provider.
+[90]
+Petitioner prays for the issuance of a 
+status quo ante
+ order or a Temporary Restraining Order to enjoin respondents "from committing or performing any acts pursuant to the Assailed Resolution and Writ and/or barring or preventing [the Philippine Charity Sweepstakes Office] from bidding the [Nationwide On-line Lottery System] project and/or from proceeding with any procurement activities to procure online lottery equipment."
+[91]
+ It also prays for the issuance of a Writ of Preliminary Injunction to enjoin respondents "from doing anything that will adversely affect, impede, obstruct, and/or prevent the smooth conduct of the bidding for the [Nationwide On-line Lottery System] project."
+[92]
+On March 12, 2018, this Court issued a Resolution
+[93]
+ requiring respondent Philippine Gaming and Management Corporation to submit its Comment on the Petition and on petitioner's prayer for the issuance of a 
+status quo ante
+ order or a Temporary Restraining Order.
+On March 7, 2018, petitioner filed a Manifestation with Extremely Urgent Motion for Early Resolution.
+[94]
+ It informed this Court that on February 20, 2018, the International Chamber of Commerce, International Court of Arbitration rendered a Final Award
+[95]
+ in its favor. The dispositive portion of the Final Award reads:
+XII. 
+DISPOSITIVE PART
+365. 
+Having considered all of the evidence and submissions placed before it, and for the reasons set out above, the Tribunal hereby 
+FINALLY DECIDES
+ and 
+DETERMINES
+ as follows:
+(a) 
+The Claimant does not have an exclusive contractual right to supply an online lottery system for Luzon in the Republic of the Philippines and the Claimant's case is therefore dismissed in its entirety;
+(b) 
+The Claimant shall pay all of the Respondent's reasonable costs and expenses in the arbitration, which amount to Php 53,592,202.09;
+(c) 
+The Claimant shall bear its own costs and expenses m the arbitration;
+(d) 
+The Claimant shall bear the costs of the arbitration including the fees and expenses of the Arbitral Tribunal and the administrative fees of the [International Chamber of Commerce] fixed by the [International Chamber of Commerce] Court in the amount of US$ 850,000. The Claimant shall also pay US$ 200,000 to the Respondent as reimbursement for the share of the advance on costs that was paid by the Respondent; and
+(e) 
+All other claims, counterclaims and requests for relief are hereby dismissed.
+[96]
+Petitioner also notifies this Court that on October 20, 2017, respondent Philippine Gaming and Management Corporation filed a Motion to Dismiss
+[97]
+ in the indirect contempt cases it filed against petitioner in SCA Nos. 12-530 and 12-1011 before the Regional Trial Court.
+[98]
+ After the Regional Trial Court denied respondent Philippine Gaming and Management Corporation's motion to dismiss, the latter moved for reconsideration, which is currently pending resolution.
+[99]
+Petitioner reiterates its prayer for the issuance of: (1) a 
+status quo ante
+ order; (2) a temporary restraining order and/or prohibitory injunction enjoining the Regional Trial Court from proceeding with the trial of SCA Case Nos. 12-530 and 12-1011 and/or performing acts that would prevent petitioner from continuing with the bidding of the Nationwide On-line Lottery System; (3) a temporary restraining order and/or prohibitory injunction enjoining respondent Philippine Gaming and Management Corporation from resorting to any legal action that would prevent petitioner from continuing with the bidding of the Nationwide On-line Lottery System; and (4) an order dissolving the writ of preliminary injunction and "declaring it 
+functus officio
+ to allow [petitioner] to continue with the competitive bidding for the [Nationwide On-line Lottery System] project without delay."
+[100]
+On June 4, 2018, respondent Philippine Gaming and Management Corporation filed its Comment
+[101]
+ and counters that respondent Judge De Leon did not commit any grave abuse of discretion.
+[102]
+ It argues that "the [International Chamber of Commerce] Rules and the [Alternative Dispute Resolution] Rules allow for the simultaneous filing of an application for interim (or injunctive) relief before the regular courts even while the arbitration process is ongoing."
+[103]
+ It adds that the Regional Trial Court acted "within its jurisdiction when it entertained [respondent Philippine Gaming and Management Corporation's] application for injunctive relief, as well as when it granted the same."
+[104]
+In addition, respondent Philippine Gaming and Management Corporation contends that it complied with the requirements for the issuance of an injunctive writ under Rule 58 of the Rules of Court:
+2.57 Notably, [the Philippine Gaming and Management Corporation] has shown that it has 
+clear legal rights
+ to be protected based on the: (a) 
+Writ of Preliminary Injunction
+ dated September 5, 2012, (b) the 
+Interim Settlement
+ dated December 11, 2013, and (c) the pending arbitration proceedings, and that the [Philippine Charity Sweepstakes Office] is 
+threatening to commit acts in violation of [the Philippine Gaming and Management Corporation]'s clear legal rights
+ by publicly announcing its intention to conduct a public bidding for the "FIVE (5) YEARS LEASE OF THE NATIONWIDE ONLINE LOTTERY SYSTEM (NOLS)." Unless the public bidding for the [Nationwide On-line Lottery System] or any related conducted shall be enjoined by this Honorable Court, 
+[the Philippine Gaming and Management Corporation] will suffer grave and irreparable damage and injury
+ in the form of sever business and financial losses as a consequence of the complained acts. If the bidding is held and a new contract is awarded to parties other than [the Philippine Gaming and Management Corporation], [the Philippine Gaming and Management Corporation] will be divested of its clear rights, and shall suffer losses which are impossible to compute with accuracy due to the price nature of lottery operation, unpredictability of market forces, and such other factors affecting profitability.
+[105]
+ (Emphasis in the original)
+Respondent Philippine Gaming and Management Corporation prays that this Court dismiss the petition considering that petitioner failed to comply with the requirements for the issuance of a 
+status quo ante
+ order, temporary restraining order, or a writ of preliminary injunction.
+[106]
+On June 6, 2018, petitioner filed a Consolidated Manifestation with Extremely Urgent Motion for Clarification
+[107]
+ to inform this Court that on May 25, 2018, the Regional Trial Court issued a Resolution,
+[108]
+ recognizing the decision of the arbitration court and confirming the Arbitral Award in favor of petitioner.
+[109]
+ The Regional Trial Court held:
+Corollarily, the court is not executing the decision but only recognizing the decision of the Arbitral Tribunal. It should be noted that the parties had agreed to bring the issue on exclusivity of contract before the Arbitral Tribunal. Thus, to the mind of this court, the parties are bound by the Arbitral Court's action/decision not only because that is what is provided by Art. 35(6) of [International Chamber of Commerce] Rules of Arbitration but also because they themselves agreed to submit themselves to the jurisdiction of the Arbitration Court to determine the exclusivity issue save in the cases where there is violation of the parties' rights to due process (both procedural and substantive) which is not obtaining in this case. Records reveal that the parties were given their day in court to present their respective evidence. Nothing in the decision could that the Arbitral Tribunal has respective rights or abused its discretion warranting the denial of the motion for confirmation or to vacate the decision. Suffice it to state that the court can do nothing except to recognize the decision as the same is not contrary to law, morals, public policy and public order.
+WHEREFORE
+, in view of all the foregoing, the Arbitral Award dated February 20, 2018, being not contrary to law or against morals, good customs, public order or public policy, is hereby 
+CONFIRMED
+.
+SO ORDERED.
+[110]
+ (Emphasis in the original)
+Petitioner seeks clarification from this Court if it is now allowed to proceed with the Nationwide On-line Lottery System's bidding considering that the Regional Trial Court already confirmed the Arbitral Award and prays for the issuance of a resolution in answer to their query.
+[111]
+The sole issue for this Court's resolution is whether or not respondent Presiding Judge Maximo M. De Leon committed grave abuse of discretion when he granted respondent Philippine Gaming and Management Corporation's application for injunctive relief.
+The petition has merit.
+Respondent Philippine Gaming and Management Corporation insists that its right based on the Interim Settlement will be violated if petitioner continues with the bidding of the Nationwide On-line Lottery System. However, a scrutiny of the records shows otherwise.
+To recapitulate, the original contract between petitioner and respondent Philippine Gaming and Management Corporation is the Equipment Lease Agreement with a term of eight (8) years-from 1995 to 2003:
+3. TERM
+This lease shall have a 
+term of eight (8) years
+, commencing on the date of commercial operation by the LESSEE of all the Equipment included in the first delivery pursuant to the Delivery Schedule.
+[112]
+ (Emphasis supplied)
+On November 14, 1997, the Equipment Lease Agreement was amended to extend the term until 2007:
+WHEREAS, under the existing Equipment Lease Agreement dated 25 January 1995 as amended on 14 November 1997 . . ., LESSOR has contractual exclusivity in providing the central computer system for the Luzon on-line lottery project until 2007 and the complete proprietary rights to the central computer system's hardware and software.
+[113]
+ (Emphasis supplied)
+On December 29, 2004, the Equipment Lease Agreement was further amended. The parties executed the Amendments to Equipment Lease Agreement, which extended the term of the lease to another eight (8) years-from August 23, 2007 to August 22, 2015:
+3. 
+Paragraph 3
+ of the [Equipment Lease Agreement] is hereby amended by 
+extending the lease term for a period of eight (8) years commencing 23 August 2007
+; provided that, all of the upgraded/replacement equipment shall be ready for commercial operation no later than 23 August 2007; and provided further that, every two (2) years thereafter until the end of the term of this Agreement, as required by mutual agreement of the parties, the LESSOR guarantees the periodic upgrading of all equipment at no additional cost on the part of the LESSEE.
+[114]
+ (Emphasis supplied)
+It was during the effectivity of the Amendments to Equipment Lease Agreement that petitioner "allowed (Pacific Online] to supply a number of lottery equipment for its Luzon operation."
+[115]
+On December 11, 2013, while the Amendments to Equipment Lease Agreement was still in effect, petitioner and respondent Philippine Gaming and Management Corporation entered into an Interim Settlement and agreed to bring the exclusivity issue before an arbitral tribunal. Thus, on March 12, 2014, respondent Philippine Gaming and Management Corporation initiated the arbitration before the International Chamber of Commerce.
+[116]
+While the arbitration case was pending, petitioner and respondent Philippine Gaming and Management Corporation executed a Supplemental and Status Quo Agreement, extending the term of the Equipment Lease Agreement to another three (3) years "to ensure unhampered lotto operation."
+[117]
+:
+I. TERM
+The Term of the [Equipment Lease Agreement] is hereby extended beginning 
+22 August 2015 until 21 August 2018
+.
+[118]
+ (Emphasis and underscoring in the original)
+Since the extended Equipment Lease Agreement between petitioner and respondent Philippine Gaming and Management Corporation was about to expire in August 2018, petitioner started preparing for the bidding of the Nationwide On-line Lottery System, which would have a term of five (5) years-from August 2018 to August 2023. Claiming that it is "the exclusive supplier/lessor of lottery equipment for Luzon,"
+[119]
+ respondent Philippine Gaming and Management Corporation applied for a temporary restraining order and a writ of preliminary injunction on July 11, 2017. It sought to enjoin petitioner from further proceeding with the bidding process.
+From the brief outline of the aforestated facts, it is evident that respondent Philippine Gaming and Management Corporation's basis for its Writ of Preliminary Injunction application is its purported exclusive rights for the period beyond what was agreed upon in the extended Amendments to Equipment Lease Agreement. To emphasize, respondent Philippine Gaming and Management Corporation's exclusive rights, if any, extend only until August 21, 2018. After the expiration of the Supplemental and Status Quo Agreement, it can no longer claim any alleged right to exclusively provide on-line lottery equipment in Luzon.
+This Court finds that the Regional Trial Court committed grave abuse of discretion in granting respondent Philippine Gaming and Management Corporation's application for injunctive relief. A Writ of Preliminary Injunction is issued "to prevent threatened or continuous irremediable injury to some of the parties before their claims can be thoroughly studied and adjudicated."
+[120]
+ In 
+Mabayo Farms, Inc. v. Court of Appeals
+:
+[121]
+A preliminary injunction is an order granted at any stage of an action prior to final judgment, requiring a person to refrain from a particular act. As an ancillary or preventive remedy, a writ of preliminary injunction may therefore be resorted to by a party 
+to protect or preserve his rights
+ and for no other purpose during the pendency of the principal action.
+[122]
+ (Emphasis supplied, citations omitted)
+The issuance of a Writ of Preliminary Injunction is governed by Rule 58, Section 3 of the 1997 Rules of Civil Procedure:
+Section 3. 
+Grounds for issuance of preliminary injunction
+. - A preliminary injunction may be granted when it is established:
+(a) 
+That the applicant is entitled to the relief demanded, and the whole or part of such relief consists in restraining the commission or continuance of the act or acts complained of, or in requiring performance of an act or acts, either for a limited period or perpetually;
+(b)
+ That the commission, continuance or non-performance of the act or acts complained of during the litigation would probably work injustice to the applicant; or
+(c) 
+That a party, court, agency or a person is doing, threatening, or is attempting to do, or is procuring or suffering to be done, some act or acts probably in violation of the rights of the applicant respecting the subject of the action or proceeding, and tending to render the judgment ineffectual.
+In 
+Department of Public Works and Highways (DPWH) v. City Advertising Ventures Corporation
+,
+[123]
+ this Court held that "[f]or a writ of preliminary injunction to be issued, the applicant must show, by 
+prima facie
+ evidence, an existing right before trial, a material and substantial invasion of this right, and that a writ of preliminary injunction is necessary to prevent irreparable injury."
+[124]
+Respondent Philippine Gaming and Management Corporation's claim of exclusive rights, as stated in the Interim Settlement and which was brought to arbitration, pertained to its rights under the Amendments to Equipment Lease Agreement, which will expire on August 21, 2018. It failed to provide proof that the Amendments to Equipment Lease Agreement was extended beyond August 21, 2018. It cannot claim that it has alleged exclusive rights to be protected and that it will suffer irreparable injury if petitioner continued with the Nationwide On-line Lottery System bidding process. This is precisely because the bidding was for the next supplier of the Nationwide On-line Lottery System for a period of five (5) years 
+after
+ August 21, 2018 or commencing on August 22, 2018.
+Additionally, with the Regional Trial Court's confirmation of the arbitral tribunal's Final Award, the Writ of Preliminary Injunction is deemed lifted and petitioner may now proceed with the bidding process of the Nationwide Online Lottery System for Luzon.
+WHEREFORE
+, premises considered, the petition is 
+GRANTED
+. The Philippine Charity Sweepstakes Office may proceed with the bidding process for the Nationwide On-line Lottery System for Luzon.
+SO ORDERED.
+Leonardo-De Castro (Chairperson), Bersamin, Reyes, Jr.
+, and 
+Gesmundo, JJ.
+, concur.
+[1]
+ 
+Rollo
+, pp. 3-58. 
+[2]
+ Id. at 59-67. The Resolution, docketed as Civil Case Nos. 12-530 and 12-1011, was penned by Presiding Judge Maximo M. De Leon of Branch 143, Regional Trial Court, Makati City.
+[3]
+ Id. at 68-75. The Resolution, docketed as Civil Case Nos. 12-530 and 12-1011, was penned by Presiding Judge Maximo M. De Leon of Branch 143, Regional Trial Court, Makati City. 
+[4]
+ Id. at 76-77.
+[5]
+ Id. at 50. 
+[6]
+ Id. at 67. 
+[7]
+ Id. at 49.
+[8]
+ Id.
+[9]
+ Id. at p. 109-120. 
+[10]
+ Id. at 109-111. 
+[11]
+ Id. at 144, Senate Blue Ribbon Committee Report No. 95. 
+[12]
+ Id.
+[13]
+ Id. at p. 5, Petition for Certiorari, 60, Regional Trial Court Resolution dated August 3, 2017 in Civil Case No. 12-530 and 12-1011, and 121, Amendments to Equipment Lease Agreement. 
+[14]
+ Id. at 121-125.
+[15]
+ Id. at p. 5, Petition for Certiorari, 60, Regional Trial Court Resolution dated August 3, 2017 in Civil Case No. 12-530 and 12-1011, and 123, Amendments to Equipment Lease Agreement. 
+[16]
+ Id. at 123, Amendments to Equipment Lease Agreement. 
+[17]
+ Id. at 7, Petition for Certiorari. 
+[18]
+ Id. at 136, Senate Blue Ribbon Committee Report No. 95.
+[19]
+ Id. 
+[20]
+ Id. at 154. 
+[21]
+ Id. at 141-142 and 154.
+[22]
+ Id. at 8, Petition for Certiorari. 
+[23]
+ Id. 
+[24]
+ Id. 
+[25]
+ Id. at 160-176. 
+[26]
+ Id. at 177-184.
+[27]
+ Id. at 8, Petition for Certiorari.
+[28]
+ Id. at 185-189. 
+[29]
+ Id. at 189. 
+[30]
+ Id. at 9, Petition for Certiorari. 
+[31]
+ Id. at 190-198.
+[32]
+ Id. at 192-194.
+[33]
+ Id. at 9, Petition for Certiorari.
+[34]
+ Id. at 199-204.
+[35]
+ Id. at 204.
+[36]
+ Id. at 205-262.
+[37]
+ Id. at 205.
+[38]
+ Id. at 219-230.
+[39]
+ Id. at 263-265. 
+[40]
+ Id. at 264. 
+[41]
+ Id. at 274-294.
+[42]
+ Id. at 10, Petition for Review.
+[43]
+ Id. at 295-327. 
+[44]
+ Id. at 10, Petition for Review.
+[45]
+ Id. at 328-332. 
+[46]
+ Id. at 330.
+[47]
+ Id. 
+[48]
+ Id. at 337-339. 
+[49]
+ Id. at 353-355.
+[50]
+ Id. at 11, Petition for Certiorari. 
+[51]
+ Id. at 338, Manifestation with Motion to Dismiss. 
+[52]
+ Id. at 354, Consolidated Motion 10 Revive and to Dismiss Cases Based on Status Quo Agreement. 
+[53]
+ Id. at 356-361.
+[54]
+ Id. at 358.
+[55]
+ Id. at 363-366. The Resolution, docketed as CA-G.R. SP Nos. 128259 and 141474, was penned by Associate Justice Maria Elisa Sempio-Diy and concurred in by Associate Justices Ramon M. Bato, Jr. and Manuel M. Barrios of the Twelfth Division, Court of Appeals, Manila.
+[56]
+ Id. at 365-366.
+[57]
+ Id. at 367-368.
+[58]
+ Id. at 369-373.
+[59]
+ Id. at 370-371.
+[60]
+ Id. at 387-392. The Resolution, docketed as CA-G.R. SP No. 123259, was penned by Associate Justice Maria Elisa Sempio-Diy and concurred in by Associate Justices Ramon M. Bato, Jr. and Manuel M. Barrios of the Twelfth Division, Court of Appeals, Manila.
+[61]
+ Id. at 392. 
+[62]
+ Id. at 393-416. 
+[63]
+ Id. at 409. 
+[64]
+ Id. at 12 and 15.
+[65]
+ Id. at 13. 
+[66]
+ Id. at 439-451. 
+[67]
+ Id. at 14.
+[68]
+ Id. at 527-531. 
+[69]
+ Id. at 531. 
+[70]
+ Id. at 59-67.
+[71]
+ Id. at 76-77.
+[72]
+ Id. at 67, Regional Trial Court Resolution dated August 3, 2017. 
+[73]
+ Id. at 78-108.
+[74]
+ Id. at 68-75.
+[75]
+ Id. at 3-58. 
+[76]
+ Id. at 3.
+[77]
+ Id. at 16-17.
+[78]
+ Id. at 17-21.
+[79]
+ Id. at 21-24. 
+[80]
+ Id. at 23. 
+[81]
+ Id. at 24.
+[82]
+ Id. at 24-31.
+[83]
+ Id. at 31-35.
+[84]
+ Id. at 36.
+[85]
+ Id. at 37. 
+[86]
+ Id. at 37-38. 
+[87]
+ Id. at 38. 
+[88]
+ Id. at 39. 
+[89]
+ Id. at 40. 
+[90]
+ Id. at 39-44.
+[91]
+ Id. at 49.
+[92]
+ Id.
+[93]
+ Id. at 544-545.
+[94]
+ Id. at 546-553. 
+[95]
+ Id. at 554-596. 
+[96]
+ Id. at 595.
+[97]
+ Id. at 597-599.
+[98]
+ Id. at 548, the Philippine Charity Sweepstakes Office's Manifestation with Extremely Urgent Motion for Early Resolution.
+[99]
+ Id. 
+[100]
+ Id. at 549. 
+[101]
+ Id. at 603-628. 
+[102]
+ Id. at 604-624. 
+[103]
+ Id. at 606. 
+[104]
+ Id. at 608.
+[105]
+ Id. at 624. 
+[106]
+ Id. at 624-.626.
+[107]
+ Id. at 632-638. 
+[108]
+ Id. at 639-643. 
+[109]
+ Id. at 633-634.
+[110]
+ Id. at 643, Regional Trial Court Resolution dated May 25, 2018.
+[111]
+ Id. at 634.
+[112]
+ Id. at 111.
+[113]
+ Id. at 122, Amendments to the Equipment Lease Agreement. 
+[114]
+ Id. at 123. 
+[115]
+ Id. at 8. 
+[116]
+ Id. at 572-572-A, ICC International Court of Arbitration Final Award.
+[117]
+ Id. at 268, Supplemental and Status Quo Agreement.
+[118]
+ Id.
+[119]
+ Id. at 439, the Philippine Gaming and Management Corporation's Application for Temporary Restraining Order and Preliminary Injunction.
+[120]
+ 
+First Global Realty and Development Corporation v. San Agustin
+, 427 Phil. 593, 601 (2002) [Per J. Panganiban, Third Division], 
+citing Republic of the Philippines v. Silerio
+, 338 Phil. 784, 791-792 (1997) [Per J. Romero, Second Division].
+[121]
+ 435 Phil. 112 (2002) [Per J. Quisumbing, Second Division].
+[122]
+ Id. at 118.
+[123]
+ G.R. No. 132944, November 9, 2016 <
+http://sc.judiciary.gov.ph/pdf/web/viewer.html?file=/jurisprudence/2016/november2016/182944.pdf
+> [Per J. Leonen, Second Division]. 
+[124]
+ Id. at 1.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

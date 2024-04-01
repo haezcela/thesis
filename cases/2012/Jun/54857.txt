@@ -1,0 +1,175 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			687 Phil. 266
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 179015, June 13, 2012 ]
+
+
+UNITED COCONUT PLANTERS BANK, PETITIONER,VS. PLANTERS PRODUCTS, INC., JANET LAYSON AND GREGORY GREY, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+ABAD, J.:
+
+
+This case is about the liability of the bank for a transaction entered into by its branch manager in connivance with a client.
+The Facts and the Case
+Respondent Planters Products, Incorporated (PPI), a fertilizer manufacturer, entered into an arrangement with respondent Janet Layson for the delivery of fertilizers to her, payable from the proceeds of the loan that petitioner United Coconut Planters Bank (UCPB) extended to her.  On February 11, 1980 Layson executed a document called â
+pagares,
+â written on the dorsal side of a UCPB promissory note.
+[1]
+  The 
+pagares
+ stated that Layson had an approved loan with UCPB-Iloilo Branch for P200,000.00.  The second portion of the 
+pagares
+, signed by that branchâs manager respondent Gregory Grey, stated that the âassignment has been duly accepted and payment duly guaranteed within 60 days from PPIâs Invoice.â  Specifically, the 
+pagares
+ said:
+I/We irrevocably assign the proceeds of this Promissory Note to Planters Products, Inc., for the account of Janet Layson as payment for my fertilizer/agchemicals withdrawals covered by Invoice Nos. _______ for application to my fertilizer line.
+I/We hereby attest and affirm that I/We have an approved loan with United Coconut Planters Bank, Iloilo Branch, in the amount of Pesos âTWO HUNDRED THOUSAND (P200,000.00) which is allotted for fertilizer.
+Sgd.
+JANET LAYSON
+Feb. 11, 1980
+Assignment accepted and payment unconditionally guaranteed within sixty (60) days from Planters Products, Inc. Invoice date up to Pesos: Two Hundred Thousand (P200,000.00) only.
+Sgd.
+GREGORY GREY
+Manager
+Subsequently, Layson executed a third document âLetter Guarantee by the Dealer,â stating that she binds herself to pay PPI the face value of the 
+pagares
+ in case UCPB did not pay the same at maturity.  But contrary to her undertakings, on the following day, February 12, 1980, Layson withdrew with branch manager Greyâs connivance the P200,000.00 loan that UCPB granted her.
+On the strength of the three documents, PPI delivered quantities of fertilizers to Layson.  Layson and Grey duplicated their transactions with PPI on February 18 and 27, 1980 covering two loans of P100,000.00 each.
+On April 28, 1980 PPI presented the documents of the financed transactions to UCPB for collection.  But the bank denied the claim on the ground that it neither authorized the transactions nor the execution of the documents which were not part of its usual banking transactions.  UCPB claimed that branch manager Grey exceeded his authority in guaranteeing payment of Laysonâs purchases on credit.  The 
+pagares,
+ said UCPB, were illegal and void since banking laws prohibit bank officers from guaranteeing loans of bank clients.
+Consequently, in April 1980 PPI sued Layson, UCPB, and Grey for breach of contract with damages before the Regional Trial Court (RTC) of Makati.
+[2]
+  Grey died while the case was on trial.  Although the RTC ordered Greyâs substitution by any of his heirs, no one came to substitute him.  Trial proceeded without prejudice to the claims against his estate.
+On April 28, 1999 the RTC rendered a decision, absolving UCPB from liability for the value of the fertilizer products that PPI sold to Layson on credit.  Since Grey acted in excess of his authority in guaranteeing the payment of the 
+pagares
+ and in involving himself in the transaction, UCPB cannot be bound by the same.  Further, the promissory notes, on the dorsal side of which appeared the 
+pagares
+, were not in negotiable form.  They had neither a fixed date of maturity nor a fixed amount of obligation.  The 
+pagares 
+is also void under the Civil Code because the prestation, Greyâs act of guaranteeing the loan, is prohibited under Section 83 of the General Banking Act.
+The court held Layson liable to PPI a) for P399,966.25 with 6% interest from the time it filed its complaint until fully paid and b) for attorneyâs fees of P30,000.00.  Since Grey impliedly admitted
+[3]
+ having no authority on his own to grant Layson the credit accommodation and UCPBâs guarantee to pay for the fertilizers she bought, the court found him subsidiarily liable for the principal amount.  PPI appealed the decision to the Court of Appeals (CA).
+On March 22, 2007 the CA rendered a decision, reversing that of the RTC and declaring UCPB jointly and severally liable with Layson for the latterâs obligation to PPI to the extent of P200,000.00 covering the February 11, 1980 credit accommodation.  The court deleted the award for attorneyâs fees.  As regard to the second and third 
+pagares
+, the CA ruled that PPI failed to prove the subsequent assignments.  Essentially, the CA ruled that Laysonâs 
+pagares
+ were in the nature of assignment of credit, consisting in the proceeds of the loan that UCPB granted her.  Since UCPB, acting through Grey, undertook to deliver those proceeds to PPI in payment of the fertilizers she was going to buy, UCPB is bound by such undertaking.
+UCPB brings the present petition for review of the CA decision.
+Issues Presented
+The case presents the following issues:
+1. Whether or not UCPB is bound by Greyâs undertaking on its behalf to deliver to PPI the proceeds of the bankâs loan to Layson in payment of the fertilizers she bought; and
+2. In the negative, whether or not UCPB is entitled to an award of attorneyâs fees.
+The Ruling of the Court
+One
+. The CA held that, in executing the 
+pagares
+, Layson simply assigned to PPI the P200,000.00 proceeds of her approved loan with UCPB in payment of the fertilizers that she wanted to buy from PPI.  She wrote the 
+pagares
+ at the back of the 
+pro forma
+ promissory note that she executed in UCPBâs favor.  The CA did not consider the 
+pagares 
+as a guaranty, a contract, or a negotiable promissory note.
+The CA also held that Laysonâs assignment to PPI of the P200,000.00 coming to her from UCPB, with respect to which UCPB may be regarded as an obligor, is binding on the bank.
+[4]
+  A formal notice is not required to bind the bank regarding its undertaking to make good the assignment.  UCPB may be deemed to have acted in bad faith when it delivered the proceeds of the loan to Layson, despite its undertaking to turn them over to PPI.
+True, a corporation like UCPB is liable to innocent third persons where it knowingly permits its officer, or any other agent, to perform acts within the scope of his general or apparent authority, holding him out to the public as possessing power to do those acts.
+[5]
+But, here, it is plain from the guarantee Grey executed that he was acting for himself, not in representation of UCPB.  Grey wrote that undertaking at the bottom of the 
+pagares
+ as follows:
+Assignment accepted and payment unconditionally guaranteed within sixty (60) days from Planters Products, Inc. Invoice date up to Pesos: Two Hundred Thousand (P200,000.00) only.
+Sgd.
+GREGORY GREY
+Manager
+UCPB cannot be bound by Greyâs above undertaking since he appears to have made it in his personal capacity.  He signed it under his own name, not in UCPBâs name or as its branch manager.  Indeed, the wordings of the undertaking do not at all make any allusion to UCPB.
+Besides, by its tenor, Greyâs undertaking was a guarantee.  It says, âpayment 
+unconditionally guaranteed
+ within sixty (60) days from Planters Products, Inc. Invoice date up to Pesos: Two Hundred Thousand (P200,000.00) only.â  As it happens, bank guarantees are highly regulated transactions under the law.
+[6]
+  They are undertakings that are not so casually issued by banks or by their branch managers at the dorsal side of a clientâs promissory note as if an afterthought.  A bank guarantee is a contract that binds the bank and so may be entered into only under authority granted by its board of directors.  Such authority does not appear on any document.  Indeed, PPI had no right to expect branch manager Grey to issue one without such authorization.
+Notably, the evidence shows that on February 11, 1980, claiming that UCPB had already approved her loan of P200,000.00, Layson assigned all the proceeds of such loan to PPI in payment of fertilizers she wanted to buy from it.  For his part, Grey agreed to the assignment and, apparently without authority from the bank, undertook to guarantee the payment of the pagares.  Notwithstanding this undertaking, however, Grey released the P200,000.00 proceeds of the loan to Layson the next day, February 12, 1980.  It is evident that Grey connived with Layson to lure PPI to deliver to her fertilizers worth P200,000.00 on credit.
+UCPB also adduced evidence that Grey lent Layson that P200,000.00 without proper authorization from the bank.  The authority the bank gave him for unilaterally extending unsecured loans has a ceiling of P10,000.00 only.  Grey needed under UCPBâs Revised Branch Lending Authority
+[7]
+ the unanimous approval
+[8]
+ of the Branch Credit Committee,
+[9]
+ of which he was only a member, before he can grant a higher loan of the kind.
+With UCPB absolved of any liability, the Court affirms the ruling of the RTC of Makati that finds Layson primarily liable to PPI with the latter having the right of recourse to Grey in the event that it could not recover from her.  Importantly, Layson never denied her business dealings with PPI and her receipt of PPIâs fertilizer products.  This admission cements her liability for the fertilizers she got from it.
+Two
+.  The CA properly deleted the award of attorneyâs fees in favor of UCPB.  Such fees may be awarded when one was compelled to litigate and incurred expenses to protect his interests or when the suit filed was baseless or when the defendant acted in bad faith in filing or impleading the litigant.  Here, however, PPI had good reason to implead UCPB since, after all, its branch manager played a pivotal role in facilitating the anomalous transaction.  Thus, it cannot be said that PPI acted in bad faith in impleading the bank.
+WHEREFORE
+, the Court 
+GRANTS
+ the petition, 
+REVERSES
+ the decision of the Court of Appeals in CA-G.R. CV 67364 dated March 22, 2007, and 
+REINSTATES
+ in toto 
+the decision of the Regional Trial Court of Makati.
+SO ORDERED.
+Peralta, (Acting Chairperson),
+*
+ Villarama, Jr.,
+**
+ Mendoza
+, and 
+Perlas-Bernabe, JJ
+., concur.
+*
+  Per Special Order 1228 dated June 6, 2012.
+** 
+ Designated Acting Member in lieu of Associate Justice Presbitero J. Velasco, Jr., per Special Order 1229 dated June 6, 2012.
+[1]
+  Exhibits âA,â âDâ and âG.â
+[2]
+  Then Court of First Instance of Rizal, Seventh Judicial District.
+[3]
+  Cross-claim to UCPB, par. 4.6.
+[4]
+  Art. 1626, Civil Code of the Philippines.
+[5]
+ BPI Family Savings Bank, Inc. v. First Metro Investment Corporation, 
+G.R. No. 132390, May 21, 2004, 429 SCRA 30, 37, citing 
+Prudential Bank v. Court of Appeals,
+ G.R. No. 108957, June 14, 1993, 223 SCRA 350, 357.
+[6]
+  Republic Act 8791, An Act Providing For the Regulation of the Organizations and Operations of Banks, Quasi-Banks, Trust Entities, and For Other Purposes.
+[7]
+  Exhibit â1,â records, pp. 476-494.
+[8]
+  Article II, Section 3-a, id. at 478.
+[9]
+  Article II, Section 1, id. at 477.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

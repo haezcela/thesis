@@ -1,0 +1,1518 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			790 Phil. 276
+			
+
+
+
+
+EN BANC
+
+
+[ G.R. No. 204605, July 19, 2016 ]
+
+
+INTELLECTUAL PROPERTY ASSOCIATION OF THE PHILIPPINES, PETITIONER, VS. HON. PAQUITO OCHOA, IN HIS CAPACITY AS EXECUTIVE SECRETARY, HON. ALBERT DEL ROSARIO, IN HIS CAPACITY AS SECRETARY OF THE DEPARTMENT OF FOREIGN AFFAIRS, AND HON. RICARDO BLANCAFLOR, IN HIS CAPACITY AS THE DIRECTOR GENERAL OF THE INTELLECTUAL PROPERTY OFFICE OF THE PHILIPPINES, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+BERSAMIN, J.:
+
+
+In this special civil action for 
+certiorari 
+and prohibition, the Intellectual Property Association of the Philippines (IPAP) seeks to declare the accession of the Philippines to the
+ Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks (
+Madrid Protocol
+) unconstitutional on the ground of the lack of concurrence by the Senate, and in the alternative, to declare the implementation thereof as unconstitutional because it conflicts with Republic Act No. 8293, otherwise known as the 
+Intellectual Property Code of the Philippines
+ (IP Code).
+[1]
+We find and declare that the President's ratification is valid and constitutional because the 
+Madrid Protocol
+, being an executive agreement as determined by the Department of Foreign Affairs, does not require the concurrence of the Senate.
+Antecedents
+The
+ Madrid System for the International Registration of Marks {Madrid System)
+, which is the centralized system providing a one-stop solution for registering and managing marks worldwide, allows the trademark owner to file one application in one language, and to pay one set of fees to protect his mark in the territories of up to 97 member-states.
+[2]
+ The 
+Madrid System
+ is governed by the
+ Madrid Agreement
+, concluded in 1891, and the 
+Madrid Protocol
+, concluded in 1989.
+[3]
+The 
+Madrid Protocol
+, which was adopted in order to remove the challenges deterring some countries from acceding to the 
+Madrid Agreement
+, has two objectives, namely: (1) to facilitate securing protection for marks; and (2) to make the management of the registered marks easier in different countries.
+[4]
+In 2004, the Intellectual Property Office of the Philippines (IPOPHL), the government agency mandated to administer the intellectual property system of the country and to implement the state policies on intellectual property, began considering the country's accession to the 
+Madrid Protocol
+. However, based on its assessment in 2005, the IPOPHL needed to first improve its own operations before making the recommendation in favor of accession. The IPOPHL thus implemented reforms to eliminate trademark backlogs and to reduce the turnaround time for the registration of marks.
+[5]
+In the meanwhile, the IPOPHL mounted a campaign for information dissemination to raise awareness of the 
+Madrid Protocol
+.
+ It launched a series of consultations with stakeholders and various business groups regarding the Philippines' accession to the 
+Madrid Protocol
+.
+ It ultimately arrived at the conclusion that accession would benefit the country and help raise the level of competitiveness for Filipino brands. Hence, it recommended in September 2011 to the Department of Foreign Affairs (DFA) that the Philippines should accede to the 
+Madrid Protocol
+.
+[6]
+After its own review, the DFA endorsed to the President the country's accession to the 
+Madrid Protocol
+. Conformably with its express authority under Section 9 of Executive Order No. 459 (
+Providing for the Guidelines in the Negotiation of International Agreements and its Ratification
+) dated November 25, 1997, the DFA determined that the 
+Madrid Protocol
+ was an executive agreement. The IPOPHL, the Department of Science and Technology, and the Department of Trade and Industry concurred in the recommendation of the DFA.
+[7]
+On March 27, 2012, President Benigno C. Aquino III ratified the 
+Madrid Protocol
+ through an instrument of accession. The instrument of accession was deposited with the Director General of the World Intellectual Property Organization (WIPO) on April 25, 2012,
+[8]
+ The 
+Madrid Protocol
+ entered into force in the Philippines on July 25, 2012.
+[9]
+Petitioner IPAP, an association of more than 100 law firms and individual practitioners in Intellectual Property Law whose main objective is to promote and protect intellectual property rights in the Philippines through constant assistance and involvement in the legislation of intellectual property law,
+[10]
+ has commenced this special civil action for 
+certiorari
+ and prohibition
+[11]
+ to challenge the validity of the President's accession to the 
+Madrid Protocol
+ without the concurrence of the Senate, Citing 
+Pimentel, Jr. v. Office of the Executive Secretary,
+ the IPAP has averred:
+Nonetheless, while the President has the sole authority to negotiate and enter into treaties, the Constitution provides a limitation to his power by requiring the concurrence of 2/3 of all the members of the Senate for the validity of the treaty entered into by him. Section 21, Article VII of the 1987 Constitution provides that "no treaty or international agreement shall be valid and effective unless concurred in by at least two-thirds of all the Members of the Senate." The 1935 and the 1973 Constitution also required the concurrence by the legislature to the treaties entered into by the executive.
+[12]
+According to the IPAP, the 
+Madrid Protocol
+ is a treaty, not an executive agreement; hence, respondent DFA Secretary Albert Del Rosario acted with grave abuse of discretion in determining the 
+Madrid Protocol
+ as an executive agreement.
+[13]
+The IPAP has argued that the implementation of the 
+Madrid Protocol
+ in the Philippines, specifically the processing of foreign trademark applications, conflicts with the IP Code,
+[14]
+ whose Section 125 states:
+Sec. 125. 
+Representation; Address for Service
+. - If the applicant is not domiciled or has no real and effective commercial establishment in the Philippines, he shall designate by a written document filed in the office, the name and address of a Philippine resident who may be served notices or process in proceedings affecting the mark. Such notices or services may be served upon the person so designated by leaving a copy thereof at the address specified in the last designation filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director. (Sec. 3, R.A. No. 166 a)
+It has posited that Article 2 of the 
+Madrid Protocol
+ provides in contrast:
+Article 2 
+Securing Protection through International Registration
+(1) Where an application for the registration of a mark has been filed with the Office of a Contracting Party, or where a mark has been registered in the register of the Office of a Contracting Party, the person in whose name that application (hereinafter referred to as "the basic application") or that registration (hereinafter referred to as "the basic registration") stands may, subject to the provisions of this Protocol secure protection for his mark in the territory of the Contracting Parties, by obtaining the registration of that mark in the register of the International Bureau of the World Intellectual Property Organization (hereinafter referred to as "the international registration," "the International Register," "the International Bureau" and "the Organization", respectively), provided that,
+(i) where the basic application has been filed with the Office of a Contracting State or where the basic registration has been made by such an Office, the person in whose name that application or registration stands is a national of that Contracting State, or is domiciled, or has a real and effective industrial or commercial establishment, in the said Contracting State,
+(ii) where the basic application has been filed with the Office of a Contracting Organization or where the basic registration has been made by such an Office, the person in whose name that application or registration stands is a national of a State member of that Contracting Organization, or is domiciled, or has a real and effective industrial or commercial establishment, in the territory of the said Contracting Organization.
+(2) The application for international registration (hereinafter referred to as "the international application") shall be filed with the International Bureau through the intermediary of the Office with which the basic application was filed or by which the basic registration was made (hereinafter referred to as "the Office of origin"), as the case may be.
+(3) Any reference in this Protocol to an "Office" or an "Office of a Contracting Party" shall be construed as a reference to the office that is in charge, on behalf of a Contracting Party, of the registration of marks, and any reference in this Protocol to "marks" shall be construed as a reference to trademarks and service marks.
+(4) For the purposes of this Protocol, "territory of a Contracting Party" means, where the Contracting Party is a State, the territory of that State and, where the Contracting Party is an intergovernmental organization, the territory in which the constituting treaty of that intergovernmental organization applied.
+The IPAP has insisted that Article 2 of the 
+Madrid Protocol
+ means that foreign trademark applicants may file their applications through the International Bureau or the WIPO, and their applications will be automatically granted trademark protection without the need for designating their resident agents in the country.
+[15]
+Moreover, the IPAP has submitted that the procedure outlined in the 
+Guide to the International Registration of Marks
+ relating to representation before the International Bureau is the following, to wit:
+Rule 3(1)(a)
+ 09.02 References in the Regulations, Administrative Instructions or in this Guide to representation relate only to representation before the International Bureau. The questions of the need for a representative before the Office of origin or the Office of a designated Contracting Party (for example, in the event of a refusal of protection issued by such an Office), who may act as a representative in such cases and the method of appointment, are outside the scope of the Agreement, Protocol and Regulations and are governed by the law and practice of the Contracting Party concerned.
+which procedure is in conflict with that under Section 125 of the IP Code, and constitutes in effect an amendment of the local law by the Executive Department.
+[16]
+The IPAP has prayed that the implementation of the 
+Madrid Protocol
+ in the Philippines be restrained in order to prevent future wrongs considering that the IPAP and its constituency have a clear and unmistakable right not to be deprived of the rights granted them by the IP Code and existing local laws.
+[17]
+In its comment in behalf of the respondents, the Office of the Solicitor General (OSG) has stated that the IPAP does not have the 
+locus standi 
+to challenge the accession to the 
+Madrid Protocol
+; that the IPAP cannot invoke the Court's original jurisdiction absent a showing of any grave abuse of discretion on the part of the respondents; that the President's ratification of the 
+Madrid Protocol
+ as an executive agreement is valid because the 
+Madrid Protocol
+ is only procedural, does not create substantive rights, and does not require the amendment of the IP Code; that the IPAP is not entitled to the restraining order or injunction because it suffers no damage from the ratification by the President, and there is also no urgency for such relief; and the IPAP has no clear unmistakable right to the relief sought.
+[18]
+Issues
+The following issues are to be resolved, namely:
+Whether or not the IPAP has 
+locus standi
+ to challenge the President's ratification of the 
+Madrid Protocol
+;
+Whether or not the President's ratification of the 
+Madrid Protocol
+ is valid and constitutional; and
+Whether or not the 
+Madrid Protocol
+ is in conflict with the IP Code.
+Ruling of the Court
+The petition for 
+certiorari
+ and prohibition is without merit.
+A.
+The issue of legal standing to sue, or 
+locus standi
+The IPAP argues in its reply
+[19]
+ that it has the 
+locus standi 
+to file the present case by virtue of its being an association whose members stand to be injured as a result of the enforcement of the 
+Madrid Protocol
+ in the Philippines; that the injury pertains to the acceptance and approval of applications submitted through the 
+Madrid Protocol
+ without local representation as required by Section 125 of the IP Code;
+[20]
+ and that such will diminish the rights granted by the IP Code to Intellectual Property Law practitioners like the members of the IPAP.
+[21]
+The argument of the IPAP is untenable.
+Legal standing refers to "a right of appearance in a court of justice on a given question."
+[22]
+ According to 
+Agan, Jr. v. Philippine International Air Terminals Co., Inc.,
+[23]
+ standing is "a peculiar concept in constitutional law because in some cases, suits are not brought by parties who have been personally injured by the operation of a law or any other government act but by concerned citizens, taxpayers or voters who actually sue in the public interest."
+The Court has frequently felt the need to dwell on the issue of standing in public or constitutional litigations to sift the worthy from the unworthy public law litigants seeking redress or relief. The following elucidation in 
+De Castro v. Judicial and Bar Council
+[24]
+ offers the general understanding of the context of legal standing, or 
+locus standi
+ for that purpose, 
+viz
+.:
+In public or constitutional litigations, the Court is often burdened with the determination of the 
+locus standi
+ of the petitioners due to the ever-present need to regulate the invocation of the intervention of the Court to correct any official action or policy in order to avoid obstructing the efficient functioning of public officials and offices involved in public service. It is required, therefore, that the petitioner must have a personal stake in the outcome of the controversy, for, as indicated in 
+Agan, Jr. v. Philippine International Air Terminals Co., Inc.
+;
+The question on legal standing is whether such parties have "alleged such a personal stake in the outcome of the controversy as to assure that concrete adverseness which sharpens the presentation of issues upon which the court so largely depends for illumination of difficult constitutional questions." Accordingly, it has been held that the interest of a person assailing the constitutionality of a statute must be direct and personal. He must be able to show, not only that the law or any government act is invalid, but also that he sustained or is in imminent danger of sustaining some direct injury as a result of its enforcement, and not merely that he suffers thereby in some indefinite way. It must appear that the person complaining has been or is about to be denied some right or privilege to which he is lawfully entitled or that he is about to be subjected to some burdens or penalties by reason of the statute or act complained of.
+It is true that as early as in 1937, in 
+People v. Vera
+, the Court adopted the 
+direct injury 
+test for determining whether a petitioner in a public action had 
+locus standi. 
+There, the Court held that the person who would assail the validity of a statute must have "a personal and substantial interest in the case such that he has sustained, or will sustain direct injury as a result." 
+Vera
+ was followed in 
+Custodio v. President of the Senate, Manila Race Horse Trainers' Association v. De la Fuente, Anti-Chinese League of the Philippines v. Felix,
+ and 
+Pascual v. Secretary of Public Works.
+Yet, the Court has also held that the requirement of 
+locus standi,
+ being a mere procedural technicality, can be waived by the Court in the exercise of its discretion. For instance, in 1949, in 
+Araneta v. Dinglasan,
+ the Court liberalized the approach when the cases had "transcendental importance." Some notable controversies whose petitioners did not pass the 
+direct injury
+ test were allowed to be treated in the same way as in 
+Araneta v. Dinglasan.
+In the 1975 decision in
+ Aquino v. Commission on Elections,
+ this Court decided to resolve the issues raised by the petition due to their "far-reaching implications," even if the petitioner had no personality to file the suit. The liberal approach of
+ Aquino v. Commission on Elections 
+has been adopted in several notable cases, permitting ordinary citizens, legislators, and civic organizations to bring their suits involving the constitutionality or validity of laws, regulations, and rulings.
+However, the assertion of a public right as a predicate for challenging a supposedly illegal or unconstitutional executive or legislative action rests on the theory that the petitioner represents the public in general. Although such petitioner may not be as adversely affected by the action complained against as are others, it is enough that he sufficiently demonstrates in his petition that he is entitled to protection or relief from the Court 
+in the vindication of a public right
+.
+[25]
+The injury that the IPAP will allegedly suffer from the implementation of the 
+Madrid Protocol
+ is imaginary, incidental and speculative as opposed to a direct and material injury required by the foregoing tenets on 
+locus standi
+. Additionally, as the OSG points out in the comment,
+[26]
+ the IPAP has misinterpreted Section 125 of the IP Code on the issue of representation. The provision only states that a foreign trademark applicant "shall designate by a written document filed in the office, the name and address of a Philippine resident who may be served notices or process in proceedings affecting the mark;" it does not grant anyone in particular the right to represent the foreign trademark applicant. Hence, the IPAP cannot justly claim that it will suffer irreparable injury or diminution of rights granted to it by Section 125 of the IP Code from the implementation of the 
+Madrid Protocol
+.
+Nonetheless, the IPAP also emphasizes that the paramount public interest involved has transcendental importance because its petition asserts that the Executive Department has overstepped the bounds of its authority by thereby cutting into another branch's functions and responsibilities,
+[27]
+ The assertion of the IPAP may be valid on this score. There is little question that the issues raised herein against the implementation of the 
+Madrid Protocol
+ are of transcendental importance. Accordingly, we recognize IPAP's 
+locus standi 
+to bring the present challenge. Indeed, the Court has adopted a liberal attitude towards 
+locus standi
+ whenever the issue presented for consideration has transcendental significance to the people, or whenever the issues raised are of paramount importance to the public.
+[28]
+B.
+Accession to the 
+Madrid Protocol
+ was constitutional
+The IPAP submits that respondents Executive Secretary and DFA Secretary Del Rosario gravely abused their discretion in determining that there was no need for the Philippine Senate's concurrence with the 
+Madrid Protocol
+; that the 
+Madrid Protocol
+ involves changes of national policy, and its being of a permanent character requires the Senate's concurrence,
+[29]
+ pursuant to Section 21, Article VII of the Constitution, which states that "no treaty or international agreement shall be valid and effective unless concurred in by at least two-thirds of all the Members of the Senate."
+Before going further, we have to distinguish between treaties and international agreements, which require the Senate's concurrence, on one hand, and executive agreements, which may be validly entered into without the Senate's concurrence. Executive Order No, 459, Series of 1997,
+[30]
+ notes the following definitions, to wit:
+Sec. 2. 
+Definition of Terms
+.
+a. 
+International agreement 
+- shall refer to a contract or understanding, regardless of nomenclature, entered into between the Philippines and another government in written form and governed by international law, whether embodied in a single instrument or in two or more related instruments.
+b. 
+Treaties 
+- international agreements entered into by the Philippines which require legislative concurrence after executive ratification. This term may include compacts like conventions, declarations, covenants and acts.
+c. 
+Executive Agreements
+ - similar to treaties except that they do not require legislative concurrence.
+The Court has highlighted the difference between treaties and executive agreements in 
+Commissioner of Customs v. Eastern Sea Trading
+,
+[31]
+ thusly:
+International agreements involving political issues or changes of national policy and those involving international arrangements of a permanent character usually take the form of treaties. But international agreements embodying adjustments of detail carrying out well-established national policies and traditions and those involving arrangements of a more or less temporary nature usually take the form of executive agreements.
+In the Philippines, the DFA, by virtue of Section 9, Executive Order No. 459,
+[32]
+ is initially given the power to determine whether an agreement is to be treated as a treaty or as an executive agreement. To determine the issue of whether DFA Secretary Del Rosario gravely abused his discretion in making his determination relative to the 
+Madrid Protocol
+, we review the jurisprudence on the nature of executive agreements, as well as the subject matters to be covered by executive agreements.
+The pronouncement in 
+Commissioner of Customs v. Eastern Sea Trading
+[33]
+ is instructive, to wit:
+x x x The concurrence of said House of Congress is required by our fundamental law in the making of "treaties" (Constitution of the Philippines, Article VII, Section 10[7]), which are, however, distinct and different from "executive agreements," which may be validly entered into without such concurrence.
+"Treaties are formal documents which require ratification with the approval of two thirds of the Senate. Executive agreements become binding through executive action 
+without
+ the need of a vote by the Senate or by Congress.
+x x x x
+"x x x the right of the Executive to enter into binding agreements 
+without
+ the necessity of subsequent Congressional approval has been 
+confirmed by long usage
+. From the earliest days of our history we have entered into executive agreements covering such subjects as commercial and consular relations, most-favored-nation rights, patent rights, 
+trademark and copyright protection
+, postal and navigation arrangements and the settlement of claims, 
+The validity of these has never been seriously questioned by our courts.
+x x x x
+Agreements with respect to the registration of tradeÂ­marks
+ have been concluded by the Executive with various countries under the Act of Congress of March 3, 1881 (21 Stat. 502). x x x
+x x x x
+In this connection, Francis B. Sayre, former U.S. High Commissioner to the Philippines, said in his work on "The Constitutionality of Trade Agreement Acts":
+Agreements concluded by the President which fall short of treaties are commonly referred to as executive agreements and are no less common in our scheme of government than are the more formal instruments - treaties and conventions. They sometimes take the form of exchanges of notes and at other times that or more formal documents denominated 'agreements' or 'protocols'. The point where ordinary correspondence between this and other governments ends and agreements - whether denominated executive agreements or exchanges of notes or otherwise - begin, may sometimes be difficult of ready ascertainment. It would be useless to undertake to discuss here the large variety of executive agreements as such, concluded from time to time, Hundreds of executive agreements, other than those entered into under the trade-agreements act, have been negotiated with foreign governments, x x x It would seem to be sufficient, in order to show that the trade agreements under the act of 1934 are not anomalous in character, that they are not treaties, and that they have abundant precedent in our history, to refer to certain classes of agreements heretofore entered into by the Executive without the approval of the Senate. 
+They cover such subjects as the inspection of vessels, navigation dues, income tax on shipping profits, the admission of civil aircraft, customs matters, and commercial relations generally, international claims, postal matters, the registration of trademarks and copyrights, etcetera. Some of them were concluded not by specific congressional authorization but in conformity with policies declared in acts of Congress with respect to the general subject matter, such as tariff acts;
+ while still others, particularly those with respect of the settlement of claims against foreign governments, were concluded independently of any legislation. (Emphasis ours)
+As the foregoing pronouncement indicates, the registration of trademarks and copyrights have been the subject of executive agreements entered into without the concurrence of the Senate. Some executive agreements have been concluded in conformity with the policies declared in the acts of Congress with respect to the general subject matter.
+It then becomes relevant to examine our state policy on intellectual property in general, as reflected in Section 2 of our IP Code, to wit:
+Section 2. 
+Declaration of State Policy.
+ - The State recognizes that 
+an effective intellectual and industrial property system is vital to the development of domestic and creative activity, facilitates transfer of technology, attracts foreign investments, and ensures market access for our products. It shall protect and secure the exclusive rights of scientists, inventors, artists and other gifted citizens to their intellectual property and creations, particularly when beneficial to the people, for such periods as provided in this Act.
+The use of intellectual property bears a social function. To this end, the State shall promote the diffusion of knowledge and information for the promotion of national development and progress and the common good.
+It is also the policy of the State to streamline administrative procedures of registering patents, trademarks and copyright,
+ to liberalize the registration on the transfer of technology, and to enhance the enforcement of intellectual property rights in the Philippines.
+In view of the expression of state policy having been made by the Congress itself, the IPAP is plainly mistaken in asserting that "there was no Congressional act that authorized the accession of the Philippines to the 
+Madrid Protocol
+."
+[34]
+Accordingly, DFA Secretary Del Rosario's determination and treatment of the 
+Madrid Protocol
+ as an executive agreement, being in apparent contemplation of the express state policies on intellectual property as well as within his power under Executive Order No. 459, are upheld. We observe at this point that there are no hard and fast rules on the propriety of entering into a treaty or an executive agreement on a given subject as an instrument of international relations. The primary consideration in the choice of the form of agreement is the parties' intent and desire to craft their international agreement in the form they so wish to further their respective interests. The matter of form takes a back seat when it comes to effectiveness and binding effect of the enforcement of a treaty or an executive agreement, inasmuch as all the parties, regardless of the form, become obliged to comply conformably with the time-honored principle of pacta 
+sunt servanda.
+[35]
+ The principle binds the parties to perform in good faith their parts in the agreements.
+[36]
+C.
+There is no conflict between the 
+Madrid Protocol
+ and the IP Code,
+The IPAP also rests its challenge on the supposed conflict between the 
+Madrid Protocol
+ and the IP Code, contending that the 
+Madrid Protocol
+ does away with the requirement of a resident agent under Section 125 of the IP Code; and that the 
+Madrid Protocol
+ is unconstitutional for being in conflict with the local law, which it cannot modify,
+The IPAP's contentions stand on a faulty premise. The method of registration through the IPOPHL, as laid down by the IP Code, is distinct and separate from the method of registration through the WIPO, as set in the 
+Madrid Protocol
+. Comparing the two methods of registration despite their being governed by two separate systems of registration is thus misplaced.
+In arguing that the 
+Madrid Protocol
+ conflicts with Section 125 of the IP Code, the IPAP highlights the importance of the requirement for the designation of a resident agent, It underscores that the requirement is intended to ensure that non-resident entities seeking protection or privileges under Philippine Intellectual Property Laws will be subjected to the country's jurisdiction. It submits that without such resident agent, there will be a need to resort to costly, time consuming and cumbersome extraÂ­territorial service of writs and processes.
+[37]
+The IPAP misapprehends the procedure for examination under the 
+Madrid Protocol
+. The difficulty, which the IPAP illustrates, is minimal, if not altogether inexistent. The IPOPHL actually requires the designation of the resident agent when it refuses the registration of a mark. Local representation is further required in the submission of the Declaration of Actual Use, as well as in the submission of the license contract.
+[38]
+ The 
+Madrid Protocol
+ accords with the intent and spirit of the IP Code, particularly on the subject of the registration of trademarks. The 
+Madrid Protocol
+ does not amend or modify the IP Code on the acquisition of trademark rights considering that the applications under the 
+Madrid Protocol
+ are still examined according to the relevant national law. In that regard, the IPOPHL will only grant protection to a mark that meets the local registration requirements.
+WHEREFORE
+, this Court
+ DISMISSES
+ the petition for certiorari and prohibition for lack of merit; and 
+ORDERS
+ the petitioner to pay the costs of suit.
+SO ORDERED.
+Sereno, C.J., Carpio, Velasco, Jr., Leonardo-De Castro,  Peralta, Del Castillo, Perez, Reyes, 
+ and 
+Caguioa, JJ.
+, concur.
+Brion, J
+., see: concurring opinion.
+Mendoza, J.
+, on official leave.
+Perlas-Bernabe, J
+., please see my concurring opinion.
+Leonen, J.
+, see separate concurring opinion.
+Jardeleza, J
+., no part.
+NOTICE OF JUDGMENT
+Sirs/Mesdames:
+Please take notice that on 
+July 19, 2016
+ a 
+Decision
+/Resolution, copy attached herewith, was rendered by the Supreme Court in the above-entitled case, the original of which was received by this Office on August 8, 2016 at 9:51 a.m.
+Very truly yours,
+(SGD)
+FELIPA G. BORLONGAN-ANAMA
+Clerk of Court
+[1]
+ 
+Rollo
+, p. 4.
+[2]
+ Madrid - The International Trademark System, http://www.wipo.int/madrid/en/ (last visited March 31, 2016).                     
+[3]
+ Madrid Agreement Concerning the International Registration of Marks, http://www.wipo.int/treaties/en/registration/madrid/ (last visited March 31, 2016).
+[4]
+ Benefits of the Madrid System, http://www.wipo.int/madrid/en/madrid_benefits.html (last visited March 31, 2016). 
+[5]
+ 
+Rollo
+, pp. 170-171.
+[6]
+ Id. at 172-175.
+[7]
+ Id. at 175-176.
+[8]
+ http://www.wipo.int/ti-eaties/en/notifications/tnadridp-gp/treaty_madridp_gp_194.html
+[9]
+ 
+Rollo
+, pp. 57-58.
+[10]
+ Id. at 5.
+[11]
+ Id. at 1-30.
+[12]
+ G.R. No. 158088, July 6, 2005, 462 SCRA 622, 632-633.
+[13]
+ 
+Rollo
+, pp. 16-21.
+[14]
+ Id. at 21.
+[15]
+ Id. at 21-22. 
+[16]
+ Id. at 22-24. 
+[17]
+ Id. at 24-28.
+[18]
+ Id. at 177-178.
+[19]
+ Id. at 283-307.
+[20]
+ Id. at 284-286.
+[21]
+ Id. at 23.
+[22]
+ Black's Law Dictionary, 941 (6
+th
+ Ed. 1991).
+[23]
+ G.R. Nos. 155001, 155547, and 155661, May 5, 2003,402 SCRA 612, 645.
+[24]
+ G.R. Nos. 191002, 191032, 191057, 191149, and A.M. No. 10-2-5-SC, March 17, 2010, 615 SCRA 666.
+[25]
+ Id. at 722-726 (bold emphasis is part of the original text). 
+[26]
+ 
+Rollo
+, p. 183.
+[27]
+ Id. at 286-289.
+[28]
+ 
+Francisco, Jr. v. Nagmamalasakit na mga Manananggol ng mga Manggagawang Filipino, Inc.
+, G.R. Nos. 160261, 160262, 160263, 160277, 160292, 160295, 160310 J 60318, 160342, 160343, 160360, 160365, 160370, 160376, 160392, 160397, 160403, and 160405, November 10, 2003, 415 SCRA 44, 139.
+[29]
+ 
+Rollo
+, pp. 16-21.
+[30]
+ 
+Providing for the Guidelines in the Negotiation of International Agreements and its Ratification
+ (issued November 25, 1997 by President Ramos).
+[31]
+ No. L-14279, October 31, 1961, 3 SCRA 351, 356.
+[32]
+ 
+SEC. 9. 
+Determination of the Nature of the Agreement
+.
+ - The Department of Foreign Affairs shall determine whether an agreement is an executive agreement or a treaty.
+[33]
+ Supra note 31, at 355-357.
+[34]
+ 
+Rollo
+, p. 19.
+[35]
+ 
+Bayan Muna v. Romulo
+, G.R. No. 159618, February 1, 2011, 641 SCRA 244, 261.
+[36]
+ Vienna Convention on the Law on Treaties (1969), Art. 26.
+[37]
+ 
+Rollo
+, p. 23.
+[37]
+ 
+Rollo
+, p. 23.
+[38]
+ http://www.wipo.int/madrid/en/mernbers/profiles/ph.html?part=misc (last visited March 31, 2016)
+SEPARATE CONCURRING OPINION
+BRION, 
+J.
+:
+I write this Separate Opinion to emphasize my reasons for concurring with the 
+ponencia
+'s conclusion that the Philippines' accession to the 
+Madrid Protocol
+ through an Executive Agreement is not unconstitutional,
+I believe that the time has come for this Court to definitively set concrete parameters regarding the treatment of an international agreement as a treaty or as an executive agreement. To date, we have been using the discussion on what constitutes an "executive agreement" as discussed in the case
+ Commissioner of Customs v, Eastern Trading
+,
+[1]
+ a 
+1961
+ case decided long 
+before
+ the 1987 Constitution took effect and changed the language of the provision on the effectivity and validity of international agreements in the Philippines,
+This change in 
+constitutional language
+ calls for a clarification of what may be the subject of executive agreements that no longer need Senate concurrence to be valid and effective in the Philippines, The need is now acute, particularly in the light of the recent cases questioning the treatment of international agreements as executive agreements, such as the Enhanced Defense Cooperation Agreement (
+EDCA
+) and now the present 
+Madrid Protocol
+ case.
+To avoid further confusion, the need for litigation, and the consequent international embarrassment all these can cause, we should now exercise as well our power and duty to educate the bar and the public in the course of setting standards in determining when an international agreement may be entered into as an executive agreement.
+These parameters, to my mind, should reflect the shared function of the Executive and the Legislature in treaties, which in turn fits into the larger context of the separation of powers and the checks and balances that underlie the operations of our government under the Constitution.
+As I will discuss below, Section 21, Article VII of the 1987 Constitution is a reflection of this setup. It is a carefully worded provision in the Constitution made to ensure that the President's prerogative in the conduct of international affairs is subject to the check and balance by the Senate, requiring that the Senate first concur in international agreements that the President enters into before they take effect in the Philippines.
+Under this regime, the 
+Madrid Protocol
+ is valid and effective in the Philippines as an executive agreement that the President can enter into without need of Senate concurrence. The reason, stated at its simplest, is that the President was merely implementing a policy previously approved through a law by Congress, when he signed the 
+Madrid Protocol
+ as an executive agreement. The obligations under the 
+Madrid Protocol
+ are thus valid and effective in the Philippines for having been made pursuant to the exercise of the President's executive powers.
+Article VII, Section 21 of the
+1987 Constitution in the 
+context of separation of 
+powers
+The Philippine government operates under the complementary principles of separation of powers and checks and balances. The three functions of government are concentrated in its three great branches, with each branch supreme in its own sphere: the 
+Legislature
+ possesses the power to create laws that are binding in the Philippines, which the 
+Executive
+ has the duty to implement and enforce. The 
+Judiciary
+, on the other hand, resolves conflicts that may arise from the implementation of these laws and, on occasion, nullifies acts of government (whether legislative or executive) that have been made with grave abuse of discretion under the Court's expanded jurisdiction in Article VIII, Section 1 of the 1987 Constitution.
+[2]
+That each branch of government is supreme in its own sphere does not, however, mean that they no longer interact with or are isolated from one another in the exercise of their respective duties.
+[3]
+To be sure, one branch cannot usurp the power of another without violating the principle of separation of powers, but this is not an absolute rule; rather, it is a rule that operates hand in hand with arrangements that allow the participation of one branch in another branch's action under the system of checks and balances that the Constitution itself provides. The Constitution in fact imposes such joint action so that one branch can check and balance the actions of the other, to ensure public accountability and guard against the tyrannical concentration of power.
+Thus, Congress, while supreme in its authority to enact laws,
+[4]
+ is checked and balanced in this authority through the President's veto power. Congress possesses, save for the limitations found in the Constitution, the full discretion to decide the subject matter and content of the laws it passes, but this bill, once passed by both houses of Congress, would have to be signed by the President. If the President does not approve of the bill, he can veto it and send the bill back to Congress with reasons for his disapproval. Congress, in turn, can either override the veto or simply accept the President's disapproval.
+[5]
+The same dynamics apply to the enactment of the General Appropriations Act, which is inarguably the most important law passed by Congress every year. The GAA is subject to the President's item veto, a check-and-balance mechanism specific to appropriation bills.
+[6]
+Note, too, that the declaration of martial law, while still a power of the President, is subject to check-and-balance mechanisms from Congress; The President is duty-bound, within forty-eight hours from declaring martial law or suspending the privilege of the writ of habeas corpus, to submit a report to Congress. Congress, voting jointly, may revoke the declaration or suspension. The President cannot set this revocation aside.
+[7]
+The Court exercises a passive role in these scenarios, but it is duty-bound to determine (and nullify) acts of grave abuse of discretion amounting to lack or excess of jurisdiction on the part of the other branches and other government agencies.
+[8]
+The act of entering into international agreements operate under this wider context of separation of powers and checks and balances among the three branches of government.
+Without doubt, the President has the sole authority over, and is the country's chief representative in the conduct of foreign affairs, This authority includes the negotiation and ratification of international agreements: the President has full discretion (subject to the limits found in the Constitution) to negotiate and enter into international agreements in behalf of the Philippine government. But this discretion is subject to a check and balance from the legislative branch of government, that is, the Senate has to give its concurrence with an international agreement before it may be considered valid and effective in the Philippines.
+[9]
+Notably, the veto power of the President over bills passed by Congress works in a manner similar to the need for prior Senate concurrence over international agreements. First, both are triggered through the exercise by the other body of its governmental function - the President may only veto a bill after it has been passed by Congress, while the Senate may only exercise its prerogative to concur with an international agreement after it has been ratified by the President and sent to the Senate for concurrence. 
+Second,
+ the governmental act would not take effect without the other branch's assent to it. The President would have to sign the bill, or let it lapse into law (in other words, he would have to choose not to exercise his veto prerogative) before the law could take effect. In the same light, the Senate would have to concur in the international agreement before it may be considered valid and effective in the Philippines. The similarities in these mechanisms indicate that they function as check and balance measures - to the prerogative of Congress in lawmaking, and to the President's exercise of its foreign affairs powers.
+We should not forget, in considering the concurrence requirement, that the need for prior concurrence from the legislative branch before international agreements become effective in the Philippines has historically been the constitutional approach starting from the 1935 Constitution.
+Under the 1935 Constitution, 
+the President has the "power, with the concurrence of a majority of all the members of the National Assembly, to make treaties xxx
+." The provision, Article VII, Section 11, paragraph 7 is part of the enumeration of the President's powers under Section 11, Article VII of the 1935 Constitution. This recognition clearly marked treaty making to be an executive function, but its exercise was nevertheless subject to the concurrence of the National Assembly. A subsequent amendment to the 1935 Constitution, which divided the country's legislative branch into two houses,
+[10]
+ transferred the function of treaty concurrence to the Senate, and required that two-thirds of its members assent to the treaty.
+By 1973, the Philippines adopted a presidential parliamentary system of government, which merged some of the functions of the Executive and Legislative branches of government in one branch.
+[11]
+ Despite this change, concurrence was still seen as necessary in the treaty-making process, as Article VIII, Section 14 required that a treaty should be first concurred in by a majority of all Members of the Batasang Pambansa before they could be considered valid and effective in the Philippines, thus:
+SEC. 14. (1) Except as otherwise provided in this Constitution, no treaty shall be valid and effective unless concurred in by a majority of all the Members of the Batasang Pambansa.
+This change in the provision on treaty ratification and concurrence is significant for the following reasons:
+First
+, the change
+ clarified the effect of the lack of concurrence to a treaty
+, that is, a treaty without legislative concurrence shall not be valid and effective in the Philippines.
+Second
+, the change of wording also reflected the dual nature of the Philippines' approach in international relations
+,
+[12]
+ Under this approach, the Philippines sees international law and its international obligations from two perspectives: 
+first,
+ from the 
+international plane
+, where international law reigns supreme over national laws; and 
+second,
+ from the 
+domestic plane
+, where the international obligations and international customary laws are considered in the same footing as national laws, and do not necessarily prevail over the latter,
+[13]
+ The Philippines' treatment of international obligations as statutes in its domestic plane also means that they cannot contravene the Constitution, including the mandated process by which they become effective in Philippine jurisdiction,
+Thus, while a treaty ratified by the President is binding upon the Philippines in the international plane, it would need the concurrence of the legislature before it can be considered as valid and effective in the Philippine domestic jurisdiction. Prior to and even without concurrence, the treaty, once ratified, is valid and binding upon the Philippines in the international plane, But in order to take effect in the Philippine domestic plane, it would have to first undergo legislative concurrence as required under the Constitution,
+Third
+, that the provision had been couched in the negative emphasizes the mandatory nature of legislative concurrence before a treaty may be considered valid and effective in the Philippines.
+The phrasing of Article VIII, Section 14 of the 1973 Constitution has been retained in the 1987 Constitution, except for three changes: 
+First
+, the Batasang Pambansa has been changed to the Senate to reflect the current setup of our legislature and our tripartite system of government. 
+Second
+, the vote required has been increased to two-thirds, reflective of the practice under the amended 1935 Constitution. 
+Third
+, the term "
+international agreement
+" has been added, aside from the term treaty. Thus, aside from treaties, "international agreements" now need concurrence before being considered as valid and effective in the Philippines. Thus, Article VII, Section 21 of the present Constitution reads:
+SECTION 21. No treaty or international agreement shall be valid and effective unless concurred in by at least two-thirds of all the Members of the Senate.
+The impact of the addition of
+the term "international 
+agreement" in Section 21,
+ Article VII of the
+1987 Constitution
+In the international sphere, the term international agreement covers both a treaty, an executive agreement, or by whatever name or title an agreement may be called, as long as it is concluded between States, is in written form, and is governed by international law. Thus, the Vienna Convention on the Law on treaties provide:
+Article 2. Section 1 (a) "Treaty" means an international agreement concluded between States in written form and governed by International Law, whether embodied in a single instrument or in two or more related instruments and whatever its particular designation;
+The Philippines was a signatory of the Vienna Convention at the time the 1986 Constitutional Commission deliberated on and crafted the 1987 Constitution.
+[14]
+ Deliberations of the Constitutional Commission even referred to the Vienna Convention on treaties while discussing what is now Article VII, Section 21.
+Commissioner Sarmiento, in proposing that the term "international agreements" be deleted from Article VII, Section 21, noted that the Vienna Convention provides that treaties are international agreements, hence, including the term international agreement is unnecessary and duplicative.
+[15]
+However, this proposal was withdrawn, as several commissioners insisted on including the term "international agreement" as a catch-all phrase for agreements that are international and more permanent in nature. It became apparent from the deliberations that the 
+commissioners consider a treaty to be a kind of international agreement
+ that serves as a contract between its parties and is part of municipal law, Thus, it would appear that the inclusion of the term "international agreement" in Section 21, Article VII of the 1987 Constitution was meant to ensure that an international agreement, regardless of its designation, should first be concurred in by the Senate before it can be considered valid and effective in the Philippines.
+[16]
+ 
+Executive Agreements as an 
+exception to the need for 
+legislative concurrence in 
+international agreements
+Hand in hand with the above considerations of Section 21, Article VII, executive agreements have been recognized through jurisprudence and by the provisions of the 1973 and the 1987 Constitutions themselves.
+Although the 1935 Constitution did not expressly recognize the existence and validity of executive agreements, jurisprudence and practice under it did. Thus, the 
+Commissioner of Customs v. Eastern Sea Trading
+, a 1961 case, recognized the capacity of the President to enter into executive agreements and its validity under Philippine law,
+[17]
+ 
+viz
+:
+Treaties are formal documents which require ratification with the approval of two-thirds of the Senate. Executive agreements become binding through executive action without the need of a vote by the Senate or by Congress.
+x x x x
+xxx the right of the Executive to enter into binding agreements without the necessity of subsequent Congressional approval has been confirmed by long usage. From the earliest days of our history we have entered into executive agreements covering such subjects as commercial and consular relations, most-favored-nation rights, patent rights, trademark and copyright protection, postal and navigation arrangements and the settlement of claims. The validity of these has never been seriously questioned by our courts.
+ x x x x
+The use of executive agreements could presumably be the reason for its subsequent express recognition in subsequent constitutions. Article X, Section 2 of the 1973 Constitution
+[18]
+ included executive agreements as a subject matter of judicial review, and this is repeated in Article VIII, Section 5 (2)
+[19]
+ of the 1987 Constitution.
+Article X Section 2, (1) of the 1973 Constitution provided that:
+SEC. 2. xxx
+(1) All cases involving the constitutionality of a treaty, executive agreement, or law shall be heard and decided by the Supreme Court en banc, and no treaty, 
+executive agreement
+, or law may be declared unconstitutional without the concurrence of at least ten Members. All other cases, which under its rules are required to be heard en banc, shall be decided with the concurrence of at least eight Members.
+Article VIII, Section 5 (2) of the 1987 Constitution, on the other hand, states:
+x x x x
+(2) Review, revise, reverse, modify, or affirm on appeal or certiorari, as the law or the Rules of Court may provide, final judgments and orders of lower courts in:
+(a) All cases in which the constitutionality or validity of any treaty, international or 
+executive agreement
+, law, presidential decree, proclamation, order, instruction, ordinance, or regulation is in question.
+x x x x
+The deliberations of the 1986 Constitutional Commission also show that the framers recognize that the President may enter into executive agreements, which are valid in the Philippines even without Senate concurrence:
+MS. AQUINO: Madam President, first I would like a clarification from the Committee. We have retained the words "international agreement" which I think is the correct judgment on the matter because an international agreement is different from a treaty. 
+A treaty is a contract between parties which is in the nature of international agreement and also a municipal law in the sense that the people are bound. So there is a conceptual difference.
+ However, I would like to be clarified if the international agreements include executive agreements.
+MR. CONCEPCION: That depends upon the parties. All parties to these international negotiations stipulate the conditions which are necessary for the agreement or whatever it may be to become valid or effective as regards the parties.
+MS. AQUINO: Would that depend on the parties or would that depend on the nature of the executive agreement? According to common usage, there are two types of executive agreement; one is purely proceeding from an executive act which affects external relations independent of the legislative and the other is an executive act in pursuance of legislative authorization. The first kind might take the form of just conventions or exchanges of notes or protocol while the other, which would be pursuant to the legislative authorization, may be in the nature of commercial agreements.
+MR. CONCEPCION: Executive agreements are generally made to implement a treaty already enforced or to determine the details for the implementation of the treaty. We are speaking of executive agreements, not international agreements.
+MS. AQUINO: I am in full agreement with that, except that it does not cover the first kind of executive agreement which is just protocol or an exchange of notes and this would be in the nature of reinforcement of claims of a citizen against a country, for example.
+MR. CONCEPCION: The Commissioner is free to require ratification for validity insofar as the Philippines is concerned.
+MS. AQUINO: It is my humble submission that we should provide, unless the Committee explains to us otherwise, an explicit proviso which would except executive agreements from the requirement of concurrence of two-thirds of the Members of the Senate, Unless I am enlightened by the Committee I propose that tentatively, the sentence should read. "No treaty or international agreement EXCEPT EXECUTIVE AGREEMENTS shall be valid and effective."
+FR. BERNAS: I wonder if a quotation from the Supreme Court decision might help clarify this:
+The right of the executive to enter into binding agreements without the necessity of subsequent Congressional approval has been confirmed by long usage. From the earliest days of our history, we have entered into executive agreements covering such subjects as commercial and consular relations, most favored nation rights, patent rights, trademark and copyright protection, postal and navigation arrangements and the settlement of claims. The validity of this has never been seriously questioned by our Courts.
+Agreements with respect to the registration of trademarks have been concluded by the executive of various countries under the Act of Congress of March 3, 1881 (21 Stat. 502). xxx International agreements involving political issues or changes of national policy and those involving international agreements of a permanent character usually take the form of treaties. But international agreements embodying adjustments of detail, carrying out well-established national policies and traditions and those involving arrangements of a more or less temporary nature usually take the form of executive agreements.
+MR. ROMULO: Is the Commissioner, therefore, excluding the executive agreements?
+FR. BERNAS: 
+What we are referring to, therefore, when we say international agreements which need concurrence by at least two-thirds are those which are permanent in nature.
+MS. AQUINO: And it may include commercial agreements which are executive agreements essentially but which are proceeding from the authorization of Congress. If that is our understanding, then I am willing to withdraw that amendment.
+FR. BERNAS: If it is with prior authorization of Congress, then it does not need subsequent concurrence by Congress.
+MS. AQUINO: In that case, I am withdrawing my amendment.
+x x x x
+MR. GUINGONA: I am not clear as to the meaning of "executive agreements" because I heard that these executive agreements must rely on treaties. In other words, there must first be treaties.
+MR. CONCEPCION: No, I was speaking about the common use, as executive agreements being the implementation of treaties, details of which do not affect the sovereignty of the State.
+MR. GUINGONA: 
+But what about the matter of permanence, Madam President? Would 99 years be considered permanent? What would be the measure of permanency? I do not conceive of a treaty that is going to be forever, so there must be some kind of a time limit.
+MR. CONCEPCION: 
+I suppose the Commissioner's question is whether this type of agreement should be included in a provision of the Constitution requiring the concurrence of Congress.
+MR. GUINGONA: It depends on the concept of the executive agreement of which I am not clear. If the executive agreement partakes of the nature of a treaty, then it should also be included.
+MR. CONCEPCION: Whether it partakes or not of the nature of a treaty, it is within the power of the Constitutional Commission to require that.
+MR. GUINGONA: Yes. That is why I am trying to clarify whether the words "international agreements" would include executive agreements.
+MR. CONCEPCION: No, not necessarily; generally no.
+MR. TINGSON: Madam President.
+THE PRESIDENT: Commissioner Tingson is recognized.
+MR. TINGSON: If the Floor Leader would allow me, I have only one short question.
+MR. ROMULO: I wish to be recognized first. I have only one question. 
+Do we take it, therefore, that as far as the Committee is concerned, the term "international agreements" does not include the term "executive agreements" as read by the Commissioner in that text?
+FR. BERNAS: 
+Yes
+[20]
+Thus, despite the attempt in the 1987 Constitution to ensure that all international agreements, regardless of designation, be the subject of Senate concurrence, the Constitution likewise acknowledged that the President can enter into executive agreements that the Senate no longer needs to concur in.
+An 
+executive agreement
+, when examined under the definition of what constitutes a 
+treaty
+ under the Vienna Convention on Treaties, falls within the Convention's definition. An executive agreement as used in Philippine law is definitely "an international agreement concluded between States in written form and governed by International Law, whether embodied in a single instrument or in two or more related instruments and whatever its particular designation[.]"
+The confusion that the seemingly differing treatment of executive agreement brings, however, is more apparent than real when it is considered that both instruments - a treaty and an executive agreement - both have constitutional recognition that can be reconciled: an executive agreement is an exception to the Senate concurrence requirement of Article VII, Section 21 of the 1987 Constitution; it is an international agreement that does not need Senate concurrence to be valid and effective in the Philippines.
+Its exceptional character arises from the reality that the Executive possesses the power and duty to execute and implement laws which, when considered together with the President's foreign affairs powers, authorizes the President to agree to international obligations that he can already implement as Chief Executive of the Philippine government. In other words, the President can ratify as executive agreements those obligations that he can already 
+execute and implement
+ because they already carry 
+prior legislative authorization
+, or have already gone through the treaty-making process under Article VII, Section 21 of the 1987 Constitution.
+[21]
+In these lights, executive agreements are a function of the President's duty to execute the laws faithfully. They trace their validity from existing laws or treaties that have been authorized by the legislative branch of government. They implement laws and treaties.
+[22]
+In contrast, treaties are international agreements that need concurrence from the Senate. They do not originate solely from the President's duty as the executor of the country's laws, but from the shared function that the Constitution mandated between the President and the Senate under Article VII, Section 21 of the 1987 Constitution.
+[23]
+Between the two, a treaty exists on a higher plane as it carries the authority of the President and the Senate, Treaties, which have the impact of statutory law in the Philippines, can amend or prevail over prior statutory enactments.
+[24]
+ Executive agreements - which are at the level of implementing rules and regulations or administrative orders in the domestic sphere - have no such effect. These cannot contravene or amend statutory enactments and treaties.
+[25]
+This difference in impact is based on their origins: since a treaty has the approval of both the President and the Senate, it has the same impact as a statute. In contrast, since an executive agreement springs from the President's power to execute laws, it cannot amend or violate existing treaties, and must be in accord with and in pursuant to laws and treaties.
+[26]
+Accordingly, the 
+intended effect of an international agreement determines its form.
+When an international agreement merely implements an existing agreement, it is properly in the form of an executive agreement. In contrast, when an international agreement involves the introduction of a new subject matter or an amendment of existing agreements or laws, then it should properly be in the form of a treaty. Otherwise, the enforceability of this international agreement in the domestic sphere should be carefully examined, as it carries no support from the legislature. To emphasize, should an executive agreement amend or contravene statutory enactments and treaties, then it is void and cannot be enforced in the Philippines; the Executive who issued it had no authority to issue an instrument that is contrary to or outside of a legislative act or a treaty.
+[27]
+In this sense, an executive agreement that creates new obligations or amends existing ones, has been issued with grave abuse of discretion amounting to a lack of or excess of jurisdiction, and can be judicially nullified through judicial review.
+The obligations found in the 
+Madrid Protocol
+ are within
+the Executive's power to implement,
+and may be the subject of an 
+executive agreement.
+Applying these standards to the contents of the 
+Madrid Protocol
+, I find that the obligations in this international agreement may be the subject of an executive agreement. 
+The 
+Madrid Protocol
+ facilitates the Philippines' entry to the Madrid System.
+[28]
+ Under the Madrid System, a person can register his trademark internationally by filing for an international registration of his trademark in one of the contracting parties (CP) under the Madrid System. Once a person has filed for or acquired a trademark with the IPO in his country of origin (that is also a CP), he can file for the international recognition of his trademark with the same office.
+[29]
+The CP is then obligated to forward the request to the World Intellectual Property Organization's (
+WIPO
+) International Bureau, which will then forward it to the other CPs where the person has applied for trademark recognition.
+[30]
+ The IPO in these countries would then determine whether the trademark may be registered under the laws of their country.
+[31]
+Thus, a foreign national may, in applying for an international registration of his trademark, include the Philippines as among the jurisdictions with which he seeks to register his trademark. Upon receipt of his application from the IPO of his country of origin, the WIPO would forward the application to the Philippine Intellectual Property Office (
+IPOPHIL
+). The IPOPHIL would then conduct a substantive examination of the application, and determine whether the trademark may be registered under Philippine law.
+[32]
+Note, at this point, that the 
+Madrid Protocol
+ does not replace the procedure for the registration of trademarks under the IP Code; neither does it impose or change the substantive requirements for the grant of a trademark. Whether through the mechanism under the 
+Madrid Protocol
+ or the IP Code, the requirements for a successful trademark registration remain the same.
+In particular, the form for "Application for International Registration Governed Exclusively by the 
+Madrid Protocol
+"
+[33]
+ requires most (except for the name of the domestic representative) of the information necessary for an application for trademark registration under Section 124 of the IP Code.
+[34]
+  Upon receipt and examination of this application, the IPOPHIL still possesses the discretion to grant or deny the same.
+[35]
+The applicant or registrant (whether through the 
+Madrid Protocol
+ or the traditional means under the IP Code) would also still have to file a declaration of actual use of mark with evidence to that affect within three years from the filing date of the application, otherwise, its registration shall be cancelled.
+[36]
+ The trademark registration filed through the 
+Madrid Protocol
+ is valid for ten years from the date of registration, the same period of protection granted to registrants under the IP Code.
+[37]
+The
+ net effect of implementing the 
+Madrid Protocol
+ is allowing the WIPO's International Bureau to forward an application before the IPOPHIL on behalf of the foreign national that filed for an international registration before the WIPO
+ and chose to include the Philippines among the countries with which it intends to register its mark. This obligation of recognizing trademark registration applications filed through the WIPO's International Bureau may be entered into and implemented by the Executive without subsequent Senate concurrence.
+As the 
+ponencia
+ has pointed out, Congress has made it the policy of the State to streamline administrative procedures of registering patents, trademarks, and copyrights. This declaration of the State's policy, when considered with the inherent and necessary power of the executive to draft its implementing rules and regulations in the implementation of laws, sufficiently allows the drafting of rules that would streamline the administrative procedure for the registration of trademarks by foreign nationals. These rules, of course, must not contradict or add to the law that it seeks to implement, that is, the procedure provided in the IP Code.
+Since the Executive is already authorized to create implementing rules and regulations that streamline the trademark registration process provided under the IP Code, then the Philippines' obligation under the 
+Madrid Protocol
+ may be implemented without subsequent Senate concurrence. This obligation to recognize applications filed through the WIPO already has prior legislative authorization, given that the Executive can, in the course of implementing Section 124 of the IP Code, draft implementing rules that streamline the procedure without changing its substantive aspects.
+As I have already pointed out, the 
+Madrid Protocol
+ merely allows the WIPO's International Bureau to file an application before the IPOPHIL on behalf of the foreign national that filed for an international registration before the WIPO. This practice is not prohibited under the IP Code, and may even be arguably encouraged under the declaration of state policy
+[38]
+ in the IP Code. Notably, the IP Code does not require personal filing of the application for trademark registration; neither does it prohibit the submission of the application on behalf of an applicant.
+[39]
+Indeed, the registration process under the 
+Madrid Protocol
+ would, in effect, dispense with the requirement of naming a domestic representative for foreign nationals not domiciled in the Philippines upon filing his application for trademark registration, as mandated in Section 124 of the IP Code. The domestic representative requirement is further explained in Section 125, 
+viz
+:
+Sec, 125. Representation; Address for Service. - If the applicant is not domiciled or has no real and effective commercial establishment in the Philippines, he shall designate by a written document filed in the office, the name and address of a Philippine resident who may be served notices or process in proceedings affecting the mark. Such notices or services may be served upon the person so designated by leaving a copy thereof at the address specified in the last designation filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director. (Sec. 3, R. A. No. 166a)
+The domestic representative requirement, however, is not entirely dispensed with by the operation of the 
+Madrid Protocol
+. A domestic representative is still required to file a certificate of actual use of the trademark within three years from registration, so that the trademark applied for would not be cancelled.
+[40]
+In the same light, applicants seeking to register their trademark license would also need a domestic representative in submitting a copy of the license agreement showing compliance with national requirements, within two months from the date of registration with the International Bureau.
+[41]
+A domestic representative is also necessary should there be any opposition to the trademark registration or a provisional refusal thereof.
+[42]
+Thus, a domestic representative is still integral to the process of registering a trademark in the Philippines, All foreign nationals not domiciled in the Philippines would still have to name a domestic representative in the course of his application for registration, otherwise, his trademark would, at the very least, be cancelled after three years of non-use. The 
+Madrid Protocol
+, in streamlining the procedure for registering trademarks of foreign nationals, in effect directed the domestic representative's participation where necessary and merely postponed the naming of a domestic representative requirement under Section 124 of the IP Code. The Protocol did not all together forego with it.
+Lastly, it does not escape us in reviewing the Executive's act of treating the 
+Madrid Protocol
+ as an executive agreement that the petition reached us through the Court's expanded jurisdiction. The petition for 
+certiorari
+ and prohibition challenging the constitutionality of the 
+Madrid Protocol
+ must thus be examined under the lens of grave abuse of discretion; that is, the executive must have acted so whimsically and capriciously that it amounted to an evasion of a positive duty or a refusal to perform a duty required by law.
+[43]
+As I have earlier pointed out, the Executive's inherent capacity to enact implementing rules for the administrative procedure of registering trademarks, when construed together with the Congress' declared policy of streamlining administrative procedures for trademark registration, sufficiently allows the Executive to obligate the Philippine government to recognize trademark applications filed with the WIPO International Bureau. This obligation no longer needs Senate approval to be effective in the Philippines, as it already has prior legislative authorization that the Executive has the power to implement.
+Thus, the Executive did not have a positive duty (though merely an option) to treat the 
+Madrid Protocol
+ as a treaty that should be submitted to the Senate for concurrence, and did not gravely abuse its discretion in treating the Protocol as an executive agreement.
+WHEREFORE, premises considered, I join the 
+ponencia 
+in dismissing the present petition.
+[1]
+ G.R. No. L-14279, October 31, 1961.
+[2]
+ 
+Angara v. Electoral Commission
+, 63 Phil. 139 (1936).
+[3]
+ Ibid.
+[4]
+ Article VI, Section 1 of the 1987 Constitution.
+[5]
+ Article VI, Section 27 of the 1987 Constitution.
+[6]
+ Ibid.
+[7]
+ Article VII, Section 18 of the 1987 Constitution.
+[8]
+ Article VIII, Section 1 of the 1987 Constitution; Article VII, Section 18 of the 1987 Constitution.
+[9]
+ 
+Pimentel, Jr. v. Office of the Executive Secretary,
+ G.R. No. 158088, July 6, 2005, 462 SCRA 622.
+[10]
+ See the National Assembly's Resolution No. 73 in 1940.
+[11]
+ See, Article VIII, Section 2 which provides:
+SEC. 2. The Batasang Pambansa which shall be composed of not more than 200 Members unless otherwise provided by law, shall include representatives elected from the different regions of the Philippines, those elected or selected from various sectors as may be provided by law, and those chosen by the President from the members of the Cabinet. Regional representatives shall be apportioned among the regions in accordance with the number of their respective inhabitants and on the basis of a uniform and progressive ratio.
+In reference to Article IX, Sections 1 to 3:
+SECTION 1. There shall be a Cabinet which shall be composed of Ministers with or without portfolio appointed by the President. At least a majority of the Members of the Cabinet who are heads of ministries shall come from the Regional Representatives of the Batasang Pambansa.
+The Prime Minister shall be the head of the Cabinet. He shall, upon the nomination of the President from among the Members of the Batasang Pambansa, be elected by a majority of all the Members thereof.
+SEC. 2. The Prime Minister and the Cabinet shall be responsible to the Batasang Pambansa for the program of government approved by the President.
+SEC. 3. There shall be an Executive Committee to be designated by the President, composed of the Prime Minister as Chairman, and not more than fourteen other members, at least half of whom shall be Members of the Batasang Pambansa. The Executive Committee shall assist the President in the exercise of his powers and functions and in the performance of his duties as he may prescribe.
+The Members of the Executive Committee shall have the same qualifications as those of the Members of the Batasang Pambansa.
+[12]
+ M. Magallona. "The Supreme Court and International Law: Problems and Approaches in Philippine Practice" 85 
+Philippine Law Journal 
+1, 2 (2010). 
+[13]
+ See: 
+Secretary of Justice v. Hon. Lantion,
+ 379 Phil. 165, 212-213 (2000).
+[14]
+ The Philippines deposited its instrument of ratification of the Vienna Convention on November 15, 1972.
+[15]
+ See the following discussion during the deliberations of the 1986 Constitutional Commission:
+MR. SARMIENTO: I humbly propose an amendment to the proposed resolution of my Committee and this is on page 9, Section 20, line 7, which is to delete the words "or international agreement." May 1 briefly explain.
+First, Article VII of the 1935 Constitution does not mention international agreement. Second, the Vienna Convention on the Law on Treaties states that a treaty is an international agreement. Third, the very source of this provision, the United States Constitution, does not speak of international agreement; it only speaks of treaties. So with that brief explanation, may I ask the Committee to consider our amendment.
+Commissioners Guingona, Villacorta and Aquino are supportive of this amendment.
+THE PRESIDENT: What does the Committee say?
+x x x x
+[16]
+ In response to Commissioner Sarmiento's suggestion, Commissioner Concepcion offered the following insight:
+MR. CONCEPCION: Madam President,
+THE PRESIDENT: Commissioner Concepcion is recognized.
+MR. CONCEPCION: Thank you, Madam President.
+International agreements can become valid and effective upon ratification of a designated number of parties to the agreement. But what we can say here is that it shall not be valid and effective as regards the Philippines. For instance, there are international agreements with 150 parties and there is a provision generally requiring say, 50, to ratify the agreement in order to be valid; then only those who ratified it will be bound. Ratification is always necessary in order that the agreement will be valid and binding.
+MR SARMIENTO: Do I take it to mean that international agreements should be retained in this provision?
+MR. CONCEPCION: Yes. But when we say "shall not be valid and effective, we say AS REGARDS THE PHILIPPINES.
+MR. SARMIENTO: So, the Commissioner is for the inclusion of the words "AS REGARDS THE PHILIPPINES"?
+MR. CONCEPCION: Yes. No agreement will be valid unless the Philippines ratifies it.
+MR. SARMIENTO: So may I know the final position of the Committee with respect to my amendment by deletion?
+MR. CONCEPCION: I would say "No treaty or international agreement shall be valid and effective AS REGARDS THE PHILIPPINES unless concurred in by at least two-thirds of all the members of the Senate."
+MR. SARMIENTO: If that is the position of the Chief Justice who is an expert on international law . . .
+MR. CONCEPCION: I am not an expert.
+MR. SARMIENTO: . . . then I will concede. I think Commissioner Aquino has something to say about Section 20.
+THE PRESIDENT: This particular amendment is withdrawn.
+MS. AQUINO: Madam President, first I would like a clarification from the Committee. We have retained the words "international agreement" which I think is the correct judgment on the
+matter because an international agreement is different from a treaty. 
+A treaty is a contract between parties which is in the nature of international agreement and also a municipal law in the sense that the people are bound
+. So there is a conceptual difference. However, I would like to be clarified if the international agreements include executive agreements.
+MR. CONCEPCION: That depends upon the parties. All parties to these international negotiations stipulate the conditions which are necessary for the agreement or whatever it may be to become valid or effective as regards the parties. 11 RECORD, CONSTITUTIONAL COMMISSION (31 July 1986).
+[17]
+ The full discussion on executive agreements in Collector of Customs v. Eastern Shipping reads as:
+The Court of Tax Appeals entertained doubts on the legality of the executive agreement sought to be implemented by Executive Order No. 328, owing to the fact that our Senate had not concurred in the making of said executive agreement. The concurrence of said House of Congress is required by our fundamental law in the making of "treaties" (Constitution of the Philippines, Article VII, Section 10[7]), which are, however, distinct and different from "executive agreements," which may be validly entered into without such concurrence.
+Treaties are formal documents which require ratification with the approval of two thirds of the Senate. Executive agreements become binding through executive action without the need of a vote by the Senate or by Congress.
+x x x x
+. . . the right of the Executive to enter into binding agreements without the necessity of subsequent Congressional approval has been confirmed by long usage. From the earliest days of our history we have entered into executive agreements covering such subjects as commercial and consular relations, most-favored-nation rights, patent rights, trademark and copyright protection, postal and navigation arrangements and the settlement of claims. The validity of these has never been seriously questioned by our courts.
+x x x x
+Agreements with respect to the registration of trade-marks have been concluded by the Executive with various countries under the Act of Congress of March 3, 1881 (21 Stat. 502). Postal conventions regulating the reciprocal treatment of mail matters, money orders, parcel post, etc., have been concluded by the Postmaster General with various countries under authorization by Congress beginning with the Act of February 20, 1792 (1 Stat. 232, 239). Ten executive agreements were concluded by the President pursuant to the McKinley Tariff Act of 1890 (26 Stat. 567, 612), and nine such agreements were entered into under the Dingley Tariff Act 1897 (30 Stat. 151, 203, 214). A very much larger number of agreements, along the lines of the one with Rumania previously referred to, providing for most-favored-nation treatment in customs and related matters have been entered into since the passage of the Tariff Act of 1922, not by direction of the Act but in harmony with it.
+x x x x
+International agreements involving political issues or changes of national policy and those involving international arrangements of a permanent character usually take the form of treaties. But international agreements embodying adjustments of detail carrying out well-established national policies and traditions and those involving arrangements of a more or less temporary nature usually take the form of executive agreements.
+x x x x
+Furthermore, the United States Supreme Court has expressly recognized the validity and constitutionality of executive agreements entered into without Senate approval. (39 Columbia Law Review, pp. 753-754) (See, also, 
+U.S. v. Curtis-Wright Export Corporation
+, 299 U.S. 304, 81 L. ed. 255; 
+U.S. v. Belmont,
+ 301 U.S. 324, 81 L. ed. 1134; 
+U.S. v. Pink,
+ 315 U.S. 203, 86 L. ed. 796; 
+Ozanic v. U.S.
+, 188 F. 2d. 288; Yale Law Journal, Vol. 15, pp. 1905-1906; California Law Review, Vol. 25, pp. 670-675; Hyde on International Law [Revised Edition], Vol. 2, pp. 1405, 1416-1418; Willoughby on the U.S. Constitutional Law, Vol. I [2d ed.], pp. 537-540; Moore, International Law Digest, Vol. V, pp. 210-218; Hackworth, International Law Digest, Vol. V, pp. 390-407). (Emphasis supplied.)
+In this connection, Francis B. Sayre, former U.S. High Commissioner to the Philippines, said in his work on "The Constitutionality of Trade Agreement Acts":
+Agreements concluded by the President which fall short of treaties are commonly referred to as executive agreements and are no less common in our scheme of government than are the more formal instruments â treaties and conventions. They sometimes take the form of exchanges of notes and at other times that of more formal documents denominated "agreements" time or "protocols". The point where ordinary correspondence between this and other governments ends and agreements â whether denominated executive agreements or exchanges of notes or otherwise â begin, may sometimes be difficult of ready ascertainment. It would be useless to undertake to discuss here the large variety of executive agreements as such, concluded from time to time. Hundreds of executive agreements, other than those entered into under the trade-agreements act, have been negotiated with foreign governments. ... It would seem to be sufficient, in order to show that the trade agreements under the act of 1934 are not anomalous in character, that they are not treaties, and that they have abundant precedent in our history, to refer to certain classes of agreements heretofore entered into by the Executive without the approval of the Senate. They cover such subjects as the inspection of vessels, navigation dues, income tax on shipping profits, the admission of civil aircraft, customs matters, and commercial relations generally, international claims, postal matters, the registration of trademarks and copyrights, etcetera. Some of them were concluded not by specific congressional authorization but in conformity with policies declared in acts of Congress with respect to the general subject matter, such as tariff acts; while still others, particularly those with respect of the settlement of claims against foreign governments, were concluded independently of any legislation." (39 Columbia Law Review, pp. 651, 755.)
+[18]
+ SEC. 2. (1) The Supreme Court shall be composed of a Chief Justice and fourteen Associate Justices. It may sit en banc or in two divisions.
+(2) All cases involving the constitutionality of a treaty, 
+executive agreement
+, or law shall be heard and decided by the Supreme Court en banc, and no treaty, executive agreement, or law may be declared unconstitutional without the concurrence of at least ten Members. All other cases, which under its rules are required to be heard en banc, shall be decided with the concurrence of at least eight Members.
+[19]
+ (2) Review, revise, reverse, modify, or affirm on appeal or certiorari, as the law or the Rules of Court may provide, final judgments and orders of lower courts in:
+(a) All cases in which the constitutionality or validity of 
+any treaty, international or executive agreement,
+ law, presidential decree, proclamation, order, instruction, ordinance, or regulation is in question.
+[20]
+ II RECORD, CONSTITUTIONAL COMMISSION 544-546 (31 July 1986). 
+See 
+J. Brion's Dissenting Opinion in 
+Saguisag v. Executive Secretary
+, G.R. No 212426, January 12, 2016.
+[22]
+ Ibid.
+[23]
+ Ibid.
+[24]
+ See 
+Secretary of Justice v. Lantion,
+ 379 Phil. 165 (2004); 
+Bayan Muna v. Romulo,
+ 656 Phil. 246 (2011).
+[25]
+ See
+ Bayan Muna v. Romulo
+, 656 Phil. 246 (2011); 
+Nicolas v. Romulo
+, 598 Phil. 262 (2009); 
+Gonzales v. Hechanova,
+ 118 Phil. 1065 (1963); CIVIL CODE, Art. 7.; J. Brion's Dissenting Opinion in 
+Saguisag v. Executive Secretary;
+ G.R. No. 212426, January 12, 2016 and J. Carpio's Dissenting Opinion in 
+Suplico v. National Economic Development Authority
+, G.R. No. 178830, 14 July 2008, 558 SCRA 329, 360-391.
+[26]
+ 
+See
+ J. Brion's Dissenting Opinion in 
+Saguisag v. Executive Secretary;
+ G.R. No. 212426 January 12, 2016.
+[27]
+ See supra 
+note 25.
+[28]
+ See Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks;
+[29]
+ Article 2 of the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks provides:
+Article 2
+Securing Protection through International Registration
+(1) Where an application for the registration of a mark has been filed with the Office of a Contracting Party, or where a mark has been registered in the register of the Office of a Contracting Party, the person in whose name that application (hereinafter referred to as "the basic application") or that registration (hereinafter referred to as "the basic registration") stands may, subject to the provisions of this Protocol, secure protection for his mark in the territory of the Contracting Parties, by obtaining the registration of that mark in the register of the International Bureau of the World Intellectual Property Organization (hereinafter referred to as "the international registration," "the International Register," "the International Bureau" and "the Organization," respectively), provided that,
+(1) where the basic application has been filed with the Office of a Contracting State or where the basic registration has been made by such an Office, the person in whose name that application or registration stands is a national of that Contracting State, or is domiciled, or has a real and effective industrial or commercial establishment, in the said Contracting State,
+(ii) where the basic application has been filed with the Office of a Contracting Organization or where the basic registration has been made by such an Office, the person in whose name that application or registration stands is a national of a State member of that Contracting Organization, or is domiciled, or has a real and effective industrial or commercial establishment, in the territory of the said Contracting Organization.
+(2) The application for international registration (hereinafter referred to as "the international application") shall be filed with the International Bureau through the intermediary of the Office with which the basic application was filed or by which the basic registration was made (hereinafter referred to as "the Office of origin"), as the case may be.
+(3) Any reference in this Protocol to an "Office" or an "Office of a Contracting Party" shall be construed as a reference to the office that is in charge, on behalf of a Contracting Party, of the registration of marks, and any reference in this Protocol to "marks" shall be construed as a reference to trademarks and service marks.
+(4) For the purposes of this Protocol, "territory of a Contracting Party" means, where the Contracting Party is a State, the territory of that State and, where the Contracting Party is an intergovernmental organization, the territory in which the constituting treaty of that intergovernmental organization applies.
+[30]
+ Ibid.
+[31]
+ Article 4 in relation to Article 5 of the Madrid Agreement Concerning the International Registration of Marks; in particular, the language of paragraph 1, Article 5 provides:
+(1) 
+Where the applicable legislation so authorizes
+, any Office of a Contracting Party which has been notified by the International Bureau of an extension to that Contracting Party, under Article 3ter(l) or (2), of the protection resulting from the international registration 
+shall have the right to declare in a notification of refusal that protection cannot be granted in the said Contracting Party to the mark which is the subject of such extension.
+ Any such refusal can be based only on the grounds which would apply, under the Paris Convention for the Protection of Industrial Property, in the case of a mark deposited direct with the Office which notifies the refusal. However, protection may not be refused, even partially, by reason only that the applicable legislation would permit registration only in a limited number of classes or for a limited number of goods or services.
+See
+ also IPOPHIL Office Order No. 139, Series of 2012, the Philippine Regulations Implementing the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks.
+[32]
+ 
+See
+ IPOPHIL Office Order No. 139, Series of 2012.
+[33]
+ MM2 Form for the Application for International Registration of Governed Exclusively by the 
+Madrid Protocol
+, accessed at http://www.wipo.int/export/sites/www/madrid/en/forms/docs/form_mm2.pdf 
+[34]
+ Sec. 124. Requirements of Application. -
+124.1. The application for the registration of the mark shall be in Filipino or in English and shall contain the following:
+(a) A request for registration;
+(b) The name and address of the applicant;
+(c) The name of a State of which the applicant is a national or where he has domicile; and the name of a State in which the applicant has a real and effective industrial or commercial establishment, if any;
+(d) Where the applicant is a juridical entity, the law under which it is organized and existing;
+(e) The appointment of an agent or representative, if the applicant is not domiciled in the Philippines;
+(f) Where the applicant claims the priority of an earlier application, an indication of:
+(i) The name of the State with whose national office the earlier application was filed or it filed with an office other than a national office, the name of that office, 
+(ii) The date on which the earlier application was filed, and
+(iii) Where available, the application number of the earlier application;
+(g) Where the applicant claims color as a distinctive feature of the mark, a statement to that effect as well as the name or names of the color or colors claimed and an indication, in respect of each color, of the principal parts of the mark which are in that color;
+(h) Where the mark is a three-dimensional mark, a statement to that effect; 
+(i) One or more reproductions of the mark, as prescribed in the Regulations; 
+(j) A transliteration or translation of the mark or of some parts of the mark, as prescribed in the Regulations; 
+(k) The names of the goods or services for which the registration is sought, grouped according to the classes of the Nice Classification, together with the number of the class of the said Classification to which each group of goods or services belongs; and 
+(l) A signature by, or other self-identification of, the applicant or his representative,
+124.2. The applicant or the registrant shall file a declaration of actual use of the mark with evidence to that effect, as prescribed by the Regulations within three (3) years from the filing date of the application. Otherwise, the application shall be refused or the mark shall be removed from the Register by the Director.
+124.3. One (1) application may relate to several goods and/or services, whether they belong to one (1) class or to several classes of the Nice Classification.
+124.4. If during the examination of the application, the Office finds factual basis to reasonably doubt the veracity of any indication or element in the application, it may require the applicant to submit sufficient evidence to remove the doubt. (Sec. 5, R. A. No. 166a)
+[35]
+ See Chapter 3 of IPOPHIL Office Order No. 139, Series of 2012.
+[36]
+ Rule 20, IPOPHIL Office Order No. 139, Series of 2012.
+[37]
+ Rule 15, IPOPHIL Office Order No. 139, Series of 2012 provides: Rule 15. Effects of an International Registration.-
+(1) An 
+international registration designating the Philippines shall have the same effect
+, from the date of the international registration, as if an application for the registration of the mark had been filed directly with the IPOPHL under the IP Code and the TM Regulations. xxx
+[38]
+ Section 2 of the IP Code provides:
+SECTION 2. Declaration of State Policy. â The State recognizes that an effective intellectual and industrial property system is vital to the development of domestic and creative activity, facilitates transfer of technology, attracts foreign investments, and ensures market access for our products. It shall protect and secure the exclusive rights of scientists, inventors, artists and other gifted citizens to their intellectual property and creations, particularly when beneficial to the people, for such periods as provided in this Act. The use of intellectual property bears a social function. To this end, the State shall promote the diffusion of knowledge and information for the promotion of national development and progress and the common good. 
+It is also the policy of the State to streamline administrative procedures of registering patents, trademarks and copyright
+, to liberalize the registration on the transfer of technology, and to enhance the enforcement of intellectual property rights in the Philippines, (n)
+[39]
+ 
+See
+ Section 124 of the IP Code enumerating the requirements for an application of trademark.
+[40]
+ 
+See
+ Rule 20, IPOPHIL Office Order No. 139, Series of 2012; Miscellaneous information provided by the World Intellectual Property Office Website on the Philippines' procedure in implementing the 
+Madrid Protocol
+, accessed at http://www.wipo.int/madrid/en/members/profiles/ph.html?part=misc.
+[41]
+ 
+See
+ Rule 18, IPOPHIL Office Order No. 139, Series of 2012; Miscellaneous information provided by the World Intellectual Property Office Website on the Philippines' procedure in implementing the 
+Madrid Protocol
+, accessed at http://www.wipo.int/madrid/en/members/profiles/ph.html?part=misc.
+[42]
+ 
+See
+ Rule 9, IPOPHIL Office Order No. 139, Series of 2012; Miscellaneous information provided by the World Intellectual Property Office Website on the Philippines' procedure in implementing the 
+Madrid Protocol
+, accessed at http://www.wipo.int/madrid/en/members/profiles/ph.html?part=inisc.
+[43]
+ Grave abuse of discretion implies such capricious and whimsical exercise of judgment as is equivalent to lack of jurisdiction or, in other words, where the power is exercised in an arbitrary manner by reason of passion, prejudice, or personal hostility, and it must be so patent or gross as to amount to an evasion of a positive duty or to a virtual refusal to perform the duty enjoined or to act at all in contemplation of law 
+Land Bank of the Philippines v. Court of Appeals
+, 456 Phil. 755, 786 (2003).
+CONCURRING OPINION
+ 
+PERLAS-BERNABE,
+ J
+.:
+I concur.
+However, I wish to briefly expound on the reasons as to why the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks
+[1]
+ (
+Madrid Protocol
+) should be classified as an executive agreement and not a treaty. Therefore, it need not be concurred in by at least two-thirds of all the Members of the Senate in order to be valid and effective.
+[2]
+Section 122 of Republic Act No. (RA) 8293
+[3]
+ or the "Intellectual Property Code of the Philippines" (IP Code) provides that "[t]he rights in a mark shall be acquired through 
+registration
+ made validly in accordance with the provisions of this law."
+For applicants not domiciled in the Philippines, Section 124 of the IP Code requires "[t]he appointment of an agent or representative":
+Section 124. Requirements of application. - 124.1. The application for the registration of the mark shall be in Filipino or in English and shall contain the following:
+x x x x
+(e) The appointment of an agent or representative, if the applicant is not domiciled in the Philippines;
+x x x x
+The rationale therefor is explicated in Section 125 of the same law: it is through the resident agent or representative that notices and processes in the proceedings are duly served upon the person of the non-domiciliary;
+Section 125. Representation; Address for Service. - If the applicant is not domiciled or has no real and effective commercial establishment in the Philippines, he shall designate by a written document filed in the office, the name and address of a Philippine resident who may be served notices or process in proceedings affecting the mark, x x x.
+However, through the Philippines' accession to the 
+Madrid Protocol
+ and hence, adoption of the Madrid System for the International Registration of Marks (Madrid System),
+[4]
+ an applicant who is not domiciled in the Philippines but a national of a Contracting Party is now given the option to file his application in the IP Office of his own home country and thereupon, secure protection for his mark. Articles 2 and 3 of the 
+Madrid Protocol
+ pertinently provide for the basic procedure and effect of registering through the Madrid System:
+Article 2 
+Securing Protection through International Registration
+(1) Where an 
+application for the registration of a mark has been filed with the Office of a Contracting Party, or where a mark has been registered in the register of the Office of a Contracting Party
+, the person in whose name that application (hereinafter referred to as "the basic application") or that registration (hereinafter referred to as "the basic registration") stands may, subject to the provisions of this Protocol, 
+secure protection for his mark in the territory of the Contracting Parties, by obtaining the registration of that mark in the register of the International Bureau of the World Intellectual Property Organization
+ (hereinafter referred to as "the international registration," "the International Register," "the International Bureau" and "the Organization," respectively), provided that,
+(i) where the basic application has been filed with the Office of a Contracting State or where the basic registration has been made by such an Office, the person in whose name that application or registration stands is a national of that Contracting State, or is domiciled, or has a real and effective industrial or commercial establishment, in the said Contracting State,
+x x x x
+Article 3bis
+Territorial Effect
+The protection resulting from the international register shall extend to any Contracting Party only at the request of the person who files the international application or who is the holder of the international registration
+. However, no such request can be made with respect to the Contracting Party whose Office is the Office of origin. (Emphases supplied)
+As per the posting of the World Intellectual Property Organization (WIPO), there are three (3) basic stages to the registration process:
+[5]
+Stage 1 - Application through your National or Regional IP Office (Office of origin)
+Before you can file an international application, you need to have already registered, or have filed an application, in your "home" IP office.
+The registration or application is known as the basic mark. You then need to submit your international application through this same IP Office, which will certify and forward it to WIPO.
+Stage 2 - Formal examination by WIPO
+WIPO only conducts a formal examination of your international application. Once approved, your mark is recorded in the International Register and published in the WIPO Gazette of International Marks. WIPO will then send you a certificate of your international registration and notify the IP Offices in all the territories where you wish to have your mark protected.
+It is important to note that the scope of protection of an international registration is not known at this stage in the process. It is only determined after substantive examination and decision by the IP Offices in the territories in which you seek protection, as outlined in Stage 3.
+Stage 3 - Substantive examination by National or Regional IP Offices (Office of the designated Contracting Party)
+The IP Offices of the territories where you want to protect your mark will make a decision within the applicable time limit (12 or 18 months) in accordance with their legislation. WIPO will record the decisions of the IP Offices in the International Register and then notify you.
+If an IP Office refuses to protect your mark, either totally or partially, this decision will not affect the decisions of other IP Offices. You can contest a refusal decision directly before the IP Office concerned in accordance with its legislation. If an IP Office accepts to protect your mark, it will issue a statement of grant of protection.
+The international registration of your mark is valid for 10 years. You can renew the registration at the end of each 10-year period directly with WIPO with effect in the designated Contracting Parties concerned.
+As may be gleaned therefrom, the non-domiciliary's filing of an application in the IP Office of his home country is only the initial step to secure protection for his mark. Significantly, the application, after having been formally examined by the WIPO, has to be referred to the national or regional IP Office of the country in which the applicant seeks protection for the conduct of substantive examination.
+Ultimately, it is the latter office (in our case the Intellectual Property Office of the Philippines [IPOPHL]) which decides to accept or refuse registration. This is reflected in Article 5 of the 
+Madrid Protocol
+ which provides that "any Office of a Contracting Party which has been notified by the International Bureau of an extension to that Contracting Party x x x shall have the right to declare in a notification of refusal that protection cannot be granted in the said Contracting Party to the mark which is the subject of such extension":
+Article 5
+Refusal and Invalidation of Effects of International Registration in Respect of
+Certain Contracting Parties
+(1) 
+Where the applicable legislation so authorizes, any Office of a Contracting Party which has been notified by the International Bureau of an extension to that Contracting Party
+, under Article 3ter(l) or (2), of the protection resulting from the international registration 
+shall have the right to declare in a notification of refusal that protection cannot be granted in the said Contracting Party to the mark which is the subject of such extension. Any such refusal can be based only on the grounds which would apply, under the Paris Convention for the Protection of Industrial Property, in the case of a mark deposited direct with the Office which notifies the refusal
+. However, protection may not be refused, even partially, by reason only that the applicable legislation would permit registration only in a limited number of classes or for a limited number of goods or services.
+x x x x (Emphases supplied)
+In this regard, it bears stressing that the grounds for refusal of protection enumerated in the Paris Convention, specifically under Article 6
+quinquies
+ (B)
+[6]
+ thereof, are substantially the same grounds for refusal for registration of marks as enumerated under Section 123.1
+[7]
+ of the IP Code. This further strengthens the classification of the 
+Madrid Protocol
+ as a mere executive agreement and not as a treaty, considering that it does not introduce any substantive alterations to our local law on trademarks, 
+i.e
+., the IP Code.
+Thus, based on the foregoing, nothing precludes a Contracting Party, such as the Philippines, from imposing its own requirements for registration, such as that of the appointment of a resident agent or representative under Section 125 of the IP Code as above-discussed.
+In fact, the IPOPHL made it clear, in Office Order No. 139, Series of 2012
+[8]
+ or the "Philippine Regulations Implementing the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks," that the substantive examination of a mark applied for protection under the Madrid System shall be undertaken in accordance with the IP Code and relevant trademark regulations:
+Rule 9.
+ Allowance of a Mark; Publication for Opposition
+. - Where the Philippines has been designated in an international registration, 
+the IPOPHL shall undertake the substantive examination of the mark in accordance with the IP Code and the TM Regulations.
+ Upon completion of the substantive examination and the mark is allowed, the mark shall be published for purposes of opposition in the IPOPHL's e-Gazette. Opposition proceedings shall be governed by the provisions of the IP Code, the TM Regulations, the BLA Regulations, and the Uniform Rules on Appeal.
+Rule 10, 
+Ex-officio Provisional Refusal of Protection.
+ - Where the IPOPHL finds that, 
+in accordance with the IP Code and the TM Regulations, the mark that is the subject of an international registration designating the Philippines cannot be protected
+, the IPOPHL shall, before the expiry of the refusal period under Article 5(2)(b) of the 
+Madrid Protocol
+, notify the International Bureau of a provisional refusal of protection following the requirements of the 
+Madrid Protocol
+ and the Common Regulations. The holder of that international registration shall enjoy the same remedies as if the mark had been filed for registration directly with the IPOPHL. (Emphases supplied)
+Therefore, even without delving into the issue of its legal standing, there is no merit in petitioner Intellectual Property Association of the Philippines' supposition that the 
+Madrid Protocol
+ conflicts with Section 125 of the IP Code.
+[9]
+ As the 
+ponencia 
+aptly pointed out, "[t]he 
+Madrid Protocol
+ does not amend [or] modify the IP Code on the acquisition of trademark rights[,] considering that the applications under the 
+Madrid Protocol
+ are still examined according to the relevant national law", and "in [this] regard, the IPOPHL will only grant protection to a mark that meets the local registration requirements."
+[10]
+In 
+Commissioner of Customs v. Eastern Sea Trading
+[11]
+ the difference between treaties and executive agreements was explained as follows:
+International agreements involving political issues or changes of national policy and those involving international arrangements of a permanent character usually take the form of treaties. But international agreements embodying adjustments of detail carrying out well-established national policies and traditions and those involving arrangements of a more or less temporary nature usually take the form of executive agreements.
+[12]
+As herein explained, the 
+Madrid Protocol
+ only provides for a centralized system of international registration of marks, which, in no way, denies the authority of the Philippines, through the IPOPHL, to substantively examine and consequently, grant or reject an application in accordance with our own laws and regulations. Hence, it does not involve a change in our national policy, which necessitates the need for a treaty. Its attribution as an executive agreement was therefore correct, negating the existence of any grave abuse of discretion tantamount to lack or excess of jurisdiction.
+ACCORDINGLY
+, I vote to
+ DISMISS
+ the petition for 
+certiorari
+.
+[1]
+ Adopted at Madrid on June 27, 1989, as amended on October 3, 2006 and on November 12, 2007. See 
+ (last accessed on April 6, 2016).
+[2]
+ Section 21, Article VII of the 1987 Constitution reads: "Section 21. No treaty or international agreement shall be valid and effective unless concurred in by at least two-thirds of all the Members of the Senate."
+[3]
+ Entitled "AN ACT PRESCRIBING THE INTELLECTUAL PROPERTY CODE AND ESTABLISHING THE INTELLECTUAL PROPERTY OFFICE, PROVIDING FOR ITS POWERS AND FUNCTIONS, AND FOR OTHER PURPOSES" (January 1, 1998).
+[4]
+ The Madrid System for the International Registration of Marks is governed by the Madrid Agreement, concluded in 1891, and the Protocol relating to that Agreement, concluded in 1989. The system makes it possible to protect a mark in a large number of countries by obtaining an international registration that has effect in each of the designated Contracting Parties.
+< http://www.wipo.int/treaties/en/registration/madrid_protocol/ > (last visited April 6, 2016).
+[5]
+ < http://www.wipo.int/madrid/en/how_madrid_works.html > (last visited April 6, 2016.)
+[6]
+ Article 6
+quinquies
+ of the Paris Convention reads:
+Article 6
+quinquies
+Marks: 
+Protection of Marks Registered in One Country of the Union in the Other Countries of the Union
+x x x x
+B. Trademarks covered by this Article may be neither denied registration nor invalidated except in the following cases:
+(i) when they are of such a nature as to infringe rights acquired by third parties in the country where protection is claimed;
+(ii) when they are devoid of any distinctive character, or consist exclusively of signs or indications which may serve, in trade, to designate the kind, quality, quantity, intended purpose, value, place of origin, of the goods, or the time of production, or have become customary in the current language or in the 
+bona fide
+ and established practices of the trade of the country where protection is claimed;
+(iii) when they are contrary to morality or public order and, in particular, of such a nature as to deceive the public. It is understood that a mark may not be considered contrary to public order for the sole reason that it does not conform to a provision of the legislation on marks, except if such provision itself relates to public order.
+This provision is subject, however, to the application of Article 10
+bis
+.
+x x x x
+[7]
+ Section 123.1 of the IP Code reads:
+Section 123. 
+Registrability.
+ - 123.1. A mark cannot be registered if it:
+(a) Consists of immoral, deceptive or scandalous matter, or matter which may disparage or falsely suggest a connection with persons, living or dead, institutions, beliefs, or national symbols, or bring them into contempt or disrepute;
+(b) Consists of the flag or coat of arms or other insignia of the Philippines or any of its political subdivisions, or of any foreign nation, or any simulation thereof;
+(c) Consists of a name, portrait or signature identifying a particular living individual except by his written consent, or the name, signature, or portrait of a deceased President of the Philippines, during the life of his widow, if any, except by written consent of the widow;
+(d) Is identical with a registered mark belonging to a different proprietor or a mark with an earlier filing or priority date, in respect of:
+(i) The same goods or services, or
+(ii) Closely related goods or services, or
+(iii) If it nearly resembles such a mark as to be likely to deceive or cause confusion;
+(e) Is identical with, or confusingly similar to, or constitutes a translation of a mark which is considered by the competent authority of the Philippines to be well-known internationally and in the Philippines, whether or not it is registered here, as being already the mark of a person other than the applicant for registration, and used for identical or similar goods or services: 
+Provided,
+ That in determining whether a mark is well-known, account shall be taken of the knowledge of the relevant sector of the public, rather than of the public at large, including knowledge in the Philippines which has been obtained as a result of the promotion of the mark;
+(f) Is identical with, or confusingly similar to, or constitutes a translation of a mark considered well-known in accordance with the preceding paragraph, which is registered in the Philippines with respect to goods or services which are not similar to those with respect to which registration is applied for: Provided, That use of the mark in relation to those goods or services would indicate a connection between those goods or services, and the owner of the registered mark: Provided further, That the interests of the owner of the registered mark are likely to be damaged by such use;
+(g) Is likely to mislead the public, particularly as to the nature, quality, characteristics or geographical origin of the goods or services;
+(h) Consists exclusively of signs that are generic for the goods or services that they seek to identify;
+(i) Consists exclusively of signs or of indications that have become customary or usual to designate the goods or services in everyday language or in bona fide and established trade practice;
+G) Consists exclusively of signs or of indications that may serve in trade to designate the kind, quality, quantity, intended purpose, value, geographical origin, time or production of the goods or rendering of the services, or other characteristics of the goods or services;
+(k) Consists of shapes that may be necessitated by technical factors or by the nature of the goods themselves or factors that affect their intrinsic value;
+(l) Consists of color alone, unless defined by a given form; or
+(m) Is contrary to public order or morality.
+[8]
+ Dated July 25, 2012.
+[9]
+ See 
+Ponencia,
+ pp. 3-5, 13.
+[10]
+ 
+Ponencia
+, p. 13. 
+[11]
+ 113 Phil. 333 (1961).
+[12]
+ Id. at 338.
+SEPARATE CONCURRING OPINION
+LEONEN, 
+J
+.:
+In September 2011, upon the Intellectual Property Association of the Philippines' recommendation, the Department of Foreign Affairs endorsed to the President the accession to the 
+Madrid Protocol
+.
+[1]
+ The Department of Foreign Affairs classified the 
+Madrid Protocol
+ as an executive agreement that does not need ratification by the Senate
+[2]
+ under Executive Order No, 459,
+[3]
+ which provides:
+SEC. 9.
+ Determination of the Nature of the Agreement
+. - The Department of Foreign Affairs shall determine whether an agreement is an executive agreement or a treaty. (Emphasis in the original)
+On March 27, 2012, Former President Benigno C. Aquino III ratified the 
+Madrid Protocol
+ through an instrument of accession later deposited with the Director General of the World Intellectual Property Organization.
+[4]
+On July 25, 2012, the 
+Madrid Protocol
+ was entered into force.
+[5]
+Petitioner Intellectual Property Association of the Philippines filed this Special Civil Action for Certiorari
+[6]
+ to assail the validity of the President's accession to the 
+Madrid Protocol
+, It implies that the President usurped the Senate's power to ratify treaties under our Constitution.
+[7]
+ It argues that the Department of Foreign Affairs gravely abused its discretion in classifying the 
+Madrid Protocol
+ as an executive agreement instead of a treaty that requires senate concurrence.
+[8]
+I
+The ponencia proposes that we rule that although petitioner has no legal standing to file the petition, the issues involved in this case are of transcendental importance warranting this Court's exercise of its power of judicial review.
+I concur with the able ponencia of my esteemed colleague Associate Justice Lucas P. Bersamin, finding that petitioner has no legal standing to bring this suit. Within our jurisdiction, petitioner's standing in a constitutional suit is still premised on a personal, direct, and material injury. Whether this right is shared with the public in general or only with a defined class does not matter. It is clear in this case that the affected practitioners in intellectual property actions are different from their incorporated association. As pointed out in the ponencia,
+[9]
+ this holding is consistent with cases such as 
+Agon v. PIATCO
+[10]
+ and 
+De Castro v. Judicial and Bar Council
+[11]
+ It is likewise consistent with 
+Integrated Bar of the Philippines v. Zamora
+,
+[12]
+ among others.
+Neither should locus standi be immediately negated by an invocation of the concept of transcendental interest. The use of this exception to waive the requirement of locus standi is now more disciplined. In Chamber of Real Estate and 
+Builders' Association, Inc. v. Energy Regulatory Commission, et al
+.,
+[13]
+ this Court adopted the following determinants of whether an issue is of transcendental importance:
+(1) the character of the funds or other assets involved in the case; (2) the presence of a clear case of disregard of a constitutional or statutory prohibition by the public respondent agency or instrumentality of the government; and (3) the lack of any other party with a more direct and specific interest in the questions being raised.
+[14]
+ (Citations omitted)
+None of the above determinants are present in this case. This is not a case that involves funds, assets, or disregard of constitutional or statutory prohibition. None of the parties can claim direct interest in the issues raised,
+For now, we provide a more studied balance between the need to comply with this Court's duty in Article VIII, Section 1
+[15]
+ of the Constitution and its inherent nature as not being an advisory organ. We should continue our policy of judicial deference, albeit with vigilance against grave abuse of discretion, which have untold repercussions on fundamental constitutional rights,
+Parenthetically, the Solicitor General presents the argument that certiorari under Rule 65, Section 1 of the Rules of Court is not the proper remedy for this action,
+[16]
+ He correctly clarifies that the Secretary of the Department of Foreign Affairs was not exercising a judicial or quasi-judicial function when it determined that the 
+Madrid Protocol
+ was an executive agreement based on the powers granted by the President in Executive Order No, 459,
+[17]
+ Nor does a Rule 65 certiorari lie against the President's accession to the 
+Madrid Protocol
+ on March 27, 2012.
+[18]
+ This, too, is not a judicial or quasi-judicial function.
+However, the procedural vehicle notwithstanding, the Rules of Court cannot limit the powers granted to this Court by the Constitution itself. Recalling Article VIII, Section 1 of the 1987 Constitution, judicial power includes "the duty ... to determine whether or not there has been a grave abuse of discretion amounting to lack or excess of jurisdiction on the part of any branch or instrumentality of the government,"
+[19]
+This constitutional mandate is sparse in its qualification of the nature of the action of "any branch or instrumentality of the government." Whether this Court may limit it only to judicial or quasi-judicial actions will be constitutionally suspect. The requirement is that there should be, in a justiciable case, a clear showing that there is "grave abuse of discretion amounting to lack or excess of jurisdiction,"
+[20]
+This constitutional mandate does not do away with the policy of judicial deference. Neither can it be read as changing the passive judicial temperament of this Court to active interference in the acts of the other constitutional departments and organs of government.
+[21]
+ There must still be a justiciable case with a ripe and actual controversy.
+[22]
+ The requirement to find "grave abuse of discretion" is a high bar. It requires capriciousness, arbitrariness, and actions without legal or constitutional basis.
+In my view, the Constitution itself has amended the Rules of Court impliedly, and we have recognized its effects in various cases. As in all implied amendments, this has been the occasion for not a few misinterpretations.
+Thus, it is time for this Court to expressly articulate, through amendments of Rule 65, the constitutional mandate that we have so far been implementing.
+II
+The ponencia proposes to declare the President's accession to the 
+Madrid Protocol
+ a valid executive agreement that does not need to be ratified by the Senate.
+Respectfully, I disagree.
+I am not prepared to grant that the President can delegate to the Secretary of the Department of Foreign Affairs the prerogative to determine whether an international agreement is a treaty or an executive agreement. Nor should this case be the venue to declare that all executive agreements need not undergo senate concurrence. Tracing the history of Article VII, Section 21 of the Constitution reveals, through the "[c]hanges or retention of language and syntax[,]"
+[24]
+ its congealed meaning. The pertinent constitutional provision has evolved into its current broad formulation to ensure that the power to enter into a binding international agreement is not concentrated on a single government department.
+The 1935 Constitution recognized the President's power to enter into treaties. The exercise of this power was already limited by the requirement of legislative concurrence only with treaties, thus:
+ARTICLE VII
+EXECUTIVE DEPARTMENT
+....
+SECTION 11....
+....
+(7) The president shall have the power, with the concurrence of a majority of all the Members of the National Assembly 
+to make treaties
+, and with the consent of the Commission on Appointments, he shall appoint ambassadors, other public ministers, and consuls. He shall receive ambassadors and other ministers duly accredited to the Government of the Philippines. (Emphasis supplied)
+The 1973 Constitution also requires legislative concurrence for the validity and effectiveness of a treaty, thus:
+ARTICLE VIII 
+THE NATIONAL ASSEMBLY
+....
+SECTION 14. (1) Except as otherwise provided in this Constitution, 
+no treaty
+ shall be valid and effective unless concurred in by a majority of all the Members of the National Assembly. (Emphasis supplied)
+The concurrence of the Batasang Pambansa was duly limited to treaties.
+However, the first clause of this provision, "[e]xcept as otherwise provided[,]" leaves room for the exception to the requirement of legislative concurrence. Under Article XIV, Section 15 of the 1973 Constitution, requirements of national welfare and interest allow the President to enter into not only treaties but also international agreements without legislative concurrence, thus;
+ARTICLE XIV
+THE NATIONAL ECONOMY AND THE PATRIMONY OF THE
+NATION
+....
+Article VII, Section 21 does not limit the requirement of senate concurrence to treaties alone. It may cover other international agreements, including those classified as executive agreements, if: (1) they are more
+SECTION 15. Any provision of paragraph one, Section fourteen, Article Eight and of this Article notwithstanding, the Prime Minister may enter into international treaties or agreements as the national welfare and interest may require.
+This Court, in the recent case of 
+Saguisag v. Executive Secretary
+,
+[25]
+ characterized this exception as having "left a large margin of discretion that the President could use to bypass the Legislature altogether."
+[26]
+ This Court noted this as "a departure from the 1935 Constitution, which explicitly gave the President the power to enter into treaties only with the concurrence of the [National Assembly]."
+[27]
+As in the 1935 Constitution, this exception is no longer present in the current formulation of the provision. The power and responsibility to enter into treaties is now shared by the executive and legislative departments. Furthermore, the role of the legislative department is expanded to cover not only treaties but international agreements in general as well, thus:
+ARTICLE VII 
+Executive Department
+....
+SECTION 21. No treaty or 
+international agreement
+ shall be valid and effective unless concurred in by at least two-thirds of all the Members of the Senate. (Emphasis supplied)
+In discussing the power of the Senate to concur with treaties entered into by the President, this Court in 
+Bayan v. Zamora
+[28]
+ remarked on the significance of this legislative power:
+For the role of the Senate in relation to treaties is essentially legislative in character; the Senate, as an independent body possessed of its own erudite mind, has the prerogative to either accept or reject the proposed agreement, and whatever action it takes in the exercise of its wide latitude of discretion, pertains to the wisdom rather than the legality of the act. 
+In this sense, the Senate partakes a principal, yet delicate, role in keeping the principles of 
+separation of powers
+ and of 
+checks and balances
+ alive and vigilantly ensures that these cherished rudiments remain true to their form in a democratic government such as ours. The Constitution thus animates, through this treaty-concurring power of the Senate, a healthy system of checks and balances indispensable toward our nation's pursuit of political maturity and growth
+. True enough, rudimentary is the principle that matters pertaining to the wisdom of a legislative act are beyond the ambit and province of the courts to inquire.
+[29]
+ (Emphasis supplied, citations omitted)
+Therefore, having an option does not necessarily mean absolute discretion on the choice of international agreement. There are certain national interest issues and policies covered by all sorts of international agreements, which may not be dealt with by the President alone. An interpretation that the executive has unlimited discretion to determine if an agreement requires senate concurrence not only runs counter to the principle of checks and balances; it may also render the constitutional requirement of senate concurrence meaningless:
+If executive-agreement authority is un-contained, and if what may be the proper subject-matter of a treaty may also be included within the scope of executive-agreement power, the constitutional requirement of Senate concurrence could be rendered meaningless. The requirement could be circumvented by an expedient resort to executive agreement.
+The definite provision for Senate concurrence in the Constitution indomitably signifies that there must be a regime of national interests, policies and problems which the Executive branch of the government cannot deal with in terms of foreign relations except through treaties concurred in by the Senate under Article VII, Section 21 of the Constitution. The problem is how to define that regime, 
+i.e
+., that which is outside the scope of executive-agreement power of the President and which exclusively belongs to treaty-making as subject to Senate concurrence.
+[30]
+Article VII, Section 21 does not limit the requirement of senate concurrence to treaties alone. It may cover other international agreements, including those classified as executive agreements, if: (1) they are more permanent in nature; (2) their purposes go beyond the executive function of carrying out national policies and traditions; and (3) they amend existing treaties or statutes.
+As long as the subject matter of the agreement covers political issues and national policies of a more permanent character, the international agreement must be concurred in by the Senate,
+However, it may be unnecessary in this case to determine whether the 
+Madrid Protocol
+ amends Section 125 of the Intellectual Property Code.
+[31]
+ The Solicitor General makes a persuasive argument that the accession to this international agreement does not per se remove the possibility of appointing a resident agent. Petitioner likewise acknowledges that domestic requirements regarding local representation may be reserved by the executive upon accession to the 
+Madrid Protocol
+, thus:
+7.43 Under the "
+Guide to the International Registration of Marks under the Madrid Agreement and the Madrid Protocol
+" the matter in relation to the appointment of a local representative before the Office of origin or the Office of a designated Contracting Party is outside the scope of the 
+Madrid Protocol
+ and is instead governed by the law and practice of the Contracting Party concerned, As such, there was no hindrance whatsoever for the Executive to have made a reservation when it acceded to the 
+Madrid Protocol
+, to require foregoing applicants to obtain local representation in the Philippines upon the filing of trademark applications with the latter as the designated contracting party. Otherwise, the Executive should not have acceded to the 
+Madrid Protocol
+ without the concurrence of the Philippine Congress or should have done so only pursuant to an act of Congress.
+[32]
+However, the proper calibration of these rights and privileges should await the proper case filed by a party with direct, personal, and material interest before the full range of legal arguments occasioned by the concrete realities of the parties can be fully appreciated.
+I have no doubt that many of the lawyers who practice in the field of trademark protection in Intellectual Property Law do not have the myopic goal of simply being administrative agents or local post offices for owners of foreign marks. I have full confidence that they can meet the skill and accreditation requirements to work under the 
+Madrid Protocol
+ as well as any foreign lawyer. In an era of more transnational transactions and markets evolving from national boundaries, we should adapt as a profession, as surely as our products become more competitive. The sooner our profession adapts, the better it can assist our entrepreneurs and our own industries to weather the difficult political economies of the world market.
+ACCORDINGLY
+, I vote to 
+DISMISS
+ the Petition for Certiorari.
+[1]
+ 
+Rollo
+, p. 108, OSG Comment.
+[2]
+ Id. at 19-21, Petition.
+[3]
+ Providing for the Guidelines in the Negotiation of International Agreements and its Ratification (1997). 
+[4]
+ 
+Rollo
+, p. 14.
+[5]
+ Id.
+[6]
+ Id. at 3-34.
+[7]
+ Id. at 17.
+[8]
+ Id. at 19-21.
+[9]
+ Ponencia, pp. 7-8.
+[10]
+ 450 Phil. 744 (2003) [Per J. Puno, En Banc].
+[11]
+ 629 Phil. 629 (2010) [Per J. Bersamin, En Banc].
+[12]
+ 392 Phil. 618 (2000) [Per J. Kapunan, En Banc].
+[13]
+ 638 Phil. 542 (2010) [Per J. Brion, En Banc].
+[14]
+ Id. at 557.
+[15]
+ CONST., art. VIII, sec. 1 provides:
+SECTION 1. The judicial power shall be vested in one Supreme Court and in such lower courts as may be established by law.
+Judicial power includes the duty of the courts of justice to settle actual controversies involving rights which are legally demandable and enforceable, and to determine whether or not there has been a grave abuse of discretion amounting to lack or excess of jurisdiction on the part of any branch or instrumentality of the Government.
+[16]
+ 
+Rollo
+, pp. 114-115.
+[17]
+ Id. at 114.
+[18]
+ Id. at 115.
+[19]
+ CONST., art. VIII, sec. 1.
+[20]
+ Const., art. VIII, sec. 1.
+[21]
+ 
+See Angara v. Electoral Commission
+, 63 Phil. 139, 157-159 (1936) [Per J. Laurel, En Banc]
+[22]
+ Const., art. VIII, sec. 1.
+[23]
+ J. Leonen Concurring Opinion in 
+Poe-Llamanzares v. Commission on Elections
+, G.R, No. 221697, March 8, 2016 < http://sc.judiciary.gov.ph/pdf/web/viewer.html?file=/jurisprudence/2016/march2016/221697_leonen.pdf > 25 [Per J. Perez, En Banc].
+[24]
+ Id. at 54.
+[25]
+ G.R. No. 212426, January 12, 2016
+ [Per C.J. Sereno, En Banc].
+[26]
+ Id. at 7.
+[27]
+ Id.
+[28]
+ 396 Phil. 623 (2000) [Per J. Buena, En Banc].
+[29]
+ Id. at 665.
+[30]
+ MERLIN M. MAGALLONA, A PRIMER IN INTERNATIONAL LAW 66-67 (1997).
+[31]
+ Rep. Act No. 8293 (1998).
+[32]
+ 
+Rollo
+, p. 343, Petitioner's Memorandum.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

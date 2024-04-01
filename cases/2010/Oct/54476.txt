@@ -1,0 +1,438 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			646 Phil. 402
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 183626, October 04, 2010 ]
+
+
+SURIGAO DEL NORTE ELECTRIC COOPERATIVE, INC. (SURNECO), PETITIONER, VS. ENERGY REGULATORY COMMISSION, RESPONDENT. 
+D E C I S I O N
+
+
+
+
+NACHURA, J.:
+
+
+Assailed in this petition for review on 
+certiorari
+[1]
+ under Rule 45 of the Rules of Court are the Decision dated April 17, 2008
+[2]
+ and the Resolution dated June 25, 2008
+[3]
+ of the Court of Appeals (CA) in CA-G.R. SP No. 99781.
+The antecedent facts and proceedings follow--
+Petitioner Surigao Del Norte Electric Cooperative, Inc. (SURNECO) is a rural electric cooperative organized and existing by virtue of Presidential Decree No. 269.
+On February 8, 1996, the Association of Mindanao Rural Electric Cooperatives, as representative of SURNECO and of the other 33 rural electric cooperatives in Mindanao, filed a petition before the then Energy Regulatory Board (ERB) for the approval of the formula for automatic cost adjustment and adoption of the National Power Corporation (NPC) restructured rate adjustment to comply with Republic Act (R.A.) No. 7832.
+[4]
+  The case was docketed as ERB Case No. 96-49, and later consolidated with identical petitions of other associations of electric cooperatives in the Philippines.
+The relevant provisions of R.A. No. 7832 for compliance are Sections 10 and 14, which provide--
+Sec. 10. 
+Rationalization of System Losses by Phasing Out Pilferage Losses as a Component Thereof. 
+- There is hereby established a cap on the recoverable rate of system losses as follows:
+x x x x
+(b) For rural electric cooperatives:
+(i) Twenty-two percent (22%) at the end of the first year following the effectivity of this Act;
+(ii) Twenty percent (20%) at the end of the second year following the effectivity of this Act;
+(iii) Eighteen percent (18%) at the end of the third year following the effectivity of this Act;
+(iv) Sixteen percent (16%) at the end of the fourth year following the effectivity of this Act; and
+(v) Fourteen percent (14%) at the end of the fifth year following the effectivity of this Act.
+Provided, that the ERB is hereby authorized to determine at the end of the fifth year following the effectivity of this Act, and as often as is necessary, taking into account the viability of rural electric cooperatives and the interest of consumers, whether the caps herein or theretofore established shall be reduced further which shall, in no case, be lower than nine percent (9%) and accordingly fix the date of the effectivity of the new caps.
+x x x x
+Sec. 14. 
+Rules and Regulations.
+ - The ERB shall, within thirty (30) working days after the conduct of hearings which must commence within thirty (30) working days upon the effectivity of this Act, issue the rules and regulation as may be necessary to ensure the efficient and effective implementation of the provisions of this Act, to include but not limited to, the development of methodologies for computing the amount of electricity illegally used and the amount of payment or deposit contemplated in Section 7 hereof as a result of the presence of the 
+prima facie
+ evidence discovered.
+Corollary thereto, Sections 4 and 5 of Rule IX of the Implementing Rules and Regulations (IRR) of R.A. No. 7832 provide--
+Section 4. 
+Caps on System Loss allowed to Rural Electric Cooperatives.
+ - The maximum rate of system loss that the cooperative can pass on to its customers shall be as follows:
+Twenty-two percent (22%) effective on February 1996 billing.
+Twenty percent (20%) effective on February 1997 billing.
+ Eighteen percent (18%) effective on February 1998 billing.
+Sixteen percent (16%) effective on February 1999 billing.
+Fourteen percent (14%) effective on February 2000 billing.
+Section 5. 
+Automatic Cost Adjustment Formula.
+ - Each and every cooperative shall file with the ERB, on or before September 30, 1995, an application for approval of an amended Purchased Power Adjustment Clause that would reflect the new system loss cap to be included in its schedule of rates.
+The automatic cost adjustment of every electric cooperative shall be guided by the following formula:
+Purchased Power Adjustment Clause
+A
+(PPA) = ____________________ E
+B - (C + D)
+Where:
+A = Cost of electricity purchased and generated for the previous month
+B = Total Kwh purchased and generated for the previous month
+C = The actual system loss but not to exceed the maximum recoverable rate of system loss in Kwh plus actual company use in kwhrs but not to exceed 1% of total kwhrs purchased and generated
+D = kwh consumed by subsidized consumers
+E = Applicable base cost of power equal to the amount incorporated into their basic rate per kwh.
+In an Order
+[5]
+ dated February 19, 1997, the ERB granted SURNECO and other rural electric cooperatives provisional authority to use and implement the Purchased Power Adjustment (PPA) formula pursuant to the mandatory provisions of R.A. No. 7832 and its IRR, with a directive to submit relevant and pertinent documents for the Board's review, verification, and confirmation.
+In the meantime, the passage of R.A. No. 9136
+[6]
+ led to the creation of the Energy Regulatory Commission (ERC), replacing and succeeding the ERB.  All pending cases before the ERB were transferred to the ERC. ERB Case No. 96-49 was re-docketed as ERC Case No. 2001-343.
+In the Order dated June 17, 2003, the ERC clarified ERB's earlier policy regarding the PPA formula to be used by the electric cooperatives, 
+viz.
+--
+After a careful evaluation of the records, the Commission noted that the PPA formula which was approved by the ERB was silent on whether the calculation of the cost of electricity purchased and generated in the formula should be "gross" or "net" of the discounts.
+Let it be noted that the power cost is said to be at "gross" if the discounts are not passed-on to the end-users whereas it is said to be at "net" if the said discounts are passed-on to the end-users.
+To attain uniformity in the implementation of the PPA formula, the Commission has resolved that:
+In the confirmation of past PPAs, the power cost shall still be based on "gross," and
+In the confirmation of future PPAs, the power cost shall be based on "net."
+The electric cooperatives filed their respective motions for clarification and/or reconsideration.  Hence, the ERC issued an Order
+[7]
+ dated January 14, 2005, stating that the PPA was a cost-recovery mechanism, not a revenue-generating scheme, so that the distribution utilities or the electric cooperatives must recover from their customers only the actual cost of purchased power.  The ERC thus adopted a new PPA policy, to wit--
+The computation and confirmation of the PPA prior to the Commission's Order dated June 17, 2003 shall be based on the approved PPA Formula;
+The computation and confirmation of the PPA after the Commission's Order dated June 17, 2003 shall be based on the power cost "net" of discount; and
+If the approved PPA Formula is silent on the terms of discount, the computation and confirmation of the PPA shall be based on the power cost at "gross," subject to the submission of proofs that said discounts are being extended to the end-users.
+[8]
+Thereafter, the ERC continued its review, verification, and confirmation of the electric cooperatives' implementation of the PPA formula based on the available data and information submitted by the latter.
+On March 19, 2007, the ERC issued its assailed Order,
+[9]
+ mandating that the discounts earned by SURNECO from its power supplier should be deducted from the computation of the power cost, disposing in this wise Â¾
+WHEREFORE
+, the foregoing premises considered, the Commission hereby confirms the Purchased Power Adjustment (PPA) of Surigao del Norte Electric Cooperative, Inc. (SURNECO) for the period February 1996 to July 2004 which resulted to an over-recovery amounting to 
+EIGHTEEN MILLION ONE HUNDRED EIGHTY EIGHT THOUSAND SEVEN HUNDRED NINETY FOUR PESOS (PhP18,188,794.00)
+ equivalent to PhP0.0500/kwh.  In this connection, SURNECO is hereby directed to refund the amount of PhP0.0500/kwh to its Main Island consumers starting the next billing cycle from receipt of this Order until such time that the full amount shall have been refunded.
+The Commission likewise confirms the PPA of SURNECO for its Hikdop Island consumers for the period February 1996 to July 2004 which resulted to an under-recovery amounting to 
+TWO MILLION FOUR HUNDRED SEVENTY EIGHT THOUSAND FORTY FIVE PESOS (PhP2,478,045.00)
+.  SURNECO is hereby authorized to collect from its Hikdop Island consumers the amount of PhP0.0100/kwh starting the next billing cycle from receipt of this Order until such time that the full amount shall have been collected.
+Accordingly, SURNECO is directed to:
+a) Reflect the PPA refund/collection as a separate item in the bill using the phrase "Previous Years' Adjustment on Power Cost";
+b) Submit, within ten (10) days from its initial implementation of the refund/collection, a sworn statement indicating its compliance with the aforecited directive; and
+c) Accomplish and submit a report in accordance with the attached prescribed format, on or before the 30
+th
+ day of January of the succeeding year and every year thereafter until the amount shall have been fully refunded/collected.
+SO ORDERED.
+[10]
+SURNECO filed a motion for reconsideration, but it was denied by the ERC in its Order
+[11]
+ dated May 29, 2007 on the ground that the motion did not raise any new matter which was not already passed upon by the ERC.
+Aggrieved, SURNECO went to the CA via a petition for review,
+[12]
+ with prayer for the issuance of a temporary restraining order and preliminary injunction, seeking the annulment of the ERC Orders dated March 19, 2007 and May 29, 2007.
+In its Decision dated April 17, 2008, the CA denied SURNECO's petition and affirmed the assailed Orders of the ERC.
+On June 25, 2008, upon motion for reconsideration
+[13]
+ of SURNECO, the CA issued its Resolution denying the same.
+Hence, this petition, with SURNECO ascribing error to the CA and the ERC in: (1) disallowing its use of the multiplier scheme to compute its system's loss; (2) ordering it to deduct from the power cost or refund to its consumers the discounts extended to it by its power supplier, NPC; and (3) ordering it to refund alleged over-recoveries arrived at by the ERC without giving SURNECO the opportunity to be heard.
+The petition should be denied.
+First.
+  SURNECO points out that the National Electrification Administration (NEA), which used to be the government authority charged by law with the power to fix rates of rural electric cooperatives, entered into a loan agreement with the Asian Development Bank (ADB).  The proceeds of the loan were intended for use by qualified rural electric cooperatives, SURNECO included, in their rehabilitation and expansion projects. The loan agreement imposed a 15% system loss cap, but provided a Power Cost Adjustment Clause authorizing cooperatives to charge and show "system losses in excess of 15%" as a separate item in their consumer's bill. Thus, the cooperatives charged their consumer-members "System Loss Levy" for system losses in excess of the 15% cap.
+SURNECO states that, in January 1984, it was authorized by the NEA that all increases in the NPC power cost (in case of NPC-connected cooperatives) shall be uniformly passed on to the member-consumers using the 1.4 multiplier, which is divided into 1.3 as allowance for 23% system loss and 0.1 as provision for the corresponding increase in operating expenses to partly offset the effects of inflation.
+[14]
+  Subsequently, the NEA, through NEA Memorandum No. 1-A dated March 30, 1992, revised the aforesaid issuance as follows--
+Pursuant to NEA Board Resolution No. 98, Series of 1991, x x x, the revised cooperatives' multiplier will be as follows:
+1.2 - Rural Electric Cooperatives (RECs) with system loss of 15% and below;
+1.3 - RECs with system loss ranging from 16% to 22%;
+1.4 - RECs with system loss of 23% and above.
+SURNECO posits that, per NEA Memorandum No. 1-A, the NEA had authorized it to adopt a multiplier scheme as the method to recover system loss.  It claims that this cannot be abrogated, revoked, or superseded by any order, resolution, or issuance by the ERC prescribing a certain formula to implement the caps of recoverable rate of system loss under R.A. No. 7832 without violating the non-impairment clause
+[15]
+ of the Constitution.
+We disagree.  SURNECO cannot insist on using the multiplier scheme even after the imposition of the system loss caps under Section 10 of R.A. No. 7832.  The law took effect on January 17, 1995.  Perusing Section 10, and also Section 11,
+[16]
+ providing for the application of the caps as of the date of the effectivity of R.A. No. 7832, readily shows that the imposition of the caps was self-executory and did not require the issuance of any enabling set of rules or any action by the then ERB, now ERC.  Thus, the caps should have been applied as of January 17, 1995 when R.A. No. 7832 took effect.
+Indeed, under NEA Memorandum No. 1-A, the use of the multiplier scheme allows the recovery of system losses even beyond the caps mandated in R.A. No. 7832, which is intended to gradually phase out pilferage losses as a component of the recoverable system losses by the distributing utilities such as SURNECO.  However, it is totally repugnant to and incompatible with the system loss caps established in R.A. No. 7832, and is repealed by Section 16
+[17]
+ of the law.  As between NEA Memorandum No. 1-A, a mere administrative issuance, and R.A. No. 7832, a legislative enactment, the latter must prevail.
+[18]
+Second.
+  The ERC was merely implementing the system loss caps in R.A. No. 7832 when it reviewed and confirmed SURNECO'S PPA charges, and ordered the refund of the amount collected in excess of the allowable system loss caps through its continued use of the multiplier scheme.  As the ERC held in its March 19, 2007 Order--
+On January 14, 2005, the Commission issued an Order adopting a new PPA policy as follows: (a) the computation and confirmation of the PPA prior to the Commission's Order dated June 17, 2003 shall be based on the approved PPA Formula; (b) the computation and confirmation of the PPA after the Commission's Order dated June 17, 2003 shall be based on the power cost "net" of discount; and (c) if the approved PPA Formula is silent in terms of discount, the computation and confirmation of the PPA shall be based on the power cost at "gross" reduced by the amount of discounts extended to customers, subject to the submission of proofs that said discounts are indeed being extended to customers.
+However, the Commission deemed it appropriate to clarify its PPA confirmation process particularly on the treatment of the Prompt Payment Discount (PPD) granted to distribution utilities (DUs) by their power suppliers, to wit:
+I. The over-or-under recovery will be determined by comparing the allowable power cost with the actual revenue billed to end-users.
+II. Calculation of the DU's allowable power cost as prescribed in the PPA formula:
+If the PPA formula explicitly provides the manner by which discounts availed from the power supplier/s shall be treated, the allowable power cost will be computed based on the specific provision of the formula, which may either be at "net" or "gross"; and
+If the PPA formula is silent in terms of discounts, the allowable power cost will be computed at "net" of discounts availed from the power supplier/s, if there be any.
+III. Calculation of DU's actual revenues/actual amount billed to end-users.
+a. On actual PPA computed at net of  discounts availed from power supplier/s:
+a.1. If a DU bills at net of discounts availed from the power supplier/s (i.e., gross power cost minus discounts from power supplier/s) and the DU is not extending discounts to end-users, the actual revenue should be equal to the allowable power cost; and
+a.2. If a DU bills at net of discounts availed from the power supplier/s (i.e., gross power cost minus discounts from power supplier/s) and the DU is extending discounts to end-users, the discount extended to end-users shall be added back to the actual revenue.
+On actual PPA computed at gross:
+b.1. If a DU bills at gross (i.e., gross power cost not reduced by discounts from power supplier/s) and the DU is extending discounts to end-users, the actual revenue shall be calculated as: gross power revenue less discounts extended to end-users.  The result shall then be compared to the allowable power cost; and
+b.2. If a DU bills at gross (i.e., gross power cost not reduced by discounts from power supplier/s) and the DU is not extending discounts to end-users, the actual revenue shall be taken as is which shall be compared to the allowable power cost.
+IV. In the calculation of the DU's actual revenues, the amount of discounts extended to end-users shall, in no case, be higher than the discounts availed by the DU from its power supplier/s.
+The foregoing clarification was intended to ensure that only the actual costs of purchased power are recovered by the DUs.
+In the meantime, SURNECO submitted reports on its monthly implementation of the PPA covering the period January 1998 to July 2004 and attended the conferences conducted by the Commission on December 11, 2003 and May 4, 2005 relative thereto.
+The Commission evaluated SURNECO's monthly PPA implementation covering the period February 1996 to July 2004, which disclosed the following:
+Schedule 1, Main Island
+ 
+ 
+ 
+Period Covered
+ 
+ 
+ 
+Over 
+ 
+(Under) 
+ 
+Recoveries
+ 
+(In PhP)
+ 
+ 
+ 
+ Over 
+ 
+(Under) 
+Recoveries
+ 
+ (In kWh)
+ 
+ 
+ 
+ 
+ 
+February 1996 to December 1998 
+ 
+ 
+20,737,074 
+ 
+ 
+0.2077 
+ 
+ 
+ 
+ 
+January 1999 to July 2004 
+ 
+ 
+(2,548,280) 
+ 
+ 
+(0.0097) 
+ 
+ 
+ 
+ 
+TOTAL
+ 
+ 
+ 
+  18,188,794
+ 
+ 
+ 
+ 0.0500
+ 
+ 
+ 
+Schedule 2, Municipality of Hikdop
+ 
+ 
+ 
+February 1996 to December 1998 PPA Plus Basic Cha[r]ge 
+ 
+ 
+70,235 
+ 
+ 
+0.3190 
+ 
+ 
+ 
+ 
+January 1999 to July 2004 
+ 
+ 
+(2,548,280) 
+ 
+ 
+(0.0097) 
+ 
+ 
+ 
+ 
+ TOTAL
+ 
+ 
+ 
+ (2,478,045)
+ 
+ 
+ 
+ (0.0100)
+ 
+ 
+ 
+The over-recoveries were due to the following:
+For the period February 1996 to December 1998, SURNECO's PPA computation included the power cost and the corresponding kWh purchased from Hikdop end-users.  The Commission excluded those months which SURNECO did not impose variable charges to Hikdop end-user which resulted to a total net over-recovery of PhP21,245,034.00; and
+SURNECO's basic charge for Hikdop end-users were beyond the approved basic charge for the period February 1996 to September 1998 resulting to a net over-recovery of PhP128,489.00.
+SURNECO's under recoveries for the period January 1999 to June 2004 were due to the following:
+For the period August 2001 to June 2004, SURNECO erroneously deducted the Power Act Reduction Adjustments (PARA) in the total purchased power cost of its PPA computation resulting to an under-recovery of PhP1,377,763.00;
+SURNECO's power cost and kWh computation includes Dummy Load resulting to an under recovery amounting to PhP226,196.00; and
+The new grossed-up factor scheme adopted by the Commission which provided a true-up mechanism to allow the DUs to recover the actual costs of purchased power.
+[19]
+In directing SURNECO to refund its over-recoveries based on PPA policies, which only ensured that the PPA mechanism remains a purely cost-recovery mechanism and not a revenue-generating scheme for the electric cooperatives, the ERC merely exercised its authority to regulate and approve the rates imposed by the electric cooperatives on their consumers.  The ERC simply performed its mandate to protect the public interest imbued in those rates.
+It is beyond cavil that the State, in the exercise of police power, can regulate the rates imposed by a public utility such as SURNECO.  As we held in 
+Republic of the Philippines v. Manila Electric Company
+[20]
+--
+The regulation of rates to be charged by public utilities is founded upon the police powers of the State and statutes prescribing rules for the control and regulation of public utilities are a valid exercise thereof.  When private property is used for a public purpose and is affected with public interest, it ceases to be 
+juris privati
+ only and becomes subject to regulation. The regulation is to promote the common good.  Submission to regulation may be withdrawn by the owner by discontinuing use; but as long as use of the property is continued, the same is subject to public regulation.
+Likewise, SURNECO cannot validly assert that the caps set by R.A. No. 7832 are arbitrary, or that they violate the non-impairment clause of the Constitution for allegedly traversing the loan agreement between NEA and ADB. Striking down a legislative enactment, or any of its provisions, can be done only by way of a direct action, not through a collateral attack, and more so, not for the first time on appeal in order to avoid compliance.  The challenge to the law's constitutionality should also be raised at the earliest opportunity.
+[21]
+Even assuming, merely for argument's sake, that the ERC issuances violated the NEA and ADB covenant, the contract had to yield to the greater authority of the State's exercise of police power.  It has long been settled that police power legislation, adopted by the State to promote the health, morals, peace, education, good order, safety, and general welfare of the people prevail not only over future contracts but even over those already in existence, for all private contracts must yield to the superior and legitimate measures taken by the State to promote public welfare.
+[22]
+SURNECO also avers that the Electric Power Industry Reform Act of 2001 (EPIRA) removed the alleged arbitrary caps in R.A. No. 7832.  We differ.  The EPIRA allows the caps to remain until replaced by the caps to be determined by the ERC, pursuant to its delegated authority under Section 43
+[23]
+ of R.A. No. 9136 to prescribe new system loss caps, based on technical parameters such as load density, sales mix, cost of service, delivery voltage, and other technical considerations it may promulgate.
+Third.
+  We also disagree with SURNECO in its insistence that the PPA confirmation policies constituted an amendment to the IRR of R.A. No. 7832 and must, therefore, comply with the publication requirement for the effectivity of administrative issuances.
+The PPA formula provided in the IRR of R.A. No. 7832 was only a model to be used as a guide by the electric cooperatives in proposing their own PPA formula for approval by the then ERB.  Sections 4 and 5, Rule IX of the IRR directed the electric cooperatives to apply for approval of such formula with the ERB so that the system loss caps under the law would be incorporated in their computation of power cost adjustments. The IRR did not provide for a specific formula; therefore, there was nothing in the IRR that was amended or could have been amended relative to the PPA formula.  The IRR left to the ERB, now the ERC, the authority to approve and oversee the implementation of the electric cooperatives' PPA formula in the exercise of its rate-making power over them.
+We likewise differ from SURNECO's stance that it was denied due process when the ERC issued its questioned Orders.  Administrative due process simply requires an opportunity to explain one's side or to seek reconsideration of the action or ruling complained of.
+[24]
+  It means being given the opportunity to be heard before judgment, and for this purpose, a formal trial-type hearing is not even essential.  It is enough that the parties are given a fair and reasonable chance to demonstrate their respective positions and to present evidence in support thereof.
+[25]
+Verily, the PPA confirmation necessitated a review of the electric cooperatives' monthly documentary submissions to substantiate their PPA charges.  The cooperatives were duly informed of the need for other required supporting documents and were allowed to submit them accordingly.  In fact, hearings were conducted.  Moreover, the ERC conducted exit conferences with the electric cooperatives' representatives, SURNECO included, to discuss preliminary figures and to double-check these figures for inaccuracies, if there were any.  In addition, after the issuance of the ERC Orders, the electric cooperatives were allowed to file their respective motions for reconsideration.  It cannot be gainsaid, therefore, that SURNECO was not denied due process.
+Finally, the core of the issues raised is factual in character. It needs only to be reiterated that factual findings of administrative bodies on technical matters within their area of expertise should be accorded not only respect but even finality if they are supported by substantial evidence even if not overwhelming or preponderant,
+[26]
+ more so if affirmed by the CA.  Absent any grave abuse of discretion on the part of ERC, we must sustain its findings. Hence, its assailed Orders, following the rule of non-interference on matters addressed to the sound discretion of government agencies entrusted with the regulation of activities coming their special technical knowledge and training, must be upheld.
+[27]
+WHEREFORE,
+ the petition is 
+DENIED.
+  The Decision dated April 17, 2008 and the Resolution dated June 25, 2008 of the Court of Appeals in CA-G.R. SP No. 99781 are 
+AFFIRMED.  
+Costs against petitioner.
+SO ORDERED
+.
+Velasco, Jr., 
+*
+ Peralta, Mendoza,
+ and 
+Sereno,
+***
+ JJ.,
+ concur.
+*
+ Additional member in lieu of Associate Justice Antonio T. Carpio per Special Order No. 897 dated September 28, 2010.
+**
+ In lieu of Associate Justice Antonio T. Carpio per Special Order No. 898 dated September 28, 2010.
+***
+ Additional member in lieu of Associate Justice Roberto A. Abad per Special Order No. 903 dated September 28, 2010.
+[1]
+ 
+Rollo
+, pp. 30-61.
+[2]
+ Penned by Associate Justice Mariano C. del Castillo (now a member of this Court), with Associate Justices Arcangelita Romilla-Lontok and Ricardo R. Rosario, concurring; id. at 10-22.
+[3]
+ Id. at 24-27.
+[4]
+ Otherwise referred to as the "Anti-Electricity and Electric Transmission Lines/Materials Pilferage Act of 1994," which took effect on January 17, 1995.
+[5]
+ 
+Rollo,
+ pp. 111-128.
+[6]
+ Also known as the Electric Power Industry Reforms Act of 2001 (EPIRA).
+[7]
+ 
+Rollo
+,  pp. 196-212.
+[8]
+ Id. at 204.
+[9]
+ Id. at 134-140.
+[10]
+ Id. at 139-140.
+[11]
+ Id. at 156-158.
+[12]
+ Id. at 159-195.
+[13]
+ Id. at 76-105.
+[14]
+ NEA Memo No. 1.
+[15]
+ CONSTITUTION, Article III, Section 10. "No law impairing the obligation of contracts shall be passed."
+[16]
+ Sec. 11. 
+Area of Coverage.
+ - The caps provided in Section 10 of this Act shall apply only to the area of coverage of private electric utilities and rural electric cooperatives as of the date of the effectivity of this Act.
+[17]
+ Sec. 16. 
+Repealing Clauses.
+ - x x x. All other laws, ordinances, rules, regulations, and other issuances or parts thereof, which are inconsistent with this Act, are hereby repealed or modified accordingly.
+[18]
+ 
+Commissioner of Internal Revenue v. Fortune Tobacco Corporation
+, G.R. Nos. 167274-75, July 21, 2008, 559 SCRA 160, 178.
+[19]
+ 
+Rollo
+, pp.135-139.
+[20]
+ 440 Phil. 389, 397, citing 
+Munn v. People of the State of Illinois
+, 94 U.S.113, 126 (1877).
+[21]
+ 
+Philippine National Bank v. Palma
+, 503 Phil. 917, 932 (2005).
+[22]
+ 
+Serrano v. Gallant Maritime Services, Inc., 
+G.R. No. 167614, March 24, 2009,
+ 
+582 SCRA 254, 276, citing 
+Ortigas & Co., Ltd. v. Court of Appeals
+, 
+400 Phil. 615, 623 (2000).
+[23]
+ Sec. 43. 
+Functions of the ERC.
+ - x x x.
+f. x x x.  To achieve this objective and to ensure the complete removal of cross subsidies, the cap on the recoverable rate of system losses prescribed in Section 10 of Republic Act No. 7832, is hereby amended and shall be replaced by caps which shall be determined by the ERC based on load density, sales mix, cost of service, delivery voltage and other technical considerations it may promulgate. x x x.
+[24]
+ 
+Rene Ventenilla Puse v. Ligaya delos Santos-Puse
+, G.R. No. 183678, March 5, 2010, citing 
+Alcala v. Villar,
+ 461 Phil. 617, 626 (2003).
+[25]
+ 
+Perez v. Philippine Telegraph and Telephone Company,
+ G.R. No. 152048, April 7, 2009, 584 SCRA 110, 124,  citing 
+Autobus Workers' Union v. NLRC
+, 353 Phil. 419, 430 (1998).
+[26]
+ 
+Republic of the Philippines v. Manila Electric Company,
+ supra note 20, at 399.
+[27]
+ 
+Philippine National Construction Corporation v. Court of Appeals
+, G.R. No. 159417, January 25, 2007, 512 SCRA 684, 698, citing 
+First Lepanto Ceramics, Inc. v. Court of Appeals
+, 323 Phil. 657, 664 (1996).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

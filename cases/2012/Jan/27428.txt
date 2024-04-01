@@ -1,0 +1,129 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			680 Phil. 28
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 164197, January 25, 2012 ]
+
+
+SECURITIES AND EXCHANGE COMMISSION, PETITIONER, VS.  PROSPERITY.COM, INC., RESPONDENT.
+D E C I S I O N
+
+
+
+
+ABAD, J.:
+
+
+This case involves the application of the 
+Howey
+ test in order to determine if a particular transaction is an investment contract.
+The Facts and the Case
+Prosperity.Com, Inc. (PCI) sold computer software and hosted websites without providing internet service.  To make a profit, PCI devised a scheme in which, for the price of US$234.00 (subsequently increased to US$294), a buyer could acquire from it an internet website of a 15-Mega Byte (MB) capacity.  At the same time, by referring to PCI his own down-line buyers, a first-time buyer could earn commissions, interest in real estate in the Philippines and in the United States, and insurance coverage worth P50,000.00.
+To benefit from this scheme, a PCI buyer must enlist and sponsor at least two other buyers as his own down-lines.  These second tier of buyers could in turn build up their own down-lines.  For each pair of down-lines, the buyer-sponsor received a US$92.00 commission.  But referrals in a day by the buyer-sponsor should not exceed 16 since the commissions due from excess referrals inure to PCI, not to the buyer-sponsor.
+Apparently, PCI patterned its scheme from that of Golconda Ventures, Inc. (GVI), which company stopped operations after the Securities and Exchange Commission (SEC) issued a cease and desist order (CDO) against it.  As it later on turned out, the same persons who ran the affairs of GVI directed PCIâs actual operations.
+In 2001, disgruntled elements of GVI filed a complaint with the SEC against PCI, alleging that the latter had taken over GVIâs operations.  After hearing,
+[1]
+ the SEC, through its Compliance and Enforcement unit, issued a CDO against PCI.  The SEC ruled that PCIâs scheme constitutes an Investment contract and, following the Securities Regulations Code,
+[2]
+ it should have first registered such contract or securities with the SEC.
+Instead of asking the SEC to lift its CDO in accordance with Section 64.3 of Republic Act (R.A.) 8799, PCI filed with the Court of Appeals (CA) a petition for 
+certiorari
+ against the SEC with an application for a temporary restraining order (TRO) and preliminary injunction in CA-G.R. SP 62890.  Because the CA did not act promptly on this application for TRO, on January 31, 2001 PCI returned to the SEC and filed with it before the lapse of the five-day period a request to lift the CDO.  On the following day, February 1, 2001, PCI moved to withdraw its petition before the CA to avoid possible forum shopping violation.
+During the pendency of PCIâs action before the SEC, however, the CA issued a TRO, enjoining the enforcement of the CDO.
+[3]
+  In response, the SEC filed with the CA a motion to dismiss the petition on ground of forum shopping.  In a Resolution,
+[4]
+ the CA initially dismissed the petition, finding PCI guilty of forum shopping.  But on PCIâs motion, the CA reversed itself and reinstated the petition.
+[5]
+In a joint resolution,
+[6]
+ CA-G.R. SP 62890 was consolidated with CA-G.R. SP 64487 that raised the same issues.  On July 31, 2003 the CA rendered a decision, granting PCIâs petition and setting aside the SEC-issued CDO.
+[7]
+  The CA ruled that, following the 
+Howey
+ test, PCIâs scheme did not constitute an investment contract that needs registration pursuant to R.A. 8799, hence, this petition.
+The Issue Presented
+The sole issue presented before the Court is whether or not PCIâs scheme constitutes an investment contract that requires registration under R.A. 8799.
+The Ruling of the Court
+The Securities Regulation Code treats investment contracts as âsecuritiesâ that have to be registered with the SEC before they can be distributed and sold.  An investment contract is a contract, transaction, or scheme where a person invests his money in a common enterprise and is led to expect profits primarily from the efforts of others.
+[8]
+Apart from the definition, which the Implementing Rules and Regulations provide, Philippine jurisprudence has so far not done more to add to the same.  Of course, the United States Supreme Court, grappling with the problem, has on several occasions discussed the nature of investment contracts.  That courtâs rulings, while not binding in the Philippines, enjoy some degree of persuasiveness insofar as they are logical and consistent with the countryâs best interests.
+[9]
+The United States Supreme Court held in 
+Securities and Exchange Commission v. W.J. Howey Co.
+[10]
+ that, for an investment contract to exist, the following elements, referred to as the Howey test must concur: (1) a contract, transaction, or scheme; (2) an investment of money; (3) investment is made in a common enterprise; (4) expectation of profits; and (5) profits arising primarily from the efforts of others. 
+[11]
+  Thus, to sustain the SEC position in this case, PCIâs scheme or contract with its buyers must have all these elements.
+An example that comes to mind would be the long-term commercial papers that large companies, like San Miguel Corporation (SMC), offer to the public for raising funds that it needs for expansion.  When an investor buys these papers or securities, he invests his money, together with others, in SMC with an expectation of profits arising from the efforts of those who manage and operate that company.  SMC has to register these commercial papers with the SEC before offering them to investors.
+Here, PCIâs clients do not make such investments.  They buy a product of some value to them: an Internet website of a 15-MB capacity.  The client can use this website to enable people to have internet access to what he has to offer to them, say, some skin cream.  The buyers of the website do not invest money in PCI that it could use for running some business that would generate profits for the investors.  The price of US$234.00 is what the buyer pays for the use of the website, a tangible asset that PCI creates, using its computer facilities and technical skills.
+Actually, PCI appears to be engaged in network marketing, a scheme adopted by companies for getting people to buy their products outside the usual retail system where products are bought from the storeâs shelf.  Under this scheme, adopted by most health product distributors, the buyer can become a down-line seller.  The latter earns commissions from purchases made by new buyers whom he refers to the person who sold the product to him.  The network goes down the line where the orders to buy come.
+The commissions, interest in real estate, and insurance coverage worth P50,000.00 are incentives to down-line sellers to bring in other customers.  These can hardly be regarded as profits from investment of money under the 
+Howey
+ test.
+The CA is right in ruling that the last requisite in the 
+Howey
+ test is lacking in the marketing scheme that PCI has adopted.  Evidently, it is PCI that expects profit from the network marketing of its products.  PCI is correct in saying that the US$234 it gets from its clients is merely a consideration for the sale of the websites that it provides.
+WHEREFORE
+, the Court 
+DENIES
+ the petition and AFFIRMS the decision dated July 31, 2003 and the resolution dated June 18, 2004 of the Court of Appeals in CA-G.R. SP 62890.
+SO ORDERED.
+Velasco, Jr., (Chairperson), Peralta, Mendoza
+, and 
+Perlas-Bernabe, JJ.
+, concur.
+[1]
+  Docketed as CED Case 01-2585.
+[2]
+  Republic Act 8799.
+[3]
+  Resolution dated February 14, 2001.
+[4]
+  Dated March 13, 2001.
+[5]
+  Resolution dated April 30, 2001.
+[6]
+  Resolution dated July 6, 2001.
+[7]
+  Penned by Justice Eloy R. Bello, Jr. and concurred in by Justice Cancio C. Garcia (a retired member of this Court) and Justice Mariano C. Del Castillo (currently, a member of this Court).
+[8]
+  Implementing Rules and Regulations of R.A. 8799, Rule 3.1-1.
+[9]
+  See 
+Philippine Health Care Providers, Inc. v. Commissioner of Internal Revenue,
+ G.R. No. 167330, September 18, 2009, 600 SCRA 413, 427, citing
+ Prudential Guarantee and Assurance, Inc. v. Trans-Asia Shipping Lines, Inc.
+, 524 Phil. 716 (2006).
+[10]
+  328 US 293 (1946).
+[11]
+  See also 
+United Housing Foundation, Inc. v. Forman
+, 421 US 837 (1975); 
+Securities and Exchange Commission v. Glen W. Turner Enterprises, Inc.
+, 474 F. 2d 476 (1973).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

@@ -1,0 +1,261 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			786 Phil. 396
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 203057, June 06, 2016 ]
+
+
+BUREAU OF INTERNAL REVENUE AS REPRESENTED BY THE COMMISSIONER OF INTERNAL REVENUE, PETITIONER, VS. MANILA HOME TEXTILE, INC,
+***
+ THELMA LEE AND SAMUEL LE,E, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+DEL CASTILLO, J.:
+
+
+There is grave abuse of discretion when the determination of probable cause is exercised in an arbitrary or despotic manner due to passion or personal hostility, so patent and so gross as to amount to an evasion of a positive duty or a virtual refusal to perform a duty enjoined by law.
+[1]
+This Petition for Review on 
+Certiorari
+ under Rule 45 of the Rules of Court impugns the May 7, 2012 Decision
+[2]
+ and the July 25, 2012 Resolution
+[3]
+ of the Court of Appeals (CA) in CA-G.R. SP No. 112159. 
+This case started out as a criminal complaint for tax evasion and perjury against respondents herein. Docketed as I.S. No. 2006-372, the Bureau of Internal Revenue (BIR), represented herein by the Commissioner of Internal Revenue (CIR), accused respondents the Manila Home Textile, Inc. (MHI), its President Thelma Lee (Thelma), and its Vice-President Samuel Lee (Samuel), and certain unidentified John Does and/or Jane Does, with having violated Sections 254,
+[4]
+ 255,
+[5]
+ 257
+[6]
+ and 267
+[7]
+ of the National Internal Revenue Code (NIRC). 
+It is alleged that the MHI is a duly organized domestic corporation and registered with the Securities and Exchange Commission (SEC) under SEC Registration No, 140920; that its primary purpose is to engage in the business of manufacturing, buying, selling, exporting, importing and otherwise dealing in home textiles, apparels of all kinds, and their end-products, and any and all supplies, materials, tools, machines, appliances or apparatus employed in or related to the manufacture of said goods, for itself or as contractor, and to contract with third parties, natural or juridical persons, to supply the work, labor and materials for the manufacture and processing of such materials as independent contractors; that to facilitate importation, MHI was issued a license by the Garments and Textiles Export Board (GTEB) to operate a Customs Bonded Manufacturing Warehouse (CBMW); that as a rule, the CBMW operates by having imported raw materials stored at the warehouse; that these raw materials are duty-free provided that these are utilized and consumed for the manufacture of its final product, which are intended for export, as the same would have a different treatment in terms of "tax incentives" than the regular importations; that investigation of the MHI's importations documents revealed that for the taxable years 2001 and 2002, the said company made several importations of PVC (or polyvinyl chloride) materials, woven fabrics, PVC leather and other raw materials used in the manufacture of its end-products; that on January 14, 2005 BIR issued Letter of Authority (LOA) No. 00002462
+[8]
+ to the MHI advising it that BIR agents under the National Investigation Division (NID) had been authorized to examine its books of accounts and other accounting records for all internal revenue taxes for taxable years 1997 to 2002 and unverified prior years; that several attempts to serve the LOA were made by the BIR but all these efforts proved futile because MHI could not be located at the address given in its Annual Income Tax Returns and other BIR records; that indeed on March 3, 2004, GTEB issued a certification to the effect that MHI, with address at De la Paz St., Manggahan, Pasig, Metro Manila, had been inactive since 1997; and, that the SEC issued a certification on November 3, 2003 that the MHI failed to file its General Information Sheet for the years 1998-2005 and financial statements for the period 1997-2002.
+It is further alleged that based on the information gathered by the NED, the MHI, through its corporate officers, directors and/or employees understated its importations and/or purchases, to wit:
+ 
+ 
+YEAR
+ 
+PURCHASES/IMPORTATION
+ 
+ 
+ 
+2002
+ 
+P 976,123.00
+ 
+ 
+ 
+2001
+ 
+P 3,355,853.00
+ 
+ 
+which information is at war with the data provided by the BIR's Amended Information, Tax Exemption and Incentives Division (AITEID) covering the MHI's Importers Detailed Report, thus - 
+ 
+ 
+YEAR
+ 
+PURCHASES/IMPORTATION
+ 
+ 
+ 
+2002
+ 
+P 555,778,491.00
+ 
+ 
+ 
+2001
+ 
+P 431,764,487.00
+ 
+ 
+In conclusion, it is alleged that the "MHI, through its corporate officers, directors and/or employees, wilfully under-declared the amount of its purchases and/or importations for taxable, years 2001 and 2002 by as much as P428,408,634,00 and P554,802,368.00, respectively. This under-declaration resulted in estimated Deficiency Income Taxes in the amount of P43,716,161,84 for taxable year 2001, and P34,561,975,40 for taxable year 2002, both inclusive of interests and increments x x x."
+[9]
+Although Thelma's and Samuel's counter-affidavits had not been appended to the records of this case, the investigating prosecutor adverted to it in his Resolution
+[10]
+ of January 30, 2007. Therein Thelma and Samuel allegedly denied the accusation against them and instead asserted that the "MHI as an independent contractor and supplier of work, labor and other materials for the manufacture of garments and similar products like handbags,"
+[11]
+ in the year 2001, it merely "receive[d] various consignments of raw materials worth P431,764,487.00, imported tax-free;"
+[12]
+ that "[t]hese were processed at its customs bonded warehouse and eventually re-exported as finished handbags or unused materials;"
+[13]
+ that it "did the same thing with respect to the P555,778,491.00 worth of materials it imported in 2002;"
+[14]
+ that "MHI did not declare as purchases the foregoing importations of raw materials because it did not buy them;" that it "processed them into finished products for its foreign customers; the rest it returned as excess raw materials;"
+[15]
+ that "[a]ll that MHI supplied in the manufacture of the finished products x x x were shipped out and re-exported under what is known' in the export industry as cut, make and trim or CMT invoices;"
+[16]
+ that "[u]nder its CMT arrangement, MHI could not dispose of any of its products it produced out of the imported raw materials;"
+[17]
+ that "[considering that the importation spnd re-exportation happened four or five years ago, its records are no longer readily available;"
+[18]
+ and that "[l]ikewise, a request made to the Bureau of Customs to provide copies of the export documents including CMT invoices and bills of lading proved futile."
+[19]
+Against the foregoing backdrop, the investigating prosecutor ruled -
+Truly, criminal intent is irrelevant in a special law, however the intent to commit the prohibited act must be established. (People vs. De Gratia, 233 SCRA 716) Obviously, respondents have not been shown to have intended to deliberately understate the importation and/or purchases in their income tax returns for the years 2001 and 2002 considering that the raw materials were imported duty-free and as clearly explained, respondents did not pay for the imported raw materials which were merely consigned to them to be used in the manufacture of finished products for re-export under CMT invoices. Thus, we cannot readily conclude that respondents intended to evade the payment of proper taxes on the mere basis of suspicion and speculation which cannot substitute for evidence. All told, this Office has not found any overt criminal act on the part of respondents which could be made the basis for a complaint for tax evasion.
+WHEREFORE, premises considered, it is respectfully recommended that the complaint against respondents Thelma U. Lee and Samuel U. Lee for tax evasion and perjury be DISMISSED.
+[20]
+Petitioner filed a motion for reconsideration but this motion was denied.
+Hence, petitioner appealed to the Secretary of Justice. But on September 29, 2009 Department of Justice (DOJ) Undersecretary Ernesto L. Pineda, signing for the Secretary of Justice, resolved to dismiss the appeal.
+Thereafter, petitioner instituted a Petition for 
+Certiorari
+ before the CA, thereat docketed as CA-G.R. SP No. 112159. The CA rendered judgment dismissing the Petition for 
+Certiorari
+. The CA ruled -
+Notably, [petitioner hastily concluded and attributed fraudulent intent on the part of herein [p]rivate [respondents solely by the apparent understatement of the amount of its purchases/importations, without at the very least offering proof that the amount withheld is subject to tax. To simply put it, what is there to evade when no tax is due at all? In contrast, [p]rivate [respondents were able to substantiate their claim that the amount they failed to include are not purchases/importations subject to tax but consignments exclusively used for the manufacture of its finished products for export, and hence duty-free. While it is true that no direct evidence was presented by [p]rivate [respondent to prove such fact, the records are however replete with strong circumstantial evidence inexorably leading to the same conclusion.
+Ultimately, [petitioner cannot seek refuge from the adequacy or weight of the evidence of [p]rivate [respondents. Petitioner must be reminded that the burden is upon it as the complainant, to prove the cause of action and show to the satisfaction of the state prosecutor the facts and law upon which the claim is based.
+WHEREFORE, the instant Petition for 
+Certiorari
+ is hereby DISMISSED for lack of merit.
+SO ORDERED.
+[21]
+Its motion for reconsideration of the foregoing CA Decision having been denied, petitioner files this Petition for Review on 
+Certiorari
+ contending that all the Resolutions issued by the investigating prosecutor, the DOJ Undersecretary, as well as the Decision and the Resolution of the CA were all tainted with grave abuse of discretion.
+With this contention we agree.
+As clearly made out in the complaint-affidavit filed by the petitioner with the DOJ, petitioner, in line with the governments' campaign against tax evasion conducted an inquiry or preliminary investigation to determine the MHTs tax compliance; that in the course of this inquiry or preliminary investigation, data or information culled by the petitioner from certified copies of the Income Tax Return, the VAT, and other returns which the MHI was required to file with the appropriate revenue district office/s, indeed indicated that the MHI might have understated its purchases/importations for the years 2001 and 2002; that the MHI declared in its audited financial statements purchases/importations to the tune of P976,123.00 for 2002 and P3,355,853.00 for 2001; that by contrast, data from the BIR's ATTEID showed that the MHTs importations and/or purchases were P555,778,491.00 for 2002, and P431,764,487.00 for 2001; which thus indicates that the MHI and its President, Thelma and Vice-President Samuel, deliberately understated the amounts of importations and/or purchases by as much as Â£428,408,634.00 for 2001, and P554,802,368.00 for 2002; and that this explains why the MHI and its responsible corporate officers are being charged with violations of Sections 254, 255, 257 and 267 vis-a-vis Sections 52(A), 105 and 114(A) of the NIRC.
+In refutation of the foregoing charges, Thelma and Samuel averred that they merely received on consignment the raw materials valued at P431,764,487.00 and P555,778,497.00, which were brought to the Philippines tax-free; that these raw materials were then processed at the MHTs customs bonded warehouse and eventually re-exported as finished handbags, or CMT (cut, made and trim); that if they did not declare the imported raw materials as purchases, it was because they did not in fact purchase these imported raw materials which, to repeat, were merely consigned to them tax-free; and that considering that the importations and re-exportation of these raw materials happened four or five years ago, their records are no longer available.
+Viewed in this context, it is easy to see that petitioner has clearly made out a 
+prima facie
+ case or shown probable cause to indict respondents for tax evasion under the pertinent sections of the NTRC, Indeed, we believe that by themselves the annexes appended to the records of this case, Annexes "A" to "M", submitted in amplification of petitioner's affidavit-complaint do already provide viable support to petitioner's plea for the indictment of the said respondents for tax evasion. By contrast, respondents' argument in this case is the nebulous, murky and unsubstantiated claim of "consignment" with an alleged tax-free guaranty, not a shred or scintilla of which has been adduced in this case. To repeat, respondents have not produced even a slip of paper purporting to prove that the raw materials valued at hundreds of millions of pesos were delivered to them on "consignment."
+Corollary thereto, it must be borne in mind that tax exemptions, which respondents obviously want or desire to avail of in this case, are 
+strictissimi juris.
+ Indeed, taxation is the rule and tax exemption the exception. Tax exemptions should be granted only by clear and unequivocal provision of law on the basis of language too plain to be misunderstood,
+[22]
+ We hold that in this case respondents have utterly failed to make out even a 
+prima facie
+ for tax exemption in their favor.
+Nevertheless, we must hasten to add at this juncture that we are here only to determine probable cause, As to whether respondents are guilty of tax evasion and/or perjury under the pertinent provisions of the NIRC and other penal statutes is an issue that must be resolved during the trial of the criminal case/s where the quantum of proof required is proof beyond reasonable doubt.
+On top qf these, we must stress that our ailing in this ease should not be construed as an unbridled license for our tax officials to engage in fishing expeditions and witch-hunting, They should not abuse their investigative powers and should exercise the same within the parameters and ambit of the law. By no means is this Court signalling mat it is opening the floodgates to inundate the courts of justice with frivolous and malicious tax suits.
+WHEREFORE
+, this Petition is hereby 
+GRANTED
+. The Decision dated May 7, 2012 and the Resolution dated July 25, 2012 of the Court of Appeals in CA-G.R. SP No. 112159 are 
+REVERSED and SET ASIDE
+. The Resolutions of State Prosecutor II Sebastian F. Caponong, Jr. dated January 30, 2007 and June 8, 2007 as well as the Resolution of Department of Justice Undersecretary Ernesto L. Pineda dated September 25, 2009 are also 
+REVOKED and NULLIFIED
+, The Prosecutor General of the Department of Justice is hereby directed to promptly file the appropriate information/s for tax evasion and perjury under the pertinent provisions of the. National Intanal Revenue Code and other relevant penal statutes against the respondents. 
+SO ORDERED.
+Carpio, (Acting C.J.
+*
+ & Chairperson), Brion,
+**
+ Mendoza
+, and 
+Leonen, JJ
+., concur.
+*
+Per Special Order Mo. 2353 dated June 2,2016,
+***
+ Also spelled as MANILA HOMETEXTILE, INC, in some parts of the records.
+[1]
+ 
+Spouses Chua v. Hon, Ang
+, 614 Phil, 416, 432 (2009); 
+Callo-Claridad v. Esteban
+, 707 Phil. 172. 186 (2013); 
+Alberto v. Court of Appeals
+, 699 SGRA 104, 129 (2013).
+[2]
+ CA 
+rollo,
+ pp. 271-283; penned by Presiding Justice Andres B, Reyes, Jr. and concurred in by Associate Justices Sesinando E. Villon and Amy C. Lazaro-Javier.
+[3]
+ Id. at 315-322.
+[4]
+ Sec. 254.
+ Attempt to evade or Defeat Tax
+. - Any person who wilfully attempts in any manner to evade or defeat any tax imposed under this Code or the payment thereof shall, in addition to other penalties provided by law, upon conviction thereof, be punished by a fine not less than Thirty thousand pesos (P30,000.00) but not more than One hundred thousand pesos (PI 00,000.00) and suffer imprisonment of not less than two (2) years but not more than four (4) years: Provided, That the conviction or acquittal obtained under this Section shall not be a bar to the filing of a civil suit for the collection of taxes.
+[5]
+ Sec. 255. 
+Failure to File Return, Supply Correct and Accurate Information, Pay Tax Withhold and Remit Tax and Refund Excess Taxes Withheld on Compensation.
+ - Any person required under this Code or by rules and regulations promulgated thereunder to pay any tax make a return, keep any record, or supply correct the accurate information, who willfully fails to pay such tax, make such return, keep such record, or supply correct and accurate information, or withhold or remit taxes withheld, or refund excess taxes withheld on compensation, at the time or times required by law or rules and regulations shall, in addition to other penalties provided by law, upon conviction thereof, be punished by a fine of not less than Ten thousand pesos (P10,000.00) and suffer imprisonment of not less than one (1) year but not more than ten (10) years.
+Any person who attempts to make it appear for any reason that he or another has in fact filed a return or statement, or actually files a return or statement and subsequently withdraws the same return or statement after securing the official receiving seal or stamp of receipt of internal revenue office wherein the same was actually filed shall, upon conviction therefor, be punished by a fine of not less than Ten thousand pesos (P10,000.00) but not more than Twenty thousand pesos (P20,000.00) and suffer imprisonment of not less than one (1) year but not more than three (3) years.
+[6]
+ Sec. 257. 
+Penal Liability for Making False Entries, Records or Reports, or Using Falsified or Fake Accountable Forms
+. - x x x
+(B) Any person who:
+(1) Not being an independent Certified Public Accountant according to Section 232(B) or a financial officer, examines and audits books of accounts of taxpayers; or
+(2) Offers to sign and certify financial statements without audit; or
+(3) Offers any taxpayer the use of accounting bookkeeping records for internal revenue purposes not in conformity with the requirements prescribed in this Code or rules and regulations promulgated thereunder; or
+(4) Knowingly makes any false entry or enters any false or fictitious name in the books of accounts or records mentioned in the preceding paragraphs; or
+(5) Keeps two (2) or more sets of such records or books of accounts; or
+(6) In any way commits an act or omission, in violation of the provisions of this Section; or
+(7) Fails to keep the books of accounts or records mentioned in Section 232 in a native language, English or Spanish, or to make a true and complete translation as required in Section 234 of this Code, or whose books of accounts or records kept in a native language, English or Spanish, and found to be at material variance with books or records kept by him in another language; or
+(8) Willfully attempts in any manner to evade or defeat any tax imposed under this Code, or knowingly uses fake of falsified revenue official receipts, Letters of Authority certificates authorizing registration, Tax Credit certificates, Tax Debit Memoranda and other accountable forms shall, upon conviction for each act or omission, be punished by a fine not less than Fifty thousand pesos (P50.000.00) but not more than One hundred pesos (PI00,000.00) and suffer imprisonment of not less than two (2) years but not more than six (6) years.
+xxxx
+[7]
+ Sec. 267. 
+Declaration under Penalties of Perjury
+. - Any declaration, return and other statement required under this Code, shall, in lieu of an oath, contain a written statement that they are made under the penalties of perjury. Any person who wilfully files a declaration, return or statement containing information which is not true and correct as to every material matter shall, upon conviction, be subject to the penalties prescribed for perjury under the Revised Penal Code.
+[8]
+ CA 
+rollo
+, pp. 147-148.
+[9]
+ CA 
+rollo
+, p. 14
+[10]
+ Id. at 27-35; penned by State Prosecutor Ii Sebastian F, Caponong, Jr. with the recommending approval of Assistant Chief State Prosecutor Miguel F. Gudio, Jr. and approved by Chief State Prosecutor Jovencito R. ZuÃ±o.
+[11]
+ Id. at. 28.
+[12]
+ Id.
+[13]
+ Id.
+[14]
+ Id.
+[15]
+ Id.
+[16]
+ Id.
+[17 ]
+Id.
+[18]
+ Id.
+[19]
+ Id.
+[20]
+ Id. at 34.
+[21]
+ Id. at 282-283.
+[22]
+ 
+Commissioner of Internal Revenue v, S.C. Johnson & Son, Inc.
+, 368 Phil. 388 (1999); 
+Paseo Realty and Development Corporation v. Court of Appeals
+, 483. Phil. 254 (2004).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

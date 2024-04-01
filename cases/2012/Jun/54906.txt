@@ -1,0 +1,663 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			688 Phil. 78
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 166044, June 18, 2012 ]
+
+
+COUNTRY BANKERS INSURANCE CORPORATION, PETITIONER, VS. KEPPEL CEBU SHIPYARD, UNIMARINE SHIPPING LINES, INC., PAUL RODRIGUEZ, PETER RODRIGUEZ, ALBERT HONTANOSAS, AND BETHOVEN QUINAIN, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+LEONARDO-DE CASTRO, J.:
+
+
+This is a petition for review on 
+certiorari
+[1]
+ to reverse and set aside the January 29, 2004 Decision
+[2]
+ and October 28, 2004 Resolution
+[3]
+ of the Court of Appeals in 
+CA-G.R. CV No. 58001
+, wherein the Court of Appeals affirmed with modification the February 10, 1997 Decision
+[4]
+ of the Regional Trial Court (RTC) of Cebu City, Branch 7, in Civil Case No. CBB-13447.
+Hereunder are the undisputed facts as culled from the records of the case.
+On January 27, 1992, Unimarine Shipping Lines, Inc. (Unimarine), a corporation engaged in the shipping industry, contracted the services of Keppel Cebu Shipyard, formerly known as Cebu Shipyard and Engineering Works, Inc. (Cebu Shipyard), for dry docking and ship repair works on its vessel, the M/V Pacific Fortune.
+[5]
+On February 14, 1992, Cebu Shipyard issued Bill No. 26035 to Unimarine in consideration for its services, which amounted to P4,486,052.00.
+[6]
+  Negotiations between Cebu Shipyard and Unimarine led to the reduction of this amount to P3,850,000.00.  The terms of this agreement were embodied in Cebu Shipyardâs February 18, 1992 letter to the President/General Manager of Unimarine, Paul Rodriguez, who signed his conformity to said letter, quoted in full below:
+18 February 1992
+Ref No.:   LL92/0383
+UNIMARINE SHIPPING LINES, INC.
+C/O Autographics, Inc.
+Gorordo Avenue, Lahug, Cebu City
+Attention:
+   
+Mr. Paul Rodriguez
+President/General Manager
+This is to confirm our agreement on the shiprepair bills charged for the repair of MV Pacific Fortune, our invoice no. 26035.
+The shiprepair bill (Bill No. 26035) is agreed at a negotiated amount of P3,850,000.00 excluding VAT.
+Unimarine Shipping Lines, Inc. (âUnimarineâ) will pay the above amount of [P3,850,000.00] in US Dollars to be fixed at the prevailing USDollar to Philippine Peso exchange rate at the time of payment.  The payment terms to be extended to Unimarine is as follows:
+ 
+ 
+Installments
+ 
+Amount
+ 
+Due Date
+ 
+ 
+ 
+1
+st 
+Installment
+ 
+P2,350,000.00
+ 
+30 May 1992
+ 
+ 
+ 
+2
+nd
+ Installment
+ 
+P1,500,000.00
+ 
+30 Jun 1992
+ 
+ 
+Unimarine will deposit post-dated checks equivalent to the above amounts in Philippine Peso and an additional check amount of P385,000.00, representing 10% [Value Added Tax] VAT on the above bill of P3,850,000.00.  In the event that Unimarine fails to make full payment on the above due dates in US Dollars, the post-dated checks will be deposited by CSEW in payment of the amounts owned by Unimarine and Unimarine agree that the 10% VAT (P385,000.00) shall also become payable to CSEW.
+Unimarine in consideration of the credit terms extended by CSEW and the release of the vessel before full payment of the above debt, agree to present CSEW surety bonds equal to 120% of the value of the credit extended.  The total bond amount shall be P4,620,000.00.
+Yours faithfully,
+CEBU SHIPYARD & ENGâG WORKS, INC    Conforme:
+ 
+ 
+(SGD)
+ 
+______(SGD)____________
+ 
+ 
+ 
+SEET KENG TAT
+ 
+PAUL RODRIGUEZ
+ 
+ 
+ 
+Treasurer/VP-Admin. 
+ 
+Unimarine Shipping Lines, Inc.
+[7]
+ 
+ 
+ 
+In compliance with the agreement, Unimarine, through Paul Rodriguez, secured from Country Bankers Insurance Corp. (CBIC), through the latterâs agent, Bethoven Quinain (Quinain), CBIC Surety Bond No. G (16) 29419
+[8]
+ (the surety bond) on January 15, 1992 in the amount of P3,000,000.00.  The expiration of this surety bond was extended to January 15, 1993, through Endorsement No. 33152
+[9]
+ (the endorsement), which was later on attached to and formed part of the surety bond.  In addition to this, Unimarine, on February 19, 1992, obtained another bond from Plaridel Surety and Insurance Co. (Plaridel), PSIC Bond No. G (16)-00365
+[10]
+ in the amount of P1,620,000.00.
+On February 17, 1992, Unimarine executed a Contract of Undertaking in favor of Cebu Shipyard.  The pertinent portions of the contract read as follows:
+Messrs, 
+Uni-Marine Shipping Lines, Inc.
+ (âthe Debtorâ) of Gorordo Avenue, Cebu City hereby acknowledges that in consideration of 
+Cebu Shipyard & Engineering Works, Inc
+. (âCebu Shipyardâ) at our request agreeing to release the vessel specified in part A of the Schedule (âname of vesselâ) prior to the receipt of the sum specified in part B of the Schedule (âMoneys Payableâ) payable in respect of certain works performed or to be performed by Cebu Shipyard and/or its subcontractors and/or material and equipment supplied or to be supplied by Cebu Shipyard and/or its subcontractors in connection with the vessel for the party specified in part C of the Schedule (âthe Debtorâ), we hereby unconditionally, irrevocably undertake to make punctual payment  to Cebu Shipyard of the Moneys Payable on the terms and conditions as set out in part B of the Schedule.  We likewise hereby expressly waive whatever right of excussion we may have under the law and equity.
+This contract shall be binding upon Uni-Marine Shipping Lines, Inc., its heirs, executors, administrators, successors, and assigns and shall not be discharged until all obligation of this contract shall have been faithfully and fully performed by the Debtor.
+[11]
+Because Unimarine failed to remit the first installment when it became due on May 30, 1992, Cebu Shipyard was constrained to deposit the peso check corresponding to the initial installment of P2,350,000.00.  The check, however, was dishonored by the bank due to insufficient funds.
+[12]
+  Cebu Shipyard faxed a message to Unimarine, informing it of the situation, and reminding it to settle its account immediately.
+[13]
+On June 24, 1992, Cebu Shipyard again faxed a message
+[14]
+ to Unimarine, to confirm Paul Rodriguezâs promise that Unimarine will pay in full the P3,850,000.00, in US Dollars on July 1, 1992.
+Since Unimarine failed to deliver on the above promise, Cebu Shipyard, on July 2, 1992, through a faxed letter, asked Unimarine if the payment could be picked up the next day.  This was followed by another faxed message on July 6, 1992, wherein Cebu Shipyard reminded Unimarine of its promise to pay in full on July 28, 1992.  On August 24, 1992, Cebu Shipyard again faxed
+[15]
+ Unimarine, to inform it that interest charges will have to be imposed on their outstanding debt, and if it still fails to pay before August 28, 1992, Cebu Shipyard will have to enforce payment against the sureties and take legal action.
+On November 18, 1992, Cebu Shipyard, through its counsel, sent Unimarine a letter,
+[16]
+ demanding payment, within seven days from receipt of the letter, the amount of P4,859,458.00, broken down as follows:
+ 
+ 
+B#26035   MV PACIFIC FORTUNE
+ 
+  
+4,486,052.00
+ 
+ 
+ 
+ 
+LESS: ADJUSTMENT:
+ 
+ 
+ 
+ 
+ 
+CN#00515-03/19/92 
+ 
+ 
+_(636,052.00)
+ 
+ 
+ 
+ 
+ 
+3,850,000.00
+ 
+ 
+ 
+ 
+Add: VAT on repair bill no. 26035   
+ 
+__385,000.00
+ 
+ 
+ 
+ 
+ 
+4,235,000.00
+ 
+ 
+ 
+ 
+Add: Interest/penalty charges:
+ 
+ 
+ 
+ 
+ 
+Debit Note No. 02381 
+ 
+189,888.00
+ 
+ 
+ 
+ 
+Debit Note No. 02382 
+ 
+____434,570.00
+ 
+ 
+ 
+ 
+ 
+4,859,458.00
+[17]
+ 
+ 
+ 
+Due to Unimarineâs failure to heed Cebu Shipyardâs repeated demands, Cebu Shipyard, through counsel, wrote the sureties CBIC
+[18]
+ on November 18, 1992, and Plaridel,
+[19]
+ on November 19, 1992, to inform them of Unimarineâs nonpayment, and to ask them to fulfill their obligations as sureties, and to respond within seven days from receipt of the demand.
+However, even the sureties failed to discharge their obligations, and so Cebu Shipyard filed a Complaint dated January 8, 1993, before the RTC, Branch 18 of Cebu City, against Unimarine, CBIC, and Plaridel.  This was docketed as Civil Case No. CBB-13447.
+CBIC, in its Answer,
+[20]
+ said that Cebu Shipyardâs complaint states no cause of action.  CBIC alleged that the surety bond was issued by its agent, Quinain, in excess of his authority.  CBIC claimed that Cebu Shipyard should have doubted the authority of Quinain to issue the surety bond based on the following:
+ The nature of the bond undertaking (guarantee payment), and the amount involved.
+The surety bond could only be issued in favor of the Department of Public Works and Highways, as stamped on the upper right portion of the face of the bond.
+[21]
+  This stamp was covered by documentary stamps.
+The issuance of the surety bond was not reported, and the corresponding premiums were not remitted to CBIC.
+[22]
+CBIC added that its liability was extinguished when, without its knowledge and consent, Cebu Shipyard and Unimarine novated their agreement several times.  Furthermore, CBIC stated that Cebu Shipyardâs claim had already been paid or extinguished when Unimarine executed an Assignment of Claims
+[23]
+ of the proceeds of the sale of its vessel M/V Headline in favor of Cebu Shipyard.  CBIC also averred that Cebu Shipyardâs claim had already prescribed as the endorsement that extended the surety bondâs expiry date, was not reported to CBIC.  Finally, CBIC asseverated that if it were held to be liable, its liability should be limited to the face value of the bond and not for exemplary damages, attorneyâs fees, and costs of litigation.
+[24]
+Subsequently, CBIC filed a Motion to Admit Cross and Third Party Complaint
+[25]
+ against Unimarine, as cross defendant; Paul Rodriguez, Albert Hontanosas, and Peter Rodriguez, as signatories to the Indemnity Agreement they executed in favor of CBIC; and Bethoven Quinain, as the agent who issued the surety bond and endorsement in excess of his authority, as third party defendants.
+[26]
+CBIC claimed that Paul Rodriguez, Albert Hontanosas, and Peter Rodriguez executed an Indemnity Agreement, wherein they bound themselves, jointly and severally, to indemnify CBIC for any amount it may sustain or incur in connection with the issuance of the surety bond and the endorsement.
+[27]
+  As for Quinain, CBIC alleged that he exceeded his authority as stated in the Special Power of Attorney, wherein he was authorized to solicit business and issue surety bonds not exceeding P500,000.00 but only in favor of the Department of Public Works and Highways, National Power Corporation, and other government agencies.
+[28]
+On August 23, 1993, third party defendant Hontanosas filed his Answer with Counterclaim, to the Cross and Third Party Complaint.  Hontanosas claimed that he had no financial interest in Unimarine and was neither a stockholder, director nor an officer of Unimarine.  He asseverated that his relationship to Unimarine was limited to his capacity as a lawyer, being its retained counsel.  He further denied having any participation in the Indemnity Agreement executed in favor of CBIC, and alleged that his signature therein was forged, as he neither signed it nor appeared before the Notary Public who acknowledged such undertaking.
+[29]
+Various witnesses were presented by the parties during the course of the trial of the case.  Myrna Obrinaga testified for Cebu Shipyard.  She was the Chief Accountant in charge of the custody of the documents of the company.  She corroborated Cebu Shipyardâs allegations and produced in court the documents to support Cebu Shipyardâs claim.  She also testified that while it was true that the proceeds of the sale of Unimarineâs vessel, M/V Headline, were assigned to Cebu Shipyard, nothing was turned over to them.
+[30]
+Paul Rodriguez admitted that Unimarine failed to pay Cebu Shipyard for the repairs it did on M/V Pacific Fortune, despite the extensions granted to Unimarine.  He claimed that he signed the Indemnity Agreement because he trusted Quinain that it was a mere pre-requisite for the issuance of the surety bond.  He added that he did not bother to read the documents and he was not aware of the consequences of signing an Indemnity Agreement.  Paul Rodriguez also alleged to not having noticed the limitation âValid only in favor of DPWHâ stamped on the surety bond.
+[31]
+  However, Paul Rodriguez did not contradict the fact that Unimarine failed to pay Cebu Shipyard its obligation.
+[32]
+CBIC presented Dakila Rianzares, the Senior Manager of its Bonding Department.  Her duties included the evaluation and approval of all applications for and reviews of bonds issued by their agents, as authorized under the Special Power of Attorney and General Agency Contract of CBIC.  Rianzares testified that she only learned of the existence of CBIC Surety Bond No. G (16) 29419 when she received the summons for this case.  Upon investigation, she found out that the surety bond was not reported to CBIC by Quinain, the issuing agent, in violation of their General Agency Contract, which provides that all bonds issued by the agent be reported to CBICâs office within one week from the date of issuance.  She further stated that the surety bond issued in favor of Unimarine was issued beyond Quinainâs authority.  Rianzares added that she was not aware that an endorsement pertaining to the surety bond was also issued by Quinain.
+[33]
+After the trial, the RTC was faced with the lone issue of whether or not CBIC was liable to Cebu Shipyard based on Surety Bond No. G (16) 29419.
+[34]
+On February 10, 1997, the RTC rendered its Decision, the
+ fallo
+ of which reads:
+WHEREFORE, judgment is hereby rendered in favor of the plaintiff Cebu Shipyard & Engineering Works, Incorporated and against the defendants:
+1. Ordering the defendants Unimarine Shipping Lines, Incorporated, Country Bankers Insurance Corporation and Plaridel Surety and Insurance Corporation to pay plaintiff jointly and severally the amount of P4,620,000.00 equivalent to the value of the surety bonds;
+2. Ordering further defendant Unimarine to pay plaintiff the amount of P259,458.00 to complete its entire obligation of P4,859,458.00;
+3. To pay plaintiff jointly and severally the amount of P100,000.00 in attorneyâs fees and litigation expenses;
+4. For Cross defendant Unimarine Shipping Lines, Incorporated and Third party defendants Paul Rodriguez, Peter Rodriguez and Alber[t] Hontanosas: To indemnify jointly and severally, cross plaintiff and third party plaintiff Country Bankers Insurance Corporation whatever amount the latter is made to pay to plaintiff.
+[35]
+The RTC held that CBIC, âin its capacity as surety is bound with its principal jointly and severally to the extent of the surety bond it issued in favor of [Cebu Shipyard]â because âalthough the contract of surety is in essence secondary only to a valid principal obligation, his liability to [the] creditor is said to be direct, primary[,] and absolute, in other words, he is bound by the principal.â
+[36]
+  The RTC added:
+Solidary obligations on the part of Unimarine and CBIC having been established and expressly stated in the Surety Bond No. 29419 (Exh. âCâ), [Cebu Shipyard], therefore, is entitled to collect and enforce said obligation against any and or both of them, and if and when CBIC pays, it can compel its co-defendant Unimarine to reimburse to it the amount it has paid.
+[37]
+The RTC found CBICâs contention that Quinain acted in excess of his authority in issuing the surety bond untenable.  The RTC held that CBIC is bound by the surety bond issued by its agent who acted within the apparent scope of his authority.  The RTC said:
+[A]s far as third persons are concerned, an act is deemed to have been performed within the scope of the agentâs authority, if such act is within the terms of the powers of attorney as written, even if the agent has in fact exceeded the limits of his authority according to an understanding between the principal and the agent.
+[38]
+All the defendants appealed this Decision to the Court of Appeals.
+Unimarine, Paul Rodriguez, Peter Rodriguez, and Albert Hontanosas argued that Unimarineâs obligation under Bill No. 26035 had been extinguished by novation, as Cebu Shipyard had agreed to accept the proceeds of the sale of the M/V Headline as payment for the ship repair works it did on M/V Pacific Fortune.  Paul Rodriguez and Peter Rodriguez added that such novation also freed them from their liability under the Indemnity Agreement they signed in favor of CBIC.  Albert Hontanosas in turn reiterated that he did not sign the Indemnity Agreement.
+[39]
+[SC1]
+CBIC, in its Appellantâs Brief,
+[40]
+ claimed that the RTC erred in enforcing its liability on the surety bond as it was issued in excess of Quinainâs authority.  Moreover, CBIC averred, its liability under such surety had been extinguished by reasons of novation, payment, and prescription.  CBIC also questioned the RTCâs order, holding it jointly and severally liable with Unimarine and Plaridel for the amount of P4,620,000.00, a sum larger than the face value of CBIC Surety Bond No. G (16) 29419, and why the RTC did not hold Quinain liable to indemnify CBIC for whatever amount it was ordered to pay Cebu Shipyard.
+On January 29, 2004, the Court of Appeals promulgated its decision, with the following dispositive portion:
+WHEREFORE
+, in view of the foregoing, the respective appeal[s] filed by Defendants-Appellants Unimarine Shipping Lines, Inc. and Country Bankers Insurance Corporation; Cross-Defendant-Appellant Unimarine Shipping Lines, Inc. and; Third-Party Defendants-Appellants Paul Rodriguez, Peter Rodriguez and Albert Hontanosas are hereby 
+DENIED
+.  The decision of the RTC in Civil Case No. CEB-13447 dated February 10, 1997 is
+ AFFIRMED
+ with modification that Mr. Bethoven Quinain, CBICâs agent is hereby held jointly and severally liable with CBIC by virtue of Surety Bond No. 29419 executed in favor of plaintiff-appellee CSEW.
+[41]
+In its decision, the Court of Appeals resolved the following issues, as it had summarized from the partiesâ pleadings:
+I. Whether or not UNIMARINE is liable to [Cebu Shipyard] for a sum of money arising from the ship-repair contract;
+II. Whether or not the obligation of UNIMARINE  to [Cebu Shipyard] has been extinguished by novation;
+III.  Whether or not Defendant-Appellant CBIC, allegedly being the Surety of UNIMARINE is liable under Surety Bond No. 29419[;]
+IV.  Whether or not Cross Defendant-Appellant UNIMARINE and Third-Party Defendants-Appellants Paul Rodriguez, Peter Rodriguez, Albert Hontanosas and Third-Party Defendant Bethoven Quinain are liable by virtue of the Indemnity Agreement executed between them and Cross and Third Party Plaintiff CBIC;
+V. Whether or not Plaintiff-Appellee [Cebu Shipyard] is entitled to the award of P100,000.00 in attorneyâs fees and litigation expenses.
+[42]
+The Court of Appeals held that it was duly proven that Unimarine was liable to Cebu Shipyard for the ship repair works it did on the formerâs M/V Pacific Fortune.  The Court of Appeals dismissed CBICâs contention of novation for lack of merit.
+[43]
+  CBIC was held liable under the surety bond as there was no novation on the agreement between Unimarine and Cebu Shipyard that would discharge CBIC from its obligation.  The Court of Appeals also did not allow CBIC to disclaim liability on the ground that Quinain exceeded his authority because third persons had relied upon Quinainâs representation, as CBICâs agent.
+[44]
+  Quinain was, however, held solidarily liable with CBIC under Article 1911 of the Civil Code.
+[45]
+Anent the liability of the signatories to the Indemnity Agreement, the Court of Appeals held Paul Rodriguez, Peter Rodriguez, and Albert Hontanosas jointly and severally liable thereunder.  The Court of Appeals rejected Hontanosasâs claim that his signature in the Indemnity Agreement was forged, as he was not able to prove it.
+[46]
+The Court of Appeals affirmed the award of attorneyâs fees and litigation expenses to Cebu Shipyard since it was able to clearly establish the defendantsâ liability, which they tried to dodge by setting up defenses to release themselves from their obligation.
+[47]
+CBIC
+[48]
+and Unimarine, together with third party defendants-appellants
+[49]
+ filed their respective Motions for Reconsideration.  This was, however, denied by the Court of Appeals in its October 28, 2004 Resolution for lack of merit.
+Unimarine elevated its case to this Court via a petition for review on 
+certiorari
+, docketed as G.R. No. 166023, which was denied in a Resolution dated January 19, 2005.
+[50]
+The lone petitioner in this case, CBIC, is now before this Court, seeking the reversal of the Court of Appealsâ decision and resolution on the following grounds:
+A.
+THE HONORABLE COURT OF APPEALS SERIOUSLY ERRED IN APPLYING THE PROVISIONS OF ARTICLE 1911 OF THE CIVIL CODE TO HOLD PETITIONER LIABLE FOR THE ACTS DONE BY ITS AGENT IN EXCESS OF AUTHORITY.
+B.
+THE HONORABLE COURT OF APPEALS SERIOUSLY ERRED IN HOLDING THAT AN EXTENSION OF THE PERIOD FOR THE PERFORMANCE OF AN OBLIGATION GRANTED BY THE CREDITOR TO THE PRINCIPAL DEBTOR IS NOT SUFFICIENT TO RELEASE THE SURETY.
+C.
+ASSUMING THAT PETITIONER IS LIABLE UNDER THE BOND, THE HONORABLE COURT OF APPEALS NONETHELESS SERIOUSLY ERRED IN AFFIRMING THE SOLIDARY LIABILITY OF PETITIONER BEYOND THE VALUE OF THE BOND.
+D.
+THE HONORABLE COURT OF APPEALS ERRED IN HOLDING PETITIONER JOINTLY AND SEVERALLY LIABLE FOR ATTORNEYâS FEES IN THE AMOUNT OF P100,000.00.
+[51]
+Issue
+The crux of the controversy lies in CBICâs liability on the surety bond Quinain issued to Unimarine, in favor of Cebu Shipyard.
+CBIC avers that the Court of Appeals erred in interpreting and applying the rules governing the contract of agency.  It argued that the Special Power of Attorney granted to Quinain clearly set forth the extent and limits of his authority with regard to businesses he can transact for and in behalf of CBIC.  CBIC added that it was incumbent upon Cebu Shipyard to inquire and look into the power of authority conferred to Quinain.  CBIC said:
+The authority to bind a principal as a guarantor or surety is one of those powers which requires a Special Power of Attorney pursuant to Article 1878 of the Civil Code.  
+Such power could not be simply assumed or inferred from the mere existence of an agency.
+  A person who enters into a contract of suretyship with an agent without confirming the extent of the latterâs authority does so at his peril. x x x.
+[52]
+CBIC claims that the foregoing is true even if Quinain was granted the authority to transact in the business of insurance in general, as 
+âthe authority to bind the principal in a contract of suretyship could nonetheless never be presumed.
+â
+[53]
+  Thus, CBIC claims, that:
+[T]hird persons seeking to hold the principal liable for transactions entered into by an agent should establish the following, in case the same is controverted:
+6.6.1.  The fact or existence of the agency.
+6.6.2.  The nature and extent of authority.
+[54]
+To go a little further, CBIC said that the correct Civil Code provision to apply in this case is Article 1898.  CBIC asserts that âCebu Shipyard was charged with knowledge of the extent of the authority conferred on Mr. Quinain by its failure to perform due diligence investigations.â
+[55]
+Cebu Shipyard, in its Comment
+[56]
+ first assailed the propriety of the petition for raising factual issues.  In support, Cebu Shipyard claimed that the Court of Appealsâ application of Article 1911 of the Civil Code was founded on findings of facts that CBIC now disputes.  Thus, the question is not purely of law.
+Discussion
+The fact that Quinain was an agent of CBIC was never put in issue.  What has always been debated by the parties is the extent of authority or, at the very least, apparent authority, extended to Quinain by CBIC to transact insurance business for and in its behalf.
+In a contract of agency, a person, the agent, binds himself to represent another, the principal, with the latterâs consent or authority.
+[57]
+  Thus, agency is based on representation, where the agent acts for and in behalf of the principal on matters within the scope of the authority conferred upon him.
+[58]
+  Such âacts have the same legal effect as if they were personally done by the principal.  By this legal fiction of representation, the actual or legal absence of the principal is converted into his legal or juridical presence.â
+[59]
+The RTC applied Articles 1900 and 1911 of the Civil Code in holding CBIC liable for the surety bond.  It held that CBIC could not be allowed to disclaim liability because Quinainâs actions were within the terms of the special power of attorney given to him.
+[60]
+  The Court of Appeals agreed that CBIC could not be permitted to abandon its obligation especially since third persons had relied on Quinainâs representations.  It based its decision on Article 1911 of the Civil Code and found CBIC to have been negligent and less than prudent in conducting its insurance business for its failure to supervise and monitor the acts of its agents, to regulate the distribution of its insurance forms, and to devise schemes to prevent fraudulent misrepresentations of its agents.
+[61]
+This Court does not agree. 
+ Pertinent to this case are the following provisions of the Civil Code:
+Art. 1898
+. If the agent contracts in the name of the principal, exceeding the scope of his authority, and the principal does not ratify the contract, it shall be void if the party with whom the agent contracted is aware of the limits of the powers granted by the principal.  In this case, however, the agent is liable if he undertook to secure the principalâs ratification.
+Art. 1900
+.  So far as third persons are concerned, an act is deemed to have been performed within the scope of the agentâs authority, if such act is within the terms of the power of attorney, as written, even if the agent has in fact exceeded the limits of his authority according to an understanding between the principal and the agent.
+Art. 1902
+.  A third person with whom the agent wishes to contract on behalf of the principal may require the presentation of the power of attorney, or the instructions as regards the agency.  Private or secret orders and instructions of the principal do not prejudice third persons who have relied upon the power of attorney or instructions shown to them.
+Art. 1910
+.  The principal must comply with all the obligations which the agent may have contracted within the scope of his authority.
+As for any obligation wherein the agent has exceeded his power, the principal is not bound except when he ratifies it expressly or tacitly.
+Art. 1911.
+  Even when the agent has exceeded his authority, the principal is solidarily liable with the agent if the former allowed the latter to act as though he had full powers.
+Our law mandates an agent to act within the scope of his authority.
+[62]
+  The scope of an agentâs authority is what appears in the written terms of the power of attorney granted upon him.
+[63]
+  Under Article 1878(11) of the Civil Code, 
+a special power of attorney
+ is necessary to obligate the principal as a guarantor or surety.
+In the case at bar, CBIC could be held liable even if Quinain exceeded the scope of his authority only if Quinainâs act of issuing Surety Bond No. G (16) 29419 is 
+deemed
+ to have been performed within the written terms of the power of attorney he was granted.
+[64]
+However, contrary to what the RTC held, the Special Power of Attorney accorded to Quinain clearly states the limits of his authority and particularly provides that in case of surety bonds, it can only be issued in favor of the Department of Public Works and Highways, the National Power Corporation, and other government agencies; furthermore, the amount of the surety bond is limited to P500,000.00, to wit:
+SPECIAL POWER OF ATTORNEY
+KNOW ALL MEN BY THESE PRESENTS:
+That, COUNTRY BANKERS INSURANCE CORPORATION, a corporation duly organized and existing under and by virtue of the laws of the Philippines, with head offices at 8
+th
+ Floor, G.F. Antonino Building, T.M. Kalaw Street, Ermita, Manila, now and hereinafter referred to as âthe Companyâ hereby appoints 
+BETHOVEN B. QUINAIN
+ with address at x x x to be its General Agent and Attorney-in-Fact, for and in its place, name and stead, and for its own use and benefit, to do and perform the following acts and things:
+1. To conduct, manage, carry on and transact insurance business as usually pertains to a General Agency of Fire, Personal Accident, Bond, Marine, Motor Car (Except Lancer).
+2. To accept, underwrite and subscribe policies of insurance for and in behalf of the Company under the terms and conditions specified in the General Agency Contract executed and entered into by and between it and its said Attorney-in-Fact subject to the following Schedule of Limits:
+- 
+SCHEDULE OF LIMITS
+ -
+ 
+FIRE:
+x x x x
+PERSONAL ACCIDENT
+:
+x x x x
+MOTOR CAR
+:
+x x x x
+MARINE
+:
+x x x x
+BONDS
+:
+x x x x
+Surety Bond   (in favor of Dept. of Pub. Works and
+Highways, Natâl. Power Corp. & otherâ¦. 
+500,000.00
+Government agencies)
+[65]
+CBIC does not anchor its defense on a secret agreement, mutual understanding, or any verbal instruction to Quinain.  CBICâs stance is grounded on its contract with Quinain, and the clear, written terms therein.  This Court finds that the terms of the foregoing contract specifically provided for the extent and scope of Quinainâs authority, and Quinain has indeed exceeded them.
+Under Articles 1898 and 1910, an agentâs act, even if done beyond the scope of his authority, may bind the principal if he ratifies them, whether expressly or tacitly.  It must be stressed though that only the principal, and not the agent, can ratify the unauthorized acts, which the principal must have knowledge of.
+[66]
+  Expounding on the concept and doctrine of ratification in agency, this Court said:
+Ratification in agency is the adoption or confirmation by one person of an act performed on his behalf by another without authority.  The substance of the doctrine is confirmation after conduct, amounting to a substitute for a prior authority.  Ordinarily, the principal must have full knowledge at the time of ratification of all the material facts and circumstances relating to the unauthorized act of the person who assumed to act as agent.  
+Thus, if material facts were suppressed or unknown, there can be no valid ratification and this regardless of the purpose or lack thereof in concealing such facts and regardless of the parties between whom the question of ratification may arise.  
+Nevertheless, this principle does not apply if the principalâs ignorance of the material facts and circumstances was willful, or that the principal chooses to act in ignorance of the facts.  However,
+ in the absence of circumstances putting a reasonably prudent man on inquiry, ratification cannot be implied as against the principal who is ignorant of the facts.
+[67]
+ (Emphases supplied.)
+Neither Unimarine nor Cebu Shipyard was able to repudiate CBICâs testimony that it was unaware of the existence of Surety Bond No. G (16) 29419 and Endorsement No. 33152.  There were no allegations either that CBIC should have been put on alert with regard to Quinainâs business transactions done on its behalf.  It is clear, and undisputed therefore, that there can be no ratification in this case, whether express or implied.
+Article 1911, on the other hand, is based on the principle of estoppel, which is necessary for the protection of third persons.  It states that the principal is solidarily liable with the agent even when the latter has exceeded his authority, if the principal allowed him to act as though he had full powers.  However, for an agency by estoppel to exist, the following must be established:
+ The principal manifested a representation of the agentâs authority or knowingly allowed the agent to assume such authority;
+The third person, in good faith, relied upon such representation;  and
+Relying upon such representation, such third person has changed his position to his detriment.
+[68]
+In 
+Litonjua, Jr. v. Eternit Corp.
+,
+[69]
+ this Court said that â[a]n agency by estoppel, which is similar to the doctrine of apparent authority, requires proof of reliance upon the representations, and that, in turn, needs proof that the representations predated the action taken in reliance.â
+[70]
+This Court cannot agree with the Court of Appealsâ pronouncement of negligence on CBICâs part.  CBIC not only clearly stated the limits of its agentsâ powers in their contracts, it even stamped its surety bonds with the restrictions, in order to alert the concerned parties.  Moreover, its company procedures, such as reporting requirements, show that it has designed a system to monitor the insurance contracts issued by its agents.  CBIC cannot be faulted for Quinainâs deliberate failure to notify it of his transactions with Unimarine.  In fact, CBIC did not even receive the premiums paid by Unimarine to Quinain.
+Furthermore, nowhere in the decisions of the lower courts was it stated that CBIC let the public, or specifically Unimarine, believe that Quinain had the authority to issue a surety bond in favor of companies other than the Department of Public Works and Highways, the National Power Corporation, and other government agencies.  Neither was it shown that CBIC knew of the existence of the surety bond before the endorsement extending the life of the bond, was issued to Unimarine.  For one to successfully claim the benefit of estoppel on the ground that he has been misled by the representations of another, he must show that he was not misled through his own want of reasonable care and circumspection.
+[71]
+It is apparent that Unimarine had been negligent or less than prudent in its dealings with Quinain.  In 
+Manila Memorial Park Cemetery, Inc. v. Linsangan
+,
+[72]
+ this Court held:
+It is a settled rule that persons dealing with an agent are bound at their peril, if they would hold the principal liable, to ascertain not only the fact of agency but also the nature and extent of authority, and in case either is controverted, the burden of proof is upon them to establish it.  The basis for agency is representation and a person dealing with an agent is put upon inquiry and must discover upon his peril the authority of the agent.  If he does not make such an inquiry, he is chargeable with knowledge of the agentâs authority and his ignorance of that authority will not be any excuse.
+In the same case, this Court added:
+[T]he ignorance of a person dealing with an agent as to the scope of the latterâs authority is no excuse to such person and the fault cannot be thrown upon the principal.  A person dealing with an agent assumes the risk of lack of authority in the agent.  He cannot charge the principal by relying upon the agentâs assumption of authority that proves to be unfounded.  The principal, on the other hand, may act on the presumption that third persons dealing with his agent will not be negligent in failing to ascertain the extent of his authority as well as the existence of his agency.
+[73]
+Unimarine undoubtedly failed to establish that it even bothered to inquire if Quinain was authorized to agree to terms beyond the limits indicated in his special power of attorney.  While Paul Rodriguez stated that he has done business with Quinain more than once, he was not able to show that he was misled by CBIC as to the extent of authority it granted Quinain.  Paul Rodriguez did not even allege that he asked for documents to prove Quinainâs authority to contract business for CBIC, such as their contract of agency and power of attorney.  It is also worthy to note that even with the Indemnity Agreement, Paul Rodriguez signed it on Quinainâs mere assurance and without truly understanding the consequences of the terms of the said agreement.  Moreover, both Unimarine and Paul Rodriguez could have inquired directly from CBIC to verify the validity and effectivity of the surety bond and endorsement; but, instead, they blindly relied on the representations of Quinain.  As this Court held in 
+Litonjua, Jr. v. Eternit Corp.
+[74]
+:
+A person dealing with a known agent is not authorized, under any circumstances, blindly to trust the agents; statements as to the extent of his powers; such person must not act negligently but must use reasonable diligence and prudence to ascertain whether the agent acts within the scope of his authority.  The settled rule is that, persons dealing with an assumed agent are bound at their peril, and if they would hold the principal liable, to ascertain not only the fact of agency but also the nature and extent of authority, and in case either is controverted, the burden of proof is upon them to prove it.  In this case, the petitioners failed to discharge their burden; hence, petitioners are not entitled to damages from respondent EC.
+[75]
+In light of the foregoing, this Court is constrained to release CBIC from its liability on Surety Bond No. G (16) 29419 and Endorsement No. 33152.  This Court sees no need to dwell on the other grounds propounded by CBIC in support of its prayer.
+WHEREFORE
+, this petition is hereby 
+GRANTED
+ and the complaint against CBIC is 
+DISMISSED
+ for lack of merit.  The January 29, 2004 Decision and October 28, 2004 Resolution of the Court of Appeals in 
+CA-G.R. CV No. 58001 is MODIFIED
+ insofar as it affirmed CBICâs liability on Surety Bond No. G (16) 29419 and Endorsement No. 33152.
+SO ORDERED.
+ 
+Bersamin, Del Castillo, Villarama, Jr
+., and 
+Perlas-Bernabe,
+** 
+JJ.
+, concur.
+Leonardo-De Castro,
+*
+ J. (Acting Chairperson).
+*
+ Per Special Order No. 1226 dated May 30, 2012.
+**
+ Per Special Order No. 1227 dated May 30, 2012.
+[1]
+ Under Rule 45 of the 1997 Rules of Court.
+[2]
+ 
+Rollo
+, pp. 31-55; penned by Associate Justice Jose C. Reyes, Jr. with Associate Justices Romeo A. Brawner and Rebecca De Guia-Salvador, concurring.
+[3]
+ Id. at 57-58.
+[4]
+ CA 
+rollo
+, pp. 25-33.
+[5]
+ 
+Rollo
+, pp. 81-82.
+[6]
+ Id. at 94-114.
+[7]
+ Id. at 115.
+[8]
+ Id. at 116-117.
+[9]
+ Id. at 118.
+[10]
+ Id. at 119-120.
+[11]
+ Id. at 121.
+[12]
+ Id. at 85.
+[13]
+ Id. at 123.
+[14]
+ Id. at 124.
+[15]
+ Id. at 125-127.
+[16]
+ Id. at 128-129.
+[17]
+ Id. at 130.
+[18]
+ Id. at 131-132.
+[19]
+ Id. at 133.
+[20]
+ Id. at 136-143.
+[21]
+ Id. at 236.
+[22]
+ Id. at 137.
+[23]
+ CA
+ rollo
+, p. 27.
+[24]
+ 
+Rollo
+, pp. 138-141.
+[25]
+ Id. at 144-145.
+[26]
+ CA 
+rollo,
+ pp. 42-43.
+[27]
+ Rollo
+, p. 150.
+[28]
+ Id. at 233-234.
+[29]
+ Id. at 153-155.
+[30]
+ CA 
+rollo,
+ p. 27.
+[31]
+ Id. at 28.
+[32]
+ Id. at 30.
+[33]
+ Id. at 28-29.
+[34]
+ Id. at 31.
+[35]
+ Id. at 33.
+[36]
+ Id. at 31.
+[37]
+ Id.
+[38]
+ Id. at 33.
+[39]
+ Id. at 21-22.
+[40]
+ Id. at 39-63.
+[41]
+ 
+Rollo
+, pp. 54-55.
+[42]
+ Id. at 38.
+[43]
+ Id. at 39-40.
+[44]
+ Id. at 44-46.
+[45]
+ Id. at 53.
+[46]
+ Id. at 49-51.
+[47]
+ Id. at 54.
+[48]
+ CA 
+rollo, 
+pp. 240-252.
+[49]
+ Id. at 253-256.
+[50]
+ Rollo,
+ p. 389.
+[51]
+ Id. at 13-14.
+[52]
+ Id. at 15.
+[53]
+ Id. at 16.
+[54]
+ Id. at 18.
+[55]
+ Id. at 19.
+[56]
+ Id. at 248-287.
+[57]
+ Civil Code, Art. 1868.
+[58]
+ Id., Art. 1881.
+[59]
+ Siredy Enterprises, Inc. v. Court of Appeals
+, 437 Phil. 580, 591 (2002).
+[60]
+ CA 
+rollo
+, pp. 31-32.
+[61]
+ 
+Rollo
+, pp. 46-47.
+[62]
+ Civil Code, Art. 1881.
+[63]
+ Id., Art. 1900.
+[64]
+ Id.
+[65]
+ 
+Rollo,
+  pp. 233-234.
+[66]
+ Manila Memorial Park Cemetery, Inc. v. Linsangan
+, G.R. No. 151319, November 22, 2004, 443 SCRA 377, 394.
+[67]
+ Id. at 394-395.
+[68]
+ Litonjua, Jr. v. Eternit Corp
+., G.R. No. 144805, June 8, 2006, 490 SCRA 204, 224-225.
+[69]
+ Id.
+[70]
+ Id. at 225.
+[71]
+ 
+Manila Memorial Park Cemetery, Inc. v. Linsangan
+, supra note 66 at 397.
+[72]
+ Id. at 391-392.
+[73]
+ Id. at 392.
+[74]
+ Supra note 68.
+[75]
+ Id. at 223-224.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

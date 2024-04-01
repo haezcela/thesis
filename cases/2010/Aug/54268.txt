@@ -1,0 +1,503 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			643 Phil. 550
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. Nos. 179045-46, August 25, 2010 ]
+
+
+COMMISSIONER OF INTERNAL REVENUE, PETITIONER, VS. SMART COMMUNICATION, INC.,* RESPONDENT.
+D E C I S I O N
+
+
+
+
+DEL CASTILLO, J.:
+
+
+The right of a withholding agent to claim a refund of erroneously or illegally withheld taxes comes with the responsibility to return the same to the principal taxpayer.
+This Petition for Review on 
+Certiorari
+ under Rule 45 of the Rules of Court seeks to set aside the Decision
+[1]
+ dated June 28, 2007 and the Resolution
+[2]
+ dated July 31, 2007 of the Court of Tax Appeals (CTA) 
+En Banc
+.
+Factual Antecedents
+Respondent Smart Communications, Inc. is a corporation organized and existing under Philippine law.  It is an enterprise duly registered with the Board of Investments.
+On May 25, 2001, respondent entered into three Agreements for Programming and Consultancy Services
+[3]
+ with Prism Transactive (M) Sdn. Bhd. (Prism), a non-resident corporation duly organized and existing under the laws of Malaysia.  Under the agreements, Prism was to provide programming and consultancy services for the installation of the Service Download Manager (SDM) and the Channel Manager (CM), and for the installation and implementation of Smart Money and Mobile Banking Service SIM Applications (SIM Applications) and Private Text Platform (SIM Application).
+On June 25, 2001, Prism billed respondent in the amount of US$547,822.45, broken down as follows:
+SDM  Agreement                             US$236,000.00
+CM Agreement                                        296,000.00
+SIM Application Agreement                        15,822.45
+Total                                                   US$547,822.45
+[4]
+Thinking that these payments constitute royalties, respondent withheld the amount of US$136,955.61 or P7,008,840.43,
+[5]
+ representing the 25% royalty tax under the RP-Malaysia Tax Treaty.
+[6]
+On September 25, 2001, respondent filed its Monthly Remittance Return of Final Income Taxes Withheld (BIR Form No. 1601-F)
+[7]
+ for the month of August 2001.
+On September 24, 2003, or within the two-year period to claim a refund, respondent filed with the Bureau of Internal Revenue (BIR), through the International Tax Affairs Division (ITAD), an administrative claim for refund
+[8]
+ of the amount of P7,008,840.43.
+Proceedings before the CTA Second Division
+Due to the failure of the petitioner Commissioner of Internal Revenue (CIR) to act on the claim for refund, respondent filed a Petition for Review
+[9]
+ with the CTA, docketed as CTA Case No. 6782 which was raffled to its Second Division.
+In its Petition for Review, respondent claimed that it is entitled to a refund because the payments made to Prism are not royalties
+[10]
+ but "business profits,"
+[11]
+ pursuant to the definition of royalties under the RP-Malaysia Tax Treaty,
+[12]
+ and in view of the pertinent Commentaries of the Organization for Economic Cooperation and Development (OECD) Committee on Fiscal Affairs through the Technical Advisory Group on Treaty Characterization of Electronic Commerce Payments.
+[13]
+  Respondent further averred that since under Article 7 of the RP-Malaysia Tax Treaty, "business profits" are taxable in the Philippines "only if attributable to a permanent establishment in the Philippines, the payments made to Prism, a Malaysian company with no permanent establishment in the Philippines,"
+[14]
+ should not be taxed.
+[15]
+On December 1, 2003, petitioner filed his Answer
+[16]
+ arguing that respondent, as withholding agent, is not a party-in-interest to file the claim for refund,
+[17]
+ and that assuming for the sake of argument that it is the proper party, there is no showing that the payments made to Prism constitute "business profits."
+[18]
+Ruling of the CTA Second Division
+In a Decision
+[19]
+ dated February 23, 2006, the Second Division of the CTA upheld respondent's right, as a withholding agent, to file the claim for refund citing the cases of 
+Commissioner of Internal Revenue v. Wander Philippines, Inc.,
+[20]
+ Commissioner of Internal Revenue v. Procter & Gamble Philippine Manufacturing Corporation
+[21]
+ 
+and 
+Commissioner of Internal Revenue v. The Court of Tax Appeals.
+[22]
+However, as to the claim for refund, the Second Division found respondent entitled only to a partial refund.  Although it agreed with respondent that the payments for the CM and SIM Application Agreements are "business profits,"
+[23]
+ and therefore, not subject to tax
+[24]
+ under the RP-Malaysia Tax Treaty, the Second Division found the payment for the SDM Agreement a royalty subject to withholding tax.
+[25]
+ Accordingly, respondent was granted refund in the amount of P3,989,456.43, computed as follows:
+[26]
+ 
+ 
+ Particulars 
+ 
+ Amount (in US$) 
+ 
+ 
+ 
+ 1. CM 
+ 
+ 296,000.00 
+ 
+ 
+ 
+ 2. SIM Application 
+ 
+ 15,822.45 
+ 
+ 
+ 
+ Total 
+ 
+ US$311,822.45 
+ 
+ 
+Particulars 
+ 
+ Amount 
+ 
+ 
+ 
+ Tax Base 
+ 
+ US$311,822.45 
+ 
+ 
+ 
+ Multiply by: Withholding Tax Rate 
+ 
+ 25% 
+ 
+ 
+ 
+ Final Withholding Tax 
+ 
+ US$ 77,955.61 
+ 
+ 
+ 
+ Multiply by: Prevailing Exchange Rate 
+ 
+ 51.176 
+ 
+ 
+ 
+ Tax Refund Due 
+ 
+ P3,989,456.43 
+ 
+ 
+ 
+ 
+ 
+The dispositive portion of the Decision of the CTA Second Division reads:
+WHEREFORE, premises considered, the instant petition is partially GRANTED.  Accordingly, respondent Commissioner of Internal Revenue is hereby ORDERED to REFUND or ISSUE a TAX CREDIT CERTIFICATE to petitioner Smart Communications, Inc. in the amount of P3,989,456.43, representing overpaid final withholding taxes for the month of August 2001.
+SO ORDERED.
+[27]
+Both parties moved for partial reconsideration
+[28]
+ but the CTA Second Division denied the motions in a Resolution
+[29]
+ dated July 18, 2006.
+Ruling of the CTA En Banc
+Unsatisfied, both parties appealed to the CTA 
+En Banc
+ by filing their respective Petitions for Review,
+[30]
+ which were consolidated per Resolution
+[31]
+ dated February 8, 2007.
+On June 28, 2007, the CTA 
+En Banc
+ rendered a Decision affirming the partial refund granted to respondent.  In sustaining respondent's right to file the claim for refund, the CTA 
+En Banc
+ said that although respondent "and Prism are unrelated entities, such circumstance does not affect the status of [respondent] as a party-in-interest [as its legal interest] is based on its direct and independent liability under the withholding tax system."
+[32]
+ The CTA 
+En Banc
+ also concurred with the Second Division's characterization of the payments made to Prism, specifically that the payments for the CM and SIM Application Agreements constitute "business profits,"
+[33]
+ while the payment for the SDM Agreement is a royalty.
+[34]
+The dispositive portion of the CTA 
+En Banc
+ Decision reads:
+WHEREFORE, the instant petition is hereby DISMISSED. Accordingly, the assailed Decision and Resolution are hereby AFFIRMED.
+SO ORDERED.
+[35]
+Only petitioner sought reconsideration
+[36]
+ of the Decision.  The CTA 
+En Banc, 
+however, found no cogent reason to reverse its Decision,
+ 
+and thus, denied petitioner's motion for reconsideration in a Resolution
+[37]
+ dated July 31, 2007.
+Unfazed, petitioner availed of the present recourse.
+Issues
+The two issues to be resolved are: (1) whether respondent has the right to file the claim for refund; and (2) if respondent has the right, whether the payments made to Prism constitute "business profits" or royalties.
+Petitioner's Arguments
+Petitioner contends that the cases relied upon by the CTA in upholding respondent's right to claim the refund are inapplicable since the withholding agents therein are wholly owned subsidiaries of the principal taxpayers, unlike in the instant case where the withholding agent and the taxpayer are unrelated entities. Petitioner further claims that since respondent did not file the claim on behalf of Prism, it has no legal standing to claim the refund. To rule otherwise would result to the unjust enrichment of respondent, who never shelled-out any amount to pay the royalty taxes.  Petitioner, thus, posits that the real party-in-interest to file a claim for refund of the erroneously withheld taxes is Prism.  He cites as basis the case of 
+Silkair (Singapore) Pte, Ltd. v. Commissioner of Internal Revenue,
+[38]
+ 
+where it was ruled that the proper party to file a refund is the statutory taxpayer.
+[39]
+  Finally, assuming that respondent is the proper party, petitioner counters that it is still not entitled to any refund because the payments made to Prism are taxable as royalties, having been made in consideration for the use of the programs owned by Prism.
+Respondent's Arguments
+Respondent, on the other hand, maintains that it is the proper party to file a claim for refund as it has the statutory and primary responsibility and liability to withhold and remit the taxes to the BIR.  It points out that under the withholding tax system, the agent-payor becomes a payee by fiction of law because the law makes the agent personally liable for the tax arising from the breach of its duty to withhold.  Thus, the fact that respondent is not in any way related to Prism is immaterial.
+Moreover, respondent asserts that the payments made to Prism do not fall under the definition of royalties since the agreements are for programming and consultancy services only, wherein Prism undertakes to perform services for the creation, development or the bringing into existence of software applications solely for the satisfaction of the peculiar needs and requirements of respondent.
+Our Ruling
+The petition is bereft of merit.
+Withholding agent may file a claim for refund
+Sections 204(c) and 229 of the National Internal Revenue Code (NIRC) provide:
+Sec. 204. Authority of the Commissioner to Compromise, Abate, and Refund or Credit Taxes. - The Commissioner may -
+x x x x
+(C)  Credit or refund taxes erroneously or illegally received or penalties imposed without authority, refund the value of internal revenue stamps when they are returned in good condition by the purchaser, and, in his discretion, redeem or change unused stamps that have been rendered unfit for use and refund their value upon proof of destruction. No credit or refund of taxes or penalties shall be allowed 
+unless the taxpayer files in writing with the Commissioner a claim for credit or refund within two (2) years after the payment of the tax or penalty:
+ Provided, however, That a return filed showing an overpayment shall be considered as a written claim for credit or refund.
+x x x x
+Sec. 229.  Recovery of Tax Erroneously or Illegally Collected. - No suit or proceeding shall be maintained in any court for the recovery of any national internal revenue tax hereafter alleged to have been erroneously or illegally assessed or collected, or of any penalty claimed to have been collected without authority, or of any sum alleged to have been excessively or in any manner wrongfully collected, 
+until a claim for refund or credit has been duly filed with the Commissioner;
+ but such suit or proceeding may be maintained, whether or not such tax, penalty, or sum has been paid under protest or duress.
+In any case, no such suit or proceeding shall be filed after the expiration of two (2) years from the date of payment of the tax or penalty regardless of any supervening cause that may arise after payment: Provided, however, That the Commissioner may, even without a written claim therefor, refund or credit any tax, where on the face of the return upon which payment was made, such payment appears clearly to have been erroneously paid.
+ 
+(Emphasis supplied)
+Pursuant to the foregoing, the person entitled to claim a tax refund is the taxpayer.  However, in case the taxpayer does not file a claim for refund, the withholding agent may file the claim.
+In 
+Commissioner of Internal Revenue v. Procter & Gamble Philippine Manufacturing Corporation,
+[40]
+ 
+a withholding agent was considered a proper party to file a claim for refund of the withheld taxes of its foreign parent company.  Pertinent portions of the Decision read:
+The term "taxpayer" is defined in our NIRC as referring to "any person subject to tax imposed by the Title [on Tax on Income]."  It thus becomes important to note that under Section 53(c)
+[41]
+ of the NIRC, the withholding agent who is "required to deduct and withhold any tax" is made "personally liable for such tax" and indeed is indemnified against any claims and demands which the stockholder might wish to make in questioning the amount of payments effected by the withholding agent in accordance with the provisions of the NIRC. The withholding agent, P&G-Phil., is directly and independently liable for the correct amount of the tax that should be withheld from the dividend remittances. The withholding agent is, moreover, subject to and liable for deficiency assessments, surcharges and penalties should the amount of the tax withheld be finally found to be less than the amount that should have been withheld under law.
+A "person liable for tax" has been held to be a "person subject to tax" and properly considered a "taxpayer."  The terms "liable for tax" and "subject to tax" both connote legal obligation or duty to pay a tax. 
+It is very difficult, indeed conceptually impossible, to consider a person who is statutorily made "liable for tax" as not "subject to tax." By any reasonable standard, such a person should be regarded as a party in interest, or as a person having sufficient legal interest, to bring a suit for refund of taxes he believes were illegally collected from him.
+In 
+Philippine Guaranty Company, Inc. v. Commissioner of Internal Revenue
+, this Court pointed out that a withholding agent is in fact the agent both of the government and of the taxpayer, and that the withholding agent is not an ordinary government agent:
+"The law sets no condition for the personal liability of the withholding agent to attach. The reason is to compel the withholding agent to withhold the tax under all circumstances. In effect, the responsibility for the collection of the tax as well as the payment thereof is concentrated upon the person over whom the Government has jurisdiction. Thus, the withholding agent is constituted the agent of both the Government and the taxpayer. With respect to the collection and/or withholding of the tax, he is the Government's agent. In regard to the filing of the necessary income tax return and the payment of the tax to the Government, he is the agent of the taxpayer. The withholding agent, therefore, is no ordinary government agent especially because under Section 53 (c) he is held personally liable for the tax he is duty bound to withhold; whereas the Commissioner and his deputies are not made liable by law."
+If, as pointed out in 
+Philippine Guaranty
+, 
+the withholding agent is also an agent of the beneficial owner of the dividends with respect to the filing of the necessary income tax return and with respect to actual payment of the tax to the government, such authority may reasonably be held to include the authority to file a claim for refund and to bring an action for recovery of such claim. 
+This implied authority is especially warranted where, as in the instant case, the withholding agent is the wholly owned subsidiary of the parent-stockholder and therefore, at all times, under the effective control of such parent-stockholder. In the circumstances of this case, it seems particularly unreal to deny the implied authority of P&G-Phil. to claim a refund and to commence an action for such refund.
+x x x x
+We believe and so hold that, under the circumstances of this case, P&G-Phil. is properly regarded as a "taxpayer" within the meaning of Section 309,
+[42]
+ NIRC, and as impliedly authorized to file the claim for refund and the suit to recover such claim.   (Emphasis supplied.)
+Petitioner, however, submits that this ruling applies only when the withholding agent and the taxpayer are related parties, 
+i.e
+., where the withholding agent is a wholly owned subsidiary of the taxpayer.
+We do not agree.
+Although such relation between the taxpayer and the withholding agent is a factor that increases the latter's legal interest to file a claim for refund, there is nothing in the decision to suggest that such relationship is required or that the lack of such relation deprives the withholding agent of the right to file a claim for refund. Rather, what is clear in the decision is that a withholding agent has a legal right to file a claim for refund for two reasons.  
+First
+, he is considered a "taxpayer" under the NIRC as he is personally liable for the withholding tax as well as for deficiency assessments, surcharges, and penalties, should the amount of the tax withheld be finally found to be less than the amount that should have been withheld under law.  
+Second
+, as an agent of the taxpayer, his authority to file the necessary income tax return and to remit the tax withheld to the government impliedly includes the authority to file a claim for refund and to bring an action for recovery of such claim.
+In this connection, it is however significant to add that while the withholding agent has the right to recover the taxes erroneously or illegally collected, he nevertheless has the obligation to remit the same to the principal taxpayer.  As an agent of the taxpayer, it is his duty to return what he has recovered; otherwise, he would be unjustly enriching himself at the expense of the principal taxpayer from whom the taxes were withheld, and from whom he derives his legal right to file a claim for refund.
+As to 
+Silkair (Singapore) Pte, Ltd. v. Commissioner of Internal Revenue
+[43]
+ cited by the petitioner, we find the same inapplicable as it involves excise taxes, not withholding taxes.  In that case, it was ruled that the proper party to question, or seek a refund of, an indirect tax "is the statutory taxpayer, the person on whom the tax is imposed by law and who paid the same even if he shifts the burden thereof to another."
+In view of the foregoing, we find no error on the part of the CTA in upholding respondent's right as a withholding agent to file a claim for refund.
+The payments for the CM and the SIM Application Agreements constitute 
+"business profits" 
+Under the RP-Malaysia Tax Treaty, the term royalties is defined as payments of any kind received as consideration for: "(i) the use of, or the right to use, any patent, trade mark, design or model, plan, secret formula or process, any copyright of literary, artistic or scientific work, or for the use of, or the right to use, industrial, commercial, or scientific equipment, or for information concerning industrial, commercial or scientific experience; (ii) the use of, or the right to use, cinematograph films, or tapes for radio or television broadcasting."
+[44]
+  These are taxed at the rate of 25% of the gross amount.
+[45]
+Under the same Treaty, the "business profits" of an enterprise of a Contracting State is taxable only in that State, unless the enterprise carries on business in the other Contracting State through a permanent establishment.
+[46]
+  The term "permanent establishment" is defined as a fixed place of business where the enterprise is wholly or partly carried on.
+[47]
+  However, even if there is no fixed place of business, an enterprise of a Contracting State is deemed to have a permanent establishment in the other Contracting State if it carries on supervisory activities in that other State for more than six months in connection with a construction, installation or assembly project which is being undertaken in that other State.
+[48]
+In the instant case, it was established during the trial that Prism does not have a permanent establishment in the Philippines. Hence, "business profits" derived from Prism's dealings with respondent are not taxable.  The question is whether the payments made to Prism under the SDM, CM, and SIM Application agreements are "business profits" and not royalties.
+Paragraph 1.3 of the Programming Services (Schedule A) of the SDM Agreement,
+[49]
+ reads:
+1.3 Intellectual Property Rights (IPR)
+The SDM shall be installed by PRISM, including the SDM Libraries, 
+the IPR of which shall be retained by PRISM
+. PRISM, however, shall provide the Client the APIs for the SDM at no cost to the Client. The Client shall be permitted to develop programs to interface with the SDM or the SDM Libraries, using the related APIs as appropriate.
+[50]
+  (Emphasis supplied.)
+Whereas, paragraph 1.4 of the Programming Services (Schedule A) of the CM Agreement and paragraph 1.3 of the Programming Services (Schedule A) of the SIM Agreement provide:
+1.4 Intellectual Property Rights (IPR)
+The 
+IPR of all components of the CM belong to the Client
+ with the exception of the following components, which are provided, without technical or commercial restraints or obligations:
+ConfigurationException.java
+DataStructures (DblLinkedListjava, DbIListNodejava, List
+EmptyException.java, ListFullException.java, ListNodeNotFoundException.java,
+QueueEmptyException.java, QueueFullException.java, QueueList.java, QueuListEx.java, and QueueNodeNotFoundException.java)
+Field MappedObjeet.java
+LogFileEx.java
+Logging (BaseLogger.java and Logger.java)
+PrismGeneric Exception.java
+PrismGenericObject.java
+ProtocolBuilders/CIMD2 (Alive.java, BaseMessageData.
+java, DeliverMessage.java, Login.java, Logout.java, Nack.java, SubmitMessage.java,
+TemplateManagement (FileTemplateDataBag.java, Template
+DataBag.java, TemplateManagerExBag.java, and TemplateParserExBag.java)
+TemplateManager.class
+TemplateServer.class
+TemplateServer$RequestThread.class
+Template Server_skel.class
+TemplateServer_stub.class
+ TemplateService.class
+Prism Crypto Server module for PHP4
+[51]
+x x x x
+1.3 Intellectual Property Rights (IPR)
+The Client shall own the IPR for the Specifications and the Source Code for the SIM Applications
+. PRISM shall develop an executable compiled code (the "Executable Version") of the SIM Applications for use on the aSIMetric card which, however, shall only be for the Client's use. The Executable Version may not be provided by PRISM to any third [party] without the prior written consent of the Client. It is further recognized that the Client anticipates licensing the use of the SIM Applications, but it is agreed that no license fee will be charged to PRISM or to a licensee of the aSIMetrix card from PRISM when SIMs are supplied to the Client.
+[52]
+ (Emphases supplied.)
+The provisions in the agreements are clear.  Prism has intellectual property right over the SDM program, but not over the CM and SIM Application programs as the proprietary rights of these programs belong to respondent.  In other words, out of the payments made to Prism, only the payment for the SDM program is a royalty subject to a 25% withholding tax.  A refund of the erroneously withheld royalty taxes for the payments pertaining to the CM and SIM Application Agreements is therefore in order.
+Indeed, the government has no right to retain what does not belong to it.  "No one, not even the State, should enrich oneself at the expense of another."
+[53]
+WHEREFORE
+, the petition is 
+DENIED.
+  The assailed Decision dated June 28, 2007 and the Resolution dated July 31, 2007 of the Court of Tax Appeals 
+En Banc
+ are hereby 
+AFFIRMED.  
+The Bureau of Internal Revenue is hereby 
+ordered
+ to 
+issue
+ a Tax Credit Certificate to Prism Transactive (M) Sdn. Bhd. in the amount of P3,989,456.43 representing the overpaid final withholding taxes for the month of August 2001.
+  SO ORDERED.
+Corona, C.J., (Chairperson), Velasco, Jr.,  Leonardo-De Castro,
+ and
+ Perez, JJ., 
+concur.
+* 
+ 
+Sometimes referred to as Smart Communications, Inc. in other parts of the records.
+[1]
+ 
+Rollo
+, pp. 47-71; penned by Associate Justice Lovell R. Bautista and concurred in by Presiding Justice Ernesto D. Acosta and Associate Justices Juanito C. CastaÃ±eda, Jr.,  Erlinda P. Uy,  Caesar A. Casanova, and Olga Palanca-Enriquez.
+[2]
+ Id. at 72-74.
+[3]
+  BIR records, pp. 63-9.
+[4]
+  Id. at 1.
+[5]
+  Id. at 3; see also 
+rollo
+, p. 17; US$547,822.45 x 25% = US$136,955.61 x 51.176 = P7,008,840.43 
+(Tax Base x Tax Rate = Final Withholding Tax (FWT) x Prevailing Exchange Rate = FWT remitted to the BIR)
+[6]
+  The Agreement between the Government of the Republic of the Philippines and the Government of Malaysia for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income, signed in Manila on April 27, 1982 and took effect on July 27, 1984.
+[7]
+  BIR records, p. 4.
+[8]
+  Id. at 105-96.
+[9]
+  CTA Second Division 
+rollo
+, pp. 1-14, with Annexes.
+[10]
+ Id. at 10.
+[11]
+ Id. at 11.
+[12]
+ Id. at 8.
+[13]
+ Id. at 8-10.
+[14]
+ Id. at 11.
+[15]
+ Id. at 12.
+[16]
+ Id. at 130-136.
+[17]
+ Id. at 132.
+[18]
+ Id.
+[19]
+ Id. at 341-367.
+[20]
+ 243 Phil. 717 (1988).
+[21]
+ G.R. No. 66838, December 2, 1991, 204 SCRA 377.
+[22]
+ G.R. No. 93901, February 11, 1992 (Minute Resolution).
+[23]
+ CTA Second Division 
+rollo
+, p. 362.
+[24]
+ Id. at 364.
+[25]
+ Id. at 358.
+[26]
+ Id. at 365.
+[27]
+ Id. at 365-366.
+[28]
+ Id. at 372-381 for respondent; id. at 382-393 for petitioner.
+[29]
+ Id. at 430-435.
+[30]
+ The Petition for Review filed by the CIR was docketed as CTA EB No. 206, while the Petition for Review filed by Smart was docketed as CTA EB No. 207.
+[31]
+ CTA 
+En Banc rollo
+ of C.T.A. EB No. 206, pp. 107-108.
+[32]
+ Id. at 171.
+[33]
+ Id. at 176-178.
+[34]
+ Id. at 180.
+[35]
+ Id. at 182.
+[36]
+ Id. at 194-204.
+[37]
+ Id. at 207-209.
+[38]
+ G.R. No. 173594, February 6, 2008, 544 SCRA 100.
+[39]
+ Id. at 112.
+[40]
+ Supra note 21 at 384-387.
+[41]
+ Now Section 57 of the National Internal Revenue Code.
+[42]
+ Now Section 204 (c) of the National Internal Revenue Code.
+[43]
+ Supra note 38 at 112.
+[44]
+ RP-Malaysia Tax Treaty, Article 12, Paragraph 4(a).
+[45]
+ RP-Malaysia Tax Treaty, Article 12, Paragraph 2(b)(ii).
+[46]
+ Article 7
+BUSINESS PROFITS
+1. The profits of an enterprise of a Contracting State shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other State but only on so much thereof as is attributable to that permanent establishment.
+[47]
+ Article 5
+PERMANENT ESTABLISHMENT
+1. For the purposes of this Agreement, the term 'permanent establishment' means a fixed place of business in which the business of the enterprise is wholly or partly carried on.
+2. The term 'permanent establishment' shall include especially:
+(a)   a place of management;
+(b)   a branch;
+(c)   an office;
+(d)   a factory;
+(e)   a workshop;
+(f)    a mine, an oil or gas well, a quarry or other place of extraction of natural resources including timber or other forest produce;
+(g)   a farm or plantation;
+(h) building site or construction, installation or assembly project which exists for more than 6 months.
+x x x x
+[48]
+ Article 5
+x x x x
+4. An enterprise of a Contracting State shall be deemed to have a permanent establishment in the other Contracting State if:
+(a)   it carries on supervisory activities in that other State for more than 6 months in connection with a construction, installation or assembly project which is being undertaken in that other State; or
+(b)   substantial equipment is in that other State being used or installed by, for or under contract with, the enterprise.
+[49]
+ BIR records, pp. 63-47.
+[50]
+ Id. at 49.
+[51]
+ Id. at 32.
+[52]
+ Id. at 14.
+[53]
+ 
+BPI-Family Savings Bank, Inc. v. Court of Appeals,
+ 386 Phil. 719, 721 (2000).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

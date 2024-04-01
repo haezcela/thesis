@@ -1,0 +1,353 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			767 Phil. 782
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 200841-42, August 26, 2015 ]
+
+
+CE LUZON GEOTHERMAL POWER COMPANY, INC., PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+
+D E C I S I O N
+
+
+
+
+PERLAS-BERNABE, J.:
+
+
+Assailed in this petition for review on 
+certlorari
+[1]
+ are the Decision
+[2]
+ dated October 4, 2011 and the Resolution
+[3]
+ dated February 22, 2012 of the Court of Tax Appeals (CTA) 
+En Banc
+ in CTA EB Case Nos. 591 and 628, which set aside the Amended Decision
+[4]
+ dated January 19, 2010 of the CTA Former Second Division (CTA Division) in C.T.A. Case No. 7558 and dismissed petitioner CE Luzon Geothermal Power Company, Inc.'s (CE Luzon) claim for refund of unutilized input value-added tax (VAT) for being prematurely filed.
+The Facts
+CE Luzon is a domestic corporation duly organized and existing under Philippine laws engaged in the business of power generation. It is a VAT-registered entity with Tax Identification No. 003-924-356-000.
+[5]
+ As such, it filed its quarterly VAT returns for the year 2005 on April 25, 2005, July 25, 2005, October 25, 2005, and January 25, 2006, which reflected an overpayment of P20,546,004.87. CE Luzon maintained that its overpayment was due to its domestic purchases of non-capital goods and services, services rendered by non-residents, and importation of non-capital goods.
+[6]
+On November 30, 2006
+, CE Luzon filed an administrative claim for refund of its unutilized input VAT in the amount of P20,546,004.87 before the Bureau of Internal Revenue (BIR). Thereafter, or 
+on January 3, 2007
+, it filed a judicial claim for refund, by way of a petition for review, before the CTA, docketed as CTA Case No. 7558.
+[7]
+For its part, respondent Commissioner of Internal Revenue (CIR) claimed, 
+inter alia
+, that the amount being claimed by CE Luzon as unutilized input VAT was not properly documented and that the filing of its petition for review was premature and, hence, should be denied.
+[8]
+The CTA Division Ruling
+In a Decision
+[9]
+ dated June 24, 2009 (June 24, 2009 Decision), the CTA Division partially granted CE Luzon's claim for tax refund, and thereby ordered the CIR to issue a tax credit certificate in the reduced amount of P14,879,312.65, representing its unutilized input VAT which was attributable to its VAT zero-rated sales for the year 2005.
+[10]
+ It found that while CE Luzon timely filed its administrative and judicial claims within the two (2)-year prescriptive period, it, however, failed to duly substantiate the remainder of its claim for unutilized input VAT, resulting in the partial denial thereof.
+[11]
+Dissatisfied, 
+both parties moved for partial reconsideration
+.
+[12]
+ The CIR maintained that CE Luzon failed to show that its purchases were made in the regular course of its trade and business, and that they were not supported by VAT invoices and official receipts. Meanwhile, CE Luzon-claimed that the CTA Division erred in disallowing the rest of its refund claim.
+[13]
+In an Amended Decision
+[14]
+ dated January 19, 2010 (January 19, 2010 Amended Decision), the CTA Division partially granted CE Luzon's motion for reconsideration, and consequently directed the CIR to issue a tax credit certificate in the reduced amount of P17,277,938.47,
+[15]
+ finding that CE Luzon has sufficiently proven that it is entitled to an additional input VAT in the amount of P2,398,625.82.
+[16]
+ On the other hand, the CTA Division denied the CIR's motion for reconsideration for lack of merit.
+[17]
+The CIR again moved for partial reconsideration,
+[18]
+ which was, however, denied in a Resolution
+[19]
+ dated April 22, 2010.
+Thereafter, CE Luzon and the CIR respectively appealed to the CTA 
+En Banc
+, docketed as CTA EB No. 591
+[20]
+ and CTA EB No. 628,
+[21]
+ which were ordered consolidated in a Resolution
+[22]
+ dated May 20, 2010 for having common questions of fact and law.
+[23]
+The CTA
+ En Banc
+ Ruling
+In a Decision
+[24]
+ dated October 4, 2011, the CTA 
+En Banc
+ set aside the CTA Division's findings, holding that CE Luzon's premature filing of its claim divested the CTA of jurisdiction. It ruled that the filing of a judicial claim must be made within thirty (30) days to be computed from either: (
+a
+) the receipt of the CIR's decision; or (
+b
+) after the expiration of the 120-day period for the CIR to act. It noted that CE Luzon's petition was filed on January 3, 2007, or only after the lapse of 34 days from the time it filed its administrative claim with the BIR on November 30, 2006. Thus, considering that CE Luzon hastily filed its petition, its judicial claim must be dismissed for being filed prematurely.
+[25]
+Aggrieved, CE Luzon moved for reconsideration
+[26]
+ which was denied in a Resolution
+[27]
+ dated February 22, 2012; hence the instant petition.
+The Issue Before the Court
+The core issue in this case is whether or not the CTA 
+En Banc
+ correctly ordered the outright dismissal of CE Luzon's claims for tax refund of unutilized input VAT on the ground of prematurity.
+The Court's Ruling
+The petition is partly meritorious.
+I.
+At the outset, the Court deems it proper to address CE Luzon's claim that the CIR filed a "second" motion for reconsideration of the CTA Division's January 19, 2010 Amended Decision. Considering that a second motion for reconsideration is a prohibited pleading and, thus, did not toll the period to file an appeal, CE Luzon maintained that the June 24, 2009 Decision had long become final and executory.
+[28]
+Under Section 3, Rule 14 of the Revised Rules of the Court of Tax Appeals, an amended decision is issued when there is any action 
+modifying or reversing a decision
+ of the CTA 
+En Banc 
+or in Division. Pursuant to these parameters, it is clear that the CIR's motions for partial reconsideration - 
+i.e., (a)
+ motion for partial reconsideration
+[29]
+ of the June 24, 2009 Decision; and (b) motion for partial reconsideration
+[30]
+ of the January 19, 2010 Amended Decision - assailed separate and distinct decisions that were rendered by the CTA Division. Notably, its amended decision 
+modified and increased
+ CE Luzon's entitlement to a refund or tax credit certificate in the amount of P17,277,938.47. Essentially, it was therefore a different decision and, hence, the proper subject of a motion for reconsideration anew on the part of the CIR. Thus, CE Luzon's procedural objection must fail.
+II.
+On the substantive aspect, it should be first pointed out that the rule governing a taxpayer's claim for refund of unutilized input VAT is found in Section 112 of the National Internal Revenue Code (NIRC), as amended by Republic Act No. 9337,
+[31]
+ the pertinent portion of which reads:
+SEC. 112. 
+Refunds or Tax Credits of Input Tax.
+ -
+(A) 
+Zero-rated or Effectively Zero-rated Sales
+. - any VAT-registered person, whose sales are zero-rated or effectively zero-rated may, 
+within two (2) years after the close of the taxable quarter when the sales were made
+, apply for the issuance of a tax credit certificate or refund of creditable input tax due or paid attributable to such sales, except transitional input tax, to the extent that such input tax has not been applied against output tax: x x x.
+x x x x
+(C) 
+Period within which Refund or Tax Credit of Input Taxes shall be Made.
+ - In proper cases, the Commissioner shall grant a refund or issue the tax credit certificate for creditable input taxes
+ within one hundred twenty (120) days from the date of submission of complete documents
+ in support of the application filed in accordance with Subsection (A) hereof.
+In case of full or partial denial of the claim for tax refund or tax credit, or the failure on the part of the Commissioner to act on the application within the period prescribed above, the taxpayer affected may, 
+within thirty (30) days from the receipt of the decision denying the claim or after the expiration of the one hundred twenty day-period, appeal the decision or the unacted claim with the Court of Tax Appeals.
+x x x x (Emphases and underscoring supplied)
+In the case of 
+CIR v. Aichi Forging Company of Asia, Inc. (Aichi)
+,
+[32]
+ it was held that the observance of the 120-day period is a mandatory and jurisdictional requisite to the filing of a judicial claim for refund before the CTA. As such, its non-observance would warrant the dismissal of the judicial claim for lack of jurisdiction. Withal, it was clarified in Aichi that the two (2)-year prescriptive period is only applicable to administrative claims, and not to judicial claims.
+[33]
+ Accordingly, once the administrative claim is filed within the two (2)-year prescriptive period, the taxpayer-claimant must wait for the lapse of the 120-day period and, thereafter, he has a 30-day period within which to file his judicial claim before the CTA, even if said 120-day and 30-day periods would exceed the aforementioned two (2)-year prescriptive period.
+[34]
+Nevertheless, the Court, in the seminal case of 
+CIR v. San Roque Power Corporation
+ (
+San Roque
+),
+[35]
+ recognized an exception to the mandatory and jurisdictional nature of the 120-day period. San Roque enunciated that BIR Ruling No. DA-489-03 dated December 10, 2003 - which expressly declared that the "taxpayer-claimant need not wait for the lapse of the 120-day period before it could seek judicial relief with the CTA by way of Petition for Review"
+[36]
+ - provided a valid claim for equitable estoppel under Section 246
+[37]
+ of the NIRC.
+In the more recent case of 
+Taganito Mining Corporation v. CIR,
+[38]
+ the Court reconciled the pronouncements in 
+Aichi
+ and 
+San Roque
+, holding that from 
+December 10, 2003 to October 6, 2010
+ which refers to the interregnum when BIR Ruling No. DA-489-03 was issued until the date of promulgation of 
+Aichi
+, taxpayer-claimants need not observe the stringent 120-day period; but before and after said window period, the mandatory and jurisdictional nature of the 120-day period remained in force, 
+viz
+.:
+Reconciling the pronouncements in the 
+Aichi 
+and 
+San Roque
+ cases, the rule must therefore, be that 
+during the period December 10, 2003
+ (when BIR Ruling No. DA-489-03 was issued) 
+to October 6, 2010
+ (when the Aichi case was promulgated), 
+taxpayers-claimants need not observe the 120-day period
+ before it could file a judicial claim for refund of excess input VAT before the CTA. 
+Before and after the aforementioned period (
+i.e
+, December 10, 2003 to October 6, 2010), the observance of the 120-dav period is mandatory and jurisdictional to the filing of such claim.
+[39]
+ (Emphases and underscoring supplied)
+Here, records show that CE Luzon's administrative and judicial claims were filed on November 30, 2006 and January 3, 2007, respectively, or 
+during the period of effectivity of BIR Ruling No. DA-489-03
+ and, thus, fell within the window period stated in 
+San Roque, i.e
+., when taxpayer-claimants need not wait for the expiration of the 120-day period before seeking judicial relief. Verily, the CTA 
+En Banc
+ erred when it outrightly dismissed CE Luzon's petition on the ground of prematurity.
+This notwithstanding, the Court is not wont to instantly grant CE Luzon's refund claim in the amount of P20,546,004.87 which allegedly represented unutilized input VAT for the year 2005. This is because the determination of CE Luzon's entitlement to such claim, if any, would necessarily involve factual issues and, thus, are evidentiary in nature which are beyond the pale of judicial review under a Rule 45 petition where only pure questions of law, not of fact, may be resolved.
+[40]
+ Accordingly, the prudent course of action is to remand the case to the CTA En Banc for resolution on the merits, consistent with the Court's ruling in 
+Panay Power Corporation v. CIR.
+[41]
+WHEREFORE
+, the petition is 
+PARTLY GRANTED
+. Accordingly, the Decision dated October 4, 2011 and the Resolution dated February 22, 2012 of the Court of Tax Appeals 
+En Banc
+ in CTA EB Case Nos. 591 and 628 are hereby 
+SET ASIDE
+. The case is
+ REMANDED
+ to the CTA 
+En Banc
+ for its resolution on the merits as stated in this Decision.
+SO ORDERED.
+Sereno, C.J., (Chairperson), Leonardo-De Castro, Bersamin
+, and
+ Perez, JJ
+., concur.
+[1]
+ 
+Rollo
+, pp. 20-81.
+[2]
+ Id. at 155-176. Penned by Associate Justice Cielito N. Mindaro-Grulla with Associate Justices Juanito C. Castaneda, Jr., Erlinda P.  Uy, Caesar A. Casanova, and Olga Palanca-Enriquez concurring; Presiding Justice Ernesto D. Acosta and Associate Justices Esperanza R. Fabon-Victorino and Amelia R. Cotangco-Manalastas concurring and dissenting; and Associate Justice Lovell R. Bautista with Separate Opinion.
+[3]
+ Id. at 196-203. Penned by Associate Justice Cielito N. Mindaro-Grulla with Associate Justices Juanito C. Castaneda, Jr., Erlinda P.  Uy, Caesar A. Casanova, and Olga Palanca-Enriquez concurring; Presiding Justice Ernesto D. Acosta and Associate Justices Esperanza R. Fabon-Victorino concurring and dissenting; and Associate Justice Lovell R. Bautista with Separate Opinion. Associate Justice Amelia R. Cotangco-Manalastas on wellness leave.
+[4]
+ Id. at 117-135. Penned by Associate Justice Olga Palanca-Enriquez with Associate Justices Juanito C. Castaneda, Jr. and Erlina P. Uy concurring.
+[5]
+ See id. at 90-91.
+[6]
+ Id. at 91.
+[7]
+ See id. at 92.
+[8]
+ See id. at 92-94.
+[9]
+ Id. at 89-113.
+[10]
+ Id. at 111-112.
+[11]
+ See id. at 101-111.
+[12]
+ See the CIR's motion for reconsideration dated July  14, 2009; id. at 207-225. CE Luzon tiled its motion for reconsideration (not attached to the 
+rollo
+) on July 16, 2009; see id. at 117.
+[13]
+ See Id. at 118-119 and 131-132.
+[14]
+ Id. at 117-135.
+[15]
+ Id. at 134.
+[16]
+ See Id. at 130-131.
+[17]
+ Id. at 134.
+[18]
+ Dated February 9, 2010. Id. at 227-245.
+[19]
+ Not attached in the 
+rollo. 
+See Id. at 136.
+[20]
+ Not attached to the 
+rollo
+. See Id. at 29.
+[21]
+ See petition for review dated May 11, 2010; id. at 136-152C.
+[22]
+ Not attached in the 
+rollo
+. See id. at 29.
+[23]
+ Id.
+[24]
+ Id. at 155-176.
+[25]
+ See id. at 165-175.
+[26]
+ Not attached to the 
+rollo
+. 
+[27]
+ Id. at 196-203.
+[28]
+ See id. at 32-40.
+[29]
+ Id. at 207-225.
+[30]
+ Id. at 227-245.
+[31]
+ Entitled "AN ACT AMENDING SECTIONs 27, 28, 34, 106, 107, 108, 109, 110, 111, 112, 113, 114, 116, 117, 119, 121, 148,  151, 236, 237 AND 288 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES." Its effectivity clause provides that it shall take effect on July 1, 2005 but due to a Temporary Restraining Order filed by some taxpayers, the law took effect on November 1, 2005 when the TRO was finally lifted by the Court. (Republic of the Philippines, Bureau of Internal Revenue: Tax Code 
+ [visited August 18 2015].)
+[32]
+ 646 Phil. 710(2010).
+[33]
+ See id. at 713-714 and 723-732.
+[34]
+ See id.
+[35]
+ G.R. Nos. 187485, 196113, and 197156, February 12, 2013, 690 SCRA 336.
+[36]
+ Id. at 401.
+[37]
+ Section 246 of the NIRC provides:
+SEC. 246. 
+Non-Retroactivity of Rulings. 
+- Any revocation, modification or reversal of any of the 
+rules and regulations
+ promulgated in accordance with the preceding Sections or any of the rulings or circulars promulgated by the Commissioner 
+shall not be given retroactive application if the revocation, modification or reversal will be prejudicial to the taxpayers
+, except in the following cases:
+(a) Where the taxpayer deliberately misstates or omits material facts from his return or any document required of him by the Bureau of Internal Revenue;
+(b) Where the facts  subsequently gathered by the  Bureau of Internal  Revenue are materially different from the facts on which the ruling is based; or
+(c) Where the taxpayer acted in bad faith. (Emphases and underscoring supplied)
+[38]
+ G.R. No. 197591, June 18, 2014, 726 SCRA 637.
+[39]
+ Id. at 648.
+[40]
+ See 
+Atlas Consolidated Mining and Dev't Corp. v. CIR
+, 655 Phil. 499, 5 120-511 (2011), citing 
+Atlas Consolidated Mining and Dev't Corp. v. CIR,
+ 551 Phil. 519, 558-560 (2007).
+[41]
+ In said case, an amended decision was likewise issued by the CTA Special First Division dismissing Panay Power Corporation's (PPC) claim for refund for being prematurely filed. Considering, however, that PPC filed its administrative and judicial claims during the effectivity of BIR Ruling No. DA-489-03, 
+i.e.
+, the exemption window period, the Court, thus, ordered the remand of the case to the CTA Special First Division to determine PPC's entitlement, if any, to a tax refund since this matter involves questions of fact. (See G.R. No. 203351, January 21, 2015).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

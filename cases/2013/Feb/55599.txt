@@ -1,0 +1,434 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			705 Phil. 46
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 175108, February 27, 2013 ]
+
+
+CHINA BANKING CORPORATION, PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+D E C I S I O N
+
+
+
+
+PERALTA, J.:
+
+
+This resolves the Petition for Review on 
+Certiorari 
+under Rule 45 of the Rules of Court which seeks the review and reversal of the Decision
+[1]
+ dated June 16, 2006 and Resolution
+[2]
+ dated October 17, 2006 of the former Fifth Division of the Court of Appeals (
+CA
+).
+The factual antecedents follow.
+For the four quarters of 1996, petitioner paid P93,119,433.50 as gross receipts tax (
+GRT
+) on its income from the interests on loan investments, commissions, service and collection charges, foreign exchange profit and other operating earnings.
+In computing its taxable gross receipts, petitioner included the 20% final withholding tax on its passive interest income,
+[3]
+ hereunder summarized as follows:
+ 
+ 
+1996
+ 
+Exhs.
+ 
+Date of Filing Return/Payment
+ 
+ of Tax to the BIR
+ 
+Taxable 
+ 
+Gross Receipts
+ 
+Gross Receipts
+      
+___Tax Paid     
+ 
+ 
+ 
+1
+st
+ qtr.
+ 
+A
+ 
+22-Apr-96
+ 
+P 534,500,491.61
+ 
+P 24,055,944.08
+ 
+ 
+ 
+2
+nd
+ qtr.
+ 
+A-1
+ 
+22-Jul-96
+ 
+582,985,457.89
+ 
+26,394,956.47
+ 
+ 
+ 
+3
+rd
+ qtr.
+ 
+A-2
+ 
+21-Oct-96
+ 
+427,801,196.81
+ 
+18,427,999.31
+ 
+ 
+ 
+4
+th
+ qtr.
+ 
+A-3
+ 
+20-Jan-97
+ 
+      552,378,276.18
+ 
+     24,240,533.64
+ 
+ 
+ 
+ 
+ 
+Total:
+ 
+P 2,097,665,422.49
+ 
+  P 93,119,433.50
+ 
+ 
+On January 30, 1996, the Court of Tax Appeals (CTA) rendered a Decision entitled 
+Asian Bank Corporation v. Commissioner of Internal Revenue,
+[4]
+ wherein it ruled that the 20% final withholding tax on a bankâs passive interest income should not form part of its taxable gross receipts.
+On the strength of the aforementioned decision, petitioner filed with respondent a claim for refund on April 20, 1998, of the alleged overpaid GRT for the four (4) quarters of 1996 in the aggregate amount of P6,646,829.67, detailed as follows:
+ 
+ 
+1996
+ 
+Gross Receipts
+ 
+ __Tax Paid       
+ 
+Corrected Gross 
+ 
+_Receipts Tax   
+ 
+Excess GRT 
+ 
+____Payment      
+ 
+ 
+ 
+1
+st
+ qtr.
+ 
+P 24,055,944.08
+ 
+P 22,114,548.10
+ 
+P 1,941,395.99
+ 
+ 
+ 
+2
+nd
+ qtr.
+ 
+26,394,956.45
+ 
+25,050,429.40
+ 
+1,344,527.06
+ 
+ 
+ 
+3
+rd
+ qtr.
+ 
+18,427,999.33
+ 
+17,087,138.98
+ 
+1,340,860.34
+ 
+ 
+ 
+4
+th
+ qtr.
+ 
+____24,240,533.64
+ 
+__22,219,487.36
+ 
+___2,021,046.28
+ 
+ 
+ 
+Total:
+ 
+__P 93,119,433.50
+ 
+_P 86,471,603.84
+ 
+__P 6,646,829.67
+ 
+ 
+On even date, petitioner filed its Petition for Review with the CTA.
+The CTA, on November 8, 2000, rendered a Decision
+[5]
+ agreeing with petitioner that the 20% final withholding tax on interest income does not form part of its taxable gross receipts. However, the CTA dismissed petitionerâs claim for its failure to prove that the 20% final withholding tax forms part of its 1996 taxable gross receipts. The Decision states in part:
+Moreover, the Court of Appeals in the case of 
+Commissioner of Internal Revenue vs. Citytrust Investment Philippines, Inc., CA G.R. Sp No. 52707, August 17, 1999,
+ affirmed our stand that the 20% final withholding tax on interest income should not form part of the taxable gross receipts. Hence, we find no cogent reason nor justification to depart from the wisdom of our decision in the Asian Bank case, supra.
+x x x x
+Lastly, since Petitioner failed to prove the inclusion of the 20% final withholding taxes as part of its 1996 taxable gross receipts (passive income) or gross receipts (passive income) that were subjected to 5% GRT, it follows that proof was wanting that it paid the claimed excess GRT, subject of this petition.
+x x x x
+IN THE LIGHT OF ALL THE FOREGOING, the instant Petition for Review is DISMISSED for insufficiency of evidence.
+SO ORDERED.
+[6]
+Not in conformity with the CTAâs ruling, petitioner interposed an appeal before the CA.
+In its appeal, petitioner insists that it erroneously included the 20% final withholding tax on the bankâs passive interest income in computing the taxable gross receipts. Therefore, it argues that it is entitled, as a matter of right, to a refund or tax credit.
+In a Decision
+[7]
+ dated June 16, 2006, the CA denied petitionerâs appeal. It ruled in this wise:
+x x x Unfortunately for China Bank, it is flogging a dead horse as this argument has already been shot down in 
+China Banking Corporation vs. Court of Appeals
+ (G.R. No. 146749 & No. 147983, June 10, 2003) where it was ruled the Tax Court, which decided 
+Asia Bank
+ on June 30, 1996 not only erroneously interpreted Section 4(e) of Revenue Regulations No. 12-80, it also cited Section 4(e) when it was no longer the applicable revenue regulation. The revenue regulations applicable at the time the tax court decided 
+Asia Bank
+ was Revenue Regulations No. 17-84, not Revenue Regulation 12-80.
+x x x x
+WHEREFORE, the instant petition is DENIED DUE COURSE and DISMISSED.
+SO ORDERED.
+[8]
+Petitioner sought reconsideration of the aforementioned decision arguing that Section 4 (e) of Revenue Regulations (
+RR
+) No. 12-80 remains applicable as the basis of GRT for banks in taxable year 1996.
+On October 17, 2006, the CA issued a Resolution
+[9]
+ denying petitionerâs motion for reconsideration on the ground that no new or compelling reason was presented by petitioner to warrant the reversal or modification of its decision.
+Hence, this petition wherein petitioner contends that:
+THE COURT OF APPEALS ERRED IN HOLDING THAT PETITIONER HAS FAILED TO POINT TO THE LEGAL BASIS FOR THE EXCLUSION OF THE AMOUNT OF TAX WITHHELD ON PASSIVE INCOME FROM ITS GROSS RECEIPTS FOR PURPOSES OF TAXATION.
+[10]
+In essence, the issue to be resolved is whether the 20% final tax withheld on a bankâs passive income should be included in the computation of the GRT.
+Petitioner avers that the 20% final tax withheld on its passive income should not be included in the computation of its taxable gross receipts. It insists that the CA erred in ruling that it failed to show the legal basis for its claimed tax refund or credit, since Section 4 (e) of RR No. 12-80 categorically provides for the exclusion of the amount of taxes withheld from the computation of gross receipts for GRT purposes.
+We do not agree.
+In a catena of cases, this Court has already resolved the issue of whether the 20% final withholding tax should form part of the total gross receipts for purposes of computing the GRT.
+In 
+China Banking Corporation v. Court of Appeals,
+[11]
+ we ruled that the amount of interest income withheld, in payment of the 20% final withholding tax, forms part of the bankâs gross receipts in computing the GRT on banks.  The discussion in this case is instructive on this score:
+The gross receipts tax on banks was first imposed on 1 October 1946 by Republic Act No. 39 (âRA No. 39â) which amended Section 249 of the Tax Code of 1939. Interest income on banks, without any deduction, formed part of their taxable gross receipts. From October 1946 to June 1977, there was no withholding tax on interest income from bank deposits.
+On 3 June 1977, Presidential Decree No. 1156 required the withholding at source of a 15% tax on interest on bank deposits. This tax was a creditable, not a final withholding tax. Despite the withholding of the 15% tax, the entire interest income, without any deduction, formed part of the bankâs taxable gross receipts. On 17 September 1980, Presidential Decree No. 1739 made the withholding tax on interest a final tax at the rate of 15% on savings account, and 20% on time deposits. Still, from 1980 until the Court of Tax Appeals decision in 
+Asia Bank
+ on 30 January 1996, banks included the entire interest income, without any deduction, in their taxable gross receipts.
+In 
+Asia Bank
+, the Court of Tax Appeals held that the final withholding tax is not part of the bankâs taxable gross receipts. The tax court anchored its ruling on Section 4(e) of Revenue Regulations No. 12-80, which stated that the gross receipts âshall be based on all items actually receivedâ by the bank. The tax court ruled that the bank does not actually receive the final withholding tax. As authority, the tax court cited 
+Collector of Internal Revenue v. Manila Jockey Club,
+ which held that âgross receipts of the proprietor should not include any money which although delivered to the amusement place had been especially earmarked by law or regulation for some person other than the proprietor. x x x
+Subsequently, the Court of Tax Appeals reversed its ruling in 
+Asia Bank. In Far East Bank & Trust Co. v. Commissioner
+ an
+d Standard Chartered Bank v. Commissioner
+, both promulgated on 16 November 2001, the tax court ruled that 
+the final withholding tax forms part of the bankâs gross receipts in computing the gross receipts tax
+. The tax court held that Section 4(e) of Revenue Regulations 12-80 did not prescribe the computation of the gross receipts but merely authorized âthe determination of the amount of gross receipts on the basis of the method of accounting being used by the taxpayer.
+The tax court also held in 
+Far East Bank
+ and 
+Standard Chartered Bank
+ 
+that the exclusion of the final withholding tax from gross receipts operates as a tax exemption which the law must expressly grant. No law provides for such exemption. In addition, the tax court pointed out that Section 7(c) of Revenue Regulations No. 17-84 had already superseded Section 4(e) of Revenue Regulations No. 12-80.
+ x x x
+[12]
+ (Emphasis supplied)
+Notably, this Court, in the same case, held that under RR Nos. 12-80 and 17-84, the Bureau of Internal Revenue (BIR) has consistently ruled that the term gross receipts do not admit of any deduction. It emphasized that interest earned by banks, even if subject to the final tax and excluded from taxable gross income, forms part of its gross receipt for GRT purposes. The interest earned refers to the gross interest without deduction, since the regulations do not provide for any deduction.
+[13]
+Further, in 
+Commissioner of Internal Revenue v. Solidbank Corporation
+,
+[14]
+ this Court held that âgross receiptsâ refer to the total, as opposed to the net, income. These are, therefore, the total receipts before any deduction for the expenses of management.
+[15]
+In 
+Commissioner of Internal Revenue v. Bank of Commerce
+,
+[16]
+ we again adhered to the ruling that the term âgross receiptsâ must be understood in its plain and ordinary meaning. In this case, we ruled that gross receipts should be interpreted as the whole amount received as interest, without deductions; otherwise, if deductions were to be made from gross receipts, it would be considered as ânet receipts.â  The Court ratiocinated as follows:
+The word âgrossâ must be used in its plain and ordinary meaning. It is defined as âwhole, entire, total, without deduction.â A common definition is âwithout deduction.â x x x Gross is the antithesis of net. Indeed, in 
+China Banking Corporation v. Court of Appeals,
+ the Court defined the term in this wise:
+As commonly understood, the term âgross receiptsâ means the entire receipts without any deduction. Deducting any amount from the gross receipts changes the result, and the meaning, to net receipts. Any deduction from gross receipts is inconsistent with a law that mandates a tax on gross receipts, unless the law itself makes an exception. As explained by the 
+Supreme Court of Pennsylvania in Commonwealth of Pennsylvania v. Koppers Company, Inc
+. â
+Highly refined and technical tax concepts have been developed by the accountant and legal technician primarily because of the impact of federal income tax legislation. However, this in no way should affect or control the normal usage of words in the construction of our statutes; x x x 
+Under the ordinary basic methods of handling accounts, the term gross receipts, in the absence of any statutory definition of the term, must be taken to include the whole total gross receipts without any deductions
+, x x x.
+[17]
+Again, in 
+Commissioner of Internal Revenue v. Bank of the Philippine Islands
+,
+[18]
+ this Court ruled that âthe legislative intent to apply the term in its ordinary meaning may also be surmised from a historical perspective of the levy on gross receipts. From the time the gross receipts tax on banks was first imposed in 1946 under R.A. No. 39 and throughout its successive reenactments, the legislature has not established a definition of the term âgross receipts.â Absent a statutory definition of the term, the BIR had consistently applied it in its ordinary meaning, 
+i.e
+., without deduction. On the presumption that the legislature is familiar with the contemporaneous interpretation of a statute given by the administrative agency tasked to enforce the statute, subsequent legislative reenactments of the subject levy sans a definition of the term âgross receiptsâ reflect that the BIRâs application of the term carries out the legislative purpose.â
+[19]
+In sum, all the aforementioned cases are one in saying that âgross receiptsâ comprise âthe entire receipts without any deduction.â Clearly, then, the 20% final withholding tax should form part of petitionerâs total gross receipts for purposes of computing the GRT.
+Also worth noting is the fact that petitionerâs reliance on Section 4 (e) of RR 12-80 is misplaced as the same was already superseded by a more recent issuance, RR No. 17-84.
+This fact was elucidated on by the Court in the case of
+ Commissioner of Internal Revenue v. Citytrust Investment Phils. Inc.
+,
+[20]
+ where it held that RR No. 12-80 had already been superseded by RR No. 17-84, 
+viz
+.:
+x x x  
+Revenue Regulations No. 12-80, issued on November 7, 1980, had been superseded by Revenue Regulations No. 17-84 issued on October 12, 1984
+. Section 4 (e) of Revenue Regulations No. 12-80 provides that only items of income actually received shall be included in the tax base for computing the GRT. On the other hand, 
+Section 7 (c) of Revenue Regulations No. 17-84 includes all interest income in computing the GRT
+, thus:
+Section 7
+. 
+Nature and Treatment of Interest on Deposits and Yield on Deposit Substitutes
+. â
+ 
+ 
+(a) 
+ 
+The interest earned on Philippine Currency bank deposits and yield from deposit substitutes subjected to the withholding taxes in accordance with these regulations need not be included in the gross income in computing the depositorâs/ investorâs income tax liability. x x x
+ 
+ 
+ 
+(b) 
+ 
+Only interest paid or accrued on bank deposits, or yield from deposit substitutes declared for purposes of imposing the withholding taxes in accordance with these regulations shall be allowed as interest expense deductible for purposes of computing taxable net income of the payor.
+ 
+ 
+ 
+(c)
+ 
+ 
+If the recipient of the above-mentioned items of income are financial institutions, the same shall be included as part of the tax base upon which the gross receipt tax is imposed.
+ 
+ 
+Revenue Regulations No. 17-84 categorically states that
+ if the recipient of the above-mentioned items of income are financial institutions, the same shall be included as part of the tax base upon which the gross receipts tax is imposed
+. x x x.
+[21]
+ (Emphasis supplied)
+Significantly, the Court even categorically stated in the aforementioned case that there is an implied repeal of Section 4 (e).  It held that there exists a disparity between Section 4 (e) of RR No. 12-80, which imposes the GRT only on all items of income actually received (as opposed to their mere accrual) and Section 7 (c) of RR No. 17-84, which includes
+ all interest income
+ (whether actual or accrued) in computing the GRT.   Plainly, RR No. 17-84, which requires interest income, whether actually received or merely accrued, to form part of the bankâs taxable gross receipts, should prevail.
+[22]
+All told, petitioner failed to point to any specific provision of law allowing the deduction, exemption or exclusion from its taxable gross receipts, of the amount withheld as final tax. Besides, the exclusion sought by petitioner of the 20% final tax on its passive income from the taxpayerâs tax base constitutes a tax exemption, which is highly disfavored. A governing principle in taxation states that tax exemptions are to be construed in 
+strictissimi juris
+ against the taxpayer and liberally in favor of the taxing authority and should be granted only by clear and unmistakable terms.
+[23]
+WHEREFORE
+, premises considered, the Decision dated June 16, 2006 and Resolution dated October 17, 2006 of the former Fifth Division of the Court of Appeals are hereby 
+AFFIRMED
+ 
+in toto.
+SO ORDERED.
+Velasco, Jr., (Chairperson), Abad, Mendoza
+, and
+ Leonen, JJ.
+, concur.
+[1]
+ Penned by Associate Justice Roberto A. Barrios, with Associate Justices Mario L. GuariÃ±a III and Arcangelita M. Romilla-Lontok, concurring. 
+rollo,
+ pp. 154-158.
+[2]
+ Id. at 167-168.
+[3]
+ Id. at 155.
+[4]
+ CTA Case No. 4720, January 30, 1996.
+[5]
+ 
+Rollo
+, pp. 36-45.
+[6]
+ Id. at 41-44. (Italics in the original).
+[7]
+ Id. at 154-158.
+[8]
+ Id. at 156-157. (Italics in the original).
+[9]
+ Id. at 167-168.
+[10]
+ Id. at 25.
+[11]
+ G.R. Nos. 146749 and 147938, June 10, 2003, 403 SCRA 634; 451 Phil. 772 (2003).
+[12]
+ Id. at 643-645; at 786-788.
+[13]
+ Id. at 651-659; at 793-803.
+[14]
+ G.R. No. 148191, November 25, 2003, 416 SCRA 436; 462 Phil. 96 (2003).
+[15]
+ Id. at 454; at 124.
+[16]
+ G.R. No. 149636, June 8, 2005, 459 SCRA 638; 498 Phil. 673 (2005).
+[17]
+ Id. at 649-650; at 685-686.
+[18]
+ G.R. No. 147375, June 26, 2006, 492 SCRA 551; 525 Phil. 624 (2006).
+[19]
+ Id. at 564; at 634-635.
+[20]
+ G.R. Nos. 139786 and 140857, September 27, 2006, 503 SCRA 398; 534 Phil. 517 (2006).
+[21]
+ Id. at 412-413; at 534-535.
+[22]
+ Id. at 413; at 535.
+[23]
+ Id. at 416; at 538.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

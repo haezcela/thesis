@@ -1,0 +1,308 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			687 Phil. 328
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 181136, June 13, 2012 ]
+
+
+WESTERN MINDANAO POWER CORPORATION, PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+D E C I S I O N
+
+
+
+
+SERENO, J.:
+
+
+This is a Petition for Review under Rule 45 seeking the reversal of the 15 November 2007 Decision and 9 January 2008 Resolution of the Court of Tax Appeals (CTA) En Banc in C.T.A. EB No. 272,
+[1]
+ which upheld the Court of Tax Appeals Second Divisionâs denial of the Petition for refund of unutilized input Value Added Tax (VAT) on the ground that the Official Receipts of petitioner Western Mindanao Power Corporation (WMPC) did not contain the phrase âzero-rated,â as required under Revenue Regulations No. 7-95 (RR 7-95).
+Petitioner WMPC is a domestic corporation engaged in the production and sale of electricity. It is registered with the Bureau of Internal Revenue (BIR) as a VAT taxpayer. Petitioner alleges that it sells electricity solely to the National Power Corporation (NPC), which is in turn exempt from the payment of all forms of taxes, duties, fees and imposts, pursuant to Section 13
+[2]
+ of Republic Act (R.A.) No. 6395 (An Act Revising the Charter of the National Power Corporation). In view thereof and pursuant to Section 108(B) (3) of the National Internal Revenue Code (NIRC),
+[3]
+ petitionerâs power generation services to NPC is zero-rated.
+Under Section 112(A) of the NIRC,
+[4]
+ a VAT-registered taxpayer may, within two years after the close of the taxable quarter, apply for the issuance of a tax credit or refund of creditable input tax due or paid and attributable to zero-rated or effectively zero-rated sales. Hence, on 20 June 2000 and 13 June 2001, WMPC filed with the Commissioner of Internal Revenue (CIR) applications for a tax credit certificate of its input VAT covering the taxable 3rd and 4th quarters of 1999 (amounting to P3,675,026.67)
+[5]
+ and all the taxable quarters of 2000 (amounting to P5,649,256.81).
+[6]
+Noting that the CIR was not acting on its application, and fearing that its claim would soon be barred by prescription, WMPC on 28 September 2001 filed with the Court of Tax Appeals (CTA) in Division a Petition for Review docketed as C.T.A. Case No. 6335, seeking refund/tax credit certificates for the total amount of P9,324,283.30.
+The CIR filed its Comment on the CTA Petition, arguing that WMPC was not entitled to the latterâs claim for a tax refund in view of its failure to comply with the invoicing requirements under Section 113 of the NIRC in relation to Section 4.108-1 of RR 7-95, which provides:
+SECTION 4.108-1.   Invoicing Requirements â All VAT-registered persons shall, for every sale or lease of goods or properties or services, issue duly registered receipts or sales or commercial invoices which must show:
+1. the name, TIN and address of seller;
+2. date of transaction;
+3. quantity, unit cost and description of merchandise or nature of service;
+4. the name, TIN, business style, if any, and address of the VAT-registered purchaser, customer or client;
+5. 
+the word âzero ratedâ imprinted on the invoice covering zero-rated sales; and
+6. the invoice value or consideration.
+In the case of sale of real property subject to VAT and where the zonal or market value is higher than the actual consideration, the VAT shall be separately indicated in the invoice or receipt.
+Only VAT-registered persons are required to print their TIN followed by the word âVATâ in their invoice or receipts and this shall be considered as a âVAT Invoice.â All purchases covered by invoices other than âVATâ Invoice" shall not give rise to any input tax.
+If the taxable person is also engaged in exempt operations, he should issue separate invoices or receipts for the taxable and exempt operations. A âVAT Invoiceâ shall be issued only for sales of goods, properties or services subject to VAT imposed in Sections 100 and 102 of the Code.
+The invoice or receipt shall be prepared at least in duplicate, the original to be given to the buyer and the duplicate to be retained by the seller as part of his accounting records. (Underscoring supplied.)
+WMPC countered that the invoicing and accounting requirements laid down in RR 7-95 were merely âcompliance requirements,â which were not indispensable to establish the claim for refund of excess and unutilized input VAT. Also, Section 113 of the NIRC prevailing at the time the sales transactions were made did not expressly state that failure to comply with all the invoicing requirements would result in the disallowance of a tax credit refund. 
+[7]
+  The express requirement â that âthe term â
+zero-rated sale
+â shall be written or printed prominentlyâ on the VAT invoice or official receipt for sales subject to zero percent (0%) VAT â appeared in Section 113 of the NIRC only after it was amended by Section 11 of R.A. 9337.
+[8]
+ This amendment cannot be applied retroactively, considering that it took effect only on 1 July 2005, or long after petitioner filed its claim for a tax refund, and considering further that the RR 7-95 is punitive in nature. Further, since there was no statutory requirement for imprinting the phrase âzero-ratedâ on official receipts prior to 1 July 2005, the RR 7-95 constituted undue expansion of the scope of the legislation it sought to implement.
+CTA Second Division Decision
+On 1 September 2006, the CTA Second Division dismissed
+[9]
+ the Petition. It held that while petitioner submitted in evidence its Quarterly VAT Returns for the periods applied for, âthe same do not reflect any zero-rated or effectively zero-rated sales allegedly incurred during said periods. The spaces provided for such amounts were left blank, which only shows that there existed no zero-rated or effectively zero-rated sales for the 3
+rd
+ and 4
+th
+ quarters of 1999 and the four quarters of 2000.â
+[10]
+ Moreover, it found that petitionerâs VAT Invoices and Official Receipts did not contain on their face the phrase âzero-rated,â contrary to Section 4.108-1 of RR 7-95.
+Petitioner moved for reconsideration, but the motion was denied by the CTA in Division in its Resolution dated 30 January 2007.
+[11]
+CTA En Banc Decision
+On 13 March 2007, WMPC appealed to the CTA En Banc, which on 15 November 2007 issued a Decision dismissing the appeal and affirming the CTA ruling. The CTA En Banc held that the receipts and evidence presented by petitioner failed to fully substantiate the existence of the latterâs effectively zero-rated sales to NPC for the 3
+rd
+ and 4
+th
+ quarters of taxable year 1999 and the four quarters of taxable year 2000. The CTA En Banc quoted the CTA Second Division finding that the Quarterly VAT Returns that petitioner adduced in evidence did not reflect any zero-rated or effectively zero-rated sales allegedly incurred during the said period, to wit:
+Petitioner submitted in evidence its Quarterly Value Added Tax Returns for the 3
+rd
+ and 4
+th
+ quarters of 1999 and the four quarters of 2000 to prove that it had duly reported the input taxes paid on its domestic purchases of goods and services (Exhibits âEâ to âJâ). However, a closer examination of the returns clearly shows that the same do not reflect any zero-rated or effectively zero-rated sales allegedly incurred during the said periods. The spaces provided for such amounts were left blank, which only shows that there existed no zero-rated or effectively zero-rated sales for the 3
+rd
+ and 4
+th
+ quarters of 1999 and the four quarters of 2000.
+In addition, the CTA En Banc noted that petitionerâs Official Receipts and VAT Invoices did not have the word âzero-ratedâ imprinted/stamped thereon, contrary to the clear mandate of Section 4.108-1 of RR 7-95.
+CTA Presiding Justice Ernesto Acosta filed a Concurring and Dissenting Opinion. Justice Acosta disagreed with the majorityâs view regarding the supposed mandatory requirement of imprinting the term âzero-ratedâ on official receipts or invoices. He opined that Section 113 in relation to Section 237
+[12]
+ of the NIRC does not require the imprinting of the phrase âzero-ratedâ on an invoice or official receipt for the document to be considered valid for the purpose of claiming a refund or an issuance of a tax credit certificate. Hence, the absence of the term âzero-ratedâ in an invoice or official receipt does not affect its admissibility or competency as evidence in support of a refund claim. Also, assuming that stamping the term âzero-ratedâ on an invoice or official receipt is a requirement of the current NIRC, the denial of a refund claim is not the imposable penalty for failure to comply with that requirement.
+Nevertheless, Justice Acosta agreed with the âdecision to deny the claim due to petitionerâs failure to prove the input taxes it paid on its domestic purchases of goods and services during the period involved.â
+WMPC filed a Motion for Reconsideration, which was denied by the CTA En Banc in a Resolution dated 9 January 2008.
+[13]
+Hence, the present Petition.
+Issue
+Whether the CTA En Banc seriously erred in dismissing the claim of petitioner for a refund or tax credit on input tax on the ground that the latterâs Official Receipts do not contain the phrase âzero-ratedâ
+Our Ruling
+We deny the Petition.
+Being a derogation of the sovereign authority, a statute granting tax exemption is strictly construed against the person or entity claiming the exemption. When based on such statute, a claim for tax refund partakes of the nature of an exemption. Hence, the same rule of strict interpretation against the taxpayer-claimant applies to the claim.
+[14]
+In the present case, petitionerâs claim for a refund or tax credit of input VAT is anchored on Section 112(A) of the NIRC, viz:
+Section 112
+. 
+Refunds or Tax Credits of Input Tax. 
+-
+(A) 
+Zero-rated or Effectively Zero-rated Sales.
+ - any VAT-registered person, whose sales are zero-rated or effectively zero-rated may, within two (2) years after the close of the taxable quarter when the sales were made, apply for the issuance of a tax credit certificate or refund of creditable input tax due or paid attributable to such sales, except transitional input tax, to the extent that such input tax has not been applied against output tax: Provided, however, That in the case of zero-rated sales under Section 106(A)(2)(a)(1), (2) and (B) and Section 108 (B)(1) and (2), the acceptable foreign currency exchange proceeds thereof had been duly accounted for in accordance with the rules and regulations of the 
+Bangko Sentral ng Pilipinas
+ (BSP): Provided, further, That where the taxpayer is engaged in zero-rated or effectively zero-rated sale and also in taxable or exempt sale of goods of properties or services, and the amount of creditable input tax due or paid cannot be directly and entirely attributed to any one of the transactions, it shall be allocated proportionately on the basis of the volume of sales.
+Thus, a taxpayer engaged in zero-rated or effectively zero-rated sale may apply for the issuance of a tax credit certificate, or refund of creditable input tax due or paid, attributable to the sale.
+In a claim for tax refund or tax credit, the applicant must prove not only entitlement to the grant of the claim under substantive law. It must also show satisfaction of all the documentary and evidentiary requirements for an administrative claim for a refund or tax credit.
+[15]
+ Hence, the mere fact that petitionerâs application for zero-rating has been approved by the CIR does not, by itself, justify the grant of a refund or tax credit. The taxpayer claiming the refund must further comply with the invoicing and accounting requirements mandated by the NIRC, as well as by revenue regulations implementing them. 
+[16]
+Under the NIRC, a creditable input tax should be evidenced by a VAT invoice or official receipt,
+[17]
+ which may only be considered as such when it complies with the requirements of RR 7-95, particularly Section 4.108-1. This section requires, among others, that â(i)f the sale is subject to zero percent (0%) value-added tax, the term âzero-rated saleâ shall be written or printed prominently on the invoice or receipt.â
+We are not persuaded by petitionerâs argument that RR 7-95 constitutes undue expansion of the scope of the legislation it seeks to implement on the ground that the statutory requirement for imprinting the phrase âzero-ratedâ on VAT official receipts appears only in Republic Act No. 9337. This law took effect on 1 July 2005, or long after petitioner had filed its claim for a refund.
+RR 7-95, which took effect on 1 January 1996, proceeds from the rule-making authority granted to the Secretary of Finance by the NIRC for the efficient enforcement of the same Tax Code and its amendments. In 
+Panasonic Communications Imaging Corporation of the Philippines v. Commissioner of Internal Revenue
+,
+[18]
+ we ruled that this provision is âreasonable and is in accord with the efficient collection of VAT from the covered sales of goods and services.â Moreover, we have held in 
+Kepco Philippines Corporation v. Commissioner of Internal Revenue
+[19]
+ that the subsequent incorporation of Section 4.108-1 of RR 7-95 in Section 113 (B) (2) (c) of R.A. 9337 actually confirmed the validity of the imprinting requirement on VAT invoices or official receipts â a case falling under the principle of legislative approval of administrative interpretation by reenactment.
+In fact, this Court has consistently held as fatal the failure to print the word âzero-ratedâ on the VAT invoices or official receipts in claims for a refund or credit of input VAT on zero-rated sales, even if the claims were made prior to the effectivity of R.A. 9337.
+[20]
+ Clearly then, the present Petition must be denied.
+In addition, it is notable that the CTA Second Division and the CTA En Banc, including Presiding Justice Acosta in his Concurring and Dissenting Opinion, both found that petitioner failed to sufficiently substantiate the existence of its effectively zero-rated sales to NPC for the 3
+rd
+ and 4
+th
+ quarters of taxable year 1999, as well as all four quarters of taxable year 2000. It must also be noted that the CTA is a highly specialized court dedicated exclusively to the study and consideration of revenue-related problems, in which it has necessarily developed an expertise.
+[21]
+ Hence, its factual findings, when supported by substantial evidence, will not be disturbed on appeal.
+[22]
+ We find no sufficient reason to exempt the present case from this general rule.
+WHEREFORE,
+ premises considered, we 
+DENY
+ the Petition and 
+AFFIRM
+ the Decision dated 15 November 2007 and Resolution dated 9 January 2008 of the Court of Tax Appeals En Banc in CTA EB No. 272.
+SO ORDERED.
+Carpio, (Chairperson), Brion, Perez
+, and 
+Reyes, JJ.,
+ concur.
+[1]
+ 
+Rollo
+, pp. 60-75. The Court of Tax Appeals En Banc Decision in C.T.A. EB No. 272 was penned by Justice Lovell Bautista and concurred in by Justices Juanito Castaneda, Jr., Erlinda Uy, Caesar Casanova and Olga Palanca-Enriquez. Meanwhile, Presiding Justice Ernesto Acosta rendered a Concurring and Dissenting Opinion.
+[2]
+ Sec. 13. Non-profit Character of the Corporation; Exemption from all Taxes, Duties, Fees, Imposts and other Charges by Government and Governmental Instrumentalities. The Corporation shall be non-profit and shall devote all its returns from its capital investment, as well as excess revenues from its operation, for expansion. To enable the Corporation to pay its indebtedness and obligations and in furtherance and effective implementation of the policy enunciated in Section one of this Act, the Corporation is hereby declared exempt:
+(a) From the payment of all taxes, duties, fees, imposts, charges, costs and service fees in any court or administrative proceedings in which it may be a party, restrictions and duties to the Republic of the Philippines, its provinces, cities, municipalities and other government agencies and instrumentalities;
+(b) From all income taxes, franchise taxes and realty taxes to be paid to the National Government, its provinces, cities, municipalities and other government agencies and instrumentalities;
+(c) From all import duties, compensating taxes and advanced sales tax, and wharfage fees on import of foreign goods required for its operations and projects; and
+(d) From all taxes, duties, fees, imposts, and all other charges imposed by the Republic of the Philippines, its provinces, cities, municipalities and other government agencies and instrumentalities, on all petroleum products used by the Corporation in the generation, transmission, utilization, and sale of electric power.
+[3]
+ (B) Transactions subject to zero rate. â The following services performed in the Philippines by VAT-registered persons shall be subject to 0%:
+xxx  xxx  xxx
+(3) Services rendered to persons or entities whose exemption under special laws or international agreement to which the Philippines is a signatory effectively subjects the supply of such services to zero rate.â
+[4]
+ â(A) Any VAT-registered person, whose sales are zero-rated or effectively zero-rated may, within two (2) years after the close of the taxable quarter when the sales were made, apply for the issuance of a tax credit certificate or refund of creditable input tax due or paid attributable to such sales, except transitional input tax, to the extent that such input tax has not been applied against output tax; xxxâ
+[5]
+  QUARTER                         INPUT VAT
+3rd                                  1,749,995.92
+ 
+4th                                 1,925,030.57
+Total                                3,675,026.49
+[6]
+  QUARTER                           INPUT VAT
+1st                                  1,176,382.70
+2nd                                 1,531,208.07
+3rd                                    610,322.35
+4th                                  2,331,343.69
+Total                                  5,649,256
+[7]
+ In the year 2000, Section 113 of the NIRC (R.A. No. 8424 or the Tax Reform Act of 1997) reads:
+SEC. 113. Invoicing and Accounting Requirements for VAT-Registered Persons
+. â
+(A) Invoicing Requirements.
+ - A VAT-registered person shall, for every sale, issue an invoice or receipt. In addition to the information required under Section 237, the following information shall be indicated in the invoice or receipt:
+(1) A statement that the seller is a VAT-registered person, followed by his taxpayer's identification number (TIN); and
+(2) The total amount which the purchaser pays or is obligated to pay to the seller with the indication that such amount includes the value-added tax.
+(B) Accounting Requirements
+. - Notwithstanding the provisions of Section 233, all persons subject to the value-added tax under Sections 106 and 108 shall, in addition to the regular accounting records required, maintain a subsidiary sales journal and subsidiary purchase journal on which the daily sales and purchases are recorded. The subsidiary journals shall contain such information as may be required by the Secretary of Finance.
+[8]
+ SEC. 11. Section 113 of the same Code, as amended, is hereby further amended to read as follows:
+âSEC. 113. 
+Invoicing and Accounting Requirements for VAT-Registered Persons. -
+(A)
+ Invoicing Requirements.
+ - A VAT-registered person shall issue:
+(1) A VAT invoice for every sale, barter or exchange of goods or properties; and
+(2) A VAT official receipt for every lease of goods or properties, and for every sale, barter or exchange of services.
+(B)
+ Information Contained in the VAT Invoice or VAT Official Receipt. 
+- The following information shall be indicated in the VAT invoice or VAT official receipt:
+(1) A statement that the seller is a VAT-registered person, followed by his taxpayer's identification number (TIN);
+(2) The total amount which the purchaser pays or is obligated to pay to the seller with the indication that such amount includes the value-added tax: 
+Provided
+, That:
+(a) The amount of the tax shall be shown as a separate item in the invoice or receipt;
+(b) If the sale is exempt from value-added tax, the term â
+VAT-exempt sale
+â shall be written or printed prominently on the invoice or receipt;
+(c) 
+If the sale is subject to zero percent (0%) value-added tax, the term â
+zero-rated sale
+â shall be written or printed prominently on the invoice or receipt;
+(d) If the sale involves goods, properties or services some of which are subject to and some of which are VAT zero-rated or VAT-exempt, the invoice or receipt shall clearly indicate the breakdown of the sale price between its taxable, exempt and zero-rated components, and the calculation of the value-added tax on each portion of the sale shall be shown on the invoice or receipt: "Provided, That the seller may issue separate invoices or receipts for the taxable, exempt, and zero-rated components of the sale.
+(3) The date of transaction, quantity, unit cost and description of the goods or properties or nature of the service; and
+(4) In the case of sales in the amount of one thousand pesos (P1,000) or more where the sale or transfer is made to a VAT-registered person, the name, business style, if any, address and taxpayer identification number (TIN) of the purchaser, customer or client.
+(C) 
+Accounting Requirements
+. - Notwithstanding the provisions of Section 233, all persons subject to the value-added tax under Sections 106 and 108 shall, in addition to the regular accounting records required, maintain a subsidiary sales journal and subsidiary purchase journal on which the daily sales and purchases are recorded. The subsidiary journals shall contain such information as may be required by the Secretary of Finance.
+(D) 
+Consequence of Issuing Erroneous Vat Invoice or Vat Official Receipt. -
+(1) If a person who is not a VAT-registered person issues an invoice or receipt showing his Taxpayer Identification Number (TIN), followed by the word âVATâ:
+(a) The issuer shall, in addition to any liability to other percentage taxes, be liable to:
+(i) The tax imposed in Section 106 or 108 without the benefit of any input tax credit; and
+(ii) A 50% surcharge under Section 248 (B) of this code;
+(b) The VAT shall, if the other requisite information required under Subsection (B) hereof is shown on the invoice or receipt, be recognized as an input tax credit to the purchaser under Section 110 of this Code.
+(2) If a VAT-registered person issues a VAT invoice or VAT official receipt for a VAT-exempt transaction, but fails to display prominently on the invoice or receipt the term âVAT-exempt Saleâ, the issuer shall be liable to account for the tax imposed in Section 106 or 108 as if Section 109 did not apply.
+(E) 
+Transitional Period. 
+- Notwithstanding Subsection (B) hereof, taxpayers may continue to issue VAT invoices and VAT official receipts for the period July 1, 2005 to December 31, 2005, in accordance with Bureau of Internal Revenue administrative practices that existed as of December 31, 2004.â (Underscoring supplied.)
+[9]
+ 
+Rollo
+, pp. 173-194. The CTA Second Division Decision was penned by Justice Olga Palanca-Enriquez and was concurred in by Justices Juanito C. Castaneda, Jr. and Erlinda P. Uy.
+[10]
+ Rollo,
+ pp. 186-187.
+[11]
+ 
+Rollo
+, pp. 214-215.
+[12]
+ SEC. 237. 
+Issuance of Receipts or Sales or Commercial Invoices. 
+- All persons subject to an internal revenue tax shall, for each sale or transfer of merchandise or for services rendered valued at Twenty-five pesos (?25.00) or more, issue duly registered receipts or sales or commercial invoices, prepared at least in duplicate, showing the date of transaction, quantity, unit cost and description of merchandise or nature of service: Provided, however, That in the case of sales, receipts or transfers in the amount of One hundred pesos (?100.00) or more, or regardless of the amount, where the sale or transfer is made by a person liable to value-added tax to another person also liable to value-added tax; or where the receipt is issued to cover payment made as rentals, commissions, compensations or fees, receipts or invoices shall be issued which shall show the name, business style, if any, and address of the purchaser, customer or client: Provided, further, That where the purchaser is a VAT-registered person, in addition to the information herein required, the invoice or receipt shall further show the Taxpayer Identification Number (TIN) of the purchaser.
+The original of each receipt or invoice shall be issued to the purchaser, customer or client at the time the transaction is effected, who, if engaged in business or in the exercise of profession, shall keep and preserve the same in his place of business for a period of three (3) years from the close of the taxable year in which such invoice or receipt was issued, while the duplicate shall be kept and preserved by the issuer, also in his place of business, for a like period.
+The Commissioner may, in meritorious cases, exempt any person subject to internal revenue tax from compliance with the provisions of this Section.
+[13]
+ 
+Rollo
+, pp. 83-85.
+[14]
+ 
+Commissioner of Internal Revenue v. Eastern Telecommunications Phils., Inc
+., G.R. No. 163835, 7 July 2010, 624 SCRA 340.
+[15]
+ 
+Atlas Consolidated Mining and Development Corporation v. Commissioner of Internal Revenue
+, G.R. No. 145526, 16 March 2007, 518 SCRA 425.
+[16]
+ Atlas Consolidated Mining and Development Corporation v. Commissioner of Internal Revenue, 
+376 Phil. 495 (1999).
+[17]
+ 
+Section 110
+. Tax Credits. -
+A. 
+Creditable Input Tax. 
+-
+(1) Any input tax evidenced by a VAT invoice or official receipt issued in accordance with Section 113 hereof on the following transactions shall be creditable against the output tax: x x x.
+[18]
+ G.R. No. 178090, 8 February 2010, 612 SCRA 28.
+[19]
+ G.R. No. 179961, 31 January 2011, 641 SCRA 28.
+[20]
+ 
+Panasonic Communications Imaging Corporation of the Philippines v. Commissioner of Internal Revenue,
+ G.R. No. 178090, 8 February 2010, 612 SCRA 28; J.R.A. 
+Philippines, Inc. v. Commissioner of Internal Revenue
+, G.R. No. 177127, 11 October 2010, 632 SCRA 517; 
+Hitachi Global Storage Technologies Philippines Corp. v. Commissioner of Internal Revenue
+, G.R. No. 174212, 20 October 2010, 634 SCRA 205; 
+Kepco Philippines Corporation v. Commissioner of Internal Revenue,
+ G.R. No. 181858, 24 November 2010, 636 SCRA 166; 
+Silicon Philippines, Inc. v. Commissioner of Internal Revenue,
+ G.R. No. 172378, 17 January 2011, 639 SCRA 521.
+[21]
+ Chevron Philippines, Inc. v .Commissioner of the Bureau of Customs
+, G.R. No. 178759, 11 August 2008, 561 SCRA 710.
+[22]
+ Commissioner of Internal Revenue v. Court of Appeals,
+ 358 Phil. 562 (1998).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

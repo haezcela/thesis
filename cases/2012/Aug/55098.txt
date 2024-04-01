@@ -1,0 +1,456 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			693 Phil. 464
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 168856, August 29, 2012 ]
+
+
+EASTERN TELECOMMUNICATIONS PHILIPPINES, INC., PETITIONER, VS. THE COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+D E C I S I O N
+
+
+
+
+MENDOZA, J.:
+
+
+Before the Court is a Petition for Review on 
+Certiorari
+ under Rule 45 of the 1997 Revised Rules of Civil Procedure assailing the April 19, 2005 Decision
+[1]
+ and the July 8, 2005 Resolution
+[2]
+ of the Court of Tax Appeals 
+En Banc
+ (
+CTA-En Banc
+) in CTA E.B. No. 11 (CTA Case No. 6255) entitled "
+Eastern Telecommunications Philippines, Inc. v. Commissioner of Internal Revenue
+."
+The Facts
+Petitioner Eastern Telecommunications Philippines, Inc. 
+(ETPI)
+ is a duly authorized corporation engaged in telecommunications services by virtue of a legislative franchise. It has entered into various international service agreements with international non-resident telecommunications companies and it handles incoming telecommunications services for nonresident foreign telecommunication companies and the relay of said international calls within the Philippines. In addition, to broaden the coverage of its distribution of telecommunications services, it executed several interconnection agreements with local carriers for the receipt of foreign calls relayed by it and the distribution of such calls to the intended local end-receiver.
+[3]
+From these services to non-resident foreign telecommunications companies, ETPI generates foreign currency revenues which are inwardly remitted in accordance with the rules and regulations of the Bangko Sentral ng Pilipinas to its US dollar accounts in banks such as the Hong Kong and Shanghai Banking Corporation, Metrobank and Citibank. The manner and mode of payments follow the international standard as set forth in the Blue Book or Manual prepared by the Consultative Commission of International Telegraph and Telephony.
+[4]
+ETPI seasonably filed its Quarterly Value-Added Tax 
+(VAT)
+ Returns for the year 1999, but these were later amended on February 22, 2001, to wit:
+ 
+ 
+ 
+ 
+ 
+ 
+VAT Input
+ 
+Excess Input
+ 
+ 
+ 
+Quarter 
+ 
+VAT Output 
+ 
+Zero-Rated Sales
+ 
+Exempt Sales
+ 
+Domestic
+ 
+VAT
+ 
+ 
+ 
+__________________________________________________________________________________________________________________
+ 
+ 
+ 
+First 
+ 
+P 246,493.67
+ 
+P 117,492,585.78 
+ 
+P 68,961,171.91 
+ 
+P 6,646,624.35
+ 
+P 6,400,130.68
+ 
+ 
+ 
+Second 
+ 
+396,701.57
+ 
+406,216,049.26
+ 
+238,424,702.46
+ 
+5,955,933.54 
+ 
+11,959,362.65
+ 
+ 
+ 
+Third 
+ 
+243,620.78 
+ 
+245,267,026.51
+ 
+143,957,182.21 
+ 
+6,108,825.34 
+ 
+17,833,567.22 
+ 
+ 
+ 
+Fourth 
+ 
+975,939.54 
+ 
+279,851,242.11
+ 
+164,256,063.38 
+ 
+6,759,948.00 
+ 
+23,617,575.67
+ 
+ 
+ 
+_______________________________________________________________________________________________________________
+ 
+ 
+ 
+Total 
+ 
+P 1,853,755.56
+ 
+P 1,048,826,903.66 
+ 
+P 615,599,119.96
+ 
+P 25,471,331.23
+ 
+ 
+ 
+Both ETPI and respondent Commissioner of Internal Revenue (CIR) confirmed the veracity of the entries under Excess Input VAT in the table above, pursuant to their Joint Stipulation of Facts and Issues dated June 13, 2001.
+[5]
+Of the total excess input tax for the period from January 1999 to December 1999, ETPI claims that the following are allocable to its zero- rated transactions:
+[6]
+ 
+ 
+Quarter
+ 
+Excess Input Taxes Attributable 
+to Zero-Rated Transactions
+ 
+ 
+ 
+______________________________________________________________________
+ 
+ 
+ 
+First 
+ 
+P 6,020,246.15 
+ 
+ 
+ 
+ 
+ 
+Second 
+ 
+5,394,646.08
+ 
+ 
+ 
+ 
+ 
+Third
+ 
+ 
+5,533,129.35 
+ 
+ 
+ 
+ 
+ 
+Fourth 
+ 
+6,122,890.17
+ 
+ 
+ 
+ 
+ 
+_____________________________________________________________________
+ 
+ 
+ 
+Total 
+ 
+P 23,070,911.75
+ 
+ 
+Believing that it is entitled to a refund for the unutilized input VAT attributable to its zero-rated sales, ETPI filed with the Bureau of Internal Revenue 
+(BIR)
+ an administrative claim for refund and/or tax credit in the amount of P 23,070,911.75 representing excess input VAT derived from its zero-rated sales for the period from January 1999 to December 1999.
+[7]
+On March 26, 2001, without waiting for the decision of the BIR, ETPI filed a petition for review before the Court of Tax Appeals (CTA) to toll the running of the two-year prescriptive period.
+[8]
+In its Decision,
+[9]
+ dated December 12, 2003, the Division
+[10]
+ of the CTA 
+(CTA-Division)
+ denied the petition for lack of merit, finding that ETPI failed to imprint the word âzero-ratedâ on the face of its VAT invoices or receipts, in violation of Revenue Regulations No. 7-95. In addition, ETPI failed to substantiate its taxable and exempt sales, the verification of which was not included in the examination of the commissioned independent certified public accountant.
+Aggrieved, ETPI elevated the case to the CTA-
+En Banc,
+ which promulgated its Decision
+[11]
+ on April 19, 2005 dismissing the petition and affirming the decision of the CTA-Division. The CTA-
+En Banc
+ ruled that in order for a zero-rated taxpayer to claim a tax credit or refund, the taxpayer must first comply with the mandatory invoicing requirements under the regulations. One such requirement is that the word âzero-ratedâ be imprinted on the invoice or receipt. According to the CTA-
+En Banc
+, the purpose of this requisite is to avoid the danger that the purchaser of goods or services may be able to claim input tax on the sale to it by the taxpayer of goods or services despite the fact that no VAT was actually paid thereon since the taxpayer is zero-rated. Also, it agreed with the conclusion of the CTA-Division that ETPI failed to substantiate its taxable and exempt sales.
+ETPI filed a motion for reconsideration, but it was denied by the CTA-
+En Banc 
+in its July 8, 2005 Resolution.
+[12]
+Hence, this petition.
+The Issues
+ETPI presents the following grounds for the grant of its petition:
+I
+The CTA-
+En Banc
+ erred when it sanctioned the denial of petitionerâs claim for refund on the ground that petitionerâs invoices do not bear the imprint âzero-rated,â and disregarded the evidence on record which clearly establishes that the transactions giving rise to petitionerâs claim for refund are indeed zero-rated transactions under Section 108(B)(2) of the 1997 Tax Code.
+II
+The CTA-
+En Banc
+ erred when it denied petitionerâs claim for refund based on petitionerâs alleged failure to substantiate its taxable and exempt sales.
+III
+Petitioner presented substantial evidence that unequivocally proved petitionerâs zero-rated transactions and its consequent entitlement to a refund/tax credit.
+IV
+In civil cases, such as claims for refund, strict compliance with technical rules of evidence is not required. Moreover, a mere preponderance of evidence will suffice to justify the grant of a claim.
+[13]
+The central issue to be resolved in this case is whether ETPIâs failure to imprint the word âzero-ratedâ on its invoices or receipts is fatal to its claim for tax refund or tax credit for excess input VAT.
+The Courtâs Ruling
+The petition is bereft of merit.
+Imprinting of the word âzero-ratedâ 
+on the invoices or receipts is required
+ETPI argues that the National Internal Revenue Code of 1997 (NIRC) allows VAT-registered taxpayers to file a claim for refund of input taxes directly attributable to, or otherwise allocable to, zero-rated transactions subject to compliance with certain conditions.
+[14]
+ Nowhere in the NIRC does it appear that the invoices or receipts must have been printed with the word âzero-ratedâ on its face or that failure to do so would result in the denial of the claim.
+[15]
+ Such a requirement only appears in Revenue Regulations No. 795 which, ETPI insists, cannot prevail over a taxpayerâs substantive right to claim a refund or tax credit for input taxes attributable to its zero-rated transactions.
+[16]
+ Moreover, the lack of the word âzero-ratedâ on ETPIâs invoices and receipts does not justify the outright denial of its claim for refund, considering that the zero-rated nature of the transactions has been sufficiently established by other equally relevant and competent evidence.
+[17]
+ Finally, ETPI points out that the danger to be avoided by the questioned requirement, as mentioned by the CTA-En Banc, is more theoretical than real. This is because ETPIâs clients for its zero-rated transactions are nonresident foreign corporations which are not covered by the Philippine VAT system. Thus, there is no possibility that they will be able to unduly take advantage of ETPIâs omission to print the word âzero-ratedâ on its invoices and receipts.
+[18]
+ETPI is mistaken.
+Section 244 of the NIRC explicitly grants the Secretary of Finance the authority to promulgate the necessary rules and regulations for the effective enforcement of the provisions of the tax code. Such rules and regulations âdeserve to be given weight and respect by the courts in view of the rule- making authority given to those who formulate them and their specific expertise in their respective fields.â
+[19]
+Consequently, the following invoicing requirements enumerated in Section 4.108-1 of Revenue Regulations No. 7-95 must be observed by all VAT-registered taxpayers:
+Sec. 4.108-1. 
+Invoicing Requirements
+. â 
+All VAT-registered persons shall, for every sale or lease of goods or properties or services, issue duly registered receipts or sales or commercial invoices which must show
+:
+the name, TIN and address of seller; 
+date of transaction; 
+quantity, unit cost and description of merchandise or nature of service;
+the name, TIN, business style, if any, and address of the VAT-registered purchaser, customer or client; 
+the word âzero-ratedâ imprinted on the invoice covering zero-rated sales
+; and 
+the invoice value or consideration.
+ In the case of sale of real property subject to VAT and where the zonal or market value is higher than the actual consideration, the VAT shall be separately indicated in the invoice or receipt.
+Only VAT-registered persons are required to print their TIN followed by the word âVATâ in their invoices or receipts and this shall be considered as a âVAT invoice.â All purchases covered by invoices other than a âVAT Invoiceâ shall not give rise to any input tax. (Emphasis supplied)
+The need for taxpayers to indicate in their invoices and receipts the fact that they are zero-rated or that its transactions are zero-rated became more apparent upon the integration of the abovequoted provisions of Revenue Regulations No. 7-95 in Section 113 of the NIRC enumerating the invoicing requirements of VAT-registered persons when the tax code was amended by Republic Act 
+(R.A.)
+ No. 9337.
+[20]
+A consequence of failing to comply with the invoicing requirements is the denial of the claim for tax refund or tax credit, as stated in Revenue Memorandum Circular No. 42-2003, to wit:
+A-13: Failure by the supplier to comply with the invoicing requirements on the documents supporting the sale of goods and services will result to the disallowance of the claim for input tax by the purchaser-claimant.
+If the claim for refund/TCC is based on the existence of zero-rated sales by the taxpayer but it fails to comply with the invoicing requirements in the issuance of sales invoices (e.g. failure to indicate the TIN), its claim for tax credit/refund of VAT on its purchases shall be denied considering that the invoice it is issuing to its customers does not depict its being a VAT-registered taxpayer whose sales are classified as zero-rated sales. 
+Nonetheless, this treatment is without prejudice to the right of the taxpayer to charge the input taxes to the appropriate expense account or asset account subject to depreciation, whichever is applicable. Moreover, the case shall be referred by the processing office to the concerned BIR office for verification of other tax liabilities of the taxpayer. (Emphasis supplied)
+In this regard, the Court has consistently held that the absence of the word âzero-ratedâ on the invoices and receipts of a taxpayer will result in the denial of the claim for tax refund. In
+ Panasonic Communications Imaging  Corporation of the Philippines v. Commissioner of Internal Revenue
+,
+[21]
+ the Court affirmed the decision of the CTA denying a claim by petitioner for refund on input VAT attributable to zero-rated sales for its failure to print the word âzero-ratedâ on its invoices, ratiocinating that:
+Section 4.108-1 of RR 7-95 proceeds from the rule-making authority granted to the Secretary of Finance under Section 245 of the 1977 NIRC (Presidential Decree 1158) for the efficient enforcement of the tax code and of course its amendments. The requirement is reasonable and is in accord with the efficient collection of VAT from the covered sales of goods and services.
+ As aptly explained by the CTAâs First Division, the appearance of the word "zero-rated" on the 
+face of invoices covering zero-rated sales prevents buyers from falsely claiming input VAT from their purchases when no VAT was actually paid
+. If, absent such word, a successful claim for input VAT is made, the government would be refunding money it did not collect.
+Further, the printing of the word âzero-ratedâ on the invoice helps segregate sales that are subject to 10% (now 12%) VAT from those sales that are zero-rated.
+ Unable to submit the proper invoices, petitioner Panasonic has been unable to substantiate its claim for refund. (Emphases supplied)
+[22]
+The pronouncement in 
+Panasonic
+ has since been repeatedly cited in subsequent cases, reiterating the rule that the failure of a taxpayer to print the word âzero-ratedâ on its invoices or receipts is fatal to its claim for tax refund or tax credit of input VAT on zero-rated sales.
+[23]
+Tax refunds are strictly construed against the
+ taxpayer; ETPI failed to substantiate its claim
+ETPI contends that there is no need for it to substantiate the amounts of its taxable and exempt sales because its quarterly VAT returns, which clearly show the amounts of taxable sales, zero-rated sales and exempt sales, were not refuted by the CIR.
+[24]
+ As regards its accumulated input VAT paid on purchases of goods and service allocable to its zero-rated sales, ETPI asserts that its submission of invoices and receipts, as well as the verification of the commissioned independent certified public accountant, should be sufficient to support its claim for refund.
+[25]
+The Court disagrees.
+ETPI should be reminded of the well-established rule that tax refunds, which are in the nature of tax exemptions, are construed strictly against the taxpayer and liberally in favor of the government. This is because taxes are the lifeblood of the nation. Thus, the burden of proof is upon the claimant of the tax refund to prove the factual basis of his claim.
+[26]
+ Unfortunately, ETPI failed to discharge this burden.
+The CIR is correct in pointing out that ETPI is engaged in mixed transactions and, as a result, its claim for refund covers not only its zero- rated sales but also its taxable domestic sales and exempt sales. Therefore, it is only reasonable to require ETPI to present evidence in order to substantiate its claim for input VAT.
+[27]
+Considering that ETPI reported in its annual return its zero-rated sales, together with its taxable and exempt sales, the CTA ruled that ETPI should have presented the necessary papers to validate all the entries in its return. Only its zero-rated sales, however, were accompanied by supporting documents. With respect to its taxable and exempt sales, ETPI failed to substantiate these with the appropriate documentary evidence.
+[28]
+ Noteworthy also is the fact that the commissioned independent certified public account did not include in his examination the verification of such transactions.
+[29]
+The Court finds no cogent reason to disturb the decision of the tax court. The CTA has developed an expertise on the subject of taxation because it is a specialized court dedicated exclusively to the study and resolution of tax problems.
+[30]
+ As such, its findings of fact are accorded the highest respect and are generally conclusive upon this Court, in the absence of grave abuse of discretion or palpable error.
+[31]
+ Its decisions shall not be lightly set aside on appeal, unless this Court finds that the questioned decision is not supported by sLibstantial evidence or there is a showing of abuse or improvident exercise of authority.
+[32]
+WHEREFORE
+, the petition is 
+DENIED
+.  The April 19, 2005 Decision and the July 8, 2005 Resolution of the Court of Tax Appeals 
+En Banc
+, in CTA E.B. No. 11 (CTA Case No. 6255) are hereby 
+AFFIRMED
+.
+SO ORDERED.
+Peralta, (Acting Chairperson),
+*
+ Abad, Vjllarama, Jr.,
+*
+*
+ and
+ Perez,
+***
+ JJ.,
+ concur.
+[1]
+ 
+Rollo
+, pp. 57-87. 
+[2]
+ Id. at 88-92.
+*
+ Per Special Order No, 1290 dated August 28, 2012. 
+**
+ Designated acting member, in lieu of Associate Justice Presbitero J. Velasco, Jr., per Special Order No. 1291 dated August 28, 2012. 
+***
+ Designated additional member, per Special Order No. 1299 dated August 28, 2012. 
+[3]
+ Id. at 11-13. 
+[4]
+ Id. at 14, 150-151.
+[5]
+ Id. at 105-108 and 151. 
+[6]
+ Id. at 133. 
+[7]
+ Id. at 16.
+[8]
+ Id. at 152.
+[9]
+ Id. at 149-160; penned by Associate Justice Lovell R. Bautista and concurred in by Presiding Justice Ernesto D. Acosta and Associate Justice Juanito C. CastaÃ±eda, Jr.
+[10]
+ Unspecified.
+[11]
+ 
+Rollo
+, pp. 57-87; penned by Associate Justice Olga Palanca-Enriquez and concurred in by Associate Justice Juanito C. CastaÃ±eda, Jr., Associate Justice Erlinda P. Uy and Associate Justice Caesar A. Casanova with a dissenting opinion by Presiding Justice Ernesto D. Acosta which Associate Justice Lovell R. Bautista concurred with. 
+[12]
+ Id. at 88-92.
+[13]
+ Id. at 24-25.
+[14]
+ Id. at 381. 
+[15]
+ Id. at 382. 
+[16]
+ Id. at 386.
+[17]
+ Id. at 384. 
+[18]
+ Id. at 392.
+[19]
+ 
+Chamber of Real Estate and Buildersâ Associations, Inc. v. The Hon. Executive Secretary Alberto Romulo
+, G.R. No. 160756, March 9, 2010, 614 SCRA 605, 639-640.
+[20]
+ Kepco Philippines Corporation v. Commissioner of Internal Revenue,
+ G.R. No. 181858, November 24, 2010, 636 SCRA 166, 177-178. 
+[21]
+ G.R. 178090, February 8, 2010, 612 SCRA 28.
+[22]
+ Id. at 36-37. 
+[23]
+ 
+J.R.A. Philippines, Inc. v. Commissioner of Internal Revenue,
+ G.R. No. 177127, October 11, 2010, 632 SCRA 517, 527; 
+Western Mindanao Power Corporation v. Commissioner of Internal Revenue,
+ G.R. No. 181136, June 13, 2012. 
+[24]
+ 
+Rollo,
+ p. 395.
+[25]
+ Id. at 398-399. 
+[26]
+ 
+Philippine Phosphate Fertilizer Corporation v. Commissioner of Internal Revenue,
+ 500 Phil. 149, 163 (2005). 
+[27]
+ 
+Rollo
+, pp. 356-357. 
+[28]
+ Id. at 75.
+[29]
+ Id. at 74.
+[30]
+ Commissioner of Internal Rerenue v. Court of Appeals,
+ 363 Phil. 230, 246 (1999).
+[31]
+ 
+Hitachi Global Storage Technologies Philippines Corp. v. Commissioner of Internal Revenue,
+ G.R. No. 174212, October 20, 2010, 634 SCRA 205, 213. 
+[32]
+ 
+Toshiba Information Equipment (Phils.), Inc., v. Commissioner of Internal Revenue,
+ G.R. No. 157594, March 9, 2010, 614 SCRA 526, 561-562. 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

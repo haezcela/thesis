@@ -1,0 +1,422 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			780 Phil. 273
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 193748, February 03, 2016 ]
+
+
+MERVIC REALTY, INC. AND VICCY REALTY, INC., PETITIONERS, VS. CHINA BANKING CORPORATION, RESPONDENT.
+DECISION
+
+
+
+
+BRION, J.:
+
+
+Before the Court is an appeal by 
+certiorari
+[1]
+ assailing the June 10, 2010 decision
+[2]
+ and the September 14, 2010 resolution
+[3]
+ of the Court of Appeals in CA-G.R. SP No. 103557.
+Antecedents
+On 
+October 16, 2006
+, Mervic Realty, Inc. and Viccy Realty, Inc. (the 
+petitioners
+) jointly filed a petition for the declaration of state of suspension of payments with a proposed rehabilitation plan
+[4]
+ (
+rehabilitation petition
+) before the Regional Trial Court of Malabon City, Branch 74 (
+rehabilitation court
+) for approval.
+[5]
+ The rehabilitation petition was filed under A.M. No. 00-8-10-SC dated November 21, 2000, or the 
+2000 Interim Rules of Procedure on Corporate Rehabilitation
+ (the 
+Interim Rules
+).
+[6]
+The petitioners alleged that they are duly organized domestic real estate corporations with principal place of business in Malabon City. They disclosed that their common president is Mario Siochi and that a majority of their stockholders and officers are members of the Siochi family.
+[7]
+ The petitioners averred that they were financially stable until they were hit by the Asian financial crisis in 1997. As a result of the financial crisis, they foresaw the impossibility of meeting their obligations when they fall due.
+[8]
+The petitioners thus prayed that the rehabilitation court issue a stay order to suspend the enforcement of claims against them.
+[9]
+ They alleged that as of September 30, 2006, their combined total obligations inclusive of interests, penalties, and other charges had reached P193,156,559.00.
+[10]
+Finding the petition sufficient in form and substance, the rehabilitation court issued a stay order that suspended the enforcement of all claims against the petitioners.
+[11]
+ The rehabilitation court likewise appointed a rehabilitation receiver.
+[12]
+The respondent China Banking Corporation (
+China Bank
+), a creditor of the petitioners, opposed the rehabilitation petition.
+[13]
+ It alleged that it had acquired title to and initiated extrajudicial foreclosure proceedings over some of Mervic Realty, Inc.'s real properties.
+[14]
+ It argued that the petitioners are separate entities and should have filed separate petitions even if the majority of their common stockholders and officers belong to the Siochi family; that the assets of one corporation cannot be considered the assets of the other; that their financial conditions are not the same; that they have different creditors; that their obligations vary; and that the feasibility of rehabilitation for one corporation may not necessarily be true for the other.
+[15]
+China Bank also questioned the venue of the rehabilitation petition.
+[16]
+ Under Section 2, Rule 3 of the Interim Rules, petitions for corporate rehabilitation shall be filed with the Regional Trial Court having jurisdiction over the territory where the debtor's principal office is located. According to China Bank, the Articles of Incorporation (AOI) of the petitioners show that their principal place of business is located in Quezon City, not in Malabon City.
+[17]
+The RTC Ruling
+The rehabilitation court approved the rehabilitation plan and denied China Bank's opposition. It held that there is no misjoinder of causes of action since the petitioners' cause of action is solely for their corporate rehabilitation; and that to require them to separately file their respective rehabilitation petitions will lead to multiplicity of suits. The rehabilitation court did not rule on the issue of venue.
+The dispositive portion of the decision reads:
+WHEREFORE, the Rehabilitation Plan filed with this Court and made as an Annex and integral part of this order is hereby 
+APPROVED
+. Petitioners are strictly enjoined to abide by its terms and conditions and they shall, unless directed otherwise, submit a quarterly report on the progress of the implementation of the Rehabilitation Plan. x x x.
+SO ORDERED.
+[18]
+China Bank filed a petition for review with the Court of Appeals to challenge the approved rehabilitation plan.
+[19]
+The Court of Appeals Ruling
+The Court of Appeals granted China Bank's petition for review and dismissed the petition for rehabilitation on the ground of improper venue, citing Section 2, Rule 3 of the Interim Rules, 
+viz
+:
+Section 2 - Petitions for rehabilitation pursuant to these Rules shall be filed in the Regional Trial Court having jurisdiction over the territory where the debtor's principal office is located.
+The Court of Appeals found that the petitioners' respective AOIs show that their principal office is located in Quezon City.
+[20]
+The Court of Appeals held that residence is vital when dealing with venue. A corporation is, in a metaphysical sense, a resident of the place where its principal office is located as stated in the AOI.
+[21]
+ It is true that venue may be changed by consent of the parties, and even an improper venue may be waived by the defendant's failure to raise it at the proper time. The Court of Appeals, however, found that China Bank timely and vigorously asserted that Quezon City, not Malabon City, is the proper venue.
+[22]
+The Court of Appeals reversed the rehabilitation court's decision, thus,
+ACCORDINGLY
+, the petition is 
+GRANTED
+. The order dated April 15, 2008 is 
+SET ASIDE
+ and a new one rendered 
+DISMISSING
+ the petition a quo for improper venue.
+[23]
+The petitioners moved
+[24]
+ but failed to obtain a reconsideration of the Court of Appeal's decision.
+[25]
+ Hence, they came to the Court for relief via the present petition.
+The Petition
+The petitioners submit that the Court of Appeals erred in dismissing the petition for rehabilitation on the ground of improper venue.
+They claim that Mervic Realty, Inc. amended its AOI on February 15, 1985
+[26]
+ and that Viccy Realty, Inc. adopted Mervic Realty, Inc.'s principal place of business in Malabon City.
+[27]
+ The petitioners thus insist that they properly filed the rehabilitation petition in Malabon City.
+[28]
+ They reiterate that they are close family corporations and that it would be impractical to file separate rehabilitation petitions. The petitioners claim that the rehabilitation court fully acquired jurisdiction over the petition the moment they complied with all jurisdictional requirements.
+[29]
+Finally, the petitioners justify the approval of the rehabilitation plan by claiming that their businesses are still in operation and that their desired financial targets can still be implemented.
+China Bank's Comment
+[30]
+In response, China Bank maintains that the Interim Rules mandate that the rehabilitation petition be filed in the place where the 
+principal debtor's principal office
+ is located. China Bank argues that Viccy Realty Inc.'s General Information Sheet (
+GIS
+) shows Quezon City as its principal place of business, contrary to the petitioners' claim that Viccy Realty, Inc. adopted Mervic Realty, Inc.'s principal office in Malabon City.
+[31]
+China Bank also claims that the petitioners did not submit a copy of Viccy Realty, Inc.'s AOI to the rehabilitation court to prove that it had transferred its principal office to Malabon City. Neither was its Bylaws submitted. China Bank thus insists that the rehabilitation court of Malabon City did not acquire jurisdiction over the petition.
+[32]
+ In support of this allegation, China Bank claims that it has submitted to the rehabilitation court a 
+verification of documents
+ from the Securities and Exchange Commission showing that Viccy Realty Inc.'s principal office is located in Quezon City.
+[33]
+The Petitioner's Reply
+[34]
+The petitioners maintain that Mervic Realty, Inc. amended its AOI in 1985 and made Malabon City its principal place of business.
+[35]
+ They reiterate that Mervic Realty, Inc. owns 80% of the shares of Viccy Realty, Inc., and that the latter adopted the principal office of the former.
+[36]
+ The petitioners also submit that China Bank had waived the issue of venue because all its notices had been addressed to their principal office in Malabon City.
+[37]
+The petitioners invoke Section 97 of the Corporation Code, which purportedly provides an exception to the general rule and makes the stockholders and/or officers of a close corporation personally liable for corporate debts. Thus, a joint rehabilitation petition filed by a close family corporation should be allowed.
+Finally, the petitioners invoke A.M. No. 00-8-10-SC dated December 2, 2008, or the 2008 Rules of Procedure on Corporate Rehabilitation (
+2008 Rules
+) which allow the joint filing of rehabilitation petition by a group of companies. They posit that the 2008 Rules may be applied to their rehabilitation petition filed in 2006.
+[38]
+Issues
+We clarify at the outset that the Court will not delve into the feasibility of the petitioners' rehabilitation. The viability of the rehabilitation plan is not at issue here. Whether the petitioners, as they claim, can still be financially revived is an issue separate from the procedural aspects of the case.
+The main issue is 
+whether the petitioners, which are close family corporations, can jointly file the petition for rehabilitation 
+under the Interim Rules
+.
+If the answer is yes, then we determine whether they have chosen the correct venue. If the answer is no, then the Court can resolve the petition without ruling on the petitioners' 
+factual claims
+ that they have amended their AOIs, have moved their principal place of business from Quezon City to Malabon City, and have thus filed the rehabilitation petition in the proper venue.
+Our Ruling
+We deny the petition for lack of merit.
+The rules in effect at the time the rehabilitation petition was filed were the Interim Rules. The Interim Rules took effect on 
+December 15, 2000, 
+and did not allow the joint or consolidated filing of rehabilitation petitions
+.
+We note that the present dispute is not without a precedent. The Court resolved the same issue in the case of 
+Asiatrust Development Bank v. First Aikka Development, Inc.
+[39]
+ Like the present case, the two corporations in this cited case had interlocking stockholders and officers when they filed a joint rehabilitation petition in Baguio City. However, one corporation's principal place of business was in Pasig City, which is beyond the jurisdiction of the rehabilitation court in Baguio City.
+[40]
+In 
+Asiatrust
+, the Court held that the consolidation of petitions involving two separate entities is not proper.
+[41]
+ Although the corporations had interlocking directors, owners, officers, as well as intertwined loans, the two corporations were separate, each one with its own distinct personality.
+[42]
+ In determining the feasibility of rehabilitation, the court evaluates the assets and liabilities of each of these corporations separately and not jointly with other corporations.
+[43]
+Thus, the Court dismissed the rehabilitation petition but only with respect to the corporation located in Pasig City. The Court found that the other corporation properly filed its rehabilitation petition in Baguio City because its principal office is located in that city.
+[44]
+ Thus, we remanded the case to the rehabilitation court of Baguio City for further proceedings but 
+only
+ with respect to the 
+corporation located in that city
+.
+[45]
+In the present case, the dispute's concern is not only whether the petitioners could jointly file the rehabilitation petition (which the Court disallowed in 
+Asiatrust
+), but also whether the rehabilitation petition was filed in the proper venue.
+Notwithstanding our ruling in 
+Asiatrust
+, the petitioners beg the Court to liberally apply the Interim Rules. As mentioned, they also invoke the 2008 Rules which allow a group of companies to file a joint rehabilitation petition.
+[46]
+ In short, the petitioners ask the Court to apply a rule that did not exist when they filed the rehabilitation petition.
+We find no legal basis to retroactively apply the 2008 Rules.
+The 2008 Rules took effect on January 16, 2009.
+[47]
+ By the time the Court decided 
+Asiatrust
+ in 2011, the 2008 Rules were already in effect but the Court saw no valid reason to retroactively apply these.
+More significantly, Rule 9, Section 2 of the 2008 Rules allows the retroactive application of the 2008 Rules to pending rehabilitation proceedings only when these have not yet undergone the initial hearing stage at the time of the effectivity of the 2008 Rules:
+SEC.2. Transitory Provision.âUnless the court orders otherwise to prevent manifest injustice, any pending petition for rehabilitation that has not undergone the initial hearing prescribed under the Interim Rules of Procedure for Corporate Rehabilitation at the time of the effectivity of these Rules shall be governed by these Rules.
+In the present case, the rehabilitation court conducted the 
+initial hearing
+ on 
+January 22, 2007
+,
+[48]
+ and approved the rehabilitation plan on April 15, 2008 - long before the effectivity of the 2008 Rules on January 16, 2009. Clearly, the 2008 Rules cannot be retroactively applied to the rehabilitation petition filed by the petitioners.
+On this basis alone, the Court holds that the present petition lacks merit.
+Even if we liberally and retroactively apply the 2008 Rules, the issue of venue remains. To resolve whether Malabon City should be the proper venue, we have to determine if the petitioners have indeed validly amended their AOIs.
+We observe that the rehabilitation court did not rule on the issue of venue although China Bank raised this jurisdictional defect at the outset. The Court of Appeals, on the other hand, found Quezon City as the petitioners' principal place of business. Also, while the petitioners attached copies of their certified amended AOIs and GIS, China Bank disputed the authenticity and completeness of these documents.
+Suffice it to say that at this late stage of the case, the Court cannot and will not resolve the question of whether the petitioners have amended their AOIs. Such an exercise would require us to examine the authenticity and completeness of the documents submitted to prove or contradict the supposed amendments. We stress that this is a fact-finding task that the Court does not usually undertake, particularly in a Rule 45 petition where only questions of law may be raised.
+[49]
+WHEREFORE
+, premises considered, we 
+DENY
+ the petition and 
+AFFIRM
+ the June 10, 2010 decision and the September 14, 2010 resolution of the Court of Appeals in CA-G.R. SP No. 103557.
+Costs against the petitioners Mervic Realty, Inc. and Viccy Realty, Inc.
+SO ORDERED.
+Carpio, (Chairperson), Del Castillo
+, and 
+Mendoza, JJ.
+, concur.
+Leonen, J.
+, on leave.
+[1]
+ 
+Rollo
+, pp. 9-33. The petition is filed under Rule 45 of the Rules of Court.
+[2]
+ 
+Id.
+ at 37-51. The assailed decision and resolution are penned by Associate Justice Amy C. Lazaro-Javier, and concurred in by Associate Justice Sesinando E. Villon and (now Supreme Court) Associate Justice Estela M. Perlas-Bernabe.
+[3]
+ 
+Id.
+ at 81.
+[4]
+ 
+Id.
+ at 89-96. Docketed as SEC Corp. Case No. S6-002-MN.
+[5]
+ 
+Id.
+ at 13.
+[6]
+ A.M. No. 00-8-10-SC, November 21, 2000.
+[7]
+ 
+Id.
+ at 90. 
+[8]
+ 
+Id.
+[9]
+ 
+Id.
+ at 96.
+[10]
+ 
+Id.
+ at 92.
+[11]
+ 
+Id.
+ at 279-282, The stay order was issued on October 19, 2006.
+[12]
+ 
+Id.
+ at 39. Mr. Villamor A. Aguilar was the appointed receiver.
+[13]
+ 
+Id.
+ at 288-297. China Bank filed its opposition on January 19, 2007.
+[14]
+ 
+Id.
+ at 38. Covered by TCT Nos. R-28696, M-10463 and R-27373.
+[15]
+ 
+Id.
+ at 288-289.
+[16]
+ 
+Id.
+ at 296.
+[17]
+ 
+Id.
+ at 296.
+[18]
+ 
+Id.
+ at 326-329 and pp. 555-558. Assisting Judge Leonardo L. Leonida issued the April 15, 2008 order.
+[19]
+ 
+Id.
+ at 330-348. China Bank also applied for the issuance of a temporary restraining order or writ of preliminary injunction.
+[20]
+ 
+Id.
+ at 48.
+[21]
+ 
+Id.
+[22]
+ 
+Id.
+ at 50.
+[23]
+ 
+Id.
+ at 51.
+[24]
+ 
+Id.
+ at 53-56.
+[25]
+ 
+Id.
+ at 81.
+[26]
+ 
+Id.
+ at 664-672.
+[27]
+ 
+Id.
+ at 673-680.
+[28]
+  
+Id.
+ at 23.
+[29]
+ Citing Section 9, Rule 4 of the Interim Rules, 
+id.
+ at 24.
+[30]
+ 
+Id.
+ at 691-698. Comment filed on February 18, 2011.
+[31]
+ 
+Id.
+ at 693.
+[32]
+ 
+Id.
+[33]
+ 
+Id.
+ at 694.
+[34]
+ 
+Id.
+ at 702-705. Reply filed on June 6, 2011.
+[35]
+ 
+Id.
+ at 703.
+[36]
+ 
+Id.
+[37]
+ 
+Id.
+[38]
+ 
+Id.
+ at 704.
+[39]
+ 665 Phil. 313 (2011).
+[40]
+ 
+Id.
+ at 327.
+[41]
+ 
+Id.
+ at 327-328.
+[42]
+ 
+Ibid.
+[43]
+ 
+Id.
+ at 328.
+[44]
+ 
+Ibid.
+[45]
+ 
+Id.
+ at 332.
+[46]
+ See 2008 Rules, Rule 3, Section 2.
+[47]
+ See 2008 Rules, Rule 9, Section 3.
+[48]
+ 
+Rollo
+, p. 326.
+[49]
+ RULES OF COURT, Rule 45, Section 1.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

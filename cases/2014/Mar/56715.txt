@@ -1,0 +1,458 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			729 Phil. 156
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 169778, March 12, 2014 ]
+
+
+COMMISSIONER OF INTERNAL REVENUE, PETITIONER, VS. SILICON PHILIPPINES, INC. (FORMERLY INTEL PHILIPPINES MANUFACTURING, INC.), RESPONDENT.
+D E C I S I O N
+
+
+
+
+PEREZ, J.:
+
+
+To obviate the possibility that its decision may be rendered void, the Court can, by its own initiative, rule on the question of jurisdiction, although not raised by the parties.
+[1]
+  As a corollary thereto, to inquire into the existence of jurisdiction over the subject matter is the primary concern of a court, for thereon would depend the validity of its entire proceedings.
+[2]
+Before the Court is a Petition for Review on 
+Certiorari 
+seeking to reverse and set aside the 16 September 2005 Decision
+[3]
+ of the Court of Appeals (CA) in CA-G.R. SP No. 80886 granting respondentâs claim for refund of input Value Added Tax (VAT) on domestic purchases of goods and services attributable to zero-rated sales in the amount of P21,338,910.44 for the period covering 1 April 1998 to 30 June 1998.
+The Facts
+The factual antecedents of the case are as follows:
+Petitioner is the duly appointed Commissioner of Internal Revenue empowered to perform the duties of said office including, among others, the power to decide, approve and grant refunds or tax credits of erroneously or excessively paid taxes.
+Respondent Silicon Philippines, Inc., on the other hand, is a corporation duly organized and existing under and by virtue of the laws of the Philippines, engaged primarily in the business of designing, developing, manufacturing, and exporting advance and large-scale integrated circuits components (ICs).
+On 6 May 1999, respondent filed with the One-Stop Shop Inter-Agency Tax Credit and Duty Drawback Center of the Department of Finance (DOF) an application for Tax Credit/Refund of VAT paid for the second quarter of 1998 in the aggregate amount of P29,559,050.44, representing its alleged unutilized input tax.
+Thereafter, since no final action has been taken by petitioner on respondentâs administrative claim for refund, respondent filed a Petition for Review before the Court of Tax Appeals (CTA) on 30 June 2000 docketed as CTA Case No. 6129.
+The Ruling of the CTA
+In a Decision dated 26 May 2003,
+[4]
+ the CTA partially granted respondentâs Petition and ordered petitioner to issue a tax credit certificate in favor of the former in the reduced amount of P8,179,049.00 representing input VAT on importation of capital goods, the dispositive portion of which are quoted hereunder as follows:
+WHEREFORE
+, the instant petition is 
+PARTIALLY GRANTED
+.  [Petitioner] is hereby 
+ORDERED
+ to 
+ISSUE A TAX CREDIT CERTIFICATE
+ to [respondent] in the amount of P8,179,049.00 representing input VAT on importation of capital goods.  However, petitionerâs (respondentâs) claim for refund of input VAT in the sum of P21,338,910.44 attributable to zero-rated sales is hereby 
+DENIED
+ for lack of merit.
+[5]
+The CTA denied respondentâs claim for refund of input VAT on domestic purchases of goods and services attributable to zero-rated sales on the ground that the export sales invoices presented in support thereto do not have Bureau of Internal Revenue (BIR) permit to print, while the sales invoices do not show that the sale was âzero-rated,â all in violation of Sections 113
+[6]
+ and 238
+[7]
+ of the National Internal Revenue Code (NIRC) of 1997, as amended, and Section 4.108-1 of Revenue Regulations (RR) No. 7-95.
+[8]
+As to respondentâs claim for refund of input VAT on capital goods, the CTA looked into respondentâs compliance with the requirements set forth in the case of 
+Air Liquid Philippines v. Commissioner of Internal Revenue and Commissioner of Customs, CTA Case No. 5652, 26 July 2000
+, and held that said claim be partially denied considering that only the amount of P8,179,049.00 have been validly supported by documentary evidence such as suppliersâ invoices, official receipts, import declarations, import remittances and airway bills, showing the actual payment of VAT on the importation of capital goods as required by Section 4.104-5(b) of RR No. 7-95.
+[9]
+Relevant thereto, the CTA likewise made a factual finding that both the administrative and judicial claims of respondent were timely filed within the two-year prescriptive period required by the NIRC of 1997, as amended, reckoned from the date of filing the original quarterly VAT Return for the second quarter of taxable year 1998, or on 27 July 1998.
+[10]
+On 4 November 2003, the CTA denied respondentâs Partial Motion for Reconsideration (on the denial of its claim for tax credit or refund of input VAT paid in the sum of P21,338,910.44) for lack of merit.
+[11]
+Aggrieved, respondent appealed to the CA by filing a Petition for Review under Rule 43 of the Rules of Court on 10 December 2003, docketed as CA-G.R. SP No. 80886.
+The Ruling of the CA
+The CA found that respondentâs failure to secure a BIR authority or permit to print invoices or receipts does not completely destroy the integrity of its export sales invoices in support of its claim for refund, since the BIR permit to print is not among those required to be stated in the sales invoices or receipts to be issued by a taxpayer pursuant to Sections 113 and 237 of the NIRC of 1997, as amended.  In addition, the BIR permit to print was only mentioned under Section 238 of the same code, which merely stated that the securement of the BIR authority to print by all persons engaged in business is necessary before a printer can print receipts or sales or commercial invoices issued in the course of oneâs business.  Clearly, it does not state that the same must be shown in the receipts or invoices.  Thus, the omission to indicate the said BIR authority or permit to print does not totally militate against the evidentiary weight of respondentâs export sales invoices as to defeat its claim for refund.
+Moreover, it was the CAâs ruling that the omission to reflect the word âzero-ratedâ in its invoices is not fatal to respondentâs case considering that the absence of the word âzero-ratedâ in the invoices, although truly helpful in facilitating the determination of whether the sales are subject to the normal rate of ten percent (10%) tax or the preferential rate at zero percent, does not necessarily mean that the sales are not in fact âzero-rated.â  Sections 113 and 237 of the NIRC of 1997, as amended, are silent on the requisite of printing the word âzero-ratedâ in the invoices.
+Accordingly, upon its findings of compliance with Section 112(A) of the NIRC of 1997, as amended, the CA reversed and set-aside the CTA decision dated 26 May 2003, and granted respondentâs claim for tax refund/credit in the total amount of P21,338,910.44 in its Decision dated 16 September 2005.
+[12]
+Consequently, this Petition for Review wherein petitioner seeks the reversal of the aforementioned decision on the sole ground that the CA gravely erred on a question of law when it ordered a refund of respondentâs VAT Input taxes on the basis of unauthorized and illegally printed receipts in violation of the provisions of the NIRC of 1997, as amended.
+[13]
+The Issue
+The core issue for the Courtâs resolution is whether or not respondent is entitled to its claim for refund or issuance of a tax credit certificate in its favor in the amount of P21,338,910.44 representing its unutilized creditable input taxes for the period covering 1 April 1998 to 30 June 1998 (second quarter), pursuant to the applicable provisions of the NIRC of 1997, as amended.
+Our Ruling
+At the outset, it bears emphasis that the determination of the issue presented in this case requires a review of the factual findings of the CTA, and of the CA.
+It is well settled that in a petition for review on 
+certiorari 
+under Rule 45 of the Rules of Court, only questions of law may be raised.
+[14]
+  The Court is not a trier of facts and does not normally undertake the re-examination of the evidence presented by the contending parties during the trial of the case considering that the findings of facts of the CA are conclusive and binding on the Court
+[15]
+ â and they carry even more weight when the CA affirms the factual findings of the trial court.
+[16]
+  However, the Court had recognized several exceptions to this rule, to wit: (1) when the findings are grounded entirely on speculation, surmises or conjectures; (2) when the inference made is manifestly mistaken, absurd or impossible; (3) when there is grave abuse of discretion; (4) when the judgment is based on a misapprehension of facts; (5) when the findings of facts are conflicting; (6) when in making its findings the CA went beyond the issues of the case, or its findings are contrary to the admissions of both the appellant and the appellee; (7) when the findings are contrary to the trial court; (8) when the findings are conclusions without citation of specific evidence on which they are based; (9) when the facts set forth in the petition as well as in the petitionerâs main and reply briefs are not disputed by the respondent; (10) when the findings of fact are premised on the supposed absence of evidence and contradicted by the evidence on record; and (11) 
+when the CA manifestly overlooked certain relevant facts not disputed by the parties, which, if properly considered, would justify a different conclusion.
+[17]
+Records of this case reveal that the CTA made a factual finding that both the administrative and judicial claims of respondent were timely filed within the two-year prescriptive period required by the NIRC of 1997, as amended, reckoned from the date of filing the original quarterly VAT Return for the second quarter of taxable year 1998, or on 27 July 1998.
+[18]
+  This was the CTAâs legal basis why it took cognizance of the appeal, tried the case on the merits, and rendered its judgment on 26 May 2003.
+[19]
+  Likewise, the same finding was affirmed and adopted by the CA in the assailed 16 September 2005 decision
+[20]
+ by expressing that respondent âfiled the application for tax refund or credit within the prescribed period of two (2) years after the close of the taxable quarter when the sales were madeâ
+[21]
+ in accordance with Section 112(A) of the NIRC of 1997, as amended.
+However, upon an assiduous review of the said factual findings, applicable provisions of the NIRC of 1997, as amended, and existing jurisprudential pronouncements, this Court finds it apropos to determine whether or not the CTA indeed properly acquired jurisdiction over respondentâs instant claim taking into consideration the timeliness of the filing of its judicial claim as provided under Section 112 of the NIRC of 1997, as amended.  Simply put, a negative finding as to the timeliness of respondentâs judicial claim, once properly considered, would definitely result in a different conclusion, being jurisdictional in nature.
+It should be recalled that the CTA is a court of special jurisdiction.  As such, it can only take cognizance of such matters as are clearly within its jurisdiction.
+[22]
+  In view thereof, although the parties have not raised the issue of jurisdiction, nevertheless, this Court may 
+motu proprio
+ determine whether or not the CTA has jurisdiction over respondentâs judicial claim for refund taking into consideration, the factual and legal allegations contained in the pleadings filed by both parties and found by the court 
+a quo.
+Section 7 of Republic Act (RA) No. 1125,
+[23]
+ which was thereafter amended by RA No. 9282,
+[24]
+ defines the appellate jurisdiction of the CTA.  The said provision, in part, reads:
+Section 7. Jurisdiction
+. - The Court of Tax Appeals shall exercise exclusive appellate jurisdiction to review by appeal, as herein provided.
+(1) 
+Decisions of the Collector of Internal Revenue in cases involving
+ disputed assessments, 
+refunds of internal revenue taxes
+, fees or other charges, penalties imposed in relation thereto, or other matters arising under the National Internal Revenue Code or other law or part of law administered by the Bureau of Internal Revenue;
+x x x x
+[25]
+ (Emphasis supplied)
+Furthermore, Section 11 of the same law prescribes how the said appeal should be taken, to wit:
+Section 11. 
+Who may appeal; effect of appeal
+.
+ â Any person, association or corporation adversely affected by a decision or ruling of the Collector of Internal Revenue, the Collector of Customs or any provincial or city Board of Assessment Appeals 
+may file an appeal in the Court of Tax Appeals 
+within thirty days
+ after the receipt of such decision or ruling.
+x x x x
+[26]
+ (Emphasis and underscoring supplied)
+Pertinent to the instant case, it is worth mentioning that Section 112 of the NIRC of 1997, as amended, was already the applicable law at the time that respondent filed its administrative and judicial claims, which categorically provides as follows:
+Section 112. 
+ Refunds or Tax Credits of Input Tax. -
+(A) 
+Zero-rated or Effectively Zero-rated Sales
+. â Any VAT-registered person, whose sales are zero-rated or effectively zero-rated may, 
+within two (2) years after the close of the taxable quarter when the sales were made
+, apply for the issuance of a tax credit certificate or refund of creditable input tax due or paid attributable to such sales, except transitional input tax, to the extent that such input tax has not been applied against output tax: x x x
+x x x x
+(D)
+[27]
+ Period within which Refund or Tax Credit of Input Taxes shall be Made. - In proper cases, the Commissioner shall grant a refund or issue the tax credit certificate for creditable input taxes 
+within one hundred twenty (120) days from the date of submission of complete documents in support of the application filed in accordance with Subsections (A) hereof.
+In case of full or partial denial of the claim for tax refund or tax credit, or 
+the failure on the part of the Commissioner to act on the application within the period prescribed above, the taxpayer affected may, within thirty (30) days from the receipt of the decision denying the claim or after the expiration of the one hundred twenty-day period, appeal the decision or the unacted claim with the Court of Tax Appeals.
+x x x x (Emphasis and underscoring supplied)
+Based on the foregoing provisions, prior to seeking judicial recourse before the CTA, a VAT-registered person may apply for the issuance of a tax credit certificate or refund of creditable input tax attributable to zero-rated or effectively zero-rated sales within two (2) years after the close of taxable quarter when the sales or purchases were made.
+Additionally, further reading of the provisions of Section 112 shows that under paragraph (D) thereof, the Commissioner of Internal Revenue is given a 
+120-day period, from submission of complete documents in support of the administrative claim
+ within which to act on claims for refund/applications for issuance of the tax credit certificate.  Upon denial of the claim or application, or 
+upon expiration of the 120-day period, the taxpayer only has 30 days within which to appeal said adverse decision or unacted claim before the CTA.
+In the consolidated cases of 
+Commissioner of Internal Revenue v. San Roque Power Corporation, Taganito Mining Corporation v. Commissioner of Internal Revenue, and Philex Mining Corporation v. Commissioner of Internal Revenue (San Roque)
+,
+[28]
+ the Court En Banc finally settled the issue on the proper interpretation of Section 112 of the NIRC of 1997, as amended, pertaining to the proper observance of the prescriptive periods provided therein.  The relevant portion of the discussions pertinent to the focal issue in the present case are quoted hereunder as follows:
+Unlike San Roque and Taganito, 
+Philexâs case is not one of premature filing but of late filing.  Philex did not file any petition with the CTA within the 120-day period.  Philex did not also file any petition with the CTA within 30 days after the expiration of the 120-day period.
+  Philex filed its judicial claim 
+long after
+ the expiration of the 120-day period, in fact 426 days after the lapse of the 120-day period.  
+In any event, whether governed by jurisprudence before, during, or after the Atlas case, Philexâs judicial claim will have to be rejected because of late filing.
+  Whether the two-year prescriptive period is counted from the date of payment of the output VAT following the 
+Atlas
+ doctrine, or from the close of the taxable quarter when the sales attributable to the input VAT were made following the 
+Mirant
+ and 
+Aichi
+ doctrines, Philexâs judicial claim was indisputably filed late.
+The
+ Atlas
+ doctrine cannot save Philex from the late filing of its judicial claim. 
+The inaction of the Commissioner on Philexâs claim during the 120-day period is, by express provision of law, âdeemed a denialâ of Philexâs claim.  Philex had 30 days from the expiration of the 120-day period to file its judicial claim with the CTA.  Philexâs failure to do so rendered the âdeemed a denialâ decision of the Commissioner final and unappealable
+.  The right to appeal to the CTA from a decision or âdeemed a denialâ decision of the Commissioner is merely a statutory privilege, not a constitutional right.  The exercise of such statutory privilege requires strict compliance with the conditions attached by the statute for its exercise.  Philex failed to comply with the statutory conditions and must thus bear the consequences.
+[29]
+ (Emphasis and italics supplied)
+Undoubtedly, it becomes apparent from the foregoing jurisprudential pronouncements and the applicable provisions of Section 112 of the NIRC of 1997, as amended, that a taxpayer-claimant only had a limited period of thirty (30) days from the expiration of the 120-day period of inaction of the Commissioner of Internal Revenue to file its judicial claim with this Court.  Failure to do so, the judicial claim shall prescribe or be considered as filed out of time.
+Applying the foregoing discussion in the case at bench, although respondent has indeed complied with the required two-year period within which to file a refund/tax credit claim with the BIR by filing its administrative claim on 6 May 1999 (within the period from the close of the subject second quarter of taxable year 1998 when the relevant sales or purchases were made), it appears however, that respondentâs corresponding judicial claim filed with the CTA on 30 June 2000 was filed beyond the 30-day period, detailed hereunder as follows:
+ 
+ 
+Taxable year 1998
+ 
+Filing date of the administrative claim
+ 
+Last day of the 120-day period under Section 112(C) from the date of filing of the administrative claim in case of inaction
+ 
+Last day of the 30-day period to judicially appeal said inaction
+ 
+Filing date of the Petition for Review
+ 
+ 
+ 
+2
+nd 
+Quarter (1 April 1998 to 30 June 1998)
+ 
+6 May 1999
+ 
+3 September 1999
+[30]
+ 
+3 October 1999
+ 
+30 June 2000
+ 
+ 
+Notably, Section 112(D) specifically states that in case of failure on the part of the Commissioner of Internal Revenue to act on the application within the 120-day period prescribed by law, respondent only has thirty (30) days after the expiration of the 120-day period to appeal the unacted claim with the CTA.  Since respondentâs judicial claim for the aforementioned quarter was filed before the CTA only on 30 June 2000,
+[31]
+ which was way beyond the mandatory 120+30 days to seek judicial recourse, such non-compliance with the said mandatory period of thirty (30) days is fatal to its refund claim on the ground of prescription.
+In the more recent consolidated cases of 
+Mindanao II Geothermal Partnership v. Commissioner of Internal Revenue, and Mindanao I Geothermal Partnership v. Commissioner of Internal Revenue,
+[32]
+ the Second Division of this Court, in applying therein the ruling in the San Roque case, provided a Summary of Rules on Prescriptive Periods Involving VAT as a guide for all parties concerned, to wit:
+We summarize the rules on the determination of 
+the prescriptive period for filing a tax refund or credit of unutilized input VAT as provided in Section 112 of the 1997 Tax Code
+, as follows:
+(1) An administrative claim must be filed with the CIR within two years after the close of the taxable quarter when the zero-rated or effectively zero-rated sales were made.
+(2) The CIR has 120 days from the date of submission of complete documents in support of the administrative claim within which to decide whether to grant a refund or issue a tax credit certificate.  The 120-day period may extend beyond the two-year period from the filing of the administrative claim if the claim is filed in the later part of the two-year period.  If the 120-day period expires without any decision from the CIR, then the administrative claim may be considered to be denied by inaction.
+(3) A judicial claim must be filed with the CTA within 30 days from the receipt of the CIRâs decision denying the administrative claim or from the expiration of the 120-day period without any action from the CIR.
+(4) All taxpayers, however, can rely on BIR Ruling No. DA-489-03 from the time of its issuance on 10 December 2003 up to its reversal by this Court in 
+Aichi
+ on 6 October 2010, as an exception to the mandatory and jurisdictional 120+30 day periods.
+[33]
+ (Emphasis supplied)
+To recapitulate, the mandatory rule is that a judicial claim must be filed with the CTA within thirty (30) days from the receipt of the Commissionerâs decision denying the administrative claim or from the expiration of the 120-day period without any action from the Commissioner.  Otherwise, said judicial claim shall be considered as filed out of time.
+This Court is mindful that when respondent filed its administrative claim on 6 May 1999, and its corresponding judicial claim on 30 June 2000, the NIRC of 1997, as amended, was already in effect.  Clearly therefore, the strict observance in applying the provisions of Section 112 of the NIRC of 1997 is proper.  Hence, failure of respondent to observe the 30-day period under said Section through its belated filing of the Petition for Review before the CTA warrants a dismissal with prejudice for lack of jurisdiction.
+Parenthetically, it must be emphasized that jurisdiction over the subject matter or nature of an action is fundamental for a court to act on a given controversy,
+[34]
+ and is conferred only by law and not by the consent or waiver upon a court which, otherwise, would have no jurisdiction over the subject matter or nature of an action.  Lack of jurisdiction of the court over an action or the subject matter of an action cannot be cured by the silence, acquiescence, or even by express consent of the parties.
+[35]
+  If the court has no jurisdiction over the nature of an action, its only jurisdiction is to dismiss the case.  The court could not decide the case on the merits.
+[36]
+As regards the prints on the supporting receipts or invoices, it is worth mentioning that the High Court already ruled on the significance of imprinting the word âzero-ratedâ for zero-rated sales covered by its receipts or invoices, pursuant to Section 4.108-1 of Revenue Regulations No. 7-95.
+[37]
+  Thus, in 
+Panasonic Communications Imaging Corporation of the Philippines v. Commissioner of Internal Revenue
+,
+[38]
+ the Second Division of this Court enunciated:
+But when petitioner Panasonic made the export sales subject of this case, 
+i.e.,
+ from April 1998 to March 1999, the rule that applied was 
+Section 4.108-1 of RR 7-95, otherwise known as the Consolidated Value-Added Tax Regulations, which the Secretary of Finance issued on 9 December 1995 and took effect on 1 January 1996.  It already required the printing of the word âzero-ratedâ on the invoices covering zero-rated sales
+.  When R.A. 9337 amended the 1997 NIRC on November 1, 2005, it made this particular revenue regulation a part of the tax code.  This conversion from regulation to law did not diminish the binding force of such regulation with respect to acts committed prior to the enactment of that law.
+Section 4.108-1 of RR 7-95 proceeds from the rule-making authority granted to the Secretary of Finance under Section 245 of the 1977 NIRC (Presidential Decree 1158) for the efficient enforcement of the tax code and of course its amendments.  The requirement is reasonable and is in accord with the efficient collection of VAT from the covered sales of goods and services.  As aptly explained by the CTAâs First Division, 
+the appearance of the word âzero-ratedâ on the face of invoices covering zero-rated sales prevents buyers from falsely claiming input VAT from their purchases when no VAT was actually paid.  If, absent such word, a successful claim for input VAT is made, the government would be refunding money it did not collect.
+Further, the printing of the word âzero-ratedâ on the invoice helps segregate sales that are subject to 10% (now 12%) VAT from those sales that are zero-rated.  Unable to submit the proper invoices, petitioner Panasonic has been unable to substantiate its claim for refund.
+x x x x
+This Court held that, since the âBIR authority to printâ is not one of the items required to be indicated on the invoices or receipts, the BIR erred in denying the claim for refund.  Here, however, 
+the ground for denial of petitioner Panasonicâs claim for tax refundâthe absence of the word âzero-ratedâ on its invoicesâis one which is specifically and precisely included in the above enumeration.  Consequently, the BIR correctly denied Panasonicâs claim for tax refund.
+[39]
+ (Emphasis supplied)
+Clearly, the foregoing pronouncement affirms that absence or non-printing of the word âzero-ratedâ in respondentâs invoices is fatal to its claim for the refund and/or tax credit representing its unutilized input VAT attributable to its zero-rated sales.
+On the other hand, while this Court considers the importance of imprinting the word âzero-ratedâ in said invoices, the same does not apply to the phrase âBIR authority to print.â  In
+ Intel Technology Philippines, Inc. v. Commissioner of Internal Revenue,
+[40]
+ the Court ruled that there is no law or BIR rule or regulation requiring the taxpayer-claimantâs authority from the BIR to print its sales invoices (BIR authority to print) to be reflected or indicated therein.  It stressed âthat while entities engaged in business are required to secure from the BIR an authority to print receipts or invoices and to issue duly registered receipts or invoices,
+ it is not required that the BIR authority to print be reflected or indicated therein.
+â
+[41]
+All told, the CTA has no jurisdiction over respondentâs judicial appeal considering that its Petition for Review was filed beyond the mandatory 30-day period pursuant to Section 112(D) of the NIRC of 1997, as amended.  Consequently, respondentâs instant claim for refund must be denied.
+WHEREFORE
+, the petition is 
+GRANTED
+.  Accordingly, the 16 September 2005 Decision of the Court of Appeals in CA-G.R. SP No. 80886 is hereby 
+REVERSED
+ and 
+SET ASIDE
+.  The Petition for Review filed before the Court of Tax Appeals docketed as CTA Case No. 6129 is DISMISSED for lack of jurisdiction.  No costs.
+SO ORDERED.
+Carpio, (Chairperson), Brion, Del Castillo
+, and 
+Perlas-Bernabe, JJ.,
+ concur.
+[1]
+ 
+Ker & Company, Ltd. v. Court of Tax Appeals, et al., 
+G.R. No. L-12396, 31 January 1962, 4 SCRA 160, 163.
+[2]
+ 
+Commissioner of Internal Revenue v. Villa, et al.,
+ 130 Phil. 3, 4 (1968).
+[3]
+ 
+Rollo
+, pp. 34-50; Penned by Associate Justice Monina Arevalo-Zenarosa with Associate Justices Remedios A. Salazar-Fernando and Rosmari D. Carandang concurring.
+[4]
+ CA 
+rollo
+, pp. 32-41; Penned by Associate Judge Juanito C. CastaÃ±eda, Jr. with Presiding Judge Ernesto D. Acosta and Associate Judge Lovell R. Bautista concurring.
+[5]
+ Id. at 40.
+[6]
+ Section 113. Invoicing and Accounting Requirements for VAT-Registered Persons. â
+(A)  Invoicing Requirements. â A VAT-registered person shall, for every sale,
+ issue an invoice or receipt. In addition to the information required under Section 237, the following information shall be indicated in the invoice or receipt:
+(1) 
+A statement that the seller is a VAT-registered person, followed by his taxpayer's identification number; and
+(2) 
+The total amount which the purchaser pays or is obligated to pay to the seller with the indication that such amount includes the value-added tax.
+(B) Accounting Requirements. â Notwithstanding the provisions of Section 233, all persons subject to the value-added tax under Sections 106 and 108 shall, in addition to the regular accounting records required, maintain a subsidiary sales journal and subsidiary purchase journal on which the daily sales and purchases are recorded. The subsidiary journals shall contain such information as may be required by the Secretary of Finance. (Italics supplied)
+[7]
+ Sec. 238. Printing of Receipts or Sales or Commercial Invoices. â 
+All persons who are engaged in business shall secure from the Bureau of Internal Revenue an authority to print receipts or sales or commercial invoices before a printer can print the same.
+No authority to print receipts or sales or commercial invoices shall be granted unless the receipts or invoices to be printed are serially numbered and shall show, among other things, the name, business style, Taxpayer Identification Number (TIN) and business address of the person or entity to use the same, and such other information that may be required by rules and regulations to be promulgated by the Secretary of Finance, upon recommendation of the Commissioner.
+All persons who print receipts or sales or commercial invoices shall maintain a logbook/register of taxpayer who availed of their printing services.
+The logbook/register shall contain the following information:
+(1) Names, Taxpayer Identification Numbers of the persons or entities for whom the receipts or sales or commercial invoices are printed; and
+(2) Number of booklets, number of sets per booklet, number of copies per set and the serial numbers of the receipts or invoices in each booklet. (Italics supplied)
+[8]
+ CA 
+rollo
+, pp. 36-38.
+[9]
+ Id. at 38-39.
+[10]
+ Id. at 40.
+[11]
+ Id. at 67-70.
+[12]
+ 
+Rollo,
+ pp. 34-50.
+[13]
+ Id. at 21.
+[14]
+ Salcedo v. People,
+ 400 Phil. 1302, 1308 (2000).
+[15]
+ The Insular Life Assurance Company, Ltd. v. Court of Appeals,
+ G.R. No. 126850, 28 April 2004, 428 SCRA 79, 85-86.
+[16]
+ 
+Borromeo v. Sun, 
+375 Phil. 595, 602 (1999).
+[17]
+ The Insular Life Assurance Company, Ltd. v. Court of Appeals,
+ supra note 15 at 86. (Emphasis supplied).
+[18]
+ CA 
+rollo,
+ p. 40.
+[19]
+ Id. at 32-41.
+[20]
+ 
+Rollo,
+ pp. 34-50.
+[21]
+ Id. at 48.
+[22]
+ 
+Ker & Company, Ltd. v. Court of Tax Appeals, et al., 
+supra note 1.
+[23]
+ âAN ACT CREATING THE COURT OF TAX APPEALSâ which took effect on 16 June 1954.
+[24]
+ âAN ACT EXPANDING THE JURISDICTION OF THE COURT OF TAX APPEALS (CTA), ELEVATING ITS RANK TO THE LEVEL OF A COLLEGIATE COURT WITH SPECIAL JURISDICTION AND ENLARGING ITS MEMBERSHIP AMENDING FOR THE PURPOSE CERTAIN SECTIONS OF REPUBLIC ACT NO.1125, AS AMENDED, OTHERWISE KNOWN AS THE LAW CREATING THE COURT OF TAX APPEALS, AND FOR OTHER PURPOSESâ which took effect on 23 April 2004.  This Act was a consolidation of Senate Bill. No. 2712 and House Bill No. 6673 finally passed by the Senate and the House of Representatives on 8 December 2003 and 2 February 2004, respectively.
+[25]
+ RA 9282 amended this provision as follows:
+SEC. 7. 
+Jurisdiction.
+ â The CTA shall exercise:
+a) 
+ Exclusive appellate jurisdiction to review by appeal
+, as herein provided:
+(1) Decisions of the Commissioner of Internal Revenue in cases involving disputed assessments, refunds of internal revenue taxes, fees or other charges, penalties in relation thereto, or other matters arising under the National Internal Revenue Code or other laws administered by the Bureau of Internal Revenue;
+(2) 
+Inaction by the Commissioner of Internal Revenue in cases involving disputed assessments, refunds of internal revenue taxes, fees or other charges, penalties in relation thereto, or other matters arising under the National Internal Revenue Code or other laws administered by the Bureau of Internal Revenue, where the National Internal Revenue Code provides a specific period for action, in which case the inaction shall be deemed a denial;
+x x x x (Emphasis supplied)
+[26]
+ RA 9282 amended this provision as follows:
+SEC. 11. 
+Who May Appeal; Mode of Appeal; Effect of Appeal.
+ â 
+Any party adversely affected by
+ a decision, ruling or 
+inaction of the Commissioner of Internal Revenue
+, the Commissioner of Customs, the Secretary of Finance, the Secretary of Trade and Industry or the Secretary of Agriculture or the Central Board of Assessment Appeals or the Regional Trial Courts 
+may file an appeal with the CTA within thirty (30) days
+ after the receipt of such decision or ruling or 
+after the expiration of the period fixed by law for action as referred to in Section 7(a)(2) herein.
+Appeal should be made by filing a petition for review
+ under a procedure analogous to that provided for under Rule 42 of the 1997 Rules of Civil Procedure with the CTA 
+within thirty (30) days
+ from the receipt of the decision or ruling or 
+in the case of inaction as herein provided, from the expiration of the period fixed by law to act thereon
+. x x x (Emphasis supplied).
+[27]
+ Presently Section 112(C) upon the effectivity of Republic Act No. 9337 on 1 November 2005.
+[28]
+ G.R. Nos. 187485, 196113, and 197156, 12 February 2013, 690 SCRA 336.
+[29]
+ Id. at 389-390.
+[30]
+ As there was no sufficient proof that respondent submitted any supporting documents to the BIR, the 120-day period commenced to run from 6 May 1999, the date of filing of respondentâs administrative claim.
+[31]
+ Almost nine (9) months had lapsed since the last day allowed by law to file the appropriate judicial claim.
+[32]
+ G.R. Nos. 193301 and 194637, 11 March 2013.
+[33]
+ Id.
+[34]
+ 
+Commissioner of Internal Revenue v. Villa, et al., supra
+ note 2.
+[35]
+ 
+Laresma v. Abellana, 
+G.R. No. 140973, 11 November 2004, 442 SCRA 156, 169.
+[36]
+ Please refer to
+ De Guzman, et al. v. Escalona, et al
+., G.R. No. L-51773, 16 May 1980, 97 SCRA 619, 627.
+[37]
+ The Consolidated Value-Added Tax Regulations, issued on 9 December 1995 and implemented beginning 1 January 1996, provides:
+Section 4.108-1. Invoicing Requirements.
+ - All VAT-registered persons shall, for every sale or lease of goods or properties or services, issue duly registered receipts or sales or commercial invoices which must show:
+1. The name, TIN and address of seller;
+2. Date of transaction;
+3. Quantity, unit cost and description of merchandise or nature of service;
+4. The name, TIN, business style, if any, and address of the VAT- registered purchaser, customer or client;
+5. 
+The word âzero-ratedâ imprinted on the invoice covering zero-rated sales;
+6. The invoice value or consideration.
+In the case of sale of real property subject to VAT and where the zonal or market value is higher than the actual consideration, the VAT shall be separately indicated in the invoice or receipt.
+Only VAT-registered persons are required to print their TIN followed by the word âVATâ in their invoices or receipts and this shall be considered as âVAT Invoice.â  All purchases covered by invoices other than âVAT Invoiceâ shall not give rise to any input tax.
+If the taxable person is also engaged in exempt operations, he should issue separate invoices or receipts for the taxable and exempt operations.  A âVAT Invoiceâ shall be issued only for sales of goods, properties or services subject to VAT imposed in Sections 100 and 102 of the code.
+The invoice or receipt shall be prepared at least in duplicate, the original to be given to the buyer and the duplicate to be retained by the seller as part of his accounting records. (Emphasis supplied)
+[38]
+ G.R. No. 178090, 8 February 2010, 612 SCRA 28, 35-38. See also 
+Hitachi Global Storage Technologies Philippines Corp. v. Commissioner of Internal Revenue,
+ G.R. No. 174212, 20 October 2010, 634 SCRA 205.
+[39]
+ Id.
+[40]
+ 550 Phil. 751 (2007).
+[41]
+ Id. at 786. (Emphasis supplied)
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

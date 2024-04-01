@@ -1,0 +1,324 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			843 Phil. 217
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 207976, November 14, 2018 ]
+
+
+PLANTERS DEVELOPMENT BANK, PETITIONER, V. LUBIYA AGRO INDUSTRIAL CORPORATION, RESPONDENT.
+
+
+D E C I S I O N
+
+
+
+
+A. REYES, JR., J.:
+
+
+Nature of the Case
+ 
+This Petition for Review on 
+Certiorari
+ under Rule 45 of the Rules of Court seeks to reverse and set aside the January 24, 2013 Decision
+[1]
+ and June 20, 2013 Resolution
+[2]
+ of the Court of Appeals (CA) in CA-G.R. CV No. 01761-MIN. The challenged rulings partially reversed the March 5, 2008 Decision
+[3]
+ of the Regional Trial Court (RTC), Branch 35, General Santos City in Civil Case No. 6884, dismissing herein respondent's complaint for nullification of loan agreement and foreclosure proceedings. 
+Factual Antecedents
+ 
+ On August 23, 1995 and November 13, 1997, petitioner Planters Development Bank (Planters Bank) granted two (2) loans to respondent Lubiya Agro Industrial Corporation (Lubiya) in the amounts of P6,500,000.00 and P5,000,000.00, respectively. The said loans were secured by real estate mortgages over two (2) parcels of land with improvements thereon located in General Santos City covered by Transfer Certificate of Title Nos. T-55058 and T-55057.
+[4]
+ 
+When Lubiya defaulted, Planters Bank sent a letter dated June 8, 1998 to it demanding payment and informing the latter that failure to heed such demand shall prompt Planters Bank to institute a legal action against it.
+[5]
+ Consequently, due to Libuya's failure to settle its obligation, Planters Bank extrajudicially foreclosed the properties offered as security by Lubiya. A public auction was held on October 6, 1998 wherein Planters Bank emerged as the sole and highest bidder. A Certificate of Sale was thereafter issued in its favor and recorded with the Registry of Deeds on November 11, 1998. After the expiration of the redemption period, ownership over the properties was consolidated and titles thereto were correspondingly issued in the name of Planters Bank.
+[6]
+ 
+On January 23, 2001, Lubiya filed a complaint for nullification of the loan agreement, foreclosure proceedings, damages, and attorney's fees, with application for the issuance of a temporary restraining order and injunction against Planters Bank. The said complaint was anchored on Planters Bank's alleged failure to furnish Lubiya with notices regarding the foreclosure and sale of the mortgaged properties despite being obligated in their mortgage contract to do so.
+[7]
+ 
+ In its Answer, Planters Bank admitted that the loan agreements are contracts of adhesion and Lubiya was indeed not notified of the extrajudicial foreclosure proceedings.
+[8]
+ 
+ In view of the foregoing admissions, Lubiya moved for a summary judgment alleging that no genuine issues exist as to the material facts of the case. The RTC granted the motion and rendered judgment on March 5, 2008. Strangely however, the summary judgment was adversed to Lubiya as the RTC dismissed its complaint against Planters Bank, to wit: 
+ 
+WHEREFORE, premises considered, the instant case is hereby ordered DISMISSED. No pronouncement as to cost. 
+ 
+SO ORDERED.
+[9]
+ 
+ 
+ 
+Thus, Lubiya appealed before the CA. 
+ 
+CA Ruling
+ 
+ On appeal, the CA reversed the decision of the RTC and nullified the foreclosure sale. The dispositive portion of its January 24, 2013 Decision reads: 
+ 
+ 
+WHEREFORE
+, premises considered, the appeal is 
+PARTIALLY GRANTED
+. The loan agreements are hereby declared valid, legal and subsisting. However, the extrajudicial foreclosure proceedings conducted on October 6, 1998 is declared null and void. Consequently, the certificate of sale as well as the consolidation of the title in favor of the bank are also declared null and void. 
+ 
+SO ORDERED.
+[10]
+ 
+ 
+ 
+ In so ruling, the CA found that Planters Bank failed to personally notify Lubiya of the extrajudicial foreclosure proceedings as required in Paragraph 12 of the parties' real estate mortgage contracts. This omission not only constituted a breach of its obligations under the contracts but also invalidated the foreclosure. 
+ Planters Bank moved for, but was denied, reconsideration of the adverted decision. Hence, this petition.
+ 
+Issue
+ 
+ The sole issue before this Court is whether or not the lack of personal notice of the extrajudicial foreclosure proceedings upon the mortgagor renders the same null and void. 
+ Planters Bank, in the main, alleges that the CA erred in giving a restrictive interpretation to Paragraph 12 of the real estate mortgage contracts. It insists that the June 8, 1998 letter informing Lubiya of its intention to institute legal action against it constituted sufficient compliance with the requirement of "
+notification of any judicial or extrajudicial action
+."
+[11]
+ 
+ In its Comment,
+[12]
+ respondent maintains that Planters Bank's failure to give personal notice of the foreclosure proceedings violates Lubiya's fundamental right to due process. 
+Ruling of the Court
+ 
+The petition has no merit. 
+ As a general rule, personal notice to the mortgagor in extrajudicial foreclosure proceedings is not necessary.
+[13]
+ Section 3 of Act No. 3135
+[14]
+ governing extra-judicial foreclosure of real estate mortgages only requires the 1) posting of the notice of extrajudicial foreclosure sale in three public places; and 2) publication of the said notice in a newspaper of general circulation,
+[15]
+ 
+viz
+: 
+ 
+ Sec. 3. Notice shall be given by posting notices of the sale for not less than twenty days in at least three public places of the municipality or city where the property is situated, and if such property is worth more than four hundred pesos, such notice shall also be published once a week for at least three consecutive weeks in a newspaper of general circulation in the municipality and city.
+ 
+ 
+ Nevertheless, jurisprudence is replete with Our pronouncement that despite the above provisions of the law, the parties to a mortgage contract are not precluded from imposing additional stipulations.
+[16]
+ This includes the requirement of personal notification to the mortgagor of any action relative to the mortgage contract, such as the institution of an extrajudicial foreclosure proceeding.
+[17]
+ 
+ Thus, the exception to the rule is when the parties stipulate that personal notice is additionally required to be given the mortgagor. Failure to abide by the general rule, or its exception, renders the foreclosure proceedings null and void.
+[18]
+ 
+In the instant case, paragraph 12 of the parties' real estate mortgage contracts state: 
+ 
+ All correspondence relative to this mortgage, including demand letters, summons, subpoenas, or 
+notification of any judicial or extra-judicial action
+, shall be sent to the Mortgagor at the above given address or at the address that may hereafter be given in writing by the Mortgagor to the Mortgagee.
+[19]
+ (Emphasis and italics supplied)
+ 
+ 
+ However, in an effort to extricate itself from its duties under the mortgage contracts, Planters Bank avers that the foregoing provision does not state that it should notify Lubiya of the actual extrajudicial foreclosure sale before it can be validly conducted. As such, it conveniently insists that the demand letter dated June 8, 1998, which Lubiya received on June 24, 1998 prior to the auction sale on October 6, 1998, duly satisfied the notice requirement agreed upon by the parties.
+[20]
+ This argument fails to persuade.
+ The provisions of Act No. 3135 notwithstanding, under paragraph 12 of the real estate mortgage contracts signed by the parties, Planters Bank obligated itself to notify Lubiya of any judicial or 
+extrajudicial action
+ it may resort to with respect to the mortgages. Hence, We cannot agree with Planters Bank that the June 8, 1998 demand letter that it sent to Lubiya satisfies the bank's additional obligation to provide personal notice of the extrajudicial foreclosure sale to the mortgagor.
+ As the Court elucidated in 
+Metropolitan Bank v. Wong
+,
+[21]
+ the bank's violation of paragraph 12 of the real estate mortgage contracts is sufficient to invalidate the extrajudicial foreclosure sale: 
+ 
+ In this case, petitioner and respondent in entering into a contract of real estate mortgage, agreed 
+inter alia
+: 
+ 
+ 
+all correspondence relative to this mortgage, including demand letters, summonses, subpoenas, or notifications of any judicial or extra-judicial action shall be sent to the MORTGAGOR x x x. 
+ 
+ 
+Precisely, the purpose of the foregoing stipulation is to apprise respondent of any action which petitioner might take on the subject property, thus according him the opportunity to safeguard his rights. When petitioner failed to send the notice of foreclosure sale to respondent, he committed a contractual breach sufficient to render the foreclosure sale on November 23, 1981 null and void.
+[22]
+ 
+ 
+ 
+We reiterated the Wong ruling in 
+Global Holiday Ownership Corporation v. Metropolitan Bank and Trust Company
+,
+[23]
+ Carlos Lim v. Development Bank of the Philippines
+,
+[24]
+ and 
+Ramirez v. The Manila Banking Corporation
+.
+[25]
+ Notably, all these cases involved provisions similar to paragraph 12 of the mortgage contracts in the present case.
+ 
+ Time and again, We have underscored that the purpose of stipulations of such nature is to precisely apprise the mortgagors of any action which the mortgagees might take on the mortgaged properties in order to accord the former of an opportunity to safeguard their rights.
+[26]
+ Thus, when Planters Bank failed to send the notice of foreclosure sale to Lubiya, it committed a contractual breach sufficient to render the foreclosure sale on October 6, 1998 null and void.
+[27]
+ Besides, the loan agreements and mortgage contracts are standard contracts of adhesion prepared by petitioner itself. If the parties did not intend to require personal notice in addition to the statutory requirements of posting and publication, the said provision should not have been included in the mortgage contracts.
+ Fundamentally, a contract is the law between the parties and, absent any showing that its provisions are wholly or in part contrary to law, morals, good customs, public order, or public policy, it shall be enforced to the letter by the courts.
+[28]
+ Consequently, the failure by the mortgagee to send the notice of foreclosure sale to mortgagor constitutes a contractual breach sufficient to render the foreclosure sale null and void.
+[29]
+ 
+WHEREFORE
+, the petition is 
+DENIED
+. The Decision dated January 24, 2013 and Resolution dated June 20, 2013 Resolution of the Court of Appeals in CA-G.R. CV No. 01761-MIN are hereby 
+AFFIRMED
+. 
+SO ORDERED.
+ 
+ 
+Carpio (Chairperson), Perlas-Bernabe, Caguioa
+, and 
+J. Reyes, Jr
+.,
+[*]
+ 
+JJ
+., concur. 
+ 
+[*]
+ Designated additional Member per Special Order No. 2587, dated August 28, 2018. 
+[1]
+ Penned by Associate Justice Renato C. Francisco and concurred in by Associate Justices Edgardo A. Camello and Oscar V. Badelles, Cagayan De Oro, Twenty-Second Division; 
+rollo
+, pp. 51-65.
+ 
+ 
+[2]
+ Id. at 67-70.
+ 
+ 
+[3]
+ Not attached to the petition.
+ 
+ 
+[4]
+ 
+Rollo
+, p. 52.
+ 
+ 
+[5]
+ Id. at 68.
+ 
+ 
+[6]
+ Id. at 52-53.
+ 
+ 
+[7]
+ Id. at 53-54. 
+ 
+[8]
+ Id. at 55.
+ 
+ 
+[9]
+ As cited in the CA Decision; 
+rollo
+, p. 56.
+ 
+ 
+[10]
+ Id. at 64. 
+ 
+[11]
+ Id. at 40. 
+ 
+[12]
+ Id. at 113-115.
+ 
+ 
+[13]
+ 
+Global Holiday Ownership Corporation v. Metropolitan Bank and Trust Company
+, 607 Phil. 850, 864 (2009).
+ 
+ 
+[14]
+ Otherwise known as "An Act to Regulate the Sale of Property under Special Powers Inserted In or Annexed to Real Estate Mortgages." 
+ 
+[15]
+ 
+Paradigm Development Corporation of the Philippines v. Bank of the Philippine Islands
+, G.R. No. 191174, June 7, 2017. 
+ 
+ 
+[16]
+ 
+Metropolitan Bank and Trust Company v. Wong
+, 412 Phil. 207, 216 (2001). 
+[17]
+ Supra note 13, at 864. 
+ 
+[18]
+ Id. 
+[19]
+ 
+Rollo
+, p. 61. 
+ 
+[20]
+ Id. at 41. 
+ 
+[21]
+ Supra note 16. 
+ 
+[22]
+ Id. at 216-217. 
+ 
+[23]
+ 607 Phil. 850 (2009). 
+[24]
+ 713 Phil. 24 (2013). 
+ 
+[25]
+ 723 Phil. 674 (2013). 
+[26]
+ 
+Paradigm Development Corporation of the Philippines v. Bank of the Philippine Islands
+, G.R. No. 191174, June 7, 2017; 
+Ramirez v. The Manila Banking Corporation
+, 723 Phil. 674, 681 (2013); 
+Metropolitan Bank and Trust Company v. Wong
+, supra note 16, at 217. 
+ 
+[27]
+ Supra, note 16, at 217. 
+[28]
+ 
+Ramirez v. The Manila Banking Corporation
+, 723 Phil. 674, 681 (2013). 
+ 
+[29]
+ Id. 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

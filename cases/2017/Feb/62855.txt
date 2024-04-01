@@ -1,0 +1,653 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			805 Phil. 13
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 188146, February 01, 2017 ]
+
+
+PILIPINAS SHELL PETROLEUM CORPORATION, PETITIONER, VS. ROYAL FERRY SERVICES, INC., RESPONDENT.
+
+D E C I S I O N
+
+
+
+
+LEONEN, J.:
+
+
+The venue for a petition for voluntary insolvency proceeding under the Insolvency Law is the Court of First Instance of the province or city where the insolvent debtor resides. A corporation is considered a resident of the place where its principal office is located as stated in its Articles of Incorporation. However, when it is uncontroverted that the insolvent corporation abandoned the old principal office, the corporation is considered a resident of the city where its actual principal office is currently found.
+This resolves a Petition for Review on Certiorari
+[1]
+ assailing the Court of Appeals' January 30, 2009 Decision
+[2]
+ and May 26, 2009 Resolution
+[3]
+ in CA-G.R. CV No. 88320, which reinstated the Order
+[4]
+ that declared Royal Ferry Services Inc. insolvent made by the Regional Trial Court of Manila, Branch 24 (Regional Trial Court).
+Royal Ferry Services Inc. (Royal Ferry) is a corporation duly organized and existing under Philippine law.
+[5]
+ According to its Articles of Incorporation, Royal Ferry's principal place of business is located at 2521 A. Bonifacio Street, Bangkal, Makati City.
+[6]
+ However, it currently holds office at Room 203, BF Condominium Building, Andres Soriano corner Solano Streets, Intramuros, Manila.
+[7]
+On August 28, 2005, Royal Ferry filed a verified Petition for Voluntary Insolvency before the Regional Trial Court of Manila.
+[8]
+ It alleged that in 2000, it suffered serious business losses that led to heavy debts.
+[9]
+ Efforts to revive the company's finances failed, and almost all assets were either foreclosed or sold to satisfy the liabilities incurred.
+[10]
+ Royal Ferry ceased its operations on February 28, 2002.
+[11]
+ In a special meeting on August 25, 2005, its Board of Directors approved and authorized the filing of a petition for voluntary insolvency in court.
+[12]
+The Regional Trial Court declared Royal Ferry insolvent in its Order
+[13]
+ dated December 19, 2005, the relevant portion of which reads:
+Finding the petition sufficient in form and substance and pursuant to the provisions of Act No. 1956, petitioner Royal Ferry Services, Inc., is hereby declared insolvent.
+The Court hereby further directs and orders:
+1. The Branch Sheriff to take possession of, and safely keep until the appointment, of an Assignee all the deeds, vouchers, books of accounts, papers, notes, bills and securities of the petitioner and all its real and personal properties, estates and effects not exempt from execution;
+2. All persons and entities owing money to petitioner are hereby forbidden to make payment for its accounts or to deliver or transfer any property to petitioner except to the duly elected Assignee;
+3. All civil proceedings against petitioner are deemed stayed;
+4. For purposes of electing an Assignee, a meeting of all creditors of the petitioner is hereby set on February 24, 2006 at 8:30 a.m. before this Court, at Room 435, Fourth Floor, Manila City Hall Building.
+Let this Order be published in a newspaper of general circulation in the Philippines, once a week for three (3) consecutive weeks, and copies thereof be furnished all creditors listed in the schedule of creditors at the expense of petitioner.
+SO ORDERED.
+[14]
+On December 23, 2005, Pilipinas Shell Petroleum Corporation (Pilipinas Shell) filed before the Regional Trial Court of Manila a Formal Notice of Claim
+[15]
+ and a Motion to Dismiss.
+[16]
+ In the Notice of Claim, Pilipinas Shell asserted that Royal Ferry owed them the amount of P2,769,387.67.
+[17]
+ In its Motion to Dismiss, Pilipinas Shell alleged that the Petition was filed in the wrong venue.
+[18]
+ It argued that the Insolvency Law provides that a petition for insolvency should be filed before the court with territorial jurisdiction over the corporation's residence.
+[19]
+ Since Royal Ferry's Articles of Incorporation stated that the corporation's principal office is located at 2521 A. Bonifacio St., Bangkal, Makati City, the Petition should have been filed before the Regional Trial Court of Makati and not before the Regional Trial Court of Manila.
+[20]
+On January 30, 2006, the Regional Trial Court of Manila issued the Order
+[21]
+ denying Pilipinas Shell's Motion to Dismiss for lack of merit. It found Royal Ferry to have sufficiently shown full compliance with the requirements of the Insolvency Law on venue and that it had abandoned its Makati office and moved to Manila. The Regional Trial Court also noted that when the Branch Sherriff confiscated Royal Ferry's books and personal assets, the properties were taken from a Manila address, at Room 203, BF Condominium Building, Andres Soriano corner Streets, Intramuros, Manila.
+Pilipinas Shell moved for reconsideration on February 24, 2006.
+[22]
+In the Order
+[23]
+ dated June 15, 2006, the Regional Trial Court reconsidered the denial of Pilipinas Shell's Motion to Dismiss. It held that a corporation cannot change its place of business without amending its Articles of Incorporation.
+[24]
+ Without the amendment, Royal Ferry's transfer did not produce any legal effect on its residence.
+[25]
+ The Regional Trial Court granted the dismissal of the Petition for Voluntary Insolvency. The dispositive portion of the Order reads:
+Accordingly, the Order of this court dated January 30, 2006 denying the claimant-movant's motion to dismiss is hereby reconsidered. The Motion to Dismiss is granted. The Petition for Voluntary Insolvency is hereby ordered DISMISSED.
+SO ORDERED.
+[26]
+Aggrieved, Royal Ferry filed a Notice of Appeal
+[27]
+ on October 26, 2006. On November 7, 2006, the Regional Trial Court forwarded the records of the case to the Court of Appeals.
+[28]
+In the Decision
+[29]
+ dated January 30, 2009, the Court of Appeals reinstated the insolvency proceedings. The dispositive portion of the Decision reads:
+WHEREFORE
+, premises considered, the instant appeal is 
+GRANTED
+. Accordingly, the following Orders of the Regional Trial Court of Manila (Branch 24) in Civil Case No. 05-113384 are 
+SET ASIDE
+: 1) Order dated 15 June 2006, which granted Pilipinas Shell's "
+Motion to Dismiss the Petition for Voluntary Insolvency
+;" and 2) Order dated 16 October 2006, which denied Royal Ferry's Motion for Reconsideration. On the other hand, the Orders of the trial court dated 5 September 2005 and 19 December 2005, granting an adjudication of insolvency in favor of Royal Ferry are 
+REINSTATED
+.
+SO ORDERED.
+[30]
+ (Emphasis in the original)
+The Court of Appeals held that the Motion to Dismiss failed to comply with Section 81
+[31]
+ of the Insolvency Law, which required the written consent of all creditors before a petition for insolvency can be dismissed. It overturned the grant of the Motion to Dismiss since Pilipinas Shell failed to secure the written consent of all the creditors of Royal Ferry.
+On the alleged jurisdictional defects of Royal Ferry's Petition for Voluntary Insolvency, the Court of Appeals found that "the [Manila Regional Trial Court] has jurisdiction over the instant case, and therefore, has the authority to render a decision on it."
+[32]
+ It likewise found that Manila was the proper venue for the case because "the cities of Makati and Manila are part of one region, or even a province, city or municipality, if Section 51 of the Corporation Code of the Philippines is taken by analogy."
+[33]
+ The Court of Appeals stated that Section 82
+[34]
+ of the Insolvency Law dictates that an order granting an adjudication of insolvency is appealable only to the Supreme Court.
+[35]
+Pilipinas Shell moved for reconsideration, but the Motion was denied on May 26, 2009.
+[36]
+ Hence, this Petition was filed on July 20, 2009.
+Petitioner contended that the Court of Appeals should not have taken cognizance of respondent Royal Ferry's appeal because it "failed to comply with Section 13, paragraphs (a), (c), (d), (e), (f), and (h), Rule 44 of the Rules of Court."
+[37]
+ Petitioner claimed that the Court of Appeals erred when it held that the "petition for voluntary insolvency [was filed] in the proper venue since the cities of Makati and Manila are part of one region[.]"
+[38]
+ According to petitioner, there was no reason to consider Makati and Manila as part of one region or province for the purpose of determining venue.
+[39]
+Moreover, petitioner argued that since respondent's Articles of Incorporation stated that its principal office was located at 2521 A. Bonifacio St., Bangkal, Makati City,
+[40]
+ the Petition for Voluntary Insolvency should have been filed in Makati, not in Manila. Petitioner cited 
+Hyatt Elevators and Escalators Corporation v. Goldstar Elevators Phils., Inc.
+,
+[41]
+ where this Court held that a corporation's residence was the place where its principal office was located as stated in its Articles of Incorporation.
+[42]
+ Thus, the address in respondent's Articles of Incorporation should control the venue.
+Finally, petitioner claimed that Section 81 of the Insolvency Law is inapplicable to this case as it contemplated a situation where the trial court had jurisdiction over the case.
+[43]
+ Petitioner reiterated that because the venue was improperly laid, the trial court could not issue a final order declaring respondent insolvent.
+In its Comment,
+[44]
+ respondent averred that jurisdiction over the subject was determined by the allegations in the pleading.
+[45]
+ Respondent argued that because it stated in its Petition that it held office in Manila, the Regional Trial Court of Manila had jurisdiction over the case.
+[46]
+ It further asserted that the fiction of a corporation's residence must give way to fact.
+On April 29, 2016, respondent moved to dismiss the case.
+[47]
+ Respondent stated that it entered into a Compromise Agreement
+[48]
+ with petitioner, which resulted in the Court of Appeals' judgment based on the compromise agreement.
+[49]
+ It argued that the Judgment, promulgated in a related case docketed as CA-G.R. CV No. 102522,
+[50]
+ made the present Petition moot and academic.
+[51]
+ In CA-G.R. CV No. 102522, the Court of Appeals deemed the stipulations of the Compromise Agreement valid and not contrary to law, morals, good customs, public order, or public policy.
+[52]
+ The dispositive portion of the Judgment reads:
+WHEREFORE
+, the foregoing premises considered, the Compromise Agreement is hereby 
+APPROVED
+ and judgment is hereby rendered in accordance therewith. The parties are hereby enjoined to comply with and abide by the said terms and conditions thereof. By virtue of such approval, this case is now deemed 
+CLOSED
+ and 
+TERMINATED
+.
+SO ORDERED.
+[53]
+ (Emphasis in the original)
+On September 23, 2016, petitioner filed a Comment
+[54]
+ to respondent's Motion to Dismiss. It claimed that the Compromise Agreement was only between Pilipinas Shell, and Antonino R. Gascon, Jr., and Jonathan D. Gascon (the Gascons).
+[55]
+ Respondent was not a party to the agreement.
+[56]
+ Petitioner argued that it had agreed to waive any action against respondent's officers, directors, employees, stockholders, and successors-in-interest, but that it did not agree to waive its claim against respondent.
+[57]
+On October 25, 2016, respondent filed a Reply
+[58]
+ stating that petitioner was held solidarity liable with the Gascons in CA-G.R. CV No. 102522. Thus, when petitioner "released the Gascons, two (2) of the solidary debtors, of all their obligations",
+[59]
+ petitioner effectively extinguished the entire obligation under Article 1215
+[60]
+ of the Civil Code.
+The issues for resolution are:
+First, whether this Petition is moot and academic in light of the Compromise Agreement dated August 4, 2015;
+Second, whether the Court of Appeals erred in taking cognizance of Royal Ferry's appeal despite its violation of Rule 44, Section 13 of the Rules of Court; and
+Lastly, whether the Petition for Insolvency was properly filed.
+I
+Respondent argues that the Petition is moot and academic in light of the Compromise Agreement. It alleges that petitioner has abandoned its claim against respondent and, consequently, lost its status as respondent's creditor. Thus, petitioner has no more interest in the case and can no longer question the insolvency proceeding.
+[61]
+For its part, petitioner contends that it has waived only its claims against "[respondent's] Antonino R. Gascon, Jr. and Jonathan D. Gascon and its other officers, directors, employees, stockholders, successors-in-interest and did 
+not
+ waive or abandon any of its claims against [respondent]."
+[62]
+ (Emphasis in the original).
+Petitioner has not abandoned its claim against respondent. Paragraphs 4 and 5 of the Compromise Agreement provide:
+4. The FIRST PARTY waives any further action of whatsoever nature, whether past, present or contingent, in connection with the causes of action against the SECOND PARTY and THIRD PARTY alleged in its complaint in Civil Case No. 05-773, entitled "
+Pilipinas Shell Petroleum Corporation vs. Royal Ferry Services, Inc., Antonino R. Gascon, Jr. and Jonathan D. Gascon
+" already partially resolved by the Regional Trial Court of Makati, Branch 141 in its Partial Decision dated 20 May 2013 and Order dated 3 December 2013;
+5. Should the Supreme Court of the Philippines rule in favor of the FIRST PARTY in "
+Pilipinas Shell Petroleum Corporation vs. Royal Ferry Services, Inc.
+" (G.R. No. 188146), or otherwise reinstate the Orders dated 15 June 2006 and 16 October 2006 of the Regional Trial Court of Manila, Branch 24, dismissing the Petition for Voluntary Insolvency filed by Royal Ferry Services, Inc., the FIRST PARTY agrees not to hold the officers, directors, employees, stockholders, successors-in-interest of Royal Ferry Services, Inc., the SECOND PARTY, the THIRD PARTY, and the heirs and assigns of the foregoing personally liable for the obligations of Royal Ferry Services, Inc. to the FIRST PARTY, and, instead, abandon completely all causes of action against said officers, directors, employees, stockholders, successors-in-interest of Royal Ferry Services, Inc., the SECOND PARTY, the THIRD PARTY, and their heirs and assigns.
+[63]
+The Compromise Agreement was between petitioner and the Gascons. Contrary to its claim, respondent was not a party to the agreement. Nowhere in the Compromise Agreement did petitioner agree to waive its claim against respondent.
+In CA-G.R. CV No. 102522, petitioner held the Gascons solidarity liable with respondent for the same debt that petitioner was claiming in these proceedings. It is on this basis that respondent now asserts that it is a solidary debtor with the Gascons and can, thus, acquire the benefit stipulated in Article 1215
+[64]
+ of the Civil Code.
+Respondent did not present any other proof of this alleged solidary liability. In CA-G.R. CV No. 102522, one of petitioner's contentions was whether the corporate veil should be pierced to make the Gascons liable for respondent's liabilities. Before the Court of Appeals could rule on the matter, however, the Compromise Agreement had been executed and the case was closed.
+A case is moot and academic when it ceases to present a justiciable controversy because of supervening events so that a declaration would be of no practical use or value.
+[65]
+ As respondent has failed to establish that petitioner has abandoned its claim against it, petitioner continues to have an interest in the insolvency proceeding.
+II
+On the issue of the formal defects of respondent's appeal, we uphold the Court of Appeals Decision to rule on the merits of the case.
+Petitioner alleges that respondent's Appellant's Brief has failed to comply with Rule 44, Section 13, paragraphs (a), (c), (d), (e), (f), and (h) of the Rules of Court:
+(a) First, the Appellant's Brief is bereft of page references to the record in its "Statements of Facts and of the Case" and its discussion supporting its assignment of errors, in violation of Section 13 (c), (d) and (f) of Rule 44.
+(b) Second, the Appellant's Brief failed to include a statement of the issues of fact or law to be submitted to [the Court of Appeals] for judgment, in violation of Section 13(e), Rule 44.
+(c) Third, the Appellant's Brief does not contain the page of the report on which the citation of authorities is found, in violation of Section 13(f), Rule 44.
+(d) Fourth, the table of cases is not alphabetically arranged, in violation of Section 13(a), Rule 44.
+(e) Fifth, the Appellants Brief does not contain, as an appendix, a copy of the judgment or final order appealed from, in violation of Section 13(h), Rule 44.
+[66]
+On the other hand, respondent argues that it has substantially complied with the requirements under the law.
+[67]
+ It claims that the absence of page references to the record in its "Statements of Facts and of the Case" has not automatically resulted in the dismissal of the appeal.
+[68]
+ Further, as the records of this case are not voluminous, the Court of Appeals was not inconvenienced by the lapse.
+[69]
+Respondent likewise claims that although the Appellant's Brief did not specifically contain the phrase "statement of issues," the three errors in issue were identifiable through a reading of the Brief.
+[70]
+ It claims that its failure to append a copy of the trial court Order has been mooted because the Court of Appeals has issued the Resolution requiring them to submit copies of the assailed Order.
+[71]
+ Lastly, respondent argues that it only cited five (5) cases in the Brief. Hence, a citation of authorities was unnecessary.
+[72]
+The Court of Appeals committed no reversible error in deciding to rule on the merits. The term "may" in Rule 50, Section 1
+[73]
+ of the Rules of Court means that the Court of Appeals has discretion to dismiss an appeal based on the enumerated grounds. The Court of Appeals exercised its discretion when it decided that the interest of justice would be better served by overlooking the pleading's technical defects. Time and again, this Court has declared that dismissal on purely technical grounds is frowned upon.
+[74]
+ It is judicial policy to determine a case based on the merits so that the parties have full opportunity to ventilate their cause and defenses.
+[75]
+ The Court of Appeals did not err in taking cognizance of the appeal.
+III
+The Petition for Insolvency was properly filed before the Regional Trial Court of Manila.
+The first insolvency law, Republic Act No. 1956, was entitled "An Act Providing for the Suspension of Payments, the Relief of Insolvent Debtors, the Protection of Creditors, and the Punishment of Fraudulent Debtors (Insolvency Law)". It was derived from the Insolvency Act of California (1895), with few provisions taken from the United States Bankruptcy Act of 1898.
+[76]
+ With the enactment of Republic Act No. 10142, otherwise known as the Financial Rehabilitation and Insolvency Act of 2010 (FRIA), the Insolvency Law was expressly repealed on July 18, 2010. The FRIA is currently the special law that governs insolvency. However, because the relevant proceedings in this case took place before the enactment of the FRIA, the case needs to be resolved under the provisions of the Insolvency Law.
+Insolvency proceedings are defined as the statutory procedures by which a debtor obtains financial relief and undergoes judicially supervised reorganization or liquidation of its assets for the benefit of its creditors.
+[77]
+Respondent argues that the Regional Trial Court of Manila obtained jurisdiction because in its Petition for Voluntary Insolvency, respondent alleged that its principal office was then found in Manila. On the other hand, petitioner argues that filing the petition before the Regional Trial Court of Manila was a patent jurisdictional defect as the Regional Trial Court of Manila did not have territorial jurisdiction over respondent's residence.
+[78]
+Petitioner confuses the concepts of jurisdiction and venue. In 
+City of Lapu-Lapu v. Phil. Economic Zone Authority
+:
+[79]
+On the one hand, jurisdiction is "the power to hear and determine cases of the general class to which the proceedings in question belong." Jurisdiction is a matter of substantive law. Thus, an action may be filed only with the court or tribunal where the Constitution or a statute says it can be brought. Objections to jurisdiction cannot be waived and may be brought at any stage of the proceedings, even on appeal. When a case is filed with a court which has no jurisdiction over the action, the court shall 
+motu proprio
+ dismiss the case.
+On the other hand, venue is "the place of trial or geographical location in which an action or proceeding should be brought." In civil cases, venue is a matter of procedural law. A party's objections to venue must be brought at the earliest opportunity either in a motion to dismiss or in the answer; otherwise the objection shall be deemed waived. When the venue of a civil action is improperly laid, the court cannot 
+motu proprio
+ dismiss the case.
+[80]
+ (Citations omitted)
+Wrong venue is merely a procedural infirmity, not a jurisdictional impediment.
+[81]
+ Jurisdiction is a matter of substantive law, while venue is a matter of procedural law.
+[82]
+ Jurisdiction is conferred by law, and the Insolvency Law vests jurisdiction in the Court of First Instanceânow the Regional Trial Court.
+Jurisdiction is acquired based on the allegations in the complaint.
+[83]
+ The relevant portion of respondent's Petition for Voluntary Insolvency reads:
+Petitioner was incorporated on 18 October 1996 with principal place of business in 2521 A. Bonifacio Street, Bangkal, Makati City. At present and during the past six months, [Royal Ferry] has held office in Rm. 203 BF Condo Building, Andres Soriano cor. Solana St., Intramuros, Manila, within the jurisdiction of the Honorable Court, where its books of accounts and most of its remaining assets are kept.
+[84]
+Section 14 of the Insolvency Law specifies that the proper venue for a petition for voluntary insolvency is the Regional Trial Court of the province or city where the insolvent debtor has resided in for six (6) months before the filing of the petition.
+[85]
+ In this case, the issue of which court is the proper venue for respondent's Petition for Voluntary Insolvency comes from the confusion on an insolvent corporation's residence.
+Petitioner contends that the residence of a corporation depends on what is stated in its articles of incorporation, regardless of whether the corporation physically moved to a different location. On the other hand, respondent posits that the fiction of a corporation's residence must give way to uncontroverted facts.
+In 
+Young Auto Supply Co. v. Court of Appeals
+:
+[86]
+A corporation has no residence in the same sense in which this term is applied to a natural person. But for practical purposes, a corporation is in a metaphysical sense a resident of the place where its principal office is located as stated in the articles of incorporation... The Corporation Code precisely requires each corporation to specify in its articles of incorporation the "place where the principal office of the corporation is to be located which must be within the Philippines"... The purpose of this requirement is to fix the residence of a corporation in a definite place, instead of allowing it to be ambulatory.
+[87]
+Young Auto Supply
+ dealt with the venue of a corporation's personal action by applying the provisions of the Rules of Court. Nonetheless, the Rules of Court also provides for when its provisions on venue do not apply. Rule 4, Section 4 provides:
+RULE 4 
+Venue of Actions
+....
+SECTION 4. 
+When Rule not applicable
+. â This Rule shall not apply.
+ 
+(a)
+ In those cases where a specific rule or law provides otherwise; or
+(b) 
+Where the parties have validly agreed in writing before the filing of the action on the exclusive venue thereof.
+As there is a specific law that covers the rules on venue, the Rules of Court do not apply.
+The old Insolvency Law provides that in determining the venue for insolvency proceedings, the insolvent corporation should be considered a resident of the place where its actual place of business is located six (6) months before the filing of the petition:
+Sec. 14. Application. â An insolvent debtor, owing debts exceeding in amount the sum of one thousand pesos, may apply to be discharged from his debts and liabilities by petition to the Court of First Instance of province or city 
+in which he has resided for six months next preceding the filing of such petition
+. In his petition he shall set forth his place of residence, the period of his residence therein immediately prior to filing said petition, his inability to pay all his debts in full, his willingness to surrender all his property, estate, and effects not exempt from execution for the benefit of his creditors, and an application to be adjudged an insolvent. He shall annex to his petition a schedule and inventory in the form herein-after provided. The filing of such petition shall be an act of insolvency. (Emphasis supplied)
+[88]
+The law places a premium on the place of residence before a petition is filed since venue is a matter of procedure that looks at the convenience of litigants.
+[89]
+ In insolvency proceedings, this Court needs to control the property of the insolvent corporation. In 
+Metropolitan Bank and Trust Company v. S.F. Naguiat Enterprises, Inc.
+:
+[90]
+Conformably, it is the policy of Act No. 1956 to place all the assets and liabilities of the insolvent debtor completely within the jurisdiction and control of the insolvency court without the intervention of any other court in the insolvent debtor's concerns or in the administration of the estate. It was considered to be of prime importance that the insolvency proceedings follow their course as speedily as possible in order that a discharge, if the insolvent debtor is entitled to it, should be decreed without unreasonable delay. "Proceedings of [this] nature cannot proceed properly or with due dispatch unless they are controlled absolutely by the court having charge thereof."
+[91]
+ (Citations omitted)
+To determine the venue of an insolvency proceeding, the residence of a corporation should be the actual place where its principal office has been located for six (6) months before the filing of the petition. If there is a conflict between the place stated in the articles of incorporation and the physical location of the corporation's main office, the actual place of business should control.
+Requiring a corporation to go back to a place it has abandoned just to file a case is the very definition of inconvenience. There is no reason why an insolvent corporation should be forced to exert whatever meager resources it has to litigate in a city it has already left.
+In any case, the creditors deal with the corporation's agents, officers, and employees in the actual place of business. To compel a corporation to litigate in a city it has already abandoned would create more confusion.
+Moreover, the six (6)-month qualification of the law's requirement of residence shows intent to find the most accurate location of the debtor's activities. If the address in a corporation's articles of incorporation is proven to be no longer accurate, then legal fiction should give way to fact.
+Petitioner cites 
+Hyatt Elevators and Escalators Corp. v. Goldstar Elevators Phils. Inc.
+,
+[92]
+ where this Court ruled that a corporation's articles of incorporation is the controlling document that determines the venue of a corporation's action.
+[93]
+ Thus, abandoning the principal office does not affect the venue of the corporation's personal action if the corporation's articles of incorporation were not previously amended to reflect this change.
+Two glaring differences between this case and Hyatt make the latter inapplicable. First, 
+Hyatt
+ found inconclusive the allegation that the petitioner corporation relocated to a different city.
+[94]
+ Here, the Regional Trial Court found that respondent had sufficiently shown that it had been a resident of Manila for six (6) months before it filed its Petition for Voluntary Insolvency.
+[95]
+ Second, and more importantly, 
+Hyatt
+ involves a complaint for unfair trade practices and damagesâa personal action governed by the Civil Code and the Rules of Court.
+[96]
+ This case, however, involves insolvency, a special proceeding governed by a special law that specifically qualifies the residence of the petitioner.
+IV
+We cannot sustain the ruling of the Court of Appeals that the "petition for voluntary insolvency [was filed] in the proper venue since the cities of Makati and Manila are part of one region[.]"
+[97]
+ This is untenable. Section 14 of Batas Pambansa Blg. 129 provides several judges to preside over the different branches assigned to Manila and Makati. Thus, the two venues are distinct:
+(d) One hundred seventy-two Regional Trial Judges shall be commissioned for the National Capital Judicial Region. There shall be:
+Eighty-two branches (Branches I to LXXXII) for the city of Manila, with seats thereat;
+Twenty-five branches (Branches LXXXIII to CVII) for Quezon City, with seats thereat;
+Twelve branches (Branches CVIII to CXIX) for Pasay City, with seats thereat;
+Twelve branches (Branches CXX to CXXXI) for Caloocan City, with seats thereat;
+Thirty-nine branches (Branches CXXXII to CLXX) for the municipalities of Navotas, Malabon, San Juan, Mandaluyong, Makati, Pasig, Pateros, Taguig, Marikina, Paranaque, Las PiÃ±as, and Muntinlupa, 
+Branches CXXXII to CL with seats at Makati
+, Branches CLI to CLXVIII at Pasig, and Branches CLXIX and CLXX at Malabon; and
+Two branches (Branches CLXXI and CLXXII) for the municipality of Valenzuela, with seats thereat. (Emphasis supplied)
+Despite being in the same region, Makati and Manila are treated as two distinct venues. To deem them as interchangeable venues for being in the same region has no basis in law.
+Respondent is a resident of Manila. The law should be read to lay the venue of the insolvency proceeding in the actual location of the debtor's activities. If it is uncontroverted that respondent's address in its Articles of Incorporation is no longer accurate, legal fiction should give way to fact. Thus, the Petition was correctly filed before the Regional Trial Court of Manila.
+WHEREFORE
+, the Petition for Review on Certiorari is 
+DENIED
+. The assailed Decision dated January 30, 2009 and the Resolution dated May 26, 2009 of the Court of Appeals in CA-G.R. CV No. 88320 are 
+AFFIRMED
+.
+SO ORDERED.
+Carpio, (Chairperson), Peralta, Mendoza
+, and 
+Jardeleza, JJ.
+, concur.
+[1]
+ Under Rule 45 of the 1997 Civil Rules of Procedure.
+[2]
+ 
+Rollo
+, pp. 78-92. The Decision was penned by Associate Justice Marlene Gonzales-Sison and concurred in by Associate Justices Josefina Guevara-Salonga (Chair) and Isaias P. Dicdican of the Ninth Division, Court of Appeals, Manila.
+[3]
+ Id. at 94-95. The Resolution was penned by Associate Justice Marlene Gonzales-Sison and concurred in by Associate Justices Josefina Guevara-Salonga (Chair) and Isaias P. Dicdican of the Ninth Division, Court of Appeals, Manila.
+[4]
+ Id. at 209-210. The Order was issued by Judge Antonio M. Eugenio, Jr. of Branch 24, Regional Trial Court, Manila.
+[5]
+ Id. at 16.
+[6]
+ Id. at 112.
+[7]
+ Id. at 79.
+[8]
+ Id.
+[9]
+ Id.
+[10]
+ Id.
+[11]
+ Id. at 104.
+[12]
+ Id. at 79.
+[13]
+ Id.at 140-141. The Order was issued by Judge Antonio M. Eugenio, Jr. of Branch 24 Regional Trial Court, Manila.
+[14]
+ Id. at 140-141.
+[15]
+ Id. at 142-150.
+[16]
+ Id. at 183-190.
+[17]
+ Id. at 143.
+[18]
+ Id. at 183.
+[19]
+ Act No. 1956 (1909), sec.14 provides:
+Section 14. Application. â An insolvent debtor, owing debts exceeding in amount the sum of one thousand pesos, may apply to be discharged from his debts and liabilities by petition to the Court of First Instance of the province or city in which he has resided for six months next preceding the filing of such petition. In his petition he shall set forth his place of residence, the period of his residence therein immediately prior to filing said petition, his inability to pay all his debts in full, his willingness to surrender all his property, estate, and effects not exempt from execution for the benefit of his creditors, and an application to be adjudged an insolvent. He shall annex to his petition a schedule and inventory in the form hereinafter provided. The filing of such petition shall be an act of insolvency.
+[20]
+ 
+Rollo
+, pp. 184-185.
+[21]
+ Id. at 209-210.
+[22]
+ Id. at 211-217.
+[23]
+ Id. at 252-253. The Order was issued by Judge Antonio M. Eugenio, Jr. of Branch 24, Regional Trial Court, Manila.
+[24]
+ Id. at 253.
+[25]
+ Id.
+[26]
+ Id.
+[27]
+ Id. at 282.
+[28]
+ Id. at 285.
+[29]
+ Id. at 78-92.
+[30]
+ Id. at 91.
+[31]
+ Act No. 1956(1909), sec.81 provides:
+Section 81. If no creditor files written objections, the court may, upon the application of the debtor, if it be a voluntary petition, or of the petitioning creditors, if a creditor's petition, dismiss the petition and the discontinue the proceedings at any time before the appointment of an assignee, upon giving not less than two nor more than eight weeks' notice to the creditors, in the same manner that notice of the time and place of election of an assignee is given: Provided, however, That by written consent of all creditors filed in the court the proceedings may be dismissed at any time. After the appointment of an assignee, no dismissal shall be made without the consent of all parties interested in or affected thereby.
+[32]
+ 
+Rollo
+, p. 89.
+[33]
+ Id. 
+See CORP. CODE,sec. 51, which provides
+:
+Section 51. Place and Time of Meetings of Stockholders or Members. â Stockholders' or members' meetings, whether regular or special, shall be held in the city or municipality where the principal office of the corporation is located, and if practicable in the principal office of the corporation: Provided, That Metro Manila shall, for the purposes of this section, be considered a city or municipality.
+[34]
+ Act No. 1956 (1909), sec. 82 provides:
+Section 82. An appeal may be taken to the Supreme Court in the following cases: 
+1. From an order granting or refusing an adjudication of insolvency and, in the latter case, from the order fixing the amount of costs, expenses, damages, and attorney's fees allowed the debtor.
+[35]
+ 
+Rollo
+, p. 91.
+[36]
+ Id. at 94-95.
+[37]
+ Id. at 29.
+[38]
+ Id. at 49.
+[39]
+ Id. at 50.
+[40]
+ Id. at 21.
+[41]
+ 510 Phil.467 (2005) [Per J. Panganiban, Third Division].
+[42]
+ 
+Rollo
+, p. 50.
+[43]
+ Id. at 62.
+[44]
+ Id. at 448-476.
+[45]
+ Id. at 458.
+[46]
+ Id. at 459.
+[47]
+ Id. at 525-530.
+[48]
+ Id. at 531-536.
+[49]
+ Id. at 542-548. The Judgment was penned by Associate Justice Socorro B. Inting and concurred in by Associate Justices Remedios Salazar-Fernando and Priscilla Baltazar-Padilla of the Second Division, Court of Appeals, Manila.
+[50]
+ CA-G.R. CV No. 102522 was entitled 
+Pilipinas Shell Petroleum Corporation v. Royal Ferry Services Inc., Antonino R. Gascon, Jr., and Jonathan D. Gascon
+.
+[51]
+ 
+Rollo
+, p. 526.
+[52]
+ Id. at 547.
+[53]
+ Id. at 548.
+[54]
+ Id. at 555-561.
+[55]
+ Id. at 555-556.
+[56]
+ Id.
+[57]
+ Id. at 556.
+[58]
+ Id. at 566-573.
+[59]
+ Id. at 568.
+[60]
+ CIVIL CODE, art. 1215 provides:
+Article 1215. Novation, compensation, confusion or remission of the debt, made by any of the solidary creditors or with any of the solidary debtors, shall extinguish the obligation, without prejudice to the provisions of Article 1219.
+The creditor who may have executed any of these acts, as well as he who collects the debt, shall be liable to the others for the share in the obligation corresponding to them.
+[61]
+ 
+Rollo
+, p. 526.
+[62]
+ Id. at 557.
+[63]
+ Id. at 546-547.
+[64]
+ CIVIL CODE, art. 1215 provides:
+Article 1215. Novation, compensation, confusion or remission of the debt, made by any of the solidary creditors or with any of the solidary debtors, shall extinguish the obligation, without prejudice to the provisions of Article 1219.
+The creditor who may have executed any of these acts, as well as he who collects the debt, shall be liable to the others for the share in the obligation corresponding to them.
+[65]
+ 
+Deutsche Bank AG v. Court of Appeals
+, 683 Phil. 80, 88 (2012) [Per J. Mendoza, Third Division].
+[66]
+ 
+Rollo
+, pp. 28-29.
+[67]
+ Id. at 450.
+[68]
+ Id.
+[69]
+ Id. at 451.
+[70]
+ Id. at 452.
+[71]
+ Id.
+[72]
+ Id. at 453.
+[73]
+ RULES OF COURT, Rule 50, sec. 1 provides:
+Section 1. Grounds for dismissal of appeal. â An appeal may be dismissed by the Court of Appeals, on its own motion or on that of the appellee, on the following grounds:
+(a)
+ Failure of the record on appeal to show on its face that the appeal was taken within the period fixed by these Rules;
+(b) 
+Failure to file the notice of appeal or the record on appeal within the period prescribed by these Rules;
+(c)
+ Failure of the appellant to pay the docket and other lawful fees as provided in section 5, Rule 40 and section 4 of Rule 41;
+(d)
+ Unauthorized alterations, omissions or additions in the approved record on appeal as provided in section 4 of Rule 44;
+(e)
+ Failure of the appellant to serve and file the required number of copies of his brief or memorandum within the time provided by these Rules;
+(f)
+ Absence of specific assignment of errors in the appellant's brief, or of page references to the record as required in section 13, paragraphs (a), (c), (d) and (f) of Rule 44;
+(g)
+ Failure of the appellant to take the necessary steps for the correction or completion of the record within the time limited by the court in its order;
+(h) 
+Failure of the appellant to appear at the preliminary conference under Rule 48 or to comply with orders, circulars, or directives of the court without justifiable cause; and
+(i) 
+The fact that the order or judgment appealed from is not appealable.
+[74]
+ 
+Yap v. Court of Appeals
+, 200 Phil 509 (1982) [Per J. Melencio-Herrera, First Division].
+[75]
+ 
+Bunsay v. Civil Service Commission
+, 556 Phil. 720, 728 (2007) [Per J. Austria-Martinez, Third Division].
+[76]
+ 
+See Metropolitan Bank and Trust Company v. S.F. Naguiat Enterprises, Inc.
+, G.R. No. 178407, March 18, 2015 <
+http://sc.judiciary.gov.ph/pdf/web/viewer.html?file=/jurisprudence/2015/march2015/178407.pdf
+> [Per J. Leonen, Second Division].
+[77]
+ 2 STEPHANIE V. GOMEZ-SOMERA, CREDIT TRANSACTIONS; NOTES AND CASES 737 (2015).
+[78]
+ 
+Rollo
+, p. 41.
+[79]
+ G.R. Nos. 184203 & 187583, November 26, 2014 <
+http://sc.judiciary.gov.ph/pdf/web/viewer.html?file=/jurisprudence/2014/november2014/184203.pdf
+> [Per J. Leonen, Second Division].
+[80]
+ Id. at 26-27.
+[81]
+ 
+Gumabon v. Larin
+, 422 Phil. 222, 228 (2001) [Per J. Vitug, Third Division].
+[82]
+ 
+City of Lapu-Lapu v. Phil. Economic Zone Authority
+, G.R. No. 184203 & 187583, November 26, 2014 <
+http://sc.judiciary.gov.ph/pdf/web/viewer.html?file=/jurisprudence/2014/november2014/184203.pdf
+> 26 [Per J. Leonen, Second Division].
+[83]
+ 
+Bernardo, Sr. v. Court of Appeals
+, 331 Phil. 962, 975 (1996) [Per. J. Davide, Third Division]
+[84]
+ 
+Rollo
+, p. 103.
+[85]
+ Act No. 1956 (1909), sec. 14.
+[86]
+ G.R. No. 104175, June 25, 1993, 223 SCRA 670 [Per J. Quiason, First Division].
+[87]
+ Id. at 674.
+[88]
+ Act No. 1956 (1909), sec. 14.
+[89]
+ 
+Gumabon v. Larin
+, 422 Phil. 222, 229 (2001) [Per J. Vitug, Third Division].
+[90]
+ G.R. No. 178407, March 18, 2015 <
+http://sc.judiciary.gov.ph/pdf/web/viewer.html?file=/jurisprudence/2015/march2015/178407.pdf
+> [Per J. Leonen, Second Division].
+[91]
+ Id. at 11.
+[92]
+ 510 Phil.467 (2005) [Per J. Panganiban, Third Division].
+[93]
+ Id. at 476.
+[94]
+ Id.
+[95]
+ 
+Rollo
+, p. 209.
+[96]
+ 
+Hyatt Elevators and Escalators Corp. v. Goldstar Elevators Phils. Inc.
+, 510 Phil. 467, 474 (2005) [Per J. Panganiban, Third Division].
+[97]
+ 
+Rollo
+, p. 49.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

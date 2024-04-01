@@ -1,0 +1,497 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			738 Phil. 539
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 163999, July 09, 2014 ]
+
+
+PHILIPPINE LONG DISTANCE TELEPHONE COMPANY, PETITIONER, VS. MILLARD R. OCAMPO, CIPRIANO REY R. HIPOLITO, ERIC F. MERJILLA AND JOSE R. CARANDANG, RESPONDENTS,
+D E C I S I O N
+
+
+
+
+DEL CASTILLO, J.:
+
+
+A special civil action for 
+certiorari
+ is an extraordinary remedy; thus, a party who seeks to avail of it must strictly observe the rules laid down by law.
+[1]
+This Petition for Review on 
+Certiorari
+[2]
+ under Rule 45 of the Rules of Court assails the Decision
+[3]
+ dated February 18, 2004 and the Resolution
+[4]
+ dated June 11, 2004 of the Court of Appeals (CA) in CA-G.R. SP No. 74990.
+Factual Antecedents
+In February 1996, petitioner Philippine Long Distance Telephone Company (PLDT), through its Quality Control Investigation Division (QCID), conducted an investigation on the alleged illegal International Simple Resale (ISR) activities in Makati City.
+[5]
+ ISR is a method of routing and completing an international long distance call using lines, cables, antennas, and/or airwave or frequency that directly connect to the local or domestic exchange facilities of the country of destination of the call.
+[6]
+ Likened to a jumper,
+[7]
+ the unauthorized routing of international long distance calls by-passes petitionerâs International Gateway Facilities (IGF) with the use of ISR access numbers, making international long distance calls appear as local calls, and thereby, depriving petitioner of substantial revenues.
+[8]
+After confirming that some PLDT subscribers were indeed operating ISR businesses in Makati City, under the business names INFILNET and Emergency Monitoring System
+[9]
+ (EMS), petitioner requested the assistance of the National Bureau of Investigation (NBI) to apprehend the said subscribers.
+[10]
+ Acting on said request, Atty. Oscar L. Embido (Embido), the supervising agent assigned to the Anti-Organized Crime Division of the NBI, conducted surveillance on the offices of INFILNET and EMS.
+[11]
+ To verify his findings, he went to San Francisco, USA, and made international calls to the Philippines using a borrowed subscriberâs card.
+[12]
+ Petitioner monitored the calls and discovered that these calls by-passed its IGF.
+[13]
+ Atty. Embido then returned to the Philippines and applied for search warrants with Branch 23
+[14]
+ of the Regional Trial Court (RTC) of Manila.
+[15]
+On September 17, 1996, the Manila RTC issued two search warrants: (a) Search Warrant No. 96-651 directed at the office of INFILNET; and (b) Search Warrant No. 96-652 directed at the office of EMS, both located in Makati City.
+[16]
+On the same day, NBI agents conducted simultaneous raids during which electronic gadgets, documents, assorted office supplies, several pieces of computer equipment, and some personal belongings of the employees of INFILNET and EMS were seized.
+[17]
+On September 19, 1996, an Information for the crime of simple theft was filed before the RTC of Makati City, Branch 60, docketed as Criminal Case No. 96-1590, against respondents Millard R. Ocampo, Cipriano Rey R. Hipolito, Eric F. Merjilla, and Jose R. Carandang.
+[18]
+ Respondents posted bail the following day.
+[19]
+On October 4, 1996, respondents filed before the Makati RTC a Motion to Suppress or Exclude or Return Inadmissible Evidence Unlawfully Obtained,
+[20]
+ assailing the validity of the Search Warrants on the ground that the searches conducted were not in accordance with the established constitutional rules and statutory guidelines.
+[21]
+On February 21, 1997, the Makati RTC denied the Motion ruling that it is the issuing court, in this case, the Manila RTC, which has the jurisdiction to rule on the validity of the Search Warrants.
+[22]
+ Respondents moved for reconsideration but the same was unavailing,
+[23]
+ prompting them to file with the CA a Petition for 
+Certiorari,
+[24]
+ docketed as CA-G.R. SP No. 47265.
+[25]
+On July 13, 1998, the CA rendered a Decision
+[26]
+ dismissing the Petition as it found no fault on the part of the Makati RTC in refusing to rule on the Motion to Suppress Evidence under the Principle of Non-Interference of a co-equal court.
+[27]
+ However, in order to avoid any conflict, the CA ordered the search warrant cases consolidated with the criminal case for theft.
+[28]
+ Thus:
+WHEREFORE, premises considered:
+(1) The instant special civil action for certiorari is hereby DENIED for lack of merit; and
+(2) The [RTC] of Manila, Branch 23, is hereby ORDERED to forward the records of the case to the [RTC] of Makati Branch 60, for proper consolidation thereof.
+SO ORDERED.
+[29]
+Ruling of the Regional Trial Court of 
+Makati City  
+On May 24, 2002, respondents applied for the issuance of a subpoena 
+duces tecum
+ against certain persons allegedly in possession of documents relating to PAMTEL, a foreign telecommunications company with tie-ups to INFILNET and EMS.
+[30]
+Finding the documents irrelevant and immaterial to the resolution of the case, the RTC issued an Order
+[31]
+ dated July 11, 2002, denying the application for subpoena 
+duces tecum
+.
+[32]
+ Respondents sought reconsideration
+[33]
+ but the RTC denied the same in its Order
+[34]
+ dated October 10, 2002. Respondents were notified of the denial of their Motion for Reconsideration on October 18, 2002.
+[35]
+On November 29, 2002, the RTC proceeded to hear the Motion to Suppress, which was revived pursuant to the CAâs Decision dated July 13, 1998 in CA-G.R. SP No. 47265.
+[36]
+ But since respondents failed to appear and present evidence to substantiate their Motion, the RTC denied the Motion in open court and issued the corresponding Order
+[37]
+ to that effect.
+Ruling of the Court of Appeals
+Aggrieved, respondents elevated the case to the CA via a Petition for
+ Certiorari
+,
+[38]
+ docketed as CA-G.R. SP No. 74990, assailing the Orders dated July 11, 2002, October 10, 2002, and November 29, 2002.
+On February 18, 2004, the CA rendered a Decision
+[39]
+ finding grave abuse of discretion on the part of the RTC in issuing the assailed Orders.
+[40]
+ In reversing the denial of the Motion to Suppress, the CA explained that contrary to the findings of the RTC, there was no intention on the part of respondents to delay the resolution of the Motion.
+[41]
+ In fact, the delays were not solely attributable to them considering that both parties were trying to arrive at a compromise agreement.
+[42]
+ As to the application for subpoena 
+duces tecum
+, the CA said that the RTC should have granted it because respondents needed the documents to support their Motion to Suppress.
+[43]
+ Thus:
+WHEREFORE, premises considered, the instant petition is given due course. The assailed Orders dated November 29, 2002 and July 11, 2002 are hereby REVERSED and SET ASIDE. Public respondent Presiding Judge is hereby ordered to grant [respondentsâ] application for subpoena duces tecum and to continue with the hearing on [respondentsâ] Motion to Suppress and Exclude Inadmissible Evidence Seized by the reception of evidence from both parties in support of or in opposition to said motion.
+SO ORDERED.
+[44]
+Petitioner moved for reconsideration
+[45]
+ but the CA denied the same in its Resolution
+[46]
+ dated June 11, 2004.
+Issues
+Hence, petitioner filed the instant Petition for Review on
+ Certiorari 
+raising the following errors:
+A. THE [CA] GRAVELY ERRED IN REVERSING THE FIRST AND SECOND RTC ORDERS, WHICH DENIED RESPONDENTSâ APPLICATION FOR SUBPOENA CONSIDERING THAT:
+1. SAID ORDERS HAVE LONG BEEN FINAL AND EXECUTORY AND THE PERIOD FOR FILING A PETITION FOR CERTIORARI ASSAILING THESE ORDERS HAS ALREADY LAPSED. THUS, THE [CA] SHOULD NOT HAVE DISTURBED THE FIRST AND SECOND RTC ORDERS.
+2. THE RTC-MAKATI PROPERLY DENIED THE APPLICATION FOR SUBPOENA AS THERE WAS NO PROPER GROUND FOR GRANTING THE SAME.
+B. THE [CA] GRAVELY ERRED IN REVERSING THE THIRD RTC ORDER, WHICH DENIED THE MOTION TO SUPPRESS, CONSIDERING THAT:
+1. RESPONDENTS FAILED TO FILE A MOTION FOR RECONSIDERATION OF THE THIRD RTC ORDER WITHOUT CITING ANY JUSTIFIABLE REASON BEFORE FILING A PETITION FOR CERTIORARI QUESTIONING SAID ORDER.
+2. DESPITE SEVERAL OPPORTUNITIES GRANTED TO THEM BY, AND REPEATED WARNINGS FROM, THE RTC-MAKATI, RESPONDENTS FAILED TO SUBSTANTIATE THE MOTION TO SUPPRESS.
+3. THE ISSUES RAISED IN THE MOTION TO SUPPRESS ARE THE SAME ISSUES IN A MOTION TO QUASH WHICH HAVE ALREADY BEEN RULED UPON BY THE RTC-MANILA, A COURT OF COORDINATE JURISDICTION.
+4. IN ANY CASE, THE MOTION TO SUPPRESS HAS NO MERIT AND WAS PROPERLY DENIED BY THE RTC-MAKATI.
+[47]
+Stripped of the non-essentials, the core issue is whether the CA erred in giving due course to the Petition for 
+Certiorari
+, and in subsequently granting the same despite evident procedural lapses.
+Petitionerâs Arguments
+Petitioner assails the propriety of the CAâs reversal of the Orders of the RTC, positing that in filing the Petition for 
+Certiorari
+, respondents failed to observe procedural rules. First, no motion for reconsideration of the Order dated November 29, 2002, denying respondentsâ Motion to Suppress, was filed prior to the filing of the Petition for 
+Certiorari.
+[48]
+ Second, more than 60-days had lapsed from the time respondents were notified of the denial of their Motion for Reconsideration of the Order dated July 11, 2002, which denied their application for subpoena
+ duces tecum.
+[49]
+ Third, respondents failed to indicate the date they received the Orders dated July 11, 2002 and October 10, 2002.
+[50]
+ Given the foregoing procedural infirmities, petitioner contends the CA should not have entertained the Petition for 
+Certiorari
+ much more granted affirmative relief.
+Respondentsâ Arguments
+Respondents, on the other hand, insist that their failure to file a motion for reconsideration of the Order dated November 29, 2002 is not fatal as the rule is subject to exceptions.
+[51]
+ In this case, respondents no longer filed a motion for reconsideration as they already moved in open court for a reconsideration of the denial of their Motion to Suppress but the RTC flatly denied the same.
+[52]
+ As to the alleged non-compliance with the 60-day period, respondents brush aside the issue arguing that technical rules cannot prevent the CA from giving due course to a Petition for 
+Certiorari
+, which it considers to be meritorious.
+[53]
+Our Ruling
+The Petition has merit.
+Assailed in the Petition for 
+Certiorari 
+filed before the CA are three Orders, to wit:
+1) The Order dated July 11, 2002, denying respondentsâ application for subpoena 
+duces tecum
+;
+2) The Order dated October 10, 2002, denying respondentsâ Motion for Reconsideration of the Order dated July 11, 2002; and
+3) The Order dated November 29, 2002, denying respondentsâ Motion to Suppress.
+We shall first discuss the Orders dated July 11, 2002 and October 10, 2002.
+The Petition for Certiorari should have
+been filed within 60 days from notice of the
+denial of the Motion for Reconsideration of
+the assailed Order.
+Section 4,
+[54]
+ Rule 65 of the Rules of Court provides that a special civil action for 
+certiorari
+ should be instituted within 60 days from notice of the judgment, order, or resolution, or from the notice of the denial of the motion for reconsideration of the judgment, order, or resolution being assailed. The 60-day period, however, is inextendible to avoid any unreasonable delay, which would violate the constitutional rights of parties to a speedy disposition of their cases.
+[55]
+ Thus, strict compliance of this rule is mandatory and imperative. 
+[56]
+ But like all rules, the 60-day limitation may be relaxed âfor the most persuasive of reasons,â which must be sufficiently shown by the party invoking liberality. 
+[57]
+In this case, respondents were notified of the denial of their Motion for Reconsideration of the Order dated July 11, 2002, denying their application for subpoena 
+duces tecum
+, on October 18, 2002.
+[58]
+ Accordingly, they had until December 17, 2002 within which to file a Petition for 
+Certiorari
+ with the CA. Records, however, show that it was only on January 20, 2003 that respondents filed their Petition for 
+Certiorari
+ to assail the Orders dated July 11, 2002 and October 10, 2002.
+[59]
+ Instead of admitting that more than 60 days had lapsed, respondents kept silent about it in their Petition for 
+Certiorari
+. When petitioner brought up the issue, respondentsâ reply
+[60]
+ was unresponsive. In fact, they did not even confirm or deny the alleged lapse of the 60-day period. Siding with respondent, the CA opted not to discuss the issue and resolved to reverse the Order dated July 11, 2002 on the ground that the granting of the subpoena 
+duces tecum
+ was necessary in order for respondents to substantiate their Motion to Suppress.
+The CAâs reasoning, however, even if true, does not excuse respondents from complying with the 60-day period rule, especially since they have not offered any plausible justification for their non-compliance. In fact, their adamant refusal to admit the obvious truth as well as their deliberate attempt to hide this procedural lapse cannot be ignored. Leniency is given only to those deserving of it. In this case, respondents are not entitled to any because they intentionally omitted to indicate in their Petition for 
+Certiorari
+ the date they were notified of the Order dated October 10, 2002 in order to mislead the CA. Besides, relaxing the rule would not only be unfair and unjust but would also be prejudicial to petitioner, who had every right to believe that the Orders dated July 11, 2002 and October 10, 2002 had attained finality and may no longer be altered, modified, or reversed. As we have said, the 60-day limitation may be relaxed only for the most persuasive reasons and only in meritorious cases, which must be sufficiently shown by the party invoking liberality. Such is not the situation in this case.
+In view of the foregoing, we find that the CA erred in giving due course to the Petition and in reversing the Orders dated July 11, 2002 and October 10, 2002, as they may no longer be disturbed, after having attained finality.
+In the absence of a motion for 
+reconsideration, the Petition for
+ Certiorari should have been dismissed.
+Jurisprudence consistently holds that the filing of a motion for reconsideration is a prerequisite to the institution of a petition for 
+certiorari.
+[61]
+ Although this rule is subject to certain exceptions,
+[62]
+ none of which is present in this case.
+Respondents admit that they failed to file a motion for reconsideration of the Order dated November 29, 2002 prior to filing the Petition for 
+Certiorari
+. As an excuse, they alleged that their counsel verbally moved for a reconsideration of the denial of their Motion to Suppress, which the RTC flatly denied in open court. Such allegation, however, as aptly pointed out by petitioner,
+[63]
+ is not supported by the evidence as the Order dated November 29, 2002 made no mention of such fact.
+[64]
+ It is also unlikely for respondentsâ counsel to have moved for a reconsideration of the said Order considering that, as stated in the Order, he appeared only after the hearings were over.
+[65]
+ Besides, the lower court should first be informed of its supposed error and be allowed to correct or rectify the same through a re-examination of the legal and factual aspects of the case, which could only be done by filing a motion for reconsideration of the assailed order.
+[66]
+ This respondents failed to do. Thus, in the absence of a motion for reconsideration, the CA erred in giving due course to the Petition and in reversing the Order dated November 29, 2002.
+In closing, we must emphasize that while litigation is not a game of technicalities, this does not mean that procedural rules may be ignored at will or that their non-observance may be dismissed simply because it may prejudice a partyâs substantial rights.
+[67]
+ Mere invocations of substantial justice and liberality are not enough for the court to suspend procedural rules.
+[68]
+ Again, except only for the most compelling or persuasive reasons, procedural rules must be followed to facilitate the orderly administration of justice.
+[69]
+WHEREFORE
+, the Petition is hereby 
+GRANTED
+. The Decision dated February 18, 2004 and the Resolution dated June 11, 2004 of the Court of Appeals in CA-G.R. SP No. 74990 are hereby 
+SET ASIDE
+. The Orders dated July 11, 2002, October 10, 2002 and November 29, 2002 of the Regional Trial Court of Makati, Branch 60, in Criminal Case No. 96-1590, are hereby 
+REINSTATED
+.
+SO ORDERED
+.
+Carpio, (Chairperson), Brion, Perez
+, and 
+Perlas-Bernabe, JJ.
+, concur.
+[1]
+ 
+Batugan v. Judge Balindong
+, 600 Phil. 518, 527 (2009).
+[2]
+ 
+Rollo
+, pp. 20-66.
+[3]
+ CA 
+rollo,
+ pp. 429-436; penned by Associate Justice Sergio L. PestaÃ±o and concurred in by Associate Justices Marina L. Buzon and Aurora S. Lagman.
+[4]
+ Id. at 475-476; penned by Associate Justice Marina L. Buzon and concurred in by Associate Justices Eloy R. Bello, Jr. and Aurora S. Lagman.
+[5]
+ Id. at 429-430.
+[6]
+ 
+Rollo,
+ p. 27.
+[7]
+ Id.
+[8]
+ CA 
+rollo,
+ p. 430.
+[9]
+ Referred to as Emergency Monitoring Services in petitionerâs pleadings.
+[10]
+ CA 
+rollo
+, p. 430.
+[11]
+ Id.
+[12]
+ Id.
+[13]
+ Rollo,
+ p. 28.
+[14]
+ Then presided by Executive Judge William M. Bayhon; CA rollo, p. 430.
+[15]
+ Id.
+[16]
+ Id.
+[17]
+ Id.
+[18]
+ Id.
+[19]
+ Id.
+[20]
+ 
+Rollo, 
+pp. 103-119.
+[21]
+ CA 
+rollo
+, p. 430.
+[22]
+ Id. at 431 and 
+rollo
+, pp. 120-121; Order dated February 21, 1997; penned by Judge Pedro N. Laggui.
+[23]
+ Id. at 431 and id. at 126-132; Order dated December 2, 1997; penned by Judge Pedro N. Laggui.
+[24]
+ 
+Rollo,
+ pp. 133-155.
+[25]
+ CA
+ rollo
+, p. 431.
+[26]
+ 
+Rollo,
+ pp. 156-166; penned by Associate Justice Ramon A. Barcelona and concurred in by Associate Justices Jorge S. Imperial and Demetrio G. Demetria.
+[27]
+ Id. at 164.
+[28]
+ Id. at 165.
+[29]
+ Id.
+[30]
+ CA 
+rollo
+, p. 431.
+[31]
+ 
+Rollo
+, pp. 187-188; penned by Judge Marissa Macaraig-Guillen.
+[32]
+ CA 
+rollo
+, p. 431.
+[33]
+ 
+Rollo
+, pp. 190-198.
+[34]
+ Id. at 213; penned by Judge Marissa Macaraig-Guillen.
+[35]
+ See Order dated October 18, 2002; penned by Judge Marissa Macaraig-Guillen, id. at 215-216.
+[36]
+ CA 
+rollo
+, p. 431.
+[37]
+ 
+Rollo
+, pp. 217-218; penned by Judge Marissa Macaraig-Guillen.
+[38]
+ CA 
+rollo,
+ pp. 2-24.
+[39]
+ Id. at 429-436.
+[40]
+ Id. at 435.
+[41]
+ Id. at 433-434.
+[42]
+ Id.
+[43]
+ Id. at 434-435.
+[44]
+ Id. at 435.
+[45]
+ 
+Rollo
+, pp. 373-390.
+[46]
+ CA 
+rollo
+, pp. 475-476.
+[47]
+ 
+Rollo, 
+pp. 33-34.
+[48]
+ Id. at 615-617.
+[49]
+ Id. at 605-606.
+[50]
+ Id. at 606-608.
+[51]
+ Id. at 578-579.
+[52]
+ Id.
+[53]
+ Id. at 577-578.
+[54]
+ Section 4.
+ When and where to file the petition. â
+ The petition shall be filed not later than sixty (60) days from notice of the judgment, order or resolution. In case a motion for reconsideration or new trial is timely filed, whether such motion is required or not, the petition shall be filed not later than sixty (60) days counted from the notice of the denial of the motion.
+x x x x
+[55]
+ 
+Mallari v. Government Service Insurance System
+, G.R. No. 157659, 611 SCRA 32, 43, January 25, 2010.
+[56]
+ 
+Prudential Guarantee and Assurance, Inc. v. Court of Appeals, 
+480 Phil. 134,140 (2004).
+[57]
+ Id.
+[58]
+ See Order dated October 18, 2002, rollo, pp. 215-216.
+[59]
+ CA
+ rollo,
+ p. 2.
+[60]
+ Id. at 326-335.
+[61]
+ 
+Novateknika Land Corporation v. Philippine National Bank
+, G.R. No. 194104, March 13, 2013, 693 SCRA 423, 432.
+[62]
+ (a) where the order is a patent nullity, as where the court a quo has no jurisdiction;
+(b) where the questions raised in the certiorari proceeding have been duly raised and passed upon by the lower court, or are the same as those raised and passed upon in the lower court;
+(c) where there is an urgent necessity for the resolution of the question and any further delay would prejudice the interests of the government or the petitioner or the subject matter of the action is perishable;
+(d) where, under the circumstances, a motion for reconsideration would be useless;
+(e) where petitioner was deprived of due process and there is extreme urgency for relief;
+(f) where, in a criminal case, relief from an order of arrest is urgent and the granting of such relief by the trial court is improbable;
+(g) where the proceedings in the lower court are a nullity for lack of due process;
+(h) where the proceedings was ex parte or in which the petitioner had no opportunity to object; and
+(i) where the issue raised is one purely of law or where public interest is involved. (Id.)
+[63]
+ 
+Rollo
+, pp. 615-617.
+[64]
+ Id. at 217-218.
+[65]
+ Id. at 218.
+[66]
+ 
+Novateknika Land Corporation v. Philippine National Bank, supra 
+note 61 at 433.
+[67]
+ 
+Sea Power Shipping Enterprises, Inc. v. Court of Appeals
+, 412 Phil. 603, 611 (2001).
+[68]
+ 
+Lazaro v. Court of Appeals
+, 386 Phil. 412, 414 and 417 (2000) and 
+Pinakamasarap Corporation v. National Labor Relations Commission, 
+534 Phil. 222, 232 (2006).
+[69]
+ 
+Barcenas v. Sps. Anastacio Tomas, 
+494 Phil. 565, 575 (2005).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

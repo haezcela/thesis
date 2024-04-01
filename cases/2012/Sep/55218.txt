@@ -1,0 +1,685 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			695 Phil. 867
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 195909, September 26, 2012 ]
+
+
+COMMISSIONER OF INTERNAL REVENUE, PETITIONER, VS. ST. LUKEâS MEDICAL CENTER, INC., RESPONDENT. 
+[G.R. NO. 195960]
+ ST. LUKEâS MEDICAL CENTER, INC., PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+D E C I S I O N
+
+
+
+
+CARPIO, J.:
+
+
+The Case
+These are consolidated
+[1]
+ petitions for review on certiorari under Rule 45 of the Rules of Court assailing the Decision of 19 November 2010 of the Court of Tax Appeals (CTA) 
+En Banc
+ and its Resolution
+[2]
+ of 1 March 2011 in CTA Case No. 6746. This Court resolves this case on a pure question of law, which involves the interpretation of Section 27(B) 
+vis-Ã -vis
+ Section 30(E) and (G) of the National Internal Revenue Code of the Philippines (NIRC), on the income tax treatment of proprietary non-profit hospitals.
+The Facts
+St. Lukeâs Medical Center, Inc. (St. Lukeâs) is a hospital organized as a non-stock and non-profit corporation. Under its articles of incorporation, among its corporate purposes are:
+(a) To establish, equip, operate and maintain a non-stock, non-profit Christian, benevolent, charitable and scientific hospital which shall give curative, rehabilitative and spiritual care to the sick, diseased and disabled persons; provided that purely medical and surgical services shall be performed by duly licensed physicians and surgeons who may be freely and individually contracted by patients;
+(b) To provide a career of health science education and provide medical services to the community through organized clinics in such specialties as the facilities and resources of the corporation make possible;
+(c) To carry on educational activities related to the maintenance and promotion of health as well as provide facilities for scientific and medical researches which, in the opinion of the Board of Trustees, may be justified by the facilities, personnel, funds, or other requirements that are available;
+(d) To cooperate with organized medical societies, agencies of both government and private sector; establish rules and regulations consistent with the highest professional ethics;
+x x x x
+[3]
+On 16 December 2002, the Bureau of Internal Revenue (BIR) assessed St. Lukeâs deficiency taxes amounting to P76,063,116.06 for 1998, comprised of deficiency income tax, value-added tax, withholding tax on compensation and expanded withholding tax. The BIR reduced the amount to P63,935,351.57 during trial in the First Division of the CTA.
+[4]
+On 14 January 2003, St. Lukeâs filed an administrative protest with the BIR against the deficiency tax assessments. The BIR did not act on the protest within the 180-day period under Section 228 of the NIRC. Thus, St. Lukeâs appealed to the CTA.
+The BIR argued before the CTA that Section 27(B) of the NIRC, which imposes a 10% preferential tax rate on the income of proprietary non-profit hospitals, should be applicable to St. Lukeâs. According to the BIR, Section 27(B), introduced in 1997, âis a new provision intended to amend the exemption on non-profit hospitals that were previously categorized as non-stock, non-profit corporations under Section 26 of the 1997 Tax Code x x x.â
+[5]
+ It is a specific provision which prevails over the general exemption on income tax granted under Section 30(E) and (G) for non-stock, non-profit charitable institutions and civic organizations promoting social welfare.
+[6]
+The BIR claimed that St. Lukeâs was actually operating for profit in 1998 because only 13% of its revenues came from charitable purposes. Moreover, the hospitalâs board of trustees, officers and employees directly benefit from its profits and assets. St. Lukeâs had total revenues of P1,730,367,965 or approximately P1.73 billion from patient services in 1998.
+[7]
+St. Lukeâs contended that the BIR should not consider its total revenues, because its free services to patients was P218,187,498 or 65.20% of its 1998 operating income (
+i.e.
+, total revenues less operating expenses) of P334,642,615.
+[8]
+ St. Lukeâs also claimed that its income does not inure to the benefit of any individual.
+St. Lukeâs maintained that it is a non-stock and non-profit institution for charitable and social welfare purposes under Section 30(E) and (G) of the NIRC. It argued that the making of profit 
+per se
+ does not destroy its income tax exemption.
+The petition of the BIR before this Court in G.R. No. 195909 reiterates its arguments before the CTA that Section 27(B) applies to St. Lukeâs. The petition raises the sole issue of whether the enactment of Section 27(B) takes proprietary non-profit hospitals out of the income tax exemption under Section 30 of the NIRC and instead, imposes a preferential rate of 10% on their taxable income. The BIR prays that St. Lukeâs be ordered to pay P57,659,981.19 as deficiency income and expanded withholding tax for 1998 with surcharges and interest for late payment.
+The petition of St. Lukeâs in G.R. No. 195960 raises factual matters on the treatment and withholding of a part of its income,
+[9]
+ as well as the payment of surcharge and delinquency interest. There is no ground for this Court to undertake such a factual review. Under the Constitution
+[10]
+ and the Rules of Court,
+[11]
+ this Courtâs review power is generally limited to âcases in which only an error or question of law is involved.â
+[12]
+ This Court cannot depart from this limitation if a party fails to invoke a recognized exception.
+The Ruling of the Court of Tax Appeals
+The CTA 
+En Banc
+ Decision on 19 November 2010 affirmed 
+in toto
+ the CTA First Division Decision dated 23 February 2009 which held:
+WHEREFORE
+, the Amended Petition for Review [by St. Lukeâs] is hereby 
+PARTIALLY GRANTED
+. Accordingly, the 1998 deficiency VAT assessment issued by respondent against petitioner in the amount of P110,000.00 is hereby 
+CANCELLED
+ and WITHDRAWN. However, petitioner is hereby 
+ORDERED
+ to PAY deficiency income tax and deficiency expanded withholding tax for the taxable year 1998 in the respective amounts of P5,496,963.54 and P778,406.84 or in the sum of P6,275,370.38, x x x.
+x x x x
+In addition, petitioner is hereby 
+ORDERED
+ to 
+PAY
+ twenty percent (20%) delinquency interest on the total amount of P6,275,370.38 counted from October 15, 2003 until full payment thereof, pursuant to Section 249(C)(3) of the NIRC of 1997.
+SO ORDERED
+.
+[13]
+The deficiency income tax of P5,496,963.54, ordered by the CTA 
+En Banc
+ to be paid, arose from the failure of St. Lukeâs to prove that part of its income in 1998 (declared as âOther Income-Netâ)
+[14]
+ came from charitable activities. The CTA cancelled the remainder of the P63,113,952.79 deficiency assessed by the BIR based on the 10% tax rate under Section 27(B) of the NIRC, which the CTA
+ En Banc
+ held was not applicable to St. Lukeâs.
+[15]
+The CTA ruled that St. Lukeâs is a non-stock and non-profit charitable institution covered by Section 30(E) and (G) of the NIRC. This ruling would exempt all income derived by St. Lukeâs from services to its patients, whether paying or non-paying. The CTA reiterated its earlier decision in
+ St. Lukeâs Medical Center, Inc. v. Commissioner of Internal Revenue
+,
+[16]
+ which examined the primary purposes of St. Lukeâs under its articles of incorporation and various documents
+[17]
+ identifying St. Lukeâs as a charitable institution.
+The CTA adopted the test in 
+Hospital de San Juan de Dios, Inc. v. Pasay City,
+[18]
+ which states that âa charitable institution does not lose its charitable character and its consequent exemption from taxation merely because recipients of its benefits who are able to pay are required to do so, where funds derived in this manner are devoted to the charitable purposes of the institution x x x.â
+[19]
+ The generation of income from paying patients does not per se destroy the charitable nature of St. Lukeâs.
+Hospital de San Juan 
+cited 
+Jesus Sacred Heart College v. Collector of Internal Revenue,
+[20]
+ which ruled that the old NIRC (Commonwealth Act No. 466, as amended)
+[21]
+ âpositively exempts from taxation those corporations or associations which, otherwise, would be subject thereto, because of the existence of x x x net income.â
+[22]
+ The NIRC of 1997 substantially reproduces the provision on charitable institutions of the old NIRC. Thus, in rejecting the argument that tax exemption is lost whenever there is net income, the Court in Jesus Sacred Heart College declared: â[E]very responsible organization must be run to at least insure its existence, by operating within the limits of its own resources, especially its regular income. In other words, it should always strive, whenever possible, to have a surplus.â
+[23]
+The CTA held that Section 27(B) of the present NIRC does not apply to St. Lukeâs.
+[24]
+ The CTA explained that to apply the 10% preferential rate, Section 27(B) requires a hospital to be ânon-profit.â On the other hand, Congress specifically used the word ânon-stockâ to qualify a charitable âcorporation or associationâ in Section 30(E) of the NIRC. According to the CTA, this is unique in the present tax code, indicating an intent to exempt this type of charitable organization from income tax. Section 27(B) does not require that the hospital be ânon-stock.â The CTA stated, âit is clear that non-stock, non-profit hospitals operated exclusively for charitable purpose are exempt from income tax on income received by them as such, applying the provision of 
+Section 30(E) of the NIRC of 1997, as amended
+.â
+[25]
+The Issue
+The sole issue is whether St. Lukeâs is liable for deficiency income tax in 1998 under Section 27(B) of the NIRC, which imposes a preferential tax rate of 10% on the income of proprietary non-profit hospitals.
+The Ruling of the Court
+St. Lukeâs Petition in G.R. No. 195960
+As a preliminary matter, this Court denies the petition of St. Lukeâs in G.R. No. 195960 because the petition raises factual issues. Under Section 1, Rule 45 of the Rules of Court, â[t]he petition shall raise only questions of law which must be distinctly set forth.â St. Lukeâs cites 
+Martinez v. Court of Appeals
+[26]
+ which permits factual review âwhen the Court of Appeals [in this case, the CTA] manifestly overlooked certain relevant facts not disputed by the parties and which, if properly considered, would justify a different conclusion.â
+[27]
+This Court does not see how the CTA overlooked relevant facts. St. Lukeâs itself stated that the CTA âdisregarded the testimony of [its] witness, Romeo B. Mary, being allegedly self-serving, to show the nature of the âOther Income-Netâ x x x.â
+[28]
+ This is not a case of overlooking or failing to consider relevant evidence. The CTA obviously considered the evidence and concluded that it is self-serving. The CTA declared that it has âgone through the records of this case and found no other evidence aside from the self-serving affidavit executed by [the] witnesses [of St. Lukeâs] x x x.â
+[29]
+The deficiency tax on âOther Income-Netâ stands. Thus, St. Lukeâs is liable to pay the 25% surcharge under Section 248(A)(3) of the NIRC. There is â[f]ailure to pay the deficiency tax within the time prescribed for its payment in the notice of assessment[.]â
+[30]
+ St. Lukeâs is also liable to pay 20% delinquency interest under Section 249(C)(3) of the NIRC.
+[31]
+ As explained by the CTA En Banc, the amount of P6,275,370.38 in the dispositive portion of the CTA First Division Decision includes only deficiency interest under Section 249(A) and (B) of the NIRC and not delinquency interest.
+[32]
+The Main Issue
+The issue raised by the BIR is a purely legal one. It involves the effect of the introduction of Section 27(B) in the NIRC of 1997 
+vis-Ã -vis
+ Section 30(E) and (G) on the income tax exemption of charitable and social welfare institutions. The 10% income tax rate under Section 27(B) specifically pertains to proprietary educational institutions and proprietary non-profit hospitals. The BIR argues that Congress intended to remove the exemption that non-profit hospitals previously enjoyed under Section 27(E) of the NIRC of 1977, which is now substantially reproduced in Section 30(E) of the NIRC of 1997.
+[33]
+ Section 27(B) of the present NIRC provides:
+SEC. 27. Rates of Income Tax on Domestic Corporations. â
+x x x x
+(B) Proprietary Educational Institutions and Hospitals. â 
+Proprietary educational institutions and hospitals which are non-profit shall pay a tax of ten percent (10%) on their taxable income
+ except those covered by Subsection (D) hereof:
+ Provided
+, That if the gross income from unrelated trade, business or other activity exceeds fifty percent (50%) of the total gross income derived by such educational institutions or hospitals from all sources, the tax prescribed in Subsection (A) hereof shall be imposed on the entire taxable income. For purposes of this Subsection, the term âunrelated trade, business or other activityâ means any trade, business or other activity, the conduct of which is not substantially related to the exercise or performance by such educational institution or hospital of its primary purpose or function. A âproprietary educational institutionâ is any private school maintained and administered by private individuals or groups with an issued permit to operate from the Department of Education, Culture and Sports (DECS), or the Commission on Higher Education (CHED), or the Technical Education and Skills Development Authority (TESDA), as the case may be, in accordance with existing laws and regulations. (Emphasis supplied)
+St. Lukeâs claims tax exemption under Section 30(E) and (G) of the NIRC. It contends that it is a charitable institution and an organization promoting social welfare. The arguments of St. Lukeâs focus on the wording of Section 30(E) exempting from income tax non-stock, non-profit charitable institutions.
+[34]
+ St. Lukeâs asserts that the legislative intent of introducing Section 27(B) was only to remove the exemption for âproprietary non-profitâ hospitals.
+[35]
+ The relevant provisions of Section 30 state:
+SEC. 30. Exemptions from Tax on Corporations. - The following organizations shall not be taxed under this Title in respect to income received by them as such:
+x x x x
+(E) 
+Nonstock corporation
+ or association 
+organized and operated exclusively for 
+religious, 
+charitable
+, scientific, athletic, or cultural purposes, or for the rehabilitation of veterans, 
+no part of its net income or asset shall belong to or inure to the benefit of any member, organizer, officer or any specific person;
+x x x x
+(G) Civic league or organization not organized for profit but 
+operated exclusively
+ for the promotion of social welfare;
+x x x x
+Notwithstanding the provisions in the preceding paragraphs, 
+the income of whatever kind and character of the foregoing organizations
+ from any of their properties, real or personal, or 
+from any of their activities conducted for profit regardless of the disposition made of such income, shall be subject to tax
+ imposed under this Code. (Emphasis supplied)
+The Court partly grants the petition of the BIR but on a different ground. We hold that Section 27(B) of the NIRC does not remove the income tax exemption of proprietary non-profit hospitals under Section 30(E) and (G). Section 27(B) on one hand, and Section 30(E) and (G) on the other hand, can be construed together without the removal of such tax exemption. The effect of the introduction of Section 27(B) is to subject the taxable income of two specific institutions, namely, proprietary non-profit educational institutions
+[36]
+ and proprietary non-profit hospitals, among the institutions covered by Section 30, to the 10% preferential rate under Section 27(B) instead of the ordinary 30% corporate rate under the last paragraph of Section 30 in relation to Section 27(A)(1).
+Section 27(B) of the NIRC imposes a 10% preferential tax rate on the income of (1) proprietary non-profit educational institutions and (2) proprietary non-profit hospitals. The only qualifications for hospitals are that they must be proprietary and non-profit. âProprietaryâ means private, following the definition of a âproprietary educational institutionâ as âany 
+private
+ school maintained and administered by 
+private 
+individuals or groupsâ with a government permit. âNon-profitâ means no net income or asset accrues to or benefits any member or specific person, with all the net income or asset devoted to the institutionâs purposes and all its activities conducted not for profit.
+âNon-profitâ does not necessarily mean âcharitable.â In
+ Collector of Internal Revenue v. Club Filipino Inc. de Cebu
+,
+[37]
+ this Court considered as non-profit a sports club organized for recreation and entertainment of its stockholders and members. The club was primarily funded by membership fees and dues. If it had profits, they were used for overhead expenses and improving its golf course.
+[38]
+ The club was non-profit because of its purpose and there was no evidence that it was engaged in a profit-making enterprise.
+[39]
+The sports club in 
+Club Filipino Inc. de Cebu
+ may be non-profit, but it was not charitable. The Court defined âcharityâ in 
+Lung Center of the Philippines v. Quezon City
+[40]
+ as âa gift, to be applied consistently with existing laws, for the benefit of an indefinite number of persons, either by bringing their minds and hearts under the influence of education or religion, by assisting them to establish themselves in life or [by] 
+otherwise lessening the burden of government
+.â
+[41]
+ A non-profit club for the benefit of its members fails this test. An organization may be considered as non-profit if it does not distribute any part of its income to stockholders or members. However, despite its being a tax exempt institution, any income such institution earns from activities conducted for profit is taxable, as expressly provided in the last paragraph of Section 30.
+To be a charitable institution, however, an organization must meet the substantive test of charity in 
+Lung Center
+. The issue in 
+Lung Center
+ concerns exemption from real property tax and not income tax. However, it provides for the test of charity in our jurisdiction. Charity is essentially a gift to an indefinite number of persons which lessens the burden of government. 
+In other words, charitable institutions provide for free goods and services to the public which would otherwise fall on the shoulders of government.
+ Thus, as a matter of efficiency, the government forgoes taxes which should have been spent to address public needs, because certain private entities already assume a part of the burden. This is the rationale for the tax exemption of charitable institutions. The loss of taxes by the government is compensated by its relief from doing public works which would have been funded by appropriations from the Treasury.
+[42]
+Charitable institutions, however, are not 
+ipso facto
+ entitled to a tax exemption
+. The requirements for a tax exemption are specified by the law granting it. The power of Congress to tax implies the power to exempt from tax. Congress can create tax exemptions, subject to the constitutional provision that â[n]o law granting any tax exemption shall be passed without the concurrence of a majority of all the Members of Congress.â
+[43]
+ The requirements for a tax exemption are strictly construed against the taxpayer
+[44]
+ because an exemption restricts the collection of taxes necessary for the existence of the government.
+The Court in 
+Lung Center
+ declared that the Lung Center of the Philippines is a charitable institution for the purpose of exemption from real property taxes. This ruling uses the same premise as 
+Hospital de San Juan
+[45]
+ and 
+Jesus Sacred Heart College
+[46]
+ which says that receiving income from paying patients does not destroy the charitable nature of a hospital.
+As a general principle, a charitable institution does not lose its character as such and its exemption from taxes simply because it derives income from paying patients, whether out-patient, or confined in the hospital, or receives subsidies from the government, so long as the money received is devoted or used altogether to the charitable object which it is intended to achieve; and no money inures to the private benefit of the persons managing or operating the institution.
+[47]
+For real property taxes, the incidental generation of income is permissible because the test of exemption is the use of the property. The Constitution provides that â[c]haritable institutions, churches and personages or convents appurtenant thereto, mosques, non-profit cemeteries, and all lands, buildings, and improvements, actually, directly, and exclusively used for religious, charitable, or educational purposes shall be exempt from taxation.â
+[48]
+ The test of exemption is not strictly a requirement on the intrinsic nature or character of the institution. The test requires that the institution use the property in a certain way, 
+i.e.
+ for a charitable purpose. Thus, the Court held that the Lung Center of the Philippines did not lose its charitable character when it used a portion of its lot for commercial purposes. The effect of failing to meet the use requirement is simply to remove from the tax exemption that portion of the property not devoted to charity.
+The Constitution exempts charitable institutions only from real property taxes. In the NIRC, Congress decided to extend the exemption to income taxes. However, the way Congress crafted Section 30(E) of the NIRC is materially different from Section 28(3), Article VI of the Constitution. Section 30(E) of the NIRC defines the corporation or association that is exempt from income tax. On the other hand, Section 28(3), Article VI of the Constitution does not define a charitable institution, but requires that the institution âactually, directly and exclusivelyâ use the property for a charitable purpose.
+Section 30(E) of the NIRC provides that a charitable institution must be:
+(1) A non-stock corporation or association;
+(2) 
+Organized exclusively
+ for charitable purposes;
+(3) 
+Operated exclusively
+ for charitable purposes; and
+(4) No part of its net income or asset shall belong to or inure to the benefit of any member, organizer, officer or any specific person.
+Thus, both the organization and operations of the charitable institution must be devoted â
+exclusively
+â for charitable purposes. The organization of the institution refers to its corporate form, as shown by its articles of incorporation, by-laws and other constitutive documents. Section 30(E) of the NIRC specifically requires that the corporation or association be non-stock, which is defined by the Corporation Code as âone where no part of its income is distributable as dividends to its members, trustees, or officersâ
+[49]
+ and that any profit âobtain[ed] as an incident to its operations shall, whenever necessary or proper, be used for the furtherance of the purpose or purposes for which the corporation was organized.â
+[50]
+ However, under 
+Lung Center,
+ any profit by a charitable institution must not only be plowed back âwhenever necessary or proper,â but must be âdevoted or used 
+altogether
+ to the charitable object which it is intended to achieve.â
+[51]
+The operations of the charitable institution generally refer to its regular activities. Section 30(E) of the NIRC requires that these operations be 
+exclusive
+ to charity. There is also a specific requirement that âno part of [the] net income or asset shall belong to or inure to the benefit of any member, organizer, officer or any specific person.â The use of lands, buildings and improvements of the institution is but a part of its operations.
+There is no dispute that St. Lukeâs is organized as a non-stock and non-profit charitable institution. However, this does not automatically exempt St. Lukeâs from paying taxes. This only refers to the organization of St. Lukeâs. Even if St. Lukeâs meets the test of charity, a charitable institution is not 
+ipso facto 
+tax exempt. To be exempt from real property taxes, Section 28(3), Article VI of the Constitution requires that a charitable institution use the property âactually, directly and exclusivelyâ for charitable purposes. To be exempt from income taxes, Section 30(E) of the NIRC requires that a charitable institution must be â
+organized and operated exclusively
+â for charitable purposes. Likewise, to be exempt from income taxes, Section 30(G) of the NIRC requires that the institution be âoperated exclusivelyâ for social welfare.
+However, the last paragraph of Section 30 of the NIRC qualifies the words âorganized and operated exclusivelyâ by providing that:
+Notwithstanding the provisions in the preceding paragraphs, the income of whatever kind and character of the foregoing organizations from any of their properties, real or personal, or from 
+any of their activities conducted for profit regardless of the disposition made of such income, shall be subject to tax imposed under this Code
+. (Emphasis supplied)
+In short, the last paragraph of Section 30 provides that if a tax exempt charitable institution conducts â
+any
+â activity for profit, such activity is not tax exempt even as its not-for-profit activities remain tax exempt. This paragraph qualifies the requirements in Section 30(E) that the â[n]on-stock corporation or association [must be] 
+organized and operated exclusively
+ for x x x charitable x x x purposes x x x.â It likewise qualifies the requirement in Section 30(G) that the civic organization must be âoperated exclusivelyâ for the promotion of social welfare.
+Thus, even if the charitable institution must be âorganized and operated exclusivelyâ for charitable purposes, it is nevertheless allowed to engage in âactivities conducted for profitâ without losing its tax exempt status for its not-for-profit activities. The only consequence is that the 
+âincome of whatever kind and character
+â of a charitable institution 
+âfrom any of its activities conducted for profit, regardless of the disposition made of such income, shall be subject to tax.â
+ Prior to the introduction of Section 27(B), the tax rate on such income from for-profit activities was the ordinary corporate rate under Section 27(A). With the introduction of Section 27(B), the tax rate is now 10%.
+In 1998, St. Lukeâs had total revenues of P1,730,367,965 from services to 
+paying
+ patients. It cannot be disputed that a hospital which receives approximately P1.73 billion from 
+paying
+ patients is not an institution âoperated exclusivelyâ for charitable purposes. Clearly, revenues from 
+paying
+ patients are income received from âactivities conducted for profit.â
+[52]
+ Indeed, St. Lukeâs admits that it derived profits from its paying patients. St. Lukeâs declared P1,730,367,965 as âRevenues from Services to Patientsâ in contrast to its âFree Servicesâ expenditure of P218,187,498. In its Comment in G.R. No. 195909, St. Lukeâs showed the following âcalculationâ to support its claim that 65.20% of its âincome after expenses was allocated to free or charitable servicesâ in 1998.
+[53]
+ 
+ 
+REVENUES FROM SERVICES TO PATIENTS
+ 
+P1,730,367,965.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPERATING EXPENSES
+ 
+ 
+ 
+ 
+ 
+Professional care of patients
+ 
+P1,016,608,394.00
+ 
+ 
+ 
+ 
+Administrative
+ 
+287,319,334.00
+ 
+ 
+ 
+ 
+Household and Property
+ 
+91,797,622.00
+ 
+ 
+ 
+ 
+ 
+P1,395,725,350.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INCOME FROM OPERATIONS
+ 
+P334,642,615.00
+ 
+100%
+ 
+ 
+ 
+Free Services
+ 
+-218,187,498.00
+ 
+-65.20%
+ 
+ 
+ 
+INCOME FROM OPERATIONS, Net of FREE SERVICES
+ 
+P116,455,117.00
+ 
+34.80%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OTHER INCOME
+ 
+17,482,304.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EXCESS OF REVENUES OVER EXPENSES
+ 
+P133,937,421.00
+ 
+ 
+ 
+In 
+Lung Center
+, this Court declared:
+â[e]xclusiveâ is defined as possessed and enjoyed to the exclusion of others; debarred from participation or enjoyment; and âexclusivelyâ is defined, âin a manner to exclude; as enjoying a privilege exclusively.â x x x The words âdominant useâ or âprincipal useâ cannot be substituted for the words âused exclusivelyâ without doing violence to the Constitution and the law. 
+Solely is synonymous with exclusively.
+[54]
+The Court cannot expand the meaning of the words âoperated exclusivelyâ without violating the NIRC.
+ Services to paying patients are activities conducted for profit. They cannot be considered any other way. There is a âpurpose to make profit over and above the costâ of services
+.
+[55]
+ The P1.73 billion total revenues from paying patients is not even incidental to St. Lukeâs charity expenditure of P218,187,498 for non-paying patients.
+St. Lukeâs claims that its charity expenditure of P218,187,498 is 65.20% of its operating income in 1998. However, if a part of the remaining 34.80% of the operating income is reinvested in property, equipment or facilities used for services to 
+paying and non-paying patients
+, then it cannot be said that the income is âdevoted or used 
+altogether
+ to the charitable object which it is intended to achieve.â
+[56]
+ The income is plowed back to the corporation not entirely for charitable purposes, but for profit as well. In any case, the last paragraph of Section 30 of the NIRC expressly qualifies that income from activities for profit is taxable â
+regardless of the disposition made of such income.
+â
+Jesus Sacred Heart College
+ declared that there is no official legislative record explaining the phrase âany activity conducted for profit.â However, it quoted a deposition of Senator Mariano Jesus Cuenco, who was a member of the Committee of Conference for the Senate, which introduced the phrase âor from any activity conducted for profit.â
+P. Cuando ha hablado de la Universidad de Santo TomÃ¡s que tiene un hospital, no cree Vd. que es una actividad esencial dicho hospital para el funcionamiento del colegio de medicina de dicha universidad?
+x x x x
+R. Si el hospital se limita a recibir enformos pobres, mi contestaciÃ³n seria afirmativa; pero considerando que el hospital tiene cuartos de pago, y a los mismos generalmente van enfermos de buena posiciÃ³n social econÃ³mica, lo que se paga por estos enfermos debe estar sujeto a âincome taxâ, y es una de las razones que hemos tenido para insertar las palabras o frase âor from any activity conducted for profit.â
+[57]
+The question was whether having a hospital is essential to an educational institution like the College of Medicine of the University of Santo Tomas. Senator Cuenco answered that if the hospital has paid rooms generally occupied by people of good economic standing, then it should be subject to income tax. He said that this was one of the reasons Congress inserted the phrase âor any activity conducted for profit.â
+The question in 
+Jesus Sacred Heart College
+ involves an educational institution.
+[58]
+ However, it is applicable to charitable institutions because Senator Cuencoâs response shows an intent to focus on the activities of charitable institutions. Activities for profit should not escape the reach of taxation. Being a non-stock and non-profit corporation does not, by this reason alone, completely exempt an institution from tax. An institution cannot use its corporate form to prevent its profitable activities from being taxed.
+The Court finds that St. Lukeâs is a corporation that is 
+not
+ âoperated exclusivelyâ for charitable or social welfare purposes insofar as its revenues from paying patients are concerned. This ruling is based not only on a strict interpretation of a provision granting tax exemption, but also on the clear and plain text of Section 30(E) and (G). Section 30(E) and (G) of the NIRC requires that an institution be â
+operated exclusively
+â for charitable or social welfare purposes to be 
+completely
+ exempt from income tax. An institution under Section 30(E) or (G) does not lose its tax exemption if it earns income from its for-profit activities. Such income from for-profit activities, under the last paragraph of Section 30, is merely subject to income tax, previously at the ordinary corporate rate but now at the preferential 10% rate pursuant to Section 27(B).
+A tax exemption is effectively a social subsidy granted by the State because an exempt institution is spared from sharing in the expenses of government and yet benefits from them. Tax exemptions for charitable institutions should therefore be limited to institutions beneficial to the public and those which improve social welfare. A profit-making entity should not be allowed to exploit this subsidy to the detriment of the government and other taxpayers.
+St. Lukeâs fails to meet the requirements under Section 30(E) and (G) of the NIRC to be completely tax exempt from all its income. However, it remains a proprietary non-profit hospital under Section 27(B) of the NIRC as long as it does not distribute any of its profits to its members and such profits are reinvested pursuant to its corporate purposes. St. Lukeâs, as a proprietary non-profit hospital, is entitled to the preferential tax rate of 10% on its net income from its for-profit activities.
+St. Lukeâs is therefore liable for deficiency income tax in 1998 under Section 27(B) of the NIRC. However, St. Lukeâs has good reasons to rely on the letter dated 6 June 1990 by the BIR, which opined that St. Lukeâs is âa corporation for purely charitable and social welfare purposesâ59 and thus exempt from income tax.
+[60]
+ In 
+Michael J. Lhuillier, Inc. v. Commissioner of Internal Revenue
+,
+[61]
+ the Court said that âgood faith and honest belief that one is not subject to tax on the basis of previous interpretation of government agencies tasked to implement the tax law, are sufficient justification to delete the imposition of surcharges and interest.â
+[62]
+WHEREFORE
+, the petition of the Commissioner of Internal Revenue in G.R. No. 195909 is 
+PARTLY GRANTED
+. The Decision of the Court of Tax Appeals 
+En Banc
+ dated 19 November 2010 and its Resolution dated 1 March 2011 in CTA Case No. 6746 are 
+MODIFIED
+. St. Lukeâs Medical Center, Inc. is 
+ORDERED TO PAY
+ the deficiency income tax in 1998 based on the 10% preferential income tax rate under Section 27(B) of the National Internal Revenue Code. However, it is not liable for surcharges and interest on such deficiency income tax under Sections 248 and 249 of the National Internal Revenue Code. All other parts of the Decision and Resolution of the Court of Tax Appeals are 
+AFFIRMED
+.
+The petition of St. Lukeâs Medical Center, Inc. in G.R. No. 195960 is 
+DENIED
+ for violating Section 1, Rule 45 of the Rules of Court.
+SO ORDERED.
+Leonardo-De Castro, Brion, Perez, 
+and 
+Perlas-Bernabe, JJ., 
+concur.
+*
+ Designated Acting Member per Special Order No. 1308 dated 21 September 2012.
+[1]
+ The consolidation of the petitions is pursuant to the Resolution of this Court dated 4 April 2011. 
+Rollo
+ (G.R. No. 195960), p. 9.
+[2]
+ This Resolution denied the motions filed by both parties to reconsider the CTA En Banc Decision dated 19 November 2010.
+[3]
+ CTA First Division Decision dated 23 February 2009, citing the earlier decision in S
+t. Lukeâs Medical Center, Inc. v. Commissioner of Internal Revenue, 
+CTA Case No. 6993, 21 November 2008. Rollo (G.R. No. 195909), p. 68.
+[4]
+ This prompted St. Lukeâs to file an Amended Petition for Review on 12 December 2003 before the First Divison of the CTA.
+[5]
+ CTA First Division Decision, citing the Answer filed by the BIR before the CTA. 
+Rollo
+ (G.R. No. 195909), p. 62.
+[6]
+ Id. at 63.
+[7]
+ Id. at 65-67.
+[8]
+ Id. at 67. The operating expenses of St. Lukeâs consisted of professional care of patients, administrative, household and property expenses.
+[9]
+ This income in the amount of P17,482,304 was declared by St. Lukeâs as âOther Income-Netâ in its 1998 Income Tax Return/Audited Statements of Revenues and Expenses.
+[10]
+ Constitution, Art. VIII, Sec. 5(2)(e). Except for criminal cases where the penalty imposed is 
+reclusion perpetua
+ or higher, the enumeration under Article VIII, Section 5(1) and (2) of the Constitution generally involves a question of law.
+[11]
+ Rules of Court, Rule 45, Sec. 1.
+[12]
+ Constitution, Art. VIII, Sec. 5(2)(e). See note 10.
+[13]
+ Rollo
+ (G.R. No. 195909), pp. 82-83. Emphases in the original.
+[14]
+ See note 9. This is one of the errors assigned by St. Lukeâs in its petition before this Court.
+[15]
+ 
+Rollo 
+(G.R. No. 195909), p. 65. The revised total deficiency income tax assessed by the BIR is P63,113,952.79, which includes the deficiency under âOther Income-Net.â
+[16]
+ CTA Case No. 6993, 21 November 2008.
+[17]
+ These are documentary evidence which, among others, show that government agencies such as the Department of Social Welfare and Development and the Philippine Charity Sweepstakes Office recognize St. Lukeâs as a charitable institution.
+[18]
+ 123 Phil. 38 (1966).
+[19]
+ Id. at 41 citing 51 Am. Jur. 607.
+[20]
+ 95 Phil. 16 (1954).
+[21]
+ Commonwealth Act No. 466, as amended by Republic Act No. 82, Sec. 27 provides: Exemption from tax on corporation. â The following organizations shall not be taxed under this Title in respect to income received by them as such â
+x x x x
+(e) Corporation or association organized and operated exclusively for religious, charitable, scientific, athletic, cultural, or educational purposes, or for the rehabilitation of veterans no part of the net income of which inures to the benefit of any private stockholder or individual: Provided, however, That the income of whatever kind and character from any of its properties, real or personal, or from any activity conducted for profit regardless of the disposition made of such income, shall be liable to the tax imposed under this Code[.]
+[22]
+ 
+Jesus Sacred Heart College v. Collector of Internal Revenue
+, supra note 20 at 21.
+[23]
+ Id.
+[24]
+ The CTA adopted its earlier interpretation in 
+St. Lukeâs Medical Center, Inc. v. Commissioner of Internal Revenue
+. Supra note 16.
+25 
+Rollo
+ (G.R. No. 195909), p. 76. Italics in the original.
+[26]
+ 410 Phil. 241 (2001).
+[27]
+ Id. at 257;
+ rollo
+ (G.R. No. 195960), pp. 15-16.
+[28]
+ 
+Rollo
+ (G.R. No. 195960), p. 24.
+[29]
+ Id. at 50.
+[30]
+ NIRC, Sec. 248(A)(3).
+[31]
+ NIRC, Sec. 249(C)(3) provides: âA deficiency tax, or any surcharge or interest thereon on the due date appearing in the notice and demand of the Commissioner, there shall be assessed and collected on the unpaid amount, interest at the rate prescribed in Subsection (A) hereof until the amount is fully paid, which interest shall form part of the tax.â
+[32]
+ CTA 
+En Banc
+ Resolution dated 1 March 2011. 
+Rollo 
+(G.R. No. 195909), p. 56.
+Section 249 of the NIRC provides:
+(A) 
+In General.
+ â There shall be assessed and collected on any unpaid amount of tax, interest at the rate of twenty percent (20%) 
+per annum
+, or such higher rate as may be prescribed by rules and regulations, from the date prescribed for its payment until the amount is fully paid.
+(B) 
+Deficiency Interest
+ â Any deficiency in the tax due, as the term is defined in this Code, shall be subject to the interest prescribed in Subsection (A) hereof, which interest shall be assessed and collected from the date prescribed for its payment until the full payment thereof.
+x x x x
+[33]
+ Id. at 21-27. Section 27(E) of the NIRC of 1977 provides:
+Sec. 27. 
+Exemptions from tax on corporations
+. â The following organizations shall not be taxed under this Title in respect to income received by them as such â
+x x x x
+(E) Corporation or association organized and operated exclusively for religious, charitable, scientific, athletic, or cultural purposes, or for the rehabilitation of veterans, no part of the net income of which inures to the benefit of any private stockholder or individual.
+x x x x
+[34]
+ 
+See
+ Comment of St. Lukeâs dated 19 September 2011 in G.R. No. 195909. Id. at 105-116.
+[35]
+ Id. at 106-108.
+[36]
+ 
+Cf
+. NIRC, Sec. 30(H).
+[37]
+ 115 Phil. 310 (1962).
+[38]
+ Id. at 311.
+[39]
+ Id. at 314.
+[40]
+ G.R. No. 144104, 29 June 2004, 433 SCRA 119.
+[41]
+ Id. at 128-129. Emphasis supplied.
+[42]
+ For further discussion of the Subsidy Theory of Tax Exemption, 
+see
+ H. Hansmann,
+ The Rationale for Exempting Nonprofit Organizations from Corporate Income Taxation,
+ 91 YALE L. J. 54 (1981) at 66-75. See also M. Hall & J. Colombo, 
+The Charitable Status of Nonprofit Hospitals: Toward a Donative Theory of Tax Exemption
+, 66 WASH. L. Rev. 307 (1991).
+[43]
+ CONSTITUTION, Art. VI, Sec. 28(4).
+[44]
+ 
+Commissioner of Internal Revenue v. The Philippine American Accident Insurance Company, Inc
+., 493 Phil. 785 (2005); 
+Lung Center of the Philippines v. Quezon City,
+ supra note 40 at 133-134; 
+Mactan Cebu International Airport Authority v. Marcos,
+ 330 Phil. 392 (1996); 
+Manila Electric Company v. Vera, 
+160-A Phil. 498 (1975).
+[45]
+ Supra note 18.
+[46]
+ Supra note 20.
+[47]
+ 
+Lung Center of the Philippines v. Quezon City
+, supra note 40 at 131-132. Citation omitted.
+[48]
+ Constitution, Art. VI, Sec. 28(3).
+[49]
+ Corporation Code (B.P. Blg. 68), Sec. 87.
+[50]
+ Id.
+[51]
+ Supra note 40. Emphasis supplied.
+[52]
+ Since the exemption is proportional to the revenue of the institution, Hall & Colombo say that âa general tax exemption suffers from the same âupside downâ effect as many tax deductions: those entities with the highest net revenues or the greatest value of otherwise-taxable property receive the greatest amount of subsidy, yet these are the entities that least need support. From the standpoint of equity among different tax-exempt entities, the result of the general tax exemption is that entities that are the âpoorestâ in either an income or property tax sense, and thus most in need of government assistance to serve impoverished and uninsured patients, receive the least government assistance. Because uncompensated care is an expense item, those hospitals with the most net revenues are more likely to have actually rendered the least free care, all other things being equal.â Hall & Colombo, supra note 42 at 355-356. Citations omitted.
+[53]
+ Comment of St. Lukeâs dated 19 September 2011. 
+Rollo
+ (G.R. No. 195909), p. 113.
+[54]
+ Supra note 40 at 137. Emphasis supplied; citations omitted.
+[55]
+ Jesus Sacred Heart College v. Collector of Internal Revenue, supra note 20 at 20-21.
+[56]
+ Lung Center of the Philippines v. Quezon City
+, supra note 40.
+[57]
+ Supra note 20 at 29.
+[58]
+ Supra note 20 at 23. 
+Jesus Sacred Heart College
+ distinguished an educational institution from a charitable institution: âMore important still, the law applied in the case relied upon by [the BIR] exempted from taxation only such educational institutions as were established for
+ charitable or philanthropic
+ purposes. 
+Consequently, the amount of fees charged or the intent to collect more than the cost of operation or instruction was material to the determination of such purpose
+. Upon the other hand, under Section 27(e) of [the old] National Internal Revenue Code, as amended, an institution operated exclusively for educational purposes need not have, in addition thereto, a charitable or philanthropic character, to be exempt from taxation, provided only that no part of its net income âinures to the benefit of any private stockholder or individual.ââ (Italics in the original; emphasis supplied)
+[59]
+ Italics supplied.
+[60]
+ 
+See
+ CTA First Division Decision dated 23 February 2009. 
+Rollo
+ (G.R. No. 195909), p. 69.
+[61]
+ 533 Phil. 101 (2006).
+[62]
+ Id. at 108-109.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

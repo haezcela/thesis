@@ -1,0 +1,1018 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			761 Phil. 385
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 200567, June 22, 2015 ]
+
+
+METROPOLITAN BANK AND TRUST COMPANY, PETITIONER, VS. CPR PROMOTIONS AND MARKETING, INC. AND SPOUSES CORNELIO P. REYNOSO, JR. AND LEONIZA
+*
+ F. REYNOSO, RESPONDENTS.
+
+D E C I S I O N
+
+
+
+
+VELASCO JR., J.:
+
+
+The Case
+Before Us is a Petition for Review on 
+Certiorari
+ under Rule 45 of the Rules of Court assailing the September 28, 2011 Decision
+[1]
+ and February 13, 2012 Resolution
+[2]
+ of the Court of Appeals (CA) rendered in CA-G.R. CV No. 91424. Said rulings dismissed petitioner Metropolitan Banking and Trust Company's (MBTC's) claim for deficiency payment upon foreclosing respondents' mortgaged properties and ordered the bank, instead, to return to respondent mortgagors the excess amount of PhP 722,602.22.
+The Facts
+The facts of the case, as culled from the records, are as follows:
+From February to October 1997, respondent CPR Promotions and Marketing, Inc. (CPR Promotions) obtained loans from petitioner MBTC. These loans were covered by fifteen (15) promissory notes (PNs) all signed by respondents, spouses Leoniza F. Reynoso and Cornelio P. Reynoso, Jr. (spouses Reynoso), as Treasurer and President of CPR Promotions, respectively. The issued PNs are as follows:
+ 
+PN No.
+Date
+Amount
+1.
+277894 (BDS-143/97)
+February 7, 1997
+P 6,50,0,000.00
+2.
+281728 (BD-216/97)
+July 21, 1997
+P 959,034.20
+3.
+281735 (BD-222/97)
+July 31, 1997
+P 508,580.83
+4.
+281736 (BD-225/97)
+August 12, 1997
+P 291,732.50
+5.
+281737 (BD-226/97)
+August 12, 1997
+P 157,173.12
+6.
+281745 (BD-229/97)
+August 22, 1997
+P 449,812.25
+7.
+281747 (BDS-94854.696.00.999)
+September 3, 1997
+P 105,000.00
+8.
+281749 (BD-236/97)
+September 11, 1997
+P 525,233.93
+9.
+281750 (BD-238/97)
+September 12, 1997
+P 1,310,099.36
+10.
+473410 (BD-239/97)
+September 19, 1997
+P 251,725.00
+11.
+473414 (BD-240/97)
+September 19, 1997
+P 288,975.66
+12.
+473412 (BD-244/97)
+September 26, 1997
+P 62,982.53
+13.
+473411 (BD-245/97)
+September 26, 1997
+P 156,038.85
+14.
+473413 (BD-251/97)
+October 3, 1997
+P 767,512.30
+15.
+473431 (BD-252/97)
+October 6, 1997
+P 557,497.45
+TOTAL PRINCIPAL AMOUNT
+12,891,397.78
+To secure the loans, the spouses Reynoso executed two deeds of real estate mortgage on separate dates. The first mortgage, securing the amount of PhP 6,500,000, was executed on February 2, 1996 over real estate covered by Transfer Certificate of Title (TCT) No. 624835;
+[3]
+ the other was executed on July 18, 1996 over properties covered by TCT Nos. 565381,
+[4]
+ 263421,
+[5]
+ and 274682
+[6]
+ to secure the amount of PhP 2,500,000. All of the mortgaged properties are registered under the spouses Reynoso's names, except for TCT No. 565381, which is registered under CPR Promotions.
+[7]
+Thereafter, on December 8, 1997, the spouses Reynoso executed a continuing surety agreement
+[8]
+ binding themselves solidarity with CPR Promotions to pay any and all loans CPR Promotions may have obtained from petitioner MBTC, including those covered by the said PNs, but not to exceed PhP 13,000,000.
+Upon maturity of the loans, respondents defaulted, prompting MBTC to file a petition for extra-judicial foreclosure of the real estate mortgages, pursuant to Act No. 3135,
+[9]
+ as amended. MBTC's request for foreclosure,
+[10]
+ dated March 6, 1998, pertinently reads:
+We have the honor to request your good Office to conduct/undertake extra-judicial foreclosure sale proceedings under Act No. 3135, as amended, and other applicable laws on the properties covered by two Real Estate Mortgages executed by CPR PROMOTIONS & MARKETING INC., represented by its President Mr. Cornelio P. Reynoso and Treasurer Leoniza F. Reynoso and SPOUSES CORNELIO P. REYNOSO, JR., AND LEONIZA F. REYNOSO in favour of the mortgagee, METROPOLITAN BANK AND TRUST COMPANY, to secure fifteen (15) loans with a total principal amount of 
+TWELVE MILLION EIGHT HUNDRED NINETY ONE THOUSAND THREE HUNDRED NINETY SEVEN PESOS AND SEVENTY EIGHT CENTAVOS (P12,891,397.78)
+, for breach of the terms of said mortgage.
+[11]
+x x x                     x x x                     x x x
+As 
+Annex "R"
+, a copy of the 
+Statement of Account
+, showing that the total amount due on the loans of the borrowers/mortgagers which remains unpaid and outstanding as of February 10, 1998 was 
+ELEVEN MILLION TWO HUNDRED SIXTEEN THOUSAND SEVEN HUNDRED EIGHTY TRHEE PESOS AND NINETY NINE CENTAVOS (Pll,216,783.99)
+ x x x.
+[12]
+ (emphasis in the original)
+Subsequently, on May 5, 1998, the mortgaged properties covered by TCT Nos. 624835 and 565381 were sold at a public auction sale. MBTC participated therein and submitted the highest bid in the amount of PhP 10,374,000. The day after, on May 6, 1998, petitioner again participated and won in the public auction sale of the remaining mortgaged properties, having submitted the highest bid amounting to PhP 3,240,000. As a result, petitioner was issued the corresponding Certificates of Sale on July 15 and 16, 1998, covering the properties subjected to the first and second public auctions, respectively.
+Notwithstanding the foreclosure of the mortgaged properties for the total amount of PhP 13,614,000, petitioner MBTC alleged that there remained a deficiency balance of PhP 2,628,520.73, plus interest and charges as stipulated and agreed upon in the PNs and deeds of real estate mortgages. Despite petitioner's repeated demands, however, respondents failed to settle the alleged deficiency. Thus, petitioner filed an action for collection of sum of money against respondents, docketed as Civil Case No. 99-230, entitled 
+Metropolitan Bank and Trust Company v. CPR Promotions and Marketing, Inc. and Spouses Cornelio Reynoso, Jr. and Leoniza F. Reynoso
+.
+Ruling of the Regional Trial Court
+In its Decision
+[13]
+ dated October 11, 2007, the Regional Trial Court, Branch 59 in Makati City (RTC) ruled in favor of petitioner that there, indeed, was a balance of PhP 2,628,520.73, plus interest and charges, as of September 18, 1998, and that respondents are liable for the said amount, as part of their contractual obligation.
+[14]
+ The court disposed of the case in this wise:
+WHEREFORE, premises considered, judgment is hereby rendered ordering [respondents], jointly and severally, to pay [petitioner] Metro bank, as follows:
+a] the amount of PhP 2,628,520.73 plus stipulated interest and penalty charges stipulated in the Promissory Notes marked as Exhibits A to O until full payment thereof; and
+b] the costs of the suit. 
+SO ORDERED.
+Respondents timely moved for reconsideration of the RTC's Decision, which was denied through the trial court's February 7, 2008 Order. Aggrieved, respondents elevated the case to the CA.
+Ruling of the Court of Appeals
+The appellate court, through the assailed Decision, reversed the court 
+a quo
+ and ruled in favor of respondents. The 
+fallo
+ of the said Decision reads:
+Wherefore, in view of the foregoing, the decision appealed from is reversed, and the plaintiff-appellee Metrobank is ordered to refund or return to the defendants-appellants Cornelio and Leoniza Reynoso the amount of PhP 722,602.22 representing the remainder of the proceeds of the foreclosure sale, with legal interest of six percent per annum from the date of filing of the answer with counterclaim on March 26, 1999, until paid.
+SO ORDERED.
+[15]
+Supporting the reversal is the CA's finding that there was a sudden change in the terminology used, from "total amount due" to "principal amount."
+[16]
+ According to the CA, from February to May 1998, the amount sought to be collected ballooned from PhP 11,216,783.99 to PhP 12,891,397.78. From this apparently unexplained increase, the CA deduced that the increased amount must mean the principal and interest and other charges. Furthermore, the appellate court found that petitioner failed to prove that there was a deficiency, since the records failed to corroborate the claimed amount. As noted by the CA, "[Petitioner] did not even introduce the continuing surety agreement on which the trial court gratuitously based its decision."
+On October 24, 2011, petitioner filed a motion for reconsideration of the assailed Decision, which the appellate court denied in its assailed February 13, 2012 Resolution.
+The Issues
+Hence this recourse, on the following issues:
+Whether or not the CA gravely abused its discretion when it failed to consider the continuing surety agreement presented in evidence and in ruling that petitioner MBTC failed to prove that the spouses Reynoso are solidarity liable with respondent CPR Promotions.
+Whether or not the CA gravely abused its discretion when it grossly misappreciated the promissory notes, real estate mortgages, petition for extrajudicial foreclosure of mortgage, certificates of sale and statement of account marked in evidence and ruled that petitioner MBTC failed to prove that a deficiency balance resulted after conducting the extrajudicial foreclosure sales of the mortgaged properties.
+The Arguments
+Anent the first issue, MBTC faults the appellate court for finding that it did not introduce the continuing surety agreement on which the RTC based its ruling that respondent spouses are solidarity liable with respondent CPR Promotions.
+[17]
+As regards the second issue, petitioner asserts that the CA's grant of a refund valued at PhP 722,602.22 plus legal interest of six percent (6%) in favor of respondents is erroneous for two reasons: 
+first
+, respondents never set up a counterclaim for refund of any amount;
+[18]
+ and 
+second
+, the total outstanding obligation as of February 10, 1998, to which the full amount of the bid prices was applied, is PhP 11,216,783.99 and not PhP 12,891,397.78, which was used by the CA in its computation.
+[19]
+Lastly, petitioner claims that respondents should be made to answer for certain specific expenses connected with the foreclosure, i.e., filing fees, publication expense, Sheriffs Commission on Sale, stipulated attorney's fee, registration fee for the Certificate of Sale, insurance premium and other miscellaneous expenses, in the amounts of PhP 1,373,238 and PhP 419,166.67 for the first and second foreclosure sales, respectively.
+[20]
+In their Comment,
+[21]
+ respondents maintained the propriety of the CA's grant of a refund, arguing that in their Answer with Compulsory Counterclaim, they laid-down in detail the excess of the prices of the foreclosed properties over their obligation.
+[22]
+ Respondents then went on and argued that "from the beginning of the instant case in the trial court, [they] have already raised in issue the fact of [petitioner's] taking-over of [their] lands with values over and above the latter's financial liabilities."
+[23]
+ Thus, they postulate that the CA did right when it touched on the issue and ruled thereon.
+[24]
+Furthermore, respondents insist that there is actually no difference between the PhP 12,891,397.78 and the PhP 11,261,783.99 amounts except for the accumulated interest, penalties, and other charges.
+[25]
+ Too, according to them, this is the reason why what respondent CPR owed petitioner at that time increased substantially from that on February 10, 1998, when the amount was just PhP 11,216,783.99.
+[26]
+The Court's Ruling
+We 
+partially grant
+ the petition. While We fully agree with the CA that MBTC was not able to prove the amount claimed, We however, find that neither were respondents able to timely setup their claim for refund.
+Respondents belatedly raised 
+their compulsory counterclaim
+Rule 6 of the Rules of Court defines a compulsory counterclaim follows:
+Section 7. Compulsory counterclaim. â A compulsory counterclaim is one which, being cognizable by the regular courts of justice, arises out of or is connected with the transaction or occurrence constituting the subject matter of the opposing party's claim and does not require for its adjudication the presence of third parties of whom the court cannot acquire jurisdiction. Such a counterclaim must be within the jurisdiction of the court both as to the amount and the nature thereof, except that in an original action before the Regional Trial Court, the counterclaim may be considered compulsory regardless of the amount.
+Accordingly, a counterclaim is compulsory if: (a) it arises out of or is necessarily connected with the transaction or occurrence which is the subject matter of the opposing party's claim; (b) it does not require for its adjudication the presence of third parties of whom the court cannot acquire jurisdiction; and (c) the court has jurisdiction to entertain the claim both as to its amount and nature, except that in an original action before the RTC, the counterclaim may be considered compulsory regardless of the amount.
+[27]
+In determining whether a counterclaim is compulsory or permissive, We have, in several cases, utilized the following tests:
+[28]
+(1) Are the issues of fact or law raised by the claim and the counterclaim largely the same?
+(2) Would 
+res judicata
+ bar a subsequent suit on defendant's claims, absent the compulsory counterclaim rule?
+(3) Will substantially the same evidence support or refute plaintiffs claim as well as the defendant's counterclaim?
+(4) Is there any logical relation between the claim and the counterclaim, such that the conduct of separate trials of the respective claims of the parties would entail a substantial duplication of effort and time by the parties and the court? This test is the "compelling test of compulsoriness."
+[29]
+Based on the above tests, it is evident that a claim for recovery of the excess in the bid price vis-a-vis the amount due should be interposed as a compulsory counterclaim in an action for recovery of a deficiency filed by the mortgagee against the debtor-mortgagor. 
+First
+, in both cases, substantially the same evidence is needed in order to prove their respective claim. 
+Second
+, adjudication in favor of one will necessarily bar the other since these two actions are absolutely incompatible with each other; a debt cannot be fully paid and partially unpaid at the same time. 
+Third
+, these two opposing claims arose from the same set of transactions. And 
+finally
+, if these two claims were to be the subject of separate trials, it would definitely entail a substantial and needless duplication of effort and time by the parties and the court, for said actions would involve the same parties, the same transaction, and the same evidence. The only difference here would be in the findings of the courts based on the evidence presented with regard to the issue of whether or not the bid prices substantially cover the amounts due.
+Having determined that a claim for recovery of an excess in the bid price should be set up in the action for payment of a deficiency as a compulsory counterclaim, We rule that respondents failed to timely raise the same.
+It is elementary that a defending party's compulsory counterclaim should be interposed at the time he files his Answer,
+[30]
+ and that failure to do so shall effectively bar such claim.
+[31]
+ As it appears from the records, what respondents initially claimed herein were moral and exemplary damages, as well as attorney's fees.
+[32]
+ Then, realizing, based on its computation, that it should have sought the recovery of the excess bid price, respondents set up another counterclaim, this time in their Appellant's Brief filed before the CA.
+[33]
+ Unfortunately, respondents' belated (assertion proved fatal to their cause as it did not cure their failure to timely raise such claim in their Answer. Consequently, respondents' claim for the excess, if any, is already barred. With this, We now resolve the substantive issues of this case.
+The CA erred in ruling that the total 
+amount due was PhP 12,891,397.78
+Basic is the rule that a Petition for Review on Certiorari under Rule 45 of the Rules of Court should only cover questions of law.
+[34]
+ Moreover, findings of fact of the CA are generally final and conclusive and this Court will not review them on appeal.
+[35]
+ This rule, however, admits of several exceptions,
+[36]
+ such as when the findings of fact are conflicting, manifestly mistaken, unsupported by evidence or the result of a misapprehension of acts, or when the findings are contrary to that of the trial court, as in this case.
+To recall, the CA, in its assailed Decision, made the following findings as regards the amount due on the loan against which the proceeds from the auction sales are to be applied:
+In the application for extrajudicial foreclosure sale dated March 6, 1998, the total amount due as of February 10, 1998 was stated to be P11,216,783.99. The plaintiff categorically declared that P11,216,783.99 was the total amount due on February 10, 1998. By the time the auction sales were conducted, in May 1998, as reflected in the certificate of Sale, the 
+principal amount
+ was said to be P12,891,397.78. What is the meaning of the change from 
+total amount due to principal amount
+? If from February to May 1998, a matter of three months, the amount sought to be collected ballooned to P12,891,397.78, the increase could have resulted from no other source than the interest and other charges under the promissory notes after the defendants incurred in default. 
+Thus, the amount of P12,891,397.78 as of May 1998, must mean the 
+principal
+ and interest and other charges.
+ The statement in the certificates of sale that it is the 
+principal amount
+ is a subtle change in language, a legerdemain to suggest that the amount does not include the interest and other charges.
+[37]
+ (emphasis added, citations omitted)
+In short, the CA concluded that the amount of PhP 12,891,397.78 is actually comprised of the PhP 11,216,783.99 due as of February 10, 1998, plus additional interest and other charges that became due from February 10, 1998 until the date of foreclosure on May 5, 1998.
+The appellate court is mistaken.
+By simply adding the figures stated in the PNs as the 
+principal sum
+, it can readily be seen that the amount of PhP 12,891,397.78 actually pertains to the aggregate value of the fifteen (15) PNs, viz:
+ 
+PN No.
+Amount
+1.
+277894 (BDS-143/97)
+[38]
+P 6,500,000.00
+2.
+281728 (BD-216/97)
+[39]
+P 959,034.20
+3.
+281735 (BD-222/97)
+[40]
+P 508,580.83
+4.
+281736 (BD-225/97)
+[41]
+P 291,732.50
+5.
+281737 (BD-226/97)
+[42]
+P 157,173.12
+6.
+281745 (BD-229/97)
+[43]
+P 449,812.25
+7.
+281747 (BDS-94854.696.00.999)
+[44]
+P 105,000.00
+8.
+281749(BD-236/97)
+[45]
+P 525,233.93
+9.
+281750 (BD-238/97)
+[46]
+P 1,310,099.36
+10.
+473410 (BD-239/97)
+[47]
+P 251,725.00
+11.
+473414 (BD-240/97)
+[48]
+P 288,975.66
+12.
+473412 (BD-244/97)
+[49]
+P 62,982.53
+13.
+473411 (BD-245/97)
+[50]
+P 156,038.85
+14.
+473413 (BD-251/97)
+[51]
+P 767,512.30
+15.
+473431 (BD-252/97)
+[52]
+P 557,497.45
+TOTAL PRINCIPAL AMOUNT
+12,891,397.78
+This belies the findings of the CA that PhP 12,891,397.78 is the resulting value of PhP 11,216,783.99 plus interest and other charges. Consequently, the CA's conclusion that there is an excess of PhP 722,602.22, after deducting the amount of PhP 12,891,397.78 from the total bid price of PhP 13,614,000, is erroneous.
+Nevertheless, while the CA's factual finding as to the amount due is flawed, petitioner, as discussed below, is still not entitled to the alleged deficiency balance of PhP 2,628,520.73.
+MBTC failed to prove that there is a deficiency balance of PhP 2,628,520.73
+To support its deficiency claim, petitioner presented a Statement of Account,
+[53]
+ which refers to the amounts due as of May 5, 1998, the date of the first foreclosure sale, to wit:
+ 
+Statement of Account as of May 05, 1998
+PN No.
+Principal Amt Outs.
+PDI
+Penalty
+1
+BD#216/97
+489,219.20
+54,808.77
+49,166.53
+2
+BD#222/97
+167,289.35
+18,613.61
+16,310.71
+3
+BD#225/97
+291,732.50
+32,683.72
+27,422.86
+4
+BD#226/97
+44,694.50
+5,007.24
+4,201.28
+5
+BD#229/97
+435,229.25
+48,760.10
+44,393.38
+6
+BD#238/97
+365,238.55
+40,918.83
+33,236.71
+7
+BD#233/97
+105,000.00
+11,763.50
+9,082.50
+8
+BD#244/97
+62,982.53
+7,056.13
+5,290.53
+9
+BD#236/97
+497,649.70
+56,135.10
+38,070.20
+10
+BD#240/97
+145,950.00
+16,463.20
+11,165.18
+11
+BD#245/97
+156,038.85
+17,481.55
+11,897.43
+12
+BD#239/97
+210,421.50
+22,605.52
+15,360.77
+13
+BD#251/97
+572,470.15
+64,574.86
+38,232.57
+14
+BD#252/97
+557,497.45
+47,896.46
+31,110.63
+16
+BDS#143/97
+6,500,000.00
+573,681.89
+336,818.28
+17
+BDS#218/97
+1,800,000.00
+93,536.05
+74,401.15
+18
+Fire Insurance
+49,238.69
+0.00
+1,698.73
+TOTAL
+12,450,652.22
+1,111,986.53
+747,859.44
+GRAND TOTAL
+14,310,498.19
+ 
+Applying the proceeds from the auction sales to the foregoing amount, according to petitioner, would result in a deficiency balance of PhP 2,443,143.43. Afterwards, the said amount allegedly earned interest for four (4) months in the amount of PhP 185,377.30,
+[54]
+ bringing petitioner's claim for deficiency judgment to a total of PhP 2,628,520.73.
+[55]
+We are not convinced.
+We have already ruled in several cases
+[56]
+ that in extrajudicial foreclosure of mortgage, where the proceeds of the sale are insufficient to pay the debt, the mortgagee has the right to recover the deficiency from the debtor.
+[57]
+ In ascertaining the deficit amount, Sec. 4, Rule 68 of the Rules of Court is elucidating, to wit:
+Section 4.
+ 
+Disposition of proceeds of sale
+. â The amount realized from the foreclosure sale of the mortgaged property shall, 
+after deducting the costs of the sale, be paid to the person foreclosing the mortgage
+, and when there shall be any balance or residue, after paying off the mortgage debt due, the same shall be paid to junior encumbrancers in the order of their priority, to be ascertained by the court, or if there be no such encumbrancers or there be a balance or residue after payment to them, then to the mortgagor or his duly authorized agent, or to the person entitled to it. (emphasis added)
+Verily, there can only be a deficit when the proceeds of the sale is not sufficient to cover (1) the costs of foreclosure proceedings; and (2) the amount due to the creditor, inclusive of interests and penalties, if any, at the time of foreclosure.
+a. Petitioner failed to prove 
+the amount due at the time 
+of foreclosure
+Having alleged the existence of a deficiency balance, it behooved petitioner to prove, at the very least, the amount due at the date of foreclosure against which the proceeds from the auction sale would be applied. Otherwise, there can be no basis for awarding the claimed deficiency balance. Unfortunately for petitioner, it failed to substantiate the amount due as of May 5, 1998 as appearing in its Statement of Account.
+To recall, 
+MBTC admitted that the amount due as of February 10, 1998 is PhP 11,216,783.99, inclusive of interests and charges
+. As alleged in the petition:
+57. Firstly, it should be noted that respondents' total unpaid obligations inclusive of interest and penalties as of 10 February 1998 amounted to Php 11,216,783.99. This amount was the subject of petitioner Metrobank's Petitions for Extra]udicial Foreclosure of Mortgage and NOT Php 12,891,397.78 which is the total principal amount of respondents' loan obligations at the time when they obtained said loans as shown in the Promissory Notes and the Certificates of Sale. After the execution of the Promissory Notes, 
+payments were made, although insufficient, which resulted in the balance of PhP 11,216,783.99 as of February 1198 inclusive of interest and penalties
+.
+[58]
+ xxx
+If the total amount due as of February 10, 1998 is PhP 11,216,783.99 is already inclusive of interests and penalties, the principal amount, exclusive of interests and charges, would naturally be lower than the PhP 11,216,783.99 threshold. How petitioner made the determination in its Statement of Account that the principal amount due on the date of the auction sale is PhP 12,450,652.22 is then questionable, nay impossible, unless respondents contracted another loan anew.
+Moreover, the amounts petitioner itself supplied would result in the following computation:
+PhP 11,216,783.99
+Total outstanding obligation as of February 10, 1998
+1,373,238.04
+Add: Alleged May 5, 1998 public auction sale expenses
+(no Consistent data)
+Add: Additional interests and charges earned between February 10, 1998 to May 5, 1998
+(no consistent data)
+Subtotal: Amount due as of May 5, 1998
+10,374,000.00
+Less: May 5 Bid Price to be applied to the amount due
+419,166.67
+Add: Alleged May 6, 1998 public auction sale expenses
+(no consisted data)
+Add: Interests and charges earned from May 5 to 6, 1998 
+3,240,000.00
+Less: May 6 Bid Price to be applied to the amount due
+PhP 2,443,143.43 
+Total: Deficiency reflected in the Statement of Account from May 5 to September 18, 1998
+As can be gleaned, petitioner failed to sufficiently explain during the proceedings how it came up with the alleged "deficiency" in the amount of PhP 2,443,143.43, as per the Statement of Account. Reversing the formula, 
+petitioner's claim would only be mathematically possible if the missing interest and penalties for the three-month periodâfrom February 10, 1998 to May 6, 1998âamounted to PhP 3,047,954,73,
+[59]
+ which is inconsistent with MBTC's declaration in its Statement of Account as of May 5, 1998.
+[60]
+ Needless to say, this amount is not only unconscionable, it also finds no support from any of the statement of accounts and loan stipulations agreed upon by the parties.
+Given MBTC's conflicting, if not irreconcilable, allegations as to the amount due as of the date of foreclosureâas noted in the statement of accounts, the petition for foreclosure, and the promissory notesâthe computation offered by MBTC cannot be accepted at face value. Consequently, there can then be no basis for determining the value of the additional interests and penalty charges that became due, and, more importantly, whether or not there was indeed a deficiency balance at the time the mortgaged properties were foreclosed.
+In addition, it is noticeable that petitioner's presentation of the computation is circuitous and needlessly lengthened. As a matter of fact, nowhere in the petition, in its complaint,
+[61]
+ reply,
+[62]
+ pre-trial brief,
+[63]
+ among others, did it make a simple computation of respondents' obligation as well as the amounts to be applied to it, or even a summary thereof, when it could have easily done so.
+b. Petitioner failed to prove 
+the amount of expenses 
+incurred in foreclosing the 
+mortgaged properties
+Another obstacle against petitioner's claim for deficiency balance is the burden of proving the amount of expenses incurred during the foreclosure sales. To recall, petitioner alleged that it incurred expenses totalling PhP 1,373,238.04 and PhP 419,166.67 for the first and second public auction sales, respectively. However, in claiming that there is a deficiency, petitioner only submitted the following pieces of evidence, to wit:
+1. The fifteen (15) promissory notes (Exhibits A to O);
+2. Continuing Surety Agreement (Exhibit P);
+3. Real Estate Mortgage (Exhibits Q & R);
+4. Petition for Sale under Act. No. 3135, as amended (Exhibit S);
+5. Notices of Sheriff s Sale (Exhibits T & U);
+6. Affidavits of Publication (Exhibits V & W);
+7. Certificates of Posting and a Xerox copy thereof (Exhibits X & Y);
+8. Certificates of Sale (Exhibits Z & AA);
+9. Demand Letters (Exhibits BB & CC); and
+10. Statement of Account (Exhibit DD).
+Curiously, petitioner never offered as evidence receipts proving payment of filing fees, publication expenses, Sheriffs Commission on Sale, attorney's fee, registration fee for the Certificate of Sale, insurance premium and other miscellaneous expenses, all of which MBTC claims that it incurred. Instead, petitioner urges the Court to take judicial notice of the following expenses:
+[64]
+May 5, 1998 auction sale expenses
+ 
+ 
+ 
+ 
+Filing Fee 
+PhP
+ 
+52,084.00
+ 
+ 
+Publication Expenses 
+24,267.75
+ 
+ 
+Sheriffs Commission on Sale
+ 
+207,560.00
+ 
+ 
+Registration fee and other Miscellaneous Expenses
+ 
+32,644.50
+ 
+ 
+Attorney's Fees (10% of total amount claimed) 
+1,005,744.37
+ 
+ 
+Fire Insurance 
+50,937.42
+ 
+ 
+Sub-total 
+PhP  
+1,373,238.04
+ 
+ 
+ 
+ 
+May 6, 1998 auction sale expenses
+ 
+ 
+Publication Expenses 
+24,267.75
+ 
+ 
+Sheriffs Commission on Sale 
+64,880.00
+ 
+ 
+Registration fee and other Miscellaneous Expenses 
+16,593.00
+ 
+ 
+Attorney's Fees (10% of total amount claimed) 
+313,425.92
+ 
+  
+Sub-total
+PhP
+ 419,166.67
+ 
+Petitioner's argument is untenable.
+First
+, the Court cannot take judicial notice of the attorney's fees being claimed by petitioner because although 10% was the rate agreed upon by the parties, We have, in a line of cases, held that the percentage to be charged can still be fixed by the Court. For instance, in 
+Mambulao Lumber Company v. Philippine National Bank
+,
+[65]
+ the Court held:
+In determining the compensation of an attorney, the following circumstances should be considered: the amount and character of the services rendered; the responsibility imposed; the amount of money or the value of the property affected by the controversy, or involved in the employment; the skill and experience called for in the performance of the service; the professional standing of the attorney; the results secured; and whether or not the fee is contingent or absolute, it being a recognized rule that an attorney may properly charge a much larger fee when it is to be contingent than when it is not. From the stipulation in the mortgage contract earlier quoted, 
+it appears that the agreed fee is 10% of the total indebtedness, irrespective of the manner the foreclosure of the mortgage is to be effected
+. The agreement is perhaps fair enough in case the foreclosure proceedings is prosecuted judicially but, surely, 
+it is unreasonable when, as in this case, the mortgage was foreclosed extra-judicially, and all that the attorney did was to file a petition for foreclosure with the sheriff concerned
+. x x x (emphasis added)
+Similarly, in 
+Bank of the Philippine Islands, Inc. v. Spouses Norman and Angelina Yu
+,
+[66]
+ the Court reduced the claim for attorney's fees from 10% to 1% based on the following reasons: (1) attorney's fee is not essential to the cost of borrowing, but a mere incident of collection; (2) 1% is just and adequate because the mortgagee bank had already charged foreclosure expenses; (3) attorney's fee of 10% of the total amount due is onerous considering the rote effort that goes into extrajudicial foreclosures.
+Second
+, the Court cannot also take judicial notice of the expenses incurred by petitioner in causing the publication of the notice of foreclosure and the cost of insurance. This is so because there are no standard rates cited or mentioned by petitioner that would allow Us to take judicial notice of such expenses. It is not unthinkable that the cost of publication would vary from publisher to publisher, and would depend on several factors, including the size of the publication space. Insurance companies also have their own computations on the insurance premiums to be paid by the insurer, which the courts cannot be expected to be knowledgeable of. To be sure, in arguing for the Court to take judicial notice of the alleged expenses, MBTC merely cited Sec. 3 of Act 3135 requiring publication and the mortgage agreement provision on the insurance requirement, without more.
+[67]
+ Said provisions never expressly provided for the actual cost of publication and insurance, nor any formulae for determining the same. Thus, the claims for publication and insurance expenses ought to be disallowed.
+Third
+, the claims for registration fees and miscellaneous expenses were also never substantiated by receipts.
+In sum, given petitioner's failure to establish the sum due at the time the mortgaged properties were foreclosed and sold via public auction, as well as the expenses incurred in those foreclosure proceedings, it would be impossible for the Court to determine whether or not there is, indeed, a deficiency balance petitioner would have been entitled to.
+Conclusion
+In demanding payment of a deficiency in an extrajudicial foreclosure of mortgage, proving that there is indeed one and what its exact amount is, is naturally a precondition thereto. The same goes with a claim for reimbursement of foreclosure expenses, as here. In this regard, it is elementary that the burden to prove a claim rests on the party asserting such. 
+Ei incumbit probatio qui dicit, non qui negat
+. He who asserts, not he who denies, must prove.
+[68]
+ For having failed to adequately substantiate its claims, We cannot sustain the finding of the trial court that respondents are liable for the claimed deficiency, inclusive of foreclosure expenses. Neither can We sustain the CA's finding that respondents are entitled to the recovery of the alleged excess payment.
+In light of the foregoing, the Court need not belabor the other assigned errors.
+WHEREFORE,
+ premises considered, the instant petition is hereby 
+PARTIALLY GRANTED
+. Accordingly, the Decision of the Court of Appeals dated September 28, 2011 in CA-G.R. CV No. 91424 and its February 13, 2012 Resolution are hereby 
+AFFIRMED
+ with 
+MODIFICATION
+. The award of refund in favor of respondents in the amount of P722,602.22 with legal interest of six percent (6%) per annum is hereby 
+DELETED
+.
+No pronouncement as to costs.
+SO ORDERED.
+Peralta, Villarama, Jr., Reyes
+, and 
+Jardeleza, JJ.
+, concur.
+July 27, 2015
+NOTICE OF JUDGMENT
+Sirs / Mesdames:
+Please take notice that on 
+June 22, 2015
+ a Decision, copy attached hereto, was rendered by the Supreme Court in the above-entitled case, the original of which was received by this Office on July 27, 2015 at 11:30 a.m.
+Very truly yours,
+(SGD.)
+WILFREDO V. LAPITAN
+Division Clerk of Court
+*
+ Leoriza in some parts of the records.
+[1]
+ 
+Rollo
+, pp. 37-44. Penned by Associate Justice Mario L. Guarina III and concurred in by Associate Justices Apolinario D. Rruselas, Jr. and Manuel M. Barrios. 
+[2]
+ 
+Id
+. at 45-46.
+[3]
+ Records, p. 116.
+[4]
+ 
+Id
+. at 131.
+[5]
+ 
+Id
+.
+[6]
+ 
+Id
+.
+[7]
+ 
+Id
+. at 220.
+[8]
+ 
+Id
+. at 214.
+[9]
+ An Act to Regulate the Sale of Property under Special Powers Inserted in or Annexed to Real-Estate Mortgages.
+[10]
+ 
+Rollo
+, p. 221.
+[11]
+ 
+Id
+. at 73.
+[12]
+ 
+Id
+. at 76.
+[13]
+ Penned by Judge Winlove M. Dumayas.
+[14]
+ CA 
+rollo
+, p. 20.
+[15]
+ 
+Rollo
+, p. 43.
+[16]
+ 
+Id
+. at 42.
+[17]
+ 
+Id
+. at 23.
+[18]
+ 
+Id
+. at 24.
+[19]
+ 
+Id
+. at 25.
+[20]
+ 
+Id
+. at 25-26.
+[21]
+ 
+Id
+. at 116-126.
+[22]
+ 
+Id
+. at 124.
+[23]
+ 
+Id
+.
+[24]
+ 
+Id
+.
+[25]
+ 
+Id
+. at 120.
+[26]
+ 
+Id
+.
+[27]
+ 
+Sps. Mendiola v. CA
+, G.R. No. 159746, July 18, 2012, 677 SCRA 27.
+[28]
+ 
+Calibre Traders, Inc. v. Bayer Philippines, Inc.
+, G.R. No. 161431, October 13, 2010, 633 SCRA 34; citing 
+Sandejas v. Ignacio, Jr.
+, G.R No. 155033, December 19, 2007, 541 SCRA 61, 77, citing 
+Tan v. Kaakhay Finance Corporation
+, 452 Phil. 637, 646-647 (2003), 
+Intestate Estate of Dalisay v. Hon. Marasigan
+, 327 Phil. 298, 301 (1996) and 
+Quintanilla v. Court of Appeals
+, 344 Phil. 811, 819 (1997).
+[29]
+ 
+Id
+.; citing 
+Alday v. FGU Insurance Corporation
+, 402 Phil. 962, 972 (2001).
+[30]
+ Section 8, Rule 11 of the Rules of Court on the filing of compulsory counterclaims provides that "[a] compulsory counterclaim or a cross-claim that 
+a defending party has at the time he files his answer shall be contained therein
+." See 
+Sps. Mendiola v. CA
+, supra note 27.
+[31]
+ Section 2, Rule 9 of the Rules of Court provides that: "A compulsory counterclaim, or a cross- claim, not set up shall be barred."
+[32]
+ COMPULSORY COUNTERCLAIM
+17. By instituting such a harassment (sic), baseless and unfounded complaint, your defendants spouses Cornelio P. Reynoso, Jr. and Leoniza F. Reynoso and their three (3) children suffered and continuously suffer mental anguish, fright, serious anxiety, wounded feelings, moral shock, shame and humiliation, compensable in terms of 
+moral damages
+ in the sum of no less than P500,000.00.
+18. To give an example to society, particularly to a giant and very powerful bank like the plaintiff Metrobank, an (sic) 
+examplary
+ (sic) 
+damages
+ shall be assessed of (sic) not less than P250,000.00, so that in future transactions, small businessmen shall not be at the mercy of said universal banking entity.
+19. To protect the rights and interests of defendants, they engaged the services of the undersigned counsel and have (sic) obligated to pay the sum of P200,000.00 by way of 
+attorney's fee
+ (sic) plus P2,000.00 for every hearing. [Records, p. 68]
+[33]
+ Relief or Prayer
+WHEREFORE, all premises considered, it is most respectfully prayed of this Honorable Court of Appeals that it REVERSE, ANNUL, AND SET ASIDE the "Decision" dated 11 October 2007, of the Regional Trial Court of Makati City, Branch 59, in Civil Case No. 99-239, as well as its "Order" dated 7 February 2008 in the same case, for being in contravention of the admitted and established facts, and for failure of the "Complaint" to state a cause of action as against the [respondents].
+IN ITS STEAD, it is humbly prayed of this Honorable Court of Appeals that it issue a ruling in favor of the [respondents] and adversely against the [petitioner], under the following terms and undertakings:
+x x x                     x x x                     x x x
+B. 
+Ordering the Ipetitioner] to return to the [respondents| the sum of Seven Hundred Twenty-Two Thousand Six Hundred Two Pesos & Twenty-Two Centavos (Php 722,602.22), representing the excess of the bid prices
+ of the foreclosed real properties over the liability of the [respondent] to the former, with interest until the same is fully-paid. [CA 
+rollo
+, p. 61]
+[34]
+ Section 1. 
+Filing of petition with Supreme Court
+. - A party desiring to appeal by certiorari from a judgment or final order or resolution of the Court of Appeals, the Sandiganbayan, the Regional Trial Court or other courts whenever authorized by law, may file with the Supreme Court a verified petition for review on certiorari. The petition shall raise only questions of law which must be distinctly set forth.
+[35]
+ 
+Fernando Co v. Una Vargas
+, G.R. No. 195167, November 16, 2011, 660 SCRA 451; citing 
+Sps. Andrada v. Pilhino Sales Corporation
+, G.R. No. 156448, February 23, 2011, 644 SCRA 1; 
+Atlas Consolidated Mining and Development Corporation v. Commissioner of Internal Revenue
+, G.R. No. 159490, February 18, 2008, 546 SCRA 150; 
+Microsoft Corporation v. Maxicorp, Inc.
+, 481 Phil. 550 (2004).
+[36]
+ More explicitly, the findings of fact of the Court of Appeals, which are as a general rule deemed conclusive, may be reviewed by this Court in the following instances:
+(1) when the findings are grounded entirely on speculations, surmises or conjectures; (2) when the inference made is manifestly mistaken, absurd or impossible; (3) when there is grave abuse of discretion; (4) when the judgment is based on a misapprehension of facts; (5) when the findings of fact are conflicting; (6) when in making its findings the Court of Appeals went beyond the issues of the case, or its findings are contrary to the admissions of both the appellant and the appellee; (7) when the findings are contrary to that of the trial court; (8) when the findings are conclusions without citation of specific evidence on which they are based; (9) when the facts set forth in the petition as well as in the petitioner's main and reply briefs are not disputed by the respondent; (10) when the findings of fact are premised on the supposed absence of evidence and contradicted by the evidence on record; or (11) when the Court of Appeals manifestly overlooked certain relevant facts not disputed by the parties, which, if properly considered, would justify a different conclusion. (
+Fernando Co v. Lina Vargas
+, id.; citing 
+Development Dank of the Philippines v. Traders Royal Bank
+, G.R. No. 171982, August 18, 2010)
+[37]
+ 
+Rollo
+, p. 42.
+[38]
+ 
+Id
+. at 52. Annex "E"
+[39]
+ 
+Id
+. at 53. Annex "F"
+[40]
+ 
+Id
+. at 54. Annex "G"
+[41]
+ 
+Id
+. at 55. Annex "H"
+[42]
+ 
+Id
+. at 56. Annex "I"
+[43]
+ 
+Id
+. at 57. Annex "J"
+[44]
+ 
+Id
+. at 58. Annex "K"
+[45]
+ 
+Id
+. at 59. Annex "L"
+[46]
+ 
+Id
+. at 60. Annex "M"
+[47]
+ 
+Id
+. at 61. Annex "N"
+[48]
+ 
+Id
+. at 63. Annex "O"
+[49]
+ 
+Id
+. at 65. Annex "P"
+[50]
+ 
+Id
+. at 67. Annex "Q"
+[51]
+ 
+Id
+. at 69. Annex "R"
+[52]
+ 
+Id
+. at 71. Annex "S"
+[53]
+ Records, p. 325.
+[54]
+ 
+Id
+. at 51.
+Statement of Account - CPR Marketing From May 05 To Sept. 18, 98"
+Deficiency 
+P
+ 2,443,143.43
+ 
+Interest
+ 
+ 
+(May 05 to May 19 @ 22.151%ER/14D) 
+ 
+P 21,045.92
+ 
+(May 19 to May 25 @ 21,115%ER/6D) 
+ 
+8,597.83
+ 
+(May 25 to May 26 @ 20.081%ER/1D)
+ 
+1,362.80
+ 
+(May 26 to June 16 @ 19.821ER/21D)
+ 
+28,248.24
+ 
+(June 16 to July 01 @ 20.340%ER/15D) 
+ 
+20,705.64
+ 
+(July 01 to July 09 @ 21.115%ER/8D)
+ 
+11,463.77
+ 
+(July 09 to July 13 @ 20.598%ER/4D) 
+ 
+5,591.54
+ 
+(July 13 to July 14 @ 20.340%ER/1D) 
+ 
+1,380.38
+ 
+(July 15 to Aug. 11 @ 19.563%ER/27D)
+ 
+ 
+35,846.41
+ 
+(Aug. 11 to Aug. 12 @ 19.821%ER/1D)
+ 
+1,345.15
+ 
+(Aug. 12 to Aug. 18 @ 20.469%ER/6D)
+ 
+ 
+8,334.78
+ 
+(Aug. 18 to Aug. 24 @ 21.115%ER/6D)
+ 
+ 
+8,597.83
+ 
+(Aug. 24 to Aug. 25 @ 19.583%ER/1D) 
+ 
+1,327.64
+ 
+(Aug. 25 to Sept. 18 @ 18.532%ER/24D) 
+ 
+30,184.22
+ 
+TOTAL
+ 
+P185,377.30
+ 
+GRAND TOTAL
+ 
+P2,628,520.73
+ 
+[55]
+ 
+Id
+.
+[56]
+ See 
+DBP v. Tomeldan
+, G.R. No. 51269, November 17, 1980, 101 SCRA 171; 
+Development Bank of the Philippines v. Zaragoza
+, No. L-23493, August 23, 1978, 84 SCRA 668; 
+Development Bank of the Philippines v. Murang
+, No. L-29130, August 8, 1975, 66 SCRA 141; 
+Development Bank of the Philippines v. Vela, de Moll
+, No. L-25802, January 31, 1972, 43 SCRA 82; 
+Philippine Bank of Commerce v. De Vera
+, No. L-18816, December 29, 1962, 6 SCRA 1026.
+[57]
+ 
+Prudential Bank v. Martinez
+, No. L-51768, September 14, 1990, 189 SCRA 612.
+[58]
+ 
+Rollo
+, p. 25.
+[59]
+ PhP 2,443,143.43 + PhP 3,240,000.00 - PhP 419,166.67 + PhP 10,374,000.00 - PhP 373,238.04 - 11,216,783.99 = PhP 3,047,954,73
+[60]
+ PhP 1,111,986.53 + PhP 747,859.44 = PhP 1,859,845.97
+[61]
+ Records, pp. 1-6.
+[62]
+ 
+Id
+. at 75-77.
+[63]
+ 
+Id
+. at 87-96.
+[64]
+ 
+Rollo
+, pp. 30-31.
+[65]
+ No. L-22973, January 30, 1968, 22 SCRA 359.
+[66]
+ G.R. No. 184122, January 20, 2010, 610 SCRA 412.
+[67]
+ 
+Rollo
+, pp. 27-28.
+[68]
+ Resort Hotels Corporation v. Development Bank of the Philippines,
+ G.R. No. 180439 December 23, 2009, 609 SCRA 16; citing 
+Homeowners Savings and Loan Bank v. Dailo
+, G.R. No. 153802, March 11, 2005.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

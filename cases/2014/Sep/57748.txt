@@ -1,0 +1,352 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			744 Phil. 481
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 206599, September 29, 2014 ]
+
+
+680 HOME APPLIANCES, INC., PETITIONER, VS. THE HONORABLE COURT OF APPEALS, THE HONORABLE MARYANN E. CORPUS-MAÃALAC, IN HER CAPACITY AS THE PRESIDING JUDGE OF THE REGIONAL TRIAL COURT OF MAKATI CITY, BRANCH 141, ATTY. ENGRACIO ESCASINAS, JR., IN HIS CAPACITY AS THE EX-OFFICIO SHERIFF/CLERK OF COURT VII, OFFICE OF THE CLERK OF COURT, REGIONAL TRIAL COURT, MAKATI CITY, FIRST SOVEREIGN ASSET MANAGEMENT (SPV-AMC), INC. AND ALDANCO MERLMAR, INC., RESPONDENTS.
+D E C I S I O N
+
+
+
+
+BRION, J.:
+
+
+We resolve the petition for 
+certiorari
+[1]
+ filed by petitioner 680 Home Appliances, Inc. 
+(680 Home)
+ under Rule 65 of the Rules of Court. The petition imputes grave abuse of discretion against the Court of Appeals (CA) in light of its Decision dated February 13, 2013
+[2]
+ in CA-G.R. SP No. 124735. The CA decision affirmed the Orders dated December 20, 2011
+[3]
+ and March 23, 2012
+[4]
+ of the Regional Trial Court (RTC) of Makati City, Branch 141, in Land Registration Case (LRC) No. M-5444.
+THE FACTS
+The case arose from the 
+extrajudicial foreclosure proceedings
+ commenced by the creditor of 680 Home, Deutsche Bank AG London,
+[5]
+ after the former defaulted in paying a loan secured by a real estate mortgage over its commercial lot and building.
+In the foreclosure sale, the respondent, First Sovereign Asset Management, Inc. 
+(FSAMI)
+, emerged as the highest bidder of 680 Homeâs mortgaged properties. A certificate of sale was issued to FSAMI on March 13, 2009, which was registered with the Registry of Deeds of Makati City on March 16, 2009 and annotated on 680 Homeâs Transfer Certificate of Title (TCT) No. 138570. Three months after, or in June 2009, 
+FSAMI consolidated its ownership after 680 Home failed to redeem the property.
+ A new certificate of title (TCT No. 227316) was issued in FSAMIâs name.
+On March 20, 2009, 680 Home commenced an action to annul the mortgage and foreclosure with the RTC of Makati City, Branch 137 (docketed as Civil Case No. 09-254).
+On October 26, 2010, FSAMI commenced LRC No. M-5444 â a 
+petition for the 
+ex parte
+ issuance of a writ of possession
+ filed with the RTC of Makati City, Branch 141. 680 Home moved to intervene and filed an opposition to FSAMIâs application, but the RTC denied the motion in its orders dated March 3, 2011 and May 6, 2011. On July 8, 2011, 
+the RTC granted FSAMIâs application for a writ of possession
+; the writ, as well as the notice to vacate, were issued on August 31, 2011.
+As the current occupant of the property, respondent Aldanco Merlmar, Inc. (
+Aldanco
+) filed a motion to intervene in LRC Case No. M-5444, claiming that it possessed the property as lessee of 680 Home. The RTC issued an Order dated September 15, 2011 granting Aldancoâs intervention.
+Undeterred, 
+680 Home filed a petition to cancel the writ of possession, invoking Section 8 of Act No. 3135.
+ It alleged the nullity of the foreclosure as well the adverse possession of Aldanco that supposedly barred the ministerial issuance of the writ of possession.
+The RTC, in its order dated December 20, 2011, denied 680 Homeâs petition to cancel the writ; this was affirmed in its order dated March 23, 2012 denying 680 Homeâs motion for reconsideration. 680 Home thereafter assailed these orders 
+via
+ a
+ certiorari 
+petition with the CA.
+The CA affirmed the RTC ruling and declared 680 Homeâs petition to cancel the writ as 
+prematurely filed
+.  
+The CA ruled that under Section 8 of Act No. 3135, a judgment debtor may file a petition for cancellation of the writ of possession within 30 days 
+only 
+after
+ the purchaser has obtained possession of the property
+. Although a writ of possession was issued, the property remained in the possession of Aldanco as 680 Homeâs lessee.  Since FSAMI did not obtain possession of the property, the 30-day period to file a petition to cancel the writ under Section 8 of Act No. 3135 has not yet commenced. The CA relied on the Courtâs ruling in 
+Ong v. CA
+,
+[6]
+ which held that 
+âthe purchaser must first be placed in possession of the mortgaged property pending proceedings assailing the issuance of the writ of possession.â
+THE PARTIESâ ARGUMENTS
+680 Home now seeks the reversal of the CAâs decision through the present 
+certiorari
+ petition. It claims that the issuance of the writ of possession in favor of FSAMI cannot be ministerial because of the adverse claim of a third party â Aldanco; FSAMI, therefore, was prevented from obtaining possession of the property. âWith FSAMI having been effectively prevented from terminating [Aldancoâs] possession,â
+[7]
+ 680 Home should be exempted from the possession requirement of Section 8 of Act No. 3135, and should be allowed to petition for the cancellation of the writ.
+Asked to comment on 680 Homeâs petition, both Aldanco and FSAMI claim that the petition is procedurally defective, pointing out that 680 Home should have availed of a petition for review on 
+certiorari 
+under Rules 45, instead of petition for 
+certiorari
+ under Rule 65, both of the Rules of Court.
+FSAMI rebuts 680 Homeâs claim that a third partyâs adverse possession of the property constitutes as an exception to the possession requirement imposed by Section 8 of Act No. 3135 before a writ of possession may be assailed.  It argues that Aldancoâs possession is not adverse to 680 Homeâs claim, since Aldanco is a lessee of 680 Home.
+THE COURTâS RULING
+We do not find the petition meritorious.
+680 Homeâs certiorari petition is
+procedurally erroneous because of
+ the availability of the remedies of 
+reconsideration and appeal
+Procedurally, we observe that 680 Home availed of the wrong remedy to question the CA decision before this Court. A petition for 
+certiorari
+ under Rule 65 of the Rules of Court is availed of only when there is 
+no appeal, or any plain, speedy, and adequate remedy in the ordinary course of law
+.
+[8]
+ Unfortunately, 680 Homeâs resort to a
+ certiorari 
+petition could not be justified by the unavailability or insufficiency of other remedies.
+A motion for reconsideration is recognized as an adequate remedy against a decision, resolution, or order of a lower court, as it provides the court opportunity to correct any error it might have committed.
+[9]
+ Hence, the filing of a motion for reconsideration was made a pre-requisite to the filing of a 
+certiorari
+ petition.  The availability of the remedy of reconsideration generally precludes immediate recourse to a 
+certiorari 
+petition.
+[10]
+ 680 Home, however, never moved for the reconsideration of the CA decision, and offered no explanation for its failure to comply with the requirement.
+Also, the remedy provided under the Rules of Court from a decision of the CA is an appeal by 
+certiorari 
+under its Rule 45.
+[11]
+ Instead of instituting a 
+certiorari
+ petition, 680 Home should have filed an appeal under Rule 45, especially considering that the issue raised here is primarily legal in nature.
+[12]
+Indeed, we find 680 Homeâs resort to a 
+certiorari
+ petition rather dubious. After receiving on February 25, 2013 a copy of the CA decision, 680 Home filed neither a motion for reconsideration thereof nor an appeal therefrom. Instead, it waited 
+58 days
+ after receiving the assailed decision on April 24, 2013 to institute a 
+certiorari
+ proceeding. Although the petition was filed within the 60-day period to institute a 
+certiorari
+ proceeding, the long delay negates 680 Homeâs claimed urgency of its cause and indicates that it resorted to the present petition for 
+certiorari 
+as a substitute for its lost appeal.
+Ong v. Court Appeals 
+was based on a 
+unique factual circumstance, 
+i.e.
+, the
+ writ of possession was issued during
+the redemption period when purchaser 
+has yet to consolidate its ownership over
+ the property
+Even disregarding its procedural defects, the petition still fails. The alleged erroneous interpretation of the law committed by the CA would not, by itself, amount to grave abuse of discretion that is correctible by a writ of 
+certiorari. 
+The CA cannot be faulted for its ruling which only applied existing jurisprudence that, unfortunately, has been extended to cases whose factual circumstances significantly differ from the one originally considered by the Court in laying down the rule.
+In declaring 680 Homeâs petition for cancellation as prematurely filed, the CA relied on 
+Ong
+, which held that Section 8 of Act No. 3135 allows a judgment debtor to file a petition for cancellation of the writ of possession within thirty (30) days only
+ 
+after the purchaser obtained possession of the subject property
+:
+The law is clear that 
+the purchaser must first be placed in possession of the mortgaged property
+ pending proceedings assailing the issuance of the writ of possession.
+Aldancoâs continued possession of the property prevented FSAMI from taking over despite having a writ of possession issued in its favor. Since the writ was not enforced, the CA concluded that 680 Home could not avail of the remedy under Section 8 of Act No. 3135 and petition for its cancellation.
+As the CA correctly pointed out, a debtor may avail of the remedy under Section 8 of Act No. 3135 only 
+after the purchaser has obtained possession of the property.
+ What it missed, however, is that this rule is applicable only to a unique factual situation â when the writ of possession sought to be cancelled was issued 
+during the redemption period.
+  In Ong where this rule was laid down, the mortgagors sought the recall of the writ of possession that was issued 
+during
+ the one-year redemption period.
+[13]
+ 
+Section 8 of Act No. 3135 finds no application when the redemption period has expired without the debtor exercising his right, and the purchaser in the foreclosure sale has already consolidated his ownership over the property and moved for the issuance of the writ of possession.
+The provisions of Act No. 3135 applies 
+until the period of redemption; once redemption
+lapses and consolidation of the purchaserâs title
+ensues, Act No. 3135 finds no application
+In a number of cases,
+[14]
+ the Court declared that Section 8 of Act No. 3135 is the available remedy to set aside a writ of possession, without considering whether the writ involved in each of these cases was issued during or after the lapse of the redemption period. Upon reevaluation, we find it necessary to make a distinction and clarify when the remedy under Section 8 of Act No. 3135 may be availed of.
+In extrajudicial foreclosures, a writ of possession may be issued either (1) within the redemption period or (2) after the lapse of the redemption period.
+[15]
+ The first instance is based on a privilege provided under Section 7 of Act No. 3135; the second is based on the purchaserâs right of ownership. The basis of the purchaserâs right to possess the property affects the nature of the right.
+Act No. 3135 governs only the manner of the sale and redemption of the mortgaged real property in an extrajudicial foreclosure; proceedings beyond these, 
+i.e.,
+ upon the lapse of the redemption period and the consolidation of the purchaserâs title, are no longer within its scope. This is apparent from Section 1 of Act No. 3135, which states:
+Section 1. When a sale is made under a special power inserted in or attached to any real-estate mortgage hereafter made as security for the payment of money or the fulfillment of any other obligation, 
+the provisions of the following [sections] shall govern as to the manner in which the sale and redemption shall be effected
+, whether or not provision for the same is made in the power. [Emphasis ours]
+In fact, the nine (9) sections of Act No. 3135 pertain to proceedings governing extrajudicial foreclosures, from the conduct of the foreclosure sale up to the exercise of the right of redemption. Our reading of Act No. 3135, therefore, should be consistent with the lawâs limited coverage.
+During the redemption period, the purchaserâs title is merely inchoate.
+[16]
+ The âmere purchase and [issuance of a] certificate of sale alone do not confer any right to the possession or beneficial use of the premises [in favor of the purchaser].â
+[17]
+ Nonetheless, the purchaser may acquire possession of the property during the redemption period by exercising the privilege granted to him under Section 7 of Act No. 3135:
+Sec. 7. In any sale made under the provisions of this Act, 
+the purchaser may petition the Court 
+of First Instance of the province or place where the property or any part thereof is situated, 
+to give him possession thereof 
+during the redemption period
+, furnishing bond
+ in an amount equivalent to the use of the property for a period of twelve months, 
+to indemnify the debtor in case it be shown that the sale was made without violating the mortgage or without complying with the requirements of this Act.
+ Such petition shall be made under oath and filed in form of an 
+ex parte
+ motion in the registration or cadastral proceedings if the property is registered, or in special proceedings in the case of property registered under the Mortgage Law or under section one hundred and ninety-four of the Administrative Code, or of any other real property encumbered with a mortgage duly registered in the office of any register of deeds in accordance with any existing law, and in each case the clerk of the court shall, upon the filing of such petition, collect the fees specified in paragraph eleven of section one hundred and fourteen of Act Numbered Four hundred and ninety-six, as amended by Act Numbered Twenty-eight hundred and sixty-six, and the court shall, upon approval of the bond, order that a writ of possession issue, addressed to the sheriff of the province in which the property is situated, who shall execute said order immediately. [Emphases ours]
+The debtor, on the other hand, is provided opportunity to contest the transfer of possession during the redemption period under Section 8 of Act No. 3135, as he remains to be the owner of the foreclosed property. The provision states:
+Sec. 8. 
+The debtor may, 
+in the proceedings in which possession was requested
+, but not later than thirty days 
+after the purchaser was given possession, 
+petition that the sale be set aside and the writ of possession cancelled
+, specifying the damages suffered by him, 
+because the mortgage was not violated or the sale was not made in accordance with the provisions hereof
+, and the court shall take cognizance of this petition in accordance with the summary procedure provided for in section one hundred and twelve of Act Numbered Four hundred and ninety-six; and 
+if it finds the complaint of the debtor justified, it shall dispose in his favor of all or part of the bond furnished by the person who obtained possession
+. Either of the parties may appeal from the order of the judge in accordance with section fourteen of Act Numbered Four hundred and ninety-six; but 
+the order of possession shall continue in effect during the pendency of the appeal.
+ [Emphases ours]
+The writ of possession that the debtor may petition to set aside under Section 8 of Act No. 3135 undoubtedly refers to one issued pursuant to Section 7 of the same law âduring the redemption period.â The reference to the Section 7 proceeding underscores the position that the remedy provided in Section 8 is available only against a writ of possession during the redemption period.
+Further showing Section 7 and 8âs close relation is the bond required to be filed by the purchaser in Section 7 that the debtor may proceed against in Section 8.  Section 7 states that the petition for the issuance of a writ of possession should be accompanied by a bond which, under Section 8, shall âindemnify the debtor in case it be shown that the sale was made without violating the mortgage or without complying with the requirements of [Act No. 3135].â
+The requirement and purpose of the bond in Act No. 3135 support the position that Section 8 thereof is a remedy available only during the redemption period.  A bond is no longer required to be filed in support of a petition for writ of possession filed 
+after the redemption period has expired
+ without the mortgagor exercising his right of redemption. At this point, the purchaserâs right over the property is consolidated and his right to obtain possession of the property stems from his right of ownership. In 
+Philippine National Bank v. Sanao Marketing Corporation,
+[18]
+ the Court ruled that -
+A writ of possession may also be issued after consolidation of ownership of the property in the name of the purchaser. It is settled that 
+the buyer in a foreclosure sale becomes the absolute owner of the property purchased if it is not redeemed during the period of one year after the registration of sale. As such, he is entitled to the possession of the property and can demand it any time following the consolidation of ownership in his name and the issuance of a new transfer certificate of title. 
+In such a case, the bond required in Section 7 of Act No. 3135 is no longer necessary
+. Possession of the land then becomes an absolute right of the purchaser as confirmed owner. Upon proper application and proof of title, the issuance of the writ of possession becomes a ministerial duty of the court.
+[19]
+ [Emphases ours]
+If a bond is no longer required to support a writ of possession issued 
+after
+ the consolidation of the purchaserâs ownership, then no relief can be extended to the debtor under Section 8 of Act No. 3135.
+As pointed out, the remedy provided under Section 8 of Act No. 3135 to the debtor becomes available only after the purchaser acquires 
+actual
+ possession of the property. This is required because until then the debtor, as the owner of the property, does not lose his right to possess.
+However, 
+upon the lapse of the redemption period without the debtor exercising his right of redemption and the purchaser consolidates his title, it becomes unnecessary to require the purchaser to assume actual possession thereof before the debtor may contest it.
+ Possession of the land becomes an absolute right of the purchaser, as this is merely an incident of his ownership. In fact, the issuance of the writ of possession at this point becomes ministerial for the court.
+[20]
+ The debtor contesting the purchaserâs possession may no longer avail of the remedy under Section 8 of Act No. 3135, but should pursue a separate action e.g., action for recovery of ownership, for annulment of mortgage and/or annulment of foreclosure. FSAMIâs consolidation of ownership therefore makes the remedy under Section 8 of Act No. 3135 unavailable for 680 Home. 680 Home cannot assail the writ of possession by filing a petition in LRC No. M-5444.
+A further consideration in this case is the rule against forum shopping, which would be violated if 680 Homeâs resort to a Section 8 remedy is allowed. We note that 680 Home has already commenced an action for the annulment of the foreclosure before the RTC of Makati City (docketed as Civil Case No. 09-254) after FSAMI consolidated its ownership but before it acquired a writ of possession. To authorize 680 Home to resort to Section 8 of Act No. 3135 to have the sale and the writ set aside would be to allow two pending actions grounded on the same cause, 
+i.e.,
+ the supposed invalidity of the foreclosure proceedings, contrary to the rules against forum shopping.
+Given the inapplicability of Section 8 of Act No. 3135, it becomes irrelevant to consider the effect of Aldancoâs continued possession of the property on 680 Homeâs opposition to the writ of possession. That Aldancoâs possession prevented FSAMI from acquiring actual possession of the property neither benefited nor harmed 680 Homeâs case which is not dependent on FSAMIâs actual possession.
+WHEREFORE,
+ we hereby 
+DISMISS
+ the petition. For the reasons stated above, we 
+UPHOLD
+ the decision dated February 13, 2013 of the Court of Appeals in CA-G.R. SP No. 124735 insofar as it affirmed the dismissal of the petitioner 680 Home Appliances, Inc.âs petition for cancellation of writ of possession by the Regional Trial Court of Makati, Branch 141 in its Orders dated December 20, 2011 and March 23, 2012.
+Costs against petitioner 680 Home Appliances, Inc.
+SO ORDERED.
+Carpio, (Chairperson), Del Castillo, Mendoza,
+ and 
+Leonen, JJ
+., concur.
+[1]
+ Under Rule 65 of the Rules of Court; 
+rollo
+, pp. 3-30.
+[2]
+ Penned by Associate Justice Mariflor P. Punzalan Castillo, and concurred in by Associate Justices Amy C. Lazaro-Javier and Zenaida T. Galapate-Laguilles, id. at 34-44. .
+[3]
+ Penned by RTC Presiding Judge Maryann E. Corpus-MaÃ±alac, id. at 48-51.
+[4]
+ Id. at 52-53.
+[5]
+ The original creditor-mortgagee was the Hongkong and Shanghai Banking Corporation Limited, which assigned the credit to Deutsche Bank AG London through a Sub-Participation Agreement dated October 14, 2005, id. at 35.
+[6]
+ 388 Phil. 857, 865 (2000); emphasis ours.
+[7]
+ 
+Rollo,
+ p. 19.
+[8]
+ Rules of Court, Rule 65, Section 1.
+[9]
+ 
+Delos Reyes v. Flores
+, G.R. No. 168726, March 5, 2010, 614 SCRA 270, 278, citing 
+Marawi Marantao General Hospital, Inc. v. Court of Appeals,
+ 402 Phil. 356 (2001).
+[10]
+ Delos Reyes v. Hon. Flores, 
+id. at 277, enumerates that exceptions where a petition for certiorari will lie without the prior filing of a motion for reconsideration:
+where the order is a patent nullity, as where the court
+ a quo
+ has no jurisdiction;
+where the questions raised in the certiorari proceeding have been duly raised and passed upon by the lower court, or are the same as those raised and passed upon in the lower court;
+where there is an urgent necessity for the resolution of the question and any further delay would prejudice the interests of the government or the petitioner or the subject matter of the action is perishable;
+where, under the circumstances, a motion for reconsideration would be useless;
+ where petitioner was deprived of due process and there is extreme urgency for relief;
+where, in a criminal case, relief from an order of arrest is urgent and the granting of such relief by the trial court is improbable;
+where the proceedings in the lower court are a nullity for lack of due process;
+where the proceedings was 
+ex parte
+ or in which the petitioner had no opportunity to object; and
+where the issue raised is one purely of law or where public interest is involved.
+[11]
+ See 
+Indoyon, Jr. v. Court of Appeals
+, G.R. No. 193706, March 12, 2013, 693 SCRA 201, 213, which states that â[u]nder Section 1, Rule 45 of the Rules of Court, the proper remedy to question the CAâs judgment, final order or resolution, as in the present case, is a petition for review on certiorari. The petition must be filed within fifteen (15) days from notice of the judgment, final order or resolution appealed from; or of the denial of petitionerâs motion for reconsideration filed in due time after notice of the judgment.â
+[12]
+ Under Section 1, Rule 45 of the Rules of Court, a petition for review on certiorari shall raise only questions of law. See also 
+Century Iron Works, Inc. v Banas,
+ G.R. No. 184116, June 19, 2013, 699 SCRA 157, 165.
+[13]
+ 
+Supra
+ note 6, at 861.
+[14]
+ Some of these include 
+Samson v. Rivera,
+ G.R. No. 154355, May 20, 2004, 428 SCRA 759, 770; 
+Cua Lai Chu v. Laqui
+, G.R. 169190, February 11, 2010, 612 SCRA 227, 235;
+ Fortaleza v. Lapitan, 
+G.R. No. 178288, August 15, 2012, 678 SCRA469, 484-485; 
+Tolosa v. United Coconut Planters Bank, 
+G.R. No. 183058, April 3, 2013, 695 SCRA 138, 147.
+[15]
+ Section 6 of Act No. 3135 allows a one-year redemption period. This provision has been partly modified by Section 47 of Republic Act No. 8791 or the General Banking Law of 2000. For juridical mortgagors whose property is mortgaged in favour of banks, they are âallowed to exercise the right of redemption only âuntil, but not after, the registration of the certificate of foreclosure saleâ and in no case more than three (3) months after foreclosure, whichever comes first,â 
+Goldenway Merchandizing Corporation v. Equitable PCI Bank, 
+G.R. No. 195540, March 13, 2013, 693 SCRA 439, 453.
+[16]
+ 
+ErmitaÃ±o v. Paglas
+, G.R. No. 174436, January 23, 2013, 689 SCRA 158, 168.
+[17]
+ Id. at 170.
+[18]
+ G.R. No. 153951, August 29, 2005, 465 SCRA 287.
+[19]
+ Id. at 303.
+[20]
+ 
+Edralin v. Philippine Veterans Bank
+, G.R. No. 168523, March 9, 2011, 645 SCRA 75, 85-86.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

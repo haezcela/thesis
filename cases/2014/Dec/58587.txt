@@ -1,0 +1,579 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			749 PHIL. 224
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 183161, December 03, 2014 ]
+
+
+OFFICE OF THE OMBUDSMAN, PETITIONER, VS. AMALIO A. MALLARI, RESPONDENT.
+D E C I S I O N
+
+
+
+
+MENDOZA, J.:
+
+
+This is a petition for review on 
+certiorari
+ under Rule 45 of the 1997 Revised Rules of Civil Procedure assailing the June 6, 2008 Decision
+[1]
+ of the Court of Appeals (CA) in CA-G.R. SP No. 92109, entitled â
+Amalio A. Mallari v. Office of the Ombudsman
+,â exonerating respondent Amalio A. Mallari (
+Mallari
+) from the administrative offense of grave misconduct in Administrative Case No. OMB-ADM-0-00-0547.
+The Antecedents:
+On October 24, 1997, ECOBEL Land, Inc. (
+ECOBEL
+), represented by its Chairman, Josephine Edralin Boright (
+Boright
+), applied for a medium term financial facility loan with the Government Service Insurance System (
+GSIS
+) Finance Group for the construction of a 26-storey twin tower condominium building, ECOBEL Tower, along Taft Avenue in Ermita, Manila. The loan application was denied for the following reasons: insufficiency of collateral, ECOBEL did not have the needed track record in property development, and the loan was sought during the Asian financial crisis.
+[2]
+Subsequently, ECOBEL applied for a two-year surety bond with GSIS to guarantee payment of a Ten Million US Dollar (US$10,000,000.00) loan with the Philippine Veterans Bank (
+PVB
+) acting as the obligee.
+[3]
+On December 10, 1997, the ECOBEL bond application was approved in principle "subject to analysis/evaluation of the project and the offered collaterals.â
+[4]
+ After an evaluation by the GSIS Bond Reinsurance Treaty Underwriting Committee, then chaired by Leticia G. Bernardo (
+Bernardo
+), Manager of the Surety Department, General Insurance Group (
+GIG
+), the collateral offered was found to be a second mortgage. Accordingly, the Committee informed ECOBEL of the rejection of the collateral offered and requested for additional collateral.
+[5]
+Meanwhile, Alex M. Valencerina (
+Valencerina
+), then Vice-President for Marketing and Support Services, GIG, submitted the ECOBEL bond application through his Memorandum, dated January 27, 1998,
+[6]
+ for the evaluation and endorsement of the GSIS Investment Committee (
+INCOM
+). In the said Memorandum, Valencerina stated that the project was âviableâ and the payment guarantee bond was âfully securedâ by reinsurance and real estate collaterals. He also cited that the âfunder has given the principal limited time to avail of the loan. Failure to submit and/or present the payment guarantee bond would lead to the cancellation of the âbookingâ of the funds.â
+[7]
+ The memorandum was coursed through Mallari, then Senior Vice-President of GSIS, GIG, addressed to the President and General Manager of GSIS. Mallari scribbled his own endorsement by stating "
+Strongly reco. based on info and collaterals herein stated
+."
+[8]
+During a meeting on February 17, 1998, Mallari presented to the INCOM a proposal to grant the guarantee payment bond to ECOBEL. The INCOM, in turn, requested Mallari to look into the viability of the project of ECOBEL.
+[9]
+On March 10, 1998,
+[10]
+ the INCOM, through Resolution No. 07-4(8), approved the ECOBEL application.
+The following day, March 11, 1998, the GSIS Surety Bond or G (16) GIF Bond No. 029132
+[11]
+ (
+ECOBEL bond
+) in the amount of Ten Million US Dollars (US$10,000,000.00) was correspondingly issued in favor of ECOBEL with PVB as the obligee. The ECOBEL bond was signed by Mallari on behalf of the GSIS GIG to guarantee the repayment of the principal and interest on the loan granted to ECOBEL through the obligee to be used for the construction of its tower building.
+[12]
+Boright signed the corresponding Indemnity Agreement
+[13]
+ in favor of GSIS on February 11, 1998 or a month prior to the issuance of the ECOBEL bond. A billing statement, dated March 11, 1998,
+[14]
+ for US$165,000.00 as ECOBEL's bond premium for one year was prepared by Mallari.
+In the meantime, Mallari was reassigned to the Housing and Real Property Development Group pursuant to Office Order No. 73-98, dated July 27, 1998.
+On November 19, 1998, a Memorandum
+[15]
+ was issued by Federico Pascual, President and General Manager of GSIS, ordering the suspension of the processing and issuance of guarantee payment bonds.
+[16]
+Despite the directive, Valencerina and Fernando U. Campana (
+Campana
+), then Vice-President of the London Representative Office (LRO), International Operations, GIG, issued a Certification, dated January 14, 1999, stating that ECOBEL bond "is genuine, authentic, valid and binding obligation of GSIS and may be transferred to Bear, Stearns International Ltd., and any of its assignees and Aon Financial Products, Inc. and any of its assignees within the period commencing at the date above. GSIS has no counterclaim, defense or right of set-off with respect to the surety bond provided that DRAWING CONDITIONS have been satisfied."
+[17]
+On February 9, 1999, almost a year from the issuance of the ECOBEL bond, Valencerina received from Boright the premium payment for the bond in the amount of ?12,731,520.00, in FEBTC check, post-dated February 26, 1999 as a one-year premium for the period, March 11, 1998 to March 11, 1999.
+[18]
+Thereafter, Transfer Certificate of Title (
+TCT
+) No. 66289 covering the land located in Lipa City, Batangas, consisting of 205,520 square meters, submitted as collateral, turned out to be ânot genuineâ or spurious. The said land, with an appraised value of ?202,437,200.00, was the major collateral for the issuance of the ECOBEL bond. The land was titled in the name of Vicente Yupangco who did not appear to hold any interest in ECOBEL, either as officer or stockholder.
+[19]
+Thus, on February 12, 1999, the ECOBEL bond was cancelled by GSIS, through Atty. Saludares of the Underwriting Department II. On the same day, Valencerina informed Boright that the bond was invalid and unenforceable and that the FEBTC check, postdated February 26, 1999, was disregarded by GSIS.
+[20]
+On February 19, 1999, despite the notice of the bond cancellation, ECOBEL was granted a loan by Bear and Stearns International Ltd. (
+BSIL
+) in the face amount of US$10,000,000.00 using the ECOBEL bond. The amount actually drawn and received by ECOBEL was US$9,307,000.00. After the drawdown, CampaÃ±a at the LRO received the surety bond premium check payments, dated April 1, 1999 and April 15, 1999, in the total amount of US$200,629.00. The said checks were remitted to GSIS Manila on May 10, 1999.
+[21]
+On March 7, 2000, a Notice of Default on Payment
+[22]
+ was issued against ECOBEL which placed GSIS under threat of a suit. GSIS was furnished with a copy of the said notice and was similarly advised on March 9, 2000.
+[23]
+In a Certification, dated March 20, 2000,
+[24]
+ PVB stated that it did not accept the proposal for it to be named âobligeeâ in the ECOBEL bond, as there was no contract or agreement executed between ECOBEL and PVB.
+Ruling of the Ombudsman
+Hence, an investigation was conducted relative to the matter of issuance of the ECOBEL bond. On this basis, the Fact-Finding and Intelligence Bureau (FFIB) of petitioner Office of the Ombudsman (
+Ombusdman
+) filed criminal and administrative complaints against Mallari, along with Bernardo, CampaÃ±a
+[25]
+ and Valencerina, before the Evaluation and Preliminary Investigation Bureau (
+EPIB
+) and the Administrative Adjudication Bureau (
+AAB
+) for violation of Section 3(e) and (g) of Republic Act (
+R.A.
+) No. 3019, otherwise known as the Anti-Graft and Corrupt Practices Act, docketed as OMB-0-001135, and for violation of Section 22(b), (p), Rule XIV of the Omnibus Rules implementing Book V of Executive Order No. 292, also known as the Administrative Code of 1987, docketed as OMB-ADM-0-00-0547.
+[26]
+OMB-ADM-0-00-0547 is the subject of the present petition.
+In an Order, dated January 10, 2002, the AAB directed Mallari to file his counter-affidavit and controverting evidence. Mallari complied and submitted his Counter-Affidavit
+[27]
+ on January 25, 2002.
+On May 30, 2002, the case was set for preliminary conference on June 14, 2002. Before the scheduled date, Mallari filed a Manifestation that he was willing to submit the administrative case for resolution/decision on the basis of the evidence on record, thereby waiving his right to be present in the said preliminary conference.
+On January 27, 2005, the FFIB rendered a Decision
+[28]
+ finding Mallari liable for simple neglect of duty, inefficiency and incompetence in the performance of his official duties when he affixed his signature on the bond despite the deficiencies apparent on its face. The FFIB observed that there being a finding of positive violation of Section 3(e) of R.A. No. 3019, the corresponding administrative liability also attached.
+Consequently, Mallari was meted out the penalty of one-year suspension without pay in accordance with Section 55 of the Uniform Rules on Administrative Cases.
+In its Order,
+[29]
+ dated June 8, 2005 and signed on June 9, 2005, the Ombudsman approved with modifications the January 27, 2005 Decision. It found that there was more than substantial evidence on record to hold Mallari administratively liable. Thus, the Ombudsman adjudged him guilty of grave misconduct and imposed upon him the penalty of dismissal from service.
+Mallari filed his motion for reconsideration
+[30]
+ of the said decision and order praying for his exoneration of any liability. In its Order,
+[31]
+ dated September 1, 2005, the Ombudsman denied his motion for reconsideration.
+The Ombudsman did not give credence to his contention that the case had no legal basis in view of his retirement from GSIS effective February 1, 2004. The Ombudsman said that, contrary to his assertion, its disciplinary authority extended to him pursuant to Section 21 of Republic Act No. 6770,
+[32]
+ considering that when the complaint was filed on June 30, 2000, and when the acts complained of were committed, he was actively in government service. More importantly, according to the Ombudsman, âthe corresponding disabilities and accessories to administrative penalties provided for in Sections 57 to 58 of the Uniform Rules on Administrative Cases which are: cancellation of eligibility and perpetual disqualification for reemployment in the government service still attach.â
+[33]
+Ruling of the CA
+Aggrieved, Mallari filed with the CA a petition for review seeking to annul the aforementioned January 27, 2005 Decision of the Ombudsman and its June 8, 2005 and September 1, 2005 Orders.
+On June 6, 2008, the CA rendered the assailed decision exonerating Mallari of the administrative offense of grave misconduct. The CA explained that the Ombudsman did not exert efforts to explain the facts and to show the evidence to support its finding of guilt against Mallari for grave misconduct justifying his dismissal from the service, which contravened Section 14, Article VIII of the 1987 Constitution.
+The CA ruled that there was no substantial evidence to hold Mallari administratively liable for grave misconduct warranting the imposition of the supreme penalty of dismissal. Mallari affixed his signature in the proposed bond after the GSIS INCOM approved the ECOBEL bond for the payment guarantee bond. It added that the proposed bond signed by him did not legally come into existence because PVB did not agree to be the obligee of the ECOBEL bond. Hence, it could never be the source of any right or obligation. The CA believed that it was the certifications as to the validity and authenticity issued by CampaÃ±a and Valencerina that gave life to the bond, and enabled ECOBEL to make the drawdown. It found no iota of evidence linking Mallari to the subsequent use of the bond as he was transferred from the GIG to the HRPDG on August 1, 1998. As the decision had nothing to support itself, the cardinal rights of Mallari as laid down in 
+Ang Tibay v. CIR
+[34]
+ dictated that the said decision was a nullity. It concluded that the quantum of proof which was substantial evidence needed in the rendition of an adverse decision in the administrative case against Mallari had not been met. The CA disposed as follows:
+WHEREFORE, premises considered, the Order dated June 9, 2005 of respondent Office of the Ombudsman finding petitioner herein guilty of Grave Misconduct and ordering his dismissal from the service is hereby SET ASIDE and in its stead, petitioner is hereby EXONERATED from the administrative charges against him in OMB-ADM-0-00-0547.
+SO ORDERED.
+[35]
+Hence, this petition anchored on the following
+GROUNDS
+I
+THE DECISION OF THE COURT OF APPEALS COMPLETELY EXONERATING RESPONDENT OF ANY ADMINISTRATIVE LIABILITY IS NOT IN CONFORMITY WITH THE FACTS OF THE CASE, APPLICABLE LAWS AND JURIPRUDENCE.
+II
+AS FOUND BY THE OFFICE OF THE OMBUDSMAN, THERE WAS MORE THAN SUBSTANTIAL EVIDENCE TO HOLD RESPONDENT ADMINISTRATIVELY LIABLE FOR GRAVE MISCONDUCT WARRANTING HIS DISMISSAL FROM THE GSIS; HENCE, THE RULING OF THE COURT OF APPEALS TO THE CONTRARY IS A GLARING NULLITY.
+III
+THE COURT OF APPEALS ERRED IN NOT APPLYING THE WELL SETTLED RULE THAT AS LONG AS SUBSTANTIAL EVIDENCE SUPPORTS THE OMBUDSMANâS RULING HIS DECISION WILL NOT BE OVERTURNED.
+IV
+THE DECISION OF THE OFFICE OF THE OMBUDSMAN FINDING RESPONDENT ADMINISTRATIVELY LIABLE FOR GRAVE MISCONDUCT AS WELL AS THE ORDER DENYING HIS MOTION FOR RECONSIDERATION THEREOF COMPLIED WITH THE CONSTITUTIONAL REQUIREMENTS THAT THEY SHOULD STATE CLEARLY AND DISTINCTLY THE FACTS AND THE LAW UPON WHICH THEY ARE BASED, AND THE RULING OF THE COURT OF APPEALS TO THE CONTRARY IS A PATENT NULLITY.
+[36]
+The Ombudsman prays that this Court reverse and set aside the June 6, 2008 Decision of the CA and affirm the January 27, 2005 Decision of the Ombudsman and its June 9, 2005 and September 1, 2005 Orders, which found Mallari guilty of grave misconduct and ordered the cancellation of his eligibility, forfeiture or return of his retirement and other benefits except accrued leave credits, and his perpetual disqualification for reemployment in any branch of the government or its instrumentalities including government-owned and controlled corporations.
+In its Manifestation,
+[37]
+ dated December 17, 2009, the Ombudsman, through the Office of the Solicitor General (
+OSG
+), stated that it was adopting the OSGâs petition for review, dated July 28, 2008, as its memorandum, considering that all relevant factual and legal issues had been adequately adduced in the said petition.
+In his Memorandum,
+[38]
+ dated March 28, 2011, which merely reiterates the arguments that he presented in his Comment,
+[39]
+ Mallari argues that the CA was correct in reversing the order of the Ombudsman for want of substantial evidence to support his dismissal from the service. He insists that there was nothing irregular when he signed the guaranty payment bond as it was authorized by the GSIS INCOM. Besides, he signed the bond with the PVB as obligee, which bond did not materialize because said bank did not give its consent to the agreement.  He contends that by reason of his transfer to the HRPDG from the GIG, which handled the guaranty payment bonds being issued by GSIS, effective August 1, 1998, he ceased to have anything to do with the negotiations, perfection and eventual execution of the bond with the obligee BSIL which was used in the drawdown of the amount of  US$9,307,000.00 from the latter by ECOBEL. According to him, it was the subsequent acts of Valencerina, CampaÃ±a and Boright with the indispensable cooperation of some officers of the GSIS that gave life to an otherwise extinct bond, and they were responsible for the acts that led to the drawdown of the said amount. He reiterated the CA ruling that there was no evidence linking him to the subsequent use of the bond and that there was no showing that he participated in the drawdown made by ECOBEL with BSIL.
+The sole issue for the Courtâs resolution is whether the CA committed a reversible error in exonerating Mallari from the administrative charges against him in OMB-ADM-0-00-0547.
+The Court finds merit in the petition.
+At the outset it is well to quote the principles, policies and procedural guidelines involved in a regularly issued surety bond.
+A contract of suretyship is an agreement whereby a party, called the surety, guarantees the performance by another party, called the principal or obligor, of an obligation or undertaking in favor of another party, called the obligee. Although the contract of a surety is secondary only to a valid principal obligation, the surety becomes liable for the debt or duty of another although it possesses no direct or personal interest over the obligations nor does it receive any benefit therefrom.
+[40]
+ The contract of suretyship is further elucidated, in this wise:
+The surety's obligation is not an original and direct one for the performance of his own act, but merely accessory or collateral to the obligation contracted by the principal. Nevertheless, although the contract of a surety is in essence secondary only to a valid principal obligation, his liability to the creditor or promisee of the principal is said to be direct, primary and absolute; in other words, he is directly and equally bound with the principal.
+x x x x
+Thus, suretyship arises upon the solidary binding of a person deemed the surety with the principal debtor for the purpose of fulfilling an obligation. A surety is considered in law as being the same party as the debtor in relation to whatever is adjudged touching the obligation of the latter, and their liabilities are interwoven as to be inseparable. x x x.
+[41]
+Internally, GSIS is guided by its established guidelines, the Policy and Procedural Guidelines (
+PPG
+) No. 16-76, dated November 26, 1976, which deals with Bond Underwriting Guidelines for the General Insurance Fund. This was amended and supplemented by PPG No. 64-80-A, dated January 25, 1980, the pertinent provisions of which read:
+Only the President and General Manager (PGM) has the authority to sign the following:
+3.2.1 Bonds in all other instances where the authority has not been delegated to any other official, in which case, all shall be subject to Board approval.
+3.2.2 All borderline cases, such as when the underwriting requirements of the Fund have been substantially but not fully complied with.
+xxxx
+III. 
+Procedural Guidelines
+xxxx
+2. Only standard bond forms authorized for use in the Philippines shall be used in the issuance of any and all kinds of bonds by the General Insurance Fund, except when the Obligee requires a form of his own. Underwriting and Issuance of Bonds (Performance, Surety, etc.)
+General Procedure
+II. 
+Underwriting
+Examine the character, capacity and capital or financial resources of applicant.
+Evaluate the risk involved.
+Classify the bond, whether it is high risk and low risk.
+Determine the premium rates.
+Compute the premium rates.
+Register the Bond in the Bond Register Book.
+Effect re-insurance whenever applicable and appropriate according to retention set by the PPG on Bonds.
+Prepare bond documents and assign acknowledgment, etc.
+Review bond documents.
+Sign bond documents per schedule.
+[PGG No. 16-76, November 26, 1976]
+Policy/Procedure
+I. 
+The overall bond underwriting guidelines:
+The overall bond underwriting policy of the Fund shall be one of conservation.
+The overall bond underwriting objective of the Fund is to avoid any and all losses
+, since a surety bond is underwritten on the assumption of no losses.
+While the Fund should aim to produce more, its production efforts should be in consonance with the safety requirements of bond underwriting, considering that one big loss would be sufficient to wipe out all premiums earned for a number of years.
+xxxx
+III. The Indemnity Agreement
+No bond shall be issued without the bond principal signing an Indemnity Agreement to counter-secure whatever loss or damage the Fund may suffer as a consequence of having issued the bond.
+xxxx
+V. 
+The Three Câs of Bond Underwriting
+xxxx
+With the information obtained from the documents submitted by the applicants as basis, it shall be determined whether the applicant is qualified for the projected undertaking or obligation by a careful examination of his character, capacity and capital.
+Character â that he has the moral character that would indicate that he will be faithful to the obligation or trust imposed on him. If a corporation, tht it is a well-established and respectable firm.
+Capacity- that the applicant has the skill and know-how essential to the performance of the undertaking.
+Capital-that he must have the financial resources to indemnify the surety and to warrant approval of his application as a suitable and desirable risk.
+ This could be established from his financial statements.
+VI. 
+Analysis of financial statements for evaluation of contract bonds
+The contractor shall have adequate and liquid financial resources to be able to cope with unforeseen situations which may develop in the construction period, especially if the project is very large and/or unusual. A check on the financial position of the applicant should therefore be made with an analysis of his financial statements which would indicate whether the contractor meets the requirements of the Fund,
+ (to wit:) xxxx
+VII. 
+Classification of bonds according to degree of their risk exposures
+A.
+ 
+High-Risk Bonds:
+ those exposed to the greatest risk of loss, such as those which undertake to guarantee payment of determinate sum of money or deliver a specified property or its value, to wit:
+1.   Financial Guarantee Bonds
+xxxxx
+Surety Bond to guarantee loans or other financial arrangements
+xxxx
+Underwriting Requirements:
+Normally, with counter-bond secured with collateral except for government entities and very large and well-established private contractors and firms.
+xxxx
+xxxx
+B.
+ 
+Foreign Denominated Bonds-these include bonds which may otherwise be classified as medium risks, but on account of their being issued in foreign denomination are subject to the added risk of currency fluctuations and should therefore be classified as high-risk bonds. Prior Central Bank approval is necessary.
+XIII. 
+The Authority to sign bonds by the General Insurance Fund:
+xxxx
+BB. 
+All high-risk bonds, and medium-risk bonds which are considered high-risk under certain conditions defined herein, shall be subject to the approval of the Board of Trustees, regardless of amount.
+[42]
+ (Emphases supplied)
+With the aforecited GSIS policies and procedures as guidelines and the basic rule that, in administrative cases, the quantum of evidence necessary to find an individual administratively liable is substantial evidence,
+[43]
+ the Court assesses the liability of Mallari in this administrative case.
+Section 5, Rule 133 of the Rules of Court explicitly provides that in cases filed before administrative or quasi-judicial bodies, a fact may be deemed established if it is supported by substantial evidence. Substantial evidence is defined as such amount of relevant evidence which a reasonable mind might accept as adequate to support a conclusion. It is more than a mere scintilla of evidence. The standard of substantial evidence is satisfied when there is a reasonable ground to believe, based on the evidence submitted, that the respondent is responsible for the misconduct complained of. It need not be overwhelming or preponderant, as is required in an ordinary civil case, or evidence beyond reasonable doubt, as is required in criminal cases, but the evidence must be enough for a reasonable mind to support a conclusion.
+[44]
+Contrary to the ruling of the CA, the Court finds substantial evidence to prove Mallariâs administrative liability.
+The Court notes that irregularities, defects and infirmities attended the processing, approval, issuance, and the actual drawdown of the US$10,000,000.00 ECOBEL bond in which Mallari actively participated. In the July 9, 2004 Memorandum
+[45]
+ which was adopted by reference as an integral part of the assailed June 8, 2005 Order,
+[46]
+ the Ombudsman found, thus:
+B. REPORTS OF THE GSIS LEGAL SERVICES GROUP, GSIS INTERNAL AUDIT SERVICES AND WITNESS ATTY. NORA SALUDARES
+In a Memorandum for the Senior Vice-President and General Counsel dated March 10, 2000, the GSIS Legal Service Group (Litigation and Investigation) determined that:
+Surety Bond No. 029132 was prepared and issued without a counter-bond and sufficient collateral being posted as required by Policy and Procedural Guidelines (PPG) Nos. 64-80 [Re; Amendment of, and supplement to PPG No. 16-76 on Bond Underwriting Guidelines for the General Insurance Fund] and 16-76 [Re: Bond Underwriting Requirements for the General Insurance Fund];
+Surety Bond No. 029132, considered a high-risk bond per GSIS guidelines, was prepared and issued without the approval of the GSIS Board of Trustees;
+Surety Bond No. 029132 was issued before ECOBEL Land, Inc. paid the corresponding premium therefor;
+Surety Bond No. 029132 was issued to Philippine Veterans Bank, not Bear and Stearns.
+ Accordingly, GSIS London Representative Office (LRO) should not have accepted Ecobelâs premium payment a year after the bond was issued;
+Surety Bond No. 029132 was issued without furnishing GSIS a copy of the Loan Agreement between Ecobel Land, Inc. and Philippine Veterans Bank;
+Surety Bond No. 029132 was hastily prepared and issued without taking concrete action to protect the interest of GSIS;
+Atty. Campana of GSIS LRO accepted Ecobelâs premium without the authority to do so.
+xxxx
+The more detailed and exhaustive Memorandum dated August 29, 2001 of the GSIS Office of the Auditor determined that the following GSIS Officials be held 
+accountable for the irregular issuance of Surety Bond No. 029132
+, 
+viz
+:
+Amalio A. Mallari, former SVP, GIG, for having signed said surety bond, classified as a high-risk bond, without the approval of the Board of Trustees pursuant to GSIS guidelines and policies, for having strongly recommended the same to be fully secured and for having issued the same and making it appear that the Obligee was Philippine Veterans Bank when he fully knew that the Principal (Ecobel) had a foreign funder.
+xxxx
+In a letter, dated September 13, 2002, to the FFIB, Mr. Reynaldo R. Nograles, OIC-Office of the President, Internal Audit Service, GSIS, attached a copy of the 
+excerpts from the Final Report on the GSIS Audit of Underwriting Departments. Said Audit Report found that: there was non-adherence to existing policies/SOPs in the processing and release of the Ecobel Land, Inc. guaranty payment bond, as well as non-adherence to GSIS GIGâs business policy statement on survey, inspection or assessment of risks/properties to be insured including re-inspection and survey of insured properties.
+The Sworn Statement, dated September 23, 2002, of Atty. Nora M. Saludares
+ merely confirms the findings of the GSIS Internal Audit and Legal Services Group, 
+viz
+: 
+at the time the surety bond was issued that bore the signatures of Josephine Edralin Boright as Principal and PVB as Obligee and likewise of Amalio A. Mallari for the Surety or GSIS, there was yet no premium payment and no sufficient collateral; the collateral that was subsequently submitted was found to be spurious
+; Fernando U. Campana received premium payment at the GSIS London Office subsequent to the cancellation of the surety bond; 
+Alex M. Valencerinaâs assurance that the bond is fully secured from the inception of the transaction contributed to the eventual release and issuance of the surety bond that bore the confirmation/approval of Amalio A. Mallari
+.
+[47]
+ (Emphases supplied)
+On the basis of these findings, the Court agrees with the Ombudsmanâs conclusion that Mallariâs liability for the administrative act of grave misconduct was established by substantial evidence.
+It is well-settled that findings of fact and conclusions by the Office of the Ombudsman are conclusive when supported by substantial evidence. Their factual findings are generally accorded great weight and respect, if not finality by the courts, by reason of their special knowledge and expertise over matters falling under their jurisdiction.
+[48]
+ Here, the Court finds no reason to overturn the finding of the Ombudsman that Mallari was guilty of grave misconduct.
+Misconduct is a transgression of some established and definite rule of action, more particularly, unlawful behavior or gross negligence by a public officer. The misconduct is considered as grave if it involves additional elements such as corruption or willful intent to violate the law or to disregard established rules, which must be proven by substantial evidence; otherwise, the misconduct is only simple. Corruption, as an element of grave misconduct, consists in the act of an official or fiduciary person who unlawfully and wrongfully uses his station or character to procure some benefit for himself or for another person, contrary to duty and the rights of others.
+[49]
+ In other words, in grave misconduct, the elements of corruption, clear intent to violate the law, or flagrant disregard of an established rule must be evident.
+[50]
+It must be recalled that it was Mallari who presented to the INCOM a proposal to consider the grant of a guaranty payment bond to ECOBEL. He hastily approved and signed ECOBELâs bond application without complying with the instruction of the INCOM to look into the viability of the project of ECOBEL; without the required counter-bond and sufficient collateral; without the prior approval of the GSIS Board of Trustees; without payment by ECOBEL of the corresponding premium; and without the mandatory Loan Agreement between ECOBEL and PVB.
+During the INCOM meeting on March 10, 1998 when the ECOBEL bond application was approved, Mallari made representation and conclusion, without sufficient basis, that dollar funding was assured as the target clientele involved the Fil-Am markets in the U.S. and Europe. Only a day after its approval, or on March 11, 1998, he immediately signed and issued the ECOBEL bond without giving ample time and opportunity for undertaking work to be done such as inspection, survey and assessment of properties offered as collateral. He also made it appear that the obligee was PVB when he fully knew that ECOBEL had a foreign funder.
+Moreover, Mallari gave his strong recommendation to the INCOM, without basis, that the bond was fully secured by collaterals. He promoted the said bond despite its cancellation and knowledge of the irregularities attending its issuance, and facilitated the certification requirements of the loan agreement between ECOBEL and BSIL which paved the way for the âdrawdownâ of the loan from the latter. All these acts amply demonstrated Mallariâs flagrant willful disregard of the basic principles of suretyship, the GSIS rules and regulations on bond underwriting, and his gross negligence in the performance of his official functions as SVP, GIG. Indeed, they sufficed to uphold his liability for grave misconduct.
+Interestingly and as correctly observed by the OSG, the hurried and fast-paced approval of the ECOBEL bond application was unmistakable, despite the risks involved which should have called for stricter and more stringent measures in its processing. It indeed appeared devious that the Indemnity Agreement was prepared on February 11, 1998, even a month before the bond was actually issued. Also, at the time the said bond was issued, the premium was not yet paid as required by GSIS policies and guidelines. It must be noted that the GSIS billing statement, dated March 11, 1998, in the amount of $165,000.00 covering the one-year premium for the ECOBEL bond, was prepared by Mallari himself, which means at the time he signed the said bond on even date, he was fully aware that the corresponding premium was not yet paid by ECOBEL.
+Mallari, being a high-ranking GSIS official, was expected to exemplify competence and exercise good judgment in upholding the interest of GSIS. By hastily approving and signing the ECOBEL bond, he surely failed to perform his essential discretionary duties. When he affixed his signature on the surety bond, deficiency and misrepresentation were obvious on its face as found by the Ombudsman in its January 27, 2005 decision:
+[T]he date of the contract agreement between principal (ECOBEL) and Obligee (Philippine Veterans Bank) was left blank, indicating that the contract was not available up to the time the Bond was signed. In fact, there was no such contract or agreement executed between Ecobel Land Inc. and Philippine Veterans Bank! It runs counter to the provision that states ââ¦ a copy of which contract/agreement is hereto attached and made a part hereof â¦â which appears in the bond itself.
+Furthermore, in the âAffidavit of Justificationâ which is part and parcel of the bond, subscribed and sworn to by respondent Mallari, he ââ¦ states and deposes that the said Corporation (ECOBEL) is actually worth the amount specified in the foregoing undertakings, to wit: (US$10,000,000.00) â¦ over and above all just debts, obligations and properties exempt from execution.â
+[51]
+All these took place with Mallariâs active participation, in clear violation of the policies and guidelines of GSIS on Bond Underwriting Guidelines for the General Insurance Fund embodied in PPG No. 64-80-A, dated January 25, 1980, and PPG No. 16-76, dated November 26, 1976.
+[52]
+ Certainly, Mallariâs participation, as aptly opined by the OSG, did not constitute day-to-day functions that were deemed ministerial in nature. The evidence shows his active involvement in the hasty and irregular issuance of the ECOBEL bond.
+Indeed, Mallari was duty bound to ensure that the procedural and documentary requisites were duly complied with before affixing his signature on the bond. In the same way, he should not have signed the attestation clause as the required underwriting work had not been diligently complied with. His failure to act accordingly was a gross and inexcusable violation of the GSIS avowed policy on strict underwriting.
+His act constituted an obvious disregard of the aforementioned GSIS policies and guidelines which evidently rendered undue benefit and advantage to ECOBEL to the detriment of GSIS, whose right and interest he was duty bound to protect.
+Mallariâs claim of good faith as regards his repeated instructions to Valencerina to cancel the bond cannot relieve him of liability. Records reveal that, despite such cancellation instructions, he did not sign the cancellation notice for ECOBEL which Valencerina prepared for his signature pursuant to the PGM directive. He, in fact, told Valencerina that â
+ECOBEL could no longer be cancelled as it was already a done deal
+.â
+[53]
+Mallari cannot also validly invoke his defense of reassignment. Contrary to his allegations, records disclose that even after his transfer from the GIG to the HRPDG on August 1, 1998 and despite the issuance of the November 19, 1998 Memorandum by PGM ordering the suspension of the processing and issuance of guaranty payment bonds, he continued to promote the use of the bond as evidenced by his communications with Boright through Facsimile Transmittal Sheets, dated January 13, 1999 and January 20, 1999,
+[54]
+ wherein Boright requested documents or certifications necessary to facilitate the loan agreement with BSIL. It was also in January 1999 when Mallari personally asked Valencerina to sign the two (2) certifications as requested by ECOBEL in order to make BSIL the current oblige,
+[55]
+ through which, ECOBEL was able to sign the loan agreement and receive the âdrawdownâ from BSIL.
+Significantly and as aptly concluded by the OSG, ECOBEL did not possess the character, capacity and capital as a debtor as required for the grant of the GSIS surety bond. Thus, Mallariâs approval, issuance and promotion of the ECOBEL bond evince bad faith, ill motive and corruption, in contravention of his duty to protect the right and interest of GSIS, and to follow basic laws on surety as GSIS policies and guidelines dictate, thereby constituting the administrative offense of grave misconduct.
+In Resolution No. 91-1631, dated 27 December 1991, the Civil Service Commission (CSC) promulgated the Omnibus Civil Service Rules and Regulations (Omnibus Rules), pursuant to Section 12(2), Chapter 3, Title I(A), Book V of Executive Order No. 292 known as the âAdministrative Code of 1987.â Under Section 22, Rule XIV of the Omnibus Rules, grave misconduct is a grave offense punishable by dismissal.
+[56]
+ Under Section 52-A, Rule IV of the Uniform Rules in Administrative Cases in the Civil Service
+[57]
+ (Uniform Rules), grave misconduct is classified as a grave offense punishable by dismissal even if committed for the first time. Thus, the Ombudsman correctly imposed upon Mallari the penalty of dismissal.
+Considering Mallariâs retirement from GSIS on February 1, 2004,
+[58]
+ the penalty of dismissal is no longer feasible. His retirement notwithstanding, he should and must be held accountable. As correctly pointed out by the Ombudsman in its assailed September 1, 2005 Order, his retirement did not in any way affect the findings and conclusions arrived at in this case. More importantly, the corresponding disabilities and accessories to administrative penalties provided for in Sections 57 to 58 of the Uniform Rules
+[59]
+ such as cancellation of eligibility and perpetual disqualification for reemployment in the government service still attach.
+Indeed, the decision of the CA completely exonerating Mallari from any administrative liability is a violation of a well-settled rule that as long as substantial evidence supports the Ombudsmanâs ruling, its decision will not be overturned. The CA unfortunately failed to consider all the attendant circumstances as detailed above.
+Clearly, the Ombudsman was correct when it ruled that there was more than substantial evidence to hold Mallari administratively liable for grave misconduct. Under Section 27 of R.A. No. 6770, the findings of fact by the Ombudsman, when supported by substantial evidence, are conclusive.
+[60]
+On the issue of compliance with the constitutional requirements that a decision shall state clearly and distinctly the facts and the law on which it is based, the CAâs disquisition fails to persuade.
+In its assailed Decision, dated June 6, 2008, the CA stated that the Ombudsman simply ruled in its orders that there was more than substantial evidence on record to prove the guilt of Mallari for grave misconduct without stating clearly and distinctly the facts and the law on which it is based. As already stated, the June 8, 2005 Ombudsman Order, approved with modifications the January 27, 2005 Decision, rendered by the FFIB and adopted by reference the July 9, 2004 OSP Memorandum issued in connection with Criminal Case No. 27474, as an integral part and support of the said order.
+Also, as correctly noted by the OSG citing 
+Vice-Admiral Dumangcas v. Hon. Marcelo
+,
+[61]
+ the June 8, 2005 Order was not a case of a total absence of factual and legal bases or a failure on the part of the Ombudsman to appreciate and review the decision rendered by the FFIB. The state of affairs was that the said Ombudsmanâs order stemmed from its review of the findings of fact and conclusions reached by the FFIB, thereby imposing upon Mallari the proper administrative liability of grave misconduct instead of simple neglect of duty, inefficiency and incompetence in the performance of official duties. It must be mentioned that the facts and the law were already stated in the January 27, 2005 Decision of the FFIB reviewed by the Ombudsman in its order.
+The September 1, 2005 Order denying Mallariâs motion for reconsideration of the January 27, 2005 Decision and June 8, 2005 Order clearly and distinctly stated the facts and the law on which it was based, thus:
+[I]n the case of respondent Mallari, he adopts a new theory: there were two bonds which he refers to as the PVB (Philippine Veterans Bank) bond and the Bear and Stearns bond. This is a deviation from his original assertions in his counter affidavit that it was his understanding that PVB will be merely a conduit/correspondent bank between the foreign funder and Ecobel, and to give the transaction the color of government interests to qualify for a surety bond with the GSIS.
+Mallari further rationalizes:
+âMoreover, the conformity of PVB to the bond was never obtained and the premium for this bond was never paid. For all intents and purposes, therefore, the PVB bond was never perfected at all. At best, it was simply a proposal which did not materialize because PVB as the obligee never gave its consent and as stated above, the premium for this bond was never paid. As a mere proposed bond, it had no legal or binding effect and for purposes of this case, it could not have been used for the subject drawdown by Ecobel from Bear and Stearns.â
+Sadly, respondent insists on pursuing a line of argument which betrays an utter disregard of suretyship principles. It was already said in the questioned decision, as soon as the bond is in the hands of the Obligor, he can represent and negotiate with any prospective Obligee (Lender); and when accepted by the Obligee, the suretyship contract becomes valid and binding as between the Surety and Obligor, even if the premium is unpaid.
+Mallari disavows any liability for misconduct but it cannot be disregarded that the Investment Committee approved the bond on March 10, 1998. The following day, March 11, 1998, Mallari immediately signed and issued the bond without giving ample time and opportunity for underwriting work to be done.
+[62]
+Finally, Mallari should be reminded that grave misconduct has always been and will remain anathema in the civil service. It inevitably reflects on the fitness of a civil servant to continue in office. When an officer or employee is disciplined, the object is the improvement of the public service and the preservation of publicâs faith and confidence in the government.
+[63]
+WHEREFORE
+, the petition is 
+GRANTED
+. The June 6, 2008 Decision of the Court of Appeals in CA-G.R. SP No. 92109 is 
+SET ASIDE
+. The Decision of the Office of the Ombudsman, dated January 27, 2005 as modified by the June 8, 2005 Order, and its Order, dated September 1, 2005, finding Amalio A. Mallari 
+GUILTY
+ of Grave Misconduct and ordering his 
+DISMISSAL
+ from the government service, are 
+REINSTATED
+. Considering that Amalio A. Mallari has already retired from the Government Service and Insurance System, his civil service eligibility is cancelled. He is also perpetually disqualified for reemployment in the government service.
+SO ORDERED.
+Carpio, (Chairperson), Villarama, Jr.,
+*
+ Reyes
+,
+**
+ and 
+Leonen, JJ.
+, concur.
+*
+ Designated Acting Member in lieu of Associate Justice Arturo D. Brion, per Special Order No. 18888, dated November 28, 2014.
+**
+ Designated Additional Member in lieu of Associate Justice Mariano C. Del Castillo who inhibited himself due to prior action in a related case, per Raffle dated December 3, 2014.
+[1]
+  Penned by Associate Justice Agustin S. Dizon with Associate Justices Regalado E. Maambong and Celia C. Librea-Leagogo, concurring. 
+Rollo
+, pp. 72-86.
+[2]
+ Id. at 162, 254-255.
+[3]
+ Id. at 162.
+[4]
+ Id. at 100-104, 162.
+[5]
+ Id. at 105-108, 162.
+[6]
+ Id. at 109-111, 163.
+[7]
+ Id. at 111.
+[8]
+ Id. at 164, 256.
+[9]
+ Id. at 164 and 255.
+[10]
+ Id. at 112 and 256.
+[11]
+ Id. at 113-114 and 256.
+[12]
+ Id. at 256-257.
+[13]
+ Id. at 116-117 and 164.
+[14]
+ Id. at 115 and 164.
+[15]
+ Id. at 121.
+[16]
+ Id. at 165.
+[17]
+ Id. at 124-125.
+[18]
+ Id. at 166 and 257.
+[19]
+ Id. at 257.
+[20]
+ Id. at 146 and 166.
+[21]
+ Id. at 72 and 258.
+[22]
+ Id. at 154-155.
+[23]
+ Id. at 258.
+[24]
+ Id. at 157 and169.
+[25]
+ Note: On May 26, 2009, the Office of the Ombudsman, through the OSG, filed a Manifestation (informing the Court of the present status of related case G.R. No. 173865)
+In the Verification and Certification of Non-Forum Shopping of the present petition, petitioner disclosed that Valencerina and CampaÃ±a, co-respondents of Mallari in the said administrative case, filed with the CA their separate petitions on different dates appealing the decision of petitioner which found the three of them guilty of grave misconduct and meted the penalty of dismissal from the service, together with all its accessory penalties/disabilities.
+It reported in the said Verification/Certification that in the case of CampaÃ±a, a Decision was promulgated by the CA on April 27, 2006 which partly granted the petition. It affirmed the January 27, 2005 Decision as modified by the Ombudsman on its June 8, 2005 Order finding CampaÃ±a guilty of grave misconduct and the September 1, 2005 Order denying his MR, subject to the modification that CampaÃ±a is suspended from office without pay for one (1) year.
+With the denial of the Ombudsmanâs MR, it filed with this Court a petition for review on certiorari, GR 173865, which is pending resolution.
+The issue raised in GR 173865 was whether the CA correctly mitigated (length of service) the administrative penalty originally imposed by the Office of the Ombudsman, from dismissal to suspension from office without pay for one (1) year.
+On August 20, 2008, the Court rendered a Decision in GR 173865 affirming the CAâs decision which found CampaÃ±a guilty of grave misconduct and which suspended him from office without pay for one year.
+[26]
+ 
+Rollo
+, pp. 158-159.
+[27]
+ Id. at 182-203.
+[28]
+ Id. at 252-282.
+[29]
+ Id. at 284-286.
+[30]
+ Id. at 287-294.
+[31]
+ Id. at 296-312.
+[32]
+ Id. at 308-309.
+[33]
+ The Ombudsman Act of 1989.
+[34]
+ 69 Phil. 635 (1940).
+[35]
+ 
+Rollo
+, p. 86.
+[36]
+ Id. at 29-30.
+[37]
+ Id. at 500-501.
+[38]
+ Id. at 535-563.
+[39]
+ Id. at 363-487.
+[40]
+ 
+Lim v. Security Bank Corporation
+, G.R. No. 188539, March 12, 2014, citing 
+Philippine Charter Insurance Corporation v. Petroleum Distributors & Service Corporation
+, G.R. No. 180898, April 18, 2012, 670 SCRA 166, 179.
+[41]
+ Id. at 179-180.
+[42]
+ 
+Rollo
+, pp. 229-235.
+[43]
+ 
+Office of the Ombudsman (Visayas) v. Zaldarriaga
+, G.R. No. 175349, June 22, 2010, 621 SCRA 373, 379.
+[44]
+ 
+Miro v. Mendoza Vda. de Erederos
+, G.R. Nos. 172532 172544-45, November 20, 2013, 710 SCRA 371, 388.
+[45]
+ 
+Rollo
+, pp. 215-240.
+[46]
+ Id. at 285.
+[47]
+ 
+Rollo
+, pp. 222-226.
+[48]
+ 
+Miro v. Mendoza Vda. de Erederos
+, supra note 44, at 383.
+[49]
+ Id. at 397-398.
+[50]
+ 
+Seville v. Commission on Audit
+, G.R. No. 177657, November 20, 2012, 686 SCRA 28, 32, citing 
+Narvasa v. Sanchez, Jr.
+, G.R. No. 169449, March 26, 2010, 616 SCRA 586, 591.
+[51]
+ 
+Rollo
+, pp. 273-274.
+[52]
+ Memorandum, dated July 9, 2004.
+[53]
+ 
+Rollo
+, p. 165.
+[54]
+ Id. at 122 & 126, respectively.
+[55]
+ Id. at 171.
+[56]
+ 
+Office of the Ombudsman v. Court of Appeals
+, 576 Phil. 784, 799 (2008).
+[57]
+ Cited case of 
+De Guzman, Jr. v. Mendoza
+, 493 Phil. 690 (2005).
+[57]
+ 
+Rollo
+, p. 308.
+[58]
+ Id.
+[59]
+ Section 39 of RA 8291 (The GSIS Act of 1997) has exempted the retirement benefits of government employees from execution, attachment, and levy. Section 15.7 of the Implementing Rules and Regulations promulgated by the GSIS Board of Trustees provides: âExemption of Benefits of Members from Tax, Attachment, Execution, Levy or Other Processes. â The social security benefits of GSIS members under RA 8291 shall be exempted from tax, attachment, garnishment, execution, levy or other processes issued by the courts, quasi-judicial agencies or administrative bodies in connection with all financial obligations of the members, â¦â
+[60]
+ 
+Office of the Ombudsman v. Court of Appeals
+, supra note 56, at 801.
+[61]
+ 518 Phil. 464 (2006).
+[62]
+ 
+Rollo
+, pp. 302-304.
+[63]
+ 
+Judge Buenaventura v. Mabalot
+, A.M. Nos. P-09-2726 & P-10-2884, August 28, 2013, 704 SCRA 1, 23, citing 
+Santos v. Rasalan
+, 544 Phil. 35, 44 (2007), citing 
+Civil Service Commission v. Cortez
+, G.R. No. 155732, June 3, 2004, 430 SCRA 593.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

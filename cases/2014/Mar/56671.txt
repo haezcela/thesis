@@ -1,0 +1,825 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			729 Phil. 253
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 182399, March 12, 2014 ]
+
+
+CS GARMENT, INC.,
+*
+ PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+D E C I S I O N
+
+
+
+
+SERENO, C.J.:
+
+
+Before the Court is a Rule 45 petition for review on certiorari, assailing the respective Decision
+[1]
+ and Resolution
+[2]
+ of the Court of Tax Appeals (CTA) 
+en banc
+ in EB Case No. 287. These judgments in turn affirmed the Decision
+[3]
+ and the Resolution
+[4]
+ of the CTA Second Division, which ordered the cancellation of certain items in the 1998 tax assessments against petitioner CS Garment, Inc. (CS Garment or petitioner). Accordingly, petitioner was directed to pay the Bureau of Internal Revenue (BIR) the remaining portion of the tax assessments. This portion was comprised of the outstanding deficiency value-added tax (VAT) on CS Garmentâs undeclared local sales and on the incidental sale of a motor vehicle; deficiency documentary stamp tax (DST) on a lease agreement; and deficiency income tax as a result of the disallowed expenses and undeclared local sales. However, while the present case was pending before this Court, CS Garment filed a Manifestation and Motion stating that the latter had availed itself of the governmentâs tax amnesty program under Republic Act No. (R.A.) 9480, or the 2007 Tax Amnesty Law.
+FACTS
+We reproduce the narration of facts culled by the CTA 
+en banc
+[5]
+ as follows:
+Petitioner [CS Garment] is a domestic corporation duly organized and existing under and by virtue of the laws of the Philippines with principal office at Road A, Cavite Ecozone, Rosario, Cavite. On the other hand, respondent is the duly appointed Commissioner of Internal Revenue of the Philippines authorized under law to perform the duties of said office, including, 
+inter alia
+, the power to assess taxpayers for [alleged] deficiency internal revenue tax liabilities and to act upon administrative protests or requests for reconsideration/reinvestigation of such assessments.
+Petitioner is registered with the Philippine Economic Zone Authority (PEZA) under Certificate of Registration No. 89-064, duly approved on December 18, 1989. As such, it is engaged in the business of manufacturing garments for sale abroad.
+On November 24, 1999, petitioner [CS Garment] received from respondent [CIR] Letter of Authority No. 00012641 dated November 10, 1999, authorizing the examination of petitionerâs books of accounts and other accounting records for all internal revenue taxes covering the period January 1, 1998 to December 31, 1998.
+On October 23, 2001, petitioner received five (5) formal demand letters with accompanying Assessment Notices from respondent, through the Office of the Revenue Director of Revenue Region No. 9, San Pablo City, requiring it to pay the alleged deficiency VAT, Income, DST and withholding tax assessments for taxable year 1998 in the aggregate amount of P2,046,580.10 broken down as follows:
+ 
+ 
+Deficiency VAT
+ 
+ 
+ 
+ 
+ 
+Basic tax due
+ 
+P314,194.00
+ 
+ 
+ 
+ 
+Add: Surcharge
+ 
+157,097.00
+ 
+ 
+ 
+ 
+ 
+Interest
+ 
+   188,516.00
+ 
+ 
+ 
+ 
+Total Amount Payable
+ 
+P 659,807.00
+ 
+ 
+ 
+Deficiency Income Tax (at Normal Rate of 34%)
+ 
+ 
+ 
+ 
+ 
+Basic tax due
+ 
+P 78,639.00
+ 
+ 
+ 
+ 
+Add: Surcharge
+ 
+39,320.00
+ 
+ 
+ 
+ 
+ 
+Interest
+ 
+     43,251.00
+ 
+ 
+ 
+ 
+Total Amount Payable
+ 
+P 161,210.00
+ 
+ 
+ 
+Deficiency Income Tax (at Special Rate of 5%)
+ 
+ 
+ 
+ 
+ 
+Basic tax due
+ 
+P 742,574.10
+ 
+ 
+ 
+ 
+Add: Surcharge
+ 
+-
+ 
+ 
+ 
+ 
+ 
+Interest
+ 
+408,416.00
+ 
+ 
+ 
+ 
+ 
+Compromise Penalty
+ 
+        25,000.00
+ 
+ 
+ 
+ 
+Total Amount Payable
+ 
+P 1,175,990.10
+ 
+ 
+ 
+Deficiency DST
+ 
+ 
+ 
+ 
+ 
+Basic tax due
+ 
+P 806.00
+ 
+ 
+ 
+ 
+Add: Surcharge
+ 
+403.00
+ 
+ 
+ 
+ 
+ 
+Interest
+ 
+      484.00
+ 
+ 
+ 
+ 
+Total Amount Payable
+ 
+P 1,693.00
+ 
+ 
+ 
+Deficiency EWT
+ 
+ 
+ 
+ 
+ 
+Basic tax due
+ 
+P22,800.00
+ 
+ 
+ 
+ 
+Add: Surcharge
+ 
+11,400.00
+ 
+ 
+ 
+ 
+ 
+Interest
+ 
+   13,680.00
+ 
+ 
+ 
+ 
+Total Amount Payable
+ 
+P 47,880.00
+ 
+ 
+ 
+ 
+ 
+______________
+ 
+ 
+ 
+ 
+GRAND TOTAL
+ 
+P2,046,580.10
+ 
+ 
+ 
+ 
+ 
+=============
+ 
+ 
+On November 20, 2001, or within the 30-day period prescribed under Section 228 of the Tax Code, as amended, petitioner filed a formal written protest with the respondent assailing the above assessments.
+On January 11, 2002, or within the sixty-day period after the filing of the protest, petitioner submitted to the Assessment Division of Revenue Region No. 9, San Pablo City, additional documents in support of its protest.
+Respondent failed to act with finality on the protest filed by petitioner within the period of one hundred eighty (180) days from January 11, 2002 or until July 10, 2002. Hence, petitioner appealed before [the CTA] via a Petition for Review filed on August 6, 2002 or within thirty (30) days from the last day of the aforesaid 180-day period.
+The case was raffled to the 
+Second Division
+ of [the CTA] for decision. After trial on the merits, the 
+Second Division
+ rendered the Assailed Decision on January 4, 2007 upon which the Second Division cancelled respondentâs assessment against CS Garments for deficiency expanded withholding taxes for CY 1998 amounting to P47,880.00, and partially cancelled the deficiency DST assessment amounting to P1,963.00. However, the 
+Second Division 
+upheld the validity of the deficiency income tax assessments by subjecting the disallowed expenses in the amount of P14,851,478.83 and a portion of the undeclared local sales P1,541,936.60 (amounting to P1,500,000.00) to income tax at the special rate of 5%. The remainder of undeclared local sales of P1,541,936.06 (amounting to P41,936.60) was subjected to income tax at the rate of 34%. The 
+Second Division
+ found that total tax liability of CS Garments amounted to P2,029,570.12, plus 20% delinquency interest pursuant to Section 249(C)(3), and computed the same as follows:
+ 
+ 
+ 
+ 
+ 
+Income Tax
+ 
+ 
+ 
+ 
+Deficiency Tax
+ 
+      VAT      
+ 
+   DST    
+ 
+   at 5%   
+ 
+    at 34%    
+ 
+   TOTAL    
+ 
+ 
+ 
+Basic Tax Due
+ 
+P 314,194.00
+ 
+P 145.00
+ 
+P 817,573.94
+ 
+P 1,789.44
+ 
+ 
+ 
+ 
+25% Surcharge
+ 
+78,548.50
+ 
+36.25
+ 
+204,393.49
+ 
+447.36
+ 
+ 
+ 
+ 
+20% Interest
+ 
+188,516.00
+ 
+    102.02
+ 
+      422,898.52
+ 
+        925.6
+ 
+ 
+ 
+ 
+ 
+P 581,258.50
+ 
+P 283.27
+ 
+P 1,444,865.95
+ 
+P 3,162.40
+ 
+P 2,029,570.12
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On January 29, 2007, CS Garments filed its âMotion for Partial Reconsiderationâ of the said decision. On May 25, 2007, in a resolution, the Second Division denied CS Garmentsâ motion for lack of merit. (Citations omitted)
+Petitioner appealed the case to the CTA 
+en banc
+ and alleged the following: (1) the Formal Assessment Notices (FAN) issued by the Commissioner of Internal Revenue (CIR) did not comply with the requirements of the law; (2) the income generated by CS Garment from its participation in the Cavite Export Processing Zoneâs trade fairs and from its sales to employees were not subject to 10% VAT; (3) the sale of the company vehicle to its general manager was not subject to 10% VAT; (4) it had no undeclared local sales in the amount of P1,541,936.60; and (5) Rule XX, Section 2 of the PEZA Rules and Regulations allowed deductions from the expenses it had incurred in connection with advertising and representation; clinic and office supplies; commissions and professional fees; transportation, freight and handling, and export fees; and licenses and other taxes.
+The CTA 
+en banc
+ affirmed the Decision and Resolution of the CTA Second Division. As regards the first issue, the 
+banc
+ ruled that the CIR had duly apprised CS Garment of the factual and legal bases for assessing the latterâs liability for deficiency income tax, as shown in the attached Schedule of Discrepancies provided to petitioner; and in the subsequent reference of the CIR to Rule XX, Section 2 of the Rules and Regulations of R.A. 7916. With respect to the second issue, the CTA pronounced that the income generated by CS Garment from the trade fairs was subject to internal revenue taxes, as those transactions were considered âdomestic salesâ under R.A. 7916, otherwise known as the Special Economic Zone Act. With respect to the third issue, the CTA 
+en banc 
+declared that the sale of the motor vehicle by CS Garment to the latterâs general manager in the amount of P1.6 million was subject to VAT, since the sale was considered an incidental transaction within the meaning of Section 105 of the NIRC. On the fourth issue, the CTA found that CS Garment had failed to declare the latterâs total local sales in the amount of P1,541,936.60 in its 1998 income tax return. The tax court then calculated the income tax liability of petitioner by subjecting P1.5 million of that liability to the preferential income tax rate of 5%. This amount represented the extent of the authority of CS Garment, as a PEZA-registered enterprise, to sell in the local market. The normal income tax rate of 34% was then charged for the excess amount of P41,936.60. Finally, as regards the fifth issue, the CTA ruled that Section 2, Rule XX of the PEZA Rules â which enumerates the specific deductions for ECOZONE Export Enterprises â does not mention certain claims of petitioner as allowable deductions.
+Aggrieved, CS Garment filed the present Petition for Review assailing the Decision of the CTA 
+en banc.
+ However, on 26 September 2008, while the instant case was pending before this Court, petitioner filed a Manifestation and Motion stating that it had availed itself of the governmentâs tax amnesty program under the 2007 Tax Amnesty Law. It thus prays that we take note of its availment of the tax amnesty and confirm that it is entitled to all the immunities and privileges under the law. It has submitted to this Court the following documents, which have allegedly been filed with Equitable PCI BankâCavite EPZA Branch, a supposed authorized agent-bank of the BIR:
+[6]
+Notice of Availment of Tax Amnesty under R.A. 9480
+Statement of Assets, Liabilities, and Net worth (SALN)
+Tax Amnesty Return (BIR Form No. 2116)
+Tax Amnesty Payment Form (Acceptance of Payment Form or BIR Form No. 0617)
+Equitable PCI Bankâs BIR Payment Form indicating that CS Garment deposited the amount of P250,000 to the account of the Bureau of TreasuryâBIR
+On 26 January 2009, the Office of the Solicitor General (OSG) filed its Comment objecting to the Manifestation and Motion of CS Garment.
+[7]
+ The OSG asserts that the filing of an application for tax amnesty does not by itself entitle petitioner to the benefits of the law, as the BIR must still assess whether petitioner was eligible for these benefits and whether all the conditions for the availment of tax amnesty had been satisfied. Next, the OSG claims that the BIR is given a one-year period to contest the correctness of the SALN filed by CS Garment, thus making petitionerâs motion premature. Finally, the OSG contends that pursuant to BIR Revenue Memorandum Circular No. (RMC) 19-2008, petitioner is disqualified from enjoying the benefits of the Tax Amnesty Law, since a judgment was already rendered in favor of the BIR prior to the tax amnesty availment. The OSG points out that CS Garment submitted its application for tax amnesty only on 6 March 2008, which was almost two months after the CTA 
+en banc
+ issued its 14 January 2008 Decision and more than one year after the CTA Second Division issued its 4 January 2007 Decision.
+On 8 February 2010, the Court required both parties to prepare and file their respective memoranda within 30 days from notice.
+[8]
+ After this Court granted the motions for extension filed by the parties, the OSG eventually filed its Memorandum on 18 May 2010, and CS Garment on 7 June 2010. It is worthy to note that in its Memorandum, the OSG did not raise any argument with respect to petitionerâs availment of the tax amnesty program. Neither did the OSG deny the authenticity of the documents submitted by CS Garments or mention that a case had been filed against the latter for availing itself of the tax amnesty program, taking into account the considerable lapse of time from the moment petitioner filed its Tax Amnesty Return and Statement of Assets, Liabilities, and Net Worth in 2008.
+On 17 July 2013, the parties were ordered
+[9]
+ to âmove in the premisesâ
+[10]
+ by informing the Court of the status of the tax amnesty availment of petitioner CS Garment, including any supervening event that may be of help to the Court in its immediate disposition of the present case. Furthermore, the parties were directed to indicate 
+inter alia
+ (a) whether CS Garment had complied with the requirements of the 2007 Tax Amnesty Law, taking note of the aforementioned documents submitted; (b) whether a case had been initiated against petitioner, with respect to its availment of the tax amnesty program; and (c) whether respondent CIR was still interested in pursuing the case. Petitioner eventually filed its Compliance
+[11]
+ on 27 August 2013, and the OSG on 29 November 2013.
+[12]
+According to the OSG,
+[13]
+ CS Garment had already complied with all documentary requirements of the 2007 Tax Amnesty Law. It also stated that the BIR Litigation Division had not initiated any case against petitioner relative to the latterâs tax amnesty application. However, the OSG reiterated that the CIR was still interested in pursuing the case.
+ISSUE
+The threshold question before this Court is whether or not CS Garment is already immune from paying the deficiency taxes stated in the 1998 tax assessments of the CIR, as modified by the CTA.
+DISCUSSION
+Tax amnesty refers to the articulation of the absolute waiver by a sovereign of its right to collect taxes and power to impose penalties on persons or entities guilty of violating a tax law.
+[14]
+ Tax amnesty aims to grant a general reprieve to tax evaders who wish to come clean by giving them an opportunity to straighten out their records.
+[15]
+ In 2007, Congress enacted R.A. 9480, which granted a tax amnesty covering âall national internal revenue taxes for the taxable year 2005 and prior years, with or without assessments duly issued therefor, that have remained unpaid as of December 31, 2005.â
+[16]
+ These national internal revenue taxes include (a) income tax; (b) VAT; (c) estate tax; (d) excise tax; (e) donorâs tax; (f) documentary stamp tax; (g) capital gains tax; and (h) other percentage taxes.
+[17]
+ Pursuant to Section 6 of the 2007 Tax Amnesty Law, those who availed themselves of the benefits of the law became âimmune from the payment of taxes, as well as additions thereto, and the appurtenant civil, criminal or administrative penalties under the National Internal Revenue Code of 1997, as amended, arising from the failure to pay any and all internal revenue taxes for taxable year 2005 and prior years.â
+Amnesty taxpayers may immediately enjoy 
+the privileges and immunities under the 2007 
+Tax Amnesty Law, as soon as they fulfill the
+suspensive conditions imposed therein
+A careful scrutiny of the 2007 Tax Amnesty Law would tell us that the law contains two types of conditions â one suspensive, the other resolutory. Borrowing from the concepts under our Civil Code, a condition may be classified as
+ suspensive
+ when the fulfillment of the condition results in the acquisition of rights. On the other hand, a condition may be considered 
+resolutory
+ when the fulfillment of the condition results in the extinguishment of rights. In the context of tax amnesty, the rights referred to are those arising out of the privileges and immunities granted under the applicable tax amnesty law.
+The imposition of a suspensive condition under the 2007 Tax Amnesty Law is evident from the following provisions of the law:
+2007 Tax Amnesty Law â Republic Act No. 9480
+SECTION 2. 
+Availment of the Amnesty. 
+â 
+Any person, natural or juridical, who wishes to avail himself of the tax amnesty
+ authorized and granted under this Act shall file with the Bureau of Internal Revenue (BIR) 
+a notice and Tax Amnesty Return accompanied by a Statement of Assets, Liabilities and Networth
+ (SALN) as of December 31, 2005, in such form as may be prescribed in the implementing rules and regulations (IRR) of this Act, 
+and pay the applicable amnesty tax
+ within six months from the effectivity of the IRR.
+SECTION 4. 
+Presumption of Correctness of the SALN. 
+â The 
+SALN as of December 31, 2005 shall be considered as true and correct except where the amount of declared networth is understated
+ to the extent of thirty percent (30%) or more 
+as may be established in proceedings initiated by, or at the instance of, parties 
+other than the BIR or its agents
+: 
+Provided, 
+That such proceedings must be initiated within one year following the date of the filing of the tax amnesty return and the SALN. Findings of or admission in congressional hearings, other administrative agencies of government, and/or courts shall be admissible to prove a thirty percent (30%) under-declaration.
+SECTION 6. 
+Immunities and Privileges. 
+â 
+Those who availed themselves of the tax amnesty under Section 5 hereof
+, and have fully complied with all its conditions shall be entitled to the following immunities and privileges:
+ 
+ 
+(a)
+ 
+The
+ taxpayer shall be immune from the payment of taxes, as well as additions thereto
+, and the appurtenant civil, criminal or administrative penalties under the National Internal Revenue Code of 1997, as amended, arising from the failure to pay any and all internal revenue taxes for taxable year 2005 and prior years. 
+ 
+ 
+ 
+(b)
+ 
+The 
+taxpayerâs Tax Amnesty Return and the SALN as of December 31, 2005 shall not be admissible as evidence
+ in all proceedings that pertain to taxable year 2005 and prior years, insofar as such proceedings relate to internal revenue taxes, before judicial, quasi-judicial or administrative bodies in which he is a defendant or respondent, and except for the purpose of ascertaining the networth beginning January 1, 2006, 
+the same shall not be examined, inquired or looked into by any person or government office
+. However, the taxpayer may use this as a defense, whenever appropriate, in cases brought against him.
+ 
+ 
+ 
+(c) 
+ 
+The
+ books of accounts and other records
+ of the taxpayer for the years covered by the tax amnesty availed of 
+shall not be examined
+: Provided, That the Commissioner of Internal Revenue may authorize in writing the examination of the said books of accounts and other records to verify the validity or correctness of a claim for any tax refund, tax credit (other than refund or credit of taxes withheld on wages), tax incentives, and/or exemptions under existing laws.
+ 
+ 
+All these immunities and privileges shall not apply where the person failed to file a SALN and the Tax Amnesty Return
+, or where the amount of networth as of December 31, 2005 is proven to be understated
+ to the extent of thirty percent (30%) or more, in accordance with the provisions of Section 3 hereof.
+SECTION 7. 
+When and Where to File and Pay
+. â The filing of the Tax Amnesty Return and the payment of the amnesty tax for those availing themselves of the tax amnesty shall be made within six months starting from the effectivity of the IRR. It shall be filed at the office of the Revenue District Officer which has jurisdiction over the legal residence or principal place of business of the filer. 
+The Revenue District Officer shall issue an acceptance of payment form authorizing an authorized agent bank, or in the absence thereof, the collection agent or municipal treasurer concerned, to accept the amnesty tax payment.
+Department of Finance Order No. 29-07: Rules and Regulations to Implement R.A. 9480
+SECTION 6.
+ Method of Availment of Tax Amnesty.
+ â
+x x x x
+3.  
+Payment of Amnesty Tax and Full Compliance.
+ â 
+Upon filing of the Tax Amnesty Return
+ in accordance with Sec. 6 (2) hereof, the 
+taxpayer shall pay the amnesty tax to the authorized agent bank
+ or in the absence thereof, the 
+Collection Agent
+ or 
+duly authorized
+ Treasurer of the city or municipality in which such person has his legal residence or principal place of business.
+The RDO shall issue sufficient Acceptance of Payment Forms
+, as may be prescribed by the BIR 
+for the use of â or to be accomplished by
+ â the 
+bank
+, the 
+collection agent
+ or the 
+Treasurer
+, 
+showing the acceptance of the amnesty tax payment
+. In case of the authorized agent bank, the branch manager or the assistant branch manager shall sign the acceptance of payment form.
+The Acceptance of Payment Form, the Notice of Availment, the SALN, and the Tax Amnesty Return shall be submitted to the RDO, which shall be received only after complete payment. The completion of these requirements shall be deemed full compliance with the provisions of R.A. 9480
+. (Emphases supplied)
+In availing themselves of the benefits of the tax amnesty program, taxpayers must first accomplish the following forms and prepare them for submission: (1) Notice of Availment of Tax Amnesty Form; (2) Tax Amnesty Return Form (BIR Form No. 2116); (3) Statement of Assets, Liabilities and Net worth (SALN) as of December 31, 2005; and (4) Tax Amnesty Payment Form (Acceptance of Payment Form or BIR Form No. 0617).
+[18]
+The taxpayers must then compute the amnesty tax due in accordance with the rates provided in Section 5 of the law,
+[19]
+ using as tax base their net worth as of 31 December 2005 as declared in their SALNs. At their option, the revenue district office (RDO) of the BIR may assist them in accomplishing the forms and computing the taxable base and the amnesty tax due.
+[20]
+ The RDO, however, is disallowed from looking into, questioning or examining the veracity of the entries contained in the Tax Amnesty Return, SALN, and other documents they have submitted.
+[21]
+ Using the Tax Amnesty Payment Form, the taxpayers must make a complete payment of the computed amount to an authorized agent bank, a collection agent, or a duly authorized treasurer of the city or municipality.
+[22]
+Thereafter, the taxpayers must file with the RDO or an authorized agent bank the (1) Notice of Availment of Tax Amnesty Form; (2) Tax Amnesty Return Form (BIR Form No. 2116); (3) SALN; and (4) Tax Amnesty Payment Form.
+[23]
+ The RDO shall only receive these documents after complete payment is made, as shown in the Tax Amnesty Payment Form.
+[24]
+ It must be noted that the completion of these requirements âshall be deemed full compliance with the provisions of R.A. 9480.â
+[25]
+ In our considered view, this rule means that amnesty taxpayers may immediately enjoy the privileges and immunities under the 2007 Tax Amnesty Law as soon as the aforementioned documents are duly received.
+The OSG has already confirmed
+[26]
+ to this Court that CS Garment has complied with all of the documentary requirements of the law. Consequently, and contrary to the assertion of the OSG, no further assessment by the BIR is necessary. CS Garment is now entitled to invoke the immunities and privileges under Section 6 of the law.
+Similarly, we reject the contention of OSG that the BIR was given a one-year period to contest the correctness of the SALN filed by CS Garment, thus making petitionerâs motion premature. Neither the 2007 Tax Amnesty Law nor Department of Finance (DOF) Order No. 29-07 (Tax Amnesty Law IRR) imposes a waiting period of one year before the applicant can enjoy the benefits of the Tax Amnesty Law. It can be surmised from the cited provisions that the law intended the immediate enjoyment of the immunities and privileges of tax amnesty upon fulfilment of the requirements. Further, a reading of Sections 4 and 6 of the 2007 Tax Amnesty Law shows that Congress has adopted a âno questions askedâ policy, so long as all the requirements of the law and the rules are satisfied. The one-year period referred to in the law should thus be considered only as a prescriptive period within which 
+third parties
+, meaning âparties other than the BIR or its agents,â can question the SALN â not as a waiting period during which the BIR may contest the SALN and the taxpayer prevented from enjoying the immunities and privileges under the law.
+This clarification, however, does not mean that the amnesty taxpayers would go scot-free in case they substantially understate the amounts of their net worth in their SALN. The 2007 Tax Amnesty Law imposes a resolutory condition insofar as the enjoyment of immunities and privileges under the law is concerned. Pursuant to Section 4 of the law, third parties may initiate proceedings contesting the declared amount of net worth of the amnesty taxpayer within one year following the date of the filing of the tax amnesty return and the SALN. Section 6 then states that âAll these immunities and privileges shall not apply x x x where the amount of networth as of December 31, 2005 is proven to be understated to the extent of thirty percent (30%) or more, in accordance with the provisions of Section 3 hereof.â Accordingly, Section 10 provides that amnesty taxpayers who willfully understate their net worth shall be (a) liable for perjury under the Revised Penal Code; and (b) subject to immediate tax fraud investigation in order to collect all taxes due and to criminally prosecute those found to have willfully evaded lawful taxes due.
+Nevertheless, in this case we note that the OSG has already indicated
+[27]
+ that the CIR had not filed a case relative to the tax amnesty application of CS Garment, from the time the documents were filed in March 2008. Neither did the OSG mention that a third party had initiated proceedings challenging the declared amount of net worth of the amnesty taxpayer within the one-year period.
+Taxpayers with pending tax cases are still 
+qualified to avail themselves of the tax 
+amnesty program.
+  
+With respect to its last assertion, the OSG quotes the following guidelines under BIR RMC 19-2008 to establish that CS Garment is disqualified from availing itself of the tax amnesty program:
+[28]
+A BASIC GUIDE ON THE TAX AMNESTY ACT OF 2007  
+The following is a basic guide for taxpayers who wish to avail of tax amnesty pursuant of Republic Act No. 9480 (Tax Amnesty Act of 2007).
+Who may avail of the amnesty?
+x x x x
+EXCEPT:
+ 
+ 
+X
+ 
+Withholding agents with respect to their withholding tax liabilities
+ 
+ 
+ 
+X
+ 
+Those with pending cases:
+ 
+ 
+ 
+ 
+      
+Under the jurisdiction of the PCGG       
+Involving violations of the Anti-Graft and Corrupt Practices Act            
+Involving violations of the Anti-Money Laundering Law       
+For tax evasion and other criminal offenses under the NIRC and/or the RPC
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X
+ 
+ 
+Issues and cases which were ruled by any court (even without finality) in favor of the BIR prior to amnesty availment of the taxpayer. (e.g. Taxpayers who have failed to observe or follow BOI and/or PEZA rules on entitlement to Income Tax Holiday Incentives and other incentives)
+ 
+ 
+ 
+X
+ 
+Cases involving issues ruled with finality by the Supreme Court prior to the effectivity of R.A. 9480 (e.g. DST on Special Savings Account)
+ 
+ 
+ 
+X
+ 
+ 
+Taxes passed-on and collected from customers for remittance to the BIR
+ 
+ 
+ 
+X
+ 
+Delinquent Accounts/Accounts Receivable considered as assets of the BIR/Government, including self-assessed tax (Emphasis supplied)
+ 
+ 
+To resolve the matter, we refer to the basic text of the Tax Amnesty Law and its implementing rules and regulations, 
+viz
+:
+Republic Act No. 9480
+SECTION 8. 
+Exceptions.
+ â The tax amnesty provided in Section 5 hereof shall not extend to the following persons or cases existing as of the effectivity of this Act:
+x x x x
+(f)  
+Tax cases subject of final and executory judgment by the courts.
+DOF Order No. 29-07: Rules and Regulations to Implement R.A. 9480
+SECTION 5. 
+Exceptions
+. â The tax amnesty shall not extend to the following persons or cases existing as of the effectivity of R.A. 9480:
+x x x x
+7.  
+Tax cases subject of final and executory judgment by the courts
+. (Emphases supplied)
+We cull from the aforementioned provisions that neither the law nor the implementing rules state that a court ruling that has not attained finality would preclude the availment of the benefits of the Tax Amnesty Law. Both R.A. 9480 and DOF Order No. 29-07 are quite precise in declaring that â[t]ax cases 
+subject of final and executory judgment 
+by the courtsâ are the ones excepted from the benefits of the law. In fact, we have already pointed out the erroneous interpretation of the law in 
+Philippine Banking Corporation (Now: Global Business Bank, Inc.) v. Commissioner of Internal Revenue, viz
+:
+The BIRâs 
+inclusion of âissues and cases which were ruled by any court (even without finality) in favor of the BIR prior to amnesty availment of the taxpayerâ as one of the exceptions in RMC 19-2008 is misplaced
+. RA 9480 is specifically clear that the exceptions to the tax amnesty program include "tax cases 
+subject of final and executory judgment
+ by the courts." The present case has not become final and executory when Metrobank availed of the tax amnesty program.
+[29]
+ (Emphasis supplied)
+While tax amnesty, similar to a tax exemption, must be  construed strictly against the taxpayer and liberally in favor of the taxing authority,
+[30]
+ it is also a well-settled doctrine
+[31]
+ that the rule-making power of administrative agencies cannot be extended to amend or expand statutory requirements or to embrace matters not originally encompassed by the law. Administrative regulations should always be in accord with the provisions of the statute they seek to carry into effect, and any resulting inconsistency shall be resolved in favor of the basic law. We thus definitively declare that the exception â[i]ssues and cases which were ruled by any court (even without finality) in favor of the BIR prior to amnesty availment of the taxpayerâ under BIR RMC 19-2008 is invalid, as the exception goes beyond the scope of the provisions of the 2007 Tax Amnesty Law.
+[32]
+Considering the completion of the aforementioned requirements, we find that petitioner has successfully availed itself of the tax amnesty benefits granted under the Tax Amnesty Law. Therefore, we no longer see any need to further discuss the issue of the deficiency tax assessments. CS Garment is now deemed to have been absolved of its obligations and is already immune from the payment of taxes â including the assessed deficiency in the payment of VAT, DST, and income tax as affirmed by the CTA 
+en banc
+ â as well as of the additions thereto (
+e.g.
+, interests and surcharges). Furthermore, the tax amnesty benefits include immunity from âthe appurtenant civil, criminal, or administrative penalties under the NIRC of 1997, as amended, arising from the failure to pay any and all internal revenue taxes for taxable year 2005 and prior years.â
+[33]
+WHEREFORE
+, the instant Petition for Review is 
+GRANTED
+. The 14 January 2008 Decision and 2 April 2008 Resolution of the Court of Tax Appeals 
+en banc
+ in CTA EB Case No. 287 is hereby 
+SET ASIDE
+, and the remaining assessments for deficiency taxes for taxable year 1998 are hereby 
+CANCELLED
+ solely in the light of the availment by CS Garment, Inc. of the tax amnesty program under Republic Act No. 9480.
+SO ORDERED.
+Leonardo-De Castro, Bersamin, Villarama, Jr., 
+and
+ Reyes, JJ.
+, concur.
+*
+ The case title indicated in the petition filed with this Court was followed. According to petitioner, its corporate name under its Articles of Incorporation is âCS Garment, Inc.â and not âCS Garments, Inc.,â as previously referred to in the proceedings before the Court of Tax Appeals. See Petition for Review at 1, f.n. 1 (filed on 23 May 2008), 
+rollo 
+at 10.
+[1]
+ 
+CS Garments, Inc. v. Commissioner of Internal Revenue
+, EB Case No. 287 (CTA en banc, 14 January 2008), slip op., rollo at 40-62 (hereinafter CTA en banc Decision).
+[2]
+ 
+CS Garments, Inc. v. Commissioner of Internal Revenue,
+ EB Case No. 287 (CTA en banc, 2 April 2008), slip op., 
+rollo
+ at 37-39 (hereinafter CTA 
+en banc 
+Resolution). Both the Decision and the Resolution of the CTA en banc were penned by CTA Associate Justice Caesar A. Casanova and concurred in by Justices Ernesto D. Acosta, Juanito C. CastaÃ±eda, Jr., Lovell R. Bautista, Erlinda P. Uy, and Olga Palanca-Enriquez.
+[3]
+ 
+CS Garments, Inc. v. Commissioner of Internal Revenue
+, CTA Case No. 6520 (CTA 2nd Div., 4 January 2007), slip op., 
+rollo
+ at 63-94 (hereinafter CTA 2nd Div. Decision).
+[4]
+ 
+CS Garments, Inc. v. Commissioner of Internal Revenue
+, CTA Case No. 6520 (CTA 2nd Div., 25 May 2007), slip op.,
+ rollo
+ at 95-97 (hereinafter CTA Sec.2nd Div. Resolution). Both the Decision and the Resolution of the CTA Second Division were penned by CTA Associate Justice Juanito C. CastaÃ±eda, Jr. and concurred in by Justices Erlinda P. Uy and Olga Palanca-Enriquez.
+[5]
+ CTA 
+en banc 
+Decision, supra note 1, at 2-5, 
+rollo
+ at 41-44.
+[6]
+ Annexes A to E of CS Garmentâs Manifestation and Motion dated 25 September 2008,
+ rollo 
+at 171-175.
+[7]
+ Comment (on Petitionerâs Manifestation and Motion dated September 25, 2008) of the OSG (filed on 26 January 2009),
+ rollo
+ at 212-220.
+[8]
+ Order dated 8 February 2010, 
+rollo
+ at 229-230.
+[9]
+ Order dated 17 July 2013, 
+rollo
+ at 321-323.
+[10]
+ To clarify, an order to âmove in the premises,â which is a term of art employed in this Court, simply means that the parties are obliged to inform the Court of pertinent developments that may help in the immediate disposition of the case. See 
+Oliveras v. Lopez,
+ G.R. No. L-29727, 14 December 1988, 168 SCRA 431.
+[11]
+ 
+Rollo
+ at 324-352.
+[12]
+ Id. at 366-374.
+[13]
+ Compliance (filed on 29 November 2013) at 2, 
+rollo
+ at 367.
+[14]
+ 
+Metropolitan Bank and Trust Co. v. Commissioner of Internal Revenue, 
+G.R. No. 178797, 4 August 2009, 595 SCRA 234; and 
+Philippine Banking Corporation (Now: Global Business Bank, Inc.) v. Commissioner of Internal Revenue,
+ G.R. No. 170574, 30 January 2009, 577 SCRA 366.
+[15]
+ Id.
+[16]
+ R.A. 9480, Sec. 1.
+[17]
+ BIR Revenue Memorandum Circular (RMC) No. 19-2008, 22 February 2008.
+[18]
+ 
+See
+ R.A. 9480, Sec. 2; Department of Finance Department Order No. (DOF D.O.) 29-07, Rule II, Sec. 6(1) (Implementing Rules and Regulations of R.A. 9480); BIR RMC No. 19-2008, 22 February 2008; and BIR RMC NO. 69-2007, 5 November 2007.
+[19]
+ R.A. 9480, Sec. 5 provides: 
+Grant of Tax Amnesty.
+ â Except for the persons or cases covered in Section 8 hereof, any person, whether natural or juridical, 
+may avail himself of the benefits of tax amnesty under this Act, and pay the amnesty tax due thereon, based on his networth as of December 31, 2005 as declared in the SALN
+ as of said period, 
+in accordance with the following schedule of amnesty tax rates and minimum amnesty tax payments
+ required: x x x x
+[20]
+ DOF D.O. 29-07, Rule II, Sec. 6(2)(c); BIR RMC No. 19-2008, 22 February 2008.
+[21]
+ DOF D.O. 29-07, Rule II, Sec. 6(2)(c). See R.A. 9480, Sec. 6.
+[22]
+ DOF D.O. 29-07, Rule II, Sec. 6(3); R.A. 9480, Secs. 2 & 7; and BIR RMC NO. 69-2007, 5 November 2007.
+[23]
+ 
+See
+ R.A. 9480, Sec. 2; DOF D.O. 29-07, Rule II, Sec. 6(1); BIR RMC No. 19-2008, 22 February 2008; and BIR RMC NO. 69-2007, 5 November 2007.
+[24]
+ DOF D.O. 29-07, Rule II, Sec. 6(3).
+[25]
+ DOF D.O. 29-07, Rule II, Sec. 6(3); 
+Philippine Banking Corporation v. Commissioner of Internal Revenue,
+ supra note 14. See R.A. 9480, Sec. 2 in relation to Sec. 6.
+[26]
+ Compliance (filed on 29 November 2013) at 2, 
+rollo
+ at 367.
+[27]
+ Compliance (filed on 29 November 2013) at 2, 
+rollo 
+at 367.
+[28]
+ BIR RMC 19-2008, 22 February 2008.
+[29]
+ Supra note 14.
+[30]
+ 
+Metropolitan Bank and Trust Co. v. Commissioner of Internal Revenue
+, G.R. No. 178797, 4 August 2009, 595 SCRA 234 (citing Philippine Banking Corporation, supra note 14).
+[31]
+ 
+People v. Maceren,
+ G.R. No. L-32166, 18 October 1977, 79 SCRA 450 (citing 
+Calalang v. Williams,
+ 70 Phil. 726 [1940]; 
+People v. Rosenthal,
+ 68 Phil. 328 [1939]; 
+U.S. v. Tupasi Molina
+, 29 Phil. 119 [1914]; 
+Santos v. Estenzo
+, 109 Phil. 419 [1960]; 
+Teoxon v. Members of the Board of Administrators, 
+G.R. No. L-25619, 30 June 1970, 33 SCRA 585; 
+Manuel v. General Auditing Office, 
+G.R. No. L-28952, 29 December 1971, 42 SCRA 660;
+ Deluao v. Casteel
+, G.R. No. L-21906, 29 August 1969, 29 SCRA 350; 
+University of Santo Tomas v. Board of Tax Appeals, 
+93 Phil. 376 [1953]; 
+El Colector de Rentas Internas v. Villaflor,
+ 69 Phil. 319 [1940];
+ Wise & Co. v. Meer,
+ 78 Phil. 655 [1947]; and 
+Del Mar v. Phil. Veterans Administration, 
+G.R. No. L-27299, 27 June 1973, 51 SCRA 340); 
+Land Bank of the Philippines v. Court of Appeals
+, G.R. Nos. 118712 and 118745, 05 July 1996, 258 SCRA 404 (citing
+ Shell Philippines, Inc. v. Central Bank of the Philippines, 
+162 SCRA 628 [1988]; 
+Philippine Petroleum Corporation v. Municipality of Pililla
+, 198 SCRA 82 [1991]; and 
+Tayug Rural Bank v. Central Bank
+, 146 SCRA 120 [1986]).
+[32]
+ In 
+Philippine Banking Corporation 
+(supra note 14), we ruled that the BIR was âmisplacedâ in including in RMC 19-2008 as one of the exceptions those âissues and cases which were ruled by any court (even without finality) in favor of the BIR prior to amnesty availment of the taxpayer.â Since in that case the bank availed itself of the tax amnesty program before the judgment against it had become âfinal and executory,â we resolved to set aside the CTA Decision; see also 
+Metropolitan Bank and Trust Co. v. Commissioner of Internal Revenue,
+ G.R. No. 178797, 4 August 2009, 595 SCRA 234.
+[33]
+ R.A. 9480, Sec. 6(a).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

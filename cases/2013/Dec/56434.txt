@@ -1,0 +1,1502 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			723 Phil. 160
+			
+
+
+
+
+EN BANC
+
+
+[ G.R. No. 192803, December 10, 2013 ]
+
+
+ALLIANCE FOR RURAL AND AGRARIAN RECONSTRUCTION, INC., ALSO KNOWN AS ARARO PARTY-LIST, PETITIONER, VS. COMMISSION ON ELECTIONS, RESPONDENT.
+DECISION
+
+
+
+
+LEONEN, J.:
+
+
+It is beyond human expectations that we charge voters with knowledge as to which among the many party-list groups listed in the ballot they are presented with during election day is disqualified. To do so will amount to their disenfranchisement and the failure to comply with the proportionality for party-list representatives required by the Constitution and by law.
+We are asked to decide the Petition for Review on 
+Certiorari
+ filed by a party-list group that ran for the 2010 national elections. The petitioner questions the validity of the formula used by the Commission on Elections in determining and proclaiming the winning party-list groups.
+[1]
+We rule that the Petition is moot and academic. However, we provide guidance for the bench and the bar with respect to the formula used in determining the winning party-list groups. We refine the divisor in the formula used in getting the percentage of votes garnered by a party-list.
+The facts as established on record are as follows:
+Petitioner, Alliance for Rural and Agrarian Reconstruction, Inc., (ARARO) was a duly accredited party-list under Republic Act No. 7941.
+[2]
+ It garnered a total of one hundred forty-seven thousand two hundred four (147,204) votes in the May 10, 2010 elections and ranked fiftieth (50th).
+[3]
+ The Commission on Elections 
+En Banc
+ sitting as the National Board of Canvassers initially proclaimed twenty-eight (28) party-list organizations as winners involving a total of thirty-five (35) seats guaranteed and additional seats.
+[4]
+ The result was based on the Commission on Electionsâ count of one hundred twenty-one (121) Certificates of Canvass or a total of twenty-nine million seven hundred fifty thousand and forty-one (29,750,041) votes for the Party-List System.
+[5]
+The winning party-list groups were the following:
+[6]
+ 
+PARTY
+NUMBER OF SEATS
+1
+COALITION OF ASSOCIATIONS OF SENIOR CITIZENS OF THE PHILIPPINES, INC.
+2
+2
+AKBAYAN! CITIZENâS ACTION PARTY
+2
+3
+GABRIELA WOMENâS PARTY
+2
+4
+COOPERATIVE NATCCO NETWORK PARTY
+2
+5
+ABONO
+2
+6
+BAYAN MUNA
+2
+7
+AN WARAY
+2
+8
+AGRICULTURAL SECTOR ALLIANCE SECTOR OF THE PHILIPPINES, INC.
+1
+9
+ALLIANCE FOR BARANGAY CONCERNS PARTY
+1
+10
+ANAKPAWIS
+1
+11
+KABATAAN PARTYLIST
+1
+12
+ABANTE MINDANAO, INC.
+1
+13
+ACT TEACHERS
+1
+14
+YOU AGAINST CORRUPTION AND POVERTY
+1
+15
+KASANGGA SA KAUNLARAN, INC.
+1
+16
+BAGONG HENERASYON
+1
+17
+ANG GALING PINOY
+1
+18
+AGBIAG! TIMPUYOG ILOCANO, INC.
+1
+19
+PUWERSA NG BAYANing ATLETA
+1
+20
+ARTS BUSINESS AND SCIENCE PROFESSIONALS
+1
+21
+TRADE UNION CONGRESS PARTY
+1
+22
+ALYANSA NG MGA GRUPONG HALIGI NG AGHAM AT TEKNOLOHIYA PARA SA MAMAMAYAN, INC.
+1
+23
+DEMOCRATIC INDEPENDENT WORKERSâ ASSOCIATION, INC.
+1
+24
+KAPATIRAN NG MGA NAKULONG NA WALANG SALA
+1
+25
+KALINGA-ADVOCACY FOR SOCIAL EMPOWERMENT AND NATION BUILDING THROUGH EASING POVERTY, INC.
+1
+26
+ALAGAD PARTY-LIST
+1
+27
+UNA ANG PAMILYA FORMERLY ALLIANCE OF NEO-CONSERVATIVES
+1
+28
+ALLIANCE OF VOLUNTEER EDUCATORS
+1
+ 
+TOTAL SEATS
+35
+Petitioner then filed an election protest before the House of Representatives Electoral Tribunal questioning the Resolution of the Commission on Elections that proclaimed the 28 party-list groups listed above.
+[7]
+Without waiting for the resolution of the House of Representatives Electoral Tribunal, the petitioner filed the present Petition for Review on 
+Certiorari
+ with Prayer for Preliminary Injunction and Temporary Restraining Order.
+[8]
+ The petitioner asks that this Court:
+modify the Commission on Electionsâ interpretation of the formula stated in 
+BANAT v. COMELEC
+[9]
+ by making the divisor for the computation of the percentage votes, from total number of votes cast minus the votes for the disqualified party-list candidates, to the total number of votes cast regardless whether party-list groups are disqualified;
+enjoin the public respondent Commission on Elections from proclaiming the remaining winning party-list candidates until it modifies the interpretation of the formula used in 
+BANAT v. COMELEC
+ to the formula proposed by the petitioner; and
+issue a Temporary Restraining Order against the public respondent until it modifies the present formula for computing the number of seats for the winning party-list candidates to the formula proposed by the petitioner.
+[10]
+This Court did not issue any Temporary Restraining Order.
+[11]
+By Resolution, the National Board of Canvassers proclaimed the winning party-list groups with the following computation:
+[12]
+WHEREAS
+, as of May 17, 2010, the projected/maximum total party-list votes cannot go any higher than 
+thirty million two hundred sixty[-]four thousand five hundred seventy[-] nine (30,264,579)
+ given the following statistical data:
+DESCRIPTION
+REGISTERED VOTERS
+Total party-list votes already canvassed/tabulated
+29,750,041
+Less: Votes garnered by the eight (8) disqualified parties
+308,335
+Total party-list votes already canvassed/tabulated after deducting votes of the eight (8) disqualified parties
+29,441,706
+Add:   Party-list votes still uncanvassed
+Lanao del Sur
+515,488
+Local Absentee Voting
+19,071
+Overseas Absentee Voting
+9,299
+Due to lowering of threshold
+92,740
+Precincts reporting Final Testing and Sealing results
+186,275
+Maximum Total Party-List Votes
+30,264,579
+WHEREAS
+, since there are two hundred twenty-nine (229) legislative districts, the total number of party-list seats available for the May 10, 2010 automated national and local elections is fifty-seven (57) based on the following formula: number of legislative districts/0.80 x 0.20;
+WHEREAS
+, the provision of Section 11 of Republic Act No. 7941 provides, in part, that:
+â(b) The parties, organizations, and coalitions receiving at least two percent (2%) of the total votes cast for the party-list system shall be entitled to one seat each: Provided, That those garnering more than two [sic] (2%) of the votes shall be entitled to additional seats in proportion to their total number of votes: Provided, finally, That each party, organization or coalitions shall be entitled to not more than three (3) seats.â
+WHEREAS
+, applying the formula in the case of 
+Barangay Association for National Advancement and Transparency (BANAT) v. Commission on Elections
+, and [sic] 
+Bayan Muna, Advocacy for Teacher Empowerment, Cooperation and Harmony Towards Educational Reforms, Inc., and Abono [v.] Commission on Elections
+, the ranking of the participating parties, organizations and coalitions from highest to lowest based on the number of votes garnered as of May 17, 2010, and the seats that may be obtained by each party to complete the allocation of the available 57 party-list seats, are shown below:
+[13]
+RANK
+PARTY
+VOTES GARNERED
+VOTES GARNERED OVER TOTAL VOTES FOR PARTY LIST, in %
+ 
+(A)
+GUARANTEED SEAT
+      
+First Round
+      
+(B)
+ADDITIONAL SEATS
+      
+Second Round
+      
+(C)
+(B) plus (C), in whole integers
+      
+ 
+(D)
+1
+AKO BICOL POLITICAL PARTY
+1,522,986
+5.0322%
+1
+2.26
+3
+2
+COALITION OF ASSOCIATIONS OF SENIOR CITIZENS OF THE PHILIPPINES, INC.
+1,292,182
+4.2696%
+1
+1.92
+2
+3
+BUHAY HAYAAN YUMABONG
+1,249,555
+4.1288%
+1
+1.85
+2
+4
+AKBAYAN! CITIZEN'S ACTION PARTY
+1,058,691
+3.4981%
+1
+1.57
+2
+5
+GABRIELA WOMENâS PARTY
+1,001,421
+3.3089%
+1
+1.48
+2
+6
+COOPERATIVE NATCCO NETWORK PARTY
+943,529
+3.1176%
+1
+1.40
+2
+7
+1ST CONSUMERS ALLIANCE FOR RURAL ENERGY
+768,829
+2.5404%
+1
+1.14
+2
+8
+ABONO
+766,615
+2.5330%
+1
+1.13
+2
+9
+BAYAN MUNA
+746,019
+2.4650%
+1
+1.10
+2
+10
+AN WARAY
+711,631
+2.3514%
+1
+1.05
+2
+11
+CITIZEN'S BATTLE AGAINST CORRUPTION
+647,483
+2.1394%
+1
+0.96
+1
+12
+ADVOCACY FOR TEACHER EMPOWERMENT THROUGH ACTION COOPERATION AND HARMONY TOWARDS EDUCATIONAL REFORMS
+614,725
+2.0312%
+1
+0.91
+1
+13
+AGRICULTURAL SECTOR ALLIANCE SECTOR OF THE PHILIPPINES, INC.
+515,501
+1.7033%
+0
+1
+1
+14
+BUTIL FARMERS PARTY
+506,703
+1.6742%
+0
+1
+1
+15
+ALLIANCE FOR BARANGAY CONCERNS PARTY
+469,093
+1.5500%
+0
+1
+1
+16
+ANAKPAWIS
+445,628
+1.4724%
+0
+1
+1
+17
+KABATAAN PARTYLIST
+417,923
+1.3809%
+0
+1
+1
+18
+LPG MARKETERS ASSOCIATION, INC.
+417,600
+1.3798%
+0
+1
+1
+19
+ABANTE MINDANAO, INC.
+376,011
+1.2424%
+0
+1
+1
+20
+ACT TEACHERS
+369,564
+1.2211%
+0
+1
+1
+21
+ANG ASOSASYON SANG MANGUNGUMA NGA BISAYA-OWA MANGUNGUMA, INC.
+357,009
+1.1796%
+0
+1
+1
+22
+YOU AGAINST CORRUPTION AND POVERTY
+335,635
+1.1090%
+0
+1
+1
+23
+ASSOCIATION OF PHILIPPINE ELECTRIC COOPERATIVES
+313,359
+1.0354%
+0
+1
+1
+24
+KASANGGA SA KAUNLARAN, INC.
+296,368
+0.9793%
+0
+1
+1
+25
+BAGONG HENERASYON
+292,875
+0.9677%
+0
+1
+1
+26
+ALLIANCE FOR NATIONALISM AND DEMOCRACY
+292,057
+0.9650%
+0
+1
+1
+27
+ANG GALING PINOY
+269,009
+0.8889%
+0
+1
+1
+28
+AGBIAG! TIMBUYOG ILOCANO, INC.
+262,298
+0.8667%
+0
+1
+1
+29
+PUWERSA NG BAYANING ATLETA
+258,498
+0.8541%
+0
+1
+1
+30
+ARTS BUSINESS AND SCIENCE PROFESSIONALS
+257,301
+0.8502%
+0
+1
+1
+31
+TRADE UNION CONGRESS PARTY
+244,623
+0.8083%
+0
+1
+1
+32
+ALYANSA NG MGA GRUPONG HALIGI NG AGHAM AT TEKNOLOHIYA PARA SA MAMAMAYAN, INC.
+241,898
+0.7993%
+0
+1
+1
+33
+DEMOCRATIC INDEPENDENT WORKERS' ASSOCIATION, INC.
+238,675
+0.7886%
+0
+1
+1
+34
+KAPATIRAN NG MGA NAKULONG NA WALANG SALA
+234,717
+0.7756%
+0
+1
+1
+35
+KALINGA-ADVOCACY FOR SOCIAL EMPOWERMENT AND NATION BUILDING THROUGH EASING POVERTY, INC.
+229,198
+0.7573%
+0
+1
+1
+36
+ALAGAD PARTY-LIST
+227,116
+0.7504%
+0
+1
+1
+37
+1-UNITED TRANSPORT KOALISYON
+220,002
+0.7269%
+0
+1
+1
+38
+UNA ANG PAMILYA FORMERLY ALLIANCE OF NEO-CONSERVATIVES
+217,032
+0.7171%
+0
+1
+1
+39
+ALLIANCE OF VOLUNTEER EDUCATORS
+214,760
+0.7096%
+0
+1
+1
+40
+AANGAT TAYO
+176,074
+0.5818%
+0
+1
+1
+41
+ADHIKAING TINATAGUYOD NG KOOPERATIBA
+173,711
+0.5740%
+0
+1
+1
+42
+ANG LABAN NG INDIGONG FILIPINO
+170,304
+0.5627%
+0
+1
+1
+43
+ASSOCIATION OF LABORERS AND EMPLOYEES
+167,654
+0.5540%
+0
+1
+1
+44
+KASOSYO PRODUCER-CONSUMER EXCHANGE ASSOCIATION, INC.
+166,432
+0.5499%
+0
+1
+1
+45
+ALAY BUHAY COMMUNITY DEVELOPMENT FOUNDATION, INC.
+163,164
+0.5391%
+0
+1
+1
+46
+AKSYON MAGSASAKA PARTIDO TINIG NG MASA
+161,674
+0.5342%
+0
+1
+1
+47
+KATIPUNAN NG MGA ANAK NG BAYAN ALL FILIPINO DEMOCRATIC MOVEMENT
+160,745
+0.5311%
+0
+0
+0
+48
+ANAK MINDANAO
+157,733
+0.5212%
+0
+0
+0
+49
+VETERANS FREEDOM PARTY
+154,183
+0.5095%
+0
+0
+0
+50
+ALLIANCE FOR RURAL RECONSTRUCTION, INC.
+147,204
+0.4864%
+0
+0
+0
+51
+ATONG PAGLAOM
+145,435
+0.4805%
+0
+0
+0
+52
+PILIPINO ASSOCIATION FOR COUNTRY-URBAN POOR YOUTH ADVANCEMENT AND WELFARE
+143,151
+0.4730%
+0
+0
+0
+53
+ABANTE TRIBUNG MAKABANSA
+142,013
+0.4692%
+0
+0
+0
+54
+ANGAT ATING KABUHAYAN PILIPINAS, INC.
+141,780
+0.4685%
+0
+0
+0
+55
+PARTIDO NG MANGGAGAWA
+140,000
+0.4626%
+0
+0
+0
+56
+ALYANSANG BAYANIHAN NG MGA MAGSASAKA, MANGGAGAWANG-BUKID AT MANGINGISDA
+137,842
+0.4555%
+0
+0
+0
+57
+ALLIANCE TRANSPORT SECTOR
+136,710
+0.4517%
+0
+0
+0
+58
+KAUNLARAN NG AGRIKULTURA ASENSADONG PROBINSYA ANGAT NG BAYAN
+130,270
+0.4304%
+0
+0
+0
+59
+BARANGAY NATIN
+126,462
+0.4179%
+0
+0
+0
+60
+1-AKO BABAENG ASTIG AASENSO
+120,734
+0.3989%
+0
+0
+0
+61
+1GUARDIANS NATIONALIST OF THE PHILIPPINES, INC.
+120,727
+0.3989%
+0
+0
+0
+62
+BABAE PARA SA KAUNLARAN
+117,299
+0.3876%
+0
+0
+0
+63
+BAGONG BAYAN NAGTATAGUYOD SA DEMOKRATIKONG IDEOLOHIYA AT LAYUNIN
+115,428
+0.3814%
+0
+0
+0
+64
+AHON PINOY
+115,197
+0.3806%
+0
+0
+0
+65
+ACTION FOR DYNAMIC DEVELOPMENT, INC.
+115,058
+0.3802%
+0
+0
+0
+66
+KATRIBU INDIGINOUS PEOPLES SECTORAL PARTY
+114,891
+0.3796%
+0
+0
+0
+67
+ANG LADLAD LBGT PARTY
+113,187
+0.3740%
+0
+0
+0
+68
+CONFEDERATION OF NON-STOCK SAVINGS AND LOAN ASSOCIATIONS, INC.
+110,759
+0.3660%
+0
+0
+0
+69
+KABALIKAT NG MGA MAMAMAYAN
+109,739
+0.3626%
+0
+0
+0
+70
+ONE ADVOCACY FOR HEALTH, PROGRESS AND OPPORTUNITY
+109,682
+0.3624%
+0
+0
+0
+71
+BINHI; PARTIDO NG MGA MAGSASAKA PARA SA MGA MAGSASAKA
+108,005
+0.3569%
+0
+0
+0
+72
+1-AANI
+107,970
+0.3568%
+0
+0
+0
+73
+AKAP BATA, INC.
+107,154
+0.3541%
+0
+0
+0
+74
+ANG ASOSASYON NG MGA TRABAHADOR AT PAHINANTE
+107,135
+0.3540%
+0
+0
+0
+75
+AGILA NG MGA KATUTUBONG PILIPINO, INC.
+105,009
+0.3470%
+0
+0
+0
+The petitioner suggests that the formula used by the Commission on Elections is flawed because votes that were spoiled or that were not made for any party-lists were not counted. According to the petitioner, around seven million (7,000,000) votes were disregarded as a result of the Commission on Electionsâ erroneous interpretation. The figure presented by petitioner resulted from the following computations:
+[14]
+ 
+37,377,371 
+(Number of voters who 
+actually voted
+ LESS votes for disqualified party lists)
+less
+30,264,579 
+(Number of votes for party-list candidates LESS number of votes for disqualified party-list candidates)
+ 
+7,112,792
+ 
+(Total number of disregarded votes according to petitioner ARARO)
+First, the total number of votes for disqualified party-lists is deducted from the total number of voters that 
+actually voted
+. The total number of votes for disqualified party-list groups is three hundred eight thousand three hundred thirty-five (308,335).
+[15]
+ The total number of voters that 
+actually voted
+ is thirty-seven million six hundred eighty-five thousand seven hundred six (37,685,706).
+[16]
+ After subtracting the amounts, the result is thirty-seven million three hundred seventy-seven thousand three hundred seventy-one (37,377,371) votes.
+Second, the number of votes for disqualified party-list groups is again deducted from the number of votes for party-list candidates which the petitioner pegged at thirty million five hundred seventy-two thousand nine hundred fourteen votes (30,572,914).
+[17]
+ The difference then is thirty million two hundred sixty-four thousand five hundred seventy-nine (30,264,579) votes.
+Lastly, to get the total number of votes disregarded by the Commission on Electionsâ interpretation, 30,264,579 is subtracted from 37,377,371. The computation then results to seven million one hundred twelve thousand seven hundred ninety-two 
+(7,112,792)
+ votes disregarded using the Commission on Electionsâ interpretation.
+On the other hand, the formula used by the Commission on Elections 
+En Banc
+ sitting as the National Board of Canvassers is the following:
+Number of seats available to legislative districts
+x .20 =
+Number of seats available to party-list representatives
+.80
+Thus, the total number of party-list seats available for the May 2010 elections is 57 as shown below:
+229
+x .20 =
+57
+ 
+.80
+The National Board of Canvassersâ Resolution No. 10-009 applies the formula used in 
+Barangay Association for National Advancement and Transparency (BANAT) v. COMELEC
+[18]
+ to arrive at the winning party-list groups and their guaranteed seats, where:
+Number of votes of party-list
+ =
+Proportion or Percentage of votes garnered by party-list
+ Total number of votes for party-list candidates
+ 
+The 
+Proportion or Percentage of votes garnered by party-list
+ should be greater than or equal to 2% or 0.02 to entitle a party-list candidate to one (1) seat in the first round. There will be a second round if the total number of guaranteed seats awarded in the first round is less than the total number of party-list seats available. Thus:
+Total number of party-list seats available
+-
+Number of seats allocated in first round
+x
+Proportion or Percentage of votes garnered by party-list
+=
+Additional seats awarded
+If the total seats available for party-lists are not yet awarded after the second round (this is computed by getting the sum of the seats awarded in the first round and the additional seats awarded in the second round), the next in the party-list ranking will be given one (1) seat each until all seats are fully distributed. A three-seat cap per party-list, however, is imposed on winning groups. Fractional seats are not rounded off and are disregarded.
+The petitioner argues that the Commission on Electionsâ interpretation of the formula used in 
+BANAT v. COMELEC
+ is flawed because it is not in accordance with the law.
+[19]
+ The petitioner distinguishes the phrases, 
+valid votes cast 
+for party-list 
+candidates
+ on the one hand as against 
+votes cast 
+for the 
+party-list system
+ on the other.
+The petitioner puts in issue the interpretation of Sections 11 and 12 of Republic Act No. 7941 or âAn Act Providing for the Election of Party-List Representatives Through the Party-List System, and Appropriating Funds Therefor.â The sections provide the guidelines in allocating seats to party-list representatives:
+Section 11. 
+Number of Party-List Representatives
+. The party-list representatives shall constitute twenty per centum (20%) of the total number of the members of the House of Representatives including those under the party-list.
+For purposes of the May 1998 elections, the first five (5) major political parties on the basis of party representation in the House of Representatives at the start of the Tenth Congress of the Philippines shall not be entitled to participate in the party-list system.
+In determining the allocation of seats for the second vote, the following procedure shall be observed:
+(a) The parties, organizations, and coalitions shall be ranked from the highest to the lowest based on the number of votes they garnered during the elections.
+(b) The parties, organizations, and coalitions receiving at least two percent (2%) of 
+the total votes cast for the party-list system
+ shall be entitled to one seat each: Provided, That those garnering more than two percent (2%) of the votes shall be entitled to additional seats in proportion to their total number of votes: Provided, finally, That each party, organization, or coalition shall be entitled to not more than three (3) seats.
+Section 12. 
+Procedure in Allocating Seats for Party-List Representatives
+. The COMELEC shall tally all the votes for the parties, organizations, or coalitions on a nationwide basis, rank them according to the number of votes received and allocate party-list representatives proportionately according to the percentage of votes obtained by each party, organization, or coalition as against the 
+total nationwide votes cast for the party-list system
+. (Emphasis provided)
+The petitioner argues that the correct interpretation of the provisions of Republic Act No. 7941 or the Party-list Law does not distinguish between valid and invalid votes, to wit:
+Therefore, votes for specific party lists are not the same as votes for the party-list system. Hence, people whose votes were spoiled for instance (like checking or failure to properly shade the ovals in the ballots, or voted for two party lists when the requirement is only one, or had erasures on their ballots for instance), or did not vote for any party-list at all 
+are still voters for the party-list system
+. The votes for the party-list system 
+[include] all those people who voted whether their votes were counted or not
+ as long as the mechanism for the selection of party-list is in place.
+[20]
+ (Emphasis provided)
+In its November 12, 2010 Comment,
+[21]
+ the Commission on Elections through the Office of the Solicitor General took the position that invalid or stray votes should not be counted in determining the divisor. The Commission on Elections argues that this will contradict 
+Citizensâ Battle Against Corruption (CIBAC) v. COMELEC
+[22]
+ and 
+Barangay Association for National Advancement and Transparency (BANAT) v. COMELEC.
+[23]
+ It asserts that:
+Neither can the phrase be construed to include the number of voters who did not even vote for any qualified party-list candidate, as these voters cannot be considered to have cast any vote âfor the party-list system.â
+[24]
+The issues in this case are as follows:
+Whether the case is already moot and academic
+Whether petitioners have legal standing
+Whether the Commission on Elections committed grave abuse of discretion in its interpretation of the formula used in 
+BANAT v. COMELEC
+[25]
+ to determine the party-list groups that would be proclaimed in the 2010 elections
+The third issue requires our determination of the computation of the correct divisor to be used. The options are:
+All votes cast for the party-list system less the votes cast for subsequently disqualified party-list groups and votes declared spoiled
+The total votes cast
+The total number of valid votes cast for the party-list system including votes cast for party-list groups listed in the ballot even if subsequently declared disqualified. The divisor should not include votes that are declared spoiled or invalid.
+We decide as follows:
+I
+This case is moot and academic.
+Mendoza v. Villas
+[26]
+ defines a moot and academic case:
+A moot and academic case is one that ceases to present a justiciable controversy by virtue of supervening events, so that a declaration thereon would be of no practical value. As a rule, courts decline jurisdiction over such case, or dismiss it on ground of mootness.
+[27]
+Several supervening events have already rendered this case moot and academic. First, the Commission on Elections 
+En Banc
+ already proclaimed other winning party-list groups.
+[28]
+ Second, the term of office of the winning party-list groups in the May 2010 national elections ended on June 30, 2013. Finally, the conduct of the May 13, 2013 elections resulted in a new set of party-list groups.
+We held that the expiration of the challenged term of office renders the corresponding Petition moot and academic.
+[29]
+ This leaves any ruling on the issues raised by the petitioner with no practical or useful value.
+[30]
+However, the following exceptions to the rule of declining jurisdiction over moot and academic cases are allowed: (1) there was a grave violation of the Constitution; (2) the case involved a situation of exceptional character and was of paramount public interest; (3) the issues raised required the formulation of controlling principles to guide the Bench, the Bar and the public; and (4) the case was capable of repetition yet evading review.
+[31]
+ On the importance of the assailed formula, this Court will discuss the issues raised by the petitioner as these are capable of repetition yet evading review
+[32]
+ and for the guidance of the bench, bar, and public.
+[33]
+II
+The petitioner is not the real party in interest
+âA real party in interest is the party who stands to be benefited or injured by the judgement in the suit, or the party entitled to the avails of the suit.â
+[34]
+ The partyâs interest must be direct, substantial, and material.
+[35]
+ In this case, the petitioner attacks the validity of the formula used and upheld in 
+BANAT
+. It also proposes its own interpretation of the formula to determine the proportional representation of party-list candidates in the House of Representatives. However despite any new computation, ARAROâs proposed divisor of total votes cast for the party-list system whether valid or invalid still fails to secure one seat for ARARO. Reviewing the figures presented by the petitioner:
+[36]
+ 
+With Divisor of total valid votes cast for party-list system minus votes cast for disqualified party-lists or invalid votes
+ 
+(30,264,579)
+With Divisor of votes cast for the party-list system as proposed by ARARO 
+(37,377,371)
+Votes garnered
+147,204
+147,204
+Votes garnered over total votes cast for party-lists (%)
+0.4864
+0.3939 
+Guaranteed Seat
+0
+0
+This table clearly shows that the petitioner does not suffer a direct, substantial or material injury from the application of the formula interpreted and used in 
+BANAT
+ in proclaiming the winning party-lists in the assailed National Board of Canvassers Resolution. The computation proposed by petitioner ARARO even lowers its chances to meet the 2% threshold required by law for a guaranteed seat. Its arguments will neither benefit nor injure the party. Thus, it has no legal standing to raise the argument in this Court.
+III
+However, we review the interpretation of the formula used for the determination of wining party-list candidates with respect to the divisor used for the guidance of bench and bar and for future elections.
+The textual references for determining the formula to be used are found in the Constitution and the statute interpreting the relevant provisions.
+Article VI, Section 5, paragraphs 1 and 2 of the 1987 Constitution provide the following:
+1. The House of Representatives shall be composed of not more than two hundred and fifty members, unless otherwise fixed by law, who shall be elected from legislative districts apportioned among the provinces, cities, and the Metropolitan Manila area in accordance with the number of their respective inhabitants, and on the basis of a uniform and progressive ratio, and those who, as provided by law, shall be elected through a party-list system of registered national, regional, and sectoral parties or organizations.
+2. The party-list representatives shall constitute twenty per centum of the total number of representatives including those under the party list. For three consecutive terms after the ratification of this Constitution, one-half of the seats allocated to party-list representatives shall be filled, as provided by law, by selection or election from the labor, peasant, urban poor, indigenous cultural communities, women, youth, and such other sectors as may be provided by law, except the religious sector.
+Sections 11 and 12 of Republic Act No. 7941, thus, provide:
+Section 11. 
+Number of Party-List Representatives
+. The party-list representatives shall constitute twenty per centum (20%) of the total number of the members of the House of Representatives including those under the party-list.
+For purposes of the May 1998 elections, the first five (5) major political parties on the basis of party representation in the House of Representatives at the start of the Tenth Congress of the Philippines shall not be entitled to participate in the party-list system.
+In determining the allocation of seats for the second vote, the following procedure shall be observed:
+(a) The parties, organizations, and coalitions shall be ranked from the highest to the lowest based on the number of votes they garnered during the elections.
+(b) The parties, organizations, and coalitions receiving at least two percent (2%) of the 
+total votes cast for the party-list system
+ shall be entitled to one seat each: Provided, That those garnering more than two percent (2%) of the votes shall be entitled to additional seats in proportion to their total number of votes: Provided, finally, That each party, organization, or coalition shall be entitled to not more than three (3) seats.
+Section 12. 
+Procedure in Allocating Seats for Party-List Representatives
+. The COMELEC shall tally all the votes for the parties, organizations, or coalitions on a nationwide basis, rank them according to the number of votes received and allocate party-list representatives proportionately according to the percentage of votes obtained by each party, organization, or coalition as against the 
+total nationwide votes cast for the party-list system
+. (Emphasis provided)
+In 
+Veterans
+ Federation Party v. Commission on Elections
+,
+[37]
+ we reversed the Commission on Electionsâ ruling that the respondent parties, coalitions, and organizations were each entitled to a party-list seat despite their failure to reach the 2% threshold in the 1998 party-list election. 
+Veterans
+ also stated that the 20% requirement in the Constitution is merely a ceiling.
+Veterans
+ laid down the âfour inviolable parametersâ in determining the winners in a Philippine-style party-list election based on a reading of the Constitution and Republic Act No. 7941:
+First
+, 
+the twenty percent allocation
+ - the combined number of 
+all
+ party-list congressmen shall not exceed twenty percent of the total membership of the House of Representatives, including those elected under the party list.
+Second
+, 
+the two percent threshold
+ - only those parties garnering a minimum of two percent of the 
+total valid votes cast for the party-list system
+ are âqualifiedâ to have a seat in the House of Representatives.
+Third
+, 
+the three-seat limit
+ - each qualified party, regardless of the number of votes it actually obtained, is entitled to a maximum of three seats; that is, one âqualifyingâ and two additional seats.
+Fourth
+, 
+proportional representation
+ - the additional seats which a qualified party is entitled to shall be computed âin proportion to their total number of votes.â
+[38]
+ (Emphasis provided)
+In 
+Partido ng Manggagawa (PM) and Butil Farmers Party (Butil) v. COMELEC,
+[39]
+ the petitioning party-list groups sought the immediate proclamation by the Commission on Elections of their respective second nominee, claiming that they were entitled to one (1) additional seat each in the House of Representatives. We held that the correct formula to be used is the one used in 
+Veterans
+ and reiterated it in 
+Ang Bagong Bayani
+ â 
+OFW Labor Party v. COMELEC
+.
+[40]
+ This Court in 
+CIBAC v. COMELEC
+[41]
+ differentiates the formula used in I>A
+but upholds the validity of the 
+Veterans
+ formula.
+In 
+BANAT v. COMELEC
+,
+[42]
+ we declared the 2% threshold in relation to the distribution of the additional seats as void. We said in that case that:
+x x x The two percent threshold presents an unwarranted obstacle to the full implementation of Section 5(2), Article VI of the Constitution and prevents the attainment of âthe broadest possible representation of party, sectoral or group interests in the House of Representatives.â (Republic Act No. 7941, Section 2)
+x x x x
+x x x There are two steps in the second round of seat allocation. 
+First
+, the percentage is multiplied by the remaining available seats, 38, which is the difference between the 55 maximum seats reserved under the Party-List System and the 17 guaranteed seats of the two-percenters. The whole integer of the product of the percentage and of the remaining available seats corresponds to a partyâs share in the remaining available seats. 
+Second
+, we assign one party-list seat to each of the parties next in rank until all available seats are completely distributed. We distributed all of the remaining 38 seats in the second round of seat allocation. 
+Finally
+, we apply the three-seat cap to determine the number of seats each qualified party-list candidate is entitled.
+[43]
+The most recent 
+Atong Paglaum v. COMELEC
+[44]
+ does not in any way modify the formula set in 
+Veterans
+. It only corrects the definition of valid party-list groups. We affirmed that party-list groups may be national, regional, and sectoral parties or organizations. We abandoned the requirement introduced in 
+Ang Bagong Bayani
+ that all party-list groups should prove that they represent a âmarginalizedâ or âunder-representedâ sector.
+Proportional representation is provided in Section 2 of Republic Act No. 7941.
+[45]
+ 
+BANAT
+ overturned 
+Veterans
+â interpretation of the phrase 
+in proportion to their total number of votes
+. We clarified that the interpretation that only those that obtained at least 2% of the votes may get additional seats will not result in proportional representation because it will make it impossible for the party-list seats to be filled completely. As demonstrated in BANAT, the 20% share may never be filled if the 2% threshold is maintained.
+The divisor, thus, helps to determine the correct percentage of representation of party-list groups as intended by the law. This is part of the 
+index of proportionality
+ of the representation of a party-list to the House of Representatives.
+[46]
+ It measures the relation between the share of the total seats and the share of the total votes of the party-list.
+[47]
+ In 
+Veterans
+, where the 20% requirement in the Constitution was treated only as a ceiling, the mandate for proportional representation was not achieved, and thus, was held void by this Court.
+The petitioner now argues that the votes of all the registered voters who actually voted in the May 2010 elections should be included in the computation of the divisor whether valid or invalid.
+[48]
+ According to the petitioner, 
+votes cast for the party-list candidates
+ is not the same as the 
+votes cast under or for the party-list system
+. Specifically, it said that:
+The party list system is not just for the specific party lists as provided in the ballot, but pertains to the system of selection of the party list to be part of the House of Representatives.
+[49]
+The petitioner claims that there should be no distinction in law between 
+valid
+ and 
+invalid
+ votes. Invalid votes include those votes that were made for disqualified party-list groups, votes that were spoiled due to improper shading, erasures in the ballots, and even those that did not vote for any party-list candidate at all.
+[50]
+ All of the votes should be included in the divisor to determine the 2% threshold.
+We agree with the petitioner but only to the extent that votes later on determined to be invalid due to no cause attributable to the voter should not be excluded in the divisor. In other words, votes cast validly for a party-list group listed in the ballot but later on disqualified should be counted as part of the divisor. To do otherwise would be to disenfranchise the voters who voted on the basis of good faith that that ballot contained all the qualified candidates. However, following this rationale, party-list groups listed in the ballot but whose disqualification attained finality prior to the elections and whose disqualification was reasonably made known by the Commission on Elections to the voters prior to such elections should not be included in the divisor.
+Not all votes cast in the elections should be included in the divisor. Contrary to the argument of the petitioner, Section 11(b) of Republic Act No. 7941 is clear that only those votes cast 
+for the party-list system
+ shall be considered in the computation of the percentage of representation:
+(b) The parties, organizations, and coalitions receiving at least two percent (2%) of the 
+total votes cast for the party-list system
+ shall be entitled to one seat each: Provided, That those garnering more than two percent (2%) of the votes shall be entitled to additional seats in proportion to their total number of votes: Provided, finally, That each party, organization, or coalition shall be entitled to not more than three (3) seats. (Emphasis provided)
+The total votes cast do not include invalid votes. The 
+invalid votes
+, for the determination of the denominator, may be votes that were spoiled or votes that resulted from the following: improper shading or having no shade at all;
+[51]
+ existence of stray or ambiguous marks;
+[52]
+ tears in the ballot; and/or ballots rejected by the Precinct Count Optical Scan (PCOS) machines under the paper-based
+[53]
+ automated election system. All these are causes that nullify the count for that vote that can be attributable to the voterâs action.
+Votes cast for the party-list system should, however, include all votes cast for party-list groups contained in the ballot even if subsequently they are disqualified by the Commission on Elections or by our courts. Thus, the content of the divisor in the formula to determine the seat allocation for the party-list component of the House of Representatives should be amended accordingly.
+We qualify that the divisor to be used in interpreting the formula used in BANAT is the 
+total votes cast for the party-list system. This should not include the invalid votes.
+ However, so as not to disenfranchise a substantial portion of the electorate, 
+total votes cast for the party-list system
+ should mean 
+all the votes validly cast for all the candidates listed in the ballot
+. The voter relies on the ballot when making his or her choices.
+To the voter, the listing of candidates in the official ballot represents the extent of his or her choices for an electoral exercise. He or she is entitled to the expectation that these names have properly been vetted by the Commission on Elections. Therefore, he or she is also by right entitled to the expectation that his or her choice based on the listed names in the ballot will be counted.
+In 
+Reyes v. COMELEC
+[54]
+ as cited in 
+Loreto v. Brion
+,
+[55]
+ this Court said âthat the votes cast for the disqualified candidate are presumed to have been cast in the belief that he is qualified.â
+[56]
+ Therefore, the votes cast for disqualified candidates are presumed to be made with a sincere belief that the votersâ choices were qualified candidates and that they were without any intention to misapply their franchise.
+[57]
+ Their votes may not be treated as stray, void or meaningless
+[58]
+ for purposes of the divisor in the party-list elections. Assuming 
+arguendo
+ that petitions for 
+certiorari
+ do not stay the execution of the judgment or final order or resolution sought to be reviewed,
+[59]
+ the finality of the disqualification of a candidate should not be a means for the disenfranchisement of the votes cast for the party-list system.
+Section 10 of the Party-list Law should thus be read in conjunction with the intention of the law as seen in Section 2, to wit:
+Sec. 2. Declaration of Policy. - The State shall promote proportional representation in the election of representatives to the House of Representatives through a party-list system of registered national, regional and sectoral parties or organizations or coalitions thereof, which will enable Filipino citizens belonging to the marginalized and underrepresented sectors, organizations and parties, and who lack well-defined political constituencies but who could contribute to the formulation and enactment of appropriate legislation that will benefit the nation as a whole, to become members of the House of Representatives. 
+Towards this end, the State shall develop and guarantee a full, free and open party system in order to attain the broadest possible representation of party, sectoral or group interests in the House of Representatives by enhancing their chances to compete for and win seats in the legislature, and shall provide the simplest scheme possible.
+ (Emphasis provided)
+Section 10 of Republic Act No. 7941, which governs party-list elections, states that votes cast for a party-list ânot entitled to be voted for shall not be counted.â It does not specify any reckoning period of the finding of disqualification or cancellation of registration for the validity or the invalidity of votes unlike that in Section 72 of the Omnibus Election Code, as amended by Section 6, Republic Act No. 6646.
+[60]
+ Taking Sections 2 and 10 together, this Court must consider the intention of the law and the nature of Philippine style party-list elections. Party-list groups provide for a different and special representation in Congress. To disregard votes of party-list groups disqualified after the conduct of the elections means the disenfranchisement of thousands, if not hundreds of thousands of votes, of the Filipino people. Definitely, it is not the voterâs fault that the party-list group in the ballot it votes for will be subsequently disqualified. The voter should not be penalized.
+The counting of votes for party-list groups in the ballot but subsequently declared as disqualified is, thus, corollary to the âfundamental tenet of representative democracy that the people should be allowed to choose whom they please to govern them.â
+[61]
+ It is also part of the right of suffrage, and the lawâs intention to ensure a more representative Congress should be given priority.
+Therefore, the divisor should now include all votes cast for party-list groups that are subsequently disqualified for so long as they were presented as a choice to the electorate.
+If his or her vote is not counted as part of the divisor, then this would amount to a disenfranchisement of a basic constitutional right to be able to choose representatives of the House of Representatives in two ways. First, his or her vote will be nullified. Second, he or she will be deprived of choosing another party-list group to represent his or her interest should the party listed in the ballot be declared disqualified.
+However, there are instances when the Commission on Elections include the name of the party-list group in the ballot but such group is disqualified with finality prior to the elections. In applying and interpreting the provisions of Section 6 of Republic Act No. 6646, we said in 
+Cayat v. Commission on Elections
+[62]
+ that votes cast in favor of a candidate âdisqualified with finalityâ should be considered stray and not be counted. 
+To be consistent, the party-list group in the ballot that has been disqualified with finality and whose final disqualification was made known to the electorate by the Commission on Elections should also not be included in the divisor
+. This is to accord weight to the disqualification as well as accord respect to the inherent right of suffrage of the voters.
+Thus, the formula to determine the proportion garnered by the party- list group would now henceforth be:
+Number of votes of party-list
+=
+Proportion or Percentage of votes garnered by party-list
+----------------------------------------------------
+Total number of valid votes for party-list candidates
+The total votes cast for the party-list system include those votes made for party-list groups indicated in the ballot regardless of the pendency of their motions for reconsideration or petitions before any tribunal in relation to their cancellation or disqualification cases. However, votes made for those party-list groups whose disqualification attained finality prior to the elections should be excluded if the electorate is notified of the finality of their disqualification by the Commission on Elections. The divisor also shall not include invalid votes.
+WHEREFORE
+ from the above discussion:
+The prayer to enjoin the Commission on Elections from proclaiming the qualified party-list groups is denied for 
+being moot and academic
+;
+The formula in determining the winning party-list groups, as used and interpreted in the case of 
+BANAT v. COMELEC
+, is 
+MODIFIED
+ as follows:
+Number of votes of party-list
+=
+Proportion or Percentage of votes garnered by party-list
+----------------------------------------------------
+Total number of valid votes for party-list candidates
+The divisor shall be the total number of valid votes cast for the party-list system including votes cast for party-list groups whose names are in the ballot but are subsequently disqualified. Party-list groups listed in the ballot but whose disqualification attained finality prior to the elections and whose disqualification was reasonably made known by the Commission on Elections to the voters prior to such elections should not be included in the divisor. The divisor shall also not include votes that are declared spoiled or invalid.
+The refined formula shall apply prospectively to succeeding party-list elections from the date of finality of this case.
+SO ORDERED.
+Sereno, C.J., Carpio, Leonardo-De Castro, Brion, Peralta, Bersamin, Del Castillo, Abad, Villarama, Jr., Perez, Mendoza, Reyes
+, and 
+Perlas-Bernabe, JJ.
+, concur.
+Velasco, Jr.
+, see concurring opinion.
+[1]
+ 
+Barangay Association for National Advancement and Transparency (BANAT) v. COMELEC
+, G.R. No. 179271, April 21, 2009, 586 SCRA 210.
+[2]
+ Republic Act No. 7941 known as An Act Providing for the Election of Party-List Representatives Through the Party-List System, and Appropriating Funds Therefor.
+[3]
+ 
+Rollo
+, p. 27.
+[4]
+ Id. at 35.
+[5]
+ Id. at 23.
+[6]
+ Id. at 35-36.
+[7]
+ Id. at 4 and 64.
+[8]
+ Id. at 3-22. This Petition was filed on July 26, 2010 under Rule 65 of the Rules of Court.
+[9]
+ Petitioner also refers to this as the â
+Carpio formula
+.â
+[10]
+ 
+Rollo
+, p. 19.
+[11]
+ Id. at 83. On January 8, 2013, this Court resolved to deny the prayer for a Temporary Restraining Order of the petitioner.
+[12]
+ Id. at 24.
+[13]
+ Id. at 24-28. Only the first 75 groups were reproduced in this Decision.
+[14]
+ Id. at 9.
+[15]
+ See National Board of Canvassers Resolution No. 10-009, 
+rollo
+, p. 23.
+[16]
+ See National Canvass Report No. 8, Annex B of Petition, 
+rollo
+, p. 37.
+[17]
+ 
+Rollo
+, p. 9.
+[18]
+ G.R. No. 179271 and G.R. No. 179295, April 21, 2009, 586 SCRA 210.
+In determining the allocation of seats for party-list representatives under Section 11 of Republic Act No. 7941, the following procedure shall be observed:
+1. The parties, organizations, and coalitions shall be ranked from the highest to the lowest based on the number of votes they garnered during the elections.
+2. The parties, organizations, and coalitions receiving at least two percent (2%) of the total votes cast for the party-list system shall be entitled to one guaranteed seat each.
+3. Those garnering sufficient number of votes, according to the ranking in paragraph 1, shall be entitled to additional seats in proportion to their total number of votes until all the additional seats are allocated.
+4. Each party, organization, or coalition shall be entitled to not more than three (3) seats.
+[19]
+ 
+Rollo
+, p. 8.
+[20]
+ Id. at 10-11.
+[21]
+ Id. at 62-73.
+[22]
+ 549 Phil. 767 (2007).
+[23]
+ 
+Barangay Association for National Advancement and Transparency (BANAT) v. COMELEC
+, supra note 1.
+[24]
+ 
+Rollo
+, pp. 69-70.
+[25]
+ Petitioners also call this the âCarpio formula.â
+[26]
+ G.R. No. 187256, February 23, 2011, 644 SCRA 347.
+[27]
+ Id. at 356-357 
+citing Gunsi, Sr. v. Commissioners, The Commission on Elections
+, G.R. No. 168792, February 23, 2009, 580 SCRA 70, 76.
+[28]
+ The Commission on Elections 
+En Banc
+, sitting as the National Board of Canvassers, proclaimed the remaining party-list groups in NBC Resolution No. 10-025 dated July 12, 2010; NBC Resolution No. 10-030 dated July 27, 2010; NBC Resolution No. 10-033 dated July 30, 2010; NBC Resolution No. 10-034 dated July 30, 2010; NBC Resolution No. 10-048 dated September 1, 2010; NBC Resolution No. 10-049 dated September 1, 2010; NBC Resolution No. 10-054 dated September 21, 2010; NBC Resolution No. 10-055 dated September 23, 2010; NBC Resolution No. 10-057 dated September 24, 2010; NBC Resolution No. 10-059 dated October 7, 2010; and NBC Resolution 10-069 dated December 8, 2010.
+[29]
+ 
+ABAKADA Guro Partylist, et al., v. Dela Cruz, et al
+, G.R. No. 191583, April 17, 2012 
+citing Malaluan v. COMELEC
+, 324 Phil. 676, 683 (1996); 
+Sales v. Commission on Elections
+, G.R. No. 174668, September 12, 2007, 533 SCRA 173; and 
+Baldo, Jr. v. Commission on Elections
+, G.R. No. 176135, June 16, 2009, 589 SCRA 306, 311.
+[30]
+ 
+QuiÃ±o, et al., v. Commission on Elections
+, G.R. No. 197466, November 13, 2012, 685 SCRA 371; 
+See Enrile v. Senate Electoral Tribunal
+, G.R. No. 132986, May 19, 2004 and 
+Gancho-on v. Secretary of Labor and Employment
+, 337 Phil. 654 (1997). 
+See also Gunsi, Sr. v. Commissioners, The Commission on Elections
+, G.R. No. 168792, February 23, 2009, 580 SCRA 70, 76. 
+[31]
+ 
+Funa v. Acting Secretary of Justice Agra
+, G.R. No. 191644, February 19, 2013, 691 SCRA 196, 209.
+[32]
+ 
+Alunan III v. Mirasol
+, G.R. No. 108399, July 31, 1997, 276 SCRA 501, 509 
+citing Southern Pacific Terminal Co. v. ICC
+, 219 U.S. 498, 55 L. Ed. 310 (1911).
+[33]
+ 
+Chavez v. Public Estates Authority
+, G.R. No. 133250, July 9, 2002, 384 SCRA 152; 
+Salonga v. Hon. PaÃ±o
+, 219 Phil. 402 (1985); 
+De la Camara v. Hon. Enage
+, 148-B, Phil. 502 (1971).
+[34]
+ RULES OF COURT, Rule 3, Sec. 2. 
+See Stronghold Insurance Company, Inc. v. Cuenca
+, G.R. No. 173297, March 6, 2013, 692 SCRA 473.
+[35]
+ 
+See Sumalo Homeowners Association of Hermosa, Bataan v. Litton
+, 532 Phil. 86 (2006).
+[36]
+ 
+Rollo
+, pp. 14 and 16.
+[37]
+ G.R. No. 136781, October 6, 2000, 342 SCRA 244.
+[38]
+ Id. at 255.
+[39]
+ 519 Phil. 644 (2006).
+[40]
+ 412 Phil. 308 (2001).
+[41]
+ 
+Citizensâ Battle Against Corruption (CIBAC) v. COMELEC
+, supra note 22.
+[42]
+ 
+Barangay Association for National Advancement and Transparency (BANAT) v. COMELEC
+, supra note 1, at 243-244.
+[43]
+ Id. at 243-244.
+[44]
+ G.R. No. 203766, April 2, 2013.
+[45]
+ Thus, âthe State shall promote 
+proportional representation
+ in the election of representatives to the House of Representatives through a party-list system of registered national, regional and sectoral parties or organizations or coalitions thereof.â
+[46]
+ F. P. Muga II, 
+On the Seat Allocation Method of the Party-List System in the Philippines
+, LOYOLA SCHOOLS REVIEW (Vol. 4, 2005).
+[47]
+ Id.
+[48]
+ 
+Rollo
+, p. 76.
+[49]
+ Id. at 10.
+[50]
+ Id at 10-11.
+[51]
+ See Section 6, par. (h) of Commission on Elections Resolution No. 9164, âIn The Matter Of Reinstating And Reimplementing COMELEC Resolution No. 8804 With Amendments,â March 16, 2011, âSTRAY BALLOTS refer to ballots with two or more shades or without any shade in the contested position.â
+[52]
+ Id. âMARKED BALLOTS refer to those ballots containing marks outside the ovals, which marks could either be identifying marks or voting marks. Voting marks are markings placed beside the ovals that may appear to show the intent of the voter to vote for a party, while identifying marks are those intentionally placed to identify the ballot or the voter.â
+[53]
+ Republic Act No. 9369, Sec. 2, (7), January 23, 2007, âAn Act Amending Republic Act No. 8436, Entitled "An Act Authorizing the Commission on Elections to Use an Automated Election System in the May 11, 1998 National or Local Elections and in Subsequent National and Local Electoral Exercises, to Encourage Transparency, Credibility, Fairness and Accuracy of Elections, Amending for the Purpose Batas Pambansa Blg. 881, as Amended, Republic Act No. 7166 and Other Related Elections Laws, Providing Funds Therefor and for Other Purposes"
+[54]
+ 324 Phil 813 (1996).
+[55]
+ 370 Phil. 727 (1999).
+[56]
+ Id. at 734 
+citing Reyes v. COMELEC
+, G.R. No. 120905, March 7, 1996, 254 SCRA 514.
+[57]
+ 
+See Kare v. Commission on Elections
+, G.R. No. 157526, April 28, 2004, 428 SCRA 264. See also 
+Domino v. Commission on Elections
+, G.R. No. 134015. July 19, 1999, 310 SCRA 546, as cited in 
+Bautista vs. Commission on Elections
+, G.R. Nos. 154796-97. October 23, 2003, 414 SCRA 299. In 
+Domino v. Commission on Elections
+, p. 575, this Court said that âpetitioner was not notoriously known by the public as an ineligible candidate. Although the resolution declaring him ineligible as candidate was rendered before the election, however, the same is not yet final and executory. In fact, it was no less than the COMELEC in its Supplemental Omnibus Resolution No. 3046 that allowed DOMINO to be voted for the office and ordered that the votes cast for him be counted as the Resolution declaring him ineligible has not yet attained finality. Thus, the votes cast for DOMINO are presumed to have been cast in the sincere belief that he was a qualified candidate, without any intention to misapply their franchise. Thus, said votes can not be treated as stray, void, or meaningless.â
+[58]
+ 
+Kare v. Commission on Elections
+, supra.
+[59]
+ RULES OF COURT, Rule 65, Sec. 8.
+[60]
+ Section 6. Effect of Disqualification Case. - Any candidate who has been declared by final judgment to be disqualified shall not be voted for, and the votes cast for him shall not be counted. If for any reason a candidate is not declared by final judgment before an election to be disqualified and he is voted for and receives the winning number of votes in such election, the Court or Commission shall continue with the trial and hearing of the action, inquiry, or protest and, upon motion of the complainant or any intervenor, may during the pendency thereof order the suspension of the proclamation of such candidate whenever the evidence of his guilt is strong.
+[61]
+ 
+See Borja v. Commision on Elections
+, 356 Phil. 467, 475 (1998) 
+citing U.S. Term Limits, Inc. v. Thornton
+, 514 U.S. 779, 131 L. Ed. 2d 881 (1995): In resolving whether a vice-mayor who succeeds to the office of mayor by operation of law and serves the remainder of the term is considered to have served a term in that office for the purpose of the three-term limit, the Court held that it is not enough that an individual has 
+served
+ three consecutive terms in an elective local office, he must also have been 
+elected
+ to the same position for the same number of times before the disqualification can apply; 
+See also
+ J. Carpioâs Dissenting Opinion, 
+Kida v. Senate of the Philippines
+, G.R. No. 196271, October 18, 2011, 659 SCRA 270.
+[62]
+ 
+Cayat v. Commission on Elections
+, G.R. No. 163776. April 24, 2007, 522 SCRA 23; 550 Phil. 209 (2007). This case involves the cancellation of the certificate of candidacy of Rev. Fr. Nardo B. Cayat as mayoralty candidate of Buguias, Benguet in the May 10, 2004 local elections. We said in this case that Section 6 of Rep. Act No. 6646 covers two situations. One situation is when the disqualification becomes final before the elections and the other situation is when the disqualification becomes final after the elections. Petitioner Cayatâs case falls under the first situation wherein a candidate disqualified by final judgment before an election cannot be voted for, and votes cast for him shall be considered stray and not counted. The Court held that the Resolution disqualifying petitioner Cayat became final on April 17, 2004, or way before the May 10, 2004 elections due to the non-payment of the required filing fee for the Motion for Reconsideration.
+CONCURRING AND DISSENTING OPINION
+VELASCO, JR., J.:
+The sole issue in the present case revolves around the application of the phrase âtotal votes cast for the party-list systemâ in Republic Act No. (RA) 7941, otherwise known as the âParty-List System Act.â
+Petitioner is of the position that the phrase refers to the total number of voters who actually voted less the number of votes for party list organizations (PLOs) disqualified before the actual elections. In other words, petitioner maintains that âvotes that were spoiled or were not made for any party listâ as well as votes cast in favor of PLOs disqualified after the actual elections must be counted in determining the âtotal votes cast for the party-list system.â Respondent, on the other hand, maintains otherwise arguing that only âvalid votesâ and votes cast in favor of PLOs not otherwise declared disqualified should be included in the âtotal votes cast for the part-list system.â
+The issue is of particular significance as its resolution determines the proper divisor of the formula applied in 
+BANAT v. COMELEC
+[1]
+ to determine a PLOâs percentage of votes garnered and thus its entitlement to a seat or two in congress. It is, therefore, of utmost relevance that the present petition is given the proper consideration by this Court.
+I agree that the divisor representing the âtotal votes cast for the party-list systemâ should include valid votes cast for PLOs disqualified with finality after the day of elections but not PLOs disqualified with finality before the day of elections.
+Whether preceded by the adverb âunder,â used in Section 6 of RA 7941, or the preposition âfor,â used in Sections 11 and 12 of RA 7941, the âparty-list systemâ still refers to a mechanism of proportional representation in the election of representatives from ânational, regional and sectoral parties or organizations or coalitions thereof 
+registered
+ with the Commission on Elections.â
+[2]
+ It is, therefore, necessary for the inclusion of the votes in the âtotal votes cast for the party-list systemâ that the PLO voted for is qualified, i.e., registered with the COMELEC, on the day of the elections. Thus, when the vote is in favor of a PLO that had been removed or cancelled under Section 6 of RA 7941 and thus disqualified with finality before the election, the vote can only be considered âstray votesâ and therefore invalid; it cannot be considered as a valid vote or included in the âtotal votes cast for the party-list system.â
+Section 72 of the Omnibus Election Code, as amended by Section 6 of RA 6646, clearly provides for the effect of a disqualification on a candidate before the day of elections, which under the party-list system is a PLO:
+Sec. 6. Effect of Disqualification Case. - 
+Any candidate who has been declared by final judgment to be disqualified shall not be voted for, and the votes cast for him shall not be counted.
+ If for any reason a candidate is not declared by final judgment before an election to be disqualified and he is voted for and receives the winning number of votes in such election, the Court or Commission shall continue with the trial and hearing of the action, inquiry, or protest and, upon motion of the complainant or any intervenor, may during the pendency thereof order the suspension of the proclamation of such candidate whenever the evidence of his guilt is strong. (Emphasis supplied.)
+In 
+Cayat v. COMELEC
+,
+[3]
+ this Court declared as âstrayâ the votes cast in favor of a candidate disqualified with finality 
+before
+ the election even if his name remained in the ballot. We held, thus:
+The law expressly declares that a candidate disqualified by final judgment before an election cannot be voted for, and votes cast for him shall not be counted. This is a mandatory provision of law. Section 6 of Republic Act No. 6646, The Electoral Reforms Law of 1987, states:
+Sec. 6. Effect of Disqualification Case.â Any candidate who has been declared by final judgment to be disqualified shall not be voted for, and the votes cast for him shall not be counted. If for any reason a candidate is not declared by final judgment before an election to be disqualified and he is voted for and receives the winning number of votes in such election, the Court or Commission shall continue with the trial and hearing of the action, inquiry, or protest and, upon motion of the complainant or any intervenor, may during the pendency thereof order the suspension of the proclamation of such candidate whenever the evidence of his guilt is strong. (Emphasis added)
+Section 6 of the Electoral Reforms Law of 1987 covers two situations. The first is when the disqualification becomes final before the elections, which is the situation covered in the first sentence of Section 6. The second is when the disqualification becomes final after the elections, which is the situation covered in the second sentence of Section 6.
+The present case falls under the first situation. Section 6 of the Electoral Reforms Law governing the first situation is categorical: 
+a candidate disqualified by final judgment before an election cannot be voted for, and votes cast for him shall not be counted
+. The Resolution disqualifying Cayat became final on 17 April 2004, way before the 10 May 2004 elections. Therefore, all the 8,164 
+votes cast in Cayatâs favor are stray
+. Cayat was never a candidate in the 10 May 2004 elections. Palilengâs proclamation is proper because he was the sole and only candidate, second to none.
+x x x x
+To allow a candidate disqualified by final judgment 23 days before the elections to be voted for and have his votes counted is a blatant violation of a mandatory provision of the election law. It creates confusion in the results of the elections and invites needless new litigations from a candidate whose disqualification had long become final before the elections. The doctrine on the rejection of the second placer was never meant to apply to a situation where a candidateâs disqualification had become final before the elections.
+Of particular importance is this Courtâs June 25, 2003 Resolution in 
+Ang Bagong Bayani-OFW Labor Party v. COMELEC
+,
+[4]
+ where We emphasized the relevance of Section 10 of RA 7941, which states that âa vote cast for a party, sectoral organization, or coalition not entitled to be voted for shall not be counted x x x.â This Court held that the âtotal votes cast for the party-list systemâ include only the votes cast for PLOs 
+qualified
+ to be voted on the day of election, viz:
+Legal Effect of the Disqualifications on the âTotal Votes Castâ
+â¦.. The critical question now is this: To determine the âtotal votes cast for the party-list system,â should the votes tallied for the disqualified candidates be deducted? Otherwise stated, does the clause âtotal votes cast for the party-list systemâ include only those ballots cast for 
+qualified
+ party-list candidates?
+To answer this question, there is a need to review related jurisprudence on the matter, especially 
+Labo v. Comelec
+ and 
+Grego v. Comelec
+, which were mentioned in our February 18, 2003 Resolution.
+Labo and Grego 
+Not Applicable
+In 
+Labo
+, the Court declared that âthe ineligibility of a candidate receiving majority votes does not entitle the eligible candidate receiving the next highest number of votes to be declared elected. A minority or defeated candidate cannot be deemed elected to the office.â In other words, the votes cast for an ineligible or disqualified candidate cannot be considered âstray.â
+However, âthis rule would be different if the electorate, fully aware in fact and in law of a candidateâs disqualification so as to bring such awareness within the realm of notoriety, would nonetheless cast their votes in favor of the ineligible candidate. In such case, the electorate may be said to have waived the validity and efficacy of their votes by notoriously misapplying their franchise or throwing away their votes, in which case, the eligible candidate obtaining the next higher number of votes may be deemed elected.â In short, the votes cast for a ânotoriously disqualifiedâ candidate may be considered âstrayâ and excluded from the canvass.
+The foregoing pronouncement was reiterated in 
+Grego
+, which held that the exception mentioned in 
+Labo v. Comelec
+ âis predicated on the concurrence of two assumptions, namely: (1) the one who obtained the highest number of votes is disqualified; and (2) the electorate is fully aware in fact and in law of a candidateâs disqualification so as to bring such awareness within the realm of notoriety but would nonetheless cast their votes in favor of the ineligible candidate.â
+Note, however, that the foregoing pronouncements (1) referred to regular elections for local offices and (2) involved the interpretation of Section 6 of RA 6646. They were not meant to cover party-list elections, which are specifically governed by RA 7941. 
+Section 10 of this latter law clearly provides that the votes cast for a party, a sectoral organization or a coalition â
+not entitled to be voted for shall not be counted
+â:
+âSEC. 10. 
+Manner of Voting
+. â Every voter shall be entitled to two (2) votes: the first vote is a vote for candidate for membership of the House of Representatives in his legislative district, and the second, a vote for the party, organization, or coalition he wants represented in the House of Representatives: 
+Provided
+, That a vote cast for a party, sectoral organization, or coalition not entitled to be voted for shall not be counted:
+ 
+Provided, finally
+, That the first election under the party-list system shall be held in May 1998.â (Emphasis supplied)
+The language of the law is clear; hence, there is room, not for interpretation, but merely for application. Likewise, no recourse to extrinsic aids is warranted when the language of the law is plain and unambiguous.
+Another reason for not applying 
+Labo
+ and 
+Grego
+ is that these cases involve single elective posts, while the present controversy pertains to the acquisition of a number of congressional seats depending on the total election results â such that even those garnering second, third, fourth or lesser places could be proclaimed winners depending on their compliance with other requirements.
+RA 7941 is a special statute governing the elections of party-list representatives and is the controlling law in matters pertaining thereto.
+ Since 
+Labo
+ and Section 6 of RA 6646 came into being prior to the enactment of RA 7941, the latter is a qualification of the former ruling and law. On the other hand, 
+Grego
+ and other related cases that came after the enactment of RA 7941 should be construed as inapplicable to the latter.
+Subtracting the votes garnered by these disqualified party-list groups from the total votes cast under the party-list system will reduce the base figure to 6,523,185. This means that the two-percent threshold can be more easily attained by the 
+qualified
+ marginalized and under-represented groups. Hence, 
+disregarding the votes of disqualified party-list participants will increase and broaden the number of representatives from these sectors. Doing so will further concretize and give flesh to the policy declaration in RA 7941
+, which we reproduce thus:
+âSEC. 2. 
+Declaration of Policy
+. â The State shall promote proportional representation in the election of representation in the election of representatives to the House of Representatives through a party-list system of registered, national and sectoral parties or organizations or coalitions thereof, which will enable Filipino citizens belonging to marginalized and underrepresented sectors, organizations and parties, and who lack well-defined political constituencies but who could contribute to the enactment of appropriate legislation that will benefit the nation as a whole, to become members of the House of Representatives. Towards this end, the State shall develop and guarantee a full, free and open party system in order to attain the broadest possible representation of party, sectoral or group interests in the House of Representatives by enhancing their chances to compete for and win seats in the legislature, and shall provide the simplest scheme possible.â
+It is therefore in keeping with both the spirit and language of the law on the party-list system that the votes cast in favor of PLOs disqualified with finality 
+before
+ the day of the election be considered invalid and not included in the computation of the âtotal votes cast for the party-list system.â
+On this note, We must consider the fact of final disqualification of the PLO before the day of election as enough to consider the votes cast in favor of the disqualified PLO as stray votes. The proviso stated in the 
+ponencia
+ that the âdisqualification [must be] reasonably made known by the [COMELEC] to the voters prior to such electionsâ
+[5]
+ is without legal basis and only serves to weaken Our ruling in 
+Cayat
+.
+To rule that the votes cast in favor of PLOs disqualified with finality prior to the elections are to be excluded from the divisor only âif the electorate is notified of the finality of their disqualificationâ
+[6]
+ places the exclusion of these votes on the notoriety of the disqualification of these PLOs. Clearly, this contravenes our ruling in 
+Cayat
+ and similar cases where this Court refused to apply the presumption that the voters remained in the belief that the disqualified PLO is qualified.
+The obscurity of the final disqualification of these PLOs before the day of elections cannot be used as a reason to recognize the validity of their inclusion in the ballot. Otherwise, the qualifications set for PLOs to validly participate in the elections will all be for naught and this Court will only be encouraging nuisance PLOs to participate in the election and dilute the percentage votes cast for the qualified PLOs, even denying some of the opportunity to achieve the 2% winning minimum percentage threshold. After all, as provided in the 
+ponencia
+, a decision of disqualification, regardless of the date of its finality, does not affect its inclusion in the divisor âif not reasonably made known by the COMELEC.â Clearly, this cannot be allowed. At the very least, the 
+ponencia
+ should have provided sufficient parameters that will enable the COMELEC to comply with the proviso. Otherwise, the nebulous qualification in the proviso renders the rule open to various interpretations and possible circumvention. Indeed, the fact that a disqualified PLOâs name remains on the ballot on the day of the election can be used to assert that the COMELEC has not âreasonablyâ informed the electorate of the disqualification.
+Thus, I vote that the modification of the divisor in the formula for determining the winning PLOs in 
+BANAT v. COMELEC
+ shall be limited only to include the votes cast for PLOs whose names are in the ballot but are disqualified 
+after
+ the elections. Spoiled, invalid and stray votes, as well as votes cast in favor of PLOs whose names are in the ballot but were disqualified with finality 
+before
+ the day of election shall remain excluded in the computation of the âtotal votes cast for the party-list system.â  The final disqualification of a PLO prior to the day of the election, without more, is sufficient to render the votes cast in its favor as stray votes and excluded from the âtotal votes cast for the party-list system.â
+[1]
+ G.R. No. 179271, April 21, 2009, 586 SCRA 210.
+[2]
+ RA 7941, Sec. 3. (Emphasis supplied.)
+[3]
+ G.R. No. 163776, April 24, 2007.
+[4]
+ G.R. Nos. 147589 & 147613, June 25, 2003, 404 SCRA 719.
+[5]
+ 
+Ponencia
+, p. 24.
+[6]
+ Id. at 23.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

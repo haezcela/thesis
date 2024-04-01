@@ -1,0 +1,815 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			760 Phil. 519
+			
+
+
+
+
+EN BANC
+
+
+[ G.R. No. 203754, June 16, 2015 ]
+
+
+FILM DEVELOPMENT COUNCIL OF THE PHILIPPINES, PETITIONER, VS. COLON HERITAGE REALTY CORPORATION, OPERATOR OF ORIENTE GROUP THEATERS, REPRESENTED BY ISIDORO A. CANIZARES, RESPONDENT.
+[G.R. No. 204418]
+ FILM DEVELOPMENT COUNCIL OF THE PHILIPPINES, PETITIONER, VS. CITY OF CEBU AND SM PRIME HOLDINGS, INC., RESPONDENTS.
+D E C I S I O N
+
+
+
+
+VELASCO JR., J.:
+
+
+The Constitution is the basic law to which all laws must conform; no act shall be valid if it conflicts with the Constitution. In the discharge of their defined functions, the three departments of government have no choice but to yield obedience to the commands of the Constitution. Whatever limits it imposes must be observed.
+[1]
+The Case
+Once again, We are called upon to resolve a clash between the inherent taxing power of the legislature and the constitutionally-delegated power to tax of local governments in these consolidated Petitions for Review on Certiorari under Rule 45 of the Rules of Court seeking the reversal of the Decision dated September 25, 2012 of the Regional Trial Court (RTC), Branch 5 in Cebu City, in Civil Case No. CEB-35601, entitled 
+Colon Heritage Realty Corp., represented by Isidoro Canizares v. Film Development Council of the Philippines
+, and Decision dated October 24, 2012 of the RTC, Branch 14 in Cebu City, in Civil Case No. CEB-35529, entitled 
+City of Cebu v. Film Development Council of the Philippines
+, collectively declaring Sections 13 and 14 of Republic Act No. (RA) 9167 invalid and unconstitutional.
+The Facts
+The facts are simple and undisputed.
+Sometime in 1993, respondent City of Cebu, in its exercise of its power to impose amusement taxes under Section 140 of the Local Government Code
+[2]
+ (LGC)anchored on the constitutional policy on local autonomy,
+[3]
+ passed City Ordinance No. LXIX otherwise known as the âRevised Omnibus Tax Ordinance of the City of Cebu (tax ordinance).â Central to the case at bar are Sections 42 and 43, Chapter XI thereof which require proprietors, lessees or operators of theatres, cinemas, concert halls, circuses, boxing stadia, and other places of amusement, to pay an amusement tax equivalent to thirty percent (30%) of the gross receipts of admission fees to the Office of the City Treasurer of Cebu City. Said provisions read:
+CHAPTER XI â Amusement Tax
+Section 42. Rate of Tax. â There shall be paid to the Office of the City Treasurer by the proprietors, lessees, or operators of theaters, cinemas, concert halls, circuses, boxing stadia and other places of amusement, an amusement tax at the rate of thirty percent (30%) of the gross receipts from admission fees.
+[4]
+Section 43. Manner of Payment. â In the case of theaters or cinemas, the tax shall first be deducted and withheld by their proprietors, lessees, or operators and paid to the city treasurer before the gross receipts are divided between said proprietor, lessees, operators, and the distributors of the cinematographic films.
+Almost a decade later, or on June 7, 2002, Congress passed RA 9167,
+[5]
+ creating the Film Development Council of the Philippines (FDCP) and abolishing the Film Development Foundation of the Philippines, Inc. and the Film Rating Board. Secs. 13 and 14 of RA 9167 provided for the tax treatment of certain graded films as follows:
+Section 13.
+ 
+Privileges of Graded Films
+. â Films which have obtained an âAâ or âBâ grading from the Council pursuant to Sections 11 and 12 of this Act shall be entitled to the following privileges:
+Amusement tax reward. â A grade âAâ or âBâ film shall entitle its producer to an incentive 
+equivalent to the amusement tax imposed and collected on the graded films
+ by cities and municipalities in Metro Manila and other highly urbanized and independent component cities in the Philippines pursuant to Sections 140 to 151 of Republic Act No. 7160 at the following rates:
+For grade âAâ films â 100% of the amusement tax collected on such film; and
+For grade âBâ films â 65% of the amusement tax collected on such films. The remaining thirty-five (35%) shall accrue to the funds of the Council.
+Section 14.
+ 
+Amusement Tax Deduction and Remittance
+. - 
+All revenue from the amusement tax on the graded film which may otherwise accrue to the cities and municipalities
+ in Metropolitan Manila and highly urbanized and independent component cities in the Philippines 
+pursuant to Section 140 of Republic Act. No. 7160
+ during the period the graded film is exhibited, 
+shall be deducted and withheld by the proprietors, operators or lessees of theaters or cinemas and remitted
+ within thirty (30) days from the termination of the exhibition 
+to the Council which shall reward the corresponding amusement tax to the producers of the graded film
+ within fifteen (15) days from receipt thereof.
+Proprietors, operators and lessees of theaters or cinemas who fail to remit the amusement tax proceeds within the prescribed period shall be liable to a surcharge equivalent to five percent (5%) of the amount due for each month of delinquency which shall be paid to the Council. (emphasis added)
+According to petitioner, from the time RA 9167 took effect up to the present, all the cities and municipalities in Metro Manila, as well as urbanized and independent component cities, with the sole exception of Cebu City, have complied with the mandate of said law.
+Accordingly, petitioner,through the Office of the Solicitor General, sent on January 2009 demand letters for unpaid amusement tax reward (with 5% surcharge for each month of delinquency) due to the producers of the Grade âAâ or âBâ films to the following cinema proprietors and operators in Cebu City:
+Cinema Proprietor/Operator
+Amusement Tax Reward (with 5% surcharge for each month of delinquency)
+Number of CEB Graded Films
+Period Covered
+SM Prime Holdings Inc.
+76,836,807.08
+89
+Sept. 11, 2003 â Nov. 4, 2008
+Ayala Center Cinemas
+43,435,718.23
+70
+May 14, 2003 â Nov. 4, 2008
+Colon Heritage Realty Corp.
+8,071,267.00
+50
+Aug. 11, 2004 â Nov. 4, 2008
+Eden Theater
+428,938.25
+4
+May 5, 2005 â Sept. 2, 2008
+Cinema Theater
+3,100,354.80
+22
+Feb. 18, 2004 â Oct. 7, 2008
+Visaya Cineplex Corp.
+17,582,521.89
+86
+June 25, 2005 â Oct. 21, 2008
+Ultra Vistarama Cinema
+68,821.60
+2
+July 2 â 22, 2008
+Cebu Central Realty Corp.
+9,853,559.69
+48
+Jan. 1, 2004 â Oct. 21, 2008
+In said letters, the proprietors and cinema operators, including private respondent Colon Heritage Realty Corp. (Colon Heritage), operator of the Oriente theater, were given ten (10) days from receipt thereof to pay the aforestated amounts to FDCP. The demand, however, fell on deaf ears.
+Meanwhile, on March 25, 2009, petitioner received a letter from Regal Entertainment, Inc., inquiring on the status of its receivables for tax rebates in Cebu cinemas for all their A and B rate films along with those which it co-produced with GMA films. This was followed by a letter from Star Cinema ABS-CBN Film Productions, Inc., requesting the immediate remittance of its amusement tax rewards for its graded films for the years 2004-2008.
+Because of the persistent refusal of the proprietors and cinema operators to remit the said amounts as FDCP demanded, on one hand, and Cebu Cityâs assertion of a claim on the amounts in question, the city finally filed on May 18, 2009 before the RTC, Branch 14 a petition for declaratory relief with application for a writ of preliminary injunction, docketed as Civil Case No. CEB-35529 (
+City of Cebu v. FDCP
+). In said petition, Cebu City sought the declaration of Secs. 13 and 14 of RA 9167 as invalid and unconstitutional.
+Similarly, Colon Heritage filed before the RTC, Branch 5 Civil Case No. CEB-35601 (
+Colon Heritage v. FDCP
+), seeking to declare Sec. 14 of RA 9167 as unconstitutional.
+On May 25, 2010, the RTC, Branch 14 issued a temporary restraining order (TRO) restraining and enjoining FDCP, 
+et al.
+ from, 
+inter alia
+:
+(a)
+ Collecting amusement tax incentive award in the City of Cebu and from imposing surcharges thereon;
+(b)
+ 
+Demanding from the owners, proprietors, and lessees of theaters and cinemas located and operated within Cebu City, payment of said amusement tax incentive award which should have been deducted, withheld, and remitted to FDCP, etc. by the owners, etc., or being operated within Cebu City and imposing surcharges on the unpaid amount; and
+(c) 
+Filing any suit due to or arising from the failure of the owners, etc., of theaters or cinemas within Cebu City, to deduct, withhold, and remit the incentive to FDCP.
+Meanwhile, on August 13, 2010, SM Prime Holdings, Inc. moved for leave to file and admit attached comment-in-intervention and was later granted.
+[6]
+Rulings of the Trial Courts
+In 
+City of Cebu v. FDCP
+, the RTC, Branch 14 issued the challenged Decision
+[7]
+ declaring Secs. 13 and 14 of RA 9167 unconstitutional, disposing as follows:
+WHEREFORE,
+ in view of all the disquisitions, judgment is rendered in favor of petitioner City of Cebu against respondent Film Development Council of the Philippines, as follows:
+Declaring Sections 13 and 14 of the (sic) Republic Act No. 9167 otherwise known as an Act Creating the Film Development Council of the Philippines, Defining its Powers and Functions, Appropriating Funds Therefor and for other purposes, as violative of Section 5 Article X of the 1997 (sic) Philippine Constitution; Consequently
+Declaring that defendant Film Development Council of the Philippines (FDCP) cannot collect under Sections 13 and 14 of R.A. 9167 as of the finality of the decision in G.R. Nos. 203754 and 204418;
+Declaring that Intervenor SM Cinema Corporation has the obligation to remit the amusement taxes, withheld on graded cinema films to respondent FDCP under Sections 13 and 14 of R.A. 9167 for taxes due prior to the finality of the decision in G.R. Nos. 203754 and 204418;
+Declaring that after the finality of the decision in G.R. Nos. 203754 and 204418, all amusement taxes withheld and those which may be collected by Intervenor SM on graded films shown in SM Cinemas in Cebu City shall be remitted to petitioner Cebu City pursuant to City Ordinance LXIX, Chapter XI, Section 42.
+As to the sum of PhP 76,836,807.08 remitted by the Intervenor SM to petitioner City of Cebu, said amount shall be remitted by the City of Cebu to petitioner FDCP within thirty (30) days from finality of this decision in G.R. Nos. 203754 and 204418 without interests and surcharges.
+SO ORDERED.
+According to the court, what RA 9167 seeks to accomplish is the segregation of the amusement taxes raised and collected by Cebu City and its subsequent transfer to FDCP. The court concluded that this arrangement cannot be classified as a tax exemption but is a confiscatory measure where the national government extracts money from the local governmentâs coffers and transfers it to FDCP, a private agency, which in turn, will award the money to private persons, the film producers, for having produced graded films.
+The court further held that Secs. 13 and 14 of RA 9167 are contrary to the basic policy in local autonomy that all taxes, fees, and charges imposed by the LGUs shall accrue exclusively to them, as articulated in Article X, Sec. 5 of the 1987 Constitution. This edict, according to the court, is a limitation upon the rule-making power of Congress when it provides guidelines and limitations on the local government unitâs (LGUâs) power of taxation. Therefore, when Congress passed this âlimitation,â it went beyond its legislative authority, rendering the questioned provisions unconstitutional.
+By the same token, in 
+Colon Heritage v. FDCP
+, the RTC, Branch 5, in its Decision of September 25, 2012, also ruled against the constitutionality of said Secs. 13 and 14 of RA 9167 for the following reasons: (a) while Congress, through the enactment of RA 9167, may have amended Secs. 140 (a)
+[8]
+ and 151
+[9]
+ of the LGC, in the exercise of its plenary power to amend laws, such power must be exercised within constitutional parameters; (b) the assailed provision violates the constitutional directive that taxes should accrue exclusively to the LGU concerned; (c) the Constitution, through its Art. X, Sec. 5,
+[10]
+ directly conferred LGUs with authority to levy taxesââthe power is no longer delegated by the legislature; (d) In 
+CIR v. SM Prime Holdings
+,
+[11]
+ the Court ruled that amusement tax on cinema/theater operators or proprietors remain with the LGU, amusement tax, being, by nature, a local tax. The 
+fallo
+ of the questioned judgment reads:
+WHEREFORE,
+ in view of all the foregoing, Judgment is hereby rendered in favor of petitioner, as follows:
+(1) 
+Declaring Republic Act No. 9167 as invalid and unconstitutional;
+(2)
+ The obligation to remit amusement taxes for the graded films to respondent is ordered extinguished;
+(3) 
+Directing respondent to refund all the amounts paid by petitioner, by way of amusement tax, plus the legal rate of interest thereof, until the whole amount is paid in full.
+Notify parties and counsels of this order.
+SO ORDERED.
+The Issue
+Undeterred by two defeats, petitioner has come directly to this Court,presenting the singular issue: whether or not the RTC (Branches 5 and 14) gravely erred in declaring Secs. 13 and 14 of RA 9167 invalid for being unconstitutional.
+Anent Sec. 13,
+[12]
+ FDCP concedes that the amusement taxes assessed in RA 9167 are to be given to the producers of graded films who are private persons. Nevertheless, according to FDCP, this particular tax arrangement is not a violation of the rule on the use of public funds for RA 9167 was enacted for a public purpose, that is, the promotion and support of the âdevelopment and growth of the local film industry as a medium for the upliftment of aesthetic, cultural, and social values for the better understanding and appreciation of the Filipino identityâ as well as the âencouragement of the production of quality films that will promote the growth and development of the local film industry.â
+[13]
+ Moreover, FDCP suggests that âeven if the resultant effect would be a certain loss of revenue, [LGUs] do not feel deprived nor bitter for they realize that the benefits for the film industry, the fortification of our values system, and the cultural boost for the nation as a whole, far outweigh the pecuniary cost they would shoulder by backing this law.â
+[14]
+ Finally, in support of its stance, FDCP invites attention to the following words of former Associate Justice Isagani A. Cruz: â[t]he mere fact that the tax will be directly enjoyed by a private individual does not make it invalid so long as some link to the public welfare is established.â
+[15]
+As regards Sec. 14
+[16]
+ of RA 9167, FDCP is of the position that Sec. 5, Article X of the Constitution does not change the doctrine that municipal corporations only possess delegated, not inherent, powers of taxation and that the power to tax is still primarily vested in the Congress. Thus, wielding its power to impose limitations on this delegated power, Congress further restricted the LGUâs power to impose amusement taxes via Secs. 13 and 14 of RA 9167ââan express and real intention of Congress to further contain the LGUâs delegated taxing power. It, therefore, cannot be construed as an undue limitation since it is well within the power of Congress to make such restriction. Furthermore, the LGC is a mere statute which Congress can amend, which it in fact did when it enacted RA 9164
+[17]
+ and, later, the questioned law, RA 9167.
+[18]
+This, according to FDCP, evinces the overriding intent of Congress to remove from the LGUâs delegated taxing power all revenues from amusement taxes on grade âAâ or âBâ films which would otherwise accrue to the cities and municipalities in Metropolitan Manila and highly urbanized and independent component cities in the Philippines pursuant to Secs. 140 and 151 of the LGC.
+In fine, it is petitionerâs posture that the inclusion in RA 9167 of the questioned provisions was a valid exercise of the legislatureâs power to amend laws and an assertion of its constitutional authority to set limitations on the LGUâs authority to tax.
+The Courtâs Ruling
+We find no reason to disturb the assailed rulings.
+Local fiscal autonomy and the
+constitutionally-delegated power to tax
+The power of taxation, being an essential and inherent attribute of sovereignty, belongs, as a matter of right, to every independent government, and needs no express conferment by the people before it can be exercised. It is purely legislative and, thus, cannot be delegated to the executive and judicial branches of government without running afoul to the theory of separation of powers. It, however, can be delegated to municipal corporations, consistent with the principle that legislative powers may be delegated to local governments in respect of matters of local concern.
+[19]
+ The authority of provinces, cities, and municipalities to create their own sources of revenue and to levy taxes, therefore, is not inherent and may be exercised only to the extent that such power might be delegated to them either by the basic law or by statute.
+[20]
+Under the regime of the 1935 Constitution, there was no constitutional provision on the delegation of the power to tax to municipal corporations. They only derived such under a limited statutory authority, outside of which, it was deemed withheld.
+[21]
+ Local governments, thus, had very restricted taxing powers which they derive from numerous tax laws. This highly-centralized government structure was later seen to have arrested the growth and efficient operations of LGUs, paving the way for the adoption of a more decentralized system which granted LGUs local autonomy, both administrative and fiscal autonomy.
+[22]
+Material to the case at bar is the concept and scope of local fiscal autonomy. In 
+Pimentel v. Aguirre
+,
+[23]
+ fiscal autonomy was defined as âthe power [of LGUs] to create their own sources of revenue in addition to their equitable share in the national taxes released by the national government, as well as the power to allocate their resources in accordance with their own priorities. It extends to the preparation of their budgets, and local officials in turn have to work within the constraints thereof.â
+With the adoption of the 1973 Constitution,
+[24]
+ and later the 1987 Constitution, municipal corporations were granted fiscal autonomy via a general delegation of the power to tax.
+[25]
+ Section 5, Article XI of the 1973 Constitution gave LGUs the âpower to create its own sources of revenue and to levy taxes, subject to such limitations as may be provided by law.â This authority was further strengthened in the 1987 Constitution, through the inclusion in Section 5, Article X thereof of the condition that â[s]uch taxes, fees, and charges shall accrue exclusively to local governments.â
+[26]
+Accordingly, under the present Constitution, where there is neither a grant nor a prohibition by statute, the tax power of municipal corporations must be deemed to exist although Congress may provide statutory limitations and guidelines.
+[27]
+ The basic rationale for the current rule on local fiscal autonomy is the strengthening of LGUs and the safeguarding of their viability and self-sufficiency through a direct grant of general and broad tax powers.Nevertheless, the fundamental law did not intend the delegation to be absolute and unconditional. The legislature must still see to it that (a) the taxpayer will not be over-burdened or saddled with multiple and unreasonable impositions; (b) each LGU will have its fair share of available resources; (c) the resources of the national government will not be unduly disturbed; and (d) local taxation will be fair, uniform, and just.
+[28]
+In conformity to the dictate of the fundamental law for the legislature to âenact a local government code which shall provide for a more responsive and accountable local government structure instituted through a system of decentralization,â
+[29]
+ consistent with the basic policy of local autonomy, Congress enacted the LGC, Book II of which governs local taxation and fiscal matters and sets forth the guidelines and limitations for the exercise of this power. In 
+Pelizloy Realty Corporation v. The Province of Benguet
+,
+[30]
+ the Court alluded to the fundamental principles governing the taxing powers of LGUs as laid out in Section 130 of the LGC, to wit:
+1. Taxation shall be uniform in each LGU.
+2. Taxes, fees, charges and other impositions shall:
+a. be equitable and based as far as practicable on the taxpayer's ability to pay;
+b. be levied and collected only for public purposes;
+c. not be unjust, excessive, oppressive, or confiscatory;
+d. not be contrary to law, public policy, national economic policy, or in the restraint of trade.
+3. The collection of local taxes, fees, charges and other impositions shall in no case be let to any private person.
+4. The revenue collected pursuant to the provisions of the LGC shall inure solely to the benefit of, and be subject to the disposition by, the LGU levying the tax, fee, charge or other imposition unless otherwise specifically provided by the LGC.
+5. Each LGU shall, as far as practicable, evolve a progressive system of taxation.
+It is in the application of the adverted fourth rule, that isââall revenue collected pursuant to the provisions of the LGC shall inure solely to the benefit of, and be subject to the disposition by, the LGU levying the tax, fee, charge or other imposition unless otherwise specifically provided by the LGCââupon which the present controversy grew.
+RA 9167 violates local fiscal autonomy
+It is beyond cavil that the City of Cebu had the authority to issue its City Ordinance No. LXIX and impose an amusement tax on cinemas pursuant to Sec. 140 in relation to Sec. 151 of the LGC. Sec. 140 states, among other things, that a âprovince may levy an amusement tax to be collected from the proprietors, lessees, or operators of theaters, cinemas, concert halls, circuses, boxing stadia, and other places of amusement at a rate of not more than thirty percent (30%) of the gross receipts from admission fees.â By operation of said Sec. 151,
+[31] 
+extending to them the authority of provinces and municipalities to levy certain taxes, fees, and charges, cities, such as respondent city government,may therefore validly levy amusement taxes subject to the parameters set forth under the law. Based on this authority, the City of Cebu passed, in 1993, its Revised Omnibus Tax Ordinance,
+[32]
+ Chapter XI, Secs. 42 and 43 of which reads:
+CHAPTER XI â Amusement Tax
+Section 42. Rate of Tax. â There shall be paid to the Office of the City Treasurer by the proprietors, lessees, or operators of theaters, cinemas, concert halls, circuses, boxing stadia and other places of amusement, an amusement tax at the rate of thirty percent (30%) of the gross receipts from admission fees.
+[33]
+Section 43. Manner of Payment. â In the case of theaters or cinemas, the tax shall first be deducted and withheld by their proprietors, lessees, or operators and paid to the city treasurer before the gross receipts are divided between said proprietor, lessees, operators, and the distributors of the cinematographic films.
+Then, after almost a decade of cities reaping benefits from this imposition, Congress, through RA 9167, amending Section 140 of the LGC,
+[34]
+ among others,transferred this income from the cities and municipalities in Metropolitan Manila and highly urbanized and independent component cities, such as respondent City of Cebu, to petitioner FDCP, which proceeds will ultimately be rewarded to the producers of graded films. We reproduce anew Secs. 13 and 14 of RA 9167, thus:
+Section 13.
+ 
+Privileges of Graded Films
+. â Films which have obtained an âAâ or âBâ grading from the Council pursuant to Sections 11 and 12 of this Act shall be entitled to the following privileges:
+Amusement tax reward. â A grade âAâ or âBâ film shall entitle its producer to an incentive equivalent to the amusement tax imposed and collected on the graded films by cities and municipalities in Metro Manila and other highly urbanized and independent component cities in the Philippines pursuant to Sections 140 to 151 of Republic Act No. 7160 at the following rates:
+For grade âAâ films â 100% of the amusement tax collected on such film; and
+For grade âBâ films â 65% of the amusement tax collected on such films. The remaining thirty-five (35%) shall accrue to the funds of the Council.
+Section 14. 
+Amusement Tax Deduction and Remittance
+. - All revenue from the amusement tax on the graded film which may otherwise accrue to the cities and municipalities in Metropolitan Manila and highly urbanized and independent component cities in the Philippines pursuant to Section 140 of Republic Act. No. 7160 during the period the graded film is exhibited, shall be deducted and withheld by the proprietors, operators or lessees of theaters or cinemas and remitted within thirty (30) days from the termination of the exhibition to the Council which shall reward the corresponding amusement tax to the producers of the graded film within fifteen (15) days from receipt thereof.
+Proprietors, operators and lessees of theaters or cinemas who fail to remit the amusement tax proceeds within the prescribed period shall be liable to a surcharge equivalent to five percent (5%) of the amount due for each month of delinquency which shall be paid to the Council.
+Considering the amendment, the present rule is that 
+ALL amusement taxes levied by covered cities and municipalities shall be given
+ by proprietors, operators or lessees of theatres and cinemas 
+to FDCP, which shall then reward said amount to the producers of graded films
+ in this wise:
+For grade âAâ films, ALL amusement taxes collected by ALL covered LGUs on said films shall be given to the producer thereof. The LGU, therefore, is entitled to NOTHING from its own imposition.
+For grade âBâ films, SIXTY FIVE PERCENT (65%) of ALL amusement taxes derived by ALL covered LGUs on said film shall be given to the producer thereof. In this case, however, the LGU is still NOT entitled to any portion of the imposition, in view of Sec. 16 of RA 9167 which provides that the remaining 35% may be expended for the Councilâs operational expenses. Thus:
+Section 16. 
+Funding
+.
+ - The Executive Secretary shall immediately include in the Office of the Presidentâs program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+To augment the operational expenses of the Council, the Council may:
+a. 
+Utilize the remaining thirty-five (35%) percent of the amusement tax collected during the period of grade âBâ film is exhibited, as provided under Sections 13 and 14 hereof
+ x x x.
+For petitioner, the amendment is a valid legislative manifestation of the intention to remove from the grasp of the taxing power of the covered LGUs all revenues from amusement taxes on grade âAâ or âBâ films which would otherwise accrue to them. An evaluation of the provisions in question, however, compels Us to disagree.
+RA 9167, Sec. 14 states:
+Section 14.
+ 
+Amusement Tax Deduction and Remittance
+. - 
+All revenue from the amusement tax on the graded film which may otherwise accrue to the cities and municipalities
+ in Metropolitan Manila and highly urbanized and independent component cities in the Philippines 
+pursuant to Section 140 of Republic Act. No. 7160
+ during the period the graded film is exhibited, 
+shall be deducted and withheld by the proprietors, operators or lessees of theaters or cinemas and remitted
+ within thirty (30) days from the termination of the exhibition 
+to the Council which shall reward the corresponding amusement tax to the producers of the graded film
+ within fifteen (15) days from receipt thereof.
+A reading of the challenged provision reveals that 
+the power to impose amusement taxes was NOT removed from the covered LGUs
+, unlike what Congress did for the taxes enumerated in Sec. 133, Article X of the LGC,
+[35]
+ which lays down the common limitations on the taxing powers of LGUs. Thus:
+Section 133.
+ 
+Common Limitations on the Taxing Powers of Local Government Units
+. - Unless otherwise provided herein, 
+the exercise of the taxing powers
+ of provinces, cities, municipalities, and barangays 
+shall not extend to the levy of the following
+:
+(a) Income tax, except when levied on banks and other financial institutions;
+(b) Documentary stamp tax;
+(c) Taxes on estates, inheritance, gifts, legacies and other acquisitions mortis causa, except as otherwise provided herein;
+(d) Customs duties, registration fees of vessel and wharfage on wharves, tonnage dues, and all other kinds of customs fees, charges and dues except wharfage on wharves constructed and maintained by the local government unit concerned;
+(e) Taxes, fees, and charges and other impositions upon goods carried into or out of, or passing through, the territorial jurisdictions of local government units in the guise of charges for wharfage, tolls for bridges or otherwise, or other taxes, fees, or charges in any form whatsoever upon such goods or merchandise;
+(f) Taxes, fees or charges on agricultural and aquatic products when sold by marginal farmers or fishermen;
+(g) Taxes on business enterprises certified to by the Board of Investments as pioneer or non-pioneer for a period of six (6) and four (4) years, respectively from the date of registration;
+(h) Excise taxes on articles enumerated under the national Internal Revenue Code, as amended, and taxes, fees or charges on petroleum products;
+(i) Percentage or value-added tax (VAT) on sales, barters or exchanges or similar transactions on goods or services except as otherwise provided herein;
+(j) Taxes on the gross receipts of transportation contractors and persons engaged in the transportation of passengers or freight by hire and common carriers by air, land or water, except as provided in this Code;
+(k) Taxes on premiums paid by way or reinsurance or retrocession;
+(l) Taxes, fees or charges for the registration of motor vehicles and for the issuance of all kinds of licenses or permits for the driving thereof, except tricycles;
+(m) Taxes, fees, or other charges on Philippine products actually exported, except as otherwise provided herein;
+(n) Taxes, fees, or charges, on Countryside and Barangay Business Enterprises and cooperatives duly registered under R.A. No. 6810 and Republic Act Numbered Sixty-nine hundred thirty-eight (R.A. No. 6938) otherwise known as the âCooperative Code of the Philippinesâ respectively; and
+(o) Taxes, fees or charges of any kind on the National Government, its agencies and instrumentalities, and local government units. (emphasis ours)
+From the above, the difference between Sec. 133 and the questioned amendment of Sec. 140 of the LGC by RA 9167 is readily revealed. In Sec. 133, what Congress did was to 
+prohibit the levy
+ by LGUs of the enumerated taxes. For RA 9167, however, the covered LGUs were 
+deprived of the 
+income
+ which they will otherwise be collecting should they impose amusement taxes, or, in petitionerâs own words, âSection 14 of [RA 9167] can be viewed as an express and real intention on the part of Congress 
+to remove from the LGUâs delegated taxing power, all 
+revenues
+ from the amusement taxes on graded films
+ which would otherwise accrue to [them] pursuant to Section 140 of the [LGC].â
+[36]
+In other words, per RA 9167, covered LGUs still have the power to levy amusement taxes, albeit at the end of the day,they will derive no revenue therefrom. The same, however, cannot be said for FDCP and the producers of graded films since the amounts thus levied by the LGUsââwhich should rightfully accrue to them, they being the taxing authorityââwill be going to their coffers. As a matter of fact, 
+it is only through the exercise by the LGU of said power that the funds to be used for the amusement tax reward can be raised
+. Without said imposition, the producers of graded films will receive nothing from the owners, proprietors and lessees of cinemas operating within the territory of the covered LGU.
+Taking the resulting scheme into consideration, it is apparent that what Congress did in this instance was not to exclude the authority to levy amusement taxes from the taxing power of the covered LGUs, but to earmark, if not altogether confiscate, the income to be received by the LGU from the taxpayers in favor of and for transmittal to FDCP, instead of the taxing authority. This, to Our mind, is in clear contravention of the constitutional command that taxes levied by LGUs shall accrue 
+exclusively
+ to said LGU and is repugnant to the power of LGUs to apportion their resources in line with their priorities.
+It is a basic precept that the inherent legislative powers of Congress, broad as they may be, are limited and confined within the four walls of the Constitution.
+[37]
+ Accordingly, whenever the legislature exercises its power to enact, amend, and repeal laws, it should do so without going beyond the parameters wrought by the organic law.
+In the case at bar, through the application and enforcement of Sec. 14 of RA 9167, the income from the amusement taxes levied by the covered LGUs did not and will under no circumstance accrue to them, not even partially, despite being the taxing authority therefor. Congress, therefore, clearly overstepped its plenary legislative power, the amendment being violative of the fundamental lawâs guarantee on local autonomy, as echoed in Sec. 130(d) of the LGC, thus:
+Section 130.
+ 
+Fundamental Principles
+. - The following fundamental principles shall govern the exercise of the taxing and other revenue-raising powers of local government units:
+x x x                    x x x                   x x x
+(d) The revenue collected pursuant to the provisions of this Code shall inure solely to the benefit of, and be subject to the disposition by, the local government unit levying the tax, fee, charge or other imposition unless otherwise specifically provided herein xxx.
+Moreover, in 
+Pimentel
+,
+[38]
+ the Court elucidated that local fiscal autonomy includes the power of LGUs to allocate their resources in accordance with their own priorities. By earmarking the income on amusement taxes imposed by the LGUs in favor of FDCP and the producers of graded films, the legislature appropriated and distributed the LGUsâ fundsââas though it were legally within its controlââunder the guise of setting a limitation on the LGUsâ exercise of their delegated taxing power. This, undoubtedly, is a usurpation of the latterâs exclusive prerogative to apportion their funds, an impermissible intrusion into the LGUsâ constitutionally-protected domain which puts to naught the guarantee of fiscal autonomy to municipal corporations enshrined in our basic law.
+Grant of amusement tax reward incentive:
+not a tax exemption
+It was argued that subject Sec. 13 is a grant by Congress of an exemption from amusement taxes in favor of producers of graded films. Without question, this Court has previously upheld the power of Congress to grant exemptions over the power of LGUs to impose taxes.
+[39]
+ This amusement tax reward, however, is not, as the lower court posited, a tax exemption.
+Exempting a person or entity from tax is to relieve or to excuse that person or entity from the burden of the imposition. Here, however, it cannot be said that an exemption from amusement taxes was granted by Congress to the producers of graded films. Take note that the burden of paying the amusement tax in question is on the proprietors, lessors, and operators of the theaters and cinemas that showed the graded films. Thus, per City Ordinance No. LXIX:
+CHAPTER XI â Amusement Tax
+Section 42. Rate of Tax. â There shall be 
+paid
+ to the Office of the City Treasurer 
+by the proprietors, lessees, or operators
+ of theaters, cinemas, concert halls, circuses, boxing stadia and other places of amusement, an amusement tax at the rate of thirty percent (30%) of the gross receipts from admission fees.
+Section 43. Manner of Payment. â In the case of theaters or cinemas, the tax shall first be deducted and withheld by their proprietors, lessees, or operators and paid to the city treasurer before the gross receipts are divided between said proprietor, lessees, operators, and the distributors of the cinematographic films.
+Similarly, the LGC provides as follows:
+Section 140.
+ 
+Amusement Tax
+. -
+(a) The province may levy an amusement tax to be 
+collected from the proprietors, lessees, or operators
+ of theaters, cinemas, concert halls, circuses, boxing stadia, and other places of amusement at a rate of not more than thirty percent (30%) of the gross receipts from admission fees.
+(b) In the case of theaters or cinemas, the tax shall first be deducted and withheld by their proprietors, lessees, or operators and paid to the provincial treasurer before the gross receipts are divided between said proprietors, lessees, or operators and the distributors of the cinematographic films.
+Simply put, both the burden and incidence of the amusement tax are borne by the proprietors, lessors, and operators, not by the producers of the graded films. The transfer of the amount to the film producers is actually a 
+monetary reward
+ given to them for having produced a graded film, the funding for which was taken by the national government from the coffers of the covered LGUs. Without a doubt, this is not an exemption from payment of tax.
+Declaration by the RTC, Branch 5 of the
+entire RA 9167 as unconstitutional
+Noticeably, the RTC, Branch 5, in its September 25, 2012 Decision in 
+Colon Heritage v. FDCP
+, ruled against the constitutionality of the entire law, not just the assailed Sec. 14. The 
+fallo
+ of the judgment reads:
+WHEREFORE,
+ in view of all the foregoing, Judgment is hereby rendered in favor of petitioner, as follows:
+(1)
+ Declaring Republic Act No. 9167 as invalid and unconstitutional;
+(2)
+ The obligation to remit amusement taxes for the graded films to respondent is ordered extinguished;
+(3)
+ Directing respondent to refund all the amounts paid by petitioner, by way of amusement tax, plus the legal rate of interest thereof, until the whole amount is paid in full.
+In this regard, it is well to emphasize that if it appears that the rest of the law is free from the taint of unconstitutionality, then it should remain in force and effect if said law contains a separability clause. A separability clause is a legislative expression of intent that the nullity of one provision shall not invalidate the other provisions of the act. Such a clause is not, however, controlling and the courts, in spite of it,may invalidate the whole statute where what is left, after the void part, is not complete and workable.
+[40]
+In this case, not only does RA 9167 have a separability clause, contained in Section 23 thereof which reads:
+Section 23. 
+Separability Clause
+.
+ - If, for any reason, any provision of this Act, or any part thereof, is declared invalid or unconstitutional, all other sections or provisions not affected thereby shall remain in force and effect.
+it is also true that the constitutionality of the entire law was not put in question in any of the said cases.
+Moreover, a perusal of RA 9167 easily reveals that even with the removal of Secs. 13 and 14 of the law, the remaining provisions can survive as they mandate other matters like a cinema evaluation system, an incentive and reward system, and local and international film festivals and activities that âwill promote the growth and development of the local film industry and promote its participation in both domestic and foreign markets,â and to âenhance the skills and expertise of Filipino talents.â
+[41]
+Where a part of a statute is void as repugnant to the Constitution, while another part is valid, the valid portion, if separable from the invalid, may stand and be enforced.The exception to this is when the parts of a statute are so mutually dependent and connected, as conditions, considerations, inducements, or compensations for each other, as to warrant a belief that the legislature intended them as a whole, in which case, the nullity of one part will vitiate the rest.
+[42]
+Here, the constitutionality of the rest of the provisions of RA 9167 was never put in question. Too, nowhere in the assailed judgment of the RTC was it explicated why the entire law was being declared as unconstitutional.
+It is a basic tenet that courts cannot go beyond the issues in a case,
+[43]
+ which the RTC, Branch 5 did when it declared RA 9167 unconstitutional. This being the case, and in view of the elementary rule that every statute is presumed valid,
+[44]
+ the declaration by the RTC, Branch 5 of the entirety of RA 9167 as unconstitutional, is improper.
+Amounts paid by Colon Heritage
+need not be returned
+Having ruled that the questioned provisions are unconstitutional, the RTC, Branch 5, in 
+Colon Heritage v. FDCP
+, ordered the return of all amounts paid by respondent Colon Heritage to FDCP by way of amusement tax. Thus:
+WHEREFORE,
+ in view of all the foregoing, Judgment is hereby rendered in favor of petitioner, as follows:
+(1)
+ Declaring Republic Act No. 9167 as invalid and unconstitutional;
+(2)
+ The obligation to remit amusement taxes for the graded films to respondent is ordered extinguished;
+(3)
+ Directing respondent to refund all the amounts paid by petitioner, by way of amusement tax, plus the legal rate of interest thereof, until the whole amount is paid in full.
+As regards the refund, the Court cannot subscribe to this position.
+It is a well-settled rule that an unconstitutional act is not a law; it confers no rights; it imposes no duties; it affords no protection; it creates no office; it is inoperative as if it has not been passed at all. Applying this principle, the logical conclusion would be to order the return of all the amounts remitted to FDCP and given to the producers of graded films, by all of the covered cities, which actually amounts to hundreds of millions, if not billions. In fact, just for Cebu City, the aggregate deficiency claimed by FDCP is ONE HUNDRED FIFTY NINE MILLION THREE HUNDRED SEVENTY SEVEN THOUSAND NINE HUNDRED EIGHTY-EIGHT PESOS AND FIFTY FOUR CENTAVOS (P159,377,988.54). Again, this amount represents the 
+unpaid
+ amounts to FDCP by 
+eight
+ cinema operators or proprietors in only 
+one
+ covered city.
+An exception to the above rule, however, is the doctrine of operative fact, which applies as a matter of equity and fair play. This doctrine nullifies the effects of an unconstitutional law or an executive act by recognizing that the existence of a statute prior to a determination of unconstitutionality is an operative fact and may have consequences that cannot always be ignored. It applies when a declaration of unconstitutionality will impose an undue burden on those who have relied on the invalid law.
+[45]
+In 
+Hacienda Luisita v. PARC
+, the Court elucidated the meaning and scope of the operative fact doctrine, 
+viz
+:
+The âoperative factâ doctrine is embodied in 
+De Agbayani v. Court of Appeals
+, wherein it is stated that a legislative or 
+executive act
+, prior to its being declared as unconstitutional by the courts, is valid and must be complied with, thus:
+x x x                    x x x                   x x x
+This doctrine was reiterated in the more recent case of 
+City of Makati v. Civil Service Commission
+, wherein we ruled that:
+Moreover, we certainly cannot nullify the City Governmentâs order of suspension, as we have no reason to do so, much less retroactively apply such nullification to deprive private respondent of a compelling and valid reason for not filing the leave application. 
+For as we have held, a void act though in law a mere scrap of paper nonetheless confers legitimacy upon past acts or omissions done in reliance thereof.
+ Consequently, the existence of a statute or 
+executive order
+ prior to its being adjudged void is an operative fact to which legal consequences are attached. It would indeed be ghastly unfair to prevent private respondent from relying upon the order of suspension in lieu of a formal leave application.
+The applicability of the operative fact doctrine to executive acts was further explicated by this Court in 
+Rieta v. People
+, thus:
+Petitioner contends that his arrest by virtue of Arrest Search and Seizure Order (ASSO) No. 4754 was invalid, as the law upon which it was predicated â General Order No. 60, issued by then President Ferdinand E. Marcos â was subsequently declared by the Court, in 
+TaÃ±ada v. Tuvera
+, 33 to have no force and effect. Thus, he asserts, any evidence obtained pursuant thereto is inadmissible in evidence.
+We do not agree. In 
+TaÃ±ada
+, the Court addressed the possible effects of its declaration of the invalidity of various presidential issuances. Discussing therein how such a declaration might affect acts done on a presumption of their validity, the Court said:
+â. . . In similar situations in the past this Court had taken the pragmatic and realistic course set forth in 
+Chicot County Drainage District vs. Baxter Bank
+ to wit:
+âThe courts below have proceeded on the theory that the Act of Congress, having been found to be unconstitutional, was not a law; that it was inoperative, conferring no rights and imposing no duties, and hence affording no basis for the challenged decree. . . . It is quite clear, however, that such broad statements as to the effect of a determination of unconstitutionality must be taken with qualifications. The actual existence of a statute, prior to [the determination of its invalidity], is an operative fact and may have consequences which cannot justly be ignored. The past cannot always be erased by a new judicial declaration. The effect of the subsequent ruling as to invalidity may have to be considered in various aspects â with respect to particular conduct, private and official. Questions of rights claimed to have become vested, of status, of prior determinations deemed to have finality and acted upon accordingly, of public policy in the light of the nature both of the statute and of its previous application, demand examination. These questions are among the most difficult of those which have engaged the attention of courts, state and federal, and it is manifest from numerous decisions that an all-inclusive statement of a principle of absolute retroactive invalidity cannot be justified.â
+x x x                    x x x                   x x x
+âSimilarly, the implementation/enforcement of presidential decrees prior to their publication in the Official Gazette is âan operative fact which may have consequences which cannot be justly ignored. The past cannot always be erased by a new judicial declaration . . . that an all-inclusive statement of a principle of absolute retroactive invalidity cannot be justified.ââ
+The Chicot doctrine cited in 
+TaÃ±ada
+ advocates that, prior to the nullification of a statute, there is an imperative necessity of taking into account its actual existence as an operative fact negating the acceptance of âa principle of absolute retroactive invalidity.â Whatever was done while the legislative or the 
+executive act
+ was in operation should be duly recognized and presumed to be valid in all respects. 
+The ASSO that was issued in 1979 under General Order No. 60 â long before our Decision in 
+TaÃ±ada
+ and the arrest of petitioner â is an operative fact that can no longer be disturbed or simply ignored.
+ (citations omitted; emphasis in the original.)
+Bearing in mind that PARC Resolution No. 89-12-2ââan executive actââwas declared invalid in the instant case, the operative fact doctrine is clearly applicable.
+[46]
+Here, to order FDCP and the producers of graded films which may have already received the amusement tax incentive reward pursuant to the questioned provisions of RA 9167, to return the amounts received to the respective taxing authorities would certainly impose a heavy, and possibly crippling, financial burden upon them who merely, and presumably in good faith, complied with the legislative fiat subject of this case. For these reasons, We are of the considered view that the application of the doctrine of operative facts in the case at bar is proper so as not to penalize FDCP for having complied with the legislative command in RA 9167, and the producers of graded films who have already received their tax cut prior to this Decision for having produced top-quality films.
+With respect to the amounts retained by the cinema proprietors due to petitioner FDCP, said proprietors are required under the law to remit the same to petitioner. Obeisance to the rule of law must always be protected and preserved at all times and the unjustified refusal of said proprietors cannot be tolerated. The operative fact doctrine equally applies to the non-remittance by said proprietors since the law produced legal effects prior to the declaration of the nullity of Secs. 13 and 14 in these instant petitions. It can be surmised, however, that the proprietors were at a loss whether or not to remit said amounts to FDCP considering the position of the City of Cebu for them to remit the amusement taxes directly to the local government. For this reason, the proprietors shall not be liable for surcharges.
+In view of the declaration of nullity of unconstitutionality of Secs. 13 and 14 of RA 9167, all amusement taxes remitted to petitioner FDCP prior to the date of the finality of this decision shall remain legal and valid under the operative fact doctrine. Amusement taxes due to petitioner but unremitted up to the finality of this decision shall be remitted to petitioner within thirty (30) days from date of finality. Thereafter, amusement taxes previously covered by RA 9167 shall be remitted to the local governments.
+WHEREFORE,
+ premises considered, the consolidated petitions are hereby 
+PARTIALLY GRANTED
+. The questioned Decision of the RTC, Branch 5 of Cebu City in Civil Case No. CEB-35601 dated September 25, 2012 and that of the RTC, Branch 14, Cebu City in Civil Case No. CEB-35529 dated October 24, 2012, collectively declaring Sections 13 and 14 of Republic Act No. 9167 invalid and unconstitutional, are hereby 
+AFFIRMED
+ with 
+MODIFICATION
+.
+As modified, the decisions of the lower courts shall read:
+1. Civil Case No. CEB-35601 entitled 
+Colon Heritage Realty Corp. v. Film Development Council of the Philippines
+:
+WHEREFORE,
+ in view of all the foregoing, Judgment is hereby rendered in favor of Colon Heritage Realty Corp. and against the Film Development council of the Philippines, as follows:
+Declaring Sections 13 and 14 of Republic Act No. 9167 otherwise known as an Act Creating the Film Development Council of the Philippines, Defining its Powers and Functions, Appropriating Funds therefor and for other purposes, as invalid and unconstitutional;
+Declaring that the Film Development Council of the Philippines cannot collect under Sections 13 and 14 of R.A. 9167 as of the finality of the decision in G.R. Nos. 203754 and 204418;
+Declaring that Colon Heritage Realty Corp. has the obligation to remit the amusement taxes withheld on graded cinema films to FDCP under Sections 13 and 14 of R.A. 9167 for taxes due prior to the finality of this Decision, without surcharges;
+Declaring that upon the finality of this decision, all amusement taxes withheld and those which may be collected by Colon Heritage Realty Corp. on graded films shown in its cinemas in Cebu City shall be remitted to Cebu City pursuant to City Ordinance LXIX, Chapter XI, Section 42.
+2. Civil Case No. CEB-35529 entitled 
+City of Cebu v. Film Development Council of the Philippines
+:
+WHEREFORE,
+ in view of all the disquisitions, judgment is rendered in favor of the City of Cebu against the Film Development Council of the Philippines, as follows:
+Declaring Sections 13 and 14 of Republic Act No. 9167 otherwise known as an Act Creating the Film Development Council of the Philippines, Defining its Powers and Functions, Appropriating Funds therefor and for other purposes, void and unconstitutional;
+Declaring that the Film Development Council of the Philippines cannot collect under Sections 13 and 14 of R.A. 9167 as of the finality of this Decision;
+Declaring that Intervenor SM Cinema Corporation has the obligation to remit the amusement taxes, withheld on graded cinema films to respondent FDCP under Sections 13 and 14 of R.A. 9167 for taxes due prior to the finality of this Decision, without surcharges;
+Declaring that after the finality of this Decision, all amusement taxes withheld and those which may be collected by Intervenor SM on graded films shown in SM Cinemas in Cebu City shall be remitted to petitioner Cebu City pursuant to City Ordinance LXIX, Chapter XI, Section 42.
+As to the sum of PhP 76,836,807.08 remitted by the Intervenor SM to petitioner City of Cebu, said amount shall be remitted by the City of Cebu to petitioner FDCP within thirty (30) days from finality of this decision in G.R. Nos. 203754 and 204418 without interests and surcharges.
+Since Sections 13 and 14 of Republic Act No. 9167 were declared void and unconstitutional, all remittances of amusement taxes pursuant to said Sections 13 and 14 of said law prior to the date of finality of this Decision shall remain valid and legal. Cinema proprietors who failed to remit said amusement taxes to petitioner FDCP prior to the date of finality of this Decision are obliged to remit the same, without surcharges, to petitioner FDCP under the doctrine of operative fact.
+SO ORDERED.
+Sereno, C.J., Carpio, Leonardo-De Castro, Brion, Bersamin, Del Castillo, Villarama, Jr., Perez, Mendoza, Reyes
+, and 
+Perlas-Bernabe, JJ.
+, concur. 
+Leonen, J.
+, see concurring opinion; on leave, left his vote.
+Jardeleza, J.
+, no part.
+Peralta, J.
+, on official leave.
+NOTICE OF JUDGMENT
+Sirs/Mesdames:
+Please take notice that on 
+June 16, 2015
+ a Decision, copy attached herewith, was rendered by the Supreme Court in the above-entitled cases, the original of which was received by this Office on July 16, 2015 at 1:50 p.m.
+Very truly yours,
+(SGD.)
+FELIPA G. BORLONGAN-ANAMA
+Clerk of Court
+[1]
+ 
+Social Justice Society (SJS) v. Dangerous Drugs Board and Philippine Drug Enforcement Agency (PDEA)
+,G.R. No. 157870, November 3, 2008, 570 SCRA 410.
+[2] 
+Section 140.
+ Amusement Tax.* - (a) The province may levy an amusement tax to be collected from the proprietors, lessees, or operators of theaters, cinemas, concert halls, circuses, boxing stadia, and other places of amusement at a rate of not more than thirty percent (30%) of the gross receipts from admission fees.
+(b) In the case of theaters or cinemas, the tax shall first be deducted and withheld by their proprietors, lessees, or operators and paid to the provincial treasurer before the gross receipts are divided between said proprietors, lessees, or operators and the distributors of the cinematographic films.
+(c) The holding of operas, concerts, dramas, recitals, painting and art exhibitions, flower shows, musical programs, literary and oratorical presentations, except pop, rock, or similar concerts shall be exempt from the payment of the tax hereon imposed.
+(d) The sangguniang panlalawigan may prescribe the time, manner, terms and conditions for the payment of tax. In case of fraud or failure to pay the tax, the sangguniang panlalawigan may impose such surcharges, interest and penalties as it may deem appropriate.
+(e) The proceeds from the amusement tax shall be shared equally by the province and the municipality where such amusement places are located. [RA 7160]
+* Section 140 of RA 7160 was later amended by RA 9640 [An Act Amending Section 140 (A) of Republic Act No. 7160, Otherwise Known as âThe Local Government Code of 1991â]. RA 9640 lapsed into law on May 21, 2009. Presently, Sec. 140 reads:
+SEC. 140. 
+Amusement Tax
+. - (a) The province may levy an amusement tax to be collected from the proprietors, lessees, or operators of theaters, cinemas, concert halls, circuses, boxing stadia, and other places of amusement at a rate of not more than ten percent (10%) of the gross receipts from the admissions fees.
+(b) In the case of theaters or cinemas, the tax shall first be deducted and withheld by their proprietors, lessees, or operators and paid to the provincial treasurer before the gross receipts are divided between said proprietors, lessees, or operators and the distributors of the cinematographic films.
+(c) The holding of operas, concerts, dramas, recitals, paintings, and art exhibitions, flower shows, musical programs, literary and oratorical presentations, except pop, rock, or similar concerts shall be exempt from the payment of the tax herein imposed.
+(d) The sangguniang panlalawigan may prescribe the time, manner, terms and conditions for the payment of tax. In case of fraud or failure to pay the tax, the sangguniang panlalawigan may impose such surcharges, interest and penalties as it may deem appropriate.
+(e) The proceeds from the amusement tax shall be shared equally by the province and the municipality where such amusement places are located.
+[3]
+ Section 5, Article X of the 1987 Constitution. Each local government unit shall have the power to create its own sources of revenues and to levy taxes, fees, and charges subject to such guidelines and limitations as the Congress may provide, consistent with the basic policy of local autonomy. Such taxes, fees, and charges shall accrue exclusively to the local governments.
+[4]
+ The rate was later reduced to 10% pursuant to an amendatory ordinance.
+[5]
+An Act Creating the Film Development Council of the Philippines, Defining Its Powers and Functions, Appropriating Funds Therefor, and for Other Purposes.
+[6]
+ In its October 21, 2010 Order.
+[7]
+ Dated October 24, 2012, by Presiding Judge Raphael B. Ysrastorza, Sr.
+[8]
+ SEC. 140. 
+Amusement Tax
+. - (a) The province may levy an amusement tax to be collected from the proprietors, lessees, or operators of theaters, cinemas, concert halls, circuses, boxing stadia, and other places of amusement at a rate of not more than thirty percent (30%) of the gross receipts from admission fees.
+[9]
+ SEC. 151. 
+Scope of Taxing Powers
+. - Except as otherwise provided in this Code, the city, may levy the taxes, fees, and charges which the province or municipality may impose: Provided, however, That the taxes, fees and charges levied and collected by highly urbanized and independent component cities shall accrue to them and distributed in accordance with the provisions of this Code. The rates of taxes that the city may levy may exceed the maximum rates allowed for the province or municipality by not more than fifty percent (50%) except the rates of professional and amusement taxes.
+[10]
+ Section 5. Each local government unit shall have the power to create its own sources of revenues and to levy taxes, fees, and charges subject to such guidelines and limitations as the Congress may provide, consistent with the basic policy of local autonomy. Such taxes, fees and charges shall accrue exclusively to the local governments.
+[11]
+ G.R. No. 183505, February 26, 2010, 613 SCRA 774. Penned by Associate Justice Mariano C. Del Castillo. There, the Court held:
+The repeal of the Local Tax Code by the LGC of 1991 is not a legal basis for the imposition of VAT on the gross receipts of cinema/theater operators or proprietors derived from admission tickets. The removal of the prohibition under the Local Tax Code did not grant nor restore to the national government the power to impose amusement tax on cinema/theater operators or proprietors. Neither did it expand the coverage of VAT. Since the imposition of a tax is a burden on the taxpayer, it cannot be presumed nor can it be extended by implication. A law will not be construed as imposing a tax unless it does so clearly, expressly, and unambiguously. As it is, 
+the power to impose amusement tax on cinema/theater operators or proprietors remains with the local government
+.
+[12]
+ Section 13. Privileges of Graded Films. - Films which have obtained an âAâ or âBâ grading from the Council pursuant to Sections 11 and 12 of this Act shall be entitled to the following privileges:
+a. Amusement tax reward. - A grade âAâ or âBâ film shall entitle its producer to an incentive equivalent to the amusement tax imposed and collected on the graded films by cities and municipalities in Metro Manila and other highly urbanized and independent component cities in the Philippines pursuant to Sections 140 and 151 of Republic Act No. 7160 at the following rates:
+1. For grade âAâ films - 100% of the amusement tax collected on such films; and
+2. For grade âBâ films. - 65% of the amusement tax collected on such films. The remaining thirty-five (35%) shall accrue to the funds of the Council.
+[13]
+ Rollo
+ (G.R. No. 204418), pp. 43, 44.
+[14]
+ 
+Id
+. at 44, 45.
+[15]
+ 
+Id
+. at 45; citing Cruz, Isagani A., Constitutional Law (2007).
+[16]
+ Section 14. 
+Amusement Tax Deduction and Remittances
+.
+ - All revenue from the amusement tax on the graded film which may otherwise accrue to the cities and municipalities in Metropolitan Manila and highly urbanized and independent component cities in the Philippines pursuant to Section 140 of Republic Act. No. 7160 during the period the graded film is exhibited, shall be deducted and withheld by the proprietors, operators or lessees of theaters or cinemas and remitted within thirty (30) days from the termination of the exhibition to the Council which shall reward the corresponding amusement tax to the producers of the graded film within fifteen (15) days from receipt thereof.
+Proprietors, operators and lessees of theaters or cinemas who fail to remit the amusement tax proceeds within the prescribed period shall be liable to a surcharge equivalent to five percent (5%) of the amount due for each month of delinquency which shall be paid to the Council.
+[17] 
+An Act Amending Section 140 (A) of Republic Act No. 7160, Otherwise Known As âThe Local Government Code Of 1991.â RA 9640 lapsed into law on May 21, 2009. With the amendment, Sec. 140 now reads as follows:
+SEC. 140. 
+Amusement Tax
+. - (a) The province may levy an amusement tax to be collected from the proprietors, lessees, or operators of theaters, cinemas, concert halls, circuses, boxing stadia, and other places of amusement at a rate of not more than ten percent (10%) of the gross receipts from the admissions fees.
+(b) In the case of theaters or cinemas, the tax shall first be deducted and withheld by their proprietors, lessees, or operators and paid to the provincial treasurer before the gross receipts are divided between said proprietors, lessees, or operators and the distributors of the cinematographic films.
+(c) The holding of operas, concerts, dramas, recitals, paintings, and art exhibitions, flower shows, musical programs, literary and oratorical presentations, except pop, rock, or similar concerts shall be exempt from the payment of the tax herein imposed.
+(d) The sangguniang panlalawigan may prescribe the time, manner, terms and conditions for the payment of tax. In case of fraud or failure to pay the tax, the sangguniang panlalawigan may impose such surcharges, interest and penalties as it may deem appropriate.
+(e) The proceeds from the amusement tax shall be shared equally by the province and the municipality where such amusement places are located.
+[18]
+ Section 22. 
+Repealing Clause
+.
+ - Executive Order No. 811 is hereby repealed. Executive Order 1051 and Section 140 of Republic Act No. 7160, otherwise known as the Local Government Code of 1991, are hereby amended accordingly.
+All other laws, decrees, orders issuances, rules and regulations which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+[19]
+ 
+Pepsi-Cola Bottling Company of the Philippines, Inc. v. Municipality of Tanauan, Leyte, The Municipal Mayor, et al.
+, No. L-31156, February 27, 1976, 69 SCRA 460.
+[20] 
+Manila Electric Company v. Province of Laguna
+, G.R. No. 131359, May 5, 1999, 306 SCRA 750.
+[21]
+ 
+Id
+.
+[22]
+ 
+The Province of Batangas v. Romulo
+,G.R. No. 152774, May 27, 2004, 429 SCRA 736.
+[23]
+ G.R. No. 132988, July 19, 2000, 336 SCRA 201.
+[24]
+ It was also during this time that then President Ferdinand E. Marcos issued Presidential Decree No. 231 dated July 1, 1973, enacting a local tax code for provinces, cities, municipalities, and barrios, which codified the various tax laws and echoed the constitutional policy on local autonomy.
+[25]
+ See 
+Manila Electric Company v. Province of Laguna
+, supra note 20.
+[26]
+ Each local government unit shall have the power to create its own sources of revenues and to levy taxes, fees, and charges subject to such guidelines and limitations as the Congress may provide, consistent with the basic policy of local autonomy. Such taxes, fees and charges shall accrue exclusively to the local governments. [Section 5, Article X, 1987 Constitution]; see 
+Napocor v. City of Cabanatuan
+, G.R. No. 149110, April 9, 2003, 401 SCRA 259 [Taxation assumes even greater significance with the ratification of the 1987 Constitution. Thenceforth, the power to tax is no longer vested exclusively on Congress; local legislative bodies are now given direct authority to levy taxes, fees and other charges x x x. This paradigm shift results from the realization that genuine development can be achieved only by strengthening local autonomy and promoting decentralization of governance. For a long time, the countryâs highly centralized government structure has bred a culture of dependence among local government leaders upon the national leadership. It has also âdampened the spirit of initiative, innovation and imaginative resilience in matters of local development on the part of local government leaders.]; the 1987 Constitution enunciates the policy that the territorial and political subdivisions shall enjoy local autonomy. In obedience to that mandate of the fundamental law, the LGC expresses that the territorial and political subdivisions of the State shall enjoy genuine and meaningful local autonomy in order to enable them to attain their fullest development as self-reliant communities and make them more effective partners in the attainment of national goals, and that it is a basic aim of the State to provide for a more responsive and accountable local government structure instituted through a system of decentralization whereby local government units shall be given more powers, authority, responsibilities and resources. (
+LTO v. City of Butuan
+, G.R. No. 131512, January 20, 2000)
+[27]
+ See 
+The City Government of Quezon City, et al. v. Bayan Telecommunications, Inc.
+, G.R. No. 162015, March 6, 2006, 484 SCRA 169 [The Court has taken stock of the fact that by virtue of Section 5, Article X of the 1987 Constitution,local governments are empowered to levy taxes.]
+[28]
+ See 
+Manila Electric Company v. Province of Laguna
+, supra note 20.
+[29]
+ See Article X, Section 3 of the 1987 Constitution [Section 3. The Congress shall enact a local government code which shall provide for a more responsive and accountable local government structure instituted through a system of decentralization with effective mechanisms of recall, initiative, and referendum, allocate among the different local government units their powers, responsibilities, and resources, and provide for the qualifications, election, appointment and removal, term, salaries, powers and functions and duties of local officials, and all other matters relating to the organization and operation of the local units.]; See also 
+Napocor v. City of Cabanatuan
+, G.R. No. 149110, April 9, 2003, 401 SCRA 259 [Considered as the most revolutionary piece of legislation on local autonomy, the LGC effectively deals with the fiscal constraints faced by LGUs. It widens the tax base of LGUs to include taxes which were prohibited by previous laws such as the imposition of taxes on forest products, forest concessionaires, mineral products, mining operations, and the like. The LGC likewise provides enough flexibility to impose tax rates in accordance with their needs and capabilities. It does not prescribe graduated fixed rates but merely specifies the minimum and maximum tax rates and leaves the determination of the actual rates to the respective 
+sanggunian
+.]
+[30]
+ G.R. No. 183137, April 10, 2013, 695 SCRA 491, penned by Associate Justice Marvic M.V.F. Leonen.
+[31]
+ Section 151.
+ 
+Scope of Taxing Powers
+. - Except as otherwise provided in this Code, the city, may levy the taxes, fees, and charges which the province or municipality may impose: Provided, however, That the taxes, fees and charges levied and collected by highly urbanized and independent component cities shall accrue to them and distributed in accordance with the provisions of this Code.
+The rates of taxes that the city may levy may exceed the maximum rates allowed for the province or municipality by not more than fifty percent (50%) except the rates of professional and amusement taxes. [Local Government Code of 1991]
+[32]
+ City Ordinance No. LXIX.
+[33]
+ The rate was later reduced to 10% pursuant to an amendatory ordinance.
+[34] 
+Section 22. 
+Repealing Clause
+. - Executive Order No. 811 is hereby repealed. Executive Order 1051 and Section 140 of Republic Act No. 7160, otherwise known as the Local Government Code of 1991, are hereby amended accordingly. [RA 9167]
+[35]
+ See 
+Pelizloy Realty Corporation v. The Province of Benguet
+, supra note 30, where the Court recognized the power of Congress to remove from the taxing power of LGUs the authority to levy certain taxes.
+[36]
+ Rollo
+ (G.R. No. 203754), p. 218.
+[37]
+ See 
+Social Justice Society (SJS) v. Dangerous Drugs Board
+,supra note 1; citing 
+Government v. Springer
+, 50 Phil. 259 (1927). [As early as 1927, in 
+Government v. Springer
+, the Court has defined, in the abstract, the limits on legislative power in the following wise:
+Someone has said that the powers of the legislative department of the Government, like the boundaries of the ocean, are unlimited. In constitutional governments, however, as well as governments acting under delegated authority, the powers of each of the departments x x x are limited and confined within the four walls of the constitution or the charter, and each department can only exercise such powers as are necessarily implied from the given powers. The Constitution is the shore of legislative authority against which the waves of legislative enactment may dash, but over which it cannot leap.
+[38]
+ 
+Supra 
+note 23.
+[39]
+ See 
+The City Government of Quezon City, et al. v. Bayan Telecommunications, Inc.
+, supra note 27 [For sure, in 
+Philippine Long Distance Telephone Company, Inc. (PLDT) vs. City of Davao
+, this Court has upheld the power of Congress to grant exemptions over the power of local government units to impose taxes. There, the Court wrote:
+Indeed, the grant of taxing powers to local government units under the Constitution and the LGC does not affect the power of Congress to grant exemptions to certain persons, pursuant to a declared national policy. The legal effect of the constitutional grant to local governments simply means that in interpreting statutory provisions on municipal taxing powers, doubts must be resolved in favor of municipal corporations.]
+[40]
+ Ruben E. Agpalo, Statutory Construction, 1990, cited in Associate Justice Kapunanâs concurring and dissenting opinion in 
+Tatad v. Secretary
+, G.R. No. 124360, December 3, 1997.
+[41]
+ Sec. 3 of RA 9167.
+[42]
+ Ruben E. Agpalo, Statutory Construction, supra note 40.
+[43]
+ 
+Bolaos v. Bernarte
+, G.R. No. 180997, November 17, 2010, 635 SCRA 264; See also 
+TreÃ±as v. People
+, G.R. No. 195002, January 25, 2012.
+[44]
+ See 
+FariÃ±as v. The Executive Secretary
+,463 Phil. 179, 197 (2003); cited in 
+Lawyers against Monopoly and Poverty v. Secretary
+, G.R. No. 164987, April 24, 2012.
+[45]
+ 
+Claudio S. Yap v. Thenamaris Shipâs Management and Intermare Maritime Agencies, Inc.
+, G.R. No. 179532. May 30, 2011, 649 SCRA 369.
+[46]
+ Resolution dated November 22, 2011, G.R. No. 171101.
+CONCURRING OPINION
+LEONEN, 
+J.
+:
+I concur with the majority that Sections 13 and 14 of Republic Act No. 9167
+[1]
+ are unconstitutional because these infringe on the principle of local autonomy enshrined in the 1987 Constitution.
+[2]
+I write this separate opinion to express the view that our decision in this case should not be read as a prohibition against other forms of grants, subsidies, and incentives to the arts.
+The development and promotion of culture and the arts are recognized as a vital aspect of nation building. During the period of the Freedom Constitution, then President Corazon C. Aquino recognized the importance of promoting culture and the arts in the development of our national identity.
+[3]
+ Thus, President Aquino issued Executive Order No. 118
+[4]
+ which created the Presidential Commission on Culture and Arts.
+[5]
+The 1987 Constitution includes provisions on the promotion of culture and arts. Article II, Section 17 provides:
+Article II. Declaration of Principles and State Policies
+. . .                    . . .                    . . .
+Section 17. The State shall give priority to education, science and technology, arts, culture, and sports to foster patriotism and nationalism, accelerate social progress, and promote total human liberation and development.
+Other provisions regarding culture and the arts are found in Article XIV, specifically:
+Article XIV. Education, Science and Technology, Arts, Culture, and Sports
+. . .                    . . .                    . . .
+Section 14. The State shall foster the preservation, enrichment, and dynamic evolution of a Filipino national culture based on the principle of unity in diversity in a climate of free artistic and intellectual expression.
+Section 15. Arts and letters shall enjoy the patronage of the State. The State shall conserve, promote, and popularize the nationâs historical and cultural heritage and resources, as well as artistic creations.
+Section 16. All the countryâs artistic and historic wealth constitutes the cultural treasure of the nation and shall be under the protection of the State which may regulate its disposition.
+. . .                    . . .                    . . .
+Section 18. (1) The State shall ensure equal access to cultural opportunities through the educational system, public or private cultural entities, scholarships, grants and other incentives, and community cultural centers, and other public venues
+(2) The State shall encourage and support researches and studies on arts and culture.
+In 1992, Congress enacted Republic Act No. 7356,
+[6]
+ which established the National Commission for Culture and the Arts and replaced
+[7]
+ the Presidential Commission on Culture and Arts. One of the mandates of the National Commission for Culture and the Arts is to âextend financial and economic assistance such as subsidies, artist funds and social security to promote cultural development and protect artists and cultural workers.â
+[8]
+The enrichment and dynamic evolution of national culture through the arts are now a positive constitutional duty on the part of the state. Quality artistic expression is not simply private property but also partakes of the nature of âcultural treasure of the nationâ
+[9]
+ which enjoys state protection. The Constitution acknowledges the concept of âequal access to cultural opportunitiesâ
+[10]
+ and allows the use of âgrants and other incentivesâ
+[11]
+ to achieve this ideal.
+We are witnesses to the local cultural hegemony created by producers of foreign commercial films, including media formats accessible through cyberspace. Republic Act No. 9167 was adopted precisely to give the best among our local artists a chance to enhance their participation in the cultural spaces now dominated by non-locals.
+I am of the opinion that the traditional doctrines enunciated with respect to public money and the private sphere need to be nuanced when it comes to support for artistic expression. Necessarily, the affirmative means that are made constitutionally available to artistic expression will have to be made to private individuals and entities in a manner consistent with the provisions of Article X
+[12]
+ and XIV
+[13]
+ of the Constitution.
+ACCORDINGLY, the Petitions are partially 
+GRANTED
+.
+[1]
+ An Act Creating the Film Development Council of the Philippines, Defining its Powers and Functions, Appropriating Funds Therefor, and for Other Purposes (2002).
+[2]
+ CONST., art. X, sec. 2: âThe territorial and political subdivisions shall enjoy local autonomy.â
+[3]
+ Portions of the preambular clauses of Executive Order No. 118 state:
+AFFIRMING the government is committed to fulfill its constitutional mandate of preserving and developing Philippine culture for national identity and of placing arts and letters under the patronage of the state;
+MINDFUL of the fact that there is a need for a national body to articulate a national policy on culture, to conserve and promote national heritage, and to guarantee a climate of freedom, support and dissemination for all forms of artistic and cultural expression[.]
+[4]
+ Creating the Presidential Commission on Culture and Arts (1987).
+[5] 
+National Commission for Culture and the Arts, 
+http://www.ncca.gov.ph/about-ncca/about-ncca/about-ncca-history-mandate.php
+ (visited June 8, 2015).
+[6]
+ Law Creating the National Commission for Culture and the Arts (1992).
+[7]
+ Section 23 of Rep. Act No. 7356 states:
+Section 23. Transitory provisions. â (a) All the personnel, properties, assets and liabilities of the Presidential Commission on Culture and Arts (PCCA) created by Executive Order No. 118, are hereby transferred to the Commission as its successor-in-interest.
+. . .                    . . .                    . . .
+[8]
+ Rep. Act No. 7356 (1992), sec. 12.
+[9]
+ CONST., art. XIV, sec. 16.
+[10]
+ CONST., art. XIV, sec. 18 (1).
+[11]
+ CONST., art. XIV, sec. 18 (1).
+[12]
+ CONST., art. X, Local Government.
+[13]
+ CONST., art. IX, Education, Science, and Technology, Arts, Culture, and Sports.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

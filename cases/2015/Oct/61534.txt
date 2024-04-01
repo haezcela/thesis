@@ -1,0 +1,247 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			772 Phil. 14; 112 OG No. 26, 4006 (June 27, 2016)
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 166391, October 21, 2015 ]
+
+
+MICROSOFT CORPORATION, PETITIONER, VS. ROLANDO D. MANANSALA AND/OR MEL MANANSALA, DOING BUSINESS AS DATAMAN TRADING COMPANY AND/OR COMIC ALLEY, RESPONDENT.
+
+D E C I S I O N
+
+
+
+
+BERSAMIN, J.:
+
+
+This appeal seeks to overturn the decision promulgated on February 27, 2004,
+[1]
+ whereby the Court of Appeals (CA) dismissed the petition for 
+certiorari
+ filed by petitioner to annul the orders of the Department of Justice (DOJ) dated March 20, 2000,
+[2]
+ May 15, 2001,
+[3]
+ and January 27, 2003
+[4]
+ dismissing the criminal charge of violation of Section 29 of Presidential Decree No. 49 (
+Decree on Intellectual Property
+) it had instituted against the respondents; and the resolution promulgated on December 6, 2004 denying its motion for reconsideration.
+[5]
+Antecedents
+The CA summarized the factual and procedural antecedents thusly:
+Petitioner (Microsoft Corporation) is the copyright and trademark owner of all rights relating to all versions and editions of Microsoft software (computer programs) such as, but not limited to, MS-DOS (disk operating system), Microsoft Encarta, Microsoft Windows, Microsoft Word, Microsoft Excel, Microsoft Access, Microsoft Works, Microsoft Powerpoint, Microsoft Office, Microsoft Flight Simulator and Microsoft FoxPro, among others, and their user's guide/manuals.
+Private Respondent-Rolando Manansala is doing business under the name of DATAMAN TRADING COMPANY and/or COMIC ALLEY with business address at 3
+rd
+ Floor, University Mall Building, Taft Ave., Manila.
+Private Respondent Manansala, without authority from petitioner, was engaged in distributing and selling Microsoft computer software programs.
+On November 3, 1997, Mr. John Benedict A. Sacriz, a private investigator accompanied by an agent from the National Bureau of Investigation (NBI) was able to purchase six (6) CD-ROMs containing various computer programs belonging to petitioner.
+As a result of the test-purchase, the agent from the NBI applied for a search warrant to search the premises of the private respondent.
+On November 17, 1997, a Search Warrant was issued against the premises of the private respondent.
+On November 19, 1997, the search warrant was served on the private respondent's premises and yielded several illegal copies of Microsoft programs.
+Subsequently, petitioner, through Atty. Teodoro Kalaw IV tiled an Affidavit-Complaint in the DOJ based on the results of the search and seizure operation conducted on private respondent's premises.
+However, in a Resolution dated March 20, 2000, public respondent State Prosecutor dismissed the charge against private respondent for violation of Section 29 P.D. 49 in this wise, to quote:
+'The evidence is extant in the records to show that respondent is selling Microsoft computer software programs bearing the copyrights and trademarks owned by Microsoft Corporation. There is, however, no proof that respondent was the one who really printed or copied the products of complainant for sale in his store.
+WHEREFORE, it is hereby, recommended that respondent be charged for violation of Article 189 of the Revised Penal Code. The charge for violation of Section 29 of PD No. 49 is recommended dismissed for lack of evidence.'
+Petitioner filed a Motion for Partial Reconsideration arguing that printing or copying is not essential in the crime of copyright infringement under Section 29 of PD No. 49.
+On May 15, 2001, the public respondent issued a Resolution denying the Motion for Partial Reconsideration.
+Thereafter, petitioner filed a Petition for Review with the DOJ, which denied the petition for review.
+[6]
+Dissatisfied with the outcome of its appeal, the petitioner filed its petition for 
+certiorari
+ in the CA to annul the DOJ's dismissal of its petition for review on the ground of grave abuse of discretion amounting to lack or excess of jurisdiction on the part of the DOJ.
+On February 27, 2004, the CA rendered the assailed decision affirming the dismissal by the DOJ,
+[7]
+ disposing as follows:
+WHEREFORE
+, premises considered, the instant petition is 
+DENIED
+. Consequently, the Orders dated March 20, 2000, May 15, 2001 and January 27, 2003 respectively are hereby 
+AFFIRMED
+.
+SO ORDERED.
+[8]
+Issue
+The petitioner insists that printing or copying was not essential in the commission of the crime of copyright infringement under Section 29 of Presidential Decree No. 49; hence, contrary to the holding of the DOJ, as upheld by the CA, the mere selling of pirated computer software constituted copyright infringement.
+[9]
+Ruling of the Court
+The appeal is meritorious.
+Although the general rule is that the determination of the existence of probable cause by the public prosecutor is not to be judicially scrutinized because it is an executive function, an exception exists when the determination is tainted with grave abuse of discretion.
+[10]
+ Bearing this in mind, we hold that the DOJ committed grave abuse of discretion in sustaining the public prosecutor's dismissal of the charge of copyright infringement under Section 29 of Presidential Decree No. 49 on the ground of lack of evidence because the public prosecutor thereby flagrantly disregarded the existence of acts sufficient to engender the well-founded belief that the crime of copyright infringement had been committed, and that the respondent was probably guilty thereof.
+[11]
+Section 5 of Presidential Decree No. 49 specifically defined copyright as an exclusive right in the following manner:
+Section 5. Copyright shall consist in the exclusive right;
+(A) To print, reprint, publish, copy, distribute, multiply, sell, and make photographs, photo-engravings, and pictorial illustrations of the works;
+(B) To make any translation or other version or extracts or arrangements or adaptations thereof; to dramatize it if it be a non-dramatic work; to convert it into a non-dramatic work if it be a drama; to complete or execute if it be a model or design;
+(C) To exhibit, perform, represent, produce, or reproduce, the work in any manner or by any method whatever for profit or otherwise; it not reproduced in copies for sale, to sell any manuscript or any record whatsoever thereof;
+(D) To make any other use or disposition of the work consistent with the laws of the land.
+Accordingly, the commission of any of the acts mentioned in Section 5 of Presidential Decree No. 49 without the copyright owner's consent constituted actionable copyright infringement. In 
+Columbia Pictures, Inc. v. Court of Appeals
+,
+[12]
+ the Court has emphatically declared:
+Infringement of a copyright is a trespass on a private domain owned and occupied by the owner of the copyright, and, therefore, protected by law, and infringement of copyright, or piracy, which is a synonymous term in this connection, consists in the doing by any person, without the consent of the owner of the copyright, of anything the sole right to do which is conferred by statute on the owner of the copyright.
+The "gravamen of copyright infringement," according to 
+NBI-Microsoft Corporation v. Hwang
+:
+[13]
+is not merely the unauthorized manufacturing of intellectual works but rather the unauthorized performance of any of the acts covered by Section 5. Hence, any person who performs any of the acts under Section 5 without obtaining the copyright owners prior consent renders himself civilly and criminally liable for copyright infringement.
+[14]
+The CA stated in the assailed decision as follows:
+A reading of Section 5 (a) of the Copyright Law shows that the acts enumerated therein are punctuated by commas and the last phrase is conjoined by the words 'and'. Clearly, the same should be interpreted to mean as 'relating to one another' because it is basic in legal hermeneutics that the word 'and' is not meant to separate words but is a conjunction used to denote a 'joinder' or 'union'.
+In the book of Noli C. Diaz entitled as STATUTORY CONSTRUCTION, the word 'and' was defined as a 'conjunction connecting words or phrases expressing the idea that the latter is to be added to or taken along with the first'. Stated differently, the word 'and' is a conjunction pertinently defined as meaning 'together with', 'joined with', 'along or together with', 'added to or linked to' used to conjoin 'word with word', 'phrase with phrase', 'clause with clause'. The word 'and' does not mean 'or', it is a conjunction used to denote a joinder or union, 'binding together', relating the one to the other.
+Hence the key to interpret and understand Section 5 (a) of P.D. 49 is the word 'and'. From the foregoing definitions of the word 'and' it is unmistakable that to hold a person liable under the said provision of law, all the acts enumerated therein must be present and proven. As such, it is not correct to construe the acts enumerated therein as being separate or independent from one another.
+In the case at bar, petitioner failed to allege and adduce evidence showing that the private respondent is the one who copied, replicated or reproduced the software programs of the petitioner. In other words, 'sale' alone of pirated copies of Microsoft software programs does not constitute copyright infringement punishable under P.D. 49.
+[15]
+The CA erred in its reading and interpretation of Section 5 of Presidential Decree No. 49. Under the rules on syntax, the conjunctive word "and" denotes a "joinder or union" of words, phrases, or clause;
+[16]
+ it is different from the disjunctive word "or" that signals disassociation or independence.
+[17]
+ However, a more important rule of statutory construction dictates that laws should be construed in a manner that avoids absurdity or unreasonableness.
+[18]
+ As the Court pointed out in 
+Automotive Parts & Equipment Company, Inc. v. Lingad
+:
+[19]
+Nothing is better settled then that courts are not to give words a meaning which would lead to absurd or unreasonable consequence. That is a principle that goes back to In re Allen decided on October 29, 1903, where it was held that a literal interpretation is to be rejected if it would be unjust or lead to absurd results. That is a strong argument against its adoption. The words of Justice Laurel are particularly apt. Thus: 'The fact that the construction placed upon the statute by the appellants would lead to an absurdity is another argument for rejecting it x x x.'
+It is of the essence of judicial duty to construe statutes so as to avoid such a deplorable result. That has long been a judicial function. A literal reading of a legislative act which could be thus characterized is to be avoided if the language thereof can be given a reasonable application consistent with the legislative purpose. In the apt language of Frankfurter: A decent respect for the policy of Congress must save us from imputing to it a self-defeating, if not disingenuous purpose. Certainly, we must reject a construction that at best amounts to a manifestation of verbal ingenuity but hardly satisfies the test of rationality on which law must be based.
+[20]
+The conjunctive "and" should not be taken in its ordinary acceptation, but should be construed like the disjunctive "or" if the literal interpretation of the law would pervert or obscure the legislative intent.
+[21]
+ To accept the CA's reading and interpretation is to accept absurd results because the violations listed in Section 5(a) of Presidential Decree No. 49 - "
+To print, reprint, publish, copy, distribute, multiply, sell, and make photographs, photo-engravings, and pictorial illustrations of the works
+" â cannot be carried out on all of the classes of works enumerated in Section 2 of Presidential Decree No. 49, 
+viz
+.:
+Section 2. - The Rights granted by this Decree shall, from the moment of creation, subsist with respect to any of the following classes of works:
+(A) Books, including composite and encyclopedic works, manuscripts, directories, and gazetteers;
+(B) Periodicals, including pamphlets and newspapers;
+(C) Lectures, sermons, addresses, dissertations prepared for oral delivery;
+(D) Letters;
+(E) Dramatic or dramatico-musical compositions; choreographic works and entertainments in dumb shows, the acting form of which is fixed in writing or otherwise;
+(F) Musical compositions, with or without words;
+(G) Works of drawing, painting, architecture, sculpture, engraving, lithography, and other works of art; models or designs for works of art;
+(H) Reproductions of a work of art;
+(I) Original ornamental designs or models for articles of manufacture, whether or not patentable, and other works of applied art;
+(J) Maps, plans, sketches, and charts;
+(K) Drawings, or plastic works of a scientific or technical character;
+(L) Photographic works and works produced by a process analogous to photography; lantern slides;
+(M) Cinematographic works and works produced by a process analogous to cinematography or any process for making audio-visual recordings;
+(N) Computer programs;
+(O) Prints, pictorial, illustration, advertising copies, labels, tags, and box wraps;
+(P) Dramatization, translations, adaptations, abridgements, arrangements and other alterations of literary, musical or artistic works or of works of the Philippine Government as herein defined, which shall be protected as provided in Section 8 of this Decree.
+(Q) Collection of literary, scholarly, or artistic works or of works referred to in Section 9 of this Decree which by reason of the selection and arrangement of their contents constitute intellectual creations, the same to be protected as such in accordance with Section 8 of this Decree.
+(R) Other literary, scholarly, scientific and artistic works.
+Presidential Decree No. 49 thereby already acknowledged the existence of computer programs as works or creations protected by copyright.
+[22]
+ To hold, as the CA incorrectly did, that the legislative intent was to require that the computer programs be first photographed, photo-engraved, or pictorially illustrated as a condition for the commission of copyright infringement invites ridicule. Such interpretation of Section 5(a) of Presidential Decree No. 49 defied logic and common sense because it focused on terms like "copy," "multiply," and "sell," but blatantly ignored terms like "photographs," "photo-engravings," and "pictorial illustrations." Had the CA taken the latter words into proper account, it would have quickly seen the absurdity of its interpretation.
+The mere sale of the illicit copies of the software programs was enough by itself to show the existence of probable cause for copyright infringement. There was no need for the petitioner to still prove who copied, replicated or reproduced the software programs. Indeed, the public prosecutor and the DOJ gravely abused their discretion in dismissing the petitioner's charge for copyright infringement against the respondents for lack of evidence. There was grave abuse of discretion because the public prosecutor and the DOJ acted whimsically or arbitrarily in disregarding the settled jurisprudential rules on finding the existence of probable cause to charge the offender in court. Accordingly, the CA erred in upholding the dismissal by the DOJ of the petitioner's petition for review. We reverse.
+WHEREFORE
+, the Court 
+GRANTS
+ the petition for review on 
+certiorari
+; 
+REVERSES
+ and 
+SETS ASIDE
+ the decision promulgated on February 27, 2004 in C.A.-G.R. SP No. 76402; 
+DIRECTS
+ the Department of Justice to render the proper resolution to charge respondent 
+ROLANDO D. MANANSALA and/or MEL MANANSALA, doing business as DATAMAN TRADING COMPANY and/or COMIC ALLEY
+ in accordance with this decision; and 
+ORDERS
+ the respondents to pay the costs of suit.
+SO ORDERED.
+Sereno, C. J., Velasco, Jr.,
+*
+ Leonardo-De Castro
+, and 
+Perlas-Bernabe, JJ.
+, concur.
+*
+ In lieu of Associate Justice Jose Portugal Perez, who is on official business to Canada, per Special Order No. 2253 dated October 14, 2015.
+[1]
+ 
+Rollo
+, pp. 53-59; penned by Associate Justice Arsenio J. Magpale (retired/deceased) and concurred in by Associate Justice Bienvenido L. Reyes (now a Member of this Court) and Associate Justice Conrado M. Vasquez, Jr. (later Presiding Justice/retired/deceased).
+[2]
+ Id. at 115-122.
+[3]
+ Id. at 129-130.
+[4]
+ Id. at 151-152.
+[5]
+ Id. at 61.
+[6]
+ Supra note I, at 53-55.
+[7]
+ Id.
+[8]
+ Id. at 58.
+[9]
+ 
+Rollo
+, pp. 22-29.
+[10]
+ 
+Aguilar v. Department of Justice
+, G.R. No. 197522, September 11, 2013, 705 SCRA 629, 638.
+[11]
+ Id. at 639-640.
+[12]
+ G.R. No. 110318, August 28, 1996, 261 SCRA 144, 183-184.
+[13]
+ G.R. No. 147043, June 21, 2005, 460 SCRA 428.
+[14]
+ Id. at 443-444.
+[15]
+ 
+Rollo
+, pp. 57-58.
+[16]
+ Agpalo, 
+Statutory Construction
+, (4th Ed. 1998), p. 203.
+[17]
+ Id. at 201.
+[18]
+ 
+Chartered Bank of India v. Imperial
+, 48 Phil. 931, 948 (1921).
+[19]
+ G.R. No. L-26406, October 31, 1969, 30 SCRA 248.
+[20]
+ Id. at 255-256.
+[21]
+ Agpalo, 
+Statutory Construction
+, supra note 16.
+[22]
+ Section 2(n), P.D. 49.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

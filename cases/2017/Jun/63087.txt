@@ -1,0 +1,538 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			811 Phil. 80
+			
+
+
+
+
+SPECIAL THIRD DIVISION
+
+
+[ G.R. No. 195876, June 19, 2017 ]
+
+
+PILIPINAS SHELL PETROLEUM CORPORATION, PETITIONER, V. COMMISSIONER OF CUSTOMS, RESPONDENT.
+
+
+RESOLUTION
+
+
+
+
+VELASCO JR., J.:
+
+
+Acting on the Omnibus Motion (For Reconsideration and Referral to the Court En banc) dated January 20, 2017 filed by public respondent Commissioner of Customs, the Court 
+DENIES
+ the same for lack of merit. The arguments raised by respondent in this pending incident are the very same arguments raised in the petition, which have already been evaluated, passed upon, and considered in the assailed December 5, 2016 Decision. Ergo, the Court rejects these arguments on the same grounds discussed in the challenged Decision, and denies, as a matter of course, the pending motion. 
+ 
+ 
+Unlike in Chevron, petitioner herein is not guilty of fraud
+ 
+ 
+ 
+The Omnibus Motion is anchored primarily on the alleged applicability of 
+Chevron Philippines, Inc. v. Commissioner of the Bureau of Customs
+[1]
+ (
+Chevron
+) to the case at bar. However, the Court desisted from applying the doctrine laid down in 
+Chevron
+ considering that the facts and circumstances therein are not in all fours with those obtaining in the instant case. Thus, Chevron is not a precedent to the case at bar. 
+ A "precedent" is defined as a judicial decision that serves as a rule for future determination in similar or substantially similar cases. Thus, the facts and circumstances between the jurisprudence relied upon and the pending controversy should not diverge on material points. But as clearly explained in the assailed December 5, 2016 Decision, the main difference between 
+Chevron 
+and the case at bar lies in the attendance of fraud. 
+ In 
+Chevron
+, evidence on record established that Chevron committed fraud in its dealings. On the other hand, proof that petitioner Pilipinas Shell Petroleum Corporation (Pilipinas Shell) was just as guilty was clearly wanting. Simply, there was no finding of fraud on the part of petitioner in the case at bar. Such circumstance is too significant that it renders
+ Chevron
+ indubitably different from and cannot, therefore, serve as the jurisprudential foundation of the case at bar. 
+ In his dissent, Associate Justice Diosdado M. Peralta (Justice Peralta) claims that fraud was committed by Pilipinas Shell when it allegedly deliberately incurred delay in filing its Import Entry and Internal Revenue Declaration in order to avail of the reduced tariff duty on oil importations, from ten percent (10%) to three percent (3%), upon the effectivity of Republic Act No. 8180 (RA 8180), otherwise known as the Oil Deregulation Law. Justice Peralta cites the February 2, 2011 Memorandum to support the allegation of fraud, but as exhaustively discussed in Our December 5, 2016 Decision, 
+the document was never formally offered as evidence before the Court of Tax Appeals, and is, therefore, bereft of evidentiary value. Worse, it was not even presented during trial and no witness identified the same. 
+ 
+ What value can the Court then accord to the document? The Court finds its answer in 
+Heirs of Pasag v. Sps. Parocha
+,
+[2]
+ which teaches that: 
+ 
+ x x x 
+Documents which may have been identified and marked as exhibits during pre-trial or trial but which were not formally offered in evidence cannot in any manner be treated as evidence.
+ Neither can such unrecognized proof be assigned any evidentiary weight and value. It must be stressed that there is a significant distinction between identification of documentary evidence and its formal offer. The former is done in the course of the pre-trial, and trial is accompanied by the marking of the evidence as an exhibit; while the latter is done only when the party rests its case. 
+The mere fact that a particular document is identified and marked as an exhibit does not mean that it has already been offered as part of the evidence. It must be emphasized that any evidence which a party desires to submit for the consideration of the court 
+must formally be offered by the party; otherwise, it is excluded and rejected
+. 
+(emphasis added)
+ 
+ 
+ Resultantly, no scintilla of proof was ever offered in evidence by respondent Commissioner of Customs to substantiate the claim that Pilipinas Shell acted in a fraudulent manner. 
+At best, the allegation of fraud on the part of Pilipinas Shell is mere conjecture and purely speculative.
+ Settled is the rule that a court cannot rely on speculations, conjectures or guesswork, but must depend upon competent proof and on the basis of the best evidence obtainable under the circumstances. We emphasize that litigations cannot be properly resolved by suppositions, deductions, or even presumptions, with no basis in evidence, for the truth must have to be determined by the hard rules of admissibility and proof.
+[3]
+ 
+ 
+ 
+The absence of fraud and its effects on the one-year prescriptive period, and on the due notice requirement prior to
+ ipso facto 
+abandonment
+ 
+ 
+ 
+ 
+As extensively discussed in the assailed Decision, whether or not petitioner Pilipinas Shell defrauded the public respondent becomes pivotal because of Section 1603 of the Tariff and Customs Code of the Philippines (TCC), which reads: 
+ 
+ Section 1603. 
+Finality of Liquidation
+. When articles have been entered and passed free of duty or final adjustments of duties made, with subsequent delivery, such entry and passage free of duty or 
+settlements of duties will, after the expiration of one (1) year, from the date of the final payment of duties, 
+in the absence of fraud
+ or protest or compliance audit pursuant to the provisions of this Code, 
+be final and conclusive upon all parties
+, unless the liquidation of the import entry was merely tentative. (emphasis added)
+ 
+ 
+ Pursuant to the above-quoted provision, the attendance of fraud would remove the case from the ambit of the statute of limitations, and would consequently allow the government to exercise its power to assess and collect duties even beyond the one-year prescriptive period, rendering it virtually imprescriptible.
+[4]
+ In the case at bar, petitioner Pilipinas Shell filed its Import Entry and Internal Revenue Declaration (IEIRD) and paid the import duty of its shipments in the amount of P11,231,081 on May 23, 1996. However, 
+it only received a demand letter from public respondent on July 27, 2000, or more than four (4) years later.
+ By this time, the one-year prescriptive period had already elapsed, and the government had already been barred from collecting the deficiency in petitioner's import duties for the covered shipment of oil.
+ In an attempt to remove the instant case from the purview of the provision, Justice Peralta and the respondent claim that the government is no longer collecting tariff duties. Rather, it is exercising its ownership right over the shipments, which were allegedly deemed abandoned by petitioner because of the latter's failure to timely file the IEIRD. It is their postulation then that Sec. 1603 cannot find application in the case at bar. 
+ We respectfully disagree.
+ The absence of fraud not only allows the finality of the liquidations, it also calls for the strict observance of the requirements for the doctrine of
+ ipso facto
+ abandonment to apply. Sec. 1801 of the TCC pertinently provides: 
+ 
+ Section 1801. Abandonment, Kinds and Effect of - An imported article is 
+deemed abandoned
+ under any of the following circumstances: 
+ 
+ x x x x 
+ 
+ b. When the owner, importer, consignee or interested party
+ after due notice
+, fails to file an entry within thirty (30) days, which shall not be extendible, from the date of discharge of the last package from the vessel or aircraft, or having filed such entry, fails to claim his importation within fifteen (15) days, which shall not likewise be extendible, from the date of posting of the notice to claim such importation. (emphasis supplied) 
+ 
+ 
+ As expressly provided in Sec. 1801(b) of the TCC, 
+the failure to file the IEIRD within 30 days from entry is not the only requirement for the doctrine of
+ ipso facto
+ abandonment to apply
+. The law categorically requires that this be preceded by due notice demanding compliance. 
+ To recapitulate, the notice in this case was only served upon petitioner four (4) years after it has already filed its IEIRD. Under this circumstance, the Court cannot rule that due notice was given, for when public respondent served the notice demanding payment from petitioner, it no longer had the right to do so. By that time, the prescriptive period for liquidation had already elapsed, and the assessment against petitioner's shipment had already become final and conclusive. Consequently, Sec. 1801(b) failed to operate in favor of the government for failure to demand payment for the discrepancy prior to the finality of the liquidation. The government cannot deem the imported articles as abandoned without due notice. 
+ Public respondent cannot harp on the 
+Chevron
+ ruling to excuse compliance from the due notice requirement before the imported articles can be deemed abandoned, for to do so would only downplay the Court's finding anent the non-attendance of fraud. To be clear, the element of fraud in 
+Chevron
+ was a key ingredient on why notice was deemed unnecessary:
+[5]
+ 
+ 
+ 
+Under the peculiar facts and circumstances of this case, due notice was not necessary
+. The shipments arrived in 1996.The IEDs and IEIRDs were also filed in 1996. 
+However, respondent discovered the fraud which attended the importations and their subsequent release from the DOC's custody only in 1999
+. 
+Obviously, the situation here was not an ordinary case of abandonment wherein the importer merely decided not to claim its importations. Fraud was established against petitioner; it colluded with the former District Collector. Because of this, the scheme was concealed from respondent. The government was unable to protect itself until the plot was uncovered. The government cannot be crippled by the malfeasance of its officials and employees. Consequently, it was impossible for respondent to comply with the requirements under the rules.
+ 
+ By the time respondent learned of the anomaly, the entries had already been belatedly filed and the oil importations released and presumably used or sold. It was a 
+fait accompli
+. 
+Under such circumstances, it would have been against all logic to require respondent to still post an urgent notice to file entry before declaring the shipments abandoned.
+ 
+(emphasis added)
+ 
+ 
+ Hence, it does not suffice that petitioner is a multinational, large scale importer presumed to be familiar with importation rules and procedures for the 
+ipso facto
+ abandonment doctrine to apply. 
+Under the peculiar facts and circumstances
+ of 
+Chevron
+, 
+the existence of fraud was the primary element established to warrant the application of the doctrine.
+ Without this element, 
+Chevron
+ cannot be treated at par with the case at bar. The statutorily required due notice should still have been timely served upon petitioner before the imported oil shipments could have been deemed abandoned. 
+ Under public respondent's Customs Memorandum Order No. (CMO) 15-94, otherwise known as the Revised Guidelines on Abandonment in force at that time, due notice is served upon the importer through the following measures: 
+ 
+ SUBJECT: REVISED GUIDELINES ON ABANDONMENT 
+ 
+ x x x x 
+ 
+ B. ADMINISTRATIVE PROVISIONS 
+ 
+ x x x x 
+ 
+ B.2 Implied abandonment occurs when: 
+ 
+ B.2.1 The owner, importer, consignee, interested party or his authorized broker/representative, after due notice, fails to file an entry within a non-extendible period of thirty (30) days from the date of discharge of last package from the carrying vessel or aircraft. 
+ 
+ x x x x 
+ 
+ 
+Due notice to the consignee/importer/owner/interested party shall be by means of posting of a notice to file entry at the Bulletin Board seven (7) days prior to the lapse of the thirty (30) day period
+ by the Entry Processing Division listing the consignees who/which have not filed the required import entries as of the date of the posting of the notice 
+and notifying them of the arrival of their shipment
+, the name of the carrying vessel/aircraft, Voy. No. Reg. No. and the respective B/L No./AWB No., with a warning, as shown by the attached form, entitled: URGENT NOTICE TO FILE ENTRY which is attached hereto as Annex A and made an integral part of this Order. 
+ 
+ x x x x 
+ 
+ C. OPERATIONAL PROVISIONS 
+ 
+ x x x x 
+ 
+ C.2 On Implied Abandonment: 
+ 
+C.2.1 When no entry is filed
+ 
+ 
+ 
+ 
+C.2.1.1
+ 
+Within twenty-four (24) hours after the completion of the boarding formalities
+, the Boarding Inspector must submit the 
+manifests
+ to the Bay Service or similar office so that the Entry Processing Division copy may be put to use by said office as soon as possible.
+ 
+ 
+ 
+C..2.1.2
+ 
+ 
+Within twenty-four (24) hours after the completion of the unloading of the vessel/aircraft, the Inspector assigned in the vessel/aircraft
+, shall issue a 
+certification
+ addressed to the Collector of Customs (Attention: Chief, Entry Processing Division), copy furnished Chief, Data Monitoring Unit, specifically stating the time and date of discharge of the last package from the vessel/aircraft assigned to him. Said certificate must be encoded by Data Monitoring Unit in the Manifest Clearance System.
+ 
+ 
+ 
+C.2.1.3
+ 
+ 
+Twenty-three (23) days after the discharge of the last package
+ from the carrying vessel/aircraft, the Chief, Data Monitoring Unit shall cause the printing of the 
+URGENT NOTICE TO FILE ENTRY
+ in accordance with the attached form, Annex A hereof, sign the URGENT NOTICE and 
+cause its posting continuously for seven (7) days at the Bulletin Board for the purpose until the lapse of the thirty (30) day period
+.
+ 
+ 
+ 
+C.2.1.4 
+ 
+The Chief, Data Monitoring Unit, shall 
+submit a weekly report 
+to the Collector of Customs with a listing by vessel, Registry Number of shipments/ importations which shall be deemed abandoned for failure to file entry within the prescribed period and 
+with certification
+ that per records available, the thirty (30) day period within which to file the entry therefore has lapsed without the consignee/importer filing the entry and that the proper posting of notice as required has been complied with.
+ 
+ 
+ 
+ 
+x x x x 
+ 
+ 
+ 
+C.2.1.5 
+ 
+Upon receipt of the report, the Collector of Customs shall issue an 
+order
+ to the Chief, Auction and Cargo Disposal Division, 
+to dispose of the shipment 
+enumerated in the report prepared by the Chief, Data Monitoring Unit on the ground that those are abandoned and 
+ipso facto
+ deemed the property of the Government to be disposed of as provided by law. (emphasis supplied)
+ 
+ 
+ 
+ 
+ 
+CMO 15-94 is an executive edict that implements Section 1801(b) of the TCC. It is an interpretation given to a statute by those charged with its execution, and is intended for the guidance of subordinate executive officials to promote a more efficient and cost effective administration of the BOC. Unless the rule appears to be clearly unreasonable or arbitrary, it is entitled to the greatest weight by the Court,
+[6]
+ if not accorded the similar force and binding effect of law.
+[7]
+ 
+ Coupled with the earlier quotation from 
+Chevron
+, it becomes abundantly clear that 
+the notice requirement as mandated in CMO 15-94 cannot be excused unless fraud is established
+. Resultantly, fraud being absent on the part of petitioner Pilipinas Shell, the
+ ipso facto
+ abandonment doctrine cannot operate within the factual milieu of the instant case. Be that as it may, in view of the substantial differences between the facts of 
+Chevron 
+and the peculiarities of the instant case, and just as 
+Chevron
+ was justified "
+under the peculiar facts and circumstances
+" obtaining therein, the Decision dated December 5, 2016 in the case at bar ought to be considered as a judgment 
+pro hac vice
+.
+ 
+WHEREFORE
+, premises considered, the Court 
+DENIES WITH FINALITY
+ the Omnibus Motion (For Reconsideration and Referral to the Court En banc) dated January 20, 2017 filed by public respondent Commissioner of Customs for lack of merit. 
+ No further pleadings or motions will be entertained. 
+ Let entry of judgment be issued. 
+ 
+SO ORDERED.
+ 
+Reyes 
+and 
+Tijam JJ.,
+ concur.
+ 
+Peralta, J.,
+ see dissenting opinion.
+ 
+Jardeleza, J.
+, join the dissent of 
+J.
+ Peralta.
+ 
+ 
+ 
+ 
+ NOTICE OF JUDGMENT
+ 
+ 
+July 4, 2017 
+ 
+ 
+ Sirs/Mesdames: 
+ Please take notice that on 
+June 19, 2017
+ a Decision, copy attached hereto, was rendered by the Supreme Court in the above-entitled case, the original of which was received by this Office on July 4, 2017 at 10:40 a.m. 
+ 
+ 
+ 
+ 
+Very truly yours,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(SGD.) WILFREDO V. LAPITAN
+ 
+ Division Clerk of Court 
+ 
+ 
+ 
+ 
+ 
+[1]
+ 583 Phil. 706 (2008). 
+ 
+[2]
+ G.R. No. 155483, April 27, 2007, 522 SCRA 410. 
+ 
+[3] 
+Lagon v. Hooven Comalco Industries. Inc
+., G.R No. 135657, January 17, 2001, 349 SCRA 363.
+ 
+ 
+[4]
+ 
+See
+ Concurring Opinion of Associate Justice Presbitero J. Velasco, Jr. to the December 5, 2016 Decision. 
+ 
+[5]
+ Supra note 1.
+ 
+ 
+[6]
+ 
+Eastern Telecommunications Philippines, Inc. v. International Communication Corporation
+, G.R. No. 135992, January 31, 2006, 481 SCRA 163.
+ 
+ 
+[7]
+ 
+ABAKADA Guro Partylist v. Purisima
+, G.R. No. 166795, August 14, 2008. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DISSENTING OPINION 
+ 
+ PERALTA, 
+J
+.:
+ 
+ This treats of the Omnibus Motion filed by respondent, as represented by the Office of the Solicitor General (
+OSG
+), praying that: (1) the present case be referred to the Court 
+En Banc
+ for resolution; (2) the Decision of this Court dated December 5, 2016 be reversed and set aside; and (3) the May 13, 2010 Decision and February 22, 2011 Resolution of the Court of Tax Appeals Former 
+En Banc
+ be affirmed.
+ Respondent raises the following contentions: 
+ 
+ The government's ownership of the abandoned article in the case at bar is absolute and petitioner could not have reclaimed title over the same at the time of disposition. As such, being the owner of the abandoned article, the government is entitled to its full value
+ 
+ The extent of the prescriptive period under Section 1603 of the TCCP is limited only to the final determination of the exact amound of duties on imported articles. It does not extend to the recovery of abandoned articles under Sections 1801 and 1802 of the TCCP.
+ 
+ In view of the conflicting rulings in Chevron and in the instant case, the subject petition should be referred to the Court En Banc
+[1]
+ 
+ 
+ I vote to grant the Omnibus Motion.
+ As I have previously discussed in my dissenting opinion to the majority Decision, the supposed duty of the government, through the Bureau of Customs (
+BOC
+), to assess and collect customs duties within a period of one year, in the absence of fraud, becomes immaterial once an importer fails to file the required import entries within the non-extendible period of thirty (30) days from the date of discharge of the last package from the carrying vessel. This is so because after the lapse of the said 30-day period, the imported articles are deemed impliedly abandoned and, 
+ipso facto
+, becomes the property of the government. This is precisely the logic behind the reason why the BOC, in the instant case, is not seeking to collect customs duties from petitioner in the exercise of its power to tax under the law. Instead, it seeks to recover the dutiable value of the oil importations to vindicate its right as the owner of the subject imported oil products which were appropriated by petitioner despite having abandoned the same.
+ Petitioner insists on the applicability of the provisions of Section 1603 of the Tariff and Customs Code of the Philippines (
+TCCP
+) to the present case. However, petitioner should be reminded that Section 1603 of the TCCP, as aptly titled, refers to the finality of liquidation. As previously held by this Court in a separate case, liquidation is the final computation and ascertainment by the Collector of Customs of the duties due on imported merchandise based on official reports as to the quantity, character and value thereof, and the Collector of Customs' own finding as to the applicable rate of duty.
+[2]
+ Thus, liquidation means the assessment or determination of whether duties should be imposed on imported articles and, if so, the amount thereof. The finality of the liquidation contemplated under Section 1603 of the TCCP is meant to limit the taxing powers of the State by providing that, after the lapse of one year from the date of final payment of duties, the government is already precluded from making further determination or adjustment of duties on the imported articles. In the present case, there is no liquidation to speak of as the BOC is no longer trying to assess and collect duties due on petitioner's importation. What the BOC demands from petitioner is the payment of the dutiable value of the latter's oil importation which was deemed abandoned and became, 
+ipso facto
+, the property of the government. In filing an action for the recovery of the dutiable value of the subject oil importation, the government is exercising not its power to assess and collect duties and taxes but its right of ownership over the abandoned imported articles. Hence, Section 1603 of the TCCP is not applicable in the present case. Thus, as correctly posited by the OSG:
+ x x x x x x x x x 
+ 
+ x x x at the liquidation stage, one of two things may happen: (a) articles will enter and pass free of duty, or (b) final adjustment of duties will be made. In other words, there will be a final determination of whether duties should be paid as well as the amount thereof.
+ 
+ 51. After the expiration of one (1) year from the date of the final payment of duties, such entry and passage free of duty or settlement of duties shall be final and conclusive upon all parties. This means that the exact amount of duties can no longer be corrected, and the Collector of Customs is no longer authorized to re-liquidate entries and collect additional charges or make refunds. The law, however, provides for exceptions, one of which is the presence of fraud.
+ 
+ 
+ x x x x x x x x x 
+ 
+ 53. x x x, the prescriptive period under Section 1603 of the TCCP can be essentially characterized as a limitation on the taxing powers of the government. It aims to ensure that the determination of the amount of duty can no longer be disturbed after one (1) year. Indeed, if any errors were committed that resulted in under- or over-collection of duties, all parties are barred from correcting it anymore after the prescriptive period.
+ 
+ 54. Thus, respondent agrees with this Honorable Court's Third Division that the government is precluded from disturbing the settlement of duties after the expiration of the prescriptive period. The government can no longer look into any errors, including anything that may arise from the filing of the necessary documents, for the purpose of determining the amount of duties. 
+ 
+ 55. Respondent, however, takes exception to the ruling of this Honorable Court's Third Division that said prescriptive period extends to the determination of the timeliness of filing of import entries for the purpose of determining whether an article has been deemed abandoned. 
+ 
+ 56. As discussed above, an article is deemed abandoned when the importer fails to file an entry within a non-extendible period of thirty (30) days from the date of discharge of the package from the vessel. Such abandoned article shall 
+ipso facto
+ be deemed the property of the Government. Nothing in the law requires that such ownership shall be subject to any other condition, much less Section 1603 of the TCCP which only applies to the finality of liquidation of duties. 57. By virtue of the transfer of ownership of the abandoned article from petitioner to the government, the petitioner unjustly enriched itself when it appropriated the same at the expense of the government. Thus, it is but just that petitioner be held liable not for a mere tax deficiency - which cannot be re-liquidated beyond the period conferred by Section 1603 - but for the value of government property which it consumed and disposed without legal authority.
+ 
+ 58. It bears, emphasis that when a government property is unlawfully appropriated and the government desires to recover its value, the government is merely exercising its right of ownership. Considering that in the instant case, respondent is demanding the value of a government property which was abandoned and appropriated by the petitioner as opposed to the duties due thereon Section 1603 of the TCCP does not apply. There is no rhyme or reason for applying the prescriptive period under Section 1603 of the TCCP, which is essentially a limitation on the state's exercise of its taxing powers. 
+ 
+ 
+ x x x x x x x x x
+[3]
+ 
+ Consequently, since what the government seeks is the recovery of the value of the subject abandoned oil importation, the CTA Former 
+En Banc
+ correctly held that the existence or absence of fraud becomes immaterial. Fraud is relevant only in cases of assessment and collection of taxes and duties on the ground that its existence will not preclude the government from making further liquidation or assessment of duties due on imported articles.
+ In any case, I take exception to the findings of the majority that petitioner did not commit fraud. It bears to point out that the CTA First Division's finding of fraud was based on the February 2, 2011 Memorandum issued by Special Investigator II Domingo B. Almeda and Special Investigator III Nemesio C. Magno, Jr. of the Customs Intelligence & Investigation Service - Investigation and Prosecution Division (
+CIIS-IPD
+) of the Bureau of Customs. Pertinent portions of the said Memorandum read, thus: 
+ 
+ It is worth to mention at this point that the investigation has established conspiracy to commit fraud against the government, between the former District Collector of the Port of Batangas and Messrs. Casabal and Cabrera of Caltex and Mr. Marasigan of Shell.
+ 
+ The records show that Caltex and Shell bided their time to file their import entries after the 30-day period has prescribed at 3% rate of duty. The District Collector, despite being informed by his subordinates about the lapse of the prescribed period of 30 days allowed the acceptance of the entry and the collection of duty based on the declared rate despite the fact that the Law cited earlier does not grant him such authority. Obviously, the District Collector, in conspiracy with the above-named officials of Caltex and Shell acted without authority or abused his authority by giving undue benefits to the importers by allowing the processing, payment and subsequent release of the shipments to the damage and prejudice of the government who, under the law is already the owner of the shipments valued at Php2,176,155,929.00 which was allowed to be withdrawn by the importers after paying meager amounts of duties and taxes.
+[4]
+ 
+ 
+ This is the same document relied upon by this Court in 
+Chevron Philippines, Inc. v. Commissioner of the Bureau of Customs
+[5]
+ when it ruled that 
+Chevron
+ was, likewise, guilty of fraud, although, in the presently assailed Decision, the majority disregarded this piece of evidence.
+ 
+ As in 
+Chevron
+, the circumstances surrounding petitioner's delayed filing of its IEIRD indicate fraud as evidence shows that there is an apparent preconceived design or intent to evade the payment of the correct customs duties prevailing at the time of arrival of the subject imported crude oil. Why would petitioner delay the filing of its IEIRD and run the risk of having its oil importation deemed abandoned if not for its desire to evade the payment of the correct amount of duties on the said importation? Petitioner's excuse of discrepancy in the amount of crude oil actually delivered to it and the figure stated in the Bill of Lading as well as the absence of supporting documents as the cause of its delay in filing the required IEIRD is unavailing. In this respect, the CTA First Division ruled as follows:
+ x x x x x x x x x 
+ 
+ The Court finds petitioner's excuses, that the causes for the delay in the filing of IEIRD are delay in the arrival of the commercial invoice; and the necessity to correct an error in the volume of crude oil received by Petitioner, implausible. Records show that two Bills of Lading were simultaneously issued on March 5, 1996 for the carriage of Arab light crude oil. One Bill of Lading was for 1,880,057 US barrels, while the other Bill of Lading was for 104,448 US barrels. Thus, the net of imported crude oil can be easily computed as 1,984,505 US barrels. The Bills of Lading should have been submitted as supporting document[s], together with the IEIRD for the determination of the correct amount of customs duty which petitioner should pay for its importation.
+[6]
+ 
+ 
+ Even assuming that there was indeed a delay in the arrival of the commercial invoices which are supposedly necessary to accurately reflect the volume of crude oil received by petitioner, considering the serious consequences of delayed filing, the absence of these documents should not have prevented petitioner from complying with the mandatory and non-extendible 30-day period for the filing of its IEIRD. If petitioner is in good faith, the least that it should have done was to file the IEIRD on the basis of the available documents and inform the BOC of the possibility of amending the IEIRD upon arrival of the documents needed to make accurate and complete entries. From the foregoing, it becomes evident that petitioner, for all intents and purposes, intended to defraud the government of its lawful revenue.
+ As to respondent's third contention, contrary to the petitioner's argument in its Opposition to the Omnibus Motion for Reconsideration, the instant 
+ponencia
+ is in conflict with this Court's ruling in 
+Chevron
+. Even a quick reading of this Court's concluding statements in 
+Chevron 
+readily shows the basic principle established therein. Thus, I quote: 
+ 
+ 
+CONCLUSION
+ 
+Petitioner's failure to file the required entries within a nonÂ­ extendible period of thirty days from date of discharge of the last package from the carrying vessel constituted implied abandonment of its oil importations. This means that from the precise moment that the non-extendible thirty-day period lapsed, the abandoned shipments were deemed (that is, they became) the property of the government. Therefore, when petitioner withdrew the oil shipments for consumption, it appropriated for itself properties which already belonged to the government. Accordingly, it became liable for the total dutiable value of the shipments of imported crude oil amounting to P1,210,280,789.21 reduced by the total amount of duties paid amounting to P316,499,021.00 thereby leaving a balance of P893,781,768.21.
+ 
+ By the very nature of its functions, the CTA is a highly specialized court specifically created for the purpose of reviewing tax and customs cases. It is dedicated exclusively to the study and consideration of revenue-related problems and has necessarily developed an expertise on the subject. Thus, as a general rule, its findings and conclusions are accorded great respect and are generally upheld by this Court, unless there is a clear showing of a reversible error or an improvident exercise of authority. There is no such showing here.
+[7]
+ 
+ 
+ The contrary ruling of the majority, as expressed in the ponencia, is a clear abandonment of the established principle in 
+Chevron
+; thus, the need to refer this case to the Court 
+en banc
+. 
+ Accordingly, I vote to 
+GRANT
+ the instant Omnibus Motion. 
+ 
+[1]
+ 
+Rollo
+, pp. 1325, 1333 and 1341. 
+[2]
+ 
+Pilipinas Shell Petroleum Corporation v. Republic of the Philippines
+, 571 Phil. 418, 424-425 (2008), 
+ 
+[3]
+ 
+Rollo
+, pp. 1335-1337.
+ 
+ 
+[4]
+ 
+Id.
+ at 352. 
+ 
+[5]
+ 583 Phil. 706 (2008).
+ 
+ 
+[6]
+ 
+Rollo
+, p. 350. 
+ 
+[7]
+ 
+Chevron Philippines. Inc. v. Commissioner of the Bureau of Customs, supra
+ note 5, at 736-737. (Emphasis ours). 
+ 
+ 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

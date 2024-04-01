@@ -1,0 +1,1240 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			706 Phil. 48
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 193301, March 11, 2013 ]
+
+
+MINDANAO II GEOTHERMAL PARTNERSHIP, PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT. 
+[G.R. NO. 194637]
+ MINDANAO I GEOTHERMAL PARTNERSHIP, PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+D E C I S I O N
+
+
+
+
+CARPIO, J.:
+
+
+The Cases
+G.R. No. 193301 is a petition for review
+[1]
+ assailing the Decision
+[2]
+ promulgated on 10 March 2010 as well as the Resolution
+[3]
+ promulgated on 28 July 2010 by the Court of Tax Appeals En Banc (CTA En Banc) in CTA EB No. 513. The CTA En Banc affirmed the 22 September 2008 Decision
+[4]
+ as well as the 26 June 2009 Amended Decision
+[5]
+ of the First Division of the Court of Tax Appeals (CTA First Division) in CTA Case Nos. 7227, 7287, and 7317. The CTA First Division denied Mindanao II Geothermal Partnershipâs (Mindanao II) claims for refund or tax credit for the first and second quarters of taxable year 2003 for being filed out of time (CTA Case Nos. 7227 and 7287). The CTA First Division, however, ordered the Commissioner of Internal Revenue (CIR) to refund or credit to Mindanao II unutilized input value-added tax (VAT) for the third and fourth quarters of taxable year 2003 (CTA Case No. 7317).
+G.R. No. 194637 is a petition for review
+[6]
+ assailing the Decision
+[7]
+ promulgated on 31 May 2010 as well as the Amended Decision
+[8]
+ promulgated on 24 November 2010 by the CTA En Banc in CTA EB Nos. 476 and 483. In its Amended Decision, the CTA En Banc reversed its 31 May 2010 Decision and granted the CIRâs petition for review in CTA Case No. 476. The CTA En Banc denied Mindanao I Geothermal Partnershipâs (Mindanao I) claims for refund or tax credit for the first (CTA Case No. 7228), second (CTA Case No. 7286), third, and fourth quarters (CTA Case No. 7318) of 2003.
+Both Mindanao I and II are partnerships registered with the Securities and Exchange Commission, value added taxpayers registered with the Bureau of Internal Revenue (BIR), and Block Power Production Facilities accredited by the Department of Energy. Republic Act No. 9136, or the Electric Power Industry Reform Act of 2000 (EPIRA), effectively amended Republic Act No. 8424, or the Tax Reform Act of 1997 (1997 Tax Code),
+[9]
+ when it decreed that sales of power by generation companies shall be subjected to a zero rate of VAT.
+[10]
+ Pursuant to EPIRA, Mindanao I and II filed with the CIR claims for refund or tax credit of accumulated unutilized and/or excess input taxes due to VAT zero-rated sales in 2003. Mindanao I and II filed their claims in 2005.
+G.R. No. 193301
+Mindanao II v. CIR
+The Facts
+G.R. No. 193301 covers three CTA First Division cases, CTA Case Nos. 7227, 7287, and 7317, which were consolidated as CTA EB No. 513. CTA Case Nos. 7227, 7287, and 7317 claim a tax refund or credit of Mindanao IIâs alleged excess or unutilized input taxes due to VAT zero-rated sales. In CTA Case No. 7227, Mindanao II claims a tax refund or credit of P3,160,984.69 for the first quarter of 2003. In CTA Case No. 7287, Mindanao II claims a tax refund or credit of P1,562,085.33 for the second quarter of 2003. In CTA Case No. 7317, Mindanao II claims a tax refund or credit of P3,521,129.50 for the third and fourth quarters of 2003.
+The CTA First Divisionâs narration of the pertinent facts is as follows:
+x x x x
+On March 11, 1997, [Mindanao II] allegedly entered into a Built (sic)-Operate-Transfer (BOT) contract with the Philippine National Oil Corporation â Energy Development Company (PNOC-EDC) for finance, engineering, supply, installation, testing, commissioning, operation, and maintenance of a 48.25 megawatt geothermal power plant, provided that PNOC-EDC shall supply and deliver steam to [Mindanao II] at no cost. In turn, [Mindanao II] shall convert the steam into electric capacity and energy for PNOC-EDC and shall deliver the same to the National Power Corporation (NPC) for and in behalf of PNOC-EDC.
+[Mindanao II] alleges that its sale of generated power and delivery of electric capacity and energy of [Mindanao II] to NPC for and in behalf of PNOC-EDC is its only revenue-generating activity which is in the ambit of VAT zero-rated sales under the EPIRA Law, x x x.
+x x x x
+Hence, the amendment of the NIRC of 1997 modified the VAT rate applicable to sales of generated power by generation companies from ten (10%) percent to zero (0%) percent.
+In the course of its operation, Mindanao II makes domestic purchases of goods and services and accumulates therefrom creditable input taxes. Pursuant to the provisions of the National Internal Revenue Code (NIRC), [Mindanao II] alleges that it can use its accumulated input tax credits to offset its output tax liability. Considering, however that its only revenue-generating activity is VAT zero-rated under RA No. 9136, [Mindanao IIâs] input tax credits remain unutilized.
+Thus, on the belief that its sales qualify for VAT zero-rating, [Mindanao II] adopted the VAT zero-rating of the EPIRA in computing for its VAT payable when it filed its Quarterly VAT Returns on the following dates:
+ 
+ 
+CTA Case No.
+ 
+Period Covered (2003)
+ 
+Date of Filing
+ 
+ 
+ 
+Original Return
+ 
+Amended Return
+ 
+ 
+ 
+7227
+ 
+1
+st
+ Quarter
+ 
+April 23, 2003
+ 
+July 3, 2002 (sic), 
+ April 1, 2004 & 
+ October 22, 2004
+ 
+ 
+ 
+7287
+ 
+2
+nd
+ Quarter
+ 
+July 22, 2003
+ 
+April 1, 2004
+ 
+ 
+ 
+7317
+ 
+3
+rd
+ Quarter
+ 
+Oct. 27, 2003
+ 
+April 1, 2004
+ 
+ 
+ 
+7317
+ 
+4
+th
+ Quarter
+ 
+Jan. 26, 2004
+ 
+April 1, 2004
+ 
+ 
+Considering that it has accumulated unutilized creditable input taxes from its only income-generating activity, [Mindanao II] filed an application for refund and/or issuance of tax credit certificate with the BIRâs Revenue District Office at Kidapawan City on April 13, 2005 for the four quarters of 2003.
+To date [(September 22, 2008)], the application for refund by [Mindanao II] remains unacted upon by the [CIR]. Hence, these three petitions filed on April 22, 2005 covering the 1st quarter of 2003; July 7, 2005 for the 2nd quarter of 2003; and September 9, 2005 for the 3rd and 4th quarters of 2003. At the instance of [Mindanao II], these petitions were consolidated on March 15, 2006 as they involve the same parties and the same subject matter. The only difference lies with the taxable periods involved in each petition.
+[11]
+The Court of Tax Appealsâ Ruling: Division
+In its 22 September 2008 Decision,
+[12]
+ the CTA First Division found that Mindanao II satisfied the twin requirements for VAT zero rating under EPIRA: (1) it is a generation company, and (2) it derived sales from power generation. The CTA First Division also stated that Mindanao II complied with five requirements to be entitled to a refund:
+1. There must be zero-rated or effectively zero-rated sales;
+2. That input taxes were incurred or paid;
+3. That such input VAT payments are directly attributable to zero-rated sales or effectively zero-rated sales;
+4. That the input VAT payments were not applied against any output VAT liability; and
+5. That the claim for refund was filed within the two-year prescriptive period.
+[13]
+With respect to the fifth requirement, the CTA First Division tabulated the dates of filing of Mindanao IIâs return as well as its administrative and judicial claims, and concluded that Mindanao IIâs administrative and judicial claims were timely filed in compliance with this Courtâs ruling in 
+Atlas Consolidated Mining and Development Corporation v. Commissioner of Internal Revenue (Atlas)
+.
+[14]
+ The CTA First Division declared that the two-year prescriptive period for filing a VAT refund claim should not be counted from the close of the quarter but from the date of the filing of the VAT return. As ruled in Atlas, VAT liability or entitlement to a refund can only be determined upon the filing of the quarterly VAT return.
+ 
+ 
+CTA 
+ Case No.
+ 
+ 
+Period 
+ Covered
+ (2003)
+ 
+ 
+Date of Filing
+ 
+ 
+ 
+Original Return
+ 
+Amended Return
+ 
+Administrative Claim
+ 
+Judicial Claim
+ 
+ 
+ 
+7227
+ 
+1
+st
+ Quarter
+ 
+23 April 2003
+ 
+1 April 2004
+ 
+13 April 2005
+ 
+22 April 2005
+ 
+ 
+ 
+7287
+ 
+2
+nd
+ Quarter
+ 
+22 July 2003
+ 
+1 April 2004
+ 
+13 April 2005
+ 
+7 July 2005
+ 
+ 
+ 
+7317
+ 
+3
+rd
+ Quarter
+ 
+25 Oct. 2003
+ 
+1 April 2004
+ 
+13 April 2005
+ 
+9 Sept. 2005
+ 
+ 
+ 
+7317
+ 
+4
+th
+ Quarter
+ 
+26 Jan. 2004
+ 
+1 April 2004
+ 
+13 April 2005
+ 
+9 Sept. 2005
+[15]
+ 
+ 
+Thus, counting from 23 April 2003, 22 July 2003, 25 October 2003, and 26 January 2004, when Mindanao II filed its VAT returns, its administrative claim filed on 13 April 2005 and judicial claims filed on 22 April 2005, 7 July 2005, and 9 September 2005 were timely filed in accordance with Atlas.
+The CTA First Division found that Mindanao II is entitled to a refund in the modified amount of P7,703,957.79, after disallowing P522,059.91 from input VAT
+[16]
+ and deducting P18,181.82 from Mindanao IIâs sale of a fully depreciated P200,000.00 Nissan Patrol. The input taxes amounting to P522,059.91 were disallowed for failure to meet invoicing requirements, while the input VAT on the sale of the Nissan Patrol was reduced by P18,181.82 because the output VAT for the sale was not included in the VAT declarations.
+The dispositive portion of the CTA First Divisionâs 22 September 2008 Decision reads:
+WHEREFORE, the Petition for Review is hereby PARTIALLY GRANTED. Accordingly, [the CIR] is hereby ORDERED to REFUND or to ISSUE A TAX CREDIT CERTIFICATE in the modified amount of SEVEN MILLION SEVEN HUNDRED THREE THOUSAND NINE HUNDRED FIFTY SEVEN AND 79/100 PESOS (P7,703,957.79) representing its unutilized input VAT for the four (4) quarters of the taxable year 2003.
+SO ORDERED.
+[17]
+Mindanao II filed a motion for partial reconsideration.
+[18]
+ It stated that the sale of the fully depreciated Nissan Patrol is a one-time transaction and is not incidental to its VAT zero-rated operations. Moreover, the disallowed input taxes substantially complied with the requirements for refund or tax credit.
+The CIR also filed a motion for partial reconsideration. It argued that the judicial claims for the first and second quarters of 2003 were filed beyond the period allowed by law, as stated in Section 112(A) of the 1997 Tax Code. The CIR further stated that Section 229 is a general provision, and governs cases not covered by Section 112(A). The CIR countered the CTA First Divisionâs 22 September 2008 decision by citing this Courtâs ruling in 
+Commisioner of Internal Revenue v. Mirant Pagbilao Corporation (Mirant)
+,
+[19]
+ which stated that unutilized input VAT payments must be claimed within two years reckoned from the close of the taxable quarter when the relevant sales were made regardless of whether said tax was paid.
+The CTA First Division denied Mindanao IIâs motion for partial reconsideration, found the CIRâs motion for partial reconsideration partly meritorious, and rendered an Amended Decision
+[20]
+ on 26 June 2009. The CTA First Division stated that the claim for refund or credit with the BIR and the subsequent appeal to the CTA must be filed within the two-year period prescribed under Section 229. The two-year prescriptive period in Section 229 was denominated as a mandatory statute of limitations. Therefore, Mindanao IIâs claims for refund for the first and second quarters of 2003 had already prescribed.
+The CTA First Division found that the records of Mindanao IIâs case are bereft of evidence that the sale of the Nissan Patrol is not incidental to Mindanao IIâs VAT zero-rated operations. Moreover, Mindanao IIâs submitted documents failed to substantiate the requisites for the refund or credit claims.
+The CTA First Division modified its 22 September 2008 Decision to read as follows:
+WHEREFORE, the Petition for Review is hereby PARTIALLY GRANTED. Accordingly, [the CIR] is hereby ORDERED to REFUND or to ISSUE A TAX CREDIT CERTIFICATE [to Mindanao II Geothermal Partnership] in the modified amount of TWO MILLION NINE HUNDRED EIGHTY THOUSAND EIGHT HUNDRED EIGHTY SEVEN AND 77/100 PESOS (P2,980,887.77) representing its unutilized input VAT for the third and fourth quarters of the taxable year 2003.
+SO ORDERED.
+[21]
+Mindanao II filed a Petition for Review,
+[22]
+ docketed as CTA EB No. 513, before the CTA En Banc.
+The Court of Tax Appealsâ Ruling: En Banc
+On 10 March 2010, the CTA En Banc rendered its Decision
+[23]
+ in CTA EB No. 513 and denied Mindanao IIâs petition. The CTA En Banc ruled that (1) Section 112(A) clearly provides that the reckoning of the two-year prescriptive period for filing the application for refund or credit of input VAT attributable to zero-rated sales or effectively zero-rated sales shall be counted from the close of the taxable quarter when the sales were made; (2) the Atlas and Mirant cases applied different tax codes: Atlas applied the 1977 Tax Code while Mirant applied the 1997 Tax Code; (3) the sale of the fully-depreciated Nissan Patrol is incidental to Mindanao IIâs VAT zero-rated transactions pursuant to Section 105; (4) Mindanao II failed to comply with the substantiation requirements provided under Section 113(A) in relation to Section 237 of the 1997 Tax Code as implemented by Section 4.104-1, 4.104-5, and 4.108-1 of Revenue Regulation No. 7-95; and (5) the doctrine of 
+strictissimi juris 
+on tax exemptions cannot be relaxed in the present case.
+The dispositive portion of the CTA En Bancâs 10 March 2010 Decision reads:
+WHEREFORE, on the basis of the foregoing considerations, the Petition for Review en banc is DISMISSED for lack of merit. Accordingly, the Decision dated September 22, 2008 and the Amended Decision dated June 26, 2009 issued by the First Division are AFFIRMED.
+SO ORDERED.
+[24]
+The CTA En Banc issued a Resolution
+[25]
+ on 28 July 2010 denying for lack of merit Mindanao IIâs Motion for Reconsideration.
+[26]
+ The CTA En Banc highlighted the following bases of their previous ruling:
+1. The Supreme Court has long decided that the claim for refund of unutilized input VAT must be filed within two (2) years after the close of the taxable quarter when such sales were made.
+2. The Supreme Court is the ultimate arbiter whose decisions all other courts should take bearings.
+3. The words of the law are clear, plain, and free from ambiguity; hence, it must be given its literal meaning and applied without any interpretation.
+[27]
+G.R. No. 194637
+Mindanao I v. CIR
+The Facts
+G.R. No. 194637 covers two cases consolidated by the CTA EB: CTA EB Case Nos. 476 and 483. Both CTA EB cases consolidate three cases from the CTA Second Division: CTA Case Nos. 7228, 7286, and 7318. CTA Case Nos. 7228, 7286, and 7318 claim a tax refund or credit of Mindanao Iâs accumulated unutilized and/or excess input taxes due to VAT zero-rated sales. In CTA Case No. 7228, Mindanao I claims a tax refund or credit of P3,893,566.14 for the first quarter of 2003. In CTA Case No. 7286, Mindanao I claims a tax refund or credit of P2,351,000.83 for the second quarter of 2003. In CTA Case No. 7318, Mindanao I claims a tax refund or credit of P7,940,727.83 for the third and fourth quarters of 2003.
+Mindanao I is similarly situated as Mindanao II. The CTA Second Divisionâs narration of the pertinent facts is as follows:
+x x x x
+In December 1994, [Mindanao I] entered into a contract of Build-Operate-Transfer (BOT) with the Philippine National Oil Corporation â Energy Development Corporation (PNOC-EDC) for the finance, design, construction, testing, commissioning, operation, maintenance and repair of a 47-megawatt geothermal power plant. Under the said BOT contract, PNOC-EDC shall supply and deliver steam to [Mindanao I] at no cost. In turn, [Mindanao I] will convert the steam into electric capacity and energy for PNOC-EDC and shall subsequently supply and deliver the same to the National Power Corporation (NPC), for and in behalf of PNOC-EDC.
+[Mindanao Iâs] 47-megawatt geothermal power plant project has been accredited by the Department of Energy (DOE) as a Private Sector Generation Facility, pursuant to the provision of Executive Order No. 215, wherein Certificate of Accreditation No. 95-037 was issued.
+On June 26, 2001, Republic Act (R.A.) No. 9136 took effect, and the relevant provisions of the National Internal Revenue Code (NIRC) of 1997 were deemed modified. R.A. No. 9136, also known as the âElectric Power Industry Reform Act of 2001 (EPIRA), was enacted by Congress to ordain reforms in the electric power industry, highlighting, among others, the importance of ensuring the reliability, security and affordability of the supply of electric power to end users. Under the provisions of this Republic Act and its implementing rules and regulations, the delivery and supply of electric energy by generation companies became VAT zero-rated, which previously were subject to ten percent (10%) VAT.
+x x x x
+The amendment of the NIRC of 1997 modified the VAT rate applicable to sales of generated power by generation companies from ten (10%) percent to zero percent (0%). Thus, [Mindanao I] adopted the VAT zero-rating of the EPIRA in computing for its VAT payable when it filed its VAT Returns, on the belief that its sales qualify for VAT zero-rating.
+[Mindanao I] reported its unutilized or excess creditable input taxes in its Quarterly VAT Returns for the first, second, third, and fourth quarters of taxable year 2003, which were subsequently amended and filed with the BIR.
+On April 4, 2005, [Mindanao I] filed with the BIR separate administrative claims for the issuance of tax credit certificate on its alleged unutilized or excess input taxes for taxable year 2003, in the accumulated amount of P14,185, 294.80.
+Alleging inaction on the part of [CIR], [Mindanao I] elevated its claims before this Court on April 22, 2005, July 7, 2005, and September 9, 2005 docketed as CTA Case Nos. 7228, 7286, and 7318, respectively. However, on October 10, 2005, [Mindanao I] received a copy of the letter dated September 30, 2003 (sic) of the BIR denying its application for tax credit/refund.
+[28]
+The Court of Tax Appealsâ Ruling: Division
+On 24 October 2008, the CTA Second Division rendered its Decision
+[29]
+ in CTA Case Nos. 7228, 7286, and 7318. The CTA Second Division found that (1) pursuant to Section 112(A), Mindanao I can only claim 90.27% of the amount of substantiated excess input VAT because a portion was not reported in its quarterly VAT returns; (2) out of the P14,185,294.80 excess input VAT applied for refund, only P11,657,447.14 can be considered substantiated excess input VAT due to disallowances by the Independent Certified Public Accountant, adjustment on the disallowances per the CTA Second Divisionâs further verification, and additional disallowances per the CTA Second Divisionâs further verification; (3) Mindanao Iâs accumulated excess input VAT for the second quarter of 2003 that was carried over to the third quarter of 2003 is net of the claimed input VAT for the first quarter of 2003, and the same procedure was done for the second, third, and fourth quarters of 2003; and (4) Mindanao Iâs administrative claims were filed within the two-year prescriptive period reckoned from the respective dates of filing of the quarterly VAT returns.
+The dispositive portion of the CTA Second Divisionâs 24 October 2008 Decision reads:
+WHEREFORE, premises considered, the consolidated Petitions for Review are hereby PARTIALLY GRANTED. Accordingly, [the CIR] is hereby ORDERED TO ISSUE A TAX CREDIT CERTIFICATE in favor of [Mindanao I] in the reduced amount of TEN MILLION FIVE HUNDRED TWENTY THREE THOUSAND ONE HUNDRED SEVENTY SEVEN PESOS AND 53/100 (?10,523,177.53) representing [Mindanao Iâs] unutilized input VAT for the four quarters of the taxable year 2003.
+SO ORDERED.
+[30]
+Mindanao I filed a motion for partial reconsideration with motion for clarification
+[31]
+ on 11 November 2008. It claimed that the CTA Second Division should not have allocated proportionately Mindanao Iâs unutilized creditable input taxes for the taxable year 2003, because the proportionate allocation of the amount of creditable taxes in Section 112(A) applies only when the creditable input taxes due cannot be directly and entirely attributed to any of the zero-rated or effectively zero-rated sales. Mindanao I claims that its unreported collection is directly attributable to its VAT zero-rated sales. The CTA Second Division denied Mindanao Iâs motion and maintained the proportionate allocation because there was a portion of the gross receipts that was undeclared in Mindanao Iâs gross receipts.
+The CIR also filed a motion for partial reconsideration
+[32]
+ on 11 November 2008. It claimed that Mindanao I failed to exhaust administrative remedies before it filed its petition for review. The CTA Second Division denied the CIRâs motion, and cited 
+Atlas
+[33]
+ as the basis for ruling that it is more practical and reasonable to count the two-year prescriptive period for filing a claim for refund or credit of input VAT on zero-rated sales from the date of filing of the return and payment of the tax due.
+The dispositive portion of the CTA Second Divisionâs 10 March 2009 Resolution reads:
+WHEREFORE, premises considered, [the CIRâs] 
+Motion for Partial Reconsideration and [Mindanao Iâs] Motion for Partial Reconsideration with Motion for Clarification 
+are hereby DENIED for lack of merit.
+SO ORDERED.
+[34]
+The Ruling of the Court of Tax Appeals: En Banc
+On 31 May 2010, the CTA En Banc rendered its Decision
+[35]
+ in CTA EB Case Nos. 476 and 483 and denied the petitions filed by the CIR and Mindanao I. The CTA En Banc found no new matters which have not yet been considered and passed upon by the CTA Second Division in its assailed decision and resolution.
+The dispositive portion of the CTA En Bancâs 31 May 2010 Decision reads:
+WHEREFORE, premises considered, the Petitions for Review are hereby DISMISSED for lack of merit. Accordingly, the October 24, 2008 Decision and March 10, 2009 Resolution of the CTA Former Second Division in CTA Case Nos. 7228, 7286, and 7318, entitled âMindanao I Geothermal Partnership vs. Commissioner of Internal Revenueâ are hereby AFFIRMED 
+in toto.
+SO ORDERED.
+[36]
+Both the CIR and Mindanao I filed Motions for Reconsideration of the CTA En Bancâs 31 May 2010 Decision.
+In an Amended Decision promulgated on 24 November 2010, the CTA En Banc agreed with the CIRâs claim that Section 229 of the NIRC of 1997 is inapplicable in light of this Courtâs ruling in Mirant. The CTA En Banc also ruled that the procedure prescribed under Section 112(D) [now 112(C)]
+[37]
+ of the 1997 Tax Code should be followed first before the CTA En Banc can act on Mindanao Iâs claim. The CTA En Banc reconsidered its 31 May 2010 Decision in light of this Courtâs ruling in
+ Commissioner of Internal Revenue v. Aichi Forging Company of Asia, Inc. (Aichi)
+.
+[38]
+The pertinent portions of the CTA En Bancâs 24 November 2010 Amended Decision read:
+C.T.A. Case No. 7228:
+(1) For calendar year 2003, [Mindanao I] filed with the BIR its Quarterly VAT Returns for the First Quarter of 2003. Pursuant to 
+Section 112(A) of the NIRC of 1997, as amended
+, [Mindanao I] has two years from March 31, 2003 or until March 31, 2005 within which to file its administrative claim for refund;
+(2) On April 4, 2005, [Mindanao I] applied [for] an administrative claim for refund of unutilized input VAT for the first quarter of taxable year 2003 with the BIR, which is beyond the two-year prescriptive period mentioned above.
+C.T.A. Case No. 7286:
+(1) For calendar year 2003, [Mindanao I] filed with the BIR its Quarterly VAT Returns for the second quarter of 2003. Pursuant to 
+Section 112(A) of the NIRC of 1997, as amended
+, [Mindanao I] has two years from June 30, 2003, within which to file its administrative claim for refund for the second quarter of 2003, or until June 30, 2005;
+(2) On April 4, 2005, [Mindanao I] applied an administrative claim for refund of unutilized input VAT for the second quarter of taxable year 2003 with the BIR, which is within the two-year prescriptive period, provided under 
+Section 112 (A) of the NIRC of 1997, as amended;
+(3) The CIR has 120 days from April 4, 2005 (presumably the date [Mindanao I] submitted the supporting documents together with the application for refund) or until August 2, 2005, to decide the administrative claim for refund;
+(4) Within 30 days from the lapse of the 120-day period or from August 3, 2005 to September 1, 2005, [Mindanao I] should have elevated its claim for refund to the CTA in Division;
+(5) However, on July 7, 2005, [Mindanao I] filed its Petition for Review with this Court, docketed as CTA Case No. 7286, even before the 120-day period for the CIR to decide the claim for refund had lapsed on August 2, 2005. The Petition for Review was, therefore, prematurely filed and there was failure to exhaust administrative remedies;
+x x x x
+C.T.A. Case No. 7318:
+(1) For calendar year 2003, [Mindanao I] filed with the BIR its Quarterly VAT Returns for the third and fourth quarters of 2003. Pursuant to 
+Section 112(A) of the NIRC of 1997, as amended
+, [Mindanao I] therefore, has two years from September 30, 2003 and December 31, 2003, or until September 30, 2005 and December 31, 2005, respectively, within which to file its administrative claim for the third and fourth quarters of 2003;
+(2) On April 4, 2005, [Mindanao I] applied an administrative claim for refund of unutilized input VAT for the third and fourth quarters of taxable year 2003 with the BIR, which is well within the two-year prescriptive period, provided under 
+Section 112(A) of the NIRC of 1997, as amended;
+(3) From April 4, 2005, which is also presumably the date [Mindanao I] submitted supporting documents, together with the aforesaid application for refund, the CIR has 120 days or until August 2, 2005, to decide the claim;
+(4) Within thirty (30) days from the lapse of the 120-day period or from August 3, 2005 until September 1, 2005 [Mindanao I] should have elevated its claim for refund to the CTA;
+(5) However, [Mindanao I] filed its Petition for Review with the CTA in Division only on September 9, 2005, which is 8 days beyond the 30-day period to appeal to the CTA.
+Evidently, the Petition for Review was filed way beyond the 30-day prescribed period. Thus, the Petition for Review should have been dismissed for being filed late.
+In recapitulation:
+(1) 
+C.T.A. Case No. 7228
+Claim for the first quarter of 2003 had already prescribed for having been filed beyond the two-year prescriptive period;
+(2) 
+C.T.A. Case No. 7286
+Claim for the second quarter of 2003 should be dismissed for [Mindanao Iâs] failure to comply with a condition precedent when it failed to exhaust administrative remedies by filing its Petition for Review even before the lapse of the 120-day period for the CIR to decide the administrative claim;
+(3) 
+C.T.A. Case No. 7318
+Petition for Review was filed beyond the 30-day prescribed period to appeal to the CTA.
+x x x x
+IN VIEW OF THE FOREGOING, the Commissioner of Internal Revenueâs Motion for Reconsideration is hereby GRANTED; [Mindanao Iâs] Motion for Partial Reconsideration is hereby DENIED for lack of merit.
+The May 31, 2010 Decision of this Court 
+En Banc 
+is hereby REVERSED.
+Accordingly, the Petition for Review of the Commissioner of Internal Revenue in CTA EB No. 476 is hereby GRANTED and the entire claim of Mindanao I Geothermal Partnership for the first, second, third and fourth quarters of 2003 is hereby DENIED.
+SO ORDERED.
+[39]
+The Issues
+G.R. No. 193301
+Mindanao II v. CIR
+Mindanao II raised the following grounds in its Petition for Review:
+I. The Honorable Court of Tax Appeals erred in holding that the claim of [Mindanao II] for the 1
+st
+ and 2
+nd
+ quarters of year 2003 has already prescribed pursuant to the Mirant case.
+A. The Atlas case and Mirant case have conflicting interpretations of the law as to the reckoning date of the two year prescriptive period for filing claims for VAT refund.
+B. The Atlas case was not and cannot be superseded by the Mirant case in light of Section 4(3), Article VIII of the 1987 Constitution.
+C. The ruling of the Mirant case, which uses the close of the taxable quarter when the sales were made as the reckoning date in counting the two-year prescriptive period cannot be applied retroactively in the case of [Mindanao II].
+II. The Honorable Court of Tax Appeals erred in interpreting Section 105 of the [1997 Tax Code], as amended in that the sale of the fully depreciated Nissan Patrol is a one-time transaction and is not incidental to the VAT zero-rated operation of [Mindanao II].
+III. The Honorable Court of Tax Appeals erred in denying the amount disallowed by the Independent Certified Public Accountant as [Mindanao II] substantially complied with the requisites of the [1997 Tax Code], as amended, for refund/tax credit.
+A. The amount of P2,090.16 was brought about by the timing difference in the recording of the foreign currency deposit transaction.
+B. The amount of P2,752.00 arose from the out-of-pocket expenses reimbursed to SGV & Company which is substantially suppoerted [sic] by an official receipt.
+C. The amount of P487,355.93 was unapplied and/or was not included in [Mindanao IIâs] claim for refund or tax credit for the year 2004 subject matter of CTA Case No. 7507.
+IV. The doctrine of 
+strictissimi juris
+ on tax exemptions should be relaxed in the present case.
+[40]
+G.R. No. 194637
+Mindanao I v. CIR
+Mindanao I raised the following grounds in its Petition for Review:
+I. The administrative claim and judicial claim in CTA Case No. 7228 were timely filed pursuant to the case of 
+Atlas Consolidated Mining and Development Corporation vs. Commissioner of Internal Revenue
+, which was then the controlling ruling at the time of filing.
+A. The recent ruling in the 
+Commissioner of Internal Revenue vs. Mirant Pagbilao Corporation
+, which uses the end of the taxable quarter when the sales were made as the reckoning date in counting the two-year prescriptive period, cannot be applied retroactively in the case of [Mindanao I].
+B. The Atlas case promulgated by the Third Division of this Honorable Court on June 8, 2007 was not and cannot be superseded by the 
+Mirant Pagbilao 
+case promulgated by the Second Division of this Honorable Court on September 12, 2008 in light of the explicit provision of Section 4(3), Article VIII of the 1987 Constitution.
+II. Likewise, the recent ruling of this Honorable Court in 
+Commissioner of Internal Revenue vs. Aichi Forging Company of Asia, Inc
+., cannot be applied retroactively to [Mindanao I] in the present case.
+[41]
+In a Resolution dated 14 December 2011,
+[42]
+ this Court resolved to consolidate G.R. Nos. 193301 and 194637 to avoid conflicting rulings in related cases.
+The Courtâs Ruling
+Determination of Prescriptive Period
+G.R. Nos. 193301 and 194637 both raise the question of the determination of the prescriptive period, or the interpretation of Section 112 of the 1997 Tax Code, in light of our rulings in 
+Atlas
+ and 
+Mirant
+.
+Mindanao IIâs unutilized input VAT tax credit for the first and second quarters of 2003, in the amounts of P3,160,984.69 and P1,562,085.33, respectively, are covered by G.R. No. 193301, while Mindanao Iâs unutilized input VAT tax credit for the first, second, third, and fourth quarters of 2003, in the amounts of P3,893,566.14, P2,351,000.83, and P7,940,727.83, respectively, are covered by G.R. No. 194637.
+Section 112 of the 1997 Tax Code
+The pertinent sections of the 1997 Tax Code, the law applicable at the time of Mindanao IIâs and Mindanao Iâs administrative and judicial claims, provide:
+SEC. 112. 
+Refunds or Tax Credits of Input Tax
+. -
+(A)
+ Zero-rated or Effectively Zero-rated Sales.
+ - 
+Any VAT-registered person, whose sales are zero-rated or effectively zero-rated may, within two (2) years after the close of the taxable quarter when the sales were made, apply for the issuance of a tax credit certificate or refund of creditable input tax due or paid attributable to such sales
+, except transitional input tax, to the extent that such input tax has not been applied against output tax: Provided, however, That in the case of zero-rated sales under Section 106(A)(2)(a)(1), (2) and (B) and Section 108 (B)(1) and (2), the acceptable foreign currency exchange proceeds thereof had been duly accounted for in accordance with the rules and regulations of the Bangko Sentral ng Pilipinas (BSP): Provided, further, That where the taxpayer is engaged in zero-rated or effectively zero-rated sale and also in taxable or exempt sale of goods or properties or services, and the amount of creditable input tax due or paid cannot be directly and entirely attributed to any one of the transactions, it shall be allocated proportionately on the basis of the volume of sales.
+x x x x
+(D) 
+Period within which Refund or Tax Credit of Input Taxes shall be Made
+. - In proper cases, 
+the Commissioner shall grant a refund or issue the tax credit certificate for creditable input taxes within one hundred twenty (120) days from the date of submission of complete documents in support of the application
+ filed in accordance with Subsections (A) and (B) hereof.
+In case of full or partial denial of the claim for tax refund or tax credit, or the failure on the part of the Commissioner to act on the application within the period prescribed above, 
+the taxpayer affected may, within thirty (30) days from the receipt of the decision denying the claim or after the expiration of the one hundred twenty day-period, appeal the decision or the unacted claim with the Court of Tax Appeals
+.
+x x x x 
+[43]
+ (Underscoring supplied)
+The relevant dates for G.R. No. 193301 (Mindanao II) are:
+ 
+ 
+CTA Case No.
+ 
+Period covered by VAT Sales in 2003 and amount
+ 
+Close of quarter when sales were made
+ 
+Last day for filing application of tax refund/tax credit certificate with the CIR
+ 
+Actual date of filing application for tax refund/ credit with the CIR (administrative claim)
+[44]
+ 
+Last day for filing case with CTA
+[45]
+ 
+Actual Date of filing case with CTA (judicial claim)
+ 
+ 
+ 
+7227
+ 
+1
+st
+ Quarter, P3,160,984.69
+ 
+31 March 2003
+ 
+31 March 2005
+ 
+13 April 2005
+ 
+12 September 2005
+ 
+22 April 2005
+ 
+ 
+ 
+7287
+ 
+2
+nd
+ Quarter, P1,562,085.33
+ 
+30 June 2003
+ 
+30 June 2005
+ 
+13 April 2005
+ 
+12 September 2005
+ 
+7 July 2005
+ 
+ 
+ 
+7317
+ 
+3
+rd
+ and 4
+th
+ Quarters, P3,521,129.50
+ 
+30 September 2003
+ 
+30 September 2005
+ 
+13 April 2005
+ 
+12 September 2005
+ 
+9 September 2005
+ 
+ 
+ 
+31 December 2003
+ 
+2 January 2006 (31 December 2005 being a Saturday)
+ 
+ 
+The relevant dates for G.R. No. 194637 (Mindanao I) are:
+ 
+ 
+CTA Case No.
+ 
+Period covered by VAT Sales in 2003 and amount
+ 
+Close of quarter when sales were made
+ 
+Last day for filing application of tax refund/tax credit certificate with the CIR
+ 
+Actual date of filing application for tax refund/ credit with the CIR (administrative claim)
+[46]
+ 
+Last day for filing case with CTA
+[47]
+ 
+Actual Date of filing case with CTA (judicial claim)
+ 
+ 
+ 
+7228
+ 
+1
+st
+ Quarter, P3,893,566.14
+ 
+31 March 2003
+ 
+31 March 2005
+ 
+4 April 2005
+ 
+1 September 2005
+ 
+22 April 2005
+ 
+ 
+ 
+7286
+ 
+2
+nd
+ Quarter, P2,351,000.83
+ 
+30 June 2003
+ 
+30 June 2005
+ 
+4 April 2005
+ 
+1 September 2005
+ 
+7 July 2005
+ 
+ 
+ 
+7318
+ 
+ 
+3
+rd
+ and 4
+th
+ Quarters, P7,940,727.83
+ 
+ 
+30 September 2003
+ 
+30 September 2005
+ 
+4 April 2005
+ 
+ 
+1 September 2005
+ 
+ 
+9 September 2005
+ 
+ 
+ 
+ 
+31 December 2003
+ 
+2 January 2006 (31 December 2005 being a Saturday)
+ 
+ 
+When Mindanao II and Mindanao I filed their respective administrative and judicial claims in 2005, neither 
+Atlas 
+nor 
+Mirant 
+has been promulgated. 
+ 
+Atlas
+ was promulgated on 8 June 2007, while 
+Miran
+t was promulgated on 12 September 2008. It is therefore misleading to state that 
+Atlas
+ was the controlling doctrine at the time of filing of the claims.
+ The 1997 Tax Code, which took effect on 1 January 1998, was the applicable law at the time of filing of the claims in issue. As this Court explained in the recent consolidated cases of 
+Commissioner of Internal Revenue v. San Roque Power Corporation, Taganito Mining Corporation v. Commissioner of Internal Revenue, and Philex Mining Corporation v. Commissioner of Internal Revenue (San Roque)
+:
+[48]
+Clearly, San Roque failed to comply with the 120-day waiting period, the time expressly given by law to the Commissioner to decide whether to grant or deny San Roqueâs application for tax refund or credit. It is indisputable that compliance with the 120-day waiting period is 
+mandatory and jurisdictional
+. The waiting period, originally fixed at 60 days only, was part of the provisions of the first VAT law, Executive Order No. 273, which took effect on 1 January 1988. The waiting period was extended to 120 days effective 1 January 1998 under RA 8424 or the Tax Reform Act of 1997. 
+Thus, the waiting period has been in our statute books for more than fifteen (15) years 
+before
+ San Roque filed its judicial claim.
+Failure to comply with the 120-day waiting period violates a mandatory provision of law. It violates the doctrine of exhaustion of administrative remedies and renders the petition premature and thus without a cause of action, with the effect that the CTA does not acquire jurisdiction over the taxpayerâs petition. Philippine jurisprudence is replete with cases upholding and reiterating these doctrinal principles.
+The charter of the CTA expressly provides that its jurisdiction is to review on appeal â
+decisions
+ of the Commissioner of Internal Revenue in cases involving x x x refunds of internal revenue taxes.â When a taxpayer prematurely files a judicial claim for tax refund or credit with the CTA without waiting for the decision of the Commissioner, there is no âdecisionâ of the Commissioner to review and thus the CTA as a court of special jurisdiction has no jurisdiction over the appeal. The charter of the CTA also expressly provides that if the Commissioner fails to decide within â
+a specific period
+â required by law, such â
+inaction shall be deemed a denial
+â of the application for tax refund or credit. It is the Commissionerâs decision, or inaction âdeemed a denial,â that the taxpayer can take to the CTA for review. Without a decision or an âinaction x x x deemed a denialâ of the Commissioner, the CTA has no jurisdiction over a petition for review.
+San Roqueâs failure to comply with the 120-day 
+mandatory
+ period renders its petition for review with the CTA void. Article 5 of the Civil Code provides, âActs executed against provisions of mandatory or prohibitory laws shall be void, except when the law itself authorizes their validity.â San Roqueâs void petition for review cannot be legitimized by the CTA or this Court because Article 5 of the Civil Code states that such void petition cannot be legitimized âexcept when the law itself authorizes [its] validity.â There is no law authorizing the petitionâs validity.
+It is hornbook doctrine that a person committing a void act contrary to a mandatory provision of law cannot claim or acquire any right from his void act. A right cannot spring in favor of a person from his own void or illegal act. This doctrine is repeated in Article 2254 of the Civil Code, which states, âNo vested or acquired right can arise from acts or omissions which are against the law or which infringe upon the rights of others.â For violating a mandatory provision of law in filing its petition with the CTA, San Roque cannot claim any right arising from such void petition. Thus, San Roqueâs petition with the CTA is a mere scrap of paper.
+This Court cannot brush aside the grave issue of the mandatory and jurisdictional nature of the 120-day period just because the Commissioner merely asserts that the case was prematurely filed with the CTA and does not question the entitlement of San Roque to the refund. The mere fact that a taxpayer has undisputed excess input VAT, or that the tax was admittedly illegally, erroneously or excessively collected from him, does not entitle him as a matter of right to a tax refund or credit. Strict compliance with the mandatory and jurisdictional conditions prescribed by law to claim such tax refund or credit is essential and necessary for such claim to prosper. 
+Well-settled is the rule that tax refunds or credits, just like tax exemptions, are strictly construed against the taxpayer
+. The burden is on the taxpayer to show that he has strictly complied with the conditions for the grant of the tax refund or credit.
+This Court cannot disregard mandatory and jurisdictional conditions mandated by law simply because the Commissioner chose not to contest the numerical correctness of the claim for tax refund or credit of the taxpayer. Non-compliance with mandatory periods, non-observance of prescriptive periods, and non-adherence to exhaustion of administrative remedies 
+bar
+ a taxpayerâs claim for tax refund or credit, whether or not the Commissioner questions the numerical correctness of the claim of the taxpayer. This Court should not establish the precedent that non-compliance with mandatory and jurisdictional conditions can be excused if the claim is otherwise meritorious, particularly in claims for tax refunds or credit. Such precedent will render meaningless compliance with mandatory and jurisdictional requirements, for then every tax refund case will have to be decided on the numerical correctness of the amounts claimed, regardless of non-compliance with mandatory and jurisdictional conditions.
+San Roque cannot also claim being misled, misguided or confused by the 
+Atlas
+ doctrine because 
+San Roque filed its petition for review with the CTA more than four years before 
+Atlas
+ was promulgated.
+ The 
+Atlas
+ doctrine did not exist at the time San Roque failed to comply with the 120-day period. Thus, San Roque cannot invoke the 
+Atlas
+ doctrine as an excuse for its failure to wait for the 120-day period to lapse. In any event, the 
+Atlas
+ doctrine merely stated that the two-year prescriptive period should be counted from the date of payment of the output VAT, not from the close of the taxable quarter when the sales involving the input VAT were made. 
+The Atlas doctrine does not interpret, expressly or impliedly, the 120+30 day periods
+.
+[49]
+ (Emphases in the original; citations omitted)
+Prescriptive Period for the 
+Filing of Administrative Claims
+In determining whether the administrative claims of Mindanao I and Mindanao II for 2003 have prescribed, we see no need to rely on either 
+Atlas 
+or 
+Mirant.
+ Section 112(A) of the 1997 Tax Code is clear: â[A]ny VAT-registered person, whose sales are zero-rated or effectively zero-rated may, 
+within two (2) years after the close of the taxable quarter when the sales were made,
+ apply for the issuance of a tax credit certificate or refund of creditable input tax due or paid attributable to such sales x x x.â
+We rule on Mindanao I and IIâs administrative claims for the first, second, third, and fourth quarters of 2003 as follows:
+(1) The last day for filing an application for tax refund or credit with the CIR for the first quarter of 2003 was on 31 March 2005. Mindanao II filed its administrative claim before the CIR on 13 April 2005, while Mindanao I filed its administrative claim before the CIR on 4 April 2005. 
+Both claims have prescribed, pursuant to Section 112(A) of the 1997 Tax Code.
+(2) The last day for filing an application for tax refund or credit with the CIR for the second quarter of 2003 was on 30 June 2005. Mindanao II filed its administrative claim before the CIR on 13 April 2005, while Mindanao I filed its administrative claim before the CIR on 4 April 2005. 
+Both claims were filed on time, pursuant to Section 112(A) of the 1997 Tax Code.
+(3) The last day for filing an application for tax refund or credit with the CIR for the third quarter of 2003 was on 30 September 2005. Mindanao II filed its administrative claim before the CIR on 13 April 2005, while Mindanao I filed its administrative claim before the CIR on 4 April 2005. 
+Both claims were filed on time, pursuant to Section 112(A) of the 1997 Tax Code.
+(4) The last day for filing an application for tax refund or credit with the CIR for the fourth quarter of 2003 was on 2 January 2006. Mindanao II filed its administrative claim before the CIR on 13 April 2005, while Mindanao I filed its administrative claim before the CIR on 4 April 2005. 
+ Both claims were filed on time, pursuant to Section 112(A) of the 1997 Tax Code.
+Prescriptive Period for
+the Filing of Judicial Claims
+In determining whether the claims for the second, third and fourth quarters of 2003 have been properly appealed, we still see no need to refer to either 
+Atlas 
+or 
+Mirant,
+ or even to Section 229 of the 1997 Tax Code. The second paragraph of Section 112(C) of the 1997 Tax Code is clear: âIn case of full or partial denial of the claim for tax refund or tax credit, or the failure on the part of the Commissioner to act on the application within the period prescribed above, the taxpayer affected may, within thirty (30) days from the receipt of the decision denying the claim or after the expiration of the one hundred twenty day-period, appeal the decision or the unacted claim with the Court of Tax Appeals.â
+The mandatory and jurisdictional nature of the 120+30 day periods was explained in 
+San Roque
+:
+At the time San Roque filed its petition for review with the CTA, the 120+30 day mandatory periods were already in the law. Section 112(C) expressly grants the Commissioner 120 days within which to decide the taxpayerâs claim. The law is clear, plain, and unequivocal: âx x x the Commissioner shall grant a refund or issue the tax credit certificate for creditable input taxes within one hundred twenty (120) days from the date of submission of complete documents.â Following the verba legis doctrine, this law must be applied exactly as worded since it is clear, plain, and unequivocal. The taxpayer cannot simply file a petition with the CTA without waiting for the Commissionerâs decision within the 120-day mandatory and jurisdictional period. The CTA will have no jurisdiction because there will be no âdecisionâ or âdeemed a denialâ decision of the Commissioner for the CTA to review. In San Roqueâs case, it filed its petition with the CTA a mere 13 days after it filed its administrative claim with the Commissioner. Indisputably, San Roque knowingly violated the mandatory 120-day period, and it cannot blame anyone but itself.
+Section 112(C) also expressly grants the taxpayer a 30-day period to appeal to the CTA the decision or inaction of the Commissioner, thus:
+x x x the taxpayer affected may, 
+within thirty (30) days from the receipt of the decision denying the claim or after the expiration of the one hundred twenty day-period
+, appeal the decision or the unacted claim with the Court of Tax Appeals. (Emphasis supplied)
+This law is clear, plain, and unequivocal. Following the well-settled 
+verba legis
+ doctrine, this law should be applied exactly as worded since it is clear, plain, and unequivocal. As this law states, the taxpayer may, if he wishes, appeal the decision of the Commissioner to the CTA within 30 days from receipt of the Commissionerâs decision, or if the Commissioner does not act on the taxpayerâs claim within the 120-day period, the taxpayer may appeal to the CTA within 30 days from the expiration of the 120-day period.
+x x x x
+There are three compelling reasons why the 30-day period need not necessarily fall within the two-year prescriptive period, as long as the administrative claim is filed within the two-year prescriptive period.
+First
+, Section 112(A) clearly, plainly, and unequivocally provides that the taxpayer âmay, 
+within two (2) years
+ after the close of the taxable quarter when the sales were made, 
+apply for the issuance of a tax credit certificate or refund
+ of the creditable input tax due or paid to such sales.â In short, the law states that the taxpayer may apply with the Commissioner for a refund or credit 
+âwithin two (2) years,â which means at anytime within two years
+. Thus, the application for refund or credit may be filed by the taxpayer with the Commissioner on the last day of the two-year prescriptive period and it will still strictly comply with the law. The two-year prescriptive period is a grace period in favor of the taxpayer and he can avail of the full period before his right to apply for a tax refund or credit is barred by prescription.
+Second, Section 112(C) provides that the Commissioner shall decide the application for refund or credit âwithin one hundred twenty (120) days from the date of submission of complete documents in support of the application filed in accordance with Subsection (A).â The reference in Section 112(C) of the submission of documents âin support of the application filed in accordance with Subsection Aâ means that the application in Section 112(A) is the administrative claim that the Commissioner must decide within the 120-day period. In short, the two-year prescriptive period in Section 112(A) refers to the period within which the taxpayer can file an administrative claim for tax refund or credit. 
+ Stated otherwise, the two-year prescriptive period does not refer to the filing of the judicial claim with the CTA but to the filing of the administrative claim with the Commissioner.
+ As held in 
+Aichi
+, the âphrase âwithin two years x x x apply for the issuance of a tax credit or refundâ 
+refers to applications for refund/credit with the CIR and not to appeals made to the CTA.
+â
+Third
+, if the 30-day period, or any part of it, is required to fall within the two-year prescriptive period (equivalent to 730 days), then the taxpayer must file his administrative claim for refund or credit within the first 610 days of the two-year prescriptive period.
+ Otherwise, the filing of the administrative claim beyond the first 610 days will result in the appeal to the CTA being filed beyond the two-year prescriptive period
+. Thus, if the taxpayer files his administrative claim on the 611
+th
+ day, the Commissioner, with his 120-day period, will have until the 731
+st
+ day to decide the claim. If the Commissioner decides only on the 731
+st
+ day, or does not decide at all, the taxpayer can no longer file his judicial claim with the CTA because the two-year prescriptive period (equivalent to 730 days) has lapsed. The 30-day period granted by law to the taxpayer to file an appeal before the CTA becomes utterly useless, even if the taxpayer complied with the law by filing his administrative claim within the two-year prescriptive period.
+The theory that the 30-day period must fall within the two-year prescriptive period adds a condition that is not found in the law. It results in truncating 120 days from the 730 days that the law grants the taxpayer for filing his administrative claim with the Commissioner. This Court cannot interpret a law to defeat, wholly or even partly, a remedy that the law expressly grants in clear, plain, and unequivocal language.
+Section 112(A) and (C) must be interpreted according to its clear, plain, and unequivocal language. The taxpayer can file his administrative claim for refund or credit at 
+anytime
+ within the two-year prescriptive period. If he files his claim on the last day of the two-year prescriptive period, his claim is still filed on time. The Commissioner will have 120 days from such filing to decide the claim. If the Commissioner decides the claim on the 120th day, or does not decide it on that day, the taxpayer still has 30 days to file his judicial claim with the CTA. This is not only the plain meaning but also the only logical interpretation of Section 112(A) and (C).
+[50]
+ (Emphases in the original; citations omitted)
+In 
+San Roque
+, this Court ruled that â
+all taxpayers can rely on BIR Ruling No. DA-489-03 from the time of its issuance on 10 December 2003 up to its reversal in 
+Aichi
+ on 6 October 2010, where this Court held that the 120+30 day periods are mandatory and jurisdictional.
+â
+[51]
+ We shall discuss later the effect of 
+San Roqueâs 
+recognition of BIR Ruling No. DA-489-03 on claims filed between 10 December 2003 and 6 October 2010. Mindanao I and II filed their claims within this period.
+We rule on Mindanao I and IIâs judicial claims for the second, third, and fourth quarters of 2003 as follows:
+G.R. No. 193301
+Mindanao II v. CIR
+Mindanao II filed its administrative claims for the second, third, and fourth quarters of 2003 on 13 April 2005. Counting 120 days after filing of the administrative claim with the CIR (11 August 2005) and 30 days after the CIRâs denial by inaction, 
+the last day for filing a judicial claim with the CTA for the second, third, and fourth quarters of 2003 was on 12 September 2005
+. However, the judicial claim cannot be filed earlier than 11 August 2005, which is the expiration of the 120-day period for the Commissioner to act on the claim.
+(1) Mindanao II filed its judicial claim for the second quarter of 2003 before the CTA on 7 July 2005, before the expiration of the 120-day period. Pursuant to Section 112(C) of the 1997 Tax Code, Mindanao IIâs judicial claim for the second quarter of 2003 was prematurely filed. 
+ However, pursuant to 
+San Roqueâs
+ recognition of the effect of BIR Ruling No. DA-489-03, we rule that Mindanao IIâs judicial claim for the second quarter of 2003 qualifies under the exception to the strict application of the 120+30 day periods.
+(2) Mindanao II filed its judicial claim for the third quarter of 2003 before the CTA on 9 September 2005. 
+Mindanao IIâs judicial claim for the third quarter of 2003 was thus filed on time, pursuant to Section 112(C) of the 1997 Tax Code.
+(3) Mindanao II filed its judicial claim for the fourth quarter of 2003 before the CTA on 9 September 2005. 
+Mindanao IIâs judicial claim for the fourth quarter of 2003 was thus filed on time, pursuant to Section 112(C) of the 1997 Tax Code.
+G.R. No. 194637
+Mindanao I v. CIR
+Mindanao I filed its administrative claims for the second, third, and fourth quarters of 2003 on 4 April 2005. Counting 120 days after filing of the administrative claim with the CIR (2 August 2005) and 30 days after the CIRâs denial by inaction,
+[52]
+ 
+the last day for filing a judicial claim with the CTA for the second, third, and fourth quarters of 2003 was on 1 September 2005
+. However, the judicial claim cannot be filed earlier than 2 August 2005, which is the expiration of the 120-day period for the Commissioner to act on the claim.
+(1) Mindanao I filed its judicial claim for the second quarter of 2003 before the CTA on 7 July 2005, before the expiration of the 120-day period. Pursuant to Section 112(C) of the 1997 Tax Code, Mindanao Iâs judicial claim for the second quarter of 2003 was prematurely filed. 
+However, pursuant to 
+San Roqueâs
+ recognition of the effect of BIR Ruling No. DA-489-03, we rule that Mindanao Iâs judicial claim for the second quarter of 2003 qualifies under the exception to the strict application of the 120+30 day periods.
+(2) Mindanao I filed its judicial claim for the third quarter of 2003 before the CTA on 9 September 2005. 
+Mindanao Iâs judicial claim for the third quarter of 2003 was thus filed after the prescriptive period, pursuant to Section 112(C) of the 1997 Tax Code
+.
+(3) Mindanao I filed its judicial claim for the fourth quarter of 2003 before the CTA on 9 September 2005. 
+Mindanao Iâs judicial claim for the fourth quarter of 2003 was thus filed after the prescriptive period, pursuant to Section 112(C) of the 1997 Tax Code.
+San Roque: Recognition of BIR Ruling No. DA-489-03
+In the consolidated cases of San Roque, the Court En Banc
+[53]
+ examined and ruled on the different claims for tax refund or credit of three different companies. In 
+San Roque
+, we reiterated that â[f]ollowing the 
+verba legis
+ doctrine, [Section 112(C)] must be applied exactly as worded since it is clear, plain, and unequivocal. The taxpayer cannot simply file a petition with the CTA without waiting for the Commissionerâs decision within the 120-day mandatory and jurisdictional period. The CTA will have no jurisdiction because there will be no âdecisionâ or âdeemed a denial decisionâ of the Commissioner for the CTA to review.â
+Notwithstanding a strict construction of any claim for tax exemption or refund, the Court in 
+San Roque
+ recognized that BIR Ruling No. DA-489-03 constitutes equitable estoppel
+[54]
+ in favor of taxpayers. 
+BIR Ruling No. DA-489-03 expressly states that the âtaxpayer-claimant need not wait for the lapse of the 120-day period before it could seek judicial relief with the CTA by way of Petition for Review
+.â This Court discussed BIR Ruling No. DA-489-03 and its effect on taxpayers, thus:
+Taxpayers should not be prejudiced by an erroneous interpretation by the Commissioner, particularly on a difficult question of law. The abandonment of the 
+Atlas
+ doctrine by 
+Mirant
+ and 
+Aichi
+ is proof that the reckoning of the prescriptive periods for input VAT tax refund or credit is a difficult question of law. The abandonment of the 
+Atlas 
+doctrine did not result in 
+Atlas,
+ or other taxpayers similarly situated, being made to return the tax refund or credit they received or could have received under 
+Atlas
+ prior to its abandonment. This Court is applying Mirant and Aichi prospectively. Absent fraud, bad faith or misrepresentation, the reversal by this Court of a general interpretative rule issued by the Commissioner, like the reversal of a specific BIR ruling under Section 246, should also apply prospectively. x x x.
+x x x x
+Thus, the only issue is whether BIR Ruling No. DA-489-03 is a general interpretative rule applicable to all taxpayers or a specific ruling applicable only to a particular taxpayer.
+BIR Ruling No. DA-489-03 is a general interpretative rule because it was a response to a query made, not by a particular taxpayer, but by a government agency tasked with processing tax refunds and credits, that is, the One Stop Shop Inter-Agency Tax Credit and Drawback Center of the Department of Finance. This government agency is also the addressee, or the entity responded to, in BIR Ruling No. DA-489-03. Thus, while this government agency mentions in its query to the Commissioner the administrative claim of Lazi Bay Resources Development, Inc., the agency was in fact asking the Commissioner what to do in cases like the tax claim of Lazi Bay Resources Development, Inc., where the taxpayer did not wait for the lapse of the 120-day period.
+Clearly, BIR Ruling No. DA-489-03 is a general interpretative rule. Thus, all taxpayers can rely on BIR Ruling No. DA-489-03 from the time of its issuance on 10 December 2003 up to its reversal by this Court in 
+Aichi
+ on 6 October 2010, where this Court held that the 120+30 day periods are mandatory and jurisdictional.
+x x x x
+Taganito, however, filed its judicial claim with the CTA on 14 February 2007, 
+after 
+the issuance of BIR Ruling No. DA-489-03 on 10 December 2003. Truly, Taganito can claim that in filing its judicial claim prematurely without waiting for the 120-day period to expire, it was misled by BIR Ruling No. DA-489-03. Thus, Taganito can claim the benefit of BIR Ruling No. DA-489-03, which shields the filing of its judicial claim from the vice of prematurity. (Emphasis in the original)
+Summary of Administrative and Judicial Claims 
+G.R. No. 193301
+Mindanao II v. CIR
+ 
+ 
+ 
+Administrative Claim
+ 
+Judicial Claim
+ 
+Action on Claim
+ 
+ 
+ 
+1
+st 
+Quarter, 2003
+ 
+Filed late
+ 
+--
+ 
+Deny, pursuant to Section 112(A) of the 1997 Tax Code
+ 
+ 
+ 
+2
+nd
+ Quarter, 2003
+ 
+Filed on time
+ 
+Prematurely filed
+ 
+Grant, pursuant to BIR Ruling No. DA-489-03
+ 
+ 
+ 
+3
+rd 
+Quarter, 2003
+ 
+Filed on time
+ 
+Filed on time
+ 
+Grant, pursuant to Section 112(C) of the 1997 Tax Code
+ 
+ 
+ 
+4
+th
+ Quarter, 2003
+ 
+Filed on time
+ 
+Filed on time
+ 
+Grant, pursuant to Section 112(C) of the 1997 Tax Code
+ 
+ 
+G.R. No. 194637
+Mindanao I v. CIR
+ 
+ 
+ 
+Administrative Claim
+ 
+Judicial Claim
+ 
+Action on Claim
+ 
+ 
+ 
+1
+st
+ Quarter, 2003
+ 
+Filed late
+ 
+--
+ 
+Deny, pursuant to Section 112(A) of the 1997 Tax Code
+ 
+ 
+ 
+2
+nd
+ Quarter, 2003
+ 
+Filed on time
+ 
+Prematurely filed
+ 
+Grant, pursuant to BIR Ruling No. DA-489-03
+ 
+ 
+ 
+3
+rd 
+Quarter, 2003
+ 
+Filed on time
+ 
+Filed late
+ 
+Deny, pursuant to Section 112(C) of the 1997 Tax Code
+ 
+ 
+ 
+4
+th
+ Quarter, 2003
+ 
+Filed on time
+ 
+Filed late
+ 
+Deny, pursuant to Section 112(C) of the 1997 Tax Code
+ 
+ 
+Summary of Rules on Prescriptive Periods Involving VAT
+We summarize the rules on the determination of 
+the prescriptive period for filing a tax refund or credit of 
+unutilized input VAT
+ as provided in Section 112 of the 1997 Tax Code
+, as follows:
+(1) An administrative claim must be filed with the CIR within two years after the close of the taxable quarter when the zero-rated or effectively zero-rated sales were made.
+(2) The CIR has 120 days from the date of submission of complete documents in support of the administrative claim within which to decide whether to grant a refund or issue a tax credit certificate. The 120-day period may extend beyond the two-year period from the filing of the administrative claim if the claim is filed in the later part of the two-year period. If the 120-day period expires without any decision from the CIR, then the administrative claim may be considered to be denied by inaction.
+(3) A judicial claim must be filed with the CTA within 30 days from the receipt of the CIRâs decision denying the administrative claim or from the expiration of the 120-day period without any action from the CIR.
+(4) All taxpayers, however, can rely on BIR Ruling No. DA-489-03 from the time of its issuance on 10 December 2003 up to its reversal by this Court in 
+Aichi
+ on 6 October 2010, as an exception to the mandatory and jurisdictional 120+30 day periods.
+âIncidentalâ Transaction
+Mindanao II asserts that the sale of a fully depreciated Nissan Patrol is not an incidental transaction in the course of its business; hence, it is an isolated transaction that should not have been subject to 10% VAT.
+Section 105 of the 1997 Tax Code does not support Mindanao IIâs position:
+SEC. 105. 
+Persons Liable
+. - Any person who, in the course of trade or business, sells barters, exchanges, leases goods or properties, renders services, and any person who imports goods shall be subject to the value-added tax (VAT) imposed in Sections 106 to 108 of this Code.
+The value-added tax is an indirect tax and the amount of tax may be shifted or passed on to the buyer, transferee or lessee of the goods, properties or services. This rule shall likewise apply to existing contracts of sale or lease of goods, properties or services at the time of the effectivity of Republic Act No. 7716.
+The phrase âin the course of trade or businessâ means the regular conduct or pursuit of a commercial or an economic activity, 
+including transactions incidental thereto
+, by any person regardless of whether or not the person engaged therein is a nonstock, nonprofit private organization (irrespective of the disposition of its net income and whether or not it sells exclusively to members or their guests), or government entity.
+The rule of regularity, to the contrary notwithstanding, services as defined in this Code rendered in the Philippines by nonresident foreign persons shall be considered as being rendered in the course of trade or business. (Emphasis supplied)
+Mindanao II relies on 
+Commissioner of Internal Revenue v. Magsaysay Lines, Inc. (Magsaysay)
+[55]
+ and
+ Imperial v. Collector of Internal Revenue (Imperial)
+[56]
+ to justify its position. Magsaysay, decided under the NIRC of 1986, involved the sale of vessels of the National Development Company (NDC) to Magsaysay Lines, Inc. We ruled that the sale of vessels was not in the course of NDCâs trade or business as it was involuntary and made pursuant to the Governmentâs policy for privatization. 
+Magsaysay
+, in quoting from the CTAâs decision, imputed upon 
+Imperial 
+the definition of âcarrying on business.â 
+Imperial,
+ however, is an unreported case that merely stated that ââto engageâ is to embark in a business or to employ oneself therein.â
+[57]
+Mindanao IIâs sale of the Nissan Patrol is said to be an isolated transaction. However, it does not follow that an isolated transaction cannot be an incidental transaction for purposes of VAT liability. Indeed, a reading of Section 105 of the 1997 Tax Code would show that a transaction âin the course of trade or businessâ includes âtransactions incidental thereto.â Mindanao IIâs business is to convert the steam supplied to it by PNOC-EDC into electricity and to deliver the electricity to NPC. In the course of its business, Mindanao II bought and eventually sold a Nissan Patrol. Prior to the sale, the Nissan Patrol was part of Mindanao IIâs property, plant, and equipment. Therefore, the sale of the Nissan Patrol is an incidental transaction made in the course of Mindanao IIâs business which should be liable for VAT.
+Substantiation Requirements
+Mindanao II claims that the CTAâs disallowance of a total amount of P492,198.09 is improper as it has substantially complied with the substantiation requirements of Section 113(A)
+[58]
+ in relation to Section 237
+[59]
+ of the 1997 Tax Code, as implemented by Section 4.104-1, 4.104-5 and 4.108-1 of Revenue Regulation No. 7-95.
+[60]
+We are constrained to state that Mindanao IIâs compliance with the substantiation requirements is a finding of fact. The CTA En Banc evaluated the records of the case and found that the transactions in question are purchases for services and that Mindanao II failed to comply with the substantiation requirements. We affirm the CTA En Bancâs finding of fact, which in turn affirmed the finding of the CTA First Division. We see no reason to overturn their findings.
+WHEREFORE
+, we 
+PARTIALLY GRANT
+ the petitions. The Decision of the Court of Tax Appeals En Banc in CTA EB No. 513 promulgated on 10 March 2010, as well as the Resolution promulgated on 28 July 2010, and the Decision of the Court of Tax Appeals En Banc in CTA EB Nos. 476 and 483 promulgated on 31 May 2010, as well as the Amended Decision promulgated on 24 November 2010, are 
+AFFIRMED with MODIFICATION.
+For G.R. No. 193301, the claim of Mindanao II Geothermal Partnership for the first quarter of 2003 is 
+DENIED
+ while its claims for the second, third, and fourth quarters of 2003 are 
+GRANTED
+. For G.R. No. 194637, the claims of Mindanao I Geothermal Partnership for the first, third, and fourth quarters of 2003 are 
+DENIED
+ while its claim for the second quarter of 2003 is 
+GRANTED
+.
+SO ORDERED.
+Brion, Del Castillo, Villarama, Jr.
+, and 
+Perlas-Bernabe, JJ.
+, concur.
+*
+ Designated acting member per Special Order No. 1426 dated 8 March 2013.
+[1]
+ Under Rule 45 of the 1997 Rules of Civil Procedure.
+[2]
+ Rollo 
+(G.R. No. 193301), pp. 11-32. Penned by Associate Justice Juanito C. CastaÃ±eda. Jr., with Associate Justices Erlinda P. Uy, Olga Palanca-Enriquez, Esperanza R. Fabon-Victorino, Cielito N. Mindaro-Grulla and Amelia R. Cotangco-Manalastas, concurring. Presiding Justice Ernesto D. Acosta and Associate Justice Lovell R. Bautista penned Separate Concurring and Dissenting Opinions. Associate Justice Caesar A. Casanova concurred with Associate Justice Bautistaâs Opinion.
+[3]
+ Id. at 47-54. Penned by Associate Justice Juanito C. CastaÃ±eda, Jr., with Associate Justices Erlinda P. Uy, Olga Palanca-Enriquez, Esperanza R. Fabon-Victorino, and Cielito N. Mindaro-Grulla, concurring. Presiding Justice Ernesto D. Acosta and Associate Justice Lovell R. Bautista penned Separate Concurring and Dissenting Opinions. Associate Justice Caesar A. Casanova concurred with Associate Justice Bautistaâs Opinion. Associate Justice Amelia R. Cotangco-Manalastas was on leave.
+[4]
+ Id. at 179-198. Penned by Associate Justice Caesar A. Casanova, with Presiding Justice Ernesto D. Acosta and Associate Justice Lovell R. Bautista, concurring.
+[5]
+ Id. at 209-218. Penned by Associate Justice Caesar A. Casanova, with Associate Justice Lovell R. Bautista, concurring. Presiding Justice Ernesto D. Acosta penned a Separate Concurring and Dissenting Opinion.
+[6]
+ Under Rule 45 of the 1997 Rules of Civil Procedure.
+[7]
+ 
+Rollo
+ (G.R. No. 194637), pp. 14-26. Penned by Associate Justice Caesar A. Casanova, with Associate Justices Lovell R. Bautista, Cielito N. Mindaro-Grulla and Amelia C. Cotangco- Manalastas, concurring. Associate Justice Olga Palanca-Enriquez penned a Separate Concurring and Dissenting Opinion, with Associate Justices Juanito C. CastaÃ±eda, Jr. and Erlinda P. Uy, concurring. Associate Justice Esperanza R. Fabon-Victorino penned a Dissenting Opinion. Presiding Justice Ernesto D. Acosta was on leave.
+[8]
+ Id. at 41-51. Penned by Associate Justice Caesar A. Casanova, with Presiding Justice Ernesto D. Acosta, Associate Justices Juanito C. CastaÃ±eda, Jr., Erlinda P. Uy, Olga Palanca-Enriquez, Esperanza R. Fabon-Victorino, Cielito N. Mindaro-Grulla and Amelia C. Cotangco-Manalastas, concurring. Associate Justice Lovell R. Bautista penned a Separate Concurring and Dissenting Opinion.
+[9]
+ The short title of Republic Act No. 8424 is Tax Reform Act of 1997. It is also sometimes referred to as the National Internal Revenue Code (NIRC) of 1997. In this ponencia, we refer to RA 8424 as 1997 Tax Code.
+[10]
+ Section 6 of EPIRA provides:
+Generation Sector. 
+â Generation of electric power, a business affected with public interest shall be competitive and open.
+Upon the effectivity of this Act, any new generation company shall, before it operates, secure from the Energy Regulatory Commission (ERC) a certificate of compliance pursuant to the standards set forth in this Act, as well as health, safety and environmental clearances from the appropriate government agencies under existing laws.
+Any law to the contrary notwithstanding, power generation shall not be considered a public utility operation. For this purpose, any person or entity engaged or which shall engage in power generation and supply of electricity shall not be required to secure a national franchise.
+Upon the implementation of retail competition and open access, the prices charged by a generation company for the supply of electricity shall not be subject to regulation by the ERC except as otherwise provided in this Act.
+Pursuant to the objective of lowering electricity rates to end-users, sales of generated power by generation companies shall be value added tax zero-rated.
+The ERC shall, in determining the existence of market power abuse or anti-competitive behavior, require from generation companies the submission of their financial statements. (Emphasis supplied)
+[11]
+ 
+Rollo
+ (G.R. No. 193301), pp. 180-183.
+[12]
+ Id. at 179-198.
+[13]
+ Id. at 191.
+[14]
+ G.R. Nos. 141104 and 148763, 8 June 2007, 524 SCRA 73.
+[15]
+ See 
+rollo
+ (G.R. No. 193301), pp. 192-193.
+[16]
+ The commissioned independent Certified Public Accountant found the following:
+Annex D.1: P2,090.16, discrepancy between the input VAT paid to and acknowledged by the Government Service Insurance System and the amount claimed by Mindanao II;
+Annex D.2: P29,861.82, input VAT claims from Tokio Marine Malayan and Citibank NA Manila which were supported by billing statements but not by official receipts;
+Annex D.3: P2,752.00, out-of-pocket expenses reimbursed to SGV & Company not supported by valid invoices or official receipts; and
+Annex D.4: P487,355.93, input VAT claims from purchases of services supported by valid 2003 invoices but are paid in 2004.
+[17]
+ 
+Rollo 
+(G.R. No. 193301), p. 198.
+[18]
+ Id. at 199-207.
+[19]
+ G.R. No. 172129, 12 September 2008, 565 SCRA 154.
+[20]
+ 
+Rollo
+ (G.R. No. 193301), pp. 209-218.
+[21]
+ Id. at 218.
+[22]
+ Id. at 231-256. Pursuant to Section 4(b), Rule 8 of the Revised Rules of the Court of Tax Appeals.
+[23]
+ Id. at 11-32.
+[24]
+ Id. at 31.
+[25]
+ Id. at 47-54.
+[26]
+ Id. at 285-307.
+[27]
+ Id. at 50.
+[28]
+ 
+Rollo
+ (G.R. No. 194637), pp. 231-235.
+[29]
+ Id. at 230-245. Penned by Associate Justice Juanito C. CastaÃ±eda, Jr., with Associate Justices Erlinda P. Uy and Olga Palanca-Enriquez, concurring.
+[30]
+ Id. at 244.
+[31]
+ Id. at 246-254.
+[32]
+ Id. at 256-269.
+[33]
+ Supra note 14.
+[34]
+ 
+Rollo
+ (G.R. No. 194637), p. 278.
+[35]
+ Id. at 14-26.
+[36]
+ Id. at 25.
+[37]
+ RA 9337 renumbered Section 112(D) of the 1997 Tax Code to 112(C). In this Decision, we refer to Section 112(D) under the 1997 Tax Code as it is currently numbered, 112(C).
+[38]
+ G.R. No. 184823, 6 October 2010, 632 SCRA 422.
+[39]
+ 
+Rollo
+ (G.R. No. 194637), pp. 47-50.
+[40]
+ 
+ Rollo
+ (G.R. No. 193301), pp. 83-84.
+[41]
+ 
+ Rollo 
+(G.R. No. 194637), pp. 70-71.
+[42]
+ 
+Rollo
+ (G.R. No. 193301), p. 738; id. at 704.
+[43]
+ See note 37.
+[44]
+ The CIR had 120 days, or until 11 August 2005, to act on Mindanao IIâs claim. At the time of filing of Mindanao IIâs appeal with the CTA, Mindanao IIâs application for refund remained unacted upon. 
+Rollo 
+(G.R. No. 193301), p. 183.
+[45]
+ Mindanao II had 30 days from the receipt of the CIRâs denial of its claim or after the expiration of the 120-day period to appeal the decision or the unacted claim before the CTA. The 30th day after 11 August 2005, 10 September 2005, fell on a Saturday. Thus, Mindanao II had until 12 September 2005 to file its judicial claim. See Section 1, Rule 22, The 1997 Rules of Civil Procedure.
+[46]
+ The CIR had 120 days, or until 2 August 2005, to act on Mindanao Iâs claim. At the time of filing of Mindanao Iâs appeal with the CTA, Mindanao Iâs application for refund remained unacted upon. 
+Rollo
+ (G.R. No. 194637), p. 234.
+[47]
+ Mindanao I had 30 days from the receipt of the CIRâs denial of its claim or after the expiration of the 120-day period to appeal the decision or the unacted claim before the CTA. Thus, Mindanao II had until 1 September 2005 to file its judicial claim.
+[48]
+ G.R. Nos. 187485, 196113, and 197156, 12 February 2013.
+[49]
+ Id.
+[50]
+ Id.
+[51]
+ Id.
+[52]
+ On 10 October 2005, Mindanao I received a copy of the letter dated 30 September 2005 from the CIR denying its application for tax refund or credit. 
+Rollo 
+(G.R. No. 194637), p. 235.
+[53]
+ The Court En Banc voted in San Roque, thus: Associate Justice Antonio T. Carpio penned the Decision, with Associate Justices Teresita J. Leonardo-De Castro, Arturo D. Brion, Diosdado M. Peralta, Lucas P. Bersamin, Roberto A. Abad, Martin S. Villarama, Jr., Jose P. Perez, and Bienvenido L. Reyes, concurring. Chief Justice Maria Lourdes P.A. Sereno penned a Dissenting Opinion. Associate Justice Presbitero J. Velasco, Jr., penned a Dissenting Opinion, and is joined by Associate Justices Jose C. Mendoza and Estela M. Perlas-Bernabe. Associate Justice Marvic Mario Victor F. Leonen penned a Separate Opinion, and is joined by Associate Justice Mariano C. Del Castillo.
+[54]
+ See Section 246 of the 1997 Tax Code, which states:
+Non-Retroactivity of Rulings
+. - Any revocation, modification or reversal of any of the rules and regulations promulgated in accordance with the preceding Sections or any of the rulings or circulars promulgated by the Commissioner shall not be given retroactive application if the revocation, modification or reversal will be prejudicial to the taxpayers, except in the following cases:
+(a) Where the taxpayer deliberately misstates or omits material facts from his return or any document required of him by the Bureau of Internal Revenue;
+(b) Where the facts subsequently gathered by the Bureau of Internal Revenue are materially different from the facts on which the ruling is based; or
+(c) Where the taxpayer acted in bad faith.
+[55]
+ 529 Phil. 64 (2006).
+[56]
+ 97 Phil. 992 (1955).
+[57]
+ Id.
+[58]
+ Section 113. 
+Invoicing and Accounting Requirements for VAT-Registered Persons.
+ -
+(A) 
+Invoicing Requirements.
+ - A VAT-registered person shall, for every sale, issue an invoice or receipt. In addition to the information required under Section 237, the following information shall be indicated in the invoice or receipt:
+(1) A statement that the seller is a VAT-registered person, followed by his taxpayerâs identification number (TIN); and
+(2) The total amount which the purchaser pays or is obligated to pay to the seller with the indication that such amount includes the value-added tax.
+[59]
+ Section 237. 
+Issuance of Receipts or Sales or Commercial Invoices
+. - All persons subject to an internal revenue tax shall, for each sale or transfer of merchandise or for services rendered valued at Twenty-five pesos (P25.00) or more, issue duly registered receipts or sales or commercial invoices, prepared at least in duplicate, showing the date of transaction, quantity, unit cost and description of merchandise or nature of service: Provided, however, That in the case of sales, receipts or transfers in the amount of One hundred pesos (P100.00) or more, or regardless of the amount, where the sale or transfer is made by a person liable to value-added tax to another person also liable to value-added tax; or where the receipt is issued to cover payment made as rentals, commissions, compensations or fees, receipts or invoices shall be issued which shall show the name, business style, if any, and address of the purchaser, customer or client: Provided, further, That where the purchaser is a VAT-registered person, in addition to the information herein required, the invoice or receipt shall further show the Taxpayer Identification Number (TIN) of the purchaser.
+The original of each receipt or invoice shall be issued to the purchaser, customer or client at the time the transaction is effected, who, if engaged in business or in the exercise of profession, shall keep and preserve the same in his place of business for a period of three (3) years from the close of the taxable year in which such invoice or receipt was issued, while the duplicate shall be kept and preserved by the issuer, also in his place of business, for a like period.
+The Commissioner may, in meritorious cases, exempt any person subject to internal revenue tax from compliance with the provisions of this Section.
+[60]
+ Section 4.104-1. 
+Credits for input tax
+. â Any input tax evidenced by a VAT invoice or official receipt issued by a VAT-registered person in accordance with Section 108 of the Code, on the following transactions, shall be creditable against the output tax:
+(a) Purchase or importation of goods
+1. For sale; or
+2. For conversion into or intended to form part of a finished product for sale, including packaging materials; or
+3. For use as supplies in the course of business; or
+4. For use as raw materials supplied in the sale of services; or
+5. For use in trade or business for which deduction for depreciation or amortization is allowed under the Code, except automobiles, aircraft and yachts.
+(b) Purchase of real properties for which a VAT has actually been paid;
+(c) Purchase of services in which a VAT has actually been paid;
+(d) Transactions âdeemed saleâ under Section 100 (b) of the Code;
+(e) Presumptive input tax allowed to be carried over as provided for in Section 4.105-1 of these Regulations;
+(f) A VAT-registered person who is also engaged in transactions not subject to VAT shall be allowed input tax credit as follows:
+1. Total input which can be directly attributed to transactions subject to VAT; and
+2. A ratable portion of any input tax which cannot be directly attributed to either activity.
+Section 4.104-5. 
+Substantiation of claims for input tax credit. 
+â (a) Input taxes shall be allowed only if the domestic purchase of goods, properties or services is made in the course of trade or business. The input tax should be supported by an invoice or receipt showing the information as required under Sections 108 (a) and 238 of the Code. Input tax on purchases of real property should be supported by a copy of the public instrument
+ i.e. 
+deed of absolute sale, deed of conditional sale, contract/agreement to sell, etc., together with the VAT receipt issued by the seller.
+A cash-register machine tape issued to a VAT-registered buyer by a VAT-registered seller from a machine duly registered with the BIR in lieu of the regular sales invoice, shall constitute valid proof of substantiation of tax credit only if the name and TIN of the purchaser is indicated in the receipt and authenticated by a duly authorized representative of the seller.
+(b) Input tax on importation shall be supported with the import entry or other equivalent document showing actual payment of VAT on the imported goods.
+(c) Presumptive input tax shall be supported by an inventory of goods as shown in a detailed list to be submitted to the BIR.
+(d) Input tax on âdeemed saleâ transactions shall be substantiated with the required invoices.
+(e) Input tax from payments made to non-readers shall be supported by a copy of the VAT declaration/return filed by the resident licensee/lessee in behalf of the non-resident licensor/lessor evidencing remittance of the VAT due.
+Section 4.108-1.
+ Invoicing Requirements. 
+â All VAT-registered persons shall, for every sale or lease of goods or properties or services, issue duly registered receipts or sales or commercial invoices which must show:
+1. the name, TIN and address of seller;
+2. date of transaction;
+3. quantity, unit cost and description of merchandise or nature of service;
+4. the name, TIN, business style, if any, and address of the VAT-registered purchaser, customer or client;
+5. the word âzero ratedâ imprinted on the invoice covering zero-rated sales; and
+6. the invoice value or consideration.
+In the case of sale of real property subject to VAT and where the zonal or market value is higher than the actual consideration, the VAT shall be separately indicated in the invoice or receipt.
+Only VAT-registered persons are required to print their TIN followed by the word âVATâ in their invoice or receipts and this shall be considered as a âVAT Invoice.â All purchases covered by invoices other than âVAT Invoiceâ shall not give rise to any input tax.
+If the taxable person is also engaged in exempt operations, he should issue separate invoices or receipts for the taxable and exempt operations. A âVAT Invoiceâ shall be issued only for sales of goods, properties or services subject to VAT imposed in Sections 100 and 102 of the Code.
+The invoice or receipt shall be prepared at least in duplicate, the original to be given to the buyer and the duplicate to be retained by the seller as part of his accounting records.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

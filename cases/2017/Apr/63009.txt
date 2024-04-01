@@ -1,0 +1,235 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			809 Phil. 226
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 185024, April 24, 2017 ]
+
+
+JOSELITO HERNAND M. BUSTOS, PETITIONER, VS. MILLIANS SHOE, INC., SPOUSES FERNANDO AND AMELIA CRUZ, AND THE REGISTER OF DEEDS OF MARIKINA CITY, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+SERENO, C.J.:
+
+
+Before this Court is a Rule 45 Petition
+[1]
+ assailing the Decision and the Resolution
+[2]
+ of the Court of Appeals (CA). The CA did not find any grave abuse of discretion on the part of the Regional Trial Court, Imus, Cavite, Branch 21 (RTC). The RTC had issued Orders
+[3]
+ refusing to exclude the subject property in the Stay Order pertaining to assets under rehabilitation of respondent Millians Shoe, Inc. (MSI).
+FACTS OF THE CASE
+Spouses Fernando and Amelia Cruz owned a 464-square-meter lot covered by Transfer Certificate of Title (TCT) No. N-126668.
+[4]
+ On 6 January 2004, the City Government of Marikina levied the property for nonpayment of real estate taxes. The Notice of Levy was annotated on the title on 8 January 2004. On 14 October 2004, the City Treasurer of Marikina auctioned off the property, with petitioner Joselito Hernand M. Bustos emerging as the winning bidder.
+Petitioner then applied for the cancellation of TCT No. N-126668. On 13 July 2006, the Regional Trial Court, Marikina City, Branch 273, rendered a final and executory Decision ordering the cancellation of the previous title and the issuance of a new one under the name of petitioner.
+[5]
+Meanwhile, notices of 
+lis pendens
+ were annotated on TCT No. N-126668 on 9 February 2005.
+[6]
+ These markings indicated that SEC Corp. Case No. 036-04, which was filed before the RTC and involved the rehabilitation proceedings for MSI, covered the subject property and included it in the Stay Order issued by the RTC dated 25 October 2004.
+[7]
+On 26 September 2006, petitioner moved for the exclusion of the subject property from the Stay Order.
+[8]
+ He claimed that the lot belonged to Spouses Cruz who were mere stockholders and officers of MSL He further argued that since he had won the bidding of the property on 14 October 2004, or before the annotation of the title on 9 February 2005, the auctioned property could no longer be part of the Stay Order.
+The RTC denied the entreaty of petitioner. It ruled that because the period of redemption up to 15 October 2005 had not yet lapsed at the time of the issuance of the Stay Order on 25 October 2004, the ownership thereof had not yet been transferred to petitioner.
+[9]
+Petitioner moved for reconsideration,
+[10]
+ but to no avail.
+[11]
+ He then filed an action for certiorari before the CA. He asserted that the Stay Order undermined the taxing powers of the local government unit. He also reiterated his arguments that Spouses Cruz owned the property, and that the lot had already been auctioned to him.
+In the assailed Decision dated 12 June 2008, the CA brushed aside the claim that the suspension orders undermined the power to tax. As regards petitioner's main contention, the CA ruled as follows:
+In the case at bar, the delinquent tax payers were the Cruz Spouses who were the registered owners of the said parcel of land at the time of the delinquency sale. The sale was held on October 14, 2004 and the Cruz Spouses had until October 15, 2005 within which to redeem the parcel of land. The stay order was issued on October 25, 2004 and inscribed at the back of the title on February 9, 2005, which is within the redemption period. The Cruz Spouses were still the owners of the land at the time of the issuance of the stay order. The said parcel of land which secured several mortgage liens for the account of MSI remains to be an asset of the Cruz Spouses, who are the stockholders and/or officers of MSI, a close corporation. Incidentally, as an exception to the general rule, in a close corporation, the stockholders and/or officers usually manage the business of the corporation and are subject to all liabilities of directors, i.e. personally liable for corporate debts and obligations. Thus, the Cruz Spouses being stockholders of MSI are personally liable for the latter's debt and obligations.
+Petitioner unsuccessfully moved for reconsideration. The CA maintained its ruling and even held that his prayer to exclude the property was time-barred by the 10-day reglementary period to oppose rehabilitation petitions under Rule 4, Section 6 of the Interim Rules of Procedure on Corporate Rehabilitation.
+Before this Court, petitioner maintains three points: (1) the Spouses Cruz are not liable for the debts of MSI; (2) the Stay Order undermines the taxing power of Marikina City; and (3) the time bar rule does not apply to him, because he is not a creditor of MSI.
+[12]
+In their Comment,
+[13]
+ respondents do not contest that Spouses Cruz own the subject property. Rather, respondents assert that as stockholders and officers of a close corporation, they are personally liable for its debts and obligations. Furthermore, they argue that since the Rehabilitation Plan of MSI has been approved, petitioner can no longer assail the same.
+ISSUE OF THE CASE
+The controlling issue in this case is whether the CA correctly considered the properties of Spouses Cruz answerable for the obligations of MSI.
+If the answer is in the affirmative, then the courts 
+a quo
+ correctly ruled that the Stay Order involving the assets of MSI included the property covered by TCT No. N-126668. Petitioner would also be considered a creditor of MSI who must timely file an opposition to the proposed rehabilitation plan of the corporation.
+RULING OF THE COURT
+We set aside rulings of the CA for lack of basis.
+In finding the subject property answerable for the obligations of MSI, the CA characterized respondent spouses as stockholders of a close corporation who, as such, are liable for its debts. This conclusion is baseless.
+To be considered a close corporation, an entity must abide by the requirements laid out in Section 96 of the Corporation Code, which reads:
+Sec. 96. 
+Definition and applicability of Title.
+ - A close corporation, within the meaning of this Code, is one whose 
+articles of incorporation
+ provide that: (1) All the corporation's issued stock of all classes, exclusive of treasury shares, shall be held of record by not more than a specified number of persons, not exceeding twenty (20); (2) all the issued stock of all classes shall be subject to one or more specified restrictions on transfer permitted by this Title; and (3) The corporation shall not list in any stock exchange or make any public offering of any of its stock of any class. Notwithstanding the foregoing, a corporation shall not be deemed a close corporation when at least two-thirds (2/3) of its voting stock or voting rights is owned or controlled by another corporation which is not a close corporation within the meaning of this Code. x x x. (Emphasis supplied)
+In 
+San Juan Structural and Steel Fabricators. Inc. v. Court of Appeals
+,
+[14]
+ this Court held that a narrow distribution of ownership does not, by itself, make a close corporation. Courts must look into the articles of incorporation to find provisions expressly stating that (1) the number of stockholders shall not exceed 20; or (2) a preemption of shares is restricted in favor of any stockholder or of the corporation; or (3) the listing of the corporate stocks in any stock exchange or making a public offering of those stocks is prohibited.
+Here, neither the CA nor the RTC showed its basis for finding that MSI is a close corporation. The courts 
+a quo
+ did not at all refer to the Articles of Incorporation of MSI. The Petition submitted by respondent in the rehabilitation proceedings before the RTC did not even include those Articles of Incorporation among its attachments.
+[15]
+In effect, the CA and the RTC deemed MSI a close corporation based on the allegation of Spouses Cruz that it was so. However, mere allegation is not evidence and is not equivalent to proof.
+[16]
+ 
+For this reason alone, the CA rulings should be set aside.
+Furthermore, we find that the CA seriously erred in portraying the import of Section 97 of the Corporation Code. Citing that provision, the CA concluded that "in a close corporation, the stockholders and/or officers usually manage the business of the corporation and are subject to all liabilities of directors, i.e. personally liable for corporate debts and obligations."
+[17]
+However, Section 97 of the Corporation Code only specifies that "the stockholders of the corporation shall be subject to all liabilities of directors." Nowhere in that provision do we find any inference that stockholders of a close corporation are automatically liable for corporate debts and obligations.
+Parenthetically, only Section 100, paragraph 5, of the Corporation Code explicitly provides for personal liability of stockholders of close corporation, 
+viz
+:
+Sec. 100. Agreements by stockholders. -
+x x x x
+5. To the 
+extent
+ that the stockholders are 
+actively engaged
+ in the management or operation of the business and affairs of a close corporation, the stockholders shall be held to strict fiduciary duties to each other and among themselves. Said stockholders shall be 
+personally liable
+ for 
+corporate torts
+ unless the corporation has obtained reasonably adequate 
+liability insurance
+. (Emphasis supplied)
+As can be read in that provision, several requisites must be present for its applicability. None of these were alleged in the case of Spouses Cruz. Neither did the RTC or the CA explain the factual circumstances for this Court to discuss the personally liability of respondents to their creditors because of "corporate torts."
+[18]
+We thus apply the general doctrine of separate juridical personality, which provides that a corporation has a legal personality separate and distinct from that of people comprising it.
+[19]
+ By virtue of that doctrine, stockholders of a corporation enjoy the principle of limited liability: the corporate debt is not the debt of the stockholder.
+[20]
+ Thus, being an officer or a stockholder of a corporation does not make one's property the property also of the corporation.
+[21]
+Situs Development Corp. v. Asiatrust Bank
+[22]
+ is analogous to the case at bar. We held therein that the parcels of land mortgaged to creditor banks were owned not by the corporation. but by the spouses who were its stockholders. Applying the doctrine of separate juridical personality, we ruled that the parcels of land of the spouses could not be considered part of the corporate assets that could be subjected to rehabilitation proceedings.
+In rehabilitation proceedings, claims of creditors are limited to demands of whatever nature or character against a 
+debtor or its property
+, whether for money or otherwise.
+[23]
+ In several cases,
+[24]
+ we have already held that stay orders should only cover those claims directed against corporations or their properties, against their guarantors, or their sureties who are not solidarily liable with them, to the exclusion of accommodation mortgagors.
+[25]
+ To repeat, properties merely owned by stockholders cannot be included in the inventory of assets of a corporation under rehabilitation.
+Given that the true owner the subject property is not the corporation, petitioner cannot be considered a creditor of MSI but a holder of a claim against respondent spouses.
+[26]
+Rule 4, Section 6 of the Interim Rules of Procedure on Corporate Rehabilitation, directs creditors of the debtor to file an opposition to petitions for rehabilitation within 10 days before the initial hearing of rehabilitation proceedings. Since petitioner does not hold any claim over the properties owned by MSI, the time-bar rule does not apply to him.
+WHEREFORE
+, the Petition for review on certiorari filed by petitioner Joselito Hernand M. Bustos is 
+GRANTED
+. The Decision dated 12 June 2008 and Resolution dated 27 October 2008 of the Court of Appeals in C.A.-G.R. SP. No. 100298 are 
+REVERSED
+ and 
+SET ASIDE
+.
+SO ORDERED.
+Leonardo-De Castro, Del Castillo, Perlas-Bernabe
+, and 
+Caguioa, JJ.
+, concur.
+[1]
+ 
+Rollo
+, pp. 10-38; Petition filed on 28 November 2008.
+[2]
+ Id. at 40-55, 57-59; the CA Decision dated 12 June 2008 and Resolution dated 27 October 2008 in CA-G.R. SP No. 100298 were penned by Associate Justice Normandie B. Pizarro, with Associate Justices Josefina Guevara-Salonga and Magdangal M. de Leon concurring.
+[3]
+ Id. at 79, 86; Orders dated 18 January 2007 and 27 June 2007 in SEC Case No. 036-04 penned by Executive Judge Norberta J. Quisumbing. Jr.
+[4]
+ Id. at 72-73 (with back pages).
+[5]
+ Id. at 85; Entry of Final Judgment dated 24 August 2006 in LRC Case No. 06-846-MK issued by Officer-in-Charge E.C.F. Potian-Munsod.
+[6]
+ Id. at 73 (back page).
+[7]
+ Id. at 67-71.
+[8]
+ Id. at 74-78; Motion to Exclude from the Stay Order dated October 2004 the Parcel of Land covered by TCT No. N-126668 of the Registry of Deeds of Marikina City together with the Improvements Existing Thereon Registered in the Names of the Spouses Fernando C. Cruz and Amelia M. Cruz, filed on 26 September 2006.
+[9]
+ Id. at 79.
+[10]
+ Id. at 80-84; Motion for Reconsideration filed on 13 February 2007.
+[11]
+ Id. at 86; Order of the RTC dated 27 June 2007.
+[12]
+ Id. at 10-38, 114-119, 122-144; Petition filed on 28 November 2008, Reply filed on 16 October 2009, and Petitioner's Memorandum filed on 22 January 2010.
+[13]
+ Id. at 101-110, 151-170; Comment filed by respondents on 16 April 2009 and Memorandum for the Respondents filed on 5 February 2010.
+[14]
+ 357 Phil. 631 (1998).
+[15]
+ 
+Rollo
+, pp. 60-66.
+[16]
+ 
+De Jesus v. Guerrero III
+, 614 Phil. 520 (2009).
+[17]
+ 
+Rollo
+, p. 51.
+[18]
+ 
+Naguiat v. National Labor Relations Commission
+, 336 Phil. 545, 562 (1997). "Our jurisprudence is wanting as to the definite scope of 'corporate tort.' Essentially, 'tort' consists in the violation of a right given or the omission of a duty imposed by law. Simply stated, tort is a breach of a legal duty."
+[19]
+ 
+Heirs of Tan Uy v. International Exchange Bank
+, 703 Phil. 477 (2013).
+[20]
+ 
+Philippine National Bank v. Hydro Resources Contractors Corp.
+, 706 Phil. 297 (2013). See Cesar L. Villanueva and Teresa S. Villanueva-Tiansay, 
+Philippine Corporate Law
+ (2013) 880. "x x x the corporate defenses of limited liability should still be available to stockholders of such close corporations."
+[21]
+ 
+Traders Royal Bank v. Court of Appeals
+, 258 Phil. 584 (1989).
+[22]
+ 691 Phil. 707 (2012).
+[23]
+ Interim Rules of Procedure on Corporate Rehabilitation, A.M. No. 00-8-10-SC (2000), Rule 2, Section 1.
+[24]
+ Supra note 22. See also 
+Siochi Fishery Enterprises, Inc. v. Bank of the Philippine Islands
+, 675 Phil. 916 (2011); and 
+Asiatrust Development Bank v. First Aikka Development, Inc.
+, 665 Phil. 313 (2011).
+[25]
+ 
+Pacific Wide Realty and Development Corp. v. Puerto Azul Land, Inc.
+, 620 Phil. 520 (2009).
+[26]
+ Supra note 23.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

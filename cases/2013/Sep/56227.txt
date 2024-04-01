@@ -1,0 +1,574 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			717 Phil. 752
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 183804, September 11, 2013 ]
+
+
+S.C. MEGAWORLD CONSTRUCTION AND DEVELOPMENT CORPORATION, PETITIONER, VS. ENGR. LUIS U. PARADA, REPRESENTED BY ENGR. LEONARDO A. PARADA OF GENLITE INDUSTRIES, RESPONDENT.
+DECISION
+
+
+
+
+REYES, J.:
+
+
+Before us on appeal by 
+certiorari
+[1]
+ is the Decision
+[2]
+ dated April 30, 2008 of the Court of Appeals (CA) in CA-G.R. CV No. 83811 which upheld the Decision
+[3]
+ dated May 28, 2004 of the Regional Trial Court (RTC) of Quezon City, Branch 100, in Civil Case No. Q-01-45212.
+Factual Antecedents
+S.C. Megaworld Construction and Development Corporation (petitioner) bought electrical lighting materials from Genlite Industries, a sole proprietorship owned by Engineer Luis U. Parada (respondent), for its Read-Rite project in Canlubang, Laguna. The petitioner was unable to pay for the above purchase on due date, but blamed it on its failure to collect under its sub-contract with the Enviro Kleen Technologies, Inc. (Enviro Kleen). It was however able to persuade Enviro Kleen to agree to settle its above purchase, but after paying the respondent P250,000.00 on June 2, 1999,
+[4]
+ Enviro Kleen stopped making further payments, leaving an outstanding balance of P816,627.00. It also ignored the various demands of the respondent, who then filed a suit in the RTC, docketed as Civil Case No. Q-01-45212, to collect from the petitioner the said balance, plus damages, costs and expenses, as summarized in the RTCâs decision, as follows:
+According to the statement of account prepared by the [respondent], the total obligation due to the [petitioner] is [P]816,627.00 as of 31 January 2001 (
+Exh[s]. E & E-1
+). Despite several demands made by the [respondent] (
+Exhs. F & G, inclusive of their submarkings
+), the [petitionerâs] obligation remain[s] unpaid. [The respondent] was constrained to file the instant action in which it is claiming the unpaid balance of [P]816,627.00, two (2) percent thereof as monthly interest, twenty-five (25) percent of the amount due as attorneyâs fees (
+Exhs. C-8 to C-15
+), [P]100,000.00 as litigation expenses and [P]100,000.00 as exemplary damages.
+[5]
+The petitioner in its answer denied liability, claiming that it was released from its indebtedness to the respondent by reason of the novation of their contract, which, it reasoned, took place when the latter accepted the partial payment of Enviro Kleen in its behalf, and thereby acquiesced to the substitution of Enviro Kleen as the new debtor in the petitionerâs place.
+After trial, the RTC rendered judgment
+[6]
+ on May 28, 2004 in favor of the respondent, the 
+fallo
+ of which reads, as follows:
+WHEREFORE, judgment is hereby rendered for the [respondent].
+[The petitioner] is hereby ordered to pay the [respondent] the following:
+A. the sum of [P]816,627.00 representing the principal obligation due;
+B. the sum equivalent to 
+twenty percent (20%) per month
+ of the principal obligation due from date of judicial demand until fully paid as and for interest; and
+C. the sum equivalent to twenty[-]five [percent] (25%) of the principal sum due as and for attorneyâs fees and other costs of suits.
+The compulsory counterclaim interposed by the [petitioner] is hereby ordered dismissed for lack of merit.
+SO ORDERED.
+[7]
+ (Emphasis supplied)
+On appeal to the CA, the petitioner maintained that the trial court erred in ruling that no novation of the contract took place through the substitution of Enviro Kleen as the new debtor. But for the first time, it further argued that the trial court should have dismissed the complaint for failure of the respondent to implead Genlite Industries as âa proper party in interestâ, as provided in Section 2 of Rule 3 of the 1997 Rules of Civil Procedure. The said section provides:
+SEC. 2. 
+Parties in interest
+. â A real party in interest is the party who stands to be benefited or injured by the judgment in the suit, or the party entitled to the avails of the suit. Unless otherwise authorized by law or these Rules, every action must be prosecuted or defended in the name of the real party in interest.
+In Section 1(g) of Rule 16 of the Rules of Court, it is also provided that the defendant may move to dismiss the suit on the ground that it was not brought in the name of or against the real party in interest, with the effect that the complaint is then deemed to state no cause of action.
+In dismissing the appeal, the CA noted that the petitioner in its answer below raised only the defense of novation, and that at no stage in the proceedings did it raise the question of whether the suit was brought in the name of the real party in interest. Moreover, the appellate court found from the sales invoices and receipts that the respondent is the sole proprietor of Genlite Industries, and therefore the real party-plaintiff. Said the CA:
+Settled is the rule that litigants cannot raise an issue for the first time on appeal as this would contravene the basic rules of fair play and justice.
+In any event, there is no question that [respondent] Engr. Luis U. Parada is the proprietor of Genlite Industries, as shown on the sales invoice and delivery receipts. There is also no question that a special power of attorney was executed by [respondent] Engr. Luis U. Parada in favor of Engr. Leonardo A. Parada authorizing the latter to file a complaint against [the petitioner].
+[8]
+ (Citations omitted)
+The petitioner also contended that a binding novation of the purchase contract between the parties took place when the respondent accepted the partial payment of Enviro Kleen of P250,000.00 in its behalf, and thus acquiesced to the substitution by Enviro Kleen of the petitioner as the new debtor. But the CA noted that there is nothing in the two (2) letters of the respondent to Enviro Kleen, dated April 14, 1999 and June 16, 1999, which would imply that he consented to the alleged novation, and, particularly, that he intended to release the petitioner from its primary obligation to pay him for its purchase of lighting materials. The appellate court cited the RTCâs finding
+[9]
+ that the respondent informed Enviro Kleen in his first letter that he had served notice to the petitioner that he would take legal action against it for its overdue account, and that he retained his option to pull out the lighting materials and charge the petitioner for any damage they might sustain during the pull-out:
+[Respondent] x x x has served notice to the [petitioner] that unless the overdue account is paid, the matter will be referred to its lawyers and there may be a pull-out of the delivered lighting fixtures. It was likewise stated therein that incidental damages that may result to the structure in the course of the pull-out will be to the account of the [petitioner].
+[10]
+The CA concurred with the RTC that by retaining his option to seek satisfaction from the petitioner, any acquiescence which the respondent had made was limited to merely accepting Enviro Kleen as an additional debtor from whom he could demand payment, but without releasing the petitioner as the principal debtor from its debt to him.
+On motion for reconsideration,
+[11]
+ the petitioner raised for the first time the issue of the validity of the verification and certification of non-forum shopping attached to the complaint. On July 18, 2008, the CA denied the said motion for lack of merit.
+[12]
+Petition for Review in the Supreme Court
+In this petition, the petitioner insists, firstly, that the complaint should have been dismissed outright by the trial court for an invalid non-forum shopping certification; and, secondly, that the appellate court erred in not declaring that there was a novation of the contract between the parties through substitution of the debtor, which resulted in the release of the petitioner from its obligation to pay the respondent the amount of its purchase.
+[13]
+Our Ruling
+The petition is devoid of merit.
+The verification and certification of non-forum shopping in the complaint is not a jurisdictional but a formal requirement, and any objection as to non-compliance therewith should be raised in the proceedings below and not for the first time on appeal.
+âIt is well-settled that no question will be entertained on appeal unless it has been raised in the proceedings below. Points of law, theories, issues and arguments not brought to the attention of the lower court, 
+administrative agency or quasi-judicial body
+, need not be considered by a reviewing court, as they cannot be raised for the first time at that late stage. Basic considerations of fairness and due process impel this rule. Any issue raised for the first time on appeal is barred by 
+estoppel
+.â
+[14]
+Through a Special Power of Attorney (SPA), the respondent authorized Engr. Leonardo A. Parada (Leonardo), the eldest of his three children, to perform the following acts in his behalf: a) to file a complaint against the petitioner for sum of money with damages; and b) to testify in the trial thereof and sign all papers and documents related thereto, with full powers to enter into stipulation and compromise.
+[15]
+ Incidentally, the respondent, a widower, died of cardio-pulmonary arrest on January 21, 2009,
+[16]
+ survived by his legitimate children, namely, Leonardo, Luis, Jr., and Lalaine, all surnamed Parada. They have since substituted him in this petition, per the Resolution of the Supreme Court dated September 2, 2009.
+[17]
+ Also, on July 23, 2009, Luis, Jr. and Lalaine Parada executed an SPA authorizing their brother Leonardo to represent them in the instant petition.
+[18]
+In the verification and certification of non-forum shopping attached to the complaint in Civil Case No. Q01-45212, Leonardo as attorney-in-fact of his father acknowledged as follows:
+x x x x
+That I/we am/are the Plaintiff in the above-captioned case;
+That I/we have caused the preparation of this Complaint;
+That I/we have read the same and that all the allegations therein are true and correct to the best of my/our knowledge;
+x x x x.
+[19]
+In this petition, the petitioner reiterates its argument before the CA that the above verification is invalid, since the SPA executed by the respondent did not specifically include an authority for Leonardo to sign the verification and certification of non-forum shopping, thus rendering the complaint defective for violation of Sections 4 and 5 of Rule 7. The said sections provide, as follows:
+Sec. 4. 
+Verification
+. â A pleading is verified by an affidavit that the affiant has read the pleading and that the allegations therein are true and correct of his personal knowledge or based on authentic records.
+Sec. 5. 
+Certification against forum shopping
+. ââ The plaintiff or principal party shall certify under oath in the complaint or other initiatory pleading asserting a claim for relief, or in a sworn certification annexed thereto and simultaneously filed therewith: (a) that he has not theretofore commenced any action or filed any claim involving the same issues in any court, [or] tribunal x x x and, to the best of his knowledge, no such other action or claim is pending therein; (b) if there is such other pending action or claim, a complete statement of the present status thereof; and (c) if he should thereafter learn that the same or similar action or claim has been filed or is pending, he shall report that fact x x x to the court wherein his aforesaid complaint or initiatory pleading has been filed.
+Failure to comply with the foregoing requirements shall not be curable by mere amendment of the complaint or other initiatory pleading but shall be cause for the dismissal of the case without prejudice, unless otherwise provided, upon motion and after hearing.
+The petitionerâs argument is untenable. The petitioner failed to reckon that any objection as to compliance with the requirement of verification in the complaint should have been raised in the proceedings below, and not in the appellate court for the first time.
+[20]
+ In 
+KILUSAN-OLALIA v. CA
+,
+[21]
+ it was held that verification is a formal, not a jurisdictional requisite:
+We have emphasized, time and again, that verification is a formal, not a jurisdictional requisite, as it is mainly intended to secure an assurance that the allegations therein made are done in good faith or are true and correct and not mere speculation. The Court may order the correction of the pleading, if not verified, or act on the unverified pleading if the attending circumstances are such that a strict compliance with the rule may be dispensed with in order that the ends of justice may be served.
+Further, in rendering justice, courts have always been, as they ought to be, conscientiously guided by the norm that on the balance, technicalities take a backseat 
+vis-Ã -vis
+ substantive rights, and not the other way around. x x x.
+[22]
+ (Citations omitted)
+In 
+Young v. John Keng Seng
+,
+[23]
+ it was also held that the question of forum shopping cannot be raised in the CA and in the Supreme Court, since such an issue must be raised at the earliest opportunity in a motion to dismiss or a similar pleading. The high court even warned that â[i]nvoking it in the later stages of the proceedings or on appeal may result in the dismissal of the action x x x.â
+[24]
+Moreover, granting that Leonardo has no personal knowledge of the transaction subject of the complaint below, Section 4 of Rule 7 provides that the verification need not be based on the verifierâs personal knowledge but even only on authentic records. Sales invoices, statements of accounts, receipts and collection letters for the balance of the amount still due to the respondent from the petitioner are such records. There is clearly substantial compliance by the respondentâs attorney-in-fact with the requirement of verification.
+Lastly, it is well-settled that a strict compliance with the rules may be dispensed with in order that the ends of substantial justice may be served.
+[25]
+ It is clear that the present controversy must be resolved on its merits, lest for a technical oversight the respondent should be deprived of what is justly due him.
+A sole proprietorship has no juridical personality separate and distinct from that of its owner, and need not be impleaded as a party-plaintiff in a civil case.
+On the question of whether Genlite Industries should have been impleaded as a party-plaintiff, Section 1 of Rule 3 of the Rules of Court provides that only natural or juridical persons or entities authorized by law may be parties in a civil case. Article 44 of the New Civil Code enumerates who are juridical persons:
+Art. 44. The following are juridical persons:
+(1) The State and its political subdivisions;
+(2) Other corporations, institutions and entities for public interest or purpose, created by law; their personality begins as soon as they have been constituted according to law;
+(3) Corporations, partnerships and associations for private interest or purpose to which the law grants a juridical personality, separate and distinct from that of each shareholder, partner or member.
+Genlite Industries is merely the DTI-registered trade name or style of the respondent by which he conducted his business. As such, it does not exist as a separate entity apart from its owner, and therefore it has no separate juridical personality to sue or be sued.
+[26]
+ As the sole proprietor of Genlite Industries, there is no question that the respondent is the real party in interest who stood to be directly benefited or injured by the judgment in the complaint below. There is then no necessity for Genlite Industries to be impleaded as a party-plaintiff, since the complaint was already filed in the name of its proprietor, Engr. Luis U. Parada. To heed the petitionerâs sophistic reasoning is to permit a dubious technicality to frustrate the ends of substantial justice.
+Novation is never presumed but must be clearly and unequivocally shown.     
+Novation is a mode of extinguishing an obligation by changing its objects or principal obligations, by substituting a new debtor in place of the old one, or by subrogating a third person to the rights of the creditor.
+[27]
+ It is âthe substitution of a new contract, debt, or obligation for an existing one between the same or different parties.â
+[28]
+ Article 1293 of the Civil Code defines novation as follows:
+Art. 1293. Novation which consists in substituting a new debtor in the place of the original one, may be made even without the knowledge or against the will of the latter, but not without the consent of the creditor. Payment by the new debtor gives him rights mentioned in Articles 1236 and 1237.
+Thus, in order to change the person of the debtor, the former debtor must be expressly released from the obligation, and the third person or new debtor must assume the formerâs place in the contractual relation.
+[29]
+ Article 1293 speaks of substitution of the debtor, which may either be in the form of 
+expromision
+ or 
+delegacion
+, as seems to be the case here. In both cases, the old debtor must be released from the obligation, otherwise, there is no valid novation. As explained in 
+Garcia
+[30]
+:
+In general, there are two modes of substituting the person of the debtor: (1) 
+expromision
+ and (2) 
+delegacion
+. In 
+expromision
+, the initiative for the change does not come fromâand may even be made without the knowledge ofâthe debtor, since it consists of a third personâs assumption of the obligation. As such, it logically requires the consent of the third person and the creditor. In 
+delegacion
+, the debtor offers, and the creditor accepts, a third person who consents to the substitution and assumes the obligation; thus, the consent of these three persons are necessary. Both modes of substitution by the debtor require the consent of the creditor.
+[31]
+ (Citations omitted)
+From the circumstances obtaining below, we can infer no clear and unequivocal consent by the respondent to the release of the petitioner from the obligation to pay the cost of the lighting materials. In fact, from the letters of the respondent to Enviro Kleen, it can be said that he retained his option to go after the petitioner if Enviro Kleen failed to settle the petitionerâs debt. As the trial court held:
+The fact that Enviro Kleen Technologies, Inc. made payments to the [respondent] and the latter accepted it does not 
+ipso facto
+ result in novation. Novation to be given its legal effect requires that the creditor should consent to the substitution of a new debtor and the old debtor be released from its obligation (
+Art. 1293, New Civil Code
+). A reading of the letters dated 14 April 1999 (
+Exh. 1
+) and dated 16 June 1999 (
+Exh[s]. 4 & 4-a
+) sent by the [respondent] to Enviro Kleen Technologies, Inc. clearly shows that there was nothing therein that would evince that the [respondent] has consented to the exchange of the person of the debtor from the [petitioner] to Enviro Kleen Technologies, Inc.
+x x x x
+Notably in 
+Exh. 1
+, albeit addressed to Enviro Kleen Technologies, Inc., the [respondent] expressly stated that it has served notice to the [petitioner] that unless the overdue account is paid, the matter will be referred to its lawyers and there may be a pull-out of the delivered lighting fixtures. It was likewise stated therein that incident damages that may result to the structure in the course of the pull-out will be to the account of the [petitioner].
+It is evident from the two (2) aforesaid letters that there is no indication of the [respondentâs] intention to release the [petitioner] from its obligation to pay and to transfer it to Enviro Kleen Technologies, Inc. The acquiescence of Enviro Kleen Technologies, Inc. to assume the obligation of the [petitioner] to pay the unpaid balance of [P]816,627.00 to the [respondent] when there is clearly no agreement to release the [petitioner] will result merely to the addition of debtors and not novation. Hence, the creditor can still enforce the obligation against the original debtor x x x. A fact which points strongly to the conclusion that the [respondent] did not assent to the substitution of Enviro Kleen Technologies, Inc. as the new debtor is the present action instituted by [the respondent] against the [petitioner] for the fulfilment of its obligation. A mere recital that the [respondent] has agreed or consented to the substitution of the debtor is not sufficient to establish the fact that there was a novation. x x x.
+[32]
+The settled rule is that novation is never presumed,
+[33]
+ but must be clearly and unequivocally shown.
+[34]
+ In order for a new agreement to supersede the old one, the parties to a contract must expressly agree that they are abrogating their old contract in favor of a new one.
+[35]
+ Thus, the mere substitution of debtors will not result in novation,
+[36]
+ and the fact that the creditor accepts payments from a third person, who has assumed the obligation, will result merely in the addition of debtors and not novation, and the creditor may enforce the obligation against both debtors.
+[37]
+ If there is no agreement as to solidarity, the first and new debtors are considered obligated jointly.
+[38]
+ As explained in 
+Reyes v. CA
+[39]
+:
+The consent of the creditor to a novation by change of debtor is as indispensable as the creditorâs consent in conventional subrogation in order that a novation shall legally take place. The mere circumstance of AFP-MBAI receiving payments from respondent Eleazar who acquiesced to assume the obligation of petitioner under the contract of sale of securities, when there is clearly no agreement to release petitioner from her responsibility, does not constitute novation. At most, it only creates a juridical relation of co-debtorship or suretyship on the part of respondent Eleazar to the contractual obligation of petitioner to AFP-MBAI and the latter can still enforce the obligation against the petitioner. In Ajax Marketing and Development Corporation vs. Court of Appeals which is relevant in the instant case, we stated that â
+âIn the same vein, to effect a subjective novation by a change in the person of the debtor, it is necessary that the old debtor be released expressly from the obligation, and the third person or new debtor assumes his place in the relation. There is no novation without such release as the third person who has assumed the debtorâs obligation becomes merely a co-debtor or surety. xxx. Novation arising from a purported change in the person of the debtor must be clear and express xxx.â
+In the civil law setting, 
+novatio
+ is literally construed as to make new. So it is deeply rooted in the Roman Law jurisprudence, the principle â 
+novatio non praesumitur
+ â that novation is never presumed. At bottom, for novation to be a jural reality, its 
+animus
+ must be ever present, 
+debitum pro debito
+ â basically extinguishing the old obligation for the new one.
+[40]
+ (Citation omitted)
+The trial court found that the respondent never agreed to release the petitioner from its obligation, and this conclusion was upheld by the CA. We generally accord utmost respect and great weight to factual findings of the trial court and the CA, unless there appears in the record some fact or circumstance of weight and influence which has been overlooked, or the significance of which has been misinterpreted, that if considered would have affected the result of the case.
+[41]
+ We find no such oversight in the appreciation of the facts below, nor such a misinterpretation thereof, as would otherwise provide a clear and unequivocal showing that a novation has occurred in the contract between the parties resulting in the release of the petitioner.
+Pursuant to Article 2209 of the Civil Code, except as provided under Central Bank Circular No. 905, and now under Bangko Sentral ng Pilipinas Circular No. 799, which took effect on July 1, 2013, the respondent may be awarded interest of six percent (6%) of the judgment amount by way of actual and compensatory damages.
+It appears from the recital of facts in the trial courtâs decision that the respondent demanded interest of two percent (2%) per month upon the balance of the purchase price of P816,627.00, from judicial demand until full payment. There is then an obvious clerical error committed in the 
+fallo
+ of the trial courtâs decision, for it incorrectly ordered the defendant therein to pay âthe sum equivalent to 
+twenty percent (20%) per month
+ of the principal obligation due from date of judicial demand until fully paid as and for interest.â
+[42]
+A clerical mistake is one which is visible to the eyes or obvious to the understanding; an error made by a clerk or a transcriber; a mistake in copying or writing.
+[43]
+ The Latin maxims 
+Error placitandi aequitatem non tollit
+ (âA clerical error does not take away equityâ), and 
+Error scribentis nocere non debit
+ (âAn error made by a clerk ought not to injure; a clerical error may be correctedâ) are apt in this case.
+[44]
+ Viewed against the landmark case of 
+Medel v. CA
+[45]
+, an award of interest of 20% per month on the amount due is clearly excessive and iniquitous. It could not have been the intention of the trial court, not to mention that it is way beyond what the plaintiff had prayed for below.
+It is settled that other than in the case of judgments which are void 
+ab initio
+ for lack of jurisdiction, or which are null and void 
+per se
+, and thus may be questioned at any time, when a decision is final, even the court which issued it can no longer alter or modify it, except to correct clerical errors or mistakes.
+[46]
+The foregoing notwithstanding, of more important consideration in the case before us is the fact that it is nowhere stated in the trial courtâs decision that the parties had in fact stipulated an interest on the amount due to the respondent. Even granting that there was such an agreement, there is no finding by the trial court that the parties stipulated that the outstanding debt of the petitioner would be subject to two percent (2%) monthly interest. The most that the decision discloses is that the respondent demanded a monthly interest of 2% on the amount outstanding.
+Article 2209 of the Civil Code provides that â[i]f the obligation consists in the payment of a sum of money, and the debtor incurs in delay, the indemnity for damages, there being no stipulation to the contrary, shall be the payment of the interest agreed upon, and in the absence of stipulation, the legal interest, which is six percent 
+per annum
+.â Pursuant to the said provision, then, since there is no finding of a stipulation by the parties as to the imposition of interest, only the amount of 12% 
+per annum
+[47]
+ may be awarded by the court by way of damages in its discretion, not two percent (2%) per month, following the guidelines laid down in the landmark case of 
+Eastern Shipping Lines v. Court of Appeals
+,
+[48]
+ to wit:
+II. With regard particularly to an award of interest in the concept of actual and compensatory damages, the rate of interest, as well as the accrual thereof, is imposed, as follows:
+1. When the obligation is breached, and it consists in the payment of a sum of money, i.e., a loan or forbearance of money, the interest due should be that which may have been stipulated in writing. Furthermore, the interest due shall itself earn legal interest from the time it is judicially demanded. In the absence of stipulation, the rate of interest shall be 12% per annum to be computed from default, i.e., from judicial or extrajudicial demand under and subject to the provisions of Article 1169 of the Civil Code.
+2. When an obligation, not constituting a loan or forbearance of money, is breached, an interest on the amount of damages awarded may be imposed at the 
+discretion of the court
+ at the rate of 6% 
+per annum
+. No interest, however, shall be adjudged on unliquidated claims or damages except when or until the demand can be established with reasonable certainty. Accordingly, where the demand is established with reasonable certainty, the interest shall begin to run from the time the claim is made judicially or extrajudicially (Art. 1169, Civil Code) but when such certainty cannot be so reasonably established at the time the demand is made, the interest shall begin to run only from the date the judgment of the court is made (at which time the quantification of damages may be deemed to have been reasonably ascertained). The actual base for the computation of legal interest shall, in any case, be on the amount finally adjudged.
+3. When the judgment of the court awarding a sum of money becomes final and executory, the rate of legal interest, whether the case falls under paragraph 1 or paragraph 2, above, shall be 12% per annum from such finality until its satisfaction, this interim period being deemed to be by then an equivalent to a forbearance of credit.
+[49]
+ (Citations omitted)
+As further clarified in the case of 
+Sunga-Chan v. CA
+,
+[50]
+ a loan or forbearance of money, goods or credit describes a contractual obligation whereby a lender or creditor has refrained during a given period from requiring the borrower or debtor to repay the loan or debt then due and payable.
+[51]
+ Thus:
+In 
+Reformina v. Tomol, Jr.
+, the Court held that the legal interest at 12% 
+per annum
+ under Central Bank (CB) Circular No. 416 shall be adjudged only in cases involving the loan or forbearance of money. And for transactions involving payment of indemnities in the concept of damages arising from default in the performance of obligations in general and/or for money judgment not involving a loan or forbearance of money, goods, or credit, the governing provision is Art. 2209 of the Civil Code prescribing a 
+yearly 6% interest
+. Art. 2209 pertinently provides:
+âArt. 2209. If the obligation consists in the payment of a sum of money, and the debtor incurs in delay, the indemnity for damages, there being no stipulation to the contrary, shall be the payment of the interest agreed upon, and in the absence of stipulation, the legal interest, which is 
+six per cent 
+per annum
+.â
+The term âforbearance,â within the context of usury law, has been described as a contractual obligation of a lender or creditor to refrain, during a given period of time, from requiring the borrower or debtor to repay the loan or debt then due and payable.
+Eastern Shipping Lines, Inc
+. synthesized the rules on the imposition of interest, if proper, and the applicable rate, as follows: The 12% 
+per annum
+ rate under CB Circular No. 416 shall apply only to loans or forbearance of money, goods, or credits, as well as to judgments involving such loan or forbearance of money, goods, or credit, while the 
+6% per annum
+ under Art. 2209 of the Civil Code applies â
+when the transaction involves the payment of indemnities in the concept of damage arising from the breach or a delay in the performance of obligations in general
+,â with the application of both rates reckoned âfrom the time the complaint was filed until the [adjudged] amount is fully paid.â In either instance, the reckoning period for the commencement of the running of the legal interest shall be subject to the condition âthat the courts are vested with discretion, depending on the equities of each case, on the award of interest.â
+[52]
+ (Citations omitted and emphasis ours)
+Pursuant, then, to Central Bank Circular No. 416, issued on July 29, 1974,
+[53]
+ in the absence of a written stipulation, the interest rate to be imposed in judgments involving a forbearance of credit shall be 12% 
+per annum
+, up from 6% under Article 2209 of the Civil Code. This was reiterated in Central Bank Circular No. 905, which suspended the effectivity of the Usury Law from January 1, 1983.
+[54]
+ But if the judgment refers to payment of interest as damages arising from a breach or delay in general, the applicable interest rate is 6% 
+per annum
+, following Article 2209 of the Civil Code.
+[55]
+ Both interest rates apply from judicial or extrajudicial demand until finality of the judgment. But from the finality of the judgment awarding a sum of money until it is satisfied, the award shall be considered a forbearance of credit, regardless of whether the award in fact pertained to one, and therefore during this period, the interest rate of 12% 
+per annum
+ for forbearance of money shall apply.
+[56]
+But notice must be taken that in Resolution No. 796 dated May 16, 2013, the Monetary Board of the Bangko Sentral ng Pilipinas approved the revision of the interest rate to be imposed for the loan or forbearance of any money, goods or credits and the rate allowed in judgments, in the absence of an express contract as to such rate of interest. Thus, under BSP Circular No. 799, issued on June 21, 2013 and effective on July 1, 2013, the said rate of interest is now back at six percent (6%), 
+viz
+:
+Bangko Sentral ng Pilipinas
+OFFICE OF THE GOVERNOR
+CIRCULAR NO.
+ 799
+Series of 2013
+Subject: 
+Rate of interest in the absence of stipulation
+The monetary Board, in its Resolution No. 796 dated 16 May 2013, approved the following revisions governing the rate of interest in the absence of stipulation in loan contracts, thereby amending Section 2 of Circular No. 905, Series of 1982:
+Section 1.
+ The rate of interest for the loan or forbearance of any money, goods or credits and the rate allowed in judgments, in the absence of an express contract as to such rate of interest, shall be six percent (6%) per annum.
+Section 2.
+ In view of the above, Subsection X305.1 of the Manual of Regulations for Banks and Sections 4305Q.1, 4305S.3 and 4303P.1 of the Manual of Regulations for Non-Bank Financial Institutions are hereby amended accordingly.
+This Circular shall take effect on 1 July 2013.
+FOR THE MONETARY BOARD:
+DIWA C. GUINIGUNDO
+Officer-In-Charge
+The award of attorneyâs fees is not proper. 
+Other than to say that the petitioner âunjustifiably failed and refused to pay the respondent,â the trial court did not state in the body of its decision the factual or legal basis for its award of attorneyâs fees to the respondent, as required under Article 2208 of the New Civil Code, for which reason we have resolved to delete the same. The rule is settled that the trial court must state the factual, legal or equitable justification for its award of attorneyâs fees.
+[57]
+ Indeed, the matter of attorneyâs fees cannot be stated only in the dispositive portion, but the reasons must be stated in the body of the courtâs decision.
+[58]
+ This failure or oversight of the trial court cannot even be supplied by the CA. As concisely explained in 
+Frias v. San Diego-Sison
+[59]
+:
+Article 2208 of the New Civil Code enumerates the instances where such may be awarded and, in all cases, it must be reasonable, just and equitable if the same were to be granted. Attorneyâs fees as part of damages are not meant to enrich the winning party at the expense of the losing litigant. They are not awarded every time a party prevails in a suit because of the policy that no premium should be placed on the right to litigate. The award of attorneyâs fees is the exception rather than the general rule. As such, it is necessary for the trial court to make findings of facts and law that would bring the case within the exception and justify the grant of such award. The matter of attorneyâs fees cannot be mentioned only in the dispositive portion of the decision. They must be clearly explained and justified by the trial court in the body of its decision. On appeal, the CA is precluded from supplementing the bases for awarding attorneyâs fees when the trial court failed to discuss in its Decision the reasons for awarding the same. Consequently, the award of attorneyâs fees should be deleted.
+[60]
+ (Citations omitted)
+WHEREFORE
+, premises considered, the Decision dated April 30, 2008 of the Court of Appeals in CA-G.R. CV No. 83811 is 
+AFFIRMED
+ with 
+MODIFICATION
+. Petitioner S.C. Megaworld Construction and Development Corporation is ordered to pay respondent Engr. Luis A. Parada, represented by Engr. Leonardo A. Parada, the principal amount due of P816,627.00, plus interest at twelve percent (12%) 
+per annum
+, reckoned from judicial demand until June 30, 2013, and six percent (6%) 
+per annum
+ from July 1, 2013 until finality hereof, by way of actual and compensatory damages. Thereafter, the principal amount due as adjusted by interest shall likewise earn interest at six percent (6%) 
+per annum
+ until fully paid. The award of attorneyâs fees is 
+DELETED
+.
+SO ORDERED.
+Sereno, C.J., (Chairperson), Leonardo-De Castro, Bersamin
+, and 
+Villarama, Jr., JJ.
+, concur.
+[1]
+ 
+Rollo
+, pp. 11-32.
+[2]
+ Penned by Associate Justice Fernanda Lampas Peralta, with Associate Justices Edgardo P. Cruz and Apolinario D. Bruselas, Jr., concurring; id. at 33-44.
+[3]
+ Penned by Judge Marie Christine A. Jacob; id. at 71-74.
+[4]
+ Id. at 69.
+[5]
+ Id. at 71-72.
+[6]
+ Id. at 71-74.
+[7]
+ Id. at 73-74.
+[8]
+ Id. at 38.
+[9]
+ Id. at 73.
+[10]
+ Id.
+[11]
+ Id. at 47-56.
+[12]
+ Id. at 45.
+[13]
+ Id. at 17.
+[14]
+ 
+Besana v. Mayor
+, G.R. No. 153837, July 21, 2010, 625 SCRA 203, 214, citing 
+Jacot v. Dal
+, G.R. No. 179848, November 27, 2008, 572 SCRA 295, 311, and 
+Villaranda v. Villaranda
+, 467 Phil. 1089, 1098 (2004).
+[15]
+ 
+Rollo
+, p. 62.
+[16]
+ Id. at 119.
+[17]
+ Id. at 125-126.
+[18]
+ Id. at 120-121.
+[19]
+ Id. at 66.
+[20]
+ 
+Gadit v. Atty. Feliciano, Sr., et al.
+, 161 Phil. 507, 510 (1976).
+[21]
+ 555 Phil. 42 (2007).
+[22]
+ Id. at 57.
+[23]
+ 446 Phil. 823 (2003).
+[24]
+ Id. at 826.
+[25]
+ Supra note 21, at 57.
+[26]
+ 
+Berman Memorial Park, Inc. v. Cheng
+, 497 Phil. 441, 451-452 (2005).
+[27]
+ 
+Garcia v. Llamas
+, 462 Phil. 779, 788 (2003); 
+Agro Conglomerates, Inc. v. CA
+, 401 Phil. 644, 655 (2000).
+[28]
+ 
+Riser Airconditioning Services Corp., v. Confield Construction Development Corp.
+, 481 Phil. 822, 835 (2004).
+[29]
+ 
+Philippine Savings Bank v. Sps. Manalac, Jr.
+, 496 Phil. 671, 689 (2005).
+[30]
+ Supra note 27.
+[31]
+ Id. at 300.
+[32]
+ 
+Rollo
+, pp. 72-73.
+[33]
+ 
+Ajax Marketing & Development Corporation v. CA
+, 318 Phil. 268 (1995); 
+GoÃ±i v. CA
+, 228 Phil. 222, 232 (1986); 
+California Bus Lines, Inc. v. State Investment House, Inc.
+, 463 Phil. 689, 702 (2003).
+[34]
+ 
+Mercantile Insurance Co., Inc., v. CA
+, 273 Phil. 415, 423 (1991).
+[35]
+ CIVIL CODE OF THE PHILIPPINES, Article 1292; 
+Idolor v. CA
+, 404 Phil. 220, 228 (2001).
+[36]
+ 
+Servicewide Specialists, Inc. v. Intermediate Appellate Court
+, 255 Phil. 787, 800 (1989).
+[37]
+ Id., citing 
+Staight v. Haskell
+, 49 Phil. 614 (1926); 
+Testate Estate of Mota v. Serra
+, 47 Phil. 464 (1925); 
+E.C. McCullough & Co. v. Veloso and Serna
+, 46 Phil. 1 (1924); 
+Pacific Commercial Co. v. Sotto
+, 34 Phil. 237 (1916).
+[38]
+ Id., citing 
+Lopez v. CA, et al.
+, 200 Phil. 150, 166 (1982); 
+DuÃ±go v. Lopena, et al.
+, 116 Phil. 1305, 1314 (1962).
+[39]
+ 332 Phil. 40 (1996).
+[40]
+ Id. at 55-56.
+[41]
+ 
+San Sebastian College v. CA
+, 274 Phil. 414, 421 (1991).
+[42]
+ 
+Rollo
+, p. 74.
+[43]
+ 
+Black v. Republic of the Philippines
+, 104 Phil. 848, 849 (1958); 
+Beduya v. Republic
+, 120 Phil. 114, 116 (1964).
+[44]
+ 
+Ingson v. Olaybar
+, 52 Phil. 395, 398 (1928).
+[45]
+ 359 Phil. 820 (1998).
+[46]
+ 
+Heirs of Remigio Tan v. Intermediate Appellate Court
+, 246 Phil. 756, 764 (1988); 
+Vda. de Emnas v. Emnas
+, 184 Phil. 419, 424 (1980); 
+Maramba v. Lozano
+, 126 Phil. 833, 837 (1967).
+[47]
+ Now reduced to 6% under BSP Circular No. 799 which took effect on July 1, 2013.
+[48]
+ G.R. No. 97412, July 12, 1994, 234 SCRA 78.
+[49]
+ Id. at 95-97.
+[50]
+ G.R. No. 164401, June 25, 2008, 555 SCRA 275.
+[51]
+ Id. 287-288.
+[52]
+ Id.
+[53]
+ July 29, 1974
+CENTRAL BANK CIRCULAR NO. 416
+By virtue of the authority granted to it under Section 1 of Act No. 2655, as amended, otherwise known as the âUsury Law,â the Monetary Board, in its Resolution No. 1622 dated July 29, 1974, has prescribed that the rate of interest for the loan or forbearance of any money, goods or credits and the rate allowed in judgments, in the absence of express contract as to such rate of interest, shall be twelve per cent (12%) per annum.
+This Circular shall take effect immediately.
+(SGD.) G. S. LICAROS
+Governor
+[54]
+ Section 2. The rate of interest for the loan or forbearance of any money, goods or credits and the rate allowed in judgments, in the absence of express contract as to such rate of interest, shall continue to be twelve per cent (12%) per annum.
+[55]
+ Art. 2209. If the obligation consists in the payment of a sum of money, and the debtor incurs in delay, the indemnity for damages, there being no stipulation to the contrary, shall be the payment of the interest agreed upon, and in the absence of stipulation, the legal interest, which is six per cent per annum.
+[56]
+ 
+Penta Capital Finance Corporation v. Bay
+, G.R. No. 162100, January 18, 2012, 663 SCRA 192, 213.
+[57]
+ 
+Philippine Airlines, Incorporated v. CA
+, G.R. No. 123238, September 22, 2008, 566 SCRA 124, 138.
+[58]
+ 
+BuÃ±ing v. Santos
+, 533 Phil. 610, 617 (2006).
+[59]
+ 549 Phil. 49 (2007).
+[60]
+ Id. at 63-65.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

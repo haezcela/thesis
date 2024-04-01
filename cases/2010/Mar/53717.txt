@@ -1,0 +1,669 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			628 Phil. 547
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 160972, March 09, 2010 ]
+
+
+LEIGHTON CONTRACTORS PHILIPPINES, INC., PETITIONER, VS. CNP INDUSTRIES, INC., RESPONDENT. 
+D E C I S I O N
+
+
+
+
+CORONA, J.:
+
+
+ This petition for review on certiorari
+[1]
+ assails the May 31, 2000 decision
+[2]
+ and November 20, 2003 resolution
+[3]
+ of the Court of Appeals (CA) in CA-G.R. SP No. 52090.
+In 1997, Hardie Jardin, Inc. (HJI) awarded the contract for site preparation, building foundation and structural steel works of its fibre cement plant project in Barangay Tatalon in San Isidro, Cabuyao, Laguna to petitioner Leighton Contractors Philippines, Inc.
+[4]
+On July 5, 1997, respondent CNP Industries, Inc. submitted to petitioner a proposal to undertake, as subcontractor, the construction of the structural steelworks
+[5]
+ of HJI's fibre cement plant project.  It estimated the project to require 885,009 kgs. of steel costing P44,223,909.
+[6]
+On July 15, 1997, petitioner accepted respondent's proposal specifying that the project cost was for the fixed lump sum price of P44,223,909.
+[7]
+ Respondent agreed and petitioner instructed it to commence work.
+Meanwhile, petitioner revised the fabrication drawings of several of the structure's columns necessitating adjustments in the designs of roof ridge ventilation
+[8]
+ and crane beams.
+[9]
+ Petitioner communicated the said revisions to respondent on July 16, 1997. Respondent estimated that the said revisions required an additional 8,132 kgs. of steel costing P13,442,882. However, it did not re-negotiate the fixed lump-sum price with petitioner.
+On July 28, 1997, petitioner and respondent signed a sub-contract
+[10]
+ providing:
+(B) Subcontract works.
+To carry out complete 
+structural steelworks
+[11]
+ outlined in the Sub-contract Lump Sum Price 
+[
+of P44,223,909
+]
+[12]
+ 
+in accordance with the Main Drawing
+[13]
+ and Technical Specifications
+[14]
+ and in accordance with the Main Contract, all of which are available on Site. 
+(c)  Special Conditions of the Sub-Contract.
+x x x                  x x x                 x x x
+2. Notwithstanding the provisions of Clause 11(4)
+[15]
+ of the General Conditions of the Sub-contract, 
+this Sub-contract is on a
+ Fixed Lump Sum basis and is not subject to re-measurement
+. It is the responsibility of [respondent] to derive his own quantities for the purpose of the Lump Sum Sub-contract price. No additional payments will be made to [respondent] for any errors in quantities that may be revealed during the Sub-contract period
+. 
+(emphasis supplied) 
+[16]
+x x x                 x x x                  x x x
+Moreover, the contract required respondent to finish the project within 20 weeks from the time petitioner was allowed access to the site on June 20, 1997,
+[17]
+ that is, on or before November 6, 1997.
+On July 29, 1997, petitioner paid respondent 10% of the project cost amounting to P4,422,390.90.
+[18]
+Thereafter, in a letter dated July 31, 1997, respondent informed petitioner that, due to the revisions in the designs of the roof ridge ventilation and crane beams, it incurred "additional costs" amounting to P13,442,882.
+Respondent submitted its weekly progress report including the progress billing. Petitioner, on the other hand, paid the billings.
+In its August 12, 1997 progress report,
+[19]
+ respondent reiterated that the roof ridge ventilation and crane beams were not included in the scope of work and consequently were not part of the sub-contract price. It likewise presented the cost estimates in the progress report.
+Because respondent was unable to meet the project schedule, petitioner took over the project on April 27, 1998. At the time of the takeover, respondent had already accomplished 86% of the project
+[20]
+ for which petitioner paid P42,008,343.69.
+[21]
+Thereafter, respondent again asked petitioner to settle the "outstanding balance" of P12,364,993.94, asserting that the roof ridge ventilation and crane beams were excluded from the project cost. Petitioner refused to pay as the July 28, 1997 subcontract clearly stated that the sub-contract price was a fixed lump sum.
+The parties submitted the matter to the Construction Industry Arbitration Commission (CIAC) for arbitration.
+[22]
+ The principal issue submitted thereto was whether the cost of the additional steel used for the roof ridge ventilation and crane beams was included in the fixed lump-sum price.
+Respondent argued that the proposal it submitted (accepted by petitioner on July 15, 1997) excluded the roof ridge ventilation and crane beams as the fabrications drawings were "clouded" or had not been finalized when the subcontract was executed on July 28, 1997. Furthermore, respondent claimed that petitioner approved the cost estimates when Simon Bennett, petitioner's quantity surveyor, signed the August 12, 1997 progress report. This proved that the said portions were "additional works" excluded from the fixed lump-sum price.
+Petitioner, on the other hand, asserted that the subcontract explicitly included the aforementioned works in the scope of work. Furthermore, it was not liable for the "additional costs" incurred by respondent as the subcontract clearly provided that the project was for the fixed lump-sum price of P44,223,909. It likewise denied approving respondent's additional cost estimates as Bennett signed the August 12, 1997 progress report only to acknowledge its receipt.
+The CIAC found that the subcontract was perfected when petitioner accepted respondent's proposal on July 15, 2009. Thus, because the fabrication drawings for the roof ridge ventilation and crane beams had not yet been finalized then, the same were deemed "additional works" not included in the lump-sum price. In a decision dated March 19, 1999,
+[23]
+ the CIAC rendered judgment in favor of respondent and ordered petitioner to pay the balance of the contract price plus additional works, the cost of arbitration and attorney's fees.
+Aggrieved, petitioner assailed the CIAC decision via a petition for review in the CA.
+[24]
+ Aside from disputing the CIAC's interpretation of the sub-contract, petitioner likewise argued that the arbitral body disregarded Article 1724 of the Civil Code.
+[25]
+In a decision dated May 31, 2000, the CA dismissed the petition and affirmed the CIAC decision 
+in toto.
+[26]
+ Petitioner moved for reconsideration but it was denied in resolution dated November 20, 2003.
+[27]
+Hence, this recourse.
+Petitioner insists that it was not liable to pay for the increase in cost due to the adjustments in the design of the roof ridge ventilation and crane beams. The subcontract clearly defined the scope of work as the construction of the structural steel works and stated that it was for a fixed lump-sum price. Furthermore, assuming 
+arguendo
+ that the said adjustments were indeed additional works, petitioner was not liable to pay for incremental cost since respondent did not observe the procedure mandated by Article 1724 of the Civil Code.
+The petition is meritorious.
+The parties entered into a contract for a piece of work
+[28]
+ whereby petitioner engaged respondent as contractor to build and provide the necessary materials for the construction of the structural steel works of HJI's fiber cement plant for a fixed lump-sum price of P44,223,909.
+The parol evidence rule, embodied in Section 9, Rule 130 of the Rules of Court
+[29]
+ holds that when the terms of an agreement have been reduced into writing, it is considered as containing all the terms agreed upon and there can be, between the parties and their successors in interest, no evidence of such terms other than the contents of the written agreement.
+[30]
+ It, however, admits of exceptions such as when the parties subsequently modify the terms of their original agreement.
+The scope of work was defined in the subcontract as the completion of the structural steel works according to the main drawing, technical specifications and the main contract.
+[31]
+ Thus, to determine whether the roof ridge ventilation and crane beams were included in the scope of work, reference to the main drawing, technical specifications and main contract is necessary. The main contract
+[32]
+ stated that the structural steel works included Drawing Nos. P302-6200-S-405 and P302-6200-S-402.
+[33]
+ This, according to petitioner and respondent,
+[34]
+ referred to the roof ridge ventilation and crane beams. Hence, the said works were clearly included in the sub-contract works.
+Nevertheless, respondent contends that when Bennett signed the August 12, 1997 progress report, petitioner approved the additional cost estimates, in effect modifying the original agreement in the subcontract. Respondent therefore claims an exception to the parole evidence rule.
+In contracts for a stipulated price like fixed lump-sum contracts, the recovery of additional costs is governed by Article 1724 of the Civil Code.
+[35]
+ Settled is the rule that a claim for the cost of additional work arising from changes in the scope of work can only be allowed upon the:
+(1)  written authority from the developer or project owner ordering or allowing the written changes in work and
+(2) written agreement of parties with regard to the increase in price or cost due to the change in work or design modification.
+Furthermore, compliance with the two requisites of Article 1724, a specific provision governing additional works, is a condition precedent for the recovery. The absence of one or the other condition bars the recovery of additional costs. Neither the authority for the changes made nor the additional price to be paid therefor may be proved by any other evidence.
+[36]
+Respondent, in this instance, presented the August 12, 1997 progress report signed by Bennett. However, respondent knew that Bennett was not authorized to order any changes in the scope of works or to approve the cost thereof.  It addressed all correspondences relating to the project to (petitioner's) project manager Michael Dent, not Bennett.
+[37]
+ Moreover, Bennett did not sign the subcontract for and in behalf of respondent but only as a witness.
+[38]
+ Respondent was therefore aware of Bennett's lack of authority.
+In this respect, aside from respondent's failure to present the documents required by Article 1724 of the Civil Code, we find that the sub-contract was never modified. Petitioner therefore cannot be liable for the additional costs incurred by respondent.
+In a fixed lump-sum contract, the project owner agrees to pay the contractor a specified amount for completing a scope of work involving a variety of unspecified items of work without requiring a cost breakdown.
+[39]
+ The contractor estimates the project cost based on the scope of work and schedule and considers probable errors in measurement and changes in the price of materials.
+[40]
+By entering into a fixed lump-sum contract, respondent undertook the risk of incurring a loss due to errors in measurement. The sub-contract explicitly stated that the stipulated price was not subject to remeasurement. Since the roof ridge ventilation and crane beams were included in the scope of work, respondent was presumed to have estimated the quantity of steel (the minimum and maximum amount) needed on the said portions when it made its formal offer on July 5, 1997. Concomitantly, by the very nature of a fixed lump-sum contract, petitioner was only liable to pay the stipulated subcontract price.
+[41]
+WHEREFORE
+, the May 31, 2000 decision and November 20, 2003 resolution of the Court of Appeals in CA-G.R. SP No. 52090 affirming the March 19, 1999 decision of the Construction and Industry Arbitration Commission are hereby 
+REVERSED 
+and
+ SET ASIDE
+. New judgment is hereby entered declaring that petitioner Leighton Contractors Philippines, Inc. is not liable for the additional costs incurred by respondent CNP Industries, Inc.
+SO ORDERED
+.
+Velasco, Jr., Nachura, Peralta
+ and 
+Mendoza, JJ
+., concur.
+ 
+[1]
+ Under Rule 45 of the Rules of Court.
+[2]
+ Penned by Justice Ruben T. Reyes (retired) and concurred in by Justices Andres B. Reyes and Jose L. Sabio, Jr. of the Former Special Fifteenth Division of the Court of Appeals. 
+Rollo, 
+pp. 108-127.
+[3]
+ Id., pp. 129-130.
+[4]
+ Contract No. P302-C-001. Id., pp. 363-531.
+[5]
+ Contract No. P302-C-001, Part E, par. 5 delineated the scope of the structural steelworks as follows:
+5.0.  Structural Steelworks.
+5.1. Supply, detailing where required, fabrication, surface preparation, painting and shop trial assembly of structural steelwork and light-gauge steelwork associated with the steel building as shown on the drawings such as columns, beams, girders, girts, purlins, crossbracings, fly braces, sag rods, bridgings, base plates, crane railings and like items.
+5.2. Supply of all field connection materials such as nuts, bolts, washers, screws, shims, packers, gaskets, back-up bars and the like.
+5.3. Non-destructive testing (NDT) of the Works, in accordance with the approved ITP. A minimum of 5% of welds shall be tested using dye penetrant testing.
+5.4. Field assembly and installation (including touch-up painting) of structural steelwork and light-gauge steelwork.
+5.5. Preparation of concrete surfaces and supply and installation of grouting after levelling,  alignment and tensioning of the structures' bolted connections.
+5.6. Supply and installation of cladding including gutters, ridge roll, flashings and other accessories and items including but not limited to down pipes, roller doors, personnel doors   and vents as shown in drawings.
+Contract No. P302-C-001, Part E, par. 14 referred to the following drawings:
+ 
+ 
+ 
+P302-6200-S-401 
+ 
+ 
+0 
+ 
+ 
+FACTORY BUILDING STRUCTURAL STEEL WORKS FRAME ELEVATION AT LINE 2-6 
+ 
+ 
+ 
+ 
+P302-6200-S-402 
+ 
+ 
+0 
+ 
+ 
+FACTORY BUILDING STRUCTURAL STEEL WORKS FRAME ELEVATION AT LINE 7-17 
+ 
+ 
+ 
+ 
+P302-6200-S-403 
+ 
+ 
+0 
+ 
+ 
+FACTORY BUILDING STRUCTURAL STEEL WORKS FRAME ELEVATION AT LINE 1,18-24, A & B 
+ 
+ 
+ 
+ 
+P302-6200-S-404 
+ 
+ 
+0 
+ 
+ 
+FACTORY BUILDING STRUCTURAL STEEL WORKS ELEVATION AT LINE B, E, F, & G 
+ 
+ 
+ 
+ 
+P302-6200-S-405
+ 
+ 
+ 
+0
+ 
+ 
+ 
+FACTORY BUILDING 
+ 
+STRUCTURAL STEEL WORKS
+ 
+ROOF FRAMING PLAN
+ 
+ 
+ 
+ 
+P302-6200-S-406 
+ 
+0
+ 
+FACTORY BUILDING STRUCTURAL STEEL WORKS ROOF BRACING LAYOUT PLAN 
+ 
+ 
+ 
+P302-6200-S-407 
+ 
+0
+ 
+ADMINISTRATION BUILDING 
+MEZZANINE 
+FLOOR FRAMING PLAN 
+ 
+ 
+ 
+P302-6200-S-408
+ 
+ 
+0
+ 
+FACTORY BUILDING 
+ 
+ CRANE BEAM LAYOUT PLAN, SECTIONS & DETAILS
+ 
+ 
+ 
+P302-6200-S-409 
+ 
+0
+ 
+FACTORY BUILDING STRUCTURAL STEEL WORKS ELEVATION AT LINE C & D 
+ 
+ 
+ 
+P302-6200-S-410 
+ 
+0
+ 
+FACTORY BUILDING MISCELLANEOUS SECTIONS & DETAILS 
+ 
+ 
+ 
+P302-6200-S-411 
+ 
+0
+ 
+FACTORY BUILDING MISCELLANEOUS SECTIONS & DETAILS 
+ 
+ 
+ 
+P302-6200-S-412 
+ 
+0
+ 
+FACTORY BUILDING ROOF BEAM ARRANGEMENT LAYOUT & DETAILS 
+ 
+ 
+[6]
+ Letter of respondent's application engineer Joel O. PeÃ±alosa to petitioner's project manager Michael Dent. Dated June 5, 1997. Annex "D," id., pp. 526-527.
+[7]
+ Letter of Dent to respondent's president Oscar A. Mitra.
+[8]
+ P302-6200-S-405, 
+supra 
+note 5.
+[9]
+ P302-6200-S-408, id.
+[10]
+  Sub-Contract No. 68001 (June 1997). Id., pp. 532-551.  The subcontract was signed by Dent and Mitra and witnessed by respondent's quantity surveyor Simon Bennett and PeÃ±alosa.
+[11]
+  Contract No. P302-C-001, Part E, par. 5, 
+supra 
+note 5.
+[12]
+  Sub-Contract No. 68001 (June 1997), Third Schedule. 
+Rollo
+, p. 595. The contract price was broken down as follows:
+ 
+ 
+Item No.
+ 
+Description
+ 
+Amount
+ 
+ 
+ 
+1.0 
+ 
+Structural Steelworks 
+ 
+ 
+ 
+ 
+1.1 
+ 
+Supply and Fabrication
+ 
+ 
+ 
+ 
+ 
+250 Mpa Steel 
+ 
+P20,565,575.45
+ 
+ 
+ 
+ 
+350 Mpa Light-Gauge 
+ 
+6,648,451.82
+ 
+ 
+ 
+1.2
+ 
+ 
+Painting
+ 
+ 
+ 
+ 
+ 
+250 Mpa Steel 
+ 
+4,465,760.00
+ 
+ 
+ 
+ 
+350 Mpa Light-Gauge 
+ 
+1,443,694.55
+ 
+ 
+ 
+1.3 
+ 
+Delivery
+ 
+ 
+ 
+ 
+ 
+250 Mpa Steel 
+ 
+Included
+ 
+ 
+ 
+ 
+350 Mpa Steel 
+ 
+Included
+ 
+ 
+ 
+1.4
+ 
+ 
+Installation
+ 
+ 
+ 
+ 
+ 
+250 Mpa Steel 
+ 
+5,350,400.00
+ 
+ 
+ 
+ 
+350 Mpa Light-Gauge 
+ 
+1,729,671.82
+ 
+ 
+ 
+ 
+TOTAL 
+ 
+P40,203,553.64
+ 
+ 
+ 
+ 
+Plus 10% Value Added Tax (VAT) 
+ 
+4,023,355.36
+ 
+ 
+ 
+ 
+SUB-CONTRACT LUMP SUM PRICE 
+ 
+P44,223,909.00
+ 
+ 
+ 
+ 
+ 
+=============
+ 
+ 
+[13]
+  Contract No. P302-C-001, Part E, par. 14, 
+supra 
+note 5.
+[14]
+  SPEC-P302-S-001/0. 
+Rollo,
+pp. 471-486.
+[15]
+  11. 
+Valuation of Variations. 
+x x x                   x x x                    x x x
+(2)  The value of all the authorized variations shall be ascertained by [respondent] by reference to the rates and prices (if any), specified in this subcontract for the like or analogous works, but if there are no such rates and prices or if they are not applicable then such value shall be ascertained in the same manner as specified in the main contract.
+x x x                  x x x                     x x x
+(4)  Save where the quantity is expressly stated in any bill of quantities forming part of the sub-contract, no quantity stated therein shall define or limit the extent of any work to be done by the sub-contractor in the execution and completion of the sub-contract works, but any difference between the quantity so billed and the actual quantity executed shall be ascertained by measurement, valued under this clause as if it were an authorized variation and the necessary addition to or deduction from the [lump sum price of P44,223,909] shall be made accordingly.
+[16]
+  Part II, Special Conditions of Subcontract, Second Schedule. Id., p. 545.
+[17]
+  Part II, Special Conditions of Subcontract, Third Schedule, par. C. Id., p. 547. The paragraph provides:
+ 
+ 
+Main Contract Site Access Date (S.A.D.)
+ 
+19 June 1997
+ 
+ 
+ 
+Structural Steelworks
+ 
+ 
+ 
+ 
+Steel frame Grid 1 to 4 
+ 
+within 11 weeks of S.A.D.
+ 
+ 
+ 
+Steel frame Grid 4 to 8 
+ 
+within 15 weeks of S.A.D.
+ 
+ 
+ 
+Steel frame, Grid 8 to 12 
+ 
+Within 17 weeks of S.A.D.
+ 
+ 
+ 
+Steel frame, Grid 12 to 18 
+ 
+Within 20 weeks of S.A.D.
+ 
+ 
+ 
+Steel frame, Grid 18 to 24 
+ 
+Within 20 weeks of S.A.D.
+ 
+ 
+[18]
+  Part II, Special Conditions of Subcontract, Second Schedule, par. C(7). Id., p. 546. The paragraph provides:
+(6) [Petitioner] shall pay [respondent] a downpayment amounting to 10% of the sub-contract price upon issuance by [respondent] to [petitioner] a performance bond amounting to 10% of the sub-contract price in accordance with Article 15 of the General Conditions of the Contract. The balance amounting to 90% of the sub-contract price shall be paid through monthly progress billings.
+[19]
+ 
+Rollo, 
+p. 691.
+[20]
+  Petitioner's liability should be proportionate to cost of the percentage completed in the project. Thus, it is computed as follows:
+ 
+ 
+Petitioner's liability 
+ 
+=
+ 
+fixed lump sum price
+ 
+x
+ 
+percentage completed
+ 
+ 
+ 
+Petitioner's liability
+ 
+= 
+ 
+P44,223,909 x 
+ 
+86%
+ 
+ 
+ 
+ 
+Petitioner's liability 
+ 
+=
+ 
+P38,032,561.74
+ 
+ 
+ 
+ 
+[21]
+ Based on the previous computation, petitioner overpaid respondent by P397,578.95.
+[22]
+ Docketed as CIAC Case No. 25-98.
+[23]
+ 
+Rollo, 
+pp. 210-246.
+[24]
+ Docketed as CA-G.R. SP No. 52090.
+[25]
+ Civil Code, Art. 1724 provides:
+Article 1724.  The contractor who undertakes to build a structure or any other work for a stipulated price, in conformity with plans and specifications agreed upon with the land-owner, can neither withdraw from the contract nor demand an increase in the price on account of the higher cost of labor or materials, save when there has been a change in the plans and specifications, provided:
+(1)   Such change has been authorized by the proprietor in writing; and
+(2)   The additional price to be paid to the contractor has been determined in writing by both parties. (1593a)
+[26]
+ 
+Supra 
+note 2.
+[27]
+ 
+Supra 
+note 3.
+[28]
+ Civil Code, Art. 1713 provides:
+Article 1713. By the contract for a piece of work the contractor binds himself to execute a piece of work for the employer, 
+in consideration of a certain price or compensation
+. The contractor may either employ only his labor or skill, or also furnish the material. (emphasis supplied)
+[29]
+ Rules of Court, Rule 130, Sec. 9 provides:
+Section 9. Evidence of written agreements. -- 
+When the terms of an, agreement have been reduced to writing, it is considered as containing all the terms agreed upon and there can be, between the parties and their successors in interest, no evidence of such terms other than the contents of the written agreement
+.
+However, a party may present evidence to modify, explain or add to the terms of the written agreement if he puts in issue in his pleading:
+(a)   An intrinsic ambiguity, mistake or imperfection in the written agreement;
+(b)   The failure of the written agreement to express the true intent and agreement of the parties thereto;
+(c)   The validity of the written agreement; or
+(d)   The existence of other terms agreed to by the parties or their successors in interest after the execution of the written agreement.
+The terms "agreement" includes wills. (emphasis supplied)
+[30]
+ 
+Roble v. Arbasa, 
+414 Phil. 343, 355-356 (2001) and 
+ Sabio v. International Corporate Bank Inc., 
+416 Phil. 785, 807 (2001).
+[31]
+ 
+See 
+note 5 in relation to note 13.
+[32]
+ Part II, Special Conditions of Subcontract, Second Schedule, par. C. 
+Rollo
+., p. 545.
+[33]
+ 
+See 
+notes 7 and 8 in relation to note 5.
+[34]
+ Statement of admitted facts in the March 19, 1999 CIAC decision, par. 3. 
+Rollo, 
+p. 211.
+[35]
+ 
+Supra
+ note 25.
+[36]
+ 
+Titan-Ikeda Construction & Development Corporation v. Primetown Properties Group, Inc.
+, G.R. No. 158768, 12 February 2008, 544 SCRA 466, 489-490 
+citing Powton Conglomerate, Inc. v. Agcolicol, 
+448 Phil. 643 (2003).
+[37]
+ 
+Supra 
+note 6.
+[38]
+ 
+Supra 
+note 9.
+[39]
+  Available online at http://www.businessdictionary.com/definition/lump-sum-contract.html.
+In a unit price contract, on the other hand, project cost depends on the quantity of items needed to carry out the work. The project cost is therefore provisional. 
+See Hanjin Heavy Industries and Construction Co., Inc. v. Dynamic Planners and Construction Corp., 
+G.R. Nos. 169408 and 170144, 30 April 2008, 553 SCRA 541, 546.
+[40]
+ 
+Triad Electric and Controls, Inc. v. Power Systems Transport, Inc., 
+No. 94-20783 (USCA, 5
+th
+ Cir), 30 June 1997.
+[41]
+ 
+See Uniwide Sales Realty v. Titan-Ikeda Construction and Development Corporation, 
+G.R. No. 122619, 20 December 2006, 511 SCRA 335.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

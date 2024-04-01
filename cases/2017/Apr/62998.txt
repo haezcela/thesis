@@ -1,0 +1,320 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			808 Phil. 575
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 182582*, April 17, 2017 ]
+
+
+METROPOLITAN BANK & TRUST COMPANY, PETITIONER, VS. THE COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+
+D E C I S I O N
+
+
+
+
+PERLAS-BERNABE, J.:
+
+
+Assailed in this petition for review on 
+certiorari
+[1]
+ is the Decision
+[2]
+ dated April 21, 2008 of the Court of Tax Appeals (CTA) 
+En Banc
+ in C.T.A. EB No. 340, which affirmed the Decision
+[3]
+ dated August 13, 2007 and the Resolution
+[4]
+ dated November 14, 2007 of the CTA First Division (CTA Division) in CTA Case No. 6765, and consequently, dismissed petitioner Metropolitan Bank & Trust Company's (Metrobank) claim for refund on the ground of prescription.
+The Facts
+On June 5, 1997, Solidbank Corporation (Solidbank) entered into an agreement with Luzon Hydro Corporation (LHC), whereby the former extended to the latter a foreign currency denominated loan in the principal amount of US$123,780,000.00 (Agreement). Pursuant to the Agreement, LHC is bound to shoulder all the corresponding internal revenue taxes required by law to be deducted or withheld on the said loan, as well as the filing of tax returns and remittance of the taxes withheld to the Bureau of Internal Revenue (BIR). On September 1, 2000, Metrobank acquired Solidbank, and consequently, assumed the latter's rights and obligations under the aforesaid Agreement.
+[5]
+On March 2, 2001 and October 31, 2001, LHC paid Metrobank the total amounts of US$1,538,122.17
+[6]
+ and US$1,333,268.31,
+[7]
+ respectively. Pursuant to the Agreement, LHC withheld, and eventually paid to the BIR, the ten percent (10%) final tax on the interest portions of the aforesaid payments, on the same months that the respective payments were made to petitioner. In sum, LHC remitted a total of US$106,178.69,
+[8]
+ or its Philippine Peso equivalent of P5,296,773.05,
+[9]
+ as evidenced by LHC's Schedules of Final Tax and Monthly Remittance Returns for the said months.
+[10]
+According to Metrobank, it mistakenly remitted the aforesaid amounts to the BIR as well when they were inadvertently included in its own Monthly Remittance Returns of Final Income Taxes Withheld for the months of March 2001 and October 2001. Thus, on 
+December 27, 2002
+,
+ it filed a letter to the BIR requesting for the refund thereof. Thereafter and in view of respondent the Commissioner of Internal Revenue's (CIR) inaction, Metrobank filed its judicial claim for refund via a petition for review filed before the CTA on 
+September 10, 2003
+,
+ docketed as CTA Case No. 6765.
+[11]
+In defense, the CIR averred that: 
+(a)
+ the claim for refund is subject to administrative investigation; 
+(b)
+ Metrobank must prove that there was double payment of the tax sought to be refunded; 
+(c)
+ such claim must be filed within the prescriptive period laid down by law; 
+(d)
+ the burden of proof to establish the right to a refund is on the taxpayer; and (e) claims for tax refunds are in the nature of tax exemptions, and as such, should be construed 
+strictissimi juris
+ against the taxpayer.
+[12]
+The CTA Division Ruling
+In a Decision
+[13]
+ dated August 13, 2007, the CTA Division denied Metrobank's claims for refund for lack of merit.
+[14]
+ 1t ruled that Metrobank's claim relative to the March 2001 final tax was filed beyond the two (2)-year prescriptive period. It pointed out that since Metrobank remitted such payment on 
+April 25, 2001
+, 
+the latter only had until April 25, 2003 to file its administrative and judicial claim for refunds. In this regard, while Metrobank filed its administrative claim well within the aforesaid period, or on 
+December 27, 2002
+, 
+the judicial claim was filed only on 
+September 10, 2003
+.
+ Hence, the right to claim for such refund has prescribed.
+[15]
+ On the other hand, the CTA Division also denied Metrobank's claim for refund relative to the October 2001 tax payment for insufficiency of evidence.
+[16]
+Metrobank moved for reconsideration,
+[17]
+ which was partially granted in a Resolution
+[18]
+ dated November 14, 2007, and thus, was allowed to present further evidence regarding its claim for refund for the October 2001 final tax. However, the CTA Division affirmed the denial of the claim relative to its March 2001 final tax on the ground of prescription.
+[19]
+ Aggrieved, Metrobank filed a petition for partial review
+[20]
+ before the CTA 
+En Banc,
+docketed as C.T.A. EB No. 340.
+The CTA 
+En Banc 
+Ruling
+In a Decision
+[21]
+ dated April 21, 2008, the CTA 
+En Banc 
+affirmed the CTA Division's ruling. It held that since Metrobank's March 2001 final tax is in the nature of a final withholding tax, the two (2)-year prescriptive period was correctly reckoned by the CTA Division from the time the same was paid on April 25, 2001. As such, Metrobank's claim for refund had already prescribed as it only filed its judicial claim on September 10, 2003.
+[22]
+Hence, this petition.
+The Issue Before the Court
+The issue for the Court's resolution is whether or not the CTA 
+En Banc
+ correctly held that Metrobank's claim for refund relative to its March 2001 final tax had already prescribed.
+The Court's Ruling
+The petition is without merit.
+Section 204 of the National Internal Revenue Code, as amended,
+[23]
+ provides the CIR with, 
+inter alia, 
+the authority to grant tax refunds. Pertinent portions of which read:
+Section 204. 
+Authority of the Commissioner to Compromise, Abate and Refund or Credit Taxes. â 
+The Commissioner may â
+x x x x
+(C) Credit or refund taxes erroneously or illegally received or penalties imposed without authority, refund the value of internal revenue stamps when they are returned in good condition by the purchaser, and, in his discretion, redeem or change unused stamps that have been rendered unfit for use and refund their value upon proof of destruction. 
+No credit or refund of taxes or penalties shall be allowed unless the taxpayer files in writing with the Commissioner a claim for credit or refund within two (2) years after the payment of the tax or penalty
+: 
+Provided, however, 
+That a return filed showing an overpayment shall be considered as a written claim for credit or refund. (Emphasis and underscoring supplied)
+In this relation, Section 229 of the same Code provides for the proper procedure in order to claim for such refunds, to wit:
+Section 229. 
+Recovery of Tax Erroneously or Illegally Collected.
+ â  
+No suit or proceeding shall be maintained in any court for the recovery of any national internal revenue tax hereafter alleged to have been erroneously or illegally assessed or collected, or of any penalty claimed to have been collected without authority, or of any sum alleged to have been excessively or in any manner wrongfully collected, until a claim for refund or credit has been duly filed with the Commissioner
+; but such suit or proceeding may be maintained, whether or not such tax, penalty, or sum has been paid under protest or duress.
+In any case, 
+no such suit or proceeding shall be filed after the expiration of two (2) years from the date of payment of the tax or penalty regardless of any supervening cause that may arise after payment
+: 
+ Provided, however, 
+ That the Commissioner may, even without a written claim therefor, refund or credit any tax, where on the face of the return upon which payment was made, such payment appears clearly to have been erroneously paid. (Emphases and underscoring supplied)
+As may be gleaned from the foregoing provisions, a claimant for refund must first file an administrative claim for refund before the CIR, prior to filing a judicial claim before the CTA. Notably, both the administrative and judicial claims for refund should be filed within the two (2)-year prescriptive period indicated therein, and that the claimant is allowed to file the latter even without waiting for the resolution of the former in order to prevent the forfeiture of its claim through prescription. In this regard, case law states that "the primary purpose of filing an administrative claim [is] to serve as a notice of warning to the CIR that court action would follow unless the tax or penalty alleged to have been collected erroneously or illegally is refunded. To clarify, Section 229 of the Tax Code â then Section 306 of the old Tax Code however does not mean that the taxpayer must await the final resolution of its administrative claim for refund, since doing so would be tantamount to the taxpayer's forfeiture of its right to seek judicial recourse should the two (2)-year prescriptive period expire without the appropriate judicial claim being filed."
+[24]
+In this case, Metrobank insists that the filing of its administrative and judicial claims on December 27, 2002 and September 10, 2003, respectively, were well-within the two (2)-year prescriptive period. Citing 
+ACCRA Investments Corporation v. Court of Appeals
+[25]
+ 
+CIR v. TMX Sales, Inc.,
+[26]
+ 
+CIR v. Philippine American Life Insurance, Co.,
+[27]
+ and 
+CIR v. CDCP Mining Corporation,
+[28]
+ Metrobank contends that the aforesaid prescriptive period should be reckoned not from April 25, 2001 when it remitted the tax to the BIR, but rather, from the time it filed its Final Adjustment Return or Annual Income Tax Return for the taxable year of 2001, or in April 2002, as it was only at that time when its right to a refund was ascertained.
+[29]
+Metrobank's contention cannot be sustained.
+As correctly pointed out by the CIR, the cases cited by Metrobank involved corporate income taxes, in which the corporate taxpayer is required to file and pay income tax on a quarterly basis, with such payments being subject to an adjustment at the end of the taxable year. As aptly put in 
+CIR v. TMX Sales, Inc.,
+ "payment of quarterly income tax should only be considered [as] mere installments of the annual tax due. These quarterly tax payments which are computed based on the cumulative figures of gross receipts and deductions in order to arrive at a net taxable income, should be treated as advances or portions of the annual income tax due, to be adjusted at the end of the calendar or fiscal year. x x x Consequently, the two-year prescriptive period x x x should be computed from the time of filing of the Adjustment Return or Annual Income Tax Return and final payment of income tax."
+[30]
+ Verily, since quarterly income tax payments are treated as mere "advance payments" of the annual corporate income tax, there may arise certain situations where such "advance payments" would cover more than said corporate taxpayer's entire income tax liability for a specific taxable year. Thus, it is only logical to reckon the two (2)-year prescriptive period from the time the Final Adjustment Return or the Annual Income Tax Return was filed, since it is only at that time that it would be possible to determine whether the corporate taxpayer had paid an amount exceeding its annual income tax liability.
+On the other hand, the tax involved in this case is a ten percent (10%) final withholding tax on Metrobank's interest income on its foreign currency denominated loan extended to LHC. In this regard, Section 2.57 (A) of Revenue Regulations No. 02-98
+[31]
+ explains the characterization of taxes of this nature, to wit:
+Section 2.57. 
+Withholding of Tax at Source
+(A) 
+Final Withholding Tax. 
+- 
+Under the final withholding tax system[,] the amount of income tax withheld by the withholding agent is constituted as a full and final payment of the income tax due from the payee on the said income.
+ The liability for payment of the tax rests primarily on the payor as a withholding agent. Thus, in case of his failure to withhold the tax or in case of under withholding, the deficiency tax shall be collected from the payor/withholding agent. The payee is not required to file an income tax return for the particular income.
+The finality of the withholding tax is limited only to the payee's income tax liability on the particular income. It does not extend to the payee's other tax liability on said income, such as when the said income is further subject to a percentage tax. For example, if a bank receives income subject to final withholding tax, the same shall be subject to a percentage tax. (Emphasis and underscoring supplied)
+From the foregoing, it may be gleaned that final withholding taxes are considered as full and final payment of the income tax due, and thus, are not subject to any adjustments. Thus, the two (2)-year prescriptive period commences to run from the time the refund is ascertained, 
+i.e., 
+the date such tax was paid
+, and not upon the discovery by the taxpayer of the erroneous or excessive payment of taxes.
+[32]
+In the case at bar, it is undisputed that Metrobank's final withholding tax liability in March 2001 was remitted to the BIR on 
+April 25, 2001
+. As such, it only had until 
+April 25, 2003
+ to file its administrative and judicial claims for refund. However, while Metrobank's administrative claim was filed on 
+December 27, 2002
+, its corresponding judicial claim was only filed on 
+September 10, 2003
+. Therefore, Metrobank's claim for refund had clearly prescribed.
+Finally, the Court finds untenable Metrobank's resort to the principle of 
+solutio indebiti
+ in support of its position.
+[33]
+ In 
+CIR v. Manila Electric Company,
+[34]
+ the Court rejected the application of said principle to tax refund cases, 
+viz.:
+In this regard, petitioner is misguided when it relied upon the six (6)-year prescriptive period for initiating an action on the ground of quasi contract or 
+solutio indebiti 
+under Article 1145 of the New Civil Code. There is 
+solutio indebiti 
+where: (1) payment is made when there exists no binding relation between the payor, who has no duty to pay, and the person who received the payment; and (2) the payment is made through mistake, and not through liberality or some other cause. 
+Here, there is a binding relation between petitioner as the taxing authority in this jurisdiction and respondent MERALCO which is bound under the law to act as a withholding agent of NORDILB Singapore Branch, the taxpayer. Hence, the first element of 
+solutio indebiti 
+is lacking. Moreover, such legal precept is inapplicable to the present case since the Tax Code, a special law, explicitly provides for a mandatory period for claiming a refund for taxes erroneously paid.
+Tax refunds are based on the general premise that taxes have either been erroneously or excessively paid. Though the Tax Code recognizes the right of taxpayers to request the return of such excess/erroneous payments from the government, they must do so within a prescribed period. Further, "a taxpayer must prove not only his entitlement to a refund, but also his compliance with the procedural due process as non-observance of the prescriptive periods within which to file the administrative and the judicial claims would result in the denial of his claim."
+[35]
+ (Emphasis and underscoring supplied)
+In sum, the CTA Division and CTA 
+En Banc
+ correctly ruled that Metrobank's claim for refund in connection with its final withholding tax incurred in March 2001 should be denied on the ground of prescription.
+WHEREFORE,
+ the petition is 
+DENIED.
+ The Decision dated April 21, 2008 of the Court of Tax Appeals 
+En Banc 
+in C.T.A. EB No. 340 is hereby 
+AFFIRMED.
+SO ORDERED.
+Sereno, C.J. (Chairperson), Leonardo-De Castro, Del Castillo,
+ and 
+Caguioa, JJ.,
+ concur.
+*
+ Part of the Supreme Court's Case Decongestion Program 2017.
+[1]
+ 
+Rollo,
+ pp. 7-18.
+[2]
+ Id. at 19-34. Penned by Associate Justice Olga Palanca-Enriquez with Presiding Justice Ernesto D. Acosta and Associate Justices Juanito C. CastaÃ±eda, Jr., Lovell R. Bautista, and Caesar A. Casanova concurring. Associate Justice Erlinda P. Uy was on official business.
+[3]
+ Id. at 35-48. Penned by Associate Justice Caesar A. Casanova with Presiding Justice Ernesto D. Acosta and Associate Justice Lovell R. Bautista concurring.
+[4]
+ Id. at 57-61.
+[5]
+ Id. at 20-21.
+[6]
+ Id. at 21. Comprised of US$902,545.47 as principal and US$635,576.70 as interest.
+[7]
+ Id. Comprised of US$902,545.45 as principal and US$430,722.86 as interest.
+[8]
+ See id. at 21-22. US$63,106.40 in March 2001 and US$43,072.29 in October 2001.
+[9]
+ See id. P3,060,029.24 in March 2001 and P2,236,743.81 in October 2001.
+[10]
+ See id.
+[11]
+ See id. at 22.
+[12]
+ See id. at 23.
+[13]
+ Id. at 35-47.
+[14]
+ Id. at 47.
+[15]
+ Id. at 41-42.
+[16]
+ See id. at 42-47.
+[17]
+ See motion for reconsideration dated September 5, 2007; id. at 49-55.
+[18]
+ Id. at 57-61.
+[19]
+ See id. at 59.
+[20]
+ Dated December 6, 2007. Id. at 62-72.
+[21]
+ Id. at 19-34.
+[22]
+ Id. at 26-33.
+[23]
+ Presidential Decree No. 1158, as amended up to Republic Act No. 9504, An Act Amending Sections 22, 24, 34, 35, 51, and 79 of Republic Act No. 8424, As Amended, Otherwise known as the National Internal Revenue Code of 1997, approved on June 17, 2008.
+[24]
+ See 
+CIR v. Goodyear Philippines, Inc.,
+ G.R. No. 216130, August 3, 2016.
+[25]
+ 281 Phil. 1060 (1991).
+[26]
+ 282 Phil. 199 (1992).
+[27]
+ 314 Phil. 349 (1995).
+[28]
+ 362 Phil. 75 (1999).
+[29]
+ See 
+rollo,
+ pp. 12-15, 114-117, and 143-147.
+[30]
+ Supra note 26, at 207-208.
+[31]
+ SUBJECT: Implementing Republic Act No. 8424, "An Act Amending the National Internal Revenue Code, as Amended" Relative to the Withholding on Income Subject to the Expanded Withholding Tax and Final Withholding Tax, Withholding of Income Tax on Compensation, Withholding of Creditable Value-Added Tax and Other Percentage Taxes, dated April 17, 1998.
+[32]
+ See 
+CIR v. Manila Electric Company, 
+G.R. No. 181459, June 9, 2014, 725 SCRA 384, 398.
+[33]
+ See 
+rollo,
+ pp. 16 and 147.
+[34]
+ Supra note 32.
+[35]
+ Id. at 399-400.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

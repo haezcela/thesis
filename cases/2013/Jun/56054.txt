@@ -1,0 +1,266 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			712 Phil. 372
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 182295, June 26, 2013 ]
+
+
+7K CORPORATION, PETITIONER, VS. EDDIE ALBARICO, RESPONDENT.
+
+D E C I S I O N
+
+
+
+
+SERENO, C.J.:
+
+
+This is a Petition for Review on 
+Certiorari
+ filed under Rule 45 of the Revised Rules of Court, asking the Court to determine whether a voluntary arbitrator in a labor dispute exceeded his jurisdiction in deciding issues not specified in the submission agreement of the parties.  It assails the Decision
+[1]
+ dated 18 September 2007 and the Resolution
+[2]
+ dated 17 March 2008 of the Court of Appeals (CA).
+[3]
+FACTS
+When he was dismissed on 5 April 1993, respondent Eddie Albarico (Albarico) was a regular employee of petitioner 7K Corporation, a company selling water purifiers. He started working for the company in 1990 as a salesman.
+[4]
+ Because of his good performance, his employment was regularized. He was also promoted several times: from salesman, he was promoted to senior sales representative and then to acting team field supervisor. In 1992, he was awarded the Presidentâs Trophy for being one of the companyâs top water purifier specialist distributors. In April of 1993, the chief operating officer of petitioner 7K Corporation terminated Albaricoâs employment allegedly for his poor sales performance.
+[5]
+ Respondent had to stop reporting for work, and he subsequently submitted his money claims against petitioner for arbitration before the National Conciliation and Mediation Board (NCMB). The issue for voluntary arbitration before the NCMB, according to the partiesâ Submission Agreement dated 19 April 1993, was whether respondent Albarico was entitled to the payment of separation pay and the sales commission reserved for him by the corporation.
+[6]
+While the NCMB arbitration case was pending, respondent Albarico filed a Complaint against petitioner corporation with the Arbitration Branch of the National Labor Relations Commission (NLRC) for illegal dismissal with money claims for overtime pay, holiday compensation, commission, and food and travelling allowances.
+[7]
+ The Complaint was decided by the labor arbiter in favor of respondent Albarico, who was awarded separation pay in lieu of reinstatement, backwages and attorneyâs fees.
+[8]
+On appeal by petitioner, the labor arbiterâs Decision was vacated by the NLRC for forum shopping on the part of respondent Albarico, because the NCMB arbitration case was still pending.
+[9]
+ The NLRC Decision, which explicitly stated that the dismissal was without prejudice to the pending NCMB arbitration case,
+[10]
+ became final after no appeal was taken.
+On 17 September 1997, petitioner corporation filed its Position Paper in the NCMB arbitration case.
+[11]
+ It denied that respondent was terminated from work, much less illegally dismissed. The corporation claimed that he had voluntarily stopped reporting for work after receiving a verbal reprimand for his sales performance; hence, it was he who was guilty of abandonment of employment.  Respondent made an oral manifestation that he was adopting the position paper he submitted to the labor arbiter, a position paper in which the former claimed that he had been illegally dismissed.
+[12]
+On 12 January 2005, almost 12 years after the filing of the NCMB case, both parties appeared in a hearing before the NCMB.
+[13]
+ Respondent manifested that he was willing to settle the case amicably with petitioner based on the decision of the labor arbiter ordering the payment of separation pay in lieu of reinstatement, backwages and attorneyâs fees. On its part, petitioner made a counter-manifestation that it was likewise amenable to settling the dispute. However, it was willing to pay only the separation pay and the sales commission according to the Submission Agreement dated 19 April 1993.
+[14]
+The factual findings of the voluntary arbitrator, as well as of the CA, are not clear on what happened afterwards. Even the records are bereft of sufficient information.
+On 18 November 2005, the NCMB voluntary arbitrator rendered a Decision finding petitioner corporation liable for illegal dismissal.
+[15]
+  The termination of respondent Albarico, by reason of alleged poor performance, was found invalid.
+[16]
+ The arbitrator explained that the promotions, increases in salary, and awards received by respondent belied the claim that the latter was performing poorly.
+[17]
+ It was also found that Albarico could not have abandoned his job, as the abandonment should have been clearly shown. Mere absence was not sufficient, according to the arbitrator, but must have been accompanied by overt acts pointing to the fact that the employee did not want to work anymore. It was noted that, in the present case, the immediate filing of a complaint for illegal dismissal against the employer, with a prayer for reinstatement, showed that the employee was not abandoning his work. The voluntary arbitrator also found that Albarico was dismissed from his work without due process.
+However, it was found that reinstatement was no longer possible because of the strained relationship of the parties.
+[18]
+ Thus, in lieu of reinstatement, the voluntary arbitrator ordered the corporation to pay separation pay for two years at P4,456 for each year, or a total amount of P8,912.
+Additionally, in view of the finding that Albarico had been illegally dismissed, the voluntary arbitrator also ruled that the former was entitled to backwages in the amount of P90,804.
+[19]
+ Finally, the arbitrator awarded attorneyâs fees in respondentâs favor, because he had been compelled to file an action for illegal dismissal.
+[20]
+Petitioner corporation subsequently appealed to the CA, imputing to the voluntary arbitrator grave abuse of discretion amounting to lack or excess of jurisdiction for awarding backwages and attorneyâs fees to respondent Albarico based on the formerâs finding of illegal dismissal.
+[21]
+ The arbitrator contended that the issue of the legality of dismissal was not explicitly included in the Submission Agreement dated 19 April 1993 filed for voluntary arbitration and resolution. It prayed that the said awards be set aside, and that only separation pay of P8,912.00 and sales commission of P4,787.60 be awarded.
+The CA affirmed the Decision of the voluntary arbitrator, but eliminated the award of attorneyâs fees for having been made without factual, legal or equitable justification.
+[22]
+ Petitionerâs Motion for Partial Reconsideration was denied as well.
+[23]
+Hence, this Petition.
+ISSUE
+The issue before the Court is whether the CA committed reversible error in finding that the voluntary arbitrator properly assumed jurisdiction to decide the issue of the legality of the dismissal of respondent as well as the latterâs entitlement to backwages, even if neither the legality nor the entitlement was expressedly claimed in the Submission Agreement of the parties.
+The Petition is denied for being devoid of merit.
+DISCUSSION
+Preliminarily, we address petitionerâs claim that under Article 217 of the Labor Code, original and exclusive jurisdiction over termination disputes, such as the present case, is lodged only with the labor arbiter of the NLRC.
+[24]
+Petitioner overlooks the proviso in the said article, thus:
+Art. 217. Jurisdiction of the Labor Arbiters and the Commission
+.
+a. 
+Except as otherwise provided under this Code, 
+the Labor Arbiters shall have original and exclusive jurisdiction to hear and decide, within thirty (30) calendar days after the submission of the case by the parties for decision without extension, even in the absence of stenographic notes, the following cases involving all workers, whether agricultural or non-agricultural:
+x x x x
+2. 
+Termination disputes;
+x x x x
+6. Except claims for Employees Compensation, Social Security, Medicare and maternity benefits, 
+all other claims arising from employer-employee relations
+, including those of persons in domestic or household service, involving an amount exceeding five thousand pesos (P5,000.00) 
+regardless of whether accompanied with a claim for reinstatement
+. (Emphases supplied)
+Thus, although the general rule under the Labor Code gives the labor arbiter exclusive and original jurisdiction over termination disputes, it also recognizes exceptions. One of the exceptions is provided in Article 262 of the Labor Code. In 
+San Jose
+ v. NLRC,
+[25]
+ we said:
+The phrase âExcept as otherwise provided under this Codeâ refers to the following exceptions:
+A. Art. 217. Jurisdiction of Labor Arbiters . . .
+x x x x
+(c) Cases arising from the interpretation or implementation of collective bargaining agreement and those arising from the interpretation or enforcement of company procedure/policies shall be disposed of by the Labor Arbiter by referring the same to the grievance machinery and voluntary arbitrator as may be provided in said agreement.
+B. 
+Art. 262. Jurisdiction over other labor disputes
+. The Voluntary Arbitrator or panel of Voluntary Arbitrators, upon agreement of the parties, shall also hear and decide all other labor disputes including unfair labor practices and bargaining deadlocks.
+ (Emphasis supplied)
+We also said in the same case that â[t]he labor disputes referred to in the same Article 262 [of the Labor Code] can include all those disputes mentioned in Article 217 over which the Labor Arbiter has original and exclusive jurisdiction.â
+[26]
+From the above discussion, it is clear that voluntary arbitrators may, by agreement of the parties, assume jurisdiction over a termination dispute such as the present case, contrary to the assertion of petitioner that they may not.
+We now resolve the main issue. Petitioner argues that, assuming that the voluntary arbitrator has jurisdiction over the present termination dispute, the latter should have limited his decision to the issue contained in the Submission Agreement of the parties â the issue of whether respondent Albarico was entitled to separation pay and to the sales commission the latter earned before being terminated.
+[27]
+ Petitioner asserts that under Article 262 of the Labor Code, the jurisdiction of a voluntary arbitrator is strictly limited to the issues that the parties agree to submit. Thus, it contends that the voluntary arbitrator exceeded his jurisdiction when he resolved the issues of the legality of the dismissal of respondent and the latterâs entitlement to backwages on the basis of a finding of illegal dismissal.
+According to petitioner, the CA wrongly concluded that the issue of respondentâs entitlement to separation pay was necessarily based on his allegation of illegal dismissal, thereby making the issue of the legality of his dismissal implicitly submitted to the voluntary arbitrator for resolution.
+[28]
+ Petitioner argues that this was an erroneous conclusion, because separation pay may in fact be awarded even in circumstances in which there is no illegal dismissal.
+We rule that although petitioner correctly contends that separation pay may in fact be awarded for reasons other than illegal dismissal, the circumstances of the instant case lead to no other conclusion than that the claim of respondent Albarico for separation pay was premised on his allegation of illegal dismissal. Thus, the voluntary arbitrator properly assumed jurisdiction over the issue of the legality of his dismissal.
+True, under the Labor Code, separation pay may be given not only when there is illegal dismissal. In fact, it is also given to employees who are terminated for authorized causes, such as redundancy, retrenchment or installation of labor-saving devices under Article 283
+[29]
+ of the Labor Code. Additionally, jurisprudence holds that separation pay may also be awarded for considerations of social justice, even if an employee has been terminated for a just cause other than serious misconduct or an act reflecting on moral character.
+[30]
+ The Court has also ruled that separation pay may be awarded if it has become an established practice of the company to pay the said benefit to voluntarily resigning employees
+[31]
+ or to those validly dismissed for non-membership in a union as required in a closed-shop agreement.
+[32]
+The above circumstances, however, do not obtain in the present case. There is no claim that the issue of entitlement to separation pay is being resolved in the context of any authorized cause of termination undertaken by petitioner corporation. Neither is there any allegation that a consideration of social justice is being resolved here. In fact, even in instances in which separation pay is awarded in consideration of social justice, the issue of the validity of the dismissal still needs to be resolved first. Only when there is already a finding of a valid dismissal for a just cause does the court then award separation pay for reason of social justice.  The other circumstances when separation pay may be awarded are not present in this case.
+The foregoing findings indisputably prove that the issue of separation pay emanates solely from respondentâs allegation of illegal dismissal. In fact, petitioner itself acknowledged the issue of illegal dismissal in its position paper submitted to the NCMB.
+Moreover, we note that even the NLRC was of the understanding that the NCMB arbitration case sought to resolve the issue of the legality of the dismissal of the respondent. In fact, the identity of the issue of the legality of his dismissal, which was previously submitted to the NCMB, and later submitted to the NLRC, was the basis of the latterâs finding of forum shopping and the consequent dismissal of the case before it. In fact, petitioner also implicitly acknowledged this when it filed before the NLRC its Motion to Dismiss respondentâs Complaint on the ground of forum shopping. Thus, it is now estopped from claiming that the issue before the NCMB does not include the issue of the legality of the dismissal of respondent. Besides, there has to be a reason for deciding the issue of respondentâs entitlement to separation pay. To think otherwise would lead to absurdity, because the voluntary arbitrator would then be deciding that issue in a vacuum. The arbitrator would have no basis whatsoever for saying that Albarico was entitled to separation pay or not if the issue of the legality of respondentâs dismissal was not resolve first.
+Hence, the voluntary arbitrator correctly assumed that the core issue behind the issue of separation pay is the legality of the dismissal of respondent. Moreover, we have ruled in 
+Sime Darby Pilipinas, Inc. v. Deputy Administrator Magsalin
+[33]
+ that a voluntary arbitrator has plenary jurisdiction and authority to interpret an agreement to arbitrate and to determine the scope of his own authority when the said agreement is vague â subject only, in a proper case, to the 
+certiorari
+ jurisdiction of this Court.
+Having established that the issue of the legality of dismissal of Albarico was in fact necessarily â albeit not explicitly â included in the Submission Agreement signed by the parties, this Court rules that the voluntary arbitrator rightly assumed jurisdiction to decide the said issue.
+Consequently, we also rule that the voluntary arbitrator may award backwages upon a finding of illegal dismissal, even though the issue of entitlement thereto is not explicitly claimed in the Submission Agreement. Backwages, in general, are awarded on the ground of equity as a form of relief that restores the income lost by the terminated employee by reason of his illegal dismissal.
+[34]
+In 
+Sime Darby
+ we ruled that although the specific issue presented by the parties to the voluntary arbitrator was only âthe issue of performance bonus,â the latter had the authority to determine not only the issue of whether or not a performance bonus was to be granted, but also the related question of the amount of the bonus, were it to be granted. We explained that there was no indication at all that the parties to the arbitration agreement had regarded âthe issue of performance bonusâ as a two-tiered issue, of which only one aspect was being submitted to arbitration. Thus, we held that the failure of the parties to limit the issues specifically to that which was stated allowed the arbitrator to assume jurisdiction over the related issue.
+Similarly, in the present case, there is no indication that the issue of illegal dismissal should be treated as a two-tiered issue whereupon entitlement to backwages must be determined separately.  Besides, âsince arbitration is a final resort for the adjudication of disputes,â the voluntary arbitrator in the present case can assume that he has the necessary power to make a final settlement.
+[35]
+ Thus, we rule that the voluntary arbitrator correctly assumed jurisdiction over the issue of entitlement of respondent Albarico to backwages on the basis of the formerâs finding of illegal dismissal.
+WHEREFORE
+, premises considered, the instant Petition is 
+DENIED
+. The 18 September 2007 Decision and 17 March 2008 Resolution of the Court of Appeals in CA-G.R. SP No. 92526, are hereby 
+AFFIRMED
+.
+SO ORDERED
+.
+Leonardo-De Castro, Bersamin, Villarama, Jr.
+ and 
+Reyes, JJ.,
+ concur.
+[1]
+ 
+Rollo
+, pp. 26-43.
+[2]
+ Id. at 44.
+[3]
+Both the Decision and the Resolution in CA-G.R. SP No. 92526 were penned by CA Associate Justice Sixto C. Marella, Jr. and concurred in by Associate Justices Amelita G. Tolentino and Lucenito N. Tagle.
+[4]
+ 
+Rollo
+, p. 27; CA Decision, p. 2.
+[5]
+ Id. at 28; CA Decision, p. 3.
+[6]
+ Id.
+[7]
+ Id.
+[8]
+ Id. at  60-65, Labor Arbiterâs Decision.
+[9]
+ Id. at 96-102, NLRC Decision.
+[10]
+ Id. at 101; NLRC Decision, p. 6.
+[11]
+ Id. at 29; CA Decision, p. 4.
+[12]
+ Id. at 10; Instant Rule 45 Petition, p. 8.
+[13]
+ Id. at 30; CA Decision, p. 5.
+[14]
+ Id.
+[15]
+ Id. at 89-95; Voluntary Arbitratorâs  Decision.
+[16]
+ Id. at 89-95; Voluntary Arbitratorâs  Decision, p. 4.
+[17]
+ Id.
+[18]
+ Id. at 93; Voluntary Arbitratorâs  Decision, p. 5.
+[19]
+ Id.
+[20]
+ Id. at 94; Voluntary Arbitratorâs  Decision, p. 6.
+[21]
+ Id. at 121-136; Petitionerâs CA Memorandum.
+[22]
+ Id. at 26-43; CA Decision.
+[23]
+ Id. at  44; CA Resolution.
+[24]
+ Id. at 15; Instant Rule 45 Petition, p. 13.
+[25]
+ 355 Phil. 759 (1998).
+[26]
+ Id.
+[27]
+ Id. at 14-15; Instant Rule 45 Petition, pp. 12-13.
+[28]
+ Id. at 16-17; Instant Rule 45 Petition, pp. 14-15.
+[29]
+ Art. 283. Closure of establishment and reduction of personnel. 
+The employer may also terminate the employment of any employee due to the installation of labor-saving devices, redundancy, retrenchment to prevent losses or the closing or cessation of operation
+ of the establishment or undertaking unless the closing is for the purpose of circumventing the provisions of this Title, by serving a written notice on the workers and the Ministry of Labor and Employment at least one (1) month before the intended date thereof. In case of termination due to the installation of labor-saving devices or redundancy, 
+the worker affected thereby shall be entitled to a separation pay
+ equivalent to at least his one (1) month pay or to at least one (1) month pay for every year of service, whichever is higher. In case of retrenchment to prevent losses and in cases of closures or cessation of operations of establishment or undertaking not due to serious business losses or financial reverses, the separation pay shall be equivalent to one (1) month pay or at least one-half (1/2) month pay for every year of service, whichever is higher. A fraction of at least six (6) months shall be considered one (1) whole year.
+[30]
+ 
+Eastern Paper Mills, Inc. v. NLRC
+, 252 Phil. 618 (1989).
+[31]
+ 
+Hinatuan Mining Corporation v. NLRC,  
+335 Phil. 1090 (1997).
+[32]
+ 
+United States Lines, Inc. v. Acting Minister of Labor
+, 202 Phil. 729 (1982).
+[33]
+ 259 Phil. 658 (1989).
+[34]
+ 
+Torillo v. Leogardo
+, 274 Phil. 758 (1991).
+[35]
+ 
+Ludo v. Saornido
+, 443 Phil. 554 (2003).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

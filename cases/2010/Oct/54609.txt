@@ -1,0 +1,296 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			647 Phil. 33
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 177127, October 11, 2010 ]
+
+
+J.R.A. PHILIPPINES, INC., PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+D E C I S I O N
+
+
+
+
+DEL CASTILLO, J.:
+
+
+Stare decisis et non quieta movere.  
+Courts are bound by prior decisions. Thus, once a case has been decided one way, courts have no choice but to resolve subsequent cases involving the same issue in the same manner.
+[1]
+  We ruled then, as we rule now, that failure to print the word "zero-rated" in the invoices/receipts is fatal to a claim for credit/refund of input value-added tax (VAT) on zero-rated sales.
+This Petition for Review on 
+Certiorari
+ under Rule 45 of the Rules of Court seeks  to  set  aside  the January  15, 2007  Decision
+[2]
+ and  the  March 16, 2007
+Resolution
+[3]
+ of the Court of Tax Appeals (CTA) 
+En Banc
+.
+Factual Antecedents
+Petitioner J.R.A. Philippines, Inc., a domestic corporation, is engaged in the manufacture and wholesale export of jackets, pants, trousers, overalls, shirts, polo shirts, ladies' wear, dresses and other wearing apparel.
+[4]
+  It is registered with the Bureau of Internal Revenue (BIR) as a VAT taxpayer
+[5]
+ and as an Ecozone Export Enterprise with the Philippine Economic Zone Authority (PEZA).
+[6]
+On separate dates, petitioner filed with the Revenue District Office (RDO) No. 54 of the BIR, Trece Martires City, applications for tax credit/refund of unutilized input VAT on its zero-rated sales for the taxable quarters of 2000 in the total amount of P8,228,276.34,  broken down as follows:
+ 
+ 
+1
+st
+ quarter
+ 
+P 2,369,060.97
+ 
+ 
+ 
+2
+nd
+ quarter 
+ 
+2,528,126.02
+ 
+ 
+ 
+3
+rd
+ quarter 
+ 
+1,918,015.38
+ 
+ 
+ 
+4
+th
+ quarter 
+ 
+1,413,073.97
+[7]
+ 
+ 
+The claim for credit/refund, however, remained unacted by the respondent.  Hence, petitioner was constrained to file a petition before the CTA.
+Proceedings before the Second Division of the Court of Tax Appeals
+On April 16, 2002, petitioner filed a Petition for Review
+[8]
+ with the CTA for the refund/credit  of  the same input VAT  which was docketed as  CTA  Case No.
+6454 and raffled to the Second Division of the CTA.
+In his Answer,
+[9]
+ respondent interposed the following special and affirmative defenses, to wit:
+4. Petitioner's alleged claim for refund is subject to administrative routinary investigation/examination by the Bureau;
+5. Being allegedly registered with the Philippine Economic Zone Authority as an export enterprise, petitioner's business is not subject to VAT pursuant to Section 24 of R.A. No. 7916 in relation to Section 109 (q) of the Tax Code. Hence, it is not entitled to tax credit of input taxes pursuant to Section 4.103-1 of Revenue Regulations No. 7-95;
+6. The amount of P8,228,276.34 being claimed by petitioner as alleged unutilized VAT input taxes for the year 2000 was not properly documented;
+7. In an action for refund, the burden of proof is on the taxpayer to establish its right to refund, and failure to [do so] is fatal to the claim for refund/ credit;
+8. Petitioner must show that it has complied with the provisions of Section 204 (c) and 229 of the Tax Code on the prescriptive period for claiming tax refund/credit;
+9. Claims for refund are construed strictly against the claimant for the same partake the nature of exemption from taxation.
+[10]
+After trial, the Second Division of the CTA rendered a Decision
+[11]
+ denying petitioner's claim for refund/credit of input VAT attributable to its zero-rated sales due to the failure of petitioner to indicate its Taxpayer's Identification Number-VAT (TIN-V) and the word "zero-rated" on its invoices.
+[12]
+ Thus, the 
+fallo
+ reads:
+WHEREFORE,
+ premises considered, the instant petition is hereby 
+DENIED DUE COURSE,
+ and, accordingly,
+ DISMISSED
+ for lack of merit.
+SO ORDERED.
+[13]
+Aggrieved by the Decision, petitioner filed a Motion for Reconsideration
+[14]
+ to which respondent filed an Opposition.
+[15]
+ Petitioner, in turn, tendered a Reply.
+[16]
+The Second Division of the CTA, however, stood firm on its Decision and denied petitioner's Motion for lack of merit in a Resolution
+[17]
+ dated October 5, 2005.  This prompted petitioner to elevate the matter to the CTA 
+En Banc
+.
+[18]
+Ruling of the CTA En Banc
+On January 15, 2007, the CTA 
+En Banc
+ denied the petition, reiterating that failure to comply with invoicing requirements results in the denial of a claim for refund.
+[19]
+ Hence, it disposed of the petition as follows:
+WHEREFORE,
+ the petition for review is
+ DENIED
+ for lack of merit. 
+ACCORDINGLY
+, the Decision dated June 30, 2005 and Resolution dated October 5, 2005 of Second Division of the Court of Tax Appeals in C.T.A Case No. 6454 are hereby 
+AFFIRMED
+.
+SO ORDERED
+.
+[20]
+Presiding Justice Ernesto D. Acosta (Presiding Justice Acosta) concurred with the findings of the majority that there was failure on the part of petitioner to comply with the invoicing requirements;
+[21]
+ he dissented, however, to the outright denial of petitioner's claim since there are other pieces of evidence proving petitioner's transactions and VAT status.
+[22]
+Petitioner sought reconsideration
+[23]
+ of  the  Decision but  the CTA 
+En Banc
+ denied the same in a Resolution
+[24]
+ dated March 16, 2007.  Presiding Justice Acosta maintained his dissent.
+Issue
+Hence, the instant Petition with the solitary issue of whether the failure to print the word "zero-rated" on the invoices/receipts is fatal to a claim for credit/ refund of input VAT on zero-rated sales.
+Petitioner's Arguments
+Petitioner submits that:
+THE COURT OF TAX APPEALS ERRED BY DECIDING QUESTIONS OF SUBSTANCE IN A MANNER THAT IS NOT IN ACCORD WITH LAW AND JURISPRUDENCE, IN THAT:
+THE INVOICING REQUIREMENTS UNDER THE 1997 TAX CODE DO NOT REQUIRE THAT INVOICES AND/OR RECEIPTS ISSUED BY A VAT-REGISTERED TAXPAYER, SUCH AS THE PETITIONER, SHOULD BE IMPRINTED WITH THE WORD "ZERO-RATED."
+THE INVOICING REQUIREMENTS PRESCRIBED BY THE 1997 TAX CODE AND THE REQUIREMENT THAT THE WORDS "ZERO-RATED" BE IMPRINTED ON THE SALES INVOICES/OFFICIAL RECEIPTS UNDER REVENUE REGULATIONS NO. 7-95 ARE NOT EVIDENTIARY RULES AND THE ABSENCE THEREOF IS NOT FATAL TO A TAXPAYER'S CLAIM FOR REFUND.
+RESPONDENT'S REGULATIONS ARE INVALID BECAUSE THEY DO NOT IMPLEMENT THE 1997 TAX CODE BUT INSTEAD, [EXCEED] THE LIMITATIONS OF THE LAW.
+PETITIONER PRESENTED SUBSTANTIAL EVIDENCE THAT UNEQUIVOCALLY PROVED PETITIONER'S ZERO-RATED TRANSACTIONS FOR THE YEAR 2000.
+NO PREJUDICE CAN RESULT TO THE GOVERNMENT BY REASON OF THE FAILURE OF PETITIONER TO IMPRINT THE WORD "ZERO-RATED" ON ITS INVOICES. PETITIONER'S CLIENTS FOR ITS ZERO-RATED TRANSACTIONS CANNOT UNDULY BENEFIT FROM ITS "OMISSION" CONSIDERING THAT THEY ARE NON-RESIDENT FOREIGN CORPORATIONS [that] ARE NOT COVERED BY THE PHILIPPINE VAT SYSTEM.
+IN CIVIL CASE[S], SUCH AS CLAIMS FOR REFUND, STRICT COMPLIANCE WITH TECHNICAL RULES OF EVIDENCE IS NOT REQUIRED. MOREOVER, A MERE PREPONDERANCE OF EVIDENCE WILL SUFFICE TO JUSTIFY THE GRANT OF A CLAIM.
+[25]
+Respondent's Arguments
+Emphasizing that tax refunds are in the nature of tax exemptions which are strictly construed against the claimant, respondent seeks the affirmance of the assailed Decision and Resolution of the CTA 
+En Banc
+. 
+[26]
+  He insists that the denial of petitioner's claim for tax credit/refund is justified because it failed to comply with the invoicing requirements under Section 4.108-1
+[27]
+ of Revenue Regulations No. 7-95. 
+Our Ruling
+The petition is bereft of merit.
+The absence of the word "zero-rated" on the invoices/receipts is fatal to a claim for credit/refund of input VAT
+The question of whether the absence of the word "zero-rated" on the invoices/receipts is fatal to a claim for credit/refund of input VAT is not novel.  This has been squarely resolved in 
+Panasonic Communications Imaging Corporation of the Philippines (formerly Matsushita Business Machine Corporation of the Philippines) v. Commissioner of Internal Revenue.
+[28]
+ In that case, we sustained the denial of petitioner's claim for tax credit/refund for non-compliance with Section 4.108-1 of Revenue Regulations No. 7-95, which requires the word "zero rated" to be printed on the invoices/receipts covering zero-rated sales.  We explained that:
+Zero-rated transactions generally refer to the export sale of goods and services. The tax rate in this case is set at zero. When applied to the tax base or the selling price of the goods or services sold, such zero rate results in no tax chargeable against the foreign buyer or customer. But, although the seller in such transactions charges no output tax, he can claim a refund of the VAT that his suppliers charged him. The seller thus enjoys automatic zero rating, which allows him to recover the input taxes he paid relating to the export sales, making him internationally competitive.
+For the effective zero rating of such transactions, however, the taxpayer has to be VAT-registered and must comply with invoicing requirements. x x x
+x x x x
+Petitioner Panasonic points out, however, that in requiring the printing on its sales invoices of the word "zero-rated," the Secretary of Finance unduly expanded, amended, and modified by a mere regulation (Section 4.108-1 of RR 7-95) the letter and spirit of Sections 113 and 237 of the 1997 NIRC, prior to their amendment by R.A. 9337. Panasonic argues that the 1997 NIRC, which applied to its payments - specifically Sections 113 and 237 - required the VAT-registered taxpayer's receipts or invoices to indicate only the following information:
+(1) A statement that the seller is a VAT-registered person, followed by his taxpayer's identification number (TIN);
+(2) The total amount which the purchaser [paid] or is obligated to pay to the seller with the indication that such amount includes the value-added tax;
+(3) The date of transaction, quantity, unit cost and description of the goods or properties or nature of the service; and
+(4) The name, business style, if any, address and taxpayer's identification number (TIN) of the purchaser, customer or client.
+Petitioner Panasonic points out that Sections 113 and 237 did not require the inclusion of the word "zero-rated" for zero-rated sales covered by its receipts or invoices. The BIR incorporated this requirement only after the enactment of R.A. 9337 on November 1, 2005, a law that did not yet exist at the time it issued its invoices.
+But when petitioner Panasonic made the export sales subject of this case, i.e., from April 1998 to March 1999, the rule that applied was Section 4.108-1 of RR 7-95, otherwise known as the Consolidated Value-Added Tax Regulations, which the Secretary of Finance issued on December 9, 1995 and [which] took effect on January 1, 1996. It already required the printing of the word "zero-rated" on the invoices covering zero-rated sales. When R.A. 9337 amended the 1997 NIRC on November 1, 2005, it made this particular revenue regulation a part of the tax code. This conversion from regulation to law did not diminish the binding force of such regulation with respect to acts committed prior to the enactment of that law.
+Section 4.108-1 of RR 7-95 proceeds from the rule-making authority granted to the Secretary of Finance under Section 245 of the 1977 NIRC (Presidential Decree 1158) for the efficient enforcement of the tax code and of course its amendments. The requirement is reasonable and is in accord with the efficient collection of VAT from the covered sales of goods and services. As aptly explained by the CTA's First Division, the appearance of the word "zero-rated" on the face of invoices covering zero-rated sales prevents buyers from falsely claiming input VAT from their purchases when no VAT was actually paid. If, absent such word, a successful claim for input VAT is made, the government would be refunding money it did not collect.
+Further, the printing of the word "zero-rated" on the invoice helps segregate sales that are subject to 10% (now 12%) VAT from those sales that are zero-rated. Unable to submit the proper invoices, petitioner Panasonic has been unable to substantiate its claim for refund.
+[29]
+Consistent with the foregoing jurisprudence, petitioner's claim for credit/ refund of input VAT for the taxable quarters of 2000 must be denied.  Failure to print the word "zero-rated" on the invoices/receipts is fatal to a claim for credit/ refund of input VAT on zero-rated sales.
+WHEREFORE
+, the  petition  is  hereby 
+DENIED.
+  The assailed Decision
+dated January 15, 2007 and the Resolution dated March 16, 2007 of the Court of Tax Appeals 
+En Banc 
+are hereby 
+AFFIRMED
+.  
+SO ORDERED.
+Corona, C.J., (Chairperson),  Velasco, Jr., Leonardo-De Castro
+, and
+ Perez, JJ.
+, concur.
+[1]
+ 
+Agencia Exquisite of Bohol, Incorporated v. Commissioner of Internal Revenue, 
+G.R. Nos. 150141, 157359 and 158644, February 12, 2009, 578 SCRA 539, 550.
+[2]
+  
+Rollo
+, pp. 75-95; penned by Associate Justice Lovell R. Bautista and concurred in by Associate Justices Juanito C. CastaÃ±eda, Jr., Erlinda P. Uy, Caesar A. Casanova and Olga Palanca-Enriquez.  With Concurring and Dissenting Opinion of Presiding Justice Ernesto D. Acosta., id. at 96-112.
+[3]
+  Id. at 103-106; penned by Associate Justice Lovell R. Bautista and concurred in by Associate Justices Juanito C. CastaÃ±eda, Jr., Erlinda P. Uy, Caesar A. Casanova and Olga Palanca-Enriquez.  With Concurring and Dissenting Opinion of Presiding Justice Ernesto D. Acosta, id. at 107-112.
+[4]
+ Id. at 113-114.
+[5]
+ Id. at 114.
+[6]
+ Id.
+[7]
+ Id. at 21-22.
+[8]
+ Id. at 113-118.
+[9]
+ Id. at 119-121.
+[10]
+ Id. at 119-120.
+[11]
+ Id. at 152-169.
+[12]
+ Id. at 163-167.
+[13]
+ Id. at 169.
+[14]
+ Id. at 170-192.
+[15]
+ Id. at 193-199.
+[16]
+ 
+  
+Id. at 200-211.
+[17]
+ Id. at 213-214.
+[18]
+ Id. at 219-254.
+[19]
+ Id. at 93.
+[20]
+ Id. at 94.
+[21]
+ Id. at 96.
+[22]
+ Id. at 102.
+[23]
+ Id. at 324-345.
+[24]
+ Id. at 103-112.
+[25]
+ Id. at 22-23.
+[26]
+ Id. at 411.
+[27]
+  SECTION 4.108-1.  Invoicing Requirements. - All VAT-registered persons shall, for every sale or lease of goods or properties or services, issue duly registered receipts or sales or commercial invoices which must show:
+the name, TIN and address of seller;
+date of transaction;
+quantity, unit cost and description of merchandise or nature of service;
+the name, TIN, business style, if any, and address of the VAT-registered purchaser, customer or client;
+the word "zero rated" imprinted on the invoice covering zero-rated sales; and 
+the invoice value or consideration.
+In the case of sale of real property subject to VAT and where the zonal or market value is higher than the actual consideration, the VAT shall be separately indicated in the invoice or receipt.
+Only VAT-registered persons are required to print their TIN followed by the word "VAT" in their invoices or receipts and this shall be considered as a "VAT Invoice." All purchases covered by invoices other than "VAT Invoice" shall not give rise to any input tax.
+If the taxable person is also engaged in exempt operations, he should issue separate invoices or receipts for the taxable and the exempt operations. A "VAT Invoice" shall be issued only for sales of goods, properties or services subject to VAT imposed in Sections 100  and 102  of the Code.
+The invoice or receipt shall be prepared at least in duplicate, the original to be given to the buyer and the duplicate to be retained by the seller as part of his accounting records.
+[28]
+ G.R. No. 178090, 612 SCRA 28, February 8, 2010.
+[29]
+ Id. at 34-37.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

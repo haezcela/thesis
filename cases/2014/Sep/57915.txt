@@ -1,0 +1,303 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			742 PHIL. 733
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 200055, September 10, 2014 ]
+
+
+STANDARD INSURANCE CO., INC., PETITIONER, VS. ARNOLD CUARESMA AND JERRY B. CUARESMA, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+PERALTA, J.:
+
+
+Before the Court is a petition for review on 
+certiorari
+ under Rule 45 of the Rules of Court seeking to reverse and set aside the Decision
+[1]
+ and Resolution,
+[2]
+ dated June 22, 2011 and January 16, 2012, respectively, of the Court of Appeals (
+CA
+) in CA-G.R. SP No. 117785.
+The antecedent facts are as follows:
+On March 20, 2004, two vehicles, one driven by Jefferson Cham and insured with petitioner Standard Insurance Co., Inc., and the other owned by respondent Arnold Cuaresma and driven by respondent Jerry B. Cuaresma, figured in an accident at North Avenue, Quezon City.
+[3]
+ Consequently, the damage on the vehicle driven by Cham was repaired, the cost of which was borne by petitioner. Cham then executed a 
+Release of Claim
+ in favor of petitioner subrogating the latter to all his rights to recover on all claims, demands, and rights of action on account of the loss, damage, or injury sustained as a consequence of the accident from any person liable thereto.
+[4]
+ Based on said document, petitioner, in its letter
+[5]
+ dated April 15, 2004 addressed to respondents, demanded the payment of the sum spent on repairing the vehicle driven by Cham.
+Meanwhile, on August 10, 2004, an Information
+[6]
+ was filed with the Metropolitan Trial Court (
+MeTC
+) of Quezon City charging Cham of the crime of Reckless Imprudence Resulting in Damage to Property docketed as Criminal Case No. 020256. During the pendency thereof, on March 17, 2008, petitioner, claiming that respondents collided with Cham's vehicle in a reckless and imprudent manner, filed a Complaint
+[7]
+ for Sum of Money with the MeTC of Manila against respondents, docketed as Civil Case No. 184854, demanding payment of the sum of P256,643.26 representing the cost of repairs on Cham's vehicle.
+Respondents, however, were declared in default on December 12, 2008 for failure to file their responsive pleading to petitioner's Complaint despite several opportunities granted by the MeTC of Manila.
+[8]
+ As a result, petitioner was allowed to present its evidence 
+exparte
+.
+Finding that petitioner sufficiently proved its claims by preponderance of evidence, the MeTC ruled in favor of petitioner in its Decision
+[9]
+ dated January 8, 2010, the dispositive portion of which reads:
+IN VIEW THEREOF, judgment is hereby rendered ordering defendants Arnold Cuaresma and Jerry B. Cuaresma, jointly and severally, to:
+1. Pay plaintiff the sum of TWO HUNDRED FIFTY-SIX THOUSAND  SIX  HUNDRED  FORTY-THREE  PESOS  AND TWENTY-SIX CENTAVOS (Php256,643.26) with interest at the rate of 12% per annum from the date of the filing of the complaint;
+2. Pay plaintiff the sum of Php 10,000.00 as and for attorney's fees;
+3. Pay the costs of the suit.
+SO ORDERED.
+The RTC, however, reversed the ruling of the MeTC in its Decision
+[10]
+ dated September 17, 2010. Contrary to the findings of the MeTC, the RTC found that not only were there inconsistencies in the evidence presented by petitioner as to its corporate identity as well as the amount of the supposed cost of indemnification, but petitioner also failed to sufficiently prove that the proximate cause of the damage incurred by Cham's vehicle was respondents' fault or negligence. In addition, on respondents' argument that the instant case must be consolidated with the prior criminal suit they filed against Cham, the RTC disagreed and ruled that criminal and civil cases can proceed independently.
+[11]
+On appeal, the CA likewise found that the evidence proffered by petitioner is insufficient to support its averment of negligence. Consequently, it affirmed the RTC's Decision and further denied petitioner's Motion for Reconsideration in its Resolution
+[12]
+ dated January 16, 2012.
+Hence, the present petition.
+Petitioner essentially invokes the following ground to support its petition:
+I.
+THE COURT OF APPEALS ERRED IN AFFIRMING THE CONCLUSIONS OF THE REGIONAL TRIAL COURT THAT PETITIONER'S EVIDENCE, SPECIFICALLY THE TESTIMONY OF ITS ASSURED, JEFFERSON CHAM AND ITS ASSISTANT VICE-PRESIDENT FOR CLAIMS, CLETO D. OBELLO, JR., AS WELL AS THE TRAFFIC ACCIDENT REPORT, ARE INSUFFICIENT TO PROVE ITS CLAIMS BY THE REQUIRED QUANTUM OF EVIDENCE.
+Petitioner contends that the testimonies of its witnesses Cham and Obello sufficiently prove its claims, since the former has personal knowledge on the events that transpired during the vehicular accident and the latter was in a position to prove the amount incurred for the repair of the damages on Cham's vehicle. It also argues that its failure to present SPO2 Felicisimo V. Cuaresma, the police investigator who prepared the traffic accident report submitted in evidence, is not fatal to its cause of action.
+In their Comment,
+[13]
+ respondents counter that the bare allegations of Cham on negligence cannot be deemed sufficient to prove petitioner's claim. They also claim that in order for the traffic accident report to obtain probative value, the police officer who prepared it must be identified in court. On a procedural matter, respondents allege that petitioner, in failing to disclose the pendency of the criminal suit against its assured Cham, is guilty of forum shopping.
+Prefatorily, We address the issue of forum shopping in saying that the essence of forum shopping is the filing by a party against whom an adverse judgment has been rendered in one forum, seeking another and possibly a favorable opinion in another suit other than by appeal or special civil action for 
+certiorari.
+[14]
+ It is the act of filing multiple suits involving the same parties for the same cause of action, either simultaneously or successively for the purpose of obtaining a favorable judgment.
+[15]
+ However, as the RTC already mentioned, there exists no forum shopping herein for the filing of the instant suit is expressly allowed to proceed independently of the criminal action filed by respondents.
+In the similar case of 
+Casupanan v. Laroya
+,
+[16]
+ wherein as a result of a vehicular accident, a party involved therein filed a criminal case for reckless imprudence resulting in damage to property against the other party, who, in turn, filed a civil suit against the party instituting the criminal action, We held that the party filing the separate civil action cannot be liable for forum shopping in the following wise:
+xxx However, there is no forum shopping in the instant case because the law and the rules expressly allow the filing of a separate civil action which can proceed independently of the criminal action.
+Laroya filed the criminal case for reckless imprudence resulting in damage to property based on the Revised Penal Code, while Casupanan and Capitulo filed the civil action for damages based on Article 2176 of the Civil Code. 
+Although these two actions arose from the same act or omission, they have different causes of action.
+ The criminal case is based on 
+culpa criminal
+ punishable under the Revised Penal Code, while the civil case is based on 
+culpa aquiliana
+ actionable under Articles 2176 and 2177 of the Civil Code. These articles on culpa aquiliana read:
+"Art. 2176. Whoever by act or omission causes damage to another, there being fault or negligence, is obliged to pay for the damage done. Such fault or negligence, if there is no pre-existing contractual relation between the parties, is called a 
+quasi-delict
+ and is governed by the provisions of this Chapter.
+Art. 2177. Responsibility for fault or negligence under the preceding article is entirely separate and distinct from the civil liability arising from negligence under the Penal Code. But the plaintiff cannot recover damages twice for the same act or omission of the defendant."
+Any aggrieved person can invoke these articles provided he proves, by preponderance of evidence, that he has suffered damage because of the fault or negligence of another. Either the private complainant or the accused can file a separate civil action under these articles. There is nothing in the law or rules that state only the private complainant in a criminal case may invoke these articles.
+Moreover, paragraph 6, Section 1, Rule 111 of the 2000 Rules on Criminal Procedure ("2000 Rules" for brevity) expressly requires the accused to litigate his counterclaim in a separate civil action, to wit:
+"SECTION 1. Institution of criminal and civil actions. - (a) x x x.
+No counterclaim, cross-claim or third-party complaint may be filed by the accused in the criminal case, but any cause of action 
+which could have been the subject thereof may be litigated in a separate civil action
+.
+" (Italics supplied)
+Since the present Rules require the accused in a criminal action to file his counterclaim in a separate civil action, there can be no forum-shopping if the accused files such separate civil action.
+x x x x
+The crucial question now is whether Casupanan and Capitulo, who are not the offended parties in the criminal case, can file a separate civil action against the offended party in the criminal case. Section 3, Rule 111 of the 2000 Rules provides as follows:
+"SEC 3. When civil action may proceed independently. - In the cases provided in Articles 32, 33, 34 and 2176 of the Civil Code of the Philippines, the independent civil action may be brought by the 
+offended party
+. It shall proceed independently of the criminal action and shall require only a preponderance of evidence. In no case, however, may the offended party recover damages twice for the same act or omission charged in the criminal action." (Italics supplied)
+x x x x
+There is no question that the offended party in the criminal action can file an independent civil action for 
+quasi-delict
+ against the accused. Section 3 of the present Rule 111 expressly states that the "offended party" may bring such an action but the "offended party" may not recover damages twice for the same act or omission charged in the criminal action. Clearly, Section 3 of Rule 111 refers to the offended party in the criminal action, not to the accused.
+Casupanan and Capitulo, however, invoke the ruling in 
+Cabaero vs. Cantos
+12
+ 
+where the Court held that the accused therein could validly institute a separate civil action for 
+quasi-delict
+ against the private complainant in the criminal case. In 
+Cabaero
+, the accused in the criminal case filed his Answer with Counterclaim for malicious prosecution. At that time, the Court noted the "absence of clear-cut rules governing the prosecution on impliedly instituted civil actions and the 
+necessary consequences and implications thereof.
+" Thus, the Court ruled that the trial court should confine itself to the criminal aspect of the case and disregard any counterclaim for civil liability. The Court further ruled that the accused may file a separate civil case against the offended party "after the criminal case is terminated and/or in accordance with the new Rules which may be promulgated." The Court explained that a cross-claim, counterclaim or third-party complaint on the civil aspect will only unnecessarily complicate the proceedings and delay the resolution of the criminal case.
+Paragraph 6, Section 1 of the present Rule 111 was incorporated in the 2000 Rules precisely to address the lacuna mentioned in
+ 
+Cabaero
+. Under this provision, the accused is barred from filing a counterclaim, cross-claim or third-party complaint in the criminal case. However, the same provision states that "any cause of action which could have been the subject (of the counterclaim, cross-claim or third-party complaint) may be litigated in a separate civil action." The present Rule 111 mandates the accused to file his counterclaim in a separate civil action which shall proceed independently of the criminal action, even as the civil action of the offended party is litigated in the criminal action
+.
+[17]
+On the basis of the foregoing decision, therefore, petitioner, who is subrogated to the rights of Cham, the accused in the criminal case instituted by respondents, cannot be guilty of forum shopping for its separate civil action is expressly allowed to proceed independently of the criminal action involved herein.
+It must be noted, however, that notwithstanding the allowance of the instant petition to proceed independently of the criminal action, the claims of petitioner cannot be sustained in the absence of satisfactory evidence proving its right thereto.
+In civil cases, basic is the rule that the party making allegations has the burden of proving them by a preponderance of evidence. He must rely on the strength of his own evidence and not upon the weakness of the defense offered by his opponent. This principle equally holds true, even if the defendant had not been given the opportunity to present evidence because of a default order.
+[18]
+Preponderance of evidence is the weight, credit, and value of the aggregate evidence on either side and is usually considered to be synonymous with the term "greater weight of the evidence" or "greater weight of the credible evidence." It is evidence which is more convincing to the court as worthy of belief than that which is offered in opposition thereto.
+[19]
+ The reason for this is that bare allegations, unsubstantiated by evidence, are not equivalent to proof. Mere allegations, therefore, cannot be deemed as evidence.
+[20]
+To prove the allegations in its complaint, herein petitioner presented testimonies of its assured and its Assistant Vice-President, the Traffic Accident Investigation Report, and documents evidencing the assured's insurance policy with petitioner as well as the payment of repair expenses. As aptly ruled by the RTC and the CA, however, the evidence presented by petitioner failed to preponderantly establish negligence on the part of the respondents.
+While petitioner may have proven the fact of its payment of the expenses for the repair of Cham's vehicle through the testimony of its Assistant Vice-President and other supporting receipts and documents, it fell short in proving that the damage caused on said vehicle was due to the fault of the respondents.
+As correctly held by the RTC and the CA, the Traffic Accident Investigation Report
+[21]
+ cannot be given probative weight. Section 44 of Rule 130 provides:
+SEC. 44. 
+Entries in official records 
+- Entries in official records made in the performance of his duty by a public officer of the Philippines, or by a person in the performance of a duty specially enjoined by law are prima facie evidence of the facts therein stated.
+Moreover, for the Traffic Accident Investigation Report to be admissible as 
+prima facie
+ evidence of the facts therein stated, the following requisites must be present:
+x x x (a) that the entry was made by a public officer or by another person specially enjoined by law to do so; (b) that it was made by the public officer in the performance of his duties, or by such other person in the performance of a duty specially enjoined by law; and (c) that the public officer or other person had sufficient knowledge of the facts by him stated, which must have been acquired by him personally or through official information.
+[22]
+Regrettably, in this case, petitioner failed to prove the third requisite cited above. As correctly noted by the courts below, while the Traffic Accident Investigation Report was exhibited as evidence, the investigating officer who prepared the same was not presented in court to testify that he had sufficient knowledge of the facts therein stated, and that he acquired them personally or through official information.
+[23]
+ Neither was there any explanation as to why such officer was not presented. We cannot simply assume, in the absence of proof, that the account of the incident stated in the report was based on the personal knowledge of the investigating officer who prepared it.
+Thus, while petitioner presented its assured to testify on the events that transpired during the vehicular collision, his lone testimony, unsupported by other preponderant evidence, fails to sufficiently establish petitioner's claim that respondents' negligence was, indeed, the proximate cause of the damage sustained by Cham's vehicle.
+It bears stressing, as the courts below have explained, that subrogation is ultimately the substitution of one person in the place of another with reference to a lawful claim or right, so that he who is substituted succeeds to the rights of the other in relation to a debt or claim, including its remedies or securities. The rights to which the subrogee succeeds are the same as, but not greater than, those of the person for whom he is substituted, that is, he cannot acquire any claim, security or remedy the subrogor did not have. In other words, a subrogee cannot succeed to a right not possessed by the subrogor. A subrogee, in effect, steps into the shoes of the insured and can recover only if the insured likewise could have recovered.
+[24]
+Hence, before We can sustain petitioner's argument that its right to be reimbursed for the repair is by operation of law upon mere proof of payment of the insurance claim, a determination of the liability of respondents 
+vis-a-viz 
+the assured in the vehicular collision must first be made, for petitioner cannot acquire any claim, security or remedy its assured did not have. Considering, however, the insufficiency of preponderant evidence attributing negligence on respondents resulting in the damage sustained by the assured's vehicle, it will be unfair to hold respondents liable for the same, payment by petitioner of its costs, notwithstanding.
+WHEREFORE
+, premises considered, the instant petition is 
+DENIED
+. The Decision and Resolution, dated June 22, 2011 and January 16, 2012, respectively, of the Court of Appeals in CA-G.R. SP No. 117785 are hereby 
+AFFIRMED.
+Velasco, Jr., (Chairperson), Villarama, Jr., Reyes
+, and 
+Jardeleza, JJ
+., concur.
+September 24, 2014
+N O T I C E OF J U D G M E N T
+Sirs/Mesdames:
+Please take notice that on ___
+September 10, 2014
+___ a Decision, copy attached herewith, was rendered by the Supreme Court in the above-entitled case, the original of which was received by this Office on September 24, 2014 at 1:27 p.m.
+Very truly yours,
+(SGD)
+WILFREDO V. LAPITAN
+Division Clerk of Court
+[1]
+ Penned by Associate Justice Mariflor P. Punzalan Castillo, with Associate Justices Josefina Guevara-Salonga and Franchito N. Diamante, concurring; 
+rollo
+, pp. 259-268. 
+[2]
+ 
+Id.
+ at 335-337.
+[3]
+ 
+Id.
+ at 192.
+[4]
+ 
+Id.
+[5]
+ 
+Id.
+ at 61.
+[6]
+ 
+Id.
+ at 90.
+[7]
+ 
+Id.
+ at 49-55.
+[8]
+ 
+Id.
+ at 262.
+[9]
+ 
+Id.
+ at 160-162.
+[10]
+ Id. at 191-200.
+[11]
+ Id. at 195. 
+[12]
+ Id. at 335-337.
+[13]
+ 
+Id.
+ At 345-348.
+[14]
+ 
+Marasigan v. Chevron Phils., Inc., 
+G.R. No. 184015, February 8, 2012, 665 SCRA 499, 511, citing, 
+Benedicto v. Lacson
+, G.R. No. 141508, May 5, 2010, 620 SCRA 82, 97-98.
+[15]
+ 
+Id.
+[16]
+ 436 Phil. 582 (2002).
+[17]
+ 
+Casupanan v. Laroya
+, supra, at 593-599. (Emphasis ours; citations omitted)
+[18]
+ 
+Ramos v. Obispo
+, G.R. No. 193804, February 27, 2013, 692 SCRA 240, 248-249, citing 
+Heirs of Pedro De Guzman v. Perona,
+ G.R. No. 152266, July 2, 2010, 622 SCRA 653, 661-662, citing 
+Gajudo v. Traders Royal Bank,
+ 519 Phil. 791, 803 (2006).
+[19]
+ 
+Penalber v. Ramos,
+ G.R. No. 178645, January 30, 2009, 577 SCRA 509, 526-527, citing 
+Ong v. Yap
+, 492 Phil 188, 196-197 (2005).
+[20]
+ Dra. Leila A. Dela Llano v. Rebecca Biong
+, doing business under the name and style of Pongkay Trading, G.R. No. 182356, December 4, 2013, citing 
+Real v. Belo,
+ 542 Phil. Ill, 122 (2007), citing 
+Domingo v. Robles
+, 493 Phil. 916 (2005), and
+ Ongpauco v. CA,
+ 488 Phil 396, 401 (2004).
+[21]
+ 
+Rollo
+, p. 56.
+[22]
+ 
+D. M. Consunji, Inc. v. Court of Appeals,
+ 409 Phil. 275 (2001), citing 
+Africa, et al. v. Caltex (Phil.), Inc., et al.
+, 123 Phil. 272, 277 (1966).
+[23]
+ 
+Rollo
+, p. 193.
+[24]
+ 
+Id. 
+at 199 and 266-267, citing 
+Sulpicio Lines, Inc. v. First Lepanto-Taisho Insurance Corporation
+, 500 Phil 514, 525(2005).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

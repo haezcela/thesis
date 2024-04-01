@@ -1,0 +1,1248 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			815 Phil. 584
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 207306, August 07, 2017 ]
+
+
+BEAUMONT HOLDINGS CORPORATION
+[1]
+ AS REPRESENTED BY REY DAVID LACSON, PETITIONER, V. ATTYS. ROSARIO V.E. REYES, WILFREDO C. VILLAR, FRANCISCO T. ENDRIGA, ATTY. SHEILAH F.P. ELBINIAS-UYBOCO AND MARK ANTHONY M. LITONJUA, RESPONDENTS.
+
+
+D E C I S I O N
+
+
+
+
+CAGUIOA, J:
+
+
+This case calls for the interpretation and application of Section 267, Title II (Real Property Taxation), Book II of the Local Government Code
+[2]
+ (LGC), to wit: 
+ 
+ SEC. 267.
+ Action Assailing Validity of Tax Sale
+. - No court shall entertain any action assailing the validity of any sale at public auction of real property or rights therein 
+under this Title
+ until the taxpayer shall have deposited with the court the amount for which the real property was sold, together with interest of two percent (2%) per month from the date of sale to the time of the institution of the action. The amount so deposited shall be paid to the purchaser at the auction sale if the deed is declared invalid but it shall be returned to the depositor if the action fails.
+ 
+ Neither shall any court declare a sale at public auction invalid by reason of irregularities or informalities in the proceedings unless the substantive rights of the delinquent owner of the real property or the person having legal interest therein have been impaired. (Underscoring and emphasis supplied)
+ 
+ 
+ This petition for review on certiorari
+[3]
+ (Petition) under Rule 45 of the Rules of Court assails the Decision
+[4]
+ of the Court of Appeals
+[5]
+ (CA) dated November 29, 2012 (Decision) in CA-G.R. CV No. 96858, denying the appeal filed by petitioner Beaumont Holdings Corporation (BHC) and the Resolution
+[6]
+ dated May 28, 2013, denying the Motion for Reconsideration filed by BHC. The CA affirmed the Resolution
+[7]
+ of the Regional Trial Court, Branch 271, Pasig City (RTC) dated September 30, 2010 in Civil Case No. 72506-TG, which dismissed the Complaint
+[8]
+ filed by BHC. 
+ 
+Facts and Antecedent Proceedings 
+ 
+BHC is the registered owner of two parcels of land located in Fort Bonifacio, Taguig City,
+[9]
+ which are covered by Transfer Certificates of Title Nos. (TCT) 1033-P
+[10]
+ and 1034-P
+[11]
+ (subject two lots). The total assessed market value of the subject two lots is P13,692,000.00 (P6,870,000.00 for the first lot and P6,822,000.00 for the second lot) as shown in their tax declarations.
+[12]
+ 
+ The City Government of Taguig (Taguig City) sent two letters dated November 6, 2007 to BHC, requiring the settlement of real property taxes on the subject two lots for the years 2005, 2006, and the 4
+th
+ quarter of 2007 in the amounts of P414,132.18 and P411,238.68 within the month of November 2007 to avoid penalties of 2% per month based on the Statements of Accounts for the month of November 2007 that were processed on November 5, 2007, reviewed by Teodoro S. Cruz, Head, Land Tax Division and approved by Atty. Rosario V.E. Reyes, OIC City Treasurer.
+[13]
+ 
+BHC paid P825,370.86 to the City Treasurer's Office of Taguig City for which Official Receipt No. 8625735 V
+[14]
+ dated November 29, 2007 was issued.
+[15]
+ 
+However, even prior to the November 6, 2007 letters, the subject two lots had already been declared delinquent pursuant to a Notice of Delinquency posted on October 22, 2007,
+[16]
+ levied upon through a Warrant of Levy on September 26, 2007,
+[17]
+ advertised for sale on November 5, 2007 and November 12, 2007 by public auction to satisfy the taxes, penalties due and costs of sale in the amounts of P224,670.48 and P223,100.73 for the subject two lots, respectively,
+[18]
+ and were sold at public auction to respondent Mark Anthony M. Litonjua (Litonjua) on November 15, 2007 for P6,901,523.00 and P10,601,523.00, respectively.
+[19]
+ 
+ In a letter dated December 7, 2007, the City Treasurer informed BHC of the sale of the subject two lots, acknowledged the receipt of the payment of P825,370.86 ("per OR # 86255735"), and indicated that there remained a balance of P353,106.92, representing the reimbursement of costs of sale and 2% interest per month on the bid price and that the said amount be remitted to enable the City Treasurer to issue a Certificate of Redemption.
+[20]
+ 
+Pursuant to the billing with the Statement of Account for the month of January 2009, BHC paid the amount of P370,753.69 to the Office of the City Treasurer for which Official Receipt No. 0044247 dated January 30, 2009 was issued to BHC.
+[21]
+ 
+Subsequently, the City Treasurer sent two letters dated February 8, 2008
+[22]
+ and August 4, 2008
+[23]
+ to BHC with updated computations of the amounts due in connection with the total redemption payment of BHC. 
+ Final Bills of Sale
+[24]
+ dated February 6, 2009 were issued by the City Treasurer conveying the subject two lots to Litonjua by reason of BHCs failure to redeem them within one year from the date of the auction sale.
+ On May 25, 2010, BHC filed a Complaint
+[25]
+ before the RTC against Atty. Rosario V.E. Reyes, OIC City Treasurer and chairperson of the Committee on Auction Sale of Taguig City, Wilfredo C. Villar, City Administrator, Francisco T. Endriga, City Assessor, Atty. Shielah F.P. Elbinias-Uyboco, City Assessment Department Head, and Litonjua. BHC alleged that there was no valid justification to sell the subject two lots at public auction given the fact that it had paid and settled the required real property taxes within the month of November 2007 pursuant to the letters sent by Taguig City.
+[26]
+ BFIC prayed for a judgment: (1) nullifying the public auction sale of the subject two lots held on November 15, 2007 and all other proceedings taken pursuant thereto; (2) enjoining the Register of Deeds of Taguig City from cancelling its land titles, consolidating ownership thereof in Litonjua's favor and issuing new TCTs in the name of Litonjua; and (3) ordering respondents to compensate BHC actual damages in the amount of P2 million.
+[27]
+ 
+Respondent city officials filed an Answer
+[28]
+ dated July 2, 2010, seeking the dismissal of the Complaint for lack of merit. They alleged that the subject two lots were validly sold at auction because of BHC's failure to settle the delinquent real property taxes due thereon despite several reminders and to redeem them by paying the correct amount.
+[29]
+ They also alleged that BHC failed to comply with Section 267 of the LGC.
+[30]
+ 
+ Litonjua filed a Motion to Dismiss
+[31]
+ dated June 16, 2010 wherein he sought the dismissal of the Complaint for lack of jurisdiction for non-compliance with the requirements for an action to assail the validity of a tax delinquency sale under Section 267.
+[32]
+ 
+BHC filed a Reply to Answer
+[33]
+ dated July 26, 2010 and a Comment/Opposition to the Motion to Dismiss
+[34]
+ dated July 15, 2010. BHC contended that Section 267 is not applicable because BHC was not a delinquent taxpayer, having paid its real property taxes within the month of November 2007 pursuant to the letters of Taguig City.
+[35]
+ 
+The Ruling of the RTC
+ 
+ In a Resolution dated September 30, 2010,
+[36]
+ the RTC dismissed the Complaint for lack of jurisdiction, the dispositive portion of which states: 
+ 
+ 
+WHEREFORE
+, premises considered, the Motion to Dismiss is hereby 
+GRANTED
+.
+ 
+ Let the case be 
+DISMISSED
+. 
+ 
+SO ORDERED.
+[37]
+ 
+ 
+ 
+The RTC Resolution explained that: 
+ 
+ 
+ xxx [W]hether or not the plaintiff is a delinquent taxpayer is of no moment in determining whether Section 267 is applicable herein. So long as the plaintiff assails the validity of the tax sale at public auction then Section 267 is applicable. As such, the plaintiff must deposit with the Court the amount for which the real property was sold together with interest of Two Percent (2%) per month from the date of sale to the time of the institution of the action. This had been so required by the Supreme Court in the case of 
+National Housing Authority vs[.] Iloilo City, et al.
+xxx
+ 
+ x x x x
+ 
+ The plaintiff, by arguing that Section 267 is not applicable to them because they are not delinquent taxpayer [sic], implicitly admits that they had not complied with Section 267. Thus, the Motion to Dismiss is meritorious.
+[38]
+ 
+ 
+ 
+ BHC filed a Motion for Reconsideration,
+[39]
+ which Litonjua opposed.
+[40]
+ The RTC denied the Motion for Reconsideration in a Resolution
+[41]
+ dated February 17, 2011. 
+The Ruling of the CA
+ 
+On April 1, 2011, BHC appealed to the CA the RTC Resolution dated September 30, 2010, dismissing the Complaint, and Resolution dated February 17, 2011, denying the Motion for Reconsideration. The CA, in a Decision
+[42]
+ dated November 29, 2012, affirmed the ruling of the RTC, the dispositive portion of which states: 
+ 
+WHEREFORE
+, premises considered, the present appeal is hereby
+ DENIED
+. The September 30, 2010 and February 17, 2011 Resolutions of the Regional Trial Court, Branch 271, Pasig City, in Civil Case No. 72506-TG are 
+AFFIRMED
+. No costs. 
+ 
+SO ORDERED.
+[43]
+ 
+ 
+ 
+The CA explained that the deposit required in Section 267 is a jurisdictional requirement, the non-payment of which warrants the dismissal of the action assailing the validity of the tax sale.
+[44]
+ 
+On May 28, 2013, BHC's Motion for Reconsideration
+[45]
+ was denied by the CA in a Resolution
+[46]
+ dated May 28, 2013. 
+ Hence, this Petition.
+ Litonjua filed his Comment
+[47]
+ dated December 7, 2013. Respondent city officials filed their Comment
+[48]
+ dated February 4, 2014. 
+The Issue
+ 
+Whether the CA erred in rendering the assailed Decision and Resolution. 
+The Ruling of the Court
+ 
+The Petition is meritorious. 
+ To reiterate, Section 267 of the LGC provides: 
+ 
+SEC. 267. 
+Action Assailing Validity of Tax Sale
+. - No court shall entertain any action assailing the validity of any sale at public auction of real property or rights therein 
+under this Title
+ until the taxpayer shall have deposited with the court the amount for which the real property was sold, together with interest of two percent (2%) per month from the date of sale to the time of the institution of the action. The amount so deposited shall be paid to the purchaser at the auction sale if the deed is declared invalid but it shall be returned to the depositor if the action fails. 
+ 
+ Neither shall any court declare a sale at public auction invalid by reason of irregularities or informalities in the proceedings unless the substantive rights of the delinquent owner of the real property or the person having legal interest therein have been impaired. (Underscoring and emphasis supplied)
+ 
+ 
+ As worded, Section 267 operates only within the purview of real property taxation (Title II). The pertinent tax involved is only real property tax or realty tax. Thus, the reason for the "sale at public auction of the real property or rights therein" in Section 267 is obviously because of non-payment of realty tax and no other. Accordingly, the precondition for the operation of Section 267 is the realty tax delinquency of the property. If the property is current in its realty tax or not realty tax delinquent, then it should not be the subject of a sale at public auction as contemplated in Section 267. The "taxpayer" referred to in the Section is none other than the declarant of the property in a real property tax declaration, who is generally its owner, and his declared property is realty tax delinquent. The "taxpayer" in Section 267 refers to no other person.
+ 
+National Housing Authority (NHA) v. Iloilo City
+,
+[49]
+ 
+Gamilla v. Burgundy Realty Corporation
+[50]
+ and 
+Spouses Wong v. City of Iloilo
+[51]
+ deal with realty tax delinquency sale. Their import to this case requires a review of their factual backdrops.
+ In 
+Gamilla
+, the auction sale was questioned because of the procedural lapses in the failure of the local government unit (LGU) concerned to comply with Sections 176
+[52]
+ and 178
+[53]
+ of the LGC. There was no issue on the realty tax delinquency status of the property subject of the case.
+ In 
+Spouses Wong
+, the auction sale was questioned for non-compliance with Section 73
+[54]
+ of Presidential Decree No. 464.
+[55]
+ There was also no dispute that the property subject of the case was tax delinquent. 
+ The tax status of the property subject of 
+NHA
+ is different. While the LGU declared the property delinquent for non-payment of realty tax and sold it in a public auction sale, the validity of the auction sale was questioned by NHA for lack of notice to NHA as its registered owner and because NHA is a tax-exempt agency of the government.
+ In 
+NHA
+, a motion to dismiss NHA's complaint was filed by the defendants therein on the basis of Section 267 for the failure of NHA (
+i.e.
+, the taxpayer) to make the deposit with the court. The motion to dismiss was granted by the lower court. The CA affirmed the order of dismissal. In its petition for review on certiorari before the Court, NHA argued that Section 267, requiring the taxpayer to deposit with the court the amount specified therein, should not apply to NHA and even assuming it did apply to NHA, it was not necessary given the fact that the government is always presumed to be solvent. While admitting that NHA is a tax-exempt entity, the issue posed and addressed by the Court was whether NHA's tax-exempt status vests it with immunity as well from the deposit requirement under Section 267. In resolving this, the Court explained the reason for the deposit requirement in Section 267, 
+viz
+.: 
+ 
+ As is apparent from a reading of the foregoing provision, a deposit x x x is a condition - a "prerequisite," x x x - which must be satisfied before the court can entertain any action assailing the validity of the public auction sale. The law, in plain and unequivocal language, prevents the court from entertaining a suit unless a deposit is made. This is evident from the use of the word "shall" in the first sentence of Section 267. Otherwise stated, the deposit is a jurisdictional requirement the nonpayment of which warrants the failure of the action.
+ 
+ x x x As expressed in Section 267 itself, 
+the amount deposited shall be paid to the purchaser at the auction sale if the deed is declared invalid; otherwise, it shall be returned to the depositor
+. 
+The deposit
+, 
+equivalent to the value for which the real property was sold plus interest,
+ is essentially meant to reimburse the purchaser of the amount he had paid at the auction sale should the court declare the sale invalid
+.
+ 
+Clearly, 
+the deposit precondition is an ingenious legal device to guarantee the satisfaction of the tax delinquency, with the local government unit keeping the payment on the bid price no matter the final outcome of the suit to nullity the tax sale
+. Thus, the requirement is not applicable if the plaintiff is the government or any of its agencies as it is presumed to be solvent, and more so where the tax exempt status of such plaintiff as basis of the suit is acknowledged. x x x Perforce, 
+the bond mandated in Section 267, whose 
+purpose
+ it is to 
+ensure the collection of the tax delinquency
+ should not be required of NHA before it can bring suit assailing the validity of the auction sale.
+[56]
+ (Underscoring and emphasis supplied) 
+ 
+ 
+Indeed, the 
+ratio
+ behind the deposit requirement as succinctly espoused in 
+NHA
+ is to ensure and guarantee the collection and satisfaction of the tax delinquency.
+ 
+ In the present case, the very issue raised in the Petition is the invalidity of the auction sales 
+on the ground that the subject properties are
+ not
+ tax delinquent
+. On the assumption that the subject two lots are
+ not
+ tax delinquent, then there is no need for the deposit requirement under Section 267 because the realty taxes due on the subject two lots have already been paid and there are no tax delinquencies to be collected or satisfied. 
+ The unfairness of the deposit requirement as it is applied in this case is clear. There were two lots of BHC that were sold at public auction. Per the first Final Bill of Sale,
+[57]
+ the lot with an area of 1,145 square meters located in Fort Bonifacio, Taguig City, with an assessed value of P3,435,000.00, was advertised for sale at public auction to satisfy "all taxes and penalties due and the costs of sale in the amount of 
+P224,670.48
+"
+[58]
+ by reason that the real property tax accrued for the years 4
+th
+ quarter 2005 - 2007 had not been paid and remained delinquent. At the public auction held on November 15, 2007, Litonjua was declared the highest bidder, with a bid amount of P6,901,523.00.
+ Per the second Final Bill of Sale,
+[59]
+ the lot with an area of 1,137 square meters, also located in Fort Bonifacio, Taguig City with an assessed value of P3,411,000.00, was also advertised for sale at public auction to satisfy "all taxes and penalties due and the costs of sale in the amount of 
+P223,100.73
+"
+[60]
+ by reason that the real property tax accrued for the years 4th quarter 2005 - 2007 had not been paid and remained delinquent. At the public auction held on November 15, 2007, Litonjua was declared the highest bidder, with a bid amount of P10,601,523.50. 
+For the first property, the deposit amount required under Section 267, if followed, is "the amount for which the real property was sold" - P6,901,523.00, "together with interest of two percent (2%) per month from the date of sale to the time of the institution of the action" - P4,140,913.80. Interest per month is P138,030.46 or 2% of P6,901,523.00. P138,030.46 multiplied by 30 months
+[61]
+ is P4,140,913.80, the interest component of the deposit. Thus, the required deposit is a staggering 
+P11,042,436.80
+ or 
+49 times the tax delinquency, penalty and costs of sale
+. 
+ For the second property, the deposit being required is so much more. Given that the bid amount is P10,601,523.50, the 2% interest per month amounts to P212,030.47. Total interest for 30 months is P6,360,914.10. Thus, the required deposit under Section 267 is a more staggering amount of 
+P16,962,437.60
+ or 
+76 times the tax delinquency, penalty and costs of sale
+.
+ For both properties, the deposit being required from BHC is 
+P28,004,874.40
+. 
+As illustrated above, Section 267 can indeed provide a lucrative business - a disguised legislated "usury" law. The guaranteed return to the highest bidder for his investment is not small, by any measure. In real terms, Litonjua's investment had earned more than P10.5 million in two and a half years. 
+ The required deposit under Section 267 becomes jurisdictional 
+only if
+ there is no dispute that the real property is tax delinquent. In that instance, the deposit will serve its intended purpose. However, where the property sold at a public auction sale is not tax delinquent, then the envisioned purpose becomes irrelevant, if not oppressive.
+ In support of BHCs contention that the subject two lots are not real property tax delinquent, it specifically made the following averments in its Complaint: 
+ 
+ 4. Per letters dated November 6, 2007, the City Government of Taguig billed plaintiff, the basic taxes due on subject properties, for the years 2005 to 2006 and the 4
+th
+ Quarter of 2007, 
+for settlement within the month of November 2007
+ to avoid penalties of 2% per month, in the amounts of Php 414,132.18 and Php 411,238.68 based on the Statements of Accounts processed on November 5, 2007, reviewed by Teodoro S. Cruz, Head, Land Tax Division and approved by Atty. Rosario V.E. Reyes, OIC City Treasurer (copies of each are attached hereto as Annexes "E"
+[62]
+ and "F"
+[63]
+);
+ 
+ 5. Conformably, plaintiff paid the City Treasurer's Office of Taguig City, the total amount of Php 825,370.86 for which Official Receipt No. 8625735 V dated November 29, 2007 was issued (copy attached hereto as Annex "G"
+[64]
+).
+[65]
+ 
+ 
+ In fine, the realty taxes due on the subject two lots appear to have been paid - with the Official Receipts issued by the City of Taguig having been appended to the Complaint. Why should the tax declarant, BHC, thus be penalized for the LGU's wrongful action?
+ The Court ruled in 
+NHA
+: 
+ 
+ NHA cannot be declared delinquent in the payment of real property tax obligations which, by reason of its tax-exempt status, cannot even accrue in the first place. Nonetheless, because respondent Iloilo City filed a motion to dismiss NHA's Complaint x x x and not an answer, it is both 
+proper and prudent to remand the case to the trial court in order to afford respondent Iloilo City full opportunity to be heard on the matters
+ [on the nullity of the proceedings undertaken by respondent Iloilo City which eventually led to the public auction sale of its property] 
+raised in the complaint
+.
+[66]
+ (Underscoring supplied)
+ 
+ 
+ Again, BHC alleged that it settled its unpaid real property tax through the payment of P825,370.86 with the City Treasurer's Office of Taguig City as evidenced by 
+Official Receipt
+ No. 8625735 V dated November 29, 2007.
+[67]
+ Per letters dated November 6, 2007, the Taguig City billed BHC the basic taxes due on the subject properties 
+for settlement within the month of November 2007
+ in the amounts of P414,132.18 and P411,238.68.
+[68]
+ It must be emphasized that the November 6, 2007 letters of Taguig City explicitly state: 
+ 
+ Attached herewith is your Statement of Account for Real Property Tax from year 2005 to 2006 and the 4th Quarter of 2007, amounting to 
+Php 414,132.18
+. 
+Please settle this amount within the 
+month of November
+ to avoid penalties of 2% per month. This applies to current accounts only.
+[69]
+ 
+ Attached herewith is your Statement of Account for Real Property Tax from year 2005 to 2006 and the 4
+th
+ Quarter of 2007, amounting to 
+Php 411,238.68
+. 
+Please settle this amount within the 
+month of November
+ to avoid penalties of 2% per month. This applies to current accounts only.
+[70]
+ (Emphasis and underscoring supplied)
+ 
+ 
+ Given the fact that BHC was given the month of November 2007 to settle its "real property taxes (BASIC & SEF) including penalties thereof,"
+[71]
+ it is highly suspicious and questionable why the subject two lots were then sold at public auction on November 15, 2007
+[72]
+ or even before the lapse of the settlement period indicated in the letters of Taguig City.
+ It must also be noted that the billing letters dated November 6, 2007 mention "Real Property Tax from year 2005 to 2006 and the 4
+th
+ Quarter of 2007"
+[73]
+ and the Final Bills of Sale refer to "the real property tax x x x accrued for the years 4
+th
+ Qtr. 2005-2007 and has not been paid and remained delinquent."
+[74]
+ 
+The payment was made by BHC on November 29, 2007
+[75]
+ which was well within the due date for the payment of the installment for the 4
+th
+ quarter of 2007 pursuant to Section 250 of the LGC
+, which states: 
+ 
+ SEC. 250. 
+Payment of Real Properly Taxes in Installments
+. â The owner of the real property or the person having legal interest therein may pay the basic real property tax and the additional tax for the [Special Education Fund (SEF)] due thereon without interest in four (4) equal installments: the first installment to be due and payable on or before the thirty-first (31
+st
+) of March; the second installment, on or before the thirtieth (30
+th
+) of June; the third installment, on or before the thirtieth (30
+th
+) of September; and the last installment on or before the thirty-first (31
+st
+) of December, except the special levy the payment of which shall be governed by ordinance of the sanggunian concerned.
+ 
+ 
+ Given the foregoing, it is the LGU which should be faulted for sending the billing letters to BFIC without indicating therein the tax delinquent status of the subject two lots and their having been previously auctioned in a tax delinquency sale, and for accepting BFIC's payment to update its realty tax liability when it had already declared the subject two lots tax delinquent and had already conducted a tax delinquency auction thereof. These acts of Taguig City clearly amount to bad faith. Thus, putting the blame on BHC for its purported failure to redeem the properties is not only belied by the documents on record, but is overwhelming proof of utter bad faith.
+ With the presentation of the Official Receipts, showing payment of the unpaid realty taxes within the period prescribed, the delinquent status of the subject two lots is negated. Thus, Section 267 is not being circumvented, and that, in this case, is 
+inapplicable
+ because there appears to be 
+no tax delinquency
+.
+ Following the Court's ruling in 
+NHA
+, the case must be remanded to the RTC for further proceedings to afford Taguig City the opportunity to dispute BHC's claim that it is not a delinquent taxpayer in relation to the subject two lots.
+ Thus, the position taken by the RTC, as affirmed by the CA, that "[s]o long as the plaintiff assails the validity of the tax sale at public auction then Section 267 is applicable"
+[76]
+ is unjustified for it disregards the intended purpose of the deposit requirement, the reason for the sale at public auction of the subject real property, its realty tax status and the kind of "taxpayer" contemplated therein.
+ If there is competent evidence that the realty tax due on the property subject of the tax sale has been seasonably and fully paid, then the deposit requirement under Section 267 does not serve its intended purpose and ceases to be jurisdictional
+.
+ 
+WHEREFORE
+, in view of the foregoing, the Petition is hereby 
+GRANTED
+. The Court of Appeals Decision dated November 29, 2012 and Resolution dated May 28, 2013 in CA-G.R. CV No. 96858 are 
+REVERSED
+ and 
+SET ASIDE
+. The case is 
+REMANDED
+ to the Regional Trial Court, Branch 271, Pasig City for further proceedings, to determine whether the subject two lots are delinquent in real property taxes and afford Taguig City the opportunity to dispute BHC's claim that it is not a delinquent taxpayer in relation to the subject two lots and to resolve the case accordingly. 
+ 
+SO ORDERED.
+ 
+ 
+Leonardo-de Castro
+ and 
+Perlas-Bernabe, JJ.
+, concur. 
+ 
+Sereno, C.J., (Chairperson),
+ see dissenting opinion.
+ 
+Del Castillo, J.
+, joins the dissent of 
+C.J. Sereno
+. 
+ 
+[1]
+ Also referred to as Beaumont 
+Holding
+ Corporation elsewhere in the 
+rollo
+. 
+ 
+[2]
+ Republic Act No. 7160, as amended.
+ 
+ 
+[3]
+ 
+Rollo
+, pp. 9-19 (exclusive of Annexes). The petition is captioned "Petition with Manifestation." 
+ 
+[4]
+ Id. at 166-174. Penned by Associate Justice Franchito N. Diamante, with Associate Justices Celia C. Librea-Leagogo and Melchor Q. C. Sadang concurring. 
+[5]
+ Fifteenth (15
+th
+) Division. 
+ 
+[6]
+ 
+Rollo
+, pp. 180-181. 
+ 
+[7]
+ Id. at 71-77. Penned by Presiding Judge Paz Esperanza M. Cortes. 
+ 
+[8]
+ Id. at 21-25 (exclusive of Annexes). 
+ 
+[9]
+ CA Decision, p. 2, id. at 167. 
+ 
+[10]
+ Rollo
+, pp. 26-27. 
+ 
+[11]
+ Id. at 28-29. 
+[12]
+ Id. at 21, 30-33. 
+[13]
+ Id. at 34-39. 
+[14]
+ Id. at 40. 
+ 
+[15]
+ CA Decision, p. 2, id. at 167. 
+ 
+[16]
+ Final Bills of Sale, p. 1, id. at 42 and 45. 
+ 
+[17]
+ Id. 
+[18]
+ Id. 
+ 
+[19]
+ Certificates of Sale of Delinquent Property to Purchaser, id. at 48-49; CA Decision, pp. 2-3, id. at 167-168. 
+[20]
+ Rollo
+, p. 58. 
+ 
+[21]
+ See id. at 41, 168. 
+ 
+[22]
+ Id. at 53, 59. 
+ 
+[23]
+ Id. at 60. 
+ 
+[24]
+ Id. at 42-47. 
+[25]
+ Id. at 21-25. 
+ 
+[26]
+ Id. at 22. 
+ 
+[27]
+ Id. at 23. 
+ 
+[28]
+ Id. at 50-56 (exclusive of Annexes). 
+ 
+[29]
+ Id. at 52-53. 
+[30]
+ Id. at 53-54. 
+ 
+[31]
+ Id. at 61-64. 
+ 
+[32]
+ Id. at 61-63. 
+[33]
+ Id. at 65-66. 
+ 
+[34]
+ Id. at 67-69. 
+ 
+[35]
+ Id. at 68. 
+[36]
+ Id. at 71-77. 
+ 
+[37]
+ Id. at 77. 
+ 
+[38]
+ Id. at 75-77. 
+ 
+[39]
+ Id. at 78-80. 
+ 
+[40]
+ Opposition to the Motion for Reconsideration, id. at 81-83. 
+ 
+[41]
+ Id. at 85-86. 
+[42]
+ Id. at 166-174. 
+[43]
+ Id. at 173. 
+ 
+[44]
+ Id. 
+[45]
+ Id. at 175-178. 
+ 
+[46]
+ Id. at 180-181. 
+ 
+[47]
+ Id. at 206-211. 
+ 
+[48]
+ Id. at 241-246. 
+ 
+[49]
+ 584 Phil. 604 (2008). 
+[50]
+ 761 Phil. 549(2015). 
+ 
+[51]
+ 609 Phil. 300 (2009). 
+ 
+[52]
+ Levy on Real Property. 
+ 
+[53]
+ Advertisement and Sale. 
+ 
+[54]
+ Advertisement of sale of real property at public auction. 
+ 
+[55]
+ REAL PROPERTY TAX CODE (1974). 
+ 
+[56]
+ 
+National Housing Authority v. Iloilo City
+, supra note 49, at 610-611. 
+ 
+[57]
+ 
+Rollo
+, pp. 42-44. 
+ 
+[58]
+ Id. at 42; emphasis supplied. 
+[59]
+ Id. at 45-47. 
+[60]
+ Id. at 45; emphasis supplied. 
+ 
+[61]
+ The period from the sale held on November 15, 2007 to the filing of the complaint on May 25, 2010 is approximately two years and six months or a total of 30 months.
+ 
+[62]
+ 
+Rollo
+, pp. 34-36. 
+ 
+[63]
+ Id. at 37-39. 
+[64]
+ Id. at 40. 
+[65]
+ Id. at 22. 
+[66]
+ 
+National Housing Authority v. Iloilo City
+, supra note 49, at 611-612. 
+ 
+[67]
+ 
+Rollo
+, p. 15 (with respect to the allegation); p. 40 (with respect to the receipt). 
+ 
+[68]
+ Id. at 34-39. 
+ 
+[69]
+ Id. at 34. 
+ 
+[70]
+ Id. at 37. 
+ 
+[71]
+ Statement of Accounts for the month of November 2007 issued by the Office of the Treasurer, Land Tax Division, id. at 35-36 and 38-39. 
+ 
+[72]
+ Certificates of Sale of Delinquent Property to Purchaser, id. at 48-49; CA Decision, pp. 2-3, id. at 167-168. 
+ 
+[73]
+ Rollo
+, pp. 34, 37. 
+ 
+[74]
+ Id. at 42, 45. 
+ 
+[75]
+ Id. at 40. 
+ 
+[76]
+ Id. at 75, 170. 
+ 
+ 
+ 
+DISSENTING OPINION
+ 
+ 
+SERENO, 
+CJ
+:
+ 
+ I am compelled to register my dissent from the opinion of the majority in this case, which allowed petitioner Beaumont Holdings Corporation to continue the action despite its non-compliance with the deposit requirement under Section 267 of the Local Government Code (LGC). A reading of the 
+ponencia 
+reveals that the majority ruling was based on a single premise - that hearings may be held to determine whether or not petitioner was a delinquent taxpayer, without requiring the payment of the required deposit.
+ 
+ Regrettably, I cannot support the foregoing conclusion. The majority decision goes against the unambiguous and unqualified language of Section 267. By allowing the trial court to hold hearings even for the limited purpose of resolving the delinquency issue, the majority has sanctioned a violation of the express command in Section 267 for courts 
+not
+ to entertain an action unless the deposit requirement is first satisfied.
+ It must also be emphasized that a plain reading of the provision supports the view that the deposit requirement is intended to apply to 
+any 
+action assailing the validity of a tax sale. The provision does not distinguish based on the type of issue raised. Where the law does not distinguish, the Court should not distinguish. 
+FACTUAL ANTECEDENTS
+ 
+ Before this Court is a Petition for Review on Certiorari filed by Beaumont Holdings Corporation to assail the Court of Appeals (CA) Decision
+[1]
+ and Resolution
+[2]
+ dated 29 November 2012 and 28 May 2013, respectively, in CA-G.R. CV No. 96858. The CA affirmed the Resolution
+[3]
+ issued by the Regional Trial Court (RTC) on 30 September 2010, which dismissed the Complaint
+[4]
+ filed by petitioner to annul the auction sale of the latter's two lots in Taguig City. The appellate court ruled that the RTC did not acquire jurisdiction over the case because of petitioner's failure to comply with the deposit requirement under Section 267 of Republic Act No. 7160 or the Local Government Code (LGC).
+[5]
+ 
+ Petitioner is the registered owner of two parcels of land located in Fort Bonifacio, Taguig City.
+[6]
+ These lots are covered by Transfer Certificates of Title (TCT) Nos. 1033-P
+[7]
+ and 1034-P.
+[8]
+ 
+ On 6 November 2007, the Taguig City Government sent a letter to petitioner requiring payment of real property taxes in the total amount of P414,132.18 within the month of November 2007.
+[9]
+ As indicated in the Statement of Account
+[10]
+ attached to the letter, this sum represented the real property taxes on the two lots for the years 2005, 2006, and the fourth quarter of 2007.
+[11]
+ The letter stated: 
+ 
+Attached herewith is your Statement of Account for Real Property Tax from year 2005 to 2006 and the 4
+th
+ Quarter of 2007, amounting to 
+Php411,238.68
+. Please settle this amount within the month of November to avoid penalties of 2% per month. This applies to current accounts only. 
+ 
+ We shall appreciate early remittance thereof, however, if payment has been made, please disregard this statement. Should a discrepancy exist between our billing and your records, kindly coordinate with our office immediately.
+ 
+ We thank you in advance for paying your taxes on time.
+[12]
+ (Emphasis in the original)
+ 
+ 
+ On 29 November 2007, petitioner paid the City Government of Taguig P825,370.86.
+[13]
+ A second payment in the amount of P370,753.69 was made on 30 January 2009.
+[14]
+ It appears, however, that prior to the reminder sent to petitioner on 6 November 2007, the two lots had already been declared delinquent,
+[15]
+ levied upon
+[16]
+ and advertised for sale
+[17]
+ by the Taguig City Government. The properties were eventually sold at public auction to respondent Mark Anthony Litonjua (Litonjua) on 15 November 2007,
+[18]
+ or 14 days prior to the first payment made by petitioner. 
+ On 7 December 2007, the Taguig City Treasurer sent a letter to petitioner informing it of the sale of the two lots.
+[19]
+ While acknowledging receipt of the first payment of P825,370.86, the City Treasurer reminded petitioner that the latter still had to pay the outstanding balance of P353,106.92, representing the costs of sale plus 2% interest on the entire amount, in order to redeem the property.
+[20]
+ Two other letters of the same tenor were sent to petitioner on 5 February 2008
+[21]
+ and 4 August 2008
+[22]
+ with updated computations of the amounts due.
+ On 6 February 2009, Final Bills of Sale
+[23]
+ were issued by the Taguig City Treasurer conveying the properties to Litonjua in view of petitioner's failure to redeem the properties within one year from the date of the auction sale.
+[24]
+ On 25 May 2010, petitioner filed a Complaint
+[25]
+ before the RTC against Atty. Rosario V. E. Reyes, OIC City Treasurer and chairperson of the Committee on Auction Sale of Taguig City; Wilfredo C. Villar, City Administrator; Francisco T. Endriga, City Assessor; Atty. Shiela F.B. Elbinias-Uyboco, City Assessment Department Head; and Litonjua, as the purchaser of the property.
+[26]
+ Petitioner sought to (a) nullify the public auction sale of its two lots and all other proceedings taken pursuant thereto; (b) enjoin the Register of Deeds from cancelling its titles over the property and from issuing new TCTs in the name of Litonjua; and (c) hold respondents liable for actual damages in the amount of P2 million.
+[27]
+ Petitioner alleged that the sale of its properties at auction was unjustified considering that it had remitted the required real property taxes before the deadline set by the City Government, i.e. "within the month of November 2007."
+[28]
+ On 2 July 2010, respondent city officials filed an Answer
+[29]
+ refuting petitioner's claims. They alleged that the subject lots were properly sold at auction, because petitioner had failed to pay its real property taxes for 2005, 2006 and 2007 despite several reminders.
+[30]
+ While acknowledging petitioner's payments, they maintained that the amount remitted was not enough to redeem the property as the 2% bidder's interest and costs of sale had not been paid.
+[31]
+ They likewise underscored petitioner's noncompliance with Section 267 of the LGC, which prescribes the requirements for actions assailing the validity of tax sales.
+[32]
+ Litonjua, for his part, filed a Motion to Dismiss
+[33]
+ the Complaint on the ground of lack of jurisdiction. He alleged that the failure of petitioner to comply with the conditions precedent to the filing of an action to challenge a tax sale, particularly its failure to deposit the amount required under Section 267, was fatal to his claim.
+[34]
+ In its Comment/Opposition to the Motion to Dismiss dated 15 July 2010,
+[35]
+ petitioner asserted that it was not obliged to comply with the deposit requirement under Section 267, because it was not the delinquent taxpayer referred to in the provision.
+[36]
+ It maintained that it had paid its real property taxes within the month of November 2007 as required by the City Government of Taguig.
+[37]
+ 
+THE RULING OF THE RTC
+ 
+ In a Resolution dated 30 September 2010,
+[38]
+ the RTC dismissed the Complaint for lack of jurisdiction.
+[39]
+ Rejecting the argument that the deposit requirement was not applicable to petitioner because it was not a delinquent taxpayer, the trial court stated: 
+ 
+ Therefore, whether or not the plaintiff is a delinquent taxpayer is of no moment in determining whether Section 267 is applicable herein. So long as the plaintiff assails the validity of the tax sale at public auction then Section 267 is applicable. As such, the plaintiff must deposit with the Court the amount for which the real property was sold together with interest of Two Percent (2%) per month from the date of sale to the time of the institution of the action. This had been so required by the Supreme Court in the case of National Housing Authority vs. Iloilo City, et al. x x x
+ 
+ x x x x
+ 
+ The plaintiff, by arguing that Section 267 is not applicable to them because they are not delinquent taxpayer [sic], implicitly admits that they had not complied with Section 267. Thus the Motion to Dismiss is meritorious. 
+ 
+ WHEREFORE, premises considered, the Motion to Dismiss is hereby GRANTED. 
+ 
+ Let the case be DISMISSED.
+[40]
+ 
+ 
+ Petitioner's Motion for Reconsideration
+[41]
+ was denied by the RTC in a Resolution dated 17 February 2011.
+[42]
+ 
+THE RULING OF THE CA
+ 
+ On 1 April 2011, petitioner filed an appeal with the CA to challenge the dismissal of the Complaint.
+[43]
+ Affirming the ruling of the RTC, however, the appellate court held in a Decision dated 29 November 2012: 
+ 
+ We find no legal leg to stand on the herein appellant's contention that since it is not a delinquent taxpayer, Section 267 of R.A. 7160 is not applicable in the present case. We are more convinced with the declaration of the trial court, thus: 
+ 
+ 
+ xxx whether or not the plaintiff is a delinquent taxpayer is of no moment in determining whether Section 267 is applicable herein. 
+So long as the plaintiff assails the validity of the tax sale at public auction then Section 267 is applicable
+. xxx (Emphasis supplied)
+ 
+ 
+ x x x x
+ 
+ 
+ The High Court, in 
+National Housing Authority v. Iloilo City
+, held that the deposit required under Section 267 of the Local Government code is a jurisdictional requirement, the non-payment of which warrants the dismissal of the action. Because the herein appellant did not make such deposit, the lower court never acquired jurisdiction over the present complaint hence, justifies the dismissal thereof. Perforce, We find no reason to depart from the move of the lower court in dismissing the present case.
+[44]
+ (Citations omitted; emphases in the original)
+ On 28 May 2013, the CA issued a Resolution
+[45]
+ denying petitioner's Motion for Reconsideration.
+[46]
+ 
+ 
+PROCEEDINGS BEFORE THIS COURT
+ 
+Petitioner asserts that the CA gravely erred in affirming the dismissal of the Complaint for failure to comply with the deposit requirement in Section 267.
+[47]
+ Petitioner maintains that the provision, when construed in its totality, applies only to delinquent taxpayers.
+[48]
+ Since it supposedly paid its real property taxes on time, i.e. within the month of November 2007, which was the cut-off date indicated in the letters dated 6 November 2007 sent by the Taguig City Government,
+[49]
+ petitioner contends that it cannot be required to make the deposit.
+[50]
+ 
+ In a Comment
+[51]
+ dated 7 December 2013, Litonjua again highlights petitioner's noncompliance with the deposit requirement under Section 267. This omission, he asserts, warrants the dismissal of the Complaint.
+[52]
+ 
+ Respondent city officials also filed a Comment
+[53]
+ dated 4 February 2014, in which they emphasize that Section 267 applies to any "taxpayer" questioning the sale of real property at public auction. They argue that to construe the requirement as applicable only to a delinquent taxpayer would render Section 267 ineffective, as that interpretation would allow anyone to evade compliance so long as the latter claim to have paid their taxes on time.
+[54]
+ The majority granted the Petition. In the Decision, it was declared that the precondition for the operation of Section 267 is the realty tax delinquency of the property. This case was therefore remanded to the RTC, with a directive to undertake proceedings to determine whether petitioner is a delinquent taxpayer. 
+I 
+DISSENT
+ from the view of the majority. For the reasons stated hereunder, I believe the Petition should be denied. 
+ 
+ 
+The RTC and the CA correctly dismissed petitioner's Complaint for lack of jurisdiction.
+ 
+ 
+ 
+Section 267 of the LGC prevents a court from entertaining a suit for the annulment of a tax sale, unless the taxpayer who brought the suit pays an amount equivalent to the purchase price paid at public auction plus two percent (2%) interest per month from the date of the sale up to the time of the institution of the action. Failure to comply with this prerequisite deprives a court of jurisdiction and is deemed a sufficient ground for the outright dismissal of the action. In 
+National, Housing Authority (NHA) v. Iloilo City
+,
+[55]
+ this Court explained that the plain and unequivocal language of Section 267 admits of no other interpretation: 
+ 
+ As is apparent from a reading of the foregoing provision, a deposit equivalent to the amount of the sale at public auction plus two percent (2%) interest per month from the date of the sale to the time the court action is instituted is a condition â a "prerequisite", to borrow the term used by the acknowledged father of the Local Government Code â which must be satisfied before the court can entertain any action assailing the validity of the public auction sale. 
+The law, in plain and unequivocal language, prevents the court from entertaining a suit unless a deposit is made. 
+This is evident from the use of the word "shall" in the first sentence of Sect: on 267. 
+Otherwise stilted, the deposit is a jurisdictional requirement the nonpayment of which warrants the failure of the action.
+[56]
+ (Emphases supplied)
+ 
+ 
+ The foregoing pronouncements were reiterated by this Court in 
+Gamilla v. Burgundy Realty Corp
+.,
+[57]
+ and 
+Spouses Wong v. City of Iloilo
+.
+[58]
+ 
+ While the delinquency of the properties involved was never questioned in the foregoing cases, it must be emphasized that our interpretation of Section 267 was based on the language of the provision
+[59]
+ and nothing else. The pronouncements therein were not dependent on the specific allegations of the taxpayers. That same interpretation must therefore be applied to this case.
+ The deposit in Section 267 is an "ingenious legal device" through which the law ensures that purchasers can be reimbursed for the price they have paid at the auction sale should the court declare the sale invalid.
+[60]
+ In this way, the local government unit is able to retain the bid price regardless of the final outcome of the suit, thereby ensuring the satisfaction of the tax delinquency.
+[61]
+ Consistent with this ultimate purpose, the deposit requirement has been considered applicable to
+ all 
+"initiatory actions assailing the validity of tax sales."
+[62]
+ The use of the terms "entertain" and "institution" in the first paragraph of Section 267 supports this broad interpretation.
+[63]
+ The foregoing cases evidently apply to the case at bar, as the action filed by petitioner before the RTC seeks to invalidate the tax auction sale of its properties. The Complaint states: 
+ In view of the foregoing, there being no valid justification to sell plaintiff's property in public auction, the same and all other proceedings taken, thereafter, including the Final Bills of Sale and the Certificates of Sale issued to private defendant Mark Anthony M. Litonjua as inscribed in the plaintiff's titles should be annulled and cancelled ownership and issuing new Transfer Certificates of Title, in favor of private defendant Mark Anthony M. Litonjua; 
+ 
+ 
+x x x x
+ 
+WHEREFORE, premises considered, it is respectfully prayed that a judgment be rendered by this Honorable Court, as follows: 
+ 
+ 
+ 
+ 
+(1)
+ 
+Nullifying the public auction sale held on November 15, 2007, and all other subsequent proceedings taken by defendants, including the execution and annotation of the Final Bill of Sale and the Certificate of sale issued to Mark Anthony M. Litonjua with respect to subject plaintiff's property covered by Transfer Certificates of Title Nos. 1033-Pand 1034-P;
+[64]
+ 
+ 
+ 
+ 
+ 
+ 
+Given the nature of petitioner's action and its admitted failure to deposit the amount required by Section 267,
+[65]
+ the RTC and the CA had no choice but to dismiss the Petition for lack of jurisdiction. 
+ 
+ 
+ 
+The deposit requirement in Section 267 applies to 
+all 
+taxpayers seeking the annulment of a tax sale under Book III, Title II of the LGC.
+ 
+ 
+ 
+In an attempt to exempt itself from the deposit requirement, petitioner advances a single argument - it contends that it is not required to pay the deposit under Section 267 because it is 
+not
+ a delinquent taxpayer.
+[66]
+ The sole basis of its proposed interpretation of the first paragraph of Section 267 is the use of the phrase "delinquent owner of the real property" in the second paragraph of the same provision. It argues:
+ 
+ 
+ That with due respect. Section 267 itself would show that it refers to a delinquent taxpayer, thus there would be no basis to require the petitioner to make such deposit so that the lower court could take cognizance of the complaint for as above-shown, petitioner was not a delinquent taxpayer. Section 267 states - "x x x x Neither shall any court declare a sale at public auction invalid by reasons of irregularities or informalities in the proceedings unless the substantive rights of the 
+delinquent owner
+ of the real property or the person having legal interest therein have been impaired." x x x Clearly, Section 267 refers to a delinquent taxpayer. 
+[67]
+ (Emphasis in the original)
+ 
+ 
+ Petitioner claims that the use of the word "delinquent" in this segment means that the entire Section 267, including the first paragraph requiring a deposit, may be applied only to a delinquent taxpayer.
+ I am not persuaded.
+ The plain language of the provision reveals that the law does not support petitioner's proposed interpretation. To begin with, the first paragraph of Section 267 speaks only of a "taxpayer" who brings an action to annul a tax sale conducted under Book III, Title II of the LGC, on real property taxation. By definition, a "taxpayer" is "one who pays or is subject to a tax."
+[68]
+ Since the term is used in its general sense without qualification, the Court must consider it as referring to 
+any person
+ who (a) is subject to real property taxes under the LGC; and (b) seeks to challenge the validity of the sale at public auction of real property or rights. There is nothing in the provision to indicate that its application is limited to delinquent taxpayers. 
+Ubi lex non distinguit nec nos distinguere debemos
+. Where the law does not distinguish, the court should not distinguish.
+ Further, it is an established principle of statutory construction that the legislature is presumed to have known the meaning of the words in the statute and to have used these words advisedly to express its true intent.
+[69]
+ Where general words are used, their natural meaning cannot be restricted by other words, unless the legislative intention to do so is clear and manifest.
+[70]
+ 
+ In this case, the general and encompassing term "taxpayer" must be held to embrace all those subject to tax under Section 267, unless there is proof that the legislature intended to limit the application of this provision to a certain type of taxpayer. However, other than the use of the phrase "delinquent owner" in the second paragraph of Section 267, petitioner has failed to present proof of that intent. Accordingly, this Court should not have gone beyond the plain meaning of the provision. 
+In my view, had the legislature intended the deposit requirement to apply only to a delinquent taxpayer, rather than to all taxpayers, it would have used appropriate words to convey this intention. In fact, the legislature utilized a distinct terminology in the two paragraphs of Section 267 to highlight the difference between the conditions imposed in actions seeking the annulment of tax sales. While the deposit requirement in the first paragraph was made applicable to a 
+taxpayer 
+in general, the second one referred specifically to the impairment of the substantive rights of a 
+delinquent owner 
+of real property or a person legally interested therein: 
+ 
+ Sec. 267. Action Assailing Validity of Tax Sale. â 
+No court shall entertain any action assailing the validity of any sale at public auction of real property or rights therein under this Title until 
+the taxpayer
+ shall have deposited with the court the amount for which the real property was sold, together with interest of two percent (2%) per month from the date of sale to the time of the institution of the action.
+ The amount so deposited shall be paid to the purchaser at the auction sale if the deed is declared invalid but it shall be returned to the depositor if the action fails.
+ 
+ Neither shall any court declare a sale at public auction invalid by reason of irregularities or informalities in the proceedings 
+unless the substantive rights of the 
+delinquent owner
+ of the real property or the 
+person having legal interest
+ therein have been impaired
+. (Emphases supplied)
+ 
+ 
+ There is no reason for the Court to deviate from the language of the statute. Petitioner is a taxpayer under the LGC, and it has initiated an action to annul a tax sale under Book III, Title II of the same code. Hence, it is covered by the language of Section 267 and must be required to comply with the deposit requirement in the first paragraph of the provision.
+ The interpretation accorded by the majority to Section 267 has effectively rendered the provision illogical and completely meaningless. The issue of delinquency is a factual matter that may only be resolved after the presentation of evidence of a taxpayer's failure to pay taxes within the period "authorized by law to make such payments without being subjected to the payment of penalties."
+[71]
+ Since courts are prohibited from entertaining an action to annul a tax sale 
+until 
+the taxpayer pays the required deposit, it would be impossible to hold the proceedings necessary to decide this question prior to compliance with the requirement.
+ By allowing the trial court to hold hearings even for the limited purpose of resolving the delinquency issue, the majority has sanctioned a violation of the express command in Section 267 for courts 
+not 
+to entertain an action unless the deposit requirement is first satisfied. Their interpretation of Section 267 has likewise rendered the provision inutile, as it allows litigants to easily circumvent the deposit requirement by the mere expedient of contesting the delinquent status of the property. I cannot agree to this interpretation.
+ Accordingly, I hereby 
+DISSENT
+. 
+ 
+[1]
+ 
+Rollo
+, pp. 166-174; penned by Associate Justice Franchito N. Diamante and concurred in by Associate Justices Celia C. Librea-Leagogo and Melchor Q.C. Sadang. 
+[2]
+ Id. at 180-181.
+ 
+ 
+[3]
+ Id. at 71-77; penned by Presiding Judge Paz Esperanza M. Cortes.
+ 
+ 
+[4]
+ Id. at 21-25.
+ 
+ 
+[5]
+ Id. at 74-76; 171-173. 
+ 
+[6]
+ Id. at 167. 
+ 
+[7]
+ Id. at 26-27. 
+[8]
+ Id. at 28-29. 
+ 
+[9]
+ Id. at 34. 
+ 
+[10]
+ Id. at 35-36. 
+ 
+[11]
+ Id. 
+ 
+[12]
+ Id. at 37. 
+[13]
+ Id. at 40, 167. 
+[14]
+ Id. at 41, 168. 
+ 
+[15]
+ Id. at 167. 
+[16]
+ Id. 
+ 
+[17]
+ Id. at 168. 
+ 
+[18]
+ Id. 
+ 
+[19]
+ Id. at 58. 
+[20]
+ Id. 
+ 
+[21]
+ Id. at 59 
+[22]
+ Id. at 60. 
+[23]
+ Id. at 42-47. 
+ 
+[24]
+ Id. 
+ 
+[25]
+ Id. at 21-25. 
+[26]
+ Id. at 23. 
+[27]
+ Id. 
+[28]
+ Id. at 22. 
+ 
+[29]
+ Id. at 50-56. 
+ 
+[30]
+ Id. at 52. 
+ 
+[31]
+ Id. 
+[32]
+ Id. at 53-54. 
+ 
+[33]
+ Id. at 61-64. 
+[34]
+ Id. 
+ 
+[35]
+ Id. at 67-69. 
+[36]
+ Id. at 68. 
+[37]
+ Id. 
+[38]
+ Id. at 71-77. 
+[39]
+ Id. at 77. 
+[40]
+ Id. at 75-77. 
+ 
+[41]
+ Id. at 78-80. 
+[42]
+ Id. at 85-86. 
+ 
+[43]
+ Id. at 87. 
+[44]
+ Id. at 170, 173. 
+ 
+[45]
+ Id. at 180-181. 
+[46]
+ Id. at 175-178 
+ 
+[47]
+ Id. at 13. 
+[48]
+ Id. at 15. 
+[49]
+ Id. at 14, 34-39. 
+[50]
+ Id. at 15. 
+ 
+[51]
+ Id. at 206-211. 
+[52]
+ Id. at 209. 
+ 
+[53]
+ Id. at 241-246. 
+[54]
+ Id. at 243. 
+[55]
+ 584 Phil. 604 (2008). 
+[56]
+ Id. at 610. 
+[57]
+ In 
+Gamilla v. Burgundy Really Corp
+., G.R. No. 212246, 22 June 2015, it was explained: 
+ 
+ "On the first issue, the CA erred in taking cognizance of the case. 
+Section 267 of R.A. No. 7160 explicitly provides that a court shall not entertain any action assailing the validity or sale at public auction of real property unless the taxpayer deposits with the court the amount for which the real property was sold, together with interest of two percent (2%) per month from the date of sale to the time of the institution of the action. This condition is a jurisdictional requirement, the nonpayment of which warrants the dismissal of the action.
+ Considering that BRC did not make such deposit, the RTC should not have acted on the opposition of BRC." 
+ 
+ 
+[58]
+ In 
+Spouses Wong v. City of Iloilo
+, 609 Phil. 300 (2009), the Court declared: 
+ 
+"Section 83 of PD 464 states that the RTC shall not entertain any complaint assailing the validity of a tax sale of real property unless the complainant deposits with the court the amount for which the said property was sold plus interest equivalent to 20% per annum from the date of sale until the institution of the complaint. This provision was adopted in Section 267 of the Local Government Code, albeit the increase in the prescribed rate of interest to 2% per month. 
+ 
+In this regard, National Housing Authority v. Iloilo City holds that 
+the deposit required under Section 267 of the Local Government Code is a jurisdictional requirement, the nonpayment of which warrants the dismissal of the action. Because petitioners in this case did not make such deposit, the RTC never acquired jurisdiction over the complaints.
+" 
+ 
+ 
+ 
+[59]
+ Supra notes 55, 57 and 58. 
+[60]
+ Id. at 611. 
+[61]
+ Id. 
+[62]
+ 
+Spouses Plaza v. Lustiva
+, G.R. No. 172909, 5 March 2014. 
+ 
+[63]
+ Id. 
+[64]
+ 
+Rollo
+, pp. 22-23. 
+[65]
+ Id. at 9-20; 67-69; 90-97. 
+[66]
+ 
+Rollo
+, pp. 14-15. 
+[67]
+ Id. at 15. 
+ 
+[68]
+ Black's Law Dictionary, 1600 (9th ed. 2009). 
+ 
+[69]
+ 
+PAGCOR v. Philippine Gaming Jurisdiction Inc.
+, G.R. No. 177333, 604 Phil. 547 (2009). 
+[70]
+ 
+Tolentino v. Catoy
+, 82 Phil. 300 (1948). 
+ 
+[71]
+ 
+Padilla v. City of Pasay
+, 132 Phil. 743-753 (1968). 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

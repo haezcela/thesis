@@ -1,0 +1,493 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			738 Phil. 243
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 193796, July 02, 2014 ]
+
+
+LAND BANK OF THE PHILIPPINES, PETITIONER, VS. ATLANTA INDUSTRIES, INC., RESPONDENT.
+D E C I S I O N
+
+
+
+
+PERLAS-BERNABE, J.:
+
+
+This is a direct recourse
+[1]
+ to the Court from the Decision
+[2]
+dated September 3, 2010 of the Regional Trial Court of Manila, Branch 21 (Manila RTC) in Civil Case No. 09-122643 which declared null and void the results of the re-bidding for the supply of water pipes conducted by the Bids and Awards Committee (BAC) of the City Government of Iligan due to the use of bidding documents outside of the rules and procedures prescribed under Republic Act No. (RA) 9184,
+[3]
+ otherwise known as the âGovernment Procurement Act.â
+The Facts
+On October 3, 2006, Land Bank of the Philippines (Land Bank) and the International Bank for Reconstruction and Development
+[4]
+ (IBRD) entered into Loan Agreement No. 4833-PH
+[5]
+ for the implementation of the IBRDâs âSupport for Strategic Local Development and Investment Projectâ (S2LDIP).  The loan facility in the amount of JP
+Y
+11,710,000,000.00 was fully guaranteed by the Government of the Philippines and conditioned upon the participation of at least two (2) local government units by way of a Subsidiary Loan Agreement (SLA) with Land Bank.
+[6]
+On February 22, 2007, Land Bank entered into an SLA
+[7]
+with the City Government of Iligan to finance the development and expansion of the cityâs water supply system, which had two (2) components, namely: (
+a
+) the procurement of civil works; and (
+b
+) the procurement of goods for the supply and delivery of various sizes of PE 100 HDPE pipes and fittings.
+[8]
+ 
+The SLA expressly provided that the goods, works, and services to be financed out of the proceeds of the loan with Land Bank 
+were to be âprocured in accordance with the provisions of Section I of the âGuidelines: Procurement under IBRD Loans and IDA Creditsâ x x x, and with the provisions of [the] Schedule 4
+.â
+[9]
+ Accordingly, the City Government of Iligan, through its BAC, conducted a public bidding for the supply and delivery of various sizes of PE 100 HDPE pipes and fittings 
+using the IBRD Procurement Guidelines.
+[10]
+Respondent Atlanta Industries, Inc. (Atlanta) participated in the said bidding and came up with the second to the lowest bid in the amount of P193,959,354.34.
+[11]
+ However, in a letter
+[12]
+ dated July 27, 2009, the BAC informed Atlanta that the bidding was declared a failure upon the recommendation of Land Bank due to the IBRDâs non-concurrence with the Bid Evaluation Report. Moreover, in a letter
+[13]
+ dated August 28, 2009, the BAC informed Atlanta of its disqualification from the bidding because it lacked several documentary requirements.
+In response, Atlanta, through a letter
+[14]
+ dated September 8, 2009, sought to correct the BACâs erroneous assumption that it failed to submit the necessary documents and to have its disqualification reconsidered. It expressed its objection against the BACâs declaration of a failure of bidding, asserting that had it not been improperly disqualified there would have also been no need to declare the bidding a failure because its tender would be the sole responsive bid necessary to save the bid process.
+[15]
+However, in a Resolution
+[16]
+ dated September 25, 2009, the BAC deemed it futile to reconsider Atlantaâs disqualification in view of the fact that the bidding had already been declared a failure because of noted violations of the IBRD Procurement Guidelines and that, unless the BAC conducts a new bidding on the project, it would not be able to obtain a âno objectionâ from the World Bank.  Atlanta did not pursue the matter further with the BAC and opted, instead, to participate in the re-bidding of the project, the notice of which was published a new on October 30, 2009.
+[17]
+This notwithstanding, Atlanta, in a letter
+[18]
+ dated November 16, 2009, called the BACâs attention to its use of Bidding Documents
+[19]
+ which, as it purported, not only failed to conform with the Third Edition of the Philippine Bidding Documents for the Procurement of Goods (PBDs)
+[20] 
+prescribed by the Government Procurement Policy Board (GPPB) but also contained numerous provisions that were not in accordance with RA 9184 and its Implementing Rules and Regulations(IRR). During the pre-bid conference, the BAC declared that the project was not covered by RA 9184 or by any of the GPPBâs issuances. It further announced that the bid opening would be conducted on December 14, 2009.
+[21]
+Apprehensive of the BACâs use of bidding documents that appeared to be in contravention of RA 9184 and its IRR, Atlanta filed on December 10, 2009 a Petition for Prohibition and Mandamus
+[22]
+ with an urgent prayer for the issuance of a temporary restraining order (TRO) and/or writ of preliminary injunction to enjoin the re-bidding of the project against the City Government of Iligan, the BAC, and Land Bank before the Manila RTC, docketed as Civil Case No. 09-122643 (Petition for Prohibition).
+In their separate comments on the said petition, Land Bank and the BAC asserted that the case was dismissible for improper venue, mootness, non-exhaustion of administrative remedies, failure to implead an indispensable party, and the inapplicability of RA 9184.
+[23]
+In the meantime, with Atlantaâs Urgent 
+Ex Parte
+ Motion for the Issuance of a 72-Hour TRO and Special Raffle
+[24]
+ having been denied,
+[25]
+ the re-bidding of the project was conducted (as scheduled on December 14, 2009), with four (4) bidders participating and submitting the following bids:
+ 
+ 
+1. Atlanta Industries, Inc. 
+ 
+P141,289,680.50
+ 
+ 
+ 
+2. Moldex Products, Inc. 
+ 
+P172,727,052.49
+ 
+ 
+ 
+3. Dong Won Plastics, Inc. 
+ 
+P189,184,599.74
+ 
+ 
+ 
+4. Thai-Asia/Junnie Industries
+ 
+P191,900.020.00
+[26]
+ 
+ 
+Thereupon, the case proceeded with the partiesâ submission of their respective memoranda
+[27]
+ and the denial of Atlantaâs prayer for the issuance of an injunctive writ.
+[28]
+The Manila RTC Ruling
+In a Decision
+[29]
+ dated September 3, 2010, the Manila RTC declared the subject bidding null and void on the ground that it was done contrary to the rules and procedure prescribed in RA 9184 and its IRR. Consequently, it enjoined the City Government of Iligan and its BAC from entering into and/or implementing the contract for the supply of water pipes with Moldex Products, Inc.
+[30]
+The Manila RTC also ruled that the City Government of Iligan cannot claim exemption from the application of RA 9184 and its IRR by virtue of Loan Agreement No. 4833-PH with the IBRD because it was Land Bank, and not the City Government of Iligan, which was the party to the same.  Moreover, it held that the IBRD could not have passed on its status as an international institution exempt from RA 9184 simply because it loaned money to Land Bank.
+[31]
+  It added that the SLA subsequently executed by Land Bank with the City Government of Iligan cannot validly provide for the use of bidding procedures different from those provided under RA 9184 because the said SLA is not in the nature of an international agreement similar to the Loan Agreement with the IBRD.
+[32]
+The Manila RTC finally concluded that in view of GPPB Resolution No. 05-2009 (September 30, 2009) which requires âall branches, agencies, departments, bureaus, offices and instrumentalities of the Government, including x xx local government units x x x to use the Philippine Bidding Documents Third Edition for all their procurement activities,â the City Government of Iligan and its BAC exceeded their jurisdiction in conducting the public bidding using the questioned bidding documents.
+[33]
+Dissatisfied, Land Bank elevated the matter directly to the Court, vigorously asserting, among others, that: (a) venue was improperly laid; and (b) the public bidding for the supply of water pipes to the City of Iliganâs Water Supply System Development and Expansion Project is exempt from the application of RA 9184 and its IRR by virtue of the SLA being a related and subordinate covenant to Loan Agreement No. 4833-PH.
+[34]
+The Issues Before the Court
+The main issues presented for the Courtâs resolution are: (
+a
+) whether or not the Manila RTC has jurisdiction over the instant prohibition case and eventually issue the writ prayed for; and (
+b
+)whether or not the SLA between the Land Bank and the City Government of Iligan is an executive agreement similar to Loan Agreement No. 4833-PH such that the procurement of water pipes by the BAC of the City Government of Iligan should be deemed exempt from the application of RA 9184.
+The Courtâs Ruling
+The petition is meritorious.
+The Court first resolves the procedural issues of this case, then proceeds to its substantive aspects.
+PROCEDURAL ISSUES:
+THE MANILA RTCâS LACK OF JURISDICTION TO ISSUE THE WRIT OF PROHIBITION SUBJECT OF THIS CASE; AND ATLANTAâS FAILURE TO EXHAUST ADMINISTRATIVE REMEDIES.
+____________________________________
+Preliminarily, Land Bank asserts that the Petition for Prohibition was improperly filed before the Manila RTC considering that the acts sought to be enjoined,
+ i.e.
+, the public bidding for the supply of water pipes, are beyond the said courtâs territorial jurisdiction.
+[35]
+ Atlanta, for its part, counter-argues that the acts of Land Bank are as much to be enjoined for causing the City Government of Iligan and its BAC to continuously violate the provisions of RA 9184, its IRR, and the PBDs in the conduct of the public bidding
+[36]
+ and that the filing of the prohibition case in the City of Manila was in accordance with the rules on venue given that Land Bankâs main office is in the City of Manila.
+[37]
+The Court finds for Land Bank.
+A petition for prohibition is a special civil action that seeks for a judgment ordering the respondent to desist from continuing with the commission of an act perceived to be illegal. Section 2, Rule 65 of the Rules of Court (Rules) reads:
+Sec. 2. 
+Petition for Prohibition
+. - When the proceedings of any tribunal, corporation, board, officer or person, whether exercising judicial, quasi-judicial or ministerial functions, are without or in excess of its or his jurisdiction, or with grave abuse of discretion amounting to lack or excess of jurisdiction, and there is no appeal or any other plain, speedy, and adequate remedy in the ordinary course of law, a person aggrieved thereby may file a verified petition in the proper court, alleging the facts with certainty and 
+praying that judgment be rendered commanding the respondent to desist from further proceedings in the action or matter specified therein
+, or otherwise granting such incidental reliefs as law and justice may require.
+x x x x (Emphasis supplied)
+While the Court, Court of Appeals and Regional Trial Court have original concurrent jurisdiction to issue writs of 
+certiorari,
+ prohibition and mandamus, if what is assailed relates to âacts or omissions of a lower court or of a corporation, board, officer or person,â the petition must be filed âin the Regional Trial Court exercising jurisdiction over the territorial area as defined by the Court.â Section 4 of the same Rules provides that:
+Sec. 4.
+ When and Where to file the petition.
+ - The petition shall be filed not later than sixty (60) days from notice of the judgment, order or resolution. In case a motion for reconsideration or new trial is timely filed, whether such motion is required or not, the petition shall be filed not later than sixty (60) days counted from the notice of the denial of the motion.
+If the petition relates to an act or an omission of a municipal trial court or of a corporation, a board, an officer or a person, it shall be filed with the Regional Trial Court exercising jurisdiction over the territorial area as defined by the Supreme Court
+. It may also be filed with the Court of Appeals or with the Sandiganbayan, whether or not the same is in aid of the courtâs appellate jurisdiction. If the petition involves an act or an omission of a quasi-judicial agency, unless otherwise provided by law or these rules, the petition shall be filed with and be cognizable only by the Court of Appeals.
+x x x x (Emphasis supplied)
+The foregoing rule corresponds to Section 21 (1) of Batas Pambansa Blg. 129,
+[38]
+ otherwise known as âThe Judiciary Reorganization Act of 1980â (BP 129), which gives Regional Trial Courts original jurisdiction over cases of 
+certiorari
+, prohibition, 
+mandamus, quo warranto, habeas corpus
+, and injunction but lays down the limitation that the writs issued therein are enforceable only within their respective territorial jurisdictions.The pertinent provision reads:
+Sec. 21. Original jurisdiction in other cases.â Regional Trial Courts shall exercise original jurisdiction:
+(1)  In the issuance of writs of certiorari, prohibition, mandamus, quo warranto, habeas corpus and injunction, which 
+may be enforced in any part of their respective regions
+;
+x x x x (Emphasis supplied)
+The Court already ruled in numerous cases, beginning with the very early case of 
+CastaÃ±o v. Lobingier
+,
+[39]
+ that the power to administer justice conferred upon judges of the Regional Trial Courts, formerly Courts of First Instance(CFI), can only be exercised within the limits of their respective districts, outside of which they have no jurisdiction whatsoever. Applying previous legislation similar to the present Section 21 of BP 129 and its complementary provision,
+ i.e.
+, Section 4, Rule 65 of the Rules, the Court held in said case that the CFI of Leyte had no power to issue writs of injunction and 
+certiorari 
+against the Justice of the Peace of Manila, as the same was outside the territorial boundaries of the issuing court. Also, in 
+Samar Mining Co., Inc. v. Arnado,
+[40] 
+a petition for
+ certiorari
+ and prohibition with preliminary injunction was filed in the CFI of Manila to question the authority of the Regional Administrator and Labor Attorney of the Department of Labor in Cebu City to hear a complaint for sickness compensation in Catbalogan, Samar and to enjoin said respondents from conducting further proceedings thereat. The Court affirmed the dismissal of the case on the ground of improper venue, holding that the CFI of Manila had no authority to issue writs of injunction, 
+certiorari,
+ and prohibition affecting persons outside its territorial boundaries. Further, in both 
+Cudiamat v. Torres (Cudiamat)
+[41] 
+and National Waterworks and Sewerage Authority v. Reyes
+[42]
+ (NAWASA), the losing bidders succeeded in securing an injunctive writ from the CFI of Rizal in order to restrain, in 
+Cudiamat,
+ the implementation of an award on a public bidding for the supply of a police call and signal box system for the City of Manila, and, in 
+NAWASA,
+ the conduct of the public bidding for the supply of steel pipes for its Manila and Suburbs Waterworks Project. The Court held in both cases that the injunction issued by the CFI of Rizal purporting to restrain acts outside the province of Rizal was null and void for want of jurisdiction.
+Undoubtedly, applying the aforementioned precepts and pronouncements to the instant case, the writ of prohibition issued by the Manila RTC in order to restrain acts beyond the bounds of the territorial limits of its jurisdiction (
+i.e.,
+ in Iligan City) is null and void.
+Also on a matter of procedure, the Court further discerns that the Manila RTC should have dismissed the case outright for failure of Atlanta to exhaust administrative remedies. Under RA 9184, the decisions of the BAC in all stages of procurement may be protested to the head of the procuring entity through a verified position paper and upon payment of a protest fee.
+[43]
+ The necessity for the complaining bid participant to complete the protest process before resorting to court action cannot be overemphasized. It is a condition precedent to the courtâs taking cognizance of an action that assails a bid process.
+[44]
+ When precipitately taken prior to the completion of the protest process, such case shall be dismissed for lack of jurisdiction.
+[45]
+ While Atlanta may have written the BAC a letter objecting to some of the terms and conditions contained in the bidding documents to be used for the re-bidding, its action fell short of the required protest. It failed to follow through with its protest and opted instead to participate in the re-bidding with full knowledge that the IBRD Procurement Guidelines were to be followed throughout the conduct of the bid. Having failed to observe the protest procedure required by law, Atlantaâs case should not have prospered with the RTC altogether.
+With the procedural matters having been resolved, the Court now proceeds to discuss the substantive aspect of this case concerning the SLA and Land Bankâs claimed exemption from the provisions of RA 9184.
+SUBSTANTIVE ISSUES:
+THE APPLICABILITY OF THE BIDDING PROCEDURE UNDER RA 9184; AND THE NATURE OF LOAN NO. 4833-PH AND ITS RELATION TO THE SLA.
+____________________________________
+While mandating adherence to the general policy of the government that contracts for the procurement of civil works or supply of goods and equipment shall be undertaken only after competitive public bidding, RA 9184 recognizes the countryâs commitment to abide by its obligations under any treaty or international or executive agreement. This is pertinently provided in Section 4 of RA 9184 which reads as follows:
+Sec. 4. 
+Scope and Application
+. â This Act shall apply to the Procurement of Infrastructure Projects, Goods and Consulting Services, regardless of source of funds, whether local or foreign, by all branches and instrumentalities of the government, its department, offices and agencies, including government owned and/or - controlled corporations and local government units, subject to the provisions of Commonwealth Act No. 138.  
+Any treaty or international or executive agreement affecting the subject matter of this Act to which the Philippine government is a signatory shall be observed.
+ (Emphasis supplied)
+The IRR of RA 9184 further supplements the lawâs treatment of treaties and international or executive agreements as follows:
+Section 4. Scope and Application of the IRR
+ 
+ 
+4.1
+ 
+This IRR shall apply to all procurement of any branch, agency, department, bureau, office or instrumentality of the GOP, including government-owned and/or -controlled corporations (GOCCs), government financial institutions (GFIs), state universities and colleges (SUCs) and local government units (LGUs).
+ 
+ 
+ 
+4.2
+ 
+ 
+Any Treaty or International or Executive Agreement to which the GOP is a signatory affecting the subject matter of the Act and this IRR shall be observed. In case of conflict between the terms of the Treaty or International or Executive Agreement and this IRR, the former shall prevail.
+ 
+ 
+ 
+4.3 
+ 
+Unless the Treaty or International or Executive Agreement expressly provides use of foreign government/foreign or international financing institution procurement procedures and guidelines,
+ this IRR shall apply to Foreign-funded Procurement for goods, infrastructure projects, and consulting services by the GOP.
+ 
+ 
+ 
+ 
+Consistent with the policies and principles set forth in Sections 2 and 3 of this IRR, the GOP negotiating panels shall adopt, as its default position, use of this IRR, or at the very least, selection through competitive bidding, in all Foreign-funded Procurement. If the Treaty or International or Executive Agreement states otherwise, then the negotiating panels shall explain in writing the reasons therefor. (Emphasis supplied)
+ 
+ 
+While Atlanta admits that there are exceptions to the application of RA 9184, it posits that the City Government of Iligan could not claim to be exempt under any of the enumerated instances because it is not a party to the IBRD Loan Agreement.
+[46]
+  It further asserts that a provision in the SLA between Land Bank and the City Government of Iligan providing for procurement procedures different from that required under RA 9184 would not be valid since it is not a treaty or an executive agreement in the way that Loan Agreement No. 4833-PH is.
+The argument lacks merit.
+As the parties have correctly discerned, Loan Agreement No. 4833-PH is in the nature of an executive agreement. In 
+Bayan Muna v. Romulo
+[47]
+ (
+Bayan Muna
+) the Court defined an international agreement as one concluded between states in written form and governed by international law, âwhether embodied in a single instrument or in two or more related instruments and whatever its particular designation,â
+[48]
+ and further expounded that it may be in the form of either (
+a
+) treaties that require legislative concurrence after executive ratification; or (
+b
+) 
+executive agreements that are similar to treaties, except that they do not require legislative concurrence and are usually less formal and deal with a narrower range of subject matters than treaties
+.
+[49] 
+Examining its features, Loan Agreement No. 4833-PH between the IBRD and the Land Bank is an integral component of the Guarantee Agreement executed by the 
+Government of the Philippines 
+as a subject of international law possessed of a treaty-making capacity, and 
+the IBRD
+, which, as an international lending institution organized by world governments to provide loans conditioned upon the guarantee of repayment by the borrowing sovereign state, is likewise regarded a subject of international law and possessed of the capacity to enter into executive agreements with sovereign states. Being similar to a treaty but without requiring legislative concurrence, Loan Agreement No. 4833-PH â following the definition given in the 
+Bayan Muna 
+case âis an executive agreement and is, thus, governed by international law.Owing to this classification, the Government of the Philippines is therefore obligated to observe its terms and conditions under the rule of 
+pacta sunt servanda
+, a fundamental maxim of international law that requires the parties to keep their agreement in good faith.
+[50]
+ It bears pointing out that the 
+pacta sunt servanda
+ rule has become part of the law of the land through the incorporation clause found under Section 2, Article II of the 1987 Philippine Constitution, which states that the Philippines âadopts the generally accepted principles of international law as part of the law of the land and adheres to the policy of peace, equality, justice, freedom, cooperation, and amity with all nations.âKeeping in mind the foregoing attributions, the Court now examines the SLA and its relation with Loan Agreement No. 4833-PH.
+As may be palpably observed, the terms and conditions of Loan Agreement No. 4833-PH, being a project-based and government-guaranteed loan facility, were 
+incorporated and made part of the SLA
+ that was subsequently entered into by Land Bank with the City Government of Iligan.
+[51]
+ Consequently, this means that the SLA cannot be treated as an independent and unrelated contract but as a conjunct of, or having a joint and simultaneous occurrence with, Loan Agreement No. 4833-PH. 
+Its nature and consideration, being a mere accessory contract of Loan Agreement No. 4833-PH, are thus the same as that of its principal contract from which it receives life and without which it cannot exist as an independent contract.
+[52]
+ Indeed, the accessory follows the principal;
+[53]
+ and, concomitantly, accessory contracts should not be read independently of the main contract.
+[54]
+ Hence, as Land Bank correctly puts it, the SLA has attained indivisibility with the Loan Agreement and the Guarantee Agreement through the incorporation of each otherâs terms and conditions such that the character of one has likewise become the character of the other.
+Considering that Loan Agreement No. 4833-PH expressly provides that the procurement of the goods to be financed from the loan proceeds shall be in accordance with the IBRD Guidelines and the provisions of Schedule 4, and that the accessory SLA contract merely follows its principalâs terms and conditions, the procedure for competitive public bidding prescribed under RA 9184 therefore finds no application to the procurement of goods for the Iligan City Water Supply System Development and Expansion Project.  The validity of similar stipulations in foreign loan agreements requiring the observance of IBRD Procurement Guidelines in the procurement process has, in fact, been previously upheld by the Court in the case of
+ Department of Budget and Management Procurement Service (DBM-PS) v. Kolonwel Trading
+,
+[55]
+ 
+viz
+.:
+The question as to whether or not foreign loan agreements with international financial institutions, such as Loan No. 7118-PH, partake of an executive or international agreement within the purview of Section 4 of R.A. No. 9184, has been answered by the Court in the affirmative in [
+Abaya v. Sec. Ebdane, Jr., 
+544 Phil. 645 (2007)].  Significantly, Abaya declared that the RP-JBIC loan agreement was to be of governing application over the CP I project and that the JBIC Procurement Guidelines, as stipulated in the loan agreement, shall primarily govern the procurement of goods necessary to implement the main project.
+Under the fundamental international law principle of 
+pacta sunt servanda
+, which is in fact embodied in the afore-quoted Section 4 of R.A. No. 9184, the RP, as borrower, bound itself to perform in good faith its duties and obligation under Loan No. 7118-PH. Applying this postulate in the concrete to this case, the IABAC was legally obliged to comply with, or accord, primacy to, the WB Guidelines on the conduct and implementation of the bidding/procurement process in question.
+[56]
+With the nature and treatment of Loan Agreement No. 4833-PH as well as its accessory SLA herein explained, the Court thus holds that the RTC committed reversible error in ruling that the provisions of RA 9184 were to be applied in this case. Quite the contrary, it is the IBRD Guidelines and the provisions of Schedule 4 which should govern. As such, the procurement of water pipes by the BAC of the City Government of Iligan â as Land Bank meritoriously submits in its petition â is beyond the purview of RA 9184, yielding as it should to the express stipulations found in the executive agreement, to which the latterâs accessory merely follows.
+In view of all these errors, both on procedural and substantive counts, the Court is hereby bound to reverse the trial courtâs decision and accordingly grant the present petition.
+WHEREFORE
+, the petition is 
+GRANTED
+. The Decision dated September 3, 2010 of the Regional Trial Court of Manila, Branch 21 (Manila RTC) in Civil Case No. 09-122643 is hereby 
+REVERSED
+ and 
+SET ASIDE
+. The Petition for Prohibition and Mandamus filed before the Manila RTC is 
+DISMISSED.
+SO ORDERED.
+Carpio, (Chairperson), Brion, Del Castillo
+ and
+ Perez, JJ., 
+concur.
+[1]
+ Via a petition for review on 
+certiorari 
+under Rule 45 of the Rules of Court.(
+Rollo
+, pp. 10-40.)
+[2]
+ Id. at 45-57. Penned by Judge Amor A. Reyes.
+[3]
+ Entitled âAN ACT PROVIDING FOR THE MODERNIZATION, STANDARDIZATION AND REGULATION OF THE PROCUREMENT ACTIVITIES OF THE GOVERNMENT AND FOR OTHER PURPOSES.â
+[4]
+ Also referred to as âWorld Bank.â
+[5]
+ 
+Rollo
+, pp. 58-95.
+[6]
+ Id. at 13-14.
+[7]
+ Id. at 96-115.
+[8]
+ Id. at 75. See also id. at 14-15.
+[9]
+ See Section I, Schedule 4 of the SLA; id. at 78. (Emphasis and underscoring supplied)
+[10]
+ Id. at 15.
+[11]
+ Id. at 46.
+[12]
+ Id. at 141 and 359.
+[13]
+ Id. at 362-363.
+[14]
+ Id. at 146-150.
+[15]
+ Id. at 148-149.
+[16]
+ See Resolution No. 160, Series of 2009; id. at 152-153.
+[17]
+ Id. at 122.
+[18]
+ Id. at 189-193 and 533-537.
+[19]
+ Id. at 406-437.
+[20]
+ Id. at 438-531.
+[21]
+ Id. at 126 and 333-334.
+[22]
+ Id. at 116-138.
+[23]
+ Id. at 17-18 and 49-50.
+[24]
+ Filed on December 10, 2009.(Id. at 194-198.)
+[25]
+ See Order dated December 10, 2009 issued by 1
+st
+ Vice-Executive Judge Eduardo B. Peralta, Jr.; id. at 199.
+[26]
+ Id. at 267-268.
+[27]
+ See Order dated May 24, 2010; id. at 213. See also Memorandum for 1) Land Bank dated June 21, 2010 (id. at 235-254); 2) City Government of Iligan and its BAC dated June 21, 2010 (id. at 290-308); and 3) Atlanta dated June 22, 2010 (id. at 255-289).
+[28]
+ See Order dated June 22, 2010; id. at 233-234.
+[29]
+ Id. at 45-57.
+[30]
+ Id. at 57.
+[31]
+ Id. at 56.
+[32]
+ Id. at 54-55.
+[33]
+ Id. at 56-57.
+[34]
+ Id. at 24-34.
+[35]
+ Id. at 32-34.
+[36]
+ See comment dated February 23, 2011; id. at 342-351.
+[37]
+ Id. at 351-353.
+[38]
+ Entitled âAN ACT REORGANIZING THE JUDICIARY, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES.â
+[39]
+ 7 Phil91, 93 (1906).
+[40]
+ 112 Phil. 678 (1961).
+[41]
+ 130 Phil. 720 (1968).
+[42]
+ 130 Phil. 939 (1968).
+[43]
+ RA 9184, Sec. 55.
+[44]
+ RA 9184, Sec. 58.
+[45]
+ 
+Department of Budget and Management Procurement Service (DBM-PS) v. Kolonwel Trading,
+ 551 Phil. 1030, 1043 (2007).
+[46]
+ 
+Rollo,
+ p. 54.
+[47]
+ G.R. No. 159618, February 1, 2011, 641 SCRA 244, 258-259.
+[48]
+ Id., citing Article 2(1) of the Vienna Convention on the Law of Treaties. (See 
+China National Machinery & Equipment Corp. [Group] v. Santamaria,
+ G.R. No. 185572, February 7, 2012, 665 SCRA 189, 213-214.)
+[49]
+ Id., citing B.A. Boczek, International Law: A Dictionary 346 (2005); emphasis supplied.
+[50]
+ Secretary of Justice v. Hon. Lantion,
+ 379 Phil. 165, 212 (2000).
+[51]
+ The Whereas portion of the SLA (id. at 96) reads:
+â
+WHEREAS
+, the International Bank for Reconstruction and Development (otherwise known as the â
+World Bank
+â) granted to the LENDER a loan in the principal amount of JAPANESE YEN: ELEVEN BILLION SEVEN HUNDRED TEN MILLION (U.S. $100.0 million equivalent) (the â
+World Bank Loan
+â), for the implementation of the World Bank-Support for Strategic Local Development and Investment (the 
+âProjectâ
+), x x x as evidenced by Loan Agreement No. 4833-PH executed between the World Bank and the LENDER on 3 October 2006 (hereinafter referred to as â
+WB-Loan Agreement
+â) which is incorporated hereto by reference and made an integral part hereof;
+WHEREAS
+, the BORROWER has applied with the LENDER to avail of a loan (the âSUB-LOANâ) under the Project to finance the Sub-Project, as hereinafter defined, and the LENDER has agreed to grant the same under the terms and conditions specified hereunder;
+x x x xâ
+[52]
+ â[A]n accessory obligation is dependent for its existence on the existence of a principal obligation. A principal obligation may exist without an accessory obligation but an accessory obligation cannot exist without a principal obligation.â (
+Social Security System v. Moonwalk Development & Housing Corporation, 
+G.R. No. 73345. April 7, 1993, 221 SCRA 119, 124.)
+[53]
+ 
+Palm Tree Estates, Inc. v. Philippine National Bank
+, G.R. No. 159370, October 3, 2012, 682 SCRA 194, 212.
+[54]
+ See 
+Prudential Guarantee and Assurance, Inc. v. Anscor Land, Inc
+., G.R. No. 177240, September 8, 2010, 630 SCRA 368, 376-377.
+[55]
+ 551 Phil. 1030 (2007).
+[56]
+ Id. at 1049.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

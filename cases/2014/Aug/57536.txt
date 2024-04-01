@@ -1,0 +1,491 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			741 PHIL. 149
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 172404, August 13, 2014 ]
+
+
+PEOPLEâS TRANS-EAST ASIA INSURANCE CORPORATION, A.K.A. PEOPLE'S GENERAL INSURANCE CORPORATION, PETITIONER, VS. DOCTORS OF NEW MILLENNIUM HOLDINGS, INC., RESPONDENT.
+D E C I S I O N
+
+
+
+
+LEONEN, J.:
+
+
+The liabilities of an insurer under the surety bond are not extinguished when the modifications in the principal contract do not substantially or materially alter the principalâs obligations.  The surety is jointly and severally liable with its principal when the latter defaults from its obligations under the principal contract.
+This is a petition for review on certiorari under Rule 45 of the Rules of Court, praying for the reversal of the decision
+[1]
+ of the Court of Appeals which set aside the decision
+[2]
+ of the Regional Trial Court of Pasig City, Branch 267.  In the assailed decision, the Court of Appeals held People's General Insurance Corporation and Million State Development Corporation jointly and severally liable to respondent Doctors of New Millennium Holdings, Inc.
+As found by the trial court and the Court of Appeals, the facts are as follows.
+Doctors of New Millennium Holdings, Inc. is a domestic corporation comprised of about 80 doctors.  On March 2, 1999, it entered into a construction and development agreement (signed agreement) with Million State Development Corporation, a contractor, for the construction of a 200-bed capacity hospital in Cainta, Rizal.
+[3]
+According to the terms of the signed agreement, Doctors of New Millennium obliged itself to pay P10,000,000.00 to Million State Development at the time of the signing of the agreement to commence the construction of the hospital.  Million State Development was to shoulder 95% of the project cost and committed itself to secure P385,000,000.00 within 25 banking days from Doctors of New Millenniumâs initial payment,
+[4]
+ part of which was to be used for the purchase of the lot where the hospital was to be constructed.
+[5]
+As part of the conditions prior to the initial payment, Million State Development submitted a surety bond of P10,000,000.00 to Doctors of New Millennium.  The surety bond was issued by Peopleâs Trans-East Asia Insurance Corporation, now known as Peopleâs General Insurance Corporation.  Doctors of New Millennium, on the other hand, made the initial payment of P10,000,000.00.
+[6]
+Million State Development, however, failed to comply with its obligation to secure P385,000,000.00 within 25 banking days from initial payment.
+[7]
+  On April 7, 1999, it faxed a letter to Doctors of New Millennium explaining its delay was caused by its foreign creditorsâ delay in processing its application.
+[8]
+On April 9, 1999, Doctors of New Millennium sent a formal demand letter to Million State Development for the remittance of the funds to be used for the purchase of the lot and demanding for the cost of money from the time the remittance was due.  Instead of replying to the demand letter, Million State Development sent another letter on April 16, 1999, explaining that they would have their standby letter of credit within 15 banking days.
+[9]
+When Million State Development reneged on its obligations, Doctors of New Millennium sent a demand letter dated June 14, 1999 to Peopleâs General Insurance for the return of its initial payment of P10,000,000.00, in accordance with its surety bond.
+[10]
+  On July 9, 1999, Doctors of New Millennium sent another letter to Peopleâs General Insurance, this time furnishing a copy to the Insurance Commission.  The Insurance Commission referred the matter to its Public Assistance and Investigation Division, which conducted conciliation proceeding.
+[11]
+After several conferences, Peopleâs General Insurance sent a letter dated September 15, 1999 to then Insurance Commissioner Eduardo T. Malinis, stating that Doctors of New Millenniumâs surety claim was denied on the ground that the guarantee only extended to âthe full and faithful construction of a First Class 200 hospital bed buildingâ
+[12]
+ and not to âthe âfundingâ of the construction of the hospital.â
+[13]
+  As a result of the letter, the conciliation proceedings were terminated, and Doctors of New Millennium filed an administrative complaint for unfair claim settlement practice against Peopleâs General Insurance.
+[14]
+On October 5, 1999, while the administrative complaint was pending before the Insurance Commission, Doctors of New Millennium sent a demand letter to Million State Development for the return of their initial payment of P10,000,000.00.
+[15]
+  Due to Million State Developmentâs inaction, Doctors of New Millennium filed a complaint for breach of contract with damages with prayer for the issuance of preliminary attachment against Million State Development and Peopleâs General Insurance with the Regional Trial Court of Pasig City.
+[16]
+In the proceedings before the trial court, Million State Development did not appear or submit any responsive pleading and was declared in default.  The trial court resolved the issues of the case only as to the remaining parties and primarily involving the surety bond.
+[17]
+Doctors of New Millennium, represented by its President, Dr. Cenon Alfonso, testified that the surety bond was entered into to protect the release of the P10,000,000.00 initial mobilization fund.  Peopleâs General Insurance, on the other hand, represented by its President, Manual Liboro, testified that its liability was only limited to the construction of the hospital.
+[18]
+Mr. Liboro also argued that the terms of the surety bond were based on the Draft Construction and Development Agreement (draft agreement).  It alleged that without its knowledge and consent, Doctors of New Millennium and Million State Development substantially altered the conditions of the draft agreement by inserting the clause âor the Project Ownerâs waiver,â which appeared in the signed agreement.
+[19]
+The draft agreement stated:
+ARTICLE XIII
+CONDITIONS TO DISBURSEMENT OF INITIAL PAYMENT
+13.1 The obligations of the Project Owner to pay to the Contractor the amount constituting the Initial Payment shall be subject to and shall be made on the date (the âClosing Dateâ) following the fulfillment of the following conditions:
+ 
+ 
+(a) 
+ 
+the approval and selections by the Project Owner of the subcontractor that shall perform the Works, in accordance with Section 5.1[;] 
+ 
+ 
+ 
+(b)
+ 
+ 
+the submission by the Contractor of a breakdown of the phases of the Work to be performed in pursuance of the Project, the corresponding percentage value and weight of each such phase, and the schedule of the Works indicating the chronological order in which the Contractor proposed to carry out such Works, together with the dates on which each phase of work shall be completed (the âSchedule of Workâ);
+ 
+ 
+ 
+(c)
+ 
+ 
+the submission by the Contractor of a copy of the (Surety Bond) in the form and substance satisfactory to the Project Owner, in accordance with Section 9.1;
+ 
+ 
+ 
+(d)
+ 
+ 
+the submission by the Contractor of proof of a firm commitment by banking institution(s) to fund the Project in the form of a committed credit line and representing committed funds in the amount not less than the Contract Price, or such other similar financing arrangements acceptable to the Project Owner; and
+ 
+ 
+ 
+(e) 
+ 
+the compliance by the Contractor with all the obligations required to be performed by the Contractor as of the Closing Date.
+[20]
+ 
+ 
+The same provisions appeared in Article XIII of the signed agreement, except for its first paragraph, which stated:
+ARTICLE XIII
+CONDITIONS TO DISBURSEMENT OF INITIAL PAYMENT
+13.1 The obligation of the Project Owner to pay to the Contractor the amount constituting the Initial Payment shall be subject to and shall be made on the date (the âClosing Dateâ) following the fulfillment 
+or the Project Ownerâs waiver
+ of the following conditions: . . . (Emphasis supplied)
+[21]
+Mr. Liboro claimed that they became aware of the alteration during the conciliation proceedings before the Insurance Commission.
+[22]
+On February 18, 2002, the Insurance Commission rendered its decision on the administrative complaint, finding that Peopleâs General Insurance engaged in unfair claim settlement practice under Section 241(1) of the Insurance Code.  The Commission imposed a fine of P500.00, the suspension of its certificate of registration of its bond underwriter for six months, and the suspension of its authority to issue bonds for six months.
+[23]
+On August 25, 2004, the trial court rendered its decision
+[24]
+ finding only Million State Development liable to Doctors of New Millennium.  It discharged Peopleâs General Insurance from any liability on the ground that the inclusion of the clause âor the Project Ownerâs waiverâ in the signed agreement was a novation of the draft agreement.  It found that the Doctors of New Millenniumâs right under the surety bond can only be exercised upon the fulfillment of the conditions provided for in Article XIII(13.1).
+[25]
+  The dispositive portion states:
+WHEREFORE, IN VIEW OF THE FOREGOING CONSIDERATIONS, judgment is hereby rendered declaring the defaulted defendant Contractor, Million State Development Corporation represented by Peter A. Perez, President solely liable to plaintiff Doctors of New Millen[n]ium Holdings, Inc., represented by Cenon R. Alfonso in the amount of Ten Million Pesos (PhP 10,000,000.00), plus legal interests from October 1999 until fully paid. Said defendant Contractor is likewise directed to pay plaintiff the amount of PhP150,000.00 as attorneyâs fees and litigation expenses as well as the costs of the suit.
+In the meantime, the instant complaint as against the defendant Peopleâs Trans East Asia Insurance Corporation a.k.a. Peopleâs General Insurance Corporation is hereby dismissed for lack of merit.
+SO ORDERED.
+[26]
+Upon the denial of its motion for partial reconsideration, Doctors of New Millennium filed an appeal with the Court of Appeals, seeking the reversal of the trial courtâs finding that the surety was not liable.
+[27]
+On December 29, 2005, the Court of Appeals rendered a decision
+[28]
+ granting the appeal and holding Peopleâs General Insurance jointly and severally liable with Million State Development.
+The appellate court found that the surety bond was made to cover for the initial payment made by Doctors of New Millennium.  Citing the Whereas Clause of the surety bond, it ruled that Peopleâs General Insurance guaranteed not only the construction of the hospital but also secured the initial payment in case the contractor defaults.
+[29]
+  The surety bond stated:
+That we 
+MILLION STATE DEVELOPMENT CORPORATION
+ . . ., as principal, and PEOPLEâS TRANS-EAST ASIA INSURANCE CORPORATION, a corporation duly organized and existing under and by virtue of the laws of the Philippines, as surety, are held and firmly bound unto the 
+DOCTORS OF NEW MILLENNIUM HOLDINGS, INC
+. . . . in the sum of TEN 
+MILLION PESOS ONLY (P10,000,000.00
+) Philippine Currency, for the payment of which sum, well and truly to be made, we bind ourselves, our heirs, executors, administrators, successors, and assigns jointly and severally firmly by these presents:
+The condition[s] of this obligation are as follows:
+WHEREAS, the above bounded principal, on the 2nd day of March, 1999 entered into a construction and Devât. Agreement with DOCTORS OF NEW MILLENNIUM HOLDINGS, INC. to full and faithfully guarantee for the construction of a first class 200 bed capacity hospital building project Site.
+WHEREAS, the 
+DOCTORS OF NEW MILLENNIUM HOLDINGS, INC.
+ requires the Principal to post a Surety (Downpayment) Bond in the above-stated sum to guarantee the repayment of the downpayment as provided under the terms and conditions of its contract with the obligee, a copy of which is hereto attached and made an integral part of this bond.
+WHEREAS, the liability of the herein Surety shall in no case exceed the sum of TEN MILLION PESOS (P10,000,000.00) ONLY, Philippine Currency.
+WHEREAS, said DOCTORS OF NEW MILLENNIUM HOLDINGS, INC. requires said principal to give a good and sufficient bond in the above stated sum to secure the full and faithful performance on his part said 
+contract agreement
+.
+NOW, THEREFORE, if the principal shall well and truly perform and fulfill all the undertakings, covenants, terms, conditions, and agreements stipulated in said 
+contract agreement
+ then, this obligation shall be null and void, otherwise it shall remain in full force and effect.
+[30]
+The appellate court also ruled that the Doctors of New Millenniumâs waiver of the preconditions stated in Article XIII of the signed agreement 
+did not increase the suretyâs risk since it has âabsolutely no relation at all and are not material to the undertaking of Peopleâs General Insurance to guarantee repayment.â
+[31]
+  The dispositive portion of the decision states:
+WHEREFORE, the judgment appealed as regards the dismissal of the complaint against defendant Peopleâs General Insurance is hereby REVERSED and SET ASIDE. Surety is hereby adjudged jointly and severally liable with Million State Development Corporation for the damages suffered by the plaintiff in a) the amount of ten million pesos (P10,000,000.00), plus legal interests from October 1999 until fully paid and; b) the amount of P200,000.00 representing attorneyâs fees and litigation expenses. Costs against defendants.
+SO ORDERED.
+[32]
+Peopleâs General Insurance filed a motion for reconsideration, which the Court of Appeals denied in a resolution dated April 20, 2006.  Aggrieved, it filed the present petition for review on certiorari praying for the reversal of the decision of the Court of Appeals.
+[33]
+Peopleâs General Insurance argues that Million State Development furnished it a copy of the draft agreement with the assurance that the same terms and conditions would be embodied in the signed agreement.  It argues that when the parties inserted the clause âor the Project Ownerâs waiver,â it substantially altered the terms and conditions of the contract as âthey exponentially increase[d] the risk that petitioner was willing to take as surety.â
+[34]
+  It explains that under the draft agreement, Million State Development âmust hurdle certain stringent requirementsâ
+[35]
+ before the P10,000,000.00 initial payment could be released to it.
+[36]
+Petitioner Peopleâs General Insurance also alleges that because of the disputed clause, the initial payment was released to the contractor on the pretext that the preconditions were already waived by Doctors of New Millennium.
+[37]
+  It argues that the clause âeffectively deprived [it] of the opportunity to objectively assess the real risk of its undertaking and fix the reasonable rate of premium thereon.â
+[38]
+  This, it argues, constituted an implied novation, which should automatically relieve it from its undertaking as a surety as it makes its obligation more onerous.
+[39]
+Doctors of New Millennium, on the other hand, argues that there was no novation since the draft agreement was not yet a valid and binding contract between it and Million State Development.  It alleged that Million State Development entered into a surety agreement with Peopleâs General Insurance on the basis of the draft agreement without its knowledge.
+[40]
+It also argues that if Peopleâs General Insurance disagreed with the terms and conditions of the signed agreement, it should have informed Doctors of New Millennium or Million State Development of the matter since the premium payment of P158,792.50 remained in its possession, control, and disposal.
+[41]
+We are asked to resolve the issue of whether the surety bond guaranteeing respondent Doctors of New Millenniumâs initial payment was impliedly novated by the insertion of a clause in the principal contract, which waived the conditions for the initial paymentâs release.
+The petition is without merit
+The principal contract of the suretyship is the signed agreement
+The obligations of the surety to the principal under the surety bond are different from the obligations of the contractor to the client under the principal contract.  The surety guarantees the performance of the contractorâs obligations.  Upon the contractorâs default, its client may demand against the surety bond even if there was no privity of contract between them.  This is the essence of a surety agreement.
+The definition of a surety is provided for under the Civil Code, which states:
+Art. 2047. By guaranty a person, called the guarantor, binds himself to the creditor to fulfill the obligation of the principal debtor in case the latter should fail to do so.
+If a person binds himself solidarily with the principal debtor, the provisions of Section 4, Chapter 3, Title I of this Book shall be observed. In such case the contract is called a suretyship.
+In 
+Stronghold Insurance Company v. Tokyu Construction Company
+:
+[42]
+A contract of suretyship is an agreement whereby a party, called the surety, guarantees the performance by another party, called the principal or obligor, of an obligation or undertaking in favor of another party, called the obligee. By its very nature, under the laws regulating suretyship, the liability of the surety is joint and several but is limited to the amount of the bond, and its terms are determined strictly by the terms of the contract of suretyship in relation to the principal contract between the obligor and the obligee.
+[43]
+In 
+American Home Insurance Co. v. F. F. Cruz
+:
+[44]
+The surety is considered in law as possessed of the identity of the debtor in relation to whatever is adjudged touching upon the obligation of the latter. Their liabilities are so interwoven as to be inseparable. Although the contract of suretyship is, in essence, secondary only to a valid principal obligation, the suretyâs liability to the creditor is direct, primary, and absolute; he becomes liable for the debt and duty of another although he possesses no direct or personal interest over the obligations nor does he receive any benefit therefrom.
+[45]
+In this case, the surety bond was executed âto guarantee the repayment of the downpaymentâ
+[46]
+ and âto secure the full and faithful performanceâ
+[47]
+ of Million State Development.  According to the terms of the bond, Peopleâs General Insurance bound itself to be liable in the amount of P10,000,000.00 in the event that Million State Development defaults in its obligations.
+[48]
+Petitioner, however, contends that the inclusion of the clause âor the Project Ownerâs waiverâ in Article XIII of the signed agreement made its obligations more onerous and, therefore, the surety must be released from its bond.
+A suretyship consists of two different contracts: (1) the surety contract and (2) the principal contract which it guarantees.  Since the insurerâs liability is strictly based only on the terms stated in the surety contract in relation to the principal contract, any change in the principal contract, which materially alters the principalâs obligations would, in effect, constitute an implied novation of the surety contract:
+[A] surety is released from its obligation when there is a material alteration of the contract in connection with which the bond is given, such as a change which imposes a new obligation on the promising party, or which takes away some obligation already imposed, or one which changes the legal effect of the original contract and not merely its form.  A surety, however, is not released by a change in the contract which does not have the effect of making its obligation more onerous.
+[49]
+Petitioner insists that the principal contract of the suretyship was the draft agreement since it was assured by its principal that the draft would embody the same terms and conditions as the final signed agreement.  The insertion of the disputed clause in the signed agreement, it argues, âeffectively deprived petitioner of the opportunity to objectively assess the real risk of its undertaking and fix the reasonable rate of premium thereon.â
+[50]
+This argument is unmeritorious.
+In his testimony before the trial court, Mr. Liboro, representing petitioner, admitted that the signed copy of the agreement was attached to the surety bond when it was returned to them by Million State Development and respondent:
+ATTY. PEREZ:  Do I get it correct Mr. Witness that after the contract was finalize[d], it was attached to the bond and returned to you?
+A:  Yes, it was returned to us together with the attachment.
+ATTY. PEREZ:  So, that was maybe if the payment was made on March 3, 1999 about March 4, 1999 [sic] you have a copy of the final draft already? It was attached to your bond?
+A:  It was attached to our copy of the bond.
+[51]
+Mr. Liboro also admitted that they were not diligent in reviewing the documents presented to them and merely relied on their principalâs assurances of the content of the documents:
+ATTY. PEREZ:
+Q:  Is that normal procedure in your company that you evaluate an application on the basis of a mere draft?
+WITNESS:
+A:  Draft is for us to study whether we can accept or not. In fact, that is the first requirement you have the contract submitted and we have to study, but once the bond is to be issued, there are some other requirements that you have to comply with. That is the initial requirement.
+Q:  But do you remember having mentioned that it came to your knowledge that the final signed contract agreement between Million State Development Corporation and the Doctors of New Millennium happened two (2) days after you issued the bond?
+A:  No, only one (1) day. In fact I did not even observe until later on when they were reviewing this bond, from the lawyer â
+pa nanggaling yon; hindi naman napupuna iyon eh
+.â I have trust and confidence that the final draft was the same draft that was drafted.
+[52]
+Petitioner, as the surety, had the responsibility to read through the terms of the principal contract; it cannot simply rely on the assurances of its principal.  It was petitionerâs duty to carefully scrutinize the agreement since the Insurance Code mandates that its liability is determined strictly in accordance with the provisions of the principal contract:
+Sec. 176.  The liability of the surety or sureties shall be joint and several with the obligor and shall be limited to the amount of the bond.  It is determined strictly by the terms of the contract of suretyship in relation to the principal contract between the obligor and the obligee.
+[53]
+If petitioner had any objection to the terms of the signed agreement, it could have pointed it out before its principal defaults and it becomes liable under the surety bond.  The silence of petitioner must be taken against it since it was responsible for exerting diligence in the conduct of its affairs.
+Even the Insurance Commission was aware that petitioner acted irresponsibly when it issued the surety bond:
+This Commission, however, took notice of the laxity or irresponsible underwriting practice of respondent insurance companyâs bond underwriter when the latter did not require a collateral security for this kind of bond considering that the business of suretyship is a very risky one. It would have been easier for respondent company to settle the claim had there been a collateral given by the principal when the latter defaulted from the obligation under the contract.
+[54]
+Petitionerâs failure to notice the changes in the signed agreement was due to its own fault and not to any deception on the part of respondent.  Respondent was not privy to the terms of the surety bond entered into by petitioner and Million State Development.  If there were any changes in the contract that petitioner should have been aware of, it was Million State Development, as its principal, which had the duty to inform them about the changes.
+On the basis of petitionerâs own admissions, the principal contract of the suretyship is the signed agreement.  The surety, therefore, is presumed to have acquiesced to the terms and conditions embodied in the principal contract when it issued its surety bond.  Accordingly, petitioner cannot argue that the insertion of the clause in the signed agreement constituted an implied novation of the obligation which extinguished its obligations as a surety since there was nothing to novate:
+[I]n order that an obligation may be extinguished by another which substitutes the same, it is imperative that it be so declared in unequivocal terms, or that the old and new obligation be in every point incompatible with each other. Novation of a contract is never presumed. In the absence of an express agreement, novation takes place only when the old and the new obligations are incompatible on every point.
+[55]
+Even if we were to assume, for the sake of argument, that the principal contract in the suretyship was the draft agreement, the addition of the clause âor the Project Ownerâs waiverâ in the signed agreement does not operate as a novation of petitionerâs liability under the surety bond.
+The disputed clause is not material
+to Peopleâs General Insuranceâs 
+undertaking to guarantee Doctors of 
+New Millenniumâs initial payment
+Respondentâs waiver of the conditions set forth under Article XIII of the agreement does not substantially or materially alter petitionerâs obligation to guarantee the performance of its principal, Million State Development. Article XIII states:
+ARTICLE XIII
+CONDITIONS TO DISBURSEMENT OF INITIAL PAYMENT
+13.1 The obligation of the Project Owner to pay to the Contractor the amount constituting the Initial Payment shall be subject to and shall be made on the date (the âClosing dateâ) following the fulfillment or the Project Ownerâs waiver of the following conditions:
+(a)  the approval and selection by the Project Owner of the Subcontractor that shall perform the Works, in accordance with Section 5.1;
+(b) the submission by the Contractor of a breakdown of the phases of the Work to be performed in pursuance of the Project, the corresponding percentage value and weight of each such phase, and a schedule of the Works indicating the chronological order in which the Contractor proposes to carry out such Works, together with the dates on which each phase of work shall be completed (the âSchedule of Workâ);
+(c)  the submission by the Contractor of a copy of the (Surety Bond) in the form and substance satisfactory to the Project Owner, in accordance with Section 9.1;
+(d) the submission by the Contractor of proof of a firm commitment by banking institution(s) to fund the Project in the form of a committed credit line and representing committed funds in an amount not less than the Contract Price, or such other similar financing arrangements acceptable to the Project Owner; and
+(e)  the compliance by the Contractor with all obligations required to be performed by the Contractor as of the Closing Date.
+[56]
+These conditions, however, only embody a portion of Million State Developmentâs obligations to respondent.
+Petitioner, as a surety, bound itself to guarantee the repayment of the initial price in the event that Million State Development fails to perform not only the conditions under Article XIII but all its obligations under the signed agreement.  This is clear from the terms of the surety bond:
+WHEREAS, the DOCTORS OF NEW MILLENNIUM HOLDINGS, INC. requires the Principal to post a Surety (Downpayment) Bond in the above-stated sum to guarantee the repayment of the downpayment as provided under the terms and conditions of its contract with the obligee, a copy of which is hereto attached and made an integral part of this bond.
+[57]
+The conditions under Article XIII of the signed agreement refer only to the conditions that Million State Development was responsible for so that initial payment could be disbursed to them.  Petitioner failed to take into account that Article XIII must be read together with Article IX, which states:
+Article IX
+SECURITY FOR CONTRACTORâS OBLIGATIONS
+9.1 Upon receipt of the execution of this Agreement, the Contractor shall deliver to the Project Owner a Surety bond for the amount equal to the Initial Payment of TEN MILLION PESOS (PhP10,000,000.00) secured from Peoples Trans-East Asia Insurance Corporation for the purpose of securing the performance by the Contractor of its obligations in accordance with the terms and conditions of this Agreement as set out in Annex F and shall be valid until the issuance by the Project Owner of the Certificate of Final Acceptance of the Project, provided that the amount available to be drawn under the Surety Bond shall be reduced semi-annually commencing six (6) months from the date of Initial Payment and in proportion to such work, services, materials, supplies and equipment certified by the Project Owner to have been performed, completed or provided during the relevant six month period.
+[58]
+Article IX requires Million State Development to procure a surety bond to cover the initial payment âupon the execution of the Agreement,â and not upon the fulfillment of the conditions under Article XIII.  Any waiver by respondent of the conditions for the release of the initial payment would not affect the conditions by which the surety bond was issued.
+Million State Developmentâs obligations under the contract subsist regardless of whether respondent waives the conditions for the release of the initial payment.  Its obligation upon the release of the initial payment was for it to âmake available the funds constituting the Balance Payment . . . [in] the amount of THREE HUNDRED EIGHTY-FIVE MILLION PESOS (PhP385,000,000.00), within twenty-five (25) banking days from payment by the Project Owner of the Initial Payment.â
+[59]
+  It is this performance of this obligation that the surety primarily guarantees.
+Even the Insurance Commission arrived at the same conclusion when it found that:
+It appears from the provisions of Art. [VII] 7.5 of the Agreement that the initial payment of P10 million serves as a basis and a reckoning for the âContractor to make available the funds constituting the Balance Payment under the following schedule: a) the amount of P385 million within 25 days from payment by the Project Owner of the Initial Payment xxx.â Considering that the contractor failed to provide for the Balance Payment on the prescribed due date, he has the obligation to return what he has received so as not to unjustly enrich himself at the expense of the other. It can be inferred[,] therefore, that the undertaking pertains to the return of the initial payment of P10 million.
+[60]
+Petitioner cannot feign ignorance of Million State Developmentâs obligation to provide the funds for the balance since this provision was present in both the draft agreement and the signed agreement.
+[61]
+  Since Million State Development failed to fulfill its obligation, the surety becomes jointly and severally liable for the amount of the bond.
+The award of attorneyâs fees must be deleted
+The trial court and the Court of Appeals awarded attorneyâs fees to respondent without giving any factual or legal basis for the award.  The award merely appeared on the dispositive portion of the lower courtâs rulings without explanation or justification.
+As we have stated in 
+Philippine National Construction Corporation v. APAC Marketing Corporation
+:
+[62]
+The general rule is that attorneyâs fees cannot be recovered as part of damages because of the policy that no premium should be placed on the right to litigate. They are not to be awarded every time a party wins a suit. The power of the court to award attorneyâs fees under Article 2208
+[63]
+ demands factual, legal, and equitable justification. Even when a claimant is compelled to litigate with third persons or to incur expenses to protect his rights, still attorneyâs fees may not be awarded where no sufficient showing of bad faith could be reflected in a partyâs persistence in a case other than an erroneous conviction of the righteousness of his cause.
+[64]
+As respondent has not shown any justification as to its award of attorneyâs fees, the same must be deleted.
+WHEREFORE
+, the petition is 
+DENIED
+.  The decision of the Court of Appeals in CA-G.R. CV No. 84645 dated December 29, 2005 is 
+AFFIRMED
+ with MODIFICATION. Petitioner Peopleâs General Insurance Corporation is held jointly and severally liable with Million State Development Corporation for the payment of P10,000,000.00 with legal interest of 12%  per annum from June 14, 1999 until June 30, 2013 and legal interest of 6% per annum from July 1, 2013 until fully paid.
+[65]
+  The award of P200,000.00 representing attorneyâs fees and litigation expenses is 
+DELETED.
+SO ORDERED.
+Velasco, Jr., (Chairperson), Peralta, Villarama, Jr.,
+*
+ and 
+Mendoza, JJ
+., concur.
+*
+ Designated as Acting Member in view of the vacancy in the Third Division per Special Order No. 1691 dated May 22, 2014.
+[1]
+ 
+Rollo, 
+pp. 119-133.  Penned by Associate Justice Mariano C. Del Castillo, now a member of this court, and concurred in by Associate Justice Conrado M. Vasquez, Jr. and Associate Justice Magdangal M. De Leon.
+[2]
+ Id. at 101-117.  Penned by Judge Florito S. Macalino.
+[3]
+ Id. at 120.
+[4]
+ Id. at 120â121.
+[5]
+ Id. at 102.
+[6]
+ Id. at 121.
+[7]
+ Id.
+[8]
+ Id. at 103.
+[9]
+ Id.
+[10]
+ Id.
+[11]
+ Id. at 104.
+[12]
+ Id. at 124.
+[13]
+ Id. at 123-124. See also 
+rollo
+, p. 104.
+[14]
+ Id. at 124.
+[15]
+ Id. at 103.
+[16]
+ Id. at 124.  Doctors of New Millennium also filed a criminal case for estafa against the officers of Million State Development before the Regional Trial Court of Pasig City, Branch 268. Warrants of arrest have been issued, but the officers remained at large. (See footnote 12, 
+rollo
+, p. 124.)
+[17]
+ Id. at 101.
+[18]
+ Id. at 125.
+[19]
+ Id. at 126â127.
+[20]
+ Id. at 70.
+[21]
+ Id. at 85.
+[22]
+ Id. at 127â128.
+[23]
+ Id. at 89â100.
+[24]
+ Id. at 101â117.
+[25]
+ Id. at 111.
+[26]
+ Id. at 117.
+[27]
+ Id. at 128.
+[28]
+ Id. at 119â133.
+[29]
+ Id. at 129â130.
+[30]
+ Id. at 73.
+[31]
+ Id. at 131.
+[32]
+ Id. at 132.
+[33]
+ Id. at 135â136.
+[34]
+ Id. at 46.
+[35]
+ Id.
+[36]
+ Id.
+[37]
+ Id. at 46â47.
+[38]
+ Id. at 48.
+[39]
+ Id at 45 and 50.
+[40]
+ Id. at 169 and 225.
+[41]
+ Id. at 226.
+[42]
+ 606 Phil. 400 (2009) [Per J. Nachura, Third Division].
+[43]
+ Id. at 411â412, citing 
+Intra-Strata Assurance Corporation v. Republic,
+ 579 Phil. 631, 639 (2008) [Per J. Brion, Second Division]; 
+Prudential Guarantee and Assurance, Inc. v. Equinox Land Corporation
+, 559 Phil. 672 (2007) [Per J. Sandoval-Gutierrez, First Division].
+[44]
+ G.R. No. 174926, August 10, 2011, 655 SCRA 248 [Per J. Peralta, Third Division].
+[45]
+ Id. at 260, citing 
+Stronghold Insurance Company, Incorporated v. Tokyu Construction Company, Ltd., 
+606 Phil. 400 (2009) [Per J. Nachura, Third Division].
+[46]
+ 
+Rollo
+, p. 73.
+[47]
+ Id.
+[48]
+ Id.
+[49]
+ 
+Intra-Strata Assurance Corporation v. Republic,
+ 579 Phil. 631, 644 (2008) [Per J. Brion, Second Division], citing
+ NASSCO v. Torrento,
+ G.R. No. L-21109, June 26, 1967, 20 SCRA 427 [Per J. Makalintal, En Banc].
+[50]
+ 
+Rollo,
+ p. 46.
+[51]
+ TSN, January 31, 2003, pp. 61â62.
+[52]
+ 
+Rollo
+, p. 154.
+[53]
+ Ins. Code, sec. 176.
+[54]
+ 
+Rollo,
+ p. 100.
+[55]
+ 
+Philippine Charter Insurance Corporation v. Petroleum Distributors and Service Corporation,
+ G.R. No. 180898, April 18, 2012, 670 SCRA 166, 181 [Per J. Mendoza, Third Division], citing CIVIL CODE, art. 1292 and 
+Security Bank and Trust Company, Inc. v. Cuenca, 
+396 Phil. 108, 122 (2000) [Per J. Panganiban, Third Division].
+[56]
+ Rollo,
+ p. 85.
+[57]
+ Id. at 73.
+[58]
+ Id. at 82.
+[59]
+ Id. at 80.
+[60]
+ Id. at 97.
+[61]
+ Id. at 67 and 80.
+[62]
+ G.R. No. 190957, June 5, 2013, 697 SCRA 441 [Per C.J. Sereno, First Division].
+[63]
+ Art. 2208. In the absence of stipulation, attorney's fees and expenses of litigation, other than judicial costs, cannot be recovered, except:
+(1) When exemplary damages are awarded;
+(2) When the defendant's act or omission has compelled the plaintiff to litigate with third persons or to incur expenses to protect his interest;
+(3) In criminal cases of malicious prosecution against the plaintiff;
+(4) In case of a clearly unfounded civil action or proceeding against the plaintiff;
+(5) Where the defendant acted in gross and evident bad faith in refusing to satisfy the plaintiff's plainly valid, just and demandable claim;
+(6) In actions for legal support;
+(7) In actions for the recovery of wages of household helpers, laborers and skilled workers;
+(8) In actions for indemnity under workmen's compensation and employer's liability laws;
+(9) In a separate civil action to recover civil liability arising from a crime;
+(10) When at least double judicial costs are awarded;
+(11) In any other case where the court deems it just and equitable that attorney's fees and expenses of litigation should be recovered.
+In all cases, the attorney's fees and expenses of litigation must be reasonable.
+[64]
+ 
+Philippine National Construction Corporation v. APAC Marketing Corporation,
+ G.R. No. 190957, June 5, 2013, 697 SCRA 441, 449 [Per C.J. Sereno, First Division], citing 
+ABS-CBN Broadcasting Corp. v. Court of Appeals, 
+361 Phil. 499 (1999) [Per C.J. Davide, Jr., First Division].
+[65]
+ See 
+Nacar v. Gallery Frames,
+ G.R. No. 189871, August 13, 2013, 703 SCRA 439, 457â458 [Per J. Peralta, En Banc].
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

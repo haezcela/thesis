@@ -1,0 +1,392 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			701 Phil. 200
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 170498, January 09, 2013 ]
+
+
+METROPOLITAN BANK & TRUST COMPANY, PETITIONER, VS. ABSOLUTE MANAGEMENT CORPORATION, RESPONDENT.
+D E C I S I O N
+
+
+
+
+BRION, J.:
+
+
+We resolve petitioner Metropolitan Bank & Trust Company's (
+Metrobank 's
+) petition for review on 
+certiorari
+[1]
+ seeking the reversal of the decision
+[2]
+ dated August 25, 2005 and the resolution
+[3]
+ dated November 17, 2005 of the Court of Appeals (CA) in CA-G.R. SP No. 86336. The assailed decision affirmed the order
+[4]
+ dated May 7, 2004 of the Regional Trial Court (RTC) of Quezon City, Branch 80. The RTC had denied the admission of Metrobank's Fourth-Party Complaint
+[5]
+ against the Estate of Jose L. Chua for being a money claim that falls under Section 5, Rule 86 of the Rules of Court; the claim should have been filed in the pending judicial settlement of Chuaâs estate before the RTC of Pasay City. The CA affirmed the RTCâs order based on the same ground.
+Factual Antecedents
+On October 5, 2000, Sherwood Holdings Corporation, Inc. (
+SHCI
+) filed a complaint for sum of money against Absolute Management Corporation (
+AMC
+). The complaint was docketed as Civil Case No. Q-00-42105 and was assigned to the RTC of Quezon City, Branch 80.
+[6]
+SHCI alleged in its complaint that it made advance payments to AMC for the purchase of 27,000 pieces of plywood and 16,500 plyboards in the sum of P12,277,500.00, covered by Metrobank Check Nos. 1407668502, 140768507, 140768530, 140768531, 140768532, 140768533 and 140768534. These checks were all crossed, and were all made payable to AMC. They were given to Chua, AMCâs General Manager, in 1998.
+[7]
+Chua died in 1999,
+[8]
+ and a special proceeding for the settlement of his estate was commenced before the RTC of Pasay City. This proceeding was pending at the time AMC filed its answer with counterclaims and third-party complaint.
+[9]
+SHCI made demands on AMC, after Chuaâs death, for allegedly undelivered items worth P8,331,700.00. According to AMC, these transactions could not be found in its records. Upon investigation, AMC discovered that in 1998, Chua received from SHCI 18 Metrobank checks worth P31,807,500.00. These were all payable to AMC and were crossed or âfor payeeâs account only[.]â
+[10]
+In its answer with counterclaims and third-party complaint,
+[11]
+ AMC averred that it had no knowledge of Chuaâs transactions with SHCI and it did not receive any money from the latter. AMC also asked the RTC to hold Metrobank liable for the subject checks in case it is adjudged liable to SHCI.
+Metrobank filed a motion for bill of particulars,
+[12]
+ seeking to clarify certain ambiguous statements in AMCâs answer. The RTC granted the motion but AMC failed to submit the required bill of particulars. Hence, Metrobank filed a motion to strike out the third-party complaint.
+[13]
+In the meantime, Metrobank filed a motion to dismiss
+[14]
+ against AMC on the ground that the latter engaged in prohibited forum shopping. According to Metrobank, AMCâs claim against it is the same claim that it raised against Chuaâs estate in Special Proceedings No. 99-0023 before the RTC of Pasay City, Branch 112. The RTC subsequently denied this motion.
+[15]
+The RTC of Quezon City opted to defer consideration
+[16]
+ of Metrobankâs motion to strike out third-party complaint
+[17]
+ and it instead granted AMCâs motion for leave to serve written interrogatories on the third- party defendant.
+[18]
+ While Metrobank filed its answer to the written interrogatories, AMC was again directed by the RTC, in an order
+[19]
+ dated August 13, 2003, to submit its bill of particulars. Instead, AMC filed a motion for reconsideration
+[20]
+ which was denied in an order
+[21]
+ dated October 28, 2003. AMC still did not file its bill of particulars. The RTC, on the other hand, did not act on Metrobankâs motion to strike out AMCâs third-party complaint.
+[22]
+In its answer
+[23]
+ dated December 1, 2003, Metrobank admitted that it deposited the checks in question to the account of Ayala Lumber and Hardware, a sole proprietorship Chua owned and managed. The deposit was allegedly done with the knowledge and consent of AMC. According to Metrobank, Chua then gave the assurance that the arrangement for the handling of the checks carried AMCâs consent. Chua also submitted documents showing his position and interest in AMC. These documents, as well as AMCâs admission in its answer that it allowed Chua to manage AMC with a relative free hand, show that it knew of Chuaâs arrangement with Metrobank. Further, Chuaâs records show that the proceeds of the checks were remitted to AMC which cannot therefore now claim that it did not receive these proceeds.
+Metrobank also raised the defense of estoppel. According to Metrobank, AMC had knowledge of its arrangements with Chua for several years. Despite this arrangement, AMC did not object to nor did it call the attention of Metrobank about Chuaâs alleged lack of authority to deposit the checks in Ayala Lumber and Hardwareâs account. At this point, AMC is already estopped from questioning Chuaâs authority to deposit these checks in Ayala Lumber and Hardwareâs account.
+Lastly, Metrobank asserted that AMC gave Chua unbridled control in managing AMCâs affairs. This measure of control amounted to gross negligence that was the proximate cause of the loss that AMC must now bear.
+Subsequently, Metrobank filed a motion for leave to admit fourth- party complaint
+[24]
+ against Chuaâs estate. It alleged that Chuaâs estate should reimburse Metrobank in case it would be held liable in the third-party complaint filed against it by AMC.
+The RTCâs Ruling
+In an order
+[25]
+ dated May 7, 2004, the RTC denied Metrobankâs motion. It likewise denied Metrobankâs motion for reconsideration in an order
+[26]
+ dated July 7, 2004.
+The RTC categorized Metrobankâs allegation in the fourth-party complaint as a â
+cobro de lo indebido
+â
+[27]
+ â a kind of quasi-contract that mandates recovery of what has been improperly paid. Quasi-contracts fall within the concept of implied contracts that must be included in the claims required to be filed with the judicial settlement of the deceasedâs estate under Section 5, Rule 86 of the Rules of Court. As such claim, it should have been filed in Special Proceedings No. 99-0023, not before the RTC as a fourth-party complaint. The RTC, acting in the exercise of its general jurisdiction, does not have the authority to adjudicate the fourth-party complaint. As a trial court hearing an ordinary action, it cannot resolve matters pertaining to special proceedings because the latter is subject to specific rules.
+Metrobank responded to the RTC ruling by filing a petition for 
+certiorari
+[28]
+ under Rule 65 before the CA.
+The CAâs Ruling
+The CA affirmed the RTCâs ruling that Metrobankâs fourth-party complaint should have been filed in Special Proceedings No. 99-0023.
+[29]
+According to the CA, the relief that Metrobank prayed for was based on a quasi-contract and was a money claim categorized as an implied contract that should be filed under Section 5, Rule 86 of the Rules of Court.
+Based on the statutory construction principle of 
+lex specialis derogat generali
+, the CA held that Section 5, Rule 86 of the Rules of Court is a special provision that should prevail over the general provisions of Section 11, Rule 6 of the Rules of Court. The latter applies to money claims in ordinary actions while a money claim against a person already deceased falls under the settlement of his estate that is governed by the rules on special proceedings. If at all, rules for ordinary actions only apply suppletorily to special proceedings.
+The Present Petition
+In its present petition for review on 
+certiorari
+,
+[30]
+ Metrobank asserts that it should be allowed to file a fourth-party complaint against Chuaâs estate in the proceedings before the RTC; its fourth-party complaint was filed merely to enforce its right to be reimbursed by Chuaâs estate in case Metrobank is held liable to AMC. Hence, Section 11, Rule 6 of the Rules of Court should apply.
+AMC, in its comment,
+[31]
+ maintains the line that the CA and the RTC rulings should be followed,
+ i.e.
+, that Metrobankâs claim is a quasi-contract that should be filed as a claim under Section 5, Rule 86 of the Rules of Court.
+AMC also challenges the form of Metrobankâs petition for failure to comply with Section 4, Rule 45 of the Rules of Court. This provision requires petitions filed before the Supreme Court to be accompanied by âsuch material portions of the record as would support the petition[.]â According to AMC, the petitionâs annexes are mostly Metrobankâs pleadings and court issuances. It did not append all relevant AMC pleadings before the RTC and the CA. For this reason, the petition should have been dismissed outright.
+Issues
+The partiesâ arguments, properly joined, present to us the following issues:
+ 
+ 
+1) 
+ 
+Whether the petition for review on 
+certiorari
+ filed by Metrobank before the Supreme Court complies with Section 4, Rule 45 of the Rules of Court; and 
+ 
+ 
+ 
+2)
+ 
+ 
+Whether Metrobankâs fourth-party complaint against Chuaâs estate should be allowed.
+ 
+ 
+The Courtâs Ruling
+The Present Petition Complies With Section 4, Rule 45 of the Rules of Court
+AMC posits that Metrobankâs failure to append relevant AMC pleadings submitted to the RTC and to the CA violated Section 4, Rule 45 of the Rules of Court,
+[32]
+ and is a sufficient ground to dismiss the petition under Section 5, Rule 45 of the Rules of Court.
+[33]
+We disagree with AMCâs position.
+In 
+F.A.T. Kee Computer Systems, Inc. v. Online Networks International, Inc.,
+[34]
+ Online Networks International, Inc. similarly assailed F.A.T. Kee Computer Systems, Inc.âs failure to attach the transcript of stenographic notes (
+TSN
+) of the RTC proceedings, and claimed this omission to be a violation of Section 4, Rule 45 of the Rules of Court that warranted the petitionâs dismissal. The Court held that the defect was not fatal, as the TSN of the proceedings before the RTC forms part of the records of the case. Thus, there was no incurable omission that warranted the outright dismissal of the petition.
+The Court significantly pointed out in 
+F.A.T
+. Kee that the requirement in Section 4, Rule 45 of the Rules of Court is not meant to be an absolute rule whose violation would automatically lead to the petitionâs dismissal.
+[35]
+  The Rules of Court has not been intended to be totally rigid. In fact, the Rules of Court provides that the Supreme Court âmay require or allow the filing of such pleadings, briefs, memoranda or documents as it may deem necessary within such periods and under such conditions as it may consider appropriate";
+[36]
+ and "[i]f the petition is given due course, the Supreme Court may require the elevation of the complete record of the case or specified parts thereof within fifteen (15) days from notice."
+[37]
+ These provisions are in keeping with the overriding standard that procedural rules should be liberally construed to promote their objective and to assist the parties in obtaining a just, speedy and inexpensive determination of every action or proceeding.
+[38]
+Under this guiding principle, we do not see Metrobankâs omission to be a fatal one that should warrant the petitionâs outright dismissal. To be sure, the omission to submit the adverse partyâs pleadings in a petition before the Court is not a commendable practice as it may lead to an unduly biased narration of facts and arguments that masks the real issues before the Court. Such skewed presentation could lead to the waste of the Courtâs time in sifting through the maze of the partiesâ narrations of facts and arguments and is a danger the Rules of Court seeks to avoid.
+Our examination of Metrobankâs petition shows that it contains AMCâs opposition to its motion to admit fourth-party complaint among its annexes. The rest of the pleadings have been subsequently submitted as attachments in Metrobankâs Reply. A reading of these pleadings shows that their arguments are the same as those stated in the orders of the trial court and the Court of Appeals. Thus, even if Metrobankâs petition did not contain some of AMCâs pleadings, the Court still had the benefit of a clear narration of facts and arguments according to both partiesâ perspectives. In this broader view, the mischief that the Rules of Court seeks to avoid has not really been present. If at all, the omission is not a grievous one that the spirit of liberality cannot address.
+The Merits of the Main Issue
+The main issue poses to us two essential points that must be addressed. 
+First,
+ are quasi-contracts included in claims that should be filed pursuant to Rule 86, Section 5 of the Rules of Court? 
+Second
+, if so, is Metrobankâs claim against the Estate of Jose Chua based on a quasi- contract?
+Quasi-contracts are included in
+claims that should be filed under Rule
+86, Section 5 of the Rules of Court
+In 
+Maclan v. Garcia
+,
+[39]
+ Gabriel Maclan filed a civil case to recover from Ruben Garcia the necessary expenses he spent as possessor of a piece of land. Garcia acquired the land as an heir of its previous owner. He set up the defense that this claim should have been filed in the special proceedings to settle the estate of his predecessor. Maclan, on the other hand, contended that his claim arises from law and not from contract, express or implied. Thus, it need not be filed in the settlement of the estate of Garciaâs predecessor, as mandated by Section 5, Rule 87 of the Rules of Court (now Section 5, Rule 86).
+The Court held under these facts that a claim for necessary expenses spent as previous possessor of the land is a kind of quasi-contract. Citing 
+Leung Ben v. OâBrien
+,
+[40]
+ it explained that the term âimplied contracts,â as used in our remedial law, originated from the common law where obligations derived from quasi-contracts and from law are both considered as implied contracts. Thus, the term quasi-contract is included in the concept âimplied contractsâ as used in the Rules of Court. Accordingly, liabilities of the deceased arising from quasi-contracts should be filed as claims in the settlement of his estate, as provided in Section 5, Rule 86 of the Rules of Court.
+[41]
+Metrobankâs fourth-party complaint
+is based on quasi-contract
+Both the RTC and the CA described Metrobankâs claim against Chuaâs estate as one based on quasi-contract. A quasi-contract involves a juridical relation that the law creates on the basis of certain voluntary, unilateral and lawful acts of a person, to avoid unjust enrichment.
+[42]
+ The Civil Code provides an enumeration of quasi-contracts,
+[43]
+ but the list is not exhaustive and merely provides examples.
+[44]
+According to the CA, Metrobankâs fourth-party complaint falls under the quasi-contracts enunciated in Article 2154 of the Civil Code.
+[45]
+ Article 2154 embodies the concept â
+solutio indebiti
+â which arises when something is delivered through mistake to a person who has no right to demand it. It obligates the latter to return what has been received through mistake.
+[46]
+Solutio indebiti
+, as defined in Article 2154 of the Civil Code, has two indispensable requisites: 
+first
+, that something has been unduly delivered through mistake; and 
+second
+, that something was received when there was no right to demand it.
+[47]
+In its fourth-party complaint, Metrobank claims that Chuaâs estate should reimburse it if it becomes liable on the checks that it deposited to Ayala Lumber and Hardwareâs account upon Chuaâs instructions.
+This fulfills the requisites of
+ solutio indebiti.
+ First, Metrobank acted in a manner akin to a mistake when it deposited the AMC checks to Ayala Lumber and Hardwareâs account; because of Chuaâs control over AMCâs operations, Metrobank assumed that the checks payable to AMC could be deposited to Ayala Lumber and Hardwareâs account. Second, Ayala Lumber and Hardware had no right to demand and receive the checks that were deposited to its account; despite Chuaâs control over AMC and Ayala Lumber and Hardware, the two entities are distinct, and checks exclusively and expressly payable to one cannot be deposited in the account of the other. This disjunct created an obligation on the part of Ayala Lumber and Hardware, through its sole proprietor, Chua, to return the amount of these checks to Metrobank.
+The Court notes, however, that its description of Metrobankâs fourth- party complaint as a claim closely analogous to 
+solutio indebiti 
+is only to determine the validity of the lower courtsâ orders denying it. It is not an adjudication determining the liability of Chuaâs estate against Metrobank. The appropriate trial court should still determine whether Metrobank has a lawful claim against Chuaâs estate based on quasi-contract.
+Metrobankâs fourth-party complaint, 
+as a contingent claim, falls within the 
+claims that should be filed under Section 5,
+Rule 86 of the Rules of Court
+A distinctive character of Metrobankâs fourth-party complaint is its contingent nature â the claim depends on the possibility that Metrobank would be adjudged liable to AMC, a future event that may or may not happen. This characteristic unmistakably marks the complaint as a contingent one that must be included in the claims falling under the terms of Section 5, Rule 86 of the Rules of Court:
+Sec. 5. Claims which must be filed under the notice. If not filed, barred; exceptions. â All claims for money against the decedent, arising from contract, express or 
+implied
+, whether the same be due, not due, or 
+contingent
+, all claims for funeral expenses and expenses for the last sickness of the decedent, and judgment for money against the decedent, must be filed within the time limited in the notice[.] [italics ours]
+Specific provisions of Section 5, Rule 86 of the 
+Rules of Court prevail over general provisions 
+of Section 11, Rule 6 of the Rules of Court
+Metrobank argues that Section 11, Rule 6 of the Rules of Court should apply because it impleaded Chuaâs estate for reimbursement in the same transaction upon which it has been sued by AMC. On this point, the Court supports the conclusion of the CA, to wit:
+Notably, a comparison of the respective provisions of Section 11, Rule 6 and Section 5, Rule 86 of the Rules of Court readily shows that Section 11, Rule 6 applies to ordinary civil actions while Section 5, Rule 86 specifically applies to money claims against the estate. The specific provisions of Section 5, Rule 86 x x x must therefore prevail over the general provisions of Section 11, Rule 6[.]
+[48]
+We read with approval the CAâs use of the statutory construction principle of 
+lex specialis derogat generali
+, leading to the conclusion that the specific provisions of Section 5, Rule 86 of the Rules of Court should prevail over the general provisions of Section 11, Rule 6 of the Rules of Court; the settlement of the estate of deceased persons (where claims against the deceased should be filed) is primarily governed by the rules on special proceedings, while the rules provided for ordinary claims, including Section 11, Rule 6 of the Rules of Court, merely apply suppletorily.
+[49]
+In sum, on all counts in the considerations material to the issues posed, the resolution points to the affirmation of the assailed CA decision and resolution. Metrobank's claim in its fourth-party complaint against Chua's estate is based on quasi-contract. It is also a contingent claim that depends on another event. Both belong to the category of claims against a deceased person that should be filed under Section 5, Rule 86 of the Rules of Court and, as such, should have been so filed in Special Proceedings No. 99-0023.
+WHEREFORE
+, premises considered, we hereby 
+DENY
+ the petition for lack of merit. The decision of the Court of Appeals dated August 25, 2005, holding that the Regional Trial Court of Quezon City, Branch 80, did not commit grave abuse of discretion in denying Metropolitan Bank & Trust Company's motion for leave to admit fourth-party complaint is 
+AFFIRMED
+. Costs against Metropolitan Bank & Trust Company.
+SO ORDERED.
+Carpio, (Chairperson), Del Castillo, Perez
+, and 
+Perlas-Bernabe, JJ
+., concur.
+[1]
+ 
+Rollo
+, pp. 9-18.
+[2]
+ Id. at 24-32. Penned by Associate Justice Fernanda Lampas Peralta, and concurred in by Associate Justices Ruben T. Reyes (now a retired member of this Court) and Josefina Guevara-Salonga.
+[3]
+ Id. at 34-35.
+[4]
+Id. at 121-123. Penned by Judge Agustin S. Dizon.
+[5]
+ Id. at 110-1 13.
+[6]
+ Id. at 25.
+[7]
+ Id. at 232-233.
+[8]
+ Id. at 233.
+[9]
+ Id. at 11.
+[10]
+ Id. at 233.
+[11]
+ Id. at 147-156.
+[12]
+ Id. at 48-50.
+[13]
+ Id. at 76-77.
+[14]
+ Id. at 51-60.
+[15]
+ Order dated May 23, 2001; id. at 68-70.
+[16]
+ Order dated June 4, 2002; id. at 78.
+[17]
+ Id. at 11.
+[18]
+ Id. at 72-75.
+[19]
+ Id. at 86-87.
+[20]
+ Id. at 88-93.
+[21]
+ Id. at 94.
+[22]
+ Id. at 12.
+[23]
+ Id. at 95-101.
+[24]
+ Supra note 5.
+[25]
+ Supra note 4.
+[26]
+ 
+Rollo,
+ pp. 128-129.
+[27]
+ Id. at 122.
+[28]
+ Id. at 130-141.
+[29]
+ Supra notes 2 and 3.
+[30]
+ Supra note 1.
+[31]
+ Supra note 7.
+[32]
+ Sec. 4. 
+Contents of petition
+. â The petition shall be filed in eighteen (18) copies, with the original copy intended for the court being indicated as such by the petitioner, and shall (a) state the full name of the appealing party as the petitioner and the adverse party as respondent, without impleading the lower courts or judges thereof either as petitioners or respondents; (b) indicate the material dates showing when notice of the judgment or final order or resolution subject thereof was received, when a motion for new trial or reconsideration, if any, was filed and when notice of the denial thereof was received; (c) set forth concisely a statement of the matters involved, and the reasons or arguments relied on for the allowance of the petition; (d) be accompanied by a clearly legible duplicate original, or a certified true copy of the judgment or final order or resolution certified by the clerk of court of the court a quo and the requisite number of plain copies thereof, 
+and such material portions of the record as would support the petition
+; and (e) contain a sworn certification against forum shopping as provided in the last paragraph of section 2, Rule 42. [italics ours]
+[33]
+ Sec. 5. Dismissal or denial of petition. â The
+ failure of the petitioner to comply with any of the foregoing requirements
+ regarding the payment of the docket and other lawful fees, deposit for costs, proof of service of the petition, and the contents of and the documents which should accompany the petition shall be sufficient ground for the dismissal thereof. [italics ours]
+[34]
+ G.R. No. 171238, February 2, 2011, 641 SCRA 390.
+[35]
+ Id. at 401.
+[36]
+ Section 7, Rule 45 of the Rules of Court provides:
+âPleadings and documents that may be required; sanctions. â For purposes of determining whether the petition should be dismissed or denied pursuant to section 5 of this Rule, or where the petition is given due course under section 8 hereof, the 
+Supreme Court may require or allow the filing of such pleadings, briefs, memoranda or documents as it may deem necessary
+ within such periods and under such conditions as it may consider appropriate, and impose the corresponding sanctions in case of non-filing or unauthorized filing of such pleadings and documents or noncompliance with the conditions thereof.â (italics ours)
+[37]
+ Section 8, Rule 45 of the Rules of Court provides:
+âDue course; elevation of records. â If the petition is given due course, the Supreme Court may require the elevation of the complete record of the case or specified parts thereof within fifteen (15) days from notice.â
+[38]
+ 
+F.A.T. Kee Computer Systems, Inc. v. Online Networks International, Inc., supra
+ note 34, at 401-402.
+[39]
+ 97 Phil. 119 (1955).
+[40]
+ 38 Phil. 182, 189-194 (1918).
+[41]
+ 
+Maclan v. Garcia
+, supra note 39, at 123-124.
+[42]
+ Cruz v. J.M. Tuason Company, Inc.,
+ 167 Phil. 261, 276-277 (1977).
+[43]
+ See CIVIL CODE, Articles 2144, 2154, 2164-2175.
+[44]
+ Article 2143 of the Civil Code provides:
+âThe provisions for quasi-contracts in this Chapter do not exclude other quasi-contracts which may come within the purview of the preceding article.â
+The number of the quasi-contracts may be indefinite as may be the number of lawful facts, the generations of the said obligations; but the Code, just as we shall see further on, in the impracticableness of enumerating or including them all in a methodical and orderly classification, has concerned itself with two only â namely, the management of the affairs of other persons and the recovery of things improperly paid â without attempting by this to exclude the others. (Manresa, 2d ed., vol. 12, p. 549, as cited in 
+Leung Ben v. OâBrien
+, supra note 40, at 195.)
+[45]
+ 
+Rollo
+, p. 30.
+[46]
+ 
+Andres v. Manufacturers Hanover & Trust Corporation,
+ G.R. No. 82670, September 15, 1989, 177 SCRA 618, 622, citing
+ Velez v. Balzarza
+, 73 Phil. 630 (1942); and
+ City of Cebu v. Piccio
+, 110 Phil. 558, 563 (1960).
+[47]
+ 
+Philippine National Bank v. Court of Appeals, 
+G.R. No. 97995, January 21, 1993, 217 SCRA 347, 355.
+[48]
+ 
+Rollo,
+ p. 28.
+[49]
+ Id. at 28-29.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

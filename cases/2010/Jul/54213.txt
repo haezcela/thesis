@@ -1,0 +1,282 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			639 Phil. 371
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 166250, July 26, 2010 ]
+
+
+UNSWORTH TRANSPORT INTERNATIONAL (PHILS.), INC., PETITIONER, VS. COURT OF APPEALS AND PIONEER INSURANCE AND SURETY CORPORATION, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+NACHURA, J.:
+
+
+For review is the Court of Appeals (CA) Decision
+[1]
+ dated April 29, 2004 and Resolution
+[2]
+ dated November 26, 2004. The assailed Decision affirmed the Regional Trial Court (RTC) decision
+[3]
+ dated February 22, 2001; while the assailed Resolution denied petitioner Unsworth Transport International (Philippines), Inc., American President Lines, Ltd. (APL), and Unsworth Transport International, Inc.'s (UTI's) motion for reconsideration.
+The facts of the case are:
+On August 31, 1992, the shipper Sylvex Purchasing Corporation delivered to UTI a shipment of 27 drums of various raw materials for pharmaceutical manufacturing, consisting of:  "1) 3 drums (of) extracts, flavoring liquid, flammable liquid x x x banana flavoring; 2) 2 drums (of) flammable liquids x x x turpentine oil; 2 pallets. STC: 40 bags dried yeast; and 3) 20 drums (of) Vitabs: Vitamin B Complex Extract."
+[4]
+ UTI issued Bill of Lading No. C320/C15991-2,
+[5]
+ covering the aforesaid shipment.  The subject shipment was insured with private respondent Pioneer Insurance and Surety Corporation in favor of Unilab against all risks in the amount of P1,779,664.77 under and by virtue of Marine Risk Note Number MC RM UL 0627 92
+[6]
+ and Open Cargo Policy No. HO-022-RIU.
+[7]
+On the same day that the bill of lading was issued, the shipment was loaded in a sealed 1x40 container van, with no. APLU-982012, boarded on APL's vessel 
+M/V "Pres. Jackson
+," Voyage 42, and transshipped to APL's 
+M/V "Pres. Taft
+"
+[8]
+ for delivery to petitioner in favor of the consignee United Laboratories, Inc. (Unilab).
+On September 30, 1992, the shipment arrived at the port of Manila. On October 6, 1992, petitioner received the said shipment in its warehouse after it stamped the Permit to Deliver Imported Goods
+[9]
+ procured by the Champs Customs Brokerage.
+[10]
+  Three days thereafter, or on October 9, 1992, Oceanica Cargo Marine Surveyors Corporation (OCMSC) conducted a stripping survey of the shipment located in petitioner's warehouse. The survey results stated:
+2-pallets STC 40 bags Dried Yeast, both in good order condition and properly sealed
+19- steel drums STC Vitamin B Complex Extract, all in good order condition and properly sealed
+1-steel drum STC Vitamin B Complex Extra
+[ct]
+ with cut/hole on side, with approx. spilling of 1%
+[11]
+On October 15, 1992, the arrastre Jardine Davies Transport Services, Inc. (Jardine) issued Gate Pass No. 7614
+[12]
+ which stated that "22 drums
+[13]
+ Raw Materials for Pharmaceutical Mfg." were loaded on a truck with Plate No. PCK-434 facilitated by Champs for delivery to Unilab's warehouse. The materials were noted to be complete and in good order in the gate pass.
+[14]
+ On the same day, the shipment arrived in Unilab's warehouse and was immediately surveyed by an independent surveyor, J.G. Bernas Adjusters & Surveyors, Inc. (J.G. Bernas). The Report stated:
+1-p/bag torn on side contents partly spilled
+1-s/drum #7 punctured and retaped on bottom side content lacking
+5-drums shortship/short delivery
+[15]
+On October 23 and 28, 1992, the same independent surveyor conducted final inspection surveys which yielded the same results. Consequently, Unilab's quality control representative rejected one paper bag containing dried yeast and one steel drum containing Vitamin B Complex as unfit for the intended purpose.
+[16]
+On November 7, 1992, Unilab filed a formal claim
+[17]
+ for the damage against private respondent and UTI. On November 20, 1992, UTI denied liability on the basis of the gate pass issued by Jardine that the goods were in complete and good condition; while private respondent paid the claimed amount on March 23, 1993. By virtue of the Loss and Subrogation Receipt
+[18]
+  issued by Unilab in favor of private respondent, the latter filed a complaint for 
+Damages 
+against APL, UTI and petitioner with the RTC of Makati.
+[19]
+ The case was docketed as Civil Case No. 93-3473 and was raffled to Branch 134.
+After the termination of the pre-trial conference, trial on the merits ensued. On February 22, 2001, the RTC decided in favor of private respondent and against APL, UTI and petitioner, the dispositive portion of which reads:
+WHEREFORE, judgment is hereby rendered in favor of plaintif PIONEER INSURANCE & SURETY CORPORATION and against the defendants AMERICAN PRESIDENT LINES and UNSWORTH TRANSPORT INTERNATIONAL (PHILS.), INC. (now known as JUGRO TRANSPORT INT'L., PHILS.), ordering the latter to pay, jointly and severally, the former the following amounts:
+The sum of SEVENTY SIX THOUSAND TWO HUNDRED THIRTY ONE and 27/100 (Php76,231.27) with interest at the legal rate of 6% per annum to be computed starting from September 30, 1993 until fully paid, for and as actual damages;
+The amount equivalent to 25% of the total sum as attorney's fees;
+Cost of this litigation.
+SO ORDERED.
+[20]
+On appeal, the CA affirmed the RTC decision on April 29, 2004. The CA rejected UTI's defense that it was merely a forwarder, declaring instead that it was a common carrier. The appellate court added that by issuing the Bill of Lading, UTI acknowledged receipt of the goods and agreed to transport and deliver them at a specific place to a person named or his order. The court further concluded that upon the delivery of the subject shipment to petitioner's warehouse, its liability became similar to that of a depositary. As such, it ought to have exercised ordinary diligence in the care of the goods. And as found by the RTC, the CA agreed that petitioner failed to exercise the required diligence. The CA also rejected petitioner's claim that its liability should be limited to $500 per package pursuant to the Carriage of Goods by Sea Act (COGSA) considering that the value of the shipment was declared pursuant to the letter of credit and the pro forma invoice. As to APL, the court considered it as a common carrier notwithstanding the non-issuance of a bill of lading inasmuch as a bill of lading is not indispensable for the execution of a contract of carriage.
+[21]
+Unsatisfied, petitioner comes to us in this petition for review on 
+certiorari
+, raising the following issues:
+1. WHETHER OR NOT THE HONORABLE COURT OF APPEALS COMMITTED GRAVE ABUSE OF DISCRETION AMOUNTING TO LACK OR EXCESS OF JURISDICTION IN UPHOLDING THE DECISION OF THE REGIONAL TRIAL COURT DATED 22 FEBRUARY 2001, AWARDING THE SUM OF SEVENTY SIX THOUSAND TWO HUNDRED THIRTY ONE AND 27/100 PESOS (PHP76,231.27) WITH LEGAL INTEREST AT 6% PER ANNUM AS ACTUAL DAMAGES AND 25% AS ATTORNEY'S FEES.
+2. WHETHER OR NOT PETITIONER UTI IS A COMMON CARRIER.
+3. WHETHER OR NOT PETITIONER UTI EXERCISED THE REQUIRED ORDINARY DILIGENCE.
+4. WHETHER OR NOT THE PRIVATE RESPONDENT SUFFICIENTLY ESTABLISHED THE ALLEGED DAMAGE TO ITS CARGO.
+[22]
+Petitioner admits that it is a forwarder but disagrees with the CA's conclusion that it is a common carrier. It also questions the appellate court's findings that it failed to establish that it exercised extraordinary or ordinary diligence in the vigilance over the subject shipment. As to the damages allegedly suffered by private respondent, petitioner counters that they were not sufficiently proven. Lastly, it insists that its liability, in any event, should be limited to $500 pursuant to the package limitation rule. Indeed, petitioner wants us to review the factual findings of the RTC and the CA and to evaluate anew the evidence presented by the parties.
+The petition is partly meritorious.
+Well established is the rule that factual questions may not be raised in a petition for review on 
+certiorari
+ as clearly stated in Section 1, Rule 45 of the Rules of Court, 
+viz.
+:
+Section 1. 
+Filing of petition with Supreme Court. 
+- A party desiring to appeal by 
+certiorari
+ from a judgment or final order or resolution of the Court of Appeals, the Sandiganbayan, the Regional Trial Court or other courts whenever authorized by law, may file with the Supreme Court a verified petition for review on 
+certiorari
+. The petition shall raise only questions of law which must be distinctly set forth.
+Admittedly, petitioner is a freight forwarder. The term "freight forwarder" refers to a firm holding itself out to the general public (other than as a pipeline, rail, motor, or water carrier) to provide transportation of property for compensation and, in the ordinary course of  its business, (1) to
+assemble and consolidate, or to provide for assembling and consolidating, shipments, and to perform or provide for break-bulk and distribution operations of the shipments; (2) to assume responsibility for the transportation of goods from the place of receipt to the place of destination; and (3) to use for any part of the transportation a carrier subject to the federal law pertaining to common carriers.
+[23]
+A freight forwarder's liability is limited to damages arising from its own negligence, including negligence in choosing the carrier; however, where the forwarder contracts to deliver goods to their destination instead of merely arranging for their transportation, it becomes liable as a common carrier for loss or damage to goods. A freight forwarder assumes the responsibility of a carrier, which actually executes the transport, even though the forwarder does not carry the merchandise itself.
+[24]
+It is undisputed that UTI issued a bill of lading in favor of Unilab. Pursuant thereto, petitioner undertook to transport, ship, and deliver the 27 drums of raw materials for pharmaceutical manufacturing to the consignee.
+A bill of lading is a written acknowledgement of the receipt of goods and an agreement to transport and to deliver them at a specified place to a person named or on his or her order.
+[25]
+ It operates both as a receipt and as a contract.  It is a receipt for the goods shipped and a contract to transport and
+deliver the same as therein stipulated. As a receipt, it recites the date and place of shipment, describes the goods as to quantity, weight, dimensions, identification marks, condition, quality, and value. As a contract, it names the contracting parties, which include the consignee; fixes the route, destination, and freight rate or charges; and stipulates the rights and obligations assumed by the parties.
+[26]
+Undoubtedly, UTI is liable as a common carrier. Common carriers, as a general rule, are presumed to have been at fault or negligent if the goods they transported deteriorated or got lost or destroyed. That is, unless they prove that they exercised extraordinary diligence in transporting the goods. In order to avoid responsibility for any loss or damage, therefore, they have the burden of proving that they observed such diligence.
+[27]
+ Mere proof of delivery of the goods in good order to a common carrier and of their arrival in bad order at their destination constitutes a prima facie case of fault or negligence against the carrier. If no adequate explanation is given as to how the deterioration, loss, or destruction of the goods happened, the transporter shall be held responsible.
+[28]
+Though it is not our function to evaluate anew the evidence presented, we refer to the records of the case to show that, as correctly found by the RTC and the CA, petitioner failed to rebut the prima facie presumption of negligence in the carriage of the subject shipment.
+First
+, as stated in the bill of lading, the subject shipment was received by UTI in apparent good order and condition in New York, United States of America. 
+Second
+, the OCMSC Survey Report stated that one steel drum STC Vitamin B Complex Extract was discovered to be with a cut/hole on the side, with approximate spilling of 1%. 
+Third
+, though Gate Pass No. 7614, issued by Jardine, noted that the subject shipment was in good order and condition, it was specifically stated that there were 22 (should be 27 drums per Bill of Lading No. C320/C15991-2) drums of raw materials for pharmaceutical manufacturing. 
+Last
+, J.G. Bernas' Survey Report stated that "1-s/drum was punctured and retaped on the bottom side and the content was lacking, and there was a short delivery of 5-drums."
+All these conclusively prove the fact of shipment in good order and condition, and the consequent damage to one steel drum of Vitamin B Complex Extract while in the possession of petitioner which failed to explain the reason for the damage. Further, petitioner failed to prove that it observed the extraordinary diligence and precaution which the law requires a common carrier to exercise and to follow in order to avoid damage to or destruction of the goods entrusted to it for safe carriage and delivery.
+[29]
+However, we affirm the applicability of the Package Limitation Rule under the COGSA, contrary to the RTC and the CA's findings.
+It is to be noted that the Civil Code does not limit the liability of the common carrier to a fixed amount per package. In all matters not regulated by the Civil Code, the rights and obligations of common carriers are governed by the Code of Commerce and special laws. Thus, the COGSA supplements the Civil Code by establishing a provision limiting the carrier's liability in the absence of a shipper's declaration of a higher value in the bill of lading.
+[30]
+ Section 4(5) of the COGSA provides:
+(5) Neither the carrier nor the ship shall in any event be or become liable for any loss or damage to or in connection with the transportation of goods in an amount exceeding $500 per package of lawful money of the United States, or in case of goods not shipped in packages, per customary freight unit, or the equivalent of that sum in other currency, unless the nature and value of such goods have been declared by the shipper before shipment and inserted in the bill of lading. This declaration, if embodied in the bill of lading, shall be 
+prima facie 
+evidence, but shall not be conclusive on the carrier.
+In the present case, the shipper did not declare a higher valuation of the goods to be shipped. Contrary to the CA's conclusion, the insertion of the words "L/C No.  LC No. 1-187-008394/ NY 69867 covering shipment of raw materials for pharmaceutical Mfg. x x x" cannot be the basis of petitioner's liability.
+[31]
+  Furthermore, the insertion of an invoice number does not in itself sufficiently and convincingly show that petitioner had knowledge of the value of the cargo.
+[32]
+In light of the foregoing, petitioner's liability should be limited to $500 per steel drum. In this case, as there was only one drum lost, private respondent is entitled to receive only $500 as damages for the loss. In addition to said amount, as aptly held by the trial court, an interest rate of 6% 
+per annum
+ should also be imposed, plus 25% of the total sum as attorney's fees.
+WHEREFORE
+, premises considered, the petition is 
+PARTIALLY GRANTED
+. The Court of Appeals Decision dated April 29, 2004 and Resolution dated November 26, 2004 are 
+AFFIRMED
+ with 
+MODIFICATION
+ by reducing the principal amount due private respondent Pioneer Insurance and Surety Corporation from P76,231.27 to $500, with interest of 6% 
+per annum
+ from date of demand, and 25% of the amount due as attorney's fees.
+The other aspects of the assailed Decision and Resolution 
+STAND
+.
+SO ORDERED
+.
+Carpio, (Chairperson), Peralta, Abad,
+ and
+ Mendoza, JJ
+., concur.
+[1]
+ Penned by Associate Justice Mariano C. del Castillo (now a member of this Court), with Associate Justices Marina L. Buzon and Magdangal M. de Leon, concurring; 
+rollo
+, pp. 79-98.
+[2]
+ Id. at 129.
+[3]
+ Penned by Presiding Judge Ignacio M. Capulong; records, pp. 443-456.
+[4]
+ 
+Rollo
+, p. 80.
+[5]
+ Exh. "C" and "C1"; records, pp. 242-243.
+[6]
+ Exh. "B"; id. at 234.
+[7]
+ Exh. "B-1" to "B-7"; id. at 235-241.
+[8]
+ 
+Rollo
+, p. 81.
+[9]
+ Exh. "3-APL" and Exh. "5-Unsworth"; records, p. 378.
+[10]
+ 
+Rollo
+, p. 81.
+[11]
+ Exh. "G-2"; records, p. 249.
+[12]
+ Exh. "1-APL" and Exh. "1-Unsworth"; id. at 372.
+[13]
+ As opposed to 27 drums as stated in the Bill of Lading.
+[14]
+ 
+Rollo
+, p. 82.
+[15]
+ Exh. "H"; records, p. 250.
+[16]
+ 
+Rollo
+, p. 83.
+[17]
+ Exh. "A"; records, p. 233.
+[18]
+ Exh. "K"; id. at 255.
+[19]
+ Records, pp. 1-4.
+[20]
+ Id. at 455-456.
+[21]
+ 
+Rollo
+, pp. 85-97.
+[22]
+ Id. at 399.
+[23]
+ 
+Chemsource, Inc. v. Hub Group, Inc.
+, 106 F. 3d 1358, C.A. 7 (Ill.) (1997).
+[24]
+ 
+Motorola, Inc. v. Federal Exp. Corp., 
+308 F. 3d 995, C.A. 9 (Cal.) (2002).
+[25]
+ 
+V. Rivera S. En C. v. Texas & N.O.R. Co., 
+211 La. 969, 31 So. 2d 180, 172 A.L.R. 791 (1947).
+[26]
+ 
+Iron Bulk Shipping Phil. Co., Ltd. v. Remington Industrial Sales Corporation
+, 462 Phil. 694, 704 (2003), citing 
+Phoenix Assurance Co., Ltd. v. United States Lines
+, No. L-24033, February 22, 1968, 22 SCRA 674, 678.
+[27]
+ 
+Belgian Overseas Chartering and Shipping N.V. v. Philippine First Insurance Co., Inc.
+, 432 Phil. 567, 579 (2002).
+[28]
+ Id. at 580.
+[29]
+ 
+  
+Id. at 582.
+[30]
+ 
+  
+Id. at 587.
+[31]
+ Id.
+[32]
+ See 
+Everett Steamship Corp. v. CA
+, 358 Phil. 129 (1998).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

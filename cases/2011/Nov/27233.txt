@@ -1,0 +1,359 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			677 Phil. 219
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 184428, November 23, 2011 ]
+
+
+COMMISSIONER OF INTERNAL REVENUE, PETITIONER, VS. SAN MIGUEL CORPORATION, RESPONDENT.
+D E C I S I O N
+
+
+
+
+VILLARAMA, JR., J.:
+
+
+Elevated before us via a petition for review on certiorari under Rule 45 of the 
+1997 Rules of Civil Procedure
+, as amended, is the Decision
+[1]
+ of the Court of Tax Appeals (CTA) En Banc in C.T.A. EB No. 360 on a pure question of law, that is, whether the last paragraph of Section 1 of Bureau of Internal Revenue (BIR) 
+Revenue Regulations No. 17-99
+ faithfully complies with the mandate of Section 143 of the 
+Tax Reform Act of 1997
+.
+The facts are undisputed:
+Respondent San Miguel Corporation, a domestic corporation engaged in the manufacture and sale of fermented liquor, produces as one of its products âRed Horseâ beer which is sold in 500-ml. and 1-liter bottle variants.
+On January 1, 1998, Republic Act (R.A.) No. 8424 or the 
+Tax Reform Act of 1997
+ took effect.  It reproduced, as Section 143 thereof, the provisions of Section 140 of the old 
+National Internal Revenue Code
+ as amended by R.A. No. 8240
+[2]
+ which became effective on January 1, 1997.  Section 143 of the 
+Tax Reform Act of 1997
+ reads:
+SEC. 143. 
+Fermented Liquor
+. - There shall be levied, assessed and collected an excise tax on beer, lager beer, ale, porter and other fermented liquors except tuba, basi, tapuy and similar domestic fermented liquors in accordance with the following schedule:
+(a) If the net retail price (excluding the excise tax and value-added tax) per liter of volume capacity is less than Fourteen pesos and fifty centavos (P14.50), the tax shall be Six pesos and fifteen centavos (P6.15) per liter;
+(b) If the net retail price (excluding the excise tax and the value-added tax) per liter of volume capacity is Fourteen pesos and fifty centavos (P14.50) up to Twenty-two pesos (P22.00), the tax shall be Nine pesos and fifteen centavos (P9.15) per liter;
+(c) If the net retail price (excluding the excise tax and the value-added tax) per liter of volume capacity is more than Twenty-two pesos (P22.00), the tax shall be Twelve pesos and fifteen centavos (P12.15) per liter.
+Variants of existing brands which are introduced in the domestic market after the effectivity of Republic Act No. 8240 shall be taxed under the highest classification of any variant of that brand.
+Fermented liquor which are brewed and sold at micro-breweries or small establishments such as pubs and restaurants shall be subject to the rate in paragraph (c) hereof.
+The excise tax from any brand of fermented liquor within the next three (3) years from the effectivity of Republic Act No. 8240 shall not be lower than the tax which was due from each brand on October 1, 1996.
+The rates of excise tax on fermented liquor under paragraphs (a), (b) and (c) hereof shall be increased by twelve percent (12%) on January 1, 2000.
+x x x x (Emphasis and underscoring supplied.)
+Thereafter, on December 16, 1999, the Secretary of Finance issued 
+Revenue Regulations No. 17-99
+ increasing the applicable tax rates on fermented liquor by 12% as follows:
+ 
+ 
+SECTION
+ 
+DESCRIPTION OF
+  ARTICLES
+ 
+PRESENT 
+ SPECIFIC  TAX RATES
+ 
+(Prior to January 1, 2000)
+ 
+NEW SPECIFIC
+  TAX RATES
+  
+(Effective January 1, 2000)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x x x x
+ 
+ 
+ 
+ 
+ 
+ 
+143
+ 
+FERMENTED LIQUORS
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Net Retail Price per liter (excluding VAT & Excise) is less than P14.50
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P6.15/liter
+ 
+P6.89/liter
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) Net Retail Price per liter (excluding VAT & Excise) is P14.50 up to P22.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P9.15/liter
+ 
+P10.25/liter
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) Net Retail Price per liter (excluding VAT & Excise) is more than P22.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P12.15/liter
+ 
+P13.61/liter
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x x x x
+ 
+ 
+ 
+ 
+ 
+This increase, however, was qualified by the last paragraph of Section 1 of 
+Revenue Regulations No. 17-99
+ which reads:
+Provided, however, that the new specific tax rate for any existing brand of cigars, cigarettes packed by machine, distilled spirits, wines and fermented liquors 
+shall not be lower than the excise tax that is actually being paid prior to January 1, 2000
+. (Emphasis and underscoring supplied.)
+Now, for the period June 1, 2004 to December 31, 2004, respondent was assessed and paid excise taxes amounting to P2,286,488,861.58
+[3]
+ for the 323,407,194 liters of Red Horse beer products removed from its plants. Said amount was computed based on the tax rate of P7.07/liter or the tax rate which was being applied to its products prior to January 1, 2000, as the last paragraph of Section 1 of 
+Revenue Regulations No. 17-99
+ provided that the new specific tax rate for fermented liquors â
+shall not be lower than the excise tax that is actually being paid prior to January 1, 2000
+.â
+[4]
+   Respondent, however, later contended that the said qualification in the last paragraph of Section 1 of 
+Revenue Regulations No. 17-99
+ has no basis in the plain wording of Section 143.  Respondent argued that the applicable tax rate was only the P 6.89/liter tax rate stated in 
+Revenue Regulations No. 17-99
+, and that accordingly, its excise taxes should have been only P2,228,275,566.66.
+On May 22, 2006, respondent filed before the BIR a claim for refund or tax credit of the amount of P60,778,519.56
+[5]
+ as erroneously paid excise taxes for the period of May 22, 2004 to December 31, 2004.  Later, said amount was reduced to P58,213,294.92 because of prescription.  As the petitioner Commissioner of Internal Revenue (CIR) failed to act on the claim, respondent filed a petition for review with the CTA.
+[6]
+On September 26, 2007,
+[7]
+ the CTA Second Division granted the petition and ordered petitioner to refund P58,213,294.92 to respondent or to issue in the latterâs favor a Tax Credit Certificate for the said amount for the erroneously paid excise taxes.  The CTA held that 
+Revenue Regulations No. 17-99
+ modified or altered the mandate of Section 143 of the Tax Reform Act of 1997.  The CTA Second Division held,
+A reading of Section 143 of the [Tax Reform Act] of 1997, as amended, clearly shows that the law contemplated two periods with applicable excise tax rate  for each one: the first is the three-year transition period beginning January 1, 1997, the date when RA 8240 took effect, until December 31, 
+[1999]
+; and the second is the period thereafter.  During the transition period, 
+the excise tax rate shall not be lower than the tax rate which is due from each brand on October 1, 1996.
+  After the transitory period, 
+the excise tax rate shall be the figures provided under paragraphs (a), (b) and (c) of Section 143 of the [Tax Reform Act] of 1997, as amended, but increased by 12%, regardless of whether such rate is lower or higher than the tax rate that is actually being paid prior to January 1, 2000.
+On the other hand, an analysis of the last paragraph of [Revenue Regulations No.] 17-99 would reveal that it created a new tax rate or a new requirement when it provided that 
+âthe new specific tax rate for any existing brand of cigars, cigarettes packed by machine, distilled spirits, wines and fermented liquors shall not be lower than the excise tax that is actually being paid prior to January 1, 2000.â
+  This is indeed a situation not intended by Section 143 of the [Tax Reform Act] of 1997, as amended, both in letter and in spirit.  Rather, it is a clear contradiction to the import of the law.
+[8]
+  (Emphasis supplied.)
+Petitioner sought reconsideration
+[9]
+ of the above decision, but the CTA Second Division denied petitionerâs motion in a Resolution
+[10]
+ dated January 17, 2008.  Petitioner then filed a Petition for Review
+[11]
+ with the CTA En Banc.
+On August 7, 2008,
+[12]
+ the CTA En Banc affirmed the Decision and Resolution of the CTA Second Division.  The CTA En Banc held that â[c]onsidering that there is nothing in the law that allows the BIR to extend the three-year transitory period, and considering further that there is no provision in the law mandating that the new specific tax rate  should not be lower than the excise tax that is actually being paid prior to January 1, 2000, the last paragraph of [BIR Revenue Regulations No.] 17-99 has no basis in law and is inconsistent with the situation contemplated under the provisions of Section 143 of the [Tax Reform Act of 1997].  It is an unauthorized administrative legislation and, therefore, invalid.â
+[13]
+Undaunted, petitioner filed the instant petition for review on certiorari, raising the sole issue of whether the CTA committed reversible error in ruling that the provision in the last paragraph of Section 1 of 
+Revenue Regulations No. 17-99
+ is an invalid administrative interpretation of Section 143 of the 
+Tax Reform Act of 1997
+.
+Petitioner contends that the last paragraph of Section 1 of Revenue 
+Regulations No. 17-99
+ providing that âthe new specific tax rate for any brand of cigars, cigarettes packed by machine, distilled spirits, wines and fermented liquors shall not be lower than the excise tax that is actually being paid prior to January 1, 2000,â is a valid administrative interpretation of Section 143 of the Tax 
+Reform Act of 1997
+.  It carries out the legislative intent behind the enactment of R.A. No. 8240, which is to increase government revenues through the collection of higher excise taxes on fermented liquor.
+Petitioner further points out that Section 143 of the 
+Tax Reform Act of 1997
+ provides that for 3 years after the effectivity of R.A. No. 8240, 
+i.e.
+, from January 1, 1997 to December 31, 1999, the excise tax from any brand of fermented liquor shall not be lower than the tax due on October 1, 1996.  In the case of respondentâs Red Horse beer brand, the applicable tax rate was the applicable tax rate as of October 1, 1996, i.e., P7.07/liter, which was higher than the rate of P6.15/liter imposed under Section 143 of the 
+Tax Reform Act of 1997
+.  However, the CTA ruled that after the 3-year transition period, the 12% increase in the excise tax on fermented liquors should be based on the rates stated in paragraphs (a), (b), and (c) of Section 143.  Applying this interpretation, the rate of excise tax that may be collected on respondentâs Red Horse beer brand after the 3-year period would only be P6.89/liter, the figure arrived at after adding 12% to the rate of P6.15/liter imposed in paragraph (a) of Section 143. Petitioner argues that said literal interpretation of Section 143 defeats the legislative intent behind the shift from the
+ ad valorem
+ system to the specific tax system, 
+i.e.
+, to raise more revenues from the collection of taxes on the so-called âsinâ products like alcohol and cigarettes.
+Respondent, for its part, maintains the correctness of the CTAâs interpretation and stresses that as already held by this Court in 
+Commissioner of Internal Revenue v. Fortune Tobacco Corporation
+,
+[14]
+ the last paragraph of Section 1 of 
+Revenue Regulations No. 17-99
+ finds no support in the clear and plain wording of Section 143 of the 
+Tax Reform Act of 1997
+.
+We deny the petition for utter lack of merit.
+Section 143 of the 
+Tax Reform Act of 1997
+ is clear and unambiguous.  It provides for two periods: the first is the 3-year transition period beginning January 1, 1997, the date when R.A. No. 8240 took effect, until December 31, 1999; and the second is the period thereafter.  During the 3-year transition period, Section 143 provides that âthe excise tax from any brand of fermented liquorâ¦shall not be lower than the tax which was due from each brand on October 1, 1996.â After the transitory period, Section 143 provides that the excise tax rate shall be the figures provided under paragraphs (a), (b) and (c) of Section 143 but increased by 12%, without regard to whether such rate is lower or higher than the tax rate that is actually being paid prior to January 1, 2000 and therefore, without regard to whether the revenue collection starting January 1, 2000 may turn out to be lower than that collected prior to said date.  
+Revenue Regulations No. 17-99
+, however, 
+created a new tax rate
+ when it added in the last paragraph of Section 1 thereof, the qualification that the tax due after the 12% increase becomes effective âshall not be lower than the tax actually paid prior to January 1, 2000.â  As there is nothing in Section 143 of the 
+Tax Reform Act of 1997
+ which clothes the BIR with the power or authority to rule that the new specific tax rate should not be lower than the excise tax that is actually being paid prior to January 1, 2000, such interpretation is clearly an invalid exercise of the power of the Secretary of Finance to interpret tax laws and to promulgate rules and regulations necessary for the effective enforcement of the 
+Tax Reform Act of 1997
+.
+[15]
+  Said qualification must, perforce, be struck down as invalid and of no effect.
+[16]
+It bears reiterating that tax burdens are not to be imposed, nor presumed to be imposed beyond what the statute expressly and clearly imports, tax statutes being construed 
+strictissimi juris
+ against the government.
+[17]
+  In case of discrepancy between the basic law and a rule or regulation issued to implement said law, the basic law prevails as said rule or regulation cannot go beyond the terms and provisions of the basic law.
+[18]
+  It must be stressed that the objective of issuing BIR Revenue Regulations is to establish parameters or guidelines within which our tax laws should be implemented, and not to amend or modify its substantive meaning and import.  As held in 
+Commissioner of Internal Revenue v. Fortune Tobacco Corporation
+,
+[19]
+x x x The rule in the interpretation of tax laws is that a statute will not be construed as imposing a tax unless it does so clearly, expressly, and unambiguously.  A tax cannot be imposed without clear and express words for that purpose.  Accordingly, the general rule of requiring adherence to the letter in construing statutes applies with peculiar strictness to tax laws and the provisions of a taxing act are not to be extended by implication.  x x x As burdens, taxes should not be unduly exacted nor assumed beyond the plain meaning of the tax laws.
+[20]
+Hence, while it may be true that the interpretation advocated by petitioner CIR is in furtherance of its desire to raise revenues for the government, such noble objective must yield to the clear provisions of the law, particularly since, in this case, the terms of the said law are clear and leave no room for interpretation.
+WHEREFORE
+, the petition for review on certiorari is 
+DENIED
+.  The Decision dated August 7, 2008 of the Court of Tax Appeals in C.T.A. EB No. 360 is 
+AFFIRMED
+.
+No costs.
+SO ORDERED.
+Corona, C.J., (Chairperson), Leonardo-De Castro, Bersamin
+,  and
+ Del Castillo, JJ., 
+concur
+[1]
+ Rollo, pp. 30-48.  Penned by Associate Justice Lovell R. Bautista with Presiding Justice Ernesto D. Acosta and Associate Justices Juanito C. Castaneda, Jr., Erlinda P. Uy, Caesar A. Casanova and Olga Palanca-Enriquez concurring.
+[2]
+ Entitled, âAn Act Amending Sections 138, 139, 140 and 142 of the National Internal Revenue Code, As Amended, and for Other Purposes.â
+[3]
+ 
+Rollo
+, pp. 12, 37; CTA records, pp. 5, 129-130.
+[4]
+ Id. at 33.
+[5]
+ BIR records, p. 30.
+[6]
+ CTA records, pp. 1-13.
+[7]
+ 
+Rollo
+, pp. 60-73.
+[8]
+ Id. at 70.
+[9]
+ CTA records, pp. 188-215.
+[10]
+ Id. at 234-238.
+[11]
+ CTA En Banc records, pp. 6-36.
+[12]
+ Supra note 1.
+[13]
+ Id. at 46.
+[14]
+ G.R. Nos. 167274-75, July 21, 2008, 559 SCRA 160.
+[15]
+ SEC. 244. 
+Authority of Secretary of Finance to Promulgate Rules and Regulations.
+ - The Secretary of Finance, upon recommendation of the Commissioner, shall promulgate all needful rules and regulations for the effective enforcement of the provisions of this Code.
+[16]
+ See 
+Commissioner of Internal Revenue v. Fortune Tobacco Corporation,
+ supra note 14.
+[17]
+ 
+Commissioner of Internal Revenue v. Court of Appeals
+, G.R. No. 107135, February 23, 1999, 303 SCRA 508, 516-517.
+[18]
+ 
+Hijo Plantation, Inc. v. Central Bank
+, No. L-34526, August 9, 1988, 164 SCRA 192, 199.
+[19]
+ Supra note 14.
+[20]
+ Id. at 185, citing 
+Commissioner of Internal Revenue v. Court of Appeals
+, G.R. No. 115349, April 18, 1997, 271 SCRA 605, 613 and 
+Commissioner of Internal Revenue v. Philippine American Accident Insurance Company, Inc.
+, G.R. No. 141658, March 18, 2005, 453 SCRA 668, 680.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

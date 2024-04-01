@@ -1,0 +1,370 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			627 Phil. 551
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 167415, February 26, 2010 ]
+
+
+ATTY. MANGONTAWAR M. GUBAT, PETITIONER, VS. NATIONAL POWER CORPORATION, RESPONDENT.
+D E C I S I O N
+
+
+
+
+DEL CASTILLO, J.:
+
+
+Truly, there is no doubt that the rights of others cannot be prejudiced by private agreements.  However, before this Court can act and decide to protect the one apparently prejudiced, we should remember what Aesop taught in one of his fables: Every truth has two sides; it is well to look at both, before we commit ourselves to either.
+A lawyer asserts his right to his contingent fees after his clients, allegedly behind his back, had entered into an out-of-court settlement with the National Power Corporation (NPC).  The trial court granted his claim by way of summary judgment. However, this was reversed by the Court of Appeals (CA) because the counsel was allegedly enforcing a decision that was already vacated.  In this petition, petitioner Atty. Mangontawar M. Gubat (Atty. Gubat) attempts to persuade us that the compensation due him is independent of the vacated decision, his entitlement thereto being based on another reason: the bad faith of his clients and of the respondent NPC.
+Factual Antecedents
+ In August 1990, plaintiffs Ala Mambuay, Norma Maba, and Acur Macarampat separately filed civil suits for damages against the NPC before the Regional Trial Court of Lanao del Sur in Marawi City (RTC), respectively docketed as Civil Case Nos. 294-90, 295-90, and 296-90.  In the said complaint, plaintiffs were represented by Atty. Linang Mandangan (Atty. Mandangan) and petitioner herein, whose services were engaged at an agreed attorney's fees of P30,000.00 for each case  and P600.00 for every appearance.  Petitioner was the one who signed the complaints on behalf of himself and Atty. Mandangan.
+[1]
+During the course of the proceedings, the three complaints were consolidated because the plaintiffs' causes of action are similar.  They all arose from NPC's refusal to pay the amounts demanded by the plaintiffs for the cost of the improvements on their respective lands which were destroyed when the NPC constructed the Marawi-Malabang Transmission Line.
+On the day of the initial hearing on the merits, NPC and its counsel failed to appear.  Consequently, respondent was declared in default.  Despite the plea of NPC for the lifting of the default order, the RTC of Marawi City, Branch 8, rendered its Decision
+[2]
+ on April 24, 1991, the dispositive portion of which provides:
+PREMISES CONSIDERED, judgment is hereby rendered in favor of the herein plaintiffs and against the defendant National Power Corporation as represented by its President Ernesto Aboitiz, P.M. Durias and Rodrigo P. Falcon, ordering the latter jointly and severally:
+(1) In Civil Case No. 204-90 to pay plaintiff Ala Mambuay the sum of P103,000.00 representing the value of the improvements and the occupied portion of the land, P32,000.00 as attorney's fees, P20,000.00 as moral and/or exemplary damages, P50,000.00 as actual damages and the costs;
+(2) In Civil Case No. 295-90 to pay plaintiff Norma Maba represented by Capt. Ali B. Hadji Ali the sum of P146,700.00 representing the value of the improvements and the occupied portion of the land, P32,000.00 as attorney's fees, P20,000.00 as moral and/or exemplary damages, P50,000.00 as actual damages and the costs;
+(3) In Civil Case No. 296-90 to pay plaintiff Acur Macarampat the sum of P94,100.00 representing the value of the improvements and the occupied portion of the land, P32,000.00 as attorney's fees, P20,000.00 as moral and/or exemplary damages, P50,000.00 as actual damages and the costs.
+[3]
+NPC appealed to the CA which was docketed as CA-G.R. CV No. 33000.  During the pendency of the appeal, Atty. Gubat filed an Entry and Notice of Charging Lien
+[4]
+ to impose his attorney's lien of P30,000.00 and appearance fees of P2,000.00 on each of the three civil cases he handled, totalling P96,000.00.
+On August 19, 1992, NPC moved to dismiss its appeal
+[5]
+ alleging that the parties had arrived at a settlement. Attached to the motion were acknowledgment receipts
+[6]
+ dated April 2, 1992 signed by plaintiffs Acur Macarampat, Ala Mambuay, and Norma Maba, who received P90,060.00, P90,000.00, and P90,050.00 respectively, in full satisfaction of their claims against the NPC.  The motion stated that copies were furnished to Atty. Mandangan and herein petitioner,
+although it was only Atty. Mandangan's signature which appeared therein.
+[7]
+On January 24, 1996, the CA rendered its Decision
+[8]
+ disposing thus:
+WHEREFORE, the Order of Default dated December 11, 1990; the Order denying the Motion for Reconsideration to Lift Order of Default dated January 25, 1991; and the Decision dated April 24, 1991, are hereby ANNULLED and SET ASIDE and the records of Civil Case Nos. 294-90, 295-90 and 296-90 are hereby ordered remanded to the court of origin for new trial.
+[9]
+After the cases were remanded to the RTC, petitioner filed a Motion for Partial Summary Judgment
+[10]
+ on his attorney's fees.  He claimed that the plaintiffs and the NPC deliberately did not inform him about the execution of the compromise agreement, and that said parties connived with each other in entering into the compromise agreement in order to unjustly deprive him of his attorney's fees.  Furthermore, he alleged:
+x x x x
+12.  That, in view of such settlement, there are no more genuine issues between the parties in the above-entitled cases except as to the attorney's fees; As such, this Honorable Court may validly render a partial summary judgment on the claim for attorney's fees; and
+13. That the undersigned counsel hereby MOVES for a partial summary judgment on his lawful attorney's fees based on the pleadings and documents on file with the records of this case.
+[11]
+x x x x
+Petitioner thus prayed that a partial summary judgment be rendered on his attorney's fess and that NPC be ordered to pay him directly his lawful attorney's fees of P32,000.00 in each of the above cases, for a total of P96,000.00.
+NPC opposed the motion for partial summary of judgment.  It alleged that a client may compromise a suit without the intervention of the lawyer and that petitioner's claim for attorney's fees should be made against the plaintiffs.  NPC likewise claimed that it settled the case in good faith and that plaintiffs were paid in full satisfaction of their claims which included attorney's fees.
+On March 15, 2000, the trial court issued an Order
+[12]
+ granting petitioner's motion for summary judgment.  It found that the parties to the compromise agreement connived to petitioner's prejudice which amounts to a violation of the provisions of the Civil Code on Human Relations.
+[13]
+  It ruled that:
+x x x x
+There is no dispute that the Compromise Agreement was executed during the pendency of these cases with the Honorable Court of Appeals.  Despite the knowledge of the defendant that the services of the movant was on a contingent basis, defendant proceeded with the Compromise Agreement without the knowledge of Atty. Gubat.  The actuation of the defendant is fraudulently designed to deprive the movant of his lawful attorney's fees which was earlier determined and awarded by the Court.  Had defendant been in good faith in terminating these cases, Atty. Gubat could have been easily contacted.
+x x x x
+[14]
+The dispositive portion of the Order reads:
+WHEREFORE, premises considered, plaintiffs Ala Mambuay, Norma Maba and Acur Macarampat as well as defendant National Power Corporation are hereby ordered to pay jointly and solidarily Atty. Mangontawar M. Gubat the sum of P96,000.00.
+[15]
+NPC filed a Motion for Reconsideration
+[16]
+ but the motion was denied by the
+trial court in its June 27, 2000 Order.
+[17]
+  Thus, NPC filed a Petition for 
+Certiorari
+[18]
+ 
+before the CA docketed as CA-G.R. SP No. 60722, imputing grave abuse of discretion on the court 
+a quo
+ for granting petitioner's Motion for Partial Summary Judgment.  It prayed that the subject order be set aside insofar as NPC is concerned.
+NPC maintained that it acted in good faith in the execution of the compromise settlement.  It likewise averred that the lower court's award of attorney's fees amounting to P96,000.00 was clearly based on the award of attorney's fees in the April 24, 1991 Decision of the trial court which had already been reversed and set aside by the CA in CA-G.R. CV No. 33000.  Moreover, NPC contended that petitioner cannot enforce his charging lien because it presupposes that he has secured a favorable money judgment for his clients.  At any rate, since petitioner is obviously pursuing the compensation for the services he rendered to his clients, thus, recourse should only be against them, the payment being their personal obligation and not of respondent. NPC further alleged that even assuming that the subject attorney's fees are those that fall under Article 2208 of the Civil Code
+[19]
+ which is in the concept of indemnity for damages to be paid to the winning party in a litigation, such fees belong to the clients and not to the lawyer, and this form of damages has already been paid directly to the plaintiffs.
+On the other hand, petitioner claimed that he was not informed of the compromise agreement or furnished a copy of NPC's Motion to Dismiss Appeal.  He alleged that the same was received only by Atty. Mandangan who neither signed any of the pleadings nor appeared in any of the hearings before the RTC.  Petitioner clarified that his motion for a partial summary judgment was neither a request for the revival of the vacated April 24, 1991 Decision nor an enforcement of the lien, but a grant of his contingent fees by the trial court as indemnity for damages resulting from the fraudulent act of NPC and of his clients who conspired to deprive him of the fees due him.  He asserted that NPC cannot claim good faith because it knew of the existence of his charging lien when it entered into a compromise with the plaintiffs.
+Petitioner also alleged that NPC's remedy should have been an ordinary appeal and not a petition for 
+certiorari 
+because the compromise agreement had settled the civil suits.  Thus, when the trial court granted the motion for partial summary judgment on his fees, it was a final disposition of the entire case.  He also argued that the issue of bad faith is factual which cannot be a subject of a 
+certiorari
+ petition.  He also insisted that NPC's petition was defective for lack of a board resolution authorizing Special Attorney Comie Doromal (Atty. Doromal) of the Office of the Solicitor General (OSG) to sign on NPC's behalf.
+On September 9, 2002, the CA rendered the herein assailed Decision
+[20]
+ ruling that:
+The reasoning of Atty. Gubat is a `crude palusot' (a sneaky fallacious reasoning) for how can one enforce a part of a decision which has been declared void and vacated.  In legal contemplation, there is no more decision because, precisely, the case was remanded to the court a quo for further proceeding.
+It was bad enough that Atty. Gubat tried to pull a fast [one] but it was [worse] that respondent Judge fell for it resulting in a plainly erroneous resolution.
+Like his predecessor Judge Adiong, Judge Macarambon committed basic errors unquestionably rising to the level of grave abuse of discretion amounting to lack or excess of jurisdiction.
+WHEREFORE, finding merit in the petition, the Court issues the writ of certiorari and strikes down as void the Order dated March 15, 2000 granting Atty. Mangontawar M. Gubat's Motion for Partial Summary Judgment as well as the Order dated June 27, 2000 denying petitioner National Power Corporation's Motion for Reconsideration.
+SO ORDERED.
+[21]
+Petitioner filed a motion for reconsideration but the motion was denied by the CA in its January 19, 2005 Resolution,
+[22]
+ Hence, this petition.
+Petitioner insists on the propriety of the trial court's order of summary judgment on his attorney's fees. At the same time, he imputes grave abuse of discretion amounting to lack or excess of jurisdiction on the CA for entertaining respondent's Petition for 
+Certiorari.  
+He maintains that the petition should have been dismissed outright for being the wrong mode of appeal.
+Our Ruling
+The petition lacks merit.
+Petitioner's resort to Rule 65 is not proper.
+At the outset, the petition should have been dismissed outright because petitioner resorted to the wrong mode of appeal by filing the instant petition for 
+certiorari 
+under Rule 65.  Section 1 of the said Rule explicitly provides that a petition for 
+certiorari 
+is available only when there is no appeal or any plain, speedy, and adequate remedy in the ordinary course of law.  In this case, the remedy of appeal by way of a petition for review on 
+certiorari
+ under Rule 45 is not only available but also the proper mode of appeal.  For all intents and purposes, we find that petitioner filed the instant petition for 
+certiorari 
+under Rule 65 as a substitute for a lost appeal.  We note that petitioner received a copy of the January 19, 2005 Resolution of the CA denying his motion for reconsideration on January 28, 2005.  Under Section 2 of Rule 45, petitioner has 15 days from notice of the said Resolution within which to file his petition for review on 
+certiorari.  
+As such, he should have filed his appeal on or before February 12, 2005. However, records show that the petition was posted on March 1, 2005, or long after the period to file the appeal has lapsed.
+At any rate, even if we treat the instant petition as one filed under Rule 45, the same should still be denied for failure on the part of the petitioner to show that the CA committed a reversible error warranting the exercise of our discretionary appellate jurisdiction.
+Petitioner's resort to summary judgment
+is not proper; he is not entitled to an immediate 
+relief as a matter of law, for the existence of bad 
+faith is a genuine issue of fact to be tried.
+A summary judgment is allowed only if, after hearing, the court finds that except as to the amount of damages, the pleadings, affidavits, depositions and admissions show no genuine issue as to any material fact and that the movant is entitled to a judgment as a matter of law.
+[23]
+  The purpose of a summary judgment is to avoid drawn out litigations and useless delays because the facts appear undisputed to the mind of the court.  Such judgment is generally based on the facts proven summarily by affidavits, depositions, pleadings, or admissions of the parties.
+[24]
+  For a full-blown trial to be dispensed with, the party who moves for summary judgment has the burden of demonstrating clearly the absence of genuine issues of fact, or that the issue posed is patently insubstantial as to constitute a genuine issue.
+[25]
+  "Genuine issue" means an issue of fact which calls for the presentation of evidence as distinguished from an issue which is fictitious or contrived.
+[26]
+Petitioner pleaded for a summary judgment on his fees on the claim that the parties intentionally did not inform him of the settlement.  He alleged that he never received a copy of NPC's Motion to Withdraw Appeal before the CA and that instead, it was another lawyer who was furnished and who acknowledged receipt of the motion.  When he confronted his clients, he was allegedly told that the NPC deceived them into believing that what they received was only a partial payment exclusive of the attorney's fees.  NPC contested these averments.  It claimed good faith in the execution of the compromise agreement.  It stressed that the attorney's fees were already deemed included in the monetary consideration given to the plaintiffs for the compromise.
+The above averments clearly pose factual issues which make the rendition of summary judgment not proper.  Bad faith imports a dishonest purpose or some moral obliquity and conscious doing of a wrong.  It is synonymous with fraud, in that it involves a design to mislead or deceive another.
+[27]
+  The trial court should have exercised prudence by requiring the presentation of evidence in a formal trial to determine the veracity of the parties' respective assertions.  Whether NPC and the plaintiffs connived and acted in bad faith is a question of fact and is evidentiary.  Bad faith has to be established by the claimant with clear and convincing evidence, and this necessitates an examination of the evidence of all the parties. As certain facts pleaded were being contested by the opposing parties, such would not warrant a rendition of summary judgment.
+Moreover, the validity or the correct interpretation of the alleged compromise agreements is still in issue in view of the diverse interpretations of the parties thereto.  In fact, in the Decision of the CA dated January 24, 1996, the appellate court ordered the case to be remanded to the trial court for new trial, thereby ignoring completely NPC's motion to dismiss appeal based on the alleged compromise agreements it executed with the plaintiffs.  Even in its assailed Decision of September 9, 2002, the CA did not rule on the validity of the alleged compromise agreements.  This is only to be expected in view of its earlier ruling dated January 24, 1996 which directed the remand of the case to the court of origin for new trial.
+Considering the above disquisition, there is still a factual issue on whether the NPC and the plaintiffs had already validly entered into a compromise agreement.  Clearly, the NPC and the plaintiffs have diverse interpretations as regards the stipulations of the compromise agreement which must be resolved.  According to the NPC, the amounts it paid to the plaintiffs were in full satisfaction of their claims.  Plaintiffs claim otherwise.  They insist that the amounts they received were exclusive of attorney's claim.  They also assert that NPC undertook to pay the said attorney's fees to herein petitioner.
+A client may enter into a compromise
+agreement without the intervention of 
+the lawyer, but the terms of the agreement 
+should not deprive the counsel of his 
+compensation for the professional services
+ he had rendered.  If so, the compromise shall
+ be subjected to said fees.  If the client and the 
+adverse party who assented to the compromise 
+are found to have intentionally deprived the 
+lawyer of his fees, the terms of the compromise, 
+insofar as they prejudice the lawyer, will be set
+ aside, making both parties accountable to pay 
+the lawyer's fees. But in all cases, it is the client 
+who is bound to pay his lawyer for his legal 
+representation.
+A compromise is a contract whereby the parties, by making reciprocal concessions, avoid litigation or put an end to one already commenced.
+[28]
+  It is a consensual contract, binding upon the signatories/privies, and it has the effect of 
+res judicata.
+[29]
+  This cannot however affect third persons who are not parties to the agreement.
+[30]
+Contrary to petitioner's contention, a client has an undoubted right to settle a suit without the intervention of his lawyer,
+[31]
+ for he is generally conceded to have the exclusive control over the subject-matter of the litigation and may, at any time before judgment, if acting in good faith, compromise, settle, and adjust his cause of action out of court without his attorney's intervention, knowledge, or consent, even though he has agreed with his attorney not to do so.
+[32]
+ Hence, a claim for attorney's fees does not void the compromise agreement and is no obstacle to a court approval.
+[33]
+However, counsel is not without remedy.  As the validity of a compromise agreement cannot be prejudiced, so should not be the payment of a lawyer's adequate and reasonable compensation for his services should the suit end by reason of the settlement.  The terms of the compromise subscribed to by the client should not be such that will amount to an entire deprivation of his lawyer's fees, especially when the contract is on a contingent fee basis.  In this sense, the compromise settlement cannot bind the lawyer as a third party.  A lawyer is as much entitled to judicial protection against injustice or imposition of fraud on the part of his client as the client is against abuse on the part of his counsel.  The duty of the court is not only to ensure that a lawyer acts in a proper and lawful manner, but also to see to it that a lawyer is paid his just fees.
+[34]
+Even if the compensation of a counsel is dependent only upon winning a case he himself secured for his client, the subsequent withdrawal of the case on the client's own volition should never completely deprive counsel of any legitimate compensation for his professional services.
+[35]
+  In all cases, a client is bound to pay his lawyer for his services.  The determination of bad faith only becomes significant and relevant if the adverse party will likewise be held liable in shouldering the attorney's fees.
+[36]
+Petitioner's compensation is a personal obligation of his clients who have benefited from his legal services prior to their execution of the compromise agreement.  This is strictly a contract between them.  NPC would only be made liable if it was shown that it has connived with the petitioner's clients or acted in bad faith in the execution of the compromise agreement for the purpose of depriving petitioner of his lawful claims for attorney's fees.  In each case, NPC should be held solidarily liable for the payment of the counsel's compensation.  However, as we have already discussed, petitioner's resort to summary judgment is not proper.  Besides, it is interesting to note that petitioner is the only one claiming for his attorney's fees notwithstanding that plaintiffs' counsels of record were petitioner herein and Atty. Mandangan. Nevertheless, this is not at issue here.  As we have previously discussed, this is for the trial court to resolve.
+The CA soundly exercised its discretion in
+resorting to a liberal application of the rules.
+There are no vested right to technicalities.
+Concededly, the NPC may have pursued the wrong remedy when it filed a petition for 
+certiorari
+ instead of an appeal since the ruling on attorney's fees is already a ruling on the merits.  However, we find that the trial court gravely abused its discretion amounting to lack or excess of jurisdiction when it ordered NPC solidarily liable with the plaintiffs for the payment of the attorney's fees.  The rule that a petition for certiorari is dismissible when the mode of appeal is available admits of exceptions, to wit: (a) when the writs issued are null; and, (b) when the questioned order amounts to an oppressive exercise of judicial authority.
+[37]
+  Clearly, respondent has shown its entitlement to the exceptions.
+The same liberal application should also apply to the question of the alleged lack of authority of Atty. Doromal to execute the certification of non-forum shopping for lack of a board resolution from the NPC.  True, only individuals vested with authority by a valid board resolution may sign the certificate of non-forum shopping in behalf of the corporation, and proof of such authority must be attached to the petition,
+[38]
+ the failure of which will be sufficient cause for dismissal.  Nevertheless, it cannot be said that Atty. Doromal does not enjoy the presumption that he is authorized to represent respondent in filing the Petition for 
+Certiorari
+ before the CA.  As Special Attorney, he is one of the counsels of NPC in the proceedings before the trial court, and the NPC never questioned his authority to sign the petition for its behalf.
+In any case, the substantive issues we have already discussed are justifiable reasons to relax the rules of procedure.  We cannot allow a patently wrong judgment to be implemented because of technical lapses.  This ratiocination is in keeping with the policy to secure a just, speedy and inexpensive disposition of every action or proceeding.
+[39]
+  As we have explained in
+ Alonso v. Villamor:
+[40]
+There is nothing sacred about processes or pleadings, their forms or contents. Their sole purpose is to facilitate the application of justice to the rival claims of contending parties. They were created, not to hinder and delay, but to facilitate and promote, the administration of justice. They do not constitute the thing itself, which courts are always striving to secure to litigants. They are designed as the means best adopted to obtain that thing. In other words, they are a means to an end. When they lose the character of the one and become the other, the administration of justice is at fault and courts are correspondingly remiss in the performance of their obvious duty.
+The error in this case is purely technical. To take advantage of it for other purposes than to cure it, does not appeal to a fair sense of justice. Its presentation as fatal to the plaintiff's case smacks of skill rather than right. A litigation is not a game of technicalities in which one more deeply schooled and skilled in the subtle art of movement and position, entraps and destroys the other. It is rather, a contest in which each contending party fully and fairly lays before the court the facts in issue and then, brushing aside as wholly trivial and indecisive all imperfections of form and technicalities of procedure, asks that justice be done upon the merits. Law-suits, unlike duels, are not to be won by a rapier's thrust. Technicality, when it deserts its proper office as an aid to justice and becomes its great hindrance and chief enemy, deserves scant consideration from courts. There should be no vested rights in technicalities. No litigant should be permitted to challenge a record of a court of these Islands for defect of form when his substantial rights have not been prejudiced thereby.
+WHEREFORE
+, the Petition is hereby 
+DISMISSED 
+for lack of merit. The September 9, 2002 Decision of the Court of Appeals and its January 19, 2005 Resolution are 
+AFFIRMED
+.
+SO ORDERED.
+Carpio, (Chairperson), Brion, Abad, 
+and 
+Perez, JJ.,
+ concur.
+[1]
+ 
+Rollo
+, pp. 132, 135, and 138.
+[2]
+  CA 
+rollo
+, pp. 48-56; penned by Judge Santos B. Adiong.
+[3]
+  Id. at 55.
+[4]
+ 
+Rollo
+, p. 34.
+[5]
+  Id. at 38-40.
+[6]
+  Id. at 35-37.  Except as to the amount, name of plaintiff, and the Civil Case No., the Acknowledgment Receipts signed by each plaintiff were similarly worded in this manner:
+This is to acknowledge receipt from the NATIONAL POWER CORPORATION (NPC) the sum of (amount) as full and complete settlement of the cases entitled in (name of case) in (civil case no.) which is now pending appeal before the Court of Appeals.
+With the execution of this Acknowledgment Receipt, it is understood that I and my heirs and assigns have no further claim against NPC with respect to the damage to improvements over my parcel of land which was affected by the 69 KV Transmission Line.
+Iligan City, Philippines, 2 April 1992.
+Sgd.
+(name of claimant)
+Representing NPC:
+(Sgd.)
+CANDIDATO RAMOS
+(Sgd.)
+ATTY. ARTHUR L. ABUNDIENTE
+Counsel for Defendant-NPC
+[7]
+  Id. at 40.
+[8]
+  CA 
+rollo
+, pp 62-73; penned by Associate Justice Cancio C. Garcia and concurred in by Associate Justices Eugenio S. Labitoria and Portia AliÃ±o-Hormachuelos.
+[9]
+  Id. at 72.
+[10]
+ Id. at 74-77.
+[11]
+ Id. at 76.
+[12]
+ Id. at 81-82; penned by Acting Presiding Judge Moslemen T. Macarambon.
+[13]
+ Article 19.  Every person must, in the exercise of his rights and in the performance of his duties, act with justice, give everyone his due, and observe honesty and good faith.
+Article 20.  Every person who, contrary to law, willfully or negligently causes damage to another, shall indemnify the latter for the same.
+Article 21.  Any person who willfully causes loss or injury to another in a manner that is contrary to morals, good customs or public policy shall compensate the latter for the damage.
+[14]
+ CA 
+rollo
+, pp. 81-82.
+[15]
+ Id. at 82.
+[16]
+ Id. at 83-86.
+[17]
+ Id. at 87; penned by Judge Santos B. Adiong.
+[18]
+ Id. at 2-24.
+[19]
+ In the absence of stipulation, attorney's fees and expenses of litigation, other than judicial costs, cannot be recovered, except:
+(1) When exemplary damages are awarded;
+(2) When the defendant's act or omission has compelled the plaintiff to litigate with third persons or to incur expenses to protect his interest;
+(3) In criminal cases of malicious prosecution against the plaintiff;
+(4) In case of a clearly unfounded civil action or proceeding against the plaintiff;
+(5) Where the defendant acted in gross and evident bad faith in refusing to satisfy the plaintiff's plainly valid, just and demandable claim;
+(6) In actions for legal support;
+(7) In actions for the recovery of wages of household helpers, laborers and skilled workers;
+(8) In actions for indemnity under workmen's compensation and employer's liability laws;
+(9) In a separate civil action to recover civil liability arising from a crime;
+(10)  When at least double judicial costs are awarded;
+(11)  In any other case where the court deems it just and equitable that attorney's fees and expenses of litigation should be recovered.
+In all cases, the attorney's fees and expenses of litigation must be reasonable.
+[20]
+ 
+Rollo
+, pp. 26-31; penned by Associate Justice Hilarion L. Aquino and concurred in by Associate Justices Salvador J. Valdez, Jr. and Jose L. Sabio, Jr.
+[21]
+ Id at 30-31.
+[22]
+ Id. at 32-33; penned by Associate Justice Jose Sabio, Jr. and concurred in by Associate Justices Godardo A. Jacinto and Salvador J. Valdez.
+[23]
+ Rules of Court, Rule 35, Section 3.
+[24]
+ 
+Nocom v. Camerino
+, G.R. No. 182984, February 10, 2009, 578 SCRA 390, 410.
+[25]
+ 
+Philippine Countryside Rural Bank v. Toring
+, G.R. No. 157862, April 16, 2009.
+[26]
+ 
+Manufacturers Hanover Trust Co. and/or Chemical Bank v. Guerrero
+, 445 Phil. 770, 776 (2003).
+[27]
+ 
+Solidbank Corporation v. Mindanao Ferroalloy Corporation
+, G.R. No. 153535, July 28, 2005, 464 SCRA 409, 426.
+[28]
+ Civil Code, Article 2028.
+[29]
+ Civil Code, Article 2037.
+[30]
+ 
+University of the East v. Secretary of Labor and Employment
+, G.R. Nos. 93310-12, November 21 1991, 204 SCRA 254, 262.
+[31]
+ 
+Rustia v. Judge of First Instance of Batangas
+, 44 Phil 62, 65 (1922).
+[32]
+ 
+Samonte v. Samonte,
+  159-A Phil. 777, 791-792 (1975).
+[33]
+ 
+Cabildo v. Hon. Navarro
+, 153 Phil. 310, 314 (1973).
+[34]
+ 
+Masmud v. National Labor Relations Commission
+, G.R. No. 183385, February 13, 2009, 579 SCRA 509, 520.
+[35]
+ 
+National Power Corporation v. National Power Corporation Employees and Workers Association
+, 178 Phil. 1, 10-11 (1979).
+[36]
+  See 
+Aro v. Hon. NaÃ±awa,
+ 137 Phil. 745 (1969).
+ 
+[37]
+ 
+Jan-Dec Construction Corporation v. Court of Appeals
+, G.R. No. 146818, February 6, 2006, 481 SCRA 556, 564.
+[38]
+ 
+Philippine Airlines, Inc. v. Flight Attendants and Stewards Association of the Philippines
+, G.R. No. 143088, January 24, 2006, 479 SCRA 605, 608.
+[39]
+ Rules of Court, Rule 1, Section 6.
+[40]
+ 16 Phil 315, 321-322 (1910).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

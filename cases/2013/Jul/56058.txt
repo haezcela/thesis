@@ -1,0 +1,1445 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			714 Phil. 510
+			
+
+
+
+
+EN BANC
+
+
+[ G.R. No. 192571, July 23, 2013 ]
+
+
+ABBOTT LABORATORIES, PHILIPPINES, CECILLE A. TERRIBLE, EDWIN D. FEIST, MARIA OLIVIA T. YABUT-MISA, TERESITA C. BERNARDO, AND ALLAN G. ALMAZAR, PETITIONERS, VS. PEARLIE ANN F. ALCARAZ, RESPONDENT.
+D E C I S I O N
+
+
+
+
+PERLAS-BERNABE, J.:
+
+
+Assailed in this petition for review on 
+certiorari
+[1]
+ are the Decision
+[2]
+ dated December 10, 2009 and Resolution
+[3]
+ dated June 9, 2010 of the Court of Appeals (CA) in CA-G.R. SP No. 101045 which pronounced that the National Labor Relations Commission (NLRC) did not gravely abuse its discretion when it ruled that respondent Pearlie Ann F. Alcaraz (Alcaraz) was illegally dismissed from her employment.
+The Facts
+On June 27, 2004, petitioner Abbott Laboratories, Philippines (Abbott) caused the publication in a major broadsheet newspaper of its need for a Medical and Regulatory Affairs Manager  (Regulatory Affairs Manager) who would: (
+a
+) be responsible for drug safety surveillance operations, staffing, and budget; (
+b
+) lead the development and implementation of standard operating procedures/policies for drug safety surveillance and vigilance; and (
+c
+) act as the primary interface with internal and external customers regarding safety operations and queries.
+[4]
+ Alcaraz â who was then a Regulatory Affairs and Information Manager at Aventis Pasteur Philippines, Incorporated (another pharmaceutical company like Abbott) â showed interest and submitted her application on October 4, 2004.
+[5]
+On December 7, 2004, Abbott formally offered Alcaraz the above-mentioned position which was an item under the companyâs Hospira Affiliate Local Surveillance Unit (ALSU) department.
+[6]
+ In Abbottâs offer sheet,
+[7]
+ it was stated that Alcaraz was to be employed on a probationary basis.
+[8]
+ Later that day, she accepted the said offer and received an electronic mail (e-mail) from Abbottâs Recruitment Officer, petitioner Teresita C. Bernardo (Bernardo), confirming the same. Attached to Bernardoâs e-mail were Abbottâs organizational chart and a job description of Alcarazâs work.
+[9]
+On February 12, 2005, Alcaraz signed an employment contract which stated,
+ inter alia
+, that she was to be placed on probation for a period of six (6) months beginning February 15, 2005 to August 14, 2005. The said contract was also signed by Abbottâs General Manager, petitioner Edwin Feist (Feist):
+[10]
+PROBATIONARY EMPLOYMENT
+Dear Pearl,
+After having successfully passed the pre-employment requirements, you are hereby appointed as follows:
+Position Title : 
+Regulatory Affairs Manager
+Department   : 
+Hospira
+The terms of your employment are:
+Nature of Employment  : 
+Probationary
+Effectivity                      : 
+February 15, 2005 to August 14, 2005
+Basic Salary                  : 
+ P110,000.00/ month
+It is understood that you agree to abide by all existing policies, rules and regulations of the company, as well as those, which may be hereinafter promulgated.
+Unless renewed, probationary appointment expires on the date indicated subject to earlier termination by the Company for any justifiable reason.
+If you agree to the terms and conditions of your employment, please signify your conformity below and return a copy to HRD.
+Welcome to Abbott!
+Very truly yours,
+Sgd.
+EDWIN D. FEIST
+General Manager
+CONFORME:
+Sgd.
+PEARLIE ANN FERRER-ALCARAZ
+During Alcarazâs pre-employment orientation, petitioner Allan G. Almazar (Almazar), Hospiraâs Country Transition Manager, briefed her on her duties and responsibilities as Regulatory Affairs Manager, stating that: (
+a
+) she will handle the staff of Hospira ALSU and will directly report to Almazar on matters regarding Hopiraâs local operations, operational budget, and performance evaluation of the Hospira ALSU Staff who are on probationary status; (
+b
+) she must implement Abbottâs Code of Good Corporate Conduct (Code of Conduct), office policies on human resources and finance, and ensure that Abbott will hire people who are fit in the organizational discipline;  (
+c
+) petitioner Kelly Walsh (Walsh), Manager of the Literature Drug Surveillance Drug Safety of Hospira, will be her immediate supervisor; (
+d
+) she should always coordinate with Abbottâs human resource officers in the management and discipline of the staff; (
+e
+) Hospira ALSU will spin off from Abbott in early 2006 and will be officially incorporated and known as Hospira, Philippines. In the interim, Hospira ALSU operations will still be under Abbottâs management, excluding the technical aspects of the operations which is under the control and supervision of Walsh; and (
+f
+) the processing of information and/or raw material data subject of Hospira ALSU operations will be strictly confined and controlled under the computer system and network being maintained and operated from the United States. For this purpose, all those involved in Hospira ALSU are required to use two identification cards: one, to identify them as Abbottâs employees and another, to identify them as Hospira employees.
+[11]
+On March 3, 2005, petitioner Maria Olivia T. Yabut-Misa (Misa), Abbottâs Human Resources (HR) Director, sent Alcaraz an e-mail which contained an explanation of the procedure for evaluating the performance of probationary employees and further indicated that Abbott had only one evaluation system for all of its employees. Alcaraz was also given copies of Abbottâs Code of Conduct and Probationary Performance Standards and Evaluation (PPSE) and Performance Excellence Orientation Modules (Performance Modules) which she had to apply in line with her task of evaluating the Hospira ALSU staff.
+[12]
+Abbottâs PPSE procedure mandates that the job performance of a probationary employee should be formally reviewed and discussed with the employee at least twice: first on the third month and second on the fifth month from the date of employment. The necessary Performance Improvement Plan should also be made during the third-month review in case of a gap between the employeeâs performance and the standards set. These performance standards should be discussed in detail with the employee within the first two (2) weeks on the job. It was equally required that a signed copy of the PPSE form must be submitted to Abbottâs Human Resources Department (HRD) and shall serve as documentation of the employeeâs performance during his/her probationary period. This shall form the basis for recommending the confirmation or termination of the probationary employment.
+[13]
+During the course of her employment, Alcaraz noticed that some of the staff had disciplinary problems. Thus, she would reprimand them for their unprofessional behavior such as non-observance of the dress code, moonlighting, and disrespect of Abbott officers. However, Alcarazâs method of management was considered by Walsh to be âtoo strict.â
+[14]
+ Alcaraz approached Misa to discuss these concerns and was told to âlie lowâ and let Walsh handle the matter. Misa even assured her that Abbottâs HRD would support her in all her management decisions.
+[15]
+On April 12, 2005, Alcaraz received an e-mail from Misa requesting immediate action on the staffâs performance evaluation as their probationary periods were about to end. This Alcaraz eventually submitted.
+[16]
+On April 20, 2005, Alcaraz had a meeting with petitioner Cecille Terrible (Terrible), Abbottâs former HR Director, to discuss certain issues regarding staff performance standards. In the course thereof, Alcaraz accidentally saw a printed copy of an e-mail sent by Walsh to some staff members which essentially contained queries regarding the formerâs job performance. Alcaraz asked if Walshâs action was the normal process of evaluation. Terrible said that it was not.
+[17]
+On May 16, 2005, Alcaraz was called to a meeting with Walsh and Terrible where she was informed that she failed to meet the regularization standards for the position of Regulatory Affairs Manager.
+[18]
+ Thereafter, Walsh and Terrible requested Alcaraz to tender her resignation, else they be forced to terminate her services. She was also told that, regardless of her choice, she should no longer report for work and was asked to surrender her office identification cards. She requested to be given one week to decide on the same, but to no avail.
+[19]
+On May 17, 2005, Alcaraz told her administrative assistant, Claude Gonzales (Gonzales), that she would be on leave for that day. However, Gonzales told her that Walsh and Terrible already announced to the whole Hospira ALSU staff that Alcaraz already resigned due to health reasons.
+[20]
+On May 23, 2005, Walsh, Almazar, and Bernardo personally handed to Alcaraz a letter stating that her services had been terminated effective May 19, 2005.
+[21]
+ The letter detailed the reasons for Alcarazâs termination â particularly, that Alcaraz: (
+a
+) did not manage her time effectively; (
+b
+) failed to gain the trust of her staff and to build an effective rapport with them; (
+c
+) failed to train her staff effectively; and (
+d
+) was not able to obtain the knowledge and ability to make sound judgments on case processing and article review which were necessary for the proper performance of her duties.
+[22]
+ On May 27, 2005, Alcaraz received another copy of the said termination letter via registered mail.
+[23]
+Alcaraz felt that she was unjustly terminated from her employment and thus, filed a complaint for illegal dismissal and damages against Abbott and its officers, namely, Misa, Bernardo, Almazar, Walsh, Terrible, and Feist.
+[24]
+ She claimed that she should have already been considered as a regular and not a probationary employee given Abbottâs failure to inform her of the reasonable standards for her regularization upon her engagement as required under Article 295
+[25]
+ of the Labor Code. In this relation, she contended that while her employment contract stated that she was to be engaged on a probationary status, the same did not indicate the standards on which her regularization would be based.
+[26]
+ She further averred that the individual petitioners maliciously connived to illegally dismiss her when: (
+a
+) they threatened her with termination; (
+b
+) she was ordered not to enter company premises even if she was still an employee thereof; and (
+c
+) they publicly announced that she already resigned in order to humiliate her.
+[27]
+On the contrary, petitioners maintained that Alcaraz was validly terminated from her probationary employment given her failure to satisfy the prescribed standards for her regularization which were made known to her at the time of her engagement.
+[28]
+The LA Ruling
+In a Decision dated March 30, 2006,
+[29]
+  the LA dismissed Alcarazâs complaint for lack of merit.
+The LA rejected Alcarazâs argument that she was not informed of the reasonable standards to qualify as a regular employee considering her admissions that she was briefed by Almazar on her work during her pre-employment orientation meeting
+[30]
+ and that she received copies of Abbottâs Code of Conduct and Performance Modules which were used for evaluating all types of Abbott employees.
+[31]
+ As Alcaraz was unable to meet the standards set by Abbott as per her performance evaluation, the LA ruled that the termination of her probationary employment was justified.
+[32]
+ Lastly, the LA found that there was no evidence to conclude that Abbottâs officers and employees acted in bad faith in terminating Alcarazâs employment.
+[33]
+Displeased with the LAâs ruling, Alcaraz filed an appeal with the National Labor Relations Commission (NLRC).
+The NLRC Ruling
+On September 15, 2006, the NLRC rendered a Decision,
+[34]
+ annulling and setting aside the LAâs ruling, the dispositive portion of which reads:
+WHEREFORE, the Decision of the Labor Arbiter dated 31 March 2006 [sic] is hereby reversed, annulled and set aside and judgment is hereby rendered:
+1. Finding respondents Abbot [sic] and individual respondents to have committed illegal dismissal;
+2. Respondents are ordered to immediately reinstate complainant to her former position without loss of seniority rights immediately upon receipt hereof;
+3. To jointly and severally pay complainant backwages computed from 16 May 2005 until finality of this decision. As of the date hereof the backwages is computed at
+ 
+ 
+a. Backwages for 15 months
+ 
+ 
+- 
+ 
+PhP 1,650,000.00
+ 
+ 
+ 
+b. 13th month pay 
+ 
+- 
+ 
+           110,000.00
+ 
+ 
+ 
+TOTAL
+ 
+ 
+ 
+PhP 1,760,000.00
+ 
+ 
+4. Respondents are ordered to pay complainant moral damages of P50,000.00 and exemplary damages of P50,000.00.
+5. Respondents are also ordered to pay attorneyâs fees of 10% of the total award.
+6. All other claims are dismissed for lack of merit.
+SO ORDERED. 
+[35]
+The NLRC reversed the findings of the LA and ruled that there was no evidence showing that Alcaraz had been apprised of her probationary status and the requirements which she should have complied with in order to be a regular employee.
+[36]
+ It held that Alcarazâs receipt of her job description and Abbottâs Code of Conduct and Performance Modules was not equivalent to her being actually informed of the performance standards upon which she should have been evaluated on.
+[37]
+ It further observed that Abbott did not comply with its own standard operating procedure in evaluating probationary employees.
+[38]
+ The NLRC was also not convinced that Alcaraz was terminated for a valid cause given that petitionersâ allegation of Alcarazâs âpoor performanceâ remained unsubstantiated.
+[39]
+Petitioners filed a motion for reconsideration which was denied by the NLRC in a Resolution dated July 31, 2007.
+[40]
+Aggrieved, petitioners filed with the CA a Petition for 
+Certiorari
+ with Prayer for Issuance of a Temporary Restraining Order and/or Writ of Preliminary Injunction, docketed as 
+CA G.R. SP No. 101045
+ (First CA Petition), alleging grave abuse of discretion on the part of NLRC when it ruled that Alcaraz was illegally dismissed.
+[41]
+Pending resolution of the First CA Petition, Alcaraz moved for the execution of the NLRCâs Decision before the LA, which petitioners strongly opposed. The LA denied the said motion in an Order dated July 8, 2008 which was, however, eventually reversed on appeal by the NLRC.
+[42]
+ Due to the foregoing, petitioners filed another Petition for 
+Certiorari
+ with the CA, docketed as 
+CA G.R. SP No. 111318
+ (Second CA Petition), assailing the propriety of the execution of the NLRC decision.
+[43]
+The CA Ruling
+With regard to the First CA Petition, the CA, in a Decision
+[44]
+ dated December 10, 2009, affirmed the ruling of the NLRC and held that the latter did not commit any grave abuse of discretion in finding that Alcaraz was illegally dismissed.
+It observed that Alcaraz was not apprised at the start of her employment of the reasonable standards under which she could qualify as a regular employee.
+[45]
+ This was based on its examination of the employment contract which showed that the same did not contain any standard of performance or any stipulation that Alcaraz shall undergo a performance evaluation before she could qualify as a regular employee.
+[46]
+ It also found that Abbott was unable to prove that there was any reasonable ground to terminate Alcarazâs employment.
+[47]
+ Abbott moved for the reconsideration of the aforementioned ruling which was, however, denied by the CA in a Resolution
+[48]
+ dated June 9, 2010.
+The CA likewise denied the Second CA Petition in a Resolution dated May 18, 2010 (May 18, 2010 Resolution) and ruled that the NLRC was correct in upholding the execution of the NLRC Decision.
+[49]
+ Thus, petitioners filed a motion for reconsideration.
+While the petitionersâ motion for reconsideration of the CAâs May 18, 2010 Resolution was pending, Alcaraz again moved for the issuance of a writ of execution before the LA. On June 7, 2010, petitioners received the LAâs order granting Alcarazâs motion for execution which they in turn appealed to the NLRC â through a Memorandum of Appeal dated June 16, 2010 (June 16, 2010 Memorandum of Appeal ) â on the ground that the implementation of the LAâs order would render its motion for reconsideration moot and academic.
+[50]
+Meanwhile, petitionersâ motion for reconsideration of the CAâs May 18, 2010 Resolution in the Second CA Petition was denied via a Resolution dated October 4, 2010.
+[51]
+ This attained finality on January 10, 2011 for petitionersâ failure to timely appeal the same.
+[52]
+ Hence, as it stands, only the issues in the First CA petition are left to be resolved.
+Incidentally, in her Comment dated November 15, 2010, Alcaraz also alleges that petitioners were guilty of forum shopping when they filed the Second CA Petition pending the resolution of their motion for reconsideration of the CAâs December 10, 2009 Decision i.e., the decision in the First CA Petition.
+[53]
+ She also contends that petitioners have not complied with the certification requirement under Section 5, Rule 7 of the Rules of Court when they failed to disclose in the instant petition the filing of the June 16, 2010 Memorandum of Appeal filed before the NLRC.
+[54]
+The Issues Before the Court
+The following issues have been raised for the Courtâs resolution: (a) whether or not petitioners are guilty of forum shopping and have violated the certification requirement under Section 5, Rule 7 of the Rules of Court; (b) whether or not Alcaraz was sufficiently informed of the reasonable standards to qualify her as a regular employee; (c) whether or not Alcaraz was validly terminated from her employment; and (d) whether or not the individual petitioners herein are liable.
+The Courtâs Ruling
+A.  Forum Shopping and Violation of Section 5,
+ Rule 7 of the Rules of Court.
+At the outset, it is noteworthy to mention that the prohibition against forum shopping is different from a violation of the certification requirement under Section 5, Rule 7 of the Rules of Court. In 
+Sps. Ong v. CA
+,
+[55]
+ the Court explained that:
+x x x The distinction between the prohibition against forum shopping and the certification requirement should by now be too elementary to be misunderstood. To reiterate, compliance with the certification against forum shopping is separate from and independent of the avoidance of the act of forum shopping itself. There is a difference in the treatment between failure to comply with the certification requirement and violation of the prohibition against forum shopping not only in terms of imposable sanctions but also in the manner of enforcing them. The former constitutes sufficient cause for the dismissal without prejudice [to the filing] of the complaint or initiatory pleading upon motion and after hearing, while the latter is a ground for summary dismissal thereof and for direct contempt. x x x. 
+[56]
+As to the first, forum shopping takes place when a litigant files multiple suits involving the same parties, either simultaneously or successively, to secure a favorable judgment. It exists where the elements of
+ litis pendentia
+ are present, namely: (
+a
+) identity of parties, or at least such parties who represent the same interests in both actions; (
+b
+) identity of rights asserted and relief prayed for, the relief being founded on the same facts; and (
+c
+) the identity with respect to the two preceding particulars in the two (2) cases is such that any judgment that may be rendered in the pending case, regardless of which party is successful, would amount to 
+res judicata
+ in the other case.
+[57]
+In this case, records show that, except for the element of identity of parties, the elements of forum shopping do not exist. Evidently, the First CA Petition was instituted to question the ruling of the NLRC that Alcaraz was illegally dismissed. On the other hand, the Second CA Petition pertains to the propriety of the enforcement of the judgment award pending the resolution of the First CA Petition and the finality of the decision in the labor dispute between Alcaraz and the petitioners. Based on the foregoing, a judgment in the Second CA Petition will not constitute 
+res judicata
+ insofar as the First CA Petition is concerned. Thus, considering that the two petitions clearly cover different subject matters and causes of action, there exists no forum shopping.
+As to the second, Alcaraz further imputes that the petitioners violated the certification requirement under Section 5, Rule 7 of the Rules of Court
+[58]
+ by not disclosing the fact that it filed the June 16, 2010 Memorandum of Appeal before the NLRC in the instant petition.
+In this regard, Section 5(b), Rule 7 of the Rules of Court requires that a plaintiff who files a case should provide a complete statement of the present status of any pending case if the latter involves the same issues as the one that was filed. If there is no such similar pending case, Section 5(a) of the same rule provides that the plaintiff is obliged to declare under oath that to the best of his knowledge, no such other action or claim is pending.
+Records show that the issues raised in the instant petition and those in the June 16, 2010 Memorandum of Appeal filed with the NLRC likewise cover different subject matters and causes of action. In this case, the validity of Alcarazâs dismissal is at issue whereas in the said Memorandum of Appeal, the propriety of the issuance of a writ of execution was in question. Thus, given the dissimilar issues, petitioners did not have to disclose in the present petition the filing of their June 16, 2010 Memorandum of Appeal with the NLRC. In any event, considering that the issue on the propriety of the issuance of a writ of execution had been resolved in the Second CA Petition â which in fact had already attained finality â the matter of disclosing the June 16, 2010 Memorandum of Appeal is now moot and academic.
+Having settled the foregoing procedural matter, the Court now proceeds to resolve the substantive issues.
+B.  Probationary employment;
+ grounds for termination.
+A probationary employee, like a regular employee, enjoys security of tenure. However, in cases of probationary employment, aside from just or authorized causes of termination, an additional ground is provided under Article 295 of the Labor Code, 
+i.e.
+, the probationary employee may also be terminated for failure to qualify as a regular employee in accordance with the reasonable standards made known by the employer to the employee at the time of the engagement.
+[59]
+ Thus, the services of an employee who has been engaged on probationary basis may be terminated for any of the following: (
+a
+) a just or (
+b
+) an authorized cause; and (
+c
+) when he fails to qualify as a regular employee in accordance with reasonable standards prescribed by the employer.
+[60]
+Corollary thereto, Section 6(d), Rule I, Book VI of the Implementing Rules of the Labor Code provides that if the employer fails to inform the probationary employee of the reasonable standards upon which the regularization would be based on at the time of the engagement, then the said employee shall be deemed a regular employee, 
+viz
+.:
+(d) In all cases of probationary employment, the employer shall make known to the employee the standards under which he will qualify as a regular employee at the time of his engagement. Where no standards are made known to the employee at that time, he shall be deemed a regular employee.
+In other words, the employer is made to comply with two (2) requirements when dealing with a probationary employee: 
+first
+, the employer must communicate the regularization standards to the probationary employee; and 
+second
+, the employer must make such communication at the time of the probationary employeeâs engagement. If the employer fails to comply with either, the employee is deemed as a regular and not a probationary employee.
+Keeping with these rules, an employer is deemed to have made known the standards that would qualify a probationary employee to be a regular employee when it has exerted reasonable efforts to apprise the employee of what he is expected to do or accomplish during the trial period of probation. This goes without saying that the employee is sufficiently made aware of his probationary status as well as the length of time of the probation.
+The exception to the foregoing is when the job is self-descriptive in nature, for instance, in the case of maids, cooks, drivers, or messengers.
+[61]
+ Also, in 
+Aberdeen Court, Inc. v. Agustin
+,
+[62]
+ it has been held that the rule on notifying a probationary employee of the standards of regularization should not be used to exculpate an employee who acts in a manner contrary to basic knowledge and common sense in regard to which there is no need to spell out a policy or standard to be met. In the same light, an employeeâs failure to perform the duties and responsibilities which have been clearly made known to him constitutes a justifiable basis for a probationary employeeâs non-regularization.
+In this case, petitioners contend that Alcaraz was terminated because she failed to qualify as a regular employee according to Abbottâs standards which were made known to her at the time of her engagement. Contrarily, Alcaraz claims that Abbott never apprised her of these standards and thus, maintains that she is a regular and not a mere probationary employee.
+The Court finds petitionersâ assertions to be well-taken.
+A punctilious examination of the records reveals that Abbott had indeed complied with the above-stated requirements. This conclusion is largely impelled by the fact that Abbott clearly conveyed to Alcaraz her duties and responsibilities as Regulatory Affairs Manager prior to, during the time of her engagement, and the incipient stages of her employment. On this score, the Court finds it apt to detail not only the incidents which point out to the efforts made by Abbott but also those circumstances which would show that Alcaraz was well-apprised of her employerâs expectations that would, in turn, determine her regularization:
+(
+a
+) On June 27, 2004, Abbott caused the publication in a major broadsheet newspaper of its need for a Regulatory Affairs Manager, indicating therein the job description for as well as the duties and responsibilities attendant to the aforesaid position; this prompted Alcaraz to submit her application to Abbott on October 4, 2004;
+(
+b
+) In Abbottâs December 7, 2004 offer sheet, it was stated that Alcaraz was to be employed on a probationary status;
+(
+c
+)  On February 12, 2005, Alcaraz signed an employment contract which specifically stated,
+ inter alia,
+ that she was to be placed on probation for a period of six (6) months beginning February 15, 2005 to August 14, 2005;
+(
+d
+) On the day Alcaraz accepted Abbottâs employment offer, Bernardo sent her copies of Abbottâs organizational structure and her job description through e-mail;
+(
+e
+)  Alcaraz was made to undergo a pre-employment orientation where Almazar informed her that she had to implement Abbottâs Code of Conduct and office policies on human resources and finance and that she would be reporting directly to Walsh;
+(
+f
+)  Alcaraz was also required to undergo a training program as part of her orientation;
+(
+g
+) Alcaraz received copies of Abbottâs Code of Conduct and Performance Modules from Misa who explained to her the procedure for evaluating the performance of probationary employees; she was further notified that Abbott had only one evaluation system for all of its employees; and
+(
+h
+) Moreover, Alcaraz had previously worked for another pharmaceutical company and had admitted to have an âextensive training and backgroundâ to acquire the necessary skills for her job.
+[63]
+Considering the totality of the above-stated circumstances, it cannot, therefore, be doubted that Alcaraz was well-aware that her regularization would depend on her ability and capacity to fulfill the requirements of her position as Regulatory Affairs Manager and that her failure to perform such would give Abbott a valid cause to terminate her probationary employment.
+Verily, basic knowledge and common sense dictate that the adequate performance of oneâs duties is, by and of itself, an inherent and implied standard for a probationary employee to be regularized; such is a regularization standard which need not be literally spelled out or mapped into technical indicators in every case. In this regard, it must be observed that the assessment of adequate duty performance is in the nature of a management prerogative which when reasonably exercised â as Abbott did in this case â should be respected. This is especially true of a managerial employee like Alcaraz who was tasked with the vital responsibility of handling the personnel and important matters of her department.
+In fine, the Court rules that Alcarazâs status as a probationary employee and her consequent dismissal must stand. Consequently, in holding that Alcaraz was illegally dismissed due to her status as a regular and not a probationary employee, the Court finds that the NLRC committed a grave abuse of discretion.
+To elucidate, records show that the NLRC based its decision on the premise that Alcarazâs receipt of her job description and Abbottâs Code of Conduct and Performance Modules was not equivalent to being actually informed of the performance standards upon which she should have been evaluated on.
+[64]
+ It, however, overlooked the legal implication of the other attendant circumstances as detailed herein which should have warranted a contrary finding that Alcaraz was indeed a probationary and not a regular employee â more particularly the fact that she was well-aware of her duties and responsibilities and that her failure to adequately perform the same would lead to her non-regularization and eventually, her termination.
+Accordingly, by affirming the NLRCâs pronouncement which is tainted with grave abuse of discretion, the CA committed a reversible error which, perforce, necessitates the reversal of its decision.
+C.  Probationary employment; termination procedure. 
+A different procedure is applied when terminating a probationary employee; the usual two-notice rule does not govern.
+[65]
+ Section 2, Rule I, Book VI of the Implementing Rules of the Labor Code states that â[i]f the termination is brought about by the x x x failure of an employee to meet the standards of the employer in case of probationary employment, it shall be sufficient that a written notice is served the employee, within a reasonable time from the effective date of termination.â
+As the records show, Alcaraz's dismissal was effected through a letter dated May 19, 2005 which she received on May 23, 2005 and again on May 27, 2005. Stated therein were the reasons for her termination, i.e., that after proper evaluation, Abbott determined that she failed to meet the reasonable standards for her regularization considering her lack of time and people management and decision-making skills, which are necessary in the performance of her functions as Regulatory Affairs Manager.
+[66]
+ Undeniably, this written notice sufficiently meets the criteria set forth above, thereby legitimizing the cause and manner of Alcarazâs dismissal as a probationary employee under the parameters set by the Labor Code.
+[67]
+D.  Employerâs violation of company
+ policy and procedure.  
+Nonetheless, despite the existence of a sufficient ground to terminate Alcarazâs employment and Abbottâs compliance with the Labor Code termination procedure, it is readily apparent that Abbott breached its contractual obligation to Alcaraz when it failed to abide by its own procedure in evaluating the performance of a probationary employee.
+Veritably, a company policy partakes of the nature of an implied contract between the employer and employee. In 
+Parts Depot, Inc. v. Beiswenger
+,
+[68]
+ it has been held that:
+[E]mployer statements of policy . . . can give rise to contractual rights in employees without evidence that the parties mutually agreed that the policy statements would create contractual rights in the employee, and, hence, although the statement of policy is signed by neither party, can be unilaterally amended by the employer without notice to the employee, and contains no reference to a specific employee, his job description or compensation, and although no reference was made to the policy statement in pre-employment interviews and the employee does not learn of its existence until after his hiring. Toussaint, 292 N.W .2d at 892. The principle is akin to estoppel. 
+Once an employer establishes an express personnel policy and the employee continues to work while the policy remains in effect, 
+the policy is deemed an implied contract for so long as it remains in effect
+. If the employer unilaterally changes the policy, the terms of the implied contract are also thereby changed.
+ (Emphasis and underscoring supplied.)
+Hence, given such nature, company personnel policies create an obligation on the part of both the employee and the employer to abide by the same.
+Records show that Abbottâs PPSE procedure mandates, inter alia, that the job performance of a probationary employee should be formally reviewed and discussed with the employee at least twice: first on the third month and second on the fifth month from the date of employment. Abbott is also required to come up with a Performance Improvement Plan during the third month review to bridge the gap between the employeeâs performance and the standards set, if any.
+[69]
+ In addition, a signed copy of the PPSE form should be submitted to Abbottâs HRD as the same would serve as basis for recommending the confirmation or termination of the probationary employment.
+[70]
+In this case, it is apparent that Abbott failed to follow the above-stated procedure in evaluating Alcaraz.  For one, there lies a hiatus of evidence that a signed copy of Alcarazâs PPSE form was submitted to the HRD. It was not even shown that a PPSE form was completed to formally assess her performance. Neither was the performance evaluation discussed with her during the third and fifth months of her employment. Nor did Abbott come up with the necessary Performance Improvement Plan to properly gauge Alcarazâs performance with the set company standards.
+While it is Abbottâs management prerogative to promulgate its own company rules and even subsequently amend them, this right equally demands that when it does create its own policies and thereafter notify its employee of the same, it accords upon itself the obligation to faithfully implement them. Indeed, a contrary interpretation would entail a disharmonious relationship in the work place for the laborer should never be mired by the uncertainty of flimsy rules in which the latterâs labor rights and duties would, to some extent, depend.
+In this light, while there lies due cause to terminate Alcarazâs probationary employment for her failure to meet the standards required for her regularization, and while it must be further pointed out that Abbott had satisfied its statutory duty to serve a written notice of termination, the fact that it violated its own company procedure renders the termination of Alcarazâs employment procedurally infirm, warranting the payment of nominal damages. A further exposition is apropos.
+Case law has settled that an employer who terminates an employee for a valid cause but does so through invalid procedure is liable to pay the latter nominal damages.
+In 
+Agabon v. NLRC
+ (
+Agabon
+),
+[71]
+ the Court pronounced that where the dismissal is for a just cause, the lack of statutory due process should not nullify the dismissal, or render it illegal, or ineffectual. However, the employer should indemnify the employee for the violation of his statutory rights.
+[72]
+ Thus, in 
+Agabon
+, the employer was ordered to pay the employee nominal damages in the amount of P30,000.00.
+[73]
+Proceeding from the same ratio, the Court modified Agabon in the case of 
+Jaka Food Processing Corporation v. Pacot
+ (
+Jaka
+)
+[74]
+ where it created a distinction between procedurally defective dismissals due to a just cause, on one hand, and those due to an authorized cause, on the other.
+It was explained that if the dismissal is based on a just cause under Article 282 of the Labor Code (now Article 296) but the employer failed to comply with the notice requirement, the sanction to be imposed upon him should be 
+tempered
+ because the dismissal process was, in effect, initiated by an act imputable to the employee; if the dismissal is based on an authorized cause under Article 283 (now Article 297) but the employer failed to comply with the notice requirement, the sanction should be 
+stiffer
+ because the dismissal process was initiated by the employerâs exercise of his management prerogative.
+[75]
+ Hence, in 
+Jaka
+, where the employee was dismissed for an authorized cause of retrenchment
+[76]
+ â as contradistinguished from the employee in 
+Agabon
+ who was dismissed for a just cause of neglect of duty
+[77]
+ â the Court ordered the employer to pay the employee nominal damages at the higher amount of P50,000.00.
+Evidently, the sanctions imposed in both 
+Agabon
+ and 
+Jaka
+ proceed from the necessity to deter employers from future violations of the statutory due process rights of employees.
+[78]
+ In similar regard, the Court deems it proper to apply the same principle to the case at bar for the reason that an employerâs contractual breach of its own company procedure â albeit not statutory in source â has the parallel effect of violating the laborerâs rights. Suffice it to state, the contract is the law between the parties and thus, breaches of the same impel recompense to vindicate a right that has been violated. Consequently, while the Court is wont to uphold the dismissal of Alcaraz because a valid cause exists, the payment of nominal damages on account of Abbottâs contractual breach is warranted in accordance with Article 2221 of the Civil Code.
+[79]
+Anent the proper amount of damages to be awarded, the Court observes that Alcarazâs dismissal proceeded from her failure to comply with the standards required for her regularization. As such, it is undeniable that the dismissal process was, in effect, initiated by an act imputable to the employee, akin to dismissals due to just causes under Article 296 of the Labor Code. Therefore, the Court deems it appropriate to fix the amount of nominal damages at the amount of P30,000.00, consistent with its rulings in both 
+Agabon
+ and 
+Jaka
+.
+E.  Liability of individual petitioners 
+as corporate officers.  
+It is hornbook principle that personal liability of corporate directors, trustees or officers attaches only when: (
+a
+) they assent to a patently unlawful act of the corporation, or when they are guilty of bad faith or gross negligence in directing its affairs, or when there is a conflict of interest resulting in damages to the corporation, its stockholders or other persons; (
+b
+) they consent to the issuance of watered down stocks or when, having knowledge of such issuance, do not forthwith file with the corporate secretary their written objection; (
+c
+) they agree to hold themselves personally and solidarily liable with the corporation; or (
+d
+) they are made by specific provision of law personally answerable for their corporate action.
+[80]
+In this case, Alcaraz alleges that the individual petitioners acted in bad faith with regard to the supposed crude manner by which her probationary employment was terminated and thus, should be held liable together with Abbott. In the same vein, she further attributes the loss of some of her remaining belongings to them.
+[81]
+Alcarazâs contention fails to persuade.
+A judicious perusal of the records show that other than her unfounded assertions on the matter, there is no evidence to support the fact that the individual petitioners herein, in their capacity as Abbottâs officers and employees, acted in bad faith or were motivated by ill will in terminating Alcarazâs services. The fact that Alcaraz was made to resign and not allowed to enter the workplace does not necessarily indicate bad faith on Abbottâs part since a sufficient ground existed for the latter to actually proceed with her termination. On the alleged loss of her personal belongings, records are bereft of any showing that the same could be attributed to Abbott or any of its officers. It is a well-settled rule that bad faith cannot be presumed and he who alleges bad faith has the onus of proving it. All told, since Alcaraz failed to prove any malicious act on the part of Abbott or any of its officers, the Court finds the award of moral or exemplary damages unwarranted.
+WHEREFORE
+, the petition is 
+GRANTED
+. The Decision dated December 10, 2009 and Resolution dated June 9, 2010  of the Court of Appeals in CA-G.R. SP No. 101045 are hereby 
+REVERSED
+ and 
+SET ASIDE
+. Accordingly, the Decision dated March 30, 2006 of the Labor Arbiter is 
+REINSTATED
+ with the 
+MODIFICATION
+ that petitioner Abbott Laboratories, Philippines be 
+ORDERED
+ to pay respondent Pearlie Ann F. Alcaraz nominal damages in the amount of P30,000.00 on account of its breach of its own company procedure.
+SO ORDERED
+.
+Sereno, C.J., Carpio, Velasco, Jr., Leonardo-De Castro, Peralta, Bersamin, Del Castillo, Abad, Villarama, Jr., Perez,
+ and
+ Reyes, JJ., 
+concur.
+Brion, J.
+, see dissent.
+Mendoza, J., 
+but concur with J. Brion in his views on the procedural aspect.
+Leonen, I
+ join J. Brion in his dissent.
+[1]
+ 
+Rollo
+ (G.R. No. 192571), pp. 14-58.
+[2]
+ Id. at 1040-1054. Penned by Associate Justice Isaias Dicdican, with Associate Justices Remedios A. Salazar-Fernando and Romeo F. Barza, concurring.
+[3]
+ Id. at 1139-1140.
+[4]
+ Id. at 74.
+[5]
+ Id. at 75-76.
+[6]
+ Id. at 51-52. Based on Abbottâs organizational structure, the Regulatory Affairs Manager was under the umbrella of Hospira ALSU, a sub-department in Abbottâs Hospital Care Division. ALSU serves as a transition body of Hospira, Inc., a corporation based in the United States of America, while it is in the process of organization in the Philippines. Abbott intended to cede the qualified employees under ALSU to Hospira once the latter obtained its own legal personality to engage in business in the Philippines.
+[7]
+ Id. at 165-168. Abbott sent Alcaraz an initial offer sheet on December 1, 2004. The compensation contained therein was re-negotiated and thus, the increased offer as per the offer sheet dated December 7, 2004.
+[8]
+ Id. at 167-168.
+[9]
+ Id. at 127, 169-172.
+[10]
+ Id. at 174.
+[11]
+ Id. at 127-128.
+[12]
+ Id. at 1042-1043.
+[13]
+ Id.
+[14]
+ Id. at 1044.
+[15]
+ Id.
+[16]
+ Id.
+[17]
+ Id. at 1044-1045.
+[18]
+ Id. at 1045.
+[19]
+ Id.
+[20]
+ Id. at 1046.
+[21]
+ Id. at 1047.
+[22]
+ Id. at 19-21, 78, and 80-81.
+[23]
+ Id. at 1047.
+[24]
+ Id. at 255. See Labor Arbiter (LA) Decision dated March 30, 2006.
+[25]
+ Formerly, Article 281 of the Labor Code; renumbered pursuant to Republic Act No. 10151.
+[26]
+ 
+Rollo
+ (G.R. No. 192571), p. 267.
+[27]
+ Id. at 261-262.
+[28]
+ Id. at 263-267.
+[29]
+ Id. at 255-274. Penned by Labor Arbiter Jovencio Ll. Mayor, Jr.
+[30]
+ Id. at 269.
+[31]
+ Id. at 270.
+[32]
+ Id. at 271-272.
+[33]
+ Id. at 273.
+[34]
+ Id. at 356-378. Penned by Commissioner Romeo L. Go, with Commissioners Benedicto Ernesto R. Bitonio, Jr. (on leave) and Perlita B. Velasco, concurring.
+[35]
+ Id. at 377-378.
+[36]
+ Id. at 367.
+[37]
+ Id. at 368.
+[38]
+ Id. at 369.
+[39]
+ Id. at 370-373.
+[40]
+ Id. at 413-416. Penned by Commissioner Romeo L. Go, with Presiding Commissioner Gerardo C. Nograles and Commissioner Perlita B. Velasco, concurring.
+[41]
+ Id. at 417-450.
+[42]
+ Id. at 1403.
+[43]
+ Id.
+[44]
+ Id. at 1040-1054.
+[45]
+ Id at 1052.
+[46]
+ Id.
+[47]
+ Id. at 1053.
+[48]
+ Id. at 1139-1140.
+[49]
+ Id. at 1218.
+[50]
+ Id.
+[51]
+ Id. at 1219.
+[52]
+ 
+Rollo
+ (G.R. No. 193976), p. 30.
+[53]
+ 
+Rollo
+ (G.R. No. 192571), pp.1223-1228.
+[54]
+ Id. at 1224.
+[55]
+ 433 Phil. 490, 501-502 (2002).
+[56]
+ Id. at 501-502. (Citations omitted)
+[57]
+ 
+Republic v. Mangotara
+, G.R. Nos. 170375, 170505, 173355-56, 173401, 173563-64, 178779 & 178894, July 7, 2010, 624 SCRA 360, 428, citing 
+NBI-Microsoft Corporation v. Hwang
+, 499 Phil. 423, 435-436 (2005).
+[58]
+ Sec. 5. 
+Certification against forum shopping.
+ âThe plaintiff or principal party shall certify under oath in the complaint or other initiatory pleading asserting a claim for relief, or in a sworn certification annexed thereto and simultaneously filed therewith: (a) that he has not theretofore commenced any action or filed any claim involving the same issues in any court, tribunal or quasi-judicial agency and, to the best of his knowledge, no such other action or claim is pending therein; (b) if there is such other pending action or claim, a complete statement of the present status thereof; and (c) if he should thereafter learn that the same or similar action or claim has been filed or is pending, he shall report that fact within five (5) days therefrom to the court wherein his aforesaid complaint or initiatory pleading has been filed.
+x x x x
+[59]
+ 
+Robinsons Galleria/Robinsons Supermarket Corporation v. Ranchez
+, G.R. No. 177937, January 19, 2011, 640 SCRA 135, 142.
+[60]
+ Id.
+[61]
+ Id. at 145.
+[62]
+ 495 Phil. 706, 716-717 (2005).
+[63]
+ 
+Rollo
+ (G.R. No. 192571), p. 1201.
+[64]
+ Id. at 367-368, 370.
+[65]
+ Refers to the procedure stated in Article 291(b) of the Labor Code, as renumbered pursuant to Republic Act No. 10151, 
+viz
+.:
+Article 291. 
+Miscellaneous Provisions.
+ â
+x x x x
+(b) Subject to the constitutional right of workers to security of tenure and their right to be protected against dismissal except for a just and authorized cause and without prejudice to the requirement of notice under Article 283 of this Code, the employer shall furnish the worker whose employment is sought to be terminated a written notice containing a statement of the cause for termination and shall afford the latter ample opportunity to be heard and to defend himself with the assistance of his representative if he so desires in accordance with company rules and regulations promulgated pursuant to guidelines set by the Department of Labor and Employment.
+x x x x
+This procedure is also found in Section 2(d), Rule I, Book VI of the Omnibus Rules Implementing the Labor Code which state:
+x x x x
+(d) In all cases of termination of employment, the following standards of due process shall be substantially observed:
+For termination of employment based on just causes as defined in Article 282 [now, Article 296] of the Labor Code:
+(i) A written notice served on the employee specifying the ground or grounds for termination, and giving said employee reasonable opportunity within which to explain his side.
+(ii) A hearing or conference during which the employee concerned, with the assistance of counsel if he so desires is given opportunity to respond to the charge, present his evidence, or rebut the evidence presented against him.
+(iii) A written notice of termination served on the employee, indicating that upon due consideration of all the circumstances, grounds have been established to justify his termination.
+[66]
+ 
+Rollo
+, pp. 78-81.
+[67]
+ Id. at 1047.
+[68]
+ 170 S.W.3d 354 (Ky. 2005).
+[69]
+ 
+Rollo
+ (G.R. No. 192571), p. 1052.
+[70]
+ Id. at 1043.
+[71]
+ G.R. No. 158693, November 17, 2004, 442 SCRA 573.
+[72]
+ Id. at 616.
+[73]
+ Id. at 620.
+[74]
+ 494 Phil. 114, 119-121 (2005).
+[75]
+ Id. at 121.
+[76]
+ Id. at 122.
+[77]
+ Supra note 71, at 605.
+[78]
+ Id. at 617.
+[79]
+ Article 2221. Nominal damages are adjudicated in order that a right of the plaintiff, which has been violated or invaded by the defendant, may be vindicated or recognized, and not for the purpose of indemnifying the plaintiff for any loss suffered by him.
+[80]
+ 
+Carag v. NLRC, 
+548 Phil. 581, 605 (2007), citing  
+McLeod v. NLRC,
+ 541 Phil. 214, 242 (2007).
+[81]
+ 
+Rollo
+ (G.R. No. 192571), pp. 262, 1046.
+DISSENTING OPINION
+BRION, 
+J
+.:
+The Case
+The case in caption was a Second Division illegal dismissal case that the Court 
+en banc
+ accepted for decision pursuant to Section 3, Rule 2 of the Internal Rules of the Supreme Court.
+A.   The Issues Posed
+The case posed two issues to the Court for resolution.  The 
+first
+ is the manner of review that the Court should undertake.  This is an issue that underlies all the Courtâs decision making in light of the various modes of review and essentials that the Rules of Court require. The 
+second
+ and core issue relates to the merits of the legality or illegality of the dismissal: whether the Labor Code requirements governing the dismissal of a probationary employee had been complied with, 
+considered from the prism of the mode of review and the nature of the decision under review.
+B.   The Factual Highlights
+To briefly summarize the highlights of the case, Abbott Laboratories, Phils. (
+petitioner
+), Cecille A. Terrible, Edwin D. Feist, Maria Olivia T. Yabut-Misa, Teresita C. Bernardo, and Allan G. Almazar (
+individual petitioners
+) are the employer and its senior officials who dismissed respondent Pearlie Ann F. Alcaraz from employment within three (3) months from her engagement.  The respondent complained against the petitioners on the ground that she had been illegally dismissed: (1) she was not informed of the standards that would govern her as a probationary employee, as required by the law (the Labor Code) and its implementing rules; (2) the petitioners even violated the companyâs own internal rules on the manner of dismissing probationary employees; (3) substantively, her dismissal was without the required just cause as required by the law and the rules; and (4) her dismissal was done oppressively and in bad faith.
+C.   The Rulings Below
+The 
+Labor Arbiter
+ ruled that the dismissal had been valid but the 
+National Labor Relations Commission
+ (
+NLRC
+) reversed the Labor Arbiter; found the dismissal illegal; and damages and attorneyâs fees because of the manner the dismissal was effected.  The 
+Court of Appeals
+ (
+CA
+) found no grave abuse of discretion and accordingly denied the Rule 65 petition that the petitioner Abbott brought.
+D.   The Current Court Rulings
+The 
+Ponencia
+.  In the present Rule 45 petition for review on 
+certiorari
+ before this Court, the 
+ponencia
+ undertook a 
+weighing of the evidence in light of her own view of how the evidence should be interpreted
+, and came out with her own ruling for the grant of the petition.
+This Dissent
+. I vote to dismiss the petition before us as I agree with the decision of the CA that the 
+NLRC did not commit any grave abuse of discretion
+ in concluding that respondent had been illegally dismissed from employment.
+Discussion of the Issues
+I.  
+The Procedural Issue
+A.  
+The Preliminary Issue: Manner of Review
+  
+A labor case finds its way into the judicial system from the NLRC whose decision is 
+final and executory
+. Finality simply means that the NLRC ruling is 
+no longer appealable
+; the legal intent is to confine adjudication of labor cases to labor tribunals with the expertise in these cases and thereby bring the resolution of the case to a close at the soonest possible time.
+When an administrative ruling (or any ruling for that matter) is already final and unappealable, the only recourse open under the Rules of Court is through 
+a limited review on jurisdictional grounds under Rule 65
+.  This has been the mode of review followed since the Labor Code took effect in November 1974; labor cases were directly brought to this Court but only on jurisdictional grounds under Rule 65.
+[1]
+In 1998, the Court â in lieu of directly acting on labor cases under Rule 65 of the Rules of Court â opted to change the 
+procedure of review
+ through its ruling in 
+St. Martin Funeral Homes, Inc. vs. National Labor Relations Commission
+,
+[2]
+ taking into account the judicial hierarchy of courts and the growing number of labor cases elevated to the Supreme Court under Rule 65.  The Court resolved that the proper recourse from the NLRCâs final and executory ruling is to assail the ruling before 
+the CA under Rule 65
+.  Thus, the unappealable character of the NLRC ruling (as declared by substantive law) did not change; only the process of review changed in terms of the court (from the Supreme Court to the Court of Appeals) to which the labor case can initially be brought.
+From the CA ruling, a dissatisfied party has the option to file 
+an appeal with the Supreme Court
+ through a petition for review on 
+certiorari
+ under Rule 45 of the Rules of Court. This mode of appeal limits the review to questions of law.
+B. 
+Standard of Review of a Labor Case 
+under Rule 45 of the Rules of Court
+In 
+Montoya v. Transmed
+,
+[3]
+ the Supreme Court (
+the Court
+), through its Second Division, clarified the approach that the CA and this Court should make in the handling of labor cases, among others, to ensure the prompt handling of these cases and thereby unclog our dockets.  To quote our ruling in 
+Montoya
+:
+In a Rule 45 review, we consider the 
+correctness of the assailed CA decision
+, in contrast with the review for jurisdictional error that we undertake under Rule 65.  Furthermore, Rule 45 limits us to the review of 
+questions of law
+ raised against the assailed CA decision.  In ruling for legal correctness, we have to view the CA decision in the same context that the petition for 
+certiorari
+ it ruled upon was presented to it; 
+we have to examine the CA decision from the prism of whether it correctly determined the presence or absence of grave abuse of discretion in the NLRC decision before it, not on the basis of whether the NLRC decision on the merits of the case was correct.
+  In other words, we have to be keenly aware that the CA undertook a Rule 65 review, not a review on appeal, of the NLRC decision challenged before it.  This is the approach that should be basic in a Rule 45 review of a CA ruling in a labor case. 
+ In question form, the question to ask is: Did the CA correctly determine whether the NLRC committed grave abuse of discretion in ruling on the case?
+[4]
+ [emphases and italics supplied; citations omitted]
+Thus, under the 
+Rule 65 review by the CA
+, Montoya reiterates that the sole ground or issue allowed is 
+jurisdictional
+ â the presence or absence of grave abuse of discretion on the part of the NLRC in ruling on the case
+.  To state the obvious, this kind of review would have made it easier for the CA to handle the case; in the absence of a grave abuse of discretion, it can dismiss labor cases for lack of grave abuse of discretion as we do in this Court.
+From the CA, further recourse is through a 
+Rule 45 review by this Court on questions of law
+ in accordance with prevailing rulings.  The office of a petition for review on 
+certiorari
+ is not to examine and settle 
+factual questions
+ already ruled upon below. In this review, the Court simply determines whether the 
+legal correctness of the CAâs finding that the NLRC ruling of illegal dismissal had basis in fact and in law.
+This manner of review is effectively a 
+supervisory review
+ by the courts that bears two significant characteristics: 
+first
+, it respects the mandate of the law that the decision below is final and is not for the courts to review 
+on appeal 
+for its legal and factual merits; and 
+second
+, review by the courts (particularly by the Supreme Court) in the exercise of their 
+supervisory certiorari jurisdiction
+ is mandated no less than by the Constitution and is intended to ensure that the deciding entity stayed within the due bounds of its authority or jurisdiction.
+[5]
+Specifically, in reviewing a CA labor ruling under Rule 45 of the Rules of Court, the Courtâs review is limited to:
+(1)
+ Ascertaining the correctness of the CAâs decision in finding the presence or absence of a grave abuse of discretion
+.  This is done by examining, on the basis of the partiesâ presentations, whether the CA correctly determined that at the NLRC level, all the adduced pieces of evidence were considered; no evidence which should not have been considered was considered; and the evidence presented supports the NLRC findings; and
+(2) 
+Deciding any other jurisdictional error
+ that attended the CAâs interpretation or application of the law.
+In this kind of limited review, the Court avoids reviewing a labor case by re-weighing the evidence or re-evaluating its sufficiency; the task of weighing or evaluation, as a rule, lies within the NLRCâs jurisdiction as an administrative appellate body.
+If the NLRC ruling has basis in the evidence and the applicable law and jurisprudence, then no grave abuse of discretion exists and the CA should so declare and, accordingly, 
+dismiss
+ the petition.  If grave abuse of discretion exists, then the CA must grant the petition and nullify the NLRC ruling, entering at the same time the ruling that is justified under the evidence and the governing law, rules and jurisprudence.  In our Rule 45 review, this Court must 
+deny
+ the petition if it finds that the CA correctly acted.
+In the context of the present case, the CA found no grave abuse of discretion committed by the NLRC; hence, the CA dismissed the Rule 65 petition before it.  In our own ruling on the Rule 45 petition before us, we should evaluate the petition in this light, not in the manner that the ponencia did in concluding for the grant of the petition and ruling in favor of the petitioners.
+By so doing, the 
+ponencia
+ undertook a factual appellate review that laid the whole case open for the detailed examination of every piece of evidence adduced in the case and for the evaluation of the correctness of the application of the law to the evidence found.  This is a review that a Rule 45 petition does not allow.
+II.   
+The Substantive Issues
+A.      
+The Respondentâs Status of Employment
+II.A.1.       
+Standards to determine probationary employment
+  
+While the respondent might have been hired as a probationary employee, 
+the petitionersâ evidence did not establish the employersâ compliance with the probationary employment requirements under Article 281 of the Labor Code (as amended) and Section 6(d) of the Implementing Rules of Book VI, Rule I of the Labor Code (as amended)
+.  Thus, the respondent should be considered a regular employee and the case should be reviewed on this basis.
+Article 281 of the Labor Code, as amended, provides:
+ART. 281. 
+Probationary employment.
+ - Probationary employment shall not exceed six (6) months from the date the employee started working, unless it is covered by an apprenticeship agreement stipulating a longer period. The services of an employee who has been engaged on a probationary basis may be terminated for a just cause or when he fails to qualify as a regular employee in accordance 
+with reasonable standards made known by the employer to the employee at the time of his engagement
+. An employee who is allowed to work after a probationary period shall be considered a regular employee. [italics supplied; emphasis ours]
+Further, Section 6(d) of the Implementing Rules of Book VI, Rule I of the Labor Code, as amended, states:
+Sec. 6. 
+Probationary employment.
+ â There is probationary employment where the employee, upon his engagement, is made to undergo a trial period during which the employer determines his fitness to qualify for regular employment, based on 
+reasonable standards made known to him at the time of engagement
+. 
+[emphasis supplied]
+Probationary employment shall be governed by the following rules:
+x x x x
+(d) In all cases
+ of probationary employment, 
+the employer shall make known
+ to the employee 
+the standards under which he will qualify as a regular employee at the time of his engagement.  Where no standards are made known to the employee at that time, he
+ shall be 
+deemed
+ a regular employee. 
+[emphases ours; italics supplied]
+To sum up these provisions, a valid probationary employment requires the concurrence of two requirements. 
+First
+, the employer shall make known the 
+reasonable standard
+ (
+performance standard
+) whose compliance will render the employee qualified to be a regular employee. 
+Second
+, the employer shall 
+inform
+ the employee of the 
+applicable performance standard
+ at the 
+time of his/her engagement
+.  Failing in one or both, the employee, even if initially hired as a probationary employee, should be viewed and considered a regular employee.
+The 
+ponencia
+ apparently fully agrees with the above statement of the applicable law as it substantially recites the same requirements, including the consequence that upon failure to comply with these same requirements, â
+the employee is deemed as a regular and not a probationary employee.
+â
+[6]
+ It continues, however, with a 
+twist
+ that effectively negates what it has stated and admitted about the need to communicate the regularization standards to the employee, thus:
+Keeping with these rules, an employees is deemed to have made known the standards that would qualify a probationary employee to be a regular employee when it has exerted reasonable efforts to apprise the employee of what he is expected to do to accomplish during the trial of probation.  This goes without saying that the employee is sufficiently made aware of his probationary status as well as the length of time of the probation.
+The exception to the foregoing is when the job is self-descriptive in nature, for instance, in the case of maids, cooks, drivers, or messengers.  Also in Aberdeen Court, Inc v. Agustin, it has been held that the rule on notifying a probationary employee of the standards of regularization should not be used to exculpate an employee in a manner contrary to basic knowledge and common sense in regard to which there is no need to spell out a policy or standard to be met.  In the same light, an employeeâs failure to perform the duties and responsibilities which have been clearly made known to him constitutes a justifiable basis for a probationary employeeâs non-regularization. [
+footnotes from the original, omitted
+]
+Based on these premises, the 
+ponencia
+ then deftly argues that because the duties and responsibilities of the position have been explained to the respondent, an experienced human resource specialist, she should have known what was expected for her to attain regular status.
+The 
+ponenciaâs
+ reasoning, however, is badly flawed.
+1
+st
+.  The law and the rules require that there 
+performance standards communicated at the time of engagement 
+to the probationary employee.  The performance standards to be met are the employerâs 
+specific expectations
+ of how the probationary employee should perform.
+The ponencia impliedly admits that no performance standards were expressly given but argues that because the respondent had been informed of her duties and responsibilities (a fact that was and is not disputed), she should be 
+deemed to know 
+what was expected of her for purposes of regularization.
+This is a major flaw that the 
+ponencia
+ satisfies only via an assumption.  The 
+ponencia
+ apparently forgets that knowledge of duties and responsibilities is different from the measure of how these duties and responsibilities should be delivered.  They are separate elements and the latter element is missing in the present case.
+2
+nd
+. The 
+ponencia 
+glosses over the communication aspect.  Not only must there be express performance standards (except in specific instances defined in the implementing rules, discussed below); there must be effective communication.  If no standards were provided, what would be communicated?
+3
+rd
+.  The ponencia badly contradicts itself in claiming that actual communication of specific standards might not be necessary â
+when the job is self-descriptive in nature, for instance, in the case of maids, cooks, drivers, or messengers.
+â  The respondent, in the first place, was never a maid, cook, driver or a messenger and cannot be placed under this classification; she was hired and employed as a human resources manager, in short, a managerial employee.  Plain and common sense reasoning by one who ever had been in an employment situation dictates that the job of a managerial employee cannot be self-explanatory, in the way the 
+ponencia
+ implied; the complexity of a managerial job must necessarily require that the level of performance to be delivered must be specified and cannot simply be assumed based on the communication of the managerâs duties and responsibilities.
+4
+th
+.  The 
+ponencia
+ also forgets that what these âperformance standardsâ or measures cannot simply be assumed because they are critically important in this case, or for that matter, in any case involving jobs whose duties and responsibilities are not simple or self-descriptive.  If the respondent had been evaluated or assessed in the manner that the companyâs internal rules require, these standards would have been the basis for her performance or lack of it.  Last but not the least, the respondentâs services were terminated on the basis of the performance standards that, by law, the employer set or prescribed at the time of the employeeâs engagement.  If none had been prescribed in the first place, under what basis could the employee then be assessed for purposes of termination or regularization?
+From these preliminary take-off points in the 
+ponenciaâs
+ premises, it can already be discerned that something is badly amiss and skewed in its appreciation and review of the rulings of the NLRC and the CA.  It is an appreciation that goes beyond what a determination of grave abuse of discretion requires. It is an evaluation of the adduced evidence based on externalities beyond the face value of the presented evidence.
+In this case, the 
+ponencia
+ simply disregarded the plain import of the evidence or the lack of it, and ventured into the realm of assumptions to justify its desired conclusions.  In the mathematical realm of problem solving, it appears to have started from the conclusion and solved the problem backwards so that the conclusion would fit into its stretched reading of the evidence.
+II.A.2.  
+The respondent should be deemed a regular employee
+In the context of this case, an initial determination of how the respondentâs employment started and of her legal status at that point is the best starting point in determining the validity of her dismissal.
+The respondent was indisputably initially hired as a probationary employee.  This is not a contested point.  The established facts and the applicable law, however, dictate otherwise from the perspective of law as the 
+petitioners failed to show compliance with the two requirements
+ of Article 281 of the Labor Code (as amended) and of Section 6(d) of the Implementing Rules of Book VI, Rule I of the Labor Code (as amended).
+This was what the NLRC found, leading the CA to conclude that no grave abuse of discretion intervened in the NLRCâs ruling because its findings were supported by the evidence on record and by the correctly-chosen applicable law.
+  In stark contrast, the ponenciaâs reading, although based on the same legal premises, was based on shaky assumptions, not on the hard evidence that the tribunals below appreciated.
+II.A.2(a).  
+No specific employment standard on record
+. 
+As the NLRC found (and as confirmed by the CA), no term or provision exists in the respondentâs Employment Contract
+[7]
+ relating to the 
+performance standard
+ that the respondent was expected to observe.  The Employment Contract, duly presented as evidence, only proved the terms and conditions of the respondentâs employment as therein indicated, 
+i.e
+., the 
+position title
+, the 
+assigned department
+, the 
+status of employment
+, and the 
+period of employment.
+  Beyond these, the Employment Contract did not say anything more.  To be sure, nothing more can be extracted from this piece of evidence except the facts stated and the inferences by implication from the expressly disclosed information.  Significantly, none of these can be characterized or inferred by implication as performance standards.
+The best evidence of what the ponencia did when it saw matters otherwise, is its own statement: its basis is not what the submitted evidence state but on what she was 
+âlargely impelledâ
+ to recognize.  To quote the 
+ponenciaâs
+ own words:
+A punctilious examination of the records reveals that Abbott had indeed complied with the above requirements.  This conclusion is 
+largely impelled
+ by the fact that Abbott clearly 
+conveyed to Alcaraz her duties and responsibilities as Regulatory Affairs Manager
+ prior to, during the time of her engagement, and the incipient states of her employment.  On this score, the Court finds it apt to detail not only of the incidents which point out to the efforts made by Abbott but also those circumstances which would show that Alcaraz was well-apprised of her employerâs expectations that would, in turn determine her regularization:â [
+emphasis supplied
+]
+The petitionerâs other pieces of evidence that the 
+ponencia
+ cited and used to support its conclusion do not and cannot, however, satisfy the requirement for performance standards that must be communicated at the time of engagement.
+Specifically, these were the 
+Offer Sheet 
+dated December 7, 2004, and the 
+pre-employment orientation
+ on the respondentâs duty to implement the petitionerâs Code of Conduct, office policies and training program.
+The Offer Sheet was designed to inform the respondent of the compensation and benefits package offered to her by the petitioner and can in no way be read as a statement of the applicable probationary employment standard.
+[8]
+  It was communicated even prior to engagement when the parties were negotiating, not at the point of engagement as the law requires.
+The pre-employment orientation on the respondentâs duty to implement the petitionerâs Code of Conduct, office policies and training program likewise cannot be characterized as performance standards; they simply related to activities aimed at acquainting and training the respondent on her duties and not for the purpose of informing her of the performance standards applicable to her.  What stands out is that 
+they do not pertain specifically to the respondent and the required performance standard applicable for her qualification for regular employment
+; they related to the staff the respondent managed and supervised.   Additionally, these were all relayed prior to or after the respondent was engaged by the petitioner.
+An important distinction to remember at this point is that the respondentâs knowledge of the duties that her work entailed, and her knowledge of the employerâs performance standard, are two distinct matters separately requiring the presentation of 
+independent proof.
+The requirement of independent proof is found under Article 281 of the Labor Code, as amended, and its implementing rule that deem an employee to be regular 
+if he/she was not informed of the 
+performance standard
+ for regularization
+. Independent proof is likewise necessary as the law provides an additional ground for terminating a probationary employment,
+ i.e
+., when the employee âfails to qualify as a regular employee 
+in accordance with the reasonable standards made known by the employer[.]
+â
+[9]
+The performance standard contemplated in law may be proven by evidence of how the employeeâs performance was intended to be or was, in fact, measured by the employer. The performance standard may be in the form of a clear set of the employerâs expectations, or by a system of feedbacks (e.g., comment cards) and document evaluation or performance evaluation and appraisals conducted by the employer.
+These were the pieces of evidence that the NLRC, as confirmed by the CA, 
+did not see in the evidence or in the petitionersâ presented case
+.  The ponencia, unfortunately, glossed over these gaps and omissions in the petitionersâ case and chose to believe, even without evidentiary basis that â
+Considering the 
+totality of the above-stated circumstances
+, it cannot, therefore, be doubted that Alcaraz was well-aware that her regularization would depend on her ability and capacity to fulfill the requirements of her position as Regulatory Affairs Manager and that her failure to perform such would give Abbott a valid cause to terminate her probationary employment. [
+emphasis supplied
+]
+From this strained and stretched reading that magically saw the required prescribed performance standards that â by the factual findings of the NLRC and the CA â never existed, the 
+ponencia
+ went on to conclude:
+Verily, basic knowledge and common sense dictate that the adequate performance of oneâs duties is, by and of itself, an inherent and implied standard for a probationary employee to be regularized; such is a regularization standard which need not be literally spelled out or mapped into technical indicators in every case.  In this regard, it must be observed that the assessment of adequate duty performance is in the nature of a management prerogative which when reasonably exercised â as Abbott did in this case âshould be respected.  This is especially true of a managerial employee like Alcaraz who was tasked with the vital responsibility of handling personnel and important matters of her department.
+This conclusion, of course, simply extends the magic by using âbasic knowledge and common senseâ to dictate the existence of âinherent and implied standardsâ of a probationary employee, and even offers a view of âmanagement prerogativeâ that is unusual in the given facts of this case.  This approach eloquently exemplifies what I mentioned above as the âsolving backwardsâ approach that the 
+ponencia
+ used.
+II.A.2(b).   
+No specific performance standard
+ communicated to the respondent.
+Complementing the requirement for the existence of performance standards is the required communication of the performance standard to the respondent.  Again, 
+nothing in the records
+ shows that the petitioner ever communicated any performance standard to the respondent.
+The 
+ponencia
+, in building up a case contrary to what the NLRC and the CA found, cites the evidence the petitioners point to â the respondentâs receipt of copies of the petitionerâs Code of Conduct, Probationary Performance Standards and Evaluation, and Performance Excellence Orientation Modules.  The 
+NLRC and the CA
+, looking at the same pieces of evidence, saw these in a different light as they 
+did not only examine the documents themselves but went to the extent of examining and appreciating the circumstances surrounding the respondentâs receipt of these documents.
+The evidence on record suggests, as the respondent directly testified to, that the cited documents were not given to her for the purpose of complying with the petitionerâs obligation to inform her of the performance standards applicable to her.  The documents were, in fact, given by the petitioner 
+to assist her in monitoring the employees assigned to her department, i.e., as the documents she must rely on in conducting the performance evaluations 
+of the staff assigned to her department
+. In short, the respondent received the documents because they were necessary in the discharge of her functions.
+From the point of law, compliance with the first requirement is not also satisfied by the petitionerâs assertion that the respondent knew that only one performance standard applied to all employees. Notably, the law requires proof that the employer specifically made known to her the performance standards applicable to her to enable her to qualify for regular employment. 
+The required communication must be an effective one if the law were to be given meaningful substance, not a mere perfunctory transmission of information
+.
+Faced with these opposing claims, the CA apparently weighed matters in the respondentâs (and effectively in the NLRCâs) favor.  In this situation of possible equipoise, the CA did not rule incorrectly from the point of law when it acted as it did.
+Two factors
+ tilt the balance in favor of the legal correctness of the CAâs ruling.  The 
+first
+ is that the respondentâs position (found by the NLRC to be meritorious) was 
+not without any basis in fact and in law
+.  The 
+second
+ is from the latter perspective; 
+Article 4 of the Labor Code
+ and established jurisprudence hold that any doubt in a labor situation must be resolved in the employeeâs favor.
+Thus, again, the 
+ponenciaâs
+ case and its conclusion must fail.    
+II.A.2(c). 
+Performance standards and the internal 
+procedures for their evaluation were not applied
+ to the respondent
+.
+I can only agree with one aspect of the 
+ponencia
+ â its admission that Abbottâs internal procedures were not applied to the respondent.  I cannot dispute and I fully agree with the following passages of the 
+ponencia
+:
+Records show that Abbottâs PPSE procedure mandates, inter alia, that the job performance of a probationary employee should be formally reviewed and discussed with the employee at least twice: first on the third month and second on the fifth month from the date of employment.  Abbott is also required to come up with a Performance Improvement Plan during the third month review to bridge the gap between the employeeâs performance and the standards set, if any.  In addition, a signed copy of the PPSE form should be submitted to Abbottâs HRD as the same would serve as basis for recommending the confirmation or termination of the probationary employment.
+In this case, as it is apparent that Abbott failed to follow the above-stated procedure in evaluating Alcaraz.  For one, there lies a hiatus of evidence that a signed copy of Alcaraz PPSE form was submitted to the HRD.  It was not even shown that a PPSE form was completed to formally assess her performance.  Neither was the performance evaluation discussed with her during the third and fifth months of her employment.  Nor did Abbott come up with the necessary Performance Improvement Plan to properly gauge Alcaraz performance with the set company standards.
+While it is Abbottâs management prerogative to promulgate its own company rules and even subsequently amend them, this right equally demands that when it does create its own policies and thereafter notify its employees of the same, it accords upon itself the obligation to faithfully implement them.  Indeed, a contrary interpretation would entail a disharmonious relationship in the work place for the laborer should never be mired by the uncertainty of flimsy rules in which the latterâs labor rights and duties would, to some extent, depend.
+[10]
+ [
+footnotes in the original omitted
+]
+Internal processes, however, cannot be dissociated from the substance that the processes seek to achieve.  
+This is the essence of due process
+.  There is the requirement for the observance of proper procedures, hand in hand with the substance of what the law seeks â to level the playing field between the all-powerful employer and the vulnerable employee who lies at the mercy of the employer if he or she can be dismissed on the basis of the latterâs whim.  This attempt at leveling is the reason for the requirements for duly disclosed performance standards and their communication to the probationary employee at the very beginning of the relationship. Reason, experience and common sense dictate that the substance of the law carry more weight than the process component so that any violation of the substantive portion is a transgression that mere obeisance to the process or the recognition of the failure of process, cannot cure.  From this perspective, the laudable quotation above loses its luster.
+Lusterless or otherwise, the 
+ponenciaâs
+ admission of Abbottâs procedural inadequacies is not without significance in terms of the present case as a whole.  Notably, the above quotation expressly and impliedly admits that no effort at all was ever made for the conduct of an assessment or evaluation of the respondentâs performance; in fact, no performance evaluation forms appear to have been submitted by the company.  The dearth of evidence on this point (described by the 
+ponencia
+ as a âhiatus of evidenceâ) is completely consistent with what the 
+ponencia
+ explicitly and impliedly admits from the very beginning: 
+there was no evidence of any performance standard furnished the respondent so that the ponencia could only deduce the existence of performance standards from its assumptions and stretched rationalizations; much less was there any communication of performance standards qua performance standards, as this is a matter that was also assumed.
+I draw attention, too, to another unusual feature of this case indicating, not only the omissions that the 
+ponencia
+ already cited, but the implication as well that the respondent had been singled out for special treatment by the petitioner officers. At the very least, this incident indicates that the petitioner did not apply the same standards and processes to the respondentâs work. The petitionerâs prescribed procedure was narrated in an earlier version of the 
+ponencia
+ in this wise:
+On April 20, 2005, Alcaraz had a meeting with petitioner Cecille Terrible (Terrible), Abbottâs former HR Director, to discuss certain issues regarding staff performance standards. In the course x x x thereof, Alcaraz accidentally saw a printed copy of an e-mail sent by Walsh to some staff members which essentially contained queries regarding the formerâs job performance. 
+Alcaraz asked if Walshâs action was the normal process of evaluation. Terrible said that it was not.
+[11]
+  (emphasis ours)
+This allegation by the respondent in this regard in her pleadings was impliedly admitted by the petitioner when it failed to offer any refutation.   Interestingly, 
+the above allegation was included in the narration of facts of the 
+Labor Arbiter
+, the 
+NLRC
+, the 
+CA
+ and an earlier version of the 
+ponencia
+, although they arrived at two (2) different conclusions.
+The respondentâs unrefuted allegation was not considered at all in the conclusions of the Labor Arbiter and of the 
+ponencia
+.
+[12]
+ On the other hand, the NLRC and the CA concluded that a different performance standard and evaluation process was applied to the respondent in light of the circumstances of the case, gleaned from the evidence submitted.
+[13]
+In my view, the NLRC and the CA were not without basis in making their conclusion as the incident, taken together with the facts supported by the available evidence, is vital in appreciating the nature of the respondentâs employment.
+Since the respondent, as the incident suggests, was bound by a different set of standards and procedures, and since no evidence of record existed showing what these standards were or that the required procedures were observed, the petitionersâ theory that the respondent was informed of, and was evaluated pursuant to, the performance standards applicable to her position, is effectively negated. 
+ This leads to the conclusion that the respondent, from the beginning, had been a regular employee as a result of the failure of Abbottâs HR processes
+. A much simpler view, related this time to the manner of her termination, is that the respondent was simply differently treated.
+B.      
+âJust Causeâ for Dismissal Must Exist
+To justify the dismissal of an employee, the employer carries the burden of proving that the dismissal was for a just cause and with the observance of due process prior to dismissal.
+[14]
+ The employer has to discharge this burden by clear, accurate, consistent and convincing evidence;
+[15]
+ in case of doubt, the presumption in the employeeâs favor under Article 4 of the Labor Code should apply.
+II.B.1.    
+The petitioner had no valid cause to dismiss
+ the respondentâs employment
+The respondent was dismissed as she âfailed to qualify as regular employee in accordance with the prescribed standards set by the Company.â
+[16]
+ Even granting for the sake of argument that the petitioner had apprised the respondent of an applicable performance standard, the evidence failed to show that the respondent did not meet this standard in a manner and to the extent equivalent to the âjust causeâ that the law requires.
+II.B.1(a).  
+Just cause requirement for employees, 
+whether probationary or regular.
+An important legal point that should not be lost in considering this case is that 
+a probationary employee does not have lesser rights than a regular employee under the Labor Code in terms of the just cause for the termination of an employment.
+ While the strict application of Article 282 of the Labor Code may be relaxed because the employee is still under probation (so that analogous probationary status rules may apply), the same essential just cause for dismissal must be present and must be proven.  In other words, probationary employment does not mean that the employee is under an âemployment at willâ situation as that phrase is understood in American jurisprudence. To reiterate, the fact that the respondent was still in her probationary period of employment did not lessen the burden of proof that the law imposed on the petitioners to prove the just cause for her dismissal.
+[17]
+ Probationary employees are protected by the security of tenure provision of the Constitution and they cannot be removed from their position except only for cause.
+[18]
+II.B.1(b). 
+The evidentiary status of the just cause for dismissal
+  
+In the present case, the evidence did not show the just cause that Article 282 of the Labor Code requires. No evidence on record showed the commission by the respondent of any of the following acts or omissions:
+ 
+ 
+(a)
+ 
+ 
+Serious misconduct or willful disobedience by the employee of the lawful orders of his employer or representative in connection with his work;
+ 
+ 
+ 
+(b) 
+ 
+Gross and habitual neglect by the employee of his duties;
+ 
+ 
+ 
+(c)
+ 
+ 
+Fraud or willful breach by the employee of the trust reposed in him by his employer or duly authorized representative;
+ 
+ 
+ 
+(d) 
+ 
+Commission of a crime or offense by the employee against the person of his employer or any immediate member of his family or his duly authorized representatives; and
+ 
+ 
+ 
+(e)
+ 
+ 
+Other causes analogous to the foregoing.
+ 
+ 
+On the contrary, the records disclose that the respondent performed her duties under the guidance of the petitionerâs management and worked in line with the tasks assigned to her.
+[19]
+ The petitionerâs allegation of the respondentâs âpoor performanceâ could not have been substantiated considering the lack of any clear performance standard in evaluating the respondentâs work.
+II.B.2.    
+The petitioner violated its own procedural 
+requirements in the performance evaluation
+A first instance when the discussion related to âprocessâ was with respect to the 
+communication of performance standards
+.  This topic also relates to process, but this time on the matter of the 
+procedure to be taken in performance evaluation
+: the petitioner failed to observe 
+its own procedural requirements
+ in evaluating the respondentâs probationary employment.
+The petitionerâs prescribed procedure gives probationary employees two (2) opportunities to meet and qualify for regularization. As mentioned before, the reviews were aimed at informing the employees of their work performance based on the petitionerâs standard and on how they can improve it to qualify for regularization. For reasons not disclosed in the records, the prescribed procedure was not followed by the petitioner in the respondentâs case. She was immediately terminated from employment without having been evaluated and without undergoing the evaluation process under the petitionerâs prescribed procedure.
+While the petitionerâs failure to observe its own procedures is not disputed in the 
+ponencia
+, the implication of Abbottâs failure cannot simply be glossed over.  Abbottâs non-compliance should be viewed from the 
+point of fairness or lack of it
+, that attended the respondentâs dismissal.  This circumstance should be considered together with the other circumstances of the case, if only because the petitionerâs basic unfairness rendered doubtful the real cause in the termination of her employment.
+In other words, any deviation from the prescribed procedures must be sufficiently explained to remove doubts on the genuineness of the cause of dismissal.  In this case, not only did the petitioner fail to observe its own prescribed procedure; more importantly, it also 
+failed to provide an explanation
+ on why the prescribed procedure was not followed in the respondentâs case.
+Significantly, the NLRC appreciated all these in this case and this appreciation was duly noted and evaluated by the CA.  As there was in fact basis in fact and in law in the NLRCâs findings on this aspect of the case, again the CA correctly found no grave abuse of discretion in the NLRCâs actions.
+II.B.3.    
+Violation of the Labor Codeâs procedural requirements  
+Additionally, the petitioner failed to comply with the procedural due process of the Labor Code when it terminated the respondentâs employment. The 
+two-written notice requirement
+ under Section 2, Rule XXIII, Book V of the Omnibus Rules Implementing the Labor Code, as amended, was never observed.  To quote this provision:
+Section 2. 
+Standards of due process; requirements of notice
+. â In all cases of termination of employment, the following standards of due process shall be substantially observed:
+I. For termination of employment based on just causes as defined in Article 282 of the Code:
+(a)        
+A written notice served on the employee specifying the ground or grounds for termination, and giving to said employee reasonable opportunity within which to explain his side;
+(b)        A hearing or conference during which the employee concerned, with the assistance of counsel if the employee so desires, is given opportunity to respond to the charge, present his evidence or rebut the evidence presented against him; and
+(c)        
+A written notice of termination served on the employee indicating that upon due consideration of all the circumstance[s], grounds have been established to justify his termination.
+In case of termination, the foregoing notices shall be served on the employeeâs last known address.  [emphasis supplied]
+The 
+first notice
+ is complied with when the employee is properly apprised of the charges brought against him/her so that he/she can properly prepare for his/her defense.
+[20]
+ The 
+second notice
+ is complied with when the employee is informed of the employerâs intention to terminate the employment.
+[21]
+ A formal "trial-type" hearing, although preferred, is not absolutely necessary to satisfy the employee's right to be heard. In 
+Perez v. Philippine Telegraph and Telephone Company,
+[22]
+ the Court laid down the following guiding principles in connection with the hearing requirement in dismissal cases:
+ 
+ 
+a)
+ 
+"ample opportunity to be heard" means any meaningful opportunity (verbal or written) given to the employee to answer the charges against him and submit evidence in support of his defense, whether in a hearing, conference or some other fair, just and reasonable way.
+ 
+ 
+ 
+b) 
+ 
+a formal hearing or conference becomes mandatory only when requested by the employee in writing or substantial evidentiary disputes exist or a company rule or practice requires it, or when similar circumstances justify it.
+ 
+ 
+ 
+c) 
+ 
+the "ample opportunity to be heard" standard in the Labor Code prevails over the "hearing or conference" requirement in the implementing rules and regulations.
+ 
+ 
+From the records, the 
+respondent received only one notice and was not given ample opportunity to be heard
+ before her employment was terminated. The respondent was not served a first written notice indicating: (1) the grounds for terminating her employment; and (2) a directive giving her the opportunity to submit a written explanation within a reasonable period. Neither was the respondent given the ample opportunity to be heard as required by law.  There was only compliance with the second notice requirement through the petitionerâs letter dated May 19, 2005 which was already a written notice of termination of employment.
+[23]
+In defense of Abbottâs failure to observe the two-notice requirement, the 
+ponencia
+ argues that a different procedure applies when terminating a probationary employee; the usual two-notice requirement does not govern, citing for this purpose Section 2, Rule I, Book VI of the Implementing Rules of the Labor Code.
+The ponencia, however, forgets that the single notice rule applies only if the employee is validly on probationary basis;
+ it does not apply where the employee is deemed a regular employee for the companyâs failure to provide and to communicate a prescribed performance standard applicable to the probationary employee
+.  The ponencia itself admits that in such a case, the employee would then be a regular employee.  Since the petitioner utterly failed to support by evidence its compliance with the legal requirements on performance standards, the two-notice requirement for regular employees must perforce fully apply.
+C.      
+The Consequences of the Respondentâs Illegal Dismissal
+The above analysis shows that the respondent had been illegally dismissed from her employment. The petitioner failed to show that her dismissal was for a 
+valid cause
+. The petitioner also failed to respect the respondentâs 
+procedural due process
+ rights under the law.
+As a consequence, the NLRC and the CA, thereafter, correctly ordered the respondentâs reinstatement and the payment of the monetary awards of backwages, moral damages, exemplary damages and attorneyâs fees. The CA and the NLRC also correctly held that the individual petitioners (i.e., the corporate officers of the petitioner) should be solidarily liable with the petitioner for the respondentâs monetary awards.
+II.C.1.    
+The recoverable reliefs
+Article 279 of the Labor Code, as amended, provides the following awards to an illegally dismissed employee:
+Art. 279. 
+Security of tenure
+. - In cases of regular employment, the employer shall not terminate the services of an employee except for a just cause or when authorized by this Title. An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits or their monetary equivalent computed from the time his compensation was withheld from him up to the time of his actual reinstatement.
+âBy jurisprudence derived from [the above] provision, separation pay may be awarded to an illegally dismissed employee in lieu of reinstatement.â
+[24]
+ Under Section 4(b), Rule I of the Rules Implementing Book VI of the Labor Code, separation pay is awarded, in lieu of reinstatement, to an illegally dismissed employee when reinstatement is no longer possible, i.e., when the dismissed employeeâs position is no longer available, or the continued relationship between the employer and the employee would no longer be viable due to the strained relations between them, or when the dismissed employee opts not to be reinstated, or when the payment of separation benefits would be for the best interest of the parties involved.
+âThus, an illegally dismissed employee is 
+entitled to two reliefs: 
+backwages and reinstatement
+. The two reliefs provided are separate and distinct. In instances where reinstatement is no longer feasible because of strained relations between the employee and the employer, separation pay is granted. In effect, an illegally dismissed employee is entitled to either reinstatement, if viable, or separation pay if reinstatement is no longer viable, and backwages.â
+[25]
+II.C.2.    
+Other awards as a consequence 
+of the damages suffered 
+ 
+In addition to these basic awards, an illegally dismissed employee may also be awarded 
+moral and exemplary damages and attorneyâs fees. 
+Jurisprudence holds that moral and exemplary damages are awarded when the illegal dismissal is attended by bad faith.
+[26]
+ The Court has also ruled that corporate officers are solidarily liable with the employer company for the employeesâ termination of employment done with malice or bad faith.
+[27]
+A review of the facts of the case shows ample evidence supporting the petitionerâs bad faith, as shown by the manner in which the respondentâs employment was terminated. The NLRC, in its decision, exhaustively discussed the petitionerâs bad faith, as demonstrated by the actions of the individual petitioners:
+The records show that complainant-appellantâs dismissal was effected by individual respondents-appellees in a capricious and high-handed manner, anti-social and oppressive, fraudulent and in bad faith, and contrary to morals, good customs and public policy. Bad faith and fraud are shown in the acts committed by respondents-appellees before, during and after complainant-appellantâs dismissal in addition to the manner by which she was dismissed. First, complainant-appellant was pressured to resign: (1) she was threatened with termination, which will surely damage her reputation in the pharmaceutical industry; (2) she was asked to evacuate her Commission and ordered not to enter the Companyâs premises even if she was still an Abbott employee; and (3) individual respondents Ms. Terrible and Ms. Walsh made a public announcement to the staff that complainant-appellant already resigned even if in reality she did not. All of which caused complainant-appellant much humiliation, serious anxiety and besmirched reputation. 
+[28]
+The CA also described in detail the abrupt and oppressive manner in which the respondentâs employment was dismissed by the petitioner:
+On May 23, 2005, the private respondent still reported for work since petitioner Abbott had not yet handed the termination notice to her. However, the security guard did not allow her to enter the Hospira ALSU office pursuant to Ms. Walsh[âs] instruction. She requested Ms. Walsh that she be allowed to enter the company premises to retrieve her last remaining things in her office which are mostly her personal belongings. She was allowed to enter. However, she was surprised to see her drawers already unlocked and, when she opened the same, she discovered that her small brown envelope x x x, white pouch containing the duplicate keys, and the staffâs final evaluation sheets were missing. The private respondent informed Ms. Bernardo about the incident. The latter responded by saying she was no longer an employee of the company since May 19, 2005.
+The private respondent reported the matter to the Pasig Police Station and asked for help regarding the theft of her properties. The Pasig Police incident report stated as follows:
+x x x x
+When confronted by the suspect, in the presence of one SOCO officer and staff, named Christian Perez. Kelly Walsh allegedly admitted that she was the one who opened the drawer and got the green folders containing the staff evaluations. The Reportee, was told by Kelly Walsh that her Rolex wristwatch will be returned to her provided that she will immediately vacate her office.
+On the same date, the private respondentâs termination letter dated May 19, 2005 was handed to her by Ms. Walsh, Mr. Almazar and Ms. Bernardo. On May 27, 2005, the private respondent received another copy of the said termination notice via registered mail.
+[29]
+These explanations for the actions taken show that the NLRCâs recognition of the bad faith was not without basis and was in fact supplemented by the CA in the appellate courtâs own confirmatory explanation.
+D.      
+Application of the Rule 45 Standard of Review
+  
+Under the evidentiary situation that prevailed in this case as described above in some detail, an expression of wonder cannot be helped, particularly on how the 
+ponencia
+ could conclude that the CA committed a reversible error when it found no grave abuse of discretion in the NLRCâs actions on the case.  In contrast with the findings of the Labor Arbiter, the findings and conclusions of the NLRC, as affirmed on a Rule 65 review by the CA, were based on the law and jurisprudence as properly applied to the established set of facts and evidence.
+First
+, while the respondent, from the petitionerâs standpoint, was hired as a probationary employee, she was deemed a regular employee pursuant to the clear provisions of Article 281 of the Labor Code, as amended and Section 6(d) of the Implementing Rules of Book VI, Rule I of the Labor Code, as amended. The evidence adduced failed to show that the petitioner ever apprised the respondent at the time of her engagement of the standards she must meet to qualify for regular employment.
+Second
+, the respondentâs termination from employment had no basis in fact and in law. Since the records failed to support the petitionerâs allegation that the respondentâs alleged poor performance and tardiness were proven by evidence and, in fact, fell within the enumeration in Article 281 and Article 282 of the Labor Code, reason dictates that the present petition be denied.
+At the risk of repetition, the adduced evidence, in the first place, did not prove that the respondentâs work failed to comply with the petitionerâs performance standard as no proof of the performance standard applied to the respondentâs work was actually presented. The respondentâs employment was also terminated without undergoing any performance evaluation.
+The evidence adduced did not also prove any act of omission under Article 282 of the Labor Code committed by the respondent. No evidence was presented on the respondentâs actual work so as to determine whether her acts/omissions constituted a just cause for termination, such as serious misconduct or gross or habitual neglect of duty or any other analogous cause to the just causes mentioned in the law.
+As the records show, neither was there compliance with the respondentâs own internal procedures nor with the lawâs procedural due process. The respondent was not served the two-notice required by law before her employment was terminated by the petitioner.
+Third
+, the NLRCâs monetary awards, as affirmed by the CA, were appropriate consequences of the respondentâs illegal dismissal from employment. The payment of the respondentâs backwages and the order of reinstatement were consistent with the provisions of Article 279 of the Labor Code. Jurisprudence also provides the award of moral and exemplary damages, as well as attorneyâs fees, when bad faith is proven in the termination of employment.
+In this case, the bad faith exhibited by the individual petitioners was clearly established in the records. The individual petitionersâ bad faith was demonstrated by the evidence of how they unfairly effected the termination of the respondentâs employment.
+The narration of facts of the Labor Arbiter, the NLRC and the CA shows,  among others,  that:  (1)  the  individual petitioners did not follow the  petitionerâs  prescribed  procedure performance evaluation as, in fact, the respondentâs work was not evaluated; (2) the individual petitioners, through their concerted actions, ganged up on the respondent in forcing her to resign from employment;  (3) the individual petitioners pressured the respondent to resign by announcing her resignation to the office staff, thereby subjecting her to unwarranted humiliation; and (4) they blackmailed the respondent by withholding her personal possessions until she resigned from employment.
+Bad faith can also be inferred from the lack of fairness and underhandedness employed by the individual petitioners on how they informed the respondent of the termination of her employment. The records disclose that the respondent was lured into a meeting on the pretext that her work performance was to be evaluated; she was caught off-guard when she was informed that her employment had been terminated.  Aside from the abrupt notification, bad faith can also be deduced from the fact that the termination was made immediately effective; the respondent was immediately banned from the petitionerâs premises after she was informed that her employment had been terminated.
+To my mind, the NLRC correctly ruled that the individual petitioners were solidarily liable, together with the petitioner, to pay the monetary awards. The cited circumstances constitute sufficient evidence of their bad faith in terminating the respondentâs employment. Verily, corporate officers are solidarily liable with the corporation to pay monetary awards in illegal dismissal cases when their bad faith is established in the termination of the   employment.
+III.  
+Conclusion
+I close this Dissent with the note that the constitutional protection of security of tenure is a right enjoyed by every employee. Employment, regardless  of  the  employment  status, may only be terminated for cause and within the procedure prescribed by law and jurisprudence.  A review of the records shows that no reversible error was committed by the CA in finding the NLRC free from any taint of grave abuse of discretion in ruling on the respondentâs illegal dismissal.  This conclusion is what the Court should reflect in its Decision if it is to discharge in good faith its duty to adjudicate.
+[1]
+ The following explanation was made in my 
+Rejoinder to Reply
+ (On the manner of reviewing a Court of Appeals Labor Ruling) that was submitted to the Court En Banc in the course of the exchanges on this aspect of the case.  The explanation distinguished between appealable cases and those that, while not appealable, can still be reviewed through a Rule 65 petition for certiorari.
+âFor a full understanding of these distinctions, it must be kept in mind that several levels of review may exist for rulings emanating from the lowest levels of adjudication before they reach the Supreme Court.  The ruling of an inferior court or tribunal (
+for example
+, the Regional Trial Court [RTC]) is first reviewed by an appellate court (the CA) on questions of fact or mixed questions of fact and law; the CA decision may then in turn be reviewed by the Supreme Court under Rule 45.
+Generally, two  types of decisions or rulings may be brought to the appellate courts for review and decision; the appellate courts' decisions are in turn subject to review by the Supreme Court.
+The 
+first type
+ relates to cases that come to the appellate court by way of 
+appeal
+ (
+e.g
+., the ruling of the RTC in the exercise of its original jurisdiction that is appealed to the CA on issues of facts and law under Rule 41 of the Rules of Court).   The 
+second type
+ involves the review by the CA of decisions of inferior courts or tribunals whose rulings, 
+by law
+, are final and executory (
+e.g
+., the ruling of the National Labor Relations Commission [NLRC] that under the Labor Code is final and executory).  
+This is the review of rulings that, by law, is 
+not appealable
+ 
+and thus can only be made
+ 
+on limited jurisdictional grounds.
+A CA ruling under the
+ first type 
+can be challenged by the aggrieved party before the Supreme Court through a petition for review on 
+certiorari
+ under Rule 45 of the Rules of Court.  Under Rule 45, the review is only on questions of law unless a review of questions of fact is allowed under the terms established by jurisprudence.  This is the case in the example given above - an RTC ruling that is appealed to the CA on both factual and legal grounds and which CA decision on appeal is now before the Supreme Court for further review.   
+This may be the model of a Supreme Court review that the ponente might have had in mind in asserting that the Supreme Court should be able to undertake a review of the full range of legal issues before it.
+In the 
+second type
+ as exemplified above, a ruling by the NLRC, although final and executory, may be brought to the CA under Rule 65 of the Rules of Court, 
+i.e.
+, on a petition for 
+certiorari,
+ limited to jurisdictional grounds, usually for grave abuse of discretion amounting to lack or excess of jurisdiction.  The final and executory nature of the NLRC decision under review can best be appreciated when it is considered that the decision can immediately be implemented unless a temporary restraining order or injunction is issued by the CA; the Rule 65 mode of review is rendered necessary because the decision or ruling under review, by law, is already final.  Finality
+1
+ means that the decision is no longer appealable
+1
+ and may be reviewed only when the ruling is void because of jurisdictional defects.â
+[2]
+ 356  Phil. 811 (1998).
+[3]
+ G.R. No. 183329, August 27, 2009, 597 SCRA 334.
+[4]
+ Id. at 342-343.
+[5]
+ Rejoinder to Reply, 
+supra
+, at Note 1.
+[6]
+ 
+Decision
+, at page 12.
+[7]
+ 
+Rollo,
+ p. 174.
+[8]
+ Id. at 77.
+[9]
+ See Article 281 of the Labor Code, as amended.
+[10]
+ Decision, at pp. 16 â 17.
+[11]
+ Pages 4-5 of the 
+ponencia.
+[12]
+ Ibid.; 
+rollo
+, pp. 260 and 271.
+[13]
+ 
+Rollo,
+ pp. 1044-1045.
+[14]
+ 
+Aliling v. Feliciano,
+ G.R. No. 185829, April 25, 2012, 671 SCRA 186, 205.
+[15]
+ Ibid.
+[16]
+ 
+Rollo
+, p. 78.
+[17]
+ 
+Aberdeen Court, Inc. v. Agustin, Jr.,
+ 495 Phil. 706, 712 (2005).
+[18]
+ 
+Ibid.
+[19]
+ See page 4 of the 
+ponencia.
+[20]
+ Dolores T. Esguerra v. Valle Verde Country Club, Inc., et al.
+, G.R. No. 173012, June 13, 2012.
+[21]
+ 
+Ibid.
+[22]
+ G.R. No. 152048, April 7, 2009, 584 SCRA 110, 127.
+[23]
+ 
+Rollo
+, p. 78.
+[24]
+ 
+Session Delights Ice Cream and Fast Foods v. Court of Appeals (Sixth Division)
+, G.R. No. 172149, February 8, 2010, 612 SCRA 10, 25, citing
+ Mt. Carmel College v. Resuena
+, G.R. No. 173076, October 10, 2007, 535 SCRA 518, 541.
+[25]
+ 
+Macasero v. Southern Industrial Gases Philippines,
+ G.R. No. 178524, January 30, 2009,  577 SCRA 500, 507.
+[26]
+ 
+Nazareno v. City of Dumaguete,
+  G.R. No. 177795, June 19, 2009, 590 SCRA 110, 141-142. See also Civil Code, Articles 2208, 2217, 2219 and 2232.
+[27]
+ 
+MAM Realty Development Corporation v. NLRC
+, G.R. No. 114787, June 2, 1995, 244 SCRA 797, 803.
+[28]
+ 
+Rollo
+, pp. 375-376.
+[29]
+ Id. at 1046-1047.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

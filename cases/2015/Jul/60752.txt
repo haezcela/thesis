@@ -1,0 +1,196 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			763 PHIL. 354
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 192099, July 08, 2015 ]
+
+
+PAULINO M. EJERCITO, JESSIE M. EJERCITO AND JOHNNY D. CHANG, PETITIONERS, VS. ORIENTAL ASSURANCE CORPORATION, RESPONDENT.
+D E C I S I O N
+
+
+
+
+SERENO, C.J.:
+
+
+This is a Petition for Review on 
+Certiorari
+[1]
+ filed by Paulino M. Ejercito, Jessie M. Ejercito and Johnny D. Chang (petitioners) under Rule 45 of the 1997 Rules of Civil Procedure assailing the Court of Appeals (CA) Decision dated 2 October 2009
+[2]
+ and Resolution dated 14 April 2010
+[3]
+ in CA-G.R. CV No. 90828. The Special Third Division of the CA reversed and set aside the Regional Trial Court (RTC) Decision in Civil Case No. 01-101999:
+WHEREFORE, premises considered, the present appeal is hereby GRANTED. The Decision dated February 2, 2007 of the Regional Trial Court of Manila, Branch 36 in Civil Case No. 01-101999 is hereby SET ASIDE.
+A new judgment is hereby entered ordering the defendants-appellees Merissa C. Somes, Paulino M. Ejercito, Jessie M. Ejercito and Johnny D. Chang jointly and severally liable to pay plaintiff-appellant Oriental Assurance Corporation the following sums:
+1. The principal amount of P3,000,000.00 with interest at the rate of 12% per annum from the time of the filing of the complaint until the same shall have been fully paid;
+2.  Attorney's fees in the amount of P30,000.00; and
+3.  Costs of suit.
+SO ORDERED.
+[4]
+The Facts
+The facts of the case, as found by the CA, are as follows:
+On 10 May 1999, respondent Oriental Assurance Corporation, through its Executive Vice President Luz N. Cotoco issued a Surety Bond in favor of FFV Travel & Tours, Inc. (Company). The bond was intended to guarantee the Company's payment of airline tickets purchased on credit from participating members of International Air Transport Association (IATA) to the extent of P3 million.
+On the same day, petitioners and Merissa C. Somes (Somes) executed a Deed of Indemnity in favor of respondent. The Surety Bond was effective for one year from its issuance until 10 May 2000. It was renewed for another year, from 10 May 2000 to 10 May 2001, as shown in Bond Endorsement No. OAC-2000/0145 dated 17 April 2000. The corresponding renewal premium amounting to P15,024.54 was paid by the insured corporation under Official Receipt No. 100262.
+FFV Travel & Tours, Inc. has been declared in default for failure to pay its obligations amounting to P5,484,086.97 and USD 18,760.98 as of 31 July 2000. Consequently, IATA demanded payment of the bond, and respondent heeded the demand on 28 November 2000 as evidenced by China Bank Check No. 104949. IATA executed a Release of Claim on 29 November 2000 acknowledging payment of the surety bond.
+Respondent sent demand letters to petitioners and Somes for reimbursement of the P3 million pursuant to the indemnity agreement. For their failure to reimburse respondent, the latter filed a collection suit.
+The RTC Ruling
+After trial, the RTC rendered a Decision dismissing the complaint against petitioners for lack of merit and pronouncing Somes liable to pay the amount of P3 million and interest per annum at the rate of 12% of the principal obligation from the date the complaint was filed up to the date the obligation would have been fully paid.
+The RTC found that there was no written agreement to show the intention of petitioners to renew the Deed of Indemnity. The absence thereof was evidenced by the nonappearance of any signature on the Renewal Notice, which was not signed by Somes. However, she was held liable to pay the surety value of the cost of tickets as she had paid the premium for the renewal of the Surety Bond and used the renewed bond by submitting it to IATA.
+The CA Ruling
+The CA reversed the finding of the RTC and ruled that petitioners could not escape liability, as they had authorized respondent to grant any renewals or extensions pursuant to the indemnity agreement. The Deed of Indemnity contained a stipulation that the signatories (petitioners) were authorizing the Company (respondent) to grant or consent to the grant of any extension, continuation, increase, modification, change or alteration, and/or renewal of the original bond. Petitioners voluntarily signed the agreement and, are educated persons (Paulino, being a lawyer), so they could not have misunderstood the legal effects of the undertaking they had signed.
+Issues
+Petitioners raise the following issues:
+Whether or not the Honorable Court of Appeals erred in ruling that petitioners are liable to indemnify the respondent under the deed of indemnity considering that petitioners did not give their consent to be bound thereby beyond the one (1) year effectivity period of the original surety bond.
+Whether or not the Honorable Court of Appeals erred in ruling that petitioners are liable to pay the respondent attorney's fees considering that petitioners did not breach their obligation under the deed of indemnity to indemnify the respondent during the one (1) year effectivity period of the original surety bond.
+[5]
+The Court's Ruling
+We find no merit in the Petition.
+The contract of indemnity is the law between the parties.
+[6]
+ It is a cardinal rule in the interpretation of a contract that if its terms are clear and leave no doubt on the intention of the contracting parties, the literal meaning of its stipulation shall control.
+[7]
+ The CA aptly found provisions in the contract that could not exonerate petitioners from their liability.
+The Deed of Indemnity contains the following stipulations:
+INDEMNITY: - To indemnify the COMPANY for any damages, payments, advances, prejudices, loss, costs and expenses of whatever kind and nature, including counsel or attorney's fees, which the Company may at any time, sustain or incur, as a consequence of having executed the above-mentioned Bond, its 
+renewals
+, extensions, modifications or substitutions and said attorney's fees shall not be less than fifteen (15%) per cent of the amount claimed by the Company in each action, the same to be due and payable, irrespective of whether the case is settled judicially or extrajudicially.
+x x x                    x x x                    x x x
+MATURITY OF OUR OBLIGATIONS AS CONTRACTED HEREWITH: - The said indemnities will be paid to the COMPANY 
+as soon as demand is received from the Creditor, or as soon as it becomes liable to make payment of any sum
+ under the terms of the above-mentioned Bond, 
+its renewals, extension
+, modifications or substitutions, whether the said sum or sums or part thereof, have been actually paid or not. We authorize the COMPANY to accept in any case and at its entire discretion, from any of us, payment on account of the pending obligation, and to grant extensions to any of us, to liquidate said obligations, without necessity of previous knowledge or consent from the obligors.
+x x x                    x x x                    x x x 
+INCONTESTABILITY OF PAYMENTS MADE BY THE COMPANY:
+-- Any payment or disbursement made by the COMPANY on account of the above-mentioned Bond, 
+its renewals, extensions
+, modifications or substitutions either in the belief that the Company was obligated to make such payment or in the belief that said payment was necessary in order to avoid greater losses or obligation for which the company might be liable by virtue of the terms of the above-mentioned Bond, its renewals, extensions, modifications or substitutions shall be final and will not be disputed by the undersigned who 
+jointly and severally bind themselves to indemnify the COMPANY of any and all such payments as stated in the preceding clauses
+.
+x x x                    x x x                    x x x 
+WAIVER: â The undersigned hereby waive all the rights, privileges, and benefits that they have or may have under Articles 2077, 2078, 2079, 2080 and 2081 of the Civil Code.
+x x x                    x x x                    x x x 
+RENEWALS, ALTERATIONS AND SUBSTITUTIONS: - The undersigned hereby 
+empower and authorize the Company to grant or consent to the granting of, any extension, continuation, increase, modifications, change, alteration and/or renewal of the original bond
+ herein referred to, and to execute or consent to the execution of any substitution for said bond with the same or different conditions and parties, and the undersigned hereby hold themselves 
+jointly and severally liable to the Company for the original bond
+ hereinabove mentioned 
+or for any extension, continuation
+, increase, modification, change, alteration, 
+renewal
+ or substitution thereof 
+until the full amount including principal interests, premiums, costs and other expenses
+ due to the Company thereunder is fully paid up.
+[8]
+ (Emphasis on the original)
+Clearly, as far as respondent is concerned, petitioners have expressly bound themselves to the contract, which provides for the terms granting authority to the Company to renew the original bond. The terms of the contract are clear, explicit and unequivocal. Therefore, the subsequent acts of the Company, through Somes, that led to the renewal of the surety bond are binding on petitioners as well.
+The intention of Somes to renew the bond cannot be denied, as she paid the renewal premium and even submitted the renewed bond to IATA.
+[9]
+The claim of petitioners that they only consented to the one-year validity of the surety bond must be directed against Somes in a separate action. She allegedly convinced them that the bond was valid for one year only. The allegation of petitioners is an agreement outside of the contract. In other words, respondent is not privy to the alleged agreement between Somes and petitioners. For respondent, there was a valid indemnity agreement executed by the parties, and contained a proviso that became the basis for the authority to renew the original bond.
+With regard to the contention that the Deed of Indemnity is a contract of adhesion, the Court has consistently held that contracts of adhesion are not invalid 
+per se
+ and that their binding effects have been upheld on numerous occasions.
+[10]
+ The pretension that petitioners did not consent to the renewal of the bond is belied by the fact that the terms of the contract which they voluntarily entered into contained a clause granting authority to the Company to grant or consent to the renewal of the bond. Having entered into the contract with full knowledge of its terms and conditions, petitioners are estopped from asserting that they did so under the ignorance of the legal effect of the contract or the undertaking.
+It is true that on some occasions, the Court has struck down such contract as void when the weaker party is imposed upon in dealing with the dominant party and is reduced to the alternative of accepting the contract or leaving it, completely deprived of the opportunity to bargain on equal footing.
+[11]
+ This reasoning cannot be used in the instant case. One of the petitioners, Paulino M. Ejercito, is a lawyer who cannot feign ignorance of the legal effect of his undertaking. Petitioners could have easily inserted a remark in the clause granting authority to the Company to renew the original bond, if the renewal thereof was not their intention.
+The rule that ignorance of the contents of an instrument does not ordinarily affect the liability of the one who signs it
+[12]
+ may also be applied to this Indemnity Agreement. And the mistake of petitioners as to the legal effect of their obligation is ordinarily no reason for relieving them of liability.
+[13]
+WHEREFORE,
+ premises considered, the Petition is 
+DENIED
+. The Court of Appeals Decision dated 2 October 2009 and Resolution dated 14 April 2010 in CA-G.R. CV No. 90828 are 
+AFFIRMED
+.
+SO ORDERED.
+Leonardo-De Castro, Bersamin, Perez
+, and 
+Perlas-Bernabe, JJ.
+, concur.
+[1]
+ 
+Rollo
+, pp. 9-26.
+[2]
+ 
+Id
+. at 35-48, penned by then CA Associate Justice Martin S. Villarama, Jr. (now a member of this Court), concurred in by Associate Justices Rosalinda Asuncion-Vicente and Magdangal M. de Leon.
+[3]
+ 
+Id
+. at 49-50, penned by CA Associate Justice Magdangal M. de Leon, concurred in by Associate Justices Rosalinda Asuncion-Vicente and Francisco P. Acosta.
+[4]
+ 
+Supra
+ note 2 at 47.
+[5]
+ 
+Rollo
+, p. 15, Petition for Review on 
+Certiorari
+.
+[6]
+ 
+Verendia v. Court of Appeals
+, G.R. Nos. 76399 and 75605, 22 January 1993, 217 SCRA 417, citing 
+Pacific Banking Corporation v. Court of Appeals
+, 250 Phil. 1 (1988).
+[7]
+ 
+Abella v. Court of Appeals
+, G.R. No. 107606, 20 June 1996, 257 SCRA 482.
+[8]
+ 
+Rollo
+, pp. 44-45, CA Decision in CA G.R. CV No. 90828.
+[9]
+ 
+Id
+. at 41, citing the RTC Decision.
+[10]
+ 
+Palmares v. Court of Appeals
+, G.R. No. 126490, 351 Phil. 664-691 (1998). 
+[11]
+ 
+Titan Construction Corp. v. Uni-Field Enterprises, Inc.
+, 546 Phil. 14, 20.
+[12]
+ 
+Supra
+ note 10 at 666, 680.
+[13]
+ 
+Id
+., citing 
+Churchill v. Bradley
+, 5 A. 189.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

@@ -1,0 +1,1281 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			773 Phil. 289
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 189509, November 23, 2015 ]
+
+
+METROPOLITAN BANK & TRUST COMPANY, PETITIONER, VS. G & P BUILDERS, INCORPORATED, SPOUSES ELPIDIO AND ROSE VIOLET PARAS, SPOUSES JESUS AND MA. CONSUELO PARAS AND VICTORIA PARAS, RESPONDENTS.
+
+D E C I S I O N
+
+
+
+
+LEONEN, J.:
+
+
+The central issue in this case is whether an agreement between a secured creditor and a third party, which transferred to the third party all of the creditor's rights and interests over the debtor's loan obligation and was executed during the pendency of corporate rehabilitation proceedings, covered the P15,000,000.00 proceeds of the sale of mortgaged properties deposited with the creditor.
+For resolution is a Petition for Review
+[1]
+ under Rule 45 of the Rules of Court assailing the Court of Appeals Decision
+[2]
+ dated November 24, 2008 and Resolution
+[3]
+ dated August 7, 2009.
+[4]
+ The Court of Appeals reversed and set aside the April 2, 2007 Order
+[5]
+ of the rehabilitation court, which allowed the withdrawal of the P15,000,000.00 deposit with petitioner Metropolitan Bank & Trust Company (Metrobank).
+[6]
+On March 17, 2003, respondent G & P Builders, Incorporated (G & P) filed a Petition for Rehabilitation before Branch 40 of the Misamis Oriental Regional Trial Court, docketed as Spec. Pro. No. 2003-041.
+[7]
+ Among the allegations in the Petition is that G & P "obtained a loan from Metrobank and mortgaged twelve (12) parcels of land as collateral[.]"
+[8]
+ G & P's loan obligation amounted to P52,094,711.00 at the time of the filing of the Petition before the trial court.
+[9]
+ The trial court issued a Stay Order on March 18, 2003, and the initial hearing was set on May 6, 2003.
+[10]
+However, while the rehabilitation proceedings were pending, Metrobank and G & P executed a Memorandum of Agreement (first MOA) on August 11, 2003, where the parties agreed that four (4) out of the 12 parcels of land mortgaged would be released and sold.
+[11]
+ The sale of the parcels of land amounted to P15,000,000.00.
+[12]
+ Pursuant to the first MOA, the amount was deposited with Metrobank "for subsequent disposition and application [in conformity with] the Court approved Rehabilitation Plan[.]"
+[13]
+The first MOA provided:
+"COME NOW, the Petitioners and creditor Metropolitan Bank and Trust Co. (METROBANK for brevity), assisted by their respective counsels, with the conformity of the Rehabilitation Receiver, unto the Honorable Court most respectfully submit the herein Memorandum of Agreement and thus aver:
+1. That the Petitioners have a ready and willing buyer of the following real properties described in the corresponding Torrens titles that form part of the securities for the obligations with creditor Metrobank:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORRENS TITLE
+AREA
+REGISTERED OWNER
+ 
+ 
+ 
+ 
+ 
+a) TCT No.T-32170 
+560 sq.m.
+Paras Machinery Works, Corp.
+ 
+b) TCT No. T-32171 
+400 sq.m.
+Paras Machinery Works, Corp.
+ 
+c) TCT No. T-32172 
+795 sq.m.
+Paras Machinery Works, Corp.
+ 
+d) TCT No. T-32173 
+555 sq.m.
+Paras Machinery Works, Corp.
+ 
+ 
+ 
+ 
+ 
+2. That the aggregate consideration for the purchase is in the sum of FIFTEEN MILLION (P15,000,000.00) PESOS, net all expenses, to which the creditor Metrobank has manifested its conformity and agreement to the following terms and conditions, for the release of the corresponding muniments of title, free from all encumbrances and liabilities;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. a 
+That the amount of P15,000,000.00 shall be deposited with the creditor Metrobank for subsequent disposition and application pursuant to the Court approved Rehabilitation Plan;
+ 
+ 
+ 
+ 
+ 
+ 
+3.b 
+That in the application of the deposit pursuant to the Court approved Rehabilitation Plan, the aggregate sum shall be exclusively applied to the obligation of Petitioners with the creditor MetroBank, where the corresponding real properties formed part of the loan collateral;
+ 
+ 
+ 
+ 
+ 
+ 
+3.c
+ That petitioners agree that the creditor MetroBank has the free use of the consideration deposited and in return, the creditor MetroBank assures the crediting of the interest due on deposit in favor of the Petitioners;
+ 
+ 
+WHEREFORE, it is most respectfully prayed unto this Honorable Court that this Memorandum of Agreement be granted and approved and an Order be decreed for the implementation hereof.
+Cagayan de Oro City, August 11, 2003.
+[14]
+On September 26, 2003, the trial court approved the first MOA as a compromise agreement between parties.
+[15]
+G & P entered into compromise agreements with its other creditors as approved by the rehabilitation court.
+[16]
+ "G & P filed a motion to extend the period within which the [rehabilitation court] may approve or deny a rehabilitation plan[.]"
+[17]
+On August 11, 2006, Metrobank entered into a Loan Sale and Purchase Agreement
+[18]
+ with Elite Union Investments Limited (Elite Union).
+[19]
+ Metrobank sold G & P's loan account for P10,419,000.00.
+[20]
+Subsequently, Metrobank's counsel, Atty. Francisco T. Del Castillo (Atty. Del Castillo), withdrew
+[21]
+ his appearance before the rehabilitation court.
+[22]
+ Elite Union moved to be substituted for Metrobank.
+[23]
+Before the rehabilitation court could grant the motions, G & P, Elite Union, and Spouses Victor and Lani Paras executed a Memorandum of Agreement (second MOA) on September 15, 2006.
+[24]
+ Elite Union sold all its rights, titles, and interests over G & P's account to Spouses Victor and Lani Paras for the amount of P10,419,000.00.
+[25]
+On November 2, 2006, Elite Union's Motion for Substitution and Atty. Del Castillo's Motion to Withdraw Appearance were granted by the rehabilitation court.
+[26]
+ The next day, G & P and Elite Union filed a Joint Motion for the court to approve the second MOA.
+[27]
+ They also prayed that partial judgment be rendered based on the agreement.
+[28]
+ On November 9, 2006, the rehabilitation court granted the Motion and rendered a Partial Judgment based on the agreement.
+[29]
+G & P filed a Motion for the Release of Unapplied Deposit with Metrobank on November 27, 2006.
+[30]
+ It cited the September 26, 2003 Order, which approved the first MOA between G & P and Metrobank and provided that the P15,000,000.00 proceeds of the sale of real properties that secured the loan obligation be deposited with Metrobank.
+[31]
+Metrobank opposed the Motion and claimed that the deposit was not covered by the contract transferring G & P's loan obligation to Elite Union.
+[32]
+ According to Metrobank, the release of titles was conditioned on the understanding that the proceeds would "be applied exclusively in favor of Metrobank."
+[33]
+ Furthermore, Metrobank had the free use of the deposit with only "the obligation of crediting the account [of] interest due."
+[34]
+In the Order dated April 2, 2007, the rehabilitation court granted G & P's Motion and ordered the release of unapplied deposit with Metrobank.
+[35]
+ It held that:
+After thorough evaluation of the respective positions of the parties as well as the report of the Rehabilitation Receiver, the Court finds the following attendant circumstances to the issue raised by the parties.
+The record shows that creditor Metropolitan Bank and Trust Company sold the loan account of petitioners to Elite Union Investment Ltd.. Metrobank has absolutely and irrevocably sold, assigned and conveyed all its rights, title and interests in and to the loan, including all the security interest, mortgages, reimbursements rights, and similar rights and privileges related to such loan.
+Consequently, petitioner and substitute creditor Elite Union Investment Ltd. filed a joint motion to approve compromise agreement and to render partial judgment on compromise on November 3, 2006, which the Court rendered a partial Judgment on Compromise Agreement on November 9, 2006 between petitioners and substitute creditor Elite Union Investment Ltd., based on the aforesaid Memorandum of Agreement.
+The Memorandum of Agreement which is made the basis of the partial judgment does not contain any provision on the application of P15 Million that was previously deposited with Metrobank. As a matter of fact, it is admitted by Metrobank in its opposition that said P15 Million was not the subject of the contract transferring of petitioner's loan obligation to Elite Union Investment Ltd., but claims that the bank has the free use of the monies with the obligation of crediting the account for the interest due in favor of the Petitioners.
+Metrobank has not taken any single centavo out of the P15 Million deposit for use in payment of the loan account of Petitioners while still existing at that time prior to its being sold out to Elite Union Investment Ltd.. The claim of Petitioners that they have no longer any existing loan account to Metrobank as the [sic] Metrobank sold their loan account to Elite Union Investment Ltd., is apparently and obviously true and correct. Metrobank has not informed Petitioners until now that they have still [an] existing account not sold out to Elite Union Investment Ltd. Instead it manifested that it did not transfer its alleged rights appertaining to the P15 Million to Elite Union Investment Ltd. (Opposition, January 17, 2007).
+On the other hand, to allow Metrobank to retain possession of the P15 million deposit would certainly enrich itself at the expense of Petitioners. The purpose in depositing the money is no longer validly existing as far back September 15, 2006 when Metrobank sold the loan account to Elite Union Investments Ltd which transfer has novated the obligation of the Petitioners to creditor Metrobank by the substitution with the new creditor. Metrobank is therefore liable to return the money together with the interest thereon.
+The P15 Million deposit which is duly receipted by Metrobank under OR No. 0008504 on September 1, 2003 implies that it is a time deposit and since in the agreement that the deposit shall earn an interest, hence, the time deposit which normally bears an interest rate of 5% per annum should be applied and paid by Metrobank. (Receiver's Report, March 27, 2007).
+ACCORDINGLY, finding the Motion for the Release of Unapplied Deposit of P15 Million with Metropolitan Bank and Trust Company filed by Petitioners to be meritorious, the same is hereby granted.
+Petitioners are hereby allowed to withdraw the said P15 Million deposited with Metrobank and the said bank is directed to return the money deposited with a time deposit rate of 5% per annum from September 1, 2003.
+SO ORDERED.
+[36]
+ (Emphasis supplied)
+Metrobank moved for reconsideration
+[37]
+ of the trial court's Order.
+[38]
+ However, the motion was denied
+[39]
+ on October 10, 2007.
+[40]
+Metrobank then filed before the Court of Appeals a Petition for Review under Rule 43 of the Rules of Court assailing the April 2, 2007 and October 10, 2007 Orders of the rehabilitation court.
+[41]
+In the Decision dated November 24, 2008, the Court of Appeals reversed and set aside the April 2, 2007 Order of the rehabilitation court.
+[42]
+ According to the Court of Appeals, G & P has no interest nor personality in asking for the release of the deposit since the loan account was finally sold to Spouses Victor and Lani Paras.
+[43]
+ "While the Spouses Victor and Lani Paras may have the same surname as the stockholders of G & P, it does not appear from the records that G & P and Spouses Victor and Lani Paras share the same interest over the Loan Account."
+[44]
+The Court of Appeals also observed that the Petition should have been dismissed outright since the assailed April 2, 2007 Order was a mere interlocutory order and could not be assailed through a Petition for Review under Rule 43 of the Rules of Court.
+[45]
+Nevertheless, the Court of Appeals found that Metrobank sold the entire obligation of G & P to Elite Union;
+[46]
+ hence, Metrobank was not entitled to the P15,000,000.00 deposit:
+The [August 11, 2003] memorandum [between Metrobank and G & P] never provided for the insisted outright partial payment. What it did provide was that when a Rehabilitation Plan is eventually approved, the proceeds will be principally applied to the outstanding obligation of G & P assuming Metrobank is still the creditor of G & P during such time.
+When Metrobank sold the loan portfolio on August 11, 2006 to Elite Union, the Loan Sale and Purchase Agreement stated that:
+Sec. 2.01 Agreement to Sell and Purchase Loan. - Seller agrees to sell and Purchaser agrees to purchase the Loan with an Oustanding Principal Balance of Pesos: Fifty Two Million Ninety Four Thousand Seven Hundred Eleven (Php 52,094,711.00) on a without recourse basis, for the Purchase Price and on such terms subject to such other conditions as are contained in this Agreement. The Seller hereby declares that the aforementioned Outstanding Principal Balance of the Loan is the total outstanding obligation of the Obligor of the Loan to the Seller.
+Hence, the entire obligation - the principal amount, the security therefor, which now consisted of eight (8) parcels of land and the P15 Million proceeds in lieu of the four (4) sold parcels of land, were transferred to Elite Union. Everything was thus, sold to Elite Union, lock, stock and barrel, in a manner of speaking.
+[47]
+ (Citation omitted)
+The dispositive portion of the Court of Appeals Decision reads:
+WHEREFORE, in view of the foregoing, the assailed Order of April 2, 2007 allowing the withdrawal of the P15 Million deposit is hereby 
+REVERSED and SET ASIDE
+, the movant G & P being without any legal personality to seek its release. The aforesaid amount is subject to release only in March 2009 after the spouses Paras would have complied with the terms and conditions of the Memorandum of Agreement dated September 15, 2006.
+SO ORDERED.
+[48]
+ (Emphasis in the original)
+Metrobank moved for partial reconsideration,
+[49]
+ but it was denied by the Court of Appeals.
+[50]
+Metrobank filed the present Petition for Review with prayer for the issuance of a temporary restraining order and/or a writ of preliminary injunction.
+[51]
+ This court required respondents to file their comment within 10 days from notice.
+[52]
+ On June 28, 2010, Metrobank filed a Motion for Leave of this Honorable Court to Admit this Reply,
+[53]
+ which was granted and noted by this court on August 23, 2010.
+[54]
+The issues for consideration in this case are:
+First, whether the Orders of the trial court are interlocutory orders and, thus, not appealable to the Court of Appeals via Rule 43 of the Rules of Court;
+Second, whether the trial court's assailed Orders were issued in excess of its jurisdiction; and
+Third, whether the Court of Appeals erred in ruling that the P15,000,000.00 deposit is included in the transfer of the loan account from petitioner Metrobank to Elite Union.
+We deny the Petition.
+I
+Petitioner argues that the trial court's Orders on April 2, 2007 and October 10, 2007 were properly challenged through an appeal under A.M. No. 04-9-07-SC in relation to Rule 43 of the Rules of Court:
+[55]
+Accordingly, A.M. No. 04-9-07-SC was promulgated by the Supreme Court in order to address such matter. As stated in said Resolution, "[a]ll decisions and final orders in cases falling under the Interim Rules of Corporate Rehabilitation and the Interim Rules of Procedure Governing Intra-Corporate Controversies under Republic Act No. 8799 shall be appealable to the Court of Appeals through a petition for review under Rule 43 of the Rules of Court."
+[56]
+According to petitioner, the term "final" as used in A.M. No. 04-9-07-SC merely describes the "immediately executory nature of decisions or orders"
+[57]
+ issued under the Interim Rules of Procedure on Corporate Rehabilitation.
+[58]
+ An order is final when it definitely disposes of a particular matter involved in the case.
+[59]
+ The assailed orders in this case "finally dispose of a specific and distinct aspect of a case - the issue on the propriety of Respondent G & P's Motion for the Release of Unapplied Deposit with Petitioner and Petitioner's right to retain and consider the same deposit as already applied to Respondent G & P's outstanding obligations."
+[60]
+ The trial court's Orders are conclusive as to the release of the deposit to G & P until assailed and reversed on appeal:
+[61]
+[T]he Assailed Orders fall within the definition of a "final order" considering that it (i) finally determines and adjudicates certain rights of the parties with respect to a particular, distinct and separate branch of the rehabilitation proceedings and (ii) leaves nothing more for the RTC to do with respect to the specific issues disposed of by the Assailed Orders.
+[62]
+Nevertheless, petitioner claims that the Court of Appeals already gave due course to the Petition; hence, its Decision and Resolution are appealable to this court under Rule 45 of the Rules of Court.
+[63]
+In contrast, respondents argue that the trial court's assailed Orders were interlocutory orders, and an appeal to the Court of Appeals through Rule 43 of the Rules of Court was an erroneous mode of assailing the Orders.
+[64]
+ The Orders did not even touch on the merits of the case.
+[65]
+ Moreover, petitioner was already substituted by Elite Union and did not have any standing in the case.
+[66]
+ "As early as October 20, 2006 - when Atty. Francisco T. Del Castillo withdrew his appearance with its conformity, petitioner Metrobank was no longer a party to the corporate rehabilitation proceedings."
+[67]
+ Petitioner was substituted by the subrogee-creditor, Elite Union, who entered into a compromise agreement with respondents, which then became the basis for the Partial Judgment rendered by trial court on November 9, 2006.
+[68]
+Respondents further aver that petitioner had already "relinquished and waived[,] in favor of Elite Union[,]"
+[69]
+ all of its rights and interests in the proceedings before the rehabilitation court resulting to the change in its standing - "from being a party creditor to that of a stranger to the Corporate Rehabilitation Proceedings."
+[70]
+In addition, respondents claim that the erroneous recourse to the Court of Appeals via a petition for review is supported by the actions of petitioner's former counsel.
+[71]
+ In the letter
+[72]
+ dated October 31, 2007, Atty. Del Castillo had informed petitioner that any question on the validity of the trial court's Orders should be raised through a petition for certiorari under Rule 65 of the Rules of Court.
+[73]
+ Because petitioner "opted to avail [itself] of the wrong [remedy],"
+[74]
+ the Orders of the rehabilitation court "already attained finality."
+[75]
+In any case, respondents allege that even if petitioner stood to be adversely affected by the rehabilitation court's Orders, "it had no right to appeal . . . the rehabilitation proceedings 
+per se
+[.]
+[76]
+Petitioner's argument is devoid of merit.
+Corporate rehabilitation is a special proceeding.
+[77]
+ The proceeding seeks to establish the "inability of the corporate debtor to pay its debts when they fall due so that a rehabilitation plan, containing the formula for the successful recovery of the corporation, may be approved in the end."
+[78]
+ There is no relief sought for "an injury caused by another party."
+[79]
+Corporate rehabilitation is one of the remedies that a financially stressed company can opt for to raise itself from insolvency:
+[It] is one of many statutorily provided remedies for businesses that experience a downturn. Rather than leave the various creditors unprotected, legislation now provides for an orderly procedure of equitably and fairly addressing their concerns. Corporate rehabilitation allows a court-supervised process to rejuvenate a corporation.
+[80]
+Rehabilitation proceedings allow the financially stressed company "to gain a new lease on life and . . . allow creditors to be paid their claims from its earnings."
+[81]
+Under A.M. No. 04-9-07-SC,
+[82]
+ which provides for the mode of appeal in cases involving corporate rehabilitation, all decisions and final orders rendered by the trial court shall be appealed to the Court of Appeals through a petition for review under Rule 43 of the Rules of Court:
+All decisions and final orders in cases falling under the Interim Rules of Corporate Rehabilitation
+ and the Interim Rules of Procedure Governing Intra-Corporate Controversies under Republic Act No. 8799 shall be appealable to the Court of Appeals through a petition for review under Rule 43 of the Rules of Court.
+The petition for review shall be taken within fifteen (15) days from notice of the decision or final order of the Regional Trial Court.
+ Upon proper motion and the payment of the full amount of the legal fee prescribed in Rule 141 as amended before the expiration of the reglementary period, the Court of Appeals may grant an additional period of fifteen (15) days within which to file the petition for review. No further extension shall be granted except for the most compelling reasons and in no case to exceed fifteen (15) days.
+This Resolution shall apply to all pending appeals filed within the reglementary period from decisions and final orders in cases falling under the Interim Rules of Corporate Rehabilitation and the Interim Rules of Procedure Governing Intra-Corporate Controversies under Republic Act No. 8799, regardless of the mode of appeal or petition resorted to by the appellant or petitioner. (Emphasis and underscoring supplied)
+This court issued the Resolution to clarify the proper mode of appeal in cases falling under the Interim Rules of Procedure on Corporate Rehabilitation
+[83]
+ (Interim Rules) in order to prevent congestion of the court dockets with appeals and/or petitions for certiorari.
+In 
+New Frontier Sugar Corporation v. Regional Trial Court, Branch 39, Iloilo City
+,
+[84]
+ the petitioner "availed [itself] of the wrong remedy when it filed a special civil action for certiorari . . . under Rule 65 of the Rules of Court"
+[85]
+ to question the commercial court's Omnibus Order, which "terminated the proceedings and dismissed the case[.]"
+[86]
+ The commercial court had dismissed the petition for approval of the rehabilitation plan because petitioner did not have sufficient assets to continue its operations and answer its liabilities, hence, ineligible for rehabilitation.
+[87]
+In denying the Petition, this court in 
+New Frontier Sugar Corporation
+ ruled that the assailed Omnibus Order is a final order "since it terminated the proceedings and dismissed the case before the trial court; it leaves nothing more to be done. As such, petitioner's recourse is to file an appeal from the Omnibus Order."
+[88]
+ This court declared that:
+[A]ll decisions and final orders in cases falling under the Interim Rules of Corporate Rehabilitation and the Interim Rules of Procedure Governing Intra-Corporate Controversies under Republic Act No. 8799 shall be appealed to the CA through a petition for review under Rule 43 of the Rules of Court to be filed within fifteen (15) days from notice of the decision or final order of the RTC.
+[89]
+China Banking Corporation v. Cebu Printing and Packaging Corporation
+[90]
+ held that decisions and/or final orders of the trial court, in cases covered by the Interim Rules, are directly appealable to the Court of Appeals under Rule 43 of the Rules of Court.
+[91]
+The distinction between a final order and an interlocutory order has been doctrinally settled.
+This court has laid down the test to determine whether an order is final or merely interlocutory: "Does it leave something to be done in the trial court with respect to the merits of the case? If it does, it is interlocutory; if it does not, it is final."
+[92]
+ This test was applied in 
+Metropolitan Bank & Trust Company v. Court of Appeals
+,
+[93]
+ where this court distinguished an interlocutory order from a final order to determine if the private respondent properly appealed the trial court's order regarding improper implementation of a writ of execution:
+It has been held that "[a]n interlocutory order does not terminate or finally dismiss or finally dispose of the case, but leaves something to be done by the court before the case is finally decided on the merits." It "refers to something between the commencement and end of the suit which decides some point or matter but it is not the final decision on the whole controversy." Conversely, a final order is one which leaves to the court nothing more to do to resolve the case. . . .
+In the present case, the April 10, 1992 Order denied private respondent's Motion to hold in abeyance the delivery of the Certificate of Sale of his Club Filipino share and to declare the sale void. 
+After rendering the Order, the trial court did not need to do anything more to settle the rights of the parties.
+ Upon the affirmation of the validity of the sale, the Certificate of Sale was to be delivered to petitioner as the new owner. Indeed, while appeal does not lie against the execution of a judgment, it is available in case of an irregular implementation of a writ of execution. This was the factual scenario in the present case.
+[94]
+ (Emphasis supplied, citations omitted)
+An order is final if "the order or judgment ends the litigation in the lower court."
+[95]
+ It is interlocutory if the order simply resolves matters incidental to the main case and still leaves something to be done on the part of the court relating to the merits of the case.
+[96]
+In this case, the assailed orders of the trial court are interlocutory in nature. The orders pertained to an incidental matter: entitlement to the P15,000,000.00 deposit as proceeds of the sale of properties that secured respondent G & P's loan obligation. In contrast, the main proceeding before the commercial court concerns the approval of the rehabilitation plan under the Interim Rules. To resolve the merits of the case, the trial court, sitting as commercial court, must either approve or disapprove the rehabilitation plan, depending on the feasibility of the proposed plan to rehabilitate the corporation.
+[97]
+Petitioner committed a procedural error when it filed a Petition for Review before the Court of Appeals instead of filing a Petition for Certiorari under Rule 65 of the Rules of Court. The distinction is important because "[t]he remedy against an interlocutory order not subject of an appeal is an appropriate special civil action under Rule 65 [.]"
+[98]
+ The reason behind the rule is to prevent multiplicity of suits:
+The reason for disallowing an appeal from an interlocutory order is to avoid multiplicity of appeals in a single action, which necessarily suspends the hearing and decision on the merits of the action during the pendency of the appeals. Permitting multiple appeals will necessarily delay the trial on the merits of the case for a considerable length of time, and will compel the adverse party to incur unnecessary expenses, for one of the parties may interpose as many appeals as there are incidental questions raised by him and as there are interlocutory orders rendered or issued by the lower court. An interlocutory order may be the subject of an appeal, but only after a judgment has been rendered, with the ground for appealing the order being included in the appeal of the judgment itself.
+[99]
+ (Citation omitted)
+Moreover, in contrast to a final judgment or order, an interlocutory order "may not be questioned on appeal except only as part of an appeal that may eventually be taken from the final judgment rendered in the case."
+[100]
+The Court of Appeals is, thus, correct when it held:
+It should be noted that what is challenged before Us is the court a quo's April 2, 2007 Order granting petitioner's "Motion for Release of Unapplied Deposit with Metropolitan Bank and Trust Company". Considering that the assailed Order merely ordered the release of funds from a depository bank and did not completely dispose of the case but left something else to be done by the court a quo, the order assailed before Us is merely interlocutory. As such, it is unappealable and consequently, cannot be assailed before Us via the instant petition for review under Rule 43. The instant petition should thus, have been dismissed outright.
+[101]
+However, it must be noted that the Interim Rules has already been amended by the Rules of Procedure on Corporate Rehabilitation of 2008
+[102]
+ and the Financial Rehabilitation Rules of Procedure.
+[103]
+II
+Petitioner argues that the assailed Orders were issued in excess of the trial court's jurisdiction.
+[104]
+ Under Rule 4, Section II
+[105]
+ of the Interim Rules, the rehabilitation court must act on the rehabilitation plan within 18 months from the date of filing of the petition.
+[106]
+ In this case, the trial court failed to approve or disapprove the rehabilitation plan submitted within the prescribed period.
+[107]
+According to petitioner, respondent G & P filed the Petition for Corporate Rehabilitation as early as March 17, 2003, while the assailed trial court Orders were only issued on April 2, 2007 and October 10, 2007, almost four (4) years later.
+[108]
+ The mandatory period set down in the Interim Rules should be followed considering the summary and non-adversarial nature of corporate rehabilitation proceedings.
+[109]
+Further, petitioner claims that an order issued in excess of the court's jurisdiction is void 
+ab initio
+ and cannot gain validity through a party's failure to raise the issue of its defect.
+[110]
+ Hence, the Court of Appeals erred when it held that petitioner was estopped from raising the argument that the trial court acted with lack or in excess of jurisdiction.
+[111]
+On the other hand, respondents argue that petitioner is mistaken in alleging that the assailed Orders of the trial court were issued in excess of its jurisdiction.
+[112]
+ The issue was raised for the first time on appeal.
+[113]
+ It was not among those raised before the Court of Appeals.
+[114]
+ It should not be considered, otherwise, its consideration would violate respondents' right to due process.
+[115]
+ Nevertheless, the assailed trial court Orders were issued within the required period:
+[T]he Orders granting the issuance of the writ of execution for the release and/or withdrawal of the Php 15 Million deposit and the accrued interest thereon, pertained to an incident that was resolved by the trial court during the pendency of the Rehabilitation Case and well within the 18-month period under Rule 4 Â§ 11 of the Interim Rules of Procedure on Corporate Rehabilitation.
+While it was only on November 27, 2006 that respondents sought the release of the unapplied Php 15 Million deposit, the incident subject matter thereof transpired on September 26, 2003; and the Special Commercial Court had the jurisdiction to pass upon and resolve the motion seeking the release of the unapplied deposit.
+. . . .
+. . . [F]urther, that the rehabilitation proceedings had not yet been closed and/or otherwise terminated, because there was still the matter of fully complying with the terms and conditions of the compromise agreement with Elite Union - relative to the transferred loan account from petitioner Metrobank.
+[116]
+ (Citation omitted)
+In addition, respondents maintain that petitioner "actively supported the continuance of the proceedings even beyond the period provided in the Interim Rules[.]"
+[117]
+Petitioner's argument fails to sway this court.
+Records show that the issue was never raised before the Court of Appeals. The issue that was brought before and resolved by the Court of Appeals pertained only to the rightful person entitled to the P15,000,000.00 deposit.
+Generally, parties may not raise issues for the first time on appeal.
+[118]
+ To allow one party to do so would violate the other party's right to due process, which is contrary to the principle of equity and fair play:
+[119]
+Settled is the rule that no questions will be entertained on appeal unless they have been raised below. Points of law, theories, issues and arguments not adequately brought to the attention of the lower court need not be considered by the reviewing court as they cannot be raised for the first time on appeal. Basic considerations of due process impel this rule.
+[120]
+ (Citation omitted)
+An exception exists when the consideration and resolution of the issue is "essential and indispensable in order to arrive at a just decision in the case."
+[121]
+ More precisely, this court laid down the exceptions in 
+Trinidad v. Acapulco
+:
+[122]
+Indeed, the doctrine that higher courts are precluded from entertaining matters neither alleged in the pleadings nor raised during the proceedings below but ventilated for the first time only in a motion for reconsideration or on appeal, is subject to exceptions, such as when:
+(a) grounds not assigned as errors but affecting jurisdiction over the subject matter; (b) matters not assigned as errors on appeal but are evidently plain or clerical errors within contemplation of law; (c) matters not assigned as errors on appeal but consideration of which is necessary in arriving at a just decision and complete resolution of the case or to serve the interests of justice or to avoid dispensing piecemeal justice; (d) matters not specifically assigned as errors on appeal but raised in the trial court and are matters of record having some bearing on the issue submitted which the parties failed to raise or which the lower court ignored; (e) matters not assigned as errors on appeal but closely related to an error assigned; and (f) matters not assigned as errors on appeal but upon which the determination of a question properly assigned, is dependent.
+[123]
+ (Citation omitted)
+None of these exceptions exists in this case. Nevertheless, to remove all doubts as to the validity of the assailed trial court Orders, we rule on the matter raised.
+Petitioner relies on Rule 4, Section 11 of the Interim Rules, which provides for mandatory periods to approve a rehabilitation plan:
+SECTION 11. Period of the Stay Order. â The stay order shall be effective from the date of its issuance until the dismissal of the petition or the termination of the rehabilitation proceedings.
+The petition shall be dismissed if no rehabilitation plan is approved by the court upon the lapse of 
+one hundred eighty (180) days from the date of the initial hearing
+. The court may grant an extension beyond this period only if it appears by convincing and compelling evidence that the debtor may successfully be rehabilitated. In no instance, however, shall the period for approving or disapproving a rehabilitation plan exceed 
+eighteen (18) months from the date of filing of the petition
+. (Emphasis supplied)
+This court, in the recent case of 
+Lexber, Inc. v. Spouses Dalman
+,
+[124]
+ held that the lapse of the periods provided for under Rule 4, Section 11 of the Interim Rules does not automatically result in the dismissal of the petition for corporate rehabilitation.
+[125]
+ This is in line with the liberal construction given to the rules governing corporate rehabilitation:
+However, while the general rule in statutory construction is that the words "shall," "must," "ought," or "should" are of mandatory character in common parlance, 
+it is also well-recognized in law and equity that this is not an absolute rule or inflexible criterion
+.
+The records of the present case show that on May 4, 2007, Lexber filed a motion for the extension of the period for the approval of the rehabilitation plan. However, the trial court never issued a resolution on this motion. Instead, on June 12, 2007, it issued an order giving due course to the petition. The records also reveal that after the initial hearing, the trial court had to conduct additional hearings even after the lapse of the 180-day period.
+Under these circumstances, the Court concludes that Lexber could not be faulted for the non-approval of the rehabilitation plan within the 180-day period. A petitioner-corporation should not be penalized if the trial court needed more time to evaluate the rehabilitation plan. Notably, in the present case, Lexber filed a motion for the extension of the 180-day period. However, the trial court did not issue a resolution on this motion. Instead, it issued an order giving due course to the petition, which also fell within the 18-month limit prescribed under the law.
+Rule 2, Section 2 of the Interim Rules dictates the courts to liberally construe the rehabilitation rules in order to carry out the objectives of Sections 6(c) of PD 902-A, as amended, and to assist the parties in obtaining a just, expeditious, and inexpensive determination of rehabilitation cases.
+The trial courts decision to approve or disapprove a rehabilitation plan is not a ministerial function and would require its extensive study and analysis.
+ As it turned out, after careful scrutiny of the rehabilitation petition, and its annexes, the trial court eventually disapproved Lexber's rehabilitation plan and dismissed the rehabilitation petition.
+[126]
+ (Emphasis supplied, citation omitted)
+In 
+Asiatrust Development Bank v. First Aikka Development, Inc., et al.
+,
+[127]
+ this court adopted a liberal interpretation of the periods provided under the Interim Rules in favor of the corporations' creditor.
+[128]
+ This court allowed petitioner bank to belatedly file a Comment/Opposition to the rehabilitation plan despite the trial court's approval and implementation of said rehabilitation plan in order for petitioner bank to participate in the rehabilitation proceedings before the trial court:
+[129]
+The Court promulgated the Rules in order to provide a remedy for summary and non-adversarial rehabilitation proceedings of distressed but viable corporations. These Rules are to be construed liberally to obtain for the parties a just, expeditious, and inexpensive disposition of the case. To be sure, strict compliance with the rules of procedure is essential to the administration of justice. Nonetheless, technical rules of procedure are mere tools designed to facilitate the attainment of justice. Their strict and rigid application should be relaxed when they hinder rather than promote substantial justice. Otherwise stated, strict application of technical rules of procedure should be shunned when they hinder rather than promote substantial justice.
+In this case, instead of filing its opposition to the petition for rehabilitation at least ten days before the date of the initial hearing as required by the Rules, petitioner filed a Motion for Leave of Court to Admit Opposition to Rehabilitation Petition with the attached Opposition to Petition for Rehabilitation on the date of the initial hearing. Because the pleading was not filed on time, the RTC denied the motion. While the court has the discretion whether or not to admit the opposition belatedly filed by petitioner, it is our considered opinion that the RTC gravely abused its discretion when it refused to grant the motion, 
+even as the factual circumstances of the case require that the Rules be liberally construed in the interest of justice
+.
+. . . .
+Time and again, we have held that cases should, as much as possible, be resolved on the merits, not on mere technicalities. In cases where we dispense with the technicalities, we do not mean to undermine the force and effectivity of the periods set by law. In those rare cases where we did not stringently apply the procedural rules, there always existed a clear need to prevent the commission of a grave injustice, as in the present case.
+ Our judicial system and the courts have always tried to maintain a healthy balance between the strict enforcement of procedural laws and the guarantee that every litigant be given the full opportunity for the just and proper disposition of his cause.
+[130]
+ (Emphasis supplied, citations omitted)
+In view of the circumstances in this case, we deem that a liberal interpretation of the rules is only proper. The non-approval of the rehabilitation plan within the maximum period prescribed under the Interim Rules cannot be attributed wholly to the trial court. The parties, including Elite Union, entered into multiple agreements in relation to the loan obligation of respondent G & P. Respondents pointed out how petitioner failed to contest, and even supported, the continuance of the rehabilitation proceedings:
+(a)
+ In the hearing conducted on April 14, 2005, the Trial Court noted the following:
+ 
+ 
+ 
+ 
+ 
+"When called this afternoon for hearing on the Revised Receiver's Report, petitioner and its creditors Metrobank and BPI agreed for the extension of time within which to finally come across with the settlement of the petitioner's obligation. Petitioner likewise informed the court that creditor MDB is also amenable for extension of time.
+ 
+ 
+ 
+ 
+ 
+ 
+ACCORDINGLY, petitioner and creditors Metrobank, BPI and MDB are granted one (1) month extension within which to file their final agreement on the repayment plan of the obligations of the petitioner in order to finally submit this petition for resolution."
+ 
+ 
+ 
+ 
+ 
+(b)
+ In the hearing conducted on August 31, 2005, the Trial Court also noted the following:
+ 
+ 
+ 
+ 
+ 
+"The receiver manifested that with respect to Metro Bank and Trust Company as confirmed by the petitioner, the matter of rehabilitation of the credit of the Metro Bank is submitted for resolution."
+ 
+ 
+ 
+ 
+ 
+(c) 
+In the hearing of April 17, 2006, a further extension was sought by the parties and which was accordingly granted.
+[131]
+Petitioner failed to deny these allegations. Petitioner is estopped in assailing the trial court Orders when it availed itself of several extensions of time, whether directly or indirectly, during the rehabilitation proceedings. The doctrine of estoppel
+forbid[s] one to speak against his own act, representations, or commitments to the injury of one to whom they were directed and who reasonably relied thereon. The doctrine of estoppel springs from equitable principles and the equities in the case. It is designed to aid the law in the administration of justice where without its aid injustice might result. It has been applied by this Court wherever and whenever special circumstances of a case so demand.
+[132]
+Moreover, petitioner has no standing to question this court's jurisdiction in assailing the Orders of the trial court. As both the trial court and Court of Appeals found, petitioner sold respondent G & P's loan account to Elite Union as far back as September 15, 2006, and was substituted as creditor by Elite Union.
+[133]
+ As borne by the records, petitioner's substitution in the corporate rehabilitation proceedings was with its conformity.
+[134]
+ The trial court, in its Order
+[135]
+ dated November 2, 2006, approved the substitution. Hence, at the time the Orders were issued, petitioner was not a party to the suit anymore, with rights dependent on the outcome of the corporate rehabilitation proceedings.
+[136]
+ "No man shall be affected by any proceeding to which he is a stranger[.]"
+[137]
+ Assuming petitioner would be adversely affected by any decision or order of the trial court, petitioner availed itself of the wrong remedy.
+The policy of the state is to allow the distressed corporation to get back on its feet. This case results from an interlocutory order regarding the proper party entitled to the P15,000,000.00 deposit, an incidental matter to the rehabilitation proceedings. This case is different from an appeal taken from the approval or disapproval of the rehabilitation plan after completion of the proceedings. The rehabilitation court should be allowed to continue with the main proceedings.
+III
+The crux of the controversy is that petitioner avers that it is entitled to the P15,000,000.00 deposit.
+[138]
+ According to petitioner, the Court of Appeals erred when it ruled that the Loan Sale and Purchase Agreement included the P15,000,000.00 deposit in the obligation transferred to Elite Union and, subsequently, to Spouses Victor and Lani Paras.
+[139]
+ Petitioner argues that the Court of Appeals' ruling was "based on a misapprehension of facts."
+[140]
+Moreover, petitioner alleges that the first MOA specifically provided that the P15,000,000.00 deposited with petitioner is "earmarked exclusively for [p]etitioner[.]"
+[141]
+ Hence, the amount could not have formed part of the loan account sold under the Loan Sale and Purchase Agreement and the second MOA.
+[142]
+In its Reply, petitioner clarifies that in 2003, the total outstanding balance of respondent G & P's loan is P109,886,671.35.
+[143]
+ The P15,000,000.00 deposit was "for the exclusive benefit of [p]etitioner[.]"
+[144]
+ In 2006, petitioner sold only the 
+principal balance
+ of P52,094,711.00 to Elite Union through the Loan Sale and Purchase Agreement as stated in Section 2.01 of the Loan Sale and Purchase Agreement.
+[145]
+ From the total obligation amounting to P109,886,671.35 consisting of principal, interests, and penalties, "only the principal . . . P52,094,711.00 remained outstanding after the [first MOA] of 2003, which means that [p]etitioner and [r]espondent G&P settled all interests and penalties in the total amount of P57,791,960.35 for the cash amount of P15,000,000.00, as provided in the [first MOA] of 2003."
+[146]
+ Hence, the agreement between petitioner and respondent G & P in the first MOA is separate and distinct from the 2006 Loan Sale and Purchase Agreement.
+[147]
+Furthermore, petitioner argues that the Court of Appeals erroneously expanded the terms of the Loan Sale and Purchase Agreement.
+[148]
+ The Loan Sale and Purchase Agreement is a contract between petitioner and Elite Union only; the latter was not a party to the appeal before the Court of Appeals.
+[149]
+ There is no controversy between petitioner and Elite Union under the 2006 Loan Sale and Purchase Agreement.
+[150]
+ In any event, any dispute concerning the interpretation of the Loan Sale and Purchase Agreement would have to be resolved by arbitration under Section 6.11
+[151]
+ of the Loan Sale and Purchase Agreement.
+[152]
+ Thus, petitioner avers that the Court of Appeals was without jurisdiction to interpret the 2006 Agreement.
+[153]
+In addition, petitioner argues that the first MOA with respondent G & P had already become final upon approval of the trial court.
+[154]
+ Its terms could not be changed; hence, the Court of Appeals "went beyond its powers when it unlawfully novated the [first MOA] of 2003 and amended the Regional Trial Court's Order."
+[155]
+ Petitioner could not fathom how the Court of Appeals assumed that petitioner would trade P15 million for around P10 million and purposely lose about P5 million.
+[156]
+Petitioner also cites certain important circumstances that led to the execution of the first MOA:
+128.1. Sometime in 2003, Mr. De Jesus and Mr. Paras agreed that the four (4) TCT[s] would be released for purposes of their transfer to a prospective purchaser in exchange of the amount of P15,000,000.00.
+128.2. It was for this reason that the parties decided to execute the First MOA.
+128.3. Under the First MOA, the P15,000,000.00 was earmarked for and exclusively applied to the obligation of Respondent G & P with Petitioner as creditor.
+[157]
+To support its argument that the P15,000,000.00 deposit was paid to it and rightfully belongs to it, petitioner declared that it had booked the P15,000,000.00 deposit as income of a branch, more specifically, as payment of the loan interest of respondent G & P.
+[158]
+ An inter-office letter reflected the parties' intention to apply the total amount to the loan obligation of respondent G & P.
+[159]
+ Respondent G & P's President, Mr. Ruben M. Paras, allegedly admitted this arrangement as evidenced by his letter to petitioner's counsel on February 14, 2005.
+[160]
+Lastly, petitioner alleges that the Court of Appeals failed to consider a crucial provision in the Loan Sale and Purchase Agreement:
+Under Section 2.02, Article II of the LSAPA, amounts collected and received by Petitioner in respect of the loan on or before the close of business on the cut-off date shall belong to it. The Section provides:
+"Section 2.02. Collections and recoveries. All collections and recoveries received by or on behalf of seller in respect of the loan on or before the close of business on the cut-off date (subject to the clearance of funds) will belong to seller and will be retained by seller to the extent that any such collection and recoveries relate to the period of time prior to the cut-off date. All collections and recoveries received by the seller after the cut-off date but prior to closing date will belong to purchaser and are to be remitted by seller to purchaser within fifteen (15) days after seller's actual receipt of such collections and recoveries (subject to the clearance of funds), but in no event earlier than the closing date. Any collections and recoveries are to be applied as required by applicable [P]hilippine law and the applicable loan documents."
+[161]
+As to who is entitled to the P15,000,000.00 deposit, respondents argue that the first MOA between petitioner and respondent G & P is clear as to the terms and conditions governing the parties.
+[162]
+ Petitioner obliged itself to abide by the following:
+a) 
+The P15,000,000.00 proceeds from the sale of four (4) parcels of land that formed part of the security for the Loan Account of G & P Builders, Inc. was to be deposited with the Bank and only to be disposed in accordance with an approved Rehabilitation Plan.
+b)
+ 
+The deposit should only be applied on the basis of an approved Rehabilitation Plan for the repayment of the loan with Metrobank where the four (4) parcels of land formed part of the loan collateral.
+c)
+ 
+Pending the judicial approval of the Rehabilitation Plan, Metrobank could use the P15,000,000.00 deposit, but had to credit the interests due on the deposit in favor of G & P Builders, Inc.
+[163]
+Even if the parties agreed that the deposit with petitioner was earmarked for application to the loan account of respondent G & P, the agreement was subject to the approval of the Rehabilitation Plan.
+[164]
+ As the Court of Appeals held, the first MOA between petitioner and respondent G & P did not provide for an outright partial payment of respondent G & P's loan obligation.
+[165]
+Further, respondents aver that petitioner supported its claim to the P15,000,000.00 deposit by presenting self-serving and belatedly executed affidavits of its employees.
+[166]
+ However, these affidavits merely demonstrated the underhanded and duplicitous action of petitioner in booking the deposit as its income even with the knowledge that the deposit remained to be an interest-earning deposit under respondent G & P's account.
+[167]
+ Such action is contrary to the bank's obligation to observe the highest standards of integrity and performance.
+[168]
+ According to respondents, petitioner came to the court with unclean hands and is trying to hold on to the P15,000,000.00 deposit "it considered a windfall."
+[169]
+Respondents also oppose the issuance of the temporary restraining order and Writ of Preliminary Injunction.
+[170]
+ To date, the total amount due to respondents is P19,875,000.00.
+[171]
+ Respondents "continue to suffer until the . . . deposit and the accrued interest thereon are . . . returned."
+[172]
+Petitioner's arguments are untenable.
+While the three agreements in this case are separate and distinct from each other and involve different parties, the rights and duties of the parties in this case flow from these inter-related agreements.
+This court has laid down the cardinal rule in the interpretation of contracts as stated in Article 1370 of the Civil Code:
+Article 1370 of the Civil Code sets forth the first rule in the interpretation of contracts. The article reads:
+Art. 1370. If the terms of a contract are clear and leave no doubt upon the intention of the contracting parties, the literal meaning of its stipulations shall control.
+If the words appear to be contrary to the evident intention of the parties, the latter shall prevail over the former.
+In the recent case of 
+Abad v. Goldloop Properties, Inc.
+, we explained, thus:
+The cardinal rule in the interpretation of contracts is embodied in the first paragraph of Article 1370 of the Civil Code: "
+[if] the terms of a contract are clear and leave no doubt upon the intention of the contracting parties, the literal meaning of its stipulations shall control
+." This provision is akin to the "plain meaning rule" applied by Pennsylvania courts, which assumes that the intent of the parties to an instrument is "embodied in the writing itself, and when the words are clear and unambiguous the intent is to be discovered only from the express language of the agreement." It also resembles the "four corners" rule, a principle which allows courts in some cases to search beneath the semantic surface for clues to meaning. A court's purpose in examining a contract is to interpret the intent of the contracting parties, as objectively manifested by them. The process of interpreting a contract requires the court to make a preliminary inquiry as to whether the contract before it is ambiguous. A contract provision is ambiguous if it is susceptible of two reasonable alternative interpretations. Where the written terms of the contract are not ambiguous and can only be read one way, the court will interpret the contract as a matter of law. If the contract is determined to be ambiguous, then the interpretation of the contract is left to the court, to resolve the ambiguity in the light of the intrinsic evidence.
+In our jurisdiction, the rule is thoroughly discussed in 
+Bautista v. Court of Appeals
+:
+The rule is that where the language of a contract is plain and unambiguous, its meaning should be determined A without reference to extrinsic facts or aids. The intention of the parties must be gathered from that language, and from that language alone. Stated differently, 
+where the language of a written contract is clear and unambiguous, the contract must be taken to mean that which, on its face, it purports to mean, unless some good reason can be assigned to show that the words should be understood in a different sense. Courts cannot make for the parties better or more equitable agreements than they themselves have been satisfied to make, or rewrite contracts because they operate harshly or inequitably as to one of the parties, or alter them for the benefit of one party and to the detriment of the other, or by construction, relieve one of the parties from the terms which he voluntarily consented to, or impose on him those which he did not
+.
+[173]
+ (Emphasis in the original, citation omitted)
+Furthermore, [w]hen an agreement has been reduced to writing, the parties cannot be permitted to adduce evidence to prove alleged practices [that], to all purposes, would alter the terms of the written agreement. Whatever is not found in the writing is understood to have been waived and abandoned.
+[174]
+The first MOA between petitioner and respondent G & P, as approved by the trial court, is clear that the application of the P15,000,000.00 deposit would be subject to the court-approved rehabilitation plan. We reproduce the salient portions of the first MOA as approved by the rehabilitation court:
+3.a 
+That the amount of P15,000,000.00 shall be deposited with the creditor MetroBank 
+for subsequent disposition and application pursuant to the Court approved Rehabilitation Plan
+;
+3.b 
+That in the application of the deposit pursuant to the Court approved Rehabilitation Plan, the aggregate sum shall be exclusively applied to the obligation of Petitioners with the creditor MetroBank
+, where the corresponding real properties formed part of the loan collateral;
+3.c
+ 
+That petitioners agree that the creditor MetroBank has the free use of the consideration deposited and in return, 
+the creditor MetroBank assures the crediting of the interest due on deposit in favor of the Petitioners
+ [.]
+[175]
+ (Emphasis supplied)
+Respondent G & P's obligation was still subsisting at this point as the parties did not agreed to outright payment, whether full or partial. As held by the Court of Appeals:
+The memorandum [first MOA] never provided for the insisted outright partial payment. What it did provide was that when a Rehabilitation Plan is eventually approved, the proceeds will be principally applied to the outstanding obligation of G & P assuming Metrobank is still the creditor of G & P during such time.
+[176]
+When petitioner entered into the Loan Sale and Purchase Agreement with Elite Union, the entire obligation was transferred to Elite Union. In 
+Licaros v. Gatmaitan
+,
+[177]
+ assignment of credit, which has a similar effect with that of a sale, has been defined as:
+the process of transferring the right of the assignor to the assignee who would then have the right to proceed against the debtor. The assignment may be done gratuitously or onerously[.]
+[178]
+ (Citation omitted)
+Similarly, in 
+Ledonio v. Capitol Development Corporation
+,
+[179]
+ this court defined an assignment of credit as:
+an agreement by virtue of which the owner of a credit (known as the assignor), by a legal cause â such as sale, dation in payment or exchange or donation â and without need of the debtor's consent, transfers that credit and its accessory rights to another (known as the assignee), who acquires the power to enforce it, to the same extent as the assignor could have enforced it against the debtor.
+[180]
+ (Citation omitted)
+Through the assignment of credit, the new creditor is entitled to the rights and remedies available to the previous creditor.
+[181]
+ Moreover, under Article 1627 of the Civil Code, "[t]he assignment of a credit includes all the accessory rights, such as a guaranty, mortgage, pledge[,] or preference."
+The Loan Sale and Purchase Agreement entitled Elite Union to all the rights and interests that petitioner had had as creditor of respondent G & P, including the securities of the loan account. This is clear from the provisions of the Loan Sale and Purchase Agreement:
+RECITALS:
+A. Seller is the owner and holder of a non-performing loan granted to G & P Builders, Inc. (the "Loan");
+B. 
+Seller is willing
+, subject to the express terms, provisions, conditions, limitations, waivers and disclaimers as set forth in this Agreement, 
+to sell, transfer, assign and convey to Purchaser 
+all of Seller's rights, title and interests in, to and under the Loan
+; and
+C. Purchaser desires to purchase the Loan for the consideration and under the express terms, provisions, conditions, limitations, waivers and disclaimers set forth in this Agreement;
+NOW, THEREFORE, for and in consideration of the foregoing and the mutual promises, covenants and agreements contained in this Agreement, and for other good and valuable consideration, the Parties agree as follows:
+. . . .
+ARTICLE II 
+Purchase and Sale of Loan
+Section 2.01 
+Agreement to Sell and Purchase Loan
+. Seller agrees to sell and Purchaser agrees to purchase the Loan with an 
+Outstanding Principal Balance of Pesos: Fifty Two Million Ninety Four Thousand Seven Hundred Eleven (PhP52,094,711.00)
+, on a without recourse basis, for the Purchase Price and on such other terms and subject to such other conditions as are contained in this Agreement. 
+The Seller hereby declares that the aforementioned Outstanding Principal Balance of the Loan is the total outstanding obligation of the Obligor of the Loan to the Seller.
+[182]
+ (Emphasis and underscoring supplied.)
+The provisions of the first MOA are plain and simple in that the application of the deposit to the loan account will be at a later time and subject to the rehabilitation court's approval. Contrary to petitioner's argument, nowhere in the first MOA nor in the Loan Sale and Purchase Agreement is it mentioned that the P15,000,000.00 deposit would be applied to the interests and penalties of the principal loan balance.
+What was sold to Elite Union under the Loan Sale and Purchase Agreement was respondent G & P's total loan obligation of P52,094,711.00, inclusive of the remaining securities and proceeds from the sale of some of the securities as stated in the first MOA.
+As held by the Court of Appeals:
+[T]he entire obligation - the principal amount, the security therefor, which now consisted of eight (8) parcels of land and the P15 Million proceeds in lieu of the four (4) sold parcels of land, were transferred to Elite Union. Everything was thus, sold to Elite Union, lock, stock and barrel, in a manner of speaking.
+[183]
+This view is supported by the second MOA, which transferred Elite Union's rights and interests over respondent G & P's loan account to Spouses Victor and Lani Paras:
+WHEREAS, the SECOND PARTY has instituted a corporate rehabilitation proceedings [sic] before the Regional Trial Court, Branch 40 docketed as Sp. Proc. 2003-041 involving, among others, its outstanding obligation to Metropolitan Bank and Trust Company, secured by some real properties;
+WHEREAS, the FIRST PARTY acquired the Loan Account of the SECOND PARTY and has substituted the creditor Metropolitan Bank and Trust Co. in the said court action;
+WHEREAS, the FIRST PARTY has agreed to sell/assign, and the THIRD PARTY has agreed to purchase, the Loan Account (as the term is defined below), including all the rights, titles and interests thereunder subject to the full compliance by the parties of their respective obligations hereunder.
+WHEREAS, the parties entered into a Term Sheet dated 03 August 2006 to document the sale and purchase of the Loan Account by the THIRD PARTY.
+NOW, THEREFORE, for and in consideration of the foregoing premises and the terms and conditions herein, the parties hereby agree as follows:
+Section 1. Description of the Loan.
+ The Loan subject of this Agreement consists of a loan granted to G & P Builders, Inc. with an outstanding principal balance in the amount of Php 52,094,711.00, exclusive of penalties and interest evidenced by promissory notes (more particularly described in Annex A) and secured by mortgages (more particularly described in Annex B) ("the Loan ")
+.
+[184]
+ (Emphasis supplied)
+Moreover, we cannot accept petitioner's belatedly raised claim that respondent G & P had a total obligation of P109,886,671.35 consisting of the principal loan obligation, interests, and penalties, and that what was transferred to Elite Unionâthe principal amount of P52,094,711.00âis distinct from the P57,791,960.35 pertaining to the interests and penalties respondent that G & P allegedly settled in the first MOA.
+First, nowhere in the first MOA is it qualified that the P15,000,000.00 shall be applied only to the interests and penalties forming part of the total outstanding obligation. The first MOA is clear that the P15,000,000.00 deposit shall be applied to respondent G & P's obligation with petitioner, as secured by several real properties:
+3.b. 
+That in the application of the deposit pursuant to the Court approved Rehabilitation Plan, the aggregate sum shall be 
+exclusively applied to the obligation of Petitioners with the creditor MetroBank, where the corresponding real properties formed part of the loan collateral
+;
+[185]
+ (Emphasis supplied)
+Second, if it were petitioner's intention to remain a creditor of respondent G & P with respect to the P15,000,000.00 deposit, then it should have provided unequivocally so in the Loan Sale and Purchase Agreement it entered into with Elite Union. Nowhere in this Agreement did petitioner reserve its right to the P15,000,000.00 deposit. Instead, it declared that the "Outstanding Principal Balance of the Loan is the total outstanding obligation of the Obligor [respondent G & P] of the Loan to the Seller [petitioner]."
+[186]
+Also, petitioner's reliance on Article II, Section 2.02
+[187]
+ of the Loan Sale and Purchase Agreement is of no moment.
+Petitioner cannot vary the terms of the first MOA in relation to the status of the P15,000,000.00 deposit through its interpretation of the Loan Sale and Purchase Agreement. The first MOA was judicially approved by the trial court as a compromise agreement between petitioner and respondent G & P. Hence, the terms of the first MOA, as the applicable law, governs the parties and their assigns and/or heirs:
+A compromise agreement is a contract whereby the parties make reciprocal concessions in order to resolve their differences and thus avoid litigation or to put an end to one already commenced. Once stamped with judicial 
+imprimatur
+, it becomes more than a mere contract binding upon the parties; having the sanction of the court and entered as its determination of the controversy, it has the force and effect of any other judgment. It has the effect and authority of 
+res judicata
+, although no execution may issue until it would have received the corresponding approval of the court where the litigation pends and its compliance with the terms of the agreement is thereupon decreed.
+...          ...           ...
+A compromise agreement once approved by final order of the court has the force of 
+res judicata
+ between the parties and should not be disturbed except for vices of consent or forgery. Hence, a decision on a compromise agreement is final and executory; it has the force of law and is conclusive between the parties. It transcends its identity as a mere contract binding only upon the parties thereto, as it becomes a judgment that is subject to execution in accordance with the Rules.
+[188]
+ (Citations omitted)
+To reiterate, the compromise judgment approved petitioner's priority or preference as to the deposit. However, petitioner assigned this priority or preference in favor of Elite Union.
+This court cannot speculate as to the reasons why petitioner sold all its rights and interests over respondent G & P's loan account for a lower price. Without sufficient evidence, legal basis, and compelling reasons, we cannot read beyond the written agreements between the parties. As observed by the Court of Appeals:
+This Court can only speculate on Metrobank's omission to zealously protect its interest. It cannot even begin to fathom how a banking giant could have committed such a colossal blunder. The records however, clearly disclose that while Metrobank was already in possession of the P15 Million proceeds, it still opted to sell ALL ITS INTEREST, TITLES, and CLAIM over a P52,094,711.00 receivable account for only P10.419 Million. By doing so, it has only itself to blame for its loss.
+[189]
+We cannot further assume that petitioner, being a large commercial bank possessing huge financial and legal resources, cannot adequately and clearly reflect its interests in its own contracts.
+WHEREFORE
+, the Petition for Review filed by Metropolitan Bank & Trust Company is 
+DENIED
+. The Court of Appeals Decision dated November 24, 2008 and Resolution dated August 7, 2009 are 
+AFFIRMED
+.
+SO ORDERED.
+Velasco, Jr.
+,
+* 
+Brion, (Acting Chairperson), 
+ 
+Del Castillo
+, and 
+Mendoza, JJ.
+, concur.
+*
+ Designated acting member per S.O. No. 2282 dated November 13, 2015.
+[1]
+ 
+Rollo
+, pp. 46-86.
+[2]
+ Id. at 90-113. The Decision was penned by Associate Justice Rodrigo F. Lim, Jr. (Chair), concurred in by Associate Justices Jane Aurora C. Lantion, Michael P. Elbinias, and Elihu A. Ybafiez, and dissented by Associate Justice Ruben C. Ayson of the Court of Appeals, Mindanao Station, Cagayan De Oro City, Special Division of Five. Associate Justice Ruben C. Ayson penned a Dissenting Opinion.
+[3]
+ Id. at 117-120. The Resolution was penned by Associate Justice Rodrigo F. Lim, Jr. (Chair), concurred in by Associate Justices Jane Aurora C. Lantion, Michael P. Elbinias, and Elihu A. Ybafiez, and dissented by Associate Justice Ruben C. Ayson of the Court of Appeals, Mindanao Station, Cagayan De Oro City, Special Division of Five.
+[4]
+ Id. at 46-47 and 84, Petition.
+[5]
+ Id. at 214-215. The Order was penned by Presiding Judge Epifanio T. Nacaya.
+[6]
+ Id. at 112, Court of Appeals Decision.
+[7]
+ Id. at 90-91.
+[8]
+ Id. at 91.
+[9]
+ Id.
+[10]
+ Id. at 50, Petition.
+[11]
+ Id. at 91-92, Court of Appeals Decision.
+[12]
+ Id. at 92.
+[13]
+ Id., footnote no. 6.
+[14]
+ Id. at 175-176 and 400-401, Regional Trial Court Order dated September 26, 2003. The Order was penned by Presiding Judge Epifanio T. Nacaya.
+[15]
+ Id. at 92, Court of Appeals Decision, and 175-176 and 400^401, Regional Trial Court Order.
+[16]
+ Id. at 92-93, Court of Appeals Decision.
+[17]
+ Id. at 93.
+[18]
+ Id. at 184-202.
+[19]
+ Id. at 93, Court of Appeals Decision.
+[20]
+ Id. at 93, Court of Appeals Decision, and 191, Loan Sale and Purchase Agreement.
+[21]
+ Id. at 402-403, Atty. Francisco T. Del Castillo's Motion to Withdraw Appearance.
+[22]
+ Id. at 93, Court of Appeals Decision.
+[23]
+ Id.
+[24]
+ Id.
+[25]
+ Id. at 93-94.
+[26]
+ Id. at 94.
+[27]
+ Id.
+[28]
+ Id.
+[29]
+ Id.
+[30]
+ Id.
+[31]
+ Id. at 94-95.
+[32]
+ Id. at 95.
+[33]
+ Id.
+[34]
+ Id.
+[35]
+ Id. at 96, Court of Appeals Decision.
+[36]
+ Id. at 214-215, Regional Trial Court Order dated April 2, 2007.
+[37]
+ Id. at 216-219, Metrobank's Motion for Reconsideration of the Order dated April 2, 2007.
+[38]
+ Id. at 97, Court of Appeals Decision.
+[39]
+ Id. at 221-225, Regional Trial Court Order dated October 10, 2007. The Order was penned by Assisting Judge Henry B. Damasing.
+[40]
+ Id. at 97, Court of Appeals Decision.
+[41]
+ Id. at 90-91.
+[42]
+ Id. at 112. The Court of Appeals issued a temporary restraining order on December 11, 2007 (Id. at 61, Petition, and 102, Court of Appeals Decision).
+[43]
+ Id. at 108-109, Court of Appeals Decision. Associate Justice Ruben C. Ayson dissented to the majority opinion and is of the view that Metrobank is not entitled to the deposit (Id. at 114-116, Dissenting Opinion of Associate Justice Ruben C. Ayson).
+[44]
+ Id. at 108, Court of Appeals Decision.
+[45]
+ Id. at 99-101. The Court of Appeals, however, observed that irregularities attended the agreements between petitioner and respondents considering that upon issuance of the Stay Order on March 18, 2003 in this case, not only was the enforcement of all claims against the distressed corporation-debtor suspended, but the debtor was also prohibited from selling, transferring, or encumbering its properties, except in the ordinary course of business (Id. at 102). In any case, the Court of Appeals recognized that it had inadvertently given due course to the Petition and even issued a temporary restraining order and Writ of Preliminary Injunction (Id.).
+[46]
+ Id. at 106.
+[47]
+ Id.
+[48]
+ Id. at 112.
+[49]
+ Id. at 117, Court of Appeals Resolution.
+[50]
+ Id. at 119. Associate Justice Ruben C. Ayson maintained his dissent (Id. at 120).
+[51]
+ Id. at 81-83, Petition.
+[52]
+ Id. at 278, Supreme Court Resolution dated December 2, 2009.
+[53]
+ Id. at 485-510.
+[54]
+ Id. at 524, Supreme Court Resolution dated August 23, 2010.
+[55]
+ Id. at 64, Petition.
+[56]
+ Id. at 65.
+[57]
+ Id. at 66. 
+See
+ A.M. No. 00-8-10-SC (2000), Re: Interim Rules of Procedure on Corporate Rehabilitation, Rule 3, sec. 5, which provides:
+Rule 3. General Provisions
+SECTION 5. Executory Nature of Orders. â Any order issued by the court under these Rules is immediately executory. A petition for review or an appeal therefrom shall not stay the execution of the order unless restrained or enjoined by the appellate court. The review of any order or decision of the court or an appeal therefrom shall be in accordance with the Rules of Court; Provided, however, that the reliefs ordered by the trial or appellate courts shall take into account the need for resolution of proceedings in a just, equitable, and speedy manner.
+[58]
+ 
+Rollo
+, p. 66, Petition.
+[59]
+ Id. at 66-67, 
+citing De la Cruz, et al. v. Hon. Paras, etc., et al
+, 161 Phil. 715, 721 (1976) [Per J. Martin, First Division], 
+Spouses Puertollano v. Intermediate Appellate Court
+, 240 Phil. 192, 195 (1987) [Per J. Gancayco, First Division], 
+Gold City Integrated Port Services, Inc. (INPORT) v. Intermediate Appellate Court
+, 253 Phil. 571, 575 (1989) [Per J. Melencio-Herrera, Second Division], and 
+Republic v. Tacloban City Ice Plant, Inc.
+, 327 Phil. 764 (1996) [Per J. Mendoza, Second Division].
+[60]
+ Id. at 67.
+[61]
+ Id. at 68.
+[62]
+ Id.
+[63]
+ Id.
+[64]
+ Id. at 310-316, Comment.
+[65]
+ Id. at 316.
+[66]
+ Id.
+[67]
+ Id. at 318.
+[68]
+ Id.
+[69]
+ Id.
+[70]
+ Id.
+[71]
+ Id. at 316-317.
+[72]
+ Id. at 424.
+[73]
+ Id. at 316-317, Comment.
+[74]
+ Id. at 317.
+[75]
+ Id.
+[76]
+ Id. at 318-319.
+[77]
+ A.M. No. 00-8-10-SC (2001), Re: Transfer of Cases from the Securities and Exchange Commission to the Regional Trial Court. 
+See BPI Family Savings Bank, Inc. v. Pryce Gases, Inc., et al.
+, 668 Phil. 206, 213 (2011) [Per J. Carpio, Second Division] and 
+New Frontier Sugar Corporation v. Regional Trial Court, Branch 39, Iloilo City
+, 542 Phil. 587, 597 (2007) [Per J. Austria-Martinez, Third Division].
+[78]
+ A.M. No. 00-8-10-SC (2001), Re: Transfer of Cases from the Securities and Exchange Commission to the Regional Trial Court.
+[79]
+ A.M. No. 00-8-10-SC (2001), Re: Transfer of Cases from the Securities and Exchange Commission to the Regional Trial Court.
+[80]
+ 
+Pryce Corporation v. China Banking Corporation
+, G.R. No. 172302, February 18, 2014, 716 SCRA 207, 233 [Per J. Leonen, En Banc].
+[81]
+ 
+Bank of the Philippine Islands v. Sarabia Manor Hotel Corporation
+, G.R. No. 175844, July 29, 2013, 702 SCRA 432, 446 [Per J. Perlas-Bernabe, Second Division].
+[82]
+ Re: Mode of Appeal in Cases Formerly Cognizable by the Securities and Exchange Commission. 
+See
+ A.M. No. 00-8-10-SC (2001), Re: Transfer of Cases from the Securities and Exchange Commission to the Regional Trial Court.
+[83]
+ A.M. No. 00-8-10-SC (2000), Re: Interim Rules of Procedure on Corporate Rehabilitation.
+[84]
+ 542 Phil. 587 (2007) [Per J. Austria-Martinez, Third Division].
+[85]
+ Id. at 597.
+[86]
+ Id.
+[87]
+ Id. at 591.
+[88]
+ Id. at 597.
+[89]
+ Id. at 597-598.
+[90]
+ 642 Phil. 308 (2010) [Per J. Peralta, Second Division].
+[91]
+ Id. at 317-318.
+[92]
+ 
+Metropolitan Bank & Trust Company v. Court of Appeals
+, 408 Phil. 686, 694-695 (2001) [Per J. Panganiban, Third Division]. 
+See Manila International Airport Authority, et al. v. Olongapo Maintenance Services, Inc., et al.
+, 567 Phil. 255,282 (2008) [Per J. Velasco, Jr., Second Division].
+[93]
+ 408 Phil. 686 (2001) [Per J. Panganiban, Third Division].
+[94]
+ Id. at 694-695.
+[95]
+ 
+Tongonan Holdings and Development Corporation v. Atty. Escano, Jr.
+, 672 Phil. 747, 757 (2011) [Per J. Mendoza, Third Division].
+[96]
+ 
+Calderon v. Roxas
+, G.R. No. 185595, January 9, 2013, 688 SCRA 330, 340 [Per J. Villarama, Jr., First Division].
+[97]
+ 
+See
+ A.M. No. 00-8-10-SC (2000), Rule 4, secs. 23, 24 and 27 provide: Rule 4. Rehabilitation
+SECTION 23. Approval of the Rehabilitation Plan. â The court may approve a rehabilitation plan even over the opposition of creditors holding a majority of the total liabilities of the debtor if, in its judgment, the rehabilitation of the debtor is feasible and the opposition of the creditors is manifestly unreasonable.
+In determining whether or not the opposition of the creditors is manifestly unreasonable, the court shall consider the following:
+That the plan would likely provide the objecting class of creditors with compensation greater than that which they would have received if the assets of the debtor were sold by a liquidator within a three-month period;
+That the shareholders or owners of the debtor lose at least their controlling interest as a result of the plan; and
+The Rehabilitation Receiver has recommended approval of the plan.
+In approving the rehabilitation plan, the court shall issue the necessary orders or processes for its immediate and successful implementation. It may impose such terms, conditions, or restrictions as the effective implementation and monitoring thereof may reasonably require, or for the protection and preservation of the interests of the creditors should the plan fail.
+SECTION 24. Effects of the Rehabilitation Plan. â The approval of the rehabilitation plan by the court shall result in the following:
+The plan and its provisions shall be binding upon the debtor and all persons who may be affected by it, including the creditors, whether or not such persons have participated in the proceedings or opposed the plan or whether or not their claims have been scheduled;
+The debtor shall comply with the provisions of the plan and shall take all actions necessary to carry out the plan;
+Payments shall be made to the creditors in accordance with the provisions of the plan;
+Contracts and other arrangements between the debtor and its creditors shall be interpreted as continuing to apply to the extent that they do not conflict with the provisions of the plan; and
+Any compromises on amounts or rescheduling of timing of payments by the debtor shall be binding on creditors regard less of whether or not the plan is successfully implemented.
+. . . .
+SEC. 27. Termination of Proceedings. â In case of the failure of the debtor to submit the rehabilitation plan, or the disapproval thereof by the court, or the failure of the rehabilitation of the debtor because of failure to achieve the desired targets or goals as set forth therein, or the failure of the said debtor to perform its obligations under the said plan, or a determination that the rehabilitation plan may no longer be implemented in accordance with its terms, conditions, restrictions, or assumptions, the court shall upon motion, motu proprio, or upon the recommendation of the Rehabilitation Receiver, terminate the proceedings. The proceeding shall also terminate upon the successful implementation of the rehabilitation plan.
+ 
+See also Bank of the Philippine Islands v. Sarabia Manor Hotel Corporation
+, G.R. No. 175844, July 29, 2013, 702 SCRA 432, 447-448 [Per J. Perlas-Bernabe, Second Division].
+[98]
+ 
+Pahila-Garrido v. Tortogo, et al.
+, 671 Phil. 320, 335 (2011) [Per J. Bersamin, First Division].
+[99]
+ Id. at 334-335.
+[100]
+ 
+Calderon v. Roxas
+, G.R. No. 185595, January 9, 2013, 688 SCRA 330, 338 [Per J. Villarama, Jr., First Division].
+[101]
+ 
+Rollo
+, p. 101, Court of Appeals Decision.
+[102]
+ A.M. No. 00-8-10-SC (2008). The 2008 Rules took effect on January 16, 2009. 
+See Abrera, et al. v. Hon. Judge Barza, et al.
+, 615 Phil. 595, 623 (2009) [Per J. Peralta, Third Division]. The Decision in Abrera, et al. refers to the 2008 Rules, which took effect on January 16, 2009, as the "2009 Rules."
+[103]
+ A.M. No. 12-12-11-SC (2013). 
+See Lexber, Inc. v. Spouses Dalman
+, G.R. No. 183587, April 20, 2015 <
+http://sc.judiciary.gov.ph/pdf/web/viewer.html?file=/jurisprudence/2015/april2015/183587.pdf
+> 
+ 4 [Per J. Brion, Second Division].
+[104]
+ 
+Rollo
+, p. 69, Petition.
+[105]
+ A.M. No. 00-8-10-SC (2000), Rule 4, sec. 11 provides: 
+Rule 4. Rehabilitation
+. . . .
+Sec. 11. Period of the Stay Order. - The stay order shall be effective from the date of its issuance until the dismissal of the petition or the termination of the rehabilitation proceedings.
+The petition shall be dismissed if no rehabilitation plan is approved by the court upon the lapse of one hundred eighty (180) days from the date of the initial hearing. The court may grant an extension beyond this period only if it appears by convincing and compelling evidence that the debtor may successfully be rehabilitated. In no instance, however, shall the period for approving or disapproving a rehabilitation plan exceed eighteen (18) months from the date of filing of the petition.
+ (Emphasis supplied)
+[106]
+ 
+Rollo
+, p. 69, Petition.
+[107]
+ Id. at 70.
+[108]
+ Id.
+[109]
+ Id. at 70-71.
+[110]
+ Id. at 74,
+[111]
+ Id. at 73.
+[112]
+ Id. at 320, Comment.
+[113]
+ Id. at 321.
+[114]
+ Id. at 322. Respondents note that a Supplemental Memorandum was submitted by petitioner's new counsel, Puno and Puno Law Offices, before the Court of Appeals. However, the appellate court merely noted the Memorandum on November 24, 2008 without any further action.
+[115]
+ Id. at 321.
+[116]
+ Id. at 322-323.
+[117]
+ Id. at 324.
+[118]
+ 
+See Multi-Realty Development Corporation v. The Makati Tuscany Condominium Corporation
+, 524 Phil. 318, 335 (2006) [Per J. Callejo, Sr., First Division].
+[119]
+ 
+See Commissioner of Internal Revenue v. Puregold Duty Free, Inc.
+, G.R. No. 202789, June 22, 2015 <
+http://sc.judiciary.gov.ph/pdf/web/viewer.html?file=/jurisprudence/2015/june2015/202789.pdf
+> 
+ 7-8 [Per J. Velasco, Jr., Third Division].
+[120]
+ 
+Multi-Realty Development Corporation v. The Makati Tuscany Condominium Corporation,
+ 524 Phil. 318, 335 (2006) [Per J. Callejo, Sr., First Division]. 
+See Canlas v. Republic
+, G.R. No. 200894, November 10, 2014,
+ <
+http://sc.judiciary.gov.ph/pdf/web/ viewer.html?file=/jurisprudence/2014/november2014/200894.pdf
+> 17 [Per J. Leonen, Second Division].
+[121] 
+The Insular Life Assurance Co., Ltd. Employees Association-NATU v. The Insular Life Assurance Co., Ltd.
+, 166 Phil. 505, 518 (1977) [Per C.J. Castro, En Banc].
+[122]
+ 526 Phil. 154 (2006) [Per J. Austria-Martinez, First Division].
+[123]
+ Id. at 164.
+[124]
+ G.R. No. 183587, April 20, 2015 <
+http://sc.judiciary.gov.ph/pdf/web/viewer.html?file=/jurisprudence/2015/april2015/183587.pdf
+>
+ [Per J. Brion, Second Division]. 
+[125]
+ Id. at 10-11.
+[126]
+ Id. at 11.
+[127]
+ 665 Phil. 313 (2011) [Per J. Nachura, Second Division].
+[128]
+ Id. at 330-331.
+[129]
+ Id. at 331-332.
+[130]
+ Id. at 328-330.
+[131]
+ 
+Rollo
+, p. 324, Comment.
+[132]
+ 
+Ysmael v. Court of Appeals
+, 339 Phil. 361, 373 (1997) [Per J. Kapunan, First Division], 
+citing Philippine National Bank v. Court of Appeals
+, 183 Phil. 54, 63-64 (1979) [Per J. Melencio-Herrera, First Division].
+[133]
+ 
+Rollo
+, pp. 93, Court of Appeals Decision, and 215, Regional Trial Court Order dated April 2, 2007.
+[134]
+ 
+Rollo
+, pp. 404-406, Elite Union Investments Ltd.'s Motion for Substitution of Parties.
+[135]
+ Id. at 407.
+[136]
+ 
+See
+ RULES OF COURT, Rule 3, secs. 2 and 8, which provide: 
+Rule 3. Parties to Civil Actions
+. . . .
+SECTION 2. Parties in interest. â A real party in interest is the party who stands to be benefited or injured by the judgment in the suit, or the party entitled to the avails of the suit. Unless otherwise authorized by law or these Rules, every action must be prosecuted or defended in the name of the real party in interest.
+. . . .
+SECTION 8. Necessary party. â A necessary party is one who is not indispensable but who ought to be joined as a party if complete relief is to be accorded as to those already parties, or for a complete determination or settlement of the claim subject of the action.
+[137]
+ 
+See Green Acres Holdings, Inc. v. Cabral
+, G.R. No. 175542 & 183205, June 5, 2013, 697 SCRA 266, 282-283 [Per J. Villarama, Jr., First Division].
+[138]
+ 
+Rollo
+, p. 75, Petition.
+[139]
+ Id.
+[140]
+ Id.
+[141]
+ Id. at 76, citing Memorandum of Agreement dated August 11, 2003, pars. 2, 3.a., and 3.b., which provide:
+2. 
+That the aggregate consideration for the purchase is in the sum of fifteen million (P15,000,000.00) pesos, net of all expenses, to which the creditor Metrobank has manifested its conformity and agreement to the following terms and conditions, for the release of the corresponding muniments of title, free from all encumbrances and liabilities;
+3.a
+ 
+That the amount of P15,000,000.00 shall be deposited with the creditor Metrobank for subsequent disposition and application pursuant to the court approved rehabilitation plan;
+3.b 
+That in the application of the deposit pursuant to the court approved rehabilitation plan, the aggregate sum shall be exclusively applied to the obligation of Petitioners with the creditor Metrobank, where the corresponding real properties formed part of the loan collateral
+[.] (Emphasis supplied)
+[142]
+ Id. at 77.
+[143]
+ Id. at 491, Reply.
+[144]
+ Id.
+[145]
+ Id.
+[146]
+ Id. at 492.
+[147]
+ Id. at 493-494.
+[148]
+ Id.
+[149]
+ Id. at 495.
+[150]
+ Id.
+[151]
+ Id. at 199, Loan Sale and Purchase Agreement, sec. 6.11, which provides:
+Section 6.11 - 
+Dispute Resolution
+. The Parties agree to attempt to resolve any disputes that arise between them with respect to this Agreement and the Transaction through good faith negotiation. If at any time during such negotiation one Party determines in good faith that the Parties cannot resolve the dispute, that Party will deliver a notice to that effect to the other Party, in which event the dispute will be settled by arbitration. Any dispute will be referred to and finally resolved by arbitration in accordance with the rules and procedures provided by the Philippine Dispute Resolution Center, Inc., which rules are deemed to be incorporated by reference in this Section 6.11. The tribunal will consist of three (3) arbitrators, and the language of the arbitration will be English. (Underscoring in the original)
+[152]
+ Id. at 496, Reply.
+[153]
+ Id.
+[154]
+ Id. at 501.
+[155]
+ Id.
+[156]
+ Id. at 505.
+[157]
+ Id. at 77, Petition.
+[158]
+ Id. at 78.
+[159]
+ Id. at 79.
+[160]
+ Id. at 79-80 and 180-181.
+[161]
+ Id. at 80-81.
+[162]
+ Id. at 327, Comment.
+[163]
+ Id. at 327-328.
+[164]
+ Id. at 328.
+[165]
+ Id. at 328-329.
+[166]
+ Id. at 331.
+[167]
+ Id. at 332.
+[168]
+ Id. at 332-334.
+[169]
+ Id. at 334.
+[170]
+ Id. at 335-336.
+[171]
+ Id. at 335.
+[172]
+ Id.
+[173]
+ 
+Benguet Corporation, et al. v. Cabildo
+, 585 Phil. 23, 34-35 (2008) [Per J. Nachura, Third Division].
+[174]
+ 
+Norton Resources and Development Corporation v. All Asia Bank Corporation
+, 620 Phil. 381, 389-390 (2009) [Per J. Nachura, Third Division]
+See
+ RULES OF COURT, Rule 130, sec. 9 provides:
+SECTION 9. Evidence of written agreements. â When the terms of an agreement have been reduced to writing, it is considered as containing all the terms agreed upon and there can be, between the parties and their successors in interest, no evidence of such terms other than the contents of the written agreement.
+However, a party may present evidence to modify, explain or add to the terms of the written agreement if he puts in issue in his pleading:
+(a)
+ An intrinsic ambiguity, mistake or imperfection in the written agreement;
+(b)
+ The failure of the written agreement to express the true intent and agreement of the parties thereto;
+(c) 
+The validity of the written agreement; or
+(d)
+ The existence of other terms agreed to by the parties or their successors in interest after the execution of the written agreement.
+[175]
+ 
+Rollo
+, pp. 175-176 and 400-401, Regional Trial Court Order dated September 26, 2003.
+[176]
+ Id. at 106, Court of Appeals Decision.
+[177]
+ 414 Phil. 857 (2001) [Per J. Gonzaga-Reyes, Third Division]. What was involved in this case, however, was conventional subrogation and not assignment of credit (Id. at 873).
+[178]
+ Id. at 866-867.
+[179]
+ 553 Phil. 344 (2007) [Per J. Chico-Nazario, Third Division].
+[180]
+ Id. at 360-361.
+[181]
+ 
+See United Planters Sugar Milling Co., Inc. (UPSUMCO) v. Hon. Court of Appeals, et al.
+, 602 Phil. 13, 42 (2009) [Per J. Tinga, En Banc].
+[182]
+ 
+Rollo
+, pp. 186-190, Loan Sale and Purchase Agreement.
+[183]
+ Id. at 106, Court of Appeals Decision.
+[184]
+ Id. at 411, Memorandum of Agreement among Elite Union Investments Ltd., G & P Builders, Inc., and Spouses Victor and Lani Paras.
+[185]
+ Id. at 176 and 401, Regional Trial Court Order dated September 26, 2003.
+[186]
+ Id. at 190, Loan Sale and Purchase Agreement.
+[187]
+ Id., Loan Sale and Purchase Agreement, sec. 2.02 provides:
+Section 2.02. Collections and Recoveries. All Collections and Recoveries received by or on behalf of Seller in respect of the Loan on or before the close of business on the Cut-off Date (subject to the clearance of funds) will belong to Seller and will be retained by Seller to the extent that any such Collection and Recoveries relate to the period of time prior to the Cut-off date. All Collections and Recoveries received by the Seller after Cut-off Date but prior to Closing Date will belong to Purchase and are to be remitted by Seller to Purchaser within fifteen (15) days after Seller's actual receipt of such Collections and Recoveries (subject to the clearance of funds), but in no event earlier than the Closing Date. 
+Any Collections and Recoveries are to be applied as required by applicable Philippine Law and the applicable Loan Documents
+. (Emphasis supplied)
+[188]
+ 
+Spouses Martir v. Spouses Verano
+, 529 Phil. 120, 125-126 (2006) [Per J. Ynares-Santiago, First Division].
+[189]
+ 
+Rollo
+, p. 111, Court of Appeals Decision.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

@@ -1,0 +1,589 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			822 Phil. 688
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 196679, December 13, 2017 ]
+
+
+ROBERTSON S. CHIANG, NIKKI S. CHIANG, MARIA SY BE TY CHIANG,
+[*]
+ BEN C. JAVELLANA, AND CARMELITA TUASON,
+[*]
+ PETITIONERS, V. PHILIPPINE LONG DISTANCE TELEPHONE COMPANY, RESPONDENT.
+
+
+D E C I S I O N
+
+
+
+
+JARDELEZA, J.:
+
+
+This is a petition for review on
+ certiorari
+[1]
+ assailing the Decision and Resolution of the Court of Appeals (CA) in CA-G.R. SP No. 115394 dated January 31, 2011
+[2]
+ and April 19, 2011,
+[3]
+ respectively. The Decision and Resolution nullified and set aside the Resolutions dated November 5, 2007
+[4]
+ and June 2, 2010
+[5]
+ of the Department of Justice (DOJ) in I.S. Nos. PSG-01-11-21226 to PSG-01-11-21227. 
+ In his letter
+[6]
+ dated September 7, 2001, Rolando A. Alcantara, Division Head, Alternative Calling Pattern Detection Division of respondent Philippine Long Distance Telephone Company (PLDT), requested the assistance of Superintendent Federico E. Laciste, Chief of the Regional Intelligence Special Operation Office R2 (RISOO)-National Capital Region Police Office, in conducting further investigation on illegal toll bypass operations of Worldwide Web Corp. (Worldwide Web), Message One Inc. (Message One), and Planet Internet Mercury One (Planet Internet).
+ On September 26, 2001, upon application of RISOO, along with PLDT personnel as technical witnesses, Branch 78 of the Regional Trial Court (RTC), Quezon City issued three search warrants against Worldwide Web, Message One, and Planet Internet. In particular, Search Warrant Nos. Q-01-3857
+[7]
+ and Q-01-3858
+[8]
+ were issued against Planet Internet and petitioners for violation of Presidential Decree (PD) No. 401
+[9]
+ and Article 308(1), in relation to Article 309 of the Revised Penal Code (RPC), respectively.
+ On the same date, RISOO personnel served Search Warrant Nos. Q-01-3857 and Q-01-3858 against petitioners, corporate owners of Planet Internet, at Unit 2103, 21/F Orient Square Building, Emerald Avenue, Barangay San Antonio, Pasig City.
+[10]
+ There, RISOO seized various equipment and arrested Rene Lacson (Lacson) and Arnold Julio (Julio), who were both employees of Planet Internet. RISOO indorsed the case to the DOJ, recommending that petitioners, Lacson, and Julio be charged with violations of paragraph 1 of Article 308 (theft), in relation to Article 309, of the RPC and PD No. 401.
+[11]
+ Lacson and Julio were then subjected to inquest proceedings, and corresponding informations were directly filed in Branch 152 of the RTC, Pasig City against them. Subsequently, however, on their motion, the RTC ordered a re-investigation of the charges against Lacson and Julio.
+[12]
+ Meanwhile, the cases against petitioners, who were at large at the time of Lacson and Julio's inquest, were subjected to regular preliminary investigation. Upon conclusion of the DOJ's investigation, their cases were submitted for resolution and indorsed to the Office of the City Prosecutor of Pasig City (OCP Pasig) for further investigation. Only Robertson S. Chiang (Robertson) appeared and submitted his counter-affidavit and controverting evidence. 
+[13]
+ In its Affidavit,
+[14]
+ PLDT alleged that Planet Internet committed illegal toll bypass operations, a method of routing and completing international long distance calls using lines, cables, antenna and/or air wave or frequency which connects directly to the local or domestic exchange facilities of the country where the calls originated. The calls were made to appear as local calls but were actually international. In the process, these calls bypassed the International Gateway Facility (IGF) found at the originating country,
+[15]
+ which meters all international calls for charging and billing.
+ PLDT claimed that its representatives made several international test calls through Planet Internet using subscribed telephone numbers 689-1135 to 689-1143 from PLDT. The tests revealed that while no records were found in the Call Details Records of PLDT's toll exchanges, the international test calls were shown as completed. This meant that the calls bypassed PLDT's IGF, and consequently, caused financial losses to PLDT in the form of access and hauling charges in an estimated monthly value of P764,718.09.
+[16]
+ Moreover, PLDT argued that Planet Internet violated PD No. 401 because of the unauthorized installation of telephone connections and the illegal connection of PLDT telephone lines/numbers to an equipment which routes the international calls.
+[17]
+ Robertson countered that Planet Internet is a legitimate and duly registered business operating as a Value-Added Service (VAS) and InternetÂ­ Related Service (IRS) provider. It was not involved in any toll bypass operation because it was an authorized reseller of the IGF services of Eastern Telecommunications Philippines Incorporated (Eastern) and Capitol Wireless (Capwire). Robertson explained that Planet Internet connected clients to either Eastern's or Capwire's IGF switching facility, as shown in the reseller agreement
+[18]
+ between Planet Internet and Eastern and the statement of account
+[19]
+ from Capwire. Although Robertson admitted that the test calls by PLDT's representatives did not pass PLDT's IGF, he asserts the same passed through Eastern's or Capwire's IGF, whose toll fees were duly paid by Planet Internet.
+[20]
+ Robertson also argued that in any event, the crime of theft does not cover toll bypass operations
+[21]
+ and that PLDT's alleged lost business revenues and opportunities do not constitute personal property under the crime of theft. Finally, he argued that there is no violation of PD No. 401 because the PLDT lines were installed validly and the corresponding monthly service rentals were paid for. The lines were neither stolen nor tapped into PLDT's facility without the latter's knowledge.
+[22]
+ In reply, PLDT claimed that Planet Internet, as a VAS and IRS provider, is not authorized to provide telecommunications services to the public, such as international long distance calls, because it has no legislative franchise or a Certificate of Public Convenience and Necessity from the National Telecommunications Commission (NTC). Its reselling agreement with Eastern and Capwire would not suffice. Besides, reselling of telecommunications service is illegal and violative of NTC Memorandum Circular No. 8-11-85. PLDT likewise cited several cases filed before the DOJ sustaining PLDT's position, including 
+PLDT v. Federico Tiongson, et al
+., docketed as I.S. No. Psg. (1) 97-0925.
+[23]
+ 
+ Robertson, in his rejoinder, asserted that as VAS provider, Planet Internet does not need to secure a franchise or a Certificate of Public Convenience and Necessity since it does not lay out its own network. Also, a VAS provider is expressly allowed to competitively offer its services using cable facilities it leases from licensed carriers.
+[24]
+ 
+ In its Resolution
+[25]
+ dated June 28, 2002, the OCP Pasig dismissed the charges for insufficiency of evidence and filed a motion to withdraw the informations before the RTC. 
+ PLDT filed a motion for reconsideration, which the OCP Pasig also denied.
+[26]
+ Meanwhile, the RTC allowed the informations to be withdrawn.
+[27]
+ 
+ PLDT filed a petition for review
+[28]
+ before the DOJ. In its Resolution
+[29]
+ dated November 5, 2007, the DOJ denied PLDT's petition and affirmed the findings of the OCP Pasig. PLDT moved for reconsideration, pending which, it manifested
+[30]
+ to the DOJ that: 1) the CA in 
+PLDT v. Regional Trial Court, Branch 152, Pasig City, Rene Fernandez Lacson and Arnold Bata Julio
+, docketed as CA-G.R. SP No. 86466,
+[31]
+ had directed the RTC to proceed with the hearing of the criminal cases against Lacson and Julio; and 2) the Supreme Court had denied with finality Lacson and Julio's petition for review on 
+certiorari
+.
+[32]
+ 
+ On June 2, 2010, the DOJ denied PLDT's motion for reconsideration.
+[33]
+ 
+ Thereafter, PLDT filed a petition for 
+certiorari
+[34]
+ with the CA, alleging that the DOJ committed grave abuse of discretion in: 1) sustaining OCP Pasig's finding that PLDT's complaints were not sufficiently supported by evidence;
+[35]
+ and 2) issuing its resolutions despite the CA's prior decision in 
+PLDT v. Regional Trial Court, Branch 152, Pasig City, Rene Fernandez Lacson and Arnold Bata Julio
+ which constitutes
+ res judicata
+ on the existence of probable cause against petitioners.
+[36]
+ 
+ The CA granted the petition in its Decision
+[37]
+ dated January 31, 2011. The CA found probable cause for theft in petitioners' act of depriving PLDT of fees and tolls by routing and completing international long distance calls using lines, cables, antenna and/or air wave or frequency which connects directly to the local or domestic exchange facilities of PLDT and making it appear that the international calls were local calls. The CA held that Planet Internet's arguments that it is not involved in toll bypass operations because it is an authorized reseller of IGF services and that toll bypass does not constitute theft are matters of defense that should be proved during a full-blown trial.
+[38]
+ The CA also held that since there is probable cause that petitioners committed theft, there is also probable cause that they violated PD No. 401. PD No. 401 penalizes the illegal act of tampering telephone wires and pilfering the same with the use of devices. The search conducted by RISOO on Planet Internet's premises yielded an assortment of equipment used to attach to PLDT's phone lines to pilfer and manipulate the electrical impulses that constitute a telephone call.
+[39]
+ 
+ Finally, the CA held that the ruling in CA-G.R. SP No. 86466 does not constitute
+ res judicata
+ on the propriety of petitioners' indictment for theft and violation of PD No. 401. The issue in that case was whether the trial court gravely abused its discretion when it allowed the informations to be withdrawn without making its own determination of probable cause. This is different from the issue in this case, that is, whether there is probable cause to proceed with petitioners' indictment for theft and violation of PD No. 401.
+[40]
+ 
+ In its Resolution
+[41]
+ dated April 19, 2011, the CA denied petitioners' motion for reconsideration. Hence, this petition which argues that: 
+ 
+ 
+ 
+(1)
+ 
+ 
+PLDT did not cite why the DOJ resolution was fraught with grave abuse of discretion;
+[42]
+ 
+ 
+ 
+ 
+(2) 
+ 
+The DOJ resolution was not tainted with grave abuse of discretion as it duly considered the arguments of PLDT;
+[43]
+ and
+ 
+ 
+ 
+(3)
+ 
+The Decision of the CA also did not cite what grave abuse of discretion was committed by the DOJ.
+[44]
+ 
+ 
+ 
+ 
+ 
+The petition lacks merit. 
+ 
+ Petitioners argue that PLDT, in its petition before the CA, merely made general allegations of grave abuse of discretion without citing specific and concrete examples of arbitrariness on the part of the DOJ. Petitioners, in a nutshell, argue that PLDT erroneously raised questions of fact and errors of judgment. 
+ We disagree. A reading of the petition leads to no other conclusion than that the DOJ gravely abused its discretion in affirming the ruling of the OCP Pasig that there was no probable cause to charge petitioners with theft and a violation of PD No. 401. 
+ Grave abuse of discretion has been defined as such capricious and whimsical exercise of judgment as is equivalent to lack of jurisdiction. The abuse of discretion must be grave as where the power is exercised in an arbitrary or despotic manner by reason of passion or personal hostility and must be so patent and gross as to amount to an evasion of positive duty or to a virtual refusal to perform the duty enjoined by or to act at all in contemplation of law. "Capricious," usually used in tandem with the term "arbitrary," conveys the notion of willful and unreasoning action.
+[45]
+ 
+ Grave abuse of discretion refers not merely to palpable errors of jurisdiction; or to violations of the Constitution, the law and jurisprudence. It also refers to cases in which, for various reasons, there has been a 
+gross misapprehension of facts
+.
+[46]
+ It is on this score that questions of fact may inevitably be raised. 
+ In its petition for
+ certiorari 
+with the CA, PLDT alleged that the DOJ gravely abused its discretion in sustaining the dismissal by the OCP Pasig of PLDT's complaint on the ground of insufficiency of evidence. According to PLDT, the OCP Pasig disregarded evidence presented by PLDT, which, at the very least, 
+prima facie
+ showed that petitioners committed theft of PLDT's business and violated PD No. 401 when they engaged in illegal toll bypass operations.
+[47]
+ PLDT argued that the elements of toll bypass are present in this case: 1) Planet Internet is not a legitimate local exchange service operator; 2) Planet Internet provided international long distance service to the public using the network facilities of PLDT for the origination of the calls; 3) Planet Internet directly accessed the subscriber base of PLDT as the international long distance calls originated from PLDT's local exchange service area or from PLDT lines and numbers; 4) the international long distance calls provided by Planet Internet did not pass through or bypassed the public switch telephone network (PSTN) of PLDT; and 5) because the calls bypassed the PSTN of PLDT and thus, were not metered, PLDT was deprived of the compensation due it for the origination of international calls. PLDT emphasized that when international long distance calls are made using PLDT lines and numbers, PLDT's PSTN will route the outgoing international voice calls from source (
+i.e.
+ from a PLDT local dialing number) to the IGF of the applicable operator. By using the facilities of PLDT for the origination of the international long distance calls without paying the required access and hauling charges, Planet Internet deprived PLDT of compensation.
+[48]
+ PLDT further argued that the DOJ and the OCP Pasig disregarded the fact that Planet Internet and petitioners illegally installed and/or made unauthorized connections of various telecommunications equipment to PLDT's lines to enable the toll bypass activities of Planet Internet. Such unauthorized installation violated PD No. 401 and facilitated the illegal appropriation and use of PLDT's network and facilities.
+[49]
+ 
+ From the foregoing, we agree with the CA's exercise of judicial review over the findings of the DOJ. We also sustain its reversal of the DOJ ruling. 
+ We hasten to reiterate the deferential attitude we have adopted towards review of the executive's finding of probable cause. This is based not only upon the respect for the investigatory and prosecutorial powers granted by the Constitution to the executive department, but upon practicality as well.
+[50]
+ The determination of probable cause is a function that belongs to the public prosecutor and, ultimately, to the Secretary of Justice, who may direct the filing of the corresponding information or move for the dismissal of the case.
+[51]
+ However, the resolution of the Secretary of Justice may be subject of judicial review. The review will be allowed only when grave abuse of discretion is alleged.
+[52]
+ Probable cause, for purposes of filing a criminal information, has been defined as such facts as are sufficient to engender a well-founded belief that a crime has been committed and that respondent is probably guilty thereof, and should be held for trial. In determining probable cause, the average person weighs facts and circumstances without resorting to the calibrations of the rules of evidence of which he has no technical knowledge. He relies on common sense. 
+A finding of probable cause needs only to rest on evidence showing that, more likely than not, a crime has been committed and that it was committed by the accused. 
+Probable cause demands more than bare suspicion, but it requires less than evidence that would justify a conviction.
+[53]
+ A finding of probable cause does not require an inquiry as to whether there is sufficient evidence to secure a conviction. It is enough that the act or omission complained of constitutes the offense charged. The term does not mean "actual and positive cause" nor does it import absolute certainty. It is merely based on opinion and reasonable belief. A trial is intended precisely for the reception of prosecution evidence in support of the charge. The court is tasked to determine guilt beyond reasonable doubt based on the evidence presented by the parties at a trial on the merits.
+[54]
+ It is imperative, though, that in order to arrive at probable cause, the elements of the crime charged should be present.
+[55]
+ For theft to be committed in this case, the following elements must be shown to exist: (1) the taking by Planet Internet (2) of PLDT's personal property (3) with intent to gain (4) without the consent of PLDT (5) accomplished without the use of violence against or intimidation of persons or the use of force upon things.
+[56]
+ All these elements have been sufficiently averred in PLDT's complaint-affidavit and have sufficiently engendered a well-founded belief that a crime has been committed.
+ The test calls made by PLDT revealed that they were able to complete international calls, which were made to appear as local calls and were not recorded in the Call Details Records of PLDT's toll exchanges. This deprived PLDT of the appropriate charges due them. However, Planet Internet and petitioners take issue with categorizing the earnings and business as personal properties of PLDT. In 
+Laurel v. Abrogar,
+[57]
+ we have already held that the use of PLDT's communications facilities without its consent constitutes the crime of theft of its telephone services and business.
+[58]
+ As we have previously explained in 
+Worldwide Web Corp. v. People
+: 
+[59]
+ 
+ 
+ In 
+Laurel
+, we reviewed the existing laws and jurisprudence on the generally accepted concept of personal property in civil law as "anything susceptible of appropriation." It includes ownership of telephone services, which are protected by the penal provisions on theft. We therein upheld the Amended Information charging the petitioner with the crime of theft against PLDT inasmuch as the allegation was that the former was engaged in international simple resale (ISR) or "the unauthorized routing and completing of international long distance calls using lines, cables, antennae, and/or air wave frequency and connecting these calls directly to the local or domestic exchange facilities of the country where destined." We reasoned that since PLDT encodes, augments, enhances, decodes and transmits telephone calls using its complex communications infrastructure and facilities, the use of these communications facilities without its consent constitutes theft, which is the unlawful taking of telephone services and business. We then concluded that the business of providing telecommunications and telephone services is personal property under Article 308 of the Revised Penal Code, and that the act of engaging in ISR is an act of "subtraction" penalized under said article.
+[60]
+ (Citations omitted, italics in the original.) 
+ 
+ 
+ Here, aside from the allegation that Planet Internet had unauthorized use of PLDT telephone lines which enabled it to bypass PLDT's IGF facility, PLDT also complained of Planet Internet's bypass of its PSTN, unauthorized access of subscribers within the exclusive service area of PLDT, and use of PLDT's network facilities, without consent, in the origination of outgoing international calls. 
+ Moreover, toll bypass operations could not have been accomplished without the installation of telecommunications equipment to the PLDT telephone lines. Thus, petitioners may also be held liable for violation of PD No. 401, which penalizes the unauthorized installation of any telephone connection without previous authority from PLDT.
+[61]
+ The OCP Pasig, as affirmed by DOJ, found that Planet Internet was legally using PLDT lines legally installed to Planet Internet. However, the charge for violation of PD No. 401 was based on Planet Internet's unauthorized connection of telecommunications equipment to its PLDT telephone lines which enabled it to route outgoing international calls using PLDT lines, numbers, and facilities 
+without the required fees
+. The physical act of making unauthorized or illegal connections to subscribed PLDT telephone lines is precisely the act being complained of.
+ The OCP Pasig gave credence to Planet Internet's defense that it was authorized by Eastern and Capwire to resell their telecommunication service by connecting clients directly to either Eastern's or Capwire's IGF switching facility. Thus, while the international test calls made through Planet Internet by the representatives of PLDT did not pass to its IGF, these test calls, however, passed through Eastern and Capwire.
+ The OCP Pasig also noted PLDT's admission that although it is the biggest IGF operator of the country, there are other companies such as Capwire and Eastern that similarly provide the same services. PLDT also did not question the authority of Capwire and Eastern to resell their services to Planet Internet.
+ These counter-allegations, however, delve on evidentiary matters that are best passed upon in a full-blown trial. The issues upon which the charges are built pertain to factual matters that cannot be threshed out conclusively during the preliminary stage of the case. Precisely, there is a trial for the presentation of prosecution's evidence in support of the charge. The presence or absence of the elements of the crime is evidentiary in nature and is a matter of defense that may be passed upon after a full-blown trial on the merits. The validity and merits of a party's defense or accusation, as well as admissibility of testimonies and evidence, are better ventilated during trial proper than at the preliminary investigation level.
+[62]
+ By taking into consideration the defenses raised by petitioners, the OCP Pasig already went into the strict merits of the case.
+[63]
+ 
+ 
+WHEREFORE
+, the petition is 
+DENIED
+. The assailed Decision and Resolution of the Court of Appeals in CA-G.R. SP No. 115394 dated January 31, 2011 and April 19, 2011 are 
+AFFIRMED
+. 
+SO ORDERED.
+ 
+ S
+ereno, C.J., (Chairperson), Leonardo-De Castro, Del Castillo
+, and 
+Tijam, JJ.
+, concur. 
+ 
+[*]
+ Also referred to as "Maria Se Be Chiang" in some parts of the records. 
+[*]
+ Also referred to as "Carmelita Tuazon" in some parts of the records. 
+ 
+[1]
+ 
+Rollo
+, pp. 15-34.
+ 
+ 
+[2]
+ 
+Id.
+ at 35-62. Penned by Associate Justice Amy C. Lazaro-Javier, with Associate Justices Rebecca De Guia-Salvador and Sesinando E. Villon, concurring.
+ 
+ 
+[3]
+ 
+Id.
+ at 64.
+ 
+ 
+[4]
+ 
+Id.
+ at 78-81. 
+ 
+[5]
+ 
+Id.
+ at 82-84 
+[6]
+ 
+Id.
+ at 299. 
+ 
+[7]
+ 
+Id.
+ at 311-A-315. 
+ 
+[8]
+ 
+Id.
+ at 317-321. 
+ 
+[9]
+ Penalizing the Unauthorized Installation of Water, Electrical or Telephone Connections, the Use of Tampered Water or Electrical Meters, and Other Acts (1974), as amended: 
+ 
+ Sec. 1. Any person who installs any water, electrical, telephone or piped gas connection without previous authority from the Metropolitan Waterworks and Sewerage System, the Manila Electric Company, the Philippine Long Distance Telephone Company, or the Manila Gas Corporation, as the case may be, tampers and/or uses tampered water, electrical or gas meters, jumpers or other devices whereby water, electricity or piped gas is stolen; steals or pilfers water, electric or piped gas meters, or water, electric and/or telephone wires, or piped gas pipes or conduits; knowingly possesses stolen or pilfered water, electrical or gas meters as well as stolen or pilfered water, electrical and/or telephone wires, or piped gas pipes and conduits, shall, upon conviction, be punished with
+ prision correccional
+ in its minimum period or a fine ranging from two thousand to six thousand pesos, or both.
+ 
+ 
+ 
+[10]
+ 
+Rollo
+, pp. 311-A, 338-342. 
+ 
+[11]
+ 
+Id.
+ at 360-361 
+ 
+[12]
+ 
+Id.
+ at 79. 
+[13]
+ 
+Id.
+ at 69. 
+ 
+[14]
+ 
+Id.
+ at 204-218. 
+ 
+[15]
+ 
+Id.
+ at 206. 
+[16]
+ 
+Id.
+ at 68. 
+ 
+[17]
+ 
+Id.
+ at 68-69. 
+ 
+[18]
+ 
+Id.
+ at 429-434. 
+ 
+[19]
+ 
+Id.
+ at 435. 
+ 
+[20]
+ 
+Id.
+ at 69-70. 
+[21]
+ 
+Id.
+ at 426. 
+ 
+[22]
+ 
+Id
+. at 427. 
+[23]
+ 
+Id.
+ at 69-71. 
+ 
+[24]
+ 
+Id.
+ at 71. 
+ 
+[25]
+ 
+Id.
+ at 65-75. 
+ 
+[26]
+ 
+Id.
+ at 76-77. 
+ 
+[27]
+ Order dated August 6, 2002, as cited in 
+PLDT v. Regional Trial Court, Branch 152, Pasig City, Rene Fernandez Lacson and Arnold Bata Julio
+, CA-G.R. SP No. 86466, February 14, 2007. See 
+rollo
+, pp. 910-911. 
+[28]
+ 
+Id.
+ at 463-499. 
+ 
+[29]
+ 
+Supra
+ note 4. 
+ 
+[30]
+ 
+Rollo
+, pp. 896-903. 
+[31]
+ 
+Id.
+ at 905-925. Decision dated February 14, 2007. 
+ 
+[32]
+ 
+Id.
+ at 927, 929, 931-932. 
+ 
+[33]
+ 
+Supra
+ note 5. 
+ 
+[34]
+ 
+Rollo
+, pp. 85-141. 
+ 
+[35]
+ 
+Id.
+ at 101-102. 
+ 
+[36]
+ 
+Id.
+ at 102. 
+ 
+[37]
+ 
+Supra
+ note 2. 
+ 
+[38]
+ 
+Rollo
+, pp. 51-52. 
+[39]
+ 
+Id.
+ at 59-60. 
+[40]
+ 
+Id.
+ at 60-61. 
+ 
+[41]
+ 
+Supra
+ note 3. 
+ 
+[42]
+ 
+Rollo
+, p. 21. 
+ 
+[43]
+ 
+Id.
+ at 23. 
+[44]
+ 
+Id.
+ at 25. 
+ 
+[45]
+ OlaÃ±o v. Lim Eng Co
+, G.R. No. 195835, March 14, 2016, 787 SCRA 272, 285. Citations omitted. 
+ 
+[46]
+ 
+Tan, Jr. v. Matsuura
+, G.R. No. 179003, January 9, 2013, 688 SCRA 263, 288. Italics supplied, citation omitted. 
+ 
+[47]
+ 
+Rollo
+, pp. 101-102. 
+[48]
+ 
+Id.
+ at 109-110. 
+ 
+[49]
+ 
+Id.
+ at 111. 
+[50]
+ 
+ABS-CBN Corporation v. Gozon
+, G.R. No. 195956, March 11, 2015, 753 SCRA 1, 30-31. 
+ 
+[51]
+ 
+Ty v. De Jemil
+, G.R. No. 182147, December 15, 2010, 638 SCRA 671, 684-685. 
+ 
+[52]
+ 
+United Coconut Planters Bank v. Looyuko
+, G.R. No. 156337, September 28, 2007, 534 SCRA 322, 331. 
+ 
+[53]
+ 
+Clay & Feather International, Inc., v. Lichaytoo
+, G.R. No. 193105, May 30, 2011, 649 SCRA 516, 523. Citation omitted, italics supplied. 
+[54]
+ 
+Id.
+ at 523-524. Citations omitted. 
+[55]
+ 
+Hasegawa v. Giron
+, G.R. No. 184536, August 14, 2013, 703 SCRA 549, 560. 
+ 
+[56]
+ 
+Worldwide Web Corp. v. People
+, G.R. No. 161106, January 13, 2014, 713 SCRA 18, 42, citing 
+Avecilla v. People
+, G.R. No. 46370, June 2, 1992, 209 SCRA 466, 472. 
+ 
+[57]
+ G.R. No. 155076, January 13, 2009, 576 SCRA 41. 
+[58]
+ 
+Id.
+ at 57. 
+ 
+[59]
+ 
+Supra 
+note 56. 
+ 
+[60]
+ 
+Id.
+ at 43-44.
+ 
+[61]
+ 
+Id.
+ at 25.
+ 
+[62]
+ 
+Clay & Feather lnternational, Inc., v. Lichaytoo
+, 
+supra
+ note 53 at 525-526. 
+[63]
+ 
+Hasegawa v. Giron
+, 
+supra
+ note 55 at 562. 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

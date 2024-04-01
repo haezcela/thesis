@@ -1,0 +1,1351 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			702 Phil. 210
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 166967, January 28, 2013 ]
+
+
+EDNA J. JACA, PETITIONER , VS. PEOPLE OF THE PHILIPPINES AND THE SANDIGANBAYAN, RESPONDENTS. 
+[G.R. NO. 166974]
+ ALAN C. GAVIOLA, PETITIONER, VS. PEOPLE OF THE PHILIPPINES, RESPONDENT. 
+[G.R. NO. 167167]
+ EUSTAQUIO B. CESA, PETITIONER, VS. PEOPLE OF THE PHILIPPINES, RESPONDENT.
+D E C I S I O N
+
+
+
+
+BRION, J.:
+
+
+Before the Court are the petitions for review on 
+certiorari
+[1]
+ assailing the December 16, 2004 decision
+[2]
+ and the February 1, 2005 resolution
+[3]
+ of the Sandiganbayan in Criminal Case No. 24699, finding Alan C. Gaviola, Edna J. Jaca, Eustaquio B. Cesa (collectively, 
+petitioners
+) and Benilda N. Bacasmas guilty of violating Section 3(e) of Republic Act (RA) No. 3019.
+[4]
+ANTECEDENT FACTS
+The petitioners occupied appointive positions in the different divisions of the Cebu City government at the time material to the controversy: Gaviola was the City Administrator;
+[5]
+ Cesa was the City Treasurer;
+[6]
+ Bacasmas was the Chief Cashier of the Cash Division, which is under the Office of the City Treasurer, and Jaca was the City Accountant.
+[7]
+The steps followed in the grant of cash advances to a paymaster in the Cebu City government are as follows:
+Processing of payment:
+a. 
+Paymasters request for cash advance
+ and prepare cash advance disbursement vouchers (voucher) to be submitted to the Chief Cashier, as head of Cash Division;
+b. Chief Cashier
+affixes her initials on Box A of the voucher; and
+forwards the voucher to the City Treasurer if he sees that the vouchers and its supporting documents are in order.
+c. City Treasurer affixes his signature on box A. Description of Box A is as follows:
+âBOX Aâ â Certified â Expense, cash advances 
+necessary, lawful
+ and incurred under my direct supervision.
+d. The voucher is then forwarded to the City Accountant for processing (recording) and pre-audit procedure. The City Accountant signs BOX B described as follows:
+âBOX Bâ â Certified, Adequate available funds/budgetary allotment in the amount of P , expenditures properly certified,
+ supported by documents marked (x) per checklist on back hereof
+, account under checklist on back hereof, account codes proper, 
+previous cash advance liquidated/accounted for
+.
+e. City Accountant prepares and attaches an accountantâs advice to the voucher.
+f. The voucher and the accountantâs advice are returned to Chief Cashier for preparation of check.
+g. Chief Cashier prepares the check and initials/countersigns the check
+h. City Treasurer signs the check ?
+i. The voucher is forwarded to City Administrator for approval on Box C.
+City Administratorâs Internal Control Office (ICO) reviews the supporting documents, and if in order, will recommend its approval.
+City Administrator approves BOX C of the voucher and countersigns the check.
+j. The voucher, check and the accountantâs advice are returned to Cash Division.
+k. Paymaster signs the receipt portion of the voucher and the warrant/check register to acknowledge receipt of the check for encashment later at a bank.
+Payment
+a. The paymaster and the Cash Division prepare a report of disbursement of payrolls paid and supporting papers and record it in the official cashbook;
+b. COA auditors go to Cash Division to examine, check and verify the reports of disbursements, payrolls, cashbook and other supporting documents;
+c. Cashier forwards report and supporting papers to City Accountant for recording and posting.
+On March 4, 1998, City Auditor Rodolfo Ariesga created a team of auditors, with the task of conducting a surprise audit
+[8]
+ of the cash and other accounts handled by all accountable officers assigned at the Cash Division, Office of the City Treasurer. Among these disbursing officers was Rosalina G. Badana, who was the paymaster in charge of paying the salaries of the employees in eight (8) different departments or offices in the Cebu City government.
+[9]
+While Badana reported for work in the early morning of March 5, 1998, she immediately left upon learning of the planned surprise audit to be conducted that day; she has not reported for work since.
+[10]
+The audit teamâs cash examination covered the period from September 20, 1995 to March 5, 1998. Cecilia Chan and Cecilia Tantengco, the audit team leader and assistant team leader, respectively, conducted an examination of the cash and other accounts in Badanaâs custody.
+[11]
+ The audit team reported that Badana incurred a cash shortage of P18,527,137.19. Based on the procedure in the processing of cash advances, the audit team found out that the failure of the petitioners to observe the provisions of Presidential Decree (
+PD
+) No. 1445,
+[12]
+ RA No. 7160
+[13]
+and the rules and regulations governing the grant, utilization and liquidation of cash advances under Commission on Audit (
+COA
+) Circular Nos. 90-331, 92-382 and 97-002 âfacilitated, promoted, if not encouraged, the commission of malversation of public funds[.]â
+[14]
+On March 13, 1998, Cebu City Mayor Alvin Garcia filed with the Office of the Ombudsman-Visayas (Ombudsman)
+[15]
+ a complaint against Badana for malversation of public funds and for violation of RA Nos. 3019 and 6713.
+[16]
+ The complaint resulted in administrative and criminal investigations.
+[17]
+On April 3, 1998, the Ombudsman 
+motu proprio
+ required the petitioners and Bacasmas to submit their respective counter-affidavits and countervailing evidence.
+[18]
+ On July 1, 1998, the Ombudsman charged the petitioners and Bacasmas with violation of Section 3(e) of RA No. 3019
+[19]
+ before the Sandiganbayan under the following Information:
+[20]
+That on or about the 5
+th
+ day of March 1998, and for [sometime] prior thereto, at Cebu City, Philippines, and within the jurisdiction of this Honorable Court, above-named accused, public officers, having been duly appointed to such public positions above-mentioned, in such capacity and committing the offense in relation to Office, conniving and confederating together and mutually helping xxx each other, with deliberate intent, with manifest partiality, evident bad faith and with gross inexcusable negligence, did then and there allow Rosalina G. Badana, Cashier I of the Cebu City Government to obtain cash advances despite the fact that she has previous unliquidated cash advances, thus allowing Rosalina G. Badana to accumulate Cash Advances amounting to P18,522,361.96, Philippine Currency, which remains unliquidated, thus accused in the performance of their official functions, had given unwarranted benefits to Rosalina G. Badana and themselves, to the damage and prejudice of the government, particularly the Cebu City Government.
+On July 2, 1998, the COA Regional Office No. VII (COA Regional Office) submitted a Narrative Report on the Results of the Examination of the Cash Accounts (
+COA Report
+) of Badana.
+[21]
+ Pertinent portions of the COA Report read:
+âA.1. During the period [between] September 20, 1995 to March 5, 1998, records show that additional cash advances were granted, even if the previous cash advances were not yet liquidated. For example in the Trust Fund, a cash advance of Php800,000 was granted on December 8, 1997 even if Ms. Badana has an unliquidated cash advance balance of Php4,940,065.50 as of November 20, 1997 (Annex 19). The situation was true in granting all other cash advances from September 20, 1995 to March 5, 1998.
+Another example in the General fund, cash advance of Php1,000,000.00 was granted on December 1, 1997 even if the unliquidated balance of Ms. Badana as of November 28, 1997 was Php8,469,054.19 (Annex 20). The situation is likewise true in granting all other cash advances during the same period mentioned in the preceding paragraph. This practice resulted in excessive granting of cash advances which created the opportunity to misappropriate public funds since idle funds were placed in the hands of the paymasters under their control and custody.
+The practice is in violation of Section 89, PD 1445; Section 339, RA 7160 and paragraph 4.1.2 of COA Circular No. 97-002 resulting [in the] accumulation of excess cash in the custody of the accountable officer.
+A.2 The following practices also facilitated the incurrence of the shortage:
+The amount of cash advance for salary payments was not equal to the net amount of the payroll for a pay period in violation of par. 4.2.1, COA Cir. No. 90-331, Section 48(g), COA Cir. No. 92-382 and par. 4.2.2, COA Cir. No. 97-002.
+All disbursement vouchers covering the cash advances were not supported by payrolls or list of payees to determine the amount of the cash advance to be granted in violation of par. 4.2.2, COA Cir. No. 90-331. Ms. Rosalina G. Badana, who was assigned as paymaster to eight different offices/departments with a total monthly payroll of P5,747,569.96 (Annex 21) was granted an average monthly cash advance of P7,600,000.00 (Annex 22) or an excess of P1,900,000.00 monthly. As a result, idle funds were again placed in the hands and the total control of the Paymaster.
+The face of the disbursement voucher (sample voucher marked as annex 23) did not indicate the specific legal purpose for which the cash advance was granted in violation of par. 4.1.5 COA Cir. No. 90-331, Section 48(e) COA Cir. 92-382 and par. 4.1.7 COA Cir. No. 97-002. It is so because all disbursement vouchers covering the granting of cash advances to the paymaster did not show the office/department, the number of payees and the payroll period covered by the cash advance. The city officials signed, certified and approved these vouchers despite the aforementioned deficiencies. It makes difficult to identify which liquidating report pertains to what particular cash advance, thus contributing to the opportunity to misappropriate the funds.
+ The provisions of par. 5.1.1 COA Cir. 90-331 and 97-002 and Section 48.k of COA Cir. No. 92-382 on the liquidation of cash advances within 5 days after the end of the month pay period was not followed due to the existing practice/procedure in the granting of cash advancesâ¦ Likewise, unliquidated cash advance balance (audited) at the end of December 31, 1997 amounted to P15,553,475.61 consisting of P11,690,639.44 and P3,862,836.17 for General and Trust Fund respectively, in violation of par. 5.8 COA Cir. Nos. 90-331 and 97-002 and Section 48 (o) COA Cir. No. 92-382, resulting in the accumulation of unliquidated cash advances.
+In January 1998, the paymaster was granted cash advances before the foregoing unliquidated balance (audited) was settled. Detail as follows:
+ 
+ 
+Date 
+ 
+Check No. 
+ 
+Amount of Cash Advance Granted 
+ 
+Amount of Cash Returns
+ 
+ 
+ 
+1/05/98 
+ 
+852367
+ 
+ 
+P2,000,000.00
+ 
+ 
+ 
+ 
+1/08/98 
+ 
+25983919
+ 
+P1,000,000.00
+ 
+ 
+ 
+ 
+ 
+1/09/98
+ 
+ 
+ 
+P2,000,000.00
+ 
+ 
+ 
+1/09/98 
+ 
+ 
+ 
+P18,846.00
+ 
+ 
+ 
+1/12/98
+ 
+852430
+ 
+P1,000,000.00
+ 
+ 
+ 
+ 
+1/12/98
+ 
+ 
+____________
+ 
+P2,000,000.00
+ 
+ 
+ 
+ 
+Total
+ 
+P4,000,000.00
+ 
+P4,018,846.00
+ 
+ 
+It appears that the new cash advance of Php4,000,000.00 was used to liquidate partially the previous yearâs unliquidated balance of P15,553,475.61 in violation of par. 4.1.5 COA Cir. 90-331, Section 48.e of COA Cir. 92-382 and par. 4.1.7 of COA Cir. 97-002.
+As discussed in letter âCâ above, accounting records show that these cash advances were granted and taken up in January, 1998 while the cash returns made after granting these cash advances were taken up in December, 1997. This is contrary to the generally accepted principles of Time period which requires that accounting should be time bounded[;] meaning cut-off date should be properly and strictly observed.
+Submission of financial reports and its supporting schedules and vouchers/payrolls by the Accounting Division was very much delayed (Annex 25) in violation of Section 122, PD 1445 despite of several communications from the Auditor, latest of [(]which is attached as Annex 26[)] thus verification and reconciliation on the paymasterâs accountability cannot be determined immediately.
+x x x x
+C. The following practices led to the concealment of the shortage of P18,527,137.19 from the September 20, 1995 to March 5, 1998:
+Accounting practices which resulted in inaccurate and misleading information in the financial statements in violation of Section 111, PD 1445 are enumerated below:
+Cash returns in January, 1998 were recorded as credits to accountability in December, 1997 amounting to P4,018,846.00 as follows:
+x x x x
+In effect, the balance of unliquidated cash advances as of December 31, 1997 was understated.
+Some liquidations/disbursements in January, 1998 were included as credits to accountability in December, 1997 amounting to P1,974,386,45 Details are as follows:
+x x x x
+x x x As a result, the unliquidated cash advances as of December 31, 1997 is understated by P1,974,386.45.
+Verification of accounting records maintained in the Accounting Division revealed that the index cards as a control device in the processing of cash advance voucher recorded only cash advances granted to paymasters (Annex 24). It failed to show the liquidation/disposition of public funds. Hence, unliquidated balance of cash advances cannot be determined instantly when a cash advance voucher is being processed by the accounting personnel.
+Summarizing par. a and b, the total understatement to Ms. Badanaâs unliquidated cash advances per accounting records as of December 31, 1997 amounted to P5,993,232.45 for the General Fund. This practice is in violation of Section 111 of PD 1445. The financial statements appeared inaccurate and misleading because of âwindow dressing.â
+Presentation of paid payrolls and vouchers already recorded in the cash book/subsidiary ledgers as cash items thus misleading the auditors into believing them as valid cash items. There is untruthful presentation of facts constituting deceit or fraud.
+The scheme is explained below.
+Paid payrolls and vouchers already recorded in the cashbook and in the subsidiary ledgers were presented as cash items during the count on May 13, 1996, November 27, 1996, June 9, 1997 and November 19, 1997. These cash items were treated as credits to her accountability, thereby reducing her accountability and consequently concealing her shortage. This scheme was made possible as the paymaster can readily have access to paid payrolls and vouchers x x x. The following facilitated the use of fraudulent scheme:
+1.1 The paid payrolls and vouchers were placed in an unlocked box (carton) under the table of the bookkeeper.
+1.2 The paymaster was allowed to get/retrieve paid payrolls and vouchers from the said box kept by the bookkeeper.
+1.3 Failure of the Disbursing officer to stamp âPAIDâ all paid payrolls and vouchers. This is a control measure to avoid re- use or recycling of documents.
+The accountable officer resorted to the scheme abovementioned with the intention of claiming double credit when in truth and in fact, she had been credited already of said transactions: These are the following:
+ 
+ 
+Date 
+ 
+Amount
+ 
+ 
+ 
+May 13, 1996 
+ 
+P3,016,239.07
+ 
+ 
+ 
+Nov. 27, 1996 
+ 
+P5,983,102.94
+ 
+ 
+ 
+June 9, 1997 
+ 
+P7,959,677.07
+ 
+ 
+ 
+Nov. 19, 1997 
+ 
+P12,438,954.88
+ 
+ 
+In effect, as early as May 13, 1996 and subsequently thereafter, she had already incurred shortages but was able to conceal them through deceit and fraudulent means as explained aboveâ¦.
+[22]
+The petitioners moved for reinvestigation; the prosecution interposed no objection, provided that the petitionersâ motions would be treated as a motion for reconsideration of the Ombudsmanâs resolution directing the filing of information.
+[23]
+ The prosecution manifested that, upon its recommendation, the Ombudsman resolved to maintain the information.
+[24]
+On arraignment,
+[25]
+ the accused pleaded not guilty.
+[26]
+ During the pre- trial of December 7, 1999, the prosecution and the petitioners entered into a stipulation of facts:
+That at all times material to this case, all of the accused are public officials of the City of Cebu.
+x x x x
+ That the cash advance voucher has three boxes: Box A, Box B, and Box C.
+That Box A is to be signed by the head of the office requesting the cash advance;
+That Box B is to be signed by the head of the office which would conduct pre-audit of the cash advances;
+That Box C is to be signed by the person of authority who will finally approve the cash advances.
+[27]
+The prosecution presented Ariesga and Chan as its witnesses. Relying on the audit teamâs findings, the prosecution claimed that the shortage was incurred due to the failure of Badana and of the petitioners to comply with the laws, rules and regulations governing the granting, utilization and liquidation of cash advances.
+[28]
+ For one, the vouchers for cash advances lacked an indication of the specific purpose for which an amount was being requested; the office or department to be paid, the number of payees, and the payroll period to be paid were not specified.
+[29]
+ For another, the amounts requested were not equal to the amount of payroll for the pertinent pay period; the vouchers covering the cash advances for the payment of government employees were not supported by payrolls for a proper determination of the amount needed for the purpose. Thus, although the monthly payroll of the eight departments within Badanaâs responsibility required more than P5 million, the cash advance granted for each month averaged more than P7 million. Also, the petitioners repeatedly affixed their signatures and allowed the disbursement of public funds through cash advances, regardless of previous unliquidated cash advances.
+[30]
+ Cash advances were not liquidated within the period prescribed by law, enabling the use of subsequent cash advances to liquidate previous cash advances.
+Meanwhile, the Ombudsman rendered a decision
+[31]
+ in the administrative aspect of the case, finding Jaca and Cesa guilty of
+ simple neglect 
+of duty and imposed on them the penalty of suspension for six (6) months. The case against petitioner Gaviola was dismissed for being moot and academic. On Cesaâs appeal, the Court of Appeals and, eventually, this Court sustained the Ombudsmanâs ruling.
+SANDIGANBAYANâS RULING
+On December 16, 2004, the Sandiganbayan promulgated its decision
+[32]
+ finding the petitioners and Bacasmas guilty as charged. The Sandiganbayan held the petitioners solidarily liable to the Cebu City government for the amount of P18,527,137.19.
+The Sandiganbayan ruled that all the elements under Section 3(e) of R.A. No. 3019 were established by the prosecution: 
+first
+, the petitioners are all public officials; 
+second
+, the public officials committed the prohibited acts during the performance of their official duties;
+ third
+, based on the audit teamâs examinations, the undue injury suffered by the government amounted to P18,527,137.19 â the amount of Badanaâs accumulated shortage; 
+fourth
+, the petitioners gave unwarranted benefits to Badana, which resulted in undue injury to the government, by illegally allowing her to obtain cash advances; and 
+fifth
+, the petitioners acted with gross inexcusable negligence in the performance of their duties. The Sandiganbayan relied largely on the COA Report to support a finding that the Cebu City government lost the amount of P18,527,137.19 under the petitionersâ collective watch.
+The Sandiganbayan explained that while the information charged and recited all the modes of violating Section 3(e) of RA No. 3019, the prosecution is only required to prove any of these modes to warrant conviction. The Sandiganbayan held:
+ACCORDINGLY
+, accused ALAN C. GAVIOLA, EUSTAQUIO B. CESA, BENILDA N. BACASMAS and EDNA J. JACA are found guilty beyond reasonable doubt of having violated Sec. 3(e) of RA 3019; and each accused is sentenced to suffer the indeterminate penalty of twelve (12) years and one day as minimum and fifteen (15) years as maximum, with the accessory penalty of perpetual disqualification from public office. These Accused are directed to indemnify jointly and severally the City Government of Cebu the amount of Eighteen Million Five Hundred Twenty-Seven Thousand One Hundred Thirty-Seven and 19/100 Pesos (Php18,527,137.19).
+[33]
+The petitioners separately moved for reconsideration,
+[34]
+ but the Sandiganbayan denied their motions on February 1, 2005.
+[35]
+ Hence, these present petitions.
+THE PETITIONERSâ ARGUMENTS
+Due to the (i) commonality of the factual circumstance that led to the petitionersâ prosecution and conviction, as well as (ii) the different positions occupied by each of the petitioners, various and varied arguments were submitted. We narrate these arguments based on the positions of each of the petitioners.
+a. The hierarchical positions occupied
+i. Cesa as City Treasurer
+Cesa argues that he simply adhered to the procedure long observed and prevailing at the time of (and even prior to) his assumption of office as City Treasurer. In the processing of cash advance vouchers coming from the Cash Division, the divisionâs chief â Bacasmas â first determines that the voucher and its supporting documents are in order before Cesa affixes his signature on Box A.
+Under RA No. 7160, City Treasurers cease to be an approving authority in the grant of cash advances. It is the City Accountant who can approve or disapprove cash advances or disbursements. The City Treasurerâs previous function of pre-audit and internal audit functions are now vested with the City Accountant. He claims that he signed Box A as a requesting party and not as approving authority.
+ii. Jaca as City Accountant
+Jaca argues that strict compliance with prior and complete liquidation of Badanaâs previous cash advances is âimpractical and unrealistic.â
+[36]
+ About half of the Cebu City governmentâs employees are weekly-paid and the rest are paid at the middle and at the end of the month (
+quincena
+ basis) â a practice within the power of the Chief Executive, not the City Accountant, to determine,
+[37]
+ and which has long been observed before he became City Accountant. This set up resulted in a situation where, before she can process the liquidation and posting of a previous cash advance, another request for a subsequent cash advance already comes in; the request has to be acted upon if only to avoid delay in the payment of salaries.
+[38]
+While she certified that Badana had liquidated her previous cash advances, she had previously informed Cesa and the City Auditor (at that time) of the unliquidated cash advances.
+[39]
+iii. Gaviola as City Administrator
+Gaviola argues that he affixed his signature on Box C of the vouchers because the City Accountant had earlier certified that Badanaâs previous cash advances were liquidated and accounted for. For him, the approval of vouchers was a ministerial act done not only after the City Accountant had pre-audited the vouchers (by affixing her signature in Box B), but after the Internal Control Office
+[40]
+ and a member of his staff, Virginia PeÃ±a, had determined the regularity of the vouchers and their attachments.
+[41]
+ Gaviola avers that the prosecution failed to present evidence to show the absence of supporting documents when he affixed his signature on the vouchers. He adds that his duties do not impose upon him accountability for the funds entrusted to Badana or the City Treasurer; neither is he tasked with pre-audit activities nor with the record keeping of a paymasterâs accountabilities.
+The following are the defenses common to the petitioners:
+b. Good faith in affixing their signatures 
+to the disbursement vouchers     
+The petitioners invoked good faith in affixing their signatures to the disbursement vouchers. They deny any knowledge of Badanaâs shortages until after the surprise audit was conducted on March 5, 1998.
+They argue that since the COA did not send them any notice of disallowance of Badanaâs cash advances,
+[42]
+ despite the COAâs semestral cash examination, they had the right to presume regularity in Badanaâs performance of her job as paymaster.
+c. Fatally defective information
+The petitioners argue that the information is fatally defective for violating their right to be informed of the nature and cause of accusation against them. The prosecution could not have validly alleged that the petitioners committed the offense âwith deliberate intent, with manifest partiality, evident bad faith 
+and
+ with gross inexcusable negligenceâ
+[43]
+ since these several modes of committing the crime are inconsistent with each other; the violation is more so when one considers the prosecutionâs allegation of conspiracy, which presupposes intent and the absence of negligence.
+[44]
+ Because of this serious flaw in the information, the information effectively charged no offense for which they can be convicted.
+Cesa particularly assails the validity of the information because the preliminary investigation which preceded its filing was allegedly fatally defective. Cesa argued that the Ombudsman cannot 
+motu proprio
+ require him to submit his counter-affidavit in the preliminary investigation without any prior complaint against him.
+[45]
+d. Evidence
+The petitioners argue that the prosecution witnesses were incompetent to testify. On the one hand, Ariesga did not actually prepare the COA Report, but merely received it from the persons who did the actual audit and thereafter submitted it to the COA Regional Office. On the other hand, while Chan is the head of the audit team, she did not actually conduct the cash examination and audit of Badanaâs accountabilities. In view of the incompetence of the prosecution witnesses, the Sandiganbayan should not have admitted, much less relied on, the COA Report as its contents are all hearsay.
+e. Proof beyond reasonable doubt and the elements of 
+Section 3(e) of RA No. 3019 were not established.
+Since the petitioners received no prior notice of disallowance from the auditors of the COA at the time material to the controversy, then the petitioners could not have been charged with knowledge of Badanaâs previous unliquidated cash advances. This lack of knowledge negates the element of âgiving unwarranted benefits or causing undue injury.â
+[46]
+Particularly, Cesa argues that the existence of unliquidated cash advances was not established because there has been no complete cash examination, audit and post audit of Badanaâs accountability, citing 
+Madarang v. Sandiganbayan
+.
+[47]
+ Neither was âundue injuryâ established since, as previously argued, the COA Report is hearsay. Also, the fact that no government employee complained of not being paid his salary/receivables only shows that no party was ever unduly injured.
+OSPâs COMMENT
+The Office of the Special Prosecutor (
+OSP
+) prays for the denial of the petitions on the ground that the issues raised in the petitions are factual in nature and, hence, not covered by Rule 45 of the Rules of Court. The OSP defends the validity of the information, arguing that there is nothing inconsistent in the allegations because gross inexcusable negligence also connotes conscious indifference to duty, and not mere inadvertence. While conspiracy necessitates intent, conspiracy does not negate gross inexcusable negligence, as recognized in 
+Sistoza v. Desierto
+.
+[48]
+On the merits, the OSP asserts that no amount of good faith can be appreciated for adhering to a practice if this practice is illegal. As a certified public accountant and a former state auditor himself, Cesaâs familiarity with the pertinent laws and regulations should have cautioned him against making a certification in Box A.
+Delay in the payment of salaries cannot be used as an excuse to violate the law and pertinent COA regulations. Jacaâs repeated certification in Box B of the vouchers despite the lack of liquidation of prior cash advances establishes her gross inexcusable negligence in the performance of her duties.
+Unlike in 
+Sistoza
+, the vouchers Gaviola signed: (i) were on their face palpably irregular for lack of entries required by law - 
+i.e
+., the net amount of payroll to be paid, the intended payees and the period covered by the payroll; and, (ii) lacked supporting documents. Gaviola failed to substantiate his claim that he signed the vouchers with supporting documents. None of the documents alleged to have supported the vouchers were presented. In contrast, Chanâs finding and unbiased testimony (that the vouchers were signed without supporting documents) enjoy the presumption of regularity.
+The petitionersâ claim of good faith has no basis, considering that the procedure they adopted in approving the disbursement vouchers was made in violation of existing laws and COA circulars. Also, Ariesga and Chan are competent to testify on the COA Report as they were part of, and directly participated in, the audit process.
+OUR RULING
+We 
+deny
+ the petitions.
+At the outset, we emphasize that, as a rule, the Court does not review factual questions under Rule 45 of the Rules of Court. In appeals from the Sandiganbayan, only questions of law and not issues of fact may be raised. Issues raised before the Court on whether the prosecutionâs evidence proved the guilt of the accused beyond reasonable doubt, whether the presumption of innocence was properly accorded the accused, whether there was sufficient evidence to support a charge of conspiracy, or whether the defense of good faith was correctly appreciated are all, in varying degrees, questions of fact. As a rule, the factual findings of the Sandiganbayan are conclusive on this Court, subject to limited exceptions.
+[49]
+ We find none of these exceptions in the present case.
+The information is valid
+Pursuant to the constitutional right of the accused to be informed of the nature and cause of the accusation against him,
+[50]
+ the Revised Rules of Court
+[51]
+ require, 
+inter alia
+, that the information state the designation of the offense given by the statute and the acts or omissions imputed which constitute the offense charged.
+[52]
+ Additionally, it requires that these acts or omissions and their attendant circumstances âbe stated in ordinary and concise languageâ and âin such form as is sufficient to enable a person of common understanding to know what offense is intended to be charged and enable the court to pronounce proper judgment.â
+[53]
+ As long as the crime is described in intelligible terms and with such particularity and reasonable certainty that the accused is duly informed of the offense charged, then the information is considered sufficient. In particular, whether an information validly charges an offense depends on whether the material facts alleged in the complaint or information shall establish the essential elements of the offense charged as defined in the law. The 
+raison dâetre 
+of the requirement in the Rules is to enable the accused to suitably prepare his defense.
+[54]
+Admittedly, the prosecution could have alleged in the information the mode of committing a violation of Section 3(e) of RA No. 3019 with technical precision by using the disjunctive term âorâ instead of the conjunctive term âand.â Nonetheless, in the early case of 
+Gallego, et al. v. Sandiganbayan,
+[55]
+ the Court already clarified that the phrases âmanifest partiality,â âevident bad faithâ and âgross inexcusable negligenceâ are merely descriptive of the different modes by which the offense penalized in Section 3(e) of RA No. 3019 may be committed, and that the use of all these phrases in the same information does not mean that the indictment charges three distinct offenses.
+Notably, a violation of Section 3(e) of R.A. No. 3019 may be committed either by 
+dolo
+, as when the accused acted with evident bad faith or manifest partiality, or by 
+culpa
+ as when the accused committed gross inexcusable negligence.
+[56]
+ Unlike in the commission of ordinary felonies however, the law requires that the intent or negligence, which must attend the commission of the prohibited acts under Section 3(e) of RA No. 3019, should meet the 
+gravity
+ required by law. Thus, in construing these phrases, the Court observed that bad faith or partiality, on the one hand, and negligence, on the other hand, 
+per se
+ are not enough for one to be held criminally liable under the law; that the bad faith or partiality is evident or manifest, or, that the negligent act or omission is gross 
+and
+ inexcusable must be shown.
+[57]
+Gross inexcusable negligence is negligence characterized by the want of even slight care; acting or omitting to act in a situation where there is a duty to act, not inadvertently but 
+willfully and intentionally
+, with a conscious indifference to consequences in so far as other persons may be affected. It is the omission of that care which even inattentive and thoughtless men never fail to take on their own property;
+[58]
+ in cases involving public officials, it takes place only when breach of duty is flagrant and devious.
+[59]
+Considering the countless scenarios that may fall under the provisions of Section 3 of RA No. 3019, particularly paragraph e, and the avowed purpose of the law to repress certain acts of public officers constituting graft or corrupt practices or leading thereto,
+[60]
+ the law considers the gravity of the bad faith (or partiality) or negligent act or omission as a mode to commit the violation of Section 3(e) of RA No. 3019. In requiring the negligence to be both gross 
+and
+ inexcusable, the law demands the neglect or disregard of duty to be willful and intentional in order for a violation to exist, although it may fall short of the required degree of bad faith, which must be evident, or of partiality, which must be manifest.
+Contrary to the petitionersâ claims, gross inexcusable negligence, on one hand, and evident bad faith or manifest partiality, on the other hand, are not two highly opposite concepts that can result in a fatally defective information should the terms be conjoined in the information. The fact that the prosecution can properly allege these different modes alternatively in the information only means that the conviction may lie based simply on the evidence that is supportive of a particular mode.
+[61]
+ Significantly, aside from the petitionersâ polemics, they have not shown how their right to be
+informed of the nature and cause of accusation against them has actually been violated; in fact, they advanced no claim that the wordings in the information prevented them from preparing their defense.
+We likewise cannot support Cesaâs argument challenging the validity of the information for being a product of an invalid preliminary investigation. Suffice it to state that he had already advanced this argument in opposing the prosecutionâs motion for the suspension of the petitioners
+ pendente lite.
+ The Sandiganbayan granted the prosecutionâs motion and ordered the preventive suspension of the petitioners who questioned the Sandiganbayanâs action on 
+certiorari
+.
+In a February 28, 2001 Resolution, the Court dismissed the petition for 
+certiorari 
+for the petitionersâ failure to establish grave abuse of discretion on the part of the Sandiganbayan. Effectively, therefore, the Court passed upon and upheld the validity of the proceedings that led to the filing of the information below.
+[62]
+ Under the doctrine of the law of the case, our earlier ruling continues to be the rule governing the same proceeding where the petitioners have been accused before and convicted by the Sandiganbayan.
+[63]
+COA Report is not hearsay evidence
+Basic under the rules of evidence is that a witness can only testify on facts within his or her personal knowledge.
+[64]
+ This personal knowledge is a substantive prerequisite in accepting testimonial evidence establishing the truth of a disputed fact.
+[65]
+ Corollarily, a document offered as proof of its contents has to be authenticated in the manner provided in the rules, that is, by the person with personal knowledge of the facts stated in the document.
+[66]
+The petitioners dispute the competence of both Ariesga and Chan to testify on the contents of the COA Report: allegedly, they are not the ones who conducted the actual audit of Badanaâs accountabilities. While this claim may be asserted against Ariesga,
+[67]
+ the same conclusion does not hold true with respect to Chan and her testimony. In fact, Chan (together with Tantengco) was specifically assigned to audit the cash and accounts of Badana. On cross-examination, Chan testified:
+ 
+ 
+Q:
+ 
+ 
+Were you actually the one who conducted the cash examination?
+ 
+ 
+ 
+A: 
+ 
+I assisted Mrs. Cecilia Tantengco
+ in the cash counts and in the gathering of the documents 
+and also in the preparation of the report
+.
+ 
+ 
+ 
+Q: 
+ 
+You assisted Mrs. Tantengco? 
+ 
+ 
+ 
+A: 
+ 
+Yes sir.
+ 
+ 
+ 
+Q: 
+ 
+You did not assist any City Auditors office of Cebu City? 
+ 
+ 
+ 
+A: 
+ 
+Being a team leader, 
+I assisted members of the team
+.
+ 
+ 
+ 
+x x x x
+ 
+ 
+ 
+AJ Nario: 
+ 
+What kind of assistance have you made?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A:
+ 
+ 
+During the cash examination I reviewed the working papers of the team who conducted the periodic cash examination, review, your Honor.
+ 
+ 
+ 
+Q: 
+ 
+What else?
+ 
+ 
+ 
+A: 
+ 
+I was shown some of the documents wherein I discovered that the disbursement voucher do not indicate the informationâ¦ that is required under the law, rules and regulations in granting cash advances your Honor.
+ 
+ 
+ 
+x x x x
+ 
+ 
+ 
+Atty. Espina: 
+ 
+So you did not actually conduct a cash examination but you only review the alleged result of the cash examination conducted by the members of the team?
+ 
+ 
+ 
+A: 
+ 
+AS I have said earlier, I performed the cash count. I assisted Mrs. Tantingco in doing the cash count. We also have like certification of this (sic) documents and reconciliation in coming up with the result of shortage of 18 million.
+ 
+ 
+ 
+x x x x
+ 
+ 
+ 
+AJ Nario: 
+ 
+How many members were there?
+ 
+ 
+ 
+A:
+ 
+â¦ there are ten of us I am the team leader so with that particular accountable officers Mrs. Badana there is only one to audit the cash examination, Mrs. Cecilia Tantingco, your Honor.
+[68]
+ 
+ 
+Given Chanâs participation in the preparation of the COA Report, the non-presentation of the other members of the audit team does not diminish the character of Chanâs personal knowledge of the contents of the COA Report. If at all, the case for the prosecution may rise or fall based on the credibility of her testimony in establishing the petitionersâ acts or omissions amounting to a violation of RA No. 3019. The Sandiganbayan found her testimony credible and we find no reason to disagree with its finding.
+Most importantly, the COAâs findings are accorded great weight and respect, unless they are clearly shown to be tainted with grave abuse of discretion; the COA is the agency specifically given the power, authority and duty to examine, audit and settle all accounts pertaining to the revenue and receipts of, and expenditures or uses of fund and property owned by or pertaining to, the government. It has the exclusive authority to define the scope of its audit and examination, and to establish the required techniques and methods. An audit is conducted to determine whether the amounts allotted for certain expenditures were spent wisely, in keeping with official guidelines and regulations.
+[68]
+ Under the Rules on Evidence and considering the COAâs expertise on the matter, the presumption is that official duty has been regularly performed unless there is evidence to the contrary. The petitioners failed in this regard.
+Elements of RA No. 3019 and the 
+prosecutionâs evidence
+Section 3(e) of R.A. No. 3019 has âthree elements: (1) the accused is a public officer discharging administrative, judicial, or official functions; (2) [he or she] must have acted with manifest partiality, evident bad faith, or [gross and] inexcusable negligence; and (3) [his or her] action caused any undue injury to any party, including the government, or [gave] any private party unwarranted benefits, advantage, or preference in the discharge of his or her functions.â
+[69]
+The first element is not disputed. We shall first determine the existence of the third element since the prosecutionâs theory depends on the existence of a shortage upon audit of the Cebu City governmentâs funds. We see no point in discussing the second element if the third element does not exist.
+Causing undue injury or giving
+ unwarranted benefit  
+Citing 
+Madarang v. Sandiganbayan
+,
+[70]
+ Cesa argues that the prosecution has not established the fact of Badanaâs unliquidated cash advances because Ariesga himself testified that the cash examination and audit of Badanaâs accountability has not been completed even at the time of the prosecution of the case in the Sandiganbayan. Similarly, Gaviola adds that no government employee has in fact complained of not being paid his or her salary. In effect, the petitioners argue that the third element of violation of Section 3(e) of RA No. 3019 is wanting.
+The petitioners cannot rely on 
+Madarang
+, which merely cited the case of 
+Dumagat v. Sandiganbayan,
+[71]
+ to escape liability. 
+Dumagat 
+is a case for malversation of funds where the evidence of shortage, appropriation, conversion or loss of public funds was necessary, among other elements, for conviction. In acquitting the accused, the Court pointed out that âthe audit examination left much to be desired in terms of thoroughness and completeness as there were 
+accounts which were not considered
+.â
+[72]
+ The audit examination was done not in the official station of the accused. The accusedâs other vaults that were located in other places and the ârecords, receipts, and cash contained therein were 
+not made part of the audit report.
+â
+[73]
+ Lastly, the prosecution itself admitted where the accused deposited her collections from particular areas.
+In 
+Tinga v. People,
+[74]
+ again a case involving malversation of public funds, the Court ruled that the prosecution failed to establish beyond reasonable doubt that there were actually missing funds chargeable to the accused . The 
+Sandiganbayan itself found the many errors committed by the COA in its audit
+, by including sums which were supposed to be excluded. The Court expressly observed the âincomplete and haphazardâ manner by which the audit was conducted.
+Unlike 
+Dumagat
+ and 
+Tinga,
+ however, the various irregularities found by the COA itself, and affirmed by the Sandiganbayan, were the very ones which actually contributed to the audit teamâs difficulty in completing the audit. Significantly, nowhere does it appear that the incompleteness of the audit pertains to its scope or that the audit team conducted the audit in a haphazard manner. The fact that the person (Badana), who could actually shed light on the shortage the COA found, is nowhere to be found cannot be taken against the prosecution. The undisputed accumulation of funds in Badanaâs hands, considering the amount given; the fact that the disbursement vouchers do not exactly represent the amount of payroll to be paid; and the COAâs findings that there was a shortage merely reflect the 
+consequences
+ of the petitionersâ acts or omissions and facilitated the commission of possible malversation by Badana. Thus, undue injury was sufficiently established.
+Gross inexcusable negligence and the
+ petitionersâ defense of good faith 
+a1
+. Cesaâs defense of good faith
+Under Section 470 of RA No. 7160, the City Treasurer is tasked with, 
+inter alia
+, the following duties: (1) to take custody of and exercise proper management of the funds of the local government unit concerned; and (2) to take charge of the disbursement of all local government funds and such other funds the custody of which may be entrusted to him by law or other competent authority. It is from the viewpoint of Cesaâs duties as a City Treasurer that Cesaâs good faith should be measured, not simply from the fact that he acted because a subordinate from his office is the one asking for a cash advance. By certifying that the cash advances were ânecessary and 
+lawful
+ and incurred under his direct supervision,â
+[75]
+ Cesa cannot escape the obligation to determine whether Badana complied with Section 89 of PD No. 1445, although the same requirement would have to be ultimately determined by the City Accountant.
+[76]
+ Section 89 of PD No. 1445 reads:
+Sec. 89. Limitations on cash advance. â No cash advance shall be given unless for a legally authorized specific purpose. A cash advance shall be reported on and liquidated as soon as the purpose for which it was given has been served. No additional cash advance shall be allowed to any official or employee unless the previous cash advance given to him is settled or a proper accounting thereof is made.
+The same requirement is reiterated in RA No. 7160:
+Section 339. 
+Cash Advances
+. - No cash advance shall be granted to any local official or employee, elective or appointive, unless made in accordance with the rules and regulations as the Commission on Audit may prescribe. [italics supplied]
+Cesaâs claim that he precisely required Bacasmas to affix her initials first on Box A before he actually signed it cannot exonerate him because Bacasmas herself admitted that the âpracticeâ then was simply to approve the written request of the paymaster without requiring the presentation of the supporting documents from the requesting paymaster. Accused Bacasmas herself testified:
+ 
+ 
+Q: 
+ 
+Madam Witness, after preparing all these cash advances, disbursement voucher and forwarded to the Office of the City Accountant, what are those attachments your office prepared prior to the receiving of these cash vouchers to the accountant.
+ 
+ 
+ 
+A: 
+ 
+What do you mean?
+ 
+ 
+ 
+Q:
+ 
+ 
+What are those supporting documents?
+ 
+ 
+ 
+A: 
+ 
+Of the disbursement vouchers?
+ 
+ 
+ 
+Q: 
+ 
+Yes.
+ 
+ 
+ 
+A: 
+ 
+It is the written request of the paymaster concerned, sir. We practice that so long ago, sir. 
+It is only the written request of the paymaster, no other requirements was required by us
+.
+ 
+ 
+ 
+Q: 
+ 
+How about those payrolls, are these payrolls attached to that voucher?
+ 
+ 
+ 
+x x x x
+ 
+ 
+ 
+AJ Ferrer: 
+ 
+The question is very simple, the voucher is prepared in your office and then it is sent to the accountant. 
+Now, the question is, when you sent the vouchers to the accountant, is it accompanied by the payrolls, yes or no
+?
+ 
+ 
+ 
+Witness: 
+ 
+No your Honor.
+ 
+ 
+ 
+Atty. Abrenica: 
+ 
+Only the vouchers were transmitted to the accountant for approval, without any attachment?
+ 
+ 
+ 
+A: 
+ 
+That is prepared by the paymaster.
+ 
+ 
+ 
+Q: 
+ 
+What was the basis of transmitting request as attached by you in the vouchers?
+ 
+ 
+ 
+x x x x
+ 
+ 
+ 
+Pros. Somido: 
+ 
+There is no showing that she was the one who attached the disbursement vouchers.
+ 
+ 
+ 
+AJ Ferrer: 
+ 
+That is what she said that she attaches that to the disbursement and sent to the accountant.
+ 
+ 
+ 
+Q: 
+ 
+What is the basis of your attaching the request to the voucher when you sent it to the accountant?
+ 
+ 
+ 
+A: 
+ 
+The approved payrolls are there already in the paymaster, so, they will sum up the payroll and then that is the amount they will cash advance
+.
+[77]
+ 
+ 
+As the immediate superior of Badana and who affixes her initials before accused Cesa signs Box A, Bacasmasâ testimony clearly establishes a âpracticeâ in the Office of the Cash Division of simply relying on the request of the paymaster without actually requiring the submission of the necessary documents in support of the request. Contrary to Cesaâs claims, he was not trivially signing Box A of the disbursement voucher as a mere requesting party; he has performed a vital role in its processing and the consequent disbursement of public funds.
+[78]
+ The instruction at the back of the voucher itself states that:
+1. x x x
+6. Box A shall be signed by the responsible officer having 
+direct supervision and knowledge of the facts of the transaction
+.
+[79]
+In view of the clear duty of the City Treasurer to exercise proper management of the funds of the local government, Cesaâs insistence that he merely followed the established âprocedures and systemsâ - which can only refer to the âpracticeâ observed in the Office of the Cash Division â all the more negated his defense of good faith. He cannot rely on good faith based on the act of a subordinate where the documents that would support the subordinateâs action (Bacasmas countersignature) were not even in his (Cesaâs) possession for examination.
+Similarly, even ordinary diligence in the performance of his duties as City Treasurer should have prompted Cesa to determine if the cash advance requested is ânecessaryâ not only as to its purpose but also as to its amount to ensure that local funds are properly spent up to the last centavo.
+a2. 
+The decision in the administrative case against 
+Cesa is not controlling in the criminal case
+Cesa argues that since the Ombudsman found him administratively liable for 
+simple
+ neglect of duty only, then the Sandiganbayan gravely erred in convicting him under Section 3(e) of RA No. 3019 for gross inexcusable negligence.
+We disagree with this argument.
+That an administrative case is independent from the criminal action, although both arose from the same act or omission, is elementary. Given the differences in the quantum of evidence required, the procedure observed, the sanctions imposed, as well as in the objective of the two proceedings, the findings and conclusions in one should not necessarily be binding on the other. Thus, as a rule, exoneration in the administrative case is not a bar to a criminal prosecution for the same or similar acts which were the subject of the administrative complaint or 
+vice versa
+.
+[80]
+In the present case, we stress that the Ombudsman made an express finding that Cesa failed to exercise the diligence of a good father of a family in safeguarding the funds of the city government. Thus, Cesa (together with Bacasmas and Jaca) was found administratively liable by the Ombudsman for neglect of duty. If the exoneration from an administrative charge does not in itself bar criminal prosecution, then with more reason should the principle apply where the respondent was found to have committed an administrative infraction.
+The Court is not unaware of the rule that if there was a categorical finding in the administrative case that expressly rules out one (or more) of the essential elements of the crime for which the respondent is likewise sought to be held liable, then his exoneration in the administrative case can be pleaded for his acquittal in the criminal case.
+[81]
+ This rule, however, obviously finds no application in the present case. The CA and, subsequently, this Court merely affirmed the 
+administrative 
+finding of the Ombudsman that Cesa and his co-petitioners are guilty of neglect of duty.  Nowhere did the uniform rulings in the administrative case even hint that the administrative finding bars or forecloses a further determination of the gravity of the petitionersâ negligence as was the prosecutionâs theory for purposes of criminal prosecution.
+b1. 
+Jacaâs defense of good faith
+  
+According to Jaca, he affixed his signature on Box B of the disbursement vouchers, as a ministerial duty, in order to avoid delay in the payment of the Cebu City government employeesâ salaries. Jaca practically admitted having done so even if she knew that Badanaâs previous cash advances had not yet been liquidated, and, that she did not bother to inform the COA that the accounting tools (index card and subsidiary ledger) did not accurately monitor cash advances.
+[82]
+ The Sandiganbayan tried to elicit a plausible form of the defense of good faith from Jaca but her answer could not be more categorical.
+CHAIRMAN
+No, no. The witness may answer. Itâs very clear. Let me rephrase your question and correct the Court if it is stated in a wrong manner. The question of the prosecutor is something like this. Whenever this (sic) is a document presented to you which covers the salaries of other employees despite the fact that you are aware that it also contains cash advances being requested by Rosalina Badana, you have to sign it notwithstanding the fact that you know, you are aware that the previous one were still unliquidated? You have to sign it?
+E. JACA
+Yes, your honor. CHAIRMAN
+Will you please tell us why you have to do that? Could you not make any qualification? Can you not say that I am signing the box just for the release of the salaries of the employees but with respect to Rosalina Badana, you are objecting to the additional cash advances being requested? Can you not say that?
+E. JACA
+Precisely, it is because, your Honor, our records which COA insisted should be effective tool for monitoring. It is simply not effective, the index cards and subsidiary ledgers.
+CHAIRMAN
+Can you not execute additional documents to that effect saying that I have to sign it because I have to do it. If not, it will affect the salaries of other employees but, with respect to Rosalina Badana, we are entering our objection. I cannot sign it because there were amounts which were given and remain unliquidated. Can you not do that, just to save your neck?
+E. JACA
+There is a pro-forma voucher, your Honor, and we find it did not occur to us at that time that we mayâ¦ we will add anything in that box.
+CHAIRMAN
+So, in other words, you agree to the question of the prosecutor that you have no choice even though you are aware that what you are doing is wrong, you have to blindly sign the box provided for in that document?
+E. JACA
+Thatâs it, your Honor.
+x x x x
+[PROSECUTOR MONTEROSO]
+Q: Now, you said earlier that the internal control of the [COA] x x x You said that these were not actually effective, am I correct, maâam? I am referring to the index cards and other forms that are supposed to be used in the control system of the audit. You said these are not effective?
+x x x x
+[A:] Yes, your Honor. CHAIRMAN:
+Why did you say that?
+E. JACA
+Because of the criteria of the [COA] for the tool to be effective, it should be accurate and up-to-date. Our index cards and our subsidiary ledgers do not qualify that, your Honor.
+CHAIRMAN:
+Are you not in a position to tell those audit people in the COA, that what you are doing is not correct and not accurate? x x x
+E. JACA
+It was only at that time that these were brought out and the COA mentioned that these devices are supposed to be our controls. CHAIRMAN
+Donât you feel that the amount of P18M is already substantial enough for you to blow the whistle?
+E JACA
+That P18M, sir, came out after the cash examination of Badana. During those years, during the months preceding that, we did not know. There was no way of knowing at our end how much has Badana incurred.
+[83]
+RA No. 7160 charges the city accountant with both the accounting and internal audit services of the local government unit and, among others, to (1) install and maintain an internal audit system in the local government unit; (2) review supporting documents before the preparation of vouchers to determine the completeness of the requirements; (3) prepare statements of cash advances, liquidation, salaries, allowances, reimbursements and remittances pertaining to the local government unit; (4) prepare statements of journal vouchers and liquidation of the same and other adjustments related thereto; (5) post individual disbursements to the subsidiary ledger and index cards; and (6) maintain individual ledgers for officials and employees of the local government unit pertaining to payrolls and deductions.
+[84]
+ As the City Accountant, Jaca is presumed conversant with the pertinent COA rules and regulations in granting cash advances, 
+i.e.,
+ COA Circular No. 90-331, COA Circular No. 92-382 and COA Circular No. 97-002, but which were consistently not observed by the petitioners.
+No additional cash advance shall be allowed to any official or employee unless the previous cash advance given him is first settled or a proper accounting thereof is made.
+The cash advance shall be equal to the net amount of the payroll for a pay period.
+The cash advance shall be supported by the following documents:
+- Payroll or list of payees with their net payments
+The accountable officer shall liquidate his cash advance as follows: salaries, wages, etc. â within five days after each 15 day/end of the month pay period.
+The Court is not persuaded by Jacaâs argument that she was merely avoiding any delay in the payment of salaries of local government employees when she consequently failed to observe the COA rules on the period of liquidation of cash advances. The Sandiganbayan correctly observed that as the City Accountant, foremost of her duties is to ensure that the local funds out of which the salaries of local government employees would be paid are properly accounted for.
+[85]
+ As Cesa implicitly argued, the creation of the Office of the City Accountant
+[86]
+ serves an important function of pre-audit in the chain of processing cash advances of individual paymasters.
+A pre-audit is an examination of financial transactions 
+before
+ their consumption or payment; a pre-audit seeks to determine, among others, that the claim is duly supported by authentic underlying pieces of evidence.
+[87]
+ If the setup then prevailing in the Cebu City government directly conflicts with the COA regulations, Jaca should have, at the very least, informed the City Mayor of the risk in the process of disbursement of local funds or at least she should have set up an internal audit system - as was her duty â to check against possible malversation of funds by the paymaster.
+That no one claimed that his/her salaries has not been paid is beside the point. In the present case, aside from Jacaâs admission that she knowingly affixed her signature in Box B of the disbursement voucher contrary to what it certifies,
+ i.e.
+, all previous cash advances had been liquidated and accounted for, the amount requested was consistently way above the total amount covered by the supporting payrolls, thereby allowing Badana to have accumulated excess funds in her hands.
+c1. Gaviolaâs defense of good faith
+In his defense, Gaviola invokes our ruling in 
+Arias v. Sandiganbayan
+[88]
+ and argues that he signed Box C of the disbursement vouchers (i) only after his co-accused had previously affixed their signatures and (ii) only if they were complete with supporting documents.
+Section 305. 
+Fundamental Principles.
+ - The financial affairs, transactions, and operations of local government units shall be governed by the following fundamental principles:
+x x x x
+(l) Fiscal responsibility shall be shared by all those exercising authority over the financial affairs, transactions, and operations of the local government units[.]
+c1.1 The Arias ruling and subsequent cases
+In the seminal case of 
+Arias v. Sandiganbayan
+[89]
+ involving the prosecution and conviction of a public official for violation of RA No. 3019, the Court ruled:
+We would be setting a bad precedent if a head of office plagued by all too common problems - dishonest or negligent subordinates, overwork, multiple assignments or positions, or plain incompetence - is suddenly swept into a conspiracy conviction simply because he did not personally examine every single detail, painstakingly trace every step from inception, and investigate the motives of every person involved in a transaction before affixing his signature as the final approving authority.
+x x x x
+We can, in retrospect, argue that Arias should have probed records, inspected documents, received procedures, and questioned persons. It is doubtful if any auditor for a fairly sized office could 
+personally
+ do all these things in all vouchers presented for his signature. The Court would be asking for the impossible. All heads of offices have to rely to a reasonable extent on their subordinates and on the good faith of those who prepare bids, purchase supplies, or enter into negotiations. xxx 
+There has to be some added reason why he should examine each voucher in such detail.
+ Any executive head of even 
+small
+ government agencies or commissions can attest to the volume of papers that must be signed. There are hundreds of documents, letters, memoranda, vouchers, and supporting papers that routinely pass through his hands. The number in bigger offices or departments is even more appalling.
+There should be 
+other grounds than the mere signature or approval 
+appearing on a voucher to sustain a conspiracy charge and conviction.
+[90]
+ (italics supplied; emphases ours)
+The Court has since applied the 
+Arias
+ ruling to determine not only criminal,
+[91]
+ civil
+[92]
+ and administrative
+[93]
+ liability, but even the existence of probable cause to file an information
+[94]
+ in the context of an allegation of conspiracy.
+In 
+Siztoza v. Desierto
+, involving the Ombudsmanâs determination of probable cause for violation of RA No. 3019, the Court expounded on the reach of 
+Arias
+, thus:
+The fact that [Sistoza] had knowledge of the status of [the contractor] as being only the second lowest bidder does not 
+ipso facto
+ characterize [his] act of reliance as recklessly imprudent xxx. Albeit misplaced, reliance in good faith by a head of office on a subordinate upon whom the primary responsibility rests negates an imputation of conspiracy by gross inexcusable negligence to commit graft and corruption. As things stand, [Sistoza] is presumed to have acted honestly and sincerely when he depended upon responsible assurances that everything was aboveboard since it is not always the case that second best bidders in terms of price are automatically disqualified from the award considering that the PBAC reserves the authority to select the best bid not only in terms of the price offered but other factors as well. x x x
+Verily, 
+even if petitioner erred in his assessment of the extrinsic and intrinsic validity of the documents presented to him for endorsement, his act is all the same imbued with good faith because the otherwise faulty reliance upon his subordinates
+, who were primarily in charge of the task, falls 
+within parameters of tolerable judgment and permissible margins of error
+. Stated differently, granting that there were flaws in the bidding procedures, x x x there was no cause for [Sistoza] to x x x investigate further since 
+neither the defects in the process nor the unfairness or injustice in the actions of his subalterns are definite, certain, patent and palpable
+ from a perusal of the supporting documents.
+[95]
+ (emphases ours)
+In 
+Leycano, Jr. v. Commission on Audit
+,
+[96]
+ the Court clarified that for one to successfully invoke 
+Arias
+, the public official must then be acting in his capacity as head of office.
+[97]
+ In 
+Cruz v. Sandiganbayan
+,
+[98]
+ where the Court sustained the petitionerâs conviction for violation of Section 3(e) of RA No. 3019, it observed that the fact that âthe checks issued as payment for construction materials purchased by the municipality were not made payable to the supplier x x x but to petitioner himself even as the disbursement vouchers attached thereto were in the name of [the supplier]â constitute an âadded reasonâ for the petitioner to further examine the documents.
+[99]
+c2.2 The Arias ruling and the present case
+The 
+Arias
+ ruling squarely applies where, in the performance of his official duties, the head of an office is being held to answer for his act of relying on the acts of his subordinate. In its Memorandum,
+[100]
+ the prosecution submitted that the petitioners were the heads of the three âindependentâ offices at the time material to the controversy, 
+i.e.
+, the Office of the City Treasurer, the Office of the City Accountant and the Office of the City Administrator. On this point alone, Gaviolaâs reliance on 
+Arias 
+already stands on shaky grounds.
+However, the Court observes that the key functions of the City Administrator do not relate either to the management of or accounting of funds of the local government or to internal audit. His concern is the overall administration and management of the affairs of the local government as a whole. Given the prior certifications of the two other offices; the internal check employed by Gaviola before affixing his signature; and the intervening process before the voucher actually reaches the City Administrator, the Court cannot consider the deficiency in the âparticulars of paymentâ 
+alone
+ to charge Gaviola with knowledge that something was amiss and that his failure to do so would amount to gross and inexcusable negligence. Unlike the signatures on the disbursement vouchers of the City Treasurer and of the City Accountant, the City Administrator signs Box C ultimately as an âapproving officerâ without any direct involvement in the management and audit of local government funds before and after the disbursement. It would seem, therefore, that Gaviolaâs own reliance on the signatures of the heads of the two other offices is not entirely misplaced.
+The signatures of the other petitioners, however, are only part of the picture. Gaviolaâs reliance on these alone does not establish good faith if the bare signatures on the voucher and the written request from the paymaster are all that he has with him when he affixed his signature on Box C.
+[101]
+  Amidst conflicting assertions, the Sandiganbayan gave credence to the prosecutionâs evidence that the disbursement vouchers did not have the required supporting documents when Gaviola affixed his signature. While the vouchers themselves indicate that it had gone through the Internal Control Office, allegedly for a determination of the completeness of the supporting documents before PeÃ±a finally turned it over to Gaviola, the Sandiganbayan gave emphasis on Gaviolaâs failure to present evidence that he indeed requested the submission of the supposed attachments from the COA and put a premium on Chanâs testimony.
+We find no reason to reverse the Sandiganbayan. Additionally, we observe that while payment of salaries of employees of the Cebu City government is either on a 
+quincena
+ or weekly basis, still there are only two payrolls prepared, corresponding to the first and second halves of the month. The payroll for the first 
+quincena
+ is prepared on the first week of the month, in time for the weekly-paid employees to receive their first week salary. For purpose of payment for the next pay periods - the payment of the 2
+nd
+ week salary and the 1
+st
+ quincena - the payroll (together with its supporting documents) stays with the paymaster/disbursing officer.
+[102]
+ This arrangement only means that if Badana would make a cash advance for the 1
+st
+ week or 3
+rd
+ week, the disbursement vouchers could not actually be supported by complete documents since the same stay with the paymaster herself.
+As described by the prosecution, the offices involved in the processing of cash advances are technically independent of each other; one office does not form part of, or is strictly under, another. Thus, each has independent functions to perform to ensure that the funds of the local government are disbursed properly and are well accounted for. While the Court views Gaviolaâs failure to inquire further before affixing his signature despite the absence of the âparticulars of paymentâ in the disbursement vouchers as negligence on his part,
+[103]
+ to additionally affix his signature despite the lack of supporting documents only shows a gross and inexcusable disregard of the consequences of his act as approving authority. If Gaviola bothered to glance at the supporting documents, he could have signaled to his co-accused that their acts or omissions opened an opportunity for Badana to commit malversation that would result in a loss to the local governmentâs coffers.
+Conspiracy and conviction
+In 
+Sistoza
+, the Court already intimated on the possibility of committing a violation of Section 3(e) of RA No. 3019 through gross and inexcusable negligence, and of incurring collective criminal responsibility through a conspiracy.
+x x x As we have consistently held, evidence of guilt must be premised upon a more knowing, personal and deliberate participation of each individual who is charged with others as part of a conspiracy.
+Furthermore, even if the conspiracy were one of silence and inaction arising from gross inexcusable negligence, it is nonetheless essential to prove that the breach of duty borders on malice and is characterized by flagrant, palpable and willful indifference to consequences insofar as other persons may be affected.
+[104]
+As earlier discussed, considering that the gravity of negligence required by law for a violation of Section 3(e) of RA No. 3019 to exist falls short of the degree of bad faith or partiality to violate the same provision, a conspiracy of silence and inaction arising from gross inexcusable negligence would almost always be inferred only from the surrounding circumstances and the parties' acts or omissions that, taken together, indicate a common understanding and concurrence of sentiments respecting the commission of the offense.
+[105]
+  The duties and responsibilities that the occupancy of a public office carry and the degree of relationship of interdependence of the different offices involved here determine the existence of conspiracy where gross inexcusable negligence was the mode or commission of the offense.
+For emphasis, the petitioners are all heads or their respective offices that perform interdependent functions in the processing of cash advances.  The petitioners' attitude of buck-passing in the face of the irregularities in the voucher (and the absence of supporting documents), as established by the prosecution, and their indifference to their individual and collective duties to ensure that laws and regulations are observed in the disbursement of the funds of the local government of Cebu can only lead to a finding of conspiracy of silence and inaction, contemplated in 
+Sistoza
+.  The Sandiganbayan correctly observed thatâ
+Finally, it bears stressing that the separate acts or omissions of all the accused in the present case contributed in the end result of defrauding the government. Without anyone of these acts or omissions, the end result would not have been achieved.  Suffice it to say that since each of the accused contributed to attain the end goal, it can be concluded that their acts, taken collectively, satisfactorily prove the existence of conspiracy among them.
+[106]
+WHERFFORE
+, premises considered, we hereby 
+DENY
+ the petitions for lack of merit and thereby 
+AFFIRM
+ the decision dated December 16, 2004 and the resolution dated February 1, 2005 of the Sandiganbayan in Criminal Case No. 24099.
+SO ORDERED.
+Carpio, (Chairperson), Del Castillo, Perez, 
+and 
+Perlas-Bernabe, JJ.,
+ concur.
+[1]
+ Under Rule 45 of the Rules of Court. 
+Rollo
+ (G.R. No. 166967), pp. 31-56; 
+rollo
+ (G.R. 166974) pp. 3-61; 
+rollo
+ (G.R. No. 167167), pp. 11-77.
+[2]
+ 
+Rollo
+ (G.R. No. 166974), pp. 60-94.
+[3]
+ Id. at 95-114.
+[4]
+ Anti-Graft and Corrupt Practices Act. Pursuant to the Courtâs April 4, 2005 resolution, the cases of Gaviola and Cesa were consolidated; 
+rollo
+ (G.R. No. 167167), p. 9.
+[5]
+ 
+Rollo
+ (G.R. No. 167167) p. 357; 
+rollo
+ (G.R. No. 166974) p. 6.
+[6]
+ 
+Rollo
+ (G.R. No. 167167), p. 14.
+[7]
+ 
+Rollo
+ (G.R. No. 166967), p. 33.
+[8]
+ Per Order No. 98-001, dated March 5, 1998; 
+rollo
+, (G.R. No. 166967), p. 34.
+[9]
+ 
+Rollo
+, (G.R. No. 166974), pp. 7-8.
+[10]
+ To prevent the possible loss of records, funds and other official documents, the audit team sealed the vault and other fixtures inside Badanaâs office cubicle and its door. For failure of Badana to report back for work, Cebu City Mayor Alvin Garcia created a committee to open Badanaâs sealed vault and receptacles. On March 11, 1998, the committee broke the seal and opened the fixtures inside Badanaâs cubicle in the presence of the media and the Cebu City government officials. The committee turned over the cash they found to the City Cashier. (
+rollo
+ [G.R. No. 166967], p. 35).
+[11]
+ Id.
+ at 62.
+[12]
+ Ordaining and Instituting a Government Auditing Code of the Philippines.
+[13]
+ Local Government Code of 1991.
+[14]
+ 
+Rollo
+ (G.R. No. 166967), p. 71.
+[15]
+ 
+Rollo
+ (G.R. No. 167167), pp. 138-139.
+[16]
+ Code of Conduct and Ethical Standards for Public Officials and Employees.
+[17]
+ Docketed as OMB-VIS-CRIM-980221 and OMB-VIS-ADM-98-0150; 
+rollo
+ (G.R. No. 167167), p. 20. The administrative case was filed by the Commission on Audit, Regional Office No. VII against the petitioners and several other local officials, including Badana.
+[18]
+ 
+Id.
+ at 142.
+[19]
+ Dated May 14, 1998. Docketed as Criminal Case No. 24699; id. at 20.
+[20]
+ 
+Id
+. at 143.
+[21]
+ 
+Rollo
+ (G.R. No. 166967), p. 36.
+[22]
+ Records, Exhibit âF,â pp. 7-12.
+[23]
+ Records, Volume II, p. 142.
+[24]
+ Id. at 171.
+[25]
+ On September 13, 1999; 
+rollo
+ (G.R. No. 166974), p. 9.
+[26]
+ Upon motion of the prosecution, the petitioners were placed under preventive suspension; 
+rollo
+ (G.R. No. 167167), p. 21.
+[27]
+ Records, Volume II, p. 14.
+[28]
+ 
+Rollo,
+ (G.R. No. 166967), p. 63.
+[29]
+ Rollo
+, (G.R. No. 167167), pp. 360-361.
+[30]
+ 
+Id.
+ at 361.
+[31]
+ On August 16, 2001; 
+rollo
+ (G.R. No. 166974), pp. 553-572.
+[32]
+ Supra note 2.
+[33]
+ 
+Rollo,
+ (G.R. No. 166967), p. 93.
+[34]
+ 
+Rollo
+ (G.R. No. 167167), pp. 174-199.
+[35]
+ 
+Supra
+ note 3.
+[36]
+ 
+Rollo
+ (G.R. No. 166967), p. 137.
+[37]
+ See Section 455 of RA No. 7160.
+[38]
+ 
+Rollo
+ (G.R. No. 166967), p. 128.
+[39]
+ Id. at 138.
+[40]
+ TSN, Volume 16, p. 20.
+[41]
+ 
+Rollo
+ (G.R. No. 166974), p. 110.
+[42]
+ Under Section 348 of RA No. 7160.
+[43]
+ 
+Rollo
+, (G.R. No. 166967), p. 115.
+[44]
+ 
+Rollo,
+ (G.R. No. 166974) pp. 107-108.
+[45]
+ Citing 
+Duterte v. Sandiganbayan
+, 352 Phil. 557 (1998).
+[46]
+ See
+ Uriarte v. People
+, G.R. No. 169251, December 20, 2006, 511 SCRA 471, 486.
+[47]
+ 407 Phil. 846 (2001).
+[48]
+ 437 Phil. 117, 122, 132 (2002).
+[49]
+ Among the exceptions are: (1) the conclusion is a finding grounded entirely on speculations, surmise[s], and conjectures; (2) the inference made is manifestly mistaken; (3) there is grave abuse of discretion; (4) the judgment is based on misapprehension of facts; and [(5)] the findings of fact of the Sandiganbayan are premised on the absence of evidence and are contradicted by evidence on record. (
+PareÃ±o v. Sandiganbayan
+, 326 Phil. 255, 279 (1996).
+[50]
+ Section 14, Article 3 of the 1987 Constitution reads:
+Section 14. (1) No person shall be held to answer for a criminal offense without due process of law.
+(2) In all criminal prosecutions, the accused shall be presumed innocent until the contrary is proved, and shall enjoy the right to be heard by himself and counsel, to be informed of the nature and cause of the accusation against him, to have a speedy, impartial, and public trial, to meet the witnesses face to face, and to have compulsory process to secure the attendance of witnesses and the production of evidence in his behalf. However, after arraignment, trial may proceed notwithstanding the absence of the accused: 
+Provided
+, that he has been duly notified and his failure to appear is unjustifiable.
+[51]
+ The law in effect when the information was filed.
+[52]
+ 1985 Rules of Criminal Procedure, as amended, Rule 110, Section 6.
+[53]
+ 1985 Rules of Criminal Procedure, Rule 110, Section 9. See 
+Fernando Q. Miguel v. The Honorable Sandiganbayan,
+ G.R. No. 172035, July 4, 2012.
+[54]
+ 
+Ibid.
+[55]
+ 201 Phil. 379 (1982).
+[56]
+ 
+Supra
+ note 46 at 487-488.
+[57]
+ 
+Umipig v. People, 
+G.R. No. 171359, July 18, 2012.
+[58]
+ 
+Sison v. People
+, G.R. Nos. 170339 and 170398-403, March 9, 2010, 614 SCRA 670, 680 citing 
+Fonacier v. Sandiganbayan
+, 238 SCRA 656, 687-688.
+[59]
+ 
+Siztoza v. Desierto, supra
+ note 48, at 132. See also De la Victoria v. Mongaya, 404 Phil. 609, 619-620 (2001).
+[60]
+ 
+Vacio v. People
+. G.R. Nos. 177105-06, August 4, 2010.
+[61]
+ In fact, in 
+Alvarez v. People
+ (G.R. No. 192591, June 29, 2011, 653 SCRA 52, 59), the Court sustained the Sandiganbayanâs ruling that the accused âacted with manifest partiality 
+and
+ gross inexcusable negligence in awarding the BOT contract to an unlicensed and financially unqualified private entity.â In 
+Siztoza v. Desierto, supra
+ note 48, at 131, the Supreme Court observed that:
+And, while not alleged in the 
+Information
+, it was evidently the intention of the Ombudsman to take petitioner to task for 
+gross inexcusable negligence 
+in addition to the two (2) other modalities mentioned therein. At any rate, it bears stressing that Sec. 3, par. (e), 
+RA 3019
+, is committed either by 
+dolo
+ or 
+culpa
+ and although the Information may have alleged only one (1) of the modalities of committing the offense, the other mode is deemed included in the accusation to allow proof thereof. [italics supplied]
+[62]
+ See
+ Socrates v. Sandiganbayan
+, 324 Phil. 151, 177-181 (1996).
+[63]
+ 
+Law of the case
+ has been defined as the opinion delivered on a former appeal. More specifically, it means that whatever is once irrevocably established as the controlling legal rule or decision between the same parties in the same case continues to be the law of the case, 
+whether correct on general principles
+ or not, so long as the facts on which such decision was predicated continue to be the facts of the case before the court. As a general rule, a decision on a prior appeal of the same case is held to be the law of the case 
+whether that question is right or wrong,
+ the remedy of the party deeming himself aggrieved being to seek a rehearing (
+Tolentino v. Loyola
+, G.R. No. 153809, July 27, 2011, 654 SCRA 420, at 430-431).
+[64]
+ Rules of Court, Rule 130, Section 36.
+[65]
+ 
+Anna Lerima Patula v. People of the Philippines,
+ G.R. No. 164457, April 11, 2012.
+[66]
+ Oscar M. Herrera, Remedial Law, Volume VI, p. 261.
+[67]
+ TSN, Volume 1, December 8, 1999, pp. 16-17.
+[68]
+ TSN, Volume 7, August 10, 2000, pp. 10-12.
+[69]
+ 
+Estino v. People
+, G.R. Nos. 163957-58 and 164009-11, April 7, 2009, 584 SCRA 304, 316.
+[70]
+ 
+Supra
+ note 47, at 629-630.
+[71]
+ G.R. No. 96915, July 3, 1992, 211 SCRA 171.
+[72]
+ 
+Id.
+[73]
+ Id. at 174-175.
+[74]
+ 243 Phil. 626 (1988).
+[75]
+ Box of Disbursement Voucher.
+[76]
+ It may not be amiss to point out, too, that violation of Section 89 of PD No. 1445 is in itself an offense punishable under Section 128 of the same law. The mere failure to timely liquidate the cash  advance is the gravamen of the offense (
+People v. Sandiganbayan
+ [Third Division], G.R. No. 174504, March 21, 2011, 645 SCRA 726, 734). The criminal liability that may be incurred by the accountable officer under the law emphasizes the importance of complying with the limitation in granting cash advances.
+[77]
+ TSN Volume 12, February 27, 2002, pp. 38-41.
+[78]
+ See 
+Recamadas v. Sandiganbayan,
+ 239 Phil. 355, (1987).
+[79]
+ Supra 
+note 75.
+[80]
+ 
+Ferrer, Jr. v. Sandiganbayan, 
+G.R. No. 161067, March 14, 2008, 548 SCRA 460, 466-467; 
+Paredes, Jr. v. Sandiganbayan,
+ 322 Phil. 709, 730 (1996); and 
+Tan v. Commission on Elections
+, G.R. No. 112093, October 4, 1994, 237 SCRA 353, 359.
+[81]
+ 
+Nicolas v. Sandiganbayan
+, G.R. Nos. 175930-31 and 176010-11, February 11, 2008, 544 SCRA 324, 346-347; See also 
+Constantino v. Sandiganbayan
+ (First Division), G.R. Nos. 140656 and 154482, September 13, 2007, 533 SCRA 205, 229.
+[82]
+ TSN Volume 15, pp. 47-48, 54-55.
+[83]
+ TSN, Volume 15, August 7, 2003, pp. 53-57.
+[84]
+ RA No. 7160, Section 474.
+[85]
+ Section 305 of RA No. 7160 reads:
+[86]
+ It was only on February 7, 1994 that the Cebu City government created the new Office of the City Accountant pursuant to Section 474, paragraph (a) of RA No. 7160. It was created precisely to assist the local chief executive âin managing the resources to its optimum use through proper accountingâ (http://www.cebucity.gov.ph/deptsoffices/support/accountant) last accessed November 19, 2012.
+[87]
+ 
+Director Villanueva v. Commission on Audit,
+ 493 Phil. 887, 899-901 (2005).
+[88]
+ 259 Phil. 794 (1989).
+[89]
+ 
+Ibid
+.
+[90]
+ 
+Id
+. at 801-802
+[91]
+ 
+Magsuci v. Sandiganbayan
+, a case involving estafa through falsification of public documents.
+[92]
+ Leycano, Jr. v. Commission on Audit, 
+517 Phil. 428 (2006); 
+Albert v. Chairman Gangan,
+ 406 Phil. 235 (2001).
+[93]
+ 
+Alfonso v. Office of the President,
+ G.R. No. 150091, April 2, 2007, 520 SCRA 64, 66.
+[94]
+ 
+Sistoza v. Desierto, supra
+ note 48, a prosecution for Section 3(e) of RA No. 3019.
+[95]
+ Id. at 134-135.
+[96]
+ 517 Phil. 426, 435 (2006).
+[97]
+ See also 
+Dugayon v. People
+, 479 Phil. 930, 941 (2004).
+[98]
+ 504 Phil. 321, 334-335 (2005).
+[99]
+ See also 
+Santillano v. People, 
+G.R. Nos. 175045-46, March 3, 2010, 614 SCRA 164.
+[100]
+ 
+Rollo
+ (G.R. No. 166974), p. 311.
+[101]
+ This sets Gaviolaâs case apart from 
+Dr. Alejandro v. People
+, 252 Phil. 412 (1989). In 
+Alejandro
+, the Court acquitted the petitioner-accused who merely relied on the certifications of his subordinates. Whether the supporting documents are in order or complete is not a factual issue in 
+Alejandro.
+[102]
+ TSN, Volume 15, pp. 29-31; Volume 13, p. 13.
+[103]
+ 
+Magsuci v. Sandiganbayan
+, 310 Phil. 14, 20 (1995).
+[104]
+ 
+Supra
+ note 48, at 316.
+[105]
+ Guy v. Peolpe, G.R. Nos. 166794-96, 166880-82 and 167088-90, March 20, 2009, 582 SCRA 107, 125.
+[106]
+ Decision of Sandiganbayan,
+ rollo
+, G.R. No. 167167), p. 110.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

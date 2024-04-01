@@ -1,0 +1,394 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			689 Phil. 394
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 166758, June 27, 2012 ]
+
+
+MANILA ELECTRIC COMPANY, REPRESENTED BY MANOLO C. FERNANDO, PETITIONER, VS. VICENTE ATILANO, NAZAAR LUIS, JOCELYN DELA DINGCO, SHARON SEE VICENTE, AND JOHN DOES, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+BRION, J.:
+
+
+We resolve the petition for review on 
+certiorari
+[1]
+ filed by petitioner Manila Electric Company (
+MERALCO
+) challenging the decision
+[2]
+ and the resolution
+[3]
+ of the Court of Appeals (
+CA
+) in CA-G.R. SP No. 84248.
+The Facts
+Petitioner MERALCO is a domestic corporation doing business as an electric utility, and represented herein by its Senior Manager and Head of Treasury Operations Group, Manolo C. Fernando. Respondents are, at the time material to this case, officers of Corporate Investments Philippines, Inc. (
+CIPI
+) â a duly licensed investment house engaged in securities brokerage, dealership and underwriting services: Vicente Atilano (President); Nazaar Luis (Vice-President and General Counsel); Jocelyn dela Dingco (First Vice-President, Funds Management Group); Sharon See Vicente (Assistant Manager, Funds Management Group); and several âJohn Doesâ who are unidentified employees and officers of CIPI.
+On April 16, 2001, MERALCO filed a complaint for 
+estafa
+, under Article 315, paragraphs 1(a), 1(b) and 2(a) of the Revised Penal Code, against the respondents. MERALCO alleged that in 1993, MERALCO started investing in commercial papers (
+CPs
+) through CIPI. As of May 2000, MERALCOâs investment with CIPI already amounted to P75,000,000.00. At various points in time, MERALCO delivered funds to the respondents for investment in CPs and government securities (
+GS
+). Sometime in May 2000, respondent Atilano, who was at that time the President of CIPI, conveyed to Manuel Lopez, MERALCOâs President, that CIPI was facing liquidity problems. Lopez agreed to extend help to CIPI by placing investments through CIPI, on the condition that CIPI would secure these investments with GS and CPs issued by the Lopez Group of Companies (
+Lopez Group
+). Pursuant to this agreement, Fernando, who was at that time the Head of MERALCOâs Treasury Operations Group, and respondent Vicente, who was the Assistant Manager of CIPIâs Funds Management Group, allegedly entered into the following transactions:
+ 
+ 
+Date
+ 
+Amount Invested
+ 
+Term
+ 
+Securities
+ 
+ 
+ 
+May 30, 2000
+ 
+P20,000,000.00
+ 
+30 days
+ 
+GS and CPs of Lopez Group
+ 
+ 
+ 
+May 31, 2000
+ 
+P45,000,000.00
+ 
+30 days
+ 
+CPs of Rockwell and Benpres Corporation
+ 
+ 
+MERALCO further alleged that it informed CIPI of its requirement to have the above-listed securities delivered to it within twenty-four (24) hours after the transaction, which CIPI failed to deliver despite repeated demands. Contrary to its specific instructions, MERALCO alleged that CIPI diverted MERALCOâs funds by placing the investments in CIPIâs own promissory notes (
+PNs
+) and in CPs of companies that are not members of the Lopez Group such as the investment of MERALCOâs funds amounting to P10,000,000.00 in Pilipino Telephone Corporation CPs.
+On June 8, 2000, following CIPIâs alleged failure to deliver the subject securities within the period agreed upon, Fernando instructed Manolo Carpio and another staff of MERALCOâs Treasury Operations Group to proceed to CIPIâs office and demand the proper documentation of the subject transactions. Fernando followed his staff and met with respondent Luis who was at that time the Vice-President and General Counsel of CIPI. According to Fernando, respondent Atilano called him during the meeting to reiterate CIPIâs liquidity problems, and to assure him that it was only temporary. He said that respondent Atilano promised to correct the irregularities committed by CIPI by making changes in MERALCOâs investment portfolio. MERALCO said that the proposed changes in its investment portfolio, as promised by respondent Atilano, are reflected in the Minutes of the June 8, 2000 Meeting, as follows:
+ For its investments, MERALCO shall accept only Government Securities (GS) and Commercial Papers (CPs) of any Lopez Group company as security.
+ As an interim arrangement, MERALCO will accept CIPIâs Promissory Notes detailed as follows for investments that are presently without security:
+Promissory Note No. 10010 in the amount of Pesos 18,000,000 + interest
+Promissory Note No. 10011 in the amount of Pesos 45,000,000 + interest
+That this interim arrangement shall be regularized by replacing the aforementioned Promissory Notes detailed in Item #2 above with any security stated in item number (1) above.
+That Confirmation of Sale No. 29145 covered by securities: PILTEL COMMERCIAL PAPER with a price of Pesos 10,000,000.00 shall likewise be replaced with securities acceptable to MERALCO as mentioned in item number (1) above.
+That CIPI shall effect the changes stated in item numbers (3) and (4) above not later than 12:00 NN of 9 June 2000.
+[4]
+The Minutes were signed by respondent Luis and they indicated that the meeting was attended by Fernando, Felix C. de Guzman, Manolo D. Carpio and Malou M. Manlugon, on MERALCOâs part, and by respondents Luis and Dela Dingco on CIPIâs part. However, notwithstanding the agreed deadline of June 9, 2000, CIPI allegedly failed to fulfill its undertaking.
+Thus, MERALCO argued that the respondents should be held liable for 
+estafa
+ under Article 315, paragraphs 1(a), 1(b) and 2(a) of the Revised Penal Code for falsely pretending that they possess power, influence and qualifications to buy CPs of the Lopez Group and/or GS as agreed upon. MERALCO averred that it entrusted the subject investments to CIPI because of CIPIâs commitment to comply with the condition that the investments would be secured by GS and/or CPs issued by a Lopez Group company. MERALCO maintained that by substituting the required securities with PNs of CIPI and CPs of non-Lopez Group companies, the respondents are guilty of converting and misappropriating the subject funds to the prejudice of MERALCO.
+In a resolution dated February 20, 2002, Prosecutor Dennis R. Pastrana dismissed MERALCOâs complaint for insufficiency of evidence. According to Prosecutor Pastrana, the evidence presented by MERALCO failed to establish that the respondents committed any act that would constitute 
+estafa
+ under Article 315, paragraphs 1(a), 1(b) and 2(a) of the Revised Penal Code.
+Prosecutor Pastrana said that there is no clear proof that the respondents misappropriated or converted MERALCOâs funds â the core element in the offense of 
+estafa
+. He also found that MERALCO failed to prove the indispensable element of deceit as the evidence showed that respondent Atilano revealed CIPIâs liquidity problems to MERALCO even before the latter placed its investment through CIPI.
+Prosecutor Pastrana noted that considering the amount of money that MERALCO invested, there was no documentary evidence to show any specific instruction for CIPI to invest the funds only in GS or CPs of the Lopez Group. MERALCO merely relied on the Minutes of the June 8, 2000 Meeting to prove that MERALCO indeed made such an instruction.
+Thus, Prosecutor Pastrana concluded that the transaction between MERALCO and CIPI was a money market transaction partaking of a loan transaction whose nonpayment does not give rise to any criminal liability for 
+estafa
+ through misappropriation or conversion. Prosecutor Pastrana ruled that in a money market placement, the remedy of an unpaid investor (MERALCO) is to institute a civil action for recovery against the middleman or dealer (CIPI) and not a criminal action, such as the present recourse.
+MERALCO moved to reconsider Prosecutor Pastranaâs resolution but the latter denied the motion in a resolution dated May 8, 2002. On June 3, 2002, MERALCO filed a petition for review before the Department of Justice (
+DOJ
+).
+On December 17, 2002, then DOJ Secretary Ma. Merceditas N. Gutierrez dismissed the petition in accordance with Section 12(c), in relation to Section 7, of Department Circular No. 70.
+[5]
+ The Secretary of Justice ruled that after carefully examining the petition and its attachments, she found no error on the part of the handling prosecutor that would warrant a reversal of the challenged resolution. The DOJ resolution further ruled that the challenged resolution was in accord with the evidence and the law on the matter.
+The DOJ resolution also noted MERALCOâs failure to submit a legible true copy of the confirmation of sale dated May 30, 2000 which was attached as Annex â2â of respondent Vicenteâs counter-affidavit, in violation of Section 5
+[6]
+ of Department Circular No. 70.
+MERALCO filed a motion for reconsideration of said resolution but the same was denied in a resolution dated March 26, 2004.
+Thereupon, on May 31, 2004, MERALCO filed a petition for certiorari with the CA under Rule 65 of the Rules of Court to question the December 17, 2002 and March 26, 2004 resolutions of the DOJ.
+In its decision dated September 29, 2004, the CA dismissed MERALCOâs petition and affirmed the resolutions of the Secretary of Justice. It noted that the DOJ Minute Resolution was not invalidated by the fact that it contained no further discussion of the factual and legal issues because the reviewing authority expressed full concurrence with the findings and conclusions made by the prosecutor.
+The CA further ruled that the relationship between MERALCO and CIPI is that of a creditor and debtor and, therefore, the remedy available to MERALCO is to file a civil case for recovery and not a criminal case for 
+estafa,
+ citing 
+Sesbreno v. CA
+.
+[7]
+When the CA denied MERALCOâs motion for reconsideration, the latter filed the instant petition.
+The Petition
+MERALCO argues that (1) the DOJ Resolution violated the requirements laid down under Section 14, Article VIII of the Constitution, Section 14, Chapter III, Book VII of the Administrative Code of 1987 and the jurisprudential pronouncements of this Court on the matter; (2) the said resolution violated the jurisprudential stricture against applying technicalities to frustrate the ends of justice when it dismissed MERALCOâs petition for failing to attach an annex of an annex; and (3) the CA erred in affirming the resolution of the handling prosecutor dismissing the complaint for 
+estafa
+ against respondents herein.
+The Issues
+The issues for this Courtâs determination are: 
+first
+, whether the DOJ Resolution dated December 17, 2002 complied with the constitutional requirement laid down in Section 14, Article VIII of the 1987 Constitution
+[8]
+ and the requirement in Section 14, Chapter III, Book VII of the Administrative Code of 1987
+[9]
+; and 
+second
+, whether or not this Court can disturb the determination of probable cause made by the public prosecutor in the case.
+Our Ruling
+We find the petition unmeritorious.
+A.   The December 17, 2002 DOJ resolution 
+complied with the requirement of the Constitution
+ and the Administrative Code of 1987
+The December 17, 2002 DOJ resolution was issued in accordance with Section 12(c), in relation to Section 7, of Department Circular No. 70, dated July 3, 2000, which authorizes the Secretary of Justice to dismiss a petition outright if he finds it to be patently without merit or manifestly intended for delay, or when the issues raised therein are too insubstantial to require consideration.
+In dismissing MERALCOâs petition for review of the resolution of the Office of the City Prosecutor of Pasig City, the Secretary of Justice ruled that after carefully examining the petition and its attachments, no error on the part of the handling prosecutor was found to have been committed which would warrant a reversal of the challenged resolution. Thus, the December 17, 2002 DOJ resolution concluded that the challenged resolution was in accord with the evidence and the law on the matter.
+MERALCO considers the December 17, 2002 DOJ resolution invalid because of the absence of any statement of facts and law upon which it is based, as required under Section 14, Article VIII of the Constitution and Section 14, Chapter III, Book VII of the Administrative Code of 1987. MERALCO claims that the requirement to state the facts and the law in a decision is a mandatory requirement and the DOJ is not exempt from complying with the same.
+In arguing as it did, MERALCO failed to note that Section 14, Article VIII of the Constitution refers to âcourts,â thereby excluding the DOJ Secretary and prosecutors who are not members of the Judiciary. In
+ Odchigue-Bondoc v. Tan Tiong Bio
+,
+[10]
+  we ruled that â
+Section 4, Article VIII of the Constitution does not x x x extend to resolutions issued by the DOJ Secretary
+.â In explaining the inapplicability of Section 4, Article VIII of the Constitution to DOJ resolutions, the Court said that the DOJ is not a quasi-judicial body and the action of the Secretary of Justice in reviewing a prosecutorâs order or resolution via appeal or petition for review cannot be considered a quasi-judicial proceeding.
+This is reiterated in our ruling in 
+Spouses Balangauan v. Court of Appeals, Special Nineteenth Division, Cebu Cit
+y,
+[11]
+ where we pointed out that a preliminary investigation is not a quasi-judicial proceeding, and the DOJ is not a quasi-judicial agency exercising a quasi-judicial function when it reviews the findings of a public prosecutor regarding the presence of probable cause. A quasi-judicial agency performs adjudicatory functions when its awards determine the rights of parties, and its decisions have the same effect as a judgment of a court.
+[12]
+ â[This] is not the case when a public prosecutor conducts a preliminary investigation to determine probable cause to file an information against a person charged with a criminal offense, or when the Secretary of Justice [reviews] the former's order[s] or resolutionsâ on determination of probable cause.
+[13]
+In 
+Odchigue-Bondoc
+, we ruled that when the public prosecutor conducts preliminary investigation, he thereby exercises 
+investigative
+ or 
+inquisitorial powers
+. Investigative or inquisitorial powers include the powers of an administrative body to inspect the records and premises, and investigate the activities of persons or entities coming under his jurisdiction, or to secure, or to require the disclosure of information by means of accounts, records, reports, statements, testimony of witnesses, and production of documents.
+[14]
+ This power is distinguished from judicial adjudication which signifies the exercise of power and authority to adjudicate upon the rights and obligations of concerned parties.
+[15]
+ Indeed, it is the exercise of investigatory powers which sets a public prosecutor apart from the court.
+The public prosecutor exercises investigative powers in the conduct of preliminary investigation to determine whether, based on the evidence presented to him, he should take further action by filing a criminal complaint in court. In doing so, he does not adjudicate upon the rights, obligations or liabilities of the parties before him. Since the power exercised by the public prosecutor in this instance is merely investigative or inquisitorial, it is subject to a different standard in terms of stating the facts and the law in its determinations. This is also true in the case of the DOJ Secretary exercising her review powers over decisions of public prosecutors. Thus, it is sufficient that in denying a petition for review of a resolution of a prosecutor, the DOJ resolution state the law upon which it is based.
+We rule, therefore, that the DOJ resolution satisfactorily complied with constitutional and legal requirements when it stated its legal basis for denying MERALCOâs petition for review which is Section 7 of Department Circular No. 70, which authorizes the Secretary of Justice to dismiss a petition outright if he finds it to be patently without merit or manifestly intended for delay, or when the issues raised therein are too insubstantial to require consideration.
+The DOJ resolution noted that MERALCO failed to submit a legible true copy of the confirmation of sale dated May 30, 2000 and considered the omission in violation of Section 5
+[16]
+ of Department Circular No. 70.  MERALCO assails the dismissal on this ground as an overly technical application of the rules and claims that it frustrated the ends of substantial justice.  We note, however, that the failure to attach the document was not the sole reason of the DOJâs denial of MERALCOâs petition for review. As mentioned, the DOJ resolution dismissed the petition primarily because the prosecutorâs resolution is in accord with the evidence and the law on the matter.
+At this point, it becomes unnecessary to decide the legality of Section 7 of DOJ Department Circular No. 70 allowing the outright dismissal of MERALCOâs petition for review. It is basic that this Court will not pass upon a constitutional question although properly presented by the record if the case can be disposed of on some other ground.
+[17]
+Also, DOJ Department Circular No. 70 is an enactment of an executive department of the government and is designed for the expeditious and efficient administration of justice; before it was enacted, it is presumed to have been carefully studied and determined to be constitutional.
+[18]
+ Lest we be misunderstood, we do not hereby evade our duty; in the absence of any grave abuse of discretion, we merely accord respect to the basic constitutional principle of separation of powers, which has long guided our system of government.
+B.   The determination of probable cause
+ for the filing of an information in court 
+is an executive function
+â[T]he determination of probable cause for the filing of an information in court is an executive function which pertains at the first instance to the public prosecutor and then to the Secretary of Justice.â
+[19]
+ As a rule, in the absence of any grave abuse of discretion, â[c]ourts are not empowered to substitute their own judgment for that of the executive branchâ;
+[20]
+ the public prosecutor alone determines the sufficiency of evidence that will establish probable cause in filing a criminal information and courts will not interfere with his findings unless grave abuse of discretion can be shown.
+[21]
+This notwithstanding, we have examined the records and found no error in the public prosecutorâs determination that no probable cause existed to justify the filing of a criminal complaint.
+The respondents are being charged with 
+estafa
+ under Article 315, paragraphs 1(a), 1(b) and 2(a) of the Revised Penal Code. To be held liable for 
+estafa
+ under Article 315, paragraph 1(b) of the Revised Penal Code
+[22]
+ (
+estafa
+ by conversion or misappropriation), the following elements must concur:
+ 
+ 
+(1) 
+ 
+that money, goods, or other personal properties are received by the offender in trust, or on commission, or for administration, or under any other obligation involving the duty to make delivery of, or to return, the same;
+ 
+ 
+ 
+(2) 
+ 
+that there is a misappropriation or conversion of such money or property by the offender or denial on his part of such receipt;
+ 
+ 
+ 
+(3)
+ 
+ 
+that such misappropriation or conversion or denial is to the prejudice of another; and
+ 
+ 
+ 
+(4) 
+ 
+that there is a demand made by the offended party on the offender.
+[23]
+ 
+ 
+The records show that 
+MERALCO failed to prove that the respondents indeed misappropriated or converted its investments
+. As the handling prosecutor found, aside from the Minutes of the June 8, 2000 Meeting, 
+MERALCO did not present any evidence that would prove that MERALCO indeed gave specific instructions for CIPI to invest only in GS or CPs of the Lopez Group.
+According to the CA, the said Minutes do not have any probative value for being hearsay because they attest to the existence of an agreement purportedly entered into between respondent Atilano and Lopez whose testimony was never presented in evidence. While respondent Atilano explicitly denied having received any specific instructions from MERALCO on how its investments would be placed, MERALCO failed to present any contrary evidence. MERALCO could have presented in evidence the testimony of Lopez to prove that he gave specific instructions to CIPI to place its investments only in GS or CPs of the Lopez Group, but it failed to do so.
+Absent any proof of specific instructions, CIPI cannot be said to have misappropriated or diverted MERALCOâs investments. We take note that in money market transactions, 
+the dealer is given discretion on where investments are to be placed, 
+absent any agreement with or instruction from the investor to place the investments in specific securities.
+Money market transactions may be conducted in various ways. One instance is when an investor enters into an investment contract with a dealer under terms that oblige the dealer to place investments only in designated securities. Another is when there is no stipulation for placement on designated securities; thus, the dealer is given discretion to choose the placement of the investment made. Under the first situation, a dealer who deviates from the specified instruction may be exposed to civil and criminal prosecution; in contrast, the second situation may only give rise to a civil action for recovery of the amount invested.
+On the other hand, to be held liable under Article 315, paragraph 2(a) of the Revised Penal Code
+[24]
+ (
+estafa
+ by means of deceit), the following elements must concur:
+ 
+ 
+(a) 
+ 
+that there must be a false pretense or fraudulent representation as to his power, influence, qualifications, property, credit, agency, business or imaginary transactions; 
+ 
+ 
+ 
+(b) 
+ 
+that such false pretense or fraudulent representation was made or executed prior to or simultaneously with the commission of the fraud;
+ 
+ 
+ 
+(c) 
+ 
+that the offended party relied on the false pretense, fraudulent act, or fraudulent means and was induced to part with his money or property; and
+ 
+ 
+ 
+(d) 
+ 
+that, as a result thereof, the offended party suffered damage.
+[25]
+ 
+ 
+MERALCO argued that the respondents are guilty of falsely pretending that they possess power, influence and qualifications to buy GS and CPs of the Lopez Group, to induce MERALCO to part with its investment. We rule that the argument has no basis precisely because no evidence exists showing that CIPI made false representations regarding its capacity to deal with MERALCOâs investments. In fact, the records will show that respondent Atilano disclosed CIPIâs liquidity problems to MERALCO even before MERALCO placed its investment. We agree with the prosecutorâs finding that aside from its allegations, MERALCO failed to present any evidence showing that any of the respondents made any fraudulent misrepresentations or false statements prior to or simultaneously with the delivery of MERALCOâs funds to CIPI.
+Finally, apart from its sweeping allegation that the respondents misappropriated or converted its money placements, the handling prosecutor found that MERALCO failed to establish, by evidence, the particular role or actual participation of each respondent in the alleged criminal act. Neither was it shown that they assented to its commission. âIt is basic that only corporate officers shown to have participated in the alleged anomalous acts may be held criminally liable.â
+[26]
+WHEREFORE
+, the petition is 
+DENIED
+. The decision dated September 29, 2004 and the resolution dated January 18, 2005 of the Court of Appeals are 
+AFFIRMED
+. No pronouncement as to costs.
+SO ORDERED.
+Carpio, (Chairperson), Perez, Sereno,
+ and 
+Reyes, JJ.
+, concur.
+[1]
+ Filed under Rule 45 of the Revised Rules of Court; 
+rollo
+, pp. 22-79.
+[2]
+ Dated September 29, 2004; penned by Associate Justice Martin S. Villarama, Jr. (now a member of this Court), and concurred in by Associate Justices Edgardo F. Sundiam and Japar B. Dimaampao.  
+Id.
+ at 87-108.
+[3]
+ Dated January 18, 2005; id. at 111.
+[4]
+ 
+Id
+. at 190.
+[5]
+ 2000 NPS Rule on Appeal dated July 3, 2000
+Section 7. Action on the petition- The Secretary of Justice may dismiss the petition outright if he finds the same to be patently without merit or manifestly intended for delay, or when the issues raised therein are too unsubstantial to require consideration.
+Section 12. Disposition of the appeal. The Secretary may reverse, affirm or modify the appealed resolution. He may, motu proprio or upon motion, dismiss the petition for review on any of the following grounds:
+x x x x
+c) That there is no showing of any reversible error[.]
+[6]
+ Section 5. Contents of petition. â
+x x x x
+The petition shall be accompanied by legible duplicate original or certified true copy of the resolution appealed from together with legible true copies of the complaint, affidavits/sworn statements and other evidence submitted by the parties during the preliminary investigation/reinvestigation.
+[7]
+ 310 Phil. 671 (1995).
+[8]
+ Section 14.  No decision shall be rendered by any court without expressing therein clearly and distinctly the facts and the law on which it is based.
+No petition for review or motion for reconsideration of a decision of the court shall be refused due course or denied without stating the legal basis therefor.
+[9]
+ Section 14. 
+Decision
+. â Every decision rendered by the agency in a contested case shall be in writing and shall state clearly and distinctly the facts and the law on which it is based. The agency shall decide each case within thirty (30) days following its submission. The parties shall be notified of the decision personally or by registered mail addressed to their counsel of record, if any, or to them.
+[10]
+ G.R. No. 186652, October 6, 2010, 632 SCRA 457, 463, citing 
+Spouses Balangauan v. Court of Appeals
+, Special Nineteenth Division, Cebu City, G.R. No. 174350, August 13, 2008, 562 SCRA 184.
+[11]
+ 
+Supra.
+[12]
+ 
+Id.
+ at 204.
+[13]
+ Ibid.
+[14]
+ Hector S. de Leon & Hector M. de Leon, Jr., Administrative Law: Text and Cases, 5th Edition (2005), p. 66.
+[15]
+ 
+Id.
+ at 67.
+[16]
+ Section 5. Contents of petition. â x x x
+x x x x
+The petition shall be accompanied by legible duplicate original or certified true copy of the resolution appealed from together with legible true copies of the complaint, affidavits/sworn statements and other evidence submitted by the parties during the preliminary investigation/reinvestigation.
+[17]
+ Laurel v. Garcia,
+ G.R. Nos. 92013 and 92047, July 25, 1990, 187 SCRA 797.
+[18]
+ Isagani A. Cruz, Constitutional Law (2007), p. 31.
+[19]
+ 
+Cruzvale, Inc. v. Eduque,
+ G.R. Nos.  172785-86, June 18, 2009, 589 SCRA 534, 545.
+[20]
+ Ibid
+.
+[21]
+ 
+Sanrio Company Limited v. Lim,
+ G.R. No. 168662, February 19, 2008, 546 SCRA 303, 312-313.
+[22]
+ Article 315. 
+Swindling (estafa).
+ â Any person who shall defraud another by any of the means mentioned hereinbelow shall be punished by:
+x x x x
+1.   With unfaithfulness or abuse of confidence, namely:
+x x x x
+(b)  By misappropriating or converting, to the prejudice of another, money, goods, or any other personal property received by the offender in trust or on commission, or for administration, or under any other obligation involving the duty to make delivery of or to return the same, even though such obligation be totally or partially guaranteed by a bond; or by denying having received such money, goods, or other property.
+[23]
+ Libuit v. People
+, 506 Phil. 591, 597 (2005).
+[24]
+ Art. 315.  x x x
+x x x x
+2. By means of any of the following false pretenses or fraudulent acts executed prior to or simultaneously with the commission of the fraud:
+(a) By using fictitious name, or falsely pretending to possess power, influence, qualifications, property, credit, agency, business or imaginary transactions, or by means of other similar deceits.
+[25]
+ Sy v. People
+, G.R. No. 183879, April 14, 2010, 618 SCRA 264, 271.
+[26]
+ 
+Cruzvale, Inc. v. Eduque, supra
+ note 19, at 546.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

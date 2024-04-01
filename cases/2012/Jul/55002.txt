@@ -1,0 +1,363 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			690 Phil. 491
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 171337, July 30, 2012 ]
+
+
+BENJAMIN CUA (CUA ULAN TEK), PETITIONER, VS. WALLEM PHILIPPINES SHIPPING, INC. AND ADVANCE SHIPPING CORPORATION, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+BRION, J.:
+
+
+Petitioner Benjamin Cua invokes the Court's power of review, through a petition for review on 
+certiorari
+,
+[1]
+ to set aside the decision dated May 16, 2005
+[2]
+ and the resolution dated January 31, 2006
+[3]
+ of the Court of Appeals (CA) in CA-G.R. CV No. 53538. The CA rulings reversed the decision dated December 28, 1995
+[4]
+ of the Regional Trial Court 
+(RTC)
+, Branch 31, Manila, in Civil Case No. 90-55098, where the RTC ordered the respondents, Wallem Philippines Shipping, Inc. 
+(Wallem)
+ and Advance Shipping Corporation (
+Advance Shipping
+), jointly and severally liable to pay damages in favor of Cua.
+THE FACTS
+On November 12, 1990, Cua filed a civil action for damages against Wallem and Advance Shipping before the RTC of Manila.
+[5]
+ Cua sought the payment of P2,030,303.52 for damage to 218 tons and for a shortage of 50 tons of shipment of Brazilian Soyabean consigned to him, as evidenced by Bill of Lading No. 10. He claimed that the loss was due to the respondentsâ failure to observe extraordinary diligence in carrying the cargo. Advance Shipping (a foreign corporation) was the owner and manager of M/V 
+Argo Trader
+ that carried the cargo, while Wallem was its local agent.
+Advance Shipping filed a motion to dismiss the complaint,
+[6]
+ assailing the RTCâs jurisdiction over Cuaâs claim; it argued that Cuaâs claim should have first been brought to arbitration. Cua opposed Advance Shippingâs argument; he contended that he, as a consignee, was not bound by the Charter Party Agreement, which was a contract between the ship owner (Advance Shipping) and the charterers.
+[7]
+ The RTC initially deferred resolving the question of jurisdiction until after trial on the merits,
+[8]
+ but upon motion by Advance Shipping,
+[9]
+ the RTC ruled that Cua was not bound by the arbitration clause in the Charter Party Agreement.
+[10]
+In the meantime, Wallem filed its own motion to dismiss,
+[11]
+ raising the sole ground of prescription. Section 3(6) of the Carriage of Goods by Sea Act 
+(COGSA) 
+provides that âthe carrier and the ship shall be discharged from all liability in respect of loss or damage unless suit is brought 
+within one year after delivery of the goods.
+â Wallem alleged that the goods were delivered to Cua on August 16, 1989, but the damages suit was instituted only on November 12, 1990 â more than one year than the period allotted under the COGSA. Since the action was filed beyond the one year prescriptive period, Wallem argued that Cuaâs action has been barred.
+Cua filed an opposition to Wallemâs motion to dismiss, denying the latterâs claim of prescription.
+[12]
+ Cua referred to the 
+August 10, 1990
+ telex message sent by Mr. A.R. Filder of Thomas Miller,
+[13]
+ manager of the UK P&I Club,
+[14]
+ which stated that Advance Shipping agreed to extend the commencement of suit for 90 days, from August 14, 1990 to November 12, 1990; the extension was made with the concurrence of the insurer of the vessel, the UK P&I Club. A copy of the August 10, 1990 telex was 
+supposedly
+ attached to Cuaâs opposition.
+On February 11, 1992, Wallem filed an omnibus motion,
+[15]
+ withdrawing its motion to dismiss and adopting instead the arguments in Advance Shippingâs motion to dismiss. It made an express reservation, however, that it was not waiving âthe defense of prescription and will allege as one of its defenses, such defense of prescription and/or laches in its Answer should this be required by the circumstances[.]â
+[16]
+ Accordingly, in an order dated June 5, 1992,
+[17]
+ the RTC resolved that âthe Court need not act on the Motion to Dismiss filed by the defendant Wallem Philippines Shipping, Inc.[,]â
+[18]
+ and required the defendants therein to file their Answer.
+After trial on the merits, the RTC issued its decision on December 28, 1995,
+[19]
+ ordering the respondents jointly and severally liable to pay as damages to Cua:
+the amount of P2,030,000.00, plus interests until the same is fully paid;
+the sum of P100,00.00 as attorneyâs fees; and
+the costs of [the] suit,
+and dismissing the counterclaims of the respondents.
+The respondents filed an appeal with the CA, insisting that Cuaâs claim is arbitrable and has been barred by prescription and/or laches.
+[20]
+ The CA found the respondentsâ claim of prescription meritorious after finding that the August 10, 1990 telex message, extending the period to file an action, was neither attached to Cuaâs opposition to Wallemâs motion to dismiss, nor presented during trial. The CA ruled that there was no basis for the RTC to conclude that the prescriptive period was extended by the partiesâ agreement. Hence, it set aside the RTC decision and dismissed Cuaâs complaint.
+[21]
+Cua filed a motion for reconsideration
+[22]
+ of the CA decision, which was denied by the CA in a resolution dated January 31, 2006.
+[23]
+ Cua thus filed the present petition to assail the CA rulings.
+THE PARTIESâ ARGUMENTS
+Cua contends that the extension of the period to file a complaint for damages was a fact that was already admitted by the respondents who may no longer assert the contrary, unless they sufficiently show that it was made through palpable mistake or that no admission was made. Cua points out that Wallemâs motion to dismiss raised solely the issue of prescription, which he refuted by referring to the August 10, 1990 telex message extending the prescriptive period. Immediately after, Wallem withdrew its motion to dismiss. Cua thus attributes the withdrawal to an admission by Wallem of the existence of the August 10, 1990 telex message. Cua adds that Wallemâs withdrawal of its motion to dismiss dispensed with the need for him to present as evidence the telex message, since the RTC ruled that there is no more need to act on the motion to dismiss. Cua, therefore, prays for the setting aside of the CA rulings and the reinstatement of the RTC decision.
+The respondents, on the other hand, deny that an admission was made with respect to the existence of the August 10, 1990 telex message. The telex message was never attached to Cuaâs opposition to Wallemâs motion to dismiss, hence, there was no need for the respondents to deny its existence. They contend that Wallemâs withdrawal of its motion to dismiss does not amount to an admission of the existence of the telex message, nor does it amount to a waiver of the defense for prescription. As stated in the June 5, 1992 Order of the RTC, the âdefendant [referring to Wallem] moved for the withdrawal of the Motion to Dismiss 
+without waiving the defense of prescription
+.â
+[24]
+ They thus pray for the denial of the petition.
+THE COURTâS RULING
+The basic issue presented by the case is 
+whether Cuaâs claim for payment of damages against the respondents has prescribed
+. After considering the facts and the applicable law, the Court finds that Cua timely filed his claim before the trial court.
+Prescription may be considered by the courts 
+motu proprio if the facts supporting the ground 
+are apparent from the pleadings or the evidence
+ on record
+Section 1, Rule 16 of the Rules of Court
+[25]
+ enumerates the grounds on which a motion to dismiss a complaint may be based, and the prescription of an action is included as one of the grounds under paragraph (f). The defendant may either raise the grounds in a motion to dismiss or plead them as an affirmative defense in his answer.
+[26]
+ The failure to raise or plead the grounds generally amounts to a waiver, except if the ground pertains to (1) lack of jurisdiction over the subject matter, (2) 
+litis pendentia,
+ (3) 
+res judicata,
+ or (4) prescription.
+[27]
+ If the facts supporting any of these four listed grounds are apparent from the pleadings or the evidence on record, the courts may consider these grounds 
+motu proprio
+ and accordingly dismiss the complaint. Accordingly, no reversible error may be attributed to the CA in considering prescription as a ground to dismiss Cuaâs action despite Wallemâs supposed waiver of the defense. The Court, therefore, need not resolve the question of whether Wallem actually waived the defense of prescription; an inquiry into this question is useless, as courts are empowered to dismiss actions on the basis of prescription even if it is not raised by the defendant so long as the facts supporting this ground are evident from the records. In the present case, what is decisive is whether the pleadings and the evidence support a finding that Cuaâs claim has prescribed, and it is on this point that we disagree with the CAâs findings. We find that the CA failed to appreciate the admissions made by the respondents in their pleadings that negate a finding of prescription of Cuaâs claim.
+Respondents admitted the agreement
+ extending the period to file the claim
+The COGSA is the applicable law for all contracts for carriage of goods by sea to and from Philippine ports in foreign trade;
+[28]
+ it is thus the law that the Court shall consider in the present case since the cargo was transported from Brazil to the Philippines.
+Under 
+Section 3(6) of the COGSA
+, the carrier is discharged from liability for loss or damage to the cargo âunless the suit is brought within 
+one year after delivery of the goods
+ or the date when the goods should have been delivered.â
+[29]
+ Jurisprudence, however, recognized the validity of an agreement between the carrier and the shipper/consignee extending the one-year period to file a claim.
+[30]
+The vessel MV 
+Argo Trader
+ arrived in Manila on July 8, 1989; Cuaâs complaint for damages was filed before the RTC of Manila on November 12, 1990. Although the complaint was clearly filed beyond the one-year period, Cua additionally alleged in his complaint (under paragraph 11) that 
+â[t]he defendants x x x agreed to extend the time for filing of the action up to November 12, 1990.â
+[31]
+The allegation of an agreement extending the period to file an action in Cuaâs complaint is a material averment that, under Section 11, Rule 8 of the Rules of Court, must be specifically denied by the respondents; otherwise, the allegation is deemed admitted.
+[32]
+A specific denial is made by specifying each material allegation of fact, the truth of which the defendant does not admit and, whenever practicable, setting forth the substance of the matters upon which he relies to support his denial.
+[33]
+ The purpose of requiring the defendant to make a specific denial is to make him disclose the matters alleged in the complaint which he succinctly intends to disprove at the trial, 
+together with the matter which he relied upon to support the denial
+.
+[34]
+A review of the pleadings submitted by the respondents discloses that they failed to specifically deny Cuaâs allegation of an agreement extending the period to file an action to November 12, 1990
+. Wallemâs motion to dismiss simply referred to the fact that Cuaâs complaint was filed more than one year from the arrival of the vessel, but it did not contain a denial of the extension.
+[35]
+ Advance Shippingâs motion to dismiss, on the other hand, focused solely on its contention that the action was premature for failure to first undergo arbitration.
+[36]
+ While the joint answer submitted by the respondents denied Cuaâs allegation of an extension,
+[37]
+ they made no further statement other than a bare and unsupported contention that Cuaâs âcomplaint is barred by prescription and/or laches[.]â
+[38]
+ The respondents did not provide in their joint answer any factual basis for their belief that the complaint had prescribed.
+We cannot consider the respondentsâ discussion on prescription in their Memorandum filed with the RTC,
+[39]
+ since their arguments were based on Cuaâs supposed failure to comply with Article 366 of the Code of Commerce, not Section 3(6) of the COGSA â the relevant and material provision in this case. Article 366 of the Code of Commerce requires that a claim be made with the carrier within 24 hours from the delivery of the cargo; the respondents alleged that they were informed of the damage and shortage only on September 13, 1989, months after the vesselâs arrival in Manila.
+Since the COGSA is the applicable law, the respondentsâ discussion to support their claim of prescription under Article 366 of the Code of Commerce would, therefore, not constitute a refutation of Cuaâs allegation of extension. Given the respondentsâ failure to specifically deny the agreement on the extension of the period to file an action, the Court considers the extension of the period as an admitted fact.
+This presumed admission is further bolstered by the express admission made by the respondents themselves in their Memorandum:
+STATEMENT OF THE CASE
+1. This case was filed by [the] plaintiff on 11 November 1990 
+within the extended period agreed upon by the parties to file suit
+. 
+[40]
+(emphasis ours)
+The above statement is a clear admission by the respondents that there was indeed an agreement to extend the period to file the claim. In light of this admission, it would be unnecessary for Cua to present a copy of the August 10, 1990 telex message to prove the existence of the agreement. Thus, Cua timely filed a claim for the damage to and shortage of the cargo.
+WHEREFORE
+, the decision dated May 16, 2005 and the resolution dated January 31, 2006 of the Court of Appeals in CA-G.R. CV No. 53538 are 
+SET ASIDE.
+ The decision dated December 28, 1995 of the Regional Trial Court of Manila, Branch 31, in Civil Case No. 90-55098 is 
+REINSTATED
+. Costs against the respondents.
+SO ORDERED.
+Carpio, (Chairperson), Perez, Sereno, 
+and
+ Reyes, JJ
+., concur.
+[1] 
+Filed under Rule 45 of the Rules of Court; 
+rollo
+, pp. 3-1 I.
+[2]
+ Penned by Associate Justice Santiago Javier Ranada, and concurred in by Associate Justices Rebecca de Guia Salvador and Mario L. Guarifia III;
+ id
+. at 14-20.
+[3]
+ 
+Id
+. at 21-22.
+[4]
+ Penned by Judge Regino T. Yeridiano II; CA 
+rollo
+, pp. 110-115.
+[5]
+ RTC records, pp. 1-3.
+[6]
+ 
+Id.
+ at 11-20. 
+[7]
+ 
+Id
+. at 45-55.
+[8]
+ RTC order dated June 17, 1991; 
+id.
+ at 58.
+[9]
+ 
+Id.
+ at 63-69 
+[10]
+ RTC order dated July 3, 1992;
+ id. 
+at 126. 
+[11]
+ 
+Id.
+ at 97-100.
+[12]
+ 
+Id. 
+at 102-104. 
+[13]
+ Thomas Miller is âa provider of business services to mutuals, specialist insurance sectors, asset management and wealth creation vehicles,â and âprovide[s] insurance services to the owners of about half of the world's shipping tonnage, as well as to leading container operators, freight forwarders, terminal operators, ship agents and ship brokersâ; http://www.thomasmiller.com/who-we-are/, last visited on May 14, 2012. 
+[14]
+ The UK P&I Club is a mutual insurance association that provides protection and indemnity insurance in respect of third party liabilities and expenses arising from owning ships or operating ships as principals; http://www.ukpandi.com/about-the-club/, last viewed on May 14, 2012. 
+[15]
+ RTC records, pp. 111-112.
+[16]
+ 
+Id.
+ at 111.
+[17]
+ 
+Rollo
+, p. 24.
+[18]
+ 
+Ibid. 
+[19]
+ 
+Supra
+ note 4. 
+[20]
+ CA 
+rollo
+, pp. 53-109.
+[21]
+ Supra note 2.
+[22]
+ CA 
+rollo
+, pp. 142-148.
+[23]
+ Supra note 3.
+[24]
+ 
+Rollo
+, p. 24. 
+[25]
+ Section 1. 
+Grounds.
+âWithin the time for but before filing the answer to the complaint or pleading asserting a claim, a motion to dismiss may be made on any of the following grounds:
+(a) That the court has no jurisdiction over the person of the defending party; 
+(b) That the court has no jurisdiction over the subject matter of the claim;
+(c) That venue is improperly laid;
+(d) That the plaintiff has no legal capacity to sue;
+(e) That there is another action pending between the same parties for the same cause; 
+(f) That the cause of action is barred by a prior judgment or by the statute of limitations; 
+(g) That the pleading asserting the claim states no cause of action; 
+(h) That the claim or demand set forth in the plaintiffâs pleading has been paid, waived, abandoned, or otherwise extinguished; 
+(i) That the claim on which the action is founded is unenforceable under the provisions of the statute of frauds; and
+(j) That a condition precedent for filing the claim has not been complied with.
+[26]
+ See RULES OF COURT, Rule 9, Section 1, and Rule 16, Sections 1 and 6. 
+[27]
+ RULES OF COURT, Rule 9, Section 1.
+[28]
+ Commonwealth Act No. 65, Section 1. That the provisions of Public Act Numbered Five hundred and twenty-one of the Seventy-fourth Congress of the United States, approved on April sixteenth, nineteen hundred and thirty-six, be accepted, as it is hereby accepted to be made applicable to all contracts for the carriage of goods by sea to and from Philippine ports in foreign trade: Provided, That nothing in the Act shall be construed as repealing any existing provision of the Code of Commerce which is now in force, or as limiting its application. (See also 
+Insurance Company of North America v. Asian Terminals, Inc.
+, G.R. No. 180784, February 15, 2012.)
+[29]
+ COGSA, Section 3(6) Unless notice or loss or damage and the general nature of such loss or damage [be] given in writing to the carrier or his agent at the port of discharge or at the time of the removal of the goods into the custody of the person entitled to delivery thereof under the contract of carriage, such removal shall be prima facie evidence of the delivery by the carrier of the goods as described in the bill of lading. If the loss or damage is not apparent, the notice must be given within three days of the delivery.
+Said notice of loss or damage may be endorsed upon the receipt for the goods given by the person taking delivery thereof.
+The notice in writing need not be given if the state of the goods has at the time of their receipt been the subject of joint survey or inspection.
+In any event the carrier and the ship shall be discharged from all liability in respect of loss or damage unless suit is brought within one year after delivery of the goods or the date when the goods should have been delivered
+: Provided, that, if a notice of loss or damage, either apparent or concealed, is not given as provided for in this section, that fact shall not affect or prejudice the right of the shipper to bring suit within one year after the delivery of the goods or the date when the goods should have been delivered.
+In the case of any actual or apprehended loss or damage, the carrier and the receiver shall give all reasonable facilities to each other for inspecting and tallying the goods. 
+[30]
+ 
+Universal Shipping Lines, Inc. v. Intermediate Appellate Court
+, G.R. No. 74125, July 31, 1990, 188 SCRA 170, 174; 
+Tan Liao v. American President Lines, Ltd.
+, 98 Phil. 203, 211 (1956); and 
+Chua Kuy v. Everrett Steamship Corporation
+, 93 Phil. 207, 215 (1953).
+[31]
+ RTC records, p. 3. 
+[32]
+ RULES OF COURT, Rule 8, Section 11. 
+Allegations not specifically denied deemed admitted
+. â Material averment in the complaint, other than those as to the amount of unliquidated damages, shall be.deemed admitted when not specifically denied. Allegations of usury in a complaint to recover usurious interest are deemed admitted if not denied under oath.
+[33]
+ RULES OF COURT, Rule 8, Section 10. 
+Specific denial
+. â A defendant must specify each material allegation of fact the truth of which he does not admit and, whenever practicable, shall set forth the substance of the matters upon which he relies to support his denial. Where a defendant desires to deny only a part of an averment, he shall specify so much of it as is true and material and shall deny only the remainder. Where a defendant is without knowledge or information sufficient to form a belief as to the truth of a material averment made in the complaint, he shall so state, and this shall have the effect of a denial. 
+[34]
+ 
+Philippine National Bank v. Court of Appeals
+, 464 Phil. 331, 339 (2004). 
+[35]
+ RTC records, p. 97. 
+[36]
+ 
+Id
+. at 11-19.
+[37]
+ The defendantâs Answer with Counterclaims (
+id
+. at 139) states:
+â6. They deny the allegations of paragraphs 6, 7, 8, 9, 10 and 11 [of Cuaâs complaint] for the reasons stated in their special and affirmative defenses[.]â 
+Paragraph 11 of Cuaâs complaint contains the allegation on an agreement to extend the period to file the action (
+id
+. at 3).
+[38]
+ 
+Id. 
+at 141.
+[39]
+ 
+Id
+. at 301-333.
+[40]
+ 
+Id
+. at 301.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

@@ -4,7 +4,7 @@ import os
 from tqdm import tqdm
 
 def generate_month_urls(base_url, year):
-    months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+    months = ['Jan', 'Feb', 'Mar', 'Apr']
     month_urls = []
     for month in months:
         month_url = f"{base_url}/thebookshelf/docmonth/{month}/{year}/1"
@@ -63,7 +63,7 @@ def save_data_to_txt(data, folder, filename):
 
 # Example usage:
 base_url = "https://elibrary.judiciary.gov.ph"
-year = "2009"
+year = "2018"
 
 month_urls = generate_month_urls(base_url, year)
 

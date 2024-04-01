@@ -1,0 +1,295 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			828 Phil. 529
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 230020, March 19, 2018 ]
+
+
+PETER L. SO, PETITIONER, V. PHILIPPINE DEPOSIT INSURANCE CORPORATION, RESPONDENT.
+
+
+D E C I S I O N
+
+
+
+
+TIJAM, J.:
+
+
+This is a Petition for Review on 
+Certiorari
+[1]
+ under Rule 45 of the Rules of Court, assailing the Decision
+[2]
+ dated November 7, 2016 and Order
+[3]
+ dated February 17, 2017 of the Regional Trial Court (RTC) of Makati, Branch 138, in Special Civil Case No. 16-031, which dismissed Peter L. So's (petitioner's) Petition for 
+Certiorari
+[4]
+ on the ground of lack of jurisdiction. 
+ 
+Factual Antecedents
+ 
+ Petitioner opened an account with the Cooperative Rural Bank Bulacan (CRBB) on April 17, 2013, amounting to P300,000, for which he was assigned the Special Incentive Savings Account (SISA) No. 05-15712-1.
+[5]
+ 
+ On the same year, however, petitioner learned that CRBB closed its operations and was placed under Philippine Deposit Insurance Corporation's (PDIC's) receivership. This prompted petitioner, together with other depositors, to file an insurance claim with the PDIC on November 8, 2013.
+[6]
+ 
+Acting upon such claim, PDIC sent a letter/notice dated November 22, 2013, requiring petitioner to submit additional documents, which petitioner averred of having complied with.
+[7]
+ 
+ Upon investigation, the PDIC found that petitioner's account originated from and was funded by the proceeds of a terminated SISA (mother account), jointly owned by a certain Reyes family.
+[8]
+ Thus, based on the determination that petitioner's account was among the product of the splitting of the said mother account which is prohibited by law, PDIC denied petitioner's claim for payment of deposit insurance.
+[9]
+ Petitioner filed a Request for Reconsideration, which was likewise denied by the PDIC on January 6, 2016.
+[10]
+ 
+Aggrieved, petitioner filed a Petition for 
+Certiorari
+[11]
+ under Rule 65 before the RTC. 
+ 
+RTC Ruling
+ 
+ In its November 7, 2016 assailed Decision, the RTC upheld the factual findings and conclusions of the PDIC. According to the RTC, based on the records, the PDIC correctly denied petitioner's claim for insurance on the ground of splitting of deposits which is prohibited by law.
+[12]
+ 
+ It also declared that, pursuant to its Charter (RA 3591), PDIC is empowered to determine and pass upon the validity of the insurance deposits claims, it being the deposit insurer. As such, when it rules on such claims, it is exercising a quasi-judicial function. Thus, it was held that petitioner's remedy to the dismissal of his claim is to file a petition for 
+certiorari
+ with the Court of Appeals under Section 4,
+[13]
+ Rule 65, stating that if the petition involves the acts or omissions of a quasi-judicial agency, unless otherwise provided by law or the rules, it shall be filed in and cognizable only by the Court of Appeals (CA).
+[14]
+ 
+In addition, the RTC also cited Section 22
+[15]
+ of Republic Act (RA) No. 3591, as amended, which essentially states that only the CA shall issue temporary restraining orders, preliminary injunctions or preliminary mandatory injunctions against the PDIC for any action under the said Act. 
+The RTC disposed, thus: 
+ 
+WHEREFORE, in view of the foregoing, for lack of jurisdiction, the petition for 
+certiorari
+ filed by the petitioner is hereby DISMISSED. 
+ 
+SO ORDERED
+.
+[16]
+ 
+ 
+ 
+ In its February 17, 2017 Order, the RTC denied petitioner's motion for reconsideration. 
+Hence, this petition, filed directly to this Court on pure question of law. 
+ 
+Issue
+ 
+Does the RTC have jurisdiction over a petition for 
+certiorari
+ filed under Rule 65, assailing the PDIC's denial of a deposit insurance claim? 
+Our Ruling
+ 
+The petition lacks merit. 
+ There is no controversy as to the proper remedy to question the PDIC's denial of petitioner's deposit insurance claim. Section 4(f) of its Charter, as amended, clearly provides that: 
+ 
+x x x
+ 
+ 
+The actions of the Corporation taken under this section shall be final and executory, and may not be restrained or set aside by the court, except on appropriate petition for 
+certiorari 
+on the ground that the action was taken in excess of jurisdiction or with such grave abuse of discretion as to amount to a lack or excess of jurisdiction.
+ The petition for 
+certiorari 
+may only be filed within thirty (30) days from notice of denial of claim for deposit insurance. (emphasis supplied) 
+ 
+ 
+ The issue, however, is which court has jurisdiction over such petition.
+ Petitioner's stance is that the petition for 
+certiorari
+, questioning PDIC's action, denying a deposit insurance claim should be filed with the RTC, arguing in this manner: PDIC is not a quasi-judicial agency and it does not possess any quasi-judicial power under its Charter; It merely performs fact-finding functions based on its regulatory power. As such, applying Section 4, Rule 65 of the Rules of Court, as amended by A.M. 07-7-12-SC, which in part states that if the petition relates to an act or omission of a corporation, such as the PDIC, it shall be filed with the RTC exercising jurisdiction over the territorial area as defined by this Court; Also, Batas Pambansa Blg. 129 or the Judiciary Reorganization Act provides that this Court, the CA, and the RTC have original concurrent jurisdiction over petitions for 
+certiorari
+, prohibition, and mandamus. Applying the principle of hierarchy of courts, the RTC indeed has jurisdiction over such petition for 
+certiorari
+. 
+ We do not agree.
+ On June 22, 1963, PDIC was created under RA 3591 as an insurer of deposits in all banks entitled to the benefits of insurance under the said Act to promote and safeguard the interests of the depositing public.
+[17]
+ As such, PDIC has the duty and authority to determine the validity of and grant or deny deposit insurance claims. Section 16(a) of its Charter, as amended, provides that PDIC shall commence the determination of insured deposits due the depositors of a closed bank upon its actual take over of the closed bank. Also, Section 1 of PDIC's Regulatory Issuance No. 2011-03, provides that as it is tasked to promote and safeguard the interests of the depositing public by way of providing permanent and continuing insurance coverage on all insured deposits, and in helping develop a sound and stable banking system at all times, PDIC shall pay all legitimate deposits held by bona fide depositors and provide a mechanism by which depositors may seek reconsideration from its decision, denying a deposit insurance claim. Further, it bears stressing that as stated in Section 4(f) of its Charter, as amended, PDIC's action, such as denying a deposit insurance claim, is considered as final and executory and may be reviewed by the court only through a petition for 
+certiorari
+ on the ground of grave abuse of discretion. 
+ Considering the foregoing, the legislative intent in creating the PDIC as a quasi-judicial agency is clearly manifest.
+ In the case of 
+Lintang Bedol v. Commission on Elections
+,
+[18]
+ cited in 
+Carlito C. Encinas v. PO1 Alfredo P. Agustin, Jr. and PO1 Joel S. Caubang
+,
+[19]
+ this Court explained the nature of a quasi-judicial agency, 
+viz
+.: 
+ 
+ Quasi-judicial or administrative adjudicatory power on the other hand is the power of the administrative agency to adjudicate the rights of persons before it. It is the power to hear and determine questions of fact to which the legislative policy is to apply and to decide in accordance with the standards laid down by the law itself in enforcing and administering the same law. The administrative body exercises its quasi-judicial power when it performs in a judicial manner an act which is essentially of an executive or administrative nature, where the power to act in such manner is incidental to or reasonably necessary for the performance of the executive or administrative duty entrusted to it. 
+In carrying out their quasi-judicial functions the administrative officers or bodies are required to investigate facts or ascertain the existence of facts, hold hearings, weigh evidence, and draw conclusions from them as basis for their official action and exercise of discretion in a judicial nature.
+ 
+ The Court has laid down the test for determining whether an administrative body is exercising judicial or merely investigatory functions:
+ adjudication signifies the exercise of the power and authority to adjudicate upon the rights and obligations of the parties.
+ Hence, if the only purpose of an investigation is to evaluate the evidence submitted to an agency based on the facts and circumstances presented to it, and if the agency is not authorized to make a final pronouncement affecting the parties, then there is an absence of
+ judicial discretion and judgment
+. (emphasis supplied)
+ 
+ 
+ Thus, the legislative intent in creating PDIC as a quasi-judicial agency is clearly manifest. Indeed, PDIC exercises judicial discretion and judgment in determining whether a claimant is entitled to a deposit insurance claim, which determination results from its investigation of facts and weighing of evidence presented before it. Noteworthy also is the fact that the law considers PDIC's action as final and executory and may be reviewed only on the ground of grave abuse of discretion.
+ That being established, We proceed to determine where such petition for 
+certiorari
+ should be filed. In this matter, We cite the very provision invoked by the petitioner, 
+i.e
+., Section 4, Rule 65 of the Rules, as amended by A.M. No. 07-7-12-SC: 
+ 
+ Sec. 4. When and where to file the petition. - The petition shall be filed not later than sixty (60) days from notice of the judgment, order or resolution. In case a motion for reconsideration or new trial is timely filed, whether such motion is required or not, the petition shall be filed not later than sixty (60) days counted from the notice of the denial of the motion.
+ 
+ If the petition relates to an act or an omission of a municipal trial court or of a corporation, a board, an officer or a person, it shall be filed with the Regional Trial Court exercising jurisdiction over the territorial area as defined by the Supreme Court. It may also be filed with the Court of Appeals or with the Sandiganbayan, whether or not the same is in aid of the court's appellate jurisdiction. 
+If the petition involves an act or an omission of a quasi-judicial agency, unless otherwise provided by law or these rules, the petition shall be filed with and be cognizable only by the Court of Appeals.
+ (emphasis supplied)
+ 
+ 
+ Clearly, a petition for 
+certiorari
+, questioning the PDIC's denial of a deposit insurance claim should be filed before the CA, not the RTC. This further finds support in Section 22 of the PDIC's Charter, as amended, which states that: 
+ 
+Section 22. 
+No court, except the Court of Appeals
+, shall issue any temporary restraining order, preliminary injunction or preliminary mandatory injunction against the Corporation for any action under this Act. xxx. 
+ 
+ This prohibition shall apply in all cases, disputes or controversies instituted by a private party, the insured bank, or any shareholder of the insured bank. xxx. 
+ 
+xxxx
+ 
+ 
+ Finally, the new amendment in PDIC's Charter under RA 10846, specifically Section 5(g) thereof, confirms such conclusion, 
+viz
+.: 
+ 
+ The actions of the Corporation taken under Section 5(g) shall be 
+final and executory, and may only be restrained or set aside by the Court of Appeals
+, upon appropriate petition for 
+certiorari
+ on the ground that the action was taken in excess of jurisdiction or with such grave abuse of discretion as to amount to a lack or excess of jurisdiction. The petition for 
+certiorari
+ may only be filed within thirty (30) days from notice of denial of claim for deposit insurance. (Emphasis Ours)
+ 
+ 
+ As it stands, the controversy as to which court has jurisdiction over a petition for 
+certiorari
+ filed to question the PDIC's action is already settled. Therefore, We find no reversible error from the findings and conclusion of the court a quo. 
+ 
+WHEREFORE
+, the instant petition is 
+DENIED
+ for lack of merit. 
+SO ORDERED.
+ 
+ 
+Leonardo-De Castro,
+[*]
+ Del Castillo
+, and 
+Jardeleza, JJ.
+, concur. 
+ Sereno, C.J., (Chairperson)
+, on leave. 
+ 
+[*]
+ Designated as Acting Chairperson pursuant to Special Order No. 2540 dated February 28, 2018. 
+[1]
+ 
+Rollo
+, pp. 13-26. 
+ 
+[2]
+ Penned by Presiding Judge Josefino A. Subia, id. at 28-36.
+ 
+ 
+[3]
+ Id. at 37-38.
+ 
+ 
+[4]
+ Id. at 39-46.
+ 
+ 
+[5]
+ Id. at 16. 
+ 
+[6]
+ Id. 
+ 
+[7]
+ Id. 
+ 
+[8]
+ Id. at 83. 
+[9]
+ Id. at 87. 
+[10]
+ Id. at 17. 
+ 
+[11]
+ Id. at 39-46. 
+ 
+[12]
+ Id. at 35. 
+ 
+[13]
+ 
+Section 4. When and where petition filed
+. â The petition shall be filed not later than sixty (60) days from notice of the judgment, order or resolution. In case a motion for reconsideration or new trial is timely filed, whether such motion is required or not, the sixty (60) day period shall be counted from notice of the denial of said motion.
+ The petition shall be filed in the Supreme Court or, if it relates to the acts or omissions of a lower court or of a corporation, board, officer or person, in the Regional Trial Court exercising jurisdiction over the territorial area as defined by the Supreme Court. It may also be filed in the Court of Appeals whether or not the same is in aid of its appellate jurisdiction, or in the Sandiganbayan if it is in aid of its appellate jurisdiction. If it involves the acts or omissions of a quasi-judicial agency, unless otherwise provided by law or these Rules, the petition shall be filed in and cognizable only by the Court of Appeals.
+ xxx.
+ 
+[14]
+ Id. 
+[15]
+ SECTION 22. No court, except the Court of Appeals, shall issue any temporary restraining order, preliminary injunction or preliminary mandatory injunction against the Corporation for any action under this Act (as added by RA 9302). 
+ This prohibition shall apply in all cases, disputes or controversies instituted by a private party, the insured bank, or any shareholder of the insured bank (as added by RA 9302).
+ xxx.
+ 
+[16]
+ 
+Rollo
+, p. 36.
+ 
+[17]
+ 
+Philippine Deposit Insurance Corporation v. Phil. Countryside Rural Bank, Inc. et al
+., 655 Phil. 313, 337 (2011).
+ 
+[18]
+ 621 Phil. 498, 511 (2009).
+ 
+[19]
+ 709 Phil. 236, 256-257 (2013). 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

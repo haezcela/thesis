@@ -1,0 +1,652 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			751 Phil. 262; 111 OG No. 30, 4261 (July 27, 2015)
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 204689, January 21, 2015 ]
+
+
+STRONGHOLD INSURANCE COMPANY, INC., PETITIONER, VS. SPOUSES RUNE AND LEA STROEM, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+LEONEN, J.:
+
+
+For resolution is a Petition for Review
+[1]
+ under Rule 45 of the Rules of Court assailing the Decision
+[2]
+ dated November 20, 2012 of the Court of Appeals in CA-G.R. CV No. 96017.  The Court of Appeals affirmed the Decision
+[3]
+ of the Regional Trial Court of Makati, Branch 133 in Civil Case No. 02-1108 for collection of a sum of money.
+This case involves the proper invocation of the Construction Industry Arbitration Committeeâs (CIAC) jurisdiction through an arbitration clause in a construction contract.  The main issue here is whether the dispute â liability of a surety under a performance bond â is connected to a construction contract and, therefore, falls under the exclusive jurisdiction of the CIAC.
+Spouses Rune and Lea Stroem (Spouses Stroem) entered into an Owners-Contractor Agreement
+[4]
+ with Asis-Leif & Company, Inc. (Asis-Leif) for the construction of a two-storey house on the lot owned by Spouses Stroem.  The lot was located at Lot 4A, Block 24, Don Celso Tuason Street, Valley Golf Subdivision, Barangay Mayamot, Antipolo, Rizal.
+[5]
+On November 15, 1999, pursuant to the agreement, Asis-Leif secured Performance Bond No. LP/G(13)83056 in the amount of P4,500,000.00 from Stronghold Insurance Company, Inc. (Stronghold).
+[6]
+  Stronghold and Asis-Leif, through Ms. Ma. Cynthia Asis-Leif, bound themselves jointly and severally to pay the Spouses Stroem the agreed amount in the event that the construction project is not completed.
+[7]
+Asis-Leif failed to finish the project on time despite repeated demands of the Spouses Stroem.
+[8]
+Spouses Stroem subsequently rescinded the agreement.
+[9]
+  They then hired an independent appraiser to evaluate the progress of the construction project.
+[10]
+Appraiser Asian Appraisal Company, Inc.âs evaluation resulted in the following percentage of completion: 47.53% of the residential building, 65.62% of the garage, and 13.32% of the swimming pool, fence, gate, and land development.
+[11]
+On April 5, 2001, Stronghold sent a letter to Asis-Leif requesting that the company settle its obligations with the Spouses Stroem.  No response was received from Asis-Leif.
+[12]
+On September 12, 2002, the Spouses Stroem filed a Complaint (with Prayer for Preliminary Attachment)
+[13]
+ for breach of contract and for sum of money with a claim for damages against Asis-Leif, Ms. Cynthia Asis-Leif, and Stronghold.
+[14]
+  Only Stronghold was served summons.  Ms. Cynthia Asis-Leif allegedly absconded and moved out of the country.
+[15]
+On July 13, 2010, the Regional Trial Court rendered a judgment in favor of the Spouses Stroem.  The trial court ordered Stronghold to pay the Spouses Stroem ?4,500,000.00 with 6% legal interest from the time of first demand.
+[16]
+  The dispositive portion of the trial court Decision reads:
+WHEREFORE
+, finding plaintiffsâ cause of action to be sufficiently established being supported by evidence on records, judgement is hereby rendered in favor of the plaintiff spouses Rune and Lea Stroem and against the defendant Stronghold Insurance Company Incorporated ordering the latter to pay the plaintiff the sums of:
+1)  Php4,500,000.00 with six (6%) percent legal interest from the time of first demand and interest due shall earn legal interest from the time of judicial demand until fully paid.
+2)  Php35,000.00 by way of attorneyâs fees and other litigation expenses.
+Defendant is further ordered to pay the costs of this suit.
+SO ORDERED.
+[17]
+Both Stronghold and the Spouses Stroem appealed to the Court of Appeals.
+[18]
+The Court of Appeals affirmed with modification the trial courtâs Decision.  It increased the amount of attorneyâs fees to ?50,000.00.
+[19]
+The dispositive portion of the Court of Appeals Decision reads:
+WHEREFORE
+, the appeal of Stronghold Company, Inc[.] is 
+DISMISSED,
+ while the appeal of spouses Rune and Lea Stroem is
+ PARTLY GRANTED
+.  The November 27, 2009 Decision of the Regional Trial Court of Makati City is 
+AFFIRMED
+ with 
+MODIFICATION
+ that the award of attorneyâs fees is increased to P50,000.00
+SO ORDERED
+.
+[20]
+On March 20, 2013, this court required the Spouses Stroem to submit their Comment on the Petition.
+[21]
+We noted the Spouses Stroemâs Comment on July 31, 2013.
+[22]
+  We also required Stronghold to file its Reply to the Comment,
+[23]
+ which was noted on December 9, 2013.
+[24]
+Stronghold argues that the trial court did not acquire jurisdiction over the case and, therefore, the Court of Appeals committed reversible error when it upheld the Decision of the Regional Trial Court.
+[25]
+  The lower courts should have dismissed the case in view of the arbitration clause in the agreement and considering that â[Republic Act No. 876] explicitly confines the courtâs authority only to pass upon the issue of whether there is [an] agreement . . . providing for arbitration.  In the affirmative, the statute ordains that the court shall issue an order âsummarily directing the parties to proceed with the arbitration in accordance with the terms thereof.ââ
+[26]
+Moreover, âthe stipulations in said Agreement are part and parcel of the conditions in the bond.  Were it not for such stipulations in said agreement, [Stronghold] would not have agreed to issue a bond in favor of the Spouses Stroem.  The parties to the bond are ALB/Ms. Asis-[L]eif, Spouses Stroem and [Stronghold] such that ALB/Ms. Asis-[L]eif never ceased to be a party to the surety agreement.â
+[27]
+In any case, Strongholdâs liability under the performance bond is limited only to additional costs for the completion of the project.
+[28]
+  In addition, the Court of Appeals erred in holding that Stronghold changed its theory with regard to the notice requirement
+[29]
+ and in modifying the trial courtâs award of attorneyâs fees.
+[30]
+On the other hand, the Spouses Stroem argue that Stronghold committed forum shopping warranting dismissal of the case.
+[31]
+  According to the Spouses Stroem, Stronghold deliberately committed forum shopping when it filed the present petition despite the pendency of the Spouses Stroemâs Motion for Partial Reconsideration of the Court of Appeals Decision dated November 20, 2012.
+[32]
+More importantly, the Owners-Contractor Agreement is âseparate and distinct from the Bond.  The parties to the Agreement are ALB/Ms. Asis-Leif and Spouses Stroem, while the parties to the Bond are Spouses Stroem and Stronghold.  The considerations for the two contracts are likewise distinct.  Thus, the arbitration clause in the Agreement is binding only on the parties thereto, specifically ALB/Ms. Asis-Leif and Spouses Stroem[.]â
+[33]
+Contrary to Strongholdâs argument, Spouses Stroem argues that stronghold is liable for the full amount of the performance bond.  The terms of the bond clearly show that Stronghold is liable as surety.
+[34]
+  Verily, notice to Stronghold is not required for its liability to attach.
+[35]
+The issues for consideration are:
+ 
+ 
+(1)
+ 
+ 
+Whether the dispute involves a construction contract;
+ 
+ 
+ 
+(2)
+ 
+ 
+Whether the CIAC has exclusive jurisdiction over the controversy between the parties;
+ 
+ 
+ 
+(3)
+ 
+ 
+Whether the Regional Trial Court should have dismissed the petition outright as required by law and jurisprudence and referred the matter to the CIAC; and
+ 
+ 
+ 
+(4) 
+ 
+Whether petitioner Stronghold Insurance Company, Inc. is liable under Performance Bond No. LP/G(13)83056.
+ 
+ 
+ 
+ 
+(a) 
+ 
+Whether petitioner Stronghold Insurance Company, Inc. is only liable as to the extent of any additional cost for the completion of the project due to any increase in prices for labor and materials.
+ 
+ 
+ 
+ 
+(b) 
+ 
+Whether the case involves ordinary suretyship or corporate suretyship.
+ 
+ 
+After considering the partiesâ arguments and the records of this case, this court resolves to deny the Petition.
+On forum-shopping
+Respondents argue that petitioner committed forum shopping; hence, the case should have been dismissed outright.
+Records show that petitioner received a copy of the Decision of the Court of Appeals on December 5, 2012.
+[36]
+  Petitioner did not file a Motion for Reconsideration of the assailed Decision.  It filed before this court a Motion for Extension of Time To File Petition for Review requesting an additional period of 30 days from December 20, 2012 or until January 19, 2013 to file the Petition.
+[37]
+Respondents filed their Motion for Partial Reconsideration of the Court of Appeals Decision on December 11, 2012.
+[38]
+  They sought the modification of the Decision as to the amounts of moral damages, exemplary damages, attorneyâs fees, and costs of the suit.
+[39]
+Respondents alleged in their Comment that as early as January 9, 2013, petitioner received a copy of the Court of Appealsâ Resolution requiring Comment on the Motion for Partial Reconsideration.
+[40]
+  Still, petitioner did not disclose in its Verification and Certification Against Forum Shopping the pendency of respondentsâ Motion for Partial Reconsideration.
+[41]
+For its part, petitioner claims that it did not commit forum shopping.  It fully disclosed in its Petition that what it sought to be reviewed was the Decision dated November 20, 2012 of the Court of Appeals.  âPetitioner merely exercised its available remedy with respect to the Decision of the Court of Appeals by filing [the] Petition.â
+[42]
+  What the rules mandate to be stated in the Certification Against Forum Shopping is the status of âany other action.â  This other action involves the same issues and parties but is an entirely different case.
+Indeed, petitioner is guilty of forum shopping.
+There is forum shopping when:
+as a result of an adverse opinion in one forum, a party seeks a favorable opinion (other than by appeal or certiorari) in another.  The principle applies not only with respect to suits filed in the courts but also in connection with litigations commenced in the courts while an administrative proceeding is pending[.]
+[43]
+  (Citation omitted)
+This court has enumerated the elements of forum-shopping: â(a) identity of parties, or at least such parties as represent the same interests in both actions; (b) identity of rights asserted and reliefs prayed for, the reliefs being founded on the same facts; and (c) the identity with respect to the two preceding particulars in the two cases is such that any judgment rendered in the pending cases, regardless of which party is successful, amount to 
+res judicata
+ in the other case.â
+[44]
+Rule 42, Section 2
+[45]
+ in relation to Rule 45, Section 4 of the Rules of Court mandates petitioner to submit a Certification Against Forum Shopping and promptly inform this court about the pendency of any similar action or proceeding before other courts or tribunals.  The ruleâs purpose is to deter the unethical practice of pursuing simultaneous remedies in different forums, which âwreaks havoc upon orderly judicial procedure.â
+[46]
+  Failure to comply with the rule is a sufficient ground for the dismissal of the petition.
+[47]
+Records show that petitionerâs duly authorized officer certified the following on January 21, 2013:
+4. I further certify that: (a) I have not commenced any other action or proceeding involving the same issues in the Supreme Court, Court of Appeals, or any other tribunal or agency; (b) to the best of my knowledge, no such action or proceeding is pending in the Supreme Court, the Court of Appeals or different Divisions thereof, or any tribunal or agency; (c) if I should thereafter learn that a similar action or proceeding has been filed or is pending before the Supreme Court, the Court of Appeals, or different Divisions thereof, or any other tribunal or agency, I undertake to promptly inform the aforesaid courts and such tribunal or agency of the fact within five (5) days therefrom.
+[48]
+Petitioner failed to carry out its duty of promptly informing this court of any pending action or proceeding before this court, the Court of Appeals, or any other tribunal or agency.  This court cannot countenance petitionerâs disregard of the rules.
+This court has held before that:
+[u]ltimately, what is truly important to consider in determining whether forum-shopping exists or not is the 
+vexation caused the courts and parties-litigant by a party who asks different courts and/or administrative agencies to rule on the same or related causes and/or to grant the same or substantially the same reliefs,
+ in the process creating the possibility of conflicting decisions being rendered by the different fora upon the same issue.
+[49]
+  (Emphasis supplied)
+On this basis, this case should be dismissed.
+On arbitration and the CIACâs jurisdiction
+Petitioner changed the theory of its case since its participation in the trial court proceedings.  It raised the issue of lack of jurisdiction in view of an arbitration agreement for the first time.
+Generally, parties may not raise issues for the first time on appeal.
+[50]
+  Such practice is violative of the rules and due process and is frowned upon by the courts.  However, it is also well-settled that jurisdiction can never be waived or acquired by estoppel.
+[51]
+  Jurisdiction is conferred by the Constitution or by law.
+[52]
+  âLack of jurisdiction of the court over an action or the subject matter of an action cannot be cured by the silence, by acquiescence, or even by express consent of the parties.â
+[53]
+Section 4 of Executive Order No. 1008
+[54]
+ is clear in defining the exclusive jurisdiction of the CIAC:
+SECTION 4. 
+Jurisdiction
+ â 
+The CIAC shall have original and exclusive jurisdiction over disputes arising from, or connected with, contracts entered into by parties involved in construction in the Philippines
+, whether the dispute arises before or after the completion of the contract, or after the abandonment or breach thereof.  These disputes may involve government or private contracts.  For the Board to acquire jurisdiction, the parties to a dispute must agree to submit the same to voluntary arbitration.
+The jurisdiction of the CIAC may include but is not limited to violation of specifications for materials and workmanship; violation of the terms of agreement; interpretation and/or application of contractual time and delays; maintenance and defects; payment, default of employer or contractor and changes in contract cost.
+Excluded from the coverage of this law are disputes arising from employer-employee relationships which shall continue to be covered by the Labor Code of the Philippines.  (Emphasis supplied)
+Similarly, Section 35 of Republic Act No. 9285 or the Alternative Dispute Resolution Act of 2004 states:
+SEC. 35. Coverage of the Law. - Construction disputes which fall within the original and exclusive jurisdiction of the Construction Industry Arbitration Commission (the âCommissionâ)
+ shall include those between or among parties to, or who are otherwise bound by, an arbitration agreement, directly or by reference whether such parties are project owner, contractor, subcontractor, quantity surveyor, bondsman or issuer of an insurance policy in a construction project.
+The Commission shall continue to exercise original and exclusive jurisdiction over construction disputes although the arbitration is âcommercialâ pursuant to Section 21 of this Act.  (Emphasis supplied)
+In 
+Heunghwa Industry Co., Ltd., v. DJ Builders Corporation
+,
+[55]
+ this court held that âthere are two acts which may vest the CIAC with jurisdiction over a construction dispute.  One is the presence of an arbitration clause in a construction contract, and the other is the agreement by the parties to submit the dispute to the CIAC.â
+[56]
+This court has ruled that when a dispute arises from a construction contract, the CIAC has exclusive and original jurisdiction.
+[57]
+  Construction has been defined as referring to âall on-site works on buildings or altering structures, from land clearance through completion including excavation, erection and assembly and installation of components and equipment.â
+[58]
+In this case, there is no dispute as to whether the Owners-Contractor Agreement between Asis-Leif and respondents is a construction contract.  Petitioner and respondents recognize that CIAC has jurisdiction over disputes arising from the agreement.
+What is at issue in this case is the partiesâ agreement, or lack thereof, to submit the case to arbitration.  Respondents argue that petitioner is not a party to the arbitration agreement.  Petitioner did not consent to arbitration.  It is only respondent and Asis-Leif that may invoke the arbitration clause in the contract.
+This court has previously held that a performance bond, which is meant âto guarantee the supply of labor, materials, tools, equipment, and necessary supervision to complete the project[,]â
+[59]
+ is significantly and substantially connected to the construction contract and, therefore, falls under the jurisdiction of the CIAC.
+[60]
+Prudential Guarantee and Assurance Inc. v. Anscor Land, Inc
+.
+[61]
+ involved circumstances similar to the present case.  In
+ Prudential
+, property owner Anscor Land, Inc. (ALI) entered into a contract for the construction of an eight-unit townhouse located in Capitol Hills, Quezon City with contractor Kraft Realty and Development Corporation (KRDC).
+[62]
+  KRDC secured the completion of the construction project through a surety and performance bond issued by Prudential Guarantee and Assurance Inc. (PGAI).
+[63]
+The delay in the construction project resulted in ALIâs termination of the contract and claim against the performance bond.
+[64]
+  âALI [subsequently] commenced arbitration proceedings against KRDC and PGAI in the CIAC.â
+[65]
+  PGAI, however, argued that it was not a party to the construction contract.
+[66]
+The CIAC ruled that PGAI was not liable under the performance bond.
+[67]
+  Upon review, the Court of Appeals held that PGAI was jointly and severally liable with KRDC under the performance bond.
+[68]
+PGAI appealed the Court of Appeals Decision and claimed that CIAC did not have jurisdiction over the performance bond.
+[69]
+  This court ruled:
+A guarantee or a surety contract under Article 2047 of the Civil Code of the Philippines is an accessory contract because it is dependent for its existence upon the principal obligation guaranteed by it.
+In fact, the primary and only reason behind the acquisition of the performance bond by KRDC was to guarantee to ALI that the construction project would proceed in accordance with the contract terms and conditions.  In effect, the performance bond becomes liable for the completion of the construction project in the event KRDC fails in its contractual undertaking.
+Because of the performance bond, the construction contract between ALI and KRDC is guaranteed to be performed even if KRDC fails in its obligation.  In practice, a performance bond is usually a condition or a necessary component of construction contracts.  In the case at bar, the performance bond was so connected with the construction contract that the former was agreed by the parties to be a condition for the latter to push through and at the same time, the former is reliant on the latter for its existence as an accessory contract.
+Although not the construction contract itself, the performance bond is deemed as an associate of the main construction contract that it cannot be separated or severed from its principal.  The Performance Bond is significantly and substantially connected to the construction contract that there can be no doubt it is the CIAC, under Section 4 of EO No. 1008, which has jurisdiction over any dispute arising from or connected with it.
+[70]
+  (Emphasis supplied, citations omitted)
+At first look, the Owners-Contractor Agreement and the performance bond reference each other; the performance bond was issued pursuant to the construction agreement.
+A performance bond is a kind of suretyship agreement.  A suretyship agreement is an agreement âwhereby a party, called the surety, guarantees the performance by another party, called the principal or obligor, of an obligation or undertaking in favor of another party, called the obligee.â
+[71]
+  In the same vein, a performance bond is âdesigned to afford the project owner security that the . . . contractor, will faithfully comply with the requirements of the contract . . . and make good [on the] damages sustained by the project owner in case of the contractorâs failure to so perform.â
+[72]
+It is settled that the suretyâs solidary obligation for the performance of the principal debtorâs obligation is indirect and merely secondary.
+[73]
+  Nevertheless, the suretyâs liability to the âcreditor or promisee of the principal is said to be direct, primary and absolute; in other words, he is directly and equally bound with the principal.â
+[74]
+Verily, â[i]n enforcing a surety contract, the âcomplementary-contracts-construed-togetherâ doctrine finds application.  According to this principle, an accessory contract must be read in its entirety and together with the principal agreement.â
+[75]
+  Article 1374 of the Civil Code provides:
+ART. 1374. The various stipulations of a contract shall be interpreted together, attributing to the doubtful ones that sense which may result from all of them taken jointly.
+Applying the âcomplementary-contracts-construed-togetherâ doctrine, this court in 
+Prudential
+ held that the surety willingly acceded to the terms of the construction contract despite the silence of the performance bond as to arbitration:
+In the case at bar, the performance bond was silent with regard to arbitration.  On the other hand, the construction contract was clear as to arbitration in the event of disputes.  
+Applying the said doctrine, we rule that the silence of the accessory contract in this case could only be construed as acquiescence to the main contract.
+  The construction contract breathes life into the performance bond.  We are not ready to assume that the performance bond contains reservations with regard to some of the terms and conditions in the construction contract where in fact it is silent.  
+On the other hand, it is more reasonable to assume that the party who issued the performance bond carefully and meticulously studied the construction contract that it guaranteed, and if it had reservations, it would have and should have mentioned them in the surety contract.
+[76]
+  (Emphasis supplied)
+This court, however, cannot apply the ruling in 
+Prudential
+ to the present case
+.  Several factors militate against petitionerâs claim.
+The contractual stipulations in this case and in 
+Prudential
+ are different.  The relevant provisions of the Owners-Contractor Agreement in this case state:
+ARTICLE 5.  THE CONTRACT DOCUMENTS
+The following documents prepared by the CONTRACTOR shall constitute an integral part of this contract as fully as if hereto attached or herein stated, except as otherwise modified by mutual agreement of parties, and attached to this agreement.
+ 
+ 
+Attachment 5.1 
+ 
+Working Drawings
+ 
+ 
+ 
+Attachment 5.2 
+ 
+Outline Specifications
+ 
+ 
+ 
+Attachment 5.3 
+ 
+Bill of Quantities
+ 
+ 
+ 
+Attachment 5.4
+ 
+ 
+CONTRACTOR Business License
+ 
+ 
+. . . .
+ARTICLE 7. PERFORMANCE (SURETY) BOND
+7.1 Within 30 days of the signing of this agreement, 
+CONTRACTOR
+ shall provide to 
+OWNERS
+ a performance bond, issued by a duly licensed authority acceptable to the 
+OWNERS
+, and equal to the amount of 
+PHP 4,500,000.00 (Four Million and Five Hundred Thousand Philippine Pesos)
+, with the 
+OWNERS 
+as beneficiary.
+7.2 The performance bond will guarantee the satisfactory and faithful performance by the 
+CONTRACTOR
+ of all provisions stated within this contract.
+ARTICLE 8. ARBITRATION
+8.1 Any dispute between the parties hereto which cannot be amicably settled shall be finally settled by arbitration in accordance with the provision of Republic Act 876, of The Philippines, as amended by the Executive Order 1008 dated February 4, 1985
+.
+[77]
+ (Emphasis in the original)
+In contrast, the provisions of the construction contract in Prudential provide:
+Article 1
+CONTRACT DOCUMENTS
+1.1 
+The following shall form part of this Contract 
+and together with this Contract, are known as the âContract Documentsâ:
+a.   Bid Proposal
+. . . .
+d.   Notice to proceed
+. . . .
+j.  Appendices A & B (respectively, Surety Bond for Performance and, Supply of Materials by the Developer)
+[78]
+ (Emphasis supplied)
+This court in
+ Prudential 
+held that the construction contract expressly incorporated the performance bond into the contract.
+[79]
+  In the present case, Article 7 of the Owners-Contractor Agreement merely stated that a performance bond shall be issued in favor of respondents, in which case petitioner and Asis-Leif Builders and/or Ms. Ma. Cynthia Asis-Leif shall pay P4,500,000.00 in the event that Asis-Leif fails to perform its duty under the Owners-Contractor Agreement.
+[80]
+  Consequently, the performance bond merely referenced the contract entered into by respondents and Asis-Leif, which pertained to Asis-Leifâs duty to construct a two-storey residence building with attic, pool, and landscaping over respondentsâ property.
+[81]
+To be clear, it is in the Owners-Contractor Agreement that the arbitration clause is found.  The construction agreement was signed only by respondents and the contractor, Asis-Leif, as represented by Ms. Ma. Cynthia Asis-Leif.  It is basic that â[c]ontracts take effect only between the parties, their assigns and heirs[.]â
+[82]
+  Not being a party to the construction agreement, petitioner cannot invoke the arbitration clause. Petitioner, thus, cannot invoke the jurisdiction of the CIAC.
+Moreover, petitionerâs invocation of the arbitration clause defeats the purpose of arbitration in relation to the construction business.
+  The state has continuously encouraged the use of dispute resolution mechanisms to promote party autonomy.
+[83]
+  In 
+LICOMCEN, Incorporated v. Foundation Specialists, Inc.,
+[84]
+ this court upheld the CIACâs jurisdiction in line with the stateâs policy to promote arbitration:
+The CIAC was created through Executive Order No. 1008 
+(E.O. 1008)
+, in recognition of the need to establish an arbitral machinery that would expeditiously settle construction industry disputes.  The prompt resolution of problems arising from or connected with the construction industry was considered of necessary and vital for the fulfillment of national development goals, as the construction industry provides employment to a large segment of the national labor force and is a leading contributor to the gross national product.
+[85]
+  (Citation omitted)
+However, where a surety in a construction contract actively participates in a collection suit, it is estopped from raising jurisdiction later.  Assuming that petitioner is privy to the construction agreement, we cannot allow petitioner to invoke arbitration at this late stage of the proceedings since to do so would go against the lawâs goal of prompt resolution of cases in the construction industry.
+WHEREFORE
+, the petition is 
+DENIED
+.  The case is 
+DISMISSED
+.  Petitionerâs counsel is 
+STERNLY WARNED
+ that a repetition or similar violation of the rule on Certification Against Forum Shopping will be dealt with more severely.
+SO ORDERED.
+Carpio, (Chairperson), Velasco, Jr.,
+*
+ Del Castillo,
+ and 
+Mendoza, JJ
+., concur.
+*
+ Designated acting member per S.O. No. 1910 dated January 12, 2015.
+[1]
+ 
+Rollo
+, pp. 38â62.
+[2]
+ Id. at 194â211.  The decision was penned by Associate Justice Angelita A. Gacutan and concurred in by Associate Justices Fernanda Lampas Peralta (Chair) and Edwin D. Sorongon of the Special Tenth Division.
+[3]
+ Id. at 122â129.
+[4]
+ Id. at 67â73 and 75. Asis-Leif was initially a single proprietorship under the name Asis-Leif Builders represented by its owner, Ms. Ma. Cynthia Asis-Leif.
+[5]
+ Id. at 68 and 195.
+[6]
+ Id. at 75 and 195.
+[7]
+ Id.
+[8]
+ Id. at 196.
+[9]
+ Id.
+[10]
+ Id.
+[11]
+ Id.
+[12]
+ Id.
+[13]
+ Id. at 79â88.
+[14]
+ Id. at 197.
+[15]
+ Id.
+[16]
+ Id. at 129.
+[17]
+ Id.
+[18]
+ Id. at 199.
+[19]
+ Id. at 210.
+[20]
+ Id.
+[21]
+ Id. at 213.
+[22]
+ Id. at 784.
+[23]
+ Id.
+[24]
+ Id. at 803.
+[25]
+ Id. at 45.
+[26]
+ Id. at 46.
+[27]
+ Id. at 793.
+[28]
+ Id. at 48.
+[29]
+ Id. at 53.
+[30]
+ Id. at 57.
+[31]
+ Id. at 226.
+[32]
+ Id. at 226â227.
+[33]
+ Id. at 228.
+[34]
+ Id. at 229â230.
+[35]
+ Id. at 231.
+[36]
+ Id. at 44.
+[37]
+ Id. at 40.
+[38]
+ Id. at 225.
+[39]
+ Id.
+[40]
+ Id. at 227.
+[41]
+ Id.
+[42]
+ Id. at 791.
+[43]
+ 
+First Philippine International Bank v. Court of Appeals,
+ 322 Phil. 280, 305 (1996) [Per J. Panganiban, Third Division].
+[44]
+ 
+United Overseas Bank Phils. v. Rosemoor Mining & Development Corp.
+, 547 Phil. 38, 50 (2007) [Per J. Tinga, Second Division].
+[45]
+ SEC. 2. Form and contents.â . . . .
+The petitioner shall also submit together with the petition a certification under oath that he has not theretofore commenced any other action involving the same issues in the Supreme Court, the Court of Appeals or different divisions thereof, or any other tribunal or agency; if there is such other action or proceeding, he must state the status of the same; and if he should thereafter learn that a similar action or proceeding has been filed or is pending before the Supreme Court, the Court of Appeals, or different divisions thereof, or any other tribunal or agency, he undertakes to promptly inform the aforesaid courts and other tribunal or agency thereof within five (5) days therefrom.  (Emphasis supplied)
+[46]
+ 
+Spouses Arevalo v. Planters Development Bank, et al.,
+ G.R. No. 193415, April 18, 2012, 670 SCRA 252, 264 [Per J. Sereno, Second Division] 
+See Philippine Public School Teachers Association v. Heirs of Carolina P. Iligan, 
+528 Phil. 1197, 1209 (2006) [Per J. Callejo, Sr., First Division]; 
+Far Eastern Shipping Company v. Court of Appeals,
+ 357 Phil. 703, 716â723 (1998) [Per J. Regalado, En Banc].
+[47]
+ Rules of Court, Rule 42, sec. 3. See 
+Philippine Rabbit Bus Lines, Inc. v. Aladdin Transit Corp.
+, 526 Phil. 837, 847 (2006) [Per J. Carpio Morales, Third Division].
+[48]
+ 
+Rollo
+, p. 66.
+[49]
+ 
+First Philippine International Bank v. Court of Appeals
+, 322 Phil. 280, 313 (1996) [Per J. Panganiban, Third Division].
+[50]
+ See 
+Multi-Realty Development Corporation v. The Makati Tuscany Condominium Corporation
+, 524 Phil. 318, 335 (2006) [Per J. Callejo, Sr., First Division].
+[51]
+ See
+ Soriano v. Bravo
+, G.R. No. 152086, December 15, 2010, 638 SCRA 403, 422 [Per J. Leonardo-De Castro, First Division] and
+ BF Homes, Inc. v. Manila Electric Company,
+ 651 Phil. 211, 235 (2010) [Per J. Leonardo-De Castro, First Division].
+[52]
+ See 
+Gomez-Castillo v. Commission on Elections, 
+635 Phil. 480, 486â487 (2010) [Per J. Bersamin, En Banc].
+[53]
+ Municipality of Pateros v. Court of Appeals, 
+607 Phil. 104, 116 (2009) [Per J. Nachura, Third Division].
+[54]
+ Otherwise known as Construction Industry Arbitration Law.
+[55]
+ 593 Phil. 632 (2008) [Per J. Austria-Martinez, Third Division].
+[56]
+ Id. at 649.
+[57]
+ See 
+Hi-Precision Steel Center, Inc. v. Lim Kim Steel Builders, Inc.,
+ G.R. No. 110434, December 13, 1993, 228 SCRA 397, 405 [Per J. Feliciano, Third Division Resolution] and 
+Metropolitan Cebu Water District v. Mactan Rock Industries, Inc.,
+ G.R. No. 172438, July 4, 2012, 675 SCRA 577, 597 [Per J. Mendoza, Third Division].
+[58]
+ Fort Bonifacio Development Corporation v. Sorongon,
+ 605 Phil. 689, 696 (2009) [Per J. Tinga, Second Division]. See also 
+Gammon Philippines, Inc. v. Metro Rail Transit Development Corporation,
+ 516 Phil. 561, 569 (2006) [Per J. Tinga, Third Division] and 
+Fort Bonifacio Development Corporation v. Domingo,
+ 599 Phil. 554, 564 (2009) [Per J. Chico-Nazario, Third Division].
+[59]
+ 
+Prudential Guarantee and Assurance Inc. v. Anscor Land, Inc.,
+ G.R. No. 177240, September 8, 2010, 630 SCRA 368, 376 [Per J. Villarama, Jr., Third Division].
+[60]
+ Id. at 377.
+[61]
+ G.R. No. 177240, September 8, 2010, 630 SCRA 368 [Per J. Villarama, Jr., Third Division].
+[62]
+ Id. at 370.
+[63]
+ Id. at 371.
+[64]
+ Id.
+[65]
+ Id. at 372.
+[66]
+ Id.
+[67]
+ Id.
+[68]
+ Id. at 373.
+[69]
+ Id.
+[70]
+ Id. at 376â377.
+[71]
+ 
+Philippine Charter Insurance Corporation v. Petroleum Distributors & Service Corporation,
+ G.R. No. 180898, April 18, 2012, 670 SCRA 166, 179 [Per J. Mendoza, Third Division]. See CIVIL CODE, art. 2047; See also Ins. Code, art. 175.
+[72]
+ See 
+Eastern Assurance & Surety Corporation v. Intermediate Appellate Court, 
+259 Phil. 164, 171 (1989) [Per J. Feliciano, Third Division].
+[73]
+ See 
+Stronghold Insurance Company, Inc. v. Republic-Asahi Glass Corporation,
+ 525 Phil. 270, 280 (2006) [Per C.J. Panganiban, First Division], 
+Philippine Bank of Communications v. Lim,
+ 495 Phil. 645, 651 (2005) [Per C.J. Panganiban, Third Division], and 
+Philippine Charter Insurance Corporation v. Petroleum Distributors & Service Corporation,
+ G.R. No. 180898, April 18, 2012, 670 SCRA 166, 179 [Per J. Mendoza, Third Division].
+[74]
+ 
+Stronghold Insurance Company, Inc. v. Republic-Asahi Glass Corporation,
+ 525 Phil. 270, 280 (2006) [Per C.J. Panganiban, First Division], citing 
+Garcia, Jr. v. Court of Appeals, 
+G.R. No. 80201, November 20, 1990, 191 SCRA 493, 496 [Per J. Cruz, First Division].
+[75]
+ 
+Philippine Bank of Communications v. Lim, 
+495 Phil. 645, 652 (2005) [Per C.J. Panganiban, Third Division].
+[76]
+ 
+Prudential Guarantee and Assurance Inc. v. Anscor Land, Inc.,
+ G.R. No. 177240, September 8, 2010, 630 SCRA 368, 379 [Per J. Villarama, Jr., Third Division].
+[77]
+ 
+Rollo
+, pp. 69â71.
+[78]
+ 
+Prudential Guarantee and Assurance Inc. v. Anscor Land, Inc., 
+G.R. No. 177240, September 8, 2010, 630 SCRA 368, 374 [Per J. Villarama, Jr., Third Division].
+[79]
+ Id.
+[80]
+ 
+Rollo
+, p. 75.
+[81]
+ Id.
+[82]
+ CIVIL CODE, art. 1311. See 
+Tan v. G.V.T. Engineering Services,
+ 529 Phil. 751, 771 (2006) [Per J. Austria-Martinez, First Division].
+[83]
+ See Rep. Act No. 9285 (2004), sec. 2.
+[84]
+ G.R. No. 167022, April 4, 2011, 647 SCRA 83 [Per J. Brion, Third Division].
+[85]
+ Id. at 96.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

@@ -1,0 +1,325 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			789 Phil. 429
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 195147, July 11, 2016 ]
+
+
+COMMISSIONER OF INTERNAL REVENUE, PETITIONER, VS. PHILIPPINE NATIONAL BANK, RESPONDENT.
+D E C I S I O N
+
+
+
+
+BERSAMIN, J.:
+
+
+At issue is whether or not the respondent bank's interbank call loans transacted in 1997 were subject to documentary stamp taxes.
+The petitioner appeals the September 21, 2010 decision rendered in C.T.A. EB Case No. 512,
+[1]
+ whereby the Court of Tax Appeals (CTA) 
+En 
+ Banc 
+ affirmed the cancellation of Assessment No. 97-000064 for deficiency documentary stamp taxes imposed on the interbank call loans of respondent Philippine National Bank (PNB); and the resolution issued on January 10, 2011
+[2]
+ denying the petitioner's motion for reconsideration. 
+ Antecedents
+On March 23, 2000, the petitioner issued Letter of Authority No. 00058992, which PNB received on March 28, 2000. The letter of authority authorized the examination of PNB's books of accounts and other accounting records in relation to its internal revenue taxes for taxable year 1997.
+[3]
+ On May 12, 2003, PNB received the preliminary assessment notice with details of discrepancies dated March 31, 2003, which indicated that PNB had deficiency payments of documentary stamp taxes (DST), withholding taxes on compensation, and expanded withholding taxes for taxable year 1997.
+[4]
+ On May 26, 2003, the petitioner issued a formal assessment notice, together with a formal letter of demand and details of discrepancies, requiring PNB to pay the following deficiency taxes:
+[5]
+ 
+ 
+ 
+Assessment No. 97-000064 for deficiency DST rising from PNB's interbank call loans and special savings account
+ 
+ 
+P39,550,963.50
+ 
+ 
+ 
+ 
+Assessment No. 97-000067 for deficiency expanded withholding tax
+ 
+ 
+2,173,972.25
+ 
+ 
+ 
+ 
+TOTAL
+ 
+ 
+P41,724,935.75
+ 
+ 
+PNB immediately paid Assessment No. 97-000067 on May 30, 2003, but filed a protest against Assessment No. 97-000064. The petitioner denied PNB's protest through the final decision on disputed assessment dated December 10, 2003.
+[6]
+On January 16, 2004, PNB filed its petition for review in the CTA (C.T.A. Case No. 6850).
+[7]
+On March 3, 2009, after trial, the CTA (First Division) rendered judgment, disposing:
+WHEREFORE
+, the instant Petition for Review is hereby 
+ PARTIALLY 
+ GRANTED. Accordingly, the assessment for deficiency documentary stamp taxes on petitioner's Interbank Call Loans for taxable year 1997 is hereby 
+CANCELLED. 
+However, the assessment for deficiency documentary stamp tax on petitioner's Special Savings Account for taxable year 1997 is hereby 
+AFFIRMED.
+Petitioner is hereby 
+ORDERED 
+to 
+PAY 
+respondent the amount of 
+ FOURTEEN MILLION SIX HUNDRED EIGHTY EIGHT 
+ THOUSAND FOUR HUNDRED SIXTY THREE PESOS AND 
+ FIFTEEN CENTAVOS (P14,688,463.15), 
+ representing deficiency documentary stamp tax for taxable year 1997, computed as follows:
+ 
+ 
+Special Savings Account
+ 
+ 
+7,833,847,016.00
+ 
+ 
+ 
+Documentary Stamp Tax (0.30/200) 
+ 
+11,750,770.52
+ 
+ 
+ 
+Surcharge - 25% 
+ 
+       2,937,692.63
+ 
+ 
+ 
+Total Amount Due
+ 
+ 
+14,688,463.15
+ 
+ 
+In addition, petitioner is hereby 
+ORDERED 
+to 
+PAY 
+a penalty equivalent to twenty five percent (25%) and a delinquency interest equivalent to twenty percent (20%) per annum on the amount of P14,688,463.15 from February 15, 2004 until such amount is paid in full, pursuant to Sections 248 and 249 of the Tax Code.
+ SO ORDERED.
+[8]
+Both parties moved for partial reconsideration.
+[9]
+ On July 7, 2009, the CTA in Division denied the petitioner's motion for partial reconsideration but held in abeyance the resolution of PNB's motion for partial reconsideration pending its submission of its supplemental formal offer of evidence to admit tax abatement documents.
+[10]
+Consequently, the petitioner appealed to the CTA 
+En Banc 
+on August 10, 2009.
+On September 21, 2010, the CTA 
+En Banc 
+promulgated its assailed decision, 
+viz.:
+ WHEREFORE, 
+ the instant Petition for Review is hereby 
+ DENIED 
+ for lack of merit. The assailed Decision dated March 3, 2009 and Resolution dated July 7, 2009 insofar as the cancellation of the assessment for Documentary Stamp Taxes on PNB's Interbank Call Loans for the taxable year 1997 is concerned, are 
+AFFIRMED. 
+No pronouncement as to costs.
+ SO ORDERED.
+[11]
+The petitioner sought reconsideration,
+[12]
+ but the CTA 
+En Banc 
+denied the motion through the resolution dated January 10, 2011.
+[13]
+Hence, this appeal by the petitioner.
+The sole issue concerns whether or not PNB's interbank call loans for taxable year 1997 are subject to DST. The petitioner argues that:
+I
+THE PNB'S TRANSACTIONS UNDER INTERBANK CALL LOANS ARE CONSIDERED LOAN AGREEMENTS BETWEEN PNB AND THE OTHER BANKS, HENCE, THEY ARE SUBJECT TO DOCUMENTARY STAMP TAXES (DST) UNDER SECTION 180 OF THE NATIONAL INFERNAL REVENUE CODE (NIRC) OF 1977, AS AMENDED BY REPUBLIC ACT (R.A.) NO. 7660 OF 1994. 
+II
+THE FURTHER AMENDMENTS OF SECTION 180 OF THE 1977 NIRC (AS AMENDED BY R.A. NO. 7660 OF 1994) BY R.A. NO. 8424 OF 1998 AND R.A. NO. 9243 OF 2004 CONFIRM THE NATURE AND CHARACTER OF INTERBANK CALL LOANS AS LOAN AGREEMENTS AND/OR DEBT INSTRUMENTS, HENCE, THEY ARE SUBJECT TO DST.  
+III
+THERE IS NO LAW OR PROVISION IN THE 1977 NIRC, AS AMENDED BY R.A. NO. 7660 OF 1994, THAT SPECIFICALLY AND EXPRESSLY EXEMPTS PNB'S INTERBANK CALL LOANS FOR THE TAXABLE YEAR 1997 FROM THE PAYMENT OF DST.
+[14]
+ Ruling
+The appeal lacks merit.
+The petitioner claims that while interbank call loans were not considered as deposit substitute debt instruments, PNB's interbank call loans, which had a maturity of more than five days, were included in the concept of loan agreements; hence, the interbank call loans were subject to DST.
+[15]
+The petitioner's claim cannot be upheld.
+Firstly, the maturity of PNB's interbank call loans was irrelevant in determining its DST liability for taxable year 1997, relation to which the applicable law was the 
+National Internal Revenue Code of 1977 
+(1977 NIRC), as amended by Presidential Decree No. 1959
+[16]
+ and Republic Act No. 7660.
+[17]
+ The five-day maturity of interbank call loans came to be introduced only by Section 22(y)
+[18]
+ of the 
+National Internal Revenue Code of 1997 
+ (1997 NIRC), to wit:
+x x x x
+(y) The term '
+deposit substitutes' 
+shall mean an alternative from of obtaining funds from the public (the term 
+'public
+'
+ 
+means borrowing from twenty (20) or more individual or corporate lenders at any one time) other than deposits, through the issuance, endorsement, or acceptance of debt instruments for the borrowers own account, for the purpose of relending or purchasing of receivables and other obligations, or financing their own needs or the needs of their agent or dealer. These instruments may include, but need not be limited to bankers' acceptances, promissory notes, repurchase agreements, including reverse repurchase agreements entered into by and between the Bangko Sentral ng Pilipinas (BSP) and any authorized agent bank, certificates of assignment or participation and similar instruments with recourse: Provided, however, 
+That debt 
+ instruments issued for interbank call loans with maturity of not more than five (5) days to cover deficiency in reserves against deposit liabilities, including those between or among banks and quasi-banks, shall not be considered as deposit substitute debt instruments. 
+ (Bold underscoring supplied for emphasis)
+x x x x
+The provisions of the 1997 NIRC cannot be given retrospective effect to the prejudice of PNB. This is because tax laws are prospective in application, unless their retroactive application is expressly provided.
+[19]
+Secondly, PNB's interbank call loans are not taxable under Section 180 of the 1977 NIRC, as amended by R.A. No. 7660, which states:
+Sec. 180. 
+Stamp tax on all loan agreements, promissory notes, bills 
+ of exchange, drafts, instruments and securities issued by the government 
+ or any of its instrumentalities, certificates of deposit bearing interest and others not payable on sight or demand. 
+ - On all 
+loan agreements 
+signed abroad wherein the object of the contract is located or used in the Philippines; 
+bills of exchange 
+(between points within the Philippines), 
+ drafts, instruments and securities issued by the Government or any of its instrumentalities 
+ or 
+certificates of deposits drawing interest, 
+or 
+ orders for the payment of any sum of money otherwise than at sight or on demand, 
+ or on all 
+promissory notes, whether negotiable or non-
+negotiable, except bank notes issued for circulation, and on each renewal of any such note, 
+ there shall be collected a documentary stamp tax of Thirty centavos (P0.30) on each two hundred pesos, or fractional part thereof, of the face value of any such agreement, bill of exchange, draft, certificate of deposit, or note: Provided, That only one documentary stamp tax shall be imposed on either loan agreement, or promissory notes issued to secure such loan, whichever will yield a higher tax: Provided, however, That loan agreements or promissory notes the aggregate of which does not exceed Two hundred fifty thousand pesos (P250,000) executed by an individual for his purchase on installment for his personal use or that of his family and not for business, resale, barter or hire of a house, lot, motor vehicle, appliance or furniture shall be exempt from the payment of the documentary stamp tax provided under this section." (Bold underscoring supplied for emphasis)
+The petitioner insists that PNB's interbank call loans fell under the definition of a 
+loan agreement 
+found in Section 3(b) of Revenue Regulations No. 9-94, to wit:
+x x x x
+(b) 'Loan agreement' refers to a contract in writing where one of the parties delivers to another money or other consumable thing, upon the condition that the same amount of the same kind and quality shall be paid. The term shall include credit facilities, which may be evidenced by credit memo, advice or drawings.
+The terms "Loan Agreement" under Section 180 and "Mortgage" under Section 195, both of the Tax Code, as amended, generally refer to distinct and separate instruments. A loan agreement shall be taxed under Section 180, while a deed of mortgage shall be taxed under Section 195.
+[20]
+x x x x
+The insistence is bereft of merit.
+An interbank call loan refers to the cost of borrowings from other resident banks and non-bank financial institutions with quasi-banking authority that is payable on call or demand.
+[21]
+ It is transacted primarily to correct a bank's reserve requirements.
+[22]
+ Under the Manual of Regulation for Banks (MORB) issued by the Bangko Sentral ng Pilipinas (BSP), interbank borrowings,
+[23]
+ which include interbank call loans, shall be evidenced by deposit substitute instruments containing the minimum features prescribed under Section X235.3 of the MORB, except those that are settled through the banks' respective demand deposit accounts with the BSP via Philpass.
+[24]
+Simply put, an interbank call loan is considered as a deposit substitute transaction by a bank performing quasi-banking functions to cover reserve deficiencies. It does not fall under the definition of a loan agreement. Even if it does, the DST liability under Section 180, 
+supra, 
+will only attach if the loan agreement was signed abroad but the object of the contract is located or used in the Philippines, which was not the case in regard to PNB's interbank call loans.
+We note, however, that for taxation purposes interbank call loans are not considered as deposit substitutes by express provision of Section 20(y) of the 1977 NIRC, as amended by P.D. No. 1959, 
+viz.:
+Sec. 1. A new subsection (y) is inserted in Sec. 2 of the National Internal Revenue Code to read as follows:
+ 
+x x x x
+(y) 'Deposit substitutes' shall mean an alternative form of obtaining funds from the public, other than deposit, through the issuance, endorsement, or acceptance of debt instruments for the borrower's own account, for the purpose of relending or purchasing of receivables and other obligations, or financing their own needs or the needs of their agent or dealer. These instruments may include but need not be limited to banker's acceptances, promissory notes, repurchase agreements, certificates of assignment or participation and similar instruments with recourse as may be authorized by the Central Bank of the Philippines, for banks and non-bank financial intermediaries or by the Securities and Exchange Commission of the Philippines for commercial, industrial, finance companies and other non-financial companies: 
+Provided, however, that only debt instruments issued for inter-bank call loans to cover deficiency in reserves against deposit 
+ liabilities including those between or among banks and quasi-banks shall not be considered as deposit substitute debt instruments. 
+ (Bold emphasis supplied.)
+The foregoing notwithstanding, it can readily be discerned from Section 180, 
+supra, 
+that the DST of P0.30 on each P200.00, or fractional part thereof, shall only be imposed on the face value of: (1) loan agreements; (2) bills of exchange; (3) drafts; (4) instruments and securities issued by the Government or any of its instrumentalities; (5) certificates of deposits drawing interest; (6) orders for the payment of any sum of money otherwise than at sight or on demand; and (7) promissory notes, whether negotiable or non-negotiable, except bank notes issued for circulation, and on each renewal of any such note. Interbank call loans, although not considered as deposit substitutes, are not expressly included among the taxable instruments listed in Section 180; hence, they may not be held as taxable. As the Court has pointedly pronounced in 
+Commissioner of Internal Revenue vs. Fortune Tobacco Corporation:
+[25]
+xxx The rule in the interpretation of tax laws is that a statute will not be construed as imposing a tax unless it does so clearly, expressly, and unambiguously. A tax cannot be imposed without clear and express words for that purpose. Accordingly, the general rule of requiring adherence to the letter in construing statutes applies with peculiar strictness to tax laws and the provisions of a taxing act are not to be extended by implication. In answering the question of who is subject to tax statutes, it is basic that in case of doubt, such statutes are to be construed most strongly against the government and in favor of the subjects or citizens because burdens are not to be imposed nor presumed to be imposed beyond what statutes expressly and clearly import. As burdens, taxes should not be unduly exacted nor assumed beyond the plain meaning of the tax laws.
+In fine, the cancellation of Assessment No. 97-000064 was in order.
+ WHEREFORE, 
+ the 
+Court DENIES 
+the petition for review on 
+ certiorari; 
+ and 
+AFFIRMS 
+the decision promulgated on September 21, 2010 in C.T.A. EB Case No. 512. No pronouncement on costs of suit.
+ SO ORDERED.
+Sereno, C.J., Leonardo-De Castro, Perlas-Bernabe
+, and 
+Caguioa, JJ.
+, concur.
+[1]
+ 
+Rollo, 
+pp. 36-49; penned by Associate Justice Cielito N. Mindaro-Grulla, with Presiding Justice Ernesto D. Acosta, Associate Justice Juanito C. CastaÃ±eda, Jr., Associate Justice Lovell R. Bautista, Associate Justice Erlinda P. Uy, Associate Justice Caesar A. Casanova and Associate Justice Olga Palanca-Enriquez concurring. Associate Justice Esperanza R. Fabon-Victorino was on leave.
+[2]
+ Id. at 61-67.
+[3]
+ Id. at 38.
+[4]
+ Id. at 38-39.
+[5]
+ Id. at 39-40.
+[6]
+ Id. at 40-41.
+[7]
+ Id. at 41.
+[8]
+ Id. at 37.
+[9]
+ Id. at 41.
+[10]
+ Id. at 37-38, 41-42. 
+[11]
+ Id. at 48.
+[12]
+ Id. at 50-60.
+[13]
+ Id. at 67.
+[14]
+ Id. at 14.
+[15]
+ Id. at 21-22, 46-47.
+[16]
+ Effective on October 10, 1984.
+[17]
+ Effective on January 14, 1994. 
+[18]
+ Effective on January 1, 1998.
+[19]
+ The Provincial Assessor of Marinduque v. Court of Appeals, 
+ G.R. No. 170532 April 30 2009 587 SCRA 285, 303.
+[20]
+ Rollo, 
+ p. 16; see also 
+Commissioner of Internal Revenue v. Filinvest Development Corporation, 
+G.R. No. 163653, July 19, 2011, 654 SCRA 56, 80-81. 
+[21]
+ BSP Circular No. 512, February 3, 2006. 
+[22]
+ http://www.bsp.gov.ph/financial/open.asp. 
+ Last visited on July 6, 2016. 
+[23]
+ Section X343, Manual of Regulations for Banks Volume 1.
+[24]
+ Section X235.4, Manual of Regulations for Banks Volume 1.
+[25]
+ G.R. Nos. 167274-75, July 21, 2008, 559 SCRA 160, 185.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

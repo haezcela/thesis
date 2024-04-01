@@ -1,0 +1,621 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			738 Phil. 335
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 197515, July 02, 2014 ]
+
+
+COMMISSIONER OF INTERNAL REVENUE, PETITIONER, VS. UNITED SALVAGE AND TOWAGE (PHILS.), INC., RESPONDENT.
+D E C I S I O N
+
+
+
+
+PERALTA, J.:
+
+
+Before the Court is a petition for review on 
+certiorari 
+under Rule 45 of the Revised Rules of Court which seeks to review, reverse and set aside the Decision
+[1]
+ of the Court of Tax Appeals
+ En Banc 
+(CTA 
+En Banc
+), dated June 27, 2011, in the case entitled
+ Commissioner of Internal Revenue v. United Salvage and Towage (Phils.), Inc. (USTP)
+, docketed as C.T.A. EB No. 662.
+The facts as culled from the records:
+Respondent is engaged in the business of sub-contracting work for service contractors engaged in petroleum operations in the Philippines.
+[2]
+ During the taxable years in question, it had entered into various contracts and/or sub-contracts with several petroleum service contractors, such as Shell Philippines Exploration, B.V. and Alorn Production Philippines for the supply of service vessels.
+[3]
+In the course of respondentâs operations, petitioner found respondent liable for deficiency income tax, withholding tax, value-added tax (VAT) and documentary stamp tax (DST) for taxable years 1992, 1994, 1997 and 1998.
+[4]
+  Particularly, petitioner, through BIR officials, issued demand letters with attached assessment notices for withholding tax on compensation (WTC) and expanded withholding tax (EWT) for taxable years 1992, 1994 and 1998,
+[5]
+ detailed as follows:
+ 
+ 
+Assessment Notice No.
+ 
+Tax Covered
+ 
+Period
+ 
+Amount
+ 
+ 
+ 
+25-1-000545-92
+ 
+WTC
+ 
+1992
+ 
+P50,429.18
+ 
+ 
+ 
+25-1-000546-92
+ 
+EWT
+ 
+1992
+ 
+P14,079.45
+ 
+ 
+ 
+034-14-000029-94
+ 
+EWT
+ 
+1994
+ 
+P48,461.76
+ 
+ 
+ 
+034-1-000080-98
+ 
+EWT
+ 
+1998
+ 
+P22,437.01
+[6]
+ 
+ 
+On January 29, 1998 and October 24, 2001, USTP filed administrative protests against the 1994 and 1998 EWT assessments, respectively.
+[7]
+On February 21, 2003, USTP appealed by way of Petition for Review before the Court in action (which was thereafter raffled to the CTA-Special First Division) alleging, among others, that the Notices of Assessment are bereft of any facts, law, rules and regulations or jurisprudence; thus, the assessments are void and the right of the government to assess and collect deficiency taxes from it has prescribed on account of the failure to issue a valid notice of assessment within the applicable period.
+[8]
+During the pendency of the proceedings, USTP moved to withdraw the aforesaid Petition because it availed of the benefits of the Tax Amnesty Program under Republic Act (R.A.) No. 9480.
+[9]
+  Having complied with all the requirements therefor, the CTA-Special First Division partially granted the Motion to Withdraw and declared the issues on income tax, VAT and DST deficiencies closed and terminated in accordance with our pronouncement in 
+Philippine Banking Corporation v. Commissioner of Internal Revenue
+.
+[10]
+  Consequently, the case was submitted for decision covering the remaining issue on deficiency EWT and WTC, respectively, for taxable years 1992, 1994 and 1998.
+[11]
+The CTA-Special First Division held that the Preliminary Assessment Notices (PANs) for deficiency EWT for taxable years 1994 and 1998 were not formally offered; hence, pursuant to Section 34, Rule 132 of the Revised Rules of Court, the Court shall neither consider the same as evidence nor rule on their validity.
+[12]
+  As regards the Final Assessment Notices (FANs) for deficiency EWT for taxable years 1994 and 1998, the CTA-Special First Division held that the same do not show the law and the facts on which the assessments were based.
+[13]
+  Said assessments were, therefore, declared void for failure to comply with Section 228 of the 1997 National Internal Revenue Code (
+Tax Code
+).
+[14]
+  From the foregoing, the only remaining valid assessment is for taxable year 1992.
+[15]
+Nevertheless, the CTA-Special First Division declared that the right of petitioner to collect the deficiency EWT and WTC, respectively, for taxable year 1992 had already lapsed pursuant to Section 203 of the Tax Code.
+[16]
+ Thus, in ruling for USTP, the CTA-Special First Division cancelled Assessment Notice Nos. 25-1-00546-92 and 25-1-000545-92, both dated January 9, 1996 and covering the period of 1992, as declared in its Decision
+[17]
+ dated March 12, 2010, the dispositive portion of which provides:
+WHEREFORE
+, the instant Petition for Review is hereby 
+GRANTED
+. Accordingly, Assessment Notice No. 25-1-00546-92 dated January 9, 1996 for deficiency Expanded Withholding Tax and Assessment Notice No. 25-1-000545 dated January 9, 1996 for deficiency Withholding Tax on Compensation are hereby 
+CANCELLED
+.
+SO ORDERED
+.
+[18]
+Dissatisfied, petitioner moved to reconsider the aforesaid ruling. However, in a Resolution
+[19]
+ dated July 15, 2010, the CTA-Special First Division denied the same for lack of merit.
+On August 18, 2010, petitioner filed a Petition for Review with the CTA 
+En Banc
+ praying that the Decision of the CTA-Special First Division, dated March 12, 2010, be set aside.
+[20]
+On June 27, 2011, the CTA
+ En Banc
+ promulgated a Decision which affirmed with modification the Decision dated March 12, 2010 and the Resolution dated July 15, 2010 of the CTA-Special First Division, the dispositive portion of which reads:
+WHEREFORE
+, premises considered, the Petition is 
+PARTLY GRANTED
+. The Decision dated March 12, 2010 and the Resolution dated July 15, 2010 are 
+AFFIRMED
+ with 
+MODIFICATION
+ upholding the 1998 EWT assessment. In addition to the basic EWT deficiency of P14,496.79, USTP is ordered to pay surcharge, annual deficiency interest, and annual delinquency interest from the date due until full payment pursuant to Section 249 of the 1997 NIRC.
+SO ORDERED
+.
+[21]
+Hence, the instant petition raising the following issues:
+Whether or not the Court of Tax Appeals is governed strictly by the technical rules of evidence;
+Whether or not the Expanded Withholding Tax Assessments issued by petitioner against the respondent for taxable year 1994 was without any factual and legal basis; and
+Whether or not petitionerâs right to collect the creditable withholding tax and expanded withholding tax for taxable year 1992 has already prescribed.
+[22]
+After careful review of the records and evidence presented before us, we find no basis to overturn the decision of the CTA 
+En Banc
+.
+On this score, our ruling in 
+Compagnie Financiere Sucres Et Denrees v. CIR
+,
+[23]
+ is enlightening, to wit:
+We reiterate the well-established doctrine that as a matter of practice and principle, [we] will not set aside the conclusion reached by an agency, like the CTA, especially if affirmed by the [CA]. By the very nature of its function, it has dedicated itself to the study and consideration of tax problems and has necessarily developed an expertise on the subject, unless there has been an abuse or improvident exercise of authority on its part, which is not present here.
+[24]
+Now, to the 
+first
+ issue.
+Petitioner implores unto this Court that technical rules of evidence should not be strictly applied in the interest of substantial justice, considering that the mandate of the CTA explicitly provides that its proceedings shall not be governed by the technical rules of evidence.
+[25]
+ Relying thereon, petitioner avers that while it failed to formally offer the PANs of EWTs for taxable years 1994 and 1998, their existence and due execution were duly tackled during the presentation of petitionerâs witnesses, Ruleo Badilles and Carmelita Lynne de Guzman (for taxable year 1994) and Susan Salcedo-De Castro and Edna A. Ortalla (for taxable year 1998).
+[26]
+  Petitioner further claims that although the PANs were not marked as exhibits, their existence and value were properly established, since the BIR records for taxable years 1994 and 1998 were forwarded by petitioner to the CTA in compliance with the latterâs directive and were, in fact, made part of the CTA records.
+[27]
+Under Section 8
+[28]
+ of Republic Act (R.A.) No. 1125, the CTA is categorically described as a court of record.
+[29]
+  As such, it shall have the power to promulgate rules and regulations for the conduct of its business, and as may be needed, for the uniformity of decisions within its jurisdiction.
+[30]
+  Moreover, as cases filed before it are litigated
+ de novo
+, party-litigants shall prove every minute aspect of their cases.
+[31]
+  Thus, no evidentiary value can be given the pieces of evidence submitted by the BIR, as the rules on documentary evidence require that these documents must be formally offered before the CTA.
+[32]
+  Pertinent is Section 34, Rule 132 of the Revised Rules on Evidence which reads:
+SEC. 34. 
+Offer of evidence. 
+â The court shall consider no evidence which has not been formally offered. The purpose for which the evidence is offered must be specified.
+Although in a long line of cases, we have relaxed the foregoing rule and allowed evidence not formally offered to be admitted and considered by the trial court, we exercised extreme caution in applying the exceptions to the rule, as pronounced in 
+Vda. de OÃ±ate v. Court of Appeals
+,
+[33]
+ thus:
+From the foregoing provision,
+ it is clear that for evidence to be considered, the same must be formally offered. Corollarily
+, the mere fact that a particular document is identified and marked as an exhibit does not mean that it has already been offered as part of the evidence of a party. In 
+Interpacific Transit, Inc. v. Aviles 
+[186 SCRA 385, 388-389 (1990)], we had the occasion to make a distinction between identification of documentary evidence and its formal offer as an exhibit. We said that the first is done in the course of the trial and is accompanied by the marking of the evidence as an exhibit while the second is done only when the party rests its case and not before. A party, therefore, may opt to formally offer his evidence if he believes that it will advance his cause or not to do so at all. In the event he chooses to do the latter, the trial court is not authorized by the Rules to consider the same.
+However, in 
+People v. Napat-a
+ [179 SCRA 403 (1989)] citing 
+People v. Mate
+ [103 SCRA 484 (1980)], 
+we relaxed the foregoing rule and allowed evidence not formally offered to be admitted and considered by the trial court provided the following requirements are present, 
+viz.: first, the same must have been duly identified by testimony duly recorded and, second, the same must have been incorporated in the records of the case
+.
+[34]
+The evidence may, therefore, be admitted provided the following requirements are present: (1) the same must have been duly identified by testimony duly recorded; and (2) the same must have been incorporated in the records of the case.  Being an exception, the same may only be applied when there is strict compliance with the requisites mentioned above; otherwise, the general rule in Section 34 of Rule 132 of the Rules of Court should prevail.
+[35]
+In the case at bar, petitioner categorically admitted that it failed to formally offer the PANs as evidence. Worse, it advanced no justifiable reason for such fatal omission.  Instead, it merely alleged that the existence and due execution of the PANs were duly tackled by petitionerâs witnesses. We hold that such is not sufficient to seek exception from the general rule requiring a formal offer of evidence, since no evidence of positive identification of such PANs by petitionerâs witnesses was presented. Hence, we agree with the CTA 
+En Bancâs
+ observation that the 1994 and 1998 PANs for EWT deficiencies were not duly identified by testimony and were not incorporated in the records of the case, as required by jurisprudence.
+While we concur with petitioner that the CTA is not governed strictly by technical rules of evidence, as rules of procedure are not ends in themselves but are primarily intended as tools in the administration of justice,
+[36]
+ the presentation of PANs as evidence of the taxpayerâs liability is not mere procedural technicality. It is a means by which a taxpayer is informed of his liability for deficiency taxes. It serves as basis for the taxpayer to answer the notices, present his case and adduce supporting evidence.
+[37]
+ More so, the same is the only means by which the CTA may ascertain and verify the truth of respondent's claims. We are, therefore, constrained to apply our ruling in 
+Heirs of Pedro Pasag v. Spouses Parocha
+,
+[38]
+ 
+viz
+.:
+x x x. 
+A formal offer is necessary because judges are mandated to rest their findings of facts and their judgment only and strictly upon the evidence offered by the parties at the trial
+. Its function is to enable the trial judge to know the purpose or purposes for which the proponent is presenting the evidence. On the other hand, 
+this allows opposing parties to examine the evidence and object to its admissibility
+. Moreover, it facilitates review as the appellate court will not be required to review documents not previously scrutinized by the trial court.
+Strict adherence to the said rule is not a trivial matter. The Court in 
+Constantino v. Court of Appeals
+ ruled that the formal offer of one's evidence is deemed waived after failing to submit it within a considerable period of time. It explained that the court cannot admit an offer of evidence made after a lapse of three (3) months because to do so would "condone an inexcusable laxity if not non-compliance with a court order which, in effect, would encourage needless delays and derail the speedy administration of justice."
+Applying the aforementioned principle in this case, we find that the trial court had reasonable ground to consider that petitioners had waived their right to make a formal offer of documentary or object evidence. Despite several extensions of time to make their formal offer, petitioners failed to comply with their commitment and allowed almost five months to lapse before finally submitting it. Petitioners' failure to comply with the rule on admissibility of evidence is anathema to the efficient, effective, and expeditious dispensation of justice. x x x.
+[39]
+Anent the 
+second
+ issue, petitioner claims that the EWT assessment issued for taxable year 1994 has factual and legal basis because at the time the PAN and FAN were issued by petitioner to respondent on January 19, 1998, the provisions of Revenue Regulation No. 12-99
+[40]
+ which governs the issuance of assessments was not yet operative. Hence, its compliance with Revenue Regulation No. 12-85
+[41]
+ was sufficient. In any case, petitioner argues that a scrutiny of the BIR records of respondent for taxable year 1994 would show that the details of the factual finding of EWT were itemized from the PAN issued by petitioner.
+[42]
+In order to determine whether the requirement for a valid assessment is duly complied with, it is important to ascertain the governing law, rules and regulations and jurisprudence at the time the assessment was issued. In the instant case, the PANs and FANs pertaining to the deficiency EWT for taxable years 1994 and 1998, respectively, were issued on January 19, 1998, when the Tax Code was already in effect, as correctly found by the CTA 
+En Banc
+:
+The date of issuance of the notice of assessment determines which law applies- the 1997 NIRC or the old Tax Code. The case of 
+Commissioner of Internal Revenue v. Bank of Philippine Islands
+ is instructive:
+In merely notifying BPI of his findings, the CIR relied on the provisions of the former Section 270 prior to its amendment by RA 8424 (also known as the Tax Reform Act of 1997). In 
+CIR v. Reyes
+, we held that:
+In the present case, Reyes was not informed in writing of the law and the facts on which the assessment of estate taxes had been made. She was merely notified of the findings by the CIR, who had simply relied upon the provisions of former Section 229 prior to its amendment by [RA] 8424, otherwise known as the Tax Reform Act of 1997.
+First, RA 8424 has already amended the provision of Section 229 on protesting an assessment. 
+The old requirement of 
+merely
+ notifying the taxpayer of the CIR's findings was changed in 1998
+ to
+ informing
+ the taxpayer of not only the law, but also of the facts on which an assessment would be made; otherwise, the assessment itself would be invalid.
+It was on February 12, 1998, that a preliminary assessment notice was issued against the estate. On April 22, 1998, the final estate tax assessment notice, as well as demand letter, was also issued. During those dates, RA 8424 was already in effect. The notice required under the old law was no longer sufficient under the new law
+. (Emphasis ours.)
+In the instant case, the 1997 NIRC covers the 1994 and 1998 EWT FANs because there were issued on January 19, 1998 and September 21, 2001, respectively, at the time of the effectivity of the 1997 NIRC.
+ Clearly, the assessments are governed by the law.
+[43]
+Indeed, Section 228 of the Tax Code provides that the taxpayer shall be informed in writing of the law and the facts on which the assessment is made. Otherwise, the assessment is void.  To implement the aforesaid provision, Revenue Regulation No. 12-99 was enacted by the BIR, of which Section 3.1.4 thereof reads:
+3.1.4. 
+Formal Letter of Demand and Assessment Notice.
+ â The formal letter of demand and assessment notice shall be issued by the Commissioner or his duly authorized representative. 
+The letter of demand calling for payment of the taxpayerâs deficiency tax or taxes shall state the facts, the law, rules and regulations, or jurisprudence on which the assessment is based, otherwise, the formal letter of demand and assessment notice shall be void
+. The same shall be sent to the taxpayer only by registered mail or by personal delivery. x x x
+[44]
+It is clear from the foregoing that a taxpayer must be informed in writing of the legal and factual bases of the tax assessment made against him. The use of the word âshallâ in these legal provisions indicates the mandatory nature of the requirements laid down therein.
+In the present case, a mere perusal of the FAN for the deficiency EWT for taxable year 1994will show that other than a tabulation of the alleged deficiency taxes due, no further detail regarding the assessment was provided by petitioner. Only the resulting interest, surcharge and penalty were anchored with legal basis.
+[45]
+ Petitioner should have at least attached a detailed notice of discrepancy or stated an explanation why the amount of P48,461.76 is collectible against respondent
+[46]
+ and how the same was arrived at. Any short-cuts to the prescribed content of the assessment or the process thereof should not be countenanced, in consonance with the ruling in 
+Commissioner of Internal Revenue v. Enron Subic Power Corporation
+[47]
+ to wit:
+The CIR insists that an examination of the facts shows that Enron was properly apprised of its tax deficiency. During the pre-assessment stage, the CIR advised Enronâs representative of the tax deficiency, informed it of the proposed tax deficiency assessment through a preliminary five-day letter and furnished Enron a copy of the audit working paper allegedly showing in detail the legal and factual bases of the assessment. The CIR argues that these steps sufficed to inform Enron of the laws and facts on which the deficiency tax assessment was based.
+We disagree. 
+The advice of tax deficiency, given by the CIR to an employee of Enron, as well as the preliminary five-day letter, were not valid substitutes for the mandatory notice in writing of the legal and factual bases of the assessment
+. These steps were mere perfunctory discharges of the CIRâs duties in correctly assessing a taxpayer. 
+The requirement for issuing a preliminary or final notice, as the case may be, informing a taxpayer of the existence of a deficiency tax assessment is markedly different from the requirement of what such notice must contain. Just because the CIR issued an advice, a preliminary letter during the pre-assessment stage and a final notice, in the order required by law, does not necessarily mean that Enron was informed of the law and facts on which the deficiency tax assessment was made.
+The law requires that the legal and factual bases of the assessment be stated in the formal letter of demand and assessment notice. Thus, such cannot be presumed. Otherwise, the express provisions of Article 228 of the NIRC and RR No. 12-99 would be rendered nugatory. The alleged âfactual basesâ in the advice, preliminary letter and âaudit working papersâ did not suffice. There was no going around the mandate of the law that the legal and factual bases of the assessment be stated in writing in the formal letter of demand accompanying the assessment notice.
+We note that the old law merely required that the taxpayer be notified of the assessment made by the CIR. This was changed in 1998 and the taxpayer must now be informed not only of the law but also of the facts on which the assessment is made. Such amendment is in keeping with the constitutional principle that no person shall be deprived of property without due process. In view of the absence of a fair opportunity for Enron to be informed of the legal and factual bases of the assessment against it, the assessment in question was void. x x x.
+[48]
+In the same vein, we have held in 
+Commissioner of Internal Revenue v. Reyes
+,
+[49]
+ that:
+Even a cursory review of the preliminary assessment notice, as well as the demand letter sent, reveals the lack of basis for -- not to mention the insufficiency of -- the gross figures and details of the itemized deductions indicated in the notice and the letter. 
+This Court cannot countenance an assessment based on estimates that appear to have been arbitrarily or capriciously arrived at.
+ Although taxes are the lifeblood of the government, their assessment and collection âshould be made in accordance with law as any arbitrariness will negate the very reason for government itself.â
+[50]
+Applying the aforequoted rulings to the case at bar, it is clear that the assailed deficiency tax assessment for the EWT in 1994 disregarded the provisions of Section 228 of the Tax Code, as amended, as well as Section 3.1.4 of Revenue Regulations No. 12-99 by not providing the legal and factual bases of the assessment. Hence, the formal letter of demand and the notice of assessment issued relative thereto are void.
+In any case, we find no basis in petitionerâs claim that Revenue Regulation No. 12-99 is not applicable at the time the PAN and FAN for the deficiency EWT for taxable year 1994 were issued. Considering that such regulation merely implements the law, and does not create or take away vested rights, the same may be applied retroactively, as held in Reyes:
+x x x x.
+Second
+, the non-retroactive application of Revenue Regulation (RR) No. 12-99 is of no moment, considering that it merely implements the law.
+A tax regulation is promulgated by the finance secretary to implement the provisions of the Tax Code. While it is desirable for the government authority or administrative agency to have one immediately issued after a law is passed, 
+the absence of the regulation does not automatically mean that the law itself would become inoperative
+.
+At the time the pre-assessment notice was issued to Reyes, RA 8424 already stated that the taxpayer must be informed of both the law and facts on which the assessment was based.  Thus, the CIR should have required the assessment officers of the Bureau of Internal Revenue (BIR) to follow the clear mandate of the new law. The old regulation governing the issuance of estate tax assessment notices ran afoul of the rule that tax regulations -- old as they were -- should be in harmony with, and not supplant or modify, the law.
+It may be argued that the Tax Code provisions are not self-executory. It would be too wide a stretch of the imagination, though, to still issue a regulation that would simply require tax officials to inform the taxpayer, in any manner, of the law and the facts on which an assessment was based.  That requirement is neither difficult to make nor its desired results hard to achieve.
+Moreover, an administrative rule interpretive of a statute, and not declarative of certain rights and corresponding obligations, is given retroactive effect as of the date of the effectivity of the statute. RR 12-99 is one such rule.  Being interpretive of the provisions of the Tax Code, even if it was issued only on September 6, 1999, this regulation was to retroact to January 1, 1998 -- a date prior to the issuance of the preliminary assessment notice and demand letter
+.
+[51]
+Indubitably, the disputed assessments for taxable year 1994 should have already complied with the requirements laid down under Revenue Regulation No. 12-99. Having failed so, the same produces no legal effect.
+Notwithstanding the foregoing findings, we sustain the CTA 
+En Bancâs
+ findings on the deficiency EWT for taxable year 1998 considering that it complies with Section 228 of the Tax Code as well as Revenue Regulation No. 12-99, thus:
+On the other hand, the 1998 EWT FAN reflected the following: a detailed factual account why the basic EWT is P14,496.79 and the legal basis, Section 57 B of the 1997 NIRC supporting findings of EWT liability of P22,437.01. Thus, the EWT FAN for 1998 is duly issued in accordance with the law.
+[52]
+As to the 
+last 
+issue, petitioner avers that its right to collect the EWT for taxable year 1992 has not yet prescribed. It argues that while the final assessment notice and demand letter on EWT for taxable year 1992 were all issued on January 9, 1996, the five (5)-year prescriptive period to collect was interrupted when respondent filed its request for reinvestigation on March 14, 1997 which was granted by petitioner on January 22, 2001 through the issuance of Tax Verification Notice No. 00165498 on even date.
+[53]
+Thus, the period for tax collection should have begun to run from the date of the reconsidered or modified assessment.
+[54]
+This argument fails to persuade us.
+The statute of limitations on assessment and collection of national internal revenue taxes was shortened from five (5) years to three (3) years by virtue of Batas Pambansa Blg. 700.
+[55]
+ Thus, petitioner has three (3) years from the date of actual filing of the tax return to assess a national internal revenue tax or to commence court proceedings for the collection thereof without an assessment.
+[56]
+ However, when it validly issues an assessment within the three (3)-year period, it has another three (3) years within which to collect the tax due by distraint, levy, or court proceeding.
+[57]
+ The assessment of the tax is deemed made and the three (3)-year period for collection of the assessed tax begins to run on the date the assessment notice had been released, mailed or sent to the taxpayer.
+[58]
+On this matter, we note the findings of the CTA-Special First Division that no evidence was formally offered to prove when respondent filed its returns and paid the corresponding EWT and WTC for taxable year 1992.
+[59]
+Nevertheless, as correctly held by the CTA 
+En Banc
+, the Preliminary Collection Letter for deficiency taxes for taxable year 1992 was only issued on February 21, 2002, despite the fact that the FANs for the deficiency EWT and WTC for taxable year 1992 was issued as early as January 9, 1996. Clearly, five (5) long years had already lapsed, beyond the three (3)-year prescriptive period, before collection was pursued by petitioner.
+Further, while the request for reinvestigation was made on March 14, 1997, the same was only acted upon by petitioner on January 22, 2001, also beyond the three (3) year statute of limitations reckoned from January 9, 1996, notwithstanding the lack of impediment to rule upon such issue.
+We cannot countenance such inaction by petitioner to the prejudice of respondent pursuant to our ruling in 
+Commissioner of Internal Revenue v. Philippine Global Communication, Inc.,
+[60]
+ to wit:
+The assessment, in this case, was presumably issued on 14 April 1994 since the respondent did not dispute the CIRâs claim. Therefore, the BIR had until 13 April 1997. However, as there was no Warrant of Distraint and/or Levy served on the respondents nor any judicial proceedings initiated by the BIR, the earliest attempt of the BIR to collect the tax due based on this assessment was when it filed its Answer in CTA Case No. 6568 on 9 January 2003, which was several years beyond the three-year prescriptive period. Thus, the CIR is now prescribed from collecting the assessed tax.
+[61]
+Here, petitioner had ample time to make a factually and legally well-founded assessment and implement collection pursuant thereto. Whatever examination that petitioner may have conducted cannot possibly outlast the entire three (3)-year prescriptive period provided by law to collect the assessed tax. Thus, there is no reason to suspend the running of the statute of limitations in this case.
+Moreover, in 
+Bank of the Philippine Islands
+, citing earlier jurisprudence, we held that the request for reinvestigation should be granted or at least acted upon in due course before the suspension of the statute of limitations may set in, thus:
+In 
+BPI v. Commissioner of Internal Revenue
+, the Court emphasized the rule that the CIR must first grant the request for reinvestigation as a requirement for the suspension of the statute of limitations. The Court said:
+In the case of 
+Republic of the Philippines v. Gancayco,
+ taxpayer Gancayco requested for a thorough reinvestigation of the assessment against him and placed at the disposal of the Collector of Internal Revenue all the evidences he had for such purpose; yet, the Collector ignored the request, and the records and documents were not at all examined. Considering the given facts, this Court pronounced thatâ
+x x x 
+The act of requesting a reinvestigation alone does not suspend the period. The request should first be granted, in order to effect suspension
+. (
+Collector v. Suyoc Consolidated
+, supra; also 
+Republic v. Ablaza
+, supra). Moreover, the Collector gave appellee until April 1, 1949, within which to submit his evidence, which the latter did one day before. There were no impediments on the part of the Collector to file the collection case from April 1, 1949â¦
+In 
+Republic of the Philippines v. Acebedo,
+ this Court similarly found that â
+x x x T]he defendant, after receiving the assessment notice of September 24, 1949, asked for a reinvestigation thereof on October 11, 1949 (Exh. "A"). There is no evidence that this request was considered or acted upon. In fact, on October 23, 1950 the then Collector of Internal Revenue issued a warrant of distraint and levy for the full amount of the assessment (Exh. "D"), but there was follow-up of this warrant. Consequently, 
+the request for reinvestigation did not suspend the running of the period for filing an action for collection
+. [Emphasis in the original]
+[62]
+With respect to petitionerâs argument that respondentâs act of elevating its protest to the CTA has fortified the continuing interruption of petitionerâs prescriptive period to collect under Section 223 of the Tax Code,
+[63]
+ the same is flawed at best because respondent was merely exercising its right to resort to the proper Court, and does not in any way deter petitionerâs right to collect taxes from respondent under existing laws.
+On the strength of the foregoing observations, we ought to reiterate our earlier teachings that âin balancing the scales between the power of the State to tax and its inherent right to prosecute perceived transgressors of the law on one side, and the constitutional rights of a citizen to due process of law and the equal protection of the laws on the other, the scales must tilt in favor of the individual, for a citizenâs right is amply protected by the Bill of Rights under the Constitution.â
+[64]
+ Thus, while âtaxes are the lifeblood of the government,â the power to tax has its limits, in spite of all its plenitude.
+[65]
+ Even as we concede the inevitability and indispensability of taxation, it is a requirement in all democratic regimes that it be exercised reasonably and in accordance with the prescribed procedure.
+[66]
+After all, the statute of limitations on the collection of taxes was also enacted to benefit and protect the taxpayers, as elucidated in the case of 
+Philippine Global Communication, Inc.,
+[67]
+ thus:
+x x x The report submitted by the tax commission clearly states that these provisions on prescription should be enacted to benefit and protect taxpayers:
+Under the former law, the right of the Government to collect the tax does not prescribe. However, in fairness to the taxpayer, the Government should be estopped from collecting the tax where it failed to make the necessary investigation and assessment within 5 years after the filing of the return and where it failed to collect the tax within 5 years from the date of assessment thereof. Just as the government is interested in the stability of its collections, so also are the taxpayers entitled to an assurance that they will not be subjected to further investigation for tax purposes after the expiration of a reasonable period of time. (Vol. II, Report of the Tax Commission of the Philippines, pp. 321-322).
+[68]
+WHEREFORE
+, the petition is 
+DENIED
+. The June 27, 2011 Decision of the Court of Tax Appeals 
+En Banc 
+in C.T.A. EB No. 662 is hereby 
+AFFIRMED.
+SO ORDERED.
+Velasco, Jr., (Chairperson), Peralta, Vill Villarama, Jr.,
+*
+ Mendoza,
+ and
+ Leonen, JJ.,
+ concur.
+July 25, 2014
+N O T I C E  OF J U D G M E N T
+Sirs/Mesdames:
+Please take notice that on ___
+July 2, 2014
+___ a Decision, copy attached herewith, was rendered by the Supreme Court in the above-entitled case, the original of which was received by this Office on July 25, 2014 at 10:37 a.m.
+Very truly yours,
+(SGD)
+WILFREDO V. LAPITAN
+Division Clerk of Court
+*
+ Designated Acting Member, per Special Order No. 1691 dated May 22, 2014.
+[1]
+ Penned by Associate Justice Juanito C. CastaÃ±eda, Jr.; Annexes "G" to Petition, 
+rollo
+, pp. 185-200.
+[2]
+ 
+Rollo,
+ p. 50.
+[3]
+ Id.
+[4]
+ Id.
+[5]
+ Supra note 1, at 186.
+[6]
+ Id.
+[7]
+ Id. at 187.
+[8]
+ Id.
+[9]
+ Id.
+[10]
+ G.R. No. 170574, January 30, 2009, 577 SCRA 366.
+[11]
+ Annexes "B" to Petition, 
+rollo,
+ p. 143.
+[12]
+ 
+Rollo, 
+p. 147.
+[13]
+ Id.
+[14]
+ Id.
+[15]
+ Id. at 148.
+[16]
+ Id.
+[17]
+ Id. at 139-149.
+[18]
+ Id. at 149.  (Emphasis in the original)
+[19]
+ Annexes "D" to Petition, id. at 162-164.
+[20]
+ 
+Rollo,
+ p. 13.
+[21]
+ Supra note 1, at 199.  (Emphasis in the original)
+[22]
+ Rollo, 
+p. 18.
+[23]
+ 531 Phil. 264 (2006).
+[24]
+ Compagnie Financiere Sucres Et Denrees v. CIR,
+ supra, at 269.
+[25]
+ Rollo
+, pp. 18-19.
+[26]
+ Id. at 19.
+[27]
+ Id. at 19-20.
+[28]
+ Section 8. 
+Court of record; seal; proceedings
+. - The Court of Tax Appeals shall be a court of record and shall have a seal which shall be judicially noticed. It shall prescribe the form of its writs and other processes. It shall have the power to promulgate rules and regulations for the conduct of the business of the Court, and as may be needful for the uniformity of decisions within its jurisdiction as conferred by law, but such proceedings shall not be governed strictly by technical rules of evidence.
+[29]
+ Dizon v. Court of Tax Appeals,
+ 576 Phil. 110, 128 (2008).
+[30]
+ Supra note 28.
+[31]
+ Id.
+[32]
+ Id.
+[33]
+ 320 Phil. 344 (1995).
+[34]
+ 
+Vda. de OÃ±ate v. Court of Appeals,
+ supra, at 349-350 citing 
+People v. Napat-a,
+ G.R. No. 84951, November 14, 1989, 179 SCRA 403 and 
+People v. Mate,
+ G.R. No. L-34754, March 27, 1981, 103 SCRA 484 (1981) (Emphasis supplied).
+[35]
+ 
+Dizon v. Court of Appeals,
+ supra note 29, at 130.
+[36]
+ 
+Commissioner of Internal Revenue v. Manila Mining Corporation,
+ 505 Phil. 650, 669 (2005).
+[37]
+ Id.
+[38]
+ 550 Phil. 571 (2007).
+[39]
+ Id. at 578-579.  (Emphasis supplied)
+[40]
+ 
+3.1.2 
+Preliminary Assessment Notice (PAN)
+. If after review and evaluation by the Assessment Division or by the Commissioner or his duly authorized representative, as the case may be, it is determined that there exists sufficient basis to assess the taxpayer for any deficiency tax or taxes, the said Office shall issue to the taxpayer, at least by registered mail, a Preliminary Assessment Notice (PAN) for the proposed assessment, showing in detail, the facts and the law, rules and regulations, or jurisprudence on which the proposed assessment is based (see illustration in ANNEX A hereof). If the taxpayer fails to respond within fifteen (15) days from date of receipt of the PAN, he shall be considered in default, in which case, a formal letter of demand and assessment notice shall be caused to be issued by the said Office, calling for payment of the taxpayer's deficiency tax liability, inclusive of the applicable penalties.
+x x x.
+3.1.4 
+Formal Letter of Demand and Assessment Notice
+.
+ The formal letter of demand and assessment notice shall be issued by the Commissioner or his duly authorized representative. The letter of demand calling for payment of the taxpayer's deficiency taxes shall state the facts, the law, rules and regulations, or jurisprudence on which the assessment is based, otherwise, the formal letter of demand and assessment notice shall be void (see illustration in ANNEX B hereof). The same shall be sent to the taxpayer only by registered mail or by personal delivery. If sent by personal delivery, the taxpayer or his duly authorized representative shall acknowledge receipt thereof in the duplicate copy of the letter of demand, showing the following: (a) His name; (b) signature; (c) designation and authority to act for and in behalf of the taxpayer, if acknowledged received by a person other than the taxpayer himself; and (d) date of receipt thereof.
+[41]
+ 
+SECTION 2. 
+Notice of proposed assessment.
+ 
+When the Commissioner or his duly authorized representative finds that taxes should be assessed, he shall first notify the taxpayer of his findings in the attached prescribed form as Annex "B" hereof. The notice shall be made in writing and sent to the taxpayer at the address indicated in his return or at his last known address as stated in his notice of change of address. In cases where the taxpayer has agreed in writing to the proposed assessment, or where such proposed assessment has been paid, the required notice may be dispensed with.
+[42]
+ 
+Rollo
+, p. 27.
+[43]
+ Supra note 1, at 193-194.
+[44]
+ Emphasis supplied.
+[45]
+ Supra note 1, at 196.
+[46]
+ Id.
+[47]
+ G.R. No. 166387, January 19, 2009, 576 SCRA 212.
+[48]
+ 
+Commissioner of Internal Revenue v. Enron Subic Power Corporation, supra, 
+at 217-218.  (Emphasis ours; citations omitted)
+[49]
+ 516 Phil. 176 (2006).
+[50]
+ Commissioner of Internal Revenue v. Reyes
+, supra, at 190.
+[51]
+ Id. at 188-189.  (Emphases ours; citations omitted)
+[52]
+ Rollo
+, p. 196.
+[53]
+ Id. at 35.
+[54]
+ Id.
+[55]
+ Bank of the Philippine Islands v. Commissioner of Internal Revenue,
+ 571 Phil. 535, 542-543 (2008).
+[56]
+ Id. at 543.
+[57]
+ Id.
+[58]
+ Id.
+[59]
+ Supra note 11, at 148.
+[60]
+ 536 Phil. 1131 (2006).
+[61]
+ 
+Commissioner of Internal Revenue v. Philippine Global Communication, Inc.
+, supra, at 1140.
+[62]
+ 
+Bank of the Philippine Islands v. Commissioner of Internal Revenue, 
+supra note 55, at 544-545.  (Emphases in the original)
+[63]
+ 
+Rollo
+, p. 36.
+[64]
+ 
+Commissioner of Internal Revenue v. Metro Star Superama, Inc.
+, G.R. No. 185371, December 8, 2010, 637 SCRA 633, 647.
+[65]
+ Id.
+[66]
+ 
+Commissioner of Internal Revenue v. Algue, Inc.
+, 241 Phil. 829, 836 (1988).
+[67]
+ Supra note 60, at 1140.
+[68]
+ Id.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

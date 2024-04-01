@@ -1,0 +1,318 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			809 Phil. 136
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 194533, April 19, 2017 ]
+
+
+PHILIPPINE STEEL COATING CORP., PETITIONER, VS. EDUARD QUIÃONES, RESPONDENT.
+D E C I S I O N
+
+
+
+
+SERENO, C.J.:
+
+
+Before us is a Petition for Review on Certiorari under Rule 45 of the Rules of Court assailing the Court of Appeals (CA) Decision
+[1]
+ and Resolution.
+[2]
+ The CA affirmed 
+in toto
+ the Regional Trial Court (RTC) Decision in Civil Case No. A-1708 for damages.
+[3]
+THE FACTS
+This case arose from a Complaint for damages filed by respondent QuiÃ±ones (owner of Amianan Motors) against petitioner PhilSteel. The Complaint alleged that in early 1994, Richard Lopez, a sales engineer of PhilSteel, offered QuiÃ±ones their new product: primer-coated, long-span, rolled galvanized iron (G.I.) sheets. The latter showed interest, but asked Lopez if the primer-coated sheets were compatible with the Guilder acrylic paint process used by Amianan Motors in the finishing of its assembled buses. Uncertain, Lopez referred the query to his immediate superior, Ferdinand Angbengco, PhilSteel's sales manager.
+Angbengco assured QuiÃ±ones that the quality of their new product was superior to that of the non-primer coated G.I. sheets being used by the latter in his business. QuiÃ±ones expressed reservations, as the new product might not be compatible with the paint process used by Amianan Motors.
+Angbengco further guaranteed that a laboratory test had in fact been conducted by PhilSteel, and that the results proved that the two products were compatible; hence, QuiÃ±ones was induced to purchase the product and use it in the manufacture of bus units.
+However, sometime in 1995, QuiÃ±ones received several complaints from customers who had bought bus units, claiming that the paint or finish used on the purchased vehicles was breaking and peeling off. QuiÃ±ones then sent a letter-complaint to PhilSteel invoking the warranties given by the latter. According to respondent, the damage to the vehicles was attributable to the hidden defects of the primer-coated sheets and/or their incompatibility with the Guilder acrylic paint process used by Amianan Motors, contrary to the prior evaluations and assurances of PhilSteel. Because of the barrage of complaints, QuiÃ±ones was forced to repair the damaged buses.
+PhilSteel counters that Quifiones himself offered to purchase the subject product directly from the former without being induced by any of PhilSteel's representatives. According to its own investigation, PhilSteel discovered that the breaking and peeling off of the paint was caused by the erroneous painting application done by QuiÃ±ones.
+The RTC rendered a Decision
+[4]
+ in favor of QuiÃ±ones and ordered PhilSteel to pay damages. The trial court found that Lopez's testimony was damaging to PhilSteel's position that the latter had not induced QuiÃ±ones or given him assurance that his painting system was compatible with PhilSteel's primer-coated G.I. sheets. The trial court concluded that the paint blistering and peeling off were due to the incompatibility of the painting process with the primer-coated G.I. sheets. The RTC also found that the assurance made by Angbengco constituted an express warranty under Article 1546 of the Civil Code. QuiÃ±ones incurred damages from the repair of the buses and suffered business reverses. In view thereof, PhilSteel was held liable for damages.
+THE RULING OF THE CA
+TheCA affirmed the ruling of the RTC 
+in toto
+.
+The appellate court ruled that PhilSteel in fact made an express warranty that the primer-coated G.I. sheets were compatible with the acrylic paint process used by QuiÃ±ones on his bus units. The assurances made by Angbengco were confirmed by PhilSteel's own employee, Lopez.
+The CA further held that the cause of the paint damage to the bus units of QuiÃ±ones was the incompatibility of the primer-coated sheet with the acrylic paint process used by Amianan Motors. The incompatibility was in fact acknowledged through a letter dated 29 June 1996 from Angbengco himself.
+[5]
+The CA also agreed with the RTC that PhilSteel was liable for both actual and moral damages. For actual damages, the appellate court reasoned that PhilSteel committed a breach of duty against QuiÃ±ones when the company made assurances and false representations that its primer-coated sheets were compatible with the acrylic paint process of QuiÃ±ones. The CA awarded moral damages, ruling that PhilSteel's almost two years of undue delay in addressing the repeated complaints about paint blisters constituted bad faith.
+In addition, the CA concurred with the RTC that attorney's fees were in order since QuiÃ±ones was forced to file a case to recover damages.
+Accordingly, the CA dismissed the appeal of PhilSteel.
+Petitioner sought a reversal of the Decision in its Motion for Reconsideration. The motion was, however, denied by the CA in its Resolution dated 19 November 2010.
+Hence, this Petition.
+ISSUES
+Petitioner raises the following issues:
+1. Whether vague oral statements made by sel1er on the characteristics of a generic good can be considered warranties that may be invoked to warrant payment of damages;
+2. Whether general warranties on the suitability of products sold prescribe in six (6) months under Article 1571 of the Civil Code;
+3. Assuming that statements were made regarding the characteristics of the product, whether respondent as buyer is equally negligent; and
+4. Whether non-payment of price is justified on allegations of breach of warranty.
+[6]
+OUR RULING
+We 
+DENY
+ the Petition.
+This Court agrees with the CA that this is a case of express warranty under Article 1546 of the Civil Code, which provides:
+Any affirmation of fact or any promise by the seller relating to the thing is an express warranty if the natural tendency of such affirmation or promise is to induce the buyer to purchase the same, and if the buyer purchases the thing relying thereon. No affirmation of the value of the thing, nor any statement purporting to be a statement of the seller's opinion only, shall be construed as a warranty, unless the seller made such affirmation or statement as an expert and it was relied upon by the buyer.
+As held in 
+Carrascoso, Jr. v. CA
+,
+[7]
+ the following requisites must be established in order to prove that there is an express warranty in a contract of sale: (1) the express warranty must be an affirmation of fact or any promise by the seller relating to the subject matter of the sale; (2) the natural effect of the affirmation or promise is to induce the buyer to purchase the thing; and (3) the buyer purchases the thing relying on that affirmation or promise.
+An express warranty can be oral when it is a positive affirmation of a fact that the buyer relied on.
+Petitioner argues that the purported warranties by mere "vague oral statements" cannot be invoked to warrant the payment of damages.
+A warranty is a statement or representation made by the seller of goods - contemporaneously and as part of the contract of sale that has reference to the character, quality or title of the goods; and is issued to promise or undertake to insure that certain facts are or shall be as the seller represents them.
+[8]
+ A warranty is not necessarily written. It may be oral as long as it is not given as a mere opinion or judgment. Rather, it is a positive affirmation of a fact that buyers rely upon, and that influences or induces them to purchase the product.
+[9]
+Contrary to the assertions of petitioner, the finding of the CA was that the former, through Angbengco, did not simply make vague oral statements on purported warranties.
+[10]
+ Petitioner expressly represented to respondent that the primer-coated G.I. sheets were compatible with the acrylic paint process used by the latter on his bus units. This representation was made in the face of respondent's express concerns regarding incompatibility. Petitioner also claimed that the use of their product by QuiÃ±ones would cut costs. Angbengco was so certain of the compatibility that he suggested to respondent to assemble a bus using the primer-coated sheet and have it painted with the acrylic paint used in Amianan Motors.
+At the outset, QuiÃ±ones had reservations about the compatibility of his acrylic paint primer with the primer-coated G.I. sheets of PhilSteel. But he later surrendered his doubts about the product after 4 to 5 meetings with Angbengco, together with the latter's subordinate Lopez. Only after several meetings was QuiÃ±ones persuaded to buy their G.I. sheets. On 15 April 1994, he placed an initial order for petitioner's product and, following Angbengco's instructions, had a bus painted with acrylic paint. The results of the painting test turned out to be successful. Satisfied with the initial success of that test, respondent made subsequent orders of the primer-coated product and used it in Amianan Motors' mass production of bus bodies.
+[11]
+Thus, it was not accurate for petitioner to state that they had made no warranties. It insisted that at best, they only gave "assurances" of possible savings QuiÃ±ones might have if he relied on PhilSteel's primer-coated G.I. sheets and eliminated the need to apply an additional primer.
+[12]
+All in all, these "vague oral statements" were express affirmations not only of the costs that could be saved if the buyer used PhilSteel's G.I. sheets, but also of the compatibility of those sheets with the acrylic painting process customarily used in Amianan Motors. Angbengco did not aimlessly utter those "vague oral statements" for nothing, but with a clear goal of persuading QuiÃ±ones to buy PhilSteel's product.
+Taken together, the oral statements of Angbengco created an express warranty. They were positive affirmations of fact that the buyer relied on, and that induced him to buy petitioner's primer-coated G.I. sheets.
+Under Article 1546 of the Civil Code, "[n]o affirmation of the value of the thing, nor any statement purporting to be a statement of the seller's opinion only, shall be construed as a warranty, unless the seller made such affirmation or statement as an expert and it was relied upon by the buyer."
+Despite its claims to the contrary, petitioner was an expert in the eyes of the buyer QuiÃ±ones. The latter had asked if the primer-coated G.I. sheets were compatible with Amianan Motors' acrylic painting process. Petitioner's former employee, Lopez, testified that he had to refer QuiÃ±ones to the former's immediate supervisor, Angbengco, to answer that question. As the sales manager of PhilSteel, Angbengco made repeated assurances and affirmations and even invoked laboratory tests that showed compatibility.
+[13]
+ In the eyes of the buyer QuiÃ±ones, PhilSteel - through its representative, Angbengco -was an expert whose word could be relied upon.
+This Court cannot subscribe to petitioner's stand that what they told QuiÃ±ones was mere dealer's talk or an exaggeration in trade that would exempt them from liability for breach of warranty. Petitioner cites 
+Gonzalo Puyat & Sons v. Arco Amusement Company
+,
+[14]
+ in which this Court ruled that the contract is the law between the parties and should include all the things they agreed to. Therefore, what does not appear on the face of the contract should be regarded merely as "dealer's" or "trader's talk," which cannot bind either party.
+[15]
+Contrary however to petitioner's position, the so-called dealer's or trader's talk cannot be treated as mere exaggeration in trade as defined in Article 1340 of the Civil Code.
+[16]
+ QuiÃ±ones did not talk to an ordinary sales clerk such as can be found in a department store or even a 
+sari-sari
+ store. If Lopez, a sales agent, had made the assertions of Angbengco without true knowledge about the compatibility or the authority to warrant it, then his would be considered dealer's talk. But sensing that a person of greater competence and knowledge of the product had to answer QuiÃ±ones' concerns, Lopez wisely deferred to his boss, Angbengco.
+Angbengco undisputedly assured QuiÃ±ones that laboratory tests had been undertaken, and that those tests showed that the acrylic paint used by QuiÃ±ones was compatible with the primer-coated G.I. sheets of Philsteel. Thus, Angbengco was no longer giving a mere seller's opinion or making an exaggeration in trade. Rather, he was making it appear to Quifiones that PhilSteel had already subjected the latter's primed G.I. sheets to product testing. PhilSteel, through its representative, was in effect inducing in the mind of the buyer the belief that the former was an expert on the primed G.I. sheets in question; and that the statements made by petitioner's representatives, particularly Angbengco (its sales manager),
+[17]
+ could be relied on. Thus, petitioner did induce the buyer to purchase the former's G.I. sheets.
+The prescription period of the express warranty applies to the instant case.
+Neither the CA nor the RTC ruled on the prescription period applicable to this case. There being an express warranty, this Court holds that the prescription period applicable to the instant case is that prescribed for breach of an express warranty. The applicable prescription period is therefore that which is specified in the contract; in its absence, that period shall be based on the general rule on the rescission of contracts: four years (
+see
+ Article 1389, Civil Code).
+[18]
+ In this case, no prescription period specified in the contract between the parties has been put forward. QuiÃ±ones filed the instant case on 6 September 1996
+[19]
+ or several months after the last delivery of the thing sold.
+[20]
+ His filing of the suit was well within the prescriptive period of four years; hence, his action has not prescribed.
+The buyer cannot be held negligent in the instant case.
+Negligence is the absence of reasonable care and caution that an ordinarily prudent person would have used in a given situation.
+[21]
+ Under Article 1173 of the Civil Code,
+[22]
+ where it is not stipulated in the law or the contract, the diligence required to comply with one's obligations is commonly referred to as 
+paterfamilias
+; or, more specifically, as 
+bonos paterfamilias
+ or "a good father of a family." A good father of a family means a person of ordinary or average diligence. To determine the prudence and diligence that must be required of all persons, we must use as basis the abstract average standard corresponding to a normal orderly person. Anyone who uses diligence below this standard is guilty of negligence.
+[23]
+Respondent applied acrylic primers, which are stronger than epoxy primers. The G.I. sheets of PhilSteel were primer-coated with epoxy primer. By applying the acrylic over the epoxy primer used on the G.I. sheets, the latter primer was either dissolved or stripped off the surface of the iron sheets.
+[24]
+Petitioner alleges that respondent showed negligence by disregarding what it calls a "chemical reaction so elementary that it could not have escaped respondent QuiÃ±ones who has been in the business of manufacturing, assembling, and painting motor vehicles for decades."
+[25]
+ For this supposed negligence, petitioner insists that respondent cannot hide behind an allegation of breach of warranty as an excuse for not paying the balance of the unpaid purchase price.
+It bears reiteration that QuiÃ±ones had already raised the compatibility issue at the outset. He relied on the manpower and expertise of PhilSteel, but at the same time reasonably asked for more details regarding the product. It was not an impulsive or rush decision to buy. In fact, it took 4 to 5 meetings to convince him to buy the primed G.I. sheets. And even after making an initial order, he did not make subsequent orders until after a painting test, done upon the instructions of Angbengco proved successful. The test was conducted using their acrylic paint over PhilSteel's primer-coated G.I. sheets. Only then did QuiÃ±ones make subsequent orders of the primer-coated product, which was then used in the mass production of bus bodies by Amianan Motors.
+[26]
+This Court holds that QuiÃ±ones was not negligent and should therefore not be blamed for his losses.
+The nonpayment of the unpaid purchase price was just(fied, since a breach of warranty was proven.
+Petitioner takes issue with the nonpayment by QuiÃ±ones to PhilSteel of a balance of P448,041.50, an amount that he has duly admitted.
+[27]
+ It is the nonpayment of the unpaid balance of the purchase price, of the primerÂ­-coated G.I. sheets that is at the center of the present controversy.
+QuiÃ±ones, through counsel, sought damages against petitioner for breach of implied warranty arising from hidden defects under Article 1561 of the Civil Code, which provides:
+The vendor shall be responsible for warranty against the hidden detects which the thing sold may have, should they render it unfit for the use for which it is intended, or should they diminish its fitness for such use to such an extent that, had the vendee been aware thereof, he would not have acquired it or would have given a lower price for it; but said vendor shall not be answerable tor patent defects or those which may be visible, or for those which are not visible if the vendee is an expert who, by reason of his trade or profession, should have known them.
+In seeking a remedy from the trial court, QuiÃ±ones opted not to pay the balance of the purchase price, in line with a proportionate reduction of the price under Article 1567 Civil Code, which states:
+In the cases of articles 1561, 1562, 1564, 1565 and 1566, the vendee may elect between withdrawing from the contract and demanding a proportionate reduction of the price, with damages in either case.
+Petitioner reasons that since the action of respondent is based on an implied warranty, the action has already prescribed under Article 1571
+[28]
+ of the Civil Code. According to petitioner, QuiÃ±ones can no longer put up the defense of hidden defects in the product sold as a basis for evading payment of the balance.
+[29]
+We agree with petitioner that the nonpayment of the balance cannot be premised on a mere allegation of nonexisting warranties. This Court has consistently ruled that whenever a breach of warranty is not proven, buyers who refuse to pay the purchase price or even the unpaid balance of the goods they ordered - must be held liable therefor.
+[30]
+However, we uphold the finding of both the CA and the RTC that petitioner's breach of warranty was proven by respondent.
+Since what was proven was express warranty, the remedy for implied warranties under Article 1567 of the Civil Code does not apply to the instant case. Instead, following the ruling of this Court in 
+Harrison Motors Corporation v. Navarro
+,
+[31]
+ Article 1599 of the Civil Code applies when an express warranty is breached. The provision reads:
+Where there is a breach of warranty by the seller, the buyer may, at his election:
+(1)
+ 
+Accept or keep the goods and set up against the seller, the breach of warranty by way of recoupment in diminution or extinction of the price;
+(2)
+ Accept or keep the goods and maintain an action against the seller for damages for the breach of warranty;
+(3) 
+Refuse to accept the goods, and maintain an action against the seller for damages for the breach of warranty;
+(4) 
+Rescind the contract of sale and refuse to receive the goods or if the goods have already been received, return them or offer to return them to the seller and recover the price or any part thereof which has been paid.
+When the buyer has claimed and been granted a remedy in anyone of these ways, no other remedy can thereafter be granted, without prejudice to the provisions of the second paragraph of article 1191.
+Where the goods have been delivered to the buyer, he cannot rescind the sale if he knew of the breach of warranty when he accepted the goods without protest, or if he fails to notify the seller within a reasonable time of the election to rescind, or if he fails to return or to offer to return the goods to the seller in substantially as good condition as they were in at the time the ownership was transferred to the buyer. But if deterioration or injury of the goods is due to the breach or warranty, such deterioration or injury shall not prevent the buyer from returning or offering to return the goods to the seller and rescinding the sale.
+Where the buyer is entitled to rescind the sale and elects to do so, he shall cease to be liable for the price upon returning or offering to return the goods. If the price or any part thereof has already been paid, the seller shall be liable to repay so much thereof as has been paid, concurrently with the return of the goods, or immediately after an offer to return the goods in exchange for repayment of the price.
+Where the buyer is entitled to rescind the sale and elects to do so, if the seller refuses to accept an offer of the buyer to return the goods, the buyer shall thereafter be deemed to hold the goods as bailee for the seller, but subject to a lien to secure the payment of any portion nf the price which has been paid, and with the remedies for the enforcement of such lien allowed to an unpaid seller by article 1526.
+(5) 
+In the case of breach of warranty of quality, such loss, in the absence of special circumstances showing proximate damage of a greater amount, is the difference between the value of the goods at the time of delivery to the buyer and the value they would have had if they had answered to the warranty.
+QuiÃ±ones has opted for a reduction in price or nonpayment of the unpaid balance of the purchase price. Applying Article 1599 (1), this Court grants this remedy.
+The above provisions define the remedy of recoupment in the diminution or extinction of price in case of a seller's breach of warranty. According to the provision, recoupment refers to the reduction or extinction of the price of the same item, unit, transaction or contract upon which a plaintiff's claim is founded.
+[32]
+In the case at bar, QuiÃ±ones refused to pay the unpaid balance of the purchase price of the primer-coated G.I. sheets PhilSteel had delivered to him. He took this action after complaints piled up from his customers regarding the blistering and peeling-off of the paints applied to the bus bodies they had purchased from his Amianan Motors. The unpaid balance of the purchase price covers the same G.I. sheets. Further, both the CA and the RTC concurred in their finding that the seller's breach of express warranty had been established. Therefore, this Court finds that respondent has legitimately defended his claim for reduction in price and is no longer liable for the unpaid balance of the purchase price of P448,041.50.
+The award of attorney's fees is deleted.
+Contrary to the finding of the CA and the RTC, this Court finds that attorney's fees are not in order. Neither of these courts cited any specific factual basis to justify the award thereof. Records merely show that QuiÃ±ones alleged that he had agreed to pay 25% as attorney's fees to his counsel.
+[33]
+ Hence, if the award is based on a mere allegation or testimony that a party has agreed to pay a certain percentage for attorney's fees, the award is not in order.
+[34]
+WHEREFORE
+, in view of the foregoing, the instant Petition is 
+DENIED
+. The Court of Appeals Decision dated 17 March 2010 and Resolution dated 19 November 2010 denying petitioner's Motion for Reconsideration are hereby 
+AFFIRMED
+, except for the award of attorney's fees, which is hereby 
+DELETED
+.
+SO ORDERED.
+Leonardo-De Castro, Del Castillo, Perlas-Bernabe
+, and 
+Caguioa, JJ.
+, concur.
+[1]
+ 
+Rollo
+, pp. 46-60; dated 17 March 2010; penned by Associate Justice Jane Aurora C. Lantion, with Associate Justices lsaias P. Dicdican (acting Chairperson) and Pampio A. Abarintos concurring.
+[2]
+ Id. at 61-63; dated 19 November 2010.
+[3]
+ Id. at 58, 92-191; dated 31 July 2002.
+[4]
+ Id. at 92-191.
+[5]
+ Id. at 54.
+[6]
+ Id. at 24-25.
+[7]
+ 514 Phil. 48, 75 (2005).
+[8]
+ 
+Ang v. CA
+, 588 Phil 366, 373 (2008) citing 
+De Leon, Comments and Cases on Sales
+, 299 (2000).
+[9]
+ 
+Hercules Powder Co. v. Rich
+, 3 F, 2d12.
+[10]
+ 
+Rollo
+, p. 25.
+[11]
+ Id. at 52.
+[12]
+ Id. at 27-28.
+[13]
+ Id. at 233.
+[14]
+ 72 Phil. 402 (1941).
+[15]
+ 
+Ibid
+.
+[16]
+ The usual exaggerations in trade when the other party had an opportunity to know the facts, are not in themselves fraudulent.
+[17]
+ 
+Rollo
+, p. 103.
+[18]
+ Civil Code, Art. 1389: "
+The action to claim rescission must be commenced within four years. x x x
+"; 
+Ang v. CA
+, 588 Phil. 366 (2008) citing 
+Engineering & Machinery Corp. v. CA
+, 322 Phil. 161, 173 (1996); 
+Moles v. Intermediate Appellate Court
+, 251 Phil. 711 (1989).
+[19]
+ 
+Rollo
+, p. 71.
+[20]
+ Id. at 87.
+[21]
+ 
+Picart v. Smith
+, 37 Phil. 809 (1918).
+[22]
+ 
+Article 1173
+. The fault or negligence of the obligor consists in the omission of that diligence which is required by the nature of the obligation and corresponds with the circumstances of the persons, of the time and of the place. When negligence shows bad faith, the provisions of articles 1171 and 2201, paragraph 2, shall apply. If the law or contract docs not state the diligence which is to be observed in the performance. that which is expected of a good father of a family shall be required.
+[23]
+ Tolentino, Arturo M., Commentaries and Jurisprudence on the Civil Code of the Philippines, Volume IV, 123-124 (1991).
+[24]
+ 
+Rollo
+, p. 33.
+[25]
+ 
+Ibid.
+[26]
+ Id. at 52.
+[27]
+ Id. at 68-69.
+[28]
+ Actions arising from the provisions of the preceding ten articles shall be barred after six months, from the delivery of the thing sold.
+[29]
+ 
+Rollo
+, p. 35.
+[30]
+ 
+Carrascoso, Jr. v. CA
+, 514 Phil. 48, 74-76 (2005); 
+Nutrimix Feeds Corporation v. CA
+, 484 Phil. 330, 348-349 (2004).
+[31]
+ 387 Phil. 216 (2000).
+[32]
+ 
+First United Constructors Corporation v. Bayanihan Automotive Corporation
+, 724 Phil. 264 (2014).
+[33]
+ 
+Rollo
+, p. 70.
+[34]
+ 
+Congregation of the Religious of the Virgin Mary v. CA
+, 353 Phil. 591 (1998).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

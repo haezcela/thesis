@@ -1,0 +1,1159 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			841 Phil. 175
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 207526, October 03, 2018 ]
+
+
+THE INSULAR ASSURANCE CO., LTD., PETITIONER, V. THE HEIRS OF JOSE H. ALVAREZ, RESPONDENTS.
+
+
+[G.R. No. 210156, October 3, 2018]
+
+
+UNION BANK OF THE PHILIPPINES, PETITIONER, V. HEIRS OF JOSE H. ALVAREZ, RESPONDENTS. 
+
+
+D E C I S I O N
+
+
+
+
+LEONEN, J.:
+
+
+The Insurance Code dispenses with proof of fraudulent intent in cases of rescission due to concealment, but not so in cases of rescission due to false representations. When an abundance of available documentary evidence can be referenced to demonstrate a design to defraud, presenting a singular document with an erroneous entry does not qualify as clear and convincing proof of fraudulent intent. Neither does belatedly invoking just one other document, which was not even authored by the alleged miscreant.
+ This resolves the consolidated Petitions for Review on Certiorari, under Rule 45 of the 1997 Rules of Civil Procedure. The first, docketed as G.R. No. 207526,
+[1]
+ was brought by The Insular Life Assurance Co., Ltd. (Insular Life). The second, docketed as G.R. No. 210156,
+[2]
+ was brought by Union Bank of the Philippines (UnionBank). These consolidated petitions seek the reversal of the assailed Court of Appeals May 21, 2013 Decision
+[3]
+ and November 6, 2013 Resolution
+[4]
+ in CA-G.R. CV No. 91820.
+ The assailed Court of Appeals May 21, 2013 Decision denied Insular Life's and UnionBank's separate appeals and affirmed the January 29, 2007 Decision
+[5]
+ of Branch 148, Regional Trial Court, Makati City. The Regional Trial Court ruled in favor of Jose H. Alvarez's (Alvarez) heirs
+[6]
+ (the Heirs of Alvarez) in their action for specific performance against Insular Life and UnionBank. It ordered compliance with the insurance undertaking on the Group Mortgage Redemption Insurance covering a loan obtained by Alvarez from UnionBank by applying its proceeds as payment for that loan. It also nullified the extrajudicial foreclosure ensuing from the non-payment of Alvarez's loan, and required UnionBank to reconvey title and ownership over the foreclosed property to Alvarez's estate. Lastly, it ordered Insular Life's and UnionBank's payment of attorney's fees and costs of suit.
+[7]
+ The assailed Court of Appeals November 6, 2013 Resolution denied UnionBank's Motion for Reconsideration.
+[8]
+ 
+ Alvarez and his wife, Adelina, owned a residential lot with improvements covered by Transfer Certificate of Title (TCT) No. C-315023 and registered in the Caloocan City Registry of Deeds.
+[9]
+ 
+ On June 18, 1997, Alvarez applied for and was granted a housing loan by UnionBank in the amount of P648,000.00. This loan was secured by a promissory note,
+[10]
+ a real estate mortgage over the lot,
+[11]
+ and a mortgage redemption insurance taken on the life of Alvarez with UnionBank as beneficiary. Alvarez was among the mortgagors included in the list of qualified debtors covered by the Group Mortgage Redemption Insurance that UnionBank had with Insular Life.
+[12]
+ 
+ Alvarez passed away on April 17, 1998.
+[13]
+ In May 1998, UnionBank filed with Insular Life a death claim under Alvarez's name pursuant to the Group Mortgage Redemption Insurance. In line with Insular Life's standard procedures, UnionBank was required to submit documents to support the claim. These included: (1) Alvarez's birth, marriage, and death certificates; (2) the attending physician's statement; (3) the claimant's statement; and (4) Alvarez's statement of account.
+[14]
+ 
+ Insular Life denied the claim after determining that Alvarez was not eligible for coverage as he was supposedly more than 60 years old at the time of his loan's approval.
+[15]
+ 
+ With the claim's denial, the monthly amortizations of the loan stood unpaid. UnionBank sent the Heirs of Alvarez a demand letter,
+[16]
+ giving them 10 days to vacate the lot. Subsequently, on October 4, 1999, the lot was foreclosed and sold at a public auction with UnionBank as the highest bidder.
+[17]
+ 
+On February 14, 2001, the Heirs of Alvarez filed a Complaint
+[18]
+ for Declaration of Nullity of Contract and Damages against UnionBank, a certain Alfonso P. Miranda (Miranda), who supposedly benefitted from the loan, and the insurer which was identified only as John Doe.
+[19]
+ The Heirs of Alvarez denied knowledge of any loan obtained by Alvarez.
+[20]
+ 
+The Heirs of Alvarez claimed that after Alvarez's death, they came upon a document captioned "Letter of Undertaking," which appeared to have been sent by UnionBank to Miranda. In this document, UnionBank bound itself to deliver to Miranda P466,000.00 of the approved P648,000.00 housing loan, provided that Miranda would deliver to it TCT No. C-315023, "free from any liens and/or encumbrances."
+[21]
+ 
+The Complaint was later amended and converted into one for specific performance
+[22]
+ to include a demand against Insular Life to fulfill its obligation as an insurer under the Group Mortgage Redemption Insurance.
+[23]
+ 
+ In its defense, UnionBank asserted that the Heirs of Alvarez could not feign ignorance over the existence of the loan and mortgage considering the Special Power of Attorney
+[24]
+ executed by Adelina in favor of her late husband, which authorized him to apply for a housing loan with UnionBank.
+[25]
+ 
+For its part, Insular Life maintained that based on the documents submitted by UnionBank, Alvarez was no longer eligible under the Group Mortgage Redemption Insurance since he was more than 60 years old when his loan was approved.
+[26]
+ 
+ In its January 29, 2007 Decision,
+[27]
+ the Regional Trial Court ruled in favor of the Heirs of Alvarez. It found no indication that Alvarez had any fraudulent intent when he gave UnionBank information about his age and date of birth. It explained that UnionBank initiated and negotiated the Group Mortgage Redemption Insurance with Insular Life, and that "ordinary customers will not know about [insurance policies such as this] unless it is brought to their knowledge by the bank."
+[28]
+ It noted that if UnionBank's personnel were mindful of their duties and if Alvarez appeared to be disqualified for the insurance, they should have immediately informed him of his disqualification. It emphasized that in evaluating Alvarez's worthiness for the loan, UnionBank had been in possession of materials sufficient to inform itself of Alvarez's personal circumstances. It added that if Insular Life had any doubt on the information that UnionBank had provided, it should have inquired further instead of relying solely on the information readily available to it and immediately refusing to pay.
+[29]
+ 
+The dispositive portion of the Regional Trial Court's January 29, 2007 Decision read: 
+ 
+ WHEREFORE, premises considered, judgment is hereby rendered in favor of the plaintiffs and against defendants order (sic): 
+ 
+1. Defendants to comply with the insurance undertaking under Mortgage Redemption Insurance Policy No. G-098496 by paying its proceeds to be applied as payment of the outstanding loan obligation of deceased Jose H. Alvarez with defendant Union Bank; 
+ 
+2. The extrajudicial foreclosure of the real estate mortgage over Jose H. Alvarez's TCT No. C-315023 a nullity and without legal force and effect and to release the mortgage encumbrance thereon; 
+ 
+3. Defendant Union Bank to reconvey the title and ownership over TCT No. C-315023 to the Estate of the deceased Jose H. Alvarez for the benefit of his heirs and successors-in-interest; 
+ 
+4. Defendants jointly and severally to pay the plaintiffs the sum of P50,000.00 as and for attorney's fees; 
+ 
+5. Defendants jointly and severally to pay the costs of the suit. 
+ 
+SO ORDERED.
+[30]
+ 
+ 
+ 
+UnionBank
+[31]
+ and Insular Life
+[32]
+ filed separate appeals before the Court of Appeals.
+ 
+ In its assailed May 21, 2013 Decision,
+[33]
+ the Court of Appeals affirmed the Regional Trial Court's ruling. It noted that the errors assigned by Insular Life and UnionBank to the Regional Trial Court boiled down to the issue of whether or not Alvarez was guilty of fraudulent misrepresentation as to warrant the rescission of the Group Mortgage Redemption Insurance obtained by UnionBank on Alvarez's life. It explained that fraud is never presumed and fraudulent misrepresentation as a defense of the insurer to avoid liability must be established by convincing evidence. Insular Life, in this case, failed to establish this defense. It only relied on Alvarez's Health Statement Form where he wrote "1942" as his birth year. However, this form alone was insufficient to prove that he fraudulently intended to misrepresent his age. It noted that aside from the Health Statement Form, Alvarez had to fill out an application for insurance. This application would have supported the conclusion that he consistently wrote "1942" in all the documents that he had submitted to UnionBank. However, the records made no reference to this document.
+[34]
+ The Court of Appeals added that assuming that fraudulent misrepresentation entitled Insular Life to rescind the contract, it should have first complied with certain conditions before it could exercise its right to rescind. The conditions were: 
+ 
+ (1) prior notice of cancellation to [the] insured; (2) notice must be based on the occurrence after effective date of the policy of one or more grounds mentioned; (3) must be in writing, mailed or delivered to the insured at the address shown in the policy; and (4) must state the grounds relied upon provided in Section 64 of the Insurance Code and upon [the] request of [the] insured, to furnish facts on which cancellation is based.
+[35]
+ 
+ 
+ 
+None of these conditions were fulfilled. Finally, the letter of denial dated April 8, 1999 was furnished only to UnionBank.
+[36]
+ 
+ Insular Life opted to directly appeal before this Court. Its appeal was docketed as G.R. No. 207526.
+[37]
+ UnionBank, on the other hand, filed its Motion for Reconsideration (of the Decision dated May 21, 2013),
+[38]
+ which the Court of Appeals denied in its November 6, 2013 Resolution.
+[39]
+ UnionBank then filed before this Court its Petition, docketed as G.R. No. 210156.
+[40]
+ 
+ 
+In its March 12, 2014 Resolution, this Court consolidated Insular Life's and UnionBank's Petitions.
+[41]
+ 
+ In response to the Court of Appeals' reasoning that intent to defraud must be established, Insular Life pinpoints concealment, rather than fraudulent misrepresentation, as the key to the validity of its rescission. It asserts that Alvarez's concealment of his age, whether intentional or unintentional, entitles it to rescind the insurance contract.
+[42]
+ It claims that proof of fraudulent intent is not necessary for the insurer to rescind the contract on account of concealment.
+[43]
+ It adds that it did not rely solely on Alvarez's Health Statement Form but also on his representations during the background check conducted by UnionBank where he said that he was only 55 years old at the time of application. As an insurance contract is a contract 
+uberrima fides
+, it claims that it has every right to rely on Alvarez's good faith in its dealing with him.
+[44]
+ 
+ 
+UnionBank claims that the real estate mortgage is not affected by the status of the Group Mortgage Redemption Insurance as they are two (2) different contracts. Thus, any concealment made by Alvarez should not result in the invalidation of the foreclosure.
+[45]
+ 
+ 
+For this Court's resolution are the following issues:
+ 
+ First, whether or not petitioner The Insular Life Assurance Co., Ltd. is obliged to pay Union Bank of the Philippines the balance of Jose H. Alvarez's loan given the claim that he lied about his age at the time of the approval of his loan; and
+ Second, whether or not petitioner Union Bank of the Philippines was correct in proceeding with the foreclosure following Insular Life Assurance Co., Ltd.'s refusal to pay.
+ 
+I.A
+ 
+ Fraud is not to be presumed, for "otherwise, courts would be indulging in speculations and surmises."
+[46]
+ Moreover, it is not to be established lightly. Rather, "[i]t must be established by clear and convincing evidence . . . [; a] mere preponderance of evidence is not even adequate to prove fraud."
+[47]
+ These precepts hold true when allegations of fraud are raised as grounds justifying the invalidation of contracts, as the fraud committed by a party tends to vitiate the other party's consent.
+[48]
+ 
+ Citing Section 27 of the Insurance Code, however, Insular Life asserts that in cases of rescission due to concealment, i.e., when a party "neglect[s] to communicate that which [he or she] knows and ought to communicate,"
+[49]
+ proof of fraudulent intent is not necessary.
+[50]
+ Section 27 reads: 
+ 
+ Section 27. A concealment 
+whether intentional or unintentional
+ entitles the injured party to rescind a contract of insurance. (Emphasis supplied)
+ 
+ 
+ The statutory text is unequivocal. Insular Life correctly notes that proof of fraudulent intent is unnecessary for the rescission of an insurance contract on account of concealment. 
+ This is neither because intent to defraud is intrinsically irrelevant in concealment, nor because concealment has nothing to do with fraud. To the contrary, it is because in insurance contracts, concealing material facts
+[51]
+ is inherently fraudulent: "if a material fact is actually known to the [insured], its concealment must of itself necessarily be a fraud."
+[52]
+ When one knows a material fact and conceals it, "it is difficult to see how the inference of a fraudulent intent or intentional concealment can be avoided."
+[53]
+ Thus, a concealment, regardless of actual intent to defraud, "is equivalent to a false representation."
+[54]
+ 
+ This Court has long settled this equivalence. 
+Argente v. West Coast Life Insurance
+,
+[55]
+ quoting heavily from Joyce's The Law of Insurance, explained how concealment of material facts in insurance contracts is tantamount to causal fraud,
+[56]
+ deceptively inducing an insurer into "accepting the risk, or accepting it at the rate of premium agreed upon."
+[57]
+ 
+Argente
+ explained: 
+ 
+ One ground for the rescission of a contract of insurance under the Insurance Act is "a concealment," which in section 25 is defined as "A neglect to communicate that which a party knows and ought to communicate." Appellant argues that the alleged concealment was immaterial and insufficient to avoid the policy. We cannot agree. . . . If the policy was procured by fraudulent representations, the contract of insurance apparently set forth therein was never legally existent. It can fairly be assumed that had the true facts been disclosed by the assured, the insurance would never have been granted. 
+ 
+ In Joyce, The Law of Insurance, second edition, volume 3, Chapter LV, is found the following:
+ 
+ 
+ Concealment exists where the assured has knowledge of a fact material to the risk, and honesty, good faith, and fair dealing requires that he should communicate it to the assured, but he designedly and intentionally withholds the same.
+ 
+ Another rule is that if the assured undertakes to state all the circumstances affecting the risk, a full and fair statement of all is required.
+ 
+ It is also held that the concealment must, in the absence of inquiries, be not only material, but fraudulent, or the fact must have been intentionally withheld; so it is held under English law that if no inquiries are made and no fraud or design to conceal enters into the concealment the contract is not avoided. And it is determined that even though silence may constitute misrepresentation or concealment it is not of itself necessarily so as it is a question of fact. Nor is there a concealment justifying a forfeiture where the fact of insanity is not disclosed no questions being asked concerning the same. . . . 
+ 
+ 
+But it would seem that if a material fact is actually known to the assured, its concealment must of itself necessarily be a fraud
+, and if the fact is one which the assured ought to know, or is presumed to know, the presumption of knowledge ought to place the assured in the same position as in the former case with relation to material facts; and if the jury in such cases find the fact material, and one tending to increase the risk, it is difficult to see how the inference of a fraudulent intent or intentional concealment can be avoided. And it is declared that if a material fact is concealed by assured it is equivalent to a false representation that it does not exist and that the essentials are the truth of the representations whether they were intended to mislead and did insurer accept them as true and act upon them to his prejudice. So it is decided that under a stipulation voiding the policy for concealment or misrepresentation of any material fact or if his interest is not truly stated or is other than the sole and unconditional ownership the facts are unimportant that insured did not intend to deceive or withhold information as to encumbrances even though no questions were asked. And if insured while being examined for life insurance and knowing that she had heart disease, falsely stated that she was in good health, and though she could not read the application, it was explained to her and the questions asked through an interpreter, and the application like the policy contained a provision that no liability should be incurred unless the policy was delivered while the insured was in good health, the court properly directed a verdict for the insurer, though a witness who was present at the examination testified that the insured was not asked whether she had heart disease. 
+ 
+. . . . 
+ 
+ The basis of the rule vitiating the contract in cases of concealment is that it misleads or deceives the insurer into accepting the risk, or accepting it at the rate of premium agreed upon; The insurer, relying upon the belief that the assured will disclose every material fact within his actual or presumed knowledge, is misled into a belief that the circumstance withheld does not exist, and he is thereby induced to estimate the risk upon a false basis that it does not exist. The principal question, therefore, must be, Was the assurer misled or deceived into entering a contract obligation or in fixing the premium of insurance by a withholding of material information or facts within the assured's knowledge or presumed knowledge? 
+ 
+ It therefore follows that the assurer in assuming a risk is entitled to know every material fact of which the assured has exclusive or peculiar knowledge, as well as all material facts which directly tend to increase the hazard or risk which are known by the assured, or which ought to be or are presumed to be known by him. And a concealment of such facts vitiates the policy. 
+"It does not seem to be necessary . . . that the . . . suppression of the truth should have been willful." If it were but an inadvertent omission, yet if it were material to the risk and such as the plaintiff should have known to be so, it would render the policy void
+. But it is held that if untrue or false answers are given in response to inquiries and they relate to material facts the policy is avoided without regard to the knowledge or fraud of assured, although under the statute statements are representations which must be fraudulent to avoid the policy. So under certain codes the important inquiries are whether the concealment was willful and related to a matter material to the risk.
+[58]
+ (Emphasis supplied) 
+ 
+ 
+ 
+ Echoing 
+Argente, Saturnino v. Philippine American Life Insurance Co
+.
+[59]
+ stated: 
+ 
+ In this jurisdiction, a concealment, whether intentional or unintentional, entitles the insurer to rescind the contract of insurance, concealment being defined as "negligence to communicate that which a party knows and ought to communicate" (Sections 25 & 26, Act No. 2427). In the case of 
+Argente vs. West Coast Life Insurance Co
+., 51 Phil. 725, 732, this Court said, quoting from Joyce, The Law of Insurance, 2nd ed. Vol. 3:
+ 
+ 
+ The basis of the rule vitiating the contract in cases of concealment is that it misleads or deceives the insurer into accepting the risk, or accepting it at the rate of premium agreed upon. The insurer, relying upon the belief that the assured will disclose every material fact within his actual or presumed knowledge, is misled into a belief that the circumstance withheld does not exist, and he is thereby induced to estimate the risk upon a false basis that it does not exist.
+[60]
+ 
+ 
+ 
+ 
+ In 
+Vda. de Canilang v. Court of Appeals
+,
+[61]
+ this Court considered an alternative version of Section 27, i.e., prior to the Insurance Code's amendment by Batas Pambansa Blg. 874, which omitted the qualifier "whether intentional or unintentional." 
+Vda. de Canilang
+ clarified that even without this qualifier, Section 27 still covers '"
+any
+ concealment' without regard to whether such concealment is intentional or unintentional,"
+[62]
+ thus: 
+ 
+ The Insurance Commissioner had also ruled that the failure of Great Pacific to convey certain information to the insurer was not "intentional" in nature, for the reason that Jaime Canilang believed that he was suffering from minor ailment like a common cold. Section 27 of the Insurance Code of 1978 as it existed from 1974 up to 1985, that is, throughout the time range material for present purposes, provided that:
+ 
+ 
+ Sec. 27. A concealment entitles the injured party to rescind a contract of insurance.
+ 
+ 
+ The 
+preceding
+ statute, Act No. 2427, as it stood from 1914 up to 1974, had provided: 
+ 
+ 
+ Sec. 26. A concealment, 
+whether intentional or unintentional
+, entitles the injured party to rescind a contract of insurance. 
+ 
+ 
+ Upon the other hand, in 1985, the Insurance Code of 1978 was amended by B.P. Blg. 874. This subsequent statute modified Section 27 of the Insurance Code of 1978 so as to read as follows: 
+ 
+ 
+ Sec. 27. A concealment 
+whether intentional or unintentional
+ entitles the injured party to rescind a contract of insurance. 
+ 
+ 
+ The unspoken theory of the Insurance Commissioner appears to have been that by deleting the phrase "intentional or unintentional," the Insurance Code of 1978 (prior to its amendment by B.P. Blg. 874) intended to limit the kinds of concealment which generate a right to rescind on the part of the injured party to "intentional concealments." This argument is not persuasive. As a simple matter of grammar, it may be noted that "intentional" and "unintentional" cancel each other out. The net result therefore of the phrase "whether intentional or unintentional" is precisely to leave unqualified the term "concealment." Thus, 
+Section 27 of the Insurance Code of 1978 is properly read as referring to "any concealment" without regard to whether such concealment is intentional or unintentional. The phrase "whether intentional or unintentional" was in fact superfluous. The deletion of the phrase "whether intentional or unintentional" could not have had the effect of imposing an affirmative requirement that a concealment must be intentional if it is to entitle the injured party to rescind a contract of insurance. The restoration in 1985 by B.P. Blg. 874 of the phrase "whether intentional or unintentional" merely underscored the fact that all throughout (from 1914 to 1985), the statute did not require proof that concealment must be "intentional" in order to authorize rescission by the injured party
+.
+[63]
+ (Emphasis supplied) 
+ 
+ 
+ Following 
+Vda. de Canilang
+, this Court was categorical in 
+Sunlife Assurance Co. of Canada v. Court of Appeals
+:
+[64]
+ '"good faith' is no defense in concealment."
+[65]
+ 
+ 
+I.B
+ 
+ It does not escape this Court's attention that there have been decisions that maintained that in cases of concealment, "fraudulent intent on the part of the insured must be established to entitle the insurer to rescind the contract."
+[66]
+ However, these decisions proceed from an inordinately segregated reading of 
+Argente
+ and have not been heedful of plain statutory text. While focusing on the equivalence between concealment and false representation, they fail to account for the manifest textual peculiarity whereby the negation of distinctions between intentional and unintentional acts is found only in Section 27, the provision concerning rescission due to concealment, but not in the counterpart provision concerning false representations.
+[67]
+ 
+ 
+Ng Gan Zee v. Asian Crusader Life
+,
+[68]
+ decided in 1983, stated: 
+ 
+ Section 27 of the Insurance Law [Act 2427] provides:
+ 
+ 
+ Sec. 27. Such party to a contract of insurance must communicate to the other, in good faith, all facts within his knowledge which are material to the contract, and which the other has not the means of ascertaining, and as to which he makes no warranty. 
+ 
+ 
+ Thus, "concealment exists where the assured had knowledge of a fact material to the risk, and honesty, good faith, and fair dealing requires that he should communicate it to the assurer, but he designedly and intentionally withholds the same." 
+ 
+ 
+It has also been held "that the concealment must, in the absence of inquiries, be not only material, but fraudulent, or the fact must have been intentionally withheld."
+ 
+ Assuming that the aforesaid answer given by the insured is false, as claimed by the appellant. Sec. 27 of the Insurance Law, above-quoted, nevertheless requires that fraudulent intent on the part of the insured be established to entitle the insurer to rescind the contract. And as correctly observed by the lower court, "misrepresentation as a defense of the insurer to avoid liability is an 'affirmative' defense. The duty to establish such a defense by satisfactory and convincing evidence rests upon the defendant. The evidence before the Court does not clearly and satisfactorily establish that defense."
+[69]
+ (Emphasis supplied) 
+ 
+ 
+ 
+Ng Gan Zee
+ makes a fundamental error in interpretation. 
+ 
+Ng Gan Zee
+'s fourth footnote purports that the phrase quoted in the italicized paragraph was from 
+Argente
+.
+[70]
+ While the phrase indeed appears in 
+Argente
+, it is not 
+Argente
+ itself which stated the quoted phrase; rather, it was Joyce's The Law of Insurance. 
+ In any case, 
+Ng Gan Zee
+ limited itself to a brief quote from Joyce. It discarded much of the discussion that 
+Argente
+ lifted from Joyce. Most notably, it discarded the portion where Joyce explained that concealment is necessarily fraudulent when the matter that was concealed is "a material fact . . . actually known to the [insured]."
+[71]
+ Thus, 
+Ng Gan Zee
+ omitted the discussion explaining and accounting for why proof of actual fraudulent intent may be dispensed with in cases of concealment, i.e., that concealment of material facts is fraudulent in and of itself. Contrast this with 
+Saturnino 
+which, though also quoting only briefly from 
+Argente
+ and Joyce, did not cursorily focus on the equivalence between concealment and false representations, but rather on the underlying reason for this equivalence. 
+Ng Gan Zee
+ focused on the result, i.e., equivalence, without accounting for the cause. 
+ In like manner as 
+Ng Gan Zee, Great Pacific Life v. Court of Appeals
+[72]
+ stated: 
+ 
+ The second assigned error refers to an alleged concealment that the petitioner interposed as its defense to annul the insurance contract. Petitioner contends that Dr. Leuterio failed to disclose that he had hypertension, which might have caused his death. Concealment exists where the assured had knowledge of a fact material to the risk, and honesty, good faith, and fair dealing requires that he should communicate it to the assured, but he 
+designedly and intentionally withholds
+ the same. 
+ 
+. . . .
+ 
+ The fraudulent intent on the part of the insured must be established to entitle the insurer to rescind the contract. Misrepresentation as a defense of the insurer to avoid liability is an affirmative defense and the duty to establish such defense by satisfactory and convincing evidence rests upon the insurer. In the case at bar, the petitioner failed to clearly and satisfactorily establish its defense, and is therefore liable to pay the proceeds of the insurance.
+[73]
+ (Emphasis supplied) 
+ 
+ 
+ So too, 
+Philamcare Health Systems, Inc. v. Court of Appeals
+[74]
+ stated: 
+ 
+ The fraudulent intent on the part of the insured must be established to warrant rescission of the insurance contract. 
+Concealment
+ as a defense for the health care provider or insurer to avoid liability is an affirmative defense and the duty to establish such defense by satisfactory and convincing evidence rests upon the provider or insurer.
+[75]
+ (Emphasis supplied)
+ 
+ 
+ 
+Great Pacific Life
+ and 
+Philamcare
+ perpetuate 
+Ng Gan Zee
+'s unfortunate error. 
+ Of the two (2) paragraphs this Court quoted from 
+Great Pacific Life
+, the first cites 
+Argente
+.
+[76]
+ Much like 
+Ng Gan Zee
+, it quotes an isolated portion of Joyce but fails to account for that part of Joyce's discussion that explains how fraud inheres in concealment. The last sentence in this first quoted paragraph merely reproduces the first paragraph that 
+Argente
+ lifted from Joyce. The second quoted paragraph cites 
+Ng Gan Zee
+[77]
+ and confounds concealment with misrepresentation. 
+ The first sentence of the quoted paragraph from 
+Philamcare
+ cites 
+Great Pacific Life
+ and 
+Ng Gan Zee
+.
+[78]
+ At this juncture, a contagion of 
+Ng Gan Zee
+'s error can be observed. 
+More than misreading 
+Argente
+ and Joyce, 
+Ng Gan Zee, Great Pacific Life
+, and 
+Philamcare
+ contradict Section 27's plain text. The statute's clear and unmistakable text must prevail. For purposes of rescission, Section 27 of the Insurance Code unequivocally negates any distinction between intentional and unintentional concealments. Pronouncements in jurisprudence cannot undermine this explicit legislative intent. 
+ 
+I.C
+ 
+ While Insular Life correctly reads Section 27 as making no distinction between intentional and unintentional concealment, it erroneously pleads Section 27 as the proper statutory anchor of this case.
+ The Insurance Code distinguishes representations from concealments. Chapter 1, Title 4 is on concealments. It spans Sections 26 to 35 of the Insurance Code;
+[79]
+ it is where Section 27 is found. Chapter 1, Title 5 is on representations. It spans Sections 36 to 48 of the Insurance Code.
+[80]
+ Section 26 defines concealment as "[a] 
+neglect to communicate
+ that which a party knows and ought to communicate." However, Alvarez did not withhold information on or neglect to state his age. He made an actual declaration and assertion about it. 
+ What this case involves, instead, is an allegedly false representation. Section 44 of the Insurance Code states, "A representation is to be deemed false when the facts fail to correspond with its assertions or stipulations." If indeed Alvarez misdeclared his age such that his assertion fails to correspond with his factual age, he made a false representation, not a concealment. 
+ At no point does Chapter 1, Title 5 of the Insurance Code replicate Section 27's language negating the distinction between intentional and unintentional concealment. Section 45 is Chapter 1, Title 5's counterpart provision to Section 27, and concerns rescission due to false representations. It reads: 
+ 
+ Section 45. If a representation is false in a material point, whether affirmative or promissory, the injured party is entitled to rescind the contract from the time when the representation becomes false. 
+ 
+ 
+ Not being similarly qualified as rescission under Section 27, rescission under Section 45 remains subject to the basic precept of fraud having to be proven by clear and convincing evidence. In this respect, 
+Ng Gan Zee
+'s and similar cases' pronouncements on the need for proof of fraudulent intent in cases of misrepresentation are logically sound, albeit the specific reference to 
+Argente
+ as ultimate authority is misplaced. Thus, while 
+Great Pacific Life
+ confounded concealment with misrepresentation by its citation of 
+Ng Gan Zee
+, it nevertheless acceptably stated that: 
+ 
+ The fraudulent intent on the part of the insured must be established to entitle the insurer to rescind the contract. Misrepresentation as a defense of the insurer to avoid liability is an affirmative defense and the duty to establish such defense by satisfactory and convincing evidence rests upon the insurer.
+[81]
+ 
+ 
+ 
+Conformably, subsequent fraud cases citing 
+Great Pacific Life
+ which do not exclusively concern concealment rightly maintain that "[f]raudulent intent on the part of the insured must be established to entitle the insurer to rescind the contract."
+[82]
+ To illustrate, 
+Manila Bankers Life Insurance Corp. v. Aban
+[83]
+ was correct in explaining: 
+ 
+ With the above crucial finding of fact â that it was Sotero who obtained the insurance for herself â petitioner's case is severely weakened, if not totally disproved. Allegations of fraud, which are predicated on respondent's alleged posing as Sotero and forgery of her signature in the insurance application, are at once belied by the trial and appellate courts' finding that Sotero herself took out the insurance for herself. "Fraudulent intent on the part of the insured must be established to entitle the insurer to rescind the contract." In the absence of proof of such fraudulent intent, no right to rescind arises.
+[84]
+ 
+ 
+ Concealment applies only with respect to material facts. That is, those facts which by their nature would clearly, unequivocally, and logically be known by the insured as necessary for the insurer to calculate the proper risks.
+ The absence of the requirement of intention definitely increases the onus on the insured. Between the insured and the insurer, it is true that the latter may have more resources to evaluate risks. Insurance companies are imbued with public trust in the sense that they have the obligation to ensure that they will be able to provide succor to those that enter into contracts with them by being both frugal and, at the same time, diligent in their assessment of the risk which they take with every insurance contract. However, even with their tremendous resources, a material fact concealed by the insured cannot simply be considered by the insurance company. The insurance company may have huge resources, but the law does not require it to be omniscient. 
+ On the other hand, when the insured makes a representation, it is incumbent on them to assure themselves that a representation on a material fact is not false; and if it is false, that it is not a fraudulent misrepresentation of a material fact. This returns the burden to insurance companies, which, in general, have more resources than the insured to check the veracity of the insured's beliefs as to a statement of fact. Consciousness in defraudation is imperative and it is for the insurer to show this. 
+ There may be a mistaken impression, on the part of the insured, on the extent to which precision on one's age may alter the calculation of risks with definitiveness. Deliberation attendant to an apparently inaccurate declaration is vital to ascertaining fraud. 
+ 
+I.D
+ 
+ 
+Spouses Manalo v. Roldan-Confesor
+[85]
+ explained what qualifies as clear and convincing proof: 
+ 
+ Clear and convincing proof is ". . . more than mere preponderance, but not to extent of such certainty as is required beyond reasonable doubt as in criminal cases . . ."while substantial evidence ". . . consists of more than a mere scintilla of evidence but may be somewhat less than a preponderance . . ." Consequently, in the hierarchy of evidentiary values, We find proof beyond reasonable doubt at the highest level, followed by clear and convincing evidence, preponderance of evidence, and substantial evidence, in that order.
+[86]
+ 
+ 
+ The assailed Court of Appeals May 21, 2013 Decision discussed the evidentiary deficiency in Insular Life's cause, i.e., how it relied on nothing but a single piece of evidence to prove fraudulent intent: 
+ 
+ At bar, Insular Life basically relied on the Health Statement form personally accomplished by Jose Alvarez wherein he wrote that his birth year was 1942. However, such form alone is not sufficient absent any other indications that he purposely wrote 1942 as his birth year. It should be pointed out that, apart from a health statement form, an application for insurance is required first and foremost to be answered and filled-up. However, the records are deficient of this application which would eventually depict to Us Jose Alvarez's fraudulent intent to misrepresent his age. For, if he continually written (sic) 1942 in all the documents he submitted with UBP and Insular Life then there is really a clear precursor of his fraudulent intent. Otherwise, a mere Health Statement form bearing a wrong birth year should not be relied at. 
+ 
+ As aptly pointed out by the court 
+a quo
+: 
+ . . . . 
+ 
+ 
+ If the defendant Insular Life had any doubt about the information, particularly the data which are material to the risk, such as the age of the insured, which defendant Union Bank provided, it is not justified for the insurer to rely solely therefrom, but it is obligated under the circumstances to make further inquiry. . . .
+[87]
+ 
+ 
+ 
+ 
+ The Court of Appeals' observations are well-taken. Consistent with the requirement of clear and convincing evidence, it was Insular Life's burden to establish the merits of its own case. Relative strength as against respondents' evidence does not suffice. 
+ A single piece of evidence hardly qualifies as clear and convincing. Its contents could just as easily have been an isolated mistake.
+ Alvarez must have accomplished and submitted many other documents when he applied for the housing loan and executed supporting instruments like the promissory note, real estate mortgage, and Group Mortgage Redemption Insurance. A design to defraud would have demanded his consistency. He needed to maintain appearances across all documents. Otherwise, he would doom his own ruse.
+ He needed to have been consistent, not only before Insular Life, but even before UnionBank. Even as it was only Insular Life's approval that was at stake with the Group Mortgage Redemption Insurance, Alvarez must have realized that as it was an accessory agreement to his housing loan with UnionBank. Insular Life was well in a position to verify information, whether through simple cross referencing or through concerted queries with UnionBank. 
+ Despite these circumstances, the best that Insular Life could come up with before the Regional Trial Court and the Court of Appeals was a single document. The Court of Appeals was straightforward, i.e., the most basic document that Alvarez accomplished in relation to Insular Life must have been an insurance application form. Strangely, Insular Life failed to adduce even this documentâa piece of evidence that was not only commonsensical, but also one which has always been in its possession and disposal. 
+ Even now, before this Court, Insular Life has been unable to address the importuning for it to account for Alvarez's insurance application form. Given the basic presumption under our rules on evidence "[t]hat evidence willfully suppressed would be adverse if produced,"
+[88]
+ this raises doubts, perhaps not entirely on Insular Life's good faith, but, at the very least, on the certainty and confidence it has in its own evidence. 
+ Rather than demonstrate Alvarez's consistent fraudulent design, Insular Life comes before this Court pleading nothing but just one other instance when Alvarez supposedly declared himself to have been 55 years old. It claims that it did not rely solely on Alvarez's Health Statement Form but also on his Background Checking Report.
+[89]
+ Reliance on this report is problematic. It was not prepared by Alvarez himself. Rather, it was accomplished by a UnionBank employee following the conduct of credit investigation. Insular Life notes a statement by UnionBank's Josefina Barte that all information in the Background Checking Report was supplied by Alvarez.
+[90]
+ But this is a self-serving statement, wholly reliant on the assumption of that employee's flawless performance of her duty to record findings. Precisely, it is a claim that needed to be vetted. It had to be tested under the crucible of a court trial, that is, through the rigors of presentation and authentication of evidence, cross-examination, and personal perusal by a judge. Yet, Insular Life would now have this Court sustain its appreciation, solely on the strength of its own representations. 
+ An erroneous statement's dual occurrence in the Health Statement Form and the Background Checking Report concededly reduces the likelihood of honest mistakes or overlooked inaccuracies. However, in the context of so many other documents being available to ascertain the error, a mere dual occurrence does not definitively establish a fraudulent scheme. This is especially so when the errors could not be directly and exclusively attributed to a single author. 
+ Pleading just one (1) additional document still fails to establish the consistent fraudulent design that was Insular Life's burden to prove by clear and convincing evidence. Insular Life had all the opportunity to demonstrate Alvarez's pattern of consistently indicating erroneous entries for his age. All it needed to do was to inventory the documents submitted by Alvarez and note the statements he made concerning his age. This was not a cumbersome task, yet it failed at it. Its failure to discharge its burden of proving must thwart its plea for relief from this Court. 
+II
+ 
+ Having settled Insular Life's continuing liability under the Group Mortgage Redemption Insurance, this Court proceeds to the matter of the propriety of UnionBank's foreclosure. 
+ UnionBank insists that the real estate mortgage is a contract separate and distinct from the Group Mortgage Redemption Insurance; thus, it should not be affected by the validity or invalidity of Insular Life's rescission.
+[91]
+ It also cites 
+Great Pacific Life
+, which it claims involves a similar set of facts as this case, and underscores how this Court in that case did not nullify the foreclosure despite a finding that the rescission was improper, but instead considered the foreclosure as a supervening event.
+[92]
+ 
+ 
+Great Pacific Life
+ similarly involved an insurer's rescission of a mortgage redemption insurance on account of a supposed concealment. This Court sustained the lower courts' conclusions holding the rescission invalid and maintaining the insurer's liability to pay the mortgage. However, this Court considered the foreclosure, which in the interim had been completed, as a supervening event. Ruling on the basis of equity, this Court concluded that the insurance proceeds, which should have been paid to the mortgagee, were now due to the heirs of the insured: 
+ 
+ However, we noted that the Court of Appeals' decision was promulgated on May 17, 1993. In private respondent's memorandum, she states that DBP foreclosed in 1995 their residential lot, in satisfaction of mortgagor's outstanding loan. Considering this supervening event, the insurance proceeds shall inure to the benefit of the heirs of the deceased person or his beneficiaries. Equity dictates that DBP should not unjustly enrich itself at the expense of another (
+Nemo cum alterius detrimenio protest
+). Hence, it cannot collect the insurance proceeds, after it already foreclosed on the mortgage. The proceeds now rightly belong to Dr. Leuterio's heirs represented by his widow, herein private respondent Medarda Leuterio.
+[93]
+ 
+ 
+ 
+ 
+Maglaque v. Planters Development Bank
+[94]
+ sustained a mortgagor's right to foreclose in the event of a mortgagee's death: 
+ 
+ [T]he rule is that a secured creditor holding a real estate mortgage has three (3) options in case of death of the debtor. These are:
+ 
+ 
+ 
+ 
+(1)
+ 
+ 
+to waive the mortgage and claim the entire debt from the estate of the mortgagor as an ordinary claim; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2)
+ 
+ 
+to foreclose the mortgage judicially and prove any deficiency as an ordinary claim; and 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3) 
+ 
+to rely on the mortgage exclusively, foreclosing the same at anytime before it is barred by prescription, without right to file a claim for any deficiency.
+[95]
+ 
+ 
+ 
+ 
+ 
+ 
+This is in keeping with Rule 86, Section 7 of the Rules of Court, which states: 
+ 
+ 
+ Section 7. 
+Mortgage debt due from estate
+. â A creditor holding a claim against the deceased secured by mortgage or other collateral security, may abandon the security and prosecute his claim in the manner provided in this rule, and share in the general distribution of the assets of the estate; or he may foreclose his mortgage or realize upon his security, by action in court, making the executor or administrator a party defendant, and if there is a judgment for a deficiency, after the sale of the mortgaged premises, or the property pledged, in the foreclosure or other proceeding to realize upon the security, he may claim his deficiency judgment in the manner provided in the preceding section; or he may rely upon his mortgage or other security alone, and foreclose the same at any time within the period of the statute of limitations, and in that event he shall not be admitted as a creditor, and shall receive no share in the distribution of the other assets of the estate; but nothing herein contained shall prohibit the executor or administrator from redeeming the property mortgaged or pledged, by paying the debt for which it is held as security, under the direction of the court, if the court shall adjudge it to be for the best interest of the estate that such redemption shall be made. 
+ 
+ 
+ While the mortgagee's right to proceed with foreclosure is settled, this Court finds the debacle at the heart of this case to have been borne in large, if not equal measure, by UnionBank's oversight. UnionBank contributed to setting in motion a course of events that culminated in the unjust foreclosure of Alvarez's mortgaged lot. As such a contributor, its profiting from the wrongful foreclosure cannot be condoned. 
+ The Regional Trial Court explained how UnionBank was remiss: 
+ 
+ If at the time of the application, Jose H. Alvarez appears disqualified, and the personnel of the bank is mindful of his duties, then the personnel of the bank will immediately tell the late Jose H. Alvarez [that] he is not qualified. As it would appear in this case, there is nothing to show nor indicate that the late Jose H. Alvarez exhibited any fraudulent intent when the bank was given certain data such as his age and date of birth. The bank is already in its possession sufficient materials to inform itself regarding the true and actual age, civil status and other personal circumstances of Jose Alvarez to merit approval of the loan applied for. It was the same informative materials from which the defendant Union Bank lifted the data it provided the defendant Insular Life for the consummation of the insurance contract, without which, the bank would not have favorably approved the loan.
+[96]
+ 
+ 
+ 
+ These observations are well-taken.
+ 
+Great Pacific Life
+, in considering the insurable interest involved in a mortgage redemption insurance, discussed: 
+ 
+ To resolve the issue, we must consider the insurable interest in mortgaged properties and the parties to this type of contract. The rationale of a group insurance policy of mortgagors, otherwise known as the "mortgage redemption insurance," is a device for the protection of both the mortgagee and the mortgagor. 
+On the part of the mortgagee, it has to enter into such form of contract so that in the event of the unexpected demise of the mortgagor during the subsistence of the mortgage contract, the proceeds from such insurance will be applied to the payment of the mortgage debt, thereby relieving the heirs of the mortgagor from paying the obligation
+. In a similar vein, ample protection is given to the mortgagor under such a concept so that in the event of death; the mortgage obligation will be extinguished by the application of the insurance proceeds to the mortgage indebtedness.
+[97]
+ (Emphasis supplied) 
+ 
+ 
+ The Regional Trial Court was correct in emphasizing that Alvarez entered into the Group Mortgage Redemption Insurance entirely upon UnionBank's prodding. Bank clients are generally unaware of insurance policies such as a mortgage redemption insurance unless brought to their knowledge by a bank. The processing of a mortgage redemption insurance was within UnionBank's regular course of business. It knew the import of truthfully and carefully accomplished applications. To facilitate the principal contract of the loan and its accessory obligations such as the real estate mortgage and the mortgage redemption insurance, UnionBank completed credit appraisals and background checks. Thus, the Regional Trial Court was correct in noting that UnionBank had been in possession of materials sufficient to inform itself of Alvarez's personal circumstances.
+[98]
+ 
+UnionBank was the indispensable nexus between Alvarez and Insular Life. Not only was it well in a position to address any erroneous information transmitted to Insular Life, it was also in its best interest to do so. After all, payments by the insurer relieve it of the otherwise burdensome ordeal of foreclosing a mortgage. 
+ This is not to say that UnionBank was the consummate guardian of the veracity and accuracy of Alvarez's representations. It is merely to say that given the circumstances, considering Insular Life's protestation over supposedly false declarations, UnionBank was in a position to facilitate the inquiry on whether or not a fraudulent design had been effected. However, rather than actively engaging in an effort to verify, it appears that UnionBank stood idly by, hardly bothering to ascertain if other pieces of evidence in its custody would attest to or belie a fraudulent scheme. 
+ UnionBank approved Alvarez's loan and real estate mortgage, and endorsed the mortgage redemption insurance to Insular Life. Fully aware of considerations that could have disqualified Alvarez, it nevertheless acted as though nothing was irregular. It itself acted as if, and therefore represented that, Alvarez was qualified. Yet, when confronted with Insular Life's challenge, it readily abandoned the stance that it had earlier maintained and capitulated to Insular Life's assertion of fraud. 
+ UnionBank's headlong succumbing casts doubt on its own confidence in the information in its possession. This, in turn, raises questions on the soundness of the credit investigation and background checks it had conducted prior to approving Alvarez' loan.
+ In 
+Poole-Blunden v. Union Bank of the Philippines
+,
+[99]
+ this Court emphasized that the high degree of diligence required of banks "equally holds true in their dealing with mortgaged real properties, and subsequently acquired through foreclosure."
+[100]
+ It specifically drew attention to this requisite high degree of diligence in relation to "[c]redit investigations [which] are standard practice for banks before approving loans."
+[101]
+ 
+ The foreclosure here may well be a completed intervening occurrence, but 
+Great Pacific Life
+'s leaning to an irremediable supervening event cannot avail. What is involved here is not the mortgagor's medical history, as in 
+Great Pacific Life
+, which the mortgagee bank was otherwise incapable of perfectly ascertaining. Rather, it is merely the mortgagor's age. This information was easily available from and verifiable on several documents. UnionBank's passivity and indifference, even when it was in a prime position to enable a more conscientious consideration, were not just a cause of Insular Life's rescission bereft of clear and convincing proof of a design to defraud, but also, ultimately, of the unjust seizure of Alvarez's property. By this complicity, UnionBank cannot be allowed to profit. Its foreclosure must be annulled. 
+ 
+WHEREFORE
+, the Petitions are 
+DENIED
+. The assailed Court of Appeals May 21, 2013 Decision and November 6, 2013 Resolution in CAÂ­ G.R. CV No. 91820 are 
+AFFIRMED
+. 
+ Petitioners Union Bank of the Philippines and The Insular Life Assurance Co., Ltd. are ordered to comply with the insurance undertaking under Mortgage Redemption Insurance Policy No. G-098496 by applying its proceeds as payment of the outstanding loan obligation of deceased Jose H. Alvarez with respondent Union Bank of the Philippines; 
+ The extrajudicial foreclosure of the real estate mortgage over Jose H. Alvarez's TCT No. C-315023 is declared null and without legal force and effect; 
+ Petitioner Union Bank of the Philippines is ordered to reconvey the title and ownership over the lot covered by TCT No. C-315023 to the Estate of the deceased Jose H. Alvarez for the benefit of his heirs and successors-in-interest; and
+ Petitioners Union Bank of the Philippines and The Insular Life Assurance Co., Ltd. are ordered to jointly and severally pay respondents the Heirs of Jose H. Alvarez attorney's fees and the costs of suit. 
+ 
+SO ORDERED. 
+Peralta (Chairperson), A. Reyes, Jr
+.,
+[*]
+ and 
+J. Reyes, Jr., JJ
+., concur. 
+ 
+Gesmundo, J.
+, on official business. 
+[*]
+ Designated Acting Member per Special Order No. 2588 dated August 28, 2018. 
+ 
+[1]
+ 
+Rollo
+ (G.R. No. 207526), pp. 31-69. 
+[2]
+ 
+Rollo
+ (G.R. No. 210156), pp. 10-27. 
+[3]
+ 
+Rollo
+ (G.R. No. 207526), pp. 70-83. The Decision was penned by Associate Justice Elihu A. YbaÃ±ez and concurred in by Associate Justices Amy C. Lazaro-Javier and Victoria Isabel A. Paredes of the Special Fourteenth Division, Court of Appeals, Manila. 
+ 
+[4]
+ 
+Rollo
+ (G.R. No. 210156), pp. 42-43. The Resolution was penned by Associate Justice Elihu A. YbaÃ±ez and concurred in by Associate Justices Amy C. Lazaro-Javier and Victoria Isabel A. Paredes of the Special Fourteenth Division, Court of Appeals, Manila. 
+ 
+[5]
+ 
+Rollo
+ (G.R. No. 207526), pp. 694-698. The Decision, docketed as Civil Case No. 01-253, was penned by Judge Oscar B. Pimentel. 
+ 
+[6]
+ The Heirs of Alvarez are Alma V. Alvarez, Gil V. Alvarez, Josefina V. Alvarez, Rufino V. Alvarez, Jim V. Alvarez, Dahlia V. Alvarez, Leni V. Alvarez, Lily V. Alvarez, Frank V. Alvarez, Joey V. Alvarez, Donato V. Alvarez, and Adelina V. Alvarez (see 
+rollo
+ [G.R. No. 207526], pp. 95 and 148). 
+ 
+[7]
+ 
+Rollo
+ (G.R. No. 207526), p. 73. 
+ 
+[8]
+ 
+Rollo
+ (G.R. No. 210156), pp. 44-54. 
+[9]
+ 
+Rollo
+ (G.R. No. 207526), p. 71. 
+ 
+[10]
+ Id. at 127. 
+ 
+[11]
+ Id. at 759. 
+ 
+[12]
+ Id. at 986. 
+ 
+[13]
+ Id. at 86. 
+ 
+[14]
+ Id. at 986-987. 
+[15]
+ Id. at 987. 
+[16]
+ In the Court of Appeals May 21, 2013 Decision, it states that this demand letter is dated January 15, 2001. However, this date is later than the foreclosure date of October 4, 1999 (
+see
+ 
+rollo
+ [G.R. 207526]). 
+ 
+[17]
+ 
+Rollo
+ (G.R. No. 207526), p. 71. 
+ 
+[18]
+ Id. at 85-95. 
+ 
+[19]
+ ld. at 85. The Heirs of Alvarez had yet to identify Insular Life as the insurer at this point. 
+[20]
+ Id. at 87-88. 
+ 
+[21]
+ Id. at 87. 
+ 
+[22]
+ ld. at 138-148. 
+ 
+[23]
+ Id. at 72. 
+ 
+[24]
+ Id. at 128. 
+[25]
+ Id. at 72. 
+[26]
+ Id. 
+ 
+[27]
+ Id. at 633-637. 
+[28]
+ Id. at 635. 
+[29]
+ Id. at 635-636. 
+[30]
+ Id. at 637. 
+[31]
+ 
+Rollo
+ (G.R. No. 210156), p. 15. 
+ 
+[32]
+ 
+Rollo
+ (G.R. No. 207526), pp. 638-639. 
+ 
+[33]
+ Id. at 70-83.
+ 
+[34]
+ Id. at 80. 
+[35]
+ Id. at 81. 
+[36]
+ Id. at 82. 
+[37]
+ Id. at 31. 
+ 
+[38]
+ 
+Rollo
+ (G.R. No. 210156), pp. 44-54. 
+[39]
+ Id. at 42-43. 
+ 
+[40]
+ Id. at 10-27. 
+[41]
+ 
+Rollo
+ (G.R. No. 207526), pp. 900-900-A. 
+ 
+[42]
+ INS. CODE, sec. 27 provides: 
+ 
+ Section 27. A concealment whether intentional or unintentional entitles the injured party to rescind a contract of insurance.
+ 
+ 
+ 
+[43]
+ 
+Rollo
+ (G.R. No. 207526), pp. 41-42. 
+ 
+[44]
+ Id. at 45. 
+ 
+[45]
+ 
+Rollo
+ (G.R. No. 210156), pp. 17-18. 
+ 
+[46]
+ 
+Maestrado v. Court of Appeals
+, 384 Phil. 418, 435 (2000) [Per J. De Leon, Jr., Second Division], 
+citing Westmont Bank v. Shugo Noda and Co., Ltd
+., 366 Phil. 849 (1999) [Per J. Gonzaga-Reyes, Third Division]. 
+ 
+[47]
+ Id., 
+citing Palmares v. Court of Appeals
+, 351 Phil. 664 (1998) [Per J. Regalado, Second Division]. 
+ 
+[48]
+ In 
+Maestrado v. Court of Appeals
+, 384 Phil. 418, 435 (2000) [Per J. De Leon, Jr., Second Division]: 
+ 
+ 
+Dolo causante
+ or fraud which attends the execution of a contract is an essential cause that vitiates consent and hence, it is a ground for the annulment of a contract. Fraud is never presumed, otherwise, courts would be indulging in speculations and surmises. It must be established by clear and convincing evidence but it was not so in the case at bench. A mere preponderance of evidence is not even adequate to prove fraud. (Citations omitted)
+ 
+ 
+ 
+[49]
+ INS. CODE, sec. 26: 
+ 
+ Section 26. A neglect to communicate that which a party knows and ought to communicate, is called a concealment. 
+ 
+ 
+ 
+[50]
+ 
+Rollo
+ (G.R. No. 207526), pp. 41-42. 
+[51]
+ While Section 27 negates the distinction between intentional and unintentional concealments, the consideration of materiality remains pivotal. On materiality vis-a-vis concealment, Sections 28 and 31 of the Insurance Code state: 
+ 
+Section 28. Each party to a contract of insurance must communicate to the other, in good faith, all facts within his knowledge which are material to the contract and as to which he makes no warranty, and which the other has not the means of ascertaining.
+ . . . . 
+ Section 31. Materiality is to be determined not by the event, but solely by the probable and reasonable influence of the facts upon the party to whom the communication is due, in forming his estimate of the disadvantages of the proposed contract, or in making his inquiries. 
+ 
+ 
+ 
+[52]
+ 3 JOYCE, THE LAW ON INSURANCE Ch. LV (2
+nd
+ ed.), as quoted in 
+Argente v. West Coast Life Insurance Co
+., 51 Phil. 725, 731 (1928) [Per J. Malcolm, En Banc]. 
+ 
+[53]
+ 3 JOYCE, THE LAW ON INSURANCE Ch. LV (2
+nd
+ ed.), as quoted in 
+Argente v. West Coast Life Insurance Co.
+, 51 Phil. 725,732 (1928) [Per J. Malcolm, En Banc]. 
+ 
+[54]
+ 3 JOYCE, THE LAW ON INSURANCE Ch. LV (2
+nd
+ ed.), as quoted in 
+Argente v. West Coast Life Insurance Co
+., 51 Phil. 725,732 (1928) [Per J. Malcolm, En Banc]. 
+ 
+[55]
+ 51 Phil. 725 (1928) [Per J. Malcolm, En Banc]. 
+ 
+[56]
+ On causal fraud, 
+Tankeh v. Development Bank of the Philippines
+, 120 Phil. 641 (2013) [Per J. Leonen, Third Division], as cited in 
+Poole-Blunden v. Union Bank of the Philippines
+, G.R. No. 205838, November 29, 2017 < http://sc.judiciary.gov.ph/pdf/web/viewer.html? file=/jurisprudence/2017/november2017/205838.pdf > 8 [Per J. Leonen, Third Division], explained: 
+ "There are two types of fraud contemplated in the performance of contracts: 
+dolo incidente
+ or incidental fraud and 
+dolo causante
+ or fraud serious enough to render a contract voidable." The fraud required to annul or avoid a contract "must be so material that had it not been present, the defrauded party would not have entered into the contract." The fraud must be "the determining cause of the contract, or must have caused the consent to be given."
+ 
+[57]
+ 
+Argente v. West Coast Life Insurance Co
+., 51 Phil. 725, 732 (1928) [Per J. Malcolm, En Banc]. 
+See also Musngi v. West Coast Life Insurance
+, 61 Phil. 864, 868-870 (1935) [Per J. Imperial, En Banc].
+ 
+[58]
+ Id. at 731-733. 
+[59]
+ 117 Phil. 330 (1963) [Per J. Makalintal, En Banc]. 
+ 
+[60]
+ Id. at 334-335. 
+[61]
+ 295 Phil. 501 (1993) [Per J. Feliciano, Third Division]. 
+ 
+[62]
+ Id. at 510. 
+ 
+[63]
+ 
+Vda. de Canilang v. Court of Appeals
+, 295 Phil. 501, 509-510 (1993) [Per J. Feliciano, Third Division]. 
+ 
+[64]
+ 315 Phil. 270 (1995) [Per J. Quiason, First Division]. 
+ 
+[65]
+ Id. at 276, citing 
+Vda. de Canilang v. Court of Appeals
+, 295 Phil. 501, 509-510 (1993) [Per J. Feliciano, Third Division]. 
+ 
+[66]
+ 
+See Great Pacific Insurance v. Court of Appeals
+, 375 Phil. 142 (1999) [Per J. Quisumbing, Second Division]; and 
+Ng Gan Zee v. Asian Crusader Life
+, 207 Phil. 401 (1983) [Per J. Escolin, Second Division]. 
+ 
+[67]
+ The counterpart provision for false representations is Section 45 of the Insurance Code. It reads: 
+ 
+Section 45. If a representation is false in a material point, whether affirmative or promissory, the injured party is entitled to rescind the contract from the time when the representation becomes false. 
+ 
+ 
+ 
+[68]
+ 207 Phil. 401 (1983) [Per J. Escolin, Second Division). 
+ 
+[69]
+ 
+Ng Gan Zee v. Asian Crusader Life Assurance Corp.
+, 207 Phil. 401, 406 (1983) [Per J. Escolin, Second Division], citing Pres. Decree No. 612, sec. 28 and 
+Argente v. West Coast Life Insurance Co.
+, 51 Phil. 725, 731-733 (1928) [Per J. Malcolm, En Banc]. 
+ 
+[70]
+ Id. 
+ 
+[71]
+ 3 JOYCE, THE LAW ON INSURANCE Ch. LV (2
+nd
+ ed.), as quoted in 
+Argente v. West Coast Life Insurance Co
+., 51 Phil. 725, 731 (1928) [Per J. Malcolm, En Banc). 
+ 
+[72]
+ 375 Phil. 142 (1999) [Per J. Quisumbing, Second Division]. 
+ 
+[73]
+ Id. at 150-152, citing 
+Argente v. West Coast Life Insurance Co
+., 51 Phil. 725 (1928) [Per J. Malcolm, En Banc] and 
+Ng Gan Zee v. Asian Crusader Life Assurance Corp.
+, 207 Phil. 401 (1983) [Per J. Escolin, Second Division]. 
+ 
+[74]
+ 429 Phil. 82 (2002) [Per J. Ynares-Santiago, First Division]. 
+ 
+[75]
+ Id. at 92, 
+citing Great Pacific Life Assurance v. Court of Appeals
+, 375 Phil. 142 (1999) [Per J. Quisumbing, Second Division] and 
+Ng Gan Zee v. Asian Crusader Life Assurance Corp
+., 207 Phil. 401 (1983) [Per J. Escolin, Second Division]. 
+ 
+[76]
+ See footnote 15 of 
+Great Pacific Life Assurance v. Court of Appeals,
+ 375 Phil. 142, 150 (1999) [Per J. Quisumbing, Second Division]. 
+ 
+[77]
+ See footnotes 18 and 19 of 
+Great Pacific Life Assurance v. Court of Appeals
+, 375 Phil. 142, 152 (1999) [Per J. Quisumbing, Second Division]. 
+ 
+[78]
+ See footnote 16 of 
+Philamcare Health Systems, Inc. v. Court of Appeals
+, 429 Phil. 82, 92 (2002) [Per J. Ynares-Santiago, First Division]. 
+ 
+[79]
+ INS. CODE, Title 4, as amended by Rep. Act No. 10607, provides: 
+ 
+ Title 4 
+ Concealment
+ Section 26. A neglect to communicate that which a party knows and ought to communicate, is called a concealment. 
+ Section 27. A concealment whether intentional or unintentional entitles the injured party to rescind a contract of insurance. 
+ Section 28. Each party to a contract of insurance must communicate to the other, in good faith, all facts within his knowledge which are material to the contract and as to which he makes no warranty, and which the other has not the means of ascertaining. 
+ Section 29. An intentional and fraudulent omission, on the part of one insured, to communicate information of matters proving or tending to prove the falsity of a warranty, entitles the insurer to rescind. 
+ Section 30. Neither party to a contract of insurance is bound to communicate information of the matters following, except in answer to the inquiries of the other: 
+ (a) Those which the other knows;
+ (b) Those which, in the exercise of ordinary care, the other ought to know, and of which the former has no reason to suppose him ignorant; 
+ (c) Those of which the other waives communication;
+ (d) Those which prove or tend to prove the existence of a risk excluded by a warranty, and which are not otherwise material; and
+ (e) Those which relate to a risk excepted from the policy and which are not otherwise material. 
+ Section 31. Materiality is to be determined not by the event, but solely by the probable and reasonable influence of the facts upon the party to whom the communication is due, in forming his estimate of the disadvantages of the proposed contract, or in making his inquiries. 
+ Section 32. Each party to a contract of insurance is bound to know all the general causes which are open to his inquiry, equally with that of the other, and which may affect the political or material perils contemplated; and all general usages of trade. 
+ Section 33. The right to information of material facts may be waived, either by the terms of insurance or by neglect to make inquiry as to such facts, where they are distinctly implied in other facts of which information is communicated. 
+ Section 34. Information of the nature or amount of the interest of one insured need not be communicated unless in answer to an inquiry, except as prescribed by Section 51.
+ Section 35. Neither party to a contract of insurance is bound to communicate, even upon inquiry, information of his own judgment upon the matters in question. 
+ 
+ 
+[80]
+ INS. CODE, Title 5, as amended by Rep. Act No. 10607, provides: 
+ 
+ TITLE 5 
+ Representation 
+ Section 36. A representation may be oral or written. 
+ Section 37. A representation may be made at the time of, or before, issuance of the policy. 
+ Section 38. The language of a representation is to be interpreted by the same rules as the language of contracts in general. 
+ Section 39. A representation as to the future is to be deemed a promise, unless it appears that it was merely a statement of belief or expectation. 
+ Section 40. A representation cannot qualify an express provision in a contract of insurance, but it may qualify an implied warranty. 
+ Section 41. A representation may be altered or withdrawn before the insurance is effected, but not afterwards. 
+ Section 42. A representation must be presumed to refer to the date on which the contract goes into effect. 
+ Section 43. When a person insured has no personal knowledge of a fact, he may nevertheless repeat information which he has upon the subject, and which he believes to be true, with the explanation that he does so on the information of others; or he may submit the information, in its whole extent, to the insurer; and in neither case is he responsible for its truth, unless it proceeds from an agent of the insured, whose duty it is to give the information. 
+ Section 44. A representation is to be deemed false when the facts fail to correspond with its assertions or stipulations. 
+ Section 45. If a representation is false in a material point, whether affirmative or promissory, the injured party is entitled to rescind the contract from the time when the representation becomes false. 
+ Section 46. The materiality of a representation is determined by the same rules as the materiality of a concealment. 
+ Section 47. The provisions of this chapter apply as well to a modification of a contract of insurance as to its original formation. 
+ Section 48. Whenever a right to rescind a contract of insurance is given to the insurer by any provision of this chapter, such right must be exercised previous to the commencement of an action on the contract. 
+ After a policy of life insurance made payable on the death of the insured shall have been in force during the lifetime of the insured for a period of two (2) years from the date of its issue or of its last reinstatement, the insurer cannot prove that the policy is void 
+ab initio
+ or is rescindable by reason of the fraudulent concealment or misrepresentation of the insured or his agent. 
+ 
+ 
+ 
+[81]
+ 
+Great Pacific Life Assurance v. Court of Appeals
+, 375 Phil. 142, 150-152 (1999) [Per J. Quisumbing, Second Division], 
+citing 
+Argente v. West Coast Life Insurance Co
+., 51 Phil. 725 (1928) [Per J. Malcolm, En Banc]; and 
+Ng Gan Zee v. Asian Crusader Life Assurance Corp
+., 207 Phil. 401 (1983) [Per J. Escolin, Second Division]. 
+ 
+[82]
+ 
+Manila Bankers Life Insurance Corp. v. Aban
+, 715 Phil. 404, 415 (2013) [Per J. Del Castillo, Second Division], c
+iting Great Pacific Life Assurance v. Court of Appeals
+, 375 Phil. 142, 150 152 (1999) [Per J. Quisumbing, Second Division]. 
+ 
+[83]
+ 715 Phil. 404 (2013) [Per J. Del Castillo, Second Division]. 
+ 
+[84]
+ Id. at 414-415, 
+citing Great Pacific Life Assurance v. Court of Appeals
+, 375 Phil. 142, 150-152 (1999) [Per J. Quisumbing, Second Division]. 
+ 
+[85]
+ 290 Phil. 311 (1992) [Per J. Bellosillo, First Division]. 
+ 
+[86]
+ Id. at 323, 
+citing
+ Black's Law Dictionary, 5th Ed., pp. 227 and 1281. 
+ 
+[87]
+ 
+Rollo
+ (G.R. No. 207526), pp. 80-81. 
+ 
+[88]
+ RULES OF COURT, Rule 131, sec. 3(e). 
+[89]
+ 
+Rollo
+ (G.R. No. 207526), p. 999. 
+ 
+[90]
+ Id. 
+[91]
+ Id. at 17-18. 
+ 
+[92]
+ Id. at 1040. 
+[93]
+ 
+Great Pacific Life Assurance v. Court of Appeals
+, 375 Phil. 142, 153 (1999) [Per J. Quisumbing, Second Division]. 
+[94]
+ 366 Phil. 610 (1999) [Per J. Pardo, First Division]. 
+[95]
+ Id. at 616-617, citing RULES OF COURT, Rule 86, sec. 7 and 
+Perez v. Philippine National Bank
+, 124 Phil. 260 (1966) [Per J. J.B.L. Reyes, En Banc]. See also 
+Jacob vs. Court of Appeals
+, 123 Phil. 1271 (1966) [Per J. Regala, En Banc]. 
+ 
+[96]
+ 
+Rollo
+ (G.R. No. 210156), pp. 90-91. 
+ 
+[97]
+ 
+Great Pacific Life Assurance v. Court of Appeals
+, 375 Phil. 142, 148 (1999) [Per J. Quisumbing, Second Division], 
+citing Serrano vs. Court of Appeals
+, 215 Phil. 292 (1984) [Per J. Makasiar, Second Division]. 
+[98]
+ 
+Rollo
+ (G.R. No. 207526), p. 635. 
+ 
+[99]
+ G.R. No. 205838, November 29, 2017 < http://sc.judiciary.gov.ph/pdf/web/viewer.html?file=/jurisprudence/2017/november2017/205838.pdf > [Per J. Leonen, Third Division]. 
+[100]
+ Id. at 14. 
+ 
+[101]
+ Id. at 15. 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

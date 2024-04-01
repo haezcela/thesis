@@ -1,0 +1,611 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			713 Phil. 18
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 161106, January 13, 2014 ]
+
+
+WORLDWIDE WEB CORPORATION AND CHERRYLL L. YU, PETITIONERS, VS. PEOPLE OF THE PHILIPPINES AND PHILIPPINE LONG DISTANCE TELEPHONE COMPANY, RESPONDENTS. 
+[G.R. NO. 161266]
+ PLANET INTERNET CORP., PETITIONER, VS. PHILIPPINE LONG DISTANCE TELEPHONE COMPANY, RESPONDENT.
+D E C I S I O N
+
+
+
+
+SERENO, C.J.:
+
+
+Petitioners filed the present Petitions under Rule 45 of the Rules of Court to set aside the Decision
+[1]
+ dated 20 August 2003 and the Resolution
+[2]
+ dated 27 November 2003 of the Court of Appeals (CA) reversing the quashal of the search warrants previously issued by the Regional Trial Court (RTC).
+Police Chief Inspector Napoleon Villegas of the Regional Intelligence Special Operations Office (RISOO) of the Philippine National Police filed applications for warrants
+[3]
+ before the RTC of Quezon City, Branch 78, to search the office premises of petitioner Worldwide Web Corporation (WWC)
+[4]
+ located at the 11th floor, IBM Plaza Building, No. 188 Eastwood City, Libis, Quezon City, as well as the office premises of petitioner Planet Internet Corporation (Planet Internet)
+[5]
+ located at UN 2103, 21/F Orient Square Building, Emerald Avenue, 
+Barangay
+ San Antonio, Pasig City. The applications alleged that petitioners were conducting illegal toll bypass operations, which amounted to theft and violation of Presidential Decree No. 401 (Penalizing the Unauthorized Installation of Water, Electrical or Telephone Connections, the Use of Tampered Water or Electrical Meters and Other Acts), to the damage and prejudice of the Philippine Long Distance Telephone Company (PLDT).
+[6]
+On 25 September 2001, the trial court conducted a hearing on the applications for search warrants. The applicant and Jose Enrico Rivera (Rivera) and Raymund Gali (Gali) of the Alternative Calling Pattern Detection Division of PLDT testified as witnesses.
+According to Rivera, a legitimate international long distance call should pass through the local exchange or public switch telephone network (PSTN) on to the toll center of one of the international gateway facilities (IGFs)
+[7]
+ in the Philippines.
+[8]
+ The call is then transmitted to the other country through voice circuits, either via fiber optic submarine cable or microwave radio using satellite facilities, and passes the toll center of one of the IGFs in the destination country. The toll center would then meter the call, which will pass through the PSTN of the called number to complete the circuit. In contrast, petitioners were able to provide international long distance call services to any part of the world by using PLDTâs telephone lines, but bypassing its IGF. This scheme constitutes toll bypass, a âmethod of routing and completing international long distance calls using lines, cables, antenna and/or wave or frequency which connects directly to the local or domestic exchange facilities of the originating country or the country where the call is originated.â
+[9]
+On the other hand, Gali claimed that a phone number serviced by PLDT and registered to WWC was used to provide a service called GlobalTalk, âan internet-based international call service, which can be availed of via prepaid or billed/post-paid accounts.â
+[10]
+ During a test call using GlobalTalk, Gali dialed the local PLDT telephone number 6891135, the given access line. After a voice prompt required him to enter the user code and personal identification number (PIN) provided under a GlobalTalk pre-paid account, he was then requested to enter the destination number, which included the country code, phone number and a pound (#) sign. The call was completed to a phone number in Taiwan. However, when he checked the records, it showed that the call was only directed to the local number 6891135. This indicated that the international test call using GlobalTalk bypassed PLDTâs IGF.
+Based on the records of PLDT, telephone number 6891135 is registered to WWC with address at UN 2103, 21/F Orient Square Building, Emerald Avenue, 
+Barangay
+ San Antonio, Pasig City.
+[11]
+ However, upon an ocular inspection conducted by Rivera at this address, it was found that the occupant of the unit is Planet Internet, which also uses the telephone lines registered to WWC.
+[12]
+ These telephone lines are interconnected to a server and used as dial-up access lines/numbers of WWC.
+Gali further alleged that because PLDT lines and equipment had been illegally connected by petitioners to a piece of equipment that routed the international calls and bypassed PLDTâs IGF, they violated Presidential Decree (P.D.) No. 401 as amended,
+[13]
+ on unauthorized installation of telephone connections. Petitioners also committed theft, because through their misuse of PLDT phone lines/numbers and equipment and with clear intent to gain, they illegally stole business and revenues that rightly belong to PLDT. Moreover, they acted contrary to the letter and intent of Republic Act (R.A.) No. 7925, because in bypassing the IGF of PLDT, they evaded the payment of access and bypass charges in its favor while âpiggy-backingâ on its multi-million dollar facilities and infrastructure, thus stealing its business revenues from international long distance calls. Further, petitioners acted in gross violation of Memorandum Circular No. 6-2-92 of the National Telecommunications Commission (NTC) prohibiting the use of customs premises equipment (CPE) without first securing type approval license from the latter.
+Based on a five-day sampling of the phone line of petitioners, PLDT computed a monthly revenue loss of P764,718.09. PLDT likewise alleged that petitioners deprived it of foreign exchange revenues, and evaded the payment of taxes, license fees, and charges, to the prejudice of the government.
+During the hearing, the trial court required the identification of the office premises/units to be searched, as well as their floor plans showing the location of particular computers and servers that would be taken.
+[14]
+On 26 September 2001, the RTC granted the application for search warrants.
+[15]
+ Accordingly, the following warrants were issued against the office premises of petitioners, authorizing police officers to seize various items:
+1. Search Warrant No. Q-01-3856,
+[16]
+ issued for violation of paragraph one (1) of Article 308 (theft) in relation to Article 309 of the Revised Penal Code against WWC, Adriel S. Mirto, Kevin L. Tan, Cherryll L. Yu, Carmelo J. Canto, III, Ferdinand B. Masi, Message One International Corporation, Adriel S. Mirto, Nova Christine L. Dela Cruz, Robertson S. Chiang, and Nolan B. Sison with business address at 11/F IBM Plaza Building, No. 188 Eastwood City, Cyberpark Libis, Quezon City:
+a) Computers or any equipment or device capable of accepting information, applying the process of the information and supplying the results of this process;
+b) Software, Diskettes, Tapes or equipment or device used for recording or storing information; and
+c) Manuals, application forms, access codes, billing statements, receipts, contracts, communications and documents relating to securing and using telephone lines and/or equipment.
+2. Search Warrant No. Q-01-3857,
+[17]
+ issued for violation of P.D. 401 against Planet Internet Corporation/Mercury One, Robertson S. Chiang, Nikki S. Chiang, Maria Sy Be Chiang, Ben C. Javellana, Carmelita Tuason with business address at UN 2103, 21/F Orient Square Building, Emerald Avenue, 
+Barangay
+ San Antonio, Pasig City:
+a) Modems or Routers or any equipment or device that enables data terminal equipment such as computers to communicate with other data terminal equipment via a telephone line;
+b) Computers or any equipment or device capable of accepting information applying the prescribed process of the information and supplying the results of this process;
+c) Lines, Cables and Antennas or equipment or device capable of transmitting air waves or frequency, such as an IPL and telephone lines and equipment;
+d) Multiplexers or any equipment or device that enables two or more signals from different sources to pass through a common cable or transmission line;
+e) PABX or Switching Equipment, Tapes or equipment or device capable of connecting telephone lines;
+f) Software, Diskettes, Tapes or equipment or device used for recording or storing information; and
+g) Manuals, application forms, access codes, billing statement, receipts, contracts, checks, orders, communications and documents, lease and/or subscription agreements or contracts, communications and documents relating to securing and using telephone lines and/or equipment.
+3. Search Warrant No. Q-01-3858,
+[18]
+ issued for violation of paragraph one (1) of Article 308 (theft) in relation to Article 309 of the Revised Penal Code against Planet Internet Corporation/Mercury One, Robertson S. Chiang, Nikki S. Chiang, Maria Sy Be Chiang, Ben C. Javellana, Carmelita Tuason with business address at UN 2103, 21/F Orient Square Building, Emerald Avenue, 
+Barangay
+ San Antonio, Pasig City:
+a) Modems or Routers or any equipment or device that enables data terminal equipment such as computers to communicate with other data terminal equipment via a telephone line;
+b) Computers or any equipment or device capable of accepting information applying the prescribed process of the information and supplying the results of this process;
+c) Lines, Cables and Antennas or equipment or device capable of transmitting air waves or frequency, such as an IPL and telephone lines and equipment;
+d) Multiplexers or any equipment or device that enables two or more signals from different sources to pass through a common cable or transmission line;
+e) PABX or Switching Equipment, Tapes or equipment or device capable of connecting telephone lines;
+f) Software, Diskettes, Tapes or equipment or device used for recording or storing information; and
+g) Manuals, application forms, access codes, billing statement, receipts, contracts, checks, orders, communications and documents, lease and/or subscription agreements or contracts, communications and documents relating to securing and using telephone lines and/or equipment.
+The warrants were implemented on the same day by RISOO operatives of the National Capital Region Police Office.
+Over a hundred items were seized,
+[19]
+ including 15 central processing units (CPUs), 10 monitors, numerous wires, cables, diskettes and files, and a laptop computer.
+[20]
+ Planet Internet notes that even personal diskettes of its employees were confiscated; and areas not devoted to the transmission of international calls, such as the Presidentâs Office and the Information Desk, were searched. Voltage regulators, as well as reserve and broken computers, were also seized.
+Petitioners WWC and Cherryll Yu,
+[21]
+ and Planet Internet
+[22]
+ filed their respective motions to quash the search warrants, citing basically the same grounds: (1) the search warrants were issued without probable cause, since the acts complained of did not constitute theft; (2) toll bypass, the act complained of, was not a crime; (3) the search warrants were general warrants; and (4) the objects seized pursuant thereto were âfruits of the poisonous tree.â
+PLDT filed a Consolidated Opposition
+[23]
+ to the motions to quash.
+In the hearing of the motions to quash on 19 October 2001, the test calls alluded to by Gali in his Affidavit were shown to have passed the IGF of Eastern Telecommunications (Philippines) Inc. (Eastern) and of Capital Wireless (Capwire).
+[24]
+ Planet Internet explained that Eastern and Capwire both provided international direct dialing services, which Planet Internet marketed by virtue of a âReseller Agreement.â Planet Internet used PLDT lines for the first phase of the call; but for the second phase, it used the IGF of either Eastern or Capwire. Planet Internet religiously paid PLDT for its domestic phone bills and Eastern and Capwire for its IGF usage. None of these contentions were refuted by PLDT.
+The RTC granted the motions to quash on the ground that the warrants issued were in the nature of general warrants.
+[25]
+  Thus, the properties seized under the said warrants were ordered released to petitioners.
+PLDT moved for reconsideration,
+[26]
+ but its motion was denied
+[27]
+ on the ground that it had failed to get the conformity of the City Prosecutor prior to filing the motion, as required under Section 5, Rule 110 of the Rules on Criminal Procedure.
+THE CA RULING
+PLDT appealed to the CA, where the case was docketed as CA-G.R. No. 26190. The CA reversed and set aside the assailed RTC Resolutions and declared the search warrants valid and effective.
+[28]
+Petitioners separately moved for reconsideration of the CA ruling.
+[29]
+ Among the points raised was that PLDT should have filed a petition for certiorari rather than an appeal when it questioned the RTC Resolution before the CA.  The appellate court denied the Motions for Reconsideration.
+[30]
+Rule 45 Petitions were separately filed by petitioners WWC and Cherryll Yu,
+[31]
+ and Planet Internet
+[32]
+ to assail the CA Decision and Resolution. The Court consolidated the two Petitions.
+[33]
+ISSUES
+Whether the CA erred in giving due course to PLDTâs appeal despite the following procedural infirmities:
+PLDT, without the conformity of the public prosecutor, had no personality to question the quashal of the search warrants;
+PLDT assailed the quashal orders via an appeal rather than a petition for certiorari under Rule 65 of the Rules of Court.
+Whether the assailed search warrants were issued upon probable cause, considering that the acts complained of allegedly do not constitute theft.
+Whether the CA seriously erred in holding that the assailed search warrants were not general warrants.
+OUR RULING
+I.
+1. An application for a search warrant is not a criminal 
+action; conformity of the public prosecutor is not necessary to
+give the aggrieved party personality to question an order 
+quashing search warrants.
+Petitioners contend that PLDT had no personality to question the quashal of the search warrants without the conformity of the public prosecutor. They argue that it violated Section 5, Rule 110 of the Rules of Criminal Procedure, to wit:
+SEC. 5. 
+Who must prosecute criminal actions.â
+All criminal actions commenced by a complaint or information shall be prosecuted under the direction and control of the prosecutor.
+The above provision states the general rule that the public prosecutor has direction and control of the prosecution of â(a)ll criminal actions commenced by a complaint or information.â However, a search warrant is obtained, not by the filing of a complaint or an information, but by the filing of an application therefor.
+[34]
+Furthermore, as we held in 
+Malaloan v. Court of Appeals
+,
+[35]
+ an application for a search warrant is a âspecial criminal process,â rather than a criminal action:
+The basic flaw in this reasoning is in erroneously equating the application for and the obtention of a search warrant with the institution and prosecution of a criminal action in a trial court. It would thus categorize what is only a special criminal process, the power to issue which is inherent in 
+all
+ courts, as equivalent to a criminal 
+action
+, jurisdiction over which is reposed in 
+specific
+ courts of indicated competence. It ignores the fact that the requisites, procedure and purpose for the issuance of a search warrant are completely different from those for the institution of a criminal action.
+For, indeed, a warrant, such as a warrant of arrest or a search warrant, merely constitutes process.   A search warrant is defined in our jurisdiction as an order in writing issued in the name of the People of the Philippines signed by a judge and directed to a peace officer, commanding him to search for personal property and bring it before the court.   A search warrant is in the nature of a criminal process akin to a writ of discovery. It is a special and peculiar remedy, drastic in its nature, and made necessary because of a public necessity.
+In American jurisdictions, from which we have taken our jural concept and provisions on search warrants, such warrant is definitively considered merely as a process, generally issued by a court in the exercise of its ancillary jurisdiction, and not a criminal action to be entertained by a court pursuant to its original jurisdiction.
+ We emphasize this fact for purposes of both issues as formulated in this opinion, with the catalogue of authorities herein.
+[36]
+ (Emphasis supplied)
+Clearly then, an application for a search warrant is not a criminal action. Meanwhile, we have consistently recognized the right of parties to question orders quashing those warrants.
+[37]
+ Accordingly, we sustain the CAâs ruling that the conformity of the public prosecutor is not necessary before an aggrieved party moves for reconsideration of an order granting a motion to quash search warrants.
+2. An order quashing a search warrant, which was issued 
+independently prior to the filing of a criminal action, partakes
+of a final order that can be the proper subject of an appeal.
+Petitioners also claim that since the RTC ruling on the motions to quash was interlocutory, it cannot be appealed under Rule 41 of the Rules of Court. PLDT should have filed a Rule 65 petition instead. Petitioners cite, as authority for their position, 
+Marcelo v. de Guzman
+.
+[38]
+ The Court held therein as follows:
+But is the order of Judge de Guzman denying the motion to quash the search warrant and to return the properties seized thereunder final in character, or is it merely interlocutory? In Cruz vs. Dinglasan, this Court, citing American jurisprudence, resolved this issue thus:
+Where accused in criminal proceeding has petitioned for the return of goods seized, the order of restoration by an inferior court is interlocutory and hence, not appealable; likewise, a denial, by the US District Court, of defendant's petition for the return of the articles seized under a warrant is such an interlocutory order. (56 C.J. 1253).
+A final order is defined as one which disposes of the whole subject matter or terminates a particular proceeding or action, leaving nothing to be done but to enforce by execution what has been determined; on the other hand an order is interlocutory if it does not dispose of a case completely, but leaves something more to be done upon its merits. Tested against this criterion, the search warrant issued in Criminal Case No. 558 is indisputably of interlocutory character because it leaves something more to be done in the said criminal case, i.e., the determination of the guilt of the accused therein.
+[39]
+Petitionersâ reliance upon 
+Marcelo
+ is misplaced.
+An application for a search warrant is a judicial process conducted either as an incident in a main criminal case already filed in court or in anticipation of one yet to be filed.
+[40]
+ Whether the criminal case (of which the search warrant is an incident) has already been filed before the trial court is significant for the purpose of determining the proper remedy from a grant or denial of a motion to quash a search warrant.
+Where the search warrant is issued as an incident in a pending criminal case, as it was in 
+Marcelo
+, the quashal of a search warrant is merely interlocutory. There is still âsomething more to be done in the said criminal case, i.e., the determination of the guilt of the accused therein.â
+[41]
+In contrast, where a search warrant is applied for and issued in anticipation of a criminal case yet to be filed, the order quashing the warrant (and denial of a motion for reconsideration of the grant) ends the judicial process. There is nothing more to be done thereafter.
+Thus, the CA correctly ruled that
+ Marcelo
+ does not apply to this case. Here, the applications for search warrants were instituted as principal proceedings and not as incidents to pending criminal actions. When the search warrants issued were subsequently quashed by the RTC, there was nothing left to be done by the trial court. Thus, the quashal of the search warrants were final orders, not interlocutory, and an appeal may be properly taken therefrom.
+II.
+Trial judges determine probable cause in the exercise of their
+ judicial functions. A trial judgeâs finding of probable cause
+ for the issuance of a search warrant is accorded respect by
+ reviewing courts when the finding has substantial basis.
+Petitioners claim that no probable cause existed to justify the issuance of the search warrants.
+The rules pertaining to the issuance of search warrants are enshrined in Section 2, Article III of the 1987 Constitution:
+Section 2. The right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures of whatever nature and for any purpose shall be inviolable, and no search warrant or warrant of arrest 
+shall issue except upon probable cause to be determined personally by the judge after examination under oath or affirmation of the complainant and the witnesses he may produce
+, and particularly describing the place to be searched and the persons or things to be seized. (Emphasis supplied)
+In the issuance of a search warrant, probable cause requires âsuch facts and circumstances that would lead a reasonably prudent man to believe that an offense has been committed and the objects sought in connection with that offense are in the place to be searched.â
+[42]
+There is no exact test for the determination of probable cause
+[43]
+ in the issuance of search warrants. It is a matter wholly dependent on the finding of trial judges in the process of exercising their judicial function.
+[44]
+ They determine probable cause based on âevidence showing that, more likely than not, a crime has been committed and that it was committedâ by the offender.
+[45]
+When a finding of probable cause for the issuance of a search warrant is made by a trial judge, the finding is accorded respect by reviewing courts:
+x x x. It is presumed that a judicial function has been regularly performed, absent a showing to the contrary. A magistrateâs determination of probable cause for the issuance of a search warrant is paid great deference by a reviewing court, as long as there was substantial basis for that determination. Substantial basis means that the questions of the examining judge brought out such facts and circumstances as would lead a reasonably discreet and prudent man to believe that an offense has been committed, and the objects in connection with the offense sought to be seized are in the place sought to be searched.
+[46]
+The transcript of stenographic notes during the hearing for the application for search warrants on 25 September 2001 shows that Judge Percival Mandap Lopez asked searching questions to the witnesses and particularly sought clarification on the alleged illegal toll bypass operations of petitioners, as well as the pieces of evidence presented. Thus, the Court will no longer disturb the finding of probable cause by the trial judge during the hearing for the application for the search warrants.
+However, petitioners insist that the determination of the existence of probable cause necessitates the prior determination of whether a crime or an offense was committed in the first place. In support of their contention that there was no probable cause for the issuance of the search warrants, petitioners put forward the adage 
+nullum crimen, nulla poena sine lege
+ â there is no crime when there is no law punishing it. Petitioners argue that there is no law punishing toll bypass, the act complained of by PLDT. Thus, no offense was committed that would justify the issuance of the search warrants.
+According to PLDT, toll bypass enables international calls to appear as local calls and not overseas calls, thus effectively evading payment to the PLDT of access, termination or bypass charges, and accounting rates; payment to the government of taxes; and compliance with NTC regulatory requirements. PLDT concludes that toll bypass is prohibited, because it deprives âlegitimate telephone operators, like PLDTâ¦ of the compensation which it is entitled to had the call been properly routed through its network.â
+[47]
+ As such, toll bypass operations constitute theft, because all of the elements of the crime are present therein.
+On the other hand, petitioners WWC and Cherryll Yu argue that there is no theft to speak of, because the properties allegedly taken from PLDT partake of the nature of âfuture earnings and lost business opportunitiesâ and, as such, are uncertain, anticipative, speculative, contingent, and conditional. PLDT cannot be deprived of such unrealized earnings and opportunities because these do not belong to it in the first place.
+Upon a review of the records of the case, we understand that the Affidavits of Rivera and Gali that accompanied the applications for the search warrants charge petitioners with the crime, not of toll bypass 
+per se
+, but of 
+theft
+ of PLDTâs international long distance call business 
+committed by means of
+ the alleged toll bypass operations.
+For theft to be committed in this case, the following elements must be shown to exist: (1) the taking by petitioners (2) of PLDTâs personal property (3) with intent to gain (4) without the consent of PLDT (5) accomplished without the use of violence against or intimidation of persons or the use of force upon things.
+[48]
+Petitioners WWC and Cherryll Yu only take issue with categorizing the earnings and business as personal properties of PLDT. However, in 
+Laurel v. Abrogar
+,
+[49]
+ we have already held that the use of PLDTâs communications facilities without its consent constitutes theft of its telephone services and business:
+x x x â[I]nternational long distance calls,â the matter alleged to be stolen in the instant case, take the form of electrical energy, it cannot be said that such international long distance calls were personal properties belonging to PLDT since the latter could not have acquired ownership over such calls. PLDT merely encodes, augments, enhances, decodes and transmits said calls using its complex communications infrastructure and facilities. PLDT not being the owner of said telephone calls, then it could not validly claim that such telephone calls were taken without its consent. 
+It is the use of these communications facilities without the consent of PLDT that constitutes the crime of theft, which is the unlawful taking of the telephone services and business.
+Therefore, the business of providing telecommunication and the telephone service are personal property under Article 308 of the Revised Penal Code, and the act of engaging in ISR is an act of âsubtractionâ penalized under said article.
+ However, the Amended Information describes the thing taken as, âinternational long distance calls,â and only later mentions âstealing the business from PLDTâ as the manner by which the gain was derived by the accused. In order to correct this inaccuracy of description, this case must be remanded to the trial court and the prosecution directed to amend the Amended Information, to clearly state that 
+the property subject of the theft are the services and business of respondent PLDT
+. Parenthetically, this amendment is not necessitated by a mistake in charging the proper offense, which would have called for the dismissal of the information under Rule 110, Section 14 and Rule 119, Section 19 of the Revised Rules on Criminal Procedure. To be sure, 
+the crime is properly designated as one of theft
+. The purpose of the amendment is simply to ensure that the accused is fully and sufficiently apprised of the nature and cause of the charge against him, and thus guaranteed of his rights under the Constitution. (Emphasis supplied)
+In 
+Laurel
+, we reviewed the existing laws and jurisprudence on the generally accepted concept of personal property in civil law as âanything susceptible of appropriation.â
+[50]
+ It includes ownership of telephone services, which are protected by the penal provisions on theft. We therein upheld the Amended Information charging the petitioner with the crime of theft against PLDT inasmuch as the allegation was that the former was engaged in international simple resale (ISR) or âthe unauthorized routing and completing of international long distance calls using lines, cables, antennae, and/or air wave frequency and connecting these calls directly to the local or domestic exchange facilities of the country where destined.â
+[51]
+ We reasoned that since PLDT encodes, augments, enhances, decodes and transmits telephone calls using its complex communications infrastructure and facilities, the use of these communications facilities without its consent constitutes theft, which is the unlawful taking of telephone services and business. We then concluded that the business of providing telecommunications and telephone services is personal property under Article 308 of the Revised Penal Code, and that the act of engaging in ISR is an act of âsubtractionâ penalized under said article.
+Furthermore, toll bypass operations could not have been accomplished without the installation of telecommunications equipment to the PLDT telephone lines. Thus, petitioners may also be held liable for violation of P.D. 401, to wit:
+Section 1. 
+Any person who installs
+ any water, electrical, 
+telephone
+ or piped gas 
+connection without previous authority from
+ the Metropolitan Waterworks and Sewerage System, the Manila Electric Company, 
+the Philippine Long Distance Telephone Company
+, or the Manila Gas Corporation, as the case may be, tampers and/or uses tampered water, electrical or gas meters, jumpers or other devices whereby water, electricity or piped gas is stolen; steals or pilfers water, electric or piped gas meters, or water, electric and/or telephone wires, or piped gas pipes or conduits; knowingly possesses stolen or pilfered water, electrical or gas meters as well as stolen or pilfered water, electrical and/or telephone wires, or piped gas pipes and conduits, 
+shall, upon conviction, be punished with 
+prision correccional
+ in its minimum period or a fine ranging from two thousand to six thousand pesos, or both.
+ (Emphasis supplied)
+The peculiar circumstances attending the situation compel us to rule further on the matter of probable cause. During the hearing of the motions to quash the search warrants, the test calls conducted by witnesses for PLDT were shown to have connected to the IGF of either Eastern or Capwire to complete the international calls.
+A trial judgeâs finding of probable cause may be set aside and the search warrant issued by him based on his finding may be quashed if the person against whom the warrant is issued presents clear and convincing evidence that when the police officers and witnesses testified, they committed a deliberate falsehood or reckless disregard for the truth on matters that are essential or necessary to a showing of probable cause.
+[52]
+ In that case, the finding of probable cause is a nullity, because the trial judge was intentionally misled by the witnesses.
+[53]
+On the other hand, innocent and negligent omissions or misrepresentation of witnesses will not cause the quashal of a search warrant.
+[54]
+ In this case, the testimonies of Rivera and Gali that the test calls they conducted did not pass through PLDTâs IGF are true. They neglected, however, to look into the possibility that the test calls may have passed through other IGFs in the Philippines, which was exactly what happened. Nevertheless, the witnesses did not commit a deliberate falsehood. Even Planet Internet stated that the conclusion that the test calls bypassed all IGFs in the country was made âcarelessly and haphazardly.â
+[55]
+On this score, the quashal of the search warrants is not in order. It must be noted that the trial judge did not quash the warrants in this case based on lack of probable cause. Instead, the issue before us is whether the CA erred in reversing the RTC, which ruled that the search warrants are general warrants.
+III.
+The requirement of particularity in the description of things to be 
+seized is fulfilled when the items described in the search 
+warrant bear a direct relation to the offense for which the
+ warrant is sought.
+Petitioners claim that the subject search warrants were in the nature of general warrants because the descriptions therein of the objects to be seized are so broad and all-encompassing as to give the implementing officers wide discretion over which articles to seize. In fact, the CA observed that the targets of the search warrants were not illegal per se, and that they were âinnocuous goods.â Thus, the police officers were given blanket authority to determine whether the objects were legal or not, as in fact even pieces of computer equipment not involved in telecommunications or Internet service were confiscated.
+On the other hand, PLDT claims that a search warrant already fulfills the requirement of particularity of description when it is as specific as the circumstances will ordinarily allow.
+[56]
+ Furthermore, it cites 
+Kho v. Makalintal
+,
+[57]
+ in which the Court allowed leeway in the description of things to be seized, taking into consideration the effort and the time element involved in the prosecution of criminal cases.
+The Office of the Solicitor General (OSG), in its Comment
+[58]
+ filed with the CA, likewise prayed for the reversal of the quashal of the search warrants in view of the OSGâs position that the scheme was a case of electronic theft, and that the items sought to be seized could not be described with calibrated precision. According to the OSG, assuming that the seized items could also be used for other legitimate businesses, the fact remains that the items were used in the commission of an offense.
+A general warrant is defined as â(a) search or arrest warrant that is not particular as to the person to be arrested or the property to be seized.â
+[59]
+ It is one that allows the âseizure of one thing under a warrant describing anotherâ and gives the officer executing the warrant the discretion over which items to take.
+[60]
+Such discretion is abhorrent, as it makes the person, against whom the warrant is issued, vulnerable to abuses. Our Constitution guarantees our right against unreasonable searches and seizures, and safeguards have been put in place to ensure that people and their properties are searched only for the most compelling and lawful reasons.
+Section 2, Article III of the 1987 Constitution provides:
+Sec. 2. The right of the people to be secure in their persons, houses, papers and effects against unreasonable searches and seizures of whatever nature and for any purpose shall be inviolable, and no such search warrant or warrant of arrest shall issue except upon probable cause to be determined personally by the judge after examination under oath or affirmation of the complainant and the witnesses he may produce, and particularly describing the place to be searched and the persons or things to be seized.
+In furtherance of this constitutional provision, Sections 3 and 4, Rule 126 of the Rules of Court, amplify the rules regarding the following places and items to be searched under a search warrant:
+SEC. 3. 
+Personal property to be seized.
+âA search warrant may be issued for the search and seizure of personal property:
+a) Subject of the offense;
+b) Stolen or embezzled and other proceeds, or fruits of the offense; or
+c) Used or intended to be used as the means of committing an offense.
+SEC. 4. 
+Requisites for issuing search warrant.
+âA search warrant shall not issue except upon probable cause in connection with one specific offense to be determined personally by the judge after examination under oath or affirmation of the complainant and the witnesses he may produce, and particularly describing the place to be searched and the things to be seized which may be anywhere in the Philippines.
+Within the context of the above legal requirements for valid search warrants, the Court has been mindful of the difficulty faced by law enforcement officers in describing the items to be searched, especially when these items are technical in nature, and when the extent of the illegal operation is largely unknown to them. 
+Vallejo v. Court of Appeals
+[61]
+ ruled as follows:
+The things to be seized must be described with particularity. Technical precision of description is not required. It is only necessary that there be reasonable particularity and certainty as to the identity of the property to be searched for and seized, so that the warrant shall not be a mere roving commission. Indeed, the law does not require that the things to be seized must be described in precise and minute detail as to leave no room for doubt on the part of the searching authorities. If this were the rule, it would be virtually impossible for the applicants to obtain a warrant as they would not know exactly what kind of things to look for. 
+Any description of the place or thing to be searched that will enable the officer making the search with reasonable certainty to locate such place or thing is sufficient
+. (Emphasis supplied)
+Furthermore, the Court also had occasion to rule that the particularity of the description of the place to be searched and the things to be seized is required âwherever and whenever it is feasible.â
+[62]
+ A search warrant need not describe the items to be seized in precise and minute detail.
+[63]
+ The warrant is valid when it enables the police officers to readily identify the properties to be seized and leaves them with no discretion regarding the articles to be seized.
+[64]
+In this case, considering that items that looked like âinnocuous goodsâ were being used to pursue an illegal operation that amounts to theft, law enforcement officers would be hard put to secure a search warrant if they were required to pinpoint items with one hundred percent precision. In 
+People v. Veloso
+, we pronounced that â[t]he police should not be hindered in the performance of their duties, which are difficult enough of performance under the best of conditions, by superficial adherence to technicality or far-fetched judicial interference.â 
+[65]
+A search warrant fulfills the requirement of particularity in the description of the things to be seized when the things described are limited to those that bear a direct relation to the offense for which the warrant is being issued.
+[66]
+To our mind, PLDT was able to establish the connection between the items to be searched as identified in the warrants and the crime of theft of its telephone services and business. Prior to the application for the search warrants, Rivera conducted ocular inspection of the premises of petitioners and was then able to confirm that they had âutilized various telecommunications equipment consisting of computers, lines, cables, antennas, modems, or routers, multiplexers, PABX or switching equipment, and support equipment such as software, diskettes, tapes, manuals and other documentary records to support the illegal toll bypass operations.â
+[67]
+In 
+HPS Software and Communication Corp. v. PLDT
+,
+[68]
+ we upheld a similarly worded
+[69]
+ description of items to be seized by virtue of the search warrants, because these items had been sufficiently identified physically and shown to bear a relation to the offenses charged.
+WHEREFORE
+, the petitions are 
+DENIED
+. The Court of Appeals Decision dated 20 August 2003 and Resolution dated 27 November 2003 in CA-G.R. CR No. 26190 are 
+AFFIRMED
+.
+SO ORDERED.
+Leonardo-De Castro, Bersamin, Villarama, Jr.,
+ and 
+Reyes, JJ.
+ concur.
+[1]
+ 
+Rollo
+ (G.R. No. 161106), pp. 10-18. The Decision of the Court of Appeals Special Thirteenth Division in CA-G.R. CR No. 26190 was penned by Associate Justice Roberto A. Barrios with Associate Justices Rebecca de Guia-Salvador and Jose C. Mendoza (now a member of this Court) concurring.
+[2]
+ Id. at 20-21.
+[3]
+ Id. at 69-71.
+[4]
+ WWC is a domestic corporation that ceased business operations on 30 June 2002. It was an Internet service provider and a subscriber to the telephone services of respondent PLDT. Petitioner Cheryll L. Yu is a former director of WWC.
+[5]
+ Planet Internet is registered with the National Telecommunications Commission (NTC) as a Value-Added Service (VAS) provider. Section 3(h), Article I of Republic Act No. 7925 (Public Telecommunications Policy Act of the Philippines) defines a VAS provider as âan entity which, relying on the transmission, switching and local distribution facilities of the local exchange and inter-exchange operators, and overseas carriers, offers enhanced services beyond those ordinarily provided for by such carriers.â
+[6]
+ 
+Rollo
+ (G.R. No. 161106), p. 638; TSN, 25 September 2001, p. 6.
+[7]
+ An IGF âcomprises equipment which makes possible the interfacing or interconnection between (1) a domestic telecommunication system, like that of PLDT, and (2) the cables or other equipment for transmitting electronically messages from points within the Philippines to points outside the Philippines, as well as messages originating from points outside to points inside the Philippines.â (
+Philippine Long Distance Telephone Company v. National Telecommunications Commission
+, 311 Phil. 548, 558 (1995)).
+[8]
+ 
+Rollo
+ (G.R. No. 161106), pp. 87-92, Affidavit of Jose Enrico G. Rivera.
+[9]
+ Id. at 88-89.
+[10]
+ Id. at 72-86, Affidavit of Raymund D. Gali.
+[11]
+ Id. at 77.
+[12]
+ Id. at 90.
+[13]
+ P.D. 401, Sec. 1. 
+Any person who installs
+ any water, electrical, 
+telephone
+ or piped gas 
+connection without previous authority from
+ the Metropolitan Waterworks and Sewerage System, the Manila Electric Company, 
+the Philippine Long Distance Telephone Company
+, or the Manila Gas Corporation, as the case may be, 
+tampers and/or uses
+ tampered water, electrical or gas meters, jumpers or 
+other devices whereby
+ water, 
+electricity
+ or piped gas 
+is stolen
+; steals or pilfers water, electric or piped gas meters, or water, electric and/or telephone wires, or piped gas pipes or conduits; knowingly possesses stolen or pilfered water, electrical or gas meters as well as stolen or pilfered water, electrical and/or telephone wires, or piped gas pipes and conduits, shall, upon conviction, be punished with 
+prision correccional
+ in its minimum period or a fine ranging from two thousand to six thousand pesos, or both. (Underscoring supplied.)
+[14]
+ 
+Rollo
+ (G.R. No. 161106), pp. 654-661; TSN, 25 September 2001, pp. 22-29.
+[15]
+ Id. at 666-669.
+[16]
+ 
+Rollo
+ (G.R. No. 161266), pp. 326-333.
+[17]
+ Id. at 336-340.
+[18]
+ Id. at 343-347.
+[19]
+ Id. at 350-359, Inventory Receipt.
+[20]
+ Id. at 8, p. 6, Petition for Review on Certiorari dated 22 December 2003 filed by Planet Internet.
+[21]
+ 
+Rollo
+ (G.R. No.161106), pp. 97-111, Motion to Quash and to Release Seized Articles and Documents (Re: Search Warrant No. Q-01-3856) dated 2 October 2001.
+[22]
+ 
+Rollo
+ (G.R. No. 161266), pp. 360-363, Motion to Quash dated 17 October 2001.
+[23]
+ Id. at 364-393, dated 29 October 2001.
+[24]
+ Id. at 5-6, pp. 3-4, Petition for Review on 
+Certiorari
+ dated 22 December 2003 filed by Planet Internet.
+[25]
+ Id. at 421-429, Resolutions dated 13 November 2001.  The pertinent portion of the Resolutions reads:
+While it may be true that during the application for search warrant on September 25, 2001, in view of the technical nature of the crime alleged to be committed, the Court ordered for these things to be seized, the Court now admits it was precipitate in doing so.
+A perusal of the items that were ordered seized by the Court reveals that they partake of a general warrant so much so that they can likewise be used by the respondents in their legitimate business. Thus, the effect of such issuance would literally place the herein respondents out of business.
+[26]
+ 
+Rollo
+ (G.R. No.161106), pp. 158-166, Motion for Reconsideration dated 16 November 2001.
+[27]
+ Id. at 175, Resolution dated 14 December 2001.
+[28]
+ Id. at 10-18, Decision of the CA Special Thirteenth Division in CA-G.R. CR No. 26190 dated 20 August 2003. In concluding that the assailed warrants were not general warrants, the CA reasoned:
+Unlike in the cases cited by the appellees, the search warrants did not sanction indiscriminately the taking of things regardless of whether the transactions for which these were used were legal or illegal. The articles targeted have a direct relation to the criminal offense imputed and of which the applicant had adduced evidence, other than the articles themselves, sufficient to prove the charge.
+The description of the objects to be searched and seized need not be of tight specificity and unerring accuracy. 
+A search warrant may be said to particularly describe the things to be seized when the description therein is as specific as the circumstances will ordinarily allow (People vs. Rubio, 57 Phil. 384), or when the things described are limited to those which bear direct relation to the offense for which the warrant is being issued. 
+(Bache & Co. vs. Ruiz, 37 SCRA 823).
+Where, by the nature of the goods to be seized, their description must be rather general, it is not required that a technical description be given, as this would mean that no warrant could issue.
+ (Uy vs. Unfish Paking [sic] Corp. vs. BIR, G.R. No. 129651, Oct. 20, 2000). Taking into consideration the nature of the articles so described, it is clear that no other more adequate and detailed description could have been given. (Italics in the original)
+[29]
+ CA 
+rollo
+, pp. 450-480.
+[30]
+ 
+Rollo
+ (G.R. No. 161266), pp. 28-29, Resolution of the CA Former Special Thirteenth Division in CA-G.R. CR No. 26190 dated 27 November 2003.
+[31]
+ 
+Rollo
+ (G.R. No. 161106), pp. 23-51.
+[32]
+ 
+Rollo
+ (G.R. No. 161266), pp. 3-18.
+[33]
+ Id. at 62-63, Resolution dated 4 February 2004.
+[34]
+ RULES OF COURT, Rule 126, Sec. 2.
+[35]
+ G.R. No. 104879, 6 May 1994, 232 SCRA 249.
+[36]
+ Id. at 256-257.
+[37]
+ 
+Washington Distillers, Inc. v. Court of Appeals
+, 329 Phil. 650 (1996); 
+Columbia Pictures, Inc. v. Flores
+, G.R. No. 78631, 29 June 1993, 223 SCRA 761; 
+20th Century Fox Films Corp. v. Court of Appeals,
+ 247 Phil. 624 (1988); 
+La Chemise Lacoste, SA v. Fernandez, 
+214 Phil. 332 (1984).
+[38]
+ 200 Phil. 137 (1982).
+[39]
+ Id. at 142-143.
+[40]
+ 
+Malaloan v. Court of Appeals
+, supra.
+[41]
+ 
+Marcelo v. de Guzman
+, supra at 143.
+[42]
+ 
+Microsoft Corporation v. Maxicorp, Inc.
+, 481 Phil. 550, 565 (2004).
+[43]
+ 
+Columbia Pictures, Inc. v. Court of Appeals
+, 329 Phil. 875 (1996).
+[44]
+ 
+Manly Sportwear Manufacturing, Inc. v. Dadodette Enterprises
+, 507 Phil. 375 (2005).
+[45]
+ 
+Santos v. Pryce Gases, Inc.,
+ G.R. No. 165122, 23 November 2007, 538 SCRA 474, 484.
+[46]
+ 
+People v. Tee,
+ 443 Phil. 521, 539-540 (2003).
+[47]
+ 
+Rollo
+ (G.R. No. 161106), p. 599, p. 22, Comment (to Planet Internetâs Petition) by PLDT.
+[48]
+ 
+People v. Avecilla,
+ G.R. No. 46370, 2 June 1992, 209 SCRA 466.
+[49]
+ G.R. No. 155076, 13 January 2009, 576 SCRA 41, 56-57.
+[50]
+ Id. at 51.
+[51]
+ As defined, while ISR involves the direct connection to the local or domestic exchange facilities of the destination country, toll bypass involves the direct connection to the local or domestic exchange facilities of the originating country. In both instances, the international calls completed were made to appear as having originated and at the same time destined to an area within the Philippines. Hence, it is regarded and charged as a local or domestic call.
+[52]
+ 
+Abuan v. People
+, 536 Phil. 672, 700-701 (2006).
+[53]
+ Id.
+[54]
+ Id.
+[55]
+ 
+Rollo
+ (G.R. No. 161266), p. 36.
+[56]
+ Bache and Co., (Phil.) Inc. v. Ruiz, 147 Phil. 794 (1971).
+[57]
+ 365 Phil. 54 (1994).
+[58]
+ 
+Rollo
+ (G.R. No. 161106), pp. 303-336.
+[59]
+ Blackâs Law Dictionary, âwarrant,â p. 1585.
+[60]
+ 
+Vallejo v. Court of Appeals
+, G.R. No. 156413, 14 April 2004, 427 SCRA 658.
+[61]
+ Id. at 670.
+[62]
+ 
+People v. Veloso
+, 48 Phil. 169 (1925).
+[63]
+ Hon Ne Chan v. Honda Motor Co., Ltd.
+, 565 Phil. 545, 557 (2007).
+[64]
+ Id.
+[65]
+ 
+People v. Veloso
+, supra, at 182.
+[66]
+ 
+Bache and Co., (Phil.) Inc. v. Ruiz
+, supra note 56.
+[67]
+ 
+Rollo
+ (G.R. No. 161106), p. 648-649.
+[68]
+ G.R. Nos. 170217 and 170694, 10 December 2012, 687 SCRA 426.
+[69]
+ The description in the search warrants reads:
+a) LINES, CABLES AND ANTENNAS or equipment or device capable of transmitting air waves or frequency, such as an IPL and telephone lines and equipment;
+b) COMPUTERS or any equipment or device capable of accepting information applying the prescribed process of the information and supplying the result of this processes;
+c) MODEMS or any equipment or device that enables data terminal equipment such as computers to communicate with each other data-terminal equipment via a telephone line;
+d) MULTIPLEXERS or any equipment or device that enables two or more signals from different sources to pass through a common cable or transmission line;
+e) SWITCHING EQUIPMENT or equipment or device capable of connecting telephone lines;
+f) SOFTWARE, DISKETTES, TAPES, OR EQUIPMENT, or device used for recording or storing information; and
+g) Manuals, phone cards, access codes, billing statement, receipts, contracts, checks, orders, communications, and documents, lease and/or subscription agreements or contracts, communications and documents pertaining to securing and using telephone lines and or equipment in relation to Mr. Yap/HPSâ ISR Operations.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

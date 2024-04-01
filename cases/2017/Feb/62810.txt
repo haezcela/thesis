@@ -1,0 +1,618 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			806 Phil. 156
+			
+
+
+
+
+EN BANC
+
+
+[ G.R. No. 173399, February 21, 2017 ]
+
+
+CENTRAL BANK BOARD OF LIQUIDATORS, PETITIONER, VS. BANCO FILIPINO SAVINGS AND MORTGAGE BANK, RESPONDENT.
+
+D E C I S I O N
+
+
+
+
+SERENO, C.J.:
+
+
+Our ruling in this case is confined to the resolution of procedural issues pertaining to the propriety of the admission of a Second Amended/Supplemental Complaint. The latter sought to hold the Bangko Sentral ng Pilipinas (BSP) and its Monetary Board (MB) liable for causes of action that arose almost 10 years after the original Complaint was filed against the now defunct Central Bank of the Philippines (CB). 
+ THE CASE 
+ 
+ The Petition for Review on Certiorari
+[1]
+ under Rule 45 of the 1997 Revised Rules of Civil Procedure now before us was filed by the Central Bank Board of Liquidators (CB-BOL). It seeks to annul the Decision
+[2]
+ of the Court of Appeals (CA), which affirmed the Orders
+[3]
+ of the Regional Trial Court, National Capital Judicial Region, Makati City-Branch 136 (RTC). 
+ The assailed CA Decision affirmed the ruling of the RTC in consolidated Civil Case Nos. 8108, 9675, and 10183, which had admitted the Second Amended/Supplemental Complaint filed by respondent Banco Filipino Savings and Mortgage Bank (Banco Filipino, or respondent).
+[4]
+ The CB-BOL alleges that by admitting the complaint, the RTC erroneously included the BSP and its MB as new parties to the consolidated civil cases and raised new causes of action not alleged in the original Complaint.
+[5]
+ 
+ THE FACTS 
+ 
+ The following are the pertinent facts of the case as gathered from its records.
+[6]
+ 
+ On 14 February 1963, the MB of the then CB issued MB Resolution No. 223 allowing respondent Banco Filipino to operate as a savings bank. Respondent began formal operations on 9 July 1964.
+[7]
+ 
+ However, on 27 July 1984, the CB issued MB Resolution No. 955 placing Banco Filipino under conservatorship after granting the latter's loan applications worth billions of pesos.
+[8]
+ Respondent bank filed with the RTC Makati a Complaint against the CB for the annulment of MB Resolution No. 955.
+[9]
+ The case was docketed as Civil Case No. 8108 and raffled to Judge Ricardo Francisco of Branch 136.
+[10]
+ 
+ Thereafter, on 25 January 1985, the CB issued MB Resolution No. 75 ordering the closure of Banco Filipino and placing the latter under receivership. The Resolution stated that since respondent had been found to be insolvent, the latter was forbidden to continue doing business to prevent further losses to its depositors and creditors. The Resolution further provided for the takeover of the assets and liabilities of Banco Filipino for the benefit of its depositors and creditors, as well as for the termination of its conservatorship.
+[11]
+ On 2 February 1985, Banco Filipino filed a Complaint with the RTC Makati against the MB, assailing the latter's act of placing the bank under receivership.
+[12]
+ The case was docketed as Civil Case No. 9675 and raffled to Judge Zoilo Aguinaldo of Branch 143.
+[13]
+ Because of its impending closure,
+[14]
+ Banco Filipino filed with the CA a Petition for 
+Certiorari
+ and 
+Mandamus
+ on 28 February 1985, seeking the annulment of MB Resolution No. 75 on the ground of grave abuse of discretion in the issuance of the Resolution.
+[15]
+ The Petition eventually reached the Supreme Court, where it was docketed as G.R. No. 70054. 
+ On 22 March 1985, the CB issued another Resolution placing Banco Filipino under liquidation. Respondent then filed another Complaint with the RTC Makati to question the propriety of the liquidation.
+[16]
+ The case was docketed as Civil Case No. 10183 and raffled to Judge Fernando Agdamag of Branch 138.
+[17]
+ 
+ Meanwhile, this Court in G.R. No. 70054 promulgated on 29 August 1985 a Resolution directing, among others, the consolidation in Branch 136 of the RTC Makati of the following cases: (1) Civil Case No. 8108, the case for the annulment of the conservatorship order; (2) Civil Case No. 9675, the case seeking to annul the receivership order; and (3) Civil Case No. 10183, the case seeking to annul the order for the liquidation of the bank.
+[18]
+ 
+ On 11 December 1991, this Court, in an 
+En Banc 
+Decision penned by Associate Justice Leo D. Medialdea, nullified MB Resolution No. 75 and ordered the CB and its MB to reorganize the bank and allow it to resume business.
+[19]
+ 
+ On 6 July 1993, during the pendency of the three consolidated cases, Republic Act (R.A.) No. 7653, or the New Central Bank Act of 1993, took effect. Under the new law, the CB was abolished and, in its stead, the BSP was created. The new law also created the CB-BOL for the purpose of administering and liquidating the CB's assets and liabilities,
+[20]
+ not all of which had been transferred to the BSP.
+[21]
+ 
+ Pursuant to the Decision of this Court in G.R. No. 70054, the BSP reopened Banco Filipino and allowed it to resume business on 1 July 1994.
+[22]
+ 
+ On 29 May 1995, pursuant to the recent development, Banco Filipino filed a Motion to Admit Attached Amended/Supplemental Complaint
+[23]
+ in the three consolidated cases â Civil Case Nos. 8108, 9675, and 10183 âbefore the RTC. In its Amended/Supplemental Complaint, respondent bank sought to substitute the CB-BOL for the defunct CB and its MB. Respondent also aimed to recover at least P18 billion in actual damages, litigation expenses, attorney's fees, interests, and costs of suit against petitioner and individuals who had allegedly acted with malice and evident bad faith m placing the bank under conservatorship and eventually closing it down in 1985.
+[24]
+ The trial court, through an Order dated 29 March 1996, granted the Motion to Admit filed by Banco Filipino and accordingly admitted the latter's Amended/Supplemental Complaint. Consequently, the CB-BOL was substituted for the defunct CB in respondent's civil cases, which are still pending with the RTC.
+[25]
+ On 25 September 2003, or more than 10 years from the enactment of R.A. 7653, Banco Filipino again filed a Motion to Admit Second Amended/Supplemental Complaint
+[26]
+ in the consolidated civil cases before the RTC. In that Second Amended/Supplemental Comp1aint,
+[27]
+ respondent sought to include the BSP and its MB â "the purported successor-in-interest of the old CB"
+[28]
+ â as additional defendants based on the latter's alleged acts or omissions as follows: 
+ The BSP and the MB refused to grant Banco Filipino a universal banking license, unless it complied with their stringent conditions intended to further deplete its resources, contrary to the provisions of the Memorandum of Agreement the parties entered into on 20 December 1999.
+[29]
+ 
+ The BSP and the MB engaged in a smear campaign against Banco Filipino intended to undermine the trust and confidence of its depositors and the public in general.
+[30]
+ 
+ With the objective of gaining control of respondent bank, the BSP disqualified a member of the former's board of directors.
+[31]
+ 
+ The BSP and its MB conspired with a group of minority stockholders of Banco Filipino to institute a case against respondent and thereby place it under a state of receivership or conservatorship or under a management committee.
+[32]
+ 
+ The demands of Banco Filipino for an out-of-court settlement of its damage claims against the BSP have gone unheeded and have resulted in burgeoning litigation expenses and other damages, for which respondent continues to suffer as a result of prolonged litigation.
+[33]
+ 
+ 
+ Banco Filipino claimed that the BSP employed "coercive measures"
+[34]
+ that forced respondent to enter into a Memorandum of Agreement (MOA) regarding the collection of advances extended to the latter by the defunct CB. In addition, respondent also alleged that its present dealings with the BSP and the MB have become increasingly difficult, especially in obtaining favorable actions on its requests and other official dealings.
+[35]
+ 
+ Banco Filipino's Motion to Admit its Second Amended/Supplemental Complaint was opposed by the CB-BOL based on the following grounds: 
+ Banco Filipino's Second Amended/Supplemental Complaint was not supported by a board resolution that authorized it to file the amended or supplemental complaint. 
+ The second supplemental complaint raised new and independent causes of action against a new party - the BSP - which was not an original party. 
+ The second supplemental complaint was violative of the rule on the joinder of causes of action, because it alleged those that did not arise from the same contract, transaction or relation between the parties - as opposed to those alleged in the complaint sought to be amended or supplemented - and differed from the causes of action cited in the original Complaint. 
+ The admission of the second supplemental complaint would expand the scope of the dispute in the consolidated civil cases to include new causes of action against new parties like the BSP, resulting in a delay in the resolution of the cases.
+[36]
+ 
+ 
+ On 27 January 2004, the RTC, through an Order penned by Presiding Judge Rebecca R. Mariano, granted the Motion to Admit Banco Filipino's Second Amended/Supplemental Complaint.
+[37]
+ The CB-BOL moved for the reconsideration of the trial court's Order,
+[38]
+ but the motion was denied in an Order dated 20 July 2004.
+[39]
+ 
+ On 1 October 2004, petitioner CB-BOL filed with the CA a Petition for
+ Certiorari 
+under Rule 65, docketed as CA-G.R. SP No. 86697.
+[40]
+ It questioned the propriety of the RTC's Order admitting Banco Filipino's Second Amended/Supplemental Complaint and committing grave abuse of discretion in the process. Reiterating the grounds stated in its Opposition to the Motion to Admit the Second Amended/Supplemental Complaint, petitioner contended that the complaint consisted of, among others, an improper joinder of parties and other issues that were entirely different from those raised in the original complaint.
+[41]
+ 
+ On 27 January 2006, the CA dismissed the CB-BOL's Petition and affirmed 
+in toto
+ the trial court's Order admitting the Second Amended/Supplemental Complaint.
+[42]
+ 
+ The appellate court ruled that the old CB continued to exist and remained a defendant in the consolidated civil cases,
+ albeit 
+under a new name: CB-BOL. 
+It also ruled that, pursuant to R.A. 7653, the BSP was the successorÂ­ in-interest of the old CB. Further, with the transfer of assets from the CB to the BSP during the pendency of the subject civil cases, the latter now became a transferee
+ pendente lite.
+ Therefore, the CA concluded that there were no new parties impleaded in the civil cases when the Second Amended/Supplemental Complaint was admitted by the trial court.
+[43]
+ 
+ The CA further sustained the RTC's ruling that respondent Banco Filipino did not raise new issues against petitioner CB-BOL or seek new reliefs or claim new damages from the latter. Supposedly, respondent merely sought the addition of the BSP and its MB as parties-defendants in the consolidated civil case, as they were the successors-in-interest of the defunct CB and its MB.
+[44]
+ 
+ The assailed CA Decision also attributed to the CB-BOL the apparent delay in the resolution of the current dispute, based on the number of 
+certiorari
+ cases the latter had filed with the CA and the Supreme Court since the commencement of those cases.
+[45]
+ 
+ On 16 February 2006, petitioner filed a Motion for Reconsideration seeking the reversal of the Decision dated 27 January 2006 in CA-G.R. SP No. 86697.
+[46]
+ On 27 June 2006, the CA denied the Motion after finding no "plausible reason" to depart from its assailed Decision.
+[47]
+ 
+ Petitioner CB-BOL now comes to this Court via a Petition for Review on 
+Certiorari
+. It assails the Decision of the appellate court in CA-G.R. SP No. 86697, which affirmed
+ in toto
+ the trial court's Order admitting the Second Amended/Supplemental Complaint of Banco Filipino. Specifically, petitioner raises the following arguments:
+[48]
+ 
+ 
+ I.
+ 
+ THE COURT OF APPEALS ERRED IN AFFIRMING THE TRIAL COURT'S ORDER ADMITTING RESPONDENT'S SECOND AMENDED/SUPPLEMENTAL COMPLAINT AGAINST THE BSP, DESPITE THE FACT THAT THE PARTIES, SUBJECT MATTER AND CAUSES OF ACTION ASSERTED THEREIN ARE DIFFERENT FROM AND TOTALLY UNRELATED TO RESPONDENT'S CAUSES OF ACTION UNDER THE FIRST AMENDED SUPPLEMENTAL COMPLAINT AGAINST THE DEFUNCT CB. 
+ 
+ 
+ xxxx 
+ 
+ II.
+ 
+ THE COURT OF APPEALS ERRED IN REDUCING THE ADMISSION OF THE SECOND AMENDED/SUPPLEMENTAL COMPLAINT TO THE MERE AMENDMENT OF A PLEADING "TO SUBSTITUTE OR JOIN A TRANSFEREE
+ PENDENTE LITE
+" UNDER SEC. 19, RULE 3 OF THE REVISED RULES OF COURT x x x. 
+ 
+ 
+ xxxx 
+ 
+ III. 
+ 
+THE COURT OF APPEALS ERRED IN UPHOLDING THE TRIAL COURT'S RULING THAT THE OLD CB CONTINUES TO EXIST AS PETITIONER CB-BOL. PETITIONER IS A SEPARATE, DISTINCT AND INDEPENDENT ENTITY FROM THE DEFUNCT CB WHICH HAS BEEN ABOLISHED UPON THE ENACTMENT OF THE NEW CENTRAL BANK ACT. 
+ 
+ IV. 
+ 
+PETITIONER'S PLEA AGAINST THE ADMISSION OF RESPONDENT'S SECOND AMENDED/SUPPLEMENTAL COMPLAINT IS NOT A DILATORY TACTIC OR A MERE RESORT TO TECHNICALITY; RATHER, IT IS AN EARNEST APPEAL FOR PETITIONER TO BE FREE FROM A USELESS AND WASTEFUL LEGAL CONTEST WHICH SHOULD BE THE SUBJECT OF A SEPARATE CASE SOLELY BETWEEN THE RESPONDENT AND THE BSP. IT IS A PLEA BY PETITIONER TO SECURE A JUST, SPEEDY AND INEXPENSIVE DETERMINATION OF RESPONDENT'S CASE AGAINST IT FOR ACTS SUPPOSEDLY PERPETRATED BY THE OLD CB IN 1984-1985 FOR WHICH IT JS SUPPOSEDLY THE SUCCESSOR-IN-INTEREST. 
+ 
+ 
+ THE ISSUE 
+ 
+ The crucial issue to be resolved here is whether the RTC erred in admitting Banco Filipino's Second Amended/Supplemental Complaint in the consolidated civil cases before it. 
+ OUR RULING 
+ 
+ The Petition of the CB-BOL is impressed with merit. 
+ 
+ It must be noted at this point that the BSP and its MB are not yet required to answer the RTC Complaint, as the issue of their addition as parties is yet to be settled. Nevertheless, whether or not the BSP and its MB are transferees or successors-in-interest of the CB and its MB, the former's addition or substitution as parties to this case must comply with the correct procedure and form prescribed by law. 
+ 
+The second amendment of the 
+ Complaint was improper.
+ 
+ Rule 10 of the 1997 Revised Rules of Court allows the parties to amend their pleadings (a) by adding or striking out an allegation or a party's name; or (b) by correcting a mistake in the name of a party or rectifying a mistaken or an inadequate allegation or description in the pleadings for the purpose of determining the actual merits of the controversy in the most inexpensive and expeditious manner.
+[49]
+ 
+ The prevailing rule on the amendment of pleadings is one of liberality,
+[50]
+ with the end of obtaining substantial justice for the parties. However, the option of a party-litigant to amend a pleading is not without limitation. If the purpose is to set up a cause of action not existing at the time of the filing of the complaint, amendment is not allowed. If no right existed at the time the action was commenced, the suit cannot be maintained, even if the right of action may have accrued thereafter.
+[51]
+ 
+ In the instant case, the causes of action subject of the Second Amended/Supplemental Complaint only arose in 1994 well after those subject of the original Complaint. The original Complaint was based on the alleged illegal closure of Banco Filipino effected in 1985 by the defunct CB and its MB. 
+ On the other hand, the Second Amended/Supplemental Complaint stemmed from the alleged oppressive and arbitrary acts committed by the BSP and its MB against Banco Filipino after respondent bank was reopened in 1994. Since the acts or omissions allegedly committed in violation of respondent's rights are different, they constitute separate causes of action.
+[52]
+ 
+ In its Comment
+[53]
+ on the present Petition, Banco Filipino contends, as the RTC and the CA similarly ruled, that the Second Amended/Supplemental Complaint does not alter the substance of the original demand, change the cause of action against the original defendants, or seek additional or new reliefs.
+[54]
+ Rather, respondent contends that the only change sought is the addition of the BSP and its MB as parties-defendants. Respondent further argues that what petitioner erroneously views as new causes of action are merely demonstrations to show that the BSP has come to adopt the same repressive and oppressive attitude of the latter's alleged predecessor-in-interest. 
+[55]
+ 
+ This contention is, however, belied by a closer examination of the Second Amended/Supplemental Complaint, in which respondent asks the Court to order the defendants to pay, among others, actual damages of at least P18.8 billion "as a consequence of the acts herein complained of."
+[56]
+ 
+ The "acts complained of"' cover not just the conservatorship, receivership, closure, and liquidation of Banco Filipino in 1984 and 1985, but also the alleged acts of harassment committed by the BSP and its MB after respondent bank was reopened in 1994. These acts constituted a whole new cause of action. In effect, respondent raised new causes of action and asserted a new relief in the Second Amended/Supplemental Complaint. If it is admitted, the RTC would need to look into the propriety of two entirely different causes of action. This is not countenanced by law, as explained in the preceding paragraphs. 
+ The second supplemental pleading
+ was improper. 
+ 
+ Rule 10 of the 1997 Revised Rules of Court allows the parties to supplement their pleadings by setting forth transactions, occurrences, or events that happened since the date of the pleading sought to be supplemented.
+[57]
+ 
+ However, the option of a party-litigant to supplement a pleading is not without limitation. A supplemental pleading only serves to bolster or add something to the primary pleading. Its usual function is to set up new facts that justify, enlarge, or change the kind of relief sought with respect to the same subject matter as that of the original complaint.
+[58]
+ 
+ This Court ruled in 
+Leobrera v. CA
+[59]
+ that a supplemental complaint must be founded on the same cause of action as that raised in the original complaint. Although in 
+Planters Development Bank v. LZK Holdings & Development Corporation
+,
+[60]
+ the Court clarified that the fact that a supplemental pleading technically states a new cause of action should not be a bar to its allowance, still, the matter stated in the supplemental complaint must have a relation to the cause of action set forth in the original pleading. That is, the matter must be germane and intertwined with the cause of action stated in the original complaint so that the principal and core issues raised by the parties in their original pleadings remain the same.
+[61]
+ 
+ In the instant case, Banco Filipino, through the Second Amended/Supplemental Complaint, attempted to raise new and different causes of action that arose only in 1994. These causes of action had no relation whatsoever to the causes of action in the original Complaint, as they involved different acts or omissions, transactions, and parties. If the Court admits the Second Amended/Supplemental Complaint under these circumstances, there will be no end to the process of amending the Complaint. What indeed would prevent respondent from seeking further amendments by alleging acts that may be committed in the future? 
+ For these reasons, whether viewed as an amendment or a supplement to the original Complaint, the Second Amended/Supplemental Complaint should not have been admitted. 
+ The amendment/supplement violates 
+ the rules on joinder of parties and 
+ causes of action. 
+ 
+ Moreover, the admission of the Second Amended/Supplemental Complaint is inappropriate because it violates the rule on joinder of parties and causes of action. If its admission is upheld, the causes of action set forth therein would be joined with those in the original Complaint. The joinder of causes of action is indeed allowed under Section 5, Rule 2 of the 1997 Rules of Court;
+[62]
+ but if there are multiple parties, the joinder is made subject to the rules on joinder of parties under Section 6, Rule 3.
+[63]
+ Specifically, before causes of action and parties can be joined in a complaint involving multiple parties, (1) the right to relief must arise out of the same transaction or series of transactions and (2) there must be a question of law or fact common to all the parties.
+[64]
+ 
+ In the instant case, Banco Filipino is seeking to join the BSP and its MB as parties to the complaint. However, they have different legal personalities from those of the defunct CB and its MB: firstly, because the CB was abolished by R.A. 7653, and the BSP created in its stead; and secondly, because the members of each MB are natural persons. These factors make the BSP and its MB different from the CB and its MB. Since there are multiple parties involved, the two requirements mentioned in the previous paragraph must be present before the causes of action and parties can be joined. Neither of the two requirements for the joinder of causes of action and parties was met. 
+ First, the reliefs for damages prayed for by respondent did not arise from the same transaction or series of transactions. While the damages prayed for in the first Amended/Supplemental Complaint arose from the closure of Banco Filipino by the defunct CB and its MB, the damages prayed for in the Second Amended/Supplemental Complaint arose from the alleged acts of oppression committed by the BSP and its MB against respondent. 
+ Second, there is no common question of fact or law between the parties involved. The acts attributed by Banco Filipino to the BSP and its MB pertain to events that transpired after this Court ordered the respondent bank's reopening in 1994. These acts bear no relation to those alleged in the original Complaint, which related to the propriety of the closure and liquidation of respondent as a banking institution way back in 1985. 
+ The only common factor in all these allegations is respondent bank itself as the alleged aggrieved party. Since the BSP and its MB cannot be joined as parties, then neither can the causes of action against them be joined. 
+ 
+This ruling is confined to 
+ procedural issues.
+ 
+ As mentioned at the outset, the Court will confine its ruling on this Petition to procedural issues pertaining to the propriety of the admission of the Second Amended/Supplemental Complaint. We will not address the issues raised by petitioner with regard the findings of the trial and the appellate court that the BSP is the successor-in-interest of the defunct CB
+[65]
+ and is considered a transferee 
+pendente lite
+[66]
+ in the civil cases. These findings relate to the BSP's potential liability for the causes of action alleged in the original Complaint. At issue here is Banco Filipino's attempt, through the Second Amended/Supplemental Complaint, to hold the BSP and its MB liable for causes of action that arose in 1994. Respondent is not without any relief. If the RTC finds that the BSP was indeed a transferee
+ pendente lite
+, the failure to implead it would not prevent the trial court from holding the BSP liable, should liability now attach for acts alleged in the original Complaint.
+[67]
+ 
+ 
+WHEREFORE
+, the Petition of the CB-BOL is 
+GRANTED
+, and the Decision of the Court of Appeals dated 27 January 2006 and Resolution dated 27 June 2006 in 
+CA-G.R. SP No. 86697 
+are hereby 
+REVERSED
+ and 
+SET ASIDE
+. 
+ The RTC National Capital Judicial Region, Makati City, Branch 136 is hereby 
+DIRECTED
+ to proceed with the trial of this case with utmost dispatch. 
+ SO ORDERED. 
+ 
+ 
+Sereno, C.J., Velasco, Jr., Leonardo-De Castro, Bersamin, Del Castillo, Mendoza, Perlas-Bernabe, Leonen, Jardeleza, 
+and 
+Caguioa, JJ.
+, concur. 
+ Carpio 
+and 
+Peralta, JJ
+., no part. 
+ Reyes, J.
+, on official leave.
+ 
+ 
+ NOTICE OF JUDGMENT
+ 
+ Sirs/Mesdames: 
+ Please take notice that on 
+ February 21, 2017
+ a 
+Decision
+/Resolution, copy attached herewith, was rendered by the Supreme Court in the above-entitled case, the original of which was received by this Office on March 9, 2017 at 1:15 p.m. 
+ 
+ 
+ 
+ 
+Very truly yours,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(SGD.) FELIPA G. BORLONGAN-ANAMA
+ Clerk of Court 
+ 
+ 
+ 
+ 
+ 
+ 
+[1]
+ 
+Rollo.
+ Vol. I, pp. 3-55. 
+ 
+[2]
+ Id. at 63-72; the Court of Appeals Decision dated 27 January 2006 in CA-G.R. SP No. 86697 was penned by Associate Justice Josefina Guevara-Salonga and concurred in by Associate Justices Fernanda Lampas Peralta and Sesinando E. Villon. 
+ 
+[3]
+ Id. at 374-383, 405-408; the Orders dated 27 January 2004 and 20 July 2004 were penned by Judge Rebecca R. Mariano, Presiding Judge of the Regional Trial Court-Branch 136 (Makati City).
+ 
+ 
+[4]
+ Id. at 63. 
+ 
+[5]
+ Id. at 21. 
+ 
+[6]
+ G.R. No. 70054, 11 December 1991, 204 SCRA 767.
+ 
+ 
+[7]
+ 
+Rollo
+, p. 6.
+ 
+ 
+[8]
+ Id.
+ 
+ 
+[9]
+ Id. at 64.
+ 
+ 
+[10]
+ Records, Vol. I, p. 1.
+ 
+ 
+[11]
+ Id. at 65. 
+ 
+[12]
+ Id. at 9. 
+ 
+[13]
+ Records, Vol. IV, p. 1955.
+ 
+ 
+[14]
+ CA 
+rollo,
+ p. 246.
+ 
+ 
+[15]
+ 
+Rollo
+, p. 9. 
+ 
+[16]
+ Id. at 65. 
+ 
+[17]
+ Records, Vol. VII, p. 286 I.
+ 
+ 
+[18]
+ 
+Rollo
+, p. 10. 
+ 
+[19]
+ Id. at 65. 
+ 
+[20]
+ R.A. 7653, Sec. 132: 
+Transfer of Assets and Liabilities.
+ â Upon the effectivity of this Act, three (3) members of the Monetary Board, which may include the Governor, in representation of the Bangko Sentral, the Secretary of Finance and the Secretary of Budget and Management in representation of the National Government, and the Chairmen of the Committees on Banks of the Senate and the House of constitution of the Monetary Board submitting a comprehensive report with all its findings and justification.
+ 
+ 
+ xxxx
+ 
+ (e) any asset or liability of the Central Bank not transferred to the 
+Bangko Sentral
+ shall be retained and administered, disposed of and liquidated by the Central Bank itself which shall continue to exist as the CB Board of Liquidators only for the purposes provided in this paragraph but not later than twenty-five (25) years or until such time that liabilities have been liquidated: 
+Provided
+, That the 
+Bangko Sentral 
+may financially assist the Central Bank Board of Liquidators in the liquidation of CB liabilities:
+ Provided, finally
+, That upon disposition of said retained assets and liquidation of said retained liabilities, the Central Bank shall be deemed abolished. 
+ 
+ 
+ 
+[21]
+ 
+Rollo
+, p. 14. 
+[22]
+ Id. 
+[23]
+ Id. at 75-211. 
+ 
+[24]
+ Id. 
+[25]
+ Id. at 15. 
+[26]
+ Id. at 213-216. 
+[27]
+ Id. at 219-356. 
+ 
+[28]
+ Id. at 16. 
+[29]
+ Id. at 348. 
+[30]
+ Id. at 349. 
+[31]
+ Id. at 350. 
+[32]
+ Id. at 351. 
+ 
+[33]
+ Id. at 352. 
+[34]
+ Id. at 16. 
+ 
+[35]
+ Id. 
+[36]
+ Id. at 17-18. 
+ 
+[37]
+ Id. at 374-383. 
+ 
+[38]
+ Id. at 384-404. 
+[39]
+ Id. at 405-408. 
+[40]
+ Id. at 409-449. 
+ 
+[41]
+ Id. at 415-419. 
+ 
+[42]
+ Id. at 63-72. 
+[43]
+ Id. at 70. 
+[44]
+ Id. at 71. 
+[45]
+ Id. at 72. 
+ 
+[46]
+ Id. at 501-549. 
+ 
+[47]
+ Id. at 74. 
+ 
+[48]
+ Id. at 21-24. 
+ 
+[49]
+ 1997 RULES OF COURT, Rule 10, SECTION 1. 
+Amendments in general.
+ - Pleadings may be amended by adding or striking out an allegation or the name of any party, or by correcting a mistake in the name of a party or a mistaken or inadequate allegation or description in any other respect, so that the actual merits of the controversy may speedily be determined, without regard to technicalities, and in the most expeditious and inexpensive manner. 
+ 
+[50]
+ 
+Tiu v. Philippine Bank of Communications
+, G.R. No. 151932, 19 August 2009, 596 SCRA 432. 
+ 
+[51]
+ OSCAR M. HERRERA, REMEDIAL LAW Vol. I, 833-834 (2007), citing
+ Limpangco v. Mercado
+, 10 Phil. 508 (1908). 
+[52]
+ Id.; Rules of Court, Rule 2: Section 2. 
+Cause of action, defined
+.â A cause of action is the act or omission by which a party violates a right of another. 
+Section 3. 
+One suit for a single cause of action
+. â A party may not institute more than one suit for a single cause of action. 
+ 
+[53]
+ Rollo
+, pp. 601-636. 
+ 
+[54]
+ Id. at 617. 
+[55]
+ Id. at 633. 
+ 
+[56]
+ Id. at 352. 
+[57]
+ Rule 10, SECTION 6. 
+[58]
+ 
+Planters Development Bank v. LZK Holdings & Development Corp
+., 496 Phil. 263 (2005). 
+ 
+[59]
+ G.R. No. 80001, 27 February 1989, 170 SCRA 711. 
+[60]
+ Supra note 58, citing 
+Smith v. Biggs Boiler Works Co
+., 34 ALR 2d. 1125 (1952). 
+ 
+[61]
+ Id. 
+[62]
+ 1997 RULES OF COURT: Rule 2, Section 5. 
+Joinder of causes of action
+. â A party may in one pleading assert, in the alternative or otherwise, as many causes of action as he may have against an opposing patty, subject to the following conditions: 
+ 
+ (a) The party joining the causes of action shall comply with the rules on joinder of parties; 
+ (b) The joinder shall not include special civil actions or actions governed by special rules; 
+ (c) Where the causes of action are between the same parties but pertain to different venues or jurisdictions, the joinder may be allowed in the Regional Trial Court provided one of the causes of action falls within the jurisdiction of said court and the venue lies therein; and
+ (d) Where the claims in all the causes action are principally for recovery of money, the aggregate amount claimed shall be the test of jurisdiction. 
+ 
+ 
+[63]
+ Id., Rule 3, Section 6. 
+Permissive joinder of parties
+. â All persons in whom or against whom any right to relief in respect to or arising out of the same transaction or series of transactions is alleged to exist, whether jointly, severally, or in the alternative, may, except as otherwise provided in these Rules, join as plaintiffs or be joined as defendants in one complaint, where any question of law or fact common to all such plaintiffs or to all such defendants may arise in the action; but the court may make such orders as may be just to prevent any plaintiff or defendant from being embarrassed or put to expense in connection with any proceedings in which he may have no interest. 
+ 
+[64]
+ 
+Pantranco North Express Inc. v. Standard Insurance Co. Inc
+., 493 Phil. 616 (2005). 
+ 
+[65]
+ 
+Rollo
+, Vol. I, p. 380-381. 
+ 
+[66] 
+Id. 
+ 
+[67]
+ A transferee stands exactly in the shoes of his predecessor-in-interest, bound by the proceedings and judgment in the case before the rights were assigned to him. xxx Essentially, the law already considers the transferee joined or substituted in the pending action, commencing at the exact moment when the transfer of interest is perfected between the original party-transferor and the transferee 
+pendente lite
+. (
+Natalia Realty, Inc. v. Court of Appeals
+, 440 Phil. 1 (2002). 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

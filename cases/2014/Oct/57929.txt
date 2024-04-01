@@ -1,0 +1,193 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			745 Phil. 161
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 197228, October 08, 2014 ]
+
+
+DUTY FREE PHILIPPINES, PETITIONER, VS. BUREAU OF INTERNAL REVENUE, REPRESENTED BY HON. ANSELMO G. ADRIANO, ACTING REGIONAL DIRECTOR, REVENUE REGION NO. 8, MAKATI CITY, RESPONDENT.
+D E C I S I O N
+
+
+
+
+SERENO, C.J.:
+
+
+Duty Free Philippines (petitioner) filed a Petition for Review on 
+Certiorari
+[1]
+ under Rule 45 of the 1997 Rules of Civil Procedure assailing the Court of Tax Appeals (CTA) Special First Divisionâs Decision
+[2]
+ dated 4 June 2010 and Resolution
+[3]
+ dated 9 June 2011 in C.T.A. Case No. 7282.
+Petitioner is a merchandising system established by the then Ministry of Tourism (now Department of Tourism) through the Philippine Tourism Authority (PTA), pursuant to Executive Order (E.O.) No. 46 dated 4 September 1986.
+In a letter dated 7 June 1995,
+[4]
+ petitioner sought a clarification of its exemption from the expanded withholding tax under Revenue Regulation (R.R.) No. 6-94.  It alleged that this request for clarification was a reiteration of its letter dated 19 October 1994.  It argued that as a tax-exempt establishment under E.O. No. 46, it should not be subjected to the 1.1/2% expanded withholding taxes on certain income payments that were withheld by credit card companies in compliance with R.R. No. 6-94.  In relation thereto, petitioner also inquired on the procedure for the refund of accumulated taxes withheld by credit card companies amounting to P1.8 million as of 31 December 1994.
+In response, respondent issued Bureau of Internal Revenue (BIR) Ruling No. 136-95 on 6 September 1995.  Respondent opined that E.O. No. 93 dated 17 December 1986 withdrew all the tax and duty incentives granted to government and public entities, including petitioner.  Hence, respondent denied the request of petitioner for a refund of the withholding tax on certain payments made by credit card companies and remitted to the BIR.
+Petitioner requested a reconsideration of BIR Ruling No. 136-95 on 10 April 2001 and later reiterated its request in a letter dated 6 December 2001.
+On 5 November 2002, respondent denied the request through BIR Ruling No. 38-2002
+[5]
+ and ruled that petitioner, as a division of PTA, was now subject to income tax.  Respondent anchored its ruling on the following grounds: (1) PTA, to which petitioner was attached, was a âgovernment instrumentalityâ which, under Section 27(C) of the Tax Code of 1997, was subject to income tax; (2) PTA was not covered by the exception under Section 32(B)(7)(b) of the Tax Code, since the term âGovernment of the Philippinesâ as used in that provision, did not include âgovernment instrumentalityâ; and (3) the exemption was limited only to the value-added tax (VAT) arising from the importation/purchases of merchandise  made by petitioner and subsequently sold through authorized tax and duty-free shops; thus, the sales of services to petitioner were subject to VAT pursuant to Section 108 of the Tax Code.
+This ruling prompted petitioner to file an appeal with the Department of Finance (DOF) on 23 December 2002.  In a Resolution dated 11 April 2003, the DOF, through then Secretary Jose Isidro Camacho, affirmed BIR Ruling No. 38-2002.  Subsequent requests for reconsideration were likewise denied by the DOF through its then Undersecretary Ma. Gracia M. Pulido-Tan.
+Meanwhile, several assessment notices were sent by respondent to petitioner for deficiency income tax and VAT covering taxable years 1999 to 2002 in the total amount of P1,452,785,087.64.  Petitioner filed its protest letters, but the protest was eventually denied by respondent.  Thus, on 4 July 2005, a Petition for Review was filed with the CTA questioning the aforesaid assessments.  The DOT, represented by then Secretary Joseph H. Durano, intervened and maintained that petitioner was exempt from income tax and VAT.
+After trial, the CTA Special First Division rendered the assailed Decision on 4 June 2010.  On the issue of the separate personality of petitioner from PTA, the court ruled that the DOT itself had established that petitioner was a separate and autonomous sector of the PTA.  The CTA Division likewise found that petitioner was not a tax-exempt entity in the absence of an express grant of tax exemption. Even prior to E.O. No. 46, the franchise of petitioner under Presidential Decree (P.D.) No. 1193
+[6]
+ required payment of 7% of its annual sales in lieu of all other taxes. The CTA Division held that P.D. Nos. 1177
+[7]
+ and 1931
+[8]
+ effectively withdrew PTAâs exemptions under Section 1 of P.D. No. 1400.
+[9]
+  The Fiscal Incentives Review Board (FIRB) restored some tax incentives to petitioner, but limited these incentives only to âtaxes and duties arising out of merchandise imported/purchased by Duty Free Philippines and subsequently sold by it through authorized tax and duty-free shops.â
+[10]
+As to the issue of the assessed tax deficiencies, the tax court found petitioner liable to pay the aggregate amount of P1,036,956,477.90 representing income tax and VAT deficiencies, plus deficiency and delinquency interests.  The availment of tax amnesty by petitioner was noted by the court.  But in the absence of documents showing full compliance with the requirements of Republic Act (R.A.) No. 9480,
+[11]
+ the court refused to affirm petitionerâs entitlement to the immunities under the Amnesty Law.
+Petitioner and intervenor DOT filed their respective Motions for Reconsideration.  In its motion, petitioner attached some documents to show compliance with the Amnesty Law.  However, the CTA Division found that petitioner had still failed to present its Statement of Assets, Liabilities and Networth (SALN) as of 31 December 2005, which was a requirement under R.A. No. 9480. The court likewise found no merit in the motions filed by petitioner and intervenor DOT.
+[12]
+Petitioner directly appealed to this Court under Rule 45 of the 1997 Rules of Civil Procedure, assailing the aforesaid Decision and Resolution of the CTA Division.
+In its Petition, petitioner maintains that the CTA gravely erred in dismissing the formerâs Petition for Review and requiring it to pay deficiency taxes, as well as deficiency and delinquency interest, for the following reasons:
+DFP is a mere merchandising system established by the DOT through the PTA to generate foreign exchange and revenue for the government.  All income derived from its merchandising operations accrue to DOT.
+Assuming DFP has juridical personality, its tax-exempt status, which is derived from EO 46 and PD 564, as amended by PD 1400, has not been revoked by PDs 1177 and 1931, as well as EO 93.
+Assuming DFP has juridical personality, it is exempt from income tax pursuant to Section 32-(B)-(7)-(B) of the National Internal Revenue Code.
+Assuming DFP enjoys juridical personality, the sales of services to it are VAT-exempt considering the nature of its business.
+Granting that DFP has juridical personality, it must be tax-exempt based on equitable grounds.
+It was improper and erroneous for the CTA to rule on whether DFP has validly availed of the tax amnesty.
+[13]
+In its Comment, respondent BIR raised the issue of the mode of appeal of petitioner.  Respondent alleged that petitioner chose the wrong mode of appeal by directly availing itself of the remedies before this Court without first elevating the case to the CTA 
+en banc
+ as provided under Rule 16 of the Revised Rules of the CTA.
+The Office of the Solicitor General (OSG), as a representative of the intervenor DOT in the CTA Division case, also filed a Comment.
+THE COURTâS RULING
+The Petition is flawed with procedural infirmity.
+This Court has had a long-standing rule that a courtâs jurisdiction over the subject matter of an action is conferred only by the Constitution or by statute.
+[14]
+ In this regard, we find that petitionerâs direct appeal to this Court is fatal to its claim.
+The CTA came into being with the passage of R.A. No. 1125
+[15]
+ on 16 June 1954.  Section 18 of this law provides for the manner in which an appeal from the decision of the CTA to the Supreme Court is made, to wit:
+Section 18. 
+Appeal to the Supreme Court
+.
+ - No judicial proceeding against the Government involving matters arising under the National Internal Revenue Code, the Customs Law or the Assessment Law shall be maintained, except as herein provided, until and unless an appeal has been previously filed with the Court of Tax Appeals and disposed of in accordance with the provisions of this Act.
+Any party adversely affected by any ruling, order or decision of the Court of Tax Appeals may appeal therefrom to the Supreme Court by filing with the said Court a notice of appeal and with the Supreme Court a petition for review, within thirty days from the date he receives notice of said ruling, order or decision
+. If, within the aforesaid period, he fails to perfect his appeal, the said ruling, order or decision shall become final and conclusive against him.
+If no decision is rendered by the Court within thirty days from the date a case is submitted for decision, the party adversely affected by said ruling, order or decision may file with said Court a notice of his intention to appeal to the Supreme Court, and if, within thirty days from the filing of said notice of intention to appeal, no decision has as yet been rendered by the Court, the aggrieved party may file directly with the Supreme Court an appeal from said ruling, order or decision, notwithstanding the foregoing provisions of this section.
+If any ruling, order or decision of the Court of Tax Appeals be adverse to the Government, the Collector of Internal Revenue, the Commissioner of Customs, or the provincial or city Board of Assessment Appeals concerned may likewise file an appeal therefrom to the Supreme Court in the manner and within the same period as above prescribed for private parties.
+Any proceeding directly affecting any ruling, order or decision of the Court of Tax Appeals shall have preference over all other civil proceedings except habeas corpus, workmen's compensation and election cases. (Emphasis supplied)
+The enactment of R.A. No. 9282,
+[16]
+ which took effect on 23 April 2004, elevated the rank of the CTA to the level of a collegiate court, making it a co-equal body of the Court of Appeals.  The appeal of a CTA decision under Section 18 of R.A. No. 1125 was also amended by R.A. No. 9282.  Section 19 was added, and it reads as follows:
+Section 11. Section 18 of the same Act is hereby amended as follows:
+SEC. 18. Appeal to the Court of Tax Appeals En Banc. - No civil proceeding involving matter arising under the National Internal Revenue Code, the Tariff and Customs Code or the Local Government Code shall be maintained, except as herein provided, until and unless an appeal has been previously filed with the CTA and disposed of in accordance with the provisions of this Act.
+A party adversely affected by a resolution of a Division of the CTA on a motion for reconsideration or new trial, may file a petition for review with the CTA en banc.
+SEC. 19. Review by Certiorari. - A party adversely affected by a decision or ruling of the CTA en banc may file with the Supreme Court a verified petition for review on certiorari pursuant to Rule 45 of the 1997 Rules of Civil Procedure. 
+(Emphasis supplied)
+Furthermore, Section 2, Rule 4 of the Revised Rules of the CTA
+[17]
+ reiterates the exclusive appellate jurisdiction of the CTA en banc relative to the review of the court divisionsâ decisions or resolutions on motion for reconsideration or new trial in cases arising from administrative agencies such as the BIR.
+Clearly, this Court is without jurisdiction to review decisions rendered by a division of the CTA, exclusive appellate jurisdiction over which is vested in the CTA 
+en banc
+.
+[18]
+In this case, petitioner filed with this Court on 29 July 2011 the instant Petition from the denial of its Motion for Reconsideration by the Special First Division of the CTA.  At that time, R.A. 9282 was already in effect, and it evidently provides that the CTA 
+en banc
+ shall have exclusive jurisdiction over appeals from the decision of its divisions. A party adversely affected by the resolution of the CTA division may, on motion for reconsideration, file a petition for review with the CTA 
+en banc
+. Thereafter, the decision or ruling of the CTA 
+en banc
+ may be elevated to this Court.  Simply stated, no decision of the CTA division may be elevated to this Court under Rule 45 of the 1997 Rules of Civil Procedure without passing through the CTA 
+en banc.
+In sum, this Court has no jurisdiction to review the Decision and Resolution rendered by the Special First Division of the CTA. Thus, the instant Petition must fail.
+It is worth emphasizing that an appeal is neither a natural nor a constitutional right, but is merely statutory. The implication of its statutory character is that the party who intends to appeal must always comply with the procedures and rules governing appeals; or else, the right of appeal may be lost or squandered.
+[19]
+ Neither is the right to appeal a component of due process. It is a mere statutory privilege and may be exercised only in the manner prescribed by, and in accordance with, the provisions of law.
+[20]
+In light of the above findings, the Court finds no need to further discuss the other issues raised by the parties.
+WHEREFORE
+, premises considered, the instant Petition is 
+DENIED.
+SO ORDERED.
+Leonardo-De Castro, Bersamin, Perez,
+ and 
+Perlas-Bernabe, JJ.,
+ concur.
+[1]
+ 
+Rollo
+, pp. 16-48.
+[2]
+ Id. at 58-103; penned by Associate Justice Lovell R. Bautista and concurred in by Associate Justice Caesar A. Casanova (Presiding Justice Ernesto D. Acosta was on leave.)
+[3]
+ Id. at 106-112; penned by Associate Justice Lovell R. Bautista and concurred in by Presiding Justice Ernesto D. Acosta and Associate Justice Caesar A. Casanova.
+[4]
+ Id. at 192.
+[5]
+ Id. at 315-322.
+[6]
+ Authorizing the Tourist Duty-Free Shops, Inc. to Establish and Operate Duty and Tax Free Shops and Requiring It to Pay Franchise Tax in Lieu of All Other Taxes.
+[7]
+ Revising the Budget Process in Order to Institutionalize the Budgetary Innovations of the New Society.
+[8]
+ Directing the Rationalization of Duty and Tax Exemption Privileges Granted to Government-Owned or Controlled Corporations and All Other Units of Government.
+[9]
+ Further Amending Presidential Decree 564, as amended, otherwise known as the Revised Charter of the Philippine Tourism Authority, and for Other Purposes.
+[10]
+ CTA Special First Division Decision citing FIRB Resolution No. 10-87 dated 22 April 1987, 
+rollo,
+ p.86.
+[11]
+ An Act Enhancing Revenue Administration and Collection by Granting an Amnesty on All Unpaid Internal Revenue Taxes imposed by the National Government for taxable year 2005 and prior years.
+[12]
+ CTA Special First Division Resolution dated 9 June 2011, id. at 106-119.
+[13]
+ Id. at 27.
+[14]
+ 
+Sevilleno v. Carilo
+, 559 Phil 789 (2007).
+[15]
+ An Act Creating the Court of Tax Appeals.
+[16]
+ An Act Expanding the Jurisdiction of the Court of Tax Appeals (CTA), Elevating Its Rank to the Level of a Collegiate Court with Special Jurisdiction and Enlarging Its Membership, amending for the purpose certain sections or Republic Act No. 1125, as amended, otherwise known as the Law Creating the Court of Tax Appeals, and for other purposes.
+[17]
+ A.M. No. 05-11-07-CTA, 22 November 2005.
+[18]
+ 
+Commissioner of Customs v. Gelmart Industries Philippines, Inc.
+, 598 Phil. 740 (2009).
+[19]
+ 
+Sps. Lebin v. Mirasol,
+ G.R. No. 164255, 7 September 2011, 657 SCRA 35.
+[20]
+ 
+Boardwalk Business Ventures, Inc. v. Villareal Jr.,
+ G.R. No. 181182, 10 April 2013, 695 SCRA 468.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

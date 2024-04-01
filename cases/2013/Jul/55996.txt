@@ -1,0 +1,851 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			714 Phil. 413
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 175142, July 22, 2013 ]
+
+
+BONIFACIO WATER CORPORATION (FORMERLY BONIFACIO VIVENDI WATER CORPORATION), PETITIONER, VS. THE COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+D E C I S I O N
+
+
+
+
+PERALTA, J.:
+
+
+This resolves the Petition for Review on 
+Certiorari 
+under Rule 45 of the Rules of Court which seeks the review of the Court of Tax Appeals 
+En Banc
+ Decision
+[1]
+ dated June 26, 2006, and Resolution
+[2]
+ dated October 19, 2006.
+The facts follow.
+Petitioner is a domestic corporation engaged in the collection, purification and distribution of water. It is registered with the Bureau of Internal Revenue (BIR) as a value-added tax (VAT) taxpayer, with VAT Registration/Taxpayer Identification No. 201-403-657-000.
+Petitioner duly filed with the BIR its quarterly VAT returns for the 4
+th
+ quarter of 1999, 1
+st
+ quarter of 2000, 2
+nd
+ quarter of 2000, 3
+rd
+ quarter of 2000, and 4th quarter of 2000, declaring the following information:
+ 
+ 
+QUARTER 
+ INVOLVED
+ 
+EXH.
+ 
+TAXABLE
+  SALES
+ 
+OUTPUT 
+ VAT
+ 
+INPUT TAX
+  CARRIED
+  OVER FROM 
+ PREVIOUS 
+ QUARTER
+ 
+DOMESTIC 
+ PURCHASES
+ 
+INPUT VAT
+ 
+TOTAL 
+ AVAILABLE 
+ INPUT VAT
+ 
+EXCESS
+  INPUT 
+ VAT
+ 
+ 
+ 
+ 
+ 
+(A)
+ 
+(B)
+ 
+(C)
+ 
+(D)
+ 
+(E)
+ 
+(F)=(C)+(E)
+ 
+(G)=(B)+(F)
+ 
+ 
+ 
+2000
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4th Qtr.
+ 
+A
+ 
+-
+ 
+ 
+25,291,053.62
+ 
+196,306,597.30
+ 
+19,630,659.73
+ 
+44,921,713.35
+ 
+44,921,713.35
+ 
+ 
+ 
+1999
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1st Qtr.
+ 
+B
+ 
+-
+ 
+ 
+44,921,713.35
+ 
+186,000,881.70
+ 
+18,600,088.17
+ 
+63,521,801.52
+ 
+63,521,801.52
+ 
+ 
+ 
+2nd Qtr.
+ 
+C
+ 
+2,182,615.75
+ 
+218,261.57
+ 
+63,521,801.52
+ 
+151,074,719.10
+ 
+15,107,471.91
+ 
+78,629,273.43
+ 
+78,411,011.86
+ 
+ 
+ 
+3rd Qtr.
+ 
+D
+ 
+1,505,786.70
+ 
+150,578.67
+ 
+78,411,011.86
+ 
+121,599,043.00
+ 
+12,159,904.30
+ 
+90,570,916.16
+ 
+90,420,337.49
+ 
+ 
+ 
+4th Qtr.
+ 
+E
+ 
+2,924,127.10
+ 
+292,412.71
+ 
+90,420,337.49
+ 
+96,717,388.90
+ 
+9,671,738.89
+ 
+100,092,076.38
+ 
+99,799,663.67
+ 
+ 
+For said period, petitioner alleges that its input VAT included, among others, input VAT paid on purchases of capital goods amounting to P65,642,814.65. These purchases supposedly pertain to payment to contractors in connection with the construction of petitionerâs Sewage Treatment Plant, Water and Waste System, and Water Treatment Plant, broken down as follows:
+ 
+ 
+Quarter
+ 
+Input VAT Paid on
+ Purchase of Capital Goods
+ 
+Total Amount
+ 
+ 
+ 
+1999
+ 
+ 
+ 
+ 
+ 
+   4th Quarter
+ 
+P11,607,748.20
+ 
+P11,607,748.20
+ 
+ 
+ 
+2000
+ 
+ 
+ 
+ 
+ 
+   1st Quarter
+ 
+P18,281,682.96
+ 
+ 
+ 
+ 
+   2nd Quarter
+ 
+14,884,531.96
+ 
+ 
+ 
+ 
+   3rd Quarter
+ 
+21,705,122.19
+ 
+ 
+ 
+ 
+   4th Quarter
+ 
+(836,270.66)
+ 
+54,035,066.45
+ 
+ 
+ 
+Grand Total
+ 
+ 
+P65,642,814.65
+ 
+ 
+On January 22, 2002, petitioner filed with Revenue District Office No. 44âPateros and Taguig, Revenue Region No. 8 of the BIR, an administrative claim for refund or issuance of a tax credit certificate in the amount of P65,642,814.65 representing unutilized input VAT on capital goods purchased for the period beginning the 4th quarter of 1999 up to the 4th quarter of 2000.
+The next day, petitioner filed its Petition for Review with the Court of Tax Appeals (CTA), to toll the running of the two-year prescriptive period.
+On March 29, 2005, the CTA Second Division rendered a Decision
+[3]
+ partially granting petitionerâs claim for refund in the reduced amount of P40,875,208.64.
+In said case, the CTA Second Division held that an examination of the various official receipts presented by petitioner, to support its purchases for capital goods, shows that some of its purchases, such as rental, management fees and direct overhead, cannot be considered as capital goods. Further, it ruled that the official receipts under the name âBonifacio GDE Water Corporationâ were disallowed on the ground that the use of said business name by petitioner was never approved by the Securities and Exchange Commission (SEC). Thus, the court ruled as follows:
+WHEREFORE
+, in the light of the foregoing, the Petition for Review is 
+PARTIALLY GRANTED
+. The respondent is hereby 
+ORDERED TO REFUND or TO ISSUE A TAX CREDIT CERTIFICATE
+ in favor of the petitioner in the reduced amount of P40,875,208.64, representing unutilized input VAT on capital goods for the period from the 4th quarter of 1999 to the 4th quarter of 2000, computed as follows:
+ 
+ 
+Amount Claimed
+ 
+P 65,642,814.65
+ 
+ 
+ 
+Less: Disallowance per
+ 
+ 
+ 
+ 
+Courtâs Evaluation
+ 
+24,767,606.01
+ 
+ 
+ 
+Refundable Amount
+ 
+P 40,875,208.64
+ 
+ 
+SO ORDERED
+.
+[4]
+The parties filed their respective motions for reconsideration against said Decision. However, in a Resolution
+[5]
+ dated August 23, 2005, the CTA Second Division held as follows:
+In sum, the refundable amount to be granted to petitioner should be increased to P45,446,280.55, computed as follows:
+ 
+ 
+Refundable Amount per Decision
+ 
+ 
+P 40,875,208.64
+ 
+ 
+ 
+Add: Additional Input VAT
+ 
+ 
+ 
+ 
+ 
+ 
+a.) Construction in Progress
+ 
+P 1,439,629.72
+ 
+ 
+ 
+ 
+ 
+b.) Input VAT found not to have been recorded twice
+ 
+3,131,442.19
+ 
+4,571,071.91
+ 
+ 
+ 
+Total Refundable Amount
+ 
+ 
+P 45,446,280.55
+ 
+ 
+IN VIEW OF ALL THE FOREGOING
+, respondentâs Motion for Reconsideration is 
+DENIED
+ for lack of merit, while petitionerâs Motion for Partial Reconsideration is 
+PARTIALLY GRANTED
+.
+Accordingly, respondent is 
+ORDERED to REFUND
+ or 
+TO ISSUE A TAX CREDIT CERTIFICATE
+ in favor of petitioner in the increased amount of P45,446,280.55 as computed above.
+SO ORDERED
+.
+[6]
+Petitioner thereafter filed its petition for review with the CTA 
+En Banc
+ arguing that it has presented substantial evidence that proves its input VAT on purchases of capital goods from the 4
+th
+ quarter of 1999 to the 4
+th
+ quarter of 2000, as well as the fact that petitioner and âBonifacio GDE Corporationâ are one and the same entity.
+In a Decision
+[7]
+ dated June 26, 2006, the CTA 
+En Banc
+ affirmed 
+in toto
+ the assailed Decision and Resolution of the CTA Second Division. The 
+fallo
+ of the Decision states:
+WHEREFORE
+, premises considered, the assailed Decision and Resolution of the Second Division [are] hereby 
+AFFIRMED 
+in toto
+, and the Petition for Review is hereby 
+DISMISSED
+ for lack of merit.
+SO ORDERED.
+[8]
+Unfazed, petitioner filed a motion for reconsideration against said Decision, which was denied in a Resolution
+[9]
+ dated October 19, 2006.
+Thus, the present petition wherein petitioner lists the following grounds in support of its petition:
+GROUNDS FOR THE PETITION
+PETITIONER RESPECTFULLY MOVES THAT THE ASSAILED DECISION DATED 26 JUNE 2006, AND THE RESOLUTION DATED 19 OCTOBER 2006, ISSUED BY THE CTA 
+EN BANC
+, BE SET ASIDE, BASED ON ANY OR ALL OF THE FOLLOWING GROUNDS:
+I
+THE CTA 
+EN BANC
+ ERRED WHEN IT SANCTIONED THE PARTIAL DENIAL OF PETITIONERâS CLAIM FOR REFUND ON THE GROUND THAT PETITIONERâS INVOICES ARE NOT COMPLIANT WITH ADMINISTRATIVE REGULATIONS.
+II
+THE CTA 
+EN BANC
+ ERRED WHEN IT SANCTIONED THE PARTIAL DENIAL OF PETITIONERâS CLAIM FOR REFUND BY ITS FAILURE TO APPLY THE DEFINITION OF CAPITAL GOODS CONTAINED IN EXISTING JURISPRUDENCE TO CERTAIN PURCHASES OF PETITIONER.
+III
+THE CTA 
+EN BANC
+ FAILED TO APPLY THE RULES REGARDING JUDICIAL ADMISSIONS IN THE PROCEEDINGS BELOW.
+IV
+IN CIVIL CASES, SUCH AS CLAIMS FOR REFUND, STRICT COMPLIANCE WITH TECHNICAL RULES OF EVIDENCE IS NOT REQUIRED. MOREOVER, A MERE PREPONDERANCE OF EVIDENCE WILL SUFFICE TO JUSTIFY THE GRANT OF A CLAIM. THE CTA 
+EN BANC
+ SANCTIONED THE USE OF A HIGHER STANDARD OF EVIDENCE IN A NON-CRIMINAL PROCEEDING.
+[10]
+Simply, the issue is whether or not the CTA 
+En Banc
+ erred in not granting petitionerâs claim for refund or issuance of a tax credit certificate in the amount of P65,642,814.65.
+Petitioner contends that non-compliance with the invoicing requirements under the 1997 Tax Code does not automatically result in the denial of a claim for refund or tax credit when the same is supported by substantial evidence. It contends that the CTA 
+En Banc
+ erred in sustaining the ruling that petitioner is not entitled to a refund of the input VAT evidenced by official receipts in the name of âBonifacio GDE Water Corporation.â
+Petitioner further submits that the CTA erred in failing to properly apply the definition of capital goods and insists that services incurred in the construction and installation of capital assets and goods should be included in the cost of capital goods for purposes of determining the proper amount of refundable input VAT.
+It also posits that respondent made an âinformal judicial admissionâ and partially recognized its claims for excess input VAT on purchases of capital goods when Revenue District No. 44 issued a memorandum acknowledging,
+ inter alia,
+ that the input taxes claimed as refund were duly supported by valid VAT invoices and/or receipts.
+Lastly, petitioner asserts that the CTA imposed an overly strict standard of evidence in disallowing petitionerâs invoices bearing the name âBonifacio GDE Water Corporation.â It claims that the denial of the claim in its entirety based purely on technical grounds unduly deprives petitioner of a right granted by law and constitutes an undue deprivation of its property.
+For its part, respondent argues that the instant petition raises purely questions of fact which is not allowed under Rule 45 of the Rules of Court. He highlights the fact that the issue of whether or not petitioner was able to present substantial evidence to prove and support its claim for tax refund or tax credit calls for this Court to review and evaluate all the evidence to enable it to determine and resolve the issues raised by petitioner.
+Moreover, respondent avers that the CTA 
+En Banc 
+committed no error in not applying the rules regarding judicial admissions, since no judicial admission was made by or was attributable to respondent, either in the pleadings or in the course of the trial proceedings. He argues that the admission made by a subordinate BIR official in support of the course of action which he had proposed or submitted for approval by his superior cannot by any stretch of imagination be considered an admission, much less a judicial admission, of the latter.
+Finally, respondent stresses that the CTA 
+En Banc
+ did not err in using stricter rules of evidence in cases involving claims for tax refund or tax credit as the same are in the nature of tax exemptions and are regarded as in derogation of sovereign authority and to be construed 
+strictissimi juris
+ against the entity claiming the exemption.
+We agree with respondent.
+At the outset, it must be emphasized that an appeal by petition for review on 
+certiorari 
+cannot determine factual issues. In the exercise of its power of review, the Court is not a trier of facts and does not normally undertake the re-examination of the evidence presented by the contending parties during trial.
+[11]
+ However, although the rules provide for certain recognized exceptions,
+[12]
+ the circumstances surrounding the present case do not fall under any of them.
+Assuming, however, that this Court can take cognizance of the instant case, it bears stressing that the arguments raised by petitioner have already been extensively discussed by both the CTA Second Division and the CTA 
+En Banc
+, to wit:
+Petitioner, in support of its first ground, argues that it has presented substantial evidence that unequivocally proved petitionerâs input VAT on purchases of capital goods from the 4
+th
+ quarter of 1999 to the 4
+th
+ quarter of 2000 as well as the fact that petitioner and Bonifacio GDE Corporation are one and the same entity.
+We do not agree.
+The change of name to Bonifacio GDE Corporation being unauthorized and without approval from the Securities and Exchange Commission, petitioner cannot now seek for a refund of input taxes which are supported by receipts under that name. This is pursuant to Sections 4.104-5 and 4.108-1 of Revenue Regulations No. 7-95 in relation to Sections 113 and 237 of the Tax Code, reproduced below for easy reference.
+x x x x
+The requisite that the receipt be issued showing the name, business style, if any, and address of the purchaser, customer or client is precise so that when the books of accounts are subjected to a tax audit examination, all entries therein could be shown as adequately supported and proven as legitimate business transactions. The absence of official receipts issued in the taxpayerâs name is tantamount to non-compliance with the substantiation requirements provided by law.
+Petitioner cannot raise the argument that, 
+ânon-compliance with the invoicing requirements under the 1997 NIRC, as amended, does not automatically result in the denial of a claim for refund or tax credit when the same is supported by substantial evidenceâ and that, âIn civil cases, such as claims for refund, strict compliance with technical rules of evidence is not required. Moreover, a mere preponderance of evidence will suffice to justify the grant of a claim,
+â in addition to its first ground in the instant petition. Taxpayers claiming for a refund or tax credit certificate must comply with the strict and mandatory invoicing and accounting requirements provided under the 1997 NIRC, as amended, and its implementing rules and regulations. Rules and regulations with regard to procedures are implemented not to be ignored or to be taken for granted, but are strictly adhered to for they are developed from the law itself. 
+[13]
+From the foregoing, it is clear that petitioner must show satisfaction of all the documentary and evidentiary requirements before an administrative claim for refund or tax credit will be granted. Perforce, the taxpayer claiming the refund must comply with the invoicing and accounting requirements mandated by the Tax Code, as well as the revenue regulations implementing them.
+[14]
+Thus, the change of petitionerâs name to âBonifacio GDE Water Corporation,â being unauthorized and without approval of the SEC, and the issuance of official receipts under that name which were presented to support petitionerâs claim for tax refund, cannot be used to allow the grant of tax refund or issuance of a tax credit certificate in petitionerâs favor. The absence of official receipts issued in its name is tantamount to non-compliance with the substantiation requirements provided by law and, hence,  the CTA 
+En Banc
+âs partial grant of its refund on that ground should be upheld.
+Also, petitionerâs allegation that some of the disallowed input taxes paid on services related to the construction of petitionerâs Waste Water Treatment and Water Sewerage Distribution Networks, should be included as part of its capital goods, must fail. As comprehensively discussed by the CTA Second Division in its Resolution
+[15]
+ dated August 23, 2005 â
+Petitioner alleges that the disallowed input taxes are paid on services related to the construction of petitionerâs Waste Water Treatment Plant and Water Sewerage Distribution Networks, summarized as follows:
+ 
+ 
+Expense
+ 
+Exhibit
+ 
+Payee
+ 
+ 
+ 
+Professional services, project management and design, advisory works for operations and management, and contract preparation/ supervision.
+ 
+O-27
+ 
+Symonds Travers Morgan
+ 
+ 
+ 
+Lease for Water Treatment Plant, Waste Water Treatment Plant and Elevated Reservoir from April 1999 to August 2000
+ 
+O-29
+ 
+Fort Bonifacio Development Corporation
+ 
+ 
+ 
+Professional services for project management and design for August 2000
+ 
+O-33
+ 
+Symonds Travers Morgan
+ 
+ 
+ 
+Rental on BDCA lot from 1 September 2000 to 31 November 2001 for the Water Treatment Plant, Waste Water Treatment Plant and Elevated Reservoir
+ 
+O-35
+ 
+Fort Bonifacio Development Corporation
+ 
+ 
+ 
+Insurance for turned-over waste water treatment facilities
+ 
+O-36
+ 
+-do-
+ 
+ 
+ 
+Professional services
+ 
+O-37
+ 
+Symonds Travers Morgan
+ 
+ 
+ 
+ 
+O-39
+ 
+Fort Bonifacio Development Corporation
+ 
+ 
+ 
+Contracted services and secondment
+ 
+O-41
+ 
+Sade Compagnie Generale de Travaux
+ 
+ 
+ 
+Contracted services for additional service connection
+ 
+O-42
+ 
+-do-
+ 
+ 
+x x x x
+Thus, it can be seen that the aforesaid expenses were correspondingly charged to âPre-Operating Expense,â âAccrued Expense,â âDirect Overhead,â âPrepaid Insurance,â and âConstruction in Progress.â
+Records reveal that petitionerâs Property, Plant & Equipment account is composed of the following specific account titles, to wit:
+ 
+ 
+_______________________________________________________________________________________________
+ 
+ 
+ 
+ 
+2000
+ 
+1999
+ 
+ 
+ 
+_______________________________________________________________________________________________
+ 
+ 
+ 
+Plant, machinery and equipment
+ 
+P 
+ 
+625,868,017.00
+ 
+P
+ 
+ 
+-
+ 
+ 
+ 
+Sewerage and water pipelines
+ 
+563,252,132.00
+ 
+-
+ 
+ 
+ 
+Reservoir, tanks and pumping station
+ 
+186,127,317.00
+ 
+-
+ 
+ 
+ 
+Leasehold improvements
+ 
+162,561,913.00
+ 
+-
+ 
+ 
+ 
+Electronic and instrumentation
+ 
+153,544,879.00
+ 
+-
+ 
+ 
+ 
+Building
+ 
+64,865,059.00
+ 
+-
+ 
+ 
+ 
+Wells
+ 
+20,248,580.00
+ 
+-
+ 
+ 
+ 
+Office furnitures, fixtures & equipment
+ 
+6,658,699.00
+ 
+335,209.00
+ 
+ 
+ 
+Transportation equipment
+ 
+3,004,053.00
+ 
+-
+ 
+ 
+ 
+_______________________________________________________________________________________________
+ 
+ 
+ 
+ 
+P
+ 
+1,786,130,649.00
+ 
+P 
+ 
+335,209.00
+ 
+ 
+ 
+Less: Accumulated Depreciation
+ 
+868,012.00
+ 
+-
+ 
+ 
+ 
+_______________________________________________________________________________________________
+ 
+ 
+ 
+ 
+P
+ 
+1,785,262,637.00
+ 
+P 
+ 
+335,209.00
+ 
+ 
+ 
+Construction in Progress
+ 
+73,185,765.00
+ 
+832,065,352.00
+ 
+ 
+ 
+_______________________________________________________________________________________________
+ 
+ 
+ 
+ 
+P
+ 
+1,858,448,402.00
+ 
+P 
+ 
+832,400,561.00
+ 
+ 
+ 
+_______________________________________________________________________________________________
+ 
+ 
+Only the above real accounts are to be considered as capital goods since âcapital goodsâ is defined as:
+âCapital goods or propertiesâ refer to goods or properties with estimated useful life greater than one year and which are treated as depreciable assets under Section 29(f), used directly or indirectly in the production or sale of taxable goods or services.
+Had petitioner intended the aforementioned itemized expenses to be part of Property, Plant & Equipment, then it should have recorded the same to the foregoing specific accounts. Except for the account âConstruction in Progress,â the other expense items do not fall within the definition of capital goods pursuant to Section 4.106-1(b) of Revenue Regulations No. 7-95.
+[16]
+As a final point, it is doctrinal that the Court will not lightly set aside the conclusions reached by the CTA which, by the very nature of its function of being dedicated exclusively to the resolution of tax problems, has accordingly developed an expertise on the subject, unless there has been an abuse or improvident exercise of authority.
+[17]
+In fact, in 
+Barcelon, Roxas Securities, Inc. v. Commissioner of Internal Revenue
+,
+[18]
+ this Court held that it accords the findings of fact by the CTA with the highest respect. It ruled that factual findings made by the CTA can only be disturbed on appeal if they are supported by substantial evidence or there is a showing of gross error or abuse on the part of the Tax Court. In the absence of any clear and convincing proof to the contrary, this Court must presume that the CTA rendered a decision which is valid in every respect.
+[19]
+In the present case, no cogent reason exists for this Court to deviate from this well-entrenched principle, since the CTA En Banc neither abused its authority nor committed gross error in partially denying petitionerâs refund claim.
+WHEREFORE
+, premises considered, the instant petition is 
+DENIED
+. The Court of Tax Appeals 
+En Banc
+ Decision dated June 26, 2006, and Resolution dated October 19, 2006, are hereby 
+AFFIRMED
+.
+SO ORDERED.
+Velasco, Jr., (Chairperson), Abad, Mendoza,
+ and
+ Leonen, JJ
+., concur.
+July 26, 2013
+N O T I C E  OF J U D G M E N T
+Sirs/Mesdames:
+Please take notice that on ___
+July 22, 2013
+___ a Decision, copy attached herewith, was rendered by the Supreme Court in the above-entitled case, the original of which was received by this Office on July 26, 2013 at 10:25 a.m.
+Very truly yours,
+(SGD)
+LUCITA ABJELINA SORIANO
+Division Clerk of Court
+[1]
+ Penned by Associate Justice Caesar A. Casanova, with Associate Justices Juanito C. CastaÃ±eda, Jr., Lovell R. Bautista, and Erlinda P. Uy, concurring; 
+rollo
+, pp. 59-68.
+[2]
+ 
+Rollo
+, pp. 69-73.
+[3]
+ 
+Id
+. at 173-183.
+[4]
+ Id
+. at 182-183. (Emphasis in the original)
+[5]
+ Id
+. at 218-230.
+[6]
+ Id
+. at 229-230. (Emphasis in the original)
+[7]
+ 
+Id
+. at 59-68.
+[8]
+ 
+Id
+. at 67.  (Emphasis in the original)
+[9]
+ 
+Id.
+ at 69-73.
+[10]
+ 
+Id.
+ at 22-23.
+[11]
+ 
+Spouses Andrada v. Pilhino Sales Corporation
+, G.R. No. 156448, February 23, 2011, 644 SCRA 1, 8-9.
+[12]
+ Among the recognized exceptions are the following, to wit:
+(a) When the findings are grounded entirely on speculation, surmises, or conjectures;
+(b) When the inference made is manifestly mistaken, absurd, or impossible;
+(c) When there is grave abuse of discretion;
+(d) When the judgment is based on a misapprehension of facts;
+(e) When the findings of facts are conflicting;
+(f)  When in making its findings the CA went beyond the issues of the case, or its findings are contrary to the admissions of both the appellant and the appellee;
+(g) When the CAâs findings are contrary to those by the trial court;
+(h) When the findings are conclusions without citation of specific evidence on which they are based;
+(i) When the facts set forth in the petition as well as in the petitionerâs main and reply briefs are not disputed by the respondent;
+(j) When the findings of fact are premised on the supposed absence of evidence and contradicted by the evidence on record; or
+(k) When the CA manifestly overlooked certain relevant facts not disputed by the parties, which, if properly considered, would justify a different conclusion.
+[13]
+ 
+Rollo
+, pp. 62-64. (Emphasis supplied)
+[14]
+ 
+Western Mindanao Power Corporation v. Commissioner of Internal Revenue,
+ G.R. No. 181136, June 13, 2012.
+[15]
+ 
+Rollo
+, pp. 218-230.
+[16]
+ Id. at 221-224. (Citations omitted)
+[17]
+ 
+Commissioner of Internal Revenue v. Asian Transmission Corporation,
+ G.R. No. 179617, January 19, 2011, 640 SCRA 189, 200.
+[18]
+ G.R. No. 157064, August 7, 2006, 498 SCRA 126; 529 Phil. 785 (2006).
+[19]
+ Id. at 135-136; at 795.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

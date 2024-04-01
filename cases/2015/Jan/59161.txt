@@ -1,0 +1,830 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			752 PHIL. 375
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 206526, January 28, 2015 ]
+
+
+WINEBRENNER & IÃIGO INSURANCE BROKERS, INC., PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+D E C I S I O N
+
+
+
+
+MENDOZA, J.:
+
+
+In this petition for review under Rule 45 of the Rules of Court and Rule 16 of the Revised Rules of the Court of Tax Appeals, Winebrenner & IÃ±igo Insurance Brokers, Inc. (
+petitioner
+) seeks the review of the March 22, 2013 Decision
+[1]
+ of the Court of Tax Appeals En Banc (
+CTA-En Banc
+). In the said decision, the CTA-En Banc affirmed the denial of petitionerâs judicial claim for refund or issuance of tax credit certificate for excess and unutilized creditable withholding tax (
+CWT
+) for the 1
+st
+ to 4
+th
+ quarter of calendar year (CY) 2003 amounting to P4,073,954.00.  In denying the refund, the CTA-En Banc held that petitioner failed to prove that the excess CWT for CY 2003 was not carried over to the succeeding quarters of the subject taxable year.   Under the 1997 National  Internal  Revenue Code  (NIRC),  a  taxpayer must not have exercised the option to carry over the excess CWT for a particular taxable year in order to qualify for refund.
+The Factual Antecedents
+On April 15, 2004, petitioner filed its Annual Income Tax Return for CY 2003.
+About two years thereafter or on April 7, 2006, petitioner applied for the administrative tax credit/refund claiming entitlement to the refund of its excess or unutilized CWT for CY 2003, by filing BIR Form No. 1914 with the Revenue District Office No. 50 of the Bureau of Internal Revenue 
+(BIR)
+.
+There being no action taken on the said claim, a petition for review was filed by petitioner before the CTA on April 11, 2006. The case was docketed as CTA Case No. 7440 and was raffled to the Special First Division 
+(CTA Division)
+.
+On April 13, 2010, CTA Division partially granted petitionerâs claim for refund of excess and unutilized CWT for CY 2003 in the reduced amount of P2,737,903.34 in its April 13, 2010 Decision
+[2]
+ 
+(original decision)
+. The dispositive portion of the decision reads:
+In view of the foregoing, the Petition for Review is hereby 
+PARTIALLY GRANTED. 
+Accordingly, respondent is hereby 
+ORDERED
+ to 
+REFUND
+ or 
+ISSUE A TAX CREDIT CERTIFICATE
+ in favor of the petitioner in the reduced amount of P2,737,903.34 representing its excess/unutilized creditable withholding taxes for the year 2003.
+SO ORDERED.
+[3]
+Petitioner filed a Motion for Partial Reconsideration with Leave to Submit Supplemental Evidence. It prayed that an amended decision be issued granting the entirety of its claim for refund, or in the alternative, that it be allowed to submit and offer relevant documents as supplemental evidence.
+Respondent Commissioner of Internal Revenue (CIR) also moved for reconsideration, praying for the denial of the entire amount of refund because petitioner failed to present the quarterly Income Tax Returns (ITRs) for CY 2004. To the CIR, the presentation of the 2004 quarterly ITRs was indispensable in proving petitionerâs entitlement to the claimed amount because it would prove that no carry-over of unutilized and excess CWT for the four (4) quarters of CY 2003 to the succeeding four (4) quarters of CY 2004 was made. In the absence of said ITRs, no refund could be granted. In the CIRâs view, this was in accordance with the irrevocability rule under Section 76 of the NIRC which reads:
+SEC. 76. 
+Final Adjustment Return.
+ â Every corporation liable to tax under Section 27 shall file an adjustment return covering the total taxable income for the preceding calendar or fiscal year. If the sum of the quarterly tax payments made during the said taxable year is not equal to the total tax due on the entire taxable income of that year, the corporation shall either:
+(A) Pay the balance of tax still due; or
+(B) Carry-over the excess credits; or
+(C) Be credited or refunded with the excess amount paid, as the case may be.
+In case the corporation is entitled to a tax credit or refund of the excess estimated quarterly income taxes paid, the excess amount shown on its final adjustment return may be carried over and credited against the estimated quarterly income tax liabilities for the taxable quarters of the succeeding taxable years. Once the option to carry-over and apply the excess quarterly income tax against income tax due for the taxable quarters of the succeeding taxable years has been made, such option shall be considered irrevocable for that taxable period and no application for cash refund or issuance of a tax credit certificate shall be allowed therefor.
+On July 27, 2011, the CTA-Division 
+reversed
+ itself. In an Amended Decision,
+[4]
+ it denied the entire claim of petitioner. It reasoned out that petitioner should have presented as evidence its first, second and third quarterly ITRs for the year 2004 to prove that the unutilized CWT being claimed had not been carried over to the succeeding quarters. Thus:
+WHEREFORE
+, in view of the foregoing, petitionerâs Motion for Partial Reconsideration is hereby 
+DENIED
+ while respondentâs Motion for Reconsideration is hereby GRANTED. Accordingly, the Decision dated April 13, 2010 granting petitionerâs claim in the reduced amount of P2,737,903.34 is hereby 
+REVERSED AND SET ASIDE
+. Consequently, the instant Petition for Review is hereby 
+DENIED
+ due to insufficiency of evidence.
+SO ORDERED.
+[5]
+Aggrieved, petitioner elevated the case to the CTA En Banc praying for the reversal of the Amended Decision of the CTA Division.
+In its March 22, 2013 Decision,
+[6]
+ the CTA-En Banc affirmed the Amended Decision of the CTA-Division. It stated that before a cash refund or an issuance of tax credit certificate for unutilized excess tax credits could be granted, it was essential for petitioner to establish and prove, by presenting the quarterly ITRs of the succeeding years, that the excess CWT was not carried over to the succeeding taxable quarters considering that the option to carry over in the succeeding taxable quarters could not be modified in the final adjustment returns 
+(FAR)
+. Because petitioner did not present the first, second and third quarterly ITRs for CY 2004, despite having offered and submitted the Annual ITR/FAR for the same year, the CTA-En Banc stated that the petitioner failed to discharge its burden, hence, no refund could be granted. In justifying its conclusions, the CTA-En Banc cited its own case of 
+Millennium Business Services, Inc. v. Commissioner of Internal Revenue (Millennium)
+[7]
+ wherein it held as follows:
+Since the burden of proof is upon the claimant to show that the amount claimed was not utilized or carried over to the succeeding taxable quarters, the presentation of the succeeding quarterly income tax return and final adjustment return is indispensable to prove that it did not carry over or utilized the claimed excess creditable withholding taxes. Absent thereof, there will be no basis for  a taxpayerâs claim for refund since there will be no evidence that the taxpayer did not carry over or utilize the claimed excess creditable withholding taxes to the succeeding taxable quarters.
+Significantly, a taxpayer may amend its quarterly income tax return or annual income tax return or Final Adjustment Return, which in any case may modify the previous intention to carry-over, apply as tax credit certificate or refund, as the case may be. But the option to carry over in the succeeding taxable quarters under the irrevocability rule cannot be modified in its final adjustment return.
+The presentation of the final adjustment return does not shift the burden of proof that the excess creditable withholding tax was not utilized or carried over to the first three (3) taxable quarters. It remains with the taxpayer claimant. It goes without saying that final adjustment returns of the preceding and the succeeding taxable years are not sufficient to prove that the amount claimed was utilized or carried over to the first three (3) taxable quarters.
+The importance of the presentation of the succeeding quarterly income tax return and the annual income tax return of the subsequent taxable year need not be overly emphasized. All corporations subject to income tax, are required to file quarterly income tax returns, on a cumulative basis for the preceding quarters, upon which payment of their income tax has been made. In addition to the quarterly income tax returns, corporations are required to file a final or adjustment return on or before the fifteenth day of April. The quarterly income tax return, like the final adjustment return, is the most reliable firsthand evidence of corporate acts pertaining to income taxes, as it includes the itemization and summary of additions to and deductions from the income tax due. These entries are not without rhyme or reason. They are required, because they facilitate the tax administration process, and guide this Court to the veracity of a petitionerâs claim for refund without which petitioner could not prove with certainty that the claimed amount was not utilized or carried over to the succeeding quarters or the option to carry over and apply the excess was effectively chosen despite the intent to claim a refund.
+In the same vein, if the government wants to disprove that the excess creditable withholding tax was not utilized or carried over to the succeeding taxable quarters, the presentation of the succeeding quarterly income tax return and the annual income tax return of the subsequent taxable year indicating utilization or carrying over are [sic] indispensible. However, the claimant must first establish its claim for refund, such that it did not utilize or carry over or that it opted to utilize and carry over to the 1st, 2nd, 3rd quarters and final adjustment return of the succeeding taxable year.
+Concomitantly, the presentation of the quarterly income tax return and the annual income tax return to prove the fact that excess creditable withholding tax was not utilized or carried over or opted to be utilized and carried over to the 1st, 2nd, 3rd quarters and final adjustment return of the succeeding taxable quarter is not only for convenience to facilitate the tax administration process but it is part of the requisites to establish the claim for refund. Section 76 of the NIRC of 1997 provides that if the taxpayer claimant carries over and applies the excess quarterly income tax against the income tax due for the taxable quarters of the succeeding taxable years, the same is irrevocable and no application for cash refund or issuance of a tax credit certificate shall be allowed.
+[8]
+Hence, this petition.
+Noteworthy is the fact that the CTA-
+En Banc
+ ruling was met with two dissents from Associate Justices Juanito C. CastaÃ±eda (
+Justice CastaÃ±eda
+) and Esperanza R. Fabon-Victorino (
+Justice Fabon-Victorino
+).
+In his Dissenting Opinion
+[9]
+ which was concurred in by Justice Fabon-Victorino, Justice CastaÃ±eda expressed the view that the CTA-
+En Banc
+ should have reinstated the CTA-Divisionâs original decision because in the cases of 
+Philam Asset Management Inc. v. Commissioner of Internal Revenue (Philam)
+;
+[10]
+ 
+State Land Investment Corporation v. Commissioner of Internal Revenue (State Land)
+;
+[11]
+ 
+Commissioner of Internal Revenue v. PERF Realty Corporation (PERF Realty)
+;
+[12]
+ and 
+Commissioner of Internal Revenue v. Mirant (Philippines) Operations, Corporation (Mirant)
+,
+[13]
+ this Court already ruled that requiring the ITR or the FAR for the succeeding year in a claim for refund had no basis in law and jurisprudence. According to him, the submission of the FAR of the succeeding taxable year was not required under the law to prove the claimantâs entitlement to excess or unutilized CWT, and by following logic, the submission of quarterly income tax returns for the subsequent taxable period was likewise unnecessary. He found no justifiable reason not to follow the existing rulings of this Court.
+Petitionerâs reasoning in this petition echoes the dissenting opinion of Justice Castaneda. It further submits that despite the non-presentation of the quarterly ITRs, it has sufficiently shown that the excess CWT for CY 2003 was not carried over or applied to its income tax liabilities for CY 2004, as shown in the Annual ITR for 2004 it submitted. Thus, petitioner insists that its refund should have been granted. Petitioner further avers, in its Reply,
+[14]
+ that even if 
+Millennium Business 
+case was applicable, such must be given prospective effect considering that this case was litigated on the basis of the doctrines laid down in 
+Philam, State Land
+ and 
+PERF Realty
+ cases wherein the submission of quarterly ITRs in a case for tax refund was held by this Court as not mandatory.
+In its Comment,
+[15]
+ the CIR counters that even if the taxpayer signifies the option for either tax refund or carry-over as tax credit, this does not 
+ipso facto
+ confer the right to avail of the option immediately. There is a need, according to the CIR, for an investigation to ascertain the correctness of the corporate returns and the amount sought to be credited; and part of which is to look into the quarterly returns so that it may be determined whether or not excess and unutilized CWT was carried over into the succeeding quarters of the next taxable year. Because the pertinent quarterly ITRs were not presented, the CIR submits that the petitioner failed to prove its right to a tax refund.
+Issue
+The sole issue here is whether the submission and presentation of the quarterly ITRs of the succeeding quarters of a taxable year is indispensable in a claim for refund.
+The Courtâs Ruling
+The Court recognizes, as it always has, that the burden of proof to establish entitlement to refund is on the claimant taxpayer.
+[16]
+ Being in the nature of a claim for exemption,
+[17]
+ refund is construed in 
+strictissimi juris
+ against the entity claiming the refund and in favor of the taxing power.
+[18]
+ This is the reason why a claimant must positively show compliance with the statutory requirements provided for under the NIRC in order to successfully pursue oneâs claim. As implemented by the applicable rules and regulations and as interpreted in a vast array of decisions, a taxpayer who seeks a refund of excess and unutilized CWT must:
+1) File the claim with the CIR within the two year period from the date of payment of the tax;
+2) Show on the return that the income received was declared as part of the gross income; and
+3) Establish the fact of withholding by a copy of a statement duly issued by the payor to the payee showing the amount paid and the amount of tax withheld.
+[19]
+The original decision of the CTA-Division made plain that the petitioner complied with the above requisites in so far as the reduced amount of P2,737,903.34 was concerned.  In the amended decision, however, it was pointed out that because petitioner failed to present the quarterly ITRs of the subsequent year, there was an impossibility of determining compliance with the irrevocability rule under Section 76 of the NIRC as in those documents could be found evidence of whether the excess CWT was applied to its income tax liabilities in the quarters of 2004. The irrevocability rule under Section 76 of the NIRC means that once an option, either for refund or issuance of tax credit certificate or carry-over of CWT has been exercised, the same can no longer be modified for the succeeding taxable years.
+[20]
+ For said reason, the CTA-En Banc affirmed the conclusion in the amended decision that because of the said impossibility, the claim for refund was not substantiated.
+The CIR agrees with the disposition of the CTA-
+En Banc
+, stressing that the petitioner failed to carry out the burden of showing that no carry-over was made when it did not present the quarterly ITRs for CY 2004.
+Petitioner disagrees, as the dissents did, that the non-submission of quarterly ITRs is fatal to its claim.
+Hence, the issue on the indispensability of quarterly ITRs of the succeeding taxable year in a claim for refund.
+The Court finds for the petitioner.
+There is no question that those who claim must not only prove its entitlement to the excess credits, but likewise must prove that no carry-over has been made in cases where refund is sought.
+In this case, the fact of having carried over petitionerâs 2003 excess credits to succeeding taxable year is in issue. According to the CTA-
+En Banc 
+and the CIR, the only evidence that can sufficiently show that carrying over has been made is to present the quarterly ITRs. Some members of this Court adhere to the same view.
+The Court however cannot.
+Proving that no carry-over has been made does not absolutely require the presentation of the quarterly ITRs.
+In 
+Philam
+, the petitioner therein sought for recognition of its right to the claimed refund of unutilized CWT. The CIR opposed the claim, on the grounds similar to the case at hand, that no proof was provided showing the non-carry over of excess CWT to the subsequent quarters of the subject year. In a categorical manner, the Court ruled that the presentation of the quarterly ITRs was not necessary. Therein, it was written:
+Requiring that the ITR or the FAR of the succeeding year be presented to the BIR in requesting a tax refund has no basis in law and jurisprudence.
+First, Section 76 of the Tax Code does not mandate it. The law merely requires the filing of the FAR for the preceding â not the succeeding â taxable year. Indeed, any refundable amount indicated in the FAR of the preceding taxable year may be credited against the estimated income tax liabilities for the taxable quarters of the succeeding taxable year. However, nowhere is there even a tinge of a hint in any provisions of the [NIRC] that the FAR of the taxable year following the period to which the tax credits are originally being applied should also be presented to the BIR.
+Second, Section 5 of RR 12-94, amending Section 10(a) of RR 6-85, merely provides that claims for refund of income taxes deducted and withheld from income payments shall be given due course only (1) when it is shown on the ITR that the income payment received is being declared part of the taxpayerâs gross income; and (2) when the fact of withholding is established by a copy of the withholding tax statement, duly issued by the payor to the payee, showing the amount paid and the income tax withheld from that amount.
+It has been submitted that 
+Philam
+ cannot be cited as a precedent to hold that the presentation of the quarterly income tax return is not indispensable as it appears that 
+the quarterly returns for the succeeding year were presented 
+when the petitioner therein filed an administrative claim for the refund of its excess taxes withheld in 1997.
+It appears however that there is misunderstanding in the ruling of the Court in 
+Philam
+. That factual distinction does not negate the proposition that subsequent quarterly ITRs are not indispensable. The logic in not requiring quarterly ITRs of the succeeding taxable years to be presented remains true to this day. What Section 76 requires, just like in all civil cases, is to prove the 
+prima facie
+ entitlement to a claim, including the fact of not having carried over the excess credits to the subsequent quarters or taxable year. It does not say that to prove such a fact, succeeding quarterly ITRs are absolutely needed.
+This simply underscores the rule that any document, other than quarterly ITRs may be used to establish that indeed the non-carry over clause has been complied with, provided that such is competent, relevant and part of the records. The Court is thus not prepared to make a pronouncement as to the indispensability of the quarterly ITRs in a claim for refund for no court can limit a party to the means of proving a fact for as long as they are consistent with the rules of evidence and fair play. The means of ascertainment of a fact is best left to the party that alleges the same. The Courtâs power is limited only to the appreciation of that means pursuant to the prevailing rules of evidence. To stress, what the NIRC merely requires is to sufficiently prove the existence of the non-carry over of excess CWT in a claim for refund.
+The implementing rules similarly support this conclusion, particularly Section 2.58.3 of Revenue Regulation No. 2-98 thereof. There, it provides as follows:
+SECTION 2.58.3. 
+Claim for Tax Credit or Refund.
+(A)  The amount of creditable tax withheld shall be allowed as a tax credit against the income tax liability of the payee in the quarter of the taxable year in which income was earned or received.
+(B)  Claims for tax credit or refund of any creditable income tax which was deducted and withheld on income payments shall be given due course only when it is shown that the income payment has been declared as part of the gross income and the fact of withholding is established by a copy of the withholding tax statement duly issued by the payer to the payee showing the amount paid and the amount of tax withheld therefrom.
+xxx  xxx  xxx
+Evident from the above is the absence of any categorical pronouncement of requiring the presentation of the succeeding quarterly ITRs in order to prove the fact of non-carrying over. To say the least, the Court rules that as to the means of proving it, It has no power to 
+unduly
+ restrict it.
+In this case, it confounds the Court why the CTA did not recognize and discuss in detail the sufficiency of the annual ITR for 2004,
+[21]
+ which was submitted by the petitioner. The CTA in fact said:
+In the present case, while petitioner did offer its Annual ITR/Final Adjustment Return for taxable year 2004, it appears that petitioner miserably failed to submit and offer as part of its evidence the first, second, and third Quarterly ITRs for the year 2004. Consequently, petitioner was not able to prove that it did not exercise its option to carry-over its excess CWT.
+[22]
+Petitioner claims that the requirement of proof showing the non-carry over has been established in said document.
+Indeed, an annual ITR contains the total taxable income earned for the four (4) quarters of a taxable year, as well as deductions and tax credits previously reported or carried over in the quarterly income tax returns for the subject period. A quick look at the Annual ITR reveals this fact:
+Aggregate Income Tax Due
+Less Tax Credits/Payments
+Prior Yearâs excess Credits â Taxes withheld
+Tax Payment (s) for the Previous Quarter (s) of the same taxable year other than MCIT
+xxx  xxx  xxx
+Creditable Tax Withheld for the Previous Quarter (s)
+Creditable Tax Withheld Per BIR Form No. 2307 for this Quarter
+xxx  xxx  xxx
+[23]
+It goes without saying that the annual ITR (including any other proof that may be sufficient to the Court) can sufficiently reveal whether carry over has been made in subsequent quarters even if the petitioner has chosen the option of tax credit or refund in the immediately 2003 annual ITR.
+Section 76 of the NIRC requires a corporation to file a Final Adjustment Return (or Annual ITR) covering the total taxable income for the preceding calendar or fiscal year. The total taxable income contains the combined income for the four quarters of the taxable year, as well as the deductions and excess tax credits carried over in the quarterly income tax returns for the same period.
+If the excess tax credits of the preceding year were deducted, whether in whole or in part, from the estimated income tax liabilities of any of the taxable quarters of the succeeding taxable year, the total amount of the tax credits deducted for the entire taxable year should appear in the Annual ITR under the item âPrior Yearâs Excess Credits.â Otherwise, or if the tax credits were carried over to the succeeding quarters and the corporation did not report it in the annual ITR, there would be a discrepancy in the amounts of combined income and tax credits carried over for all quarters and the corporation would end up shouldering a bigger tax payable. It must be remembered that 
+taxes computed in the quarterly returns are mere estimates. It is the annual ITR which shows the aggregate amounts of income, deductions, and credits for all quarters of the taxable year. It is the final adjustment return which shows whether a corporation incurred a loss or gained a profit during the taxable quarter.
+[24]
+ Thus, the presentation of the annual ITR would suffice in proving that prior yearâs excess credits were not utilized for the taxable year in order to make a final determination of the total tax due.
+In this case, petitioner reported an overpayment in the amount of P7,194,213.00 in its annual ITR for the year ended December 2003:
+ 
+ 
+Annual ITR 2003
+ 
+ 
+ 
+ 
+Income Tax Due
+ 
+1,259,259.00
+ 
+ 
+ 
+Less: Prior Yearâs Excess Credits (2002 Annual ITR)
+ 
+(4,379,518.00)
+ 
+ 
+ 
+ 
+Creditable Tax Withheld for the 4th Quarter
+ 
+(4,073,954.00)
+ 
+ 
+ 
+Tax Payable / (Overpayment)
+ 
+(7,194,213.00)
+ 
+ 
+For the overpayment, petitioner chose the option âTo be issued a Tax Credit Certificate.â In its Annual ITR for the year ended December 2004, petitioner did not report the Creditable Tax Withheld for the 4th quarter of 2003 in the amount of P4,073,954.00 as prior yearâs excess credits. As shown in the 2004 ITR:
+ 
+ 
+Annual ITR 2004
+ 
+ 
+ 
+ 
+Income Tax Due
+ 
+1,321,409.00
+ 
+ 
+ 
+Less: Prior Yearâs Excess Credits 
+ 
+-
+ 
+ 
+ 
+ 
+Creditable Tax Withheld for the 4th Quarter
+ 
+(3,689,419.00)
+ 
+ 
+ 
+Tax Payable / (Overpayment)
+ 
+(2,368,010.00)
+ 
+ 
+Verily, the absence of any amount written in the Prior Year excess Credit â Tax Withheld portion of petitionerâs 2004 annual ITR clearly shows that no prior excess credits were carried over in the first four quarters of 2004.
+ And since petitioner was able to sufficiently prove that excess tax credits in 2003 were not carried over to taxable year 2004 by leaving the item âPrior Yearâs Excess Creditsâ as blank in its 2004 annual ITR, then petitioner is entitled to a refund. Unfortunately, the CTA, in denying entirely the claim, merely relied on the absence of the quarterly ITRs despite being able to verify the truthfulness of the declaration that no carry over was indeed effected by simply looking at the 2004 annual ITR.
+At this point, worth mentioning is the fact that subsequent cases affirm the proposition as correctly pointed out by petitioner. 
+State Land, PERF 
+and 
+Mirant
+ reiterated the rule that the presentation of the quarterly ITRs of the subsequent year is not mandatory on the part of the claimant to prove its claims.
+There are some who challenges the applicability of 
+PERF 
+in the case at bar. It is said that 
+PERF
+ is not in point because the Annual ITR for the succeeding year had actually been attached to 
+PERFâs
+ motion for reconsideration with the CTA and had formed part of the records of the case.
+Clearly, if the Annual ITR has been recognized by this Court in 
+PERF
+, why then would the submitted 2004 Annual ITR in this case be insufficient despite the absence of the quarterly ITRs? Why then would this Court require more than what is enough and deny a claim even if the minimum burden has been overcome? At best, the existence of quarterly ITRs would have the effect of strengthening a proven fact. And as such, may only be considered corroborative evidence, obviously not indispensable in character. 
+PERF
+ simply affirms that quarterly ITRs are not indispensable, provided that there is sufficient proof that carrying over excess CWT was not effected.
+Stateland
+ and 
+Mirant 
+are equally challenged. In all these cases however, the factual distinctions only serve to bolster the proposition that succeeding quarterly ITRs are not indispensable. Implicit from all these cases is the Courtâs recognition that proving carry-over is an evidentiary matter and that the submission of quarterly ITRs is but a means to prove the fact of oneâs entitlement to a refund and not a condition 
+sine qua non
+ for the success of refund. True, it would have been better, easier and more efficient for the CTA and the CIR to have as basis the quarterly ITRs, but it is not the only way considering further that in this case, the Annual ITR for 2004 is sufficient. Courts are here to painstakingly weigh evidence so that justice and equity in the end will prevail.
+It must be emphasized that once the requirements laid down by the NIRC have been met, a claimant should be considered successful in discharging its burden of proving its right to refund. Thereafter, the burden of going forward with the evidence, as distinct from the general burden of proof, shifts to the opposing party,
+[25]
+ that is, the CIR. It is then the turn of the CIR to disprove the claim by presenting contrary evidence which could include the pertinent ITRs easily obtainable from its own files.
+All along, the CIR espouses the view that it must be given ample opportunity to investigate the veracity of the claims. Thus, the Court asks: In the process of investigation at the administrative level to determine the right of the petitioner to the claimed amount, did the CIR, with all its resources even attempt to verify the quarterly ITRs it had in its files? Certainly, it did not as the application was met by the inaction of the CIR. And if desirous in its effort to clearly verify petitionerâs claim, it should have had the time, resources and the liberty to do so. Yet, nothing was produced during trial to destroy the 
+prima facie
+ right of the petitioner by counterchecking the claims with the quarterly ITRs the CIR has on its file. To the Court, it seems that the CIR languished on its duties to ascertain the veracity of the claims and just hoped that the burden would fall on the petitionerâs head once the issue reaches the courts.
+This mindset ignores the rule that the CIR has the equally important responsibility of contradicting petitionerâs claim by presenting proof readily on hand once the burden of evidence shifts to its side. Claims for refund are civil in nature and as such, petitioner, as claimant, though having a heavy burden of showing entitlement, need only prove preponderance of evidence in order to recover excess credit in cold cash. To review, â[P]reponderance  of evidence is [defined as] the weight, credit, and value of the aggregate evidence 
+on either side
+ and is usually considered to be synonymous with the term âgreater weight of the evidenceâ or âgreater weight of the credible evidence.â  It is evidence which is more convincing to the court as worthy of belief than that which is offered in opposition thereto.
+[26]
+The CIR must then be reminded that in 
+Philam
+, the CIRâs â
+failure to present
+ [the quarterly ITRs and AFR] to support its contention against the grant of a tax refund to [a claimant] is certainly fatal.â PERF reinforces this with a sweeping statement holding that the verification process is not incumbent on 
+PERF
+ [or any claimant for that matter]; [but] is the duty of the CIR to verify whether xxx excess income taxes [have been carried over].
+And should there be a possibility that a claimant may have violated the irrevocability rule and thereafter claim twice from its credits, no one is to be blamed but the CIR for not discharging its burden of evidence to destroy a claimantâs right to a refund. At any rate, a claimant who defrauds the government cannot escape liability be it criminal or civil in nature.
+Verily, with the petitioner having complied with the requirements for refund, and without the CIR showing contrary evidence other than its bare assertion of the absence of the quarterly ITRs, copies of which are easily verifiable by its very own records, the burden of proof of establishing the propriety of the claim for refund has been sufficiently discharged. Hence, the grant of refund is proper.
+The Court does not, and cannot, however, grant the entire claimed amount as it finds no error in the original decision of the CTA Division granting refund to the reduced amount of P2,737,903.34. This finding of fact is given respect, if not finality, as the CTA,
+[27]
+ which by the very nature of its functions of dedicating itself exclusively to the consideration of the tax problems has necessarily developed an expertise on the subject.
+[28]
+ It being the case, the Court partly grants this petition to the extent of reinstating the April 23, 2010 original decision of the CTA Division.
+The Court reminds the CIR that substantial justice, equity and fair play take precedence over technicalities and legalisms. The government must keep in mind that it has no right to keep the money not belonging to it, thereby enriching itself at the expense of the law-abiding citizen
+[29]
+ or entities who have complied with the requirements of the law in order to forward the claim for refund.  Under the principle of 
+solution indebiti
+ provided in Article 2154 of the Civil Code, the CIR must return anything it has received.
+[30]
+Finally, even assuming that the Court reverses itself and pronounces the indispensability of presenting the quarterly ITRs to prove entitlement to the claimed refund, petitioner should not be prejudiced for relying on Philam. The CTA 
+En Banc 
+merely based its pronouncement on a case that does not enjoy the benefit of 
+stare decis et non quieta movere 
+which means "to adhere to precedents, and not to unsettle things which are established."
+[31]
+ As between a CTA 
+En Banc
+ Decision (
+Millennium
+) and this Courtâs Decision (
+Philam
+), it is elementary that the latter should prevail.
+WHEREFORE
+, the Court partly grants the petition. The March 22, 2013 Decision of the Court of Tax Appeals 
+En Banc
+ is 
+REVERSED
+. The April 13, 2010 Decision of the Court of Tax Appeals Special First Division is 
+REINSTATED
+. Respondent Commissioner of Internal Revenue is ordered to 
+REFUND
+ to petitioner the amount of P2,737,903.34 as excess creditable withholding tax paid for taxable year 2003.
+SO ORDERED.
+Carpio, (Chairperson), 
+and 
+Velasco, Jr.,
+*
+ Del Castillo,  JJ
+., concur.
+Leonen, J., 
+I dissent. see separate opinion.
+*
+ Designated Acting member in lieu of Associate Justice Arturo D. Brion, per Special Order No. 1910, dated January 12, 2015.
+[1]
+ 
+Rollo
+, pp. 36-49. Penned by Associate Justice Erlinda P. Uy, with Associate Justices Lovell R. Bautista, Caesar A. Casanova, Cielito N. Mindaro-Grulla and Amelita R. Cotangco-Manalastas, concurring and with Associate Justices Juanito C. CastaÃ±eda and Esperanza R. Fabon-Victorino, dissenting.
+[2]
+ Id. at 56-69. Penned by Associate Justice Caesar A. Casanova, with then Presiding Justice Ernesto D. Acosta and Associate Justice Lovell R. Bautista, concurring.
+[3]
+ Id. at 68.
+[4]
+ Id. at 71-85. Penned by Associate Justice Caesar A. Casanova, with Presiding Justice Ernesto D. Acosta, concurring.
+[5]
+ Id. at 84-85.
+[6]
+ Id. at 36-49. Penned by Associate Justice Erlinda P. Uy, with Associate Justices Lovell R. Bautista, Caesar A. Casanova, Cielito N. Mindaro-Grulla and Amelita R. Cotangco-Manalastas, concurring and with Associate Justices Juanito C. CastaÃ±eda and Esperanza R. Fabon-Victorino, dissenting.
+[7]
+ CTA EB No. 510, Decision dated September 28, 2010, with Entry of Judgment dated October 28, 2010,  https://www.google.com.ph/?gws_rd=ssl#q=CTA+EB+510+; last visited August 29, 2014.
+[8]
+ 
+Rollo,
+ p. 45-47. Penned by Associate Justice Cielito N. Mindaro-Grulla, with then Presiding Justice Ernesto D. Acosta, Associate Justices Juanito C. CastaÃ±eda, Lovell R. Bautista, Erlinda P. Uy, Caesar A. Casanova, Olga Palanca-Enriquez and Amelia R. Cotangco-Manalastas, concurring.
+[9]
+  Id. at 50-54.
+[10]
+ 514 Phil. 147 (2005).
+[11]
+ 566 Phil. 113 (2008).
+[12]
+ 579 Phil. 442 (2008).
+[13]
+ G.R. No. 171742, June 15, 2011, 652 SCRA 80.
+[14]
+ 
+Rollo,
+ no pagination [counted as pp. 121-131].
+[15]
+ Id. at 90-106.
+[16]
+ 
+Eastern Telecommunications Philippines, Inc. v. Commissioner of Internal Revenue, 
+G.R. No. 168856, August 29, 2012, 679 SCRA 305, 316, citing 
+Philippine Phosphate Fertilizer Corporation v. Commissioner of Internal Revenue,
+ 500 Phil. 149, 163 (2005).
+[17]
+ 
+Commissioner of Internal Revenue v. Solidbank Corp.,
+ 462 Phil. 96, 132 (2003); citations omitted.
+[18]
+ 
+Atlas Consolidated Mining and Development Corporation v. Commissioner of Internal Revenue
+, 569 Phil. 483, 494 (2008).
+[19]
+ 
+Commissioner of Internal Revenue v. Mirant (Philippines) Operations Corporation
+, G.R. No. 171742, June 15, 2011, 652 SCRA 80, 95 and 
+Commissioner of Internal Revenue v. Team (Philippines) Operations Corporation
+, G.R. No. 185728, October 16, 2013, 707 SCRA 467, 474, citing 
+Commissioner of Internal Revenue v. Far East Bank & Trust Company (now Bank of the Philippine Islands)
+, G.R. No. 173854, March 15, 2010, 615 SCRA 417, 424, further citing
+ Banco Filipino Savings and Mortgage Bank v. Court of Appeals
+, 548 Phil. 32, 36-37 (2007).
+[20]
+ 
+Asiaworld Properties Philippine Corporation v. Commissioner of Internal Revenue,
+ G.R. No. 171766, July 29, 2010, 626 SCRA 172, 179.
+[21]
+ CA records, Vol. 1, pp. 809-810.
+[22]
+ 
+Rollo,
+ p. 45.
+[23]
+ 
+See 
+BIR Form No. 1702 Annual Income Tax Return.
+[24]
+ 
+BPI-Family Savings Bank, Inc. v. Court of Appeals,
+ 386 Phil. 719 (2000).
+[25]
+ 
+Jimenez v. National Labor Relations Commission,
+ 326 Phil. 89, 95 (1996).
+[26]
+ 
+PeÃ±alber v. Ramos
+, G.R. No. 178645, January 30, 2009, 577 SCRA 509, 526-527, citing 
+Ong v. Yap
+, 492 Phil. 188, 196-197 (2005). Emphasis supplied.
+[27]
+ 
+Commissioner of Internal Revenue v. Toledo Power, Inc.,
+ G.R. No. 183880, January 20, 2014, 714 SCRA 276.
+[28]
+ 
+Commissioner of Internal Revenue v. Mirant (Philippines) Operations Corporation
+, supra note 19, at 94, citing 
+Toshiba Information Equipment (Phils.), Inc. v. Commissioner of Internal Revenue,
+ G.R. No. 157594, March 9, 2010, 614 SCRA 526, 561, further citing
+ Commissioner of Internal Revenue v. Cebu Toyo Corporation
+, 491 Phil. 625, 640 (2005), further citing
+ Barcelon, Roxas Securities, Inc. (now known as UBP Securities, Inc.) v. Commissioner of Internal Revenue
+, 529 Phil. 785, 794-795 (2006).
+[29]
+ Supra note 24.
+[30]
+ 
+State Land Investment Corporation v. Commissioner of Internal Revenue,
+ 566 Phil. 113, 122 (2008).
+[31]
+ 
+Confederation of Sugar Producers Association, Inc. v. Department of Agrarian Reform (DAR)
+, 548 Phil. 498, 534 (2007), citing Black's Law Dictionary, Fifth Edition.
+DISSENTING OPINION
+LEONEN, 
+J
+.:
+I disagree with the ponencia that the submission of quarterly income tax returns of the succeeding year is not indispensable in a claim for refund of the previous yearâs excess or unutilized creditable withholding taxes.
+Section 76 of the 1997 National Internal Revenue Code is clear and categorical that once the taxpayer chooses to carry over and apply its income tax overpayments against the income tax due for the quarters of the succeeding taxable year, such option shall be considered irrevocable.  The taxpayer can no longer make a turnaround and claim instead a refund of the overpayments.  I submit that 
+both
+ the quarterly income tax returns (for the first to third quarters) and the income tax return/final adjustment return (ITR/FAR) of the succeeding year are indispensable proofs to show whether the taxpayer availed of the carry-over option or not.
+It must be emphasized that this is the first time that the indispensability of presenting the quarterly returns in tax refund claims in light of Section 76 of the 1997 National Internal Revenue Code is raised.
+The cases cited in the ponencia, namely, 
+Philam Asset Management, Inc. v. Commissioner of Internal Revenue,
+[1]
+ State Land Investment Corporation v. Commissioner of Internal Revenue
+,
+[2]
+ 
+Commissioner of Internal Revenue v. PERF Realty Corporation,
+[3]
+ and 
+Commissioner of Internal Revenue v. Mirant (Philippines) Operations Corporation
+[4]
+ are not squarely in point.
+Philamâs
+ ruling in G.R. No. 156337
+[5]
+ that the presentation to the Bureau of Internal Revenue of the ITR/FAR of the succeeding year has no legal basis was premised on the old provision (Section 69 of the 1977 National Internal Revenue Code), which did not yet contain the âirrevocable clause.â  Instead, the old provision merely provided that â[i]n case the corporation is entitled to a refund of the excess estimated quarterly income taxes paid, the refundable amount shown on its final adjustment return may be credited against the estimated quarterly income tax liabilities for the taxable quarters of the succeeding taxable year.â
+Section 69 provides:
+Section 69
+[6]
+.  
+Final Adjustment Return.
+ -- Every corporation liable to tax under Section 24 shall file a final adjustment return covering the total net income for the preceding calendar or fiscal year.  If the sum of the quarterly tax payments made during the said taxable year is not equal to the total tax due on the entire taxable net income of that year[,] the corporation shall either:
+(a) Pay the excess tax still due; or
+(b) Be refunded the excess amount paid, as the case may be.
+In case the corporation is entitled to a refund of the excess estimated quarterly income taxes paid, the refundable amount shown on its final adjustment return may be credited against the estimated quarterly income tax liabilities for the taxable quarters of the succeeding taxable year.
+On the other hand, Section 76 included that â[o]nce the option to carry-over and apply the excess quarterly income tax against income tax due for the taxable quarters of the succeeding taxable years has been made, such option shall be considered irrevocable for that taxable period and no application for cash refund or issuance of a tax credit certificate shall be allowed therefor.â
+Moreover, the presentation in 
+Philam
+ of the 1998 ITR/FAR was not necessary because the taxpayer had apparently submitted its quarterly returns for 1998 showing it did not carry over and apply its 1997 excess creditable taxes, coupled with the filing of its administrative claim for refund on September 11, 1998 even before the yearâs end.
+State Land 
+was likewise decided on the basis of Section 69 of the 1977 National Internal Revenue Code.  This court held that âif the excess income taxes paid in a given taxable year have not been entirely used by a . . . corporation against its quarterly income tax liabilities for the next taxable year, the unused amount of the excess may still be refunded, provided that the claim for such a refund is made within two years.â
+[7]
+  Accordingly, the amount of State Landâs excess tax credit in 1997 that was not used in 1998 was allowed to be refunded.  In this regard, this court further held that it was not necessary on the part of State Land to file its 1999 income tax return because pursuant to then Section 69, it could not utilize its 1997 excess credits beyond 1998.
+[8]
+PERF
+ was similarly decided on the basis of the old tax provision.  This court held that PERFâs failure to indicate its option in its income tax return to avail of either the tax refund or tax credit was not fatal to its claim for refund.
+[9]
+  Moreover, it was determined that there was no need to rule on the admissibility of the income tax return for the succeeding year (1998 income tax return) because it had actually been attached to PERFâs Motion for Reconsideration before the Court of Tax Appeals and had formed part of the records of the case.  The income tax return showed that the excess credits in 1997 were not carried over and applied in 1998.
+[10]
+On the other hand, while
+ Mirant 
+was decided on the basis of Section 76 of the 1997 National Internal Revenue Code, it did not touch on the issue of presenting the quarterly income tax returns.  Understandably, because in that case, Mirant opted to carry over its tax overpayment for 1999 by ticking the box in the return signifying that the overpayment was âto be carried over as tax credit next year/quarter.â
+[11]
+  This court held that pursuant to the irrevocability rule in Section 76, Mirant was barred from applying for the refund/issuance of tax credit certificate of the overpayments.
+[12]
+In all of these cases â 
+Philam, State Land, PERF,
+ and 
+Mirant 
+â  the issue on the indispensability of presenting the quarterly income tax returns of the succeeding year in a refund claim was never raised especially in light of the âirrevocability ruleâ that was added by Republic Act No. 8424 in Section 76.  Here, this question was squarely raised as the core issue.
+The ponencia is of the view that the presentation of the quarterly income tax returns for 2004 is not indispensable because petitioner already submitted its 2004 income tax return.
+I submit that the presentation of 
+both
+ the quarterly income tax returns and the income tax return of the succeeding year is indispensable in a refund claim.  This is implicit in Section 76:
+SEC. 76. Final Adjustment Return
+. â Every corporation liable to tax under Section 27 shall file a final adjustment return covering the total taxable income for the preceding calendar or fiscal year.  If the sum of the quarterly tax payments made during the said taxable year is not equal to the total tax due on the entire taxable income of that year, the corporation shall either:
+(A) Pay the balance of tax still due; or
+(B) Carry-over the excess credit; or
+(C) Be credited or refunded with the excess amount paid, as the case may be.
+In case the corporation is entitled to a tax credit or refund of the excess estimated quarterly income taxes paid, 
+the excess amount shown on its final adjustment return may be carried over and credited against the estimated quarterly income tax liabilities for the taxable quarters of the succeeding taxable years.  
+Once the option to carry-over and apply the excess quarterly income tax against income tax due for the taxable quarters of the succeeding taxable years has been made, such option shall be considered irrevocable for that taxable period and no application for cash refund or issuance of a tax credit certificate shall be allowed therefore
+. (Emphasis supplied)
+Section 76 introduced two significant changes in the National Internal Revenue Code: first, once the taxpayer has chosen the carry-over option, such option is irrevocable; and second, the excess tax payments may be carried over and applied against the income tax liabilities for the succeeding quarters of the succeeding taxable years until fully utilized.
+This court elucidated the differences between the two provisions in 
+Asiaworld Properties Philippine Corporation v. Commissioner of Internal Revenue
+:
+[13]
+Under [Section 69 of the old National Internal Revenue Code], the option to carry-over the excess or overpaid income tax for a given taxable year is limited to the immediately succeeding taxable year only.  In contrast, under Section 76 of the 1997 NIRC, the application of the option to carry-over the excess creditable tax is not limited only to the immediately following taxable year but extends to the next succeeding taxable years.  The clear intent in the amendment under Section 76 is to make the option, once exercised, irrevocable for the âsucceeding taxable years.â
+Thus, once the taxpayer opts to carry-over the excess income tax against the taxes due for the succeeding taxable years, such option is irrevocable for the whole amount of the excess income tax, thus, prohibiting the taxpayer from applying for a refund for that same excess income tax in the next succeeding taxable years.  The unutilized excess tax credits will remain in the taxpayerâs account and will be carried over and applied against the taxpayerâs income tax liabilities in the succeeding taxable years until fully utilized.
+[14]
+Section 76 is clear and categorical that once the carry-over option is chosen, it shall be considered 
+irrevocable
+ for the whole amount of the excess income tax and no application for a tax refund or issuance of a tax credit certificate shall then be allowed.
+[15]
+  It has been held that âthe irrevocable rule was evidently added to keep the taxpayer from flip-flopping on its options, and avoid confusion and complication as regards the taxpayer's excess tax credit.â
+[16]
+In 
+Philippine Bank of Communications v. Commissioner of Internal Revenue
+,
+[17]
+ this court ruled that a corporation must signify in its ITR/FAR (by marking the option box provided in the Bureau of Internal Revenue form) its intention, whether to request for a refund or claim for an automatic tax credit for the succeeding taxable year.  Item 31 of the income tax return (BIR Form No. 1702) indicates that âif overpayment, mark one box only: (once the choice is made, the same is irrevocable).â
+[18]
+Accordingly, when a taxpayer has marked the carry-over option box in its ITR/FAR, it is not entitled to a refund even though the excess tax credit was not utilized.
+[19]
+  The question of whether the taxpayer was able to actually apply the tax credit is irrelevant.  In such case, since the taxpayer is automatically barred from claiming a refund of the overpayment, there is no need to look at the ITR/FAR or the quarterly returns for the succeeding year.
+However, while a taxpayer is required to mark its choice (i.e., carry over, refund, or issuance of tax credit) in the ITR/FAR, this requirement is only for the proper management of claims for refund or tax credit.
+[20]
+  Hence, failure to signify oneâs intention in the ITR/FAR does not mean outright barring of a valid request for a refund, should one still choose this option later on.
+[21]
+It may also happen that a taxpayer may have marked the refund box in its return but nevertheless may have actually applied its excess tax payments to the taxable quarters of the succeeding taxable year by filling out the portion âprior yearâs excess creditsâ in any of its first, second, or third quarterly income tax returns.
+[22]
+  In such case, the taxpayer is deemed to have effectively negated its previous intention to claim for a refund.  Consequently, since it had effectively opted to carry over its overpayments, the taxpayer can no longer revert back to its original choice.
+Therefore, in both cases â when the taxpayer failed to mark its chosen option or when it marked the refund option â the examination of the quarterly income tax returns and the ITR/FAR of the subsequent taxable year becomes significant, in order to determine the taxpayerâs compliance with the explicit and categorical requirement under Section 76, i.e., that it did not actually carry over its excess tax credit to the succeeding quarters of the succeeding taxable year.
+True, petitionerâs 2004 income tax return shows that it did not carry over its claimed unutilized creditable withholding taxes to the succeeding taxable year 2004 because the item âprior yearâs excess creditsâ was left blank.  However, this is not enough to conclude that petitioner did not apply the said excess or unutilized creditable withholding taxes against the income tax due for the first three quarters of 2004.  The 2004 quarterly returns would have shown if petitioner effectively opted to carry over the 2003 excess or unutilized creditable withholding taxes to the subsequent taxable year.  If petitioner applied the said excess or unutilized creditable withholding taxes against the income tax due for the first three quarters of taxable year 2004, it therefore effectively exercised the option to carry over the 2003 excess or unutilized creditable withholding taxes to the succeeding year 2004.  Thus, its claim for refund should be denied.
+Indeed, Section 75 of the National Internal Revenue Code requires corporate taxpayers to file quarterly income tax returns showing âa quarterly summary declaration of its gross income and deductions on a cumulative basis for the preceding quarter or quarters upon which the income tax shall be paid.â  Section 76 allows excess tax payments to be applied against estimated quarterly tax liabilities.  Therefore, the earliest opportunity when taxpayers may carry over and apply their previous yearâs excess tax payments would be the first quarter of the succeeding year.
+It is granted that the taxes computed in the quarterly returns are mere estimates such that Section 76 requires the filing of the final adjustment return covering the total taxable income for the whole year.  Section 232 of the National Internal Revenue Code requires that the books of accounts of companies or persons with gross quarterly sales or earnings exceeding ?150,000.00 be audited and examined yearly by an independent Certified Public Accountant and their income tax return be accompanied by certified balance sheets, profit and loss statements, schedules listing income producing properties and the corresponding incomes therefrom, and other related statements.  Hence, the figures of gross receipts and deductions in the quarterly income tax returns are subject to audit and adjustment by the end of the year in the final adjustment return.
+[23]
+This means that a taxpayer may realize a net income in the first quarter but incur an estimated loss in the succeeding quarters resulting in a net loss by the end of the year.
+[24]
+  It may happen then that the previous yearâs overpayments, which a taxpayer seeks to be refunded by the end of the year, was actually carried over and included as "prior yearsâ excess credits" in the first quarter of the succeeding year.  As such, the refund claim by the end of the year cannot prosper because having exercised the carry-over option in the first quarter, the taxpayer is bound by the irrevocable rule.  This is the significance of requiring the presentation of the quarterly returns in addition to the ITR/FAR of the succeeding year.
+While a taxpayer is allowed to modify or amend its quarterly income tax returns or annual income tax return under Section 6 of the National Internal Revenue Code,
+[25]
+ an exception would be the irrevocable rule under Section 76 such that a taxpayer which opted to carry over its previous yearâs overpayments in the succeeding first, second, or third quarterly returns can no longer change its previous intention to carry over.
+To reiterate, the 2004 ITR/FAR alone is not sufficient proof that petitioner did not exercise the carry-over option in any of the quarters of 2004.  The best evidence to prove that it did not exercise the carry-over option in any of the quarters would be the quarterly returns.
+Thus, petitionerâs failure to present sufficient evidence to justify its claim for refund is fatal to its cause.  After all, it is axiomatic that a claimant has the burden of proof to establish the factual basis of its claim for tax credit or refund.  Tax refunds, like tax exemptions, are construed strictly against the taxpayer.
+[26]
+  "The taxpayer is charged with the heavy burden of proving that [it] has complied with and satisfied 
+all the statutory and administrative requirements
+ to be entitled to the tax refund."
+[27]
+Even if the claim for refund was filed within the two-year prescriptive period, the fact of withholding of creditable taxes by the withholding agents was proven and the income upon which the withholding taxes were withheld was included as part of the gross income and was reflected in the preceding income tax return, nonetheless, the taxpayer should prove that the excess creditable withholding tax was not carried over to the taxable quarters of the succeeding taxable years.  Hence, the taxpayer-claimant must necessarily present the quarterly income tax returns and final adjustment return of the succeeding taxable year.  âEntitlement to a tax refund is for the taxpayer to prove and not for the government to disprove.â
+[28]
+Parenthetically, it would be faster to process claims for refund if all the pieces of information necessary to verify the veracity of the taxpayerâs claims were furnished by the taxpayer-claimant, including the quarterly returns and income tax return of the succeeding year than to have the Bureau of Internal Revenue search for these documents in its files.  Given the limited manpower of the Bureau of Internal Revenue to investigate all returns and requests, expediency necessitates that evidentiary matters be within the control of the taxpayer claiming a refund.  The Bureauâs primary function of tax collection should not be unduly delayed or hampered by incidental matters.  Requiring the taxpayer to submit sufficient evidence ensures a more prompt action on its claim for refund and promotes a more efficient outcome.
+Efficiency is achieved when tasks, which necessarily entail costs, are allocated to those who could best bear them.  A party that could best bear the cost is not necessarily the one who could do the task with the least cost, but a partyâs opportunity costs
+[29]
+ should also be taken into consideration.  This concept is known as 
+comparative
+ advantage.
+[30]
+  This is contrasted with 
+absolute
+ advantage,
+[31]
+ which does not take into consideration the opportunity costs.
+At first glance, it might seem that the Bureau of Internal Revenue is in a better position to assess if a taxpayer has already selected to carry over excess income tax payments.  It could be said that the Bureau of Internal Revenue has the 
+absolute
+ advantage over gaining this information, considering that the returns are filed with it.  However, the Bureau of Internal Revenue does not have 
+comparative
+ advantage over producing a single taxpayerâs previous returns for purposes of tax refund.  The Bureau of Internal Revenue manages millions of taxpayersâ returns.  Assessing if a taxpayerâs claim for refund has not yet been subject to carry over will entail the opportunity cost of the other functions of the Bureau of Internal Revenue.
+On the other hand, the taxpayer manages only its own taxes.  The taxpayer is aware of whether it has selected the option to carry over or the option to refund in its adjusted returns.  Requiring the taxpayer to present the adjusted returns does not entail substantial opportunity costs to it.  Hence, the allocation of the burden of proof to the taxpayer is more efficient than requiring the Bureau of Internal Revenue to do the same task.
+Indeed, why petitioner failed to present such a vital piece of evidence even during the trial phase of this case confounds this court.  The delay in this case could altogether have been avoided had it presented its quarterly income tax returns for 2004.  The â[non-production] of a document which courts almost invariably expect will be produced âunavoidably throws a suspicion over the cause.ââ
+[32]
+  Negligence consisting of the unexplained failure to offer a material document should not be rewarded with undeserved leniency.
+Finally, it must be emphasized that there would be no unjust enrichment to the government in the event of denial of the claim for refund under such circumstances because there would be no forfeiture of any amount favoring the government.  The amount being claimed as a refund would remain in the account of petitioner creditable against its future income tax liabilities until fully utilized.
+[33]
+ACCORDINGLY
+, I vote to 
+DENY
+ the Petition.  The Decision dated March 22, 2013 of the Court of Tax Appeals En Banc should be 
+AFFIRMED
+.
+[1]
+ 514 Phil. 147 (2005) [Per J. Panganiban, Third Division].  In 
+G.R. No. 156637
+, 
+Philam
+ paid excess income tax for 1997.  It did not indicate its option to carry over or refund said excess income tax in its income tax return for 1997.  On September 11, 1998, however, it filed a claim for refund of the same.  In 
+G.R. No. 162004
+, 
+Philam
+ incurred a net loss in 1998 and had unapplied excess creditable income tax for the same period in the amount of P459,756.07.  In its income tax return for the succeeding year of 1999, 
+Philam
+ reported a tax due of only P80,042.00, creditable withholding tax of P915,995.00, and excess credit carried over from 1998 of P459,756.07.  On November 14, 2000, 
+Philam
+ filed a claim for tax refund, alleging that its tax liability for 1999 was deducted from its creditable withholding tax for the same taxable period, leaving its excess tax credit carried over from 1998 still unapplied.
+[2]
+ 566 Phil. 113, 120â121 (2008) [Per J. Sandoval-Gutierrez, First Division].
+[3]
+ 579 Phil. 442 (2008) [Per J. Reyes, R.T., Third Division].
+[4]
+ G.R. No. 171742, June 15, 2011, 652 SCRA 80 [Per J. Mendoza, Second Division].
+[5]
+ The issue in G.R. No. 156637 of 
+Philam
+ was whether the presentation of the ITR/FAR of the succeeding year is necessary.  This court, in ruling that the 1998 ITR/FAR is not required in requesting a refund of excess taxes withheld in 1997, reasoned:
+1)  Section 76 does not mandate it.  The law merely requires the filing of the FAR for the preceding â not the succeeding â taxable year.
+2)  Section 5 of Revenue Regulation No. 12-94, amending Section 10(a) of Revenue Regulation No. 6-85,
+[5]
+ merely provides that claims for refund shall be given due course only (a) if it is shown on the income tax return that the income payment received is being declared part of the taxpayerâs gross income; and (b) when the fact of withholding is established by copy of the withholding tax statement, duly issued by the payor to the payee and showing the amount paid and the income tax withheld from that amount.
+3)  The Bureau of Internal Revenue must âhave on file its own copies of 
+Philamâs
+ [1998] FAR, on the basis of which it could rebut the assertion that there was no subsequent credit of the excess income tax payments for [1997].â
+4)  The Court of Tax Appeals should have taken judicial notice of the fact of filing and the pendency of 
+Philamâs
+ subsequent claim for a refund of excess creditable taxes withheld for 1998.
+It appears, though, that 
+Philam
+ presented its quarterly returns for 1998, as evident from the following findings of the court:
+In the present case, although petitioner did not mark the refund box in its 1997 FAR, neither did it perform any act indicating that it chose a tax credit.  On the contrary, it filed on September 11, 1998 an administrative claim for the refund of its excess taxes withheld in 1997.  
+In none of its quarterly returns for 1998 did it apply the excess creditable taxes.
+  Under these circumstances, petitioner is entitled to a tax refund of its 1997 excess tax credits in the amount of P522,092.00.
+[6]
+ 
+Philam
+ stated that Section 69 reappeared in the National Internal Revenue Code (or Tax Code) of 1997 as Section 76.
+[7]
+ 
+State Land Investment Corporation v. Commissioner of Internal Revenue
+, 566 Phil. 113, 120â121 (2008) [Per J. Sandoval-Gutierrez, First Division].
+[8]
+ Id. at 121.
+[9]
+ 
+Commissioner of Internal Revenue v. PERF Realty Corp., 
+579 Phil. 442, 448 (2008) [Per J. Reyes, R.T., Third Division].
+[10]
+ Id. at 448â454.
+[11]
+ 
+Commissioner of Internal Revenue v. Mirant (Philippines) Operations, Corporation,
+ G.R. No. 171742, June 15, 2011, 652 SCRA 80, 93â94 [Per J. Mendoza, Second Division].
+[12]
+ Id. at 100.
+[13]
+ 
+Asiaworld Properties Philippine Corporation v. Commissioner of Internal Revenue,
+ 640 Phil. 230 (2010) [Per J. Carpio, Second Division].
+[14]
+ Id. at 237.
+[15]
+ 
+United International Pictures AB v. Commissioner of Internal Revenue, 
+G.R. No. 168331, October 11, 2012, 684 SCRA 23 [Per J. Peralta, Third Division]; 
+Commissioner of Internal Revenue v. PL Management International Philippines, Inc., 
+662 Phil. 431 (2011) [Per J. Bersamin, Third Division]; 
+Belle Corporation v. Commissioner of Internal Revenue,
+ 654 Phil. 102 (2011) [Per J. Del Castillo, First Division];
+ Commissioner of Internal Revenue v. The Philippine American Life and General Insurance Co.
+, 646 Phil. 161 (2010) [Per J. Carpio, Second Division]; 
+Systra Philippines, Inc. v. Commissioner of Internal Revenue,
+ 560 Phil. 261 (2007) [Per J. Corona, First Division].
+[16]
+ 
+Commissioner of Internal Revenue v. Bank of the Philippine Islands,
+ 609 Phil. 678 (2009) [Per J. Chico-Nazario, Third Division].
+[17]
+ 361 Phil. 916 (1999) [Per J. Quisumbing, Second Division].
+[18]
+ Id.
+[19]
+ 
+Asiaworld Properties Philippine Corporation v. Commissioner of Internal Revenue,
+ 640 Phil. 230, 235 (2010) [Per J. Carpio, Second Division].
+[20]
+ 
+Commissioner of Internal Revenue v. McGeorge Food Industries, Inc.,
+ 648 Phil. 413 (2010) [Per J. Carpio, Second Division].
+[21]
+ 
+Philam Asset Management, Inc. v. Commissioner of Internal Revenue,
+ 514 Phil. 147 (2005) [Per J. Panganiban, Third Division]; 
+Paseo Realty & Development Corporation v. Court of Appeals
+, 483 Phil. 254 (2004) [Per J. Tinga, Second Division].
+[22]
+ In G.R. No. 162004 of 
+Philam,
+ this court held that the fact that the taxpayer filled out the portion âPrior Yearâs Excess Creditsâ in its subsequent final adjustment return shows that it has effectively chosen the carry-over option.  This court noted that the line that preceded the phrase in the Bureau of Internal Revenue form clearly stated âLess: Tax Credits/Payments.â  It further stated that if an application for a tax refund has been or will be filed, that portion of the Bureau of Internal Revenue form should necessarily be blank, even if the final adjustment return of the previous taxable year already shows an overpayment in taxes.
+[23]
+ Rep. Act No. 8424 (1997), An Act Amending the National Internal Revenue Code, as Amended, and for Other Purposes.
+[24]
+ 
+See Commissioner of Internal Revenue v. TMX Sales, Inc.,
+ G.R. No. 83736, January 15, 1992, 205 SCRA 184 [Per J. Gutierrez, Jr., En Banc].  That case involved a claim for refund of overpaid income taxes. TMX Sales, Inc. filed its quarterly income tax return for the first quarter of 1981, declaring an income of P571,174.31 and consequently paying an income tax thereon of P247,010.00 on May 15, 1981.  During the subsequent quarters, however, TMX Sales, Inc. suffered losses so that when it filed on April 15, 1982 its annual income tax return for the year ended December 31, 1981, it declared a gross income of P904,122.00 and total deductions of P7,060,647.00, or a net loss of P6,156,525.00.  TMX Sales, Inc. sought to refund the amount of P247,010.00 that it paid in the first quarter of 1981.
+[25]
+ Rep. Act No. 8424 (1997), An Act Amending the National Internal Revenue Code, as   Amended, and for Other Purposes.
+Section 6. 
+Power of the Commissioner to Make assessments and Prescribe additional Requirements for Tax Administration and Enforcement
+. -
+(A) 
+Examination of Returns and Determination of Tax Due
+. - After a return has been filed as required under the provisions of this Code, the Commissioner or his duly authorized representative may authorize the examination of any taxpayer and the assessment of the correct amount of tax: Provided, however; That failure to file a return shall not prevent the Commissioner from authorizing the examination of any taxpayer.
+The tax or any deficiency tax so assessed shall be paid upon notice and demand from the Commissioner or from his duly authorized representative.
+Any return, statement of declaration filed in any office authorized to receive the same shall not be withdrawn: 
+Provided
+, 
+That within three (3) years from the date of such filing, the same may be modified, changed, or amended
+: 
+Provided, further,
+ That no notice for audit or investigation of such return, statement or declaration has in the meantime been actually served upon the taxpayer. (Emphasis supplied)
+[26]
+ 
+Far East Bank & Trust Co. v. Court of Appeals,
+ 513 Phil. 148 (2005) [Per J. Azcuna, First Division];
+ Paseo Realty & Development Corporation v. Court of Appeals,
+ 483 Phil. 254 (2004) [Per J. Tinga, Second Division].
+[27]
+ 
+Commissioner v. Team Sual Corporation, 
+G.R. No. 194105, February 5, 2014, 715 SCRA 478, 503 [Per J. Reyes, First Division], citing
+ Commissioner of Internal Revenue v. Eastern Telecommunications Philippines, Inc.
+, 638 Phil. 334 (2010) [Per J. Brion, Third Division].
+[28]
+ 
+Commissioner of Internal Revenue v. Far East Bank & Trust Company,
+ 629 Phil. 405, 406 (2010) [Per J. Del Castillo, Second Division].
+[29]
+ PAUL A. SAMUELSON, ECONOMICS 746 (18
+th
+ ed., 2006).
+Opportunity cost is defined as âthe value of the next-best use (or opportunity) for an economic good, or the value of the sacrificed alternative.â
+[30]
+ Id. at 296 and 733.
+The law of comparative advantage was devised by economist David Ricardo in order to explain optimal production of goods for purposes of international trade. Comparative advantage is âwhen a nation should specialize in producing and exporting those commodities which it can produce at 
+relatively 
+lower cost. . . .â
+To illustrate the concept of comparative advantage, for example, there are two individuals who are very good in doing laundry: Aling Nena and Manny Pacquiao. Manny Pacquiao is better at doing laundry than Aling Nena.  He could wash three more loads of laundry in a day than Aling Nena.  In this case, Manny Pacquiao has an 
+absolute
+ advantage over Aling Nena.  However, Manny Pacquiao also happens to be an excellent boxer.  If he chooses to do laundry, it means foregoing training hours and matches as a boxer.  Hence, even if Manny Pacquiao is better at doing laundry, the costs he will bear in doing laundry is much higher than Aling Nena.  Hence, Aling Nena has a comparative advantage in doing laundry over Manny Pacquiao.
+[31]
+ Id. at 296 and 731.
+David Ricardo considers a country that is able to have greater output per unit of input as a country with absolute advantage.  However, it does not take into consideration the opportunity costs of creating the output.
+[32]
+ 
+Republic v. Sandiganbayan, 
+325 Phil. 762, 810 (1996) [Per J. Francisco, Third Division].
+[33]
+ 
+Commissioner of Internal Revenue v. McGeorge Food Industries, Inc.,
+ 648 Phil. 413 (2010) [Per J. Carpio, Second Division]; 
+Asiaworld Properties Philippine Corporation v. Commissioner of Internal Revenue,
+ 640 Phil. 230 (2010) [Per J. Carpio, Second Division]. 
+Systra Philippines, Inc. v. Commissioner of Internal Revenue
+, 560 Phil. 261 (2007) [Per J. Corona, First Division]; 
+Commissioner of Internal Revenue v. Bank of the Philippine Islands, 
+609 Phil. 678 (2009) [Per J. Chico-Nazario, Third Division].
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

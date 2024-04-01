@@ -1,0 +1,635 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			825 Phil. 809
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 220502, February 12, 2018 ]
+
+
+STEEL CORPORATION OF THE PHILIPPINES, PETITIONER, V. BUREAU OF CUSTOMS (BOC), BUREAU OF INTERNAL REVENUE (BIR), DEPARTMENT OF FINANCE (DOF), OFFICE OF THE PRESIDENT (OP), AND MUNICIPALITY OF BALAYAN, BATANGAS, RESPONDENTS.
+
+
+D E C I S I O N
+
+
+
+
+PERALTA, J.:
+
+
+This petition for review on
+ certiorari
+ under Rule 45 of the Rules of Court (
+Rules
+) seeks to reverse and set aside the November 19, 2014 Decision
+[1]
+ and September 15, 2015 Resolution
+[2]
+ of the Court of Appeals (
+CA
+) in CA-G.R. SP No. 127046 dismissing the appeal and affirming the Regional Trial Court (
+RTC
+) Order
+[3]
+ dated June 6, 2012, which stated: 
+ 
+ 
+WHEREFORE
+, premises considered, the Motion for Reconsideration filed by the Office of the Solicitor General regarding the Order dated January 12, 2012, the Omnibus Motion filed by the BIR and the Motion for Reconsideration filed by the Office of the Solicitor General with regard the Order dated March 5, 2012 are granted. 
+ 
+ Accordingly, the Orders dated January 12, 2012 and March 5, 2012 are set aside.
+ 
+ The Motion for Execution filed by plaintiff is denied. Likewise, the writ of preliminary injunction issued on March 8, 2012 is hereby dissolved. 
+ 
+SO ORDERED.
+[4]
+ 
+ 
+ 
+The factual antecedents are as follows: On September 11, 2006, Equitable PCI Bank, Inc. initiated a petition for rehabilitation
+[5]
+ of Steel Corporation of the Philippines (
+STEELCORP
+), a domestic corporation organized and existing under Philippine laws, with principal place of business in 
+Barangay
+ Munting Tubig, Balayan, Batangas, and is engaged in the manufacture and distribution of cold-rolled, galvanized and pre-painted steel sheets and coils and fabrication of metal building products. The case was docketed as SP. Proc. No. 06-7993 and pending before the RTC of Batangas City. Finding the petition to be sufficient in form and substance, the court issued an Order
+[6]
+ on September 12, 2006, which directed, among others, the "
+[stay] [of] all claims against [STEELCORP], by all other corporations, persons or entities insofar as they may be affected by the present proceedings, until further notice from this Court, pursuant to Sec. 6, of Rule 4 of the Interim Rules of Procedure on Corporate Rehabilitation
+." 
+ While the rehabilitation proceedings were pending, Republic Act (R.A.) No. 10142, or the 
+Financial Rehabilitation and Insolvency Act (FRIA) of 2010 
+was enacted.
+[7]
+ Section 19 of which mandates: 
+ 
+ SEC. 19. 
+Waiver of Taxes and Fees Due to the National Government and to Local Government Units (LGUs)
+. - Upon issuance of the Commencement Order by the court, and until the approval of the Rehabilitation Plan or dismissal of the petition, whichever is earlier, the imposition of all taxes and fees, including penalties, interests and charges thereof, due to the national government or to LGUs shall be considered waived, in furtherance of the objectives of rehabilitation.
+ 
+ 
+ On December 16, 2010, the representatives of STEELCORP and the Municipality of Balayan, Batangas met to discuss the effects of the aforequoted provision. As agreed, the municipal government waived the taxes and other fees that may be due from STEELCORP starting the year 2011 and until a final rehabilitation plan is approved by the court.
+[8]
+ 
+In a letter
+[9]
+ dated October 1, 2010, and addressed to Bureau of Customs (
+BOC
+) Commissioner Angelito A. Alvarez, STEELCORP manifested its intent to avail of the privileges granted by Section 19 of R. A. No. 10142, stressing that the import duties and fees/VAT which the BOC wanted to impose on and collect cannot be made without violating the aforesaid provision. It appears that STEELCORP had imported raw materials for use in its manufacture of steel products, which the BOC assessed with taxes in the sum of P41,206,120.00.
+[10]
+ 
+ In a Memorandum
+[11]
+ dated October 26, 2010, Commissioner Alvarez, upon the recommendation of the BOC Director of Legal Service and the concurrence of the Deputy Commissioner of the BOC Revenue Collection Management Group, approved the waiver of all taxes and fees which are due to STEELCORP. On March 8, 2011, he sent his 1
+st
+ Indorsement to the Department of Finance (DOF), stating that "
+the release of the [Memorandum dated October 26, 2010] had been put on hold pending clearance from the [DOF]. The attention of [DOF] is invited to the revenue loss that may be suffered by the Bureau in the implementation thereof as shown by the attached summary of importations for the past three years, and the fact that the said company is still continuously importing raw materials up to the present
+. "
+[12]
+ Subsequently, DOF Undersecretary Carlo A. Carag issued 2nd Indorsement
+[13]
+ dated May 26, 2011, which disapproved the recommendation of Commissioner Alvarez based on two grounds: (1) the Stay Order relied upon by STEELCORP is not the same as the Commencement Order required by law to consider the taxes and customs duties waived; and (2) assuming that the Stay Order is the same as the Commencement Order, the waiver contemplated under Section 19 does not include taxes and customs duties due on importations or shipments that were made by STEELCORP after the issuance of the Commencement Order.
+ STEELCORP elevated the matter to the Office of the President (OP), which docketed the case as O.P. No. 11-F-211.
+ Undersecretary Carag moved to dismiss the appeal for lack of jurisdiction. He noted that "
+the assailed 2
+nd
+ Indorsement dated May 26, 2011 issued by [the DOF] involves customs matters for automatic review from the decision of the Commissioner of Customs, which was adverse to the Government, under Section 2315 of the Tariff and Customs Code of the Philippines (TCCP), as amended. Verily, it is the Court of Tax Appeals (CTA) which has the 
+exclusive appellate jurisdiction
+ to review the decision of the Secretary of Finance pursuant to 
+Section 7, Republic Act No. 1125
+, as amended
+. "
+[14]
+ In opposition,
+[15]
+ STEELCORP contended that Section 2315 of the TCCP is irrelevant since said provision presupposes that there is already an assessment of duties by the Collector of Customs, which is not so in this case because the appeal "
+does not involve a decision of the Commissioner in a case involving the liability for customs duties, fees or other money charges, seizure, detention or release of property affected, fine, forfeitures or other penalties imposed in relation thereto, or other matters arising under the Customs Laws or other law or part of law administered by the Bureau of Customs
+. " It was argued that the OP is vested with 
+quasi
+-judicial functions under Administrative Order No. 18, Series of 1987.
+ On September 14, 2011, STEELCORP filed a Complaint
+[16]
+ against the respondents for injunction with application for immediate issuance of temporary restraining order (
+TRO
+) and writ of preliminary injunction (
+WPI
+). It was docketed as Civil Case No. 5042 and raffled before RTC, Br. 10 of Balayan, Batangas. The action sought to restrain the respondents from assessing and continuing to assess STEELCORP of all taxes and fees due to the national government, including penalties, interests, and charges from the issuance of the Stay Order on September 12, 2006 and until final court approval of the rehabilitation plan.
+ In its Order
+[17]
+ dated September 15, 2011, the RTC issued a 72-hour TRO which was later extended until the application for preliminary injunction could be heard. On November 9, 2011, the RTC issued a S
+tatus Quo 
+Order
+[18]
+ extending the effects of the TRO until such time that the respondents were given the opportunity to be heard and the issue on the issuance of preliminary injunction had been resolved. Meantime, on November 9, 2011, the OP deferred the resolution of O.P. No. 11-F-211 until final resolution of Civil Case No. 5042.
+[19]
+ 
+ On January 12, 2012, the court ordered the Manila International Container Port (
+MICP
+) District Collector of Customs to immediately comply with the 
+Status Quo 
+Order by refraining the imposition of customs duties and taxes on the importation of raw materials of STEELCORP and to immediately release to the corporation the raw materials without payment of duties/taxes and without further delay.
+[20]
+ On the same day, the Office of the Solicitor General (
+OSG
+), acting for and in behalf of the BIR, BOC, DOF, and OP, filed a Motion to Dismiss (
+MTD
+).
+[21]
+ It was argued that the RTC has no jurisdiction to hear and determine the complaint because, under Section 602 (g) of Presidential Decree (
+P.D
+.) No. 1464 or the TCCP, the BOC acquires exclusive jurisdiction over imported goods for purposes of enforcement of the customs laws from the moment the goods are actually in its possession or control; thus, the 
+Status Quo
+ Order is null and void. Also, under Section 2315 of the TCCP, the 2
+nd
+ Indorsement dated May 26, 2011 should be appealed to the CTA; hence, the appeal to the OP did not toll the running of the 30-day reglementary period provided under Section 11 of R.A. No. 9282. Reiterating the position of the BOC, the OSG further contended that: (1) the Stay Order is not the same as the Commencement Order required by law to consider the taxes and customs duties waived; and (2) assuming that both orders are the same, the waiver contemplated under Section 19 does not include the payment of taxes and customs duties on STEELCORP's future importations or incoming shipments. STEELCORP opposed the motion.
+[22]
+ 
+On March 5, 2012, the RTC denied the MTD and directed the issuance of a WPI "
+enjoining the defendants, their agents, representatives and assigns acting in their behalf, from assessing, imposing, or collecting all taxes, customs duties and fees due from the national or local government until after the final disposition of this case
+."
+[23]
+ The writ was issued on March 8, 2012.
+[24]
+ 
+ The opposing parties filed various motions before the RTC. In its Order
+[25]
+ dated June 6, 2012, the issues raised were simultaneously resolved as follows: 
+ 
+ 1. Denial of STEELCORP's motion to strike Answer filed by the BIR;
+ 
+ The Memorandum of Agreement (
+MOA
+) dated March 17, 2012 between the OSG and the BIR, is an exception to Memorandum Circular No. 152 issued on May 7, 1992. The MOA authorized the BIR-handling lawyer to be the lead lawyer in cases of first instance filed before the CTA Divisions, Metropolitan Trial Courts, Municipal Trial Courts, Municipal Circuit Trial Courts, Regional Trial Courts, Department of Justice, and other administrative agencies. Hence, the BIR lawyer has the authority to appear for and its behalf and, consequently, to file an Answer in this case.
+ 
+ 2. Denial of STEELCORP's urgent
+ ex-parte
+ motion for execution of the January 12, 2012 Order; 
+ 
+The motion was premature in view of the necessity to resolve first the OSG's motion for reconsideration of the January 12, 2012 Order. 
+ 
+3. Grant of the OSG's motion for reconsideration of the January 12, 2012 Order; the BIR's omnibus motion for reconsideration and to dissolve the WPI; and the OSG's motion for reconsideration of the March 5, 2012 Order;
+ 
+ The BIR and the BOC are the agencies tasked to collect taxes and customs duties, respectively. Inasmuch as what are to be collected, how much, when, and from whom as provided by law are to be ascertained and discharged by said agencies, the question of who are to be exempted shall also be determined by them. The issue of whether STEELCORP may avail of the benefits of R.A. No. 10142 should have been raised before the CTA after the BOC denied the claim.
+ 
+ 4. Denial of STEELCORP's motion to strike the BIR's omnibus motion and the OSG's motion for reconsideration of the March 5, 2012 Order;
+ 
+ The BIR's omnibus motion and the OSG's motion for reconsideration contained proper notices of hearing and the BIR lawyers are authorized to appear for and its behalf.
+ 
+ 
+ Aggrieved, STEELCORP moved for reconsideration, which was denied on September 17, 2012.
+[26]
+ Consequently, it filed before the CA an appeal under Rule 41 of the 
+Rules
+ to challenge the RTC Orders dated June 6, 2012 and September 17, 2012. Two issues were raised, to wit: 
+ 
+ I. Whether or not the trial court erred when it allowed and gave due course to the separate motions of the BOC and the BIR despite their procedural and jurisdictional infirmities; and
+ 
+ II. Whether or not the trial court erred in lifting the preliminary injunction and ordering the dismissal of the complaint.
+[27]
+ 
+ 
+ Anent the first issue, STEELCORP pointed out that the notice of hearing on the OSG's motion for reconsideration indicated that it was submitted for the consideration and approval of the RTC on April 6, 2012, which was a Good Friday. As to the BIR's omnibus motion, the notice of hearing was dated March 28, 2012 but the motion was submitted for hearing on April 12, 2012; thus, beyond the ten-day period required under Section 5, Rule 15 of the 
+Rules
+. It also fell on a Monday, violating Section 7, Rule 15 thereof.
+ With respect to the second issue, STEELCORP argued that the OP recognized that the issue involved in this case - the interpretation of Sections 19 and 146 of R.A. No. 10142 - is a legal question. Moreover, the parties are estopped by their agreement to refer the matter to the trial court, which, being one of general jurisdiction, had sufficient authority to assume over the case.
+ On November 19, 2014, the CA dismissed the appeal. It was opined that there was no infirmity in the notices of hearing of the motions filed by the OSG and the BIR because STEELCORP was given ample time to oppose them and prepare appropriate pleadings to refute the same. On the second issue, the CA reminded that it is the law that confers jurisdiction and not experience, practice or tradition, or agreement of the parties. It was noted that the complaint for injunction sought to enjoin the BOC and the BIR from collecting customs duties and taxes on the importations made by STEELCORP. Under Section 7 (4) of R.A. No. 1125, as amended by R.A. No. 9282, the BOC's denial of the request for exemption should have been appealed to the CTA, which has the power to issue an injunction pursuant to Section 11, Paragraph 4 thereof.
+ A motion for reconsideration was filed, but it was denied on September 15, 2015; hence, this petition.
+ STEELCORP maintains that the CA erred when it sustained the trial court's act of giving due course to the OSG and the BIR motions that were set for hearing on days that were declared as national holiday and/or beyond the period prescribed by the 
+Rules
+. Likewise, it insists that the present controversy does not assail its liability to pay customs duties, taxes or other charges on its importation of raw materials. Rather, the issue is whether a corporation placed under corporate rehabilitation can avail the benefits of Section 19 of R.A. No. 10142, which issue is cognizable by the RTC and whose decision may be appealed to the CA or the Supreme Court and not to any other court like the CTA. STEELCORP stresses that it is not raising any issue as to the amount and collectibility of the taxes and duties on its importation but is only seeking compliance by the respondents of their obligations under Section 19.
+ At the outset, it must be said that this petition was already denied on November 11, 2015.
+[28]
+ However, it was reinstated on June 15, 2016 when STEELCORPâs motion for reconsideration was granted.
+[29]
+ 
+Once again, We deny. 
+ In 
+Philippine National Bank v. Judge Paneda
+,
+[30]
+ the Court similarly held: 
+ 
+ The courts
+ a quo
+ also stress that the said Motion failed to comply with Sections 5 and 7 of Rule 15, Rules of Court, to wit: 
+ 
+ 
+Section 5. 
+Notice of hearing
+. - The notice of hearing shall be addressed to all parties concerned, and shall specify the time and date of the hearing which must not be later than ten (10) days after the filing of the motion.
+ 
+ Section 7. 
+Motion day
+. - Except for motions requiring immediate action, all motions shall be scheduled for hearing on Friday afternoon, or if Friday is a non-working day, in the afternoon the next working day.
+ 
+ 
+ The RTC held that petitioner's Motion which was filed on December 3, 1998, and was set for hearing on December 21, 1998, eight days beyond the reglementary period prescribed under Section 5, Rule 15, and that the Motion set the hearing on a Monday and not on a Friday. The C A held that the notice of hearing of said Motion was not addressed to the parties concerned.
+ 
+ The foregoing conclusions are incorrect. 
+ 
+The Court, in 
+Maturan v. Araula
+, held: 
+ 
+ 
+As enjoined by the Rules of Court and the controlling jurisprudence, a liberal construction of the rules and the pleadings is the controlling principle to effect substantial justice.
+ 
+ 
+The rule requiring notice to herein private respondents
+ as defendant and intervenors in the lower court with respect to the hearing of the motion filed by herein petitioner for the reconsideration of the decision of respondent Judge, 
+has been substantially complied with. While the notice was addressed only to the clerk of court, a copy of the said motion for reconsideration was furnished counsel of herein private respondents, which fact is not denied by private respondent. As a matter of fact, private respondents filed their opposition to the said motion for reconsideration
+ dated January 14, 1981 after the hearing of the said motion was deferred and re-set twice from December 8, 1980, which was the first date set for its hearing as specified in the notice. 
+Hence, private respondents were not denied their day in court with respect to the said motion for reconsideration.
+ The fact that the respondent Judge issued his order on January 15, 1981 denying the motion for reconsideration for lack of merit as it merely repeated the same grounds raised in the memorandum of herein petitioner as plaintiff in the court below, one day after the opposition to the motion for reconsideration was filed on January 14, 1981 by herein private respondents, demonstrates that the said opposition of herein respondents was considered by the respondent Judge.
+ 
+ 
+ 
+ xxx xxx xxx 
+ 
+ 
+ The motion for reconsideration of herein petitioner, while substantially based on the same grounds he invoked in his memorandum after the case was submitted for decision, 
+is not 
+pro forma
+ as it points out specifically the findings or conclusions in the judgment which he claims are not supported by the evidence or which are contrary to law 
+(
+City of Cebu v. Mendoza
+, L-26321, Feb. 25, 1975, 62 SCRA 440, 446), 
+aside from stating additional specific reasons for the said grounds
+. (Emphasis supplied)
+ 
+ 
+ Thus, even if the Motion may be defective for failure to address the notice of hearing of said motion to the parties concerned, the defect was cured by the court's taking cognizance thereof and the fact that the adverse party was otherwise notified of the existence of said pleading. There is substantial compliance with the foregoing rules if a copy of the said motion for reconsideration was furnished to the counsel of herein private respondents.
+ 
+ In the present case, records reveal that the notices in the Motion were addressed to the respective counsels of the private respondents and they were duly furnished with copies of the same as shown by the receipts signed by their staff or agents.
+ 
+ Consequently, the Court finds that the petitioner substantially complied with the pertinent provisions of the Rules of Court and existing jurisprudence on the requirements of motions and pleadings.
+[31]
+ 
+ 
+ Section 6, Rule 1 of the 
+Rules
+ provides that the rules should be liberally construed in order to promote their objective of securing a just, speedy and inexpensive disposition of every action and proceeding. Rules of procedure are tools designed to facilitate the attainment of justice, and courts must avoid their strict and rigid application which would result in technicalities that tend to frustrate rather than promote substantial justice.
+[32]
+ A liberal construction is proper where the lapse in the literal observance of a procedural rule has not prejudiced the adverse party and has not deprived the court of its authority.
+[33]
+ 
+With regard the rules on notice of hearing on a motion, the CA correctly held that the test is the presence of the opportunity to be heard, as well as to have time to study the motion and meaningfully oppose or controvert the grounds upon which it is based.
+[34]
+ Considering that STEELCORP was afforded the opportunity to be heard through the pleadings filed in opposition to the motions of the OSG and the BIR, We view that the requirements of procedural due process were substantially complied with and that the compliance justified a departure from a literal application of the rules. 
+ The CA also did not err in affirming the June 6, 2012 Order of the RTC which dissolved the writ of preliminary injunction and dismissed STEELCORP's complaint for lack of jurisdiction.
+ Certainly, the consent of the parties does not confer jurisdiction over the subject matter. Jurisdiction cannot be waived; it is not dependent on the consent or objection or the acts or omissions of the parties or any one of them.
+[35]
+ The jurisdiction of the court over a subject matter is conferred only by the Constitution or by law as well as determined by the allegations in the complaint and the character of the relief sought.
+[36]
+ 
+ In reverting to the earlier rulings that upheld the exclusive jurisdiction of the CTA to determine the constitutionality or validity of tax laws, rules and regulations, and other administrative issuances, this Court recently elucidated in 
+Banco De Oro v. Republic of the Philippines
+[37]
+ the subject matter jurisdiction of the CTA: 
+ 
+ On June 16, 1954, Republic Act No. 1125 created the Court of Tax Appeals not as another superior administrative agency as was its predecessor - the former Board of Tax Appeals - but as a part of the judicial system with exclusive jurisdiction to act on appeals from: 
+ 
+ 
+(1) Decisions of the Collector of Internal Revenue in cases involving disputed assessments, refunds of internal revenue taxes, fees or other charges, penalties imposed in relation thereto, or other matters arising under the National Internal Revenue Code or other law or part of law administered by the Bureau of Internal Revenue;
+ 
+ (2) Decisions of the Commissioner of Customs in cases involving liability for customs duties, fees or other money charges; seizure, detention or release of property affected fines, forfeitures or other penalties imposed in relation thereto; or other matters arising under the Customs Law or other law or part of law administered by the Bureau of Customs; and 
+ 
+(3) Decisions of provincial or city Boards of Assessment Appeals in cases involving the assessment and taxation of real property or other matters arising under the Assessment Law, including rules and regulations relative thereto.
+ 
+ 
+ 
+Republic Act No. 1125 transferred to the Court of Tax Appeals jurisdiction over all matters involving assessments that were previously cognizable by the Regional Trial Courts (then courts of first instance).
+ 
+ In 2004, Republic Act No. 9282 was enacted. It expanded the jurisdiction of the Court of Tax Appeals and elevated its rank to the level of a collegiate court with special jurisdiction. Section 1 specifically provides that the Court of Tax Appeals is of the same level as the Court of Appeals and possesses "all the inherent powers of a Court of Justice."
+ 
+ 
+Section 7, as amended, grants the Court of Tax Appeals the exclusive jurisdiction to resolve all tax-related issues:
+ 
+ 
+ 
+Section 7. 
+Jurisdiction
+. - The CTA shall exercise:
+ 
+ 
+ (a) Exclusive appellate jurisdiction to review by appeal, as herein provided: 
+ 
+ 
+1) Decisions of the Commissioner of Internal Revenue in cases involving disputed assessments, refunds of internal revenue taxes, fees or other charges, penalties in relation thereto, or other matters arising under the National Internal Revenue Code or other laws administered by the Bureau of Internal Revenue;
+ 
+ 2) Inaction by the Commissioner of Internal Revenue in cases involving disputed assessments, refunds of internal revenue taxes, fees or other charges, penalties in relation thereto, or other matters arising under the National Internal Revenue Code or other laws administered by the Bureau of Internal Revenue, where the National Internal Revenue Code provides a specific period of action, in which case the inaction shall be deemed a denial;
+ 
+ 3) Decisions, orders or resolutions of the Regional Trial Courts in local tax cases originally decided or resolved by them in the exercise of their original or appellate jurisdiction; 
+ 
+4) Decisions of the Commissioner of Customs in cases involving liability for customs duties, fees or other money charges, seizure, detention or release of property affected, fines, forfeitures or other penalties in relation thereto, or other matters arising under the Customs Law or other laws administered by the Bureau of Customs;
+ 
+ 5) Decisions of the Central Board of Assessment Appeals in the exercise of its appellate jurisdiction over cases involving the assessment and taxation of real property originally decided by the provincial or city board of assessment appeals;
+ 
+ 6) Decisions of the Secretary of Finance on customs cases elevated to him automatically for review from decisions of the Commissioner of Customs which are adverse to the Government under Section 2315 of the Tariff and Customs Code; 
+ 
+7) Decisions of the Secretary of Trade and Industry, in the case of nonagricultural product, commodity or article, and the Secretary of Agriculture in the case of agricultural product, commodity or article, involving dumping and countervailing duties under Section 301 and 302, respectively, of the Tariff and Customs Code, and safeguard measures under Republic Act No. 8800, where either party may appeal the decision to impose or not to impose said duties.
+ 
+ 
+ 
+ 
+ 
+The Court of Tax Appeals has undoubted jurisdiction to pass upon the constitutionality or validity of a tax law or regulation when raised by the taxpayer as a defense in disputing or contesting an assessment or claiming a refund. It is only in the lawful exercise of its power to pass upon all matters brought before it, as sanctioned by Section 7 of Republic Act No. 1125, as amended.
+ 
+ This Court, however, declares that the Court of Tax Appeals may likewise take cognizance of cases directly challenging the constitutionality or validity of a tax law or regulation or administrative issuance (revenue orders, revenue memorandum circulars, rulings).
+ 
+ 
+Section 7 of Republic Act No. 1125, as amended, is explicit that, except for local taxes, appeals from the decisions of quasi-judicial agencies (Commissioner of Internal Revenue, Commissioner of Customs, Secretary of Finance, Central Board of Assessment Appeals, Secretary of Trade and Industry) on tax-related problems must be brought 
+exclusively
+ to the Court of Tax Appeals.
+ 
+ 
+In other words, within the judicial system, the law intends the Court of Tax Appeals to have exclusive jurisdiction to resolve all tax problems. 
+Petitions for writs of 
+certiorari 
+against the acts and omissions of the said quasi-judicial agencies should, thus, be filed before the Court of Tax Appeals.
+ 
+ Republic Act No. 9282, a special and later law than Batas Pambansa Blg. 129 provides an exception to the original jurisdiction of the Regional Trial Courts over actions questioning the constitutionality or validity of tax laws or regulations. Except for local tax cases, actions directly challenging the constitutionality or validity of a tax law or regulation or administrative issuance may be filed directly before the Court of Tax Appeals.
+ 
+ Furthermore, with respect to administrative issuances (revenue orders, revenue memorandum circulars, or rulings), these are issued by the Commissioner under its power to make rulings or opinions in connection with the implementation of the provisions of internal revenue laws. Tax rulings, on the other hand, are official positions of the Bureau on inquiries of taxpayers who request clarification on certain provisions of the National Internal Revenue Code, other tax laws, or their implementing regulations. Hence, the determination of the validity of these issuances clearly falls within the exclusive appellate jurisdiction of the Court of Tax Appeals under Section 7 (1) of Republic Act No. 1125, as amended, subject to prior review by the Secretary of Finance, as required under Republic Act No. 8424.
+[38]
+ 
+ 
+ With the enactment of R.A. No. 1125, the CTA was granted the exclusive appellate jurisdiction to review by appeal all cases involving disputed assessments of internal revenue taxes, customs duties, and real property taxes.
+[39]
+ In general, it has jurisdiction over cases involving liability for payment of money to the Government or the administration of the laws on national internal revenue, customs, and real property.
+[40]
+ As held in 
+Ollada v. Court of Tax Appeals, et al
+. :
+[41]
+ 
+ 
+ Note that the law gives to the Court of Tax Appeals exclusive appellate jurisdiction to review the decisions of the Collector of Internal Revenue, the Commissioner of Customs, and the provincial or city Boards of Assessment Appeals. Note also that in defining the cases that may be reviewed the law begins by enumerating them and then adds a general clause pertaining to other matters that may arise under the National Internal Revenue Code, the Customs Law and the Assessment Law. This shows that the 
+"other matters" that may come under the general clause should be of the same nature as those that have preceded them applying the rule of construction known as 
+ejusdem generis
+. In other words, in order that a matter may come under the general clause, it is necessary that it belongs to the same kind or class therein specifically enumerated. Otherwise, it should be deemed foreign or extraneous and is not included.
+[42]
+ 
+ 
+ From the clear purpose of R.A. No. 1125 and its amendatory laws, the CTA, therefore, is the proper forum to file the appeal. Matters calling for technical knowledge should be handled by such court as it has the specialty to adjudicate tax, customs, and assessment cases.
+[43]
+ Section 11, Paragraph 4 of R.A. No. 1125, as amended by R.A. No. 9282, embodies the rule that an appeal to the CTA will not suspend the payment, levy, distraint, and/or sale of any property of the taxpayer for the satisfaction of his tax liability as provided by existing law. Nonetheless, when, in the opinion of the CTA, the collection may jeopardize the interest of the Government and/or the taxpayer, it may suspend the said collection and require the taxpayer either to deposit the amount claimed or to file a surety bond for not more than double the amount. Yet the requirement of deposit or surety bond may be dispensed with. We held in 
+Pacquiao v. Court of Tax Appeals, First Division
+:
+[44]
+ 
+ 
+ Thus, despite the amendments to the law, the Court still holds that the CTA has ample authority to issue injunctive writs to restrain the collection of tax 
+and to even dispense with the deposit of the amount claimed or the filing of the required bond
+, whenever the 
+method
+ employed by the CIR in the collection of tax jeopardizes the interests of a taxpayer for being 
+patently in violation of the law
+. Such authority emanates from the jurisdiction conferred to it not only by Section 11 of R.A. No. 1125, but also by Section 7 of the same law, which, as amended provides:
+ 
+ 
+ Sec. 7. 
+Jurisdiction.
+ - The Court of Tax Appeals shall exercise:
+ 
+ a. Exclusive appellate jurisdiction to review by appeal, as herein provided:
+ 
+ 
+ 1. Decisions of the Commissioner of Internal Revenue in cases involving disputed assessments, refunds of internal revenue taxes, fees or 
+other charges, penalties imposed in relation thereto, or other matters arising under the National Internal Revenue or other laws administered by the Bureau of Internal Revenue. 
+x x x x [Emphasis Supplied]
+ 
+ 
+ 
+ From all the foregoing, it is clear that the authority of the courts to issue injunctive writs to restrain the collection of tax and to dispense with the deposit of the amount claimed or the filing of the required bond
+ is not simply confined to cases where prescription has set in
+. As explained by the Court in those cases, 
+whenever it is determined by the courts that the method employed by the Collector of Internal Revenue in the collection of tax 
+is not sanctioned by law
+, the 
+bond
+ requirement under Section 11 of R.A. No. 1125 
+should be dispensed with
+. The purpose of the rule is not only to prevent jeopardizing the interest of the taxpayer, but more importantly, to prevent the absurd situation wherein the court would declare "that the collection by the summary methods of distraint and levy was violative of law, and then, in the same breath require the petitioner to deposit or file a bond as a prerequisite for the issuance of a writ of injunction."
+[45]
+ 
+ 
+ 
+WHEREFORE
+, the petition for review on 
+certiorari 
+is 
+DENIED
+. The November 19, 2014 Decision and September 15, 2015 Resolution of the Court of Appeals in CA-G.R. SP No. 127046 are 
+AFFIRMED
+.
+ SO ORDERED.
+ 
+ 
+Carpio, J. (Chairperson), Perlas-Bernabe
+, and 
+Reyes, Jr., JJ., 
+concur.
+ 
+Caguioa, J
+., on official business. 
+ 
+[1]
+ Penned by Associate Justice Rosmari D. Carandang, with Associate Justices Marlene Gonzales-Sison and Edwin D. Sorongon concurring;
+ rollo
+, pp. 30-39. 
+ 
+[2]
+ Rollo
+, pp. 41-42.
+ 
+ 
+[3]
+ Id. at 142-146.
+ 
+ 
+[4]
+ Id. at 145-146. 
+[5]
+ Pursuant to Presidential Decree No. 902-A, as amended, in relation to A.M. No. 00-8-10-SC or the Interim Rules of Procedure on Corporate Rehabilitation (Id. at 65-98). 
+ 
+[6]
+ Rollo
+, pp. 99-103. 
+ 
+[7]
+ R.A. No. 10142 lapsed into law on July 18, 2010 without the signature of the President (
+Philippine Asset Growth Two, Inc. v. Fastech Synergy Philippines, Inc. [formerly First Asia System Technology, Inc.]
+, G.R. No. 206528, June 28, 2016, 794 SCRA 625, 639 and 
+Majority Stockholders of Ruby Industrial Corp. v. Lim, et al.,
+ 665 Phil. 600, 657 [2011]) and took effect on August 31, 2010 (
+BPI v. Sarabia Manor Hotel Corp
+., 715 Phil. 420, 436 [2013]). 
+ 
+[8]
+ 
+Rollo
+, p. 113. 
+ 
+[9]
+ Id. at 114-115. 
+[10]
+ Id. at 129. 
+[11]
+ Id. at 116-117. 
+ 
+[12]
+ Id. at 118. 
+[13]
+ Id. at 119-123. 
+ 
+[14]
+ Id. at 125. 
+[15]
+ Id. at 126-128. 
+[16]
+ Id. at 43-64. 
+ 
+[17]
+ Id. at 130-131. 
+[18]
+ Id. at 132-135, 217-218, 230. 
+[19]
+ Id. at 6, 32, 184, 217. 
+ 
+[20]
+ Id. at 136-137. 
+[21]
+ Id. at 205-216. 
+ 
+[22]
+ Id. at 139-140. 
+ 
+[23]
+ Id. at 138-141. 
+[24]
+ Id. at 240. 
+[25]
+ Id. at 142-146. 
+ 
+[26]
+ Id. at 264.
+ 
+[27]
+ Id. at 34.
+ 
+[28]
+ Id. at 153-154. 
+[29]
+ Id. at 155-164, 166. 
+ 
+[30]
+ 544 Phil. 565 (2007). 
+ 
+[31]
+ 
+Philippine National Bank v. Judge Paneda, supra
+, at 578-580. (Citations omitted; emphases supplied). 
+ 
+[32]
+ 
+Preysler, Jr. v. Manila Southcoast Dev't Corporation
+, 635 Phil. 598, 604 (2010). 
+[33]
+ Id. 
+ 
+[34]
+ 
+Jehan Shipping Corporation v. National Food Authority
+, 514 Phil. 166, 174 (2005), as cited in 
+City of Dagupan v. Maramba
+, 738 Phil. 71, 86 (2014); 
+United Pulp and Paper Co., Inc. v. Acropolis Central Guaranty Corp
+., 680 Phil. 64, 80 (2012); and 
+Sarmiento v. Zaratan
+, 543 Phil. 232, 243 (2007). 
+[35]
+ 
+Aichi Forging Company of Asia, Inc. v. Court of Tax Appeals
+, G.R. No. 193625, August 30, 2017. 
+ 
+[36]
+ See 
+Proton Pilipinas Corp. v. Republic of the Phils
+. 535 Phil. 521, 532 (2006) and 
+General Milling Corporation v. Uytengsu III
+, 526 Phil. 722, 726 (2006). 
+ 
+[37]
+ G.R. No. 198756, August 16, 2016 (
+En Banc
+ Resolution).
+ 
+[38]
+ 
+Banco De Oro v. Republic of the Philippines
+, G.R. No. 198756, August 16, 2016 (
+En Banc
+ Resolution), pp. 15-18 (Emphases supplied). 
+[39]
+ See 
+The Prov. Treasurer and Assessor of Negros Occ. v. Azcona, etc. et al
+., 115 Phil. 618, 622-623 (1962); 
+Bislig Bay Lumber Co., Inc. v. Prov. Govt. of Surigao
+, 100 Phil. 303, 304-305 (1956); and 
+Ollada v. Court of Tax Appeals, et al.
+, 99 Phil. 604, 608-609 (1956). 
+ 
+[40]
+ See 
+Hon. Enrile, etc., et al. v. Court of Appeals, et al.
+, 140 Phil. 199, 205 (1969); 
+Auyong Hian v. Court of Tax Appeals et al.,
+ 125 Phil. 422, 441 (1967); and 
+The Actg. Collector of Customs v. The Court of Tax Appeals, et al.
+, 102 Phil. 244, 252 (1957). 
+[41]
+ Supra
+ note 38. 
+ 
+[42]
+ 
+Ollada v. Court of Tax Appeals, et al.
+, 
+supra
+ note 38. (Emphasis supplied). 
+ 
+[43]
+ See 
+The Philippine American Life and General Insurance Company vs. Secretary of Finance
+, 141 Phil. 811, 825 (2014). 
+[44]
+ G.R. No. 213394, April 6, 2016, 789 SCRA 19. 
+ 
+[45]
+ 
+Pacquiao v. Court of Tax Appeals, First Division, supra
+, at 43-44. (Emphases and underscoring supplied) 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)
