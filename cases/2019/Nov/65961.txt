@@ -1,0 +1,497 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			866 Phil. 489
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 166726, November 25, 2019 ]
+
+
+EQUITABLE PCI BANK
+[1]
+ (FORMERLY INSULAR BANK OF ASIA & AMERICA/PHIL. COMMERCIAL AND INDUSTRIAL BANK
+[2]
+), PETITIONER, VS. MANILA ADJUSTERS & SURVEYORS, INC.,
+[3]
+ ILOCOS SUR FEDERATION OF FARMERS COOPERATIVE, INC., ESTATE OF NG YEK KIONG AND ERNESTO COKAI, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+HERNANDO, J.:
+
+
+This is a Petition for Review on 
+Certiorari
+ under Rule 45 of the Rules of Court challenging the August 31, 2004 Decision
+[4]
+ and January 5, 2005 Resolution
+[5]
+ of the Court of Appeals (CA) in CA-G.R. CV No. 54738, affirming with modification the November 10, 1995 Decision
+[6]
+ of the Regional Trial Court (RTC) of Manila, Branch 7, in Civil Case No. 100783 which dismissed the Complaint for replevin and damages filed by respondent Ilocos Sur Federation of Farmers Cooperatives, Inc. (Federation).
+The Antecedents
+On June 27, 1975, the Federation and the Philippine American General Insurance Co., Inc. (Philam), represented by its adjuster, Manila Adjusters and Surveyors, Company (MASCO), executed a Deed of Sale
+[7]
+ involving salvaged fertilizers which were stored in warehouses in San Fernando, La Union. The agreement provided that the Federation would pay for the stocks of fertilizers in installments in accordance with an agreed schedule for the total amount of P5,159,725.00. Moreover, the Federation would be accountable for the storage and warehousing charges. The Federation was also required to open an irrevocably confirmed without recourse Letter of Credit (LOC) amounting to P1,000,000.00 which will be forfeited in favor of MASCO in case of the Federation's non-compliance with the terms and conditions of the contract.
+Apparently, the Federation already availed of Domestic LOC No. D-75126
+[8]
+ dated June 23, 1975 from petitioner Equitable PCI Bank (Bank) (then Insular Bank of Asia & America), with a face value of P1,000,000.00 in favor of MASCO. The said LOC was amended
+[9]
+ on June 26, 1975 to extend its expiry date from July 23, 1975 to October 22, 1975. Likewise, the LOC shall be drawable by MASCO upon its submission to the Bank of a certification that the Federation failed to comply with the terms and conditions of the sale.
+[10]
+ According to the Bank, the following documents were needed to claim from the LOC: "(1) letter of default and demand for payment of the proceeds of the [LOC]; (2) the original copy of the [LOC]; (3) the original copy of the advice of [LOC] amendment extending the expiry date; (4) the original of the draft drawn with the Bank; and 5) the certification of default."
+[11]
+Incidentally, the Federation only managed to pay the first installment of P300,000.00 and part of the second installment amounting to P200,000.00 out of the total amount of P5,159,725.00. Although the Federation also tendered a personal check amounting to P259,725.00, the same bounced due to insufficient funds. Thus, apart from its total previous payment of P500,000.00, the Federation no longer made additional payments. MASCO demanded payment from the Federation but it failed to settle its accountabilities.
+On October 8, 1975, the date when the last installment became due, MASCO, through its President and General Manager, Dominador Tiongco (Tiongco), wrote a letter
+[12]
+ to the Federation informing the latter of its (Federation's) failure to fulfill its obligations. MASCO likewise signified its resolve to demand for the proceeds of the LOC from the Bank. Thereafter, MASCO allegedly sent to the Bank the following: a letter-claim
+[13]
+ dated October 8, 1975 addressed to the Bank expressing MASCO's intent to draw from the LOC; the original copy of LOC No. D-75126; the original copy of the advice of LOC amendment dated June 26, 1975 (which extended the original expiry date); the original of the draft drawn with the Bank; and the certification of default. The letter-claim and documents were purportedly personally delivered by MASCO's cashier to the Bank's branch manager. However, the Bank refused to pay MASCO the proceeds of the LOC.
+In view of these, on January 9, 1976, the Federation filed a Complaint
+[14]
+ for replevin with damages dated December 18, 1975 against MASCO and Philam before the then Court of First Instance (CFI) of Manila which was raffled to Branch VII thereof The Federation asked to be placed in physical possession and control of around 180 bags of fertilizers, in light of the parties' prior sale agreement. The Complaint was subsequently amended
+[15]
+ to include the alleged violation of MASCO and Philam of the contract of sale as an added cause of action. The Complaint was again amended
+[16]
+ to implead the Bank as a party defendant to enjoin it from paying the LOC it issued in favor of MASCO, and Ng Yek Kiong and Ernesto Cokai as third-party defendants.
+In its Answer with Counterclaim and Cross-Claim,
+[17]
+ the Bank denied receipt of the letter-claim dated October 8, 1975, as well as the documents attached thereto. Likewise, it filed a cross-claim against MASCO contending that the latter failed to present to the Bank the draft under the LOC. In addition, the Bank filed a Third-Party Complaint
+[18]
+ against Ng Yek Kiong and Ernesto Cokai for indemnity based on surety agreement in which the latter bound themselves jointly and severally to indemnify the Bank up to P1,000,000.00 in connection with the LOC.
+MASCO, in its Answer
+[19]
+ to the Bank's cross-claim, filed a counterclaim against the Bank for the payment of the proceeds of the LOC and for damages.
+During the proceedings, the Federation and MASCO jointly submitted a Partial Stipulation of Facts
+[20]
+ which provided that after the Federation's default, MASCO duly and timely filed a claim against the LOC with then Insular Bank of Asia & America.
+[21]
+ Interestingly, the Federation did not present additional proof but opted to rely on the said stipulations. MASCO's witnesses identified the Partial Stipulation of Facts and its letter-claim dated October 8, 1975 addressed to the Bank along with the required documents wherein it claimed for payment of the proceeds of the LOC considering the Federation's failure to comply with the terms of the sale.
+Nevertheless, the Bank denied receipt of the letter-claim dated October 8, 1975. It further averred that it received instructions from the Federation not to release the proceeds of the LOC to MASCO since it (MASCO) supposedly violated the terms and conditions for the issuance of the same.
+Meanwhile, in another case filed by Ng Yek Kiong against the Bank docketed as Civil Case No. 99661
+[22]
+ with the CFI of Manila, Branch XVI, an injunctive order was issued on February 18, 1976 which, as the Bank alleged, prevented it from paying the proceeds of the LOC. The said injunction was eventually dissolved by the Supreme Court in G.R. No. L-44126
+[23]
+ which was promulgated on February 28, 1977.
+In any case, the Federation's Complaint was dismissed for lack of interest on the part of the plaintiff (Federation) and for failure to prosecute. Nonetheless, the proceedings as regards the counterclaim of MASCO against the Federation as well as the cross-claim of the Bank against MASCO (and the counterclaim of MASCO against the Bank) ensued.
+[24]
+Tiongco testified that MASCO executed a Deed of Sale sometime in June 1975 covering approximately 75,000 bags of salvaged fertilizer in favor of the Federation. He confirmed that the LOC was issued by then Insular Bank of Asia and America. He reiterated that out of the eight installment payments, the Federation only paid the first installment and part of the second installment. For this reason, MASCO repeatedly demanded from the Federation to pay according to the installment schedule yet the latter failed to do so. Because of the Federation's default, in October 1975 or when the last installment became due, MASCO was constrained to file a claim on the proceeds of the LOC from the Bank.
+[25]
+Tiongco averred that MASCO wrote a letter-claim to the Bank and appended the required documents in order to properly claim from the LOC.
+[26]
+ He specified that he instructed MASCO's cashier, Antonio Jimenez (Jimenez), to personally deliver the required documents to the Bank's manager. Yet, even after receipt of the claim, the Bank did not release the proceeds of the LOC. Additionally, he insisted that the Bank received the letter-claim dated October 8, 1975 an even pointed out the written date of receipt by the Bank's representative in MASCO's receiving copy of the letterÂ­-claim.
+[27]
+ Regardless, Tiongco admitted hat he did not personally see or meet the individual who received the documents in behalf of the Bank and that he relied on Jimenez's word that he (Jimenez) delivered everything to the Bank.
+[28]
+Carlos Macazo, the Bank's Account Officer Assistant, stated that the Federation instructed the Bank not to pay MASCO because of its violation of the provisions of the Deed of Sale. He explained that non-compliance with the terms and conditions will result in the cancellation of the LOC. He added that based on the Bank's records, MASCO failed to present the draft of the Federation drawn under the LOC.
+[29]
+ Notwithstanding this, he stated that the Bank could not locate the written instruction of the Federation not to release the LOC's proceeds because there was no smooth turnover of documents during the Bank's merger.
+[30]
+Andronico Uy, an officer of the Bank, asserted that documents for reception of the Bank should pass through a metered machine and the date and time of receipt should be stamped on the document and then signed by the Bank's clerk.
+[31]
+ Thus, it was the Bank's position that it could not have received MASCO's claim since there was no indication that it passed through the said machine.
+The Ruling of the Regional Trial Court
+In the November 10, 1995 Decision,
+[32]
+ the RTC held that the Federation did not comply with the terms and conditions of the Deed of Sale, since it failed to pay the entire sum of P5,159,725.00. On the other hand, the trial court found that MASCO properly filed its claim against the LOC with the Bank. It further found that the Federation and the Bank did not present sufficient evidence to overturn the said facts. Thus, the dispositive portion of the trial court's Decision reads:
+WHEREFORE, and considering the foregoing, judgment is hereby rendered as follows:
+1. The Complaint of plaintiff Ilocos Sur Federation of Farmers Cooperatives, Inc. is hereby dismissed. Said plaintiff Ilocos Sur Federation is hereby ordered to pay defendant Manila Adjusters & Surveyors, Inc. relative to [its] counterclaim, the storage fee of P80,000.00 plus interest thereon every year from the filing of the counterclaim until paid plus the sum of P50,000.00 as and for attorney's fees.
+2. The cross-claim of cross-plaintiff Insular Bank of Asia and America, now Philippine Commercial and International Bank, is dismissed. Said cross-plaintiff Philippine Commercial and International Bank is ordered to pay defendant Manila Adjusters & Surveyors, Inc. regarding the latter's counterclaim, the face amount of the Letter of Credit of One Million (P1,000,000.00)[,] Pesos (sic), plus 12% interest per year from October 8, 1975 until paid and attorney's fees of P50,000.00.
+3. Regarding the bank's counterclaim against plaintiff Ilocos Sur Federation of Farmers Cooperatives, Inc. and the bank's Third-Party complaint against Ng Yek Kiong and Ernesto Cokai, plaintiff Ilocos Sur Federation of Farmers Cooperatives, Inc. is ordered to indemnity the Philippine Commercial and International Bank whatever amounts that the bank shall pay the Manila Adjusters and Surveyors, Inc. in connection with the latter's judgment against the bank. Third-party defendants Ng Yek Kiong and Ernesto Cokai are adjudged jointly and severally liable with the plaintiff in favor of the bank up to the limit of their surety agreement of One Million (P1,000,000.00) Pesos.
+SO ORDERED.
+[33]
+The Bank asked for a reconsideration
+[34]
+ but was denied in an Order
+[35]
+ dated March 4, 1996. Thus, the Bank appealed to the CA.
+The Ruling of the Court of Appeals
+The CA, in its assailed August 31, 2004 Decision,
+[36]
+ affirmed the RTC's findings and likewise found that MASCO complied with the conditions to claim the proceeds of the LOC upon presentation of the required documents to the Bank. Moreover, it ruled that MASCO was entitled to an award of interest based on Article 2209
+[37]
+ of the Civil Code. Since MASCO strictly complied with the terms of the LOC, it was legally entitled to payment and interest at the rate of 12% 
+per annum
+. The appellate court noted that the Bank failed and refused to pay MASCO upon the instruction of the Federation because MASCO allegedly violated the terms and conditions of the Deed of Sale and the LOC. Notwithstanding this, it held that MASCO was not entitled to attorney's fees as such cannot be recovered as part of damages considering the policy that no premium should be placed on the right to litigate. The dispositive portion of the CA's assailed Decision reads:
+WHEREFORE
+, the foregoing considered, the instant appeal is hereby 
+GRANTED
+ and the assailed [RTC] decision is 
+MODIFIED
+ with the deletion of the award of attorney's fees with respect to appellant bank. The [RTC] decision is affirmed in all there respects.
+No costs.
+SO ORDERED.
+[38]
+The Bank filed a motion for reconsideration which was denied by the CA in a Resolution
+[39]
+ dated January 5, 2005. Discontented, the Bank elevated
+[40]
+ this case before Us and raised the following Issues:
+(A) WHETHER OR NOT THE COURT OF APPEALS ERRED IN NOT HOLDING THAT STRICT COMPLIANCE IN THE HANDLING OF DOCUMENTS IN A LETTER OF CREDIT TRANSACTION IS NECESSARY.
+(B) WHETHER OR NOT INTEREST IS DUE DURING THE TIME INJUNCTION WAS ISSUED AND PRIOR TO THE REVERSAL THEREOF BY THIS HONORABLE COURT.
+[41]
+In its Amended Petition for Review,
+[42]
+ the Bank cited the following grounds:
+Whether or not the Court of Appeals failed to cite evidence to support its conclusion that petitioner Bank was liable under the letter of credit[.]
+Whether or not petitioner Bank can be held liable for payment of interest despite existence of an injunctive order that prevented it from paying[.]
+[43]
+Thus, the main issue is whether or not MASCO submitted the required documents for it to be allowed to draw from the proceeds of the LOC from the Bank.
+The Ruling of the Court
+The petition is unmeritorious.
+The Bank argues that there should be strict compliance with the terms of the LOC before it can be required to pay. It insists that a party who seeks to draw from the LOC must establish by clear and convincing evidence that the required documents were submitted. It questions the trial court's finding that MASCO had submitted the necessary documents to the Bank's manager, as this finding was only supported by an oral testimony without documentary proof of actual receipt and was contrary to the testimonies of the Bank's witnesses who denied receipt of the documents.
+[44]
+ It avers that "[t]he Bank's witness clearly testified that the bank receives every package through its metered machine bearing the date and time of receipt and the signature of the person in charge of receiving the same, usually the Bank clerk."
+[45]
+The Bank points out that as indicated in the Partial Stipulation of Facts offered before the RTC, MASCO recognized that an injunction was issued
+[46]
+ upon the instance of Ng Yek Kiong directed against the claim of MASCO upon the LOC, and that subsequently the Supreme Court dissolved the same injunctive order. In view of this, the Bank posits that the computation of interest should not commence from October 8, 1975, or the date of the alleged submission of the required documents to the Bank. Instead, the interest should be computed from the time the Bank was informed of the dissolution of the injunction. This is because at the time the injunction was served upon the Bank, it had no legal right to question its validity. 
+Ergo
+, it had to comply with the order and should not be faulted for not releasing the proceeds during the time that the injunction was in effect.
+[47]
+At the outset, it should be emphasized that it is a well-known procedural rule that a petition for review on 
+certiorari
+ under Rule 45 of the Rules of Court is only limited to questions of law. In fact,
+Factual questions are not the proper subject of an appeal by 
+certiorari
+. This Court will not review facts, as it is not our function to analyze or weigh all over again evidence already considered in the proceedings below. As held in 
+Diokno v. Hon. Cacdac
+, a re-examination of factual findings is outside the province of a petition for review on 
+certiorari
+, to wit:
+It is aphoristic that a re-examination of factual findings cannot be done through a petition for review on 
+certiorari
+ under Rule 45 of the Rules of Court because as earlier stated, this Court is not a trier of facts x x x
+ The Supreme Court is not duty-bound to analyze and weigh again the evidence considered in the proceedings below. This is already outside the province of the instant Petition for 
+Certiorari
+.
+There is a question of law when the doubt or difference arises as to what the law is on a certain set of facts; a question of fact, on the other hand, exists when the doubt or difference arises as to the truth or falsehood of the alleged facts. Unless the case falls under any of the recognized exceptions, we are limited solely to the review of legal questions.
+[48]
+ (Citations omitted)
+In the petition at bench, the Bank mainly contends that it did not receive the required documents from MASCO in order for the latter to claim the proceeds of the LOC. Undoubtedly, such contention's truth or falsity can easily be verified by assessing the documentary and testimonial evidence submitted by the parties during trial. Clearly, this is a question of fact which is not within the purview of a petition for review on 
+certiorari
+ under Rule 45. Moreover, the instant case does not fall under the exceptions wherein the Court should once again review the factual circumstances surrounding the case before arriving at its conclusion. In fact, based on the records, the findings of fact by the CA and the RT are accurate and have no badges of misapprehension or bad faith, and thus need not be interfered with.
+To stress, "[f]actual findings of the CA, especially if they coincide with those of the RTC, as in the instant case, is generally binding on us. In a petition for review on 
+certiorari
+ under Rule 45 of the 1997 Rules of Civil Procedure, as amended, this Court, may not review the findings of facts all over again. It must be stressed that this Court is not a trier of facts, and it is not its function to re-examine and weigh anew the respective evidence of the parties. The jurisprudential doctrine that findings of the [CA] are conclusive on the parties and carry even more weight when these coincide with the factual findings of the trial court, must remain undisturbed, unless the factual findings are not supported by the evidence on record."
+[49]
+Both the CA and the RTC found that MASCO properly presented the documentary requirements of the Bank in order to claim from the LOC. The Bank was not able to overturn such finding as it merely denied receipt of the same without corroborating evidence, except for an allegation that all documents received by the Bank should go through a metered machine which was not found on those documents submitted by MASCO. Contrariwise, MASCO averred that the official papers were personally handed over to the manager of the Bank at the time, which could explain why it did not pass through the metered machine or the usual procedure in the Bank's reception. Interestingly, the Bank was not able to completely establish if the practice of utilizing a metered machine was already being enforced when the documents were presented, considering that the incident happened in 1975. The Bank did not even submit an affidavit or offer the testimony of the bank manager during trial in order to debunk MASCO's assertion that he or she actually received the documents. In addition, the contention that the Federation instructed the Bank not to pay MASCO suggested that the Bank, regardless of receipt of the documents, would not pay MASCO immediately. Unfortunately, it would be difficult to either prove or debunk the parties' allegations since more than 40 years had already passed. To stress, We are limited to the offered evidence from which the Court can draw its factual and legal conclusions.
+Hence, given that MASCO was able to prove with preponderant evidence
+[50]
+ that it submitted the documents which the Bank required in order to claim from the LOC, there is basis to affirm the findings of the RTC and the CA that the Bank should release the proceeds of the LOC amounting to P1,000,000.00 to MASCO.
+As for the payment of interest, the Court notes that the Bank failed to present sufficient factual or legal basis to support its contention that the time in which the injunction was in effect should not be included in the computation of the legal interest, it being established that the parties to the Deed of Sale, particularly the Federation and Philam/MASCO, did not stipulate an interest rate in case of default when they entered into the sale. Furthermore, We find that the Bank did not advance any amount or offer any alternative in order to show that it was willing to pay the proceeds of the LOC in spite of the issuance of an injunctive order (which was eventually dissolved by the Court anyway) and notwithstanding the Federation's instruction to the Bank not to pay MASCO.
+Withal, the legal interest on the face amount of the LOC or P1,000,000.00 shall commence to run from the time extrajudicial demand
+[51]
+ was made, or the date when the letter-claim along with the documents were submitted to the Bank, specifically on October 8, 1975. In this respect, the Court agrees with the ruling of the CA, which affirmed the RTC's finding. However, the Court modifies the appealed CA Decision with regard to the interest on the monetary awards following the guidelines laid down by the Court in 
+Nacar v. Gallery Frames
+[52]
+ to wit:
+[I]n the absence of an express stipulation as to the rate of interest that would govern the parties, the rate of legal interest for loans or forbearance of any money, goods or credits and the rate allowed in judgments shall no longer be twelve percent (12%) 
+per annum
+ - as reflected in the case of 
+Eastern Shipping Lines
+ and Subsection X305.1 of the Manual of Regulations for Banks and Sections 4305Q.1, 4305S.3 and 4303P.1 of the Manual of Regulations for Non-Bank Financial Institutions, before its amendment by BSP-MB Circular No. 799 - but will now be six percent (6%) 
+per annum
+ effective July 1, 2013. It should be noted, nonetheless, that the new rate could only be applied prospectively and not retroactively. Consequently, the twelve percent (12%) 
+per annum
+ legal interest shall apply only until June 30, 2013. Come July 1, 2013 the new rate of six percent (6%) 
+per annum
+ shall be the prevailing rate of interest 
+when applicable
+.
+x x x x
+Nonetheless, with regard to those judgments that have become final and executory prior to July 1, 2013, said judgments shall not be disturbed and shall continue to be implemented applying the rate of interest fixed therein.
+To recapitulate and for future guidance, the guidelines laid down in the case of 
+Eastern Shipping Lines
+ are accordingly modified to embody BSP-MB Circular No. 799, as follows:
+When an obligation, regardless of its source, i.e., law, contracts, quasi-contracts delicts or quasi-delicts is breached, the contravenor can be held liable for damages. The provisions under Title VIII on "Damages" of the Civil Code govern in determining the measure of recoverable damages.
+With regard particularly to an award of interest in the concept of actual and compensatory damages, the rate of interest, as well as the accrual thereof, is imposed, as follows:
+When the obligation is breached, and it consists in the payment of a sum of money, i.e., a loan or forbearance of money, the interest due should be that which may have been stipulated in writing. Furthermore, the interest due shall itself earn legal interest from the time it is judicially demanded. In the absence of stipulation, the rate of interest shall be 6% per annum to be computed from default, i.e., from judicial or extrajudicial demand under and subject to the provisions of Article 1169 of the Civil Code.
+When an obligation, not constituting a loan or forbearance of money, is breached, an interest on the amount of damages awarded may be imposed at the discretion of the court at the rate of 6% per annum. No interest, however, shall be adjudged on unliquidated claims or damages, except when or until the demand can be established with reasonable certainty. Accordingly, where the demand is established with reasonable certainty, the interest shall begin to run from the time the claim is made judicially or extrajudicially (Art. 1169, Civil Code), but when such certainty cannot be so reasonably established at the time the demand is made, the interest shall begin to run only from the date the judgment of the court is made (at which time the quantification of damages may be deemed to have been reasonably ascertained). The actual base for the computation of legal interest shall, in any case, be on the amount finally adjudged.
+When the judgment of the court awarding a sum of money becomes final and executory, the rate of legal interest, whether the case falls under paragraph 1 or paragraph 2, above, shall be 6% per annum from such finality until its satisfaction, this interim period being deemed to be by then an equivalent to a forbearance of credit.
+And, in addition to the above, judgments that have become final and executory prior to July 1, 2013, shall not be disturbed and shall continue to be implemented applying the rate of interest fixed therein. (Citations omitted.)
+Based on the foregoing, the amount of P1,000,000.00 shall be subject to interest at the rate of 12% 
+per annum
+ from the date the extrajudicial demand was made or on October 8, 1975 until June 30, 2013, and thereafter, 6% 
+per annum
+ from July 1, 2013 until finality of this judgment.
+Moreover, once the judgment in this case becomes final and executory, the monetary award discussed above shall be subject to legal interest at the rate of 6% 
+per annum
+ from such finality until its satisfaction.
+As a final note, it is apt to mention that this is an inherited case which has been pending final resolution since 1975. It has been around 44 years since the filing of the case before the trial court. There is even a concern that a few of the parties liable herein no longer exist or can no longer be located due to the passage of time. Although the delay could be attributed to a number of factors, it remains that this case has been pending for quite some time, especially considering that the main issue is actually merely a factual one.
+WHEREFORE
+, the Petition for Review on 
+Certiorari
+ is 
+DENIED
+ for failure to establish any reversible error on the part of the Court of Appeals. The assailed August 31, 2004 Decision and January 5, 2005 Resolution of the Court of Appeals in CA-G.R. CV No. 54738 are hereby 
+AFFIRMED WITH MODIFICATIONS
+ that the amount of P1,000,000.00 shall be subject to interest at the rate of 12% 
+per annum
+ from October 8, 1975 until June 30, 2013, and at the rate of 6% 
+per annum
+ from July 1, 2013 until full satisfaction of the same.
+SO ORDERED.
+Perlas-Bernabe, (Chairperson), Inting
+, and 
+Zalameda
+,
+*
+ 
+JJ.
+, concur.
+A. Reyes, Jr., J.
+, on leave.
+*
+ Designated additional member per Special Order No. 2727 dated October 25, 2019.
+[1]
+ Now Banco De Oro Unibank, Inc./Banco De Oro; 
+Rollo
+, p. 252.
+[2]
+ Should be "Philippine Commercial International Bank;" 
+see
+ Records, Vol. II, p. 1045.
+[3]
+ Should be "Manila Adjusters & Surveyors Company;" 
+see
+ Records, Vol. I, p. 59.
+[4]
+ 
+Rollo
+, pp. 34-41; penned by Associate Justice Josefina Guevara-Salonga and concurred in by Associate Justices Conrado M. Vasquez, Jr. and Fernanda Lampas Peralta.
+[5]
+ 
+Id.
+ at 43-44.
+[6]
+ CA 
+Rollo
+, pp. 45-50; penned by Judge Enrico A. Lanzanas.
+[7]
+ Records, Vol. I, 7-11.
+[8]
+ 
+Id.
+ at 400-401.
+[9]
+ 
+Id.
+ at 402.
+[10]
+ 
+Id.
+ at 401.
+[11]
+ 
+Rollo
+, p. 268.
+[12]
+ Records, Vol. I, pp. 59-60.
+[13]
+ 
+Id.
+, Vol. II, pp. 1054-1055.
+[14]
+ 
+Id.
+, Vol. I, pp. 1-6; Civil Case No. 100783 entitled, "
+The Ilocos Sur Federation of Farmers Cooperative, Inc. v. Manila Adjusters and Surveyors, Inc. and Phil-Am General Insurance Co., Inc.
+"
+[15]
+ Records, Vol. I, pp. 90-103.
+[16]
+ 
+Id.
+ at 200-213.
+[17]
+ 
+Id.
+ at 394-399.
+[18]
+ 
+Id.
+ at 493-495.
+[19]
+ 
+Id.
+ at 406-408.
+[20]
+ 
+Id.
+, Vol. II, pp. 681-683.
+[21]
+ 
+Id.
+ at 683.
+[22]
+ 
+Id.
+, Vol. I, pp. 241-247; "Ng Yek Kiong and Ernesto Cokai v. Insular Bank of Asia and America, Manila Adjusters & Surveyors Company and Mariano Pintor, 
+et. al.
+"
+[23]
+ 
+Manila Adjusters & Surveyors Company v. Bocar
+, 166 Phil. 408 (1977).
+[24]
+ Records, Vol. I, p. 899; 
+see
+ October 12, 1990 Order.
+[25]
+ TSN, November 21, 1990, pp. 9-12.
+[26]
+ 
+Id.
+ at 14-18.
+[27]
+ 
+Id.
+ at 20-21; TSN, November 28, 1990, pp. 2-3; 
+Records
+, Vol. II, p. 1054; Handwritten marking signifying receipt on October 8, 1975.
+[28]
+ TSN, November 28, 1990, p. 3.
+[29]
+ TSN, February 13, 1991, pp. 5-7.
+[30]
+ TSN, February 20, 1991, p. 3.
+[31]
+ TSN, May 17, 1991, pp. 4-5.
+[32]
+ CA 
+Rollo
+, pp. 45-50.
+[33]
+ 
+Id.
+ at 49-50.
+[34]
+ Records, Vol. II, pp. 1031-1039.
+[35]
+ 
+Id.
+ at 1045.
+[36]
+ 
+Rollo
+, pp. 34-41.
+[37]
+ Art. 2209. If the obligation consists in the payment of a sum of money, and the debtor incurs in delay, the indemnity for damages, there being no stipulation to the contrary, shall be the payment of the interest agreed upon, and in the absence of stipulation, the legal interest, which is six per cent per annum.
+[38]
+ 
+Rollo
+, p. 41.
+[39]
+ 
+Id.
+ at 43-44.
+[40]
+ 
+Id.
+ at 19-32.
+[41]
+ 
+Id.
+ at 24-25.
+[42]
+ 
+Id.
+ at 264-287.
+[43]
+ 
+Id.
+ at 273.
+[44]
+ 
+Id.
+ at 25-26 and 274.
+[45]
+ 
+Id.
+ at 27.
+[46]
+ By then CFI Judge Bocar.
+[47]
+ 
+Rollo
+, pp. 28-29.
+[48]
+ 
+Miro v. Vda. de Erederos
+, 721 Phil. 772, 785-786 (2012); 
+Diokno v. Cacdac
+, 553 Phil. 405, 428 (2007); 
+Phil. Veterans Bank v. Monillas
+, 573 Phil. 384, 389 (2008); and 
+Cirtek Employees Labor Union-Federation of Free Workers v. Cirtek Electronics, Inc.
+, 665 Phil. 784, 789 (2011).   
+  
+(1)
+ 
+When the conclusion is a finding grounded entirely on speculation, surmises and conjectures; 
+(2)
+ 
+When the inference made is manifestly mistaken, absurd or impossible;
+(3)
+ 
+Where there is a grave abuse of discretion;
+(4) 
+When the judgment is based on a misapprehension of facts;
+(5)
+ 
+When the findings of fact are conflicting;
+(6)
+ When the Court of Appeals, in making its findings, went beyond the issues of the case and the same is contrary to the admissions of both appellant and appellee; 
+(7) 
+When the findings are contrary to those of the trial court;
+(8) 
+When the findings of fact are conclusions without citation of specific evidence on which they are based;
+(9) 
+When the facts set forth in the petition as well as in the petitioners' main and reply briefs are not disputed by the respondents; and
+(10) 
+When the findings of fact of the Court of Appeals are premised on the supposed absence of evidence and contradicted by the evidence on record.
+[49]
+ 
+Cortez v. Cortez
+, G.R. No. 224638, April 10, 2019, citing 
+Villanueva v. Court of Appeals
+, 536 Phil. 404, 408 (2006) and 
+Valdez v. Reyes
+, 530 Phil. 605, 608 (2006).
+[50]
+ RULES OF COURT, Rule 133, Â§ (1).
+[51]
+ 
+Pineda v. ZuÃ±iga Vda. de Vega
+, G.R. No. 233774, April 10, 2019, 
+citing
+ Desiderio P. Jurado, COMMENTS AND JURISPRUDENCE ON OBLIGATIONS AND CONTRACTS (1987 Ninth Revised Edition), p. 54.
+[52]
+ 716 Phil. 267, 280-283 (2013). 
+See
+ Bangko Sentral ng Pilipinas Monetary Board Circular No. 799, Series of 2013.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

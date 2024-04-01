@@ -1,0 +1,589 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			864 Phil. 394
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 230015, October 07, 2019 ]
+
+
+LAND BANK OF THE PHILIPPINES, PETITIONER, VS. LA LOMA COLUMBARY INC., AND SPOUSES EMMANUEL R. ZAPANTA AND FE ZAPANTA, RESPONDENTS.
+
+
+D E C I S I O N
+
+
+
+
+J. REYES, JR., J.:
+
+
+Before the Court is a Petition for Review on 
+Certiorari
+ under Rule 45 of the Rules of Court, seeking to reverse and set aside the October 21, 2016 Decision
+[1]
+ and the February 10, 2017 Resolution
+[2]
+ of the Court of Appeals (CA) in CA-G.R. SP No. 140601, which reversed and set aside the October 22, 2014
+[3]
+ and March 17, 2015
+[4]
+ Orders of the Regional Trial Court, Branch 12, Manila (RTC). 
+ 
+Factual Antecedents
+ Respondent La Loma Columbary, Inc. (LLCI) is a domestic corporation engaged in the business of real estate development, including the sale of buildings, houses, apartments and other structures such as columbary vaults, ossuaries and memorial parks. On February 22, 2010, petitioner Land Bank of the Philippines (LBP) and LLCI entered into a Purchase Receivables Agreement (PRA)
+[5]
+ whereby the latter was granted credit accommodation for up to P95 Million for its liquidity.
+[6]
+ 
+ Under the PRA, the grant of the credit accommodation shall result in the assignment, transfer or conveyance by LLCI of its ownership, rights, and interests over its receivables, including the right to collect and receive the same in accordance with the PRA and the Contracts to Sell (CTS) between LLCI and its buyers. As added security, respondents Emmanuel and Fe Zapanta (spouses Zapanta) executed a Comprehensive Surety Agreement
+[7]
+ where they assumed solidary liability with LLCI's loan obligations.
+[8]
+ 
+ Pursuant to the PRA, LBP shall release the Batch Price of Receivables upon LLCI's submission of the corresponding deeds of assignment and special power of attorney (SPA) of the CTS with LLCI clients. Through separate deeds of assignment with SPAs, LLCI availed of the credit facility in tranches in the aggregate amount of P88,271,647.00. However, LLCI eventually defaulted in its obligations under the PRA. After a series of demands made by LBP were left unheeded, it was constrained to file a Complaint for Sum of Money
+[9]
+ against LLCI and the spouses Zapanta.
+[10]
+ 
+ 
+Proceedings before the RTC
+ On November 20, 2013, the Deputy Sheriff of the Regional Trial Court (RTC), Branch 12, Manila served the summons to spouses Zapanta. The following day, the summons for LLCI was likewise served. The details of the service of summons were reflected in the Sheriffs Return, which read: 
+ 
+ This is to certify that on the 20
+th
+ day of November, 2013, the undersigned tried to serve upon the defendants the summons together with a copy of the complaint with annexes attached thereto, issued in the above-entitled case, at their given address located at No. 17 Madrigal Ave., Corinthian Garden, Quezon City, the undersigned talked to the defendant Fe Zapanta through phone, she told the undersigned that she authorized her maid Jenny Rose Dalumpines, to receive and sign a copy, for in their behalf, as per her signature appearing on the face of the original of the summons[.]
+ 
+ On the 21
+st
+ day of November, 2013, the undersigned tried to serve upon the defendant La Loma Columbary, Inc. at its given address, located in La Loma Catholic Cemetry (sic) Compound, C-3 Road, La Loma, Caloocan City, through Nanette M. Roxas, auditor, as per her signature, appearing on the face of the original summons.
+[11]
+ 
+ 
+ 
+ On January 16, 2014, LBP moved to declare LLCI and the spouses Zapanta in default. In its January 24, 2014 Order,
+[12]
+ the RTC granted LBP's motion and declared respondents in default. LBP then proceeded to present evidence 
+ex parte 
+on February 17, 2015. To date, it had already presented two witnesses.
+[13]
+ 
+ On July 9, 2014, respondents filed their Omnibus Motion (a. To Lift Order of Default; and b. For Leave to Admit Answer with Compulsory Counterclaim).
+[14]
+ They alleged that the spouses Zapanta were unable to file an answer within the reglementary period for causes beyond their control; since 2013, Emmanuel had been diagnosed with heart murmur, which recurred during the time he was served with summons; the said illness and series of treatment that he had to undergo prevented him from consulting a lawyer; Fe was completely unaware of the existence of the present case; their motion to lift order of default should be considered with liberality and they should be given a reasonable opportunity to prove their defenses in view of the amount involved; and they had a meritorious defense since they are no longer liable for the loan obligation as they had assigned all the receivables with respect to the CTS with their clients. 
+ In its October 22, 2014 Order, the RTC denied respondents' Omnibus Motion. The trial court ruled that respondents failed to show that they were prevented by fraud, accident, mistake or excusable negligence to file their Answer. It pointed out that the clinical and laboratory results of Emanuel did not establish that his condition hindered him from taking the appropriate action in the present case. 
+ Further, the RTC explained that Fe cannot claim ignorance of the existence of LBP's complaint as it was stated in the Sheriffs Return that she had authorized her helper to receive the summons in her behalf. In addition, the trial court noted that Emmanuel did not deny receiving the summons and it would have been implausible that he would not inform Fe of the complaint considering the substantial amount involved. The RTC disposed: 
+ 
+ WHEREFORE, finding the motion to be bereft of merit, the same is hereby DENIED. 
+ 
+ SO ORDERED.
+[15]
+ 
+ 
+ 
+Undeterred, respondents moved for reconsideration.
+ In its March 17, 2015 Order, the RTC denied respondents' motion for reconsideration. The trial court reiterated that absent any medical certificate interpreting Emmanuel's laboratory results, there was insufficient proof that his illness had prevented him from filing an Answer. On the other hand, the RTC maintained that in the absence of preponderant evidence to the contrary, it must be presumed that the sheriff had regularly performed his official duty. The trial court ruled: 
+ 
+ WHEREFORE, the foregoing premises considered, the Motion for Reconsideration (Re: Order dated 22 October 2014) dated November 13, 2014 is DENIED for lack of merit. 
+ 
+ SO ORDERED.
+[16]
+ 
+ 
+ 
+ Aggrieved, respondents filed a Petition for 
+Certiorari
+ before the CA. 
+CA Decision
+ In its October 21, 2016 Decision, the CA granted respondents' Petition for 
+Certiorari
+. The appellate court ruled that there was no valid service of summons because the deputy sheriff hastily and capriciously resorted to substituted service of summons. Nevertheless, it opined that the trial court acquired jurisdiction over the person of respondents on account of their voluntary appearance. 
+ However, the CA found that the RTC gravely abused its discretion when it did not lift the order of default. The appellate court explained that Emmanuel's illness constituted an accident which deprived him of the opportunity to file an Answer. It added that lifting the order of default would be more in accord with the demands of substantial justice considering the substantial amount involved. Further, the CA posited that respondents had a meritorious defense worthy of consideration. The appellate court expounded that the assignment of receivables was a valid mode of payment as it resulted in 
+dacion en pago
+. Thus, it ruled: 
+ 
+ WHEREFORE, the herein impugned Orders are hereby REVERSED and SET ASIDE. 
+ 
+ SO ORDERED.
+[17]
+ 
+ 
+ 
+ Disgruntled, LBP moved for reconsideration, but it was denied by the CA in its February 10, 2011 Resolution. 
+ Hence, this present Petition, raising: 
+ 
+Issues
+ 
+ 
+ I 
+ 
+WHETHER OR NOT THE RESPONDENTS ARE ESTOPPED FROM QUESTIONING THE VALIDITY OF SERVICE OF SUMMONS[;]
+ 
+ II
+ 
+ WHETHER OR NOT THE HONORABLE [CA] GRAVELY ERRED IN FINDING THAT OF (SIC) RESPONDENT EMMANUEL'S ILLNESS CONSTITUTES AN ACCIDENT OVER WHICH HE HAD NO CONTROL THAT WARRANTS THE LIFTING OF THE ORDER OF DEFAULT[;] AND
+ 
+ III
+ 
+ WHETHER OR NOT THE HONORABLE [CA] GRAVELY ERRED IN FINDING THAT THE RESPONDENTS HAVE (SIC) MERITORIOUS DEFENSE THAT WARRANTS THE LIFTING OF THE ORDER OF DEFAULT.
+[18]
+ 
+ 
+ 
+ LBP argues that respondents never denied having received the summons and merely offered excuses why they failed to timely file an Answer. Further, it posits that the substituted service made through the spouses Zapanta's household help was reasonable and justified under the circumstances. LBP likewise avers that Fe cannot deny knowledge of the existence of the complaint as the deputy sheriff was able to talk to her through the phone where she authorized her household help to receive and sign the summons in their behalf. Further, it explains that such denial was inconsistent with the fact that Emmanuel had actually received the summons. 
+ On the other hand, LBP insists that the RTC was correct when it denied respondents' motion to lift order of default. It points out that even assuming that Emmanuel was diagnosed with heart murmur, there was no showing that such condition could have prevented him from consulting a lawyer or to give instructions to Fe, and to LLCI's officers to take appropriate action regarding its Complaint. LBP highlights that it took more than seven months from the receipt of summons before respondents attempted to file their Answer. In addition, it notes that respondents have no meritorious defense. LBP explains that respondents have misread the PRA in arguing that LBP should have proceeded against the receivables from LLCI's clients in order to satisfy LLCI's obligations. It points out that respondents had bound themselves solidarily liable with one another. 
+ In their Comment
+[19]
+ dated September 6, 2017, respondents countered that LBP's Petition for Review on 
+Certiorari
+ should be denied outright. They noted that it availed of the wrong remedy when it appealed the CA rulings as they were merely interlocutory orders from which no appeal lies. In addition, respondents pointed out that LBP's Petition for Review on 
+Certiorari
+ raised questions of fact. They posited that factual findings of the CA which are supported by substantial evidence are conclusive and binding on the parties. 
+ Meanwhile, respondents reiterated that substituted service of summons was improperly resorted to. As such, they concluded that the RTC never acquired jurisdiction over their person as there was no valid service of summons. On the other hand, respondents insisted that they sufficiently established that Emmanuel's illness had prevented him from immediately consulting a lawyer about the present case. In addition, they reiterated that they had a meritorious defense claiming that the PRA between the parties expressly states that the grant of a credit facility is through the purchase of LLCI's receivables from its clients. Thus, respondents surmised that through the deeds of assignments LLCI had executed in favor of LBP, the latter became the owner of the receivables, hence, were obligated to collect and sue LLCI's clients in case of their failure to pay for the internment facilities. They highlighted that the outstanding balances of the receivables assigned to LBP can easily cover its claims against LLCI. 
+ 
+The Court's Ruling
+ 
+ The Petition is meritorious. 
+ Even on procedural grounds alone, respondents believe that LBP's Petition for Review on 
+Certiorari
+ should be denied outright. For one, they assail that the present Petition for Review on 
+Certiorari
+ is an improper remedy as it seeks a review of an interlocutory order. In addition, respondents assail that the present petition raises questions of fact which are beyond the
+ ambit
+ of a petition under Rule 45 of the Rules of Court. 
+ In 
+Denso (Phils.), Inc. v. Intermediate Appellate Court
+,
+[20]
+ the Court had distinguished an interlocutory order from a final one, to wit: 
+ 
+ The concept of "final" judgment, as distinguished from one which has "become final" (or "executor" as of right [final and executory]), is definite and settled. 
+A "final" judgment or order is one that finally disposes of a case, 
+leaving nothing more to be done by the Court in respect thereto
+, e.g., an adjudication on the merits which, on the basis of the evidence presented at the trial declares categorically what the rights and obligations of the parties are and which party is in the right; or a judgment or order that dismisses an action on the ground, for instance, of 
+res judicata
+ or prescription.
+ Once rendered, the task of the Court is ended, as far as deciding the controversy or determining the rights and liabilities of the litigants is concerned. Nothing more remains to be done by the Court except to await the parties' next move
+ (which among others, may consist of the filing of a motion for new trial or reconsideration, or the taking of an appeal) and ultimately, of course, to cause the execution of the judgment once it becomes "final" or, to use the established and more distinctive term, "final and executory." 
+ 
+ 
+ x x x x 
+ 
+ 
+Conversely, an order that does not finally dispose of the case, and does not end the Court's task of adjudicating the parties' contentions and determining their rights and liabilities as regards each other, but obviously indicates that other things remain to be done by the Court, is "interlocutory,"
+ e.g., an order denying a motion to dismiss under Rule 16 of the Rules, or granting a motion for extension of time to file a pleading, or authorizing amendment thereof, or granting or denying applications for postponement, or production or inspection of documents or things, etc. Unlike a "final" judgment or order, which is appealable, as above pointed out, an "interlocutory" order may not be questioned on appeal except only as part of an appeal that may eventually be taken from the final judgment rendered in the case. (Emphases and underscoring supplied) 
+ 
+ 
+ In its October 21, 2016 Decision, the CA granted respondents' petition for 
+certiorari
+, and, as a result, the appellate court reversed the RTC Orders which denied their Omnibus Motion. It is, thus, beyond cavil that the assailed CA Decision and Resolution are judgments or final order as the appellate court had fully adjudicated on the parties' respective contentions, and, from there, adjudged their rights and obligations. There was nothing left to be done at the CA level as the assailed decision and resolution had completely disposed of the case pending before the CA. 
+ Respondents confuse the assailed decision and resolution to be interlocutory orders simply because the effect of reversing the RTC orders was to grant their Omnibus Motion. They explain that the assailed CA Decision and Resolution merely resolved incidental matters and did not touch on the merits of the case or put an end to the proceedings. However, it is plain to see that the CA had decided on the merits of respondents' Petition for 
+Certiorari
+ and had in fact put an end to the proceedings before the appellate court after LBP's motion for reconsideration was denied. 
+ It is true that the RTC orders which denied respondents Omnibus Motion are interlocutory orders. They did not end the proceedings before the trial court as it merely decided incidental matters, 
+i.e
+., respondents being declared in default. Nevertheless, it is absurd and a leap in logic to conclude that the CA Decision and Resolution are interlocutory orders just because it effectively granted respondents' Omnibus Motion. As above-mentioned, the assailed decision and resolution settled all matters with the CA with nothing left to be resolved after it granted respondents' Petition for 
+Certiorari
+. The appellate court was not tasked to adjudicate LBP's money claim against LLCI, but only whether the RTC acted with grave abuse of discretion in denying respondents' Omnibus Motion. 
+ 
+Questions of fact vis-Ã -vis questions of law
+ Respondents also challenge the propriety of LBP's petition for review on 
+certiorari
+ for raising questions of fact. They point out that LBP reiterated its allegation that the spouses Zapanta were served with summons, that Emmanuel's illness did not prevent him from filing an Answer, and that respondents failed to raise a meritorious defense. Respondents explain that the CA's findings are conclusive and binding on the parties if the same are supported by substantial evidence. 
+ An appeal through a petition for review on 
+certiorari
+ under Rule 45 of the Rules of Court is limited to questions of law.
+[21]
+ Questions of fact are beyond the ambit of a petition for review on 
+certiorari
+ under Rule 45.
+[22]
+ Nevertheless, the general rule that the said petition only entertains questions of law admits of several exceptions. 
+ In
+ Cordillera Global Network v. Paje
+,
+[23]
+ the Court had restated the exceptions where questions of fact may be raised in a petition for review on 
+certiorari
+, to wit: 
+ 
+ (1) When the conclusion is a finding grounded entirely on speculation, surmises or conjectures [x x x]; (2) When the inference made is manifestly mistaken, absurd or impossible [x x x]; (3) Where there is a grave abuse of discretion [x x x]; (4) When the judgment is based on a misapprehension of facts [x x x]; (5) When the findings of fact are conflicting [x x x]; (6) When the Court of Appeals, in making its findings, went beyond the issues of the case and the same is contrary to the admissions of both appellant and appellee [x x x]; (7) 
+The findings of the Court of Appeals are contrary to those of the trial court
+ [x x x]; (8) When the findings of fact are conclusions without citation of specific evidence on which they are based [x x x]; (9) When the facts set forth in the petition as well as in the petitioners' main and reply briefs are not disputed by the respondents [x x x]; and (10) The finding of fact of the Court of Appeals is premised on the supposed absence of evidence and is contradicted by the evidence on record. (Emphasis supplied) 
+ 
+ 
+ Here, the CA disagreed with the RTC that there was valid service of summons to respondents and that respondents failed to prove that Emmanuel's illness justified the lifting of the order of default. It is as plain as day that the factual findings of the courts
+ a quo
+ contradicted each other. Hence, it is not hard to see that the present case falls under one of the exceptions where questions of fact may be raised in a petition for review on 
+certiorari
+. 
+ Having settled the procedural issues respondents had raised, the Court finds that the merits of the case favor LBP. 
+ 
+ 
+Acquisition of jurisdiction over the person of the defendant
+ 
+ 
+ 
+ 
+The RTC ruled that summons were validly served to the spouses Zapanta considering that respondents failed to offer evidence to rebut that summons were served to their household help by virtue of Fe's supposed authority. In short, the trial court posited that there was valid substituted service of summons. 
+ In actions
+ in personam
+ such as the present case for collection of sum of money, trial courts acquire jurisdiction over the person of the defendant by service of summons either through personal or substituted service.
+[24]
+ Nevertheless, personal service of summons is the preferred mode of service and substituted service is allowed only if, for justifiable reasons, the defendant cannot be personally served within a reasonable time.
+[25]
+ 
+ In the seminal case of
+ Manotoc v. Court of Appeals
+,
+[26]
+ the Court had elaborated on the requirements for a valid substituted service of summons, 
+viz
+.: 
+ 
+ (1) Impossibility of Prompt Personal Service
+ 
+ The party relying on substituted service or the sheriff must show that defendant cannot be served promptly or there is impossibility of prompt service. Section 8, Rule 14 provides that the plaintiff or the sheriff is given a "reasonable time" to serve the summons to the defendant in person, but no specific time frame is mentioned. "Reasonable time" is defined as "so much time as is necessary under the circumstances for a reasonably prudent and diligent man to do, conveniently, what the contract or duty requires that should be done, having a regard for the rights and possibility of loss, if any[,] to the other party." Under the Rules, the service of summons has no set period. However, when the court, clerk of court, or the plaintiff asks the sheriff to make the return of the summons and the latter submits the return of summons, then the validity of the summons lapses. The plaintiff may then ask for an alias summons if the service of summons has failed. What then is a reasonable time for the sheriff to effect a personal service in order to demonstrate impossibility of prompt service? To the plaintiff, "reasonable time" means no more than seven (7) days since an expeditious processing of a complaint is what a plaintiff wants. To the sheriff, "reasonable time" means 15 to 30 days because at the end of the month, it is a practice for the branch clerk of court to require the sheriff to submit a return of the summons assigned to the sheriff for service. The Sheriffs Return provides data to the Clerk of Court, which the clerk uses in the Monthly Report of Cases to be submitted to the Office of the Court Administrator within the first ten (10) days of the succeeding month. Thus, one month from the issuance of summons can be considered "reasonable time" with regard to personal service on the defendant. 
+ 
+ Sheriffs are asked to discharge their duties on the service of summons with due care, utmost diligence, and reasonable promptness and speed so as not to prejudice the expeditious dispensation of justice. Thus, they are enjoined to try their best efforts to accomplish personal service on defendant. On the other hand, since the defendant is expected to try to avoid and evade service of summons, the sheriff must be resourceful, persevering, canny, and diligent in serving the process on the defendant. For substituted service of summons to be available, there must be several attempts by the sheriff to personally serve the summons within a reasonable period [of one month] which eventually resulted in failure to prove impossibility of prompt service. "Several attempts" means at least three (3) tries, preferably on at least two different dates. In addition, the sheriff must cite why such efforts were unsuccessful. It is only then that impossibility of service can be confirmed or accepted. 
+ 
+ (2) Specific Details in the Return
+ 
+ The sheriff must describe in the Return of Summons the facts and circumstances surrounding the attempted personal service. The efforts made to find the defendant and the reasons behind the failure must be clearly narrated in detail in the Return. The date and time of the attempts on personal service, the inquiries made to locate the defendant, the name/s of the occupants of the alleged residence or house of defendant and all other acts done, though futile, to serve the summons on defendant must be specified in the Return to justify substituted service. The form on Sheriff's Return of Summons on Substituted Service prescribed in the Handbook for Sheriffs published by the Philippine Judicial Academy requires a narration of the efforts made to find the defendant personally and the fact of failure. Supreme Court Administrative Circular No. 5 dated November 9, 1989 requires that "impossibility of prompt service should be shown by stating the efforts made to find the defendant personally and the failure of such efforts," which should be made in the proof of service. 
+ 
+ (3) A Person of Suitable Age and Discretion
+ 
+ If the substituted service will be effected at defendant's house or residence, it should be left with a person of "suitable age and discretion then residing therein." A person of suitable age and discretion is one who has attained the age of full legal capacity (18 years old) and is considered to have enough discernment to understand the importance of a summons. "Discretion" is defined as "the ability to make decisions which represent a responsible choice and for which an understanding of what is lawful, right or wise may be presupposed". Thus, to be of sufficient discretion, such person must know how to read and understand English to comprehend the import of the summons, and fully realize the need to deliver the summons and complaint to the defendant at the earliest possible time for the person to take appropriate action. Thus, the person must have the "relation of confidence" to the defendant, ensuring that the latter would receive or at least be notified of the receipt of the summons. The sheriff must therefore determine if the person found in the alleged dwelling or residence of defendant is of legal age, what the recipient's relationship with the defendant is, and whether said person comprehends the significance of the receipt of the summons and his duty to immediately deliver it to the defendant or at least notify the defendant of said receipt of summons. These matters must be clearly and specifically described in the Return of Summons. 
+ 
+ (4) A Competent Person in Charge
+ 
+ If the substituted service will be done at defendant's office or regular place of business, then it should be served on a competent person in charge of the place. Thus, the person on whom the substituted service will be made must be the one managing the office or business of defendant, such as the president or manager; and such individual must have sufficient knowledge to understand the obligation of the defendant in the summons, its importance, and the prejudicial effects arising from inaction on the summons. Again, these details must be contained in the Return. 
+ 
+ 
+ In sum, the sheriff's return must specify the efforts exerted to personally serve the summons to the defendant, yet, due to the impossibility of prompt personal service, the summons was left to a person of suitable age and discretion. Here, the Sheriffs Return reflected the following information, to wit: 
+ 
+ This is to certify that on the 20
+th
+ day of November, 2013, the undersigned tried to serve upon the defendants the summons together with a copy of the complaint with annexes attached thereto, issued in the above-entitled case, at their given address located at No. 17 Madrigal Ave., Corinthian Garden, Quezon City, the undersigned talked to the defendant Fe Zapanta through phone, she told the undersigned that she authorized her maid Jenny Rose Dalumpines, to receive and sign a copy, for in their behalf, as per her signature appearing on the face of the original of the summons [.]
+ 
+ 
+ A circumspect analysis of the Sheriff's Return reveal that the requirements laid out in 
+Manotoc
+ were not complied with. It can be readily seen that the sheriff failed to make three attempts on at least two different dates to personally serve the summons to the spouses Zapanta. The sheriff's return merely state that the sheriff tried to serve the summons on November 20, 2013 and on the same day left the summons to the spouses Zapanta's household help after allegedly talking to Fe through the phone. Consequently, the impossibility of prompt personal service was not sufficiently established. In addition, the return did not indicate whether the household help was a person of suitable age and discretion. For failure to observe the requirements for substituted service of summons as expounded in 
+Manotoc
+, there was improper service of summons. 
+ Nevertheless, the RTC had effectively acquired jurisdiction over the person of the spouses Zapanta. 
+ In 
+Oaminal v. Castillo
+,
+[27]
+ the Court had ruled there was a valid service of summons despite the defective substituted service of summons. In the said case, therein defendants never denied actual receipt of the summons and merely questioned the manner of service of summons â the Court in
+ Oaminal
+ opined that the actual receipt of summons satisfied the requirements of due process. In the same vein, the spouses Zapanta do not deny receipt of summons as in their Omnibus Motion they conceded that Emmanuel had actually received the summons. As such, their admitted actual receipt of the summons cured any defect in the substituted service of summons. 
+ In any case, the trial court had acquired jurisdiction over the person of the spouses Zapanta by virtue of their voluntary appearance. Section 20, Rule 14 of the Rules of Court provides that the defendant's voluntary appearance shall be equivalent to the service of summons. Defendants are deemed to have voluntarily appeared in a case when they seek affirmative relief without directly assailing the court's lack of jurisdiction.
+[28]
+ Defendants knowingly doing an act inconsistent with the right to object to the lack of personal jurisdiction are considered to have submitted themselves to the jurisdiction of the court.
+[29]
+ 
+ In their Omnibus Motion, respondents had sought affirmative relief,
+ i.e
+., for the lifting of order of default and to admit Answer with Compulsory Counterclaim. When it was denied, they moved for reconsideration. Filing of motions to admit answer, and to lift order of default with motion for reconsideration is considered voluntary submission to the trial court's jurisdiction.
+[30]
+ It is readily apparent that respondents sought for reliefs inconsistent with the objection that the trial court had no jurisdiction over their person. 
+ 
+Lifting of Order of Default
+ In reversing the RTC orders denying respondents' Omnibus Motion, the CA deemed Emmanuel's illness as an accident which prevented him from filing an Answer. In addition, the appellate court found that respondents had a meritorious defense. 
+ Section 3(b), Rule 9 of the Rules of Court provides that the remedy of parties who had been declared in default is to file a motion under oath, at any time after notice and before judgment, showing that the failure to file an Answer was due to fraud, accident, mistake or excusable negligence, and that they have a meritorious defense. In other words, the following requisites must be satisfied by a motion to lift an order of default: (a) it must be made by motion under oath by one that has knowledge of the facts; (b) it must be shown that the failure to file answer was due to fraud, accident, mistake or excusable negligence; and (c) there must be a proper showing of the existence of a meritorious defense.
+[31]
+ 
+ In finding for respondents, the CA relies on 
+CastaÃ±eda v. PestaÃ±o
+[32]
+ where the Court had ruled that the illness of therein defendant constitute accident or excusable negligence which had prevented her to file a timely Answer. In the said case, it is noteworthy that the defendant established that her illness lasted for 45 days preventing her to promptly consult a lawyer. In addition, the Court, in 
+PestaÃ±o
+, highlighted that the complainant did not even try to contradict or disprove the allegation of illness. 
+ It is axiomatic that the party who alleges must prove the same.
+[33]
+ Since it is the respondents who claim that Emmanuel's illness prevented the spouses Zapanta from timely filing an Answer, they have the burden to prove the same. Unfortunately, a review of the records yields that respondents failed to discharge the said burden. 
+ In the present case, respondents submitted Emmanuel's laboratory and clinical results to establish that he was suffering from heart murmurs and Multiple System Atrophy. They claim that Emmanuel's ailments prevented him from consulting a lawyer about the case. 
+ Nevertheless, as pointed out by the RTC, the clinical and laboratory results alone are insufficient to definitively prove that Emmanuel's condition effectively prevented him from taking appropriate action on LBP's complaint. The results do not explain why it took at least seven months before respondents took any affirmative action concerning the case against them. While these laboratory results may prove that Emmanuel does not have a clean bill of health, they do not establish that his medical condition was of the extent that it took several months before he could consult a lawyer and file an Answer to LBP's complaint. They do not explain whether his condition debilitated him for the past seven months or was it recurring and intermittent such that it could be possible that Emmanuel had periods where he could be fit enough to handle his affairs. 
+ In any case, it was only Emmanuel who was allegedly prevented from timely filing an Answer. Fe, on the other hand, anchors her defense on the fact that she did not receive any summons â a fact disputed by respondents' very own admission that the spouses Zapanta had actually received the summons through Emmanuel. 
+ Further, even assuming that Emmanuel's medical condition constitutes accident or excusable neglect, still, respondents failed to justify the lifting of order of default for lack of a meritorious defense. 
+ Respondents theorize that the Deeds of Assignment executed pursuant to the PRA are sufficient to satisfy LLCFs loan obligation with LBP. They assert that as the assignee of the collectibles of LLCI, LBP is obligated to collect and sue LLCI's clients, the proceeds of which should be credited against the loan obligation. The CA agreed with respondents ruling that the assignment of receivables resulted in 
+dacion en pago
+. 
+ It is worth emphasizing that respondents do not deny LLCI's loan with LBP. They merely set up the defense that pursuant to the PRA between the parties, LLCI's obligation could be fully satisfied by pursuing the collectibles assigned to LBP. Thus, a review of the pertinent provisions of the PRA is in order. 
+ Under Item 1, Section II
+[34]
+ of the PRA, LBP agreed to grant financing facility to LLCI in the amount of P95 Million 
+via
+ the purchase of its receivables arising from the CTS with buyers of the columbarium units. Nevertheless, Item 15, Section VI
+[35]
+ of the PRA explicitly provides that LLCI is solidarily liable with its clients, to wit: 
+ VI. RIGHT OF RECOURSE AND PAYMENT OPTION 
+ 
+ 15. 
+Solidary Liability
+. The CLIENT shall be solidarily liable with each Buyer to pay any obligation which a Buyer may now or hereafter incur with LANDBANK pursuant to the purchase of Receivables under this Agreement. 
+This solidary liability shall not be contingent upon the pursuit by LANDBANK of whatever remedies it may have against the Buyer
+ or the securities or liens it may possess and the 
+CLIENT will, whether due or not due, pay LANDBANK without the necessity of demand upon the Buyers, any of the obligations under this Agreement or the Contract to Sell.
+ (Emphases supplied) 
+ 
+ 
+ From the provision in the PRA, it can be gleaned that LBP is given the following options to satisfy LLCI's loan obligation: (1) Proceed against LLCI individual clients covered by the respective deeds of assignment; or (2) pursue the same amount directly against LLCI. In agreeing to be bound solidarily liable, LLCI is bound to pay LBP even without the latter opting first to exhaust the receivables of LLCI clients assigned to it. Thus, contrary to the CA's ruling that the deeds of assignment resulted in a
+ dacion en pago
+, the receivables merely constituted securities in which the LBP may use to pay off LLCI's obligation. Nonetheless, there is nothing to prevent LBP from directly pursuing LLCI in accordance with its solidary liability under the PRA. 
+ Neither could respondents' reliance on Items 17 and 18, Section VI of the PRA negate LLCI's solidary liability. 
+ Item 17, Section VI of the PRA enumerates certain instances where LLCI is bound to repurchase the receivables it had assigned, to wit: 
+ 
+ 17. 
+LANDBANK's Right of Recourse
+. Upon the occurrence of any of the instances enumerated below, the CLIENT shall repurchase the Receivables by paying LANDBANK equivalent to the outstanding principal and accrued interest of the corresponding CTS subject of buy-back within fifteen (15) days from LANDBANK's demand: 
+ 
+ 
+ a. A Buyer fails to pay Receivables for three (3) consecutive CTS Amortization Due Dates or for five (5) CTS Amortization Due Dates in a year; 
+ 
+ b. A Contract to Sell is cancelled or is about to be cancelled pursuant to Paragraph V(12); 
+ 
+ c. A Buyer assigns his rights under the Contract to Sell in favor of a third party pursuant to Paragraph V (13); 
+ 
+ d. Any event that would cause the cancellation of any of the CTS or any of the Receivables purchased by LANDBANK becomes subject to any defense, set-off or counterclaim by the Buyers against the CLIENT; 
+ 
+ e. Any event, fortuitous or otherwise, resulting in the material damage of the Property, as determined by LANDBANK; or (sic) 
+ 
+ f. The CLIENT obtains refinancing from other financial institutions; 
+ 
+ g. full payment by the Buyer. 
+ 
+ 
+ Repurchase of the Receivables may be through issuance of checks by CLIENT or by debiting of CLIENT'S Settlement Account. Upon payment of the repurchase amount in full, LANDBANK shall return to the CLIENT the documents stated in Paragraph III relative to the repurchased Receivables. x x x x
+ 
+ 
+ On the other hand, Item 18, Section VI of the PRA provides situations where LBP may sell the properties covered by the assigned CTS, to wit: 
+ 
+ 18. 
+PAYMENT OPTIONS
+: In pursuance of the CLIENT'S solidary liability with its Buyers, and in addition to LANDBANK's right of recourse under Paragraph VI (17), LANDBANK may, to enforce payment by the CLIENT upon the occurrence of any of the relevant events stated in Paragraph VI (17) and Events of Default: 
+ 
+ 
+ a. Sell to third parties the Property on behalf of the CLIENT and receive the proceeds thereof; or
+ 
+ b. Receive the Property as payment by the CLIENT and sell the same to third parties or cause the transfer of title to the Property in its name, at its option. 
+ 
+ 
+ x x x x
+ 
+ 
+ A thorough and holistic reading of the above-mentioned provisions of the PRA reveals that they merely pertained to how LBP may utilize the receivables assigned in certain conditions to ensure the payment of LLCI's loan obligation. It is not contrary to LLCI's solidary obligation such that LBP may still enforce payment from LLCI. Items 17 and 18, Section VI of the PRA pertains to alternative reliefs available to LBP on top of the direct recourse against LLCI. 
+ As to the spouses Zapanta's liability, they agreed to be solidarily bound with LLCI pursuant to a Surety Agreement it had entered into with LBP. A Surety is a contractual relation resulting from an agreement whereby one person, the surety, engages to be answerable for the debt, default or miscarriage of another known as the principal.
+[36]
+ 
+ In 
+Palmares v. Court of Appeals
+,
+[37]
+ the Court had expounded on the nature and extent of the liability of a surety, to wit: 
+ 
+ 
+A surety is an insurer of the debt, whereas a guarantor is an insurer of the solvency of the debtor. A suretyship is an undertaking that the debt shall be paid;
+ a guaranty, an undertaking that the debtor shall pay. 
+Stated differently, a surety promises to pay the principal's debt if the principal will not pay
+, while a guarantor agrees that the creditor, after proceeding against the principal, may proceed against the guarantor if the principal is unable to pay. A surety binds himself to perform if the principal does not, without regard to his ability to do so. A guarantor, on the other hand, does not contract that the principal will pay, but simply that he is able to do so. In other words, a surety undertakes directly for the payment and is so responsible at once if the principal debtor makes default, while a guarantor contracts to pay if, by the use of due diligence, the debt cannot be made out of the principal debtor. 
+ 
+ x x x x
+ 
+ A creditor's right to proceed against the surety exists independently of his right to proceed against the principal. Under Article 1216 of the Civil Code, the creditor may proceed against any one of the solidary debtors or some or all of them simultaneously. The rule, therefore, is that if the obligation is joint and several, the creditor has the right to proceed even against the surety alone. 
+Since, generally, it is not necessary for a creditor to proceed against a principal in order to hold the surety liable, where, by the terms of the contract, the obligation of the surety is the same as that of the principal, then as soon as the principal is in default, the surety is likewise in default, and may be sued immediately and before any proceedings are had against the principal.
+ Perforce, in accordance with the rule that, in the absence of statute or agreement otherwise, a surety is primarily liable, and with the rule that his proper remedy is to pay the debt and pursue the principal for reimbursement, 
+the surety cannot at law, unless permitted by statute and in the absence of any agreement limiting the application of the security, require the creditor or obligee, before proceeding against the surety, to resort to and exhaust his remedies against the principal
+, particularly where both principal and surety are equally bound. (Emphases supplied) 
+ 
+ 
+ As a surety of LLCI, the spouses Zapanta had independently and solidarily bound themselves to pay in case the debt is not paid and not whether LLCI cannot pay. As such, LBP may proceed against them even without first exhausting all available remedies against LLCI pursuant to the PRA. 
+ In sum, the purported meritorious defense raised by respondents is based on an erroneous understanding of the PRA between LLCI and LBP and the Surety Agreement between the spouses Zapanta and the LBP. Neither the PRA nor the Surety Agreement provides that LLCI's loan obligations are paid by the assignment of receivables of LLCI's clients. Both transactions clearly impose a solidary liability on LLCI and the spouses Zapanta such that the LBP may elect to enforce the loan obligation on one or both of them. 
+ 
+WHEREFORE
+, the October 21, 2016 Decision and the February 10, 2017 Resolution of the Court of Appeals in CA-G.R. SP No. 140601 are 
+REVERSED
+ and 
+SET ASIDE
+. The October 22, 2014 and March 17, 2015 Orders of the Regional Trial Court, Branch 12, Manila are 
+REINSTATED
+. 
+ 
+SO ORDERED.
+Carpio (Chairperson), Caguioa, Lazaro-Javier
+, and 
+Zalameda, JJ
+., concur. 
+ 
+[1]
+ Penned by Associate Justice Priscilla J. Baltazar-Padilla, with Associate Justices Remedios A. Salazar-Fernando and Socorro B. Inting, concurring; 
+rollo
+, pp. 8-27. 
+ 
+[2]
+ Id. at 29-30.
+ 
+ 
+[3]
+ Issued by Judge Ruben Reynaldo G. Roxas; id. at 113-116. 
+ 
+[4]
+ Id. at 117-120. 
+ 
+[5]
+ Id. at 133-144.
+ 
+ 
+[6]
+ Id. at 35.
+ 
+ 
+[7]
+ Records, pp. 34-39.
+ 
+ 
+[8]
+ 
+Rollo
+, pp. 35-36.
+ 
+ 
+[9]
+ Id. at 121-132.
+ 
+ 
+[10]
+ Id. at 36-38.
+ 
+ 
+[11]
+ Id. at 159.
+ 
+ 
+[12]
+ Issued by Judge Ruben Reynaldo G. Roxas; id. at 166.
+ 
+ 
+[13]
+ Id. at 39. 
+ 
+[14]
+ Id. at 167-172.
+ 
+ 
+[15]
+ Id. at 116. 
+ 
+[16]
+ Id. at 119. 
+ 
+[17]
+ Id. at 79. 
+ 
+[18]
+ Id. at 42-43.
+ 
+ 
+[19]
+ Id. at 306-329.
+ 
+ 
+[20]
+ 232 Phil. 256, 263-264 (1987), as cited in 
+Heirs of Timbang Daromimbang Dimaampao v. Atty. Alug
+, 754 Phil. 236, 244-245 (2015).
+ 
+ 
+[21]
+ RULES OF COURT, Rule 45, Sec. 1.
+ 
+ 
+[22]
+ 
+Pascual v. Burgos
+, 776 Phil. 167, 182 (2016).
+ 
+ 
+[23]
+ G.R. No. 215988, April 10, 2019, citing 
+Medina v. Asistio, Jr.
+, 269 Phil. 225 (1990).
+ 
+ 
+[24]
+ 
+Tam Wong v. Factor-Joyama
+, 616 Phil. 239, 250 (2009). 
+[25]
+ 
+Interlink Movie Houses, Inc. v. Court of Appeals
+, G.R. No. 203298, January 17, 2018. 
+ 
+[26]
+ 530 Phil. 454, 468-471 (2006). 
+[27]
+ 459 Phil. 542, 553 (2003). 
+[28]
+ 
+G.V. Florida Transport, Inc. v. Tiara Commercial Corporation
+, G.R. No. 201378, October 18, 2017, 842 SCRA 576, 596. 
+ 
+[29]
+ 
+Carson Realty & Management Corporation v. Red Robin Security Agency
+, 805 Phil. 562, 577 (2017). 
+[30]
+ 
+Planters Development Bank v. Chandumal
+, 694 Phil. 411, 422 (2012). 
+ 
+[31]
+ 
+Spouses Manuel v. Ong
+, 745 Phil. 589, 620 (2014). 
+[32]
+ 96 Phil. 890, 892 (1955). 
+ 
+[33]
+ 
+Lim v. Equitable PCI Bank
+, 724 Phil. 453, 461 (2014). 
+[34]
+ 
+Rollo
+, p. 134. 
+ 
+[35]
+ Id. at 137. 
+[36]
+ 
+CCC Insurance Corporation v. Kawasaki Steel Corporation
+, 761 Phil. 1, 18 (2015). 
+ 
+[37]
+ 351 Phil. 664, 680-685 (1998). 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

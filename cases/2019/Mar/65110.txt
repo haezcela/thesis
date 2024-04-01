@@ -1,0 +1,570 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			848 Phil. 917
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 242860, March 11, 2019 ]
+
+
+THE LAND TRANSPORTATION FRANCHISING AND REGULATORY BOARD (LTFRB) AND THE DEPARTMENT OF TRANSPORTATION (DOTR), PETITIONERS, VS. HON. CARLOS A. VALENZUELA, IN HIS CAPACITY AS PRESIDING JUDGE OF THE REGIONAL TRIAL COURT OF MANDALUYONG CITY, BRANCH 213 AND DBDOYC, INC., RESPONDENTS.
+D E C I S I O N
+
+
+
+
+PERLAS-BERNABE, J.:
+
+
+Assailed in this petition for 
+certiorari
+[1]
+ is the Order
+[2]
+ dated August 20, 2018 (Assailed Order) rendered by public respondent Judge Carlos A. Valenzuela of the Regional Trial Court of Mandaluyong City, Branch 213 (RTC) in R-MND-18-01453-SC which directed the issuance of a writ of preliminary injunction in favor of private respondent DBDOYC, Inc. (DBDOYC) essentially enjoining petitioners the Land Transportation Franchising and Regulatory Board (LTFRB) and the Department of Transportation (DOTr; collectively, petitioners) from regulating DBDOYC's business operations conducted through the 
+Angkas
+ mobile application.
+The Facts
+On May 8, 2015, the Department of Transportation and Communications (DOTC), the predecessor of DOTr, issued Department Order No. (DO) 2015-11,
+[3]
+ amending DO 97-1097,
+[4]
+ which set the standard classifications for public transport conveyances to be used as basis for the issuance of a Certificate of Public Convenience (CPC)
+[5]
+ for public utility vehicles (PUVs). In recognition of technological innovations which allowed for the proliferation of new ways of delivering and offering public transportation, the DOTC, through DO 2015-11, created two (2) new classifications, namely, 
+Transportation Network Companies (TNC) and Transportation Network Vehicle Service (TNVS)
+.
+[6]
+Under DO 2015-11, a TNC is defined as an "
+organization whether a corporation, partnership, sole proprietor, or other form, that provides pre-arranged transportation services for compensation using an online-enabled application or platform technology to connect passengers with drivers using their personal vehicles
+."
+[7]
+ Although DO 2015-11 made mention of TNVS, the term was not clearly defined until June 19, 2017, when the DOTr issued DO 2017-11
+[8]
+ which set the rules and procedures on the issuance of franchises for public transport routes and services,
+[9]
+ including TNCs and TNVS. Under DO 2017-11, TNVS is defined as "
+a [PUV] accredited with a [TNC], which is granted authority or franchise by the LTFRB to run a public transport service
+."
+[10]
+ DO 2017-11 further provided in Item 2.2 thereof that "
+[m]otorcycles x x x are likewise not allowed as public transport conveyance
+."
+[11]
+Consequently, the LTFRB issued various memorandum circulars
+[12]
+ to govern the issuance of the necessary CPC for a TNVS and the accreditation of a TNC. In its issuances, the LTFRB declared that a 
+TNC is treated as a transport provider
+.
+[13]
+ whose accountability commences from the acceptance by its TNVS while online.
+[14]
+ On the other hand, the accountability of the 
+TNVS, as a common carrier
+, attaches from the time the TNVS is online and offers its services to the riding public.
+[15]
+Meanwhile, on May 26, 2016, DBDOYC registered its business with the Securities and Exchange Commission (SEC), and subsequently, in December 2016, launched "
+Angkas
+," an online and on-demand motorcycle-hailing mobile application (
+Angkas
+ or 
+Angkas
+ app) that pairs drivers of motorcycles with potential passengers without, however, obtaining the mandatory certificate of TNC accreditation from the LTFRB
+. In this regard, DBDOYC accredited 
+Angkas
+ drivers and allowed them to offer their transport services to the public despite the absence of CPCs.
+[16]
+Cognizant of the foregoing, the LTFRB issued a press release on January 27, 2017 informing the riding public that DBDOYC, which is considered as a TNC, cannot legally operate.
+[17]
+ Despite such warning, however, DBDOYC continued to operate and offer its services to the riding public 
+sans
+ any effort to obtain a certificate of TNC accreditation.
+[18]
+In response, DBDOYC, on July 4, 2018, filed a Petition for Declaratory Relief with Application for Temporary Restraining Order/Writ of Preliminary Injunction
+[19]
+ against petitioners before the RTC alleging that:
+(
+a
+) it is not a public transportation provider since 
+Angkas
+ app is a mere tool that connects the passenger and the motorcycle driver; (
+b
+) 
+Angkas
+ and its drivers are not engaged in the delivery of a public service; (
+c
+) alternatively, should it be determined that it is performing a public service that requires the issuance of a certificate of accreditation and/or CPC, then DO 2017-11 should be declared invalid because it violates Section 7 of Republic Act No. (RA) 4136 or the "Land and Transportation Traffic Code,"
+[20]
+ which does not prohibit motorcycles from being used as a PUV; and (
+d
+) neither the LTFRB nor the DOTr has jurisdiction to regulate motorcycles for hire.
+[21]
+The RTC Proceedings and The Assailed Order
+In an Order
+[22]
+ dated July 13, 2018, the RTC issued a Temporary Restraining Order (TRO) finding DBDOYC's business not subject to any regulation nor prohibited under existing law. It added that since the use of DBDOYC's internet-based mobile application is not contrary to law, morals, good customs, public order, or public policy,
+[23]
+ a clear and unmistakable right has been established in favor of DBDOYC such that if petitioners prohibit the operation of 
+Angkas
+, the same would cause irreparable injury to the company.
+[24]
+Proceedings were thereafter conducted relative to the application for a writ of preliminary injunction. Eventually, through the Assailed Order,
+[25]
+ the RTC issued the said writ to enjoin petitioners and anyone acting on their behalf: (
+a
+) from interfering, whether directly or indirectly, with DBDOYC's operations; (
+b
+) from apprehending 
+Angkas
+ bikers who are in lawful pursuit of their trade or occupation based on 
+Angkas
+ mobile application; and (
+c
+) from performing any act/acts that will impede, obstruct, frustrate, or defeat DBDOYC's pursuit of its lawful business or trade as owner and operator of 
+Angkas
+.
+[26]
+In so ruling, the RTC found that DBDOYC has a clear and unmistakable right "to conduct its business based on its constitutional right to liberty," which includes "the right of an individual to x x x earn his livelihood by any lawful calling; [and] to pursue any [vocation] and essentially to do and perform anything unless otherwise prohibited by law."
+[27]
+ In this light, the RTC concluded that DBDOYC has a right to enter into an independent contract with its 
+Angkas
+ riders as an application provider, further reiterating that DBDOYC's business is not yet subject to any regulation nor prohibited by any existing law, and that the 
+Angkas
+ biker's offer of transportation services to a potential passenger is a purely private arrangement using DBDOYC's application.
+[28]
+ Thus, should petitioners prohibit DBDOYC from operating 
+Angkas
+, an irreparable injury will result, thereby entitling it to the issuance of the injunctive relief prayed for.
+[29]
+Aggrieved, petitioners are now before the Court ascribing grave abuse of discretion on the part of the RTC in issuing the writ of preliminary injunction through the Assailed Order. Notably, in the present petition, petitioners sought the issuance of a TRO to enjoin the RTC from enforcing its injunctive writ, which the Court granted in a Resolution
+[30]
+ dated December 5, 2018.
+The Issue Before the Court
+The core issue for the Court's resolution is whether or not the RTC committed grave abuse of discretion amounting to lack or in excess of jurisdiction in issuing a writ of preliminary injunction in favor of DBDOYC and against petitioners.
+The Court's Ruling
+Preliminarily, despite the absence of the required prior motion for reconsideration,
+[31]
+ the Court finds it proper to give due course to the petition in view of the public interest involved, and further, the urgent necessity of resolving this case so as not to prejudice the interests of the government.
+[32]
+The petition is meritorious.
+Case law states that "grave abuse of discretion arises when a lower court or tribunal patently violates the Constitution, the law or existing jurisprudence."
+[33]
+ According to its classic formulation:
+By grave abuse of discretion is meant capricious and whimsical exercise of judgment as is equivalent to lack of jurisdiction. Mere abuse of discretion is not enough. It must be grave abuse of discretion as when the power is exercised in an arbitrary or despotic manner by reason of passion or personal hostility, and must be so patent and so gross as to amount to an evasion of a positive duty or to a virtual refusal to perform the duty enjoined or to act at all in contemplation of law.
+[34]
+In ruling on whether or not the RTC gravely abused its discretion in this case, the Court turns to the basic principles governing the issuance of preliminary injunctive writs.
+The first and foremost requisite in the issuance of a writ of preliminary injunction is the 
+existence of a clear legal right
+. The rationale therefor hews with the nature of these writs being mere provisional reliefs. In 
+Department of Public Works and Highways v. City Advertising Ventures Corporation
+,
+[35]
+ the Court explained that a writ of preliminary injunction is issued to:
+[P]revent threatened or continuous irremediable injury to some of the parties 
+before their claims can be thoroughly studied and adjudicated
+. Its sole aim is to preserve the status quo until the merits of the case can be heard fully[.] 
+Thus, it will be issued only upon a showing of a clear and unmistakable right that is violated.
+ Moreover, an urgent necessity for its issuance must be shown by the applicant.
+[36]
+ (Emphasis and underscoring supplied)
+In 
+Spouses Nisce v. Equitable PCI Bank, Inc.
+,
+[37]
+ the Court held that "[t]he plaintiff praying for a writ of preliminary injunction 
+must x x x establish[, 
+inter alia
+,] that he or she has a 
+present and unmistakable right
+ to be protected
+; x x x 
+[t]hus, where the plaintiffs right is doubtful or disputed, a preliminary injunction is not proper
+. The possibility of irreparable damage without proof of an actual existing right is not a ground for a preliminary injunction."
+[38]
+In this case, the RTC premised its issuance of the assailed injunctive writ on DBDOYC's purported clear and unmistakable legal right "to conduct its business based on its constitutional right to liberty."
+[39]
+ Prescinding therefrom, the RTC concludes that DBDOYC has "the right to enter into an independent contract with its 
+Angkas
+ bikers as an [application] provider [without] initially requiring it to secure [a CPC]."
+[40]
+As in all fundamental rights, the State has a legitimate interest in regulating these rights when their exercise clearly affects the public. To recount, "[p]olice power is the inherent power of the State to regulate or to restrain the use of liberty and property for public welfare."
+[41]
+ Accordingly, the State "may interfere with personal liberty, property, lawful businesses and occupations to promote the general welfare [as long as] the interference [is] reasonable and not arbitrary."
+[42]
+Here, 
+it is petitioners' position that 
+DBDOYC is a transportation provider
+ and 
+its accredited drivers are common carriers
+ engaged in rendering 
+public service
+ which is subject to their regulation
+.
+[43]
+ The regulatory measures against DBDOYC, as mentioned above, pertain to DOs 2015-11 and 2017-11, which have created new classifications of transportation services, namely TNC and TNVS, in light of modern innovations. These issuances may be traced to Commonwealth Act No. 146,
+[44]
+ otherwise known as the "Public Service Act," as amended.
+[45]
+ Under Section 13 (b) thereof, a "public service" is defined as follows:
+(b) The term "public service" includes every person that now or hereafter 
+may own, operate, manage, or control in the Philippines, for hire or compensation, with general or limited clientele, whether permanent, occasional or accidental, and done for general business purposes, 
+any common carrier
+, railroad, street railway, traction railway, sub-way motor vehicle, either 
+for freight or passenger, or both with or without fixed route and whatever may be its classification
+, freight or carrier service of any class, express service, steamboat or steamship line, pontines, ferries, and water craft, engaged in the transportation of passengers or freight or both, shipyard, marine railway, marine repair shop, wharf or dock, ice plant, ice-refrigeration plant, canal, irrigation system, gas electric light, heat and power, water supply and power, petroleum, sewerage system, wire or wireless communications system, wire or wireless broadcasting stations and other similar public services; 
+Provided, however
+, That a person engaged in agriculture, not otherwise a public service, who owns a motor vehicle and uses it personally and/or enters into a special contract whereby said motor vehicle is offered for hire or compensation to a third party or third [parties] engaged in agriculture, not itself or themselves a public service, for operation by the latter for a limited time and for a specific purpose directly connected with the cultivation of his or their farm, the transportation, processing, and marketing of agricultural products of such third party or third parties shall not be considered as operating a public service for the purposes of this Act. (Emphases and underscoring supplied).
+Section 15 of the same law requires that, except for certain exemptions, no public service shall operate in the Philippines without possessing a CPC.
+[46]
+ In turn, the then DOTC (which had supervision and control over the LTFRB that had assumed certain powers of the old Public Service Commission
+[47]
+) issued DO 97-1097 providing for the standard classifications of all PUVs before they can be issued a CPC. This department order was later amended by the above-stated DOs 2015-11 and 2017-11 and thereafter, the LTFRB issued various memorandum circulars governing the rules for TNC and TNVS accreditation, which rules DBDOYC purportedly failed to comply.
+As stated in the Public Service Act, the term "public service" covers any person who owns, operates, manages, or controls in the Philippines, for hire or compensation, 
+with general or limited clientele, whether permanent, occasional or accidental
+, and 
+done for general business purposes, 
+any common carrier
+.
+[48]
+ The Civil Code defines "common earners" in the following terms:
+Article 1732. Common carriers are persons, corporations, firms or associations 
+engaged in the business of carrying or transporting passengers or goods or both, by land
+, water, or air 
+for compensation, offering their services to the public
+. (Emphases supplied)
+For its part, DBDOYC claims reprieve from the above-stated regulatory measures, claiming that it and its accredited drivers are not common carriers or transportation providers.
+[49]
+ It argues that "[its] technology [only] allows a biker willing to give a ride and a passenger willing to pay the set price to meet and contract with each other. Under this set-up, an 
+Angkas
+ biker does not offer his/her service to an 
+indefinite public
+."
+[50]
+ Since the application "merely pairs an 
+Angkas
+ biker with a potential passenger under a fare scheme which [DBDOYC] fixes for both, [DBDOYC] may not compel an 
+Angkas
+ driver to pick up a potential passenger even after the latter confirms a booking because as between the biker and the passenger, there is but a 
+purely private contractual arrangement
+."
+[51]
+However, it seems that DBDOYC's proffered operations is not enough to extricate its business from the definition of common carriers, which, as mentioned, fall under the scope of the term "public service." As the DBDOYC itself describes, 
+Angkas
+ is a mobile application which seeks to "pair an available and willing 
+Angkas
+ biker with a potential passenger, who requested for a motorcycle ride, relying on geo-location technology."
+[52]
+ Accordingly, it appears that it is practically functioning as a booking agent, or at the very least, acts as a third-party liaison for its accredited bikers. Irrespective of the application's limited market scope, 
+i.e.
+, 
+Angkas
+ users, it remains that, on the one hand, these bikers offer transportation services to wiling public consumers, and on the other hand, these services may be readily accessed by anyone who chooses to download the 
+Angkas
+ app.
+In 
+De Guzman v. Court of Appeals
+,
+[53]
+ the Court discussed the relation between Article 1732 of the Civil Code and Section 13 (b) of the Public Service Act, explaining that Article 1732 of the Civil Code does not distinguish between a carrier who offers its services to the general public and one who offers services or solicits business only from a narrow segment of the general population:
+The above article makes no distinction between one whose principal business activity is the carrying of persons or goods or both, and one who does such carrying only as an ancillary activity (in local idiom, as "a sideline"). 
+Article 1732 also carefully avoids making any distinction between a person or enterprise offering transportation service on a regular or scheduled basis and one offering such service on an occasional, episodic or unscheduled basis.
+ 
+Neither does Article 1732 distinguish between a carrier offering its services to the "general public," 
+i.e.
+, the general community or population, and 
+one who offers services or solicits business only from a narrow segment of the general population
+.
+ We think that Article [1732] deliberately refrained from making such distinctions.
+So understood, 
+the concept of "common carrier" under Article 1732 may be seen to coincide neatly with the notion of "public service,"
+ under the Public Service Act (Commonwealth Act No. 1416, as amended) which at least partially supplements the law on common carriers set forth in the Civil Code. x x x.
+[54]
+ (Emphases and underscoring supplied)
+In this relation, DBDOYC posits that its accredited bikers are private carriers as they do not hold out their services generally to the public because they cannot just be hailed on the street as they only contract via the 
+Angkas
+ online front. However, the Court is hard-pressed to rule - at least at this point, and for the purpose of determining the validity of the writ of preliminary injunction - that these bikers are only private carriers who may publicly ply their trade without any regulation. As the Court observes, the genius behind the 
+Angkas
+ app is that it removes the inconvenience of having to physically hail for public transportation by creating a virtual system wherein practically the same activity may now be done at the tip of one's fingers. As it is the trend of modern technology, previously cumbersome mundane activities, such as paying bills, ordering food, or reserving accommodations, can now be accomplished through a variety of online platforms. By DBDOYC's own description,
+[55]
+ it seems to be that 
+Angkas
+ app is one of such platforms. As such, the fact that its drivers are not physically hailed on the street does not automatically render 
+Angkas
+-accredited drivers as private carriers.
+While DBDOYC further claims that another distinguishing factor of its business is that "[its] drivers may refuse at any time any legitimate demand for service by simply not going online or not logging in to the online platform,"
+[56]
+ still when they do so log-in, they make their services publicly available. 
+In other words, when they put themselves online, their services are bound for indiscriminate public consumption.
+ Again, as also-mentioned above, Article 1732 defining a common carrier "[c]arefully avoids making any distinction between a person or enterprise offering transportation service on a regular or scheduled basis and one offering such service on an occasional, episodic or unscheduled basis."
+[57]
+ This doctrinal statement seems to be the apt response to DBDOYC's assertion.
+Moreover, based on the way the app works, it appears that there is really no contractual discretion 
+between the 
+Angkas
+ bikers and would-be passengers
+ because the app automatically pairs them up based on algorithmic procedures. Whether or not the parties once paired with each other have the choice to freely accept, reject, or modify the terms of their engagement based solely on their discretion is a matter which appears to have not yet been traversed in the proceedings below. Verily, the absence of any 
+true
+ choice on these material contractual points apparently contradicts the postulation that the 
+Angkas
+ app merely facilitates 
+a purely private arrangement between the biker and his passenger
+.
+At any rate, even if it is assumed that 
+Angkas
+-accredited bikers are not treated as common carriers and hence, would not make DBDOYC fall under the "public service" definition, it does not necessarily mean that the business of holding out private motorcycles for hire is a legitimate commercial venture. Section 7 of RA 4136 states that:
+Section 7. 
+Registration Classification
+. - Every motor vehicle shall be registered under one of the following described classifications:
+(a) private passenger automobiles; (b) private trucks; and (c) 
+private motorcycles
+, scooters, or motor wheel attachments. Motor vehicles registered under these classifications 
+shall 
+not
+ be used for hire under any circumstances and shall not be used to solicit, accept, or be used to transport passengers or freight for pay
+.
+x x x x (Emphases and underscoring supplied)
+That being said, the Court therefore concludes that no clear and unmistakable right exists in DBDOYC's favor; hence, the RTC gravely abused its discretion in issuing the assailed injunctive writ. In the final analysis, the business of holding one's self out as a transportation service provider, whether done through online platforms or not, appears to be one which is imbued with public interest and thus, deserves appropriate regulations. With the safety of the public further in mind, and given that, at any rate, the above-said administrative issuances are presumed to be valid until and unless they are set aside,
+[58]
+ the nullification of the assailed injunctive writ on the ground of grave abuse of discretion is in order.
+Lest it be misunderstood, the pronounced grave abuse of discretion of the RTC exists only with respect to its issuance of the assailed injunctive writ. It is fundamental that preliminary injunction proceedings are separate and distinct from the main case. In 
+Buyco v. Baraquia
+,
+[59]
+ the Court discussed the ancillary and provisional nature of these writs:
+A writ of preliminary injunction is an order granted at any stage of an action or proceeding prior to the judgment or final order, requiring a party or a court, agency or a person to refrain from a particular act or acts. It is merely a provisional remedy, adjunct to the main case subject to the latter's outcome. It is not a cause of action in itself. Being an ancillary or auxiliary remedy, it is available during the pendency of the action which may be resorted to by a litigant to preserve and protect certain rights and interests therein pending rendition, and for purposes of the ultimate effects, of a final judgment in the case.
+The writ is provisional because it constitutes a temporary measure availed of during the pendency of the action and it is ancillary because it is a mere incident in and is dependent upon the result of the main action.
+[60]
+Under this limited scope, it is thus beyond the power of the Court to determine the ultimate rights and obligations of the parties, else it unduly prejudges the main case for declaratory relief which is still pending before the court 
+a quo
+. While the Court acknowledges the contemporary relevance of the topic at hand, it remains self-aware of this case's procedural and jurisdictional parameters. Accordingly, the definitive resolution of the issue of regulating ride-booking or ride-sharing applications must await the proper case therefor.
+As a final word, "[e]very court should remember that an injunction should not be granted lightly or precipitately because it is a limitation upon the freedom of the defendant's action. It should be granted only when the court is fully satisfied that the law permits it and the emergency demands it, for no power exists whose exercise is more delicate, which requires greater caution and deliberation, or is more dangerous in a doubtful case, than the issuance of an injunction."
+[61]
+WHEREFORE
+, the petition is 
+GRANTED
+. The Order dated August 20, 2018 issued by the Regional Trial Court of Mandaluyong City, Branch 213 (RTC) directing the issuance of a writ of preliminary injunction in R-MND-18-01453-SC is 
+ANNULLED
+ and 
+SET ASIDE
+. The RTC is hereby 
+ORDERED
+ to conduct further proceedings, and thereafter, resolve R-MND-18-01453-SC with utmost dispatch.
+SO ORDERED.
+Carpio, Senior Associate Justice, (Chairperson), Caguioa, J. Reyes, Jr.
+, and 
+Lazaro-Javier, JJ.
+, concur.
+[1]
+ With Very Urgent Prayer for the Issuance of a Temporary Restraining Order and/or Writ of Preliminary Injunction; 
+rollo
+, pp. 3-57.
+[2]
+ Id. at 219-225.
+[3]
+ Entitled "FURTHER AMENDING DEPARTMENT ORDER NO. 97-1097 TO PROMOTE MOBILITY" (see 
+rollo
+, pp. 226-231).
+[4]
+ Entitled "PROVIDING STANDARD CLASSIFICATION FOR ALL PUBLIC TRANSPORT CONVEYANCES," issued on September 29, 1997.
+[5]
+ See Section 15 of Commonwealth Act No. 146, entitled "AN ACT TO REORGANIZE THE PUBLIC SERVICE COMMISSION, PRESCRIBE ITS POWERS AND DUTIES, DEFINE AND REGULATE PUBLIC SERVICES, PROVIDE AND FIX THE RATES AND QUOTA OF EXPENSES TO BE PAID BY THE SAME, AND FOR OTHER PURPOSES," otherwise known as the "PUBLIC SERVICE ACT" (November 7, 1936).
+[6]
+ See 
+rollo
+, pp. 229-230.
+[7]
+ Id. at 229; emphasis supplied.
+[8]
+ Entitled "OMNIBUS GUIDELINES ON THE PLANNING AND IDENTIFICATION OF PUBLIC ROAD TRANSPORTATION SERVICES AND FRANCHISE ISSUANCE" (see 
+rollo
+, pp. 232-249).
+[9]
+ 
+Rollo
+, p. 232.
+[10]
+ See Item 1.34 of DO 2017-11 (
+rollo
+, p. 233); emphasis supplied.
+[11]
+ Item 2.2 of DO 2017-11 reads in full:
+2.2 Hierarchy and Classification of Public Transportation Modes
+As a matter of policy, the modes of transportation shall follow the hierarchy of roads. Thus, higher capacity transportation modes shall have priority in terms of CPC allocation and transit right of way in trunk lines or main thoroughfares over lower capacity modes. Taxis, TNVS, tourist transport services, and shuttle services are excluded as they are considered door-to-door services and do not have specific routes. Thus, as a general rule, assigning higher capacity modes to routes currently traversed by lower capacity modes in the Local Public Transport Route Plan may be allowed, but not otherwise.
+The operation of tricycles shall be in accordance with Joint Memorandum Circular No. 1, series of 2008 of the DILG and the DOTC, which states that tricycle operation should only be confined along city or municipal roads, not along national roads and is limited only to routes not traversed by higher modes of public transport. 
+Motorcycles and other farm implements such as the 
+kuliglig
+ are likewise not allowed as public transport conveyance
+. Further basis of the provision of this mode should also be the LPTRP [(Local Public Transport Route Plan; No. 1.15)]. (Emphasis and underscoring supplied)
+[12]
+ These include: LTFRB Memorandum Circular No. 2015-015-A or the "RULES AND REGULATIONS TO GOVERN THE ACCREDITATION OF TRANSPORTATION NETWORK COMPANIES," issued on October 23, 2017 (see 
+rollo
+, pp. 250-253); LTFRB Memorandum Circular No. 2015-016-A or the "TERMS AND CONDITIONS OF A CERTIFICATE OF TRANSPORTATION NETWORK COMPANY ACCREDITATION," issued on October 23, 2017 (see 
+rollo
+, pp. 254-257); LTFRB Memorandum Circular No. 2015-017 or the "IMPLEMENTING GUIDELINES ON THE ACCEPTANCE OF APPLICATIONS FOR A CERTIFICATE OF PUBLIC CONVENIENCE TO OPERATE A TRANSPORTATION NETWORK VEHICLE SERVICE," issued on May 28, 2015 (see 
+rollo
+, pp. 258-260); and LTFRB Memorandum Circular No. 2015-018-A or the "TERMS AND CONDITIONS OF A CERTIFICATE OF PUBLIC CONVENIENCE TO OPERATE A TRANSPORTATION NETWORK VEHICLE SERVICE," issued on October 23, 2017 (see 
+rollo
+, pp. 261-263).
+[13]
+ See LTFRB Memorandum Circular No. 2015-015-A (see 
+rollo
+, p. 250).
+[14]
+ See LTFRB Memorandum Circular No. 2015-016-A (see 
+rollo
+, p. 254).
+[15]
+ See LTFRB Memorandum Circular No. 2015-018-A (see 
+rollo
+, p. 261).
+[16]
+ See 
+rollo
+, pp. 13-14 and 604.
+[17]
+ See id. at 14.
+[18]
+ Id.
+[19]
+ Dated June 26, 2018. Id. at 86-123.
+[20]
+ Pertinent portions of Section 7 of RA 4136, entitled "AN ACT TO COMPILE THE LAWS RELATIVE TO LAND TRANSPORTATION AND TRAFFIC RULES, TO CREATE A LAND TRANSPORTATION COMMISSION AND FOR OTHER PURPOSES" (June 20, 1964), read:
+Section 7. 
+Registration Classification
+. - Every motor vehicle shall be registered under one of the following described classifications:
+(a) private passenger automobiles; (b) private trucks; and (c) private motorcycles, scooters, or motor wheel attachments. Motor vehicles registered under these classifications shall not be used for hire under any circumstances and shall not be used to solicit, accept, or be used to transport passengers or freight for pay.
+x x x x
+For the purpose of this section, a vehicle habitually used to carry freight not belonging to the registered owner thereof, or passengers not related by consanguinity or affinity within the fourth civil degree to such owner, shall be conclusively presumed to be "for hire."
+x x x x
+[21]
+ See 
+rollo
+, pp. 97-120.
+[22]
+ Id. at 299-305.
+[23]
+ See id. at 303.
+[24]
+ Id at 304.
+[25]
+ Referring to the Order dated August 20, 2018; id. at 219-225.
+[26]
+ Id. at 224.
+[27]
+ Id. at 223.
+[28]
+ See id.
+[29]
+ See id. at 224.
+[30]
+ Id. at 502-503. See also TRO dated December 5, 2018; id. at 502-506.
+[31]
+ See 
+Malay ang Manggagawa ng Stayfast Phils., Inc. v. National Labor Relations Commission
+, 716 Phil. 500, 514 (2013).
+[32]
+ See id. at 514-515.
+[33]
+ 
+The Office of the Ombudsman v. Valencerina
+, 739 Phil. 11, 24 (2014).
+[34]
+ 
+Department of Public Works and Highways v. City Advertising Ventures Corporation
+, 799 Phil. 47, 62 (2016).
+[35]
+ Id.
+[36]
+ Id.
+[37]
+ 545 Phil. 138 (2007).
+[38]
+ Id. at 160-161.
+[39]
+ 
+Rollo
+, p. 223.
+[40]
+ Id.
+[41]
+ 
+Manila Memorial Park, Inc. v. Secretary of the Department of Social Welfare and Development
+, 722 Phil. 538, 575 (2013).
+[42]
+ Id. at 575-576.
+[43]
+ 
+Rollo
+, p. 31.
+[44]
+ Entitled "AN ACT TO REORGANIZE THE PUBLIC SERVICE COMMISSION, PRESCRIBE ITS POWERS AND DUTIES, DEFINE AND REGULATE PUBLIC SERVICES, PROVIDE AND FIX THE RATES AND QUOTA OF EXPENSES TO BE PAID BY THE SAME, AND FOR OTHER PURPOSES" (November 7, 1936).
+[45]
+ As Amended by RA 2677, entitled "AN ACT TO AMEND SECTIONS TWO, THREE, FOUR, TEN, THIRTEEN, AND AND FOURTEEN OF COMMONWEALTH ACT NUMBERED ONE HUNDRED FORTY-SIX, AS AMEN OTHERWISE KNOWN AS THE PUBLIC SERVICE ACT, AND FOR OTHER PURPOSES" (June 18, 1960).
+[46]
+ Section 15 of CA 146 (as amended by Commonwealth Act No. 454, entitled "AN ACT TO AMEND VARIOUS SECTIONS OF COMMONWEALTH ACT NUMBERED ONE HUNDRED AND FORTY-SIX, KNOWN AS THE PUBLIC SERVICE ACT" [June 8, 1939]) pertinently reads:
+Section 15. With the exception of those enumerated in the preceding section, 
+no public service shall operate in the Philippines without possessing a valid and subsisting certificate from the Public Service Commission, known as "certificate of public convenience," or "certificate of convenience and public necessity,"
+ as the case may be, to the effect that the operation of said service and the authorization to do business will promote the public interests in a proper and suitable manner.
+x x x x (Emphasis supplied)
+[47]
+ See Executive Order No. 202, entitled "CREATING THE LAND TRANSPORTATION FRANCHISING AND REGULATORY BOARD" (June 19, 1987).
+[48]
+ See Section 1 of RA 1270, entitled "AN ACT TO AMEND SECTION THIRTEEN OF COMMONWEALTH ACT NUMBERED ONE HUNDRED AND FORTY-SIX, OTHERWISE KNOWN AS THE PUBLIC SERVICE ACT, AS AMENDED BY COMMONWEALTH ACT NUMBERED FOUR HUNDRED AND FIFTY-FOUR" (June 14, 1955), Amending Section 13 of Commonwealth Act No. 146. See also Section 1 of RA 2677.
+[49]
+ See Comment dated December 17, 2018; 
+rollo
+, p. 635.
+[50]
+ Id. at 100; underscoring supplied.
+[51]
+ Id. at 100-101; underscoring supplied.
+[52]
+ Id. at 99.
+[53]
+ 250 Phil. 613 (1988).
+[54]
+ Id. at 618-619.
+[55]
+ See 
+rollo
+, pp. 91 and 604.
+[56]
+ Id. at 642.
+[57]
+ 
+De Guzman v. Court of Appeals
+, supra note 53, at 618.
+[58]
+ "It is elementary that rules and regulations issued by administrative bodies to interpret the law which they are entrusted to enforce, have the force of law, and are entitled to great respect. Administrative issuances partake of the nature of a statute and have in their favor a presumption of legality. As such, courts cannot ignore administrative issuances especially when, as in this case, its validity was not put in issue. Unless an administrative order is declared invalid, courts have no option but to apply the same." (
+Landbank of the Philippines v. Celada
+, 515 Phil. 467, 479 [2006]).
+[59]
+ 623 Phil. 596 (2009). 
+[60]
+ Id. at 600-601.
+[61]
+ 
+Bank of the Philippine Islands v. Hontanosas, Jr.
+, 737 Phil. 38, 59-60 (2014); citations omitted.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

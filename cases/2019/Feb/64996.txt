@@ -1,0 +1,680 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			847 Phil. 288
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 233999, February 18, 2019 ]
+
+
+TELEPHILIPPINES, INC.,
+[*]
+ PETITIONER, V. FERRANDO H. JACOLBE, RESPONDENT.
+
+
+D E C I S I O N
+
+
+
+
+PERLAS-BERNABE, J.:
+
+
+Assailed in this petition for review on 
+certiorari
+[1]
+ are the Decision
+[2]
+ dated September 8, 2016 and the Resolution
+[3]
+ dated August 7, 2017 of the Court of Appeals (CA) in CA-G.R. SP No. 08600 which set aside the Decision
+[4]
+ dated March 31, 2014 and the Resolution
+[5]
+ dated May 20, 2014 of the National Labor Relations Commission (NLRC) in NLRC Case No. VAC-02-000080-2014 and accordingly, reinstated the Decision
+[6]
+ dated November 25, 2013 of the Labor Arbiter (LA) finding respondent Ferrando H. Jacolbe (Jacolbe) to have been illegally dismissed by petitioner Telephilippines, Inc. (TP). 
+ 
+The Facts
+ 
+ TP
+[7]
+ is a corporation engaged in the business of providing contact center services to its various offshore corporate clients through its customer service representatives (CSRs).
+[8]
+ On June 18,2007, TP hired Jacolbe as a CSR tasked to resolve customer's questions and issues promptly and efficiently, among others, in accordance with set performance standards and protocol.
+[9]
+ 
+Sometime in May 2009, TP assigned Jacolbe to its Priceline account. For TP to properly assess his work performance, Jacolbe was required to meet the key performance metric targets
+[10]
+ of, among others, an Average Handle Time (AHT) of 7.0 minutes or below.
+[11]
+ The AHT refers to the average time spent by a CSR with the customer on the phone; it is computed using the formula: (
+Average Talk Time
+ + 
+Hold Time
+) / 
+Number of Calls 
+= 
+AHT
+, and is recorded on a daily and weekly basis.
+[12]
+ 
+ On January 22, 2013, Jacolbe's supervisor, Mr. Philip Charles Go, issued an Incident Report
+[13]
+ for failure of Jacolbe to hit the 7-minute AHT goal agreed upon for the 3
+rd
+ week of January while he was under TP's Performance Improvement Plan (PIP).
+[14]
+ Records show that Jacolbe was placed under the PIP after he failed to meet the 7-minute AHT target in two (2) previous instances,
+ i.e
+., January 5 and 12, 2013.
+[15]
+ 
+ Subsequently, TP's Human Resources Department (HRD) sent Jacolbe a letter
+[16]
+ dated February 13, 2013 (Notice to Explain) informing him of its receipt of the Incident Report, and further stating that his "
+work performance for the last 6 months is unsatisfactory due to [his] consistent failure to meet the [AHT] Goal in spite of being enrolled in [its PIP]
+"
+[17]
+ which, if proven true, would constitute as an offense against its code of conduct warranting the termination of his employment. The Notice also directed him to explain, in writing, why he should not be subjected to appropriate corrective action. 
+ In compliance with the directive, Jacolbe submitted letters
+[18]
+ dated February 19 and 25, 2013, explaining that since he was hired in 2007, he had never intentionally disconnected a call to meet the prescribed AHT mark. Unsatisfied with his explanations, TP issued Jacolbe a Letter
+[19]
+ dated March 18, 2013 (Notice of Termination) dismissing him from work for failure to meet account specific performance metrics or certification requirements under Section V.B.4 of its Code of Conduct and Zero Tolerance Policy. 
+ Aggrieved, Jacolbe filed a complaint
+[20]
+ for illegal dismissal and monetary claims
+[21]
+ against TP, pointing out that while the Incident Report noted his failure to hit the 7-minute AHT mark in two (2) instances, TP dismissed him allegedly for unsatisfactory work performance for the last six (6) months based on the HRD's Notice to Explain. He argued that if indeed he committed the said infractions, the same did not constitute serious misconduct warranting his dismissal, citing his award as Top Agent for December 2012,
+[22]
+ which negated the alleged unsatisfactory work performance for the last six (6) months.
+[23]
+ 
+ In its defense, TP argued that Jacolbe's actual AHT scores
+[24]
+ from January 2012 up to his dismissal in March 2013 were consistently beyond the 7-minute AHT mark, despite his enrollment in its PIP and SMART Action Plan programs.
+[25]
+ TP explained that the PIP and SMART Action Plan programs are the company's tools designed to help "poor performing" CSRs improve their work performance.
+[26]
+ Under these programs, the enrolled CSRs are given "step goals" or targets that are considerably lower (or higher, as the case may be) than the prescribed metrics which are then gradually increased (or decreased) until they meet the same. Thus, under these circumstances, TP argued that Jacolbe's consistent failure to meet the 7-minute AHT mark over a prolonged period of time undoubtedly showed inefficient and poor call handling justifying his dismissal under its code of conduct.
+[27]
+ 
+ 
+The LA Ruling
+ 
+ In a Decision
+[28]
+ dated November 25,2013, the LA found Jacolbe to have been illegally dismissed and ordered TP to pay the latter P319,089.09, representing his backwages, separation pay in lieu of reinstatement, moral and exemplary damages, as well as attorney's fees.
+[29]
+ 
+ The LA held that Jacolbe's failure to meet the 7-minute AHT mark in two (2) instances could hardly be considered as habitual and gross neglect of duties that would warrant his dismissal, especially since Jacolbe was awarded as Top Agent in December 2012.
+[30]
+ Moreover, the LA found that TP failed to fully apprise Jacolbe of the specific violation of company rules he had committed, explaining that while the Incident Report cited only two (2) instances that he failed to meet the AHT target, the Notice to Explain, on the other hand, pointed to a six (6)-month unsatisfactory work performance. Finally, it observed that Jacolbe had been working for TP as a CSR for over five (5) years without any record of infractions.
+[31]
+ Accordingly, it held that Jacolbe's failure to meet the AHT target in the two (2) cited instances cannot be construed to have been done habitually and grossly so as to warrant the imposition of the penalty of dismissal.
+[32]
+ 
+ Dissatisfied, TP appealed
+[33]
+ to the NLRC. 
+ 
+The NLRC Ruling
+ 
+ In a Decision
+[34]
+ dated March 31, 2014, the NLRC reversed and set aside the LA ruling and held Jacolbe's dismissal valid. Contrary to the LA's findings, the NLRC found that Jacolbe had, in fact, consistently failed to meet the 7-minute AHT mark, starting from January 2012 up to his dismissal in March 2013, in violation of company-prescribed work standards. The NLRC noted that under TP's classification of offenses, such violation is considered gross negligence punishable by termination of employment on the fourth offense.
+[35]
+ Notwithstanding this company rule, the NLRC pointed out that TP had in fact afforded Jacolbe with some measures of leniency by continuing his employment and even enrolling him in its coaching and performance improvement programs, under the PIP and SMART Action Plan during the 3
+rd
+ quarter of 2012 and again in January of 2013, to help him improve his AHT scores.
+[36]
+ Despite TP's assistance and leniency, however, Jacolbe still failed to meet the prescribed AHT mark. Thus, the NLRC held that Jacolbe's consistent failure to meet the reasonable work standards set by TP for a prolonged period of time exhibited incompetence, inefficiency, and inability to proficiently resolve customer's problems that justified his dismissal.
+[37]
+ 
+ Aggrieved, Jacolbe sought reconsideration
+[38]
+ which the NLRC denied in a Resolution
+[39]
+ dated May 20,2014. Thus, he filed a petition for 
+certiorari
+[40]
+ before the CA. 
+ 
+The CA Ruling
+ 
+ In a Decision
+[41]
+ dated September 8, 2016, the CA set aside the NLRC ruling, and accordingly, ordered TP to reinstate Jacolbe or pay him separation pay in lieu thereof, as well as full backwages, inclusive of allowances, 13th month pay, salary differentials, holiday and rest day premium pays, as well as service incentive leaves. It also remanded the case to the LA for the computation of the monetary awards.
+[42]
+ 
+ According to the CA, meeting the prescribed AHT metric is only one of the determining factors in evaluating a CSR's performance and, in fact, Jacolbe was awarded as Top Agent in December 2012 which thus contradicts the charge of poor performance. In any case, assuming that his failure to meet the 7-minute AHT mark from January 2012 to March 2013 showed inefficiency, the CA held that the same does not appear to be gross and habitual so as to warrant dismissal from employment.
+[43]
+ 
+ Determined, TP sought reconsideration
+[44]
+ which the CA denied in a Resolution
+[45]
+ dated August 7, 2017; hence, this petition. 
+ 
+The Issue Before the Court
+ 
+ The essential issue for the Court's resolution is whether or not the CA correctly set aside the NLRC ruling, and accordingly, held that Jacolbe was illegally dismissed. 
+ 
+The Court's Ruling
+ 
+ The petition is meritorious. 
+ At the outset, the Court stresses that the review in this Rule 45 petition of the CA's ruling in a labor case via a Rule 65 petition carries a distinct approach. In a Rule 45 review, the Court examines the correctness of the CA's decision in contrast with the review of jurisdictional errors under Rule 65.
+[46]
+ Further, Rule 45 limits the review to questions of law.
+[47]
+ In ruling for legal correctness, the Court views the CA decision in the same context that the petition for 
+certiorari
+ was presented to the CA.
+[48]
+ Hence, the Court has to examine the CA Decision from the prism of whether the CA correctly determined the presence or absence of grave abuse of discretion in the NLRC Decision.
+[49]
+ 
+ Grave abuse of discretion, amounting to lack or excess of jurisdiction, has been defined as the capricious and whimsical exercise of judgment, done in a despotic manner by reason of passion or personal hostility, the character of which being so patent and gross as to amount to an evasion of positive duty or to a virtual refusal to perform the duty enjoined by or to act at all in contemplation of law.
+[50]
+ 
+ In labor cases, grave abuse of discretion may be ascribed to the NLRC when its findings and conclusions are not supported by substantial evidence, which refers to that amount of relevant evidence that a reasonable mind might accept as adequate to justify a conclusion.
+[51]
+ Thus, if the NLRC's ruling has basis in the evidence and the applicable law and jurisprudence, then no grave abuse of discretion exists and the CA should so declare and accordingly, dismiss the petition.
+[52]
+ With these standards in mind, the Court finds that the NLRC Decision in this case was supported by substantial evidence and is consistent with law and jurisprudence as to the issues raised in the petition. Hence, the CA erroneously ascribed grave abuse of discretion on the part of the NLRC in declaring that Jacolbe was validly dismissed. Accordingly, the NLRC's ruling must be reinstated. 
+ In its petition, TP maintains that the CA erred in declaring Jacolbe's dismissal invalid, ratiocinating that the latter had consistently failed to meet the reasonable company-imposed performance targets, specifically the 7-minute AHT mark, for sixty-two (62) consecutive weeks despite the opportunities and assistance extended to him to improve his performance. It argues that Jacolbe's continued and persistent failure to meet the key performance metrics clearly illustrated gross inefficiency which is analogous to gross and habitual neglect of duties justifying his dismissal.
+[53]
+ Moreover, it stresses that Jacolbe's isolated Top Agent award which is completely unrelated to his AHT scores â as it merely recognized him as having achieved a satisfactory score based on a survey feedback from one customer in one day and during one call only â could not negate nor override his repeated poor work performance for the 62 consecutive weeks that led to his dismissal.
+[54]
+ For his part, Jacolbe simply maintains that there was no valid ground for his dismissal.
+[55]
+ 
+ A valid dismissal necessitates compliance with both substantive and procedural due process requirements. Substantive due process mandates that an employee may be dismissed based only on just or authorized causes under Articles 297, 298, and 299 (formerly Articles 282, 283, and 284) of the Labor Code, as amended.
+[56]
+ On the other hand, procedural due process requires the employer to comply with the requirements of notice and hearing before effecting the dismissal. In all cases involving termination of employment, the burden of proving the existence of the above valid causes rests upon the employer.
+[57]
+ The quantum of proof required in these cases is substantial evidence as discussed above.
+ In this relation, jurisprudence
+[58]
+ instructs that gross inefficiency is analogous to gross and habitual neglect of duty
+[59]
+ under Article 297 (e) in relation to Article 297 (b) of the Labor Code, as amended,
+[60]
+ for both involve specific acts of omission on the part of the employee resulting in damage to the employer or to his business, and constituting, therefore, just cause to dismiss an employee, thus: 
+ 
+ "[G]ross inefficiency" falls within the purview of "other causes analogous to the foregoing," [and] constitutes, therefore, just cause to terminate an employee under Article 282 [now under Article 297] of the Labor Code[, as amended]. One is analogous to another if it is susceptible of comparison with the latter either in general or in some specific detail; or has a close relationship with the latter. 
+"Gross inefficiency" is closely related to "gross neglect," for both involve specific acts of omission on the part of the employee resulting in damage to the employer or to his business.
+[61]
+ (Emphasis supplied)
+ 
+ 
+ In 
+Buiser v. Leogardo, Jr
+.,
+[62]
+ the Court explained that such inefficiency is understood to mean 
+failure to attain work goals 
+or work quotas, either by failing to complete the same within the allotted reasonable period, or by producing unsatisfactory results.
+[63]
+ Further, in 
+San Miguel Corporation v. NLRC
+,
+[64]
+ the Court held that an employer is entitled to prescribe reasonable work standards, rules, and regulations necessary for the conduct of its business, to provide certain disciplinary measures in order to implement them, and to assure that the same would be complied with.
+[65]
+ This management prerogative of requiring standards may be availed of so long as they are exercised in good faith for the advancement of the employer's interest.
+[66]
+ In this case, records reveal that Jacolbe's AHT scores for 62 consecutive weeks, or from January 2012 up to his dismissal in March 2013, were well above the 7 minutes or lower AHT mark.
+[67]
+ As he had been having difficulty meeting the same, TP allowed him to continue in its employ and even enrolled him in its SMART Action and Performance Improvement Plans
+[68]
+ twice â in July to August 2012 and again in January 2013 â to help him improve his AHT scores.
+[69]
+ This notwithstanding, Jacolbe's AHT scores remained well above the 7-minute AHT mark.
+[70]
+ Undoubtedly, Jacolbe's repeated and consistent failure to meet the prescribed AHT mark over a prolonged period of time falls squarely under the concept of gross inefficiency and is analogous to gross and habitual neglect of duty under Article 297 of the Labor Code which justified his dismissal.
+ Moreover, the Court observes that the 7-minute AHT metric is not unique to Jacolbe as it is in fact a key performance metric, which measures the effectivity and efficiency of a CSR in handling customer's concerns in each call. It applies to all employees assigned to the Priceline account who, save for a few including Jacolbe, have all been able to meet the same.
+[71]
+ Along with the other key performance metrics, it was employed by TP to properly and reasonably assess the overall work performance of its employees. Notably, the AHT metric 
+per se
+ is also used by TP for all employees in its other accounts,
+[72]
+ and is in fact considered an established work performance evaluation metric within the business process outsourcing industry where TP belongs. Jacolbe's insistence that his Top Agent award for December 2012 contradicts the charge of inefficiency and poor performance does not deserve consideration. As records show, the Top Agent award is not a sufficient measure of an employee's overall work performance since it proceeded solely from a single customer's feedback in one call on one given day. All told, the 7-minute AHT metric does not appear to be arbitrary and unreasonable. On the contrary, the Court finds it necessary and relevant to the achievement of TP's objectives and a reasonable work standard imposed by TP in the exercise of its management prerogative. 
+ Anent the matter of procedural due process, Section 2 (1), Rule XXIII, Book V of the Omnibus Rules Implementing the Labor Code,
+[73]
+ as well as jurisprudence,
+[74]
+ requires the employer to give the employee two (2) written notices and a hearing or opportunity to be heard. The notices must consist of the following: 
+first
+, a notice specifying the ground or grounds for termination, and giving to said employee reasonable opportunity within which to explain his side; and 
+second
+, a notice of termination indicating that upon due consideration of all the circumstances, grounds have been established to justify his dismissal. 
+ Applying the above parameters to this case, the Court finds that TP sufficiently observed the standards of procedural due process in effecting Jacolbe's dismissal. First, TP issued Jacolbe a Notice to Explain specifying the ground for his possible dismissal,
+ i.e
+., that his "
+work performance for the last 6 months is unsatisfactory due to [his] consistent failure to meet the [AHT] Goal in spite of being enrolled in [its PIP]
+" which, if proven true, would constitute as an offense against its code of conduct warranting the termination of his employment. The Notice also directed Jacolbe to explain, in writing, why he should not be subjected to appropriate corrective action. 
+Second
+, Jacolbe was able to submit letters
+[75]
+ explaining his side, albeit he did not fully address the charge of consistently failing to meet the AHT metric. 
+Third
+, a disciplinary conference was held on February 26, 2013 which provided Jacolbe another opportunity to explain his side.
+[76]
+ And 
+fourth
+, TP served a written Notice of Termination after verifying the violation committed under Section V.B.4 of its Code of Conduct and Zero Tolerance Policy, 
+i.e
+., failure to meet account specific performance metrics or certification requirements. 
+ In fine, the Court finds ample evidence to support the findings of the NLRC that Jacolbe's dismissal was valid. Accordingly, the CA committed reversible error in substituting its own judgment with that of the NLRC. While security of tenure is indeed constitutionally guaranteed, this should not be indiscriminately invoked to deprive an employer of its management prerogatives and right to shield itself from incompetence, inefficiency, and disobedience displayed by its employees,
+[77]
+ as the Court finds in this case. 
+ 
+WHEREFORE
+, the petition is 
+GRANTED
+. The Decision dated September 8, 2016 and the Resolution dated August 7, 2017 of the Court of Appeals in CA-G.R. SP No. 08600 are hereby 
+REVERSED
+ and 
+SET ASIDE
+. Accordingly, the Decision dated March 31, 2014 and the Resolution dated May 20, 2014 of the National Labor Relations Commission in NLRC Case No. VAC-02-000080-2014 are 
+REINSTATED
+. 
+ 
+SO ORDERED.
+ 
+Carpio, Senior Associate Justice (Chairperson), Caguioa
+, 
+J. Reyes, Jr.,
+ and 
+Hernando
+,
+[**]
+ 
+JJ.
+, concur. 
+ 
+ 
+[*]
+ Referred to as "Teleperformance Phils." in some parts of the records. 
+[**]
+ Designated Additional Member per Special Order Nos. 2629 and 2630 dated December 18, 2018.
+ 
+ 
+[1]
+ 
+Rollo
+ (Vol. II), pp. 419-456.
+ 
+ 
+[2]
+ Id. at 466-485. Penned by Associate Justice Geraldine C. Fiel-Macaraig with Associate Justices Edgardo L. Delos Santos and Edward B. Contreras, concurring.
+ 
+ 
+[3]
+ Id. at 487-490. 
+ 
+[4]
+ Id. at 659-673. Penned by Presiding Commissioner Violeta Ortiz-Bantug with Commissioner Julie C. Rendoque, concurring. Commissioner Jose G. Gutierrez dissented, stating that: "[Ferrando H. Jacolbe's] failure to disconnect telephone queries of a customer after 7 minutes were not designed to violate [Average Handle Time (AHT)] policy but to adhere to [Telephilippines, Inc.'s] aim to meet customer satisfaction. This could even be the reason he was awarded as Top Agent for priceline account in December 2012" (see id. at 672).
+ 
+ 
+[5]
+ See id. at 719-720.
+ 
+ 
+[6]
+ Id. at 493-502. In NLRC RAB Case No. VI-04-10223-13, penned by Labor Arbiter Jessie G. Sullano. 
+ 
+ 
+[7]
+ Then known as "Teleperformance Philippines, Inc." (see id. at 467 and 487). 
+ 
+[8]
+ Id. at 661-662. 
+ 
+[9]
+ See id. at 663. See also copy of Jacolbe's Employment Contract; 
+rollo
+ (Vol. I), pp. 106-113. 
+[10]
+ The other two (2) specific metric targets are 28% and above Sales Conversion Rate and 90% Quality Assurance (see 
+rollo
+ [Vol. II], pp. 467-468 and 664). 
+[11]
+ See id. 
+ 
+[12]
+ See id. at 468 and 664. 
+[13]
+ See id. at 553. 
+[14]
+ See id. at 662-663. An employee who consistently fails to meet the targets for any of the key metrics is enrolled in TP's SMART Action Plan where he/she is generally given a week to improve his/her performance with the help of his/her supervisor. Here, the company sets up targets, also known as 'step goals' which the employee must reach during the program. These step goals considerately fall below the required metrics so the employee may easily hit the targets. Gradually, these step goals are increased to reach the actual key metrics required of the employee. Should the employee continue to fail to meet the required metrics despite his/her enrolment in the SMART Action Plan, he/she is automatically enrolled in the PIP where he/she is given approximately thirty (30) days to meet the target. Failure in the SMART Action Plan warrants Verbal Warning, after which, the employee undergoes a 3-week observation period corresponding to the PIP period. If the employee continues to fail to meet the target metrics for the 1st week of the PIP, he/she shall be given a Written Warning. Failure to meet again the targets during the 2
+nd
+ week warrants a Final Warning. Finally, failure to meet the targets during the last week of the PIP warrants corrective action equivalent to the penalty of termination from employment. See also Priceline Performance Improvement Plan (August 2011, version 1.0); 
+rollo
+ [Vol. I], pp. 114-116) 
+ 
+[15]
+ 
+Rollo
+ (Vol. II), p. 553. 
+ 
+[16]
+ See id. at 554. 
+ 
+[17]
+ Italics supplied. 
+ 
+[18]
+ 
+Rollo
+ (Vol. II), pp. 555-556. 
+ 
+[19]
+ Id. at 557. 
+[20]
+ Not attached to the
+ rollos
+. 
+[21]
+ See 
+rollo
+ (Vol. 11), p. 667. 
+[22]
+ See id. at 494-495. 
+[23]
+ See id. at 660-661. 
+[24]
+ 
+Rollo
+ (Vol. I) pp. 118-119. See also id. at 120-131. 
+ 
+[25]
+ 
+Rollo
+ (Vol. II), pp. 495-496 and 664-666. 
+[26]
+ See id. at 425-426 and 662. See also 
+rollo
+ (Vol. I), pp. 114-116. 
+ 
+[27]
+ See 
+rollo
+ (Vol. II), pp. 495-496 and 664-667. 
+[28]
+ Id. at 493-502. Records show that during the mandatory conciliation proceedings, Jacolbe signed a Quitclaim and Release, without prejudice to the illegal dismissal claim (see id. at 656). 
+[29]
+ See id. at 502. 
+[30]
+ See id. at 498-499. 
+ 
+[31]
+ See id. at 497-498. 
+[32]
+ See id. at 499. 
+ 
+[33]
+ See Notice of Appeal (with Memorandum on Appeal Attached) dated January 16, 2014; 
+rollo
+ (Vol. I) pp. 272-300. 
+ 
+[34]
+ 
+Rollo
+ (Vol. II), pp. 659-673. 
+[35]
+ See id. at 669. 
+ 
+[36]
+ See id. at 669-670. 
+ 
+[37]
+ See id. at 670. 
+ 
+[38]
+ See motion for reconsideration dated April 25, 2014; 
+rollo
+ (Vol. I), pp. 311-314. 
+ 
+[39]
+ 
+Rollo
+ (Vol. II), pp. 719-720. 
+[40]
+ Dated July 18, 2014. Id. at 721-730. 
+[41]
+ Id. at 466-485. 
+[42]
+ See id. at 485. 
+[43]
+ See id. at 481-484. 
+[44]
+ See motion for reconsideration dated October 19, 2016; 
+rollo
+ (Vol. I), pp. 400-416. 
+ 
+[45]
+ 
+Rollo
+ (Vol. II), pp. 487-490. 
+ 
+[46]
+ See 
+Montoya v. Transmed Manila Corporation
+, 613 Phil. 696, 706-707 (2009); 
+Sutherland Global Services, Inc. v. Labrador
+, 730 Phil. 295, 304 (2014); and 
+Aluag v. BIR Multi-Purpose Cooperative
+, G.R. No. 228449, December 6, 2017. 
+ 
+[47]
+ See 
+Sutherland Global Services, Inc. v. Labrador
+, id.; and 
+Aluag v. BIR Multi-Purpose Cooperative
+, id. 
+ 
+[48]
+ 
+Sutherland Global Services, Inc. v. Labrador
+, id.; 
+Aluag v. BIR Multi-Purpose Cooperative
+, id. 
+ 
+[49]
+ See 
+Montoya v. Transmed Manila Corporation
+, supra note 46, at 707; 
+Sutherland Global Services, Inc. v. Labrador
+, id.; 
+Aluag v. BIR Multi-Purpose Cooperative
+, id. 
+ 
+[50]
+ 
+Bani Rural Bank, Inc. v. De Guzman
+, 721 Phil. 84, 99 (2013). See also 
+Philippine Pizza, Inc. v. Cayetano
+, G.R. No. 230030, August 29, 2018. 
+ 
+[51]
+ See 
+Philippine Pizza, Inc. v. Cayetano
+, id.; citing 
+Quebral v. Angbus Construction, Inc
+., G.R. No. 221897, November 7, 2016, 807 SCRA 176, 184. See also 
+Aluag v. BIR Multi-Purpose Cooperative
+, supra note 46, citing 
+University of Santo Tomas (UST) v. Samahang Manggagawa ng UST
+, G.R. No. 184262, April 24, 2017, 824 SCRA 52, 61. 
+[52]
+ 
+Philippine Pizza, Inc. v. Cayetano
+, id., citations omitted; and 
+Aluag v. BIR Multi-Purpose Cooperative
+, id., citations omitted. 
+ 
+[53]
+ See 
+rollo
+ (Vol II), pp. 437-449. 
+[54]
+ See id. at 449-450. 
+[55]
+ See id. at 823-827. 
+[56]
+ Department Advisory No. 1, Series of 2015, entitled "RENUMBERING OF THE LABOR CODE OF THE PHILIPPINES, AS AMENDED" dated July 21, 2015. 
+[57]
+ See 
+Aluag v. BIR Multi-Purpose Cooperative
+, supra note 46. 
+ 
+[58]
+ See 
+Puncia v. Toyota Shaw/Pasig, Inc
+.,788 Phil. 464,478-479 (2016). See also 
+Aliling v. Feliciano
+, 686 Phil. 889, 910-911 (2012), citing
+ Lim v. NLRC
+, 328 Phil. 843, 857-858 (1996). 
+ 
+[59]
+ "
+Gross negligence
+ implies a want or absence of or a failure to exercise slight care or diligence, or the entire absence of care. It evinces a thoughtless disregard of consequences without exerting any effort to avoid them. 
+Habitual neglect
+, on the other hand, implies repeated failure to perform one's duties for a period of time, depending upon the circumstances." (See 
+Casco v. NLRC
+, G.R. No. 200571, February 19, 2018; citing 
+School of the Holy Spirit of Quezon City v. Taguiam
+, 580 Phil. 203, 209 [ 2008]; italics supplied. See also 
+Estacio v. Pampanga I Electric Cooperative, Inc
+., 613 Phil. 160, 180 [2009]). 
+ 
+[60]
+ These provisions read: 
+ 
+Article 297. [282] Termination by Employer. -An employer may terminate an employment for any of the following just causes: 
+ 
+x x x x 
+ (b) Gross and habitual neglect by the employee of his duties; 
+ x x x x
+ (e) Other causes analogous to the foregoing.
+ 
+ 
+ 
+[61]
+ 
+Aliling v. Feliciano
+, supra note 58, at 910; citing 
+Lim v. NLRC
+, supra note 58, at 858. 
+ 
+[62]
+ 216 Phil. 144 (1984). 
+ 
+[63]
+ See id. at 152. See also 
+Lim v. NLRC
+, supra note 58, at 858; and 
+Leonardo v. NLRC
+, 389 Phil. 118 (2000).
+ 
+ 
+[64]
+ 574 Phil. 556 (2008).
+ 
+ 
+[65]
+ Id. at 569-570. 
+ 
+[66]
+ See 
+Buiser v. Leogardo
+, supra note 62, at 152. See also 
+Leonardo v. NLRC
+, supra note 63, at 127.
+ 
+ 
+[67]
+ 
+Rollo
+ (Vol. I) pp. 118-119. See also id. at 120-131. 
+ 
+ 
+[68]
+ See id. at 114-116. See also 
+rollo
+ (Vol II), pp. 425-426. 
+[69]
+ See 
+rollo
+ (Vol. II), pp. 495-496 and 664-666. 
+[70]
+ See 
+rollo
+ (Vol. I), pp. 134-136. 
+ 
+[71]
+ See id. at 132-133. 
+[72]
+ See id. at 158. 
+[73]
+ As amended by DOLE Department Order No. 009-97 entitled "AMENDING THE RULES IMPLEMENTING BOOK V OF THE LABOR CODE AS AMENDED," approved on May 1, 1997. 
+ 
+ Section 2. Security of Tenure. - x x x (d) In all cases of termination of employment, the following standards of due process shall be substantially observed:
+ 
+ I. For termination of employment based on just causes as defined in Article 282 of the Labor Code: 
+ 
+ 
+(i) A written notice served on the employee specifying the ground or grounds for termination, and giving said employee reasonable opportunity within which to explain his side.
+ 
+ (ii) A hearing or conference during which the employee concerned, with the assistance of counsel if he so desires is given opportunity to respond to the charge, present his evidence or rebut the evidence presented against him.
+ 
+ (iii) A written notice of termination served on the employee, indicating that upon due consideration of all the circumstances, grounds have been established to justify his termination. 
+ 
+ 
+ 
+ 
+[74]
+ See 
+Aluag v. BIR Multi-Purpose Cooperative
+, supra note 46, citing 
+Puncia v. Toyota Shaw/Pasig, Inc
+., supra note 58, at 479-482. 
+[75]
+ Referring to letters dated February 19 and 25, 2013. 
+[76]
+ See 
+rollo
+ (Vol I), p. 162 and 
+rollo
+ (Vol. II), p. 667. 
+[77]
+ 
+Realda v. New Age Graphics, Inc.
+, 686 Phil. 1110, 1119-1120 (2012). 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

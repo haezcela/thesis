@@ -1,0 +1,852 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			848 Phil. 1
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. Nos. 199729-30, February 27, 2019 ]
+
+
+MANILA BANKERS' LIFE INSURANCE CORPORATION, PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+[G.R. Nos. 199732-33]
+ COMMISSIONER OF INTERNAL REVENUE, PETITIONER, VS. MANILA BANKERS' LIFE INSURANCE CORPORATION, RESPONDENT.
+D E C I S I O N
+
+
+
+
+A. REYES, JR., J.:
+
+
+Nature of the Case
+Before the Court are the consolidated petitions of Manila Bankers' Life Insurance Corporation (MBLIC) and the Commissioner of Internal Revenue (CIR) filed under Rule 45 of the Rules of Court. Both parties appealed from the August 18, 2011 Decision
+[1]
+ and December 9, 2011 Resolution
+[2]
+ of the Court of Tax Appeals (CTA) 
+En Banc
+ in CTA EB Case Nos. 620 and 621. Said rulings held (a) that premium taxes on insurance policies are considered "costs of service" in computing the Minimum Corporate Income Tax (MCIT); (b) that Documentary Stamp Taxes (DSTs) paid on the insurance policies are 
+not
+ considered "costs of service" in the MCIT computation; (c) that the DST may be assessed on the increase in the assured coverage of an insurance policy, even when no new policy is issued; (d) that MBLIC belatedly raised the defense of prescription; and (e) that compromise penalties cannot be imposed.
+The Facts
+CTA Case No. 7266
+On June 8, 2004, MBLIC received a Preliminary Assessment Notice from the Bureau of Internal Revenue (BIR), assessing the following alleged deficiency taxes for the year 2001:
+[3]
+Item No.
+Tax Type
+Amount (Php)
+1
+MCIT
+929,474.20
+2
+Expanded Withholding Tax 
+167,871.77
+3
+Premium Tax 
+1,004,636.84
+4
+Percentage Tax - Rental Income
+ 
+25,991.70
+5
+ 
+DST on Loans 
+13,301.86
+6
+MCIT - Disallowed Direct Costs 
+586,788.11
+7
+DST - Increased Policies
+ 
+7,189,683.70
+Total Deficiency Taxes Assessed 
+9,917,748.18
+On June 23, 2004, MBLIC settled items 1 to 5 of the deficiency assessments with the BIR's Large Taxpayers Service (LTS), but moved for reconsideration of items 6 and 7.
+[4]
+However, on August 17, 2004, MBLIC received from the CIR a Formal Letter of Demand with Formal Assessment Notices (FAN), dated August 4, 2004, for its alleged MCIT and DST deficiencies for 2001 in the aggregate amount of P7,951,462.28, broken down as follows:
+[5]
+Item
+Details
+Amounts (Php)
+Total (Php)
+MCIT
+Basic MCIT Due
+398,233.52
+Interest as of August 11, 2004
+185,855.58
+Compromise Penalty
+16,000.00
+600,089.10
+DST
+Basic DST Due
+4,841,002.50
+Interest as of August 11, 2004
+2,485,370.68
+Compromise Penalty
+25,000.00
+7,351,373.18
+ 
+ 
+Grand Total
+7,951,462.28
+The basic MCIT for 2001 in the amount of P398,233.52 was based on the disallowances from MBLIC's claimed deductions. Essentially, according to the CIR, premium taxes and DSTs on insurance policies are not deemed "costs of service" that can be deducted from gross receipts for purposes of computing MCIT. The CIR cited Section 27(E)(4) of the National Internal Revenue Code of 1997 (NIRC) and Revenue Memorandum Circular No. 4-2003 (RMC 4-2003). Under RMC 4-2003, premium taxes and DSTs are not included in the enumeration of an insurance company's direct costs. Thus, MBLIC's basic deficiency MCIT due for 2001 was computed as follows:
+[6]
+Disallowances:
+ DST
+Php 1,508,128.17
+ Premium Tax
+18,403,548.01
+Subtotal
+ 
+19,911,676.18
+MCIT Rate
+ 
+2%
+MCIT Due
+ 
+Php 398,233.52
+As regards the DST portion of the assessment, the base amount of 
+P4,841,002.50
+ was arrived at by applying the rate of P0.50 for every P200.00 of P1,936,401,000.00, which pertains to the total increase in the sum assured under the existing insurance policies in 2001 as reported by MBLIC to the Insurance Commission. It was noted that the increase in the assured amount under the policies entailed a corresponding increase in the DST due. Inclusive of interest and penalties, the total amount of DST due is 
+P7,351,373.18
+.
+[7]
+On September 15, 2004, MBLIC filed its letter protest before the LTS, contesting the assessment of the subject deficiencies. On November 12, 2004, MBLIC submitted before the LTS Audit and Investigation Division all the documents requested by the office. Thereafter, on June 7, 2005, MBLIC filed a petition for review with the CTA to protect its right to refute the assessment. The case was docketed as CTA Case No. 7266. The CIR filed his Answer on August 30, 2005.
+[8]
+Subsequently, on October 12, 2005, MBLIC prayed for leave of court to file a Supplemental Petition, alleging therein that the deficiency DST on transactions made from January to June 2001 is null and void for having been issued beyond the three-year prescriptive period. The CTA admitted the Supplemental Petition over the opposition of the CIR.
+[9]
+In turn, the CIR filed his Amended Answer,
+[10]
+ alleging that the assessments were issued in accordance with existing law and regulations, and that they were issued within the prescriptive period. In any event, issues and defenses not raised in the administrative level, such as prescription herein, cannot be raised for the first time on appeal.
+Anent the assessed deficiency MCIT, the CIR argued that RMC 4-2003 is applicable even though the assessment is for deficiencies in the year 2001 since it merely clarified an existing NIRC provision that MBLIC failed to rebut the findings of the CIR that premium taxes and DSTs are not direct costs; and that the alleged expenses are not deductions from gross receipts for computing MCIT, but from gross income for computing the basic domestic corporate tax.
+Regarding the deficiency DST, the CIR justified its assessment of the increased assured amount by citing Section 198 of the NIRC, which specifically provides that any alteration on any instrument or agreement subject to DST, a policy insurance included, shall be subject to incremental DST at the same rate as that imposed on the original instrument. Reliance was likewise made on 
+CIR v. Lincoln Philippine Life Insurance Company, Inc. (Lincoln)
+.
+[11]
+Lastly, the CIR argued that claims for tax exemption ought to be construed 
+strictissimi juris
+ against the claimant MBLIC, and that the assessments are 
+prima facie
+ correct and presumed to have been made in good faith. Absent proof of irregularities in the performance of official duties, an assessment should not be disturbed.
+CTA Case Nos. 7324 and 7378
+CTA Case Nos. 7324 and 7378 arose from circumstances similar to CTA Case No. 7266. These pertain to deficiency DSTs assessed on the increases in the sums assured under existing insurance policies, this time for the years 2002 and 2003. A summary of the assessments is as follows:
+CTA Case No.
+Fiscal Year
+Deficiency DST Due (Php)
+7324
+2002
+2,528,424.74
+[12]
+7378
+2003
+2,083,203.48
+[13]
+Upon due observance of the procedure for administrative remedies, resulting in either the failure of the CIR to resolve the protest within the reglementary period or in the denial of MBLIC's protest, MBLIC filed petitions for review with the CTA, docketed as CTA Case Nos. 7324 and 7378. Upon motion of MBLIC, these cases were consolidated with CTA Case No. 7266.
+[14]
+ Trial on the merits thereafter ensued.
+Ruling of the CTA Second Division
+On November 6, 2009, the CTA Second Division rendered a Decision
+[15]
+ on the consolidated petitions of MBLIC, upholding the assessments made by the CIR with modifications.
+According to the CTA Second Division, premium taxes are deemed cost of services deductible from gross receipts in computing for MCIT. It ruled, however, that DSTs are not so deductible. To quote:
+[16]
+In light of the foregoing, premium tax may be considered as a direct cost and/or expense necessary to provide the service of insurance considering that insurance companies, such as petitioner, cannot effectively issue insurance policies without incurring the said tax. It must be pointed out that in the issuance of a policy or contract of insurance, its validity and binding effect depends (sic) upon the payment of the premium, which is closely intertwined with the payment of the premium tax that is accruing thereto.
+xxxx
+However, [W]e can not say the same as regards the DST.
+Unlike the premium tax, which is the direct liability of the insurance company, the DST xxx is imposed upon "the person making, signing, issuing, accepting or transferring" the document or facility evidencing the transaction. Thus, DST may be imposed upon either of the parties to the transaction in a contract of insurance, or upon either the insurance company or the insured.
+It is not disputed herein that the corresponding DST (like the consequent premium tax) was included in the premiums charged to petitioner's clients. Thus, the latter are the ones who were made liable to pay the DST, and not the petitioner. This being the case, DST cannot be deemed as a direct cost or expense of petitioner necessary to provide the insurance service. Consequently, the same DST cannot form part of petitioner's costs of service for purposes of computing its MCIT for taxable year 2001. (Citations omitted)
+Furthermore, the CTA Second Division ruled that the CIR erred in utilizing RMC 4-2003 as the basis for the disallowances of the deductions from gross receipts in computing for the MCIT, for the issuance, issued on December 31, 2002, cannot be applied retroactively to assess MBLIC for deficiency taxes for taxable year 2001.
+[17]
+Anent the deficiency DST due, the CTA Second Division sided with the CIR and applied the 
+Lincoln
+ ruling. Thus, it was held that an increase in the coverage or the sum assured by an insurance policy is subject to DST even though no new policy for such an increase was issued.
+[18]
+On the issue of prescription, the CTA Second Division cited 
+Aguinaldo Industries Corp. (Fishing Nets Division) v. CIR, et al.
+,
+[19]
+ 
+(Aguinaldo)
+ and ruled that the defense cannot be considered, asserted as it was for the first time in MBLIC's Supplemental Petition instead of during the administrative stages of the proceeding.
+[20]
+Lastly, the compromise penalties imposed by the CIR were cancelled because there was no mutual agreement between the parties to compromise. A 25% surcharge was imposed in its stead.
+[21]
+In sum, the CTA Second Division disposed of MBLIC's petitions in the following manner:
+[22]
+WHEREFORE
+, in view of the foregoing considerations, the consolidated Petitions for Review seeking the cancellation of respondent's assessments for; deficiency Minimum Corporate Income Tax (MCIT) and deficiency Documentary Stamp Tax (DST) and increments for taxable year 2001 in 
+CTA Case No. 7266
+; deficiency DST and increments for taxable year 2002 in 
+CTA Case No. 7324
+; and deficiency DST and increments for taxable year 2003 in 
+CTA Case No. 7378
+ are 
+DENIED
+. The Formal Assessment Notices issued by respondent against petitioner covering deficiency MCIT for taxable year 2001 and deficiency DST for taxable years 2001, 2002 and 2003 are hereby 
+AFFIRMED WITH MODIFICATIONS
+. The compromise penalties are 
+CANCELLED
+. However, a twenty-five percent (25%) surcharge is imposed, pursuant to Section 248(A) of the NIRC of 1997.
+Accordingly, petitioner is hereby 
+ORDERED TO PAY
+ respondent the amount of 
+FOURTEEN MILLION SIXTY-THREE THOUSAND SIX HUNDRED SEVEN PESOS AND 51/100 (P14,063,607.51)
+, representing its deficiency MCIT for taxable year 2001 and deficiency DST for taxable years 2001, 2002, and 2003, inclusive of increments, computed as follows:
+2001
+2002
+2003
+Grand Total
+MCIT
+ 
+ 
+ 
+ 
+Basic MCIT Due 
+P30,162.56
+25% Surcharge
+7,540.64
+20% Interest
+ 
+14,076.86
+ 
+ 
+P51,780.06
+P51,780.06
+DST
+Basic DST Due
+P4,841,002.50
+P1,764,579.41
+P1,689,709.49
+25% Surcharge
+1,210,250.63
+441,144.85
+422,427.37
+20% Interest
+2,485,370.68
+763,848.53
+393,493.99
+ 
+P8,536,623.81 
+P2,969,572.79
+P2,505,630.85
+P14,011,827.45
+Total Amount Due
+P8,588,403.87
+P2,969,572.79
+P2,505,630.85
+P14,063,607.51
+In addition, petitioner is hereby 
+ORDERED TO PAY
+ twenty percent (20%) delinquency interest on P8,588,403.87, representing the total amount due for taxable year 2001, computed from August 11, 2004; as well as on the P2,969,572.79 and P2,505,630.85 total amounts due for taxable years 2002 and 2003, respectively, computed from March 5, 2005 until full payment thereof: pursuant to Section 249(C)(3) of the NIRC of 1997.
+SO ORDERED.
+The CTA Second Division would affirm the said Decision through its Resolution
+[23]
+ dated April 6, 2010.
+Ruling of the CTA 
+En Banc
+Unsatisfied, both parties assailed the rulings of the CTA Second Division. MBLIC maintained its posturing in its petitions. The CIR, on the other hand, alleged that the CTA Second Division erred (a) in allowing MBLIC to deduct premium taxes from gross receipts for the purpose of computing the MCIT due, and (b) in cancelling the compromise penalties assessed in the FANs.
+The CTA 
+En Banc
+, however, found no cogent reason to disturb the findings and conclusions spelled out in the assailed rulings of the CTA Second Division. In its discussion, the CTA 
+En Banc
+ merely amplified the justification for barring MBLIC from raising prescription as a defense. Thus, the CTA 
+En Banc
+ disposed of both petitions in the following wise:
+[24]
+WHEREFORE
+, the assailed Decision dated November 6, 2009 and Resolution dated April 6, 2010 of the CTA Former Second Division are hereby 
+AFFIRMED 
+in toto
+, and the instant Petitions for Review are hereby 
+DISMISSED
+ for lack of merit.
+SO ORDERED.
+The parties' respective motions for reconsideration were denied by the CTA 
+En Banc
+ through its December 9, 2011 Resolution.
+[25]
+Hence, the instant recourses.
+The Issues
+MBLIC framed the issues thusly:
+[26]
+WHETHER OR NOT THE CTA 
+EN BANC
+ IN UPHOLDING THE DECISION AND RESOLUTION OF THE CTA-DIVISION COMMITTED REVERSIBLE ERROR IN HOLDING THAT PETITIONER CANNOT RAISE THE ISSUE OF PRESCRIPTION FOR THE FIRST TIME ON APPEAL IN ITS PETITION FOR REVIEW FILED BEFORE THE CTA-DIVISION IN CTA CASE NO. 7266
+WHETHER OR NOT THE CTA 
+EN BANC
+ IN UPHOLDING THE DECISION AND RESOLUTION OF THE CTA-DIVISION COMMITTED REVERSIBLE ERROR IN HOLDING THAT DST IS NOT PART OF COST OF SERVICE FOR PURPOSES OF COMPUTING [THE] MINIMUM CORPORATE INCOME TAX ("MCIT")
+WHETHER OR NOT THE CTA 
+EN BANC
+ IN UPHOLDING THE DECISION AND RESOLUTION OF THE CTA-DIVISION COMMITTED REVERSIBLE ERROR IN HOLDING THAT AN INCREASE IN THE COVERAGE OR THE SUM ASSURED BY AN INSURANCE POLICY IS SUBJECT TO DST ALTHOUGH NO NEW POLICY FOR SUCH INCREASE IS ISSUED
+On the other hand, the CIR assigned the following errors:
+[27]
+THE HONORABLE COURT [OF] TAX APPEAL[S] 
+EN BANC
+ ERRED ON A QUESTION OF LAW WHEN (1) IT AFFIRMED THE DECISION DATED NOVEMBER 6, 2009 AND RESOLUTION DATED APRIL 6, 2010 RENDERED BY THE FORMER COURT OF TAX APPEALS SECOND DIVISION FINDING THAT THE PREMIUM TAX IS DEEMED PART OF THE COST OF SERVICE FOR PURPOSES OF PETITIONER'S ASSESSMENT FOR DEFICIENCY MINIMUM CORPORATE INCOME TAX BUT NOT FOR PETITIONER'S ASSESSMENT FOR DEFICIENCY DOCUMENTARY STAMP TAX AND (2) WHEN IT CANCELLED THE COMPROMISE PENALTIES AGAINST RESPONDENT.
+To synthesize, the pivotal issue in the case at bar is whether or not the CIR erred in assessing MBLIC for deficiency taxes. Subsumed under this general statement are the following issues:
+Whether or not MBLIC is liable for deficiency MCIT in 2001.
+Whether or not RMC 4-2003 can be retroactively applied as basis for the purported deficiency taxes in 2001.
+Whether or not premium taxes constitute "cost of services" deductible from gross receipts.
+Whether or not DSTs constitute "cost of services" deductible from gross receipts.
+Whether or not MBLIC is liable for deficiency DST for increases in the assured or covered amount stated in its insurance policies even though no new instrument is issued.
+Whether or not prescription was properly raised as a defense.
+Whether or not compromise penalty could be imposed against MBLIC.
+The Court's Ruling
+The petition of the CIR is meritorious in part, while that of MBLIC deserves scant consideration. The Court shall now discuss the aforementioned issues in 
+seriatim
+.
+Liability for deficiency MCIT
+Of particular importance to the case at bar is Section 27(E) of the NIRC, which provides for the imposition of MCIT in the following manner:
+SEC. 27. Rates of Income tax on Domestic Corporations.
+ -
+x x x x
+(E) Minimum Corporate Income Tax on Domestic Corporations.
+ -
+(1) Imposition of Tax.
+ - A mini mum corporate income tax of two percent (2%) of the gross income as of the end of the taxable year, as defined herein, is hereby imposed on a corporation taxable under this Title, beginning on the fout1h taxable year immediately following the year in which such corporation commenced its business operations, when the minimum income tax is greater than the tax computed under Subsection (A) of this Section for the taxable year.
+x x x x
+(4) Gross Income Defined.
+ - For purposes of applying the minimum corporate income tax provided under Subsection (E) hereof, the term '
+gross income
+' shall mean gross sales less sales returns, discounts and allowances and cost of goods sold. '
+Cost of goods sold
+' shall include all business expenses directly incurred to produce the merchandise to bring them to their present location and use.
+x x x x
+In the case of taxpayers engaged in the sale of service, '
+gross income
+' means gross receipts less sales returns, allowances, discounts and cost of services. '
+Cost of services
+' shall mean all direct costs and expenses necessarily incurred to provide the services required by the customers and clients including (A) salaries and employee benefits of personnel, consultants and specialists directly rendering the service and (B) cost of facilities directly utilized in providing the service such as depreciation or rental of equipment used and cost of supplies: Provided, however, That in the case of banks, '
+cost of services
+' shall include interest expense. (Emphasis supplied)
+The provision allows the government to collect from corporations MCIT equivalent to 2% of "gross income" in lieu of the 30% of "gross income" basic income tax for domestic corporations,
+[28]
+ whenever the former is higher. It must be borne in mind, however, that although both rates of taxes are applied to "gross income" as tax base, the definition of "gross income," for purposes of MCIT and basic corporate income tax, varies.
+Under Section 27(E)(4) above-quoted, "gross income" as used in determining MCIT means "gross receipts less sales returns, allowances, discounts and cost of services." This definition is much more limited in terms of inclusions, exclusions, and deductions, compared to the definition of "gross income" for purposes for computing basic corporate tax under Sections 32
+[29]
+ and 34
+[30]
+ of the NIRC.
+[31]
+ In formulaic terms, Section 27(E)(4) can be expressed thusly:
+Gross Receipts
+ 
+ 
+ 
+Less:
+Sales Returns 
+ 
+ 
+ 
+Sales Allowances
+ 
+ 
+ 
+Sales Discounts
+ 
+ 
+ 
+Cost of Services
+ 
+ 
+---------------------------------------
+ 
+ 
+Gross Income
+ 
+ 
+ 
+MCIT Rate: 
+2%
+ 
+ 
+---------------------------------------
+ 
+ 
+Total MCIT Due
+ 
+ 
+To refresh, the issue pertaining to MBLIC's deficiency MCIT assessment stemmed from its alleged excessive claim of deductible "cost of services," resulting in the CIR's perceived understatement of the MCIT due. Specifically, the CIR argues that premium taxes on insurance and DSTs cannot be considered as deductible from gross receipts since they are not among those identified under RMC 4-2003 as costs of services.
+i. RMC 4-2003 cannot be retroactively applied
+The first point of contention Is the applicability of RMC 4-2003.
+[32]
+The circular reads:
+Gross Receipts and Cost of Services Per Industry.
+ - For purposes of applying the MCIT, the 'gross receipts' and 'cost of services' of taxpayers engaged in the following types of services, or any other kind but of a similar nature, shall be determined as follows:
+x x x x
+(ii) Insurance and pension funding companies
+ refer to those engaged in life and non-life insurance business as defined under the Insurance Code and pre-need companies, including health maintenance organizations. Their gross receipts shall mean actual or constructive receipts representing: net retained premiums (gross premiums net of returns, cancellations, and premiums ceded)/gross premium or collection from planholders; membership fees (in the case of HMOs); miscellaneous income; investment income not subject to final tax; released reserve and, in the case of pre-need companies, gross withdrawals from the trust funds set up independently as mandated by the Securities and Exchange Commission (SEC); and, all other items treated as gross income under Section 32 of the Tax Code. 
+Their 
+costs of services
+ shall refer to those incurred directly and exclusively in the insurance and pre-need business, including the generation of investment income not subject to final taxes, and 
+shall be limited to the following
+:
+01. 
+Salaries, wages and other employee benefits of personnel directly engaged in said activities;
+02.
+ 
+Commissions on direct writings/agents of pre-need companies;
+03.
+ 
+Claims, losses, maturities and benefits net of reinsurance recoveries; and,
+04.
+ Net additions required by law to reserve fund (for insurance companies) and in the case of pre-need companies, contributions to the trust funds to be set up independently as mandated by the SEC. (emphasis added)
+MBLIC claims that the restrictive language of RMC 4-2003 limits what constitutes "cost of service," compared to the more inclusive wording of the provision the issuance seeks to implement. Because RMC 4-2003 would preclude MBLlC from claiming deductions from gross receipts other than those expressly enumerated, the company claims that the retroactive application of RMC 4-2003 to its 2001 taxes is not only prejudicial but, in fact, violative of Section 246 of the NIRC, which provides:
+SEC. 246. Non-Retroactivity of Rulings.
+ - Any revocation, modification or reversal of any of the rules and regulations promulgated in accordance with the preceding Sections or any of the rulings or circulars promulgated by the 
+Commissioner shall not be given retroactive application if the revocation, modification or reversal will be prejudicial to the taxpayers
+, except in the following cases:
+(a) Where the taxpayer deliberately misstates or omits material facts from his return or any document required of him by the Bureau of Internal Revenue;
+(b) Where the facts subsequently gathered by the Bureau of Internal Revenue are materially different from the facts on which the ruling is based; or
+(c) Where the taxpayer acted in bad faith. (emphasis added)
+Meanwhile, the CIR argues that invoking RMC 4-2003 herein is proper since it merely clarified what constitutes "cost of service" as defined under Section 27(E)(4). Since premium taxes and DSTs do not form part of the exhaustive enumeration in the issuance, the CIR therefore assessed MBLIC for deficiency MCIT.
+We concur with MBLIC.
+Well-entrenched is the rule that statutes, including administrative rules and regulations, operate prospectively only, unless the legislative intent to the contrary is manifest by express terms or by necessary implication. In the present case, there is no indication that the revenue regulation may operate retroactively.
+[33]
+Similarly, the Court held in 
+Pilipinas Total Gas, Inc. v. CIR
+[34]
+ that RMC 54-2014, requiring that the application for VAT refund or credit must already be accompanied by complete supporting documents, cannot be applied retroactively since it imposes new obligations upon taxpayers in order to perfect their administrative claim. To rule otherwise would unduly prejudice taxpayers who had already filed their claims before RMC 54-2014 was issued, in violation of Section 246 afore-quoted.
+RMC 4-2003 ca1mot therefore be invoked in assessing MBLIC's deficiency MCIT for 2001. Rather, the deductibility of premium taxes and DSTs from gross receipts ought to be measured against the standard set under Section 27(E)(4) of the NIRC itself.
+ii. Premium taxes are NOT deductible costs of services
+Section 123 of the NIRC serves as basis for the imposition of premium taxes. Pertinently, the provision reads:
+SEC. 123. Tax on Life Insurance Premiums.
+ - There shall be collected from every person, company or corporation (except purely cooperative companies or associations) doing life insurance business of any sort in the Philippines a tax of five percent (5%) of the total premium collected, whether such premiums are paid in money, notes, credits or any substitute for money; x x x[.]
+Without the availability of RMC 4-2003, we can only evaluate the deductibility of premium taxes (i.e.) whether or not they constitute cost of services) based solely on the wording of Section 27(E)(4). As per the provision, "cost of services" means all direct costs and expenses necessarily incurred to provide the services required by the customers and clients, including (A) salaries and employee benefits of personnel, consultants and specialists directly rendering the service and (B) cost of facilities directly utilized in providing the service such as depreciation or rental of equipment used and cost of supplies.
+In ruling that premium taxes are deductible from gross receipts, the CTA relied on the permissive wording of the provision. It held that the phrase "including" meant that "cost of services" could pertain to expenses other than salaries and production costs. On the premise that premium taxes are expenses incurred by MBLIC to further its business, the CTA then ruled that the same can be considered as part of its cost of services, though not specifically mentioned.
+[35]
+While we agree that the enumeration in the provision is not exhaustive, the CTA paid little to no attention to one of the express requirements for deductibility - that the claimed deduction should be a 
+direct
+ cost or expense. A cost or expense is deemed "direct" when it is readily attributable to the production of the goods or for the rendition of the service.
+Measured against this standard, it is then easy to discern that premium taxes, though payable by MBLIC, are 
+not
+ direct costs within the contemplation of the phrase "cost of services," incurred as they are 
+after
+ the sale of service had already transpired. This cannot therefore be considered as the equivalent of raw materials, labor, and manufacturing cost of deductible "cost of sales" in the sale of goods.
+Contrarily, to accede to the CTA's rationalization would virtually allow all expenses to be deductible from gross receipts, erasing the distinction between "gross income" for purposes of MCIT and "gross income" for purposes of basic corporate taxes. The CIR's contention - that premium taxes are not deductions from gross receipts when determining the MCIT, but from "gross income" in calculating corporate taxes - should therefore be given due credence.
+iii. DSTs are NOT deductible costs of services
+The CTA did not, however, err in holding that DSTs are 
+not
+ deductible costs of services. The general provision on DST states:
+SEC. 173. Stamp Taxes Upon Documents, Loan Agreements, Instruments and Papers.
+ - Upon documents, instruments, loan agreements and papers, and upon acceptances, assignments, sales and transfers of the obligation, right or property incident thereto, there shall be levied, collected and paid for, and in respect of the transaction so had or accomplished, the corresponding documentary stamp taxes prescribed in the following Sections of this Title, 
+by the person making, signing, issuing, accepting, or transferring the same
+ wherever the document is made, signed, issued, accepted or transferred when the obligation or right arises from Philippine sources or the property is situated in the Philippines, and 
+the same time such act is done or transaction had
+: Provided, That whenever one party to the taxable document enjoys exemption from the tax herein imposed, the other party who is not exempt shall be the one directly liable for the tax. (emphasis added)
+As can be gleaned, DST is incurred "by the person making, signing, issuing, accepting, or transferring" the document subject to the tax. And since a contract of insurance is mutual in character, either the insurer or the insured may shoulder the cost of the DST.
+In this case, it was duly noted by the CTA that MBLIC never disputed charging DSTs from its clients as part of their premiums. Hence, it cannot readily be said that it was MBLIC who "necessarily incurred" the expense.
+[36]
+ Moreover, DSTs cannot also qualify as direct costs "to provide the services required by the customers and clients" since, just like premium taxes, they are incurred 
+after
+ the service had been rendered. No error is then attributable to the CTA in this regard.
+Liability for DST
+We now proceed to the assessed deficiency DST liability of MBLIC for increases in the assured amount of the insurance policies it issued. MBLIC had been reporting the said increases to the Insurance Commission. The veracity of these reports utilized by the CIR in its assessment was neither disputed nor denied by MBLIC. Instead, the company merely argued that it cannot be made liable for additional DST unless a new policy is issued.
+We do not agree.
+The imposition of DST on insurance policies is sourced on Section 183 of the NIRC, which states:
+SEC. 183. 
+Stamp Tax on Life Insurance Policies.
+ - On all policies of insurance or other instruments by whatever name the same may be called, whereby any insurance shall be made or renewed upon any life or lives, there shall be collected a one-time documentary stamp tax at the following rates:
+If the amount of insurance does not exceed P100,000
+Exempt
+If the amount of insurance exceeds P100,000 but does not exceed P300,000
+Php 10.00
+If the amount of insurance exceeds P300,000 but does not exceed P500,000
+Php 25.00
+If the amount of insurance exceeds P150,000 but does not exceed P750,000
+Php 50.00
+If the amount of insurance exceeds P750,000 but does not exceed P1,000,000
+Php 75.00
+If the amount of insurance exceeds P1,000,000
+Php 100.00
+Synthesized with Section 173 earlier quoted, DST becomes due at the same time the insurance policy is executed or had. By way of exception, however, Section 198 reads:
+SEC. 198. Stamp Tax on Assignments and Renewals of Certain Instruments.
+ - Upon each and every assignment or transfer of any mortgage, lease or policy of insurance, or the 
+renewal or continuance of any agreement
+, contract, charter, or any evidence of obligation or indebtedness 
+by altering or otherwise
+, there shall be levied, collected and paid a documentary stamp tax, at the same rate as that imposed on the original instrument. (emphasis added)
+Plainly, an insurance contract may again attract DST at the same rate when it is (a) assigned or transferred, or (b) renewed or continued by alteration or otherwise. Under the latter circumstance, an alteration of the policy may result in attracting DST, though no new policy is issued. MBLIC is then mistaken in its claim that it can only be liable under Section 183 whenever a new policy is issued. For the pivotal question is not the issuance or non-Issuance of a new policy. but whether or not an increase in the assured amount amounted to a renewal or continuance by alteration or otherwise.
+We approve the ruling of the CTA. Increases in the amount fixed in the policy by virtue of the automatic increase clause necessarily altered or affected the subject policies, and therefore, created or granted existing policyholders new and additional rights.
+[37]
+ This finding is in consonance with the Court's resolution in 
+Lincoln
+.
+In 
+Lincoln
+, it was held that an increase in the assured amount of an insurance policy would yield a corresponding increase in the DST due. In the said case, private respondent issued a special kind of life insurance policy known as the Junior Estate Builder Policy. Its distinguishing feature is a clause providing for an automatic increase in the amount of life insurance coverage upon attainment of a certain age by the insured without the need of issuing a new policy. The clause was to take effect in the year 1984. DSTs due were paid by petitioner only on the initial sum assured. Nevertheless, the Court held that therein private respondent is liable for DST on the increase of the amount insured upon the effectivity of the automatic increase clause in 1984. As the Court ratiocinated:
+[38]
+It is clear from Section 173 that the payment of documentary stamp taxes is done at the time the act is done or transaction had and the tax base for the computation of documentary stamp taxes on life insurance policies under Section 183 is the amount fixed in policy, unless the interest of a person insured is susceptible of exact pecuniary measurement. 
+What then is the amount fixed in the policy? Logically, we believe that the amount fixed in the policy is the figure written on its face 
+and whatever increases will take effect in the future by reason of the "automatic increase clause" embodied in the policy without the need of another contract
+.
+Here, although the automatic increase in the amount of life insurance coverage was to take effect later on, the date of its effectivity, as well as the amount of the increase, was already definite at the time of the issuance of the policy. Thus, the amount insured by the policy at the time of its issuance necessarily included the additional sum covered by the automatic increase clause because it was already determinable at the time the transaction was entered into and formed part of the policy.
+The "automatic increase clause" in the policy is in the nature of a conditional obligation under Article 1181, by which the increase of the insurance coverage shall depend upon the happening of the event which constitutes the obligation. In the instant case, the additional insurance that took effect in 1984 was an obligation subject to a suspensive obligation, but still a part of the insurance sold to which private respondent was liable for the payment of the documentary stamp tax. (Citations omitted; emphasis supplied)
+The case ended with a warning that tax laws cannot be circumvented in order to evade the payment of just taxes. And to claim that the increase in the amount insured should not be included in the computation of the documentary stamp taxes due would be a clear evasion of the law requiring that the tax be computed on the basis of the amount insured.
+[39]
+On Prescription
+MBLIC next argues that, even assuming for the sake of argument that it is liable for deficiency DST for guaranteed increases in the covered amount of its policies, it cannot be assessed deficiency DST for the entire fiscal year of 2001. More particularly, MBLIC averred that it had religiously been filing monthly DST returns. And since the CIR only has three years
+[40]
+ from the filing of the return to collect any deficiency thereon, he is precluded from recovering deficiency DST for the January-June 2001 period covered by returns filed earlier than August 4, 2001 or three years from the issuance of the FAN.
+The CIR, for its part, counters that the defense of prescription was belatedly raised in MBLIC's supplemental petition, and was not invoked during the protest before the CIR. MBLIC refuted, however, that the defense of prescription may be raised at any time.
+The Court rules that although MBLIC is correct in saying that it may still raise prescription as a defense, it nevertheless failed to establish that the prescriptive period had already expired.
+Under Rule 1, Section 3 of the Revised Rules of Procedure before the Court of Tax Appeals, the Rules of Court of the Philippines shall have suppletory application. In turn, Section 1, Rule 9 of the Rules of Court states:
+Section 1. Defenses and objections not pleaded. - Defenses and objections not pleaded either in a motion to dismiss or in the answer are deemed waived. However, 
+when it appears from the pleadings or the evidence on record
+ that the court has no jurisdiction over the subject matter, that there is another action pending between the same parties for the same cause, or 
+that the action is barred
+ by a prior judgment or 
+by statute of limitations, the court shall dismiss the claim
+. (emphasis added)
+Thus, the Court in 
+China Banking Corporation v. CIR
+,
+[41]
+ citing 
+Heirs of Valientes v. Ramas
+,
+[42]
+ ruled that it is imbued with sufficient discretion to review matters, not otherwise assigned as errors on appeal, if it finds that their consideration is necessary in arriving at a complete and just resolution of the case; more so, when the provisions on prescription were enacted to benefit and protect taxpayers from investigation after a reasonable period of time. Resultantly, the Court therein appreciated the defense of prescription even though it was raised for the first time before the Court of last resort.
+Indeed, the Court may give credence to the defense of prescription even though it was raised for the first time on appeal. However, as mentioned, the defense of prescription, though timely invoked, was not sufficiently established. For though MBLIC endeavored to prove that it filed DST returns covering the months of January-June 2001 before the August 5, 2004 FAN was issued, there was no showing that the deficiency DSTs assessed pertained to the said timeframe.
+Stated in the alternative, MBLIC failed to establish that the increase in coverage that resulted in the increase in DST due occurred between January and June of 2001. Without this detail, there is no way of knowing when the corresponding DST became due, when the tax ret1m1 therefor should have been filed, and, consequently, when the three-year prescriptive period should be reckoned.
+Compromise Penalty cannot be imposed
+Finally, no error can be attributed to the CTA when it deleted the compromise penalties that the CIR imposed on MBLIC. A compromise, by its nature, is mutual in essence.
+[43]
+ It cannot therefore be imposed without a predicate agreement. In this case, the fact that MBLIC protested the assessment could only signify that there was no agreement to speak of.
+WHEREFORE
+, premises considered, the Court hereby resolves as follows:
+The Petition for Review on 
+Certiorari
+ of Manila Bankers' Life Insurance Corporation, docketed as G.R. Nos. 199729-30, is hereby 
+DENIED
+ for lack of merit
+The Petition of the Commissioner of Internal Revenue, docketed as G.R. Nos. 199732-33, is 
+PARTLY MERITORIOUS
+; and
+The August 18, 2011 Decision and December 9, 2011 Resolution of the Court of Tax Appeals 
+En Banc
+ in CTA EB Case Nos. 620 and 621 are hereby 
+AFFIRMED
+ with the 
+MODIFICATION
+ that premium taxes are not deductible from gross receipts for purposes of determining the minimum corporate income tax due. As modified, the total deficiency taxes due from Manila Bankers' Life Insurance Corporation shall be as follows:
+2001
+2002
+2003
+Grand Total 
+MCIT
+ 
+ 
+ 
+ 
+Basic MCIT Due
+Php398,233.52
+25% Surcharge
+99,558.38
+20% Interest
+185,855.58
+ 
+Php683,647.48
+Php683,647.48
+DST
+Basic DST Due
+Php4,841,002.50
+Php1,764,579.41
+Php1,689,709.49
+25% Surcharge
+1,210,250.63
+441,144.85
+422,427.37
+20% Interest
+2,485,370.68
+763,848.53
+393,493.99
+ 
+Php8,536,623.81
+Php2,969,572.79
+Php2,505,630.85
+Php14,011,827.45
+Total Amount Due
+Php9,220,271.29
+Php2,969,572.79
+Php2,505,630.85
+Php14,695,474.93
+Accordingly, Manila Bankers' Life insurance Corporation is hereby 
+ORDERED TO PAY
+ the Commissioner of Internal Revenue the amount of 
+FOURTEEN MILLION SIX HUNDRED NINETY-FIVE THOUSAND FOUR HUNDRED SEVENTY-FOUR PESOS AND 93/100 (P14,695,474.93)
+ representing the deficiency MCIT for taxable year 2001 and deficiency DST for taxable years 2001, 2002, and 2003.
+In addition, Manila Bankers' Life Insurance Corporation is hereby 
+ORDERED TO PAY
+:
+(a) 
+Delinquency interest at the rate of twenty percent (20%) on P9,220,271.29, representing the total amount due for taxable year 2001, computed from August 11, 2004 until December 31, 2017 as well as on the P2,969,572.79 and P2,505,630.85 total amounts due for taxable years 2002 and 2003, respectively, computed from March 5, 2005 until December 31, 2017, pursuant to Section 249(C)(3) of the NIRC of 1997, and
+(b) 
+From January 1, 2018 until full payment, the rate of delinquency interest on the total amounts due stated in the preceding paragraph for taxable years 2001, 2002 and 2003 shall be twelve percent (12%) pursuant to Section 249(C)(3) of the NIRC of 1997 as amended by Republic Act No. 10963, otherwise known as the "Tax Reform for Acceleration and Inclusion (TRAIN) Law" and implemented by Revenue Regulations No. 21-2018.
+[44]
+SO ORDERED.
+Peralta, (Chairperson), Leonen, Hernando
+, and 
+Carandang
+,
+*
+ 
+JJ.
+, concur.
+*
+ Designated additional Member as per Special Order No. 2624 dated November 29, 2018.
+[1]
+ Penned by Associate Justice Caesar A. Casanova, with Associate Justices Juanito C. CastaÃ±eda, Lovell R. Bautista, Erlinda P. Uy. Olga Palanca-Enriquez, Esperanza R. Pabon-Victorino and Cielito N. Mindaro-Grulla and Presiding Justice Ernesto D. Acosta (on leave) concurring; 
+rollo
+ (G.R. Nos. 199732-33), pp. 36-61.
+[2]
+ Id. at 62-69.
+[3]
+ Id. at 38.
+[4]
+ Id.
+[5]
+ Id. at 38-39. 
+[6]
+ Id. at 39.
+[7]
+ Id at40.
+[8]
+ Id.
+[9]
+ Id. at 40-41.
+[10]
+ The pertinent portion of which is quoted in the 
+rollo
+ of G.R. Nos. 199732-33, pp. 41-47.
+[11]
+ 429 Phil. 154 (2002).
+[12]
+ 
+Rollo
+ (G.R. Nos. 199732-33), pp. 47-48.
+Total Issued Policies
+825,958,000.00
+Total Increases in sum assured for Group Insurance
+1,169,854,000.00
+Total Increases in sum assured for Ordinary Insurance
+175,361,000.00
+Total sum assured in policies
+2,171,173,000.00
+Tax Rate
+0.50/200.00
+Tax Due
+5,427,932.50
+DST payments made
+3,663,353.09
+Basic Deficiency DST Due
+1,764,579.41
+Interest (January 1, 2003 to March 5, 2005)
+763,848.53
+Total Deficiency DST
+2,528,424.74
+[13]
+ Id. at 50.
+Total Issued Policies
+801,548,000.00
+Total Increases in sum assured for Group Insurance
+1,142,428,000.00
+Total Increases in sum assured for Ordinary Insurance
+85,137,000.00
+Total sum assured in policies
+2,029,114,000.00
+Tax Rate
+0.50/200.00
+Tax Due
+5,072,785.00
+DST payments made
+3,383,075.51
+Basic Deficiency DST Due
+1,689,709.49
+Interest (January 5, 2004 to February 5, 2005)
+393,493.99
+Total Deficiency DST
+2,083,203.48
+[14]
+ Id. at 51.
+[15]
+ Penned by Associate Justice Erlinda P. Uy, and concurred in by Associate Justices Juanito C. CastaÃ±eda, Jr. and Olga Palanca-Enriquez; id. at 80-113.
+[16]
+ Id. at 99-100.
+[17]
+ Id. at 101-104.
+[18]
+ Id. at 105-108.
+[19]
+ 197 Phil. 822 (1982).
+[20]
+ 
+Rollo
+ (G.R. Nos. 199732-33), pp. 108-110.
+[21]
+ Id. at 110.
+[22]
+ Id. at 110-112. (Emphasis in the original)
+[23]
+ Id. at 114-126.
+[24]
+ Id. at 59. (Emphasis in the original) 
+[25]
+ Id. at 62-69.
+[26]
+ 
+Rollo
+ (G.R. Nos. 199729-30). p. 112.
+[27]
+ 
+Rollo
+ (G.R. Nos. 199732-33). p. 27.
+[28]
+ Section 27(A) of the NIRC.
+[29]
+ 
+SEC. 32. Gross Income.
+ -
+(A) General Definition.
+ - Except when otherwise provided in this Title, gross income means all income derived from whatever source, including (but not limited to) the following items:
+(1) Compensation for services in whatever form paid, including, but not limited to fees, salaries, wages, commissions, and similar items;
+(2) Gross income derived from the conduct of trade or business or the exercise of a profession;
+(3) Gains derived from dealings in property;
+(4) Interests;
+(5) Rents;
+(6) Royalties;
+(7) Dividends;
+(8) Annuities;
+(9) Prizes and winnings;
+(10) Pensions; and
+(11) Partner's distributive share from the net income of the general professional partnership.
+(B) Exclusions from Gross Income.
+ - The following items shall not be included in gross income and shall be exempt from taxation under this title:
+(1) Life Insurance. - 
+xxx
+(2) Amount Received by Insured as Return of Premium. - 
+xxx
+(3) Gifts, Bequests, and Devises. - 
+xxx
+(4) Compensation for Injuries or Sickness. - 
+xxx
+(5) Income Exempt under Treaty. - 
+xxx
+(6) Retirement Benefits. Pensions. Gratuities. etc. - 
+xxx
+(7) Miscellaneous Items. -
+(a) Income Derived by Foreign Government. - 
+xxx
+(b) Income Derived by the Government or its Political Subdivisions. - 
+xxx
+(c) Prizes and Awards. - 
+xxx
+xxxx
+(d) Prizes and Awards in sports Competition. - 
+xxx
+(e) 13th Month Pay and Other Benefits. - 
+xxx
+xxxx
+(f) GSIS, SSS, Medicare and Other Contributions. - 
+xxx
+(g) Gains from the Sale of Bonds, Debentures or other Certificate of Indebtedness. - 
+xxx
+(h) Gains from Redemption of Shares in Mutual Fund. - 
+xxx
+[30]
+ 
+SEC. 34. Deductions from Gross Income.
+ xxx
+(A) Expenses.
+xxxx
+(B) Interest.
+xxxx
+(C) Taxes.
+xxxx
+(D) Losses.
+xxxx
+(E) Bad Debts.
+xxxx
+(F) Depreciation.
+xxxx
+(G) Depletion of Oil and Gas Wells and Mines.
+xxxx
+(H) Charitable and Other Contributions.
+xxxx
+(I) Research and Development.
+xxxx
+(J) Pension Trusts.
+(K) Additional Requirements for Deductibility of Certain Payments. - 
+xxx
+(L) Optional Standard Deduction. - 
+xxx
+(M) Premium Payments on Health and/or Hospitalization Insurance of an Individual Taxpayer.
+ - xxx
+[31]
+ 
+CIR v. Philippine Airlines
+, 609 Phil. 695, 713 (2009).
+[32]
+ Clarifying Items That Would Constitute Gross Receipts and Costs in Determining "Gross Income" on Services for the Purpose of Computing the Minimum Corporate Income Tax (MCIT) Pursuant to Sections 27(E) and 28(A)(2) of the National Internal Revenue Code of 1997; promulgated on December 31, 2002.
+[33]
+ 
+BPI Leasing Corporation v. Court of Appeals
+, 461 Phil. 451, 460 (2003).
+[34]
+ 774 Phil. 473 (2015).
+[35]
+ 
+Rollo
+ (G. R. Nos. 199732-33), pp. 66-67.
+[36]
+ Id. at 100.
+[37]
+ Id. at 108.
+[38]
+ 
+CIR v. Lincoln Philippine Life Insurance Company, Inc.
+, supra note 11, at 161-162.
+[39]
+ Id. at 162.
+[40]
+ 
+SEC. 203. Period of Limitation Upon Assessment and Collection.
+ - Except as provided in Section 222. internal revenue taxes shall be assessed within three (3) years after the last day prescribed by law for the filing or the return. and no proceeding in court Without assessment for the collection or such taxes shall be begun after the expiration of such period: Provided, That in a case where a return is filed beyond the period prescribed by law, the three (3)-year period shall be counted from the day the return was filed. For purposes of this Section, a return filed before the last day prescribed by law for the filing thereof shall be considered as filed on such last day.
+[41]
+ 753 Phil. 58 (2015).
+[42]
+ 653 Phil. 111 (2010).
+[43]
+ 417 Phil. 292, 302 (2001).
+[44]
+ Section 6 of Revenue Regulations No. 21-2018 provides: 
+Section 6. TRANSITORY PROVISION.
+ - In cases where the tax liability/ies or deficiency tax/es became due before the effectivity of the TRAIN Law on January 1, 2018, and where the full payment thereof will only be accomplished after the said effectivity date, the interest rates shall be applied as follows:
+Period
+Applicable Interest Type and Rate
+For the period up to December 31, 2017
+Deficiency and/or delinquency interest at 20%
+For the period January l, 2018 until full payment of the tax liability
+Deficiency and/or delinquency interest at 12%
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

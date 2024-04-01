@@ -1,0 +1,1004 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			865 Phil. 952
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 224912, October 16, 2019 ]
+
+
+BF CITILAND CORPORATION, PETITIONER, V. BANGKO SENTRAL NG PILIPINAS, RESPONDENT.
+
+
+D E C I S I O N
+
+
+
+
+REYES, J. JR., J.:
+
+
+In forum 
+shopping, what is critical is the vexation brought upon the courts and 
+the litigants by a party who asks different courts to rule on the same 
+or related causes and grant the same or substantially the same reliefs 
+and in the process creates the possibility of conflicting decisions 
+being rendered by the different fora upon the same issues. Willful and 
+deliberate violation of the rule against forum shopping is a ground for 
+summary dismissal of the case; it may also constitute direct contempt.
+[1]
+ 
+The Facts
+
+
+ In May 2004, petitioner BF Citiland Corporation (BF Citiland) 
+executed a Deed of Conveyance over its real property, covered by 
+Transfer Certificate of Title (TCT) No. 218687, in favor of Banco 
+Filipino Savings and Mortgage Bank (Banco Filipino), as payment for 
+subscription of shares of stocks amounting to P130 Million. Banco 
+Filipino used the property as collateral to secure its Special Liquidity
+ Facilities loan (SLF loan) from respondent Bangko Sentral ng Pilipinas 
+(BSP). However, the property's title was not yet transferred to Banco 
+Filipino pending the Securities and Exchange Commission's (SEC's) 
+approval of the investment and the BSP's favorable endorsement. Thus, 
+Banco Filipino asked BF Citiland to execute a third-party mortgage in 
+favor of BSP. On July 2, 2004, BF Citiland signed the mortgage. On July 
+13, 2004, BF Citiland executed another deed of real estate mortgage over
+ the same property as accommodation mortgagor to secure Banco Filipino's
+ SLF loan from the BSP, this time amounting to P101 Million.
+[2]
+
+ In October 2004, BF Citiland learned that BSP disapproved the 
+conveyance of the property in exchange for Banco Filipino stocks, so it 
+rescinded the deed. Banco Filipino agreed because it was unable to 
+deliver the equivalent value of the shares of stock.
+[3]
+ On March 17, 2011, Banco Filipino was placed under receivership of the Philippine Deposit Insurance Corporation (PDIC).
+[4]
+ In 2011,
+[5]
+
+ BSP filed a petition for extrajudicial foreclosure of real estate 
+mortgage against BF Citiland covering TCT No. 218687. On October 25, 
+2011, BF Citiland received a notice of sheriff's sale from the Clerk of 
+Court and Ex-Officio Sheriff of the Makati Regional Trial Court (RTC).
+[6]
+
+ On November 18, 2011, BF Citiland filed a petition for declaratory 
+relief and prohibition with application for the issuance of writ of 
+preliminary injunction/temporary restraining order docketed as 
+Civil Case No. 11-1146
+ (
+declaratory relief case
+) against BSP and the Makati RTC Clerk of Court and 
+Ex-Officio
+ Sheriff to determine BSP's right to foreclosure and to prevent them from conducting the public auction. It was raffled to 
+Makati RTC, Branch 143
+.
+[7]
+
+
+ On August 2, 2012, the Makati RTC Clerk of Court proceeded 
+with the auction sale of the mortgaged property, in which BSP was the 
+highest bidder at P273,054,000.00.
+[8]
+
+ On November 8, 2012, BF Citiland filed an action for annulment of 
+mortgage and foreclosure sale with application for preliminary 
+injunction/temporary restraining order docketed as 
+Civil Case No. 12-1079
+ (
+annulment case
+) against Banco Filipino, BSP, and the Makati RTC Clerk of Court and
+ Ex-Officio
+
+ Sheriff to annul the following: (1) the deeds of real estate mortgage; 
+(2) the auction sale; (3) the certificate of sale; and (4) the 
+annotation on Banco Filipino's certificate of title. It was raffled to 
+Makati RTC, Branch 141
+.
+[9]
+
+
+ BSP filed individual motions to dismiss in the Makati RTC 
+Branches 141 and 143 on the ground of forum shopping. Branch 141 denied 
+the motion to dismiss in the annulment case on July 5, 2013,
+[10]
+ and the motion for reconsideration on December 4, 2013.
+[11]
+ The Makati RTC reasoned that there is no forum shopping since the issues between the two actions are different.
+[12]
+ However, Branch 143 ruled differently in the declaratory relief case. In its January 29, 2014 Order,
+[13]
+
+ the Makati RTC, Branch 143 dismissed the petition for declaratory 
+relief because BF Citiland committed forum shopping. BF Citiland did not
+ move for reconsideration, which resulted in the order becoming final 
+and executory.
+[14]
+ BSP 
+filed an omnibus motion before Branch 141 for the trial court to take 
+judicial notice of the January 29, 2014 Order of Branch 143 and to 
+dismiss the annulment case.
+[15]
+ On July 21, 2014,
+[16]
+
+ Branch 141 denied the omnibus motion because a similar motion to 
+dismiss due to forum shopping had been previously filed, acted upon, and
+ had attained finality. Branch 141 explained that even if it takes 
+judicial notice of the dismissal of the case, this would not result to 
+the dismissal of the annulment case as the court has expressly declared 
+that dismissal shall only apply to the declaratory relief case.
+[17]
+ BSP moved for reconsideration, which Branch 141 denied in its November 8, 2014 Order.
+[18]
+
+ Aggrieved, BSP filed a petition for certiorari under Rule 65 of the 
+Rules of Court with the Court of Appeals (CA), docketed as CA-G.R. SP 
+No. 138747.
+ 
+The CA Decision
+
+
+ On October 9, 2015, the CA rendered a Decision
+[19]
+ granting the petition for 
+certiorari
+ and dismissed the annulment case.
+  
+ The CA defined forum shopping as an act of a party, against 
+whom an adverse judgment or order has been rendered in one forum, of 
+seeking and possibly getting a favorable opinion in another forum, other
+ than by appeal or special civil action for 
+certiorari
+. It 
+pertains to the institution of two or more actions or proceedings based 
+on the same cause so that one or the other would make a favorable 
+disposition. Here, the CA ruled that BF Citiland was securing an 
+advantage by filing two identical cases consecutively.
+[20]
+
+
+ The elements of forum shopping are: (1) the identity of 
+parties or parties that represent the same interests in both actions; 
+(2) the identity of rights asserted and reliefs prayed for, the relief 
+being founded on the same facts; and (3) the identity of the two 
+preceding particulars, such that any judgment rendered in the other 
+action will amount to 
+res judicata
+ in the action under consideration, regardless of which party is successful.
+[21]
+
+
+ The CA explained that the true test in identity of causes of 
+action is not in the form of action, but on whether the same evidence 
+would support and establish both causes of action.
+[22]
+
+ The CA resolved that there is identity of parties and of causes of 
+action in the declaratory relief case and the annulment case.
+[23]
+
+ The CA found no difference in both cases, because both were based on a 
+single issue: whether or not the foreclosure of the real estate 
+mortgages was proper while Banco Filipino is under receivership.
+[24]
+
+ Even if BF Citiland added grounds to prove the nullity of the real 
+estate mortgages, the same pieces of evidence were still required to 
+prove its claim in either case.
+[25]
+
+
+ The CA demonstrated the similarity of causes of action in a comparative table.
+[26]
+
+
+
+
+
+
+Facts alleged in Civil Case No. 11-1146
+
+
+Facts alleged in Civil Case No. 12-1079
+
+
+
+
+
+
+
+
+
+
+As stated in the above discussion, 
+the debtor, Banco Filipino, cannot be compelled as yet to perform its 
+obligations under the Promissory Notes executed in favor of the BSP due 
+to the prohibition against payments while said Bank is under the 
+receivership of the PDIC. Since the principal obligation, embodied [in 
+the] Promissory Notes executed in favor of the BSP, cannot be enforced 
+against the principal, then the accessory contract thereto, 
+i.e
+., the real estate mortgage executed by third-party mortgagor BF Citiland likewise cannot be enforced.
+[27]
+
+
+
+
+
+
+
+
+
+
+As stated in the above discussion, 
+the debtor, Banco Filipino, cannot be compelled as yet to perform its 
+obligations under the Promissory Notes executed in favor of the BSP due 
+to the prohibition against payments while said Bank is under the 
+receivership of the PDIC. Since the principal obligation, embodied [in 
+the] Promissory Notes executed in favor of the BSP, cannot be enforced 
+against the principal, then the accessory contract thereto,
+ i.e
+., the real estate mortgage executed by third-party mortgagor BF Citiland likewise cannot be enforced.
+[28]
+
+
+
+
+
+
+
+
+
+
+The CA elucidated on the nature of a petition for 
+certiorari
+ and the extent of grave abuse of discretion. A petition for
+ certiorari 
+is
+ a remedy when any tribunal, board or officer exercising judicial or 
+quasi-judicial functions has acted without or in excess of its 
+jurisdiction, or with grave of abuse discretion amounting to lack or 
+excess of jurisdiction. It is only available when there is no appeal, 
+nor any plain, speedy, and adequate remedy at law. Grave abuse of 
+discretion exists when the respondent acts in a capricious or whimsical 
+manner in the exercise of its judgment as to be equivalent to lack of 
+jurisdiction.
+[29]
+
+
+ Here, the CA determined that the Makati RTC, Branch 141 
+committed grave abuse of discretion for failing to apply the rule 
+against forum shopping despite knowing that BF Citiland had previously 
+filed a case. When there is a finding of forum shopping, the penalty is 
+dismissal of both cases as a punitive measure to those who trifle with 
+the orderly administration of justice.
+[30]
+
+ The CA discussed the settled rule in forum shopping. If forum shopping 
+is willful and deliberate, both or all actions shall be dismissed with 
+prejudice; otherwise, it shall be dismissed without prejudice. Here, the
+ CA dismissed the case without prejudice, because of the absence of 
+willful and deliberate intent to violate the rule against forum shopping
+ on the part of BF Citiland. It indicated in its Certification of 
+Non-Forum Shopping in Civil Case No. 12-1079 that Civil Case No. 11-1146
+ was pending. Furthermore, BSP was unable to substantiate that BF 
+Citiland was in bad faith in committing forum shopping.
+[31]
+ 
+ BF Citiland moved for reconsideration, which the CA denied in its May 26, 2016 Resolution.
+[32]
+ Unsuccessful, it filed before the Court a Petition for Review on 
+Certiorari
+ under Rule 45 of the Rules of Court.
+[33]
+
+
+ 
+The Issue Presented
+
+
+ The sole issue presented before the Court is whether or not BF Citiland committed forum shopping. 
+ 
+The Court's Ruling
+
+
+ The Petition is denied. 
+ In its Petition, BF Citiland 
+argued that the elements of forum shopping are absent, because: (1) 
+there is lack of common cause of action since declaratory relief is a 
+special civil action, while the annulment case is an ordinary civil 
+action; and (2) there are no common rights asserted and reliefs prayed 
+for since one action seeks a declaration on the right of the mortgagee 
+to foreclose the property, while the other action aims to annul the 
+deeds of mortgage, the auction sale, and the certificate of sale.
+[34]
+
+ In its Comment, BSP raised technical issues in the Petition: (1) lack 
+of competent evidence of identity in the Verification and Certification 
+of NonÂ­ Forum Shopping;
+[35]
+ 
+and (2) failure to attach material portions of the record as stated in 
+Section 4(d), Rule 45 of the Rules of Court, making the Petition 
+dismissible.
+[36]
+ Respondent BSP also presented arguments on the correctness of the CA's ruling on the presence of forum shopping.
+[37]
+ In its Reply, BF Citiland did not tackle any of the technical issues and focused its discussion on the substantial issues.
+[38]
+
+
+
+
+
+
+
+
+I.
+
+
+Technical Issue: Lack of competent evidence of identity in the Verification and Certification of Non-Forum Shopping
+
+
+
+
+
+
+
+
+In 
+Jorge v. Marcelo
+,
+[39]
+
+ the Court allowed the non-presentation to the notary public and 
+non-indication in the verification and certification of nonÂ­ forum 
+shopping of the affiant's competent evidence of identity, because he/she
+ was personally known to the notary public, to wit: 
+
+
+
+
+ The fact that it contained no details of her competent evidence 
+of identity is inconsequential simply because its presentation may be 
+excused or dispensed with. If it is not required for the affiant to show
+ competent evidence of identity in case he/she is personally known to 
+the notary public, with more reason that it is unnecessary to state the 
+details of such competent evidence of identity in the notarial 
+certificate.
+[40]
+
+
+
+
+ Such is not the case here. The jurat of BF Citiland's Verification
+ and Certification of Non-Forum Shopping does not mention that the 
+affiants are personally known to the notary public. It clearly states 
+that the affiants presented competent evidence of identity to the notary
+ public and yet there were no entries under Identification and 
+Date/Place of Issuance. 
+  
+
+
+ SUBSCRIBED AND SWORN to before me, a notary public for and in behalf of ParaÃ±aque this 7
+th
+ day of July 2016, 
+affiants exhibited to me as competent evidence of identity
+: (Emphasis supplied) 
+
+
+
+
+
+
+ 
+
+
+Identification
+
+
+Date/Place of Issuance
+
+
+
+
+
+
+CARMELO M. MENDOZA
+
+        ANNA FRANCESCA ABAD
+[41]
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+Proofs of competent evidence of identities are required to ensure 
+that the allegations are true and correct and not a product of the 
+imagination or a matter of speculation, and that the pleading is filed 
+in good faith.
+[42]
+ With the absence of the details of competent evidence of identity, the verification and certification are defective. 
+
+
+ However, the Court had previously held that a defective 
+verification and certification is not fatal to a case. In several cases,
+[43]
+
+ the Court entertained a petition despite a defect in the verification 
+and certification, and reasoned that "the verification is only a formal,
+ not a jurisdictional, requirement that the Court may waive." In these 
+cases, the Court considered it more appropriate to resolve the action 
+based on merit and substantive issues, and not on technical issues. 
+
+ Here, the Court had examined the pleadings of the parties and resolved 
+to deny the petition based on substantive and technical grounds. Form 
+follows substance. The technical grounds play a secondary role in our 
+ruling and are only additional reasons for the denial of the petition. 
+Still, the Court reminds the members of the bar to conform to the formal
+ requirements under the Rules of Court for the proper and efficient 
+administration of justice. 
+  
+
+
+
+
+
+
+II.
+
+
+Technical Issue: Failure to attach material portions of the record as stated in Rule 45, Section 4(d) of the Rules of Court
+ 
+
+
+
+
+
+
+
+
+Section 4, Rule 45 of the Rules of Court enumerates the contents of a petition for review on 
+certiorari
+: 
+
+
+
+
+ SEC. 4. 
+Contents of petition
+. â The petition shall be 
+filed in eighteen (18) copies, with the original copy intended for the 
+court being indicated as such by the petitioner, and shall (a) state the
+ full name of the appealing party as the petitioner and the adverse 
+party as respondent, without impleading the lower courts or judges 
+thereof either as petitioners or respondents; (b) indicate the material 
+dates showing when notice of the judgment or final order or resolution 
+subject thereof was received, when a motion for new trial or 
+reconsideration, if any, was filed and when notice of the denial thereof
+ was received; (c) set forth concisely a statement of the matters 
+involved, and the reasons or arguments relied on for the allowance of 
+the petition;
+ (d) be accompanied by a clearly legible duplicate 
+original, or a certified true copy of the judgment or final order or 
+resolution certified by the clerk of court of the court 
+a quo
+ and the requisite number of plain copies thereof, and such material portions of the record as would support the petition
+;
+ and (e) contain a sworn certification against forum shopping as 
+provided in the last paragraph of Section 2, Rule 42. (Emphasis 
+supplied) 
+
+
+
+
+ In 
+Cancio v. Performance Foreign Exchange Corp
+.,
+[44]
+
+ the Court held that non-compliance with Section 4, Rule 45 of the Rules
+ of Court does not automatically result to dismissal of the case. Thus: 
+  
+
+
+ The failure to attach material portions of the record will not 
+necessarily cause the outright dismissal of the petition. While Rule 45,
+ Section 4 of the Rules of Court requires that the petition "be 
+accompanied by [x x x] such material portions of the record as would 
+support the petition," This Court may still give due course if there is 
+substantial compliance with the Rules. 
+
+
+
+
+ Here, BF Citiland attached the following documents: (1) certified 
+true copies of the CA Decision and Resolution subject of this Petition; 
+(2) complaint in the annulment case; (3) petition in the declaratory 
+relief case; (4) January 29, 2014 Makati RTC, Branch 143 Order; (5) 
+Omnibus Motion; (6) July 21, 2014 Makati RTC, Branch 141 Order; (7) 
+November 8, 2014 Makati RTC, Branch 141 Order; and (8) BSP's petition 
+for 
+certiorari
+ filed in the CA. 
+  
+ The Court finds the above attachments as substantial 
+compliance with Section 4(d), Rule 45 of the Rules of Court as it 
+supports BF Citiland's position. BF Citiland attached copies of the 
+assailed CA Decision and Resolution, as well as the RTC's orders and 
+pleadings that are pertinent to its position. A petitioner is not 
+required to attach all pleadings, court orders/processes, exhibits, or 
+documents of the case, but only those which are material and relevant to
+ the issue/s presented in the petition. 
+  
+
+
+
+
+
+
+III. 
+
+
+Substantive Issue: Whether or not the elements of forum shopping are present
+
+
+
+
+
+
+
+
+In 
+Malixi v. Baltazar
+,
+[45]
+ the Court discussed the concept of forum shopping: 
+
+
+
+
+ Forum shopping is generally judicial. It exists: 
+
+
+
+
+ [x x x] [W]henever a party "repetitively avail[s] of 
+several
+ 	judicial 	remedies 	in 	different	courts, simultaneously or 
+successively, all substantially founded on the same transactions and the
+ same essential facts and circumstances, and all raising substantially 
+the same issues
+ either pending in, or already resolved adversely by,
+ some other court." It has also been defined as "an act of a party 
+against whom an adverse judgment has been rendered in one forum of 
+seeking and possibly getting a favorable opinion in another forum, other
+ than by appeal or the special civil action of 
+certiorari
+, or 
+the institution of two or more actions or proceedings grounded on the 
+same cause on the supposition that one or the other court would make a 
+favorable disposition." Considered a pernicious evil, it adversely 
+affects the efficient administration of justice since it clogs the court
+ dockets, unduly burdens the financial and human resources of the 
+judiciary, and trifles with and mocks judicial processes. 
+
+
+ The test to determine whether or not forum shopping was committed was explained in
+ Dy, et al. v. Yu, et al
+.:
+
+
+ To determine whether a party violated the rule against forum 
+shopping, the most important factor to ask is whether the element of
+ litis pendentia
+ is present, or whether a final judgment in one case will amount to
+ res judicata
+ in another. Otherwise stated, 
+the
+ test for determining forum shopping is whether in the two (or more) 
+cases pending, there is identity of parties, rights or causes of action,
+ and reliefs sought. If a situation of
+ litis pendentia
+ or
+ res judicata
+
+ arises by virtue of a party's commencement of a judicial remedy 
+identical to one which already exists (either pending or already 
+resolved), then a forum shopping infraction is committed. 
+(Citations omitted; emphases supplied) 
+
+
+
+
+
+
+ Here, the elements of forum shopping are present. 
+ First, 
+the petitioner/complainant in the declaratory relief case and the 
+annulment case is the same, BF Citiland. There are common respondents in
+ the two actions, BSP and the Makati RTC Clerk of Court and 
+Ex-Officio
+
+ Sheriff. The only difference is Banco Filipino, who was impleaded in 
+the annulment case, but not in the declaratory relief case. However, 
+even if Banco Filipino was not a party in the declaratory relief case, 
+it still has an interest in its outcome because the foreclosure of the 
+mortgages affects its SLF loan from BSP. With the identity of parties or
+ interests in both cases, one of the elements of forum shopping is 
+present. 
+ Second, the declaratory relief case and the annulment 
+case were filed after BSP foreclosed the mortgages on BF Citiland's 
+property. The declaratory relief case assailed BSP's right to foreclose 
+the mortgage while Banco Filipino was under receivership and sought to 
+prevent the public auction. The annulment case aimed to nullify several 
+documents and transactions, all related to the foreclosure of the 
+mortgaged property. The first action was filed prior to the public 
+auction, while the second action was filed thereafter. 
+  
+ In short, the two actions have a common set of facts and 
+transactions â the foreclosure of mortgages. Both were aimed to protect 
+BF Citiland's right to retain title and ownership over the mortgaged 
+property. Both actions asked the courts (Branch 141 and Branch 143) to 
+stop and/or invalidate the foreclosure proceeding and its subsequent 
+proceedings. Both were based on the same theory of the case â Banco 
+Filipino cannot be forced to perform its principal loan obligation to 
+BSP because of the prohibition to pay while it is 	under PDIC 
+receivership. Consequently, the accessory mortgage obligation cannot be 
+enforced as well. Given the prohibition to pay, Banco Filipino cannot be
+ put in default, which is a requirement before the creditor-mortgagee, 
+BSP can foreclose the mortgage. Without being in default, the right to 
+foreclose does not arise. 
+  
+ The Court observed that this theory of the case was found in 
+the initiatory pleadings of both the declaratory relief case and the 
+annulment case, and were lengthily discussed using the exactly same 
+words.
+[46]
+ This is a crystal clear indication that both actions were cut from the same stone, but were presented differently. 
+
+ The Court finds that, although the terminologies of the two actions are
+ dissimilar, they were rooted on the same theory of the case, protected 
+the same right of BF Citiland, and pursued the same result. Thus, there 
+is identity of right or cause of action and relief sought. 
+ Lastly, would a resolution in either of the actions result to 
+litis pendentia
+ or 
+res judicata
+? 
+  
+ In 
+Goodland Co., Inc. v. Banco De Oro-Unibank, Inc
+.,
+[47]
+ the Court defined and enumerated the elements of 
+litis pendentia
+ and
+ res judicata
+: 
+  
+
+
+ 
+Litis pendentia
+ is a ground for the dismissal of an 
+action when there is another action pending between the same parties 
+involving the same cause of action, thus, rendering the second action 
+unnecessary and vexatious. It exists when the following requisites 
+concur: 
+
+
+  	Identity of parties or of representation in both cases[;] 
+ Identity of rights asserted and relief prayed for[;] 
+ The relief must be founded on the same facts and the same basis[;] and 
+ Identity in the two preceding particulars should be such that
+ any judgment which may be rendered in the other action, will, 
+regardless of which party is successful, amount to
+ res judicata 
+on the action under consideration. 
+
+
+ 
+Res judicata
+, on the other hand, exists if the following 
+requisites concur: (1) the former judgment or order must be final; (2) 
+the judgment or order must be on the merits; (3) it must have been 
+rendered by a court having jurisdiction over the subject matter and the 
+parties; (4) there must be, between the first and the second action, 
+identity of parties, of subject matter and cause of action. 
+
+
+
+
+ The first three elements of
+ litis pendentia 
+are the same as
+ forum shopping, and it was discussed in the preceding paragraphs as 
+present in this case. The only question left for the Court to decide is 
+whether a resolution in either the declaratory relief case or in the 
+annulment case would result to either 
+litis pendentia 
+or 
+res judicata
+ on the remaining case. 
+
+ The Court resolves in the affirmative. It was established that the two 
+actions have identity of parties, identity of right or cause of action, 
+and identity of reliefs sought. A decision on the merits in one action 
+is, in theory, also a decision on the other remaining action. However, 
+since the two actions were filed in two different courts/fora, the 
+complainant/petitioner is considered to be shopping for a favorable 
+result; hence, the term forum shopping. Having determined the presence 
+of all the elements of forum shopping, we deny the petition. 
+ 
+WHEREFORE
+, premises considered, the petition is 
+DENIED
+. The October 9, 2015 Decision and the May 26, 2016 Resolution of the Court of Appeals in CA-G.R. SP No. 138747 are
+ AFFIRMED
+. 
+  
+ 
+SO ORDERED.
+
+
+ 
+Caguioa (Acting Chairperson), Hernando
+,
+[*]
+ 
+Lazaro-Javier
+, and 
+Zalameda
+, 
+JJ
+., concur. 
+  
+
+
+[*]
+ Designated additional 
+member per Raffle dated October 9, 2019 in lieu of Associate Justice 
+Antonio T. Carpio who recused himself from the case due to close 
+association to counsel of a party.
+  
+ 
+[1]
+ 
+Fontana Development Corp. v. Vukasinovic
+, 795 Phil. 913, 924-925 (2016).
+
+
+ 
+[2]
+ 
+Rollo
+, pp. 11, 28. 
+
+
+[3]
+ Id. at 11.
+
+
+ 
+[4]
+ Id. at 28. 
+
+
+[5]
+ Id. at 12. 
+
+
+[6]
+ Id. at 28. 
+
+
+[7]
+ Id. 
+
+
+[8]
+ Id. 
+
+
+[9]
+ Id. at 28-29. 
+
+
+[10]
+ Id. at 485-489. 
+
+
+[11]
+ Id. at 519. 
+
+
+[12]
+ Id. at 29. 
+
+
+[
+13]
+ Id. at 71-73.
+
+
+ 
+[14]
+ Id. at 29. 
+
+
+[15]
+ Id. at 29-30.
+
+
+ 
+[16]
+ Id. at 88-90. 
+
+
+[17]
+ Id. 
+
+
+[18]
+ Id. at 30, 240. 
+
+
+[19]
+ Penned by Associate 
+Justice Marlene Gonzales-Sison, with Associate Justices Ramon A. Cruz 
+and Melchor Q.C. Sadang, concurring; id. at 27-36. 
+
+
+ 
+[20]
+ 	Id. at 32. 
+  
+[21]
+ Id.  
+  
+ 
+[22]
+ Id.   
+  
+[23]
+ Id.   
+  
+[24]
+ Id. at 32-33.   
+  
+[25]
+ Id. at 33-34.   
+  
+[26]
+ Id. at 33.
+  
+ 
+[27]
+ 	Id.
+  
+ 
+[
+28]
+	Id. 
+  
+[29]
+ Id. at 31-32.   
+  
+[30]
+ Id., p. 34.   
+  
+[31]
+ Id. at 34-35.   
+  
+[32]
+ Id. at 38-42.  
+  
+ 
+[33]
+ Id. at 9-21.   
+  
+[34]
+ Id. at 14-20.  
+  
+ 
+[35]
+ Id. at 152-156.  
+  
+ 
+[36]
+ Id. at 157-159.  
+  
+ 
+[37]
+ Id. at 152-153, 160-188.  
+  
+ 
+[38]
+ Id. at 600-603.  
+  
+ 
+[39]
+ G.R. No. 232989, March 18, 2019.   
+  
+[40]
+ Id.
+  
+ 
+[41]
+ 
+Rollo
+, p. 23.  
+  
+ 
+[42]
+ 
+Malixi v. Baltazar
+, G.R. No. 208224, November 22, 2017, 846 SCRA 244, 260.   
+  
+[43]
+ 
+Orbe v. Filinvest Land, Inc
+., G.R. No. 208185, September 6, 2017, 839 SCRA 72, 104, citing 
+Galicto v. Aquino III
+, 683 Phil. 141, 175 (2012); 
+Coca-Cola Bottlers Philippines, Inc. v. Dela Cruz
+ 622 Phil. 886, 900 (2009); 
+Victorio-Aquino v. Pacific Plans, Inc
+., 749 Phil.790, 806-807 (2014); 
+Reyes v. Glaucoma Research Foundation
+, Inc., 760 Phil. 779, 788 (2015).
+  
+ 
+[44]
+ G.R. No. 182307, June 6, 2018.  
+  
+ 
+[45]
+ Supra note 40, at 278- 279.  
+  
+ 
+[46]
+ 
+Rollo
+, pp. 47-49, 63-65.  
+  
+ 
+[47]
+ G.R. No. 208543, February 11, 2019.           
+
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

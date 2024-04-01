@@ -1,0 +1,281 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			846 Phil. 680; 116 OG No. 6, 826 (February 10, 2020)
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 228807, February 11, 2019 ]
+
+
+CARLITO B. LINSANGAN, PETITIONER, VS. PHILIPPINE DEPOSIT INSURANCE CORPORATION, RESPONDENT.
+D E C I S I O N
+
+
+
+
+J. REYES, JR., J.:
+
+
+Assailed in this petition for review on 
+certiorari
+ are the March 31, 2016 Decision
+[1]
+ and the December 19, 2016 Resolution
+[2]
+ of the Court of Appeals (CA) in CA-G.R. SP No. 137172 which affirmed the Philippine Deposit Insurance Corporation's (PDIC's) denial of petitioner Carlito B. Linsangan's (petitioner's) deposit insurance claim on July 12, 2013. 
+ 
+The Antecedents
+ 
+ In a Resolution dated May 23, 2013, the Monetary Board (MB) of the Bangko Sentral ng Pilipinas (BSP) ordered the closure of the Cooperative Rural Bank of Bulacan, Inc. (CRBBI) and placed it under PDIC's receivership. PDIC took over CRBBI's assets and affairs and examined its records in order to determine the insured deposits.
+ Petitioner filed a claim for payment of deposit insurance for his Special Incentive Savings Account (SISA) No. 00-44-10750-9, which had a balance of P400,000.00 at the time of CRBBI's closure. 
+ Upon investigation, PDIC found that petitioner's account originated from the account of "Cornelio Linsangan or Ligaya Linsangan" (source account) with an opening balance of P1,531,993.42. On December 13, 2012, the source account was closed and its balance of P1,544,081.48 was transferred and distributed to four accounts. 
+ PDIC then conducted a tracing of relationship for the purpose of determining beneficial ownership of accounts and it discovered that petitioner is not a qualified relative
+[3]
+ of Cornelio Linsangan and Ligaya Linsangan (Cornelio and Ligaya). 
+ Consequently, pursuant to the provisions of PDIC Regulatory Issuance No. 2009-03, par. V, petitioner's account was consolidated with the other legitimate deposits of Cornelio and Ligaya for purposes of computing the insurable deposit. PDIC considered the source account holders Cornelio and Ligaya as the real owners of the four resulting accounts. Thus, they were only entitled to the maximum deposit insurance of P500,000.00. 
+ On July 12, 2013, PDIC denied petitioner's claim. Then, on August 6, 2014, it also denied petitioner's request for reconsideration. The PDIC ruled that under PDIC Regulatory Issuance No. 2009-03, the transferee is considered the beneficial owner of the deposit provided that (a) the transfer is for valid consideration as shown by the documents supporting the transfer which should be in the custody of the bank upon takeover by PDIC; or (b) he/she is a qualified relative of the transferor. It held that CRBBI was not furnished a copy of any document which could prove the transfer of the deposit from the transferors to petitioner. The PDIC added that the documents which petitioner submitted did not show that he is a relative of Cornelio and Ligaya within the second degree of consanguinity or affinity. It concluded that the transferors should be considered the beneficial owners of the transferred deposit. 
+ Aggrieved, petitioner filed a petition for 
+certiorari
+ before the CA. 
+ 
+The CA Ruling
+ In a Decision dated March 31, 2016, the CA ruled that the PDIC did not act with grave abuse of discretion because it merely followed the applicable law in determining whether petitioner's account was insurable or not. It noted that both petitioner and the transferor failed to provide CRBBI of the details regarding the splitting of deposit and the circumstances behind such transfer. The appellate court declared that PDIC had sufficient reason to doubt the validity of the splitting of accounts and subject them to scrutiny as there were indicators that the source account was divided and distributed to newly-opened and existing accounts to make them covered under the PDIC insurance. It held that PDIC's denial of insurance deposit does not invalidate the alleged donation, nor will it result in the total non-payment of said deposit because the latter may still be paid from the assets of CRBBI. Thus, it disposed: 
+ 
+ WHEREFORE, the Petition for 
+Certiorari
+ [is] hereby DENIED for lack of merit. Accordingly, the denial of Carlito B. Linsangan's claim for Deposit Insurance from the Philippine Deposit Insurance [Corporation] is hereby AFFIRMED. 
+ 
+ SO ORDERED.
+[4]
+ 
+ 
+ 
+ Petitioner moved for reconsideration, but the same was denied by the CA in a Resolution dated December 19, 2016. Hence, this petition for review on 
+certiorari
+ wherein petitioner assails the denial of his deposit insurance claim. 
+ Petitioner argues that the transfer of funds to his account is not deposit splitting because the transfer took place more than 120 days prior to the closure of the bank; that as stated in PDIC Regulatory Issuance No. 2009-03, splitting of deposits occurs whenever an account is broken down and transferred into two or more accounts in the name/s of natural or juridical person/s or entity/entities who have no beneficial ownership on transferred deposits in their names within 120 days immediately preceding or during bank-declared bank holiday, or immediately preceding a closure order issued by the MB of the BSP; and that he was not informed of the requirement that the documents proving transfer must be in the records of the bank at the time of its closure.
+[5]
+ 
+ In its Comment,
+[6]
+ respondent counters that the joint account of Cornelio and Ligaya was split and transferred to different persons, thus, the provisions of PDIC Regulatory Issuance No. 2009-03, which was published in the Philippine Star on October 10, 2009, find application in determining the beneficial ownership of the resulting deposit accounts; that the alleged donation was not supported by documents evidencing transfer of account in the records of the bank; and that there is no premium if the splitting of deposit was done within 120 days preceding a bank closure, because if an account was split prior to the 120-day period, PDIC Regulatory Issuance No. 2009-03 steps in and determines the beneficial ownership of the resulting accounts, whereas, if the splitting of deposit was made within 120 days preceding the bank closure, the act is a criminal offense and the director, officer, employee, or agent of the bank who facilitated the splitting would be held liable. 
+ In his Reply,
+[7]
+ petitioner contends that the bank failed to inform him of PDIC Regulatory Issuance No. 2009-03, thus, the provisions thereof are not binding upon him; that requiring the submission of transfer documents prior to the takeover by PDIC of the bank violates his constitutional right against deprivation of property without due process; and that demanding the transfer documents to be kept in a particular location adds another requisite for the validity of donation. 
+ 
+The Court's Ruling
+ 
+ The petition lacks merit. 
+ The PDIC was created by Republic Act (R.A.) No. 3591
+[8]
+ on June 22, 1963 as an insurer of deposits in all banks entitled to the benefits of insurance under the PDIC Charter to promote and safeguard the interests of the depositing public by way of providing permanent and continuing insurance coverage of all insured deposits.
+[9]
+ 
+ Based on its charter, the PDIC has the duty to grant or deny claims for deposit insurance. "The term 'insured deposit' means the amount due to any 
+bona fide
+ depositor for legitimate deposits in an insured bank net of any obligation of the depositor to the insured bank as of the date of closure, but not to exceed Five Hundred Thousand Pesos (P500,000.00). x x x In determining such amount due to any depositor, there shall be added together all deposits in the bank maintained in the same right and capacity for his benefit either in his own name or in the names of others."
+[10]
+ To determine beneficial ownership of legitimate deposits which are entitled to deposit insurance, the provisions of PDIC Regulatory Issuance No. 2009-03 provides: 
+ 
+ III. Determination of Beneficial Ownership of Legitimate Deposits
+ 
+ In determining the depositor entitled to insured deposit payable by the PDIC, the registered owner/holder of a Legitimate Deposit in the books of the issuing bank shall be recognized as the depositor entitled to deposit insurance, except as otherwise provided by this Issuance. 
+ 
+Where the records of the bank show that one or several deposit accounts in the name of one or several other persons or entities are maintained in the same right and capacity for the benefit of a depositor, PDIC shall recognize said depositor as the beneficial owner of the account/s entitled to deposit insurance. 
+ 
+Where a deposit account/s with an outstanding balance of more than the maximum deposit insurance coverage is/are broken up and transferred to one or more account/s, PDIC shall recognize the transferor as the beneficial owner of the resulting deposit accounts entitled to deposit insurance, unless the transferee/s can prove that: 
+ 
+ 
+ 
+ 
+a.
+ 
+The break-up and transfer of Legitimate Deposit was made under all of the following conditions: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i.
+ 
+ 
+The break-up and transfer of Legitimate Deposit to the transferee is for a Valid Consideration;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ii.
+ 
+ 
+The details or information for the transfer, which establish the validity of the transfer from the transferor to the transferee, are contained in any of the Deposit Account Records of the bank; and
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iii.
+ 
+ 
+Copies of documents, which show the details or information for the transfer, such as[,] but not limited to[,] contracts, agreements, board resolutions, orders of the courts or of competent government body/agency, are in the custody or possession of the bank upon takeover by PDIC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b.
+ 
+He/she is a
+ Qualified Relative 
+of the transferor, in which case PDIC shall recognize the transferee as the beneficial owner of the resulting deposit accounts. Relationship shall be proven by relevant documents such as, but not limited to, birth certificates and marriage certificates. 
+ 
+ 
+ 
+ 
+II. Definition of Terms 
+ 
+ 
+ x x x x 
+ 
+ f. Qualified Relative - means a relative within the second degree of consanguinity or affinity.
+ 
+ 
+ 
+ Petitioner, however, argues that the foregoing provisions are not applicable to him because the transfer did not occur within 120 days immediately preceding bank closure as stated in PDIC Regulatory Issuance No. 2009-03, 
+viz
+.: 
+ 
+ IV. 
+Deposit Splitting
+ 
+ 
+ x x x x
+ 
+ 
+ 
+Elements
+. The elements of Deposit Splitting are as follows: 
+ Existence of source account/s in a bank with a balance or aggregate balance of more than the MDIC; 
+ There is a break up and transfer of said account/s into two or more existing or new accounts in the name of another person/s or entity/entities; 
+ The transferee/s have no Beneficial Ownership over the transferred funds; and 
+ Transfer occurred within 120 days immediately preceding or during a bank-declared bank holiday, or immediately preceding bank closure. 
+ 
+ 
+ The PDIC shall deem that there exists Deposit Splitting for the purpose of availing of the maximum deposit insurance coverage when all of these elements are present. 
+ The bank, its directors, officers, employees, or agents are prohibited from and shall not in any way participate or aid in, or otherwise abet Deposit Splitting activities as herein defined, nor shall they promote or encourage the commission of Deposit Splitting among the bank's depositors. The approval by a bank officer or employee of a transaction resulting to Deposit Splitting shall be 
+prima facie
+ evidence of participation in Deposit Splitting activities.
+ 
+ 
+ Petitioner's argument is erroneous. In deposit splitting, there is a presumption that the transferees have no beneficial ownership considering that the source account, which exceeded the maximum deposit insurance coverage, was split into two or more accounts within 120 days immediately preceding bank closure. On the other hand, in cases wherein the transfer into two or more accounts occurred before the 120-day period, the PDIC does not discount the possibility that there may have been a transfer for valid consideration, but in the absence of transfer documents found in the records of the bank at the time of closure, the presumption arises that the source account remained with the transferor. Consequently, even if the transfer into different accounts was not made within 120 days immediately preceding bank closure, the grant of deposit insurance to an account found to have originated from another deposit is not automatic because the transferee still has to prove that the transfer was for a valid consideration through documents kept in the custody of the bank.
+ In this case, even assuming that Cornelio donated the amount contained in the subject savings account to petitioner, not one document evidencing the alleged donation is in the custody or possession of the bank upon takeover by PDIC. Thus, the PDIC properly relied on the records of the bank which showed that Cornelio's accounts remained in his name and for his account. Moreover, even if the Court disregards the submission of transfer documents, petitioner could not be considered the beneficial owner of the resulting deposit account because he is not a qualified relative of the transferor. Being the son of Cornelio's cousin, petitioner is already a fifth degree relative of the transferor,
+[11]
+ far from the requirement that the transferee must be a relative within the second degree of consanguinity or affinity. 
+ As regards petitioner's contention that the provisions of PDIC Regulatory Issuance No. 2009-03 do not apply to him because he was not personally notified of the contents thereof by CRBBI, the same deserves scant consideration.
+ Ignorantia legis non excusat
+ remains a valid dictum. Here, it is settled that PDIC Regulatory Issuance No. 2009-03 was published in a newspaper of general circulation. Hence, the publication operated as constructive notice to all owners of bank deposits. Personal notice to all citizens of promulgated laws and regulations is not required. 
+ Considering the above disquisitions, it is sufficiently established that the PDIC did not commit any grave abuse of discretion in denying petitioner's claim for deposit insurance. 
+ 
+WHEREFORE
+, the petition is 
+DENIED
+. The March 31, 2016 Decision and the December 19, 2016 Resolution of the Court of Appeals in CA-G.R. SP No. 137172 are 
+AFFIRMED
+.
+ 
+SO ORDERED.
+ 
+ 
+Carpio, Senior Associate Justice (Chairperson), Perlas-Bernabe, Caguioa
+, and 
+Hernando
+,
+[*]
+ 
+JJ
+., concur. 
+ 
+[*]
+ Additional Member per S.O. No. 2630 dated December 18, 2018. 
+[1]
+ Penned by Associate Justice Edwin D. Sorongon, with Associate Justices Ricardo R. Rosario and Marie Christine Azcarraga-Jacob, concurring; 
+rollo
+, pp. 33-42. 
+ 
+[2]
+ Id. at 45-47. 
+ 
+ 
+[3]
+ PDI Regulatory Issuance No. 2009-03. 
+ 
+ II. Definiton of Terms
+ 
+ x x x x
+ 
+ f. Qualified Relative - means a relative within the second degree of consanguinity or affinity (PDIC Regulatory Issuance No. 2002-03).
+ 
+ 
+ 
+[4]
+ 
+Rollo
+, p. 41. 
+ 
+[5]
+ Id. at 18-28. 
+[6]
+ Id. at 62-71. 
+[7]
+ Id. at 74-85. 
+[8]
+ AN ACT ESTABLISHING THE PHILIPPINE DEPOSIT INSURANCE CORPORATION, DEFINING ITS POWERS AND DUTIES AND FOR OTHER PURPOSES. 
+ 
+[9]
+ 
+Phil. Deposit Insurance Corp. v. Phil. Countryside Rural Bank, Inc
+., 655 Phil. 313, 337 (2011). 
+ 
+[10]
+ Republic Act No. 3591, Sec. 3(g).
+ 
+[11]
+ Petition for review; 
+rollo
+, p. 12. 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

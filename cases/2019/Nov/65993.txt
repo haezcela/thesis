@@ -1,0 +1,382 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			866 Phil. 274
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 241329, November 13, 2019 ]
+
+
+MARYLOU B. TOLENTINO, PETITIONER, VS. PHILIPPINE POSTAL SAVINGS BANK, INC.,RESPONDENT. 
+D E C I S I O N
+
+
+
+
+REYES, A., JR., J.:
+
+
+This is a petition for review on 
+certiorari
+[1]
+ which seeks to reverse and set aside the Decision
+[2]
+  dated July 20, 2017 and Resolution
+[3]
+  dated August 8, 2018 of the Court of Appeals (CA) in CA-G.R. CV No. 103054, insofar as it ordered the remand of the case to the Regional Trial Court (RTC) of Manila for further proceedings.
+Factual Antecedents
+This case started on August 2, 2000, when petitioner Marylou B. Tolentino (Marylou) filed a complaint
+[4]
+ for the collection of a sum of money against respondent Philippine Postal Savings Bank, Inc. (PPSBI).   In this complaint, she alleged that Enrique Sanchez (Enrique), on behalf  of Shekinah Construction, obtained a loan from PPSBI on February 28, 1996, in the amount of P3,500,000.00, for the purpose  of developing a low-cost housing project.  The loan stipulated that PPSBI shall initially release 50% of the loan  to Enrique, with the remaining  balance to be released upon the completion of a certain percentage of the housing project.
+[5]
+At that time, Marylou was in the business of short-term private lending.  In order to hasten the completion of the project, Enrique requested to borrow the amount of P1,600,000.00 from Marylou.  However, Marylou agreed to lend only P1,500,000.00,  payable in 60 days at five percent (5%) interest per month.
+[6]
+On June 3, 1996, the PPSBI Loans and Evaluations Manager, Amante A. Pring (Amante), issued a letter stating that PPSBI would remit the amount of P1,500,000.00  in favor of Marylou within 60 days from her loan to Enrique.   Later, or on June 11, 1996, Enrique and Marylou executed a Deed of Assignment, with the conformity of Amante, acting on behalf of PPSBI, in which Enrique agreed to assign the loan proceeds of Shekinah Construction to Marylou.  Thereafter, Marylou released the amount of P1,500,000.00 to Enrique.  The amount of P150,000.00 was deducted from the amount, representing the five percent (5%) interest earlier agreed upon.
+[7]
+Upon the lapse of 60 days, PPSBI did not pay the agreed amount to Marylou.  Marylou further learned that PPSBI allegedly released the amount of P1,500,000.00 to Enrique-not to her.  Marylou demanded payment from PPSBI but her request remained unheeded.  Thus, she filed the complaint subject of the present petition.
+[8]
+On September 6, 2000, PPSBI filed a motion to dismiss the complaint for lack of cause of action.  It argued that under Section 74 of Republic Act (R.A.) No. 337,
+[9]
+ PPSBI cannot act as a guarantor of Enrique.  For this reason, PPSBI asserted that it could not have authorized  Amante to enter into an agreement designating PPSBI as the guarantor  of Enrique's loan.
+Any contract that Amante entered into was made in his own personal capacity, which cannot bind the bank
+[10]
+In an Order
+[11]
+ dated October 27, 2000, the trial court denied PPSBI's motion to dismiss.  The trial court ruled that the substance of the agreement between the parties is controlling, and that the supposed absence of authority on the part of Amante is an affirmative defense that should be resolved only after trial.
+[12]
+Following the denial of this motion, PPSBI filed an answer reiterating its arguments in the motion to dismiss.  On March 5, 2001, PPSBI also filed a third-party complaint against Amante and Enrique, praying for indemnity, subrogation, and any other relief against Marylou.
+[13]
+On July 19, 2005, Amante filed an answer to the third-party complaint.  He argued that he entered into the transaction with Marylou as a representative of the bank, and that PPSBI was aware of the agreement between Enrique and Marylou.
+[14]
+Ruling of the RTC
+On July 16, 2013, the trial court issued a Decision
+[15]
+ dismissing Marylou's complaint for lack of cause of action:
+WHEREFORE, premises considered, Civil Case No. 00-98230 is hereby DISMISSED for the apparent lack of cause of action by [petitioner Marylou] against [respondent PPSBI].  All counterclaims are, likewise, dismissed.  The  Third[-]Party Complaint subsequently filed by [PPSBI] against [Amante] and [Enrique] is, likewise, DISMISSED.  With costs against the parties.
+SO ORDERED.
+[16]
+The trial court held that as a guarantor, PPSBI enjoyed the benefit of excussion.  For this reason, Marylou may only compel PPSBI to pay after the exhaustion of all legal remedies against Enrique.  Marylou's  motion for reconsideration was also denied in the trial court's Order dated February 17, 2014.
+[17]
+Aggrieved, Marylou appealed to the CA pursuant to Rule 41 of the Rules of Court.
+[18]
+ The appeal was given due course in an Order
+[19]
+ dated March 18, 2014.
+In her appeal, Marylou argued that the denial of PPSBI's motion to dismiss was final and executory and, as such, may not be modified by the trial court.  Marylou  further claimed that her agreement with PPSBI was not one of guaranty, but an explicit obligation on the part of PPSBI to release the loan proceeds to her.  Considering that there was no loan obligation, Marylou contended that the  benefit  of excussion was not applicable to PPSBI.
+[20]
+Ruling of the CA
+In a Decision
+[21]
+ dated July 20, 2017,  the CA considered the appeal partly meritorious:
+WHEREFORE, premises considered, the appeal is GRANTED.  The Decision dated July 16, 2013 of Branch 17, [RTC] of Manila in Civil Case No. 00-98230 is SET ASIDE insofar as the dismissal of the same for apparent lack of cause of action is concerned.  Thus, 
+a REMAND of this case to the lower court is necessary for trial to ensue the liability of [PPSBI] to [Marylou].
+The dismissal of the Third-Party Complaint filed by [PPSBI] against [Amante] and [Enrique] is AFFIRMED.
+SO ORDERED.
+[22]
+ (Emphasis ours)
+Marylou remained unsatisfied with the decision of the CA and, thus, moved for its partial reconsideration.
+[23]
+  She asked the CA to reconsider its decision insofar as it ordered the remand of the case to the trial court.  According to Marylou, it was the duty of the CA to decide the case on the merits.  Instead of remanding the case back to the trial court for further proceedings, Marylou was of the position that the CA should have proceeded to determine the liability of PPSBI relative to the evidence available in the records.
+[24]
+  Marylou prayed for the CA to order the release of P1,500,000.00, representing the principal amount of the loan assigned to her, and the payment of interest, moral and exemplary damages, attorney's fees, and costs of suit.
+[25]
+PPSBI, for its part, likewise filed a motion for reconsideration.
+[26]
+In a Resolution
+[27]
+ dated August 8, 2018, the CA found both motions without merit:
+WHEREFORE, in view of the foregoing premises, this Court resolves to:
+1) NOTE both [PPSBI's] Comment/Opposition (on the Partial Motion for Reconsideration Filed by the Plaintiff-Appellant) filed on August 24, 2017 and [Marylou's] Comment/Opposition (to Defendant/Third-Party Plaintiff-Appellee PPSBI's motion for reconsideration) filed on September 25, 2017;
+2) NOTE both the returned copies of Our July 20, 2017 Decision and August 30, 2017 Minute Resolution addressed to [Enrique] and with postal notations "RTS MOVED 8/1/17" and "Addressee MOVED 9/13/17", respectively;
+3) NOTE the CMIS verification report dated March 21, 2018 stating that "no comment on the MR has been filed by third party"; and
+4) DENY both [Marylou's] Partial Motion for Reconsideration and [PPSBI's] Motion for Reconsideration  for lack of merit.
+SO ORDERED.
+[28]
+From the adverse decision of the CA, Marylou filed the present petition with the Court.  She argues that the CA should have decided on the merits of her action against PPSBI, as the pieces of evidence are part of the records of the case elevated to the appellate court.  Marylou believes that remanding the case back to the trial court would be an unnecessary waste of time and resources.
+[29]
+Ruling of the Court
+The Court finds the present petition meritorious.
+It was unnecessary for the CA 
+to remand the case to the RTC for
+ further proceedings.
+When  there was no trial on the merits and the judgment of the trial court is later reversed on appeal, it is necessary to remand the case for further proceedings.  This is consistent with the requirements of due process, as the remand would allow the parties to present evidence  on the merits of the case.
+[30]
+Conversely, it is unnecessary to remand the case to the lower court when the appellate court may proceed with the resolution of the case on the basis of the records before it.  As the Court held in 
+Philippine National Bank v. International Corporate Bank
+:
+[31]
+We have time and again laid down the rule that the remand of the case to the lower  court for further reception of evidence is no longer necessary where this Court is in a position to resolve the dispute based on the records before it.  In a number of cases, the Court, in the public interest and for the expeditious administration  of justice, has resolved actions on the merits instead of remanding them to the trial court for further proceedings, such as where the ends of justice would not be subserved by the remand of the case.
+[32]
+   (Citation omitted)
+Thus, when the parties have submitted and presented evidence essential for the  resolution of the dispute, the interest of justice is better served when the court proceeds with the determination  of the parties' rights and obligations.  In such cases, remanding the case back to the lower court would only pointlessly repeat the proceedings, and subject the patties to an unreasonably long delay in the resolution of the controversy.
+[33]
+Here, Marylou appealed the decision of the RTC of Manila, which dismissed her complaint for lack of cause of action, via a notice of appeal under Rule 41 of the  Rules of Court.  As an ordinary appeal, the records of the trial court were elevated to the CA.  These records include the parties' evidence duly offered and presented  to the trial court, together with the parties' pleadings and the corresponding orders of the RTC.
+Furthermore, the records show that the RTC of Manila conducted a trial on the merits of Marylou's complaint for the collection of a sum of money from PPSBI.  
+While PPSBI initially filed a motion to dismiss for lack of cause of action, the trial court did not grant this  motion, and instead, proceeded with the hearing  of  the case.
+  For  this reason, the evidence of the parties already formed part of the records by the time the trial court rendered its Decision dated July 16, 2013.   This holds especially true in this case where the trial court held that Marylou did not have a cause of action against PPSBI.  The determination as to the existence  (or non-existence) of the cause of action may only be resolved during a trial on the merits-not in a preliminary hearing.
+[34]
+Verily, after the CA reversed the decision of the trial court, there was nothing to remand for further proceedings.  The RTC of Manila has already tried the case on the merits, received the evidence, and rendered a decision on the basis of the evidence before it.  Nothing else is left for the parties to do before the trial court.
+The CA, therefore, should  have proceeded to resolve the remaining issues, rather than remanding the case back to the trial court.  The Court has always adhered to the principle of settling controversies in a single proceeding.
+[35]
+  In line with this, and in the interest of the expedient disposition of cases, the Court deems it prudent to resolve the pending issues rather than remanding the case back to the CA.
+PPSBI did not guarantee the debt
+of Enrique to Marylou.
+The trial court held that Marylou had no cause of action against PPSBI.  This was premised on the finding that PPSBI was the guarantor of Enrique's loan from Marylou.  The RTC of Manila thus ruled that PPSBI enjoys the benefit of excussion, and without evidence that Marylou exhausted all available remedies against Enrique, Marylou cannot collect from PPSBI.
+[36]
+On the other hand, the CA ruled that the true intention of the parties is not a contract of guaranty.  To be more precise, the contract was an assignment of Enrique's loan to Marylou.  PPSBI does not enjoy the benefit of excussion, and Marylou has a cause of action against PPSBI.
+[37]
+The Court agrees with the CA.
+Article 2047 of the Civil Code of the Philippines states that a guarantor binds himself to the creditor to fulfill the obligation of the debtor, in case the latter should fail to do so.  Thus, it is only when the debtor fails to comply with the obligation that the guarantor becomes liable.  However, even if the parties  use the word "guaranty" in a contract, it does not necessarily mean that a contract of guaranty exists between the parties.  A guaranty is never presumed; the law requires a guaranty to be express, and may only extend to what the parties stipulated therein.
+[38]
+It is well settled that a contract is what the law defines it to be, and not what the contracting parties call it.
+[39]
+  The terms and conditions of the contract primarily determine the true nature of the transaction.  The ruling in 
+Legaspi v. Spouses Ong
+[40]
+ is instructive, to wit:
+We have consistently decreed that the nomenclature used by the contracting parties to describe a contract does not determine its nature.  Decisive for the proper determination of the true nature of the transaction between the parties is the intent of the parties, as shown not necessarily by the terminology used in the contract but by all the surrounding circumstances, such as the relative situations of the parties at that time; the attitudes, acts, conduct, and declarations of the  parties; the negotiations between them leading to the deed; and generally, all pertinent facts having a tendency to fix and determine the real nature of their design and understanding.
+[41]
+   (Citations omitted)
+In this case, the Deed of Assignment, executed on June 11, 1996 between Enrique and Marylou, reads as follows:
+WHEREAS, [Enrique,  referred to as the ASSIGNOR] is the beneficiary/payee of the loan proceeds of [PPSBI], in the sum of PESOS: THREE MILLION FIVE HUNDRED THOUSAND (P3,500,000.00) as embodied in said bank advise dated 23 March 1996, a xerox copy of which is hereto attached as Annex "A" and forming part of this contract[.]
+WHEREAS, as of date the sum of PESOS: ONE  MILLION SEVEN HUNDRED FIFTY THOUSAND  (P1,750,000.00)  has already been released to [Enrique] and the latter has sought the financial assistance of [Marylou, referred to as the ASSIGNEE] for PESOS:  ONE MILLION FIVE HUNDRED THOUSAND (P1,500,000.00) to hasten the completion of the low-cost housing project in Malolos, Bulacan.
+WHEREAS, [PPSBI] guaranteed [Enrique] through [Amante], Loan & Evaluation Manager, that the amount of P1.5M shall be [withheld] and instead will be released to her within 60 days from the date of this document, a copy of said letter of guaranty is hereto  attached as Annex "B" and forming part of this contract.
+NOW THEREFORE, for and in consideration of [Marylou) having extended financial assistance to [Enrique], [Enrique] hereby assigns, transfers and 
+cedes and by these  presents have assigned, transferred and ceded unto and in favor of [Marylou], her heirs and successors all of the assigned right to receive the loan proceeds of SHEKINAH CONSTRUCTION thru herein [Enrique] the total sum of  PESOS: ONE MILLION FIVE HUNDRED THOUSAND ONLY (P1,500,000.00)
+.
+[42]
+ (Emphasis ours)
+In conjunction  with the Deed of Assignment, PPSBI previously sent a letter dated June 3, 1996 to Marylou, which states:
+As of to date (
+sic
+), P1.75M was already released and to speed up the construction  works, [Enrique], the proponent, informed us that he is availing of financial assistance from you for [P1.5M] which approximates the unreleased portion of the loan.
+Since the amount requested from you shall be used for the said project, we shall be withholding for remittance to you the amount of Pesos: ONE MILLION FIVE HUNDRED THOUSAND ONLY (P1,500,000.00) within 60 days from the release of the loan from you.
+It is also understood that any amount in excess of the amount to be paid to fully settle the loan with you shall be for  the account  of the borrower
+.
+[43]
+ (Emphasis ours)
+Both Enrique  and Marylou signified  their conformity to the June 3, 1996 letter of PPSBI.
+[44]
+ Amante, on behalf of PPSBI, also conformed to the Deed of Assignment between Enrique and Marylou.
+[45]
+From the text of the Deed of Assignment, as well as that of the letter dated June 3, 1996, the intention  of the parties is clear. 
+ Enrique, as the assignor, transferred all of his rights to a portion of the loan, initially obtained from PPSBI, to Marylou, as the assignee
+.  This holds true notwithstanding the use of the word "guarantee" in the Deed of Assignment.  Nothing in the language of the deed and the letter binds PPSBI to pay Enrique's debt to Marylou in the event that Enrique should fail to do so.  On the contrary, the express undertaking of the parties in the deed is the direct assignment and transfer of the loan proceeds from PPSBI (in the amount of P1,500,000.00) to Marylou, as payment for Enrique's debt to Marylou in the same amount.
+PPSBI, for its part, explicitly agreed to remit this amount directly to Marylou.  It did not condition the release of the amount on Enrique's failure to pay the loan he obtained from Marylou.  
+Furthermore, PPSBI expressly stipulated that any amount necessary to fully settle  Enrique's debt to Marylou should only be for the account of Enrique
+.  This is undoubtedly contrary to the nature of a contract of guaranty.  Thus, the true nature of the transaction among the parties is the assignment of Enrique's loan proceeds in the amount of P1,500,000.00 to Marylou.
+PPSBI is liable to Marylou for the
+loan proceeds in the amount of 
+P1,500,000.00.
+Since there is no contract of guaranty, there is no merit in the argument of PPSBI that banks are prohibited from entering into contracts of guaranty under Section 74 of R.A. No. 337 (or the "General Banking Act," then the prevailing law governing banks and other financial institutions).  Similarly, PPSBI's argument that the contract violates Section 39 of R.A. No. 337, which prohibits banks from granting loans to projects outside the loan agreement, is untenable.  From the language of the Deed of Assignment, and the contemporaneous and subsequent actions of the contracting parties, the transaction was for the assignment of Enrique's loan proceeds to Marylou.  It is not a contract of loan.
+As a contract within the authorized functions of the bank, PPSBI cannot now claim that the actions of Amante only bind him in his personal capacity.  Under the doctrine of apparent authority, Marylou can rightfully rely on the representations of Amante when he sent the June 3, 1996 letter, and thereafter, when he signified his conformity to the Deed of Assignment. To quote the Court's ruling in 
+Games and  Garments Developers, Inc. v. Allied Banking Corporation
+:
+[46]
+Allied Bank cannot now disclaim any liability under the letters dated August 22, 1996 and January 27, 1997 by simply averring that Mercado had no authority to issue  the same
+.  With our ruling that the letters dated August 22, 1996 and January 27, 1997 did not constitute contracts of guaranty prohibited under Section 74 of the General Banking Act, there is no more basis for the argument of Allied Bank that Mercado had no authority or acted beyond his authority as Branch Manager in issuing   said letters in the course of facilitating and processing Bienvenida's loan with real estate mortgage.
+Of particular relevance herein are our pronouncements in 
+BPI Family Savings Bank. Inc. v. First Metro Investment Corporation
+, citing 
+Prudential  Bank v. Court of Appeals and Francisco v. Government Service Insurance System
+:
+We have held that if a corporation knowingly permits its officer, or any other agent, to perform acts within the scope of an apparent authority, holding him out to the public as possessing power to do those acts, the corporation will, as against any person who has dealt in good faith with the corporation through such agent, be estopped from denying such authority
+.  We reiterated this doctrine in 
+Prudential Bank vs. Court of Appeals
+, thus:
+A bank holding out its officers and agent as worthy of confidence will not be permitted to profit by the frauds they may thus be enabled to perpetrate in the apparent scope of their employment; nor will it be permitted to shirk its responsibility for such frauds, even though no benefit may accrue to the bank therefrom.  Accordingly, a banking corporation is liable to innocent third persons where the representation is made in the course of its business by an agent acting within the general scope of his authority even though the agent is secretly abusing his authority and attempting to perpetrate a fraud upon his principal or some other person for his own ultimate benefit.
+x x x x
+In 
+Prudential Bank
+, wherein we particularly applied the doctrine of apparent authority to banks, we stressed that the "[a]pplication of these principles is especially necessary because banks have a fiduciary relationship with the public and their stability depends on the confidence of the people in their honesty and efficiency.  Such faith will be eroded where banks do not exercise strict care in the selection and supervision of its  employees, resulting in prejudice to their depositors."
+[47]
+ (Citations omitted and emphasis ours)
+In this case, it is evident that the representations of Amante were made in the course of PPSBI's normal business, and  pursuant to his functions as the PPSBI Loans and Evaluations Manager.  As the Loans and Evaluations Manager, he was one of the  officers responsible for recommending the approval of the initial loan obtained by Enrique on behalf of Shekinah Construction.
+[48]
+ Marylou may, therefore, safely assume that his representations were made in pursuant to, and under the authority of PPSBI. If the Court were to rule otherwise, the public's faith in the banking system would be eroded,  and the  fiduciary  relationship of banks with the public would be rendered nugatory.
+Considering that Enrique effectively assigned the loan proceeds to Marylou, PPSBI  should have released the amount of P1,500,000.00 to Marylou, even if she did not make a prior demand for the payment of the loan from Enrique.
+As a rule, interest shall not be due unless it has been expressly stipulated in writing.
+[49]
+ Since there was no stipulation as to interest in the Deed of Assignment between Marylou and Enrique, the Court cannot impose interest on the amount due from PPSBI.  Nonetheless, legal interest at the rate of six percent (6%)
+ per annum
+ shall be due on the judgment of the Court awarding a sum of money, consistent with the Court's ruling in 
+Nacar v. Gallery  Frames, et al.
+[50]
+Finally, there being no evidence of fraud or bad faith on the part of PPSBI, the Court cannot award moral and exemplary damages in favor of Marylou.
+WHEREFORE
+, premises considered, the present petition for review on 
+certiorari
+ is 
+PARTIALLY GRANTED
+.  The Decision dated July 20, 2017 and Resolution dated August 8, 2018 of the Court of Appeals in CAÂ­ G.R. CV No. 103054 are hereby 
+REVERSED
+ and 
+SET ASIDE
+, insofar as it ordered the remand of the case to the Regional Trial Court of Manila for further proceedings.
+Respondent Philippine Postal Savings Bank, Inc. is 
+DIRECTED
+ to pay petitioner Marylou B. Tolentino the amount of P1,500,000.00, representing the loan proceeds assigned by Enrique Sanchez to Marylou B. Tolentino.  A legal interest of six percent (6%) 
+per annum
+ shall likewise be imposed on the total judgment award from the finality of this Decision until its full satisfaction.
+No further costs.
+SO ORDERED.
+Berlas-Bernabe, (Chairperson), Hernando
+ and 
+Zalameda,
+**
+ JJ.,
+ concur.
+Inting, J.,
+ on official leave.
+**
+ Designated additional Member per Special Order No. 2727 dated October 25, 2019.
+[1]
+ 
+Rollo
+, pp. 3-16.
+[2]
+ Penned by Associate Justice Maria Elisa Sempio Diy, with  Associate Justices Mariflor P. Punzalan Castillo and Florito S. Macalino concurring; id. at 20-35.
+[3]
+ Penned by Associate Justice Maria Elisa Sempio Diy, with Associate Justices Mariflor P. Punzalan Castillo and Victoria Isabel A. Paredes concurring; id. at 64-69.
+[4]
+ Records. Vol. I, pp. 1-8 .
+[5]
+ Id. at 2. 
+See
+ also id. at 113-120.
+[6]
+ Id. at 2-4.
+[7]
+ Ibid.
+[8]
+ Id. at 15.
+[9]
+ AN ACT REGULATING BANKS AND BANKING INSTITUTIONS AND FOR OTHER PURPOSES (Approved: July 24, 1948).
+[10]
+ Records, Vol. I, pp. 32-35.
+[11]
+ Rendered by Judge Mario O. GuariÃ±a III ; id. at 51 .
+[12]
+ Id.
+[13]
+ Id. at 105-127.
+[14]
+ Id. at 341-343.
+[15]
+ Rendered by Presiding Judge Felicitas O. Laron-Cacanindin; records, Vol. II, pp. 467-473.
+[16]
+ Id. at 473.
+[17]
+ Id. at 472.
+[18]
+ Id. at 524-525.
+[19]
+ Id. at 529.
+[20]
+ CA 
+rollo
+, pp. 58-66.
+[21]
+ 
+Rollo
+, pp. 20 -35 .
+[22]
+ Id. at 35.
+[23]
+ Id. at 36-47.
+[24]
+ Id. at 42-44. 
+[25]
+ Id. at 46-47.
+[26]
+ Id. at 64.
+[27]
+ Id. at 64-69.
+[28]
+ Id. at 68-69.
+[29]
+ Id. at 10-13.
+[30]
+ 
+See Sps. Morales v. CA
+, 349 Phil. 262, 274-275 (1998).
+[31]
+ 276 Phil. 551 (1991).
+[32]
+ Id. at 559-560.
+[33]
+ 
+Escudero v. Judge Dulay
+, 241 Phil. 877, 886-887 (1988); and 
+Lianga Bay Logging Co., Inc. v. CA
+, 241 Phil. 367, 377-378 (1988).
+[34]
+ See
+ Aquino, et al. v. Quiazon,  et al.
+, 755 Phil. 793, 809 (2015);  see also 
+San Miguel Properties, Inc. v. BF Homes, Inc.,
+ 765 Phil. 672, 702 (2015).
+[35]
+ 
+Ching v. CA
+, 387 Phil. 28, 42 (2000).
+[36]
+ Records, Vol. II, p. 472.
+[37]
+ CA 
+rollo
+, pp. 261-262.
+[38]
+ CIVIL CODE OF THE PHILIPPINES,  Article 2055.
+[39]
+ 
+Ace Foods. Inc. v. Micro Pacific Technologies Co., Ltd.,
+ 723 Phil. 742, 750 (2013).
+[40]
+ 498 Phil. 167 (2005).
+[41]
+ Id. at 182.
+[42]
+ Records, Vol. I, p. 13.
+[43]
+ Id. at 12.
+[44]
+ Ibid .
+[45]
+ Id. a t 14.
+[46]
+ 763 Phil. 573 (2015).
+[47]
+ Id. at 601-604.
+[48]
+ Records, Vol. I, pp. 113-115.
+[49]
+ CIVIL CODE OF THE PHILIPPINES, Article 1956.
+[50]
+ 716 Phil. 267,279 (2013); 
+See
+ also 
+Sps. Abella v. Sps. Abella
+, 763 Phil. 372, 384 (2015).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

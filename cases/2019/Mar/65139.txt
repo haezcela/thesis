@@ -1,0 +1,607 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			850 Phil. 43
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 203697, March 20, 2019 ]
+
+
+INTERPHIL LABORATORIES, INC., PETITIONER, VS. OEP PHILIPPINES, INC., RESPONDENT.
+DECISION
+
+
+
+
+REYES, A., JR., J.:
+
+
+Challenged before this Court 
+via
+ this petition for review on 
+certiorari
+[1]
+ under Rule 45 of the Rules of Court are the Decision
+[2]
+ dated October 21, 2011 of the Court of Appeals (CA) and the Resolution
+[3]
+ dated September 26, 2012, in CA-G.R. CV No. 92550, which affirmed the Decision
+[4]
+ dated January 24, 2008 of the Regional Trial Court (RTC) of Makati City, Branch 62, in Civil Case No. 03-907.
+The Antecedent Facts
+Petitioner Interphil Laboratories, Inc. (Interphil) is engaged in the business of processing and packaging of pharmaceutical and other projects. Respondent OEP Philippines, Inc. (OEP) is a corporation in the business of trading, among others, 60-, 90-, 120-, and 180-milligram Diltelan capsules.
+[5]
+Sometime in 1998, OEP and Interphil entered into a Manufacturing Agreement (Agreement)
+[6]
+ whereby Interphil undertook to process and package 90- and 120-mg Diltelan capsules for OEP under the terms and conditions stated in the Agreement.
+[7]
+ The pertinent provisions of the Agreement state:
+III. 
+INFORMATION:
+[OEP]
+[8]
+ shall furnish to 
+INTERPHIL
+ at 
+[OEP]
+'s expense, descriptions and instructions concerning the methods, formulae, and standards to be employed by 
+INTERPHIL
+ in the processing and packaging of the 
+Products
+, including such written descriptions, flow sheets, work forms, testing methods and specifications and other process data as 
+INTERPHIL
+ determines to be necessary or desirable for the proper performance of this 
+Agreement
+. x x x.
+IV. 
+PROCESSING AND PACKAGING:
+All 
+Products
+ processed by 
+INTERPHIL
+ under this 
+Agreement
+ shall be prepared and packed strictly in accordance with the formulae, processes, standards, techniques, and designs furnished by 
+[OEP]
+ to 
+INTERPHIL
+ from time to time. All materials ReÂ­packaging such products shall first be approved by 
+[OEP]
+ and no change in any packaging materials shall be made by 
+INTERPHIL
+ without the previous approval in writing of 
+[OEP]
+.
+V. 
+TESTING AND INSPECTION:
+x x x x
+INTERPHIL
+ shall conduct quality control and other tests as 
+[OEP]
+ shall specify for each of the products at 
+[OEP]
+'s cost and expense. Costs of these tests and of any special analytical equipment required shall be charged separately to 
+[OEP]
+.
+x x x x
+VI. 
+SUBSTANDARD PROCESSING OR PACKAGING:
+Should a batch or any of the 
+Products
+ fail to meet the processing or packaging standards specified by 
+[OEP]
+, 
+INTERPHIL
+ shall either correct the deficiency in such batch or destroy the batch on 
+[OEP]
+'s instructions. The expenses incurred in the correction of a deficient batch or the loss and damages resulting from the destruction of the batch shall be for the account of 
+[OEP]
+ unless the failure of the batch to meet 
+[OEP]
+'s specifications can be attributed to 
+INTERPHIL
+'s failure to observe written instructions of 
+[OEP]
+ or negligence or fault of 
+INTERPHIL
+'s personnel.
+INTERPHIL
+ agrees that it will, at all times, maintain and cause to be maintained, the highest standards of workmanship and care in its processing operations hereunder, to the end that 
+INTERPHIL
+ shall produce pure 
+Products
+ which meet the standards established by 
+[OEP]
+ or such 
+Products
+. 
+INTERPHIL
+ shall not be responsible for 
+Product
+ defects arising from the use of ingredients which have been supplied by 
+[OEP]
+.
+[9]
+ (Emphases and underlining in the original)
+Likewise, in order to comply with Section 2.2.2.1 of the Department of Health's (DOH) Administrative Order (A.O.) No. 56, Series of 1989,
+[10]
+ the parties issued a letter to the Bureau of Food and Drugs (BFD), stating:
+[P]arties hereby agree to be jointly responsible for the quality of the 
+Product
+ without prejudice to the liability after the determination of the cause in case of defect in quality.
+x x x [I]f the cause of the defect be the manufacturing process or packaging, 
+INTERPHIL
+ should assume the liability and if the cause be the formulae, process, methods, instructions or raw materials provided by 
+[OEP]
+, then the latter shall x x x assume the liability arising out of the defect.
+[11]
+ (Emphases in the original)
+After the execution of the Agreement, Interphil agreed to inspect the type and quality of the packaging supplies delivered to its plant, for which it charged OEP a "packaging materials inspection fee." From January 1999 to May 2000, Interphil accepted the delivery of several 90- and 120-mg Diltelan capsules, as well as printed foils and boxes for these capsules, for purposes of processing and packaging pursuant to the Agreement, while charging OEP for a packaging fee and the aforementioned packaging materials inspection fee, in consideration of Interphil's commitment to inspect the materials delivered. Thereafter, Interphil sorted, wrapped and boxed the capsules, and subsequently delivered the same to OEP. OEP, subsequently, delivered the capsules to its client, Orient Eropharma Co., Ltd./Elan Pharma Ltd. of Taiwan (Elan Taiwan).
+[12]
+The conflict between the parties arose on August 8, 2000, when OEP received a facsimile from Elan Taiwan informing the former that Elan Taiwan had received several urgent phone calls from certain hospitals in Taiwan regarding a defect in the packaging of several 90-mg Diltelan capsules which had been sold and delivered by Interphil. Elan Taiwan further reported that several 90-mg Diltelan capsules were inadvertently wrapped in foils meant and labeled for 120-mg Diltelan capsules and then placed in boxes meant and labeled for 90-mg Diltelan capsules.
+[13]
+OEP immediately informed Interphil of the packaging defect. Investigations conducted by both OEP and Interphil revealed that the defectively packaged capsules belonged to a single batch, Lot No. 001369, which Interphil processed and packaged in April 2000.
+[14]
+As a result of the defectively packaged capsules and the necessary reworking of the same to the public due to the danger and health risks, OEP alleges that it had no choice but to recall and destroy all capsules belonging to the aforementioned Lot No. 001369. As a consequence, this resulted in the incurring of numerous costs and expenses on the part of OEP.
+[15]
+Due to the foregoing, OEP demanded that Interphil reimburse it the total of P5,183,525.05 for the expenses that it had incurred for and in connection with the recall and destruction of these capsules, including the costs of the materials destroyed.
+[16]
+ However, Interphil refused and did not pay the amount demanded.
+Due to Interphil's refusal to pay the same, OEP filed a complaint with the RTC of Makati City. After trial, the RTC rendered a Decision
+[17]
+ in favor of OEP, finding that on the basis of the doctrine of 
+res ipsa loquitor
+, Interphil was negligent in the performance of its obligations under the Agreement, and that there was no merit in Interphil's defense that OEP, likewise, breached the Agreement in unilaterally destroying the complained-of products without observing the agreed procedure for the recall and destruction in case a defect in a certain batch of capsules is found.
+The dispositive portion of said decision reads, to wit:
+WHEREFORE
+, by preponderance of evidence, judgment is hereby rendered in favor of [OEP], ordering [INTERPHIL] to pay the former the following:
+1. Five million one hundred eighty[-]three thousand five hundred twenty[-]five & 5/100 (P5,183,525[.]05) Pesos as actual damages;
+2. Three hundred six thousand six hundred forty-eight & 81/100 (P306.648.81) Pesos as compensatory damages;
+3. One Hundred thousand (P100.000.00) Pesos as exemplary damages; and
+4. Fifty thousand (P50,000.00) Pesos as attorney's fees, costs and expenses.
+[18]
+Interphil's Motion for Reconsideration was denied in an Order
+[19]
+ issued by the RTC on August 20, 2008. On appeal to the CA, Interphil interposed the arguments that the RTC erred in both applying the 
+res ipsa loquitor
+ rule to find Interphil liable for the product conundrum, and in finding that OEP's action of unilaterally destroying the products was valid and was not imbued with any bad faith.
+[20]
+On the issue of whether or not Interphil was liable to OEP in the recall and destruction of the defectively packaged Diltelan capsules, the CA ruled in favor of OEP and affirmed the decision of the RTC.
+[21]
+ The CA found that the proximate cause for the damage incurred by OEP was the fact that Interphil erroneously packed the 90-mg Diltelan capsules in the 120-mg labeled foils, an action which was in the exclusive hands and control of Interphil.
+[22]
+The CA found that since Interphil failed to detect or rectify the erroneous packaging despite multiple opportunities to do so, it was unnecessary to delve into Interphil's allegation as to OEP's faults, since the former failed to overcome its negligence as the immediate and proximate cause of the damage.
+[23]
+ Even if OEP's possible fault would be considered, the CA held that Interphil was unable to offer substantial proof that OEP Was in bad faith with its actions, and as such, the presumption of good faith will continue to stand unless proven otherwise.
+[24]
+For the CA, OEP's act of unilaterally recalling and destroying the products, far from being a breach of the contract, was a prudent move in order to prevent any further injury to the public, considering that in the event that the products were reworked, the risk of contamination would still be present, compromising, thus, the safety of the consumers or the end-users.
+[25]
+Interphil's Motion for Reconsideration was denied in a Resolution
+[26]
+ dated September 26, 2012, as the CA found that no matter of substance was adduced by Interphil that would warrant the modification, much less the reversal, of the assailed decision.
+Hence, this Petition, to which OEP filed a Comment/Opposition
+[27]
+ on April 5, 2013, assailing not only the substantive issues brought up by Interphil, but also decrying the alleged fact that the Petition was fatally defective for failure of Interphil to serve the CA with a copy of the Petition. Interphil responded via Reply
+[28]
+ on October 4, 2013.
+The Issues of the Case
+A perusal of the parties' pleadings will show the following issues and points of contention:
+First
+, whether or not the Petition must be dismissed outright due to Interphil's failure to timely serve the CA with a copy of the Petition, as required under Rule 45 of the Rules of Court;
+Second
+, whether or not Interphil was negligent based on the doctrine of 
+res ipsa loquitor
+; and
+Third
+, whether or not OEP can, likewise, be held liable for breach of the Agreement due to its unilateral destruction of the products.
+The Parties' Arguments
+On the procedural aspect, OEP contends that Interphil failed to provide proof of service of the Petition on the CA, prior to its filing to the Court. This was admitted to by Interphil in a Manifestation 
+Ad Cautelam
+ dated March 27, 2013 that it filed with the CA, stating that a copy of the Petition was served only on the undersigned counsel but not on the CA prior, or simultaneous, to its filing with the Court. OEP also adds that, as a result, Interphil's failure to serve the CA with a copy of the Petition prompted the CA to issue an Entry of Judgment on March 8, 2013.
+[29]
+Based on the foregoing, OEP submits that the Court should dismiss the Petition outright for being fatally defective and for failing to comply with the mandatory requirements of an appeal by certiorari to the Court. OEP also points out that, despite Interphil attempting to excuse the omission by reason of supposed time constraints, it served a copy of the Petition to the CA almost five (5) months after the time that it should have served the same, or only on March 25, 2013.
+[30]
+In answer to OEP's contentions, Interphil submits that the Petition should not be dismissed on the basis of a technicality, considering that the same had been rectified through its furnishing of a copy to the CA on March 25, 2013.
+On the substantial merits, OEP argues first that this Petition improperly raises pure questions of facts, which are beyond the ambit of the Court's jurisdiction. OEP asserts the time-honored doctrine that the Court is restricted to reviewing only pure questions of law, and that the CA's, as vf/ell as the trial court's, findings of feet, evaluation and assessment of the evidence, which concur in this case, are binding and conclusive upon the Court.
+[31]
+Assuming, however, that the Court may resolve the factual questions in Interphil's petition, OEP asserts that the arguments therein are, nevertheless, erroneous, and have already been exhaustively addressed by both the trial court and the CA.
+[32]
+ Both courts found that, under the doctrine of 
+res ipsa loquitor
+, Interphil was indeed negligent and, thus, liable for damages. Likewise, both lower courts found that Interphil's mispackaging was the proximate cause of the injury sustained by OEP,
+[33]
+ and that OEP did not violate the Agreement when it unilaterally destroyed the defectively packaged capsules.
+[34]
+Interphil, on the other hand, asserts that it raises questions of law. However, even if questions of fact were raised, the same would be within the exception pronounced by the Court in the case of 
+Spouses Alcaraz v. Arante
+,
+[35]
+ the same applying when "the CA fails to notice certain relevant facts, which, if properly considered, will justify a different conclusion."
+[36]
+Critical to the case, Interphil advocates its stance that the requisites of 
+res ipsa loquitor
+ are not applicable to it. It asserts that while it had the exclusive control over the plant where the packaging was effected, it, nevertheless, had no exclusive control over the packaging materials supplied by OEP, and that the cause of the injury was the mis-splicing of the foil and, therefore, the defects in the packaging materials supplied by OEP.
+[37]
+Interphil stresses that it could not have discovered the mis-splicing of the foil even after investigation, as attested to by Mr. Francisco R. Billano,
+[38]
+ and that the inspection of the packaging materials was limited to whether the same were not deformed or in such sufficient quantity as indicated.
+[39]
+ For Interphil, OEP failed to exercise due care in providing distinguishable packaging materials to the former, and that the packaging materials were defective to begin with.
+[40]
+As a consequence of the alleged inapplicability of the 
+res ipsa loquitor
+ doctrine, Interphil asserts that OEP failed to overcome its burden of proof to establish that Interphii was negligent in performing its contractual obligations. OEP only offered the David Beff Report that points to the similarity of design of the packaging materials, which, Interphil also points out, actually emphasized that the mix up could have been initiated at the printing stage of the packaging materials.
+[41]
+Interphil, likewise, states that, even if for the sake of argument, such failure to detect the mis-splicing in the foil is indeed negligence on the part of the petitioner, such negligent act is still not the proximate cause of the injury.
+[42]
+ Any failure on the part of Interphil is argued to be due to the acts on the part of OEP that came prior to the packaging, i.e., the similarity in design of the packaging materials of 90- and 120-mg Diltelan capsules, the mis-splicing in the foil, and the alleged failure to properly flag the splices. As such, Interphil argues that its failure to detect the mix up is part of the natural and continuous sequence of events.
+Finally, Interphil accuses OEP of unilaterally destroying the products instead of possibly reworking or repackaging the same, which went contrary to the provisions of the Agreement, and without even informing Interphil or giving the latter any chance to rectify the situation.
+[43]
+ This allegedly did not only run counter to the Agreement, but also violated the law and the regulations relating to the proper destruction of the subject products, namely, A.O. No. 43, Series of 1999 as issued by the DOH.
+[44]
+On the other hand, OEP states that, as aptly found by both the RTC and the CA, Interphil was proven clearly negligent based on the doctrine of 
+res ipsa loquitor
+. For OEP, there is no doubt that the error was committed at the time of the packaging and within the control of Interphil. OEP also alleges that there is nothing in the records to show that it contributed to the incident, and that the fact of mis-splicing was never established with clear and preponderant evidence. On the contrary, the processing and packaging of said products were all in the hands of Interphil, and the latter even maintained that upon delivery of the materials to its plant, its personnel inspected the same through the procedures and using the specifications imposed by OEP.
+[45]
+On the matter of OEP allegedly violating the Agreement by unilaterally destroying the defectively packaged Diltelan capsules, OEP points to the Agreement itself which says that the same does not bar OEP from correcting or destroying the subject capsules. OEP points out that the Agreement recognizes that it is OEP that has the absolute discretion in terms of deciding what to do with the subject capsules.
+[46]
+ And, contrary to Interphil's allegations of bad faith on the part of OEP, as found by the lower courts, OEP was able to satisfactorily explain the danger and health risks posed by the defectively packaged capsules.
+[47]
+ All in all, OEP asserts that Interphil's arguments are all baseless, groundless, and not supported by evidence, as found by the lower courts in their appreciation of the facts on record.
+Ruling of the Court
+The Court first seeks to lay to rest the procedural matter as to whether or not the Petition must be dismissed outright for failure to subscribe to the requirements under Rule 45 of the Rules of Court. As previously mentioned, OEP argues in its Comment/Opposition that the Petition filed by Interphil with the Court is fatally defective for failure of Interphil to serve the CA with a copy of the Petition, an omission of its responsibility under Rule 45 of the Rules of Court, and which would necessitate the denial of the same.
+The pertinent provisions of Rule 43 of the Rules of Court read:
+Section 3.
+ 
+Docket and other lawful fees; proof of service of petition.
+ â
+Unless he has theretofore done so, the petitioner shall pay the corresponding docket and other lawful fees to the clerk of court of the Supreme Court and deposit the amount of P500.00 for costs at the time of the filing of the petition. Proof of service of a copy thereof on the lower court concerned and on the adverse party shall be submitted together with the petition.
+Section 5.
+ 
+Dismissal or denial of petition.
+ â The failure of the petitioner to comply with any of the foregoing requirements regarding the payment of the docket and other lawful fees, deposit for costs, proof of service of the petition, and the contents of and the documents which should accompany the petition shall be sufficient ground for the dismissal thereof.
+The Supreme Court may on its own initiative deny the petition on the ground that the appeal is without merit, or is prosecuted manifestly for delay, or that the questions raised therein are too unsubstantial to require consideration.
+The Court invokes liberality and rules in favor of allowing the Petition. As cited by Interphil in its Reply, in 
+Pagdonsalan v. NLRC, et al.
+:
+[48]
+The failure to give a copy of the appeal to the adverse party was a mere formal lapse, an excusable neglect. Time and again[,] We have acted on petitions to review decisions of the [CA] even in the absence of proof of service of a copy thereof to the [CA] as required by Section 1 of Rule 45, Rules of Court. We act on the petitions and simply require the petitioners to comply with the rule.
+[49]
+In a later case, 
+Sunrise Manning Agency, Inc. v. NLRC
+,
+[50]
+ the Court took the opportunity to reiterate the relaxation of the rule for excusable reasons:
+[T]he appellant's failure to furnish copy of his memorandum appeal to respondent is not a jurisdictional defect, and does not justify dismissal of the appeal. x x x
+x x x x
+Jurisprudential support is not absent to sustain Our action. In 
+Estrada vs. National Labor Relations Commission
+, G.R. 57735. March 19, 1982, 112 SCRA 688. this Court set aside the order of the NLRC which dismissed an appeal on the sole ground that the appellant had not furnished the appellee a memorandum of appeal contrary to the requirements of Article 223 of the New Labor Code and Section 9. Rule XIII of its Implementing Rules and Regulations.
+The same rule was reiterated in 
+Carnation Phil. Employees Labor Union-FFW v. NLRC
+ x x x.
+[51]
+ (Italics in the original)
+In this case, Interphil admitted to the error and belatedly, yet subsequently, rectified the same by furnishing a copy to the CA. In the mind of the Court, such an action, as well as the mantra of the country's courts to refrain from dismissing cases on mere technicalities, is enough to overcome the slight procedural infirmity. The aforestated jurisprudence and the attendant facts bolster the Court's finding.
+However, despite the lack of any procedural bar, the Court finds that Interphil's Petition is unmeritorious. The CA did not commit any grave abuse of discretion in finding Interphil liable for the defective packaging of the Diltelan capsules which caused much prejudice to OEP and the latter's client Elan Taiwan.
+Interphil is liable for the wrong packaging of Diltelan capsules.
+The simple crux of this case lies in the question of whether or not Interphil is the reason for the defective packaging that led to the prejudice of OEP's sales and its goodwill with its own client. After an examination of the pleadings of both parties, the Court finds it crystal clear that Interphil is the cause for the defective packaging, and, thus, must be held accountable for its negligence.
+Consistent with the aforementioned conclusion, the Court takes special notice that the findings of fact of both the RTC and the CA as to the liability of Interphil are the same without the slightest derogation. As such, great weight must be given to these findings, and absent any showing that there was arbitrariness, the Court will refrain from opening up and reviewing once again the facts of the case. This is in line with the rule that the Court is not a trier of facts. In a petition for review on 
+certiorari
+, the scope of the Court's judicial review is limited to reviewing only errors of law, not of fact.
+In 
+Pascual v. Burgos, et al.
+,
+[52]
+ the Court explained:
+Only questions of law may be raised in a petition for review on 
+certiorari
+. The factual findings of the [CA] bind this court. Although jurisprudence has provided several exceptions to these rules, exceptions must be alleged, substantiated, and proved by the parties so this court may evaluate and review the facts of the case. In any event, even in such cases, this court retains full discretion on whether to review the factual findings of the [CA].
+x x x x
+The [CA] must have gravely abused its discretion in its appreciation of the evidence presented by the parties and in its factual findings to warrant a review of factual issues by this court. x x x[.]
+[53]
+ (Citations omitted)
+Thus, absent any finding that the CA showed any unfairness and arbitrariness in holding that Interphil was responsible for the defective packaging, the Court is bound by the findings of fact which, at the pain of reiteration, is consistent with that of the RTC that 
+res ipsa loquitor
+ applies in this case.
+The doctrine of 
+res ipsa loquitor
+ as a matter of evidentiary proof for negligence was aptly explained and expounded on in 
+Cortel, et al. v. Gepaya-Lim
+:
+[54]
+While negligence is not ordinarily inferred or presumed, and while the mere happening of an accident or injury will not generally give rise to an inference or presumption that it was due to negligence on defendant's part, under the doctrine of 
+res ipsa loquitur
+, which means, literally, the thing or transaction speaks for itself, or in one jurisdiction, that the thing or instrumentality speaks for itself, the facts or circumstances accompanying an injury may be such as to raise a presumption, or at least permit an inference of negligence on the part of the defendant, or some other person who is charged with negligence.
+x x x Where it is shown that the thing or instrumentality which caused the injury complained of was under the control or management of the defendant, and that the occurrence resulting in the injury was such as in the ordinary course of things would not happen if those who had its control or management used proper care, there is sufficient evidence, or, as sometimes stated, reasonable evidence, in the absence of explanation by the defendant, that the injury arose from or was caused by the defendant's want of care.
+x x x x
+The elements of 
+res ipsa loquitur
+ are: (1) the accident is of such character as to warrant an inference that it would not have happened except for the defendant's negligence; (2) the accident must have been caused by an agency or instrumentality within the exclusive management or control of the person charged with the negligence complained of; and (3) the accident must not have been due to any voluntary action or contribution on the part of the person injured.
+[55]
+ (Citation omitted)
+Utilizing 
+res ipsa loquitur
+ is a matter of evidence, a mode of proof, or a mere procedural convenience, since it furnishes a substitute for, and relieves a plaintiff of the burden of producing a specific proof of negligence. It recognizes that parties may establish 
+prima facie
+ negligence without direct proof, thus, it allows the principle to substitute for specific proof of negligence. It permits the plaintiff to present along with proof of the accident, enough of the attending circumstances to invoice the doctrine, create an inference or presumption of negligence and thereby place on the defendant the burden of proving that there was no negligence on his part.
+[56]
+In this case, as argued by OEP and as found valid by both the RTC and the CA, the elements of 
+res ipsa loquitor
+ have been clearly established by the facts on record.
+First
+, it is uncontroverted that Interphil had exclusive control in the packaging of the materials, before the company delivered the same to OEP, sealed and warranted to be ready for delivery to the latter's client, Elan Taiwan. Not only did the Agreement itself serve to place Interphil's responsibilities and the degree of diligence that it must abide by, for this particular transaction, Interphil itself mentioned that upon delivery of the materials to its plant, its personnel inspected the same through the procedures and using the specifications imposed by OEP.
+[57]
+ As the records of the case show, it was Interphil's negligence that directly and proximately contributed to the incident.
+Second
+, Interphil had exclusive management and control at the time of the packaging, and as to all the processes appurtenant to the same. While Interphil argues that at least one roll of 90-mg printed foil was already mis-spliced with the 120-mg foil when it received the same from OEP, the records are bereft of any proof of this other than the bare assertion of Interphil. As already mentioned, it was admitted by Interphil that its personnel inspected the packages upon delivery, in line with its standard operating procedure which enjoins its personnel to note or report any defect found in the course of inspection.
+[58]
+Interphil even charged OEP for "packaging materials inspection fees" in consideration of the former's commitment to properly inspect the materials delivered to them, which means that any argument on the part of Interphil as to the quality of the goods received before their faulty packaging goes contrary to their own manifestations.
+Third
+, there is no contributory fault on the part of OEP. While Interphil alleges that OEP was at fault for supplying and delivering the reel/s of foils which are similar in appearance and which were not distinctly labeled with colored tape, the Court agrees with the CA that any fault there is not. the proximate and immediate cause of the damage, as it was clearly the erroneous packaging that caused OEP to recall arid destroy the products, causing much expense.
+Interphil cannot escape the finding of negligence by attempting to cast shade on the possible liability of OEP, especially after its own warranties as to the pristine condition of the packaging. The letter the parties issued to the BFD itself states that if the cause of the defect be the manufacturing process or packaging, it will be Interphil which shall assume the liability.
+Absent any showing of infirmity in the appreciation of evidence of the lower courts in this regard, the Court cannot subscribe to the version of events as posited by Interphil, especially, as this has been soundly rebutted by the actual evidence on record.
+No bad faith or contributory fault can be attributed to OEP due to its unilateral destruction of the products.
+Notwithstanding its own negligence, Interphil accuses OEP for unilaterally destroying the products without informing Interphil nor giving a chance to the latter to rectify the same, in contravention of the Agreement. In effect, Interphil pins liability on OEP on the basis of 
+culpa
+ contractual, or a breach of contract, particularly Section VI of the Agreement.
+On 
+culpa
+ contractual, Article 1170 of the Civil Code states that those who in the performance of their obligations are guilty of fraud, negligence or delay and those who in any manner contravene the tenor thereof are liable for damages. Explaining the same further, the Court, in 
+RCPI v. Verchez
+,
+[59]
+ stated:
+In culpa contractual the mere proof of the existence of the contract and the failure of its compliance justify, 
+prima facie
+, a corresponding right of relief. The law, recognizing the obligatory force of contracts, will not permit a party to be set free from liability for any kind of misperformance of the contractual undertaking or a contravention of the tenor thereof. A breach upon the contract confers upon the injured party a valid cause for recovering that which may have been lost or suffered. The remedy serves to preserve the interests of the promissee that may include his expectation interest, which is his interest in having the benefit of his bargain by being put in as good a position as he would have been in had the contract been performed, or his reliance interest, which is his interest in being reimbursed for loss caused by reliance on the contract by being put in as good a position as he would have been in had the contract not been made; or his restitution interest, which is his interest in having restored to him any benefit that he has conferred on the other party.
+[60]
+In this case, the Court finds that OEP sufficiently rebutted the presumption of fault and/or negligence. Not only is the finding of the CA correct that the provisions cited by Interphil do not bar OEP from exercising discretion when it comes to the destruction of defectively packaged capsules as in this case, OEP was able to show that it needed to do so immediately because of the danger and health risks posed to the public due to the wrong packaging. What was at stake is not only the good reputation of a company, but also the possibility of prejudicing consumers who could be adversely-affected by the incorrect content of the capsules, and it would be a matter of recklessness to do anything but urgently recall the same from public distribution. If OEP would have spent precious time corresponding with Interphil or allowing the latter to fix the matter, it would have just aggravated an already precarious situation.
+Thus, the CA did not err in treating OEP's action as a prudent move to prevent against the risk of contamination, contamination which would compromise the safety of the consumers or end-users. No bad faith is present in OEP's decision to recall and destroy the products. The Court reminds the parties of the statutory presumption of good faith, and, absent any valid rebuttal of the same on the part of Interphil, that presumption will stand. As with its previous arguments, Interphil has been unable to validly counter nor adduce evidence which would militate against its clear fault and liability, and in doing so overcome its burden to show that the findings of fact and conclusions of law from the RTC and the CA were found wanting.
+Interphil is liable for damages.
+The Court finds that Interphil is liable for actual damages to OEP, the latter pleading in its complaint and able to substantiate the amounts owed to them as a result of the costs and expenses it incurred in the amount of P5,183,525.05 and the profits it failed to realize due to the gross negligence of Interphil in the amount of P306,648.81 as compensatory damages.
+[61]
+While OEP incorrectly distinguished the damages as two separate entities, as in this jurisdiction actual and compensatory damages are one and the same, this is largely a matter of semantics and the Court finds that OEP was able to prove the amounts owed to them, as found by the RTC and concurred in by the CA. In 
+CasiÃ±o, Jr. v. CA
+,
+[62]
+ the Court ruled that actual or compensatory damages may be awarded to reimburse an awardee for either loss or the failure to receive a benefit that would have pertained to said awardee, such as loss of profits. To wit:
+Under Articles 2199 and 2200 of the Civil Code, actual or compensatory damages are those awarded in satisfaction of or in recompense for loss or injury sustained. They proceed from a sense of natural justice and are designed to repair the wrong that has been done.
+[63]
+ (Citation omitted)
+Citing 
+Producers Bank of the Philippines v. CA
+,
+[64]
+ the Court, in the subsequent case of 
+Terminal Facilities & Services Corp. v. Philippine Ports Authority
+,
+[65]
+ ruled:
+There are two kinds of actual or compensatory damages: one is the loss of what a person already possesses, and the other is the failure to receive as a benefit that which would have pertained to him x x x. In the latter instance, the familiar rule is that damages consisting of unrealized profits, frequently referred as "
+ganacias frustradas
+" or "
+lucrum cessans
+" are not to be granted on the basis of mere speculation, conjecture, or surmise, but rather by reference to some reasonably definite standard such as market value, established experience, or direct inference from known circumstances x x x.
+[66]
+Absolute certainty, however, is not necessary to establish the amount of 
+ganacias frustradas
+ or 
+lucrum cessans
+. As the Court has said in 
+Producers Bank of the Philippines
+:
+[67]
+When the existence of a loss is established, absolute certainty as to its amount is not required. The benefit to be derived from a contract which one of the parties has absolutely failed to perform is of necessity to some extent, a matter of speculation, but the injured party is not to be denied for that reason alone. He must produce the best evidence of which his case is susceptible and if that evidence warrants the inference that he has been damaged by the loss of profits which he might with reasonable certainty have anticipated but for the defendant's wrongful act, he is entitled to recover. x x x.
+[68]
+Interphil is also liable for exemplary damages. Under Article 2232 of the Civil Code, the court may award exemplary damages if the defendant in a contract or a quasi-contract acted in a wanton, fraudulent, reckless, oppressive, or malevolent manner. In 
+Arco Pulp and Paper Co., Inc., et al. v. Lim
+[69]
+ the Court expounded, thus:
+The purpose of exemplary damages is to serve as a deterrent to future and subsequent parties from the commission of a similar offense. The case of 
+People v. Rante
+ citing 
+People v. Dalisay
+ held that:
+Also known as 'punitive' or 'vindictive' damages, exemplary or corrective damages are intended to serve as a deterrent to serious wrong doings, and as a vindication of undue sufferings and wanton invasion of the rights of an injured or a punishment for those guilty of outrageous conduct. These terms are generally, but not always, used interchangeably. In common law, there is preference in the use of exemplary damages when the award is to account for injury to feelings and for the sense of indignity and humiliation suffered by a person as a result of an injury that has been maliciously and wantonly inflicted, the theory being that there should be compensation for the hurt caused by the highly reprehensible conduct of the defendantâassociated with such circumstances as willfulness, wantonness, malice, gross negligence or recklessness, oppression, insult or fraud or gross fraudâthat intensifies the injury. The terms punitive or vindictive damages are often used to refer to those species of damages that may be awarded against a person to punish him for his outrageous conduct. In either case, these damages are intended in good measure to deter the wrongdoer and others like him from similar conduct in the future. x x x
+[70]
+ (Citation and emphases in the original deleted)
+While Interphil did not necessarily act in a willful, malicious, or wanton manner, it is clear that it was grossly negligent in its defective packaging. This gross negligence not only prejudiced the contractual relationship between the parties, but also endangered the health of the end consumers who received the packages, seen in the fact that the hospitals themselves sent notice of the infirmity after receiving the defective items. Therefore, the Court adheres to the findings of the lower courts that Interphil is also liable for exemplary damages to serve as a warning to the public to be more circumspect when it comes to product handling, particularly those involving the health and safety of the consumers.
+On the matter of attorney's fees, OEP's entitlement thereto is beyond caveat as it was compelled to litigate and, thus, incurred expenses thereto.
+WHEREFORE
+, the Decision dated October 21, 2011, and the Resolution dated September 26, 2012, of the Court of Appeals in CA-G.R. CV No. 92550, affirming the Decision dated January 24, 2008 of the Regional Trial Court of Makati City, Branch 62, in Civil Case No. 03-907, are 
+AFFIRMED WITH MODIFICATION
+ in that an interest rate of six percent (6%) 
+per annum
+ is imposed on all damages awarded from the date of finality of this Decision until fully paid.
+SO ORDERED.
+Peralta, (Chairperson), Leonen, Hernando
+, and 
+Carandang
+,
+*
+ 
+JJ.
+, concur.
+*
+ Designated as additional Member per Special Order No. 2624 dated November 28, 2018.
+[1]
+ 
+Rollo
+, pp. 3-34.
+[2]
+ Penned by Associate Justice Francisco P. Acosta, with Associate Justices Vicente S.E. Veloso and Angelita A. Gacutan, concurring; id. at 36-52.
+[3]
+ Id. at 55-56.
+[4]
+ Rendered by Judge Selma Palacio Alaras; id. at 270-278.
+[5]
+ Id. at 37.
+[6]
+ Id. at 58-67.
+[7]
+ Id. at 37.
+[8]
+ Note: Formerly known as ELAN PHARMACEUTICAL CORPORATION, and referred to as ELAN in the Agreement. For purposes of consistency, the newest name OEP has been used for purposes of this Decision.
+[9]
+ 
+Rollo
+, pp. 59-60.
+[10]
+ 2.2 
+Specific Requirements:
+Any entity applying for [an] LTO as a drug manufacturer, drug trader or drug distributor shall be required to demonstrate its capacity to perform adequately as such in a manner that satisfactorily assures the safety, efficacy and quality of its drug products. It shall be required to conform with the following relevant standards and requirements specific for each category, in addition to the above general requirements[.]
+[11]
+ 
+Rollo
+, p. 145.
+[12]
+ Id. at 40.
+[13]
+ Id.
+[14]
+ Id.
+[15]
+ Id.
+[16]
+ Id. at 40-41.
+[17]
+ Id. at 270-278.
+[18]
+ Id. at 278.
+[19]
+ Id. at 311.
+[20]
+ Id. at 43.
+[21]
+ Id.
+[22]
+ Id. at 45.
+[23]
+ Id. at 46.
+[24]
+ Id. at 51.
+[25]
+ Id.
+[26]
+ Id. at 55-56.
+[27]
+ Id. at 432-456.
+[28]
+ Id. at 473-481.
+[29]
+ Id. at 433.
+[30]
+ Id. at 434.
+[31]
+ Id. at 436.
+[32]
+ Id. at 441.
+[33]
+ Id. at 449.
+[34]
+ Id. at 450.
+[35]
+ 700 Phil. 614 (2012).
+[36]
+ Id. at 624-625.
+[37]
+ 
+Rollo
+, pp. 12-13.
+[38]
+ Id. at 13.
+[39]
+ Id. at 14.
+[40]
+ Id. at 17.
+[41]
+ Id. at 17-18.
+[42]
+ Id. at 21.
+[43]
+ Id. at 22.
+[44]
+ Id. at 24.
+[45]
+ Id. at 443-445.
+[46]
+ Id. at 451. 
+[47]
+ Id. at 453.
+[48]
+ 212 Phil. 426 (1984).
+[49]
+ Id. at 430.
+[50]
+ 485 Phil. 426 (2004).
+[51]
+ Id. at 431.
+[52]
+ 776 Phil. 167 (2016).
+[53]
+ Id. at 169, 185.
+[54]
+ 802 Phil. 779 (2016).
+[55]
+ Id. at 787-788.
+[56]
+ 
+Del Carmen, Jr. v. Bacoy
+, 686 Phil. 799, 814-815 (2012).
+[57]
+ 
+Rollo
+, p. 445.
+[58]
+ Id. at 444.
+[59]
+ 516 Phil. 725 (2006).
+[60]
+ Id. at 735.
+[61]
+ 
+Rollo
+, p. 273.
+[62]
+ 507 Phil. 59 (2005).
+[63]
+ Id. at 72-73.
+[64]
+ 417 Phil. 646 (2001).
+[65]
+ 428 Phil. 99 (2002). 
+[66]
+ Id. at 138.
+[67]
+ Supra.
+[68]
+ Id. at 660, citing 
+Central Bank of the Phils, v. CA
+, 159-A Phil. 21, 50-51 (1975).
+[69]
+ 737 Phil. 133 (2014).
+[70]
+ Id. at 152-153.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)
