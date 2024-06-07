@@ -1,0 +1,615 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 230104, March 16, 2022 ]
+
+
+BUREAU OF INTERNAL REVENUE, 
+PETITIONER, VS.
+ SAMUEL B. CAGANG, 
+RESPONDENT
+.
+D E C I S I O N
+
+
+
+
+HERNANDO, J.:
+
+
+This Petition for Review on 
+Certiorari
+[1]
+ seeks the reversal of the June 27, 2016 Decision
+[2]
+ and the February 6, 2017 Resolution
+[3]
+ of the Court of Appeals (CA) in CA-G.R. SP No. 132453, which annulled and set aside the August 13, 2013 Resolution
+[4]
+ of the Department of Justice (DOJ) in NPS No. XVI-INV-09H-00602. The said DOJ Resolution found probable cause and recommended the filing of a criminal information against herein respondent Samuel B. Cagang (Cagang) and Romulo M. Paredes (Paredes) as treasurer and president, respectively, of CEDCO, Inc. (CEDCO) for their alleged violation of Section 255 of the National Internal Revenue Code (NIRC).
+[5]
+The Facts:
+On March 4, 2003, CEDCO received from the BIR a letter of authority (LOA) dated February 20, 2003, purportedly authorizing certain persons named therein to examine CEDCO's books of accounts and other accounting records.
+[6]
+ Based on the letter, the examination was supposed to cover taxable years 1997 to 2001.
+[7]
+On April 14, 2003, CEDCO sought the cancellation of the LOA. In a letter of even date, CEDCO pointed out that its records had been examined yearly by the BIR. It also emphasized that it had availed of the Voluntary Assessment and Abatement Program for taxable years 2000 and 2001, and that it had already paid all deficiency taxes against it. Further, CEDCO informed the BIR that its records from 1997 to 2000 were no longer available for examination, as it had already disposed of the same pursuant to Section 235 of the NIRC.
+[8]
+ However, the BIR denied CEDCO's request. Thus, CEDCO had to submit all of its available records to the BIR.
+[9]
+On May 24, 2005, CEDCO received a Preliminary Assessment Notice (PAN) dated May 3, 2005. CEDCO was assessed the following taxes for taxable years 2000 and 2001: (a) income tax; (b) Value-Added Tax (VAT); (c) expanded withholding tax; and (d) withholding tax on compensation.
+[10]
+CEDCO protested the said assessment through its letters dated June 5, 2005 and August 17, 2005.
+[11]
+ Despite such protests, the BIR still issued a Formal Letter of Demand (FLD) dated December 9, 2005,
+[12]
+ with attached details of the discrepancies and assessment notices of even date,
+[13]
+ demanding payment by CEDCO of the supposed deficiency taxes in the amount of P126,564,315.98 covering taxable years 2000 and 2001.
+[14]
+ In a letter dated February 8, 2006,
+[15]
+ CEDCO, through Cagang, as Director for Administration & Finance, appealed or protested the FLD/Final Assessment Notice (FAN).
+[16]
+ Nonetheless, BIR issued a Final Decision on Disputed Assessment (FDDA) dated September 28, 2007, which denied CEDCO's protest, to wit:
+Referring to your letter dated February 8, 2006[,] please be informed that your protest against our deficiency taxes for the taxable years 2000 and 2001 involving the amounts of P105,020,061.50 and P21,544,254.48, respectively, the subject matter of our covering letter of demand dated November 10, 2005, is hereby denied for lack of factual and legal basis. There were no additional documents presented to us that would dispute the issues raised against you.
+x x x x
+The records of this case showed that you have not substantially introduced any evidenced (sic) to overthrow the validity of our said findings, thus your protest was considered void and without force and effect.
+[17]
+Based on the FDDA, CEDCO had the following tax liabilities:
+ 
+ 
+ 
+ 
+ 
+2000 
+ 
+ 
+2001 
+ 
+ 
+ 
+ Income Tax 
+ 
+ 
+75,284,998.00 
+ 
+ 
+15,245,561.59 
+ 
+ 
+ 
+ Expanded Withholding Tax 
+ 
+ 
+503,356.34 
+ 
+ 
+136,096.91 
+ 
+ 
+ 
+ Value-Added Tax (VAT) 
+ 
+ 
+29,231,707.16 
+ 
+ 
+6,013,703.82 
+ 
+ 
+ 
+ Withholding Tax Compensation 
+ 
+ 
+ 
+ 
+148,892.16
+[18]
+ 
+ 
+Subsequently, on November 28, 2007, CEDCO availed of the tax amnesty under Republic Act No. (RA) 9480.
+[19]
+ The amnesty granted by the law covered "all national internal revenue taxes for the taxable year 2005 and prior years, with or without assessments duly issued therefor, and that have remained unpaid as of December 31, 2005 x x x."
+[20]
+ On the same date, CEDCO filed its tax amnesty payment form. CEDCO then paid the amnesty tax the following day.
+[21]
+In a collection letter dated June 24, 2008, the BIR directed CEDCO to pay its tax liabilities based on the FDDA.
+[22]
+ For CEDCO's failure to settle its tax obligations, a complaint-affidavit dated August 14, 2009 was filed against Cagang and Paredes for violation of Section 255 of the NIRC.
+[23]
+ In the said complaint-affidavit, Cagang and Paredes, in their official capacities as CEDCO's treasurer and president, respectively, were charged with the alleged willful failure to pay CEDCO's deficiency taxes for taxable years 2000 and 2001.
+[24]
+Ruling of the Department of
+Justice â National Prosecution
+Service (NPS).
+After due hearing and the submission of the required pleadings by the parties, the DOJ-NPS Task Force on Revenue Cases, through its Resolution
+[25]
+ dated March 12, 2010, resolved to dismiss the complaint against Cagang and Paredes for lack of probable cause. It ruled that the filing of the complaint before the Prosecutor's Office or with the Office of the Chief State Prosecutor for purposes of preliminary investigation is not the one contemplated in RA 9480 as "pending criminal cases for tax evasion and other criminal cases" which has the effect of disqualifying a person or entity from availing of the immunity under the law. Essentially, the DOJ-NPS made a distinction between: (1) those cases for tax evasion where an Information had already been filed in court; and (2) those which are merely pending before the prosecutor's office.
+[26]
+ The dispositive portion of the Resolution states:
+WHEREFORE
+, premises considered, it is respectfully recommended that the instant complaint be 
+DISMISSED
+ for lack of probable cause.
+[27]
+The BIR then filed a motion for reconsideration but the DOJ-NPS denied the same for lack of merit through its Resolution dated January 5, 2011.
+[28]
+Ruling of the Secretary of
+Justice:
+Undaunted, the BIR filed before the Secretary of Justice a petition for review
+[29]
+ dated March 30, 2011, challenging the ruling of the DOJ-NPS. The petition was denied in a Resolution
+[30]
+ dated February 27, 2012. According to Undersecretary Francisco F. Baraan III, the issues raised therein were "mere duplications of the issues raised in the motion for reconsideration which have already been discussed in the assailed resolution."
+[31]
+ The BIR moved for another reconsideration,
+[32]
+ which was granted in a Resolution
+[33]
+ dated August 13, 2013 by then Secretary of Justice Leila M. De Lima.
+The August 13, 2013 Resolution explained that, "the questioned interpretation that the term 'pending criminal cases' referred to in the implementing rules means only those already filed in court cannot prevail with what is expressly set forth in the said implementing rule as those 'filed in Court or in the Department of Justice.' Hence, the dismissal of the complaint was premised on an unfounded interpretation of the implementing rule in question."
+[34]
+Consequently, the Secretary of Justice found probable cause for the filing of an information against Cagang and Paredes for violation of Section 255 of the NIRC. The 
+fallo
+ of the Resolution reads:
+WHEREFORE
+, the assailed resolutions are hereby 
+REVERSED AND SET ASIDE
+. Accordingly, the investigating prosecutor concerned is hereby 
+DIRECTED
+ to file the corresponding Information/s against the respondents for violation of Section 255 of the NIRC before the proper court of jurisdiction and to report the action taken hereon within ten (10) days from receipt hereof.
+SO ORDERED
+.
+[35]
+Aggrieved, Cagang filed a petition for 
+certiorari
+ with prayer for temporary restraining order and/or writ of preliminary injunction
+[36]
+ dated October 24, 2013 before the CA, raising the following grounds:
+The Department of Justice acted with grave abuse of discretion amounting to lack or excess of jurisdiction in reversing its Resolution Dated February 27, 2012.
+I. The Department of Justice ignored essential facts on record showing that Petitioner cannot be prosecuted for alleged willful refusal to pay CEDCO Inc.'s taxes, as follows:
+A. CEDCO Inc. had availed of the tax amnesty under R.A. No. 9480 and is therefore not required to pay tax.
+B. CEDCO Inc. is qualified to immunity from criminal penalties under the NIRC arising from the failure to pay taxes. BIR's complaint dated August 14, 2009 was not yet existing when R.A. No. 9480 took effect.
+C. Petitioner was not a corporate officer or employee who was responsible for the payment of CEDCO Inc.'s tax obligations.
+II. The Resolution dated February 27, 2012 was already final and executory when BIR filed its Motion for Reconsideration dated March 23, 2012.
+[37]
+Meanwhile, Informations were filed against Cagang and Paredes before the Court of Tax Appeals (CTA) on February 11, 2014. They were accused of alleged willful refusal to pay income tax and VAT for taxable years 2000 and 2001, in violation of Section 255 in relation to Sections 253 (d) and 256 of the NIRC, as amended. The cases, entitled "People of the Philippines v. Romulo M. Paredes and Samuel B. Cagang," were docketed as Criminal Cases Nos. 0-350 to 0-353. The Informations were later amended to include CEDCO as one of the accused.
+[38]
+Subsequently, on September 17, 2014, Informations were also filed against Cagang and Paredes before the Regional Trial Court of Cebu City. This time, they were accused of alleged willful refusal to pay expanded withholding tax for taxable years 2000 and 2001 and withholding tax on compensation for taxable year 2001 of CEDCO, in violation of Section 255 in relation to Sections 253(d) and 256 of the NIRC, as amended. The cases, entitled, "People of the Philippines v. Romulo M. Parades and Samuel B. Cagang," were docketed as Criminal Cases Nos. CBU-105579 to 105581.
+[39]
+Ruling of the Court of Appeals:
+In a Decision
+[40]
+ dated June 27, 2016, the CA granted Cagang's petition. It held that the Secretary of Justice acted with grave abuse of discretion amounting to lack or excess of jurisdiction when it found probable cause to charge Cagang with the violation of Section 255 of the NIRC.
+[41]
+ The CA found that CEDCO was qualified to avail of the tax amnesty under RA 9480 and that Cagang cannot be held liable.
+[42]
+ The dispositive portion of the Decision reads:
+WHEREFORE
+, the petition is 
+GRANTED
+. The Resolution dated August 13, 2013 of the Department of Justice in 
+NPS No. XVI-INV-09H-00602
+ is hereby 
+ANNULLED
+ and 
+SET ASIDE
+. Accordingly, its Resolution dated February 27, 2012 which sustained the Resolution dated March 12, 2010 of the Task Force on Revenue Cases 
+DISMISSING
+ the complaint against petitioner Samuel B. Cagang is hereby 
+REINSTATED
+.
+SO ORDERED
+.
+[43]
+The DOJ and BIR then filed their motion for reconsideration
+[44]
+ dated July 25, 2016, but the same was denied by the CA through its Resolution dated February 6, 2017 for lack of merit.
+[45]
+Hence, the present petition, where the BIR, through the Office of the Solicitor General (OSG), posits that: (1) CEDCO is disqualified from availing of the tax amnesty provision of RA 9480 due to its existing withholding tax liabilities; and (2) there is probable cause to charge Cagang with violation of Section 255 of the NIRC, as amended, insofar as he failed to cause the payment of the withholding taxes due the government.
+[46]
+Issues
+The issues to be determined in the present case are whether: (1) CEDCO is entitled to avail of the tax amnesty under RA 9480; and (2) there is probable cause to charge Cagang with the violation of Section 255 of the NIRC.
+Our Ruling
+The petition is meritorious.
+Tax amnesty refers to the "absolute waiver by a sovereign of its right to collect taxes and power to impose penalties on persons or entities guilty of violating a tax law. Tax amnesty aims to grant a general reprieve to tax evaders who wish to come clean by giving them an opportunity to straighten out their records."
+[47]
+ Simply put, it partakes of an absolute relinquishment by the government of its right to collect what is due it and to give tax evaders who wish to relent a chance to start with a clean slate.
+[48]
+In 2007, Congress enacted RA 9480, which granted a tax amnesty covering "all national internal revenue taxes for the taxable year 2005 and prior years, with or without assessments duly issued therefor, that have remained unpaid as of December 31, 2005."
+[49]
+ These national internal revenue taxes include (a) income tax; (b) VAT; (c) estate tax; (d) excise tax; (e) donor's tax; (f) documentary stamp tax; (g) capital gains tax; and (h) other percentage taxes.
+[50]
+ Pursuant to Section 6 of RA 9480, those who availed themselves of the benefits of the law became "immune from the payment of taxes, as well as additions thereto, and the appurtenant civil, criminal or administrative penalties under the National Internal Revenue Code of 1997, as amended, arising from the failure to pay any and all internal revenue taxes for taxable year 2005 and prior years."
+[51]
+However, RA 9480 is not without exceptions. Section 8 of the said law enumerates those persons and cases that are not covered by the law, 
+viz
+.:
+Section 8. 
+Exceptions
+. â The tax amnesty provided in Section 5 hereof shall not extend to the following persons or cases 
+existing as of the effectivity of RA 9480
+:
+(a) Withholding agents with respect to their withholding tax liabilities;
+(b) Those with pending cases falling under the jurisdiction of the Presidential Commission on Good Government;
+(c) Those with pending cases involving unexplained or unlawfully acquired wealth, revenue or income under the Anti-Graft and Corrupt Practices Act;
+(d) Those with pending cases filed in court involving violation of the Anti-Money Laundering Law;
+(e) Those with pending criminal cases for tax evasion and other criminal offenses under Chapter II of Title X of the National Internal Revenue Code of 1997, as amended, and the felonies of frauds, illegal exactions and transactions, and malversation of public funds and property under Chapters III and IV of Title VII of the Revised Penal Code; and
+(f) Tax cases subject of final and executory judgment by the courts.
+Meanwhile, the Department of Finance's Department Order No. 29-07, which provides for the Implementing Rules and Regulations of RA 9480, states that:
+Section 5. Exceptions. â The tax amnesty shall not extend to the following persons or cases 
+existing as of the effectivity of this Act
+:
+(a) Withholding agents with respect to their withholding tax liabilities;
+(b) Those with pending cases falling under the jurisdiction of the Presidential Commission on Good Government;
+(c) Those with pending cases involving unexplained or unlawfully acquired wealth or under the Anti-Graft and Corrupt Practices Act;
+(d) Those with pending cases filed in court involving violation of the Anti-Money Laundering Law;
+(e) Those with pending criminal cases filed in court or in the Department of Justice for tax evasion and other criminal offenses under Chapter II of Title X of the National Internal Revenue Code of 1997, as amended;
+(f) Tax cases subject of final and executory judgment by the courts.
+From the foregoing, it is crystal clear that withholding taxes are not covered by the amnesty program. Thus, there is merit in the BIR's submission that CEDCO is not qualified to avail of the tax amnesty with respect to its withholding tax liabilities. The Court does not agree with the CA's findings that "CEDCO was assessed by the BIR, not as a withholding agent that failed to withhold and/or remit some of its tax liabilities but as one that was directly liable for the tax and failed to pay the same on time"
+[52]
+ and "CEDCO's tax deficiencies involve indirect taxes such as VAT and other excise taxes, not withholding taxes."
+[53]
+ A perusal of the records reveals that as early as September 28, 2007, CEDCO had been assessed by the BIR for its failure to withhold taxes and to remit the same to the government, as shown by the FDDA:
+TAXABLE YEAR 2000
+2. EXPANDED WITHHOLDING TAX â (P503,356.34)
+Verification disclosed that you have failed to comply with Section 57 of the NIRC, as amended which require the withholding of a tax on the items of income payable to natural or juridical persons by payor-corporation/persons.
+Section 57 â 
+"Withholding of Creditable Tax at Source"
+ â The Secretary of Finance may, upon the recommendation of the Commissioner, require the withholding of a tax on the items of income (underscore ours) payable to natural juridical persons, residing in the Philippines, by payor-corporations/persons as provided by law......
+You have admitted to the fact that payment of all monthly billings were paid by the government agency to CEDCO account, which is alleged a Project Office account, net of corresponding withholding taxes. This is so because the government agency has to comply with Sec.57(B) of the NIRC. Payments of DPWH constitutes a taxable income on the part of the recipients, the members of the consortium.
+[54]
+TAXABLE YEAR 2001
+2. EXPANDED WITHHOLDING TAX â (P136,096.91)
+Verification disclosed that you have failed to comply with Section 57 of the NIRC, as amended which require the withholding of a tax on the items of income payable to natural or juridical persons by payor-corporation/persons.
+x x x x
+4. WITHHOLDING TAX ON COMPENSATION â (P 148,892.16)
+Verification disclosed that you have failed to comply with Section 79 of the NIRC, as amended which require every employer making payment of wages to deduct and withhold the tax as prescribed by law. Investigation disclosed that salaries & wages claimed per F/S amounting to P640,638.00 were not subjected to withholding tax.
+[55]
+As such, while the CA was correct in ruling that "there was no pending case yet against CEDCO whether before the courts of justice or at the prosecutor's office"
+[56]
+ considering that the complaint-affidavit was filed on August 14, 2009, and the 2007 Tax Amnesty Law took effect on May 24, 2007 which CEDCO availed of on November 28, 2007,
+[57]
+ CEDCO is nevertheless disqualified to avail of the tax amnesty for its withholding tax liabilities in accordance with Section 8(a) of RA 9480 and Section 5(a) of its IRR.
+A tax amnesty, much like a tax exemption, is never favored or presumed in law. The grant of a tax amnesty, similar to a tax exemption, must be construed strictly against the taxpayer and liberally in favor of the taxing authority.
+[58]
+ Here, the Court finds that the tax amnesty under RA 9480 does not extend to CEDCO with respect to its existing withholding tax liabilities, as explicitly provided in the said law.
+However, with respect to the deficiency taxes pertaining to CEDCO's income tax and VAT for taxable years for 2000 and 2001, the Court finds that CEDCO is entitled or qualified to avail of the tax amnesty considering that it had submitted the necessary documents and complied with the requirements under RA 9480,
+[59]
+ which the BIR does not dispute.
+Moreover, the Court is not unmindful of the CTA's Resolution dated February 11, 2014 in Criminal Cases Nos. 0-350 to 0-353 where the tax court granted Cagang and Paredes' demurrer to evidence and dismissed, for insufficiency of the prosecution's evidence, the charges against them for willful refusal to pay income tax and VAT for taxable years 2000 and 2001.
+[60]
+ The said CTA Resolution became final and executory and was entered in the CTA's Book of Judgments on February 4, 2016.
+[61]
+Hence, CEDCO's outstanding deficiency taxes for income tax and VAT for taxable years 2000 and 2001 are deemed fully settled pursuant to its availment of the tax amnesty program under RA 9480.
+Anent the second issue as to whether there is probable cause to charge Cagang for the violation of Section 255 of the NIRC, the Court rules in the affirmative. Section 255 states:
+SEC. 255. 
+Failure to File Return, Supply Correct and Accurate Information, Pay Tax, Withhold and Remit Tax and Refund Excess Taxes Withheld on Compensation
+. â Any person required under this Code or by rules and regulations promulgated thereunder to pay any tax, make a return, keep any record, or supply correct and accurate information, who willfully fails to pay such tax, make such return, keep such record, or supply such correct and accurate information, or withhold or remit taxes withheld, or refund excess taxes withheld on compensation at the time or times required by law or rules and regulations shall, in addition to other penalties provided by law, upon conviction thereof, be punished by a fine of not less than Ten thousand pesos (P10,000.00) and suffer imprisonment of not less than one (1) year but not more than ten (10) years.
+In relation to this, Section 253(d) enumerates who can be found responsible or criminally liable for violations of the NIRC, to wit:
+SEC. 253. General Provisions. -
+x x x x
+(d) In the case of associations, partnerships or corporations, the penalty shall be imposed on the partner, president, general manager, branch manager, treasurer, officer-in-charge, and the employees responsible for the violation.
+In the present case, Cagang was charged with the alleged willful failure to pay CEDCO's deficiency taxes for taxable years 2000 and 2001 under Section 255 of the NIRC as the purported treasurer of CEDCO. However, Cagang contends that he cannot be held liable because he was never appointed as the company's treasurer. He claimed he held the positions of Corporate Secretary and Director of Finance, which are not included under the enumeration of corporate officers under Section 253 (d) of the NIRC.
+The Court is not convinced.
+A review of the records would reveal that evidence exists that Cagang was appointed by CEDCO's Board of Directors as "the New Corporate Secretary/Treasurer effective April 1, 1999" per Board Resolution No. 73.
+[62]
+ Moreover, a certification dated June 26, 2000 shows that a certain Glory M. Dela Cruz became treasurer of CEDCO.
+[63]
+ Further, the General Information Sheet filed with the Securities and Exchange Commission for the fiscal year 2003 also shows that Cagang was the treasurer for CEDCO.
+[64]
+Based on the foregoing facts, the Court is inclined to agree with BIR that there exists probable cause to charge Cagang with violation of Section 255 of the NIRC as he was, albeit for short period, the treasurer for CEDCO, to wit:
+The foregoing evidence shows that respondent Cagang was the treasurer of CEDCO Inc. in April 1999, and that this was only interrupted on June 26, 2000 when Glory Dela Cruz was appointed Treasurer. Under this circumstance, respondent has practically admitted the fact that he was still the Treasurer from January to June 25, 2000. Bearing in mind the above-quoted provisions of the NLRC on withholding tax, it is clear that respondent had the obligation to pay such tax obligation of CEDCO, Inc. for the first quarter of 2000 within twenty-five (25) days from the close of [the] calendar quarter.
+[65]
+Probable cause has been defined as the existence of such facts and circumstances as would excite the belief in a reasonable mind, acting on the facts within the knowledge of the prosecutor, that the person charged was guilty of the crime for which he was prosecuted. The term does not mean "actual or positive cause" nor does it import absolute certainty. It is merely based on opinion and reasonable belief. Thus, a finding of probable cause does not require an inquiry into whether there is sufficient evidence to procure a conviction. It is enough that it is believed that the act or omission complained of constitutes the offense charged. 
+Precisely, there is a trial for the reception of evidence of the prosecution in support of the charge
+.
+[66]
+WHEREFORE,
+ premises considered, the petition is 
+GRANTED
+. The June 27, 2016 Decision and the February 6, 2017 Resolution of the Court of Appeals in CA-G.R. SP No. 132453 are 
+ANNULLED AND SET ASIDE
+.
+SO ORDERED.
+Perlas-Bernabe, S.A.J. (Chairperson), Zalameda, J. Lopez,
+*
+ and 
+Marquez, JJ.,
+ concur.
+*
+ Per March 7, 2022 Raffle vice J. Rosario who concurred in the assailed CA Decision.
+[1]
+ 
+Rollo
+, pp. 14-34.
+[2]
+ Id. at 39-48. Penned by Associate Justice Edwin D. Sorongon and concurred in by Associate Justices Ricardo R. Rosario (now a Member of this Court) and Marie Christine Azcarraga-Jacob.
+[3]
+ 
+Id
+. at 49-51.
+[4]
+ 
+Id
+. at 90-93.
+[5]
+ 
+Id
+. at 39.
+[6]
+ 
+Id
+. at 62.
+[7]
+ 
+Id
+.
+[8]
+ 
+Id
+. at 63.
+[9]
+ 
+Id
+.
+[10]
+ 
+Id
+. at 64.
+[11]
+ 
+Id
+. at 64-65.
+[12]
+ CA 
+rollo
+, pp. 99-102.
+[13]
+ 
+Id
+. at 103-108; 
+rollo
+, p. 40.
+[14]
+ 
+Rollo
+, p. 65.
+[15]
+ CA 
+rollo
+, pp. 110-115.
+[16]
+ 
+Rollo
+, p. 66.
+[17]
+ CA 
+rollo
+, pp. 116-120.
+[18]
+ 
+Rollo
+, p. 822.
+[19]
+ 
+Id
+. at 66.
+[20]
+ 
+Id
+.; Section 1, RA 9480 entitled, "AN ACT ENHANCING REVENUE ADMINISTRATION AND COLLECTION BY GRANTING AN AMNESTY ON ALL UNPAID INTERNAL REVENUE TAXES IMPOSED BY THE NATIONAL GOVERNMENT FOR TAXABLE YEAR 2005 AND PRIOR YEARS." Approved: May 24, 2007.
+[21]
+ 
+Rollo
+, p. 67.
+[22]
+ 
+Id
+. at 41; CA 
+rollo
+, pp. 122-124.
+[23]
+ 
+Id
+.; id. at 62-66.
+[24]
+  
+Rollo
+, p. 68.
+[25]
+ CA 
+rollo
+, pp. 261-268.
+[26]
+ 
+Id
+. at 267; 
+Rollo
+, p. 42.
+[27]
+ 
+Id
+. at 267.
+[28]
+ 
+Id
+. at 60-61.
+[29]
+ 
+Id
+. at 38-57.
+[30]
+ 
+Id
+. at 290-292.
+[31]
+ 
+Id
+. at 290.
+[32]
+ 
+Id
+. at 293-299.
+[33]
+ 
+Rollo
+, pp. 90-93.
+[34]
+ 
+Id
+. at 92.
+[35]
+ 
+Id
+.
+[36]
+ CA 
+rollo
+, pp. 3-30.
+[37]
+ 
+Id
+. at 15.
+[38]
+ 
+Rollo
+, p. 739.
+[39]
+ 
+Id
+.
+[40]
+ 
+Id
+. at 39-48.
+[41]
+ 
+Id
+. at 46.
+[42]
+ 
+Id
+. at 45.
+[43]
+ 
+Id
+. at 47.
+[44]
+ CA 
+rollo
+, pp. 509-516.
+[45]
+ 
+Rollo
+, pp. 49-51.
+[46]
+ 
+Id
+. at 22-23.
+[47]
+ 
+CS Garment, Inc. v. Commissioner of Internal Revenue, 
+729 Phil. 253, 266 (2014).
+[48]
+ 
+Commissioner of Internal Revenue v. Philippine Aluminum Wheels, Inc.,
+ 816 Phil. 638, 644 (2017).
+[49]
+ 
+CS Garment, Inc. v. Commissioner of Internal Revenue,
+ 
+supra
+; Section 1, RA 9480.
+[50]
+ 
+Id
+. at 268.
+[51]
+ 
+Id
+.
+[52]
+ 
+Rollo
+, p. 45.
+[53]
+ 
+Id
+. at 46.
+[54]
+ 
+Id
+. at 173-174 and 823-824.
+[55]
+ 
+Id
+. at 175.
+[56]
+ 
+Id
+. at 45.
+[57]
+ 
+Id
+.
+[58]
+ 
+Asia International Auctioneers, Inc. v. Commissioner of Internal Revenue,
+ 695 Phil. 852, 858 (2012).
+[59]
+ 
+Rollo
+, p. 745.
+[60]
+ 
+Id
+. at 739 and 783-792.
+[61]
+ 
+Id
+. at 739 and 794-796.
+[62]
+ 
+Id
+. at 824 and 258.
+[63]
+ 
+Id
+. at 754.
+[64]
+ 
+Id
+. at 824-825 and 259-260.
+[65]
+ 
+Id
+. at 827.
+[66]
+ 
+Unilever Phils., Inc. v. Tan,
+ 725 Phil. 486, 498 (2014).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

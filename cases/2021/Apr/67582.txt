@@ -1,0 +1,1305 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+EN BANC
+
+
+[ G.R. No. 213212, April 27, 2021 ]
+
+
+RENE FIGUEROA, PETITIONER, VS. COMMISSION ON AUDIT, RESPONDENT. 
+G.R. NO. 213497
+ PHILIP G. LO AND MANUEL C. ROXAS, PETITIONERS, VS. COMMISSION ON AUDIT, RESPONDENT. 
+ G.R. NO. 213655
+ EFRAIM C. GENUINO, PETITIONER, VS. COMMISSION ON AUDIT (COA), COA OFFICE OF THE DIRECTOR, CORPORATE GOVERNMENT SECTOR, CLUSTER 6, REPRESENTED BY HON. DIRECTOR JOSEPH B. ANACAY, AND THE OFFICE OF THE COA SUPERVISING AUDITOR - PHILIPPINE AMUSEMENT AND GAMING CORPORATION (PAGCOR), REPRESENTED BY ATTY. RESURRECCION C. QUIETA AND AUDITOR BELEN B. LADINES, RESPONDENTS.
+DECISION
+
+
+
+
+GAERLAN, J.:
+
+
+Before Us are three (3) consolidated petitions for 
+certiorari
+ under Rule 64 of the Rules of Court, as amended, assailing Decision No. 2013-191
+[1]
+ dated 20 November 2013 and Decision No. 2014-115
+[2]
+ dated 18 June 2014 issued by public respondent Commission on Audit (COA). The challenged issuances affirmed the Notice of Disallowance (ND) No. 2011-002(08)
+[3]
+ dated 30 June 2011 which, in turn, disallowed the Philippine Amusement and Gaming Corporation's (PAGCOR) release of funds amounting to P26,700,000.00, as purchase price for 89,000 tickets to the movie "Baler," in favor of Batang Iwas Droga (BIDA) Foundation, Inc. (BFI).
+The Antecedents
+PAGCOR is a government-owned and controlled corporation (GOCC) created under Presidential Decree (P.D.) No. 1869,
+[4]
+ as amended by P.D. No. 1993,
+[5]
+ Executive Order (E.O.) No. 260
+[6]
+ and Republic Act (R.A.) No. 9487,
+[7]
+ for the purpose of enabling the Government to regulate, centralize and integrate all games of chance authorized by existing franchise or permitted by law.
+In a Memorandum
+[8]
+ dated 3 December 2008, Edward F. King (King), then Vice President of PAGCOR's Corporate Communications and Services Department (CCSD), requested from petitioner Efraim C. Genuino (Genuino), then Chairman and Chief Executive Officer (CEO) of PAGCOR, and the Board of Directors of said GOCC the allocation of movie passes for "Baler," a film starring actors Anne Curtis and Jericho Rosales which won the Best Picture award in the 200S'Metro Manila Film Festival (MMFF).
+[9]
+ Based on King's plan, the movie passes shall be distributed to 12 PAGCOR casino branches which shall, in turn, be chargeable against the patrons' respective Player Tracking System (PTS) points. Thereafter, King issued another Memorandum
+[10]
+ dated 10 December 2008, informing the General Managers and Branch Managers of PAGCOR's casino branches on the guidelines for Baler's ticket allocations.
+On 16 December 2008, the Board of Directors of PAGCOR held a regular meeting which, 
+inter alia
+, approved the ticket purchases requested by King.
+[11]
+ Accordingly, on 19 December 2008, King wrote a letter
+[12]
+ to PAGCOR's Vice President for Accounting, requesting the full remittance of the amount of P26,700,000.00 in favor of BFI on or before 22 December 2008.
+On 22 December 2008, the following documents were executed:
+Request for Payment (RFP) No. PR 08-12-05252,
+[13]
+ executed by King, asking PAGCOR's Accounting Department to process the payment of the said amount of P26,700,000.00 in favor of BFI;
+Accounts Payable Voucher (APV) No. 0818945
+[14]
+ in the amount of P26,700,000.00, signed by Ester P. Fernandez, Vice President for Accounting. The particulars box states: "Payment for BALER tickets" and "board approval to follow"; and
+Check Voucher No. 081219076
+[15]
+ approving the payment of P26,700,000.00 to BFI.
+Thus, PAGCOR issued Land Bank of the Philippines (LBP) Check No. 0000153001
+[16]
+ dated 23 December 2008, payable to BFI, in the amount of P26,700,000.00.
+On 18 March 2011, following the conduct of a post-audit examination, COA Supervising Auditor Atty. Resurreccion C. Quieta (Atty. Quieta) issued Audit Observation Memorandum No. 2010-021
+[17]
+ finding irregularities in the disbursement of the foregoing amount of P26,700,000.00, to wit: (1) only the amount of P2,039,580.00 was charged against the patrons' PTS points. The balance of P24,660,420.00 was charged to other accounts without the approval of the Board of Directors; and (2) the payment of P26,700,000.00 was made despite the absence of supporting documents. On 4 April 2011, Cristino L. Naguiat, Jr., the new Chairman and CEO of PAGCOR, commented that "[t]he payment made for the transaction may be included in the case that will be filed against some PAGCOR personnel of the past administration."
+[18]
+Accordingly, on 30 June 2011, COA issued ND No. 2011-002(08)
+[19]
+ finding the following persons liable for the allegedly anomalous transaction in the total amount of P26,700,000.00:
+ 
+ 
+ Name 
+ 
+ Position/Designation 
+ 
+ Nature of Participation in the Transaction 
+ 
+ 
+ 
+Efraim C. Genuino 
+ 
+Chairman and CEO 
+ 
+Approved the payment / Approved the purchase of Baler tickets 
+ 
+ 
+ 
+Manuel C. Roxas 
+ 
+Member, PAGCOR
+ Board of Directors 
+ 
+Approved the purchase of Baler tickets 
+ 
+ 
+ 
+ Philip G. Lo 
+ 
+Member, PAGCOR 
+ Board of Directors 
+ 
+Approved the purchase of Baler tickets 
+ 
+ 
+ 
+Gamaliel A. Cordoba 
+ 
+Member, PAGCOR 
+ Board of Directors 
+ 
+Approved the purchase of Baler tickets 
+ 
+ 
+ 
+Rene C. Figueroa 
+ 
+Senior Vice President 
+ 
+Signed the Check and Check Voucher on behalf of the Chairman 
+ 
+ 
+ 
+Edward P. King 
+ 
+Vice President - CCSD 
+ 
+Certified in the RFP that [the] expense was necessary, lawful and incurred under his direct supervision 
+ 
+ 
+ 
+Ester P. Hernandez 
+ 
+Vice President - 
+ Accounting Dept. 
+ 
+Certified that [the] supporting documents were complete[,] and proper, and [that the] expenditure [was] properly certified per RFP 
+ 
+ 
+ 
+BIDA Foundation, Inc. / BIDA Production, Inc. c/o Josephine Sumangil- Evangelista 
+ 
+Payee 
+ 
+Received the payment 
+ 
+ 
+Excoriating the finding of liability against them, herein petitioners interposed their respective challenges against ND No. 2011-002(08), arguing as follows:
+On the part, of Rene C. Figueroa
+Petitioner Rene C. Figueroa (Figueroa) argued that ND No. 2011- 002(08) is void for failure to comply with Rule IV, Section 4
+[20]
+ of the 2009 Revised Rules of Procedure of the Commission on Audit (RRPC),
+[21]
+ the same having been issued without any factual or legal basis;
+[22]
+ and that he signed the subject Check Voucher No. 081219076 and LBP Check No. 0000153001 in good faith.
+[23]
+ As the designated alternate signatory of Genuino,
+[24]
+ he merely relied on the fact that the said documents were cleared and certified as proper for release by PAGCOR's Finance and Treasury Department.
+[25]
+On the part of Philip G. Lo and Manuel C. Roxas
+Petitioners Philip G. Lo (Lo) and. Manuel C. Roxas (Roxas) asserted that they did not sign any Board Resolution approving the use of PAGCOR's operating expenses for the purchase of the "Baler" movie tickets.
+[26]
+ They espouse the position that only the executive officials who deviated from the manifest intention of PAGCOR's Board of Directors must be held liable for the irregularities involving the payment made in favor of BFI.
+[27]
+ Thus, petitioners Lo and Roxas should be excluded from liability under ND No. 2011-002(08).
+On the part of Efraim C. Genuino
+Petitioner Genuino likewise asserted that ND No. 2011-002(08) violated Rule IV, Section 4 of the 2009 RRPC.
+[28]
+ He contended that charging of the payment of the "Baler" tickets to the PTS was well within PAGCOR Board's management prerogative.
+[29]
+ The amount released by PAGCOR for the purchase of "Baler" tickets came from its private corporate funds, not public funds.
+[30]
+ The said transaction was made in furtherance of PAGCOR's corporate social responsibility.
+[31]
+ At any rate, even if ND No. 2011-002(08) was admitted to be well-grounded, it does not automatically make Genuino liable for the disallowed transaction for the mere reason that he was the head of PAGCOR.
+[32]
+The COA CGS-C Ruling
+On 28 September 2012, the COA Corporate Government Sector (CGS), Cluster C, issued Decision No. 2012-07 modifying ND No. 2011-002(08). While the issuance of the said ND was affirmed, the amount of liability was reduced to P24,660,420.00. In addition, petitioners Figueroa, Lo and Roxas, among others, were excluded from liability therein.
+[33]
+The COA Ruling
+On automatic review, the COA Proper rendered the assailed Decision No. 2013-191 dated 20 November 2013, disposing as follows:
+WHEREFORE
+, premises considered, Corporate Government Sector-C Decision No. 2012-007 dated September 28, 2012 is hereby 
+AFFIRMED WITH MODIFICATION
+. Accordingly, Notice of Disallowance No. 2011-002(08) dated June 30, 2011 is hereby 
+AFFIRMED
+ sustaining the disallowance amounting to 26,700,000.00 and all the persons named liable therefor, except Mr. Edward F. King, who shall be excluded therefrom. Board of Directors Member Rafael A. Francisco Ms. Estela P. Ramos and Mr. Pedro Michael M. Cendana IV, shall however be included as persons liable m the Notice of Disallowance.
+[34]
+The COA Proper sustained the propriety of the issuance of ND No. 2011-002(08), the same being consistent with existing laws and jurisprudence. It ruled, 
+inter alia
+, that PAGCOR's purchase of movie tickets is 
+ultra vires
+; that PAGCOR cannot exploit its customers' accumulated PTS points without their consent; that the amount disallowed did not come from private funds; and that the entire amount of disallowance of P26,700,000.00 must be sustained because the entire approval process is null and' void.
+[35]
+In reinstating all of the findings and conclusions of Atty. Quieta in ND No. 2011-002(08), the COA Proper emphasized that petitioners Genuino, Figueroa, Lo and Roxas are indeed liable for the subject anomalous transaction in their respective capacities as PAGCOR officers.
+Petitioner Genuino's liability stems from his fiscal responsibility as Chairman and CEO of PAGCOR, his failure to raise any objection to Figueroa's act of signing Check Voucher No. 081219076 and LBP Check No. 0000153001 on his behalf, and his personal knowledge that the subject payment was made to BFI, a party-list where his daughter was named first nominee.
+[36]
+ Figueroa, on the other hand, was named liable for signing the subject check voucher and check without written notice that the same lacked the requisite supporting documents.
+[37]
+ As to Lo and Roxas, the COA Proper affirmed their liability for approving the purchase of the subject movie tickets, and on the basis of their fiscal responsibility as members of PAGCOR's Board of Directors.
+[38]
+Petitioners interposed separate motions for reconsideration of the foregoing Decision No. 2013-191, but the same were denied by the COA Proper in its 18 June 2014 Decision No. 2014-115, 
+viz
+.:
+WHEREFORE
+, the instant Motions for Reconsideration of Mr. Efraim C. Genuino, Mr. Philip G. Lo and Mr. Manuel C. Roxas, Mr. Gamaeliel A. Cordoba, Mr. Rene C. Figueroa and Ms. Ester P. Hernandez are hereby 
+DENIED
+ for lack of merit. Accordingly, COA Decision No. 2013-191 dated November 20, 2013, affirming Notice of Disallowance No. 2011-002(08) dated June 30, 2011, is 
+AFFIRMED WITH FINALITY
+, with respect to the aforesaid Movants.
+The Audit Team Leader and Supervising Auditor. Philippine Amusement and Gaming Corporation are instructed to issue a Supplemental Notice of Disallowance to Mr. Rafael Francisco, Ms. Estela Ramos and Mr. Pedro Michael M. Cendana IV as additional persons liable, copy furnished the General Counsel, this Commission.
+[39]
+Hence, the present recourse.
+The Issues and Arguments
+In G.R. No. 213212, petitioner Figueroa raises the following arguments for Our consideration:
+RESPONDENT ACTED WITH GRAVE ABUSE OF DISCRETION:
+In ignoring the factual findings of its own auditor, not to mention its own director;
+In deeming petitioner liable for the subject transaction despite having acted in good faith;
+In not affording petitioner his right to equal protection;
+In overlooking the fact that petitioner was not actually even an accountable officer in this case.
+[40]
+In G.R. No. 213497, petitioners Lo and Roxas expound:
+I.
+THE COMMISSION ON AUDIT, WITH GRAVE ABUSE OF DISCRETION AMOUNTING TO LACK OF JURISDICTION, GRAVELY ERRED IN ITS FINDING THAT THE BOARD AUTHORIZED THE PURCHASE OF BALER MOVIE TICKETS FOR PAGCOR[;]
+II.
+THE COMMISSION ON AUDIT, WITH GRAVE ABUSE OF DISCRETION AMOUNTING TO LACK OF JURISDICTION, GRAVELY ERRED IN ITS FINDING THAT THE CHARGING OF THE COST OF THE TICKETS TO THE PTS POINTS OF THE PLAYERS IS EQUIVALENT TO PAGCOR PURCHASING THE BALER TICKETS.
+[41]
+Finally, in G.R. No. 213655, petitioner Genuino argues in the affirmative of the following issues:
+RESPONDENTS COMMITTED GRAVE ABUSE OF DISCRETION AMOUNTING TO LACK OR EXCESS OF JURISDICTION IN ISSUING AND AFFIRMING NOTICE OF DISALLOWANCE (N.D.) NO. 211 - 002.(08) DATED 30 JUNE 2011 BECAUSE:
+RESPONDENTS HAVE NO AUDIT JURISDICTION OVER PAGCOR'S OPERATING EXPENSES FUND, MUCH LESS THE BALER TRANSACTION;
+RESPONDENTS ARROGATED UNTO THEMSELVES THE AUTHORITY NOT' CONFERRED BY LAW OR THE CONSTITUTION WHEN THEY STRUCK DOWN AS ULTRA VIRES 'THE BOARD'S APPROVAL OF THE BALER TRANSACTION;
+DESPITE RESPONDENTS' LACK OF JURISDICTION, N.D. NO. 2011-002(08) DATED 30 JUNE 2011 WAS ISSUED IN CONTRAVENTION OF PERTINENT RULES AND REGULATIONS; AND
+PETITIONER COULD NOT BE HELD LIABLE FOR THE QUESTIONED BALER TRANSACTION.
+[42]
+The Ruling of the Court
+By reason of their special knowledge and expertise over matters falling under their jurisdiction, administrative agencies such as the COA are in a better position to pass judgment thereon, and their findings of fact are generally accorded great respect, if not finality, by the courts.
+[43]
+ In 
+Delos Santos, et al. v. Commission on Audit
+,
+[44]
+ the Court held:
+At the outset, it must be emphasized that the CoA is endowed with enough latitude to determine, prevent, and disallow irregular, unnecessary, excessive, extravagant or unconscionable expenditures of government funds. It is tasked to be vigilant and conscientious in safeguarding the proper use of the government's, and ultimately the people's, property. The exercise of its general audit power is among the constitutional mechanisms that gives life to the check and balance system inherent in our form of government.
+Corollary thereto, it is the general policy of the Court to sustain the decisions of administrative authorities, especially one which is constitutionally-created, such as the COA, not only on the basis of the doctrine of separation of powers but also for their presumed expertise in the laws they are entrusted to enforce. Findings of administrative agencies are accorded not only respect but also finality when the decision and order are not tainted with unfairness or arbitrariness that would amount to grave abuse of discretion It is only when the CoA has acted without or in excess of jurisdiction, or with grave abuse of discretion amounting to lack or excess of jurisdiction, that this Court entertains a petition questioning its rulings,
+[45]
+Notwithstanding the foregoing principle, however, the Court declared in 
+Joson III v. Commission on Audit
+[46]
+ that:
+However, We are reminded that said general policy should not be applied in a straitjacket as there are instances wherein the decisions of these agencies should be reviewed by this Court. One of those instances is when the administrative agency committed grave abuse of discretion, as in this case. There is grave abuse of discretion when there is an evasion of a positive duty or a virtual refusal to perform a duty enjoined by law or to act in contemplation of law as when the judgment rendered is not based on law and evidence but on caprice, whim, and despotism.
+[47]
+Measured against these standards, We find that the COA committed grave abuse of discretion amounting to lack or excess of jurisdiction in rendering the herein assailed issuances. Accordingly, the petitions must be granted.
+The scope of the COA's audit
+jurisdiction
+The 1987 Constitution created the constitutional commissions as independent constitutional bodies, tasked with specific roles in the system of governance that require expertise in certain fields.
+[48]
+ In this regards, the COA was made the guardian of public funds, vesting it with broad powers over all accounts pertaining to government revenues and expenditures and the use of public funds and property, including the exclusive authority to define the scope of its audit and examination; to establish the techniques and methods for the review; and to promulgate accounting and auditing rules and regulations.
+[49]
+ Article IX-D, Section 2 of the Constitution thus states:
+SECTION 2. (1) The Commission on Audit shall have the power, authority, and duty to examine, audit, and settle all accounts pertaining to the revenue and receipts of, and expenditures or uses of funds and property, owned or held in trust by, or pertaining to, the Government, or any of its subdivisions, agencies, or instrumentalities, including government-owned or controlled corporations with original charters, and on a post-audit basis: (a) constitutional bodies, commissions and offices that have been granted fiscal autonomy under this Constitution; (b) autonomous state colleges and universities; (c) other government-owned or controlled corporations and their subsidiaries; and (d) such non-governmental entities receiving subsidy or equity, directly or indirectly, from or through the Government, which are required by law or the granting institution to submit to such audit as a condition of subsidy or equity. However, where the internal control system of the audited agencies is inadequate, the Commission may adopt such measures, including temporary or special pre-audit, as are necessary and appropriate to correct the deficiencies. It shall keep the general accounts of the Government and, for such period as may be provided by law, preserve the vouchers and other supporting papers pertaining thereto.
+(2) The Commission shall have exclusive authority, subject to the limitations in this Article, to define the scope of its audit and examination, establish the techniques and methods required therefor, and promulgate accounting and auditing rules and regulations, including those for the prevention and disallowance of irregular, unnecessary, excessive, extravagant, or unconscionable expenditures, or uses of government funds and properties. (Emphasis ours)
+Indeed, the Constitution has conferred upon the COA broad and extensive powers, having been envisioned by the Framers as a dynamic, effective, efficient and independent watchdog of the Government.
+[50]
+ The COA is vested with the authority to determine whether government entities, including LGUs, comply with laws and regulations in disbursing government funds, and to disallow illegal or irregular disbursements of these funds.
+[51]
+ It has the power to ascertain whether public funds were utilized for the purpose for which they had been intended.
+[52]
+In 
+Funa v. Manila Economic and Cultural Office
+,
+[53]
+ the Court enumerated the government agencies and instrumentalities which are covered by the COA's audit jurisdiction, 
+viz
+.:
+The government, or any of its subdivisions, agencies and instrumentalities;
+GOCCs with original charters;
+GOCCs without original charters;
+Constitutional bodies, commissions and offices that have been granted fiscal autonomy under the Constitution; and
+Non-governmental entities receiving subsidy or equity, directly or indirectly, from or through the government, which are required by law or the granting institution to submit to the COA for audit as a condition of subsidy or equity.
+[54]
+Indeed, the COA's audit jurisdiction generally covers public entities. In addition, the COA's authority to audit extends even to non-governmental entities insofar as the latter receives financial aid from the government.
+[55]
+Nevertheless, the circumstances obtaining in the instant case have led the Court to conclude that the COA's audit jurisdiction over PAGCOR is neither absolute nor all-encompassing.
+The nature of PAGCOR's funds
+PAGCOR is tasked with a dual role, to operate and to regulate gambling casinos
+[56]
+ and clubs as a means to promote tourism and generate sources of revenue for the government.
+[57]
+ Under Title IV, Section 10 of P.D. No. 1869, PAGCOR's franchise includes the "rights, privilege and authority to operate and maintain gambling casinos, clubs, and other recreation or amusement places, sports, gaming pools, i.e. basketball, football, lotteries, etc. whether on land or sea, within the territorial jurisdiction of the Republic of the Philippines."
+[58]
+ Likewise, it is legally empowered to "do and perform such other acts directly related to the efficient and successful operation and conduct of games of chance in accordance with existing laws and decrees."
+[59]
+ It also has regulatory powers over "[a]ll persons primarily engaged in gambling, together with their allied business."
+[60]
+Prescinding from its dual governmental and proprietary functions, PAGCOR is a 
+sui generis
+ GOCC. On one hand, it exercises a sovereign function by regulating gambling casinos and clubs. On the other, it generates income for the Government by operating said gambling establishments.
+Consistent with PAGCOR's unique corporate and fiscal features, the PAGCOR Charter, as amended, provides a mechanism which effectively segregates PAGCOR's earnings owed to the Government from the rest of its corporate revenue or funds. Section 12 of the PAGCOR Charter thus provides:
+Sec. 12. 
+Special Condition of Franchise
+. â After deducting five (5%) percent as Franchise Tax, the fifty (50%) percent share of the government in the aggregate gross earnings of the Corporation from this Franchise, or 60% if the aggregate gross earnings be less than P150,000,000.00, shall immediately be set aside and shall accrue to the General Fund to finance the priority infrastructure development projects and to finance the restoration of damaged or destroyed facilities due to calamities, as may be directed and authorized by the Office of the President of the Philippines.
+In view of the policy to enable the private sector to take a more active role in PAGCOR: (a) Section 4
+[61]
+ of the PAGCOR Charter allots 550,000 shares of stock of PAGCOR to be subscribed to and paid for by the Government, while the remaining 450,000.00 shares may be subscribed to by private persons or entities; and (b) Section 6
+[62]
+ mandates that two (2) of the members of PAGCOR's Board of Directors shall come from the private sector and who shall be elected by its stockholders.
+COA's limited audit jurisdiction
+under the PA GCOR Charter
+It is a basic rule in statutory construction that every part of the statute must be interpreted with reference to the context, i.e., that every part of the statute must be interpreted together with the other parts, and kept subservient to the general intent of the whole enactment.
+[63]
+ The law must not be read in truncated parts; its provisions must be read in relation to the whole law.
+[64]
+ The particular words, clauses and phrases should not be studied as detached and isolated expression, but the whole and every part of the statute must be considered in fixing the meaning of any of its parts and in order to produce a harmonious whole.
+[65]
+ Consistent with the fundamentals of statutory construction, all the words in the statute must be taken into consideration in order to ascertain its meaning.
+[66]
+ We have to take the thought conveyed by the statute as a whole; construe the constituent parts together; ascertain the legislative intent from the whole act; consider each and every provision thereof in the light of the general purpose of the statute; and endeavor to make every part effective, harmonious, sensible.
+[67]
+In this regard, Section 15 of the PAGCOR Charter limits the COA's audit jurisdiction over PAGCOR's funds as follows:
+SEC. 15. 
+Auditor
+ â The Commission of Audit or any government agency that the Office of the President may designate shall appoint a representative who shall be the Auditor of the Corporation and such personnel as may be necessary to assist said representative in the performance of his duties. The salaries of the Auditor or representative and his staff shall be fixed by the Chairman of the Commission on Audit or designated government agency, with the advice of the Board, and said salaries and other expenses shall be paid by the Corporation. The funds of the Corporation to be covered by the audit shall be limited to the 5% franchise tax and the 50% of the gross earnings pertaining to the Government as its share.
+Cognizant of the above-stated principle of statutory construction, Section 15 must not be read in isolation, but as part of the entire PAGCOR Charter. Indeed, it bears stressing that P.D. No. 1869 was enacted to increase the participation of the private sector in the subscription of the authorized capital stock of PAGCOR. To this end, the share of the Government in the gross earnings was adjusted to fifty percent (50%). Likewise, to provide for greater flexibility in PAGCOR's operations, governmental audit was limited to the five percent (5%) franchise tax and the Government's fifty percent (50%) share of the gross earnings. This allows PAGCOR greater flexibility in generating revenues. Towards this end, the relevant provisions of P.D. No. 1869 were decreed.
+Here, the COA asserts that Section 15 of the PAGCOR Charter is no longer tenable because it runs afoul of its audit jurisdiction under the 1987 Constitution. The COA is, in effect, collaterally attacking the constitutionality of the said provision.
+The Court cannot sustain the COA's position.
+Repeals by implication are not favored in this jurisdiction.
+[68]
+ All laws are presumed to be consistent with each other.
+[69]
+ The established rule is that every law has in its favor the presumption of constitutionality, and to justify its nullification there must be a clear and unequivocal breach of the Constitution, not a doubtful and argumentative one.
+[70]
+ Unless and until a specific provision of the law is declared invalid and unconstitutional, the same is valid and binding for all intents and purposes.
+[71]
+ Moreover, the constitutionality or validity of laws, orders, or such other rules with the force of law cannot be attacked collaterally.
+[72]
+ Unless a law, rule, or act is annulled in a direct proceeding, it is presumed valid.
+[73]
+There is no law, decree, executive order, or issuance which has specifically repealed Section 15 of the PAGCOR Charter. Neither has there been any pronouncement from the Court declaring the same unconstitutional. Thus, for all intents and purposes, the said provision of the PAGCOR Charter is still in full force and effect.
+In the case at bar, it is readily apparent that the subject amount of P26,700,000.00 neither comes from the five percent (5%) franchise tax or PAGCOR's fifty percent (50%) gross earnings. This amount was sourced from PAGCOR's Operating Expenses Fund, particularly the corporation's Marketing Expenses.
+As shown by PAGCOR's Statement of Income and Expenses, which is integrated in its Annual Audit Report (AAR), PAGCOR's Operating Expenses Fund is not part of the five percent (5%) franchise tax or PAGCOR's fifty percent (50%) gross earnings. In its 2008 AAR,
+[74]
+ for instance, PAGCOR's Operating Expenses of P12,765,934,118.00
+[75]
+ is separate and distinct from the five percent (5%) franchise tax and the fifty percent (50%) share of the Government.
+To illustrate, PAGCOR's Marketing Expenses, which are part of its Operating Expenses Fund and are used to promote its casino operations, including, 
+inter alia
+, expenses in its casino branches to pay out the winnings of casino players from their gambling activities, ranging from thousands to millions of pesos; certain privileges given to casino players like room accommodations, food, and bonus chips worth thousands of pesos; and sponsorships and expenses for events, advertisements and other promotions. It is well within PAGCOR's mandate as a casino operator to incur these expenses because they are "necessary or proper for the accomplishment of its purposes and objectives."
+[76]
+ The amount of P26,700,000.00 for the "Baler" movie tickets was sourced from PAGCOR's Marketing Expenses.
+At any rate, the COA does not have the
+power to declare ultra vires the acts
+of PAGCOR's Board of Directors
+In affirming ND No. 2011-002(08), the COA ruled that the PAGCOR Board of Directors exceeded its authority and committed an 
+ultra vires
+ act by approving the disbursement of the subject amount of P26,700,000.00. In so doing, the COA went beyond the bounds of its powers.
+A corporation has: (1) express powers, which are bestowed upon by law or its articles of incorporation; and (2) necessary or incidental powers to the exercise of those expressly conferred.
+[77]
+ An act which cannot fall under a corporation's express or necessary or incidental powers is an 
+ultra vires
+ act.
+[78]
+ In the instant case, the determination of whether the PAGCOR Board of Directors acted within the powers of the corporation lies with the provisions of the PAGCOR Charter. It bears stressing, however, that such determination is beyond the jurisdiction of the COA.
+To recall, the principal duties of the COA are as follows:
+Examine, audit and settle all accounts pertaining to the revenue and receipts of, and expenditures or uses of funds and property owned or held in trust by, or pertaining to, the government.
+Promulgate accounting and auditing rules and regulations including those for the prevention and disallowance of irregular, unnecessary, excessive, extravagant or unconscionable expenditures, or uses of government funds and properties.
+Submit annual reports to the President and the Congress on the financial condition and operation of the government.
+Recommend measures to improve the efficiency and effectiveness of government operations.
+Keep the general accounts of government and preserve the vouchers and supporting papers pertaining thereto.
+Decide any case brought before it within sixty (60) days.
+Performs such other duties and functions as may be provided by law.
+[79]
+Neither the 1987 Constitution nor P.D. No. 1445, also known as the Auditing Code of the Philippines, or any other related statute grants the COA the power to strike down as void or declare 
+ultra vires
+ the acts of the Board of Directors of PAGCOR or any other GOCC.
+The PAGCOR Board acted well
+within the limits of its power and
+authority
+In any event, there is no merit in the finding that the PAGCOR Board of Directors exceeded its statutory authority when it approved the purchase of the movie tickets in question. Section 7 of the PAGCOR. Charter reads:
+SEC. 7. Powers, Functions and Duties of the Board of Directors. â The Board shall have the following powers, functions and duties;
+ 
+ 
+a) 
+ 
+To allocate and distribute, with the approval of the Office of the President of the Philippines, the earnings of the Corporation earmarked to finance infrastructure and socio-civic projects; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b) 
+ 
+To designate the commercial bank that shall act as the depository bank of the Corporation and/or trustee of the funds of the Corporation;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c) 
+ 
+To prepare and approve at the beginning of each calendar year the budget that may be necessary under any franchise granted to it, to insure the smooth operation of the Corporation; and to evaluate and approve budgets submitted to it by other corporations or entities with which it might have any existing contractual arrangement;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d) 
+ 
+To submit to the Office of the President of the Philippines before the end of February of each year a list of all the infrastructure and/or socio-civic projects that might have been financed from the Corporation's earnings, and to submit such periodic or other reports as may be required of it from time to time; and
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e) 
+ 
+To perform such other powers, functions and duties as may be directed and authorized by the President of the Philippines or as may be necessary or proper for the accomplishment of its purposes and objectives.
+ 
+ 
+Petitioners assert that PAGCOR had purchased and sponsored, in previous years, projects that may be considered as socio-civic in nature, such as the concerts of Frank Sinatra and Andrea Bocelli, and the musical "Miss Saigon." As far as the records show, these disbursements were never questioned by the COA.
+Verily, the purpose of purchasing "Baler" movie tickets, taking into consideration the film's history-based plot, squarely falls under the category of a socio-civic project which is well within the power of the PAGCOR Board to approve. Moreover, taking into consideration the fact that the funds used to implement this undertaking came from PAGCOR's Marketing Expenses, the same is beyond the COA's audit jurisdiction.
+All told, the subject disallowance which found liability against the petitioners is bereft of any factual and legal basis. In decreeing such disallowance, the COA acted with grave abuse of discretion, which "pertains to acts of discretion exercised in areas 
+outside
+ an agency's granted authority and, thus, abusing the power granted to it."
+[80]
+ The same must, perforce, be struck down in the greater interest of justice.
+WHEREFORE
+, the petitions are 
+GRANTED
+. Accordingly, the assailed Decision No. 2013-191 dated 20 November 2013, Decision No. 2014-115 dated 18 June 2014, and Notice of Disallowance No. 2011-002(08) dated 30 June 2011 issued by the Commission on Audit are hereby 
+REVERSED and SET ASIDE
+SO ORDERED.
+Gesmundo, C. J.
+, concur.
+Perlas-Bernabe, J.,
+ please see separate concurring opinion.
+Leonen, J.
+, see separate concurring opinion.
+Caguioa, 
+and 
+Carandang, JJ., 
+ no part.
+Hernando, Lazaro-Javier, Inting, Zalameda, M, Lopez, Delos Santos, Rosario,
+ and 
+Lopez, J., JJ.,
+ concur.
+[1]
+ 
+Rollo 
+(G.R. No. 213212), pp. 45-60; signed by Chairperson Ma. Gracia M. Pulido Tan and Commissioners Heidi L. Mendoza and Rowena V. Guanzon.
+[2]
+ Id. at 38-44; signed by Chairperson Ma. Gracia M. Pulido-Tan and Commissioner Heidi L. Mendoza.
+[3]
+ 
+Rollo
+ (G R. No. 213497). pp. RC-90.
+[4]
+ Signed on 11 July 1983.
+[5]
+ Signed on 31 October 1985.
+[6]
+ Signed on 25 July 1987.
+[7]
+ Signed on 20 June 2007.
+[8]
+ 
+Rollo
+ G. R. No. 213497). p.75.
+[9]
+ "Baler" big winner in MMff awards night" < https://news.abs-cbn.com/entertainment/12/27/08/baler-big-winner-mmff-wards-night > last accessed on 4 january 2021.
+[10]
+ 
+Rollo
+ (G.R. No. 213497), p. 76.
+[11]
+ 
+Rollo
+ (G.R. No. 213655), Vol. I, pp. 287-289.
+[12]
+ 
+Rollo
+ (G.R. No. 213497). p. 77.
+[13]
+ 
+Rollo
+ (G.R. No. 213212). p. 170.
+[14]
+ Id. at 169.
+[15]
+ Id. at 168.
+[16]
+ 
+Rollo
+ (G.R. No. 213497), p. 81.
+[17]
+ Id. at 83-86.
+[18]
+ Id. at 87-88.
+[19]
+ Id. at 89-90.
+[20]
+ Section 4. 
+Audit Disallowances/Charges/Suspensions
+. - In the course of the audit, whenever there are differences arising from the settlement of accounts by reason of disallowances or charges, the auditor shall issue Notices of Disallowance/Charge (ND/NC) which shall be considered as audit decisions. Such ND/NC shall be adequately established by evidence and the conclusions, recommendations or dispositions shall be supported by applicable laws, regulations, jurisprudence and the generally accented accounting and auditing principles. The Auditor may issue Notices of Suspension (NS) for transactions of doubtful legality/validity/propriety to obtain further explanation or documentation.
+[21]
+ 
+Rollo
+, (G.R. No. 213212), p. 86.
+[22]
+ Id. at 88.
+[23]
+ Id. at 95.
+[24]
+ Id. at 90.
+[25]
+ Id. at 80-81.
+[26]
+ 
+Rollo
+, (G.R. No. 213497), p. 62.
+[27]
+ Id. at 63.
+[28]
+ 
+Rollo
+ (G.R. No. 213655). Vol. I, p. 272.
+[29]
+ Id. at 279.
+[30]
+ Id. at 280.
+[31]
+ Id. at 284.
+[32]
+ Id. at 284.
+[33]
+ 
+Rollo
+, (G.R. no. 213212), p. 52.
+[34]
+ Id. at 59.
+[35]
+ Id. at 53-54.
+[36]
+ Id. at 57.
+[37]
+ Id. at 58.
+[38]
+ Id. at 58-59.
+[39]
+ Id. at 42-43.
+[40]
+ Id. at 9.
+[41]
+ 
+Rollo 
+(G.R. No. 213497). p. 11-12.
+[42]
+ Rollo (G.R. No. 213655). Vol. I, p. 11.
+[43]
+ See 
+Paraiso-Aban v. Commission on Audit
+, 777 Phil. 730, 737 (2016).
+[44]
+ 716 Phil. 322 (2013).
+[45]
+ Id. at 332-333 (citations omitted).
+[46]
+ 820 Phil. 485 (2017).
+[47]
+ Id. at 496.
+[48]
+ 
+The Special Audit Team, COA v. Court of Appeals, et al.,
+ 709 Phil. 167, 181 (2013).
+[49]
+ 
+Dela Llana v. The Chairperson, Commission on Audit, et al.,
+ 681 Phil. 186, 195 (2012
+[50]
+ 
+Caltex Philippines, Inc. v. Commission on Audit
+, 284-A Phil. 233, 257 (1992).
+[51]
+ 
+Veloso, et al. v. Commission on Audit
+, 672 Phil. 419, 429 (2011).
+[52]
+ 
+Sanchez, et al. v. Commission on Audit
+, 575 Phil. 428, 445 (2008).
+[53]
+ 726 Phil. 63 (2014).
+[54]
+ Id. at 86.
+[55]
+ 
+Fernando Commission on Audit
+, G.R. Nos. 237938 and 237944-45. December 4. 2018.).
+[56]
+ See 
+Basco v. PAGCOR
+, 274 Phil. 323, 333 (1991).
+[57]
+ 
+Yun Kwan Byung v. PAGCOR
+, 623 Phil. 23, 28 (2009).
+[58]
+ 
+Philippine Amusement and Gaming corp. (PAGCOR) v. The Commissioner of Internal Revenue, et al.,
+ 824 Phil. 508, 512 (2017).
+[59]
+ Id.
+[60]
+ Id.
+[61]
+ Section 4. 
+Authorized Capital Stock
+. âThe Corporation shall have an authorized capital stock divided into one million voting and no par value shares, to be subscribed, paid for and voted as follows:
+a) 550,000 shares of stock to be subscribed to and paid for by the Government of the Republic of the Philippines at an original issue value of P200.00 per share, and
+b) 450,000 shares remaining may be subscribed to by persons or entities acceptable lo the Board of Directors at issue value to be determined by such Board of Directors.
+The voting power pertaining to shares of stock subscribed to by the Government of the Republic of the Philippines shall be vested in the President of the Philippines or in such person or persons as he may designate.
+The voting power pertaining to shares of stock subscribed by private persons or entities shall be vested in them.
+[62]
+ Section 6. 
+Board of Directors
+. âThe Corporation shall be governed and its activities be directed, controlled and managed by a Board of Directors, hereinafter referred to as the Board, composed of five (5) members, three (3) of whom shall come from the Government sector and shall be appointed by the President, while the other two (2) shall be from the private sector, who own at least I share of stock in the Corporation and who shall be elected by the stockholders of the corporation in the annual general meeting or in a special meeting called for such purpose.
+Each Director shall serve for a term of one (i) year and until his successor shall have been duly appointed and qualified.
+[63]
+ 
+Enriquez v. Enriquez
+, 505 Phil. 193. 199 (2005).
+[64]
+ 
+Mactan-Cebu International Airport Authority v. Urgello
+, 549 Phil. 302, 322 (2007), citing 
+Civil Service Commission v. Joson, Jr.,
+ 473 Phil. 844, 858 (2004).
+[65]
+ 
+Commissioner of Internal Revenue v. Pilipinas Shell Petroleum Corporation
+, 744 Phil. 313, 326-327 (2014).
+[66]
+ 
+Phil International Trading Corp. v. COA
+, 635 Phil 447, 454 (2010).
+[67]
+ 
+Rep. of the Phils. v. Reyes, et al.
+, 123 Phil. 1035, 1039 (1966).
+[68]
+ See 
+Valdez v. Tuason
+, 40 Phil. 943, 950 (1920).
+[69]
+ 
+UP Board of Regents, et al. v. Auditor General, et al.,
+ 140 Phil. 393, 409 (1969).
+[70]
+ 
+Lacson v. The Executive Secretary
+, 361 Phil. 251, 263 (1999).
+[71]
+ 
+Lorin v. Executive Secretary
+, 345 Phil. 962, 979 (1997).
+[72]
+ 
+Tan v. Bausch & Lamb, Inc.
+, 514 Phil. 307, 316. (2005).
+[73]
+ 
+Kilusang Mayo Uno, represented by its Secretary General Rogelio Soluta, et al. v. Hon. Benigno Simeon C. Aquino III. et al.,
+ G.R. No. 210500, April 2, 2019.
+[74]
+ 
+Rollo,
+ (G.R. No. 213655), Vol. I, pp. 85-150.
+[75]
+ Id. at 106.
+[76]
+ PRESIDENTIAL DECREE NO. 1869, Section 7(e).
+[77]
+ 
+Magallanes Watercraft Association, Inc. v. Auguis, et al.,
+ 785 Phil. 866, 872 (2016).
+[78]
+ Id.
+[79]
+ 
+Principal Duties
+ < https://www.coa.gov.ph/index.php/2013-06-19-13-06-03/principal-duties > Last accessed on 25 January 2021.
+[80]
+ 
+Kilusang Mayo Uno, represented by its Secretary General Rogelio Soluta, et al. v. Hon. Benigno Simeon C. Aquino III, et al., 
+supra note 73.
+S E P A R A T E  C O N C U R R  I N G  O P I N I O N
+PERLAS-BERNABE, 
+J
+.:
+I concur in the result.
+As the 
+ponencia
+ holds, Section 15
+[1]
+ of Presidential Decree No. 1869,
+[2]
+ or the revised and consolidated "
+Philippine Amusement and Gaming Corporation (PAGCOR) Charter,
+''' which limits the Commission on Audit's (COA) jurisdiction over the PAGCOR to the determination of the five percent (5%) franchise tax and the government's 50% share of its gross earnings,
+[3]
+ applies in this case.
+As the records show, the disallowed amount in this case was sourced from PAGCOR's operating expense fund, particularly under its marketing expense fund.
+[4]
+ Thus, the ponencia correctly granted the instant petition, thereby setting aside the COA's assailed rulings and notice of disallowance for lack of jurisdiction.
+[5]
+To be sure, the COA's lack of jurisdiction in this case is intrinsically linked to Section 15 of the PAGCOR Charter, which is presumed to be valid and constitutional. Indeed, as the 
+ponencia
+ observes, since this provision has not been specifically repealed by Congress or struck down by the Court, it remains part of our legal system with the full force and effect of law until definitively settled in the appropriate case therefor.
+[6]
+It should be borne in mind that, while the instant parties argued at the COA level regarding the limits of the COA's audit jurisdiction over PAGCOR, the Court cannot squarely rule on the constitutionality of Section 15 of the PAGCOR Charter in this case, considering that PAGCOR, whose charter is under scrutiny and the entity that is directly and adversely affected by the issue of constitutionality, was not impleaded as a party-litigant.
+[7]
+More significantly, it must be highlighted that the present consolidated petitions, which were filed under Rule 64, in relation to Rule 65 of the Rules of Court, constitute a 
+certiorari
+ review of an expenditure disallowed by the COA, and not a direct attack on the constitutionality of Section 15 of the PAGCOR Charter. In this regard, "[n]othing is more settled than the rule that the constitutionality of a statute cannot be collaterally attacked as constitutionality issues must be pleaded directly and not collaterally. A collateral attack on a presumably valid law is not permissible. Unless a law or rule is annulled in a direct proceeding, the legal presumption of its validity stands."
+[8]
+Hence, up until Section 15 of the PAGCOR Charter is declared as unconstitutional in the proper proceeding, the same is valid. Accordingly, since the amount disallowed in this case does not fall within the ambit of the COA's limited audit jurisdiction as per the said provision, which â to reiterate â is presumed to be valid until struck down in the proper proceeding therefor, I concur in the result to grant the consolidated petitions and set aside the assailed disallowance for lack of jurisdiction.
+[1]
+ See Section 15, in relation to Presidential Decree No. 1869's whereas clauses, which reads:
+WHEREAS, to make it more dynamic and effective in its tasks, PAGCOR should now be reorganized by x x x (c) providing for greater flexibility in operation by 
+limiting governmental audit only to the determination of the 5% franchise tax and the Government's share of 50% of the gross earnings:
+x x x x
+SECTION 15. 
+Auditor
+. â The Commission on Audit or any government agency that the Office of the President may designate shall appoint a representative who shall be the Auditor of the Corporation and such personnel as may be necessary to assist said representative in the performance of his duties. The salaries of the Auditor or representative and his staff shall be advice of the Board and said salaries and other expenses shall be paid by the Corporation.
+ The funds of the Corporation to be covered by the audit shall be limited to the 5% franchise tax and the 50% of the gross earnings pertaining to be Government as its share.
+ (Emphases and underscoring supplied)
+[2]
+ Entitled "CONSOLIDATING AND AMENDING PRESIDENTIAL DECREE NOS. 1067-A, 1067-B, 1067-C, 1399 AND 1632, RELATIVE TO THE FRANCHISE AND POWERS OF THE PHILIPPINE AMUSEMENT AND GAMING CORPORATION (PAGCOR), "approved on July 11, 1983.
+[3]
+ See 
+ponencia
+, pp. 12-14.
+[4]
+ See id.
+[5]
+ See id at 17.
+[6]
+ See 
+Lim v. Pacquing
+, 310 Phil. 722(1995); 
+Macalintal v. Commission on Elections
+, 453 Phil. 586 (2003).
+[7]
+ See 
+Liban v. Gordon
+ (654 Phil. 680 [2011]), where one of the reasons cited by the Court in modifying its earlier Decision declaring void the Philippine National Red Cross (PNRC) charter and holding that it should have exercised judicial restraint in ruling upon the constitutionality of the said law, was that the PNRC was not an original party to the case (though it intervened subsequently):
+x x x x 
+this Court should not have declared void certain sections of R.A. No. 95
+, as amended by Presidential Decree (P.D.) Nos. 1264 and 1643, the PNRC Charter. Instead, the 
+Court should have 
+exercised judicial restraint
+ on this matter, especially since there was some other ground upon which the Court could have based its judgment. Furthermore, 
+the PNRC, the entity most adversely affected by this declaration of unconstitutionality, which was 
+not even originally a party to this case
+, was being compelled, as a consequence of the Decision, to suddenly reorganize and incorporate under the Corporation Code, after more than sixty (60) years of existence in this country. (Emphases and underscoring supplied)
+[8]
+ 
+Vivas v. Monetary Board of the Bangko Sentral ng Pilipinas
+, 716 Phil. 132, 153 (2013).
+SEPARATE CONCURRING OPINION
+LEONEN, 
+J
+.:
+I 
+concur
+ with the 
+ponencia
+ that the Commission on Audit's jurisdiction over the Philippine Amusement and Gaming Corporation (PAGCOR) funds is limited to the 5% franchise tax and 50% government's share of gross earnings. This is expressly provided in Section 15 of Presidential Decree No. 1869, as amended by Republic Act No. 9847. Since the Baler movie tickets amounting to P26,700,000.00 was not sourced from the 5% franchise tax or the 50% government share, but from PAGCOR's private corporate funds, it is beyond the Commission's audit jurisdiction. Hence, the Commission on Audit committed a grave abuse of discretion in disallowing the expenditure.
+I
+PAGCOR was created and organized in 1977 under Presidential Decree No. 1067-A
+[1]
+ "to 
+centralize and integrate all games of chance
+ not heretofore authorized by existing franchises or permitted by laws[.]"
+[2]
+ It was authorized to establish and operate gambling casinos and other amusement and recreation facilities. specifically to achieve the following objectives:
+ 
+ 
+(1)
+ 
+ 
+generate sources of additional revenue to fund infrastructure and socio-civic projects, such as flood control programs, beautification, sewerage and sewage projects, Tulungan ng Bayan Centers/Nutritional Programs, Population. Control and such other essential public services; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) 
+ 
+expand and improve the country's existing tourist attractions;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3)
+ 
+ 
+minimize, if not totally eradicate, the evils, mal-practices and corruptions that normally are found prevalent in the conduct and operation of gambling clubs and casinos without direct government involvement.
+[3]
+ 
+ 
+From the 1,000,000 authorized capital stock of PAGCOR, 600,000 shares were initially subscribed and paid for by the Government, while the remaining 400,000 shares were for persons or entities acceptable to the Board of Directors.
+[4]
+ The corporation was governed by a Board of Directors composed of five 
+ex officio
+ members,
+[5]
+ two of whom were to be appointed by the President. Section 3 of Presidential Decree No. 1067-A expressly confers corporate powers upon PAGCOR.
+[6]
+In line with state policies and objectives, PAGCOR. was granted a franchise to operate and maintain gambling casinos, clubs, and other recreation or arm is ement places under Presidential Decree No. 1067- B.
+[7]
+ The franchise was for a period of 25 years, renewable for another 25 years.
+[8]
+ PAGCOR was also authorized to enter into operator's and/or management contracts
+[9]
+ and to do, other acts for the efficient and successful operation of gambling casinos.
+[10]
+The franchise was subject to a special condition pertaining to the allocation of 60% of the gross earnings by PAGCOR from the operation of casinos to finance priority infrastructure and socio-civic projects within Metropolitan Manila.
+[11]
+ However, all PAGCOR income shall be audited by the Commission on Audit.
+[12]
+PAGCOR was also granted exemptions: (1) from duties and taxes on all importations of equipment, vehicles, boats, and other gambling paraphernalia or facilities for the sole and exclusive use of its casinos; and (2) from income and other taxes except a franchise tax of 5% of the gross revenue or earnings derived by PAGCOR from its casino operation.
+[13]
+Finally, PAGCOR was allowed to operate "necessary and related services, shows and entertainment;" provided that income from this would be subjected to the regular income tax.
+[14]
+After the success of the Floating Casino in providing much needed revenues for government priority projects,
+[15]
+ Presidential Decree No. 1399
+[16]
+was enacted, further amending PAGCOR's Charter and Franchise to fully attain this objective. Specifically, it changed the membership of PAGCOR's Board of Directors;
+[17]
+ expanded the areas of its operations outside Metropolitan Manila; allocated and appropriated generated revenues to fund priority infrastructure and/or socio-civic projects not just in Metro Manila, but 
+throughout
+ the Philippines;
+[18]
+ and expanded the tax exemptions,
+[19]
+ to include exemption from indirect taxes.
+[20]
+Then in 1983, Presidential Decree No. 1869
+[21]
+ was enacted to consolidate Presidential Decree Nos. 1067-A, 1067-B and 1067-C,
+[22]
+ 1399 and 1632
+[23]
+ "to facilitate their enforcement and application."
+[24]
+ To make it more dynamic and effective in its tasks, PAGCOR was reorganized by: (i) increasing the private sector's participation in the subscription of the authorized capital stock from 40% to 45%,
+[25]
+ and adjusting the Government's share in gross earnings to 50%;
+[26]
+ and (ii) limiting governmental audit to the determination of the 5% franchise tax and the Government's 50% share.
+[27]
+In addition to its corporate powers,
+[28]
+ PAGCOR was also given regulatory powers, as provided in Sections 8 and 9 of Presidential Decree No. 1869, thus:
+TITLE III
+Affiliation Provisions
+SECTION 8. 
+Registration
+. â All persons primarily engaged in gambling, together with their allied business, with contract or franchise from the Corporation, shall register and affiliate their businesses with the Corporation The Corporation shall issue the corresponding certificates of affiliation upon compliance by the registering entity with the promulgated rules and regulations thereon.
+SECTION 9. 
+Regulatory Power.
+ â The Corporation shall maintain a Registry of the affiliated entities, and shall exercise all the powers, authority and the responsibilities vested in the Securities and Exchange Commission over such affiliated entities mentioned under the preceding section, including but not limited to amendments of Articles of Incorporation and By-Laws, changes in corporate term, structure, capitalization and other matters concerning the operation of the affiliating entities, the provisions of the Corporation Code of the Philippines to the contrary notwithstanding, except only with respect to original incorporation.
+After more than two decades, or on June 20, 2007, Republic Act No. 9487 was passed: (1) extending PAGCOR's franchise for another 25 years, renewable for another 25 years; and (2) expanding PAGCOR's regulatory powers by granting it the authority to license gambling casinos.
+[29]
+From the foregoing evolution of laws, it can be gleaned that PAGCOR is a government-owned or controlled corporation with original charter, with the Government owning 55% of its authorized capital stock. It was tasked to perform dual roles - first, to operate gambling casinos and related services, shows and entertainment
+[30]
+ that would provide an additional source of income for the government, and second, to regulate gambling casinos.
+[31]
+In line with its. revenue-generating function, 50% of PAGCOR's revenues was to be segregated for the Government (General Fund) to be used for funding infrastructure and other projects authorized by the President.
+[32]
+ To provide PAGCOR with "greater flexibility in [its] operation[,]"
+[33]
+ the Presidential Decree expressly limits the extent of audit jurisdiction of the Commission on Audit to the said 50%> government share and to the 5% franchise tax. Section 15 of Presidential Decree No. 1869 states:
+TITLE V
+Government Audit
+SECTION 15. 
+Auditor
+. â The Commission on Audit or any government agency that the Office of the President may designate shall appoint a representative who shall be the Auditor of the Corporation and such personnel as may be necessary to assist said representative in the performance of his duties. The salaries of the Auditor or representative and his staff shall be fixed by the Chairman of the Commission on Audit or designated government agency, with the advice of the Board, and said salaries and other expenses shall be paid by the Corporation. 
+The funds of the Corporation to be covered by the audit shall be limited to the 5% franchise tax and the 50% of the gross earnings pertaining to the Government as its share
+. (Emphasis supplied)
+The language of Section 15 is clear and unmistakable. All laws are presumed valid and constitutional unless otherwise ruled by this Court. Consequently, the Commission is bound to observe the limitation on audit expressed in Section 15 of P.D. No. 1869, which remains operative.
+II
+However, I hasten to express my view that PAGCOR's dual role of a gaming regulator and a franchise holder is anomalous and constitutionally suspect. It presents a direct conflict of interest and is inconsistent with the system of checks and balances that is inherent in our form of government.
+Being a regulator and regulated entity at the same time, PAGCOR becomes an almost untouchable institution on its own, which is one of the evils that our Constitution guards against. In Justice Carpio's Separate Opinion in 
+Gonzales III v. Office of the President of the Philippines
+:
+[34]
+A completely "independent" body is alien to our constitutional system. There is no office that is insulated from a possible correction from another office. The executive, legislative and judicial branches of government operate through the system of checks and balances. All independent constitutional bodies are subject to review by the courts. A fiscally autonomous body is subject to audit by the Commission on Audit, and Congress cannot be compelled to appropriate a bigger budget than that of the previous fiscal year.
+. . . under a system of checks and balances, an external disciplinary authority is desirable and is often the norm.
+[35]
+ (Citation omitted)
+Gambling, in all its forms, is reprehensible. It is offensive to public morals and the public good.
+[36]
+ The integrity of regulatory function, especially with regard to gambling activity, is a matter of public interest. The independence of the regulator becomes questionable when it has the power to regulate itself. PAGCOR's aim, as regulatory body, to protect public morals and promote the general welfare directly clashes with its goal, as a franchise holder, to generate revenues from this economic activity.
+The issue of accountability also comes into play. PAGCOR is hampered in its role of regulating gambling activity in a transparent, effective, accountable and consistent way, if it engages in the very activity it regulates. The performance of its regulatory duties cannot be considered to be above suspicion of irregularities. Article XI, Section 1 of the Constitution is emphatic in stating:
+Section. 1. Public office is a public trust. Public officers and employees must, at all times, be accountable to the people, serve them with utmost responsibility, integrity, loyalty, and efficiency, act with patriotism and justice, and lead modest lives[.]
+Public policy demands that public officers discharge their duties with undivided loyalty. Thus, public officers are not permitted to place themselves in a position that will subject them to conflicting duties or cause them to act other than for the best interest of the public. The dual roles of PAGCOR expose the officers and employees to suspicion of irregularities, corruption or bad: faith in the exercise of their powers.
+III
+I also note, with equal concern, the limitation on audit under Section 15 of Presidential Decree No. 1869 as constitutionally doubtful.
+PAGCOR as a government-owned or controlled corporation must be subject to the Commission on Audit's jurisdiction without limitation.
+Article IX-D, Section 2(1) of the Constitution vests the Commission on Audit, as the "guardian of public funds and properties[,]"
+[37]
+ with the power, authority and duty to "examine, audit and settle" all "accounts" of the following public entities:
+[38]
+The government, or any of its subdivisions, agencies and instrumentalities;
+ GOCCs with original charters;
+ GOCCs without original charters;
+ Constitutional bodies, commissions and offices that have been granted fiscal autonomy under the Constitution; and
+ Non-governmental entities receiving subsidy or equity, directly or indirectly, from or through the government, which are required by law or the granting institution to submit to the COA for audit as a condition of subsidy or equity.
+[39]
+The term "
+accounts
+" pertains to all forms of government revenue and expenditure and "
+uses of funds and property
+."
+[40]
+With regard to non-governmental entities receiving subsidy or equity from the government, the scope of audit is limited to "'
+funds . . . coming from or through the government
+,"
+[41]
+The COA's power under the 1987 Constitution is broader and more extensive.
+[42]
+ Notably, it includes the exclusive power to
+ define the scope of its audit and examination
+ and to establish the techniques it will follow.
+[43]
+A government-owned or controlled corporation is defined under the Administrative Code as:
+. . . any agency organized as a stock oi non-stock corporation, vested with functions relating to public needs whether governmental or proprietary in nature, and owned by the Government directly or through its instrumentalities either wholly, or, where applicable as in the case of stock corporations, to the extent of at least fifty-one (51) per cent of its capital stock: 
+Provided
+, That government-owned or controlled corporations may be further categorized by the Department of the Budget, the Civil Service Commission, and the Commission on Audit for purposes of the exercise and discharge of their respective powers, functions and responsibilities with respect to such corporations.
+[44]
+In 
+Orlando v. Commission on Audit
+,
+[45]
+ an entity is considered a government-owned or controlled corporation if all three attributes are present: (1) the entity is organized as a stock or non stock corporation; (2) its functions are public in character; and (3) it is owned or, at the very least, controlled by the government."
+As a government-owned or controlled corporation, PAGCOR is under the Commission on Audit's audit jurisdiction. In 
+Feliciano v. Commission on Audit
+, it was held that "[t]he determining factor of COA's audit jurisdiction is government ownership or control of the corporation."
+[46]
+ Further:
+[T]he constitutional criterion on the exercise of COA's audit jurisdiction depends on the government's ownership or control of a corporation. The nature of the corporation, whether it is private, quasi-public, or public is immaterial.
+The Constitution vests in the COA audit jurisdiction over "government-owned and controlled corporations with original charters," as well as "government-owned or controlled corporations" without original charters. GOCCs with original charters are subject to COA pre-audit, while GOCCs without original charters are subject to COA post-audit. GOCCs without original charters refer to corporations created under the Corporation Code but are owned or controlled by the government. The nature or purpose of the corporation is not material in determining COA's audit jurisdiction. Neither is the manner of creation of a corporation, whether under a general or special law.
+[47]
+III. A
+The revenues derived by PAGCOR from its operations of gambling casinos are public in nature or at the very least affected with public interest. For one, PAGCOR was granted a franchise to operate casinos principally to raise funds to finance the government's infrastructure and socio-civic projects. Moreover, its operations involve gambling activity, which is so affected with public interest as to be within the police power of the State.
+[48]
+In 
+Republic v. COCOFED,
+[49]
+ this Court held that the coconut levy funds are not only affected with public interest; they are, in fact, 
+prima facie
+ public funds. They are exacted pursuant to law not only to raise revenues for the support of the government but also to advance the State policy of protecting the coconut industry and its farmers. This Court has also previously held special funds like the sugar levy fund and the oil price stabilization fund
+[50]
+ to be public in character and subject to audit by the Commission on Audit.
+In his Concurring Opinion in 
+Kilosbayan, Inc. v. Guingona, Jr.,
+[51]
+ Justice Florentino P. Feliciano explained that the funds raised by the On-line Lottery System were also public in nature. In his words:
+In the case presently before the Court, the funds involved are clearly public in nature. The funds to be generated by the proposed lottery are to be raised from the population at large. Should the proposed operation be as successful as its proponents project, those funds will come from well-nigh every town and barrio of Luzon. The funds here involved are public in another very real sense: they will belong to the PCSO, a government owned or controlled corporation and an instrumentality of the government and are destined for utilization in social development projects which, at least in principle, are designed to benefit the general public.... The interest of a private citizen in seeing to it that public funds, from whatever source they may have been derived, go only to the uses directed and permitted by law is as real and personal and substantial as the interest of a private taxpayer in seeing to it that tax monies are not intercepted on their way to the public treasury or otherwise diverted from uses prescribed or allowed by law. It is also pertinent to note that the more successful the government is in raising revenues by non-traditional methods such as PAGCOR operations and privatization measures, the lesser will be the pressure upon the traditional sources of public revenues, 
+i.e
+., the pocket books of individual taxpayers and importers.
+[52]
+In 
+Fernando v. Commission on Audit
+, this Court held that the funds of the Executive Committee of the Metro Manila Film Festival that were sourced from non-tax revenues are considered public funds, and are subject to COA's audit jurisdiction. The Executive Committee was found to be an office under the Metropolitan Manila Development Authority, tasked to assist the latter in the conduct of the annual Manila Film Festival:
+As to the committee's funds coming from non-tax revenues, the fact that such funds come from purported private sources, do not convert the same to private funds. Such funds must be viewed with the public purpose for which it was solicited, which is the management of the MMFF. In
+ Confederation of Coconut Farmers Organizations of the Philippines, Inc. (CCFOP) v. His Excellency President Benigno Simeon C. Aquino III, et al.
+, reiterating this Court's ruling in 
+Republic of the Philippines v. COCOFED
+:
+Even if the money is allocated for a special purpose and raised by special means, it is still public in character. In the case before us, the funds were even used to organize and finance State offices. In 
+Cocofed v. PCGG
+, the Court observed that certain agencies or enterprises "were organized and financed with revenues derived from coconut levies imposed under a succession of laws of the late dictatorship . . . with deposed Ferdinand Marcos and his cronies as the suspected authors and chief beneficiaries of the resulting coconut industry monopoly. The Court continued: ". . . It cannot be denied that the coconut industry is one of the major industries supporting the national economy. It is, therefore, the State's concern to make it a strong and secure source not only of the livelihood of a significant segment of the population, but also of export earnings the sustained growth of which is one of the imperatives of economic stability.
+In 
+The Veterans Federation of the Phils., represented by Esmeraldo R. Acordo v. Hon. Reyes,
+ this Court also declared as public funds contributions from affiliate organizations of the VFP:
+. . . .In the case at bar, some of the funds were raised by even more special means, as the contributions from affiliate organizations of the VFP can hardly be regarded as enforced contributions as to be considered taxes. They are more in the nature of donations which have always been recognized as a source of public funding.
+[53]
+ (Citations omitted)
+Being public funds or funds imbued with public interest, PAGCOR's revenues are subject to audit by the Commission.
+Indeed, PAGCOR's books of accounts and all financial records and supporting documents were initially subject to the Commission on Audit's jurisdiction.
+[54]
+ It was only under Section 15 of Presidential Decree No. 1869 that a limitation on audit was introduced:
+TITLE V
+Government Audit
+SECTION 15. 
+Auditor
+. -â The Commission on Audit or any government agency that the Office of the President may designate shall appoint a representative who shall be the Auditor of the Corporation and such personnel as may be necessary to assist said representative in the performance of his duties. The salaries of the Auditor or representative and his staff shall be fixed by the Chairman of the Commission on Audit or designated government agency, with the advice of the Board, and said salaries and other expenses shall be paid by the Corporation. 
+The funds of the Corporation to be covered by the audit shall be limited to the 5% franchise tax and the 50% of the gross earnings pertaining to the Government as its share
+. (Emphasis supplied)
+III. B
+This limitation on audit is constitutionally doubtful.
+It is the constitutionally-mandated function of the Commission on Audit, as the "independent watchdog" of the Government, to examine the accuracy of all financial records, to determine whether expenditures conform with law, and to disallow "irregular, unnecessary, excessive, extravagant, or unconscionable expenditures or uses of government funds and properties."
+[55]
+ "This independent constitutional body is tasked to be vigilant and conscientious in safeguarding the proper use of the government's, and ultimately the people's, property."
+[56]
+In 
+Feliciano
+, this Court nullified the second sentence of Section 20 of Presidential Decree No. 198, which stated: "
+Auditing shall be performed by a certified public accountant not in the government service[,]
+"
+[57]
+ for being unconstitutional. It held:
+PD. 198 cannot prevail over the Constitution. No amount of clever legislation pan exclude GOCCs like LWDs from COA's audit jurisdiction. Section 3. Article IX-C of the Constitution outlaws any scheme or devise to escape COA's audit jurisdiction, thus:
+. . . .
+The framers of the Constitution added Section 3, Article IX-D of the Constitution precisely to annul provisions of Presidential Decrees, like that of Section 20 of PD 198, that exempt GOCCs from COA audit. The following exchange in the deliberations of the Constitutional Commission elucidates this intent of the framers:
+MR. OPLE:
+I propose to add a new section on line 9, page, 2 of the amended committee report which reads: NO LAW SHALL BE PASSED EXEMPTING ANY ENTITY OF THE GOVERNMENT OR ITS SUBSIDIARY IN ANY GUISE WHATEVER, OR ANY INVESTMENTS OF PUBLIC FUNDS, FROM THE JURISDICTION OF THE COMMISSION ON AUDIT.
+May I explain my reasons on record.
+We know that a number of entities of the government took advantage of the absence of a legislature in the past to obtain presidential decrees exempting themselves from the jurisdiction of the Commission on Audit
+, one notable example of which is the Philippine National Oil Company which is really an empty shell. It is a holding corporation by itself, and strictly on its own account. Its funds were not very impressive in quantity but underneath that shell there were billions of pesos in a multiplicity of companies. The PNOC â the empty shell â under a presidential decree was covered by the jurisdiction of the Commission on Audit, but the billions of pesos invested in different corporations underneath it were exempted from the coverage of the Commission on Audit.
+Another example is the United Coconut Planters Bank. The Commission on Audit has determined that the coconut levy is a form of taxation; and that, therefore, these funds attributed to the shares of 1,400,000 coconut farmers are, in effect, public funds. And that was, I think, the basis of the PCGG in undertaking that last major sequestration of up to 94 percent of all the shares in the United Coconut Planters Bank. The charter of the UCPB, through a presidential decree, exempted it from the jurisdiction of the Commission on Audit, it being a private organization.
+So these are the fetuses of future abuse that we are slaying right here with this additional section.
+. . . .
+MR. DE CASTRO:
+Thank you. May I just ask a few questions of Commissioner Ople.
+Is that not included in Section 2(1) where it states: "(c) government-owned or controlled corporations and their subsidiaries"? So that if these government-owned and controlled corporations and their subsidiaries are subjected to the audit of the COA, any law exempting certain government corporations or subsidiaries will be already unconstitutional.
+So I believe, Madam President, that the proposed amendment is unnecessary.
+MR. MONSOD:
+I think the Commissioner is trying to avoid the situation that happened in the past, because the same provision was in the 1973 Constitution and yet somehow a law or a decree was passed where certain institutions were exempted from audit. We are just reaffirming, emphasizing, the role of the Commission on Audit so that this problem will never arise in the future.
+There is an irreconcilable conflict between the second sentence of Section 20 of PD 198 prohibiting COA auditors from auditing LWDs and Sections 2(1) and 3, Article IX-D of the Constitution vesting in COA the power to audit all GOCCs. We rule that the second sentence of Section 20 of PD 198 is unconstitutional since it violates Sections 2(1) and 3, Article IX-D of the Constitution.
+[58]
+ (Citation omitted)
+Section 15 of Presidential Decree No. 1869 does not totally deprive the Commission of its audit jurisdiction over PAGCOR funds. Still, the limitation on extent of audit is a curtailment of its power, which is inconsistent with Article IX-D, Sections 2(1) and 3, of the Constitution.
+At any rate, the constitutionality of Presidential Decree No. 1869 is not questioned here, which prevents the Court from taking up this issue. However, this is an opportune time for the legislative and executive departments to review and re-examine PAGCOR's charter and its amendatory laws, particularly PAGCOR's dual roles and the limitation on the Commission on Audit's jurisdiction, in light of their perceived inconsistencies with the Constitution.
+ACCORDINGLY
+, I vote to 
+GRANT
+ the petition.
+[1]
+ Creating the Philippine Amusements and Gaming Corporation (January 1, 1977).
+[2]
+ Presidential Decree No. 1067-A. sec. 1.
+[3]
+ Presidential Decree No. 1067-A, Section 1.
+[4]
+ Presidential Decree No. 1067 A, Section 4.
+[5]
+ Presidential Decree No. 1067-A, sec. 5 provides:
+SECTION 5. 
+Board of Directors
+. â The Corporation shall be governed and its activities be directed, controlled and managed by a Board of Directors that shall be composed of five (5) 
+ex-officio
+ members, namely (1) The Chairman of the "National Development Corporation, who shall act as Chairman; (2) The Secretary of Public Works; (3) The Secretary of the Department of Social Welfare; and two other members to be appointed by the President of the Philippines.
+The two appointive directors shall each serve for a term of two (2) years or until their successors shall have been appointed and qualified.
+[6]
+ Presidential Decree No. 1067-%., sec. 3 provides:
+SECTION 3. 
+Corporate Powers
+. â The Corporation shall have the power:
+(a) to prescribe its by-laws;
+(b) to adopt, alter and use a corporate seal;
+(c) to make contracts and to sue and be sued:
+(d) to own real or personal property and to sell, mortgage or otherwise dispose of the same;
+(e) to employ such officers and personnel as may be necessary to carry on its business:
+(f) to acquire, lease or maintain, whether on land, water, or air, personal property and such other equipment and facilities as may be necessary to carry out its purposes;
+(g) to import, buy, sell or otherwise trade or deal in merchandise, goods, wares and objects of all kinds and descriptions that may be necessary to carry out the purposes for which it has been created;
+(h) to enter into, make, perform, and carry out contracts tracts of every kind and for any lawful purpose pertaining co the business of the corporation, or in any manner incident thereto, as principal agent or otherwise, with any person, firm, association, or corporation;
+(i) to do anything and everything necessary, desirable, convenient, appropriate, suitable or proper for the accomplishment of any of the purposes or the attainment of any of the objects or the furtherance of any of the powers herein stated, either alone, or in association with other corporations, firms or individuals, and to do every other act or thing incidental or pertaining to, or growing out of, or connected with the aforesaid purposes, objects, or powers or any part thereof.
+j) to borrow money from local, or foreign sources as may be necessary for its operation;
+(k) to invest its funds as the corporation may deem proper and necessary in any activity related to its principal operations, including in any bonds or securities issued and guaranteed by the Government of the Philippines,
+(l) to establish and maintain clubs casinos, branches agencies or subsidiaries, or other units anywhere in the Philippines as may be needed by the Corporation and reorganize or abolish the same as it may-deem proper'
+(m) to perform such other functions as may be provided by law.
+[7]
+ Granting PAGCOR of Franchise to Establish, etc. Gambling Casinos (January 1, 1977).
+[8]
+ Presidential Decree No. 1067-B, sec. 1.
+[9]
+ Presidential Decree No. 1067-B. sec. 2(1).
+[10]
+ Presidential Decree No. 1067-B, sec. 2(5).
+[11]
+ Presidential Decree No. 1067-B, sec. 3 provides:
+SECTION 3. 
+Special Condition of Franchise. â Sixty (60%) percent of the aggregated gross earnings derived by the franchise holder from this franchise shall be immediately set aside and allocated to fund the following infrastructure and socio-civic projects within the Metropolitan Manila Area.
+(a) Flood Control.
+(b) Sewerage and Sewage.
+(c) Nutritional Programs.
+(d) Population Control.
+(e) "Tulungan ng Bayan" Centers.
+(f) Beatification. (Emphasis in the original)
+[12]
+ Presidential Decree No. 1067-B, sec. 5 provides:
+SECTION 5. 
+Other Conditions
+. â
+(4) 
+Audit of income
+. â T he books of accounts of the franchise holder, as well as all financial records and other supporting documents, shall be subject to audit by the Commission on Audit or his duly authorized representative.
+[13]
+ Presidential Decree No. 1067-B. sec. 4.
+[14]
+ Presidential Decree No. 1067-B, sec. 5(5).
+[15]
+ Presidential Decree No. 1399, 1
+st
+ and 2
+nd
+ Whereas Clauses.
+[16]
+ Amending Certain Sections of Presidential Decree No. 1067-A dated January 1, 1977 and Presidential Decree No. 1067-B dated January 1, 1977 (June 2. 1978).
+[17]
+ Presidential Decree No. 1399, sec. 1 provides:
+SECTION 1. Section 5 of Presidential Decree No. 1067-A dated January 1. 1977, is hereby amended to read as follows: :
+"SEC. 5. 
+Board of Directors.
+ â The Corporation shall be governed and its activities be directed, controlled and managed by a Board of Directors that shall be composed of five (5) members, namely: (1) The Chairman of the National Development Corporation, who shall act as Chairman; (2) Government Corporate Counsel: (3) Office of the Executive Assistant, Office of the President, or their respective representatives; and two other members to be appointed by the President of the Philippines from the private sector."
+[18]
+ Presidential Decree No. 1399, sec. 2 provides:
+SECTION 2. Section 3 of Presidential Decree No. 1067-B is hereby amended to read as follows: Section 3. SPECIAL CONDITION OF FRANCHISE. â . . .
+. . . .
+In addition to the priority infra-structure and socio-civic projects within the Metropolitan Manila Areas specifically enumerated above, the 60% share of the government in the aggregate gross earnings derived by the Franchise Holder from this Franchise may now be appropriated and allocated to fund and finance any infrastructure and/or socio-civic projects throughout the Philippines as may be directed and authorized by the Office of the President
+ (Emphasis supplied)
+[19]
+ Presidential Decree No. 1869. sec 4.
+[20]
+ 
+Commissioner of Internal Revenue v. Acesite (Philippines) Hotel Corp
+. 545 Phil. 113 (2007) [Per J. Velasco, Jr., Second Division].
+[21]
+ Consolidating and Amending Presidential Decree Nos. 1067-A, 1067-B, 1067-C, 1399 and 1632, Relative to the Franchise and Powers of the Philippine Amusement and Gaming Corporation (PAGCOR) (July 11, 1983).
+[22]
+ Amended Presidential Decree No. 1067-B, PAGCOR's franchise, by adding the following provision: This franchise shall become exclusive in character, subject only to the exception of existing franchises and games of chance heretofore permitted by law, upon the generation by the Franchise Holder of gross revenues amounting to P1.2 Billion and its contribution therefrom of the amount of P720 Million as the government's share. (Section 1)
+[23]
+ Amending Sections Three and Four of Presidential Decree No. 1067-B . . . , as amended by Presidential Decree No. 1399 . . . (August 13, 1979).
+[24]
+ 2
+nd
+ Preambular Clause.
+[25]
+ Presidential Decree No, 1869, sec. 4.
+[26]
+ Presidential Decree Nc. 1869, sec. 12.
+[27]
+ 5,
+th
+ Preambular Clause
+TITLE V 
+Government Audit
+SECTION 15. 
+Auditor
+ â The Commission on Audit or any government agency that the Office of the President may designate shall appoint a representative who shall be the Auditor of the Corporation and such personnel as may be necessaiy to assist said representative in the performance of his duties. The salaries of the Auditor or representative and his staff shall be fixed by the Chairman of the Commission on Audit or designated government agency, with the advice of the Board, and said salaries and other expenses shall be paid by the Corporation. 
+The funds of the Corporation to be covered by the audit shall be limited to the 5% franchise tax and the 50% of the gross earnings pertaining to the Government as its share. 
+ (Emphasis supplied)
+[28]
+ Presidential Decree no. 1869, sec. 3.
+[29]
+ Republic Act No. 9487, sec. 1 provides:
+SECTION 1. The Philippine Amusement and Gaming Corporation (PAGCOR) franchise granted under Presidential Decree No, 1869, otherwise known as the PAGCOR Charter, is hereby further amended to read as follows:
+(1) Section 10, Nature and Term of Franchise, is hereby amended to read as follows:
+SEC. 10. 
+Nature, and Term of Franchise. 
+â
+Subject to the terms and conditions established in this Decree, the Corporation is hereby granted from the expiration of its original term on July 11, 2008, another period of twenty-five (25) years, renewable for another twenty-five years, the rights, privileges and authority to operate and license gambling casinos, gaming clubs and other similar recreation or amusement places, gaming pools, i.e. basketball, football, bingo, etc. except, jai-alai, whether on land or sea, within the territorial jurisdiction of the Republic of the Philippines: 
+Provided
+, That the corporation shall obtain the consent of the local government unit that has territorial jurisdiction over the area chosen as the site for any of its operations.
+The operation of slot machines and other gambling paraphernalia and equipment, shall not be allowed in establishments open or accessible to the general public unless the site of these operations are three-star hotels and resorts accredited by the Department of Tourism authorized by the corporation and by the local government unit concerned.
+The authority and power, of the PAGCOR to authorize, license and regulate games of chance, games of cards and games of numbers shall not extend to: (1) games of chance authorized, licensed and regulated by, in, and under existing franchises or other regulatory bodies; (2) games of chance, games of cards and games of numbers authorized, licensed, regulated by, in, and under special laws such as Republic Act No. 7922, and (3.) games of chance, games of cards and games of numbers like cockfighting, authorized licensed and regulated by local government units. The conduct of such games of chance, games of cards and games of numbers covered by existing franchises, regulatory bodies or special laws, to the extent of the jurisdiction and powers granted under such franchises and special laws, shall be outside the licensing authority and regulatory powers of the PAGCOR.
+[30]
+ Presidential Decree No. 1869, sec. 14(5).
+[31]
+ 
+Basco v. Philippine Amusements and Gaming Corp.
+, 274 Phil. 323 (1991) [Per J Paras, En Banc].
+[32]
+ Presidential Decree No. 1869, sec. 12.
+[33]
+ Presidential Decree No. 1869, 5
+th
+ Whereas Clause.
+[34]
+ 694 Phil 52 (2012) [Per J. Perlas-Bernabe, En Banc].
+[35]
+ Id. at 118-119.
+[36]
+ 
+Lim v. Pacquing
+, 310 Phil. 722 (1995) [Per J. Padilla, En Banc].
+[37]
+ 
+Miralles v. Commission on Audit
+, 818 Phil. 389, 389 (2017) [Per J. Bersamin, En Banc].
+[38]
+ 
+Funa v. Manila Economic & Cultural 0ffice
+, 726 Phil. 63, 86 (2014) [Per J. Perez, En Banc].
+[39]
+ Id.
+[40]
+ Id.
+[41]
+ Id. at 87, 
+citing 
+sec. 29(1) of the Audit Code and sec. 14(1), Book V, of the Administrative Code.
+[42]
+ 
+Orocio v. Commission on Audit
+, 287 Phil. 1045 [Per J. Davide. Jr. Third Division],
+[43]
+ CONST, art. IX-D, sec. 2(2).
+[44]
+ Introductory Provisions. E.G. 292. sec. 2(13).
+[45]
+ G.R. No. 211293, June 4, 2019 [per J. Leonen, En Banc].
+[46]
+ 
+Feliciano v. Commission on Audit,
+ 464 Phil. 439. 462 (2004) [Per J. Caipio, En Banc].
+[47]
+ Id. at 461-462
+[48]
+ 
+Basco v. Philippine Amusements and Gaming Corp
+., 274 Phil. 323 (1991) [Per J. Paras, En Banc].
+[49]
+ 
+Republic v. COCOFED
+, 423 Phil. 735 (2001) [Per J. Panganiban, En Banc].
+[50]
+ 
+Caltex Philippines, Inc. v. Commission on Audit
+, 284-A Phil. 233 (1992) [Per J. Davide, Jr., En Banc].
+[51]
+  302 Phil. 107 (1994) (PerJ. Davide, Jr., En Banc],
+[52]
+  J. Feliciano. Separate Concurring Opinion in 
+Kilosbayan, Inc. v. Guingona, Jr.,
+ 302 Phil. 107, 116-11" (1994) [Per J. Davide, Jr.. En Banc;
+[53]
+ 
+Fernando v. Commission  v.  Audit
+, December  4,  2018, < https://elibrary.judiciary.gov.ph/thebookshelf/.showdocs/1/64808 > [Per J. Tijam, En Banc], Presidential Decree No. 1067-B, sec 5.
+[54]
+ Presidential Decree No. 1067-B, sec. 5.
+[55]
+ CONST, sec. 2, art. IX-D provides: 
+Section. 2. ...
+....
+(2) The Commission shall have 
+exclusive authority
+, subject to the limitations in this Article, to define the scope of its audit and examination, establish the techniques and methods required therefor, and 
+promulgate accounting and auditing rules and regulations
+, including those for the prevention and disallowance of irregular, unnecessary, excessive, extravagant, or unconscionable expenditures or uses of government funds and propertied] (Emphasis supplied)
+[56]
+ 
+Barbo v. Commission on Audit,
+ 589 Phil. 289, 297 (2008) [Per J. Leonardo-De Castro, En Banc].
+[57]
+ 
+Feliciano v. Commission on Audit
+, 464 Phil. 439. 465 (2004) [Per J. Carpio, En Banc].
+[58]
+ Id. at 465-468.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

@@ -1,0 +1,1601 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 223450, February 22, 2023 ]
+
+
+ROMAGO, INC. AND FRANCISCO GONZALEZ, PETITIONERS, VS. ASSOCIATED BANK (NOW UNITED OVERSEAS BANK PHILS.) AND METALLOR TRADING CORPORATION, RESPONDENTS.
+
+
+D E C I S I O N
+
+
+
+
+LEONEN, SAJ.:
+
+
+Novation must be clear and express. While the creditor's consent to a change in debtor may be derived from clear and unequivocal acts of acceptance, such act must be wholly consistent with the release of the original debtor. Thus, acceptance of payment from a third person will not necessarily release the original debtor from their obligation.
+[1]
+ Moreover, when the contracts are part of a commercial transaction and reduced to writing, novation cannot be implied simply from a creditor's inaction. Silence is, at best, ambiguous in the presumption that both parties are diligent agents in a commercial transaction.
+ Romago, Incorporated
+[2]
+ (Romago), and its president, Francisco C. Gonzalez
+[3]
+ (Gonzalez) filed a Petition for Review on 
+Certiorari
+[4]
+ before this Court. The Petition assails the Court of Appeals Decision
+[5]
+ and Resolution
+[6]
+ which both affirmed the Regional Trial Court's finding that Romago was liable to pay Associated Bank (now United Overseas Bank, or the Bank) the amount of the loan indicated in Promissory Notes Nos. 9660 and 9661, including accrued interests.
+[7]
+ 
+ On April 7, 1993, the Bank filed a Complaint for Sum of Money against Romago for loan obligations contracted by Romago sometime in August 1978. Romago allegedly took out three loans, supported by Promissory Notes Nos. BD-3728 for PHP 300,000.00, BD-3750 for PHP 700,000.00, and BD-3714 for PHP 700,000.00.
+[8]
+ 
+ According to the Bank, Romago fully paid its obligations under Promissory Note Nos. BD-3728 and BD-3750 but was unable to pay the PHP 700,000.00 corresponding to Promissory Note No. BD-3714. Thus, on April 30, 1983, Romago sought and was given a restructuring of its obligations under Promissory Note No. BD-3714, converting the latter into two separate instruments: Promissory Note No. 9660 for PHP 700,000.00, and Promissory Note No. 9661 for PHP 629,572.00 (collectively, the "restructured notes"). The Bank alleged that on October 5, 1983, Romago was able to pay PHP 64,652.17 for the amounts due under Promissory Note No. 9660, and PHP 103,632.09 for Promissory Note No. 9661. However, no further payments were made.
+[9]
+ 
+ Instead, Romago contended that Promissory Note No. BD-3714, which was eventually restructured, was a "conduit loan" for Metallor Trading Corporation (Metallor). Romago denied having made any payments on the restructured notes, and instead cited several letters from Metallor indicating the latter's supposed admission of liability under Promissory Note No. BD-3714. Among these were letters which allegedly declared Metallor's intent to "update all unpaid interest" of the loan covered by Promissory Note No. BD-3714 and to "submit collaterals . . . to secure this obligation."
+[10]
+ Romago also presented letters from Metallor, showing that the latter was procuring proofs of titles to properties that it would be offering for the obligation under Promissory Note No. BD-3714.
+[11]
+ The other letters allegedly show that Metallor recognized a "conduit obligation of Mr. Lorenzo Sarmiento, Jr., amounting to Seven Hundred Thousand Pesos (PHP 700,000.00),"
+[12]
+ and that it undertook "to pay the account of [Romago] relative to P.N. No. 9660."
+[13]
+ Romago also argued that it consistently maintained its role as a conduit in procuring the loan covered by the restructured notes. It also presented its own letters, which cite the supposed arrangement between Romago and Metallor, where the latter had assumed to pay for the outstanding loan.
+[14]
+ 
+ For its part, Metallor argued that Romago as third-party complainant had no cause of action. In any event, Metallor insisted that its alleged liability on the loan had already prescribed.
+[15]
+ It thus moved for leave to file a demurrer to evidence, but eventually manifested that it was instead adopting parts of the Bank's documentary evidence.
+[16]
+ The Regional Trial Court ruled in favor of the Bank,
+[17]
+ holding that Romago remained obligated to pay, since there was no indication that Metallor expressly bound itself together with Romago, or that it assumed Romago's entire obligation under the promissory notes.
+[18]
+ Rather, the evidence showed only Romago's liability for the loans because only Romago's president signed the promissory note. Neither was there a novation of the obligation, absent express consent from the creditor that it assented to a change in debtor. According to the trial court, "novation cannot be inferred unless it is so declared in unequivocal terms, or that the old and the new obligations are incompatible on every point with each other."
+[19]
+ The Bank's acceptance of Metallor's partial payments did not release Romago from its obligation under the promissory notes.
+[20]
+ Thus, the trial court dismissed the third-party complaint against Metallor.
+[21]
+ The trial court also awarded the Bank attorney's fees equal to 20% of the total outstanding obligation, as agreed between Romago and the Bank under the promissory notes.
+[22]
+ Romago filed a Notice of Appeal before the Court of Appeals and subsequently filed its Appellant's Brief on July 3 1, 2014. There, Romago maintained that it obtained the loan covered by Promissory Note No. BD-3714 as mere conduit for Metallor, whose president, Lorenzo Sarmiento, Jr. (Sarmiento) was also a "Director/Officer/Stockholder/Related Interest" of the Bank.
+[23]
+ According to Romago, Metallor overextended its credit line with the Bank when Sarmiento took out a prior loan as an accommodation for Leonardo Ty, yet another of the Bank's stockholders.
+[24]
+ The prior accommodation loan was allegedly used to ransom Leonardo Ty's kidnapped child.
+[25]
+ Since Metallor could no longer take out loans on its own account, the Bank's stockholders, led by Marcelino Marcy Ty, convinced Romago and Gonzalez to act as a conduit for the loan that became Promissory Note No. BD-3714. Gonzalez claimed to be friends with the Bank's stockholders, and thus agreed to the latter's request.
+[26]
+ Romago again referred to the letters exchanged by the parties, which supposedly contained Metallor's admission of its direct liability for the loan obtained by Romago.
+[27]
+ Romago also argued that the Bank's acceptance of Metallor's partial payments implied the creditor's consent to a change in debtor.
+[28]
+ In line with this argument, Romago also asserted that the creditor's inaction and the new debtor's overt acts assuming the obligation was implied creditor consent to a change in debtor.
+[29]
+ Thus, Romago alleged that since the Bank did not object to Metallor's letters assuming Romago's liability under Promissory Note No. BD-3714, and since Metallor did, in fact, make partial payments on the obligation, Metallor should be deemed to have replaced Romago as debtor.
+[30]
+ Finally, Romago contested its liability for attorney's fees, arguing that Metallor, as the true beneficiary of the loan, should be the one liable for the costs of the suit.
+[31]
+ 
+ The Bank filed its Appellee's Brief on October 29, 2014, arguing that the trial court correctly upheld Romago's liability for the loan covered by Promissory Note No. BD-3714. Romago cannot offload its liability to Metallor since the latter was not even privy to the contract between Romago and the Bank.
+[32]
+ The Bank also reiterated that the letters cited by Romago were insufficient to establish Metallor's sole liability under the promissory notes.
+[33]
+ Rather, it agreed with the trial court's finding that novation in the person of the debtor did not take place. The Bank argued that while express consent to the change in debtor was not required, this Court still requires acts by the creditor amounting to "clear and unmistakable consent."
+[34]
+ Taken together with the absence of evidence indicating that the loan covered by Promissory Note No. BD-3714 was a mere "conduit loan" or that Romago and Metallor expressly agreed to the latter's assumption of the former's loan obligation, the Bank maintained that Romago should be held liable to pay.
+[35]
+ 
+ On October 26, 2015, the Court of Appeals affirmed the Regional Trial Court's Decision finding Romago liable to pay the loan covered by the restructured notes.
+[36]
+ The court held that while Metallor "had knowledge of Romago's outstanding loan and offered to pay the latter's indebtedness," this did not amount to Metallor being solely liable for the loan obligation taken out by Metallor.
+[37]
+ While this acknowledgment and endeavor to pay may have resulted in Metallor being liable to pay together with Romago, this "does not constitute a novation, and the creditor can still enforce the obligation against the original debtor."
+[38]
+ Further, the Court of Appeals ruled that novation requires either an explicit statement of novation in unequivocal terms, or an incompatibility on every point between the old and new obligations. Thus, even if Metallor's letters offered to pay for and secure Romago's outstanding obligation, this offer could not be considered an express novation of Romago's obligation under the promissory notes.
+[39]
+ According to the Court of Appeals, the Bank did not express unequivocal consent to Metallor's propositions even after accepting the partial payment on the restructured notes because a creditor's acceptance of payment from a third person does not imply acceptance of a change in debtor. The restructuring of the loan did not clear Romago of liability either. According to the Court of Appeals, "novation is never presumed," and "[w]ithout such release, there is no novation."
+[40]
+ The Court of Appeals also disregarded the supposed admissions against interest made by Metallor's president in a previous case, holding the same irrelevant to the issue at hand. As to the grant of attorney's fees, the court upheld the award of 20% of the outstanding obligation, consistent with the stipulations in the promissory note.
+[41]
+ On November 23, 2015, Romago moved for reconsideration of the Court of Appeals' October 26, 2015 Decision. It argued that the letters exchanged between Romago, Metallor, and the Bank clearly indicated that Metallor assumed sole liability for the loan covered by Promissory Note No. 9660, formerly BD-3714, as restructured by the Bank. Metallor then wrote a letter undertaking to pay the account of Romago relative to the restructured notes. Moreover, Metallor submitted a list of its properties offered as collateral for the obligations covered by the restructured notes.
+[42]
+ Romago further discussed how all parties consented to Metallor's substitution of Romago as debtor. Romago drew comparisons between the present case and that of 
+Babst v. Court of Appeals
+,
+[43]
+ where this Court upheld the substitution of the debtor because the creditor failed to object when it was informed of the substitution. According to Romago, the Bank "was duly informed of the arrangement between appellant ROMAGO, INC. and . . . party defendant METALLOR not once but on at least three different occasions."
+[44]
+ Despite these opportunities to object, the Bank failed to do so. Thus, Romago argued that the Bank's failure to object amounted to "clear and unmistakable expression of consent to the substitution of the debtor."
+[45]
+ On February 29, 2016, the Court of Appeals denied the Motion for Reconsideration, adopting the Bank's comment that the arguments presented in the Motion were reiterations of the position Romago took on appeal.
+[46]
+ On April 25, 2016, Romago and Gonzalez filed this Petition for Review on 
+Certiorari
+ under the Rules of Court. Petitioners argue that while the issues raised in their Petition pertain to questions of fact, the Court of Appeals' judgment was "manifestly mistaken" and was "based on a misapprehension of facts."
+[47]
+ According to petitioners, these circumstances exempt their Petition from the rule limiting Rule 45 petitions to questions of law.
+[48]
+ 
+ Petitioners also insist that Romago was a mere conduit for respondent Metallor in obtaining the loan from the Bank.
+[49]
+ According to petitioners, the lower courts failed to consider "the totality of the facts and circumstances" which indicated respondent Bank's acquiescence to its substitution as debtor.
+[50]
+ The circumstances allegedly establishing the Bank's acquiescence included: (1) respondent's failure to object to petitioners' letter expressing "gratitude to the Respondent Bank" for separating respondent Metallor's PHP 700,000.00 conduit obligation from Romago's own loan obligations; (2) Metallor's letter dated October 29, 1984 assuming "sole liability for the loan obligation"; and (3) respondent Bank's acceptance of partial payment on the conduit loan, "notwithstanding the absence of proof that the payment was made by the petitioner."
+[51]
+ 
+These circumstances allegedly gave respondent Bank "knowledge of the arrangement" between itself, Metallor, and petitioner Romago. According to petitioners, respondent Bank's failure to object to this arrangement amounted to the Bank's consent to a change in debtor.
+[52]
+ Moreover, Metallor allegedly wrote a letter expressly stating that it "shall undertake the payment of the account of Romago Electric Company as restructured by the [B]ank" without objection from the respondent Bank.
+[53]
+ 
+ Petitioners also allege that the Court of Appeals and the trial court should have at least held respondent Metallor liable "to reimburse petitioner whatever amount petitioner is ordered to pay respondent bank,"
+[54]
+ in view of respondent Metallor's inclusion as third-party defendant, and its failure to rebut any of petitioners' evidence establishing Metallor's liability under the loan. Despite this, petitioners note that the Court of Appeals merely affirmed the dismissal of the third-party complaint against Metallor.
+[55]
+ In any event, petitioners argue that its payment of the obligation covered by the restructured notes would amount to unjust enrichment on respondent Metallor's behalf. Respondent Metallor would essentially have received the proceeds of the loan without having to pay any of it back to the lender.
+[56]
+ Finally, petitioners insist that respondent Metallor should be solely liable for attorney's fees since it was "the real obligor of the Respondent Bank."
+[57]
+ This Court ordered respondent Metallor to Comment on the Petition on November 9, 2016.
+[58]
+ In its Comment, respondent Metallor argues that the issue of novation was a question of fact, which cannot be resolved in a petition for review on 
+certiorari
+.
+[59]
+ In any event, respondent Metallor reiterates that the Bank did not consent to any change in debtor. That a third person may have paid for the loan did not necessarily mean that respondent Bank consented to a change in debtor, absent an ''express release of the old debtor."
+[60]
+ Rather, respondent Bank continued to demand petitioners' overdue accounts, and never expressly consented to respondent Metallor's supposed assumption of petitioners' loan obligation.
+[61]
+ Thus, respondent Metallor cannot be deemed to have substituted petitioner in its obligation to respondent Bank.
+[62]
+ Respondents Metallor and the Bank further argue that "[t]here was no evidence presented that the loan was a conduit loan for the account of Metallor."
+[63]
+ Other than its own allegations, petitioners do not adduce any evidence indicating that respondent Metallor is the sole beneficiary of the supposed conduit loan, or that there is an agreement that petitioners will act as a mere conduit for respondent Metallor. Therefore, respondent Metallor insists that petitioners had no cause of action against it, and that the lower courts properly dismissed the third-party complaint.
+[64]
+ Thus, respondents Metallor and the Bank conclude that the Court of Appeals correctly affirmed the trial court's decision finding petitioner Romago liable to pay the outstanding loan obligation covered by the restructured notes, and that petitioner Romago is liable to pay attorney's fees at the rate stipulated in the same notes.
+[65]
+ 
+On May 8, 2017, petitioners filed a Motion to Admit Attached Reply, together with their Reply,
+[66]
+ which this Court respectively granted and noted on September 27, 2017.
+[67]
+ In their Reply, petitioners continue to insist that "consent may well be inferred from the acts of the creditor, since volition may as well be expressed by deeds as by words."
+[68]
+ Thus, respondent Bank allegedly consented to novation when it received notice of the arrangement between petitioner Romago and respondent Metallor, but failed to object and instead accepted partial payment from the latter.
+[69]
+ 
+ The issues for this Court's resolution are as follows: 
+ 
+ (1) Whether the Petition raises questions appropriate for review in a petition for review on 
+certiorari
+; 
+ 
+(2) Whether petitioner Romago is liable under the loan obligation, which requires a finding on whether novation took place; and
+ 
+ (3) Whether the lower courts properly awarded attorney's fees.
+ 
+ 
+ We deny the Petition.
+ The Petition raises questions of fact, which fall beyond the scope of a Rule 45 petition and fails to establish an exception to this rule. In any event, the lower courts correctly maintained petitioner's liability under the outstanding loan. Likewise, the lower courts correctly awarded attorney's fees to respondents.
+ 
+I
+ 
+ 
+Pascual v. Burgos
+[70]
+ adequately explains the scope of review that this Court may undertake pursuant to a petition for review on 
+certiorari
+. 
+ 
+ The Rules of Court require that 
+only questions of law should be raised in petitions filed under Rule 45. This court is not a trier of facts
+. It will not entertain questions of fact as the factual findings of the appellate courts are "final, binding[,] or conclusive on the parties and upon this [C]ourt" when supported by substantial evidence. Factual findings of the appellate courts will not be reviewed nor disturbed on appeal to this court.
+[71]
+ (Emphasis supplied; citations omitted)
+ 
+ 
+ Concurrently, 
+Miro v. Vda. De Erederos
+[72]
+ discusses the distinctions between a question of fact and a question of law. 
+ 
+ There is a question of law when the doubt or difference arises as to what the law is on a certain set of facts; 
+a question of fact
+, on the other hand, 
+exists when the doubt or difference arises as to the truth or falsehood of the alleged facts
+. Unless the case falls under any of the recognized exceptions, we are limited solely to the review of legal questions.
+[73]
+ (Emphasis supplied; citations omitted)
+ 
+ 
+ The Petition raises a question of fact, as it explicitly states that "[t]he Court of Appeals and the RTC failed to consider the following facts."
+[74]
+ The Petition then proceeds to refer to several letters between the parties, which allegedly indicate respondent Metallor's intent to assume petitioner Romago's liability under the loan and respondents consent to the assumption. Further, the parties dispute whether the law on novation recognizes such circumstances as having sufficiently hurdled the legal standard for a change of debtor.
+ 
+Far Eastern Surety and Insurance Co. Inc. v. People
+[75]
+ exemplifies that this Court determines the nature of the issues in a petition based on the extent of review required to resolve them. 
+ 
+ The test, therefore, is 
+not the appellation given to a question
+ by the party raising it, 
+but whether the appellate court can resolve the issue without examining or evaluating the evidence
+, in which case, it is 
+a question of law
+; otherwise, it is a question of fact.
+[76]
+ (Emphasis supplied; citations omitted)
+ 
+ 
+ Further, 
+Domingo
+[77]
+ provides that determining the existence of consent in novation is a factual question "because it requires the Court to review the evidence on record."
+[78]
+ Thus, the Petition raises questions of fact that cannot be reviewed under a petition for review on 
+certiorari
+. 
+ As to petitioners' claim of exception, 
+Pascual v. Burgos
+[79] 
+provides that any such claim "must be alleged, substantiated, and proved" before this Court proceeds to evaluate factual questions. However, other than insisting on a re-evaluation of their evidence's probative value, petitioners do not allege any valid exemption to the rule that a Rule 45 Petition may raise only questions of law. 
+ In any event, any review undertaken by this Court pursuant to a Rule 45 petition remains subject to this Court's sound judicial discretion.
+[80]
+ 
+ 
+ SECTION 6. Review discretionary. â 
+A review is not a matter of right, but of sound judicial discretion, and will be granted only when there are special and important reasons thereof
+. The following, while neither controlling nor fully measuring the court's discretion, indicate the character of the reasons which will be considered:
+ 
+ 
+ (a) When the court 
+a quo
+ has decided a question of substance, not theretofore determined by the Supreme Court, or has decided it in a way probably not in accord with law or with the applicable decisions of the Supreme Court; or
+ 
+ (b) When the court 
+a quo
+ has so far departed from the accepted and usual course of judicial proceedings, or so far sanctioned such departure by a lower court, as to call for an exercise of the power of supervision. (Emphasis supplied)
+ 
+ 
+ 
+ Even if this Court were to undertake a review of the Petition's merits, the Petition would still fail.
+ 
+II
+ 
+ Petitioners insist that they are not liable for the loan covered by Promissory Note No. BD-3714, because they acted as a mere "conduit" for Metallor.
+[81]
+ Petitioners deny having received any of the loan proceeds, alleging that they remitted all of it to respondent Metallor. They then cite several letters and statements given in open court in an attempt to establish Metallor as the "true debtor" under the outstanding loan.
+[82]
+ On the other hand, respondents argue that petitioners have not presented any evidence that would prove their alleged status as a mere "conduit" for respondent Metallor. Respondents thus insist that Romago should be solely liable for the loan.
+[83]
+ The dispute centers on the extent of petitioner Romago's liability for the loan covered by the outstanding promissory notes. From the petitioners' allegations, it appears that despite admitting to signing the instrument, they claim to have received no value from the instrument and to have signed solely to lend their name to Metallor. These are all badges of an accommodation party arrangement,
+[84]
+ as laid out in Section 29 of the Negotiable Instruments Law: 
+ 
+ SECTION 29. 
+Liability of accommodation party
+. â An accommodation party is one who has 
+signed the instrument as maker, drawer, acceptor, or indorser, without receiving value therefor, and for the purpose of lending his name to some other person
+. Such a person is liable on the instrument to a holder for value, notwithstanding such holder, at the time of taking the instrument, knew him to be only an accommodation party. (Emphasis supplied)
+ 
+ 
+ However, petitioners failed to prove that they did not receive any of the loan proceeds secured by the promissory note, and that such proceeds were entirely remitted to respondent Metallor. If the parties did contract the loan as an accommodation for respondent Metallor, and if petitioners remitted all proceeds of the loan to the latter, such circumstances should have at least been reflected in the contract's supporting documents. Respondent Metallor's letters allegedly admitting its own liability to the Bank do not preclude petitioner Romago's liability for their own obligation. This Court must render judgment based on the evidence on record, which presently shows petitioner Romago's primary liability on the promissory notes. Since allegations are not proof,
+[85]
+ there is no evidence on record to support petitioners' claim that respondent Metallor was the sole beneficiary of the loan.
+ Even if petitioners were able to prove that they did not receive any value from lending their name to respondent Metallor's "conduit loan," their status as accommodation party would still entail primary liability on the instrument: 
+ 
+ 
+The relation between an accommodation party and the party accommodated is, in effect, one of principal and surety
+ â 
+ the accommodation party being the surety
+. It is a settled rule that a surety is bound equally and absolutely with the principal and is deemed an original promisor and debtor from the beginning. 
+The liability is immediate and direct. It is not a valid defense that the accommodation party did not receive any valuable consideration when he executed the instrument
+; nor is it correct to say that the holder for value is not a holder in due course merely because at the time he acquired the instrument, he knew that the indorser [sic] was only an accommodation party.
+[86]
+ (Emphasis supplied, citations omitted)
+ 
+ 
+ In view of petitioners' failure to establish their claim as being a mere "conduit" for respondent Metallor, the lower courts' findings on their direct liability as signatory to the promissory note must be upheld.
+ As to the issue of novation, 
+Arco Pulp and Paper Co., Inc
+.
+[87]
+ discusses how novation extinguishes an obligation, and when novation takes place. 
+ 
+ 
+Novation extinguishes an obligation between two parties when there is a substitution of objects or debtors or when there is subrogation of the creditor. It occurs only when the new contract declares so
+ "
+in unequivocal terms
+" 
+or that
+ "
+the old and the new obligations be on every point incompatible with each other
+."
+ 
+ . . . .
+ 
+ Because 
+novation requires that it be clear and unequivocal
+, it is 
+never presumed
+, thus:
+ 
+ 
+ In the civil law setting, 
+novation
+ is literally construed as to make new. So it is deeply rooted in the Roman Law jurisprudence, the principle â 
+novatio non praesumitur
+ â that novation is never presumed. At bottom, for novation to be a jural reality, its 
+animus
+ must be ever present, 
+debitum pro debito
+ â basically extinguishing the old obligation for the new one.
+[88]
+ (Emphasis supplied; citations omitted)
+ 
+ 
+ 
+ 
+Arco Pulp
+ further provides that the creditor's consent "must be secured" in novation through a change of debtor.
+[89]
+ 
+Domingo
+ then discusses the applicable principles in determining whether a creditor's acts amount to consent to a change of debtor. 
+ 
+ As a general rule, since novation implies a 
+waiver of the right the creditor
+ had before the novation, such waiver 
+must be express
+. The Court explained the rationale for the rule in 
+Testate Estate of Lazaro Mota v. Serra
+:
+ 
+ 
+ It should be noted that 
+in order to give novation its legal effect, the law requires that the creditor should consent to the substitution of a new debtor. This consent must be given expressly
+ for the reason that, since novation extinguishes the personality of the first debtor who is to be substituted by a new one, it implies on the part of the creditor a waiver of the right that he had before the novation, which waiver must be express under the principle that 
+renuntiatio non praesumitor
+, recognized by the law in declaring that 
+a waiver of right may not be performed unless the will to waive is indisputably shown by him who holds the right
+.
+ 
+ 
+ However, in 
+Asia Banking Corporation v. Elser
+, the Court qualified thus:
+ 
+ 
+ 
+The aforecited article 1205 [now 1293] of the Civil Code does not state that the creditor's consent to the substitution of the new debtor for the old be express, or given at the time of the substitution
+, and the Supreme Court of Spain, in its judgment of June 16, 1908, construing said article, laid down the doctrine that "article 1205 of the Civil Code does not mean or require that the creditor's consent to the change of debtors must be given simultaneously with the debtor's consent to the substitution; its evident purpose being to preserve the creditor's full right, it is sufficient that the latter's consent be given at any time and in any form whatever, while the agreement of the debtors subsists." The same rule is stated in the Enciclopedia Juridica EspaÃ±ola, volume 23, page 503, which reads: "The rule that this kind of novation, like all others, must be express, is not absolute; for 
+the existence of the consent may well be inferred from the acts of the creditor, since volition may as well be expressed by deeds as by words
+." The understanding between Henry W. Elser and the principal director of Yangco, Rosenstock & Co., Inc., with respect to Luis R. Yangco's stock in said corporation, and the acts of the board of directors after Henry W. Elser had acquired said shares, in substituting the latter for Luis R. Yangco, are a clear and unmistakable expression of its consent. When this court said in the case of 
+Estate of Mota vs. Serra
+ (47 Phil., 464), that the 
+creditor's express consent is necessary in order that there may be a novation of a contract by the substitution of debtors
+, it 
+did not wish to convey the impression that the "express" was to be given an unqualified meaning
+, as indicated in the authorities or cases, both Spanish and American, cited in said decision. 
+ 
+ 
+ 
+Hence
+, based on the aforequoted ruling in
+ Asia Banking
+, the existence of the 
+creditor's consent may also be inferred from the creditor's acts, but such acts still need to be 'a clear and unmistakable expression of [the creditor's] consent
+.'
+[90]
+ (Emphasis supplied; citations omitted). 
+ 
+ 
+Here, petitioners contend that, consistent with 
+Babst
+, the creditor bank's failure to object to respondent Metallor's assumption of petitioner Romago's debt establishes clear and unmistakable consent to a change in debtor. 
+ 
+We do not agree. 
+ 
+Domingo
+[91]
+ clarified when a creditor's silence or inaction may amount to clear and unmistakable consent in the context of 
+Babst
+. 
+ 
+ 
+ 
+The absence of objection on the part of BPI (or FEBTC) cannot be presumed as consent. Jurisprudence requires presentation of proof of consent, not mere absence of objection. 
+Amador cannot rely on 
+Babst
+ which involved a 
+different factual milieu
+.
+ 
+ . . . .
+ 
+ 
+In Babst, there was a clear opportunity for BPI, as creditor therein, to object to the substitution of debtors
+ given that its representative attended a creditor's meeting, during which, said representative already objected to the proposed payment formula made by DBP, as the new debtor. Hence, the silence of BPI during the same meeting as to the matter of substitution of debtors could already be interpreted as its acquiescence to the same. 
+In contrast, there was no clear opportunity for BPI (or FEBTC) to have expressed its objection to the substitution of debtors in the case at bar
+.
+[92]
+ (Emphasis supplied; citations omitted)
+ 
+ 
+ In 
+Babst
+, a creditor bank failed to object to a new entity's take-over of the old debtor's assets, which included the old debtor's monetary liability to the creditor bank. Instead, the creditor bank participated in a meeting called by the new debtor to resolve or satisfy the same obligation. Thus, the creditor's conduct in 
+Babst
+ "evinced a clear and unmistakable consent to the substitution" of debtors.
+[93]
+ The circumstances in 
+Babst
+ are markedly different from the exchange of correspondence relied upon by petitioners. In the letters cited by petitioners, respondent Metallor continuously referred to "arrearages of Romago Electric Co. under P.N. No. 3714,"
+[94]
+ "the loan account of Romago Electric Co., Inc.,"
+[95]
+ and "the account of Romago Electric Company as restructured by the Bank."
+[96]
+ Thus, while respondent Metallor manifested its intention to pay for such accounts, the letters clearly state that the obligation sought to be assumed had always Romago's. Likewise, despite respondent Metallor's manifestations, the respondent Bank continued to demand payment of the loan from petitioners and not from respondent Metallor.
+[97]
+ Petitioners also failed to prove that the partial payments made on the promissory notes came from respondent Metallor. While respondent Bank admitted to receiving partial payments on the promissory notes,
+[98]
+ petitioners' insistence that respondent Metallor made these payments
+[99]
+ were not sufficiently established by their evidence. In any event, payment by a third person does not necessarily result in the third person's substitution of the original debtor. 
+Domingo
+ teaches that novation cannot be presumed from a creditor's acceptance of payment from a third person "absent proof of [the creditor's] clear and unmistakable consent to release" the original debtor.
+[100]
+ 
+ 
+ 
+The acceptance by a creditor of payments from a third person, who has assumed the obligation, will result merely to the addition of debtors and not novation. The creditor may therefore enforce the obligation against both debtors. As the Court pronounced in Magdalena Estates, Inc. v. Rodriguez, "[t]he mere fact that the creditor receives a guaranty or accepts payments from a third person who has agreed to assume the obligation, when there is no agreement that the first debtor shall be released from responsibility, does not constitute a novation
+, and the creditor can still enforce the obligation against the original debtor." The Court reiterated in 
+Quinto v. People
+ that "[n]ot too uncommon is when a stranger to a contract agrees to assume an obligation; and while this may have the effect of adding to the number of persons liable, it does not necessarily imply the extinguishment of the liability of the first debtor. Neither would the fact alone that the creditor receives guaranty or accepts payments from a third person who has agreed to assume the obligation, constitute an extinctive novation absent an agreement that the first debtor shall be released from responsibility."
+[101]
+ (Emphasis supplied; citations omitted)
+ 
+ 
+ The present circumstances refute the respondent's alleged consent to release petitioner Romago from its obligation. 
+Landbank v. Ong
+[102]
+ highlights the importance of the need for consistency in the creditor's acts that stand to prove unequivocal consent to a change in debtor. 
+ 
+ Novation must be expressly consented to. Moreover, the 
+conflicting intention and acts of the parties underscore the absence of any express disclosure or circumstances with which to deduce a clear and unequivocal intent
+ by the parties to novate the old agreement.
+[103]
+ (Emphasis supplied; citations omitted)
+ 
+ 
+ Moreover, the contract here forms part of a series of commercial transactions and was reduced to writing, leaving no room for implication in its terms. While petitioners attempted to prove a substitution in debtors, the creditor's acceptance of such a substitution cannot be implied from the creditor's silence or inaction. Even 
+Babst 
+requires that implied consent must be derived from the creditor's unequivocal acts of acceptance.
+ Here, the creditor's supposed silence is, at best, ambiguous and cannot be used to presume acceptance of a change in debtor when the terms of the contract and the creditor's subsequent actions show otherwise. However, it may be presumed that both parties to the commercial transaction are diligent agents who agreed to be bound by the terms of their contract. These terms, as written, must be upheld.
+ 
+III
+ 
+ We find no reason to overturn the lower courts' findings regarding petitioner Romago's liability. Concurrently, the award of attorney's fees at the rate stipulated in the instrument is proper. However, viewing the stipulated conventional and compensatory interest rates in context reveals the need to nullify the stipulated rates for being unconscionable. On the other hand, "interest on interest" may apply, as prescribed by law. 
+III (A)
+ 
+ Article 2208 of the Civil Code recognizes that parties to a contract may stipulate on attorney's fees.
+[104]
+ But while petitioners agreed to stipulate on the payment of "20% of [petitioner Romago's] outstanding obligation on the promissory note," 
+Gorospe and Sebastian v. Gochangco
+[105]
+ provides that such stipulations are not to be literally enforced "no matter how injurious or oppressive it may be." 
+ 
+ From Bachrach 
+vs
+. Golingco, 39 Phil., 138 (rendered in 1918) to Sison 
+vs
+. Suntay, 102 Phil., 769, December 28, 1957, this Court has repeatedly fixed counsel fees on a 
+quantum meruit
+ basis whenever the fees stipulated appear excessive, unconscionable, or unreasonable, because a lawyer is primarily a court officer charged with the duty of assisting the court in administering impartial justice between the parties, and hence, 
+his fees should be subject to judicial control
+. Nor should it be ignored that 
+sound public policy demands that courts disregard stipulations for counsel fees whenever they appear to be a source of speculative profit at the expense of the debtor or mortgagor
+.
+[106]
+ (Emphasis supplied; citations omitted)
+ 
+ 
+ 
+Vda. De Santiago v. Suing
+[107]
+ clarified when a stipulation for attorney's fees may be deemed unconscionable, and thus, reduced by this Court. 
+ 
+ In 
+Roxas v. De Zuzuarregui, Jr
+., the Court stressed that 
+attorney's fees are unconscionable if the amount constituting the same affront one's sense of justice, decency or reasonableness
+. Verily, 
+the power to determine the reasonableness or the unconscionable character of attorney's fees stipulated by the parties is a matter falling within the regulatory prerogative of the courts
+. On this note, the principle of 
+quantum meruit
+ (as much as he deserves) may serve as a basis for determining the reasonable amount of attorney's fees. 
+Quantum meruit
+ is a device to prevent undue enrichment based on the equitable postulate that it is unjust for a person to retain benefit without paying for it. The same is 
+applicable even if there is a formal written contract for attorney's fees
+ as long as the agreed fee was found by the court to be unconscionable.
+ 
+ In determining the reasonableness of the attorney's fees, Rule 138, Section 24 of the Rules of Court expressly mandates that:
+ 
+ 
+ SECTION 24. 
+Compensation of attorney's; agreement as to fees
+. â An attorney shall be entitled to have and recover from his client no more than a reasonable compensation for his services, with a view to the importance of the subject matter of the controversy, the extent of the services rendered, and the professional standing of the attorney. No court shall be bound by the opinion of attorneys as expert witnesses as to the proper compensation, but may disregard such testimony and base its conclusion on its own professional knowledge. A written contract for services shall control the amount to be paid therefor unless found by the court to be unconscionable or unreasonable.
+ 
+ 
+ Canon 20 of the Code of Professional Responsibility likewise imposes upon a lawyer the obligation to "charge only fair and reasonable fees." Rule 20.1 of the same Code lays down 
+the following factors that shall serve to guide a lawyer in determining his attorney's fees
+:
+ 
+ 
+ a) The time spent and the extent of the services rendered or required; 
+ 
+ b) The novelty and difficulty of the questions involved; 
+ 
+ c) The importance of the subject matter; 
+ 
+ d) The skill demanded; 
+ 
+ e) The probability of losing other employment as a result of acceptance of the proffered case; 
+ 
+ f) The customary charges for similar services and the schedule of fees of the IBP Chapter to which he belongs; 
+ 
+ g) The amount involved in the controversy and the benefits resulting to the client from the service; 
+ 
+ h) The contingency or certainty of compensation; 
+ 
+ i) The character of the employment, whether occasional or established; and 
+ 
+ j) The professional standing of the lawyer.
+[108]
+ (Emphasis supplied; citations omitted)
+ 
+ 
+ 
+ We find no reason to modify the parties' stipulation on attorney's fees. However, this Court takes this opportunity to examine the propriety of the stipulated interest rates on the promissory notes, given this Court's recent Resolution on the Motion for Reconsideration in 
+Laraâs Gifts & Decors, Inc. v. Midtown Industrial Corp
+.
+[109]
+ 
+III (B)
+ 
+ The Resolution to the Motion for Reconsideration in 
+Laraâs Gifts & Decors, Inc. v. Midtown Industrial Sales, Inc
+. discussed the different types of interest that may apply to obligations, the purposes served by each type of interest, and when the courts may examine the propriety and the extent of their application. 
+ 
+ Interest is of 
+two major kindsâconventional interest
+, on one hand, and 
+compensatory interest
+ on the other. These two kinds of interest are conceptually different, subsume the other types and kinds of interest, and are governed by different rules that must be consistently applied, otherwise the computation of interest "present[s] intricate situations."
+ 
+ . . . .
+ 
+ A 
+simple loan
+, whether the object is money or other consumable thing, may be 
+gratuitous or onerous
+. If it is 
+onerous
+, the 
+compensation
+ to be paid by the borrower is referred to as 
+conventional interest
+, as it is the interest agreed to by the parties themselves as distinguished from that prescribed by law. 
+ 
+ Conventional interest is therefore paid not as a consequence of default, nor is it compensatory or a result of a provision of law. It is "'rigorously lucrative,â and the result of the express will of the parties in a contract. In onerous simple loans, the payment of conventional interest is a principal condition, if not the most important condition, of the loan. In that case, any modification must be mutually agreed upon otherwise, it has no binding effect.'' As it is a stipulation covenanted in a valid and effective contract, conventional interest continues to run from the date stipulated, with no break in the continuity of the obligation to pay it.
+ 
+ . . . .
+ 
+ 
+Compensatory interest
+, also referred to as 
+penalty interest, indemnity
+, or 
+moratory interest
+, is the 
+indemnity for damages
+ arising from delay on the part of the debtor in an obligation consisting in the payment of a sum of money. It is interest allowed by law in the absence of a promise to pay interest as compensation for delay in paying a fixed sum or a delay in assessing and paying damages.
+ 
+ Since a simple loan or money is necessarily an obligation consisting in the payment of a sum of money, then compensatory interest is always demandable in case the borrower in a simple loan or money incurs delay. However, a simple loan of money is not the only obligation that consists in the payment of a sum of money. Moreover, not every obligation consists in the payment or a sum of money.
+ 
+ . . . .
+ 
+ In distinguishing between 
+conventional interest
+ and 
+compensatory interest
+, this Court has explained that if the debtor is not in delay, it is properly liable only for the principal of the loan and conventional interest. Even if the debtor is not liable for compensatory interest, this does not mean that it is, as a matter of law, relieved from the payment of conventional interest. The conventional interest continues to accrue under the terms or the loan until actual payment is effected. The payment of conventional interest, specifically monetary interest, constitutes the price or cost of the use of money and thus, continues to accrue until the principal sum due is returned to the creditor. Corollary to this, if the debtor 
+were in delay
+, then 
+compensatory interest
+, as a matter of law, will accrue 
+in addition to conventional interest
+.
+[110]
+ (Emphasis in the original; citations omitted)
+ 
+ 
+ Here, the restructured notes impose a stipulated 
+conventional
+ interest at the rate of 24% per annum, payable monthly,
+[111]
+ and a stipulated 
+compensatory
+ interest rate of "[one percent] (1%) per month in [the] form of liquidated damages from due date until fully paid."
+[112]
+ The promissory notes also provide for the monthly compounding of all accruing interest. 
+ 
+ Interest not paid when due shall be computed every 30 days, added to and become part of the principal, and shall likewise bear interest at the same rate or interest indicated hereon and /or from maturity of this note.
+[113]
+ 
+ 
+ According to the Resolution in 
+Laraâs Gifts & Decors
+, all stipulated interest, "whether conventional or compensatory" may be reviewed under the same standard for unconscionability, which is based on "the context in which [the stipulated interest rates] were applied."
+[114]
+ 
+ 
+ 
+Stipulated
+ interest rates, whether conventional or compensatory, are subject to the "unconscionability" standard. The concept of unconscionability is a matter of law and equity. Jurisprudence empowers courts to equitably reduce interest rates; and the law empowers them to reduce penalty charges. 
+Eastern Shipping Lines
+ recognized that "factual circumstances [of a case] may [call] for different applications, guided by the rule that the courts are vested with discretion, depending on the equities of each case, on the award of interest."
+ 
+ . . . .
+ 
+ The reduction of interest rates is not limited to monetary interest. It is not dependent on the type of interest imposed on the party, but on whether the interest rate was unconscionable or not. Thus, compensatory interest, when found to be unconscionable, may also be reduced.
+ 
+ . . . .
+ 
+ "Interest rates become unconscionable in light of the context in which they were imposed or applied." Thus, the determination of whether an interest rate or penalty charge is reasonable or iniquitous rests on the sound discretion of the courts based on the established facts of a particular case.
+[115]
+ (Emphasis in the original; citations omitted)
+ 
+ 
+ The Resolution in 
+Laraâs Gifts & Decors
+ further clarified the standard for unconscionability of conventional interest by reiterating the ruling in 
+Spouses Abella v. Spouses Abella
+: 
+ 
+ In determining whether the rate of interest is unconscionable, the mechanical application of pre-established floors would be wanting. The lowest rates that have previously been considered unconscionable need not be an impenetrable minimum. What is more crucial is a consideration of the parties' contexts. Moreover, interest rates must be appreciated in light of the fundamental nature of interest as compensation to the creditor for money lent to another, which he or she could otherwise have used for his or her own purposes at the time it was lent. It is not the default vehicle for predatory gain. As such, interest need only be reasonable. It ought not be a supine mechanism for the creditor's unjust enrichment at the expense of another. 
+ 
+ Hence, this guiding parameter: 
+ 
+ 
+ The legal rate of interest is the presumptive reasonable compensation for borrowed money. While parties are free to deviate from this, any deviation must be reasonable and fair. Any deviation that is far-removed is suspect. 
+Thus, in cases where stipulated interest is more than twice the prevailing legal rate of interest, it is for the creditor to prove that this rate is required by prevailing market conditions. 
+ 
+ 
+ Conformable to the foregoing pronouncements, "
+[t]he maximum interest rate that will not cross the line of unconscionability is 'not more than twice the prevailing legal rate of interest.' If the stipulated interest exceeds this standard, the creditor must show that the rate is necessary under current market conditions." The creditor must also show that the parties were on an equal footing when they stipulated on the interest rate
+.
+ 
+ 
+Furthermore, where the monetary interest rate is found to be unconscionable, only the rate is nullified and deemed not written into the contract; the partiesâ agreement on the payment of interest remains. In such instance, "the legal rate of interest prevailing at the time the agreement was entered into" is applied by the courts
+.
+[116]
+ (Emphasis in the original; citations omitted)
+ 
+ 
+ Likewise, this Court's pronouncement in 
+Palmares v. Court of Appeals
+[117]
+ provides that stipulated compensatory interest may become unconscionable when other stipulations accomplish a similar purpose. 
+ 
+ It must be remembered that from the principal loan of P30,000.00, the amount of P16,300.00 had already been paid even before the filing of the present case. 
+Article 1229 of the Civil Code provides that the court shall equitably reduce the penalty when the principal obligation has been partly or irregularly complied with by the debtor. And, even if there has been no performance, the penalty may also be reduced if it is iniquitous or leonine
+.
+ 
+ In a case previously decided by this Court which likewise involved private respondent M.B. Lending Corporation, and which is substantially on all fours with the one at bar, 
+we decided to eliminate altogether the penalty interest for being excessive and unwarranted under the following rationalization
+:
+ 
+ 
+ Upon the matter of penalty interest, we agree with the Court of Appeals that the economic impact of the penalty interest or three percent (3%) per month on total amount due but unpaid should be equitably reduced. 
+The purpose for which the penalty interest is intended â that is, to punish the obligor â will have been sufficiently served by the effects of compounded interest
+. Under the exceptional circumstances in the case at bar, e.g., the original amount loaned was only P 15,000.00; partial payment of P8,600.00 was made on due date; and the heavy (albeit still lawful) regular compensatory interest, the penalty interest stipulated in the parties' promissory note is iniquitous and unconscionable and may be equitably reduced further by eliminating such penalty interest altogether.
+[118]
+ (Emphasis supplied; citations omitted) 
+ 
+ 
+ 
+ Here, the total stipulated interest in the restructured notes effectively amounts to 3% per month,
+[119]
+ or 36% per year, compounded monthly. Thus, not only does the stipulated rate effectively exceed the general standard of "twice the prevailing legal rate," but the records also show that if left to operate as stipulated, petitioners' liability for interest alone would become exponentially higher than the principal amounts of PHP 700,000.00 and PHP 629,572.90 that they originally promised to pay. Moreover, as in 
+Palmares
+, the parties' stipulation on compounding interest sufficiently serves the purpose sought by the stipulated compensatory interest rate.
+ To illustrate, Romago's failure to pay the PHP 700,000.00 due under Promissory Note No. BD-3714 caused the accumulation of interest and penalties totaling PHP 629,572.90. This total amount was later covered by the parties' restructuring agreement on April 30, 1983, resulting in the execution of Promissory Note Nos. 9660 and 9661.
+[120]
+ Thus, from the time the loan was executed on August 21, 1978,
+[121]
+ and until the note's restructuring on April 30, 1983,
+[122]
+ or in the span of less than five years, the loan of PHP 700,000.00 incurred a nearly equal amount of PHP 629,572.90 in conventional and compensatory interest.
+ That a simple loan of money, which required no active input or value added from respondent bank, could net the lender a return nearly equaling the amount of the principal in such a short span of time reveals the predatory nature of the stipulated rates. As discussed in a Separate Opinion in 
+Laraâs Gifts
+, interest is meant to replace a lender's loss of profit from choosing to lend their money rather than investing it elsewhere. It is neither a "necessary consequence of the use of money[,]"
+[123]
+ nor a "vehicle for predatory gain."
+[124]
+ In the context of the present circumstances, the stipulated monetary interest rate of 24% per annum and the penalty interest rate of 1% per month, taken together with the stipulation for the monthly compounding of all interest, are unconscionable and should be invalidated. 
+When a stipulation imposing interest is found unconscionable, ''only the unconscionable rate is nullified and deemed not written into the contract[.]"
+[125]
+ In place of the stipulated rate, the legal interest rate will suffice to compensate respondents' opportunity cost. However, all other terms of the parties' agreement upon the accrual of "interest on the principal loan obligation"
+[126]
+ shall be maintained. 
+Spouses Abella v. Spouses Abella
+ provides further clarity in this regard: 
+ 
+ 
+Applying this, the loan obtained by respondents from petitioners is deemed subjected to conventional interest at the rate of 12% per annum
+, the legal rate of interest at the time the parties executed their agreement. Moreover, 
+should conventional interest still be due us on July 1, 2013, the rate of 12% per annum shall persist as the rate of 
+conventional interest
+.
+ 
+ This is so because interest in this respect is used as a surrogate for the parties' intent, as expressed as of the time of the execution of their contract. In this sense, the legal rate of interest is an affirmation of the contracting parties' intent; that is, by their contract's silence on a specific rate, the then prevailing legal rate of interest shall be the cost of borrowing money. This rate, which by their contract the parties have settled on, is deemed to persist regardless of shifts in the legal rate of interest. Stated otherwise, the legal rate of interest, 
+when applied as conventional interest
+, shall always be the legal rate at the time the agreement was executed and shall not be susceptible to shifts in rate.
+[127]
+ (Emphasis in the original; citations omitted)
+ 
+ 
+ Thus, the principal amounts clue under Promissory Notes Nos. 9660 and 9661 shall earn interest under the conditions originally stipulated by the parties in their contract, except for the rate of conventional and compensatory interest, which shall now be subject to the legal rate of 12% per annum, from the time of demand until June 30, 2013. The remaining amounts due shall then be subject to the legal rate of interest at 6% per annum from July 1, 2013 until fully paid.
+ 
+III (C)
+ 
+ As to the "interest on interest" imposed by Civil Code Article 2212,
+[128]
+ the Resolution in 
+Laraâs Gifts & Decors
+ teaches that such interest is a "penalty or indemnity for delay in the payment of stipulated interest."
+[129]
+ 
+ 
+ Article 2212's interest on interest is penalty or indemnity for delay in the payment of stipulated interest. It is expressly prescribed by law, and deemed written into every contract. This, all contracting parties should be aware of when they stipulate on the payment of interest.
+[130]
+ (Citations omitted)
+ 
+ 
+ Further, Article 2212 is "expressly prescribed by law" and, thus, it is not subject to the courts' determination of unconscionability, unlike conventional and compensatory interest.
+ As Justice Alfredo Benjamin S. Caguioa elucidated, ''interest on interest" is fixed by law. In the absence of a contractual stipulation between the parties on the rate of interest on accrued interest, the legal rate shall apply by operation of law. Its imposition is not subject to the court's discretionary power.
+[131]
+ Petitioner Romago's obligation is a simple loan of money with stipulated rates for conventional and compensatory interest. Thus, Article 2212's imposition of "interest on interest" will apply to the amounts it owes respondent Bank, consistent with the guidelines on the applicable interest rates on obligations, as updated in the 
+Laraâs Gifts & Decors
+ Resolution: 
+ 
+ With regard to an award of interest in the concept of actual and compensatory damages, the rate or interest, as well as the accrual thereof, is imposed, as follows:
+ 
+ A. In obligations consisting of loans or forbearances of money, goods or credit:
+ 
+ 
+ 1. The compensatory interest due shall be that which is stipulated by the parties in writing as the penalty or compensatory interest rate, provided it is not unconscionable. In the absence of a stipulated penalty or compensatory interest rate, the compensatory interest due shall be that which is stipulated by the parties in writing as the conventional interest rate, provided it is not unconscionable. In the absence of a stipulated penalty or a stipulated conventional interest rate, or if these rates are unconscionable, the compensatory interest shall be the prevailing legal interest rate prescribed by the Bangko Sentral ng Pilipinas. Compensatory interest, in the absence of a stipulated reckoning date, shall be computed from default, i.e., from extrajudicial or judicial demand, 
+until full payment
+.
+ 
+ 2. Interest on conventional/monetary interest and stipulated compensatory interest shall accrue at the stipulated interest rate (compounded interest) from the stipulated reckoning point or, in the absence thereof, from extrajudicial or judicial demand 
+until full payment
+, provided it is not unconscionable. In the absence of a stipulated compounded interest rate or if this rate is unconscionable, the prevailing legal interest rate prescribed by the Bangko Sentral ng Pilipinas shall apply from the time of judicial demand 
+until full payment
+.
+ 
+ 
+ B. In obligations not consisting of loans or forbearances of money, goods or credit:
+ 
+ 
+ 
+ 
+1.
+ 
+For liquidated claims:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The compensatory interest due shall be that which is stipulated by the parties in writing as the penalty or compensatory interest rate, provided it is not unconscionable. In the absence of a stipulated penalty or compensatory interest rate, or if these rates are unconscionable, the compensatory interest shall be at the rate of 6%. Compensatory interest, in the absence of a stipulated reckoning date, shall be computed from default, i.e., from extrajudicial or judicial demand, 
+until full payment
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a.
+ 
+Interest on stipulated compensatory interest shall accrue at the stipulated interest rate (compounded interest) from the stipulated reckoning point or in the absence thereof, from extrajudicial or judicial demand 
+until full payment
+, provided it is not unconscionable. In the absence of a stipulated compounded interest rate or if this rate is unconscionable, legal interest at the rate of 6% shall apply from the time of judicial demand 
+until full payment
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.
+ 
+For unliquidated claims:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Compensatory interest on the amount of damages awarded may be imposed in the discretion of the court at the rate of 6% per annum. No compensatory interest, however, shall be adjudged on unliquidated claims or damages until the demand can be established with reasonable certainty. Thus, when such certainty cannot be so reasonably established at the time the demand is made, the interest shall begin to run only from the date of the judgment of the trial court (at which time the quantification of damages may be deemed to have been reasonably ascertained) 
+until full payment
+. The actual base for the computation of the interest shall, in any case, be on the principal amount finally adjudged.
+[132]
+ 
+ 
+ 
+ 
+ 
+Thus, the stipulated conventional and compensatory interest rates in Promissory Notes Nos. 9660 and 9661, having been declared unconscionable, shall be replaced with the legal interest rate of 12% per annum, applied from the date of respondents' demand on the promissory notes on August 30, 1983 until June 30, 2013. The legal interest of six percent (6%) per annum shall apply to any unpaid amount of the principal from July 1, 2013 until full payment of the obligation, in view of Bangko Sentral ng Pilipinas Circular No. 799, series of 2013, effective July 1, 2013.
+[133]
+ 
+ Likewise, legal interest at the rate of 12% per annum shall apply on the unpaid interest from the time of judicial demand until June 30, 2013. Legal interest at the rate of 6% per annum shall apply of any unpaid interest from July 1, 2013, until fully paid.
+[134]
+ 
+ACCORDINGLY
+, the Petition for Review on 
+Certiorari
+ is 
+DENIED
+, there being no reversible error on the part of the Court of Appeals. The Court of Appeals' October 26, 2015 Decision and its February 29, 2016 Resolution affirming the Regional Trial Court's Decision dated October 20, 2006, are 
+AFFIRMED with MODIFICATION
+.
+ The parties' stipulated conventional interest rate of 24% per annum, and their stipulated compensatory interest rate of 1% per month as liquidated damages, as contained in Promissory Notes Nos. 9660 and 9661, are 
+DELETED
+ for being unconscionable.
+ Petitioner Romago, Incorporated is hereby 
+ORDERED
+ to pay the following amounts to respondent Associated Bank, now United Overseas Bank: 
+ 
+ 
+ 
+(a)
+ 
+SIX HUNDRED THIRTY-FIVE THOUSAND THREE HUNDRED FORTY-SEVEN PESOS and 83/100 (PHP 635,347.83) as the remaining balance of the amount due under Promissory Note No. 9660, plus interest thereon at the rate of 12% per annum from August 30, 1983 until June 30, 2013. From July 1, 2013 until full payment, the outstanding obligation on Promissory Note No. 9660 shall earn interest at the rate of 6% per annum, until fully paid; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)
+ 
+FIVE HUNDRED TWENTY-FIVE THOUSAND NINE HUNDRED THIRTY NINE and 91/100 (PHP 525,939.91) as the remaining balance of the amount due under Promissory Note No. 9661, plus interest thereon at the rate of 12% per annum from August 30, 1983 until June 30, 2013. From July 1, 2013 until full payment, the outstanding obligation on Promissory Note No. 9661 shall earn interest at the rate of 6% per annum, until fully paid; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c)
+ 
+Legal interest at the rate of 12% per annum applied to any unpaid interest from the time of respondent Associated Bank's judicial demand until June 30, 2013. From July 1, 2013 until full payment, any unpaid interest shall earn legal interest at the rate of 6% per annum; and
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(d)
+ 
+The sum equivalent to 20% of the total outstanding obligation as attorney's fees and costs of the suit.
+ 
+ 
+ 
+ 
+SO ORDERED.
+ 
+ 
+Lazaro-Javier, M. Lopez, J. Lopez
+, and 
+Kho, Jr., JJ
+., concur. 
+ 
+[1]
+ 
+Bank of the Philippine Islands v. Domingo
+, 757 Phil. 23 (2015) [Per J. Leonardo-De Castro, First Division]. 
+ 
+[2]
+ Romago Electric Co., Inc. in some parts of the 
+rollo
+.
+ 
+ 
+[3]
+ Gonzales in some parts of the 
+rollo
+. 
+ 
+[4]
+ 
+Rollo
+, pp. 42-63. 
+ 
+[5]
+ 
+Id.
+ at 6-17. The Decision promulgated on October 26, 2015 was penned by Associate Justice Florito S. Macalino, with the concurrence of Associate Justices Mariflor P. Punzalan Castillo and Zenaida T. Galapate-Laguilles of the Court of Appeals Manila, Tenth Division.
+ 
+ 
+[6]
+ 
+Id.
+ at 29-31 The Resolution promulgated on February 29, 2016 was penned by Associate Justice Florito S. Macalino, with the concurrence of Associate Justices Mariflor P. Punzalan-Castillo and Zenaida T. Galapate-Laguilles of the Court of Appeals Manila, Tenth Division.
+ 
+ 
+[7]
+ 
+Id.
+ at 142-152. The Decision promulgated on October 20, 2006 was penned by Presiding Judge Ruben Reynaldo G. Roxas of the Regional Trial Court, Branch 12, Manila City.
+ 
+ 
+[8]
+ 
+Id.
+ at 7. Promissory Note No. BD-3714 will later be denominated into Promissory Notes Nos. 9660 and 9601. See 
+rollo
+, p. 145.
+ 
+ 
+[9]
+ 
+Id.
+ at 103. 
+ 
+[10]
+ 
+Id.
+ 
+ 
+[11]
+ 
+Id.
+ at 146.
+ 
+ 
+[12]
+ 
+Id.
+ 
+ 
+[13]
+ 
+Id.
+ 
+ 
+[14]
+ 
+Id.
+ 
+ 
+[15]
+ 
+Id.
+ at 143. 
+ 
+[16]
+ 
+Id.
+ at 146-147. 
+ 
+[17]
+ 
+Id.
+ at 142-152. 
+ 
+[18]
+ 
+Id.
+ at 148. 
+ 
+[19]
+ 
+Id.
+ 
+ 
+[20]
+ 
+Id.
+ at 149.
+ 
+ 
+[21]
+ 
+Id.
+ at 151.
+ 
+ 
+[22]
+ 
+Id.
+ at 150-151.
+ 
+ 
+[23]
+ 
+Id.
+ at 167-168. 
+ 
+[24]
+ 
+Id.
+ at 178. 
+[25]
+ 
+Id.
+ at 179-180. 
+[26]
+ 
+Id.
+ at 170-171. 
+[27]
+ 
+Id.
+ at 171. 
+ 
+[28]
+ 
+Id.
+ at 173. 
+ 
+[29]
+ 
+Id.
+ at 175-176. 
+ 
+[30]
+ 
+Id.
+ at 176. 
+[31]
+ 
+Id.
+ at 183. 
+[32]
+ 
+Id.
+ at 209-210. 
+ 
+[33]
+ 
+Id.
+ at 212. 
+ 
+[34]
+ 
+Id.
+ at 213-214, citing 
+Babst v. Court of Appeals
+, 403 Phil. 244 (2001) [Per J. Ynares-Santiago, First Division]. 
+ 
+[35]
+ 
+Id.
+ at 215-216. 
+[36]
+ 
+Id.
+ at 6-17. 
+[37]
+ 
+Id.
+ at 12-14. 
+[38]
+ 
+Id.
+ at 14. 
+[39]
+ 
+Id.
+ at 15. 
+ 
+[40]
+ 
+Id.
+ at 16. 
+[41]
+ 
+Id.
+ 
+[42]
+ 
+Id.
+ at 20. 
+ 
+[43]
+ 403 Phil. 244 (2001) [Per J. Ynares-Santiago, First Division]. 
+ 
+[44]
+ 
+Id.
+ at 23. 
+ 
+[45]
+ 
+Id.
+ at 24, citing 
+Babst v. Court of Appeals
+, 403 Phil. 244, 259-260 (2001) [Per J. Ynares-Santiago, First Division]. 
+ 
+[46]
+ 
+Id.
+ at 29. 
+ 
+[47]
+ 
+Id.
+ at 51. 
+ 
+[48]
+ 
+Id.
+ 
+[49]
+ 
+Id.
+ at 45, 51. 
+[50]
+ 
+Id.
+ at 53. 
+ 
+[51]
+ 
+Id.
+ 
+ 
+[52]
+ 
+Id.
+ at 55. 
+ 
+[53]
+ 
+Id.
+ at 58. 
+ 
+[54]
+ 
+Id.
+ 
+[55]
+ 
+Id.
+ at 57-58. 
+ 
+[56]
+ 
+Id.
+ at 58-59. 
+ 
+[57]
+ 
+Id.
+ at 60. 
+ 
+[58]
+ 
+Id.
+ at 311. 
+[59]
+ 
+Id.
+ at 319. 
+[60]
+ 
+Id.
+ at 322-323. 
+[61]
+ 
+Id.
+ at 323-324. 
+ 
+[62]
+ 
+Id.
+ at 324. 
+ 
+[63]
+ 
+Id.
+ at 326. 
+ 
+[64]
+ 
+Id.
+ at 326-327. 
+ 
+[65]
+ 
+Id.
+ at 327. 
+ 
+[66]
+ 
+Id.
+ at 340-355. 
+[67]
+ 
+Id.
+ at 394. 
+[68]
+ 
+Id.
+ at 346. 
+ 
+[69]
+ 
+Id.
+ at 347. 
+ 
+[70]
+ 776 Phil. 167 (2016) [Per J. Leonen, Second Division]. 
+ 
+[71]
+ 
+Id.
+ at 182. 
+ 
+[72]
+ 721 Phil. 772 (2013) [Per J. Brion, Second Division]. 
+[73]
+ 
+Id.
+ at 785. 
+ 
+[74]
+ 
+Rollo
+, p. 53. 
+ 
+[75]
+ 721 Phil. 760 (2013) [Per J. Brion, Second Division]. 
+ 
+[76]
+ 
+Id.
+ at 767. 
+ 
+[77]
+ 757 Phil. 23 (2015) [Per J. Leonardo-De Castro, First Division]. 
+ 
+[78]
+ 
+Id.
+ at 41. 
+ 
+[79]
+ 776 Phil. 167, 169 (2016) [Per J. Leonen, Second Division]. 
+[80]
+ Rules of Civil Procedure Rule 45, section 6. 
+ 
+[81]
+ 
+Rollo
+, at 45 and 51. 
+ 
+[82]
+ 
+Id.
+ at 53. 
+ 
+[83]
+ 
+Id.
+ at 322-324. 
+ 
+[84]
+ 
+Ang v. Associated Bank
+, 559 Phil. 29 (2007) [Per J. Azcuna, First Division]. 
+ 
+[85]
+ 
+ECE Realty and Development, Inc. v. Mandap
+, 742 Phil. 164 (2014) [Per J. Peralta, Third Division]. 
+ 
+[86]
+ 
+Aglibot v. Santia
+, 700 Phil. 404, 417-418 (2012) [Per J. Reyes, First Division]. 
+ 
+[87]
+ 737 Phil. 133 (2013) [Per J. Leonen, Third Division]. 
+ 
+[88]
+ 
+Id.
+ at 144-145. 
+[89]
+ 
+Id.
+ 
+[90]
+ 
+Bank of the Philippine Islands v. Domingo
+, 757 Phil. 23, 39-40 (2015) [Per J. Leonardo-De Castro, First Division]. 
+ 
+[91]
+ 
+Id.
+ 
+[92]
+ 
+Id.
+ at 43-44. 
+[93]
+ 
+Babst v. Court of Appeals
+, 403 Phil. 244, 262 (2001) [Per J. Ynares-Santiago, First Division]. 
+[94]
+ 
+Rollo
+, p. 103. 
+ 
+[95]
+ 
+Id.
+ at 105. 
+ 
+[96]
+ 
+Id.
+ at 108. 
+ 
+[97]
+ 
+Id.
+ at 130-132. 
+ 
+[98]
+ 
+Id.
+ at 8, 144-145. 
+ 
+[99]
+ 
+Id.
+ at 145. 
+ 
+[100]
+ 
+Bank of the Philippine Islands v. Domingo
+, 757 Phil. 23, 44 (2015) [Per J. Leonardo-De Castro, First Division]. 
+ 
+[101]
+ 
+Id.
+ at 44-45. 
+ 
+[102]
+ 650 Phil. 627 (2010) [Per J. Velasco, Jr., First Division]. 
+[103]
+ 
+Id.
+ at 641. 
+ 
+[104]
+ CIVIL CODE, art. 2208. 
+[105]
+ 106 Phil. 425 (1959) [Per J. J.B.L. Reyes, 
+En Banc
+]. 
+ 
+[106]
+ 
+Gorospe and Sebastian v. Gochangco
+, 106 Phil. 425, 429 (1959) [Per J. J.B.L. Reyes, 
+En Banc
+]. 
+[107]
+ 772 Phil. 107 (2015) [Per J. Leonardo-De Castro, First Division]. 
+ 
+[108]
+ 
+Id.
+ at 136. 
+ 
+[109]
+ 
+Lara's Gifts & Decors, Inc. v. Midtown Industrial Sales, Inc., G.R. No. 225433
+, September 20, 2022, [Per J. Leonen, 
+En Banc
+]. 
+ 
+[110]
+ 
+Id.
+ 
+[111]
+ 
+Rollo
+, pp. 126-127. 
+ 
+[112]
+ 
+Id.
+ at 126 and 128. 
+[113]
+ 
+Id.
+ 
+ 
+[114]
+ 
+Lara's Gifts & Decors, Inc. v. Midtown Industrial Sales, Inc., G.R. No. 225433
+, September 20, 2022, [Per J. Leonen, 
+En Banc
+]. 
+ 
+[115]
+ 
+Id.
+ 
+ 
+[116]
+ 
+Lara's Gifts & Decors, Inc. v. Midtown Industrial Sales, Inc., G.R. No. 225433
+, September 20, 2022, [Per J. Leonen, 
+En Banc
+]. 
+ 
+[117]
+ 351 Phil. 664 (1998) (Per J. Regalado, Second Division]. 
+[118]
+ 
+Id.
+ at 690-691. 
+[119]
+ 
+Rollo
+, at 126-129; Promissory Note Nos. 9660 and 9661 impose 24% annual compensatory interest, compounded monthly, (effectively 2% monthly interest) as well as 1% monthly penalty interest, which also compounds monthly. 
+ 
+[120]
+ 
+Rollo
+, p. 144-146. 
+ 
+[121]
+ 
+Id.
+ at 241. 
+ 
+[122]
+ 
+Id.
+ at 144. 
+ 
+[123]
+ 
+Separate Concurring and Dissenting Opinion
+, 
+Lara's Gifts & Decors, Inc. v. Midtown Industrial, Inc., G.R. No. 225433
+, August 28, 2019 [Per J. Leonen, 
+En Banc
+]. 
+ 
+[124]
+ 
+Spouses Abella v. Spouses Abella
+, 763 Phil. 372, 389 (2015) [Per J. Leonen, Second Division]. 
+[125]
+ 
+Isla v. Estorga
+, 869 SCRA 410, 417-418 [Per J. Perlas-Bernabe, Second Division]. 
+ 
+[126]
+ 
+Id.
+ at 418. 
+ 
+[127]
+ 
+Spouses Abella v. Spouses Abella
+, 763 Phil. 372, 385-386 (2015) [Per J. Leonen, Second Division]. 
+[128]
+ "Interest due shall earn legal interest from the time it is judicially demanded, although the obligation may be silent upon this point." 
+[129]
+ 
+Lara's Gifts & Decors, Inc. v. Midtown Industrial Sales, Inc., G.R. No. 225433
+, September 20, 2022 [Per J. Leonen, 
+En Banc
+]. 
+ 
+[130]
+ 
+Id.
+ 
+[131]
+ 
+Id.
+ (Citations omitted) 
+[132]
+ 
+Id.
+ 
+ 
+[133]
+ 
+Id.
+ 
+ 
+[134]
+ 
+Nacar v. Gallery Frames
+, 716 Phil. 267 (2013) [Per J. Peralta, 
+En Banc
+]. 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

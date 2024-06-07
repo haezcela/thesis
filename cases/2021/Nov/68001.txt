@@ -1,0 +1,424 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 219166, November 10, 2021 ]
+
+
+TELETECH CUSTOMER CARE MANAGEMENT PHILIPPINES, INC., PETITIONER, VS. MARIO GERONA, JR., RESPONDENT.
+D E C I S I O N
+
+
+
+
+HERNANDO, J.:
+
+
+This Petition for Review on 
+Certiorari
+[1]
+ seeks to annul and set aside the January 30, 2014 Decision
+[2]
+ and June 26, 2015 Resolution
+[3]
+ of the Court of Appeals (CA) in CA-G.R. SP No. 06234, which set aside the February 28, 2011 Decision
+[4]
+ and April 29, 2011 Resolution
+[5]
+ of the National Labor Relations Commission (NLRC) in NLRC Case No. VAC-10-000590-10 and granted the complaint for illegal dismissal filed by respondent Mario Gerona, Jr. (Gerona) against petitioner Teletech Customer Care Management Philippines, Inc. (Teletech).
+The Antecedents:
+Petitioner Teletech is a domestic corporation engaged in business process outsourcing (BPO). Teletech answers queries and concerns in behalf of their clients, such as Accenture and Telstra. On July 21, 2008, respondent Gerona was hired as one of Teletech's technical support representatives and was assigned to the Accenture account. By January 17, 2009, Gerona became a regular employee.
+[6]
+On October 30, 2009, Teletech's human resource office informed Gerona that he would be transferred to the Telstra account upon successfully passing the training, assessment and examination. Teletech gave him a copy of the Transfer Agreement
+[7]
+ and informed him that his refusal to take the examinations would result in the termination of his services on the ground of redundancy. However, Gerona refused to undergo training and take the examinations under the belief that he was entitled to security of tenure. Thereafter, Gerona's supervisor issued him a memorandum informing him that the technical support representatives who declined their transfer to the Te1stra account were no longer required to log in their system since their respective team leaders will take care of their attendance instead until the redundancy offer is finalized.
+[8]
+On November 17, 2009, Gerona received a notice dated November 16, 2009 informing him of his dismissal due to redundancy effective December 16, 2009. Through his counsel, he sent a demand letter to Teletech asserting that there was no redundancy in the company considering that they were even continuously hiring other technical support representatives. Moreover, as a regular employee, he should no longer be required to take another examination to prove his qualifications.
+[9]
+On January 7, 2010, Gerona filed a complaint
+[10]
+ for illegal dismissal with a prayer for backwages and reinstatement or separation pay in lieu thereof, with claims for moral damages, exemplary damages, and attorney's fees against Teletech, its executive site director Terry Lemky, senior operations managers Ben Belasotto and Fred Dunca, and human capital delivery site manager Joel Go, before the arbitration branch of the NLRC in Bacolod City. During the mandatory conciliation conference, Teletech offered to pay Gerona his separation pay but the latter still refused. For their failure to amicably settle, both parties were required to submit their respective position papers.
+[11]
+Teletech argued that the decrease in volume of calls for the Accenture account resulted in an excess in the number of technical support representatives assigned to their account. Instead of immediately dismissing its employees, it offered to transfer several representatives to the Telstra account, including Gerona, using the following criteria: 1) first call resolution scores for the last three preceding months; and 2) existence of remediation cases. Using the foregoing criteria, Gerona was considered to be part of the bottom performers. They explained that transferring the said employees to the Telstra account was without any demotion in rank or diminution in pay as long as they successfully passed the standard product raining and assessment. According to Teletech, undergoing training and assessment were necessary due to the differences between the two accounts since Telstra catered to Australian customers while Accenture had American customers. Since Gerona refused to transfer and go through the training and examination, Teletech was forced to dismiss him on the ground of redundancy. They also claimed that they submitted a notice of termination to the Department of Labor and Employment (DOLE).
+[12]
+Ruling of the Labor Arbiter:
+The LA dismissed Gerona's complaint for illegal dismissal in a Decision
+[13]
+ dated August 10, 2010. The dispositive portion of the arbiter's ruling reads:
+WHEREFORE, premises considered, judgment is hereby rendered Dismissing this illegal case against respondents for lack of merit. However, we direct respondent Tele Tech Customer Care Management Philippines, Inc. through its authorized officers impleaded herein, to pay complainant the sum of 
+TWENTY NINE THOUSAND THREE HUNDRED NINETY PESOS AND 52/100 (Php 29,390.52)
+, representing the latter's separation pay and to deposit the same to the Cashier of this Regional Arbitration Branch (RAB), within ten (10) days from receipt of this Decision.
+SO ORDERED.
+[14]
+ (Emphasis in the original)
+The LA held that Gerona's allegations were not grounded on clear and convincing evidence. The arbiter noted that he even failed to submit his position paper. Thus, the LA gave full credence to Teletech's allegation that Gerona was not illegally dismissed but was rather terminated on the ground of redundancy as supported by their documentary evidence. By dismissing Gerona, Teletech correctly exercised its management prerogative as a response to the decrease in volume of calls in the Accenture account. Therefore, Teletech could not be faulted for dismissing Gerona due to redundancy. However, it ruled that Gerona was still entitled to separation pay in the amount of P29,390.52. 
+ 
+Ruling of the National Labor Relations Commission:
+ 
+In his Memorandum of Appeal
+[15]
+ filed before the NLRC, Gerona claimed that he filed his position paper on August 24, 2010. He pointed out that the promulgation of the LA's decision was only on September 3, 2010. Thus, he contended that the LA chose to ignore his position paper and deliberately deprived him of due process. He also argued that the transfer to Telstra was illegal as it was conditioned upon passing the examination and therefore prejudicial to him. Moreover, he alleged that Teletech failed to prove that they informed the employees of the criteria in choosing who to dismiss due to the redundancy. In any case, he contended that Teletech failed to comply with the requirements of a valid dismissal since the notice of termination was served to him 29 days prior to its effectivity which is contrary to the 30-day period under the Labor Code.
+[16]
+In its February 28, 2011 Decision,
+[17]
+ the NLRC denied Gerona's appeal for lack of merit. It noted that despite Gerona's motion for extension to file his position paper until May 16, 2010, it was only on August 24, 2010 that he was able to submit the same. It stressed that there was even no reason offered for the delay. Thus, the LA correctly resolved the complaint without Gerona's position paper. Consequently, Gerona cannot fault the LA and claim the denial of due process when he was already given the opportunity to be heard.
+[18]
+ The NLRC also recognized Teletech's right to exercise its management prerogative. It emphasized that BPO companies require the use of highly technical equipment and certain special communication skills. In dismissing employees on the ground of redundancy due to the excess of manpower in the Accenture account, the NLRC held that Teletech validly exercised its business judgment. It noted that Teletech even offered to transfer Gerona to the Telstra account with the same rank and pay rather than outrightly dismissing him. Hence, this displayed good faith on the part of Teletech.
+[19]
+Furthermore, the NLRC found that Teletech substantially proved that the function of Gerona and his other co-workers were in excess of what the Accenture account demanded. It also upheld the criteria used by Teletech in choosing who among their personnel would be transferred based on their performance.
+[20]
+ Lastly, it ruled that the required notices served to DOLE and Gerona were duly complied with.
+[21]
+Aggrieved, Gerona filed a Petition for Certiorori under Rule 65 of the Rules of Court with the CA.
+[22]
+Ruling of the Court of Appeals:
+In its January 30, 2014 Decision,
+[23]
+ the CA agreed with the arbiter and the labor tribunal that Gerona was not denied due process since he had the opportunity to submit his position paper even within the period extended to him by the LA. Nevertheless, the CA ruled that the rules shall not be strictly applied if it would be detrimental to the laborer. Thus, it posited that the NLRC should have considered Gerona's belatedly filed position paper.
+[24]
+ As to Gerona's dismissal, the CA found that the position he held was not redundant. Teletech failed to show that Gerona's position was redundant, not just with respect to the Accenture account, but in relation to the whole business organization of Teletech. Moreover, Teletech notified DOLE and Gerona of the latter's termination less than a month prior to its effectivity. The CA also found the offer of transfer to the Telstra account prejudicial since Gerona's continued employment depended on passing the assessment and examinations. By imposing such condition, his right to security of tenure as a regular employee was infringed. The dispositive portion of the CA's Decision reads:
+WHEREFORE, the instant petition for 
+certiorari
+ is GRANTED. The Decision dated February 28, 2011 and the Resolution dated April 29, 2011 of the National Labor Relations Commission, Seventh Division, Cebu City, in NLRC VAC-10-000590-10, are REVERSED and SET ASIDE. A new decision is rendered declaring petitioner Mario Gerona to have been illegally terminated. Consequently, private respondent Teletech Customer Care Management Philippines, Inc. is ordered to pay Gerona the following:
+1. full backwages, inclusive of allowance and benefits, from the date he was illegally dismissed on December 16, 2009 until finality of this decision;
+2. separation pay in lieu of reinstatement which is equivalent to one month salary for every year of service, computed from the time of his engagement up to the finality of this decision;
+3. attorney's fees equivalent to 10% of his total monetary awards.
+Let this case be remanded to the labor arbiter for proper computation of Gerona's backwages, separation pay, and attorney's fees in accordance with this decision.
+SO ORDERED.
+[25]
+Teletech filed a Motion for Partial Consideration
+[26]
+ but this was later denied in the June 26, 2015 Resolution of the CA.
+[27]
+Hence, the present Petition for Review on 
+Certiorari
+[28]
+ before this Court.
+Issue
+Whether Gerona was validly dismissed on the ground of redundancy.
+Our Ruling
+The petition is denied.
+At the outset, it must be stressed that a petition for review under Rule 45 is limited only to questions of law as factual questions are not the proper subject of an appeal by certiorari. The Court is not a trier of facts and it is not its function to evaluate the evidence already considered in the proceedings below.
+[29]
+ However, as the findings of the LA and NLRC on the one hand, and the CA, on the other, are conflicting, the present case falls under jurisprudential exemptions. Thus, in the exercise of its equity jurisdiction, this Court is compelled to re-evaluate the factual issues and re-examine the questioned findings.
+[30]
+In deciding petitions under Rule 45 assailing the CA's decision from an appeal under Rule 65, the CA's decision must be examined from the context of whether it correctly determined the presence or absence of grave abuse of discretion by the NLRC, rather than deciding whether the NLRC decision was correct on the case's merits.
+[31]
+ In labor disputes, there is grave abuse of discretion on the part of the NLRC when, 
+inter alia
+, its findings and conclusions are not grounded on substantial evidence, or such amount of relevant evidence which a reasonable mind might sufficiently accept to justify a conclusion.
+[32]
+ Guided by the following considerations, We find that the CA correctly ruled that the NLRC committed grave abuse of discretion when it held that Gerona was validly dismissed on the ground of redundancy.
+Teletech argues that Gerona was not deprived of due process since he was given ample time to present his side of the controversy.
+[33]
+ It points out that there was no one to blame but Gerona himself since he filed his position paper 90 days after it became due, and after the LA had already rendered his/her decision. In this regard, the CA correctly ruled that it cannot ascribe arbitrariness on the part of NLRC in affirming the LA when it rendered a decision without Gerona's position paper. In administrative proceedings, the essence of due process is simply an opportunity to explain one's side or an opportunity to seek reconsideration of the action or ruling complained of.
+[34]
+ Here, Gerona was even granted additional time to file his position paper but he still failed to do so. Moreover, Gerona submitted his position paper and memorandum to the NLRC where he was able to present his arguments. This Court is of the view that the NLRC already adequately considered Gerona's side since his position paper and memorandum contained the same arguments and documentary evidence. The NLRC merely did not find anything substantial in his position paper and memorandum to warrant a reversal of the LA's findings and conclusions.
+[35]
+As to the legality of Gerona's dismissal on the ground of redundancy, We find the evidence presented by Teletech insufficient to support its claim.
+Redundancy exists when an employee's services are in excess of what is reasonably demanded by the actual requirements of the business.
+[36]
+ To successfully invoke a valid dismissal due to redundancy, there must be: (1) a written notice served on both the employees and the DOLE at least one month prior to the intended date of termination of employment; (2) payment of separation pay equivalent to at least one month pay for every year of service; (3) good faith in abolishing the redundant positions; and (4) fair and reasonable criteria in ascertaining what positions are to be declared redundant and accordingly abolished.
+[37]
+ Moreover, the company must provide substantial proof that the services of the employees are in excess of what is required of the company.
+[38]
+Teletech claimed that "after a careful study of its business, Teletech and Accenture officers determined that business was slowing down and that the expected volume of calls for Teletech's Accenture account would not be met."
+[39]
+ It alleged that out of the 520 Accenture technical support representatives, it would only require 439 representatives beginning November 2009.
+[40]
+ To support its claim of redundancy, Teletech submitted the following documents: (1) affidavit of its human capital delivery site manager Joel Go;
+[41]
+ (2) Gerona's Employment Contract;
+[42]
+ (3) FCR scores of the technical support representatives considered to be bottom performers;
+[43]
+ (4) FAQ's for Accenture Transition Plans;
+[44]
+ (5) attendance sheet for meeting with representatives dated October 30, 2009;
+[45]
+ (6) Transfer Agreement;
+[46]
+ (7) Telstra Recruitment Flowchart;
+[47]
+ (8) a comparison of the duties of Accenture and Telstra representatives;
+[48]
+ (9) Notice of Termination addressed to Gerona;
+[49]
+ and (10) Termination Report to DOLE.
+[50]
+After careful evaluation of the records, ibis Court finds that the evidence presented by Teletech fails to convincingly show the alleged decline in Accenture's business and that the expected volume of calls for its Accenture account would not materialize. In other words, redundancy was not proven. Other than the bare assertion of human capital delivery site manager Joel Go, no other evidence was offered to prove the alleged low volume of calls or how the officers of Accenture and Teletech came to a conclusion that its business was slowing down.
+The case of 
+AMA Computer College, Inc. v. Garcia
+,
+[51]
+ as cited in 
+SPI Technologies, Inc. v. Mapua
+,
+[52]
+ is instructive:
+In the case at bar, ACC attempted to establish its streamlining program by presenting its new table of organization. ACC also submitted a certification by its Human Resources Supervisor, Ma. Jazmin Reginaldo, that the functions and duties of many rank and file employees, including the positions of Garcia and Balla as Library Aide and Guidance Assistant, respectively, are now being performed by the supervisory employees. 
+These, however, do not satisfy the requirement of substantial evidence that a reasonable mind might accept as adequate to support a conclusion. As they are, they are grossly inadequate and mainly self-serving.
+ More compelling evidence would have been a comparison of the old and new staffing patterns, a description of the abolished and newly created positions, and 
+proof of the set business targets and failure to attain the same which necessitated the reorganization or streamlining
+.
+[53]
+ (Emphasis Ours, citations omitted)
+Based on the foregoing, a company's new table of organization and certification from its human resources department attesting that the position held by a certain employee is redundant are insufficient evidence to support a claim of redundancy.
+[54]
+ Similarly, an alleged email from a company's client to downsize its manpower will also not suffice if such email was not presented in evidence.
+[55]
+In the case at hand, Teletech should have presented any document proving the decline in Accenture's volume of calls for the past months, or affidavits of the Accenture and Teletech officers who determined that business was slowing down and their basis thereof. Unfortunately, Teletech only relied heavily on the self-serving affidavit of its human capital delivery site manager. While Teletech submitted other documents, such pieces of evidence hardly proved the fact of redundancy.
+Teletech also claims that the offer to transfer Gerona to the Telstra account serves as a badge of good faith. However, this Court cannot subscribe to such assertion when the transfer is actually prejudicial to the Gerona. A careful review of the Transfer Agreement shows that an employee who falls to pass the trainings will be dismissed:
+1.2. While this new opportunity was given to you in exercise of Management Prerogative to exhaust means and ways to retain your services with Teletech, 
+successful passing of the ACE and Product Training are expected
+. After having acknowledged and consented in this transfer, you are expected to attend the scheduled training and nesting period since the same is a 
+MANDATORY REQUIREMENT
+ for movement. 
+Failure to successfully pass these trainings will be a justifiable ground for dismissal.
+[56]
+ (Emphasis Ours)
+Gerona was a regular employee, hence, he was entitled to security of tenure. By requiring him to pass additional trainings and examination as a condition to retain his employment under the pain of dismissal, Teletech disregarded his right to security of tenure. Teletech's failure to prove redundancy, coupled with the imposition of a prejudicial condition to retain employment, rendered the offer of transfer invalid. In 
+Sumifru Philippines Corporation v. Baya
+,
+[57]
+ citing 
+Peckson v. Robinsons Supermarket Corp.
+,
+[58]
+ We held that:
+[F]or a transfer not to be considered a constructive dismissal, 
+the employer must be able to show that such transfer is not unreasonable, inconvenient, or prejudicial to the employee
+; nor does it involve a demotion in rank or a diminution of his salaries, privileges and other benefits. Failure of the employer to overcome this burden of proof, the employee's demotion shall no doubt be tantamount to unlawful constructive dismissal.
+[59]
+ (citations omitted)
+Having been illegally dismissed, Gerona is entitled to reinstatement and payment of full backwages.
+[60]
+ However, due to the strained relations between Teletech and Gerona, this Court finds it proper to award separation pay in lieu of reinstatement.
+[61]
+ While the liability of Teletech has been clearly established, the same cannot be said with the officers of Teletech. As aptly held by the CA:
+Basic is the rule that a corporation has a separate and distinct personality apart from its directors, officers, or owners. In exceptional cases, courts find it proper to breach this corporate personality in order to make directors, officers, or owners solidarily liable for the companies' acts. Under Section 31 of the Corporation Code, directors or officers who willfully and knowingly assent to patently unlawful acts of the corporation, who are guilty of gross negligence or bad faith in managing the corporation's affairs, or who acquire personal interest in conflict with their duties shall be solidarily liable for all damages suffered by the corporation.
+x x x x
+In this case, Gerona failed to allege and credibly show that the individual private respondents, being the director or the manager, assented to patently unlawful acts of Teletech, or that they were guilty of gross negligence or bad faith in the performance of their official duties. Gerona did not allege any specific act of the individual private respondents to warrant a finding of solidary liability. Thus, We find no reason to hold the individual private respondents liable with Teletech.
+[62]
+In fine, Teletech failed to prove that Gerona was validly dismissed. In termination cases, the employer bears the burden of proving that the employee's dismissal was for a valid and authorized cause. Consequently, an employer's failure to prove that the dismissal was valid renders the dismissal illegal. Gerona is thus entitled to full backwages from the time he was illegally dismissed and to separation pay in lieu of reinstatement for every year of service.
+WHEREFORE
+, the instant Petition for Review on 
+Certiorari
+ is 
+DENIED
+ for lack of merit. The January 30, 2014 Decision and June 26, 2015 Resolution of the Court of Appeals in CA-G.R. SP No. 06234 are hereby 
+AFFIRMED
+ with 
+MODIFICATION
+ in that Teletech Customer Care Management Philippines. Inc. is hereby ordered to 
+PAY
+ Mario Gerona, Jr. the following:
+a. Full backwages, inclusive of allowances and all other benefits from the time he was illegally dismissed on December 16, 2009 until finality of this Decision
+b. Separation pay in lieu of reinstatement equivalent to one month salary for every year of service; and
+c. Attorney's fees equivalent to ten percent (10%) of the total monetary award.
+Moreover, the total monetary award shall earn legal interest at twelve percent (12%) per 
+annum
+ from the time his salary and other benefits were withheld until June 30, 2013, and at the rate of six percent (6%) per 
+annum
+ from July 1, 2013 until the date of finality of this judgment, and the total amount of the foregoing shall, in turn, earn interest at the rate of six percent (6%) per 
+annum
+ from finality of the judgment until full payment thereof.
+The case is 
+REMANDED
+ to the Regional Arbitration Branch of origin for the proper computation and execution of the award.
+SO ORDERED.
+Perlas-Bernabe, Senior Associate Justice, (Chairperson), Inting, Gaerlan
+, and 
+Dimaampao, JJ.
+, concur.
+[1]
+ 
+Rollo
+, pp. 46-61.
+[2]
+ Id. at 8-21. Penned by Associate Justice Pamela Ann Abella Maxino and concurred in by Associate Justices Edgardo L. Delos Santos (now a retired Member of the Court) and Maria Elisa Sempio Diy.
+[3]
+ Id. at 24-27. Penned by Associate Justice Pamela Ann Abella Maxino and concurred in by Associate Justice Edgardo L. Delos Santos (now a retired Member of the Court) and Jhosep Y. Lopez (now a Member of the Court).
+[4]
+ Id. at 237-248; penned by Commissioner Aurelio D. Menzon and concurred in by Commissioners Julie C. Rendoque and Violeta Ortiz-Bantug.
+[5]
+ Id. at 252-254; penned by Commissioner Aurelio D. Menzon and concurred in by Commissioners Julie C. Rendoque and Violeta Ortiz-Bantug.
+[6]
+ Id. at 9.
+[7]
+ Id. at 142-144.
+[8]
+ Id.
+[9]
+ Id. at 9-10.
+[10]
+ Id. at 150-152.
+[11]
+ Id. at 10. 
+[12]
+ Id.
+[13]
+ Id. at 193-198.
+[14]
+ Id. at 198. 
+[15]
+ Id. at 226-236.
+[16]
+ Id. at 230-233.
+[17]
+ Id. at 237-248
+[18]
+ Id. at 243-244.
+[19]
+ Id.
+[20]
+ Id. at 245-248.
+[21]
+ Id. at 248.
+[22]
+ Id. at 255-268.
+[23]
+ Id. at 8-21.
+[24]
+ Id. at 13-14.
+[25]
+ Id. at 20-21.
+[26]
+ Id. at 88-97.
+[27]
+ Id. at 24-27.
+[28]
+ Id. at 46-61.
+[29]
+ 
+Miro v. Vda. de Erederos
+, 721 Phil. 772, 785 (2013).
+[30]
+ 
+Reyes v. Glaucoma Research Foundation, Inc.
+, 760 Phil. 779, 790 (2015), citing 
+Legend Hotel (Manila) v. Realuyo
+, 691 Phil. 226, 237 (2012).
+[31]
+ 
+Manggagawa ng Komunikasyon sa Pilipinas v. Philippine Long Distance Telephone Co., Inc.
+, 809 Phil. 106, 121 (2017), citing 
+Career Philippines Shipmanagement, Inc. v. Serna
+, 700 Phil. 1, 9 (2012).
+[32]
+ 
+Ace Navigation Company v. Garcia
+, 760 Phil. 924, 932 (2015).
+[33]
+ 
+Rollo
+, pp. 53-54.
+[34]
+ 
+Vivo v. PAGCOR
+, 721 Phil. 34, 43 (2013), citing 
+Office of the Ombudsman v. Reyes
+, 674 Phil. 416, 432 (2011). 
+[35]
+ See 
+CMP Federal Security Agency, Inc. v. National Labor Relations Commission
+, 362 Phil. 439 (1992).
+[36]
+ 
+3M Philippines, Inc. v. Yuseco
+, G.R. No. 248941, November 9, 2020 citing 
+Soriano, Jr. v. National Labor Relations Commission
+, 550 Phil. 111, 126 (2007).
+[37]
+ 
+Philippine National Bank v. Dalmacio
+, 813 Phil. 127, 134 (2017).
+[38]
+ 
+General Milling Corp. v. Viajar
+, 702 Phil. 532, 543 (2013).
+[39]
+ 
+Rollo
+, p. I55.
+[40]
+ Id.
+[41]
+ Id. at 131-133.
+[42]
+ Id. at 134-138.
+[43]
+ Id. at 139.
+[44]
+ Id. at 140.
+[45]
+ Id. at 141.
+[46]
+ Id. at 142-144.
+[47]
+ Id. at 145.
+[48]
+ Id. at 146.
+[49]
+ Id. at 147.
+[50]
+ Id. at 148.
+[51]
+ 574 Phil. 409 (2008).
+[52]
+ 731 Phil. 480, 496-497 (2014).
+[53]
+ Supra note 51 at 423.
+[54]
+ See also 
+Coca-Cola Bottlers Philippines, Inc. v. Del Villar
+, 646 Phil. 587 (2010).
+[55]
+ See 
+Yulo v. Concentrix Daksh Services Philippines, Inc.
+, G.R. No. 235873, January 21, 2019.
+[56]
+ 
+Rollo
+, p. 142.
+ 
+[57]
+ 808 Phil. 635 (2017).
+[58]
+ 713 Phil. 471 (2013).
+[59]
+ Supra note 57 at 644.
+[60]
+ 
+Ocean East Agency Corp. v. Lopez
+, 771 Phil. 179, 197 (2015).
+[61]
+ See 
+Bani Rural Bank, Inc. v. De Guzman
+, 721 Phil. 84, 101 (2013).
+[62]
+ 
+Rollo
+, pp. 19-20.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

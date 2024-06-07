@@ -1,0 +1,923 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+EN BANC
+
+
+[ G.R. No. 253777, November 23, 2021 ]
+
+
+MARY GRACE D. CORPUZ, SOPHIA T. BORJA, LEO C. JAVIER, CAESAR JOVENTINO M. TADO, AND BABYLINDA O. REYES, PETITIONERS, VS. COMMISSION ON AUDIT, RESPONDENT.
+DECISION
+
+
+
+
+GAERLAN, J.:
+
+
+The instant case involves a 
+Petition for Certiorari
+[1]
+ dated March 11, 2020 under Rule 64, in relation to Rule 65, of the Revised Rules of Court. The 
+petitioners
+ seek a reversal of the Commission on Audit's (COA) 
+Decision No. 2018-370
+[2]
+ dated October 26, 2018 and 
+Notice No. 2020-014
+[3]
+ issued on February 12, 2020, both of which affirmed the 
+Decision No. 2015-04
+ dated January 8, 2015 by the COA Regional Office III (COA-RO3).
+[4]
+The 
+petition
+ included an application for the 
+Ex-Parte Temporary Restraining Order
+, which was denied by this Court in its 
+Resolution
+[5]
+ dated July 7, 2020.
+I. FACTS
+Philippine Rice Institute (PhilRice) was created under Executive Order No. 1061, 
+as amended
+ (
+Charter
+). Under the aforementioned law, specifically Section 14 thereof, the Office of the Government Corporate Counsel (OGCC) shall serve as its legal counsel.
+In view of the fact that the OGCC was unable to attend with dispatch to the legal concerns of PhilRice' Central Office in Nueva Ecija and other branches in Luzon, the latter, through its then Executive Director, Atty. Ronilo A. Beronio (Atty. Beronio), sought the OGCC's approval of the draft
+ Contract for Retainer and Legal Services
+[6]
+ with Atty. Teodoro G. Mendoza (Atty. Mendoza).
+[7]
+ The OGCC, in 
+Contract Review No. 37, series of 2009, dated January 23, 2009
+,
+[8]
+ found the draft contract to be "generally in order" but advised that the "written concurrence of the [COA] [...] be obtained, pursuant to Section 3 of Memorandum Circular No. 9, dated 27 August 1998."
+[9]
+In compliance with the advise of the OGCC, Atty. Beronio, acting for and on behalf of PhilRice, through a 
+Letter
+[10]
+ dated February 11, 2009, sought the concurrence of the COA on the draft 
+Contract for Retainer and Legal Service (
+Subject Contract
+)
+. The said 
+Letter 
+was addressed to Mr. Antonio S. Samaniego (Samaniego), State Auditor IV.
+[11]
+ No immediate response was given by Samaniego.
+[12]
+Notwithstanding the lack of concurrence by the COA, the PhilRice on March 4, 2009, through Atty. Beronio, executed the undated 
+Subject Contract
+ with Atty. Mendoza. The 
+Subject Contract
+ was to run from the period of January 1, 2009 to December 31, 2009, and contained the following salient provisions:
+The LEGAL RETAINER shall be entitled to a monthly retainer fee of TWENTY THOUSAND PESOS ONLY (PhP 20,000.00) inclusive of acceptance fees, billings for conferences and meetings, for consultations and documentations, and for pleadings, memoranda, position papers and briefs including fees for his notarial services by law. The legal retainer may not collect notarial fees from PhilRice for all its documents. He may be entitled to receive incentives from PhilRice.
+The LEGAL RETAINER shall be granted court appearance fee before judicial courts and quasi-judicial courts of Two Thousand Pesos (PhP 2,000.00). Additional reimbursement for actual transportation and all meal expenses may be paid if hearing or meeting is outside the province of Nueva Ecija.
+All payments or reimbursements to the LEGAL RETAINER shall be subject to the usual government auditing and accounting regulations.
+x x x x
+There shall be no employer-employee relationship between PHILRICE and the LEGAL RETAINER. Thus, [the] latter is not entitled to claim the benefits and privileges of employees of the former. Neither can he be made a member of its Bids and Awards Committee.
+[13]
+During the course of the engagement of Atty. Mendoza, the following sums were paid to him:
+ 
+ 
+ Amount (in PhP) 
+ 
+ Description 
+ 
+ 
+ 
+ 240,000.00 
+ 
+ Legal Retainer Fees 
+ 
+ 
+ 
+ 16,000.00 
+ 
+ Court Appearances 
+ 
+ 
+ 
+ 42,500.00 
+ 
+ Incentives 
+ 
+ 
+ 
+ 37,250.00
+[14]
+ 
+ Legal Services (contract review, handling and notarization of Open Academy for Philippine Agriculture [OPAPA] documents) 
+ 
+ 
+ 
+ 2,015.00
+[15]
+ 
+ Reimbursement for renewal of notarial commission fees 
+ 
+ 
+ 
+ 337,765.00 
+ 
+ TOTAL 
+ 
+ 
+Months after the execution of the 
+Subject Contract
+, the COA, issued 
+Legal Retainer Review No. 2009-116
+ dated December 4, 2009, which states:
+This Commission hereby concurs in the Contract for Retainer and Legal Services entered into by and between PhilRice [...] and Atty. Teodoro G. Mendoza, for a period of one (1) year effective January 1, 2009 to December 31, 2009, expect that the monthly retainer fee should be 
+reduced to TEN THOUSAND PESOS (P10,000.00), and the appearance fee to ONE THOUSAND PESOS (P1,000.00)
+ as the amounts stipulated in the contract appear to be excessive when compared with the retainer and appearance fees under similar contracts for legal services submitted to this Commission for concurrence, and subject to the terms and conditions imposed by the Office of the Government Corporate Counsel (OGCC) under its Contract Review No. 037, series of 2009, dated January 23, 2009. 
+Likewise, entitlement to receive incentives as provided under paragraph 2 should be deleted as herein contract does not create employer-employee relationship
+.
+[16]
+ (Emphasis supplied)
+Pursuant to the above-quoted, Merlita M. Carlos, COA State Auditor III, and Danilo M. Lagason, Supervising Auditor, issued 
+Notices of Disallowance Nos. 14-001-101-(09)
+[17]
+ and 
+14-002-101-(2013)
+,
+[18]
+ both dated January 6, 2014 (
+Subject NDs
+). In particular, the following amounts were disallowed:
+ 
+ 
+ 
+Notice of 
+ Disallowance No. 
+ 
+ 
+Particulars 
+ 
+ 
+Amount (in PhP) 
+ 
+ 
+ 
+ 
+14-001-101-(09) 
+ 
+ 
+Legal Retainer Fees 
+ 
+ 
+120,000.00 
+ 
+ 
+ 
+ 
+Court Appearances 
+ 
+ 
+8,000.00 
+ 
+ 
+ 
+ 
+Incentives 
+ 
+ 
+42,500.00 
+ 
+ 
+ 
+ 
+Legal Services (contract review, handling and notarization of OPAPA documents) 
+ 
+ 
+37,250.00
+[19]
+ 
+ 
+ 
+ 
+14-002-101-(2013) 
+ 
+ 
+Reimbursement for renewal of notarial commission fees 
+ 
+ 
+2,015.00
+[20]
+ 
+ 
+ 
+TOTAL 
+      
+ 
+209,765.00
+ 
+ 
+In 
+Notice of Disallowance No. 14-001-101-(09)
+,
+[21]
+ the COA had disallowed half the amount of the total Legal Retainer Fees and Court Appearance Fees paid to Atty. Mendoza; the entire sum of incentives and bonuses paid; the fees for legal services paid in relation to the OPAPA documents.
+[22]
+ On the other hand, in 
+Notice of Disallowance 14-002-101-(2013)
+,
+[23]
+ the COA disallowed the amount paid to Atty. Mendoza as reimbursement for his notarial commission fees.
+[24]
+The 
+Subject NDs
+, made the following persons liable, 
+viz
+.:
+ 
+ 
+ 
+Name 
+ 
+ 
+Position 
+ 
+ 
+Notice of 
+Disallowance No. 
+ 
+ 
+ 
+ 
+Babylinda O. Reyes 
+ 
+ 
+Accountant III 
+ 
+ 
+14-001-101-(09) & 14-002-101-(2013) 
+ 
+ 
+ 
+ 
+Teodoro G. Mendoza 
+ 
+ 
+Payee 
+ 
+ 
+14-001-101-(09) & 14-002-101-(2013) 
+ 
+ 
+ 
+ 
+Ronilo A. Beronio 
+ 
+ 
+Executive Director 
+ 
+ 
+14-001-101-(09) 
+ 
+ 
+ 
+ 
+Conyfel D. Jiao 
+ 
+ 
+Head, Accounting Unit 
+ 
+ 
+14-001-101-(09) 
+ 
+ 
+ 
+ 
+Mary Grace D. Corpuz 
+ 
+ 
+Accountant IV 
+ 
+ 
+14-001-101-(09) 
+ 
+ 
+ 
+ 
+Eulito U. Bautista 
+ 
+ 
+DED for Research 
+ 
+ 
+14-001-101-(09) 
+ 
+ 
+ 
+ 
+Sophia T. Borja 
+ 
+ 
+Head, Administrative Division 
+ 
+ 
+14-001-101-(09) 
+ 
+ 
+ 
+ 
+Ruben B. Miranda 
+ 
+ 
+Chief SRS 
+ 
+ 
+14-001-101-(09) 
+ 
+ 
+ 
+ 
+Leo C. Javier 
+ 
+ 
+Chief SRS 
+ 
+ 
+14-001-101-(09) 
+ 
+ 
+ 
+ 
+Caesar Joventino N. Tado 
+ 
+ 
+Chief SRS 
+ 
+ 
+14-002-101-(2013) 
+ 
+ 
+ 
+ Eufemio T. Rasco, Jr. 
+ 
+ Executive Director 
+ 
+ 14-002-101-(2013)
+[25]
+ 
+ 
+In relation to the instant 
+Petition
+, the 
+Subject NDs
+ found: 1) petitioner Mary Grace D. Corpuz (petitioner Corpuz) liable for certifying the completeness of the supporting documents in her capacity as Accountant IV in at least thirteen (13) disbursements;
+[26]
+ and, 2) petitioner Babylinda O. Reyes (petitioner Reyes) for certifying the completeness of the supporting documents in her capacity as Accountant III in at least six (6) transactions.
+[27]
+ On the other hand, petitioner Sophia T. Borja (petitioner Borja) was made liable for having approved the payment in her capacity as Head of the Administrative Division in at least three (3) disbursements, while petitioner Leo C. Javier (petitioner Javier) was made liable as Chief of the SRS for having approved the payment in at least two (2) disbursements.
+[28]
+ Likewise, petitioner Caesar Joventino M. Tado (petitioner Tado), as Chief of the SRS, was made liable for approving the payment for the reimbursement of Atty. Mendoza's notarial commission fees.
+[29]
+Aggrieved by the 
+Subject NDs
+, the petitioners, including others made liable thereunder, filed an appeal before the COA-RO3 arguing that the 
+Subject Contract
+ was fair and reasonable under the circumstances. However, the COA-RO3 denied the appeal for having been failed to comply with the 
+Legal Retainer Review No. 2009-116
+ dated December 4, 2009, thus:
+WHEREFORE
+, premises considered, we affirm the disallowances as stated under Notices of Disallowance (NDs) Nos. 14-001-101(09) and 14-002-101(2013), both dated January 6, 2014, in aggregate amount of P209,765.00. Consequently, the herein appeal for the lifting of the subject disallowances is hereby 
+DENIED
+.
+[30]
+Undeterred, the petitioners, as well as others made liable under the 
+Subject NDs
+, sought a review of the 
+Decision
+ of the COA-RO3 with the COA proper. The appeal was nevertheless denied by the COA proper for lack of meritâthe petitioners' arguments being mere rehash of those submitted before the COA-RO3:
+WHEREFORE
+, premises considered, the Petition for Review of Ms. Mary Grace Corpuz, Accountant IV, et al., Philippine Rice Research Institute, Central Experimental Station, Maligaya, Science City of MuÃ±oz, Nueva Ecija, is hereby 
+DENIED
+ for lack of merit. Accordingly, Commission on Audit Regional Office III Decision No. 2015-04 dated January 8, 2015 sustaining Notice of Disallowance Nos. 14-001-101(09) and 14-002-101(2013) both dated January 6, 2014, on the payment of legal retainer fees, court appearances, incentives, legal services, and reimbursement for the renewal of notarial commission of Atty. Teodoro G. Mendoza, in fiscal years 2009 and 2013, in the total amount of P209,765.00, is 
+AFFIRMED.
+[31]
+The petitioners sought reconsideration of the 
+Decision
+ of the COA proper but was denied by the 
+COA En Banc
+ through its 
+Notice No. 2020-014
+ issued on February 12, 2020 for failing "to raise any new matter or other sufficient ground to justify a reconsideration x x x."
+[32]
+The petitioners now come before this Court seeking a reversal of the 
+Decision
+ of the COA proper and the 
+Notice
+ of the COA 
+En Banc
+. In the main, the petitioners proffer three (3) arguments: 
+first
+, that the government will be unjustly enriched should the 
+Subject NDs
+ be sustained;
+[33]
+ 
+second
+, that the 
+Subject Contract
+ and all disbursements were fair and reasonable under the circumstances, and compliant with applicable law, rules, and jurisprudence;
+[34]
+ and 
+third
+, that the petitioners acted in good faith in disbursing the amounts paid to Atty. Mendoza.
+[35]
+II. RULING
+The petition is partly meritorious.
+The Procedure for Approval of
+the Subject Contract.
+At the outset, this Court finds that the 
+Subject Contract
+, at the time of execution, was not entered into in accordance with the prevailing law, rules, and jurisprudence.
+Under the 
+Charter
+ of PhilRice, its statutory counsel is the OGCC, whose functions are complimented by PhilRice' own legal department tasked to handle routine day-to-day legal matters.
+[36]
+ Admittedly, despite the legal arsenal at its disposal, PhilRice is not precluded from seeking the assistance of external counsel. This much is clear from COA Circular No. 95-11 dated December 4, 1995.
+[37]
+ However, before such external counsel may be engaged, PhilRice and its responsible officers are burdened with the duty to show that such "legal services cannot be avoided or is justified under extraordinary or exceptional circumstances"
+[38]
+ to both the OGCC and the COA.
+[39]
+ Thus, COA Circular No. 95-11 provides:
+x x x x 
+where a government agency is provided by law with a legal officer or office who or which can handle its legal requirements or cases in courts, it (agency) may not be allowed to hire the services of private lawyers for a fee, chargeable against public funds, unless exceptional or extraordinary circumstances obtain
+ as exemplified in the above-cited case of Municipality of Pililla, Rizal vs. Court of Appeals, et. al.
+Accordingly and pursuant to this Commission's exclusive authority to promulgate accounting and auditing rules and regulations, including for the prevention and disallowance of irregular, unnecessary, excessive, extravagant and/or unconscionable expenditure or uses of public funds and property (Sec. 2-2, Art. IX-D, Constitution), 
+public funds shall not be utilized for payment of the services of a private legal counsel or law firm to represent government agencies in court or to render legal services for them. In the event that such legal services cannot be avoided or is justified under extraordinary or exceptional circumstances, the written conformity and acquiescence of the Solicitor General or the Government Corporate Counsel, as the case may be, and the written concurrence of the Commission on Audit shall first be secured before the hiring or employment of a private lawyer or law firm.
+[40]
+ (Emphasis supplied)
+Otherwise stated, the applicable law, rules, and regulations provide that 
+before
+ external counsel may be engaged by PhilRice, its responsible officers, as a condition precedent, must secure both the concurrence of the OGCC and the COA. "The purpose is to curtail the unauthorized and unnecessary disbursement of public funds to private lawyers for services rendered to the government, which is in line with the COA's constitutional mandate to promulgate accounting and auditing rules and regulations, including those for the prevention and disallowance of irregular, unnecessary, excessive, extravagant or unconscionable expenditures or uses of government funds and properties."
+[41]
+ Quite simply, in this case, and contrary to the foregoing, the responsible officers of PhilRice failed to secure 
+both
+ OGCC and COA's concurrence on the 
+Subject Contract
+ 
+before
+ its execution on March 4, 2009.
+Nevertheless, this Court is cognizant of the following crucial facts: (1) that the responsible officers of PhilRice did in fact seek the concurrence of both OGCC and the COA, and (2) that both the OGCC and COA eventually gave their concurrence, albeit the latter gave it nine (9) months after its concurrence was sought, while the former gave its concurrence near-immediately. This does not detract from the fact, however, that 
+both
+ the OGCC's and COA's concurrence were 
+not
+ secured 
+prior
+ to the execution of the 
+Subject Contract
+.
+Arguably, the defect in the execution of the 
+Subject Contract
+ might have been cured by the eventual approval of it by the COA. However, this is only partly-true considering that the COA, in its 
+Legal Retainer Review No. 2009-116
+[42]
+ dated December 4, 2009, directed the modification of the 
+Subject Contract
+.
+This Commission hereby concurs in the Contract for Retainer and Legal Services entered into by and between PhilRice x x x and Atty. Teodoro G. Mendoza, for a period of one (1) year effective January 1, 2009 to December 31, 2009, expect that the monthly retainer fee should be 
+reduced to TEN THOUSAND PESOS (P10,000.00), and the appearance fee to ONE THOUSAND PESOS (P1,000.00)
+ as the amounts stipulated in the contract appear to be excessive when compared with the retainer and appearance fees under similar contracts for legal services submitted to this Commission for concurrence, and subject to the terms and conditions imposed by the Office of the Government Corporate Counsel (OGCC) under its Contract Review No. 037, series of 2009, dated January 23, 2009. 
+Likewise, entitlement to receive incentives as provided under paragraph 2 should be deleted as herein contract does not create employer-employee relationship
+.
+[43]
+ (Emphasis supplied)
+In other words, in entering the 
+Subject Contract
+ before both the OGCC and COA concurrence were secured, and disbursing funds in relation thereto, the responsible officers of PhilRice did so at their own peril.
+At this juncture, it is worth mentioning that PhilRice, through its responsible officers, sought the concurrence of the COA from the wrong office. Specifically, the concurrence of the COA was sought from Auditor Samaniego of COA Resident Office in PhilRice and not from the Office of the General Counsel, as required under the 2009 Revised Rules of Procedure of the COA.
+[44]
+ This could have contributed to the delay in the approval of the request for concurrence, which brings this Court to its next point.
+An argument is interposed by the petitioners that the concurrence of the COA should have been deemed given considering the latter's supposedly inordinate delay on acting on the request for concurrence by the former.
+[45]
+ Suffice it to state that at the time the 
+Subject Contract
+ was executed, the applicable law was R.A. No. 9485 or the "Anti-Red Tape Act of 2007", which does not contain a "deemed approved" provision upon the lapse of number of daysâthe period depending on the nature of the transaction.
+Petitioners Could No Longer Question
+Legal Retainer Review No. 2009-116
+dated December 4, 2009.
+Petitioners anchor their submissions before this Court on the fairness and reasonableness of the professional fees stated in the 
+Subject Contract
+.
+[46]
+ Essentially, the averments of the petitioners are aimed at attacking the propriety of COA's 
+Legal Retainer Review No. 2009-116 dated December 4, 2009
+.
+[47]
+ This is an indirect attack on an issue that should have been long settled, and thus, deserves scant consideration.
+Under the 2009 Revised Rules of Procedure of COA, the COA proper is the appropriate forum to resolve, at the first instance, any motion for reconsideration or appeal on issues relating to a request for concurrence to hire a legal retainer. Thus, Sections 1 and 3, Rule VIII of the 2009 Revised Rules of Procedure of the COA provides:
+SECTION 1. Original Jurisdiction. â The Commission Proper shall have original jurisdiction over: a) money claim against the Government; 
+b) request for concurrence in the hiring of legal retainers by government agency;
+ c) write off of unliquidated cash advances and dormant accounts receivable in amounts exceeding one million pesos (P1,000,000.00); d) request for relief from accountability for loses due to acts of man, i.e., theft, robbery, arson, etc., in amounts in excess of Five Million pesos (P5,000,000.00).
+x x x x
+SECTION 3. Hiring of Legal Retainer. â A request for concurrence of the Commission in the hiring of legal retainer shall be filed with the Office of the General Counsel who shall evaluate the same and issue the written concurrence or denial thereof in behalf of the Commission. 
+A request for reconsideration or appeal therefrom shall be cognizable by the Commission Proper.
+[48]
+ (Emphasis supplied)
+In this case, the fact that PhilRice, its responsible officers, and the petitioners, interposed no motion for reconsideration or appeal to the 
+Legal Retainer Review No. 2009-116 dated December 4, 2009
+,
+[49]
+ signals their agreement to the terms thereof. Accordingly, having passed on the opportunity to question the 
+Legal Retainer Review
+, it is, therefore, too late in the day for the petitioners to attack the same.
+Liability of Petitioners for Notice of
+Disallowance No. 14-001-101-(09)
+dated January 6, 2014.
+Having established that the 
+Subject Contract
+ was not executed in accordance with the procedure provided by law, the question of the petitioners' liability in relation thereto remains. More simply, are the petitioners liable for the disallowed amount under 
+Notice of Disallowance No. 14-001-101-(09)
+[50]
+ considering that none of them are the ones who hired Atty. Mendoza nor executed the 
+Subject Contract
+ with Atty. Mendoza 
+prior
+ to securing the concurrence of both COA and the OGCC?
+This question had already been resolved by this Court in the case of 
+The Law Firm of Laguesma Magsalin Consulta and Gastardo v. Commission on Audit. Et al.
+,
+[51]
+ wherein this Court held that violation of the pertinent law, rules, and regulations on the engagement of external counsel is the 
+personal liability
+ of the officer who hired such external counsel, thus:
+Commission on Audit Circular No. 86-255 dated April 2, 1986 previously stated that:
+[a]ccordingly, it is hereby directed that, henceforth, the payment out of public funds of retainer fees to private law practitioners who are so hired or employed without the prior written conformity and acquiescence of the Solicitor General or the Government Corporate Counsel, as the case may be, as well as the written concurrence of the Commission on Audit shall be disallowed in audit and the same shall be a personal liability of the officials concerned.
+However, when Commission on Audit Circular No. 86-255 was amended by Commission on Audit Circular No. 98-002 on June 9, 1998,
+[52]
+ it failed to retain the liability of the officials who violated the circular. This gap in the law paves the way for both the erring officials of the government-owned and controlled corporations to disclaim any responsibility for the liabilities owing to private practitioners.
+x x x x
+To fill the gap created by the amendment of Commission on Audit Circular No. 86-255, respondents correctly held that the officials of Clark Development Corporation who violated the provisions of Circular No. 98-002 and Circular No. 9 should be personally liable to pay the legal fees of petitioner, as previously provided for in Circular No. 86-255.
+This finds support in Section 103 of the Government Auditing Code of the Philippines, which states:
+SEC. 103. General liability for unlawful expenditures. â Expenditures of government funds or uses of government property in violation of law or regulations shall be a personal liability of the official or employee found to be directly responsible therefor.
+This court has also previously held in 
+Gumaru v. Quirino State College
+ that:
+the fee of the lawyer who rendered legal service to the government in lieu of the OSG or the OGCC is the personal liability of the government official who hired his services without the prior written conformity of the OSG or the OGCC, as the case may be.
+[53]
+ (Citations omitted)
+Under the 
+Charter
+, the petitioners were not vested with authority to enter or execute the 
+Subject Contract
+. Such authority lies with the Board of Trustees (Board), who exercises the powers of PhilRice,
+[54]
+ including the power "[t]o enter into, make and execute contracts and agreements of any kind or nature,"
+[55]
+ and the Executive Director, who executes contracts at the behest of the Board.
+[56]
+Accordingly, proceeding from the foregoing disquisition, the petitioners Corpuz, Borja, Javier, Tado, and Reyes, all of whom had no involvement in the hiring of Atty. Mendoza, the legal retainer, are absolved of liability from 
+Notice of Disallowance No. 14-001-101-(09)
+.
+[57]
+ This Court notes, however, that aside from the petitioners, other individuals were likewise made liable under 
+Notice of Disallowance No. 14-001-101-(09)
+,
+[58]
+ 
+viz
+.:
+ 
+ 
+ Name 
+ 
+ Position 
+ 
+ 
+ 
+ 
+Ronilo A. Beronio 
+ 
+ 
+Executive Director 
+ 
+ 
+ 
+ 
+Conyfel D. Jiao 
+ 
+ 
+Head, Accounting Unit 
+ 
+ 
+ 
+ 
+Eulito U. Bautista 
+ 
+ 
+DED for Research 
+ 
+ 
+ 
+ 
+Ruben B. Miranda 
+ 
+ 
+Chief SRS
+[59]
+ 
+ 
+In the interest of substantial justice, this Court likewise holds that Conyfel D. Jiao, Eulito U. Bautista, and Ruben B. Miranda, being similarly situated as the petitioners, 
+i.e.
+, without involvement in the hiring of Atty. Mendoza as legal retainer, are likewise absolved from liability under 
+Notice of Disallowance No. 14-001-101-(09)
+.
+[60]
+The foregoing discussion cannot be said to apply to Atty. Beronio who was the Executive Director of PhilRice at the time of the execution of the 
+Subject Contract
+. The applicable laws, rules, and regulations are clear that 
+before
+ he may enter into the 
+Subject Contract
+, he must first ensure that both the OGCC and the COA concur.
+[61]
+ The rule is absolute and categorical, and makes for no exception.
+This Court notes, however, that Atty. Beronio could not have acted alone. Indeed, under the PhilRice's 
+Charter
+, Atty. Beronio could not have entered into the 
+Subject Contract
+ without the imprimatur of the Board. As the Charter of PhilRice states, the authority of Atty. Beronio to execute the 
+Subject Contract
+ must be "[w]ithin the limits of the authority delegated to him by the Board[.]"
+[62]
+ This Decision is, therefore, without prejudice to further proceedings against members of the Board of PhilRice at the time the 
+Subject Contract
+ was entered intoâspecifically, on whether the Board actually authorized Atty. Beronio to enter into the 
+Subject Contract
+ with Atty. Mendoza; and if given, whether the authority given required the prior conformity of the OGCC and the written concurrence of the COA.
+With respect to Atty. Mendoza, suffice it to state that he should rightfully be compensated for the services which he indisputably rendered to PhilRice, and from which PhilRice undoubtedly benefited. Nevertheless, as pointed out by Senior Associate Justice Estela M. Perlas-Bernabe, considering that the COA characterized the remuneration in the 
+Subject Contract
+ as excessive,
+[63]
+ Atty. Mendoza may only retain such amounts as is fair and reasonable for the services he had rendered.
+[64]
+ Thus, this Court agrees with the COA that, considering the nature of services rendered by Atty. Mendoza, he is only entitled to a monthly retainer fee in the amount of Ten Thousand Pesos (P10,000.00) and an appearance fee of One Thousand Pesos (P1,000.00). As such, he remains liable under 
+Notice of Disallowance No. 14-001-101-(09)
+.
+[65]
+Liability of Petitioners for Notice of
+Disallowance No. 14-002-101-(2013)
+dated January 6, 2014.
+Notice of Disallowance No. 14-002-101-(2013)
+[66]
+ is an entirely different matter. This Notice of Disallowance pertains to the reimbursement for the renewal of notarial commission fees of Atty. Mendoza in the amount of Two Thousand Fifteen Pesos (P2,015.00). Amongst the petitioners, only petitioners Reyes and Tado were made liable under the same.
+To begin, neither petitioners Reyes and Tado claim good faith in allowing the disbursement of government funds in relation to 
+Notice of Disallowance No. 14-002-101-(2013)
+.
+[67]
+ Instead, they principally argue that the said Notice of Disallowance is improper considering that the notarial services of Atty. Mendoza is "exclusively" for PhilRice. This contention is without merit.
+The remuneration of Atty. Mendoza, as well as any reimbursements that he may be entitled to, is governed by the terms of the 
+Subject Contract
+. Conspicuously, the 
+Subject Contract
+ does not contain any provision on reimbursements for the renewal of Atty. Mendoza's notarial commission. What is clear, however, is that the monthly retainer fee, and to borrow the words of the petitioners, is "all-inclusive and already incorporates all the expenses in connection with the performance of the services required of Atty. Mendoza."
+[68]
+ Significantly, the 
+Subject Contract
+ even specifically states that the legal retainer fee includes "fees for [Atty. Mendoza's] notarial services[.]"
+[69]
+ Necessarily, this must be taken to mean as inclusive of the fees incurred by Atty. Mendoza in securing his notarial commission and the renewal thereof.
+WHEREFORE,
+ premises considered, the petition is 
+GRANTED.
+ The Commission on Audit 
+Decision No. 2018-370
+ dated October 26, 2018 and 
+Notice No. 2020-014
+ issued on February 12, 2020 are 
+AFFIRMED WITH MODIFICATION
+:
+The petitioners Mary Grace D. Corpuz, Sophia T. Borja, Leo C. Javier, and Babylinda O. Reyes are absolved from refunding the amount disallowed under 
+Notice of Disallowance No. 14-001-101-(09)
+; and,
+In the interest of substantial justice, Conyfel D. Jiao, Eulito U. Bautista, and Ruben B. Miranda, all of whom are made liable under N
+otice of Disallowance No. 14-001-101-(09)
+, are likewise absolve from refunding the disallowed amount thereunder.
+The petitioners Babylinda O. Reyes and Caesar Joventino N. Tado remain liable to reimburse the disallowed amount under 
+Notice of Disallowance No. 14-002-101-(2013)
+.
+The foregoing is without prejudice to the liability of Atty. Ronilo A. Beronio and Atty. Teodoro G. Mendoza under 
+Notice of Disallowance No. 14-001-101-(09)
+, and the liability of Atty. Teodoro G. Mendoza and Eufemio T. Rasco under 
+Notice of Disallowance No. 14-002-101-(2013)
+, all of whom did not join the instant Petition.
+Likewise, the Decision by this Court is without prejudice to the Commission on Audit issuing a supplemental notice of disallowance against the then Members of the Board of Trustees of the Philippine Rice Institute in connection with 
+Notices of Disallowance Nos. 14-001-101-(09)
+ and 
+14-002- 101-(2013)
+, both dated January 6, 2014.
+SO ORDERED.
+Gesmundo, C.J., Perlas-Bernabe, Leonen, Caguioa, Carandang, Lazaro-Javier, Inting, Zalameda, M. Lopez, Rosario, J. Lopez, Dimaampao,
+ and 
+Marquez, JJ.,
+ concur.
+Hernando,
+*
+ J.,
+ on official leave.
+* 
+On official leave.
+[1]
+ 
+Rollo
+, pp. 3-28.
+[2]
+ Id. at 33-38; COA 
+Decision No. 2018-370
+, approved by Chairperson Michael G. Aguinaldo, Commissioners Jose A. Fabia and Roland C. Pondoc.
+[3]
+ Id. at 39.
+[4]
+ Id. at 40-43; COA-RO3 
+Decision 2015-04
+, penned by Regional Director Ma. Mileguas M. Leyno.
+[5]
+ Id. at 188-189.
+[6]
+ Id. at. 142-144.
+[7]
+ Id. at 7.
+[8]
+ Id. at 93-94.
+[9]
+ Id. at 94.
+[10]
+ Id. at 95.
+[11]
+ Id.
+[12]
+ Id. at 8.
+[13]
+ Id. at 90-91, 142-144.
+[14]
+ Id. at 81-87.
+[15]
+ Id. at 88-89.
+[16]
+ Id. at 42.
+[17]
+ Id. at 81-87.
+[18]
+ Id. at 88-89.
+[19]
+ Id. at 81.
+[20]
+ Id. at 88.
+[21]
+ Id. at 81-87.
+[22]
+ Id.
+[23]
+ Id. at 88-89.
+[24]
+ Id.
+[25]
+ Id. at 81-89.
+[26]
+ Id. at 83-87.
+[27]
+ Id. at 88-89.
+[28]
+ Id. at 81.
+[29]
+ Id. at 88.
+[30]
+ Id. at 43.
+[31]
+ Id. at 36-37.
+[32]
+ Id. at 39.
+[33]
+ Id. at 10.
+[34]
+ Id. at 14.
+[35]
+ Id. at 12.
+[36]
+ Executive Order No. 1061 dated November 5, 1985 (1985), as amended by Executive Order No. 219 dated June 23, 2003, Section 14. Establishing the Philippine Rice Research Institute (PRRI).
+[37]
+ Prohibition Against Employment by Government Agencies or Controlled Corporation, of Private Lawyers to Handle their Legal Cases.
+[38]
+ Id.
+[39]
+ Id.
+[40]
+ Id., as provided in Section 3, Rule VIII, COA 2009 Rules of Procedure.
+[41]
+ 
+Dr. OÃ±ate v. Commission on Audit
+, 789 Phil. 260, 266 (2016).
+[42]
+ 
+Rollo
+, p. 42.
+[43]
+ Id.
+[44]
+ Section 3, Rule VIII, COA 2009 Rules of Procedure.
+[45]
+ 
+Rollo
+, p. 368.
+[46]
+ Id. at 14-20.
+[47]
+ Id. at 42.
+[48]
+ COA 2009 RULES OF PROCEDURE, Rule VIII, Sections 1 and 3.
+[49]
+ 
+Rollo
+, p. 42.
+[50]
+ Id. at 81-87.
+[51]
+ 750 Phil 258 (2015).
+[52]
+ 
+Note
+: COA Circular No. 86-255 dated April 2, 1986 was amended by COA Circular No. 95-11 dated December 4, 1995, which was previously cited in the body of this 
+Decision
+. Both COA Circular No. 86-255 and COA Circular No. 95-11 were amended by COA Circular No. 98-002 dated June 9, 1998 but only insofar as Local Government Units are concerned.
+[53]
+ Id. at 286.
+[54]
+ Section 3 in relation to Section 4, 
+Charter
+.
+[55]
+ Section 3(e), 
+Charter
+.
+[56]
+ Section 7(b), 
+Charter
+.
+[57]
+ 
+Rollo
+, pp. 81-87.
+[58]
+ Id.
+[59]
+ Id.
+[60]
+ Id.
+[61]
+ 
+Almodovar v. Pulido-Tan
+, 773 Phil. 165, 175 (2015).
+[62]
+ 
+Supra
+, note 52.
+[63]
+ 
+Rollo
+, p. 39.
+[64]
+ 
+Torreta v. Commission on Audit
+, G.R. No. 242925, November 10, 2020; 
+Atty. Orocio v. Anguluan
+, 597 Phil. 524, 542 (2009).
+[65]
+ 
+Rollo
+, pp. 81-87.
+[66]
+ Id. at 88-89.
+[67]
+ Id.
+[68]
+ Id. at 18.
+[69]
+ Id. at 90.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

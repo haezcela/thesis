@@ -1,0 +1,380 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 213931, November 17, 2021 ]
+
+
+KUWAIT AIRWAYS CORPORATION, PETITIONER, VS. THE TOKIO MARINE AND FIRE INSURANCE CO., LTD., AND TOKIO MARINE MALAYAN INSURANCE CO., INC., RESPONDENTS.
+D E C I S I O N
+
+
+
+
+CARANDANG, J.:
+
+
+This resolves a Petition for Review on 
+Certoriari
+[1]
+ under Rule 45, petitioner Kuwait Airways Corporation (KAC) assails the Decision
+[2]
+ dated February 11, 2014 and the Resolution
+[3]
+ dated August 14, 2014 of the Court of Appeals (CA) in CA-G.R. CV No. 94059. The CA reversed the Decision
+[4]
+ dated June 30, 2009 of the Regional Trial Court (RTC) of Makati City, Branch 62 in Civil Case No. 05-011 dismissing respondents' complaint for compensatory damages for alleged negligence in the shipment of goods.
+ 
+Facts of the Case
+Petitioner KAC is a foreign corporation licensed in the Philippines to engage in the business of air transportation and as such, operates several aircraft as common carriers to and from the Philippines in international trade.
+[5]
+ Meanwhile, O'Grady Air Services (OAS) is a foreign entity based in the United Kingdom (UK) and licensed in the Philippines to engage in the business of freight forwarding or transportation of cargo, as a common carrier, to and from Philippine ports through a local agent.
+[6]
+Respondent Tokio Marine and Fire Insurance Co., Ltd. (TMFICL) is an insurance company based in Tokyo, Japan. On the other hand, Tokio Marine Malayan Insurance Co., Inc. (TMMICI), a domestic insurance corporation based in Makati City. According to TMMICI's claims manager, it is an affiliate of TMFICL and acts as the latter's settling agent when claims are made on its insurance policies.
+[7]
+On January 6, 2003, Fujitsu Europe Limited (FEL) engaged the services of OAS for the transport of 10 pallets containing crates of STC disk drives from FEL's address in Slough, Berkshire, UK.
+[8]
+ to Fujitsu Computer Products Corporation of the Philippines (FCPCP), the consignee, at the latter's address in Carmelray Industrial Park, Laguna.
+[9]
+ From Slough, the pallets were taken to Heathrow Airport in London, where they were then loaded onto KAC's aircraft on flights no. KU104/08 and KU411/09. The shipment had a declared value of US$158,163.00 and was insured with TMFICL under Open Policy No. 01Q11368N.
+[10]
+On January 9, 2003, the shipment arrived at the Ninoy Aquino International Airport (NAIA). Neither the RTC nor the CA narrate the exact circumstances of the shipment's unloading. However, according to a photocopy of MIASCOR Storage and Delivery Receipt No. 251294 dated January 10, 2003, it was noted that one crate had a hole on the side and another was dented.
+[11]
+In a letter dated February 28, 2003, FCPCP's on-site supevisor at NAIA notified petitioner that they are making a preliminary claim.
+[12]
+ The cargo was then transported by Japan Cargo Forwarder and Brokerage Corporation (Japan Cargo) to Laguna and were received by FCPCP on January 18, 2003.
+[13]
+ 
+FCPCP filed a claim on the insurance policy. TMMICI then hired the services of Toplis Marine Philippines, Inc. (Toplis) to survey the alleged damage. On January 27, 2003 - 18 days after the goods had arrived at NAIA - Toplis sent one of its registered marine and cargo surveyors, Henry F. Barcena, to FCPCP's premises in Laguna to conduct a survey on the goods. Barcena was shown 32 cartons which he noted to be "deformed/pressed in varying degrees" and was given photocopies of the MIASCOR Storage and Delivery Receipt and the Japan Cargo Delivery Receipt.
+[14]
+In his initial Inspection Report, prepared on the day of the survey, Barcena stated that the disk drives in the cartons "appeared [in] good order but rejected by consignee's authorized representative."
+[15]
+ Barcena took photographs of the supposedly damaged cargo as they had arrived at FCPCP's premises. Later, on May 5, 2003, Barcena and his supervisor (D.L Legaspi, Jr.) issued a Certificate of Survey, commenting that "the denting of the carton may have been caused by the rigor of voyage and/or rough handling during the various stages loading to or discharging from the Airline"
+[16]
+ based on the photocopies of the MIASCOR Storage and Delivery Receipt he had received from FCPCP.
+[17]
+In a letter addressed to KAC and dated February 8, 2003, FCPCP formally claimed for US$55,602.00 for the damage sustained by the shipment. This claim was not acted upon, so FCPCP claimed for insurance. Based on the Certificate of Survey, respondent TMMICI paid FCPCP the insurance benefit.
+[18]
+ In a Subrogation Receipt dated September 22, 2003, FCPCP acknowledged receipt of US$61,400.70 as insurance indemnity and transferred all its rights and interest on the damaged cargo to respondent TMFICL.
+[19]
+On January 6, 2005, respondents filed a complaint
+[20]
+ before the RTC against OAS, OAS' unknown local agent, and KAC for US$61,400.70 as actual damages with six percent (6%) legal interest from date of demand, attorney's fees, and costs of suit.
+[21]
+Only petitioner KAC filed an answer, admitting only two of the allegations: that it is a common carrier and that the goods were loaded and unloaded from its aircraft. All other allegations in the complaint were denied. Petitioner interposed the special and affirmative defenses that: (1) it had exercised extraordinary due diligence in all phases of transporting the goods; and (2) respondents are not real parties-in-interest. Petitioner also filed a counterclaim for moral and exemplary damages, arguing that respondent's complaint was utterly without basis and as such, besmirched its reputation.
+[22]
+Ruling of the Regional Trial Court
+The RTC dismissed both respondents' complaint and KAC's counterclaim.
+[23]
+The RTC held that respondents had failed to discharge their burden of proof, opining that the respondents relied too heavily on the photocopies of the MIASCOR Storage and Delivery Receipt. RTC also pointed out that the receipts were not authenticated as required by Section 5, Rule 130. Respondents' witnesses did not personally witness the preparation and execution of said receipt nor could they identify the signatures therein. As such, the RTC found no probative value in the receipts. Furthermore, the RTC gave little credence to Barcena's testimony because he inspected the goods 18 days after it had arrived at the consignee's premises.
+[24]
+The RTC also dismissed KAC's counterclaim for moral damages for lack of evidence, having presented no witness to support its allegation that its reputation had been besmirched. The RTC also refrained from awarding attorney's fees as there was no showing that respondents were in bad faith in filing their complaint. Respondents then appealed to the CA.
+[25]
+Ruling of the Court of Appeals
+The CA reversed the RTC.
+In the CA's appreciation of the evidence, the cargo was in good condition when it was loaded aboard petitioners' aircraft but already damaged when unloaded. In direct contradiction to the RTC's observations, the CA held that the MIASCOR Storage and Delivery Receipt and the Japan Cargo Delivery Receipt indubitably proved the damage. The CA believed that the damage could not have occurred in the ordinary course of things, unless the loading and/or unloading was mismanaged in some way. Therefore, the cargo could only have been damaged when it was in the aircraft, which was within petitioner's exclusive control. For these reasons, the CA held that all requisites for the doctrine of 
+res ipsa loquitur
+ are present in this case and on this basis, KAC is presumed to be negligent. The CA further held that petitioner failed to overcome such presumption because it presented no proof that the shipper FEL, consignee FCPCP, or the insurer TMFICL had occasion to contribute to the damage.
+[26]
+ 
+Proceedings Before This Court
+Petitioner's arguments
+Petitioner now prays for this Court to reverse, arguing that the MIASCOR Storage and Delivery Receipt and the Japan Cargo Delivery Receipt are not admissible secondary evidence and as such, have no probative value. Petitioner also argues that there being no adequate proof of damage to the cargo, the doctrine of 
+res ipsa loquitur
+ should have no application in this case. Consequently, petitioner argues that it should not be presumed negligent.
+[27]
+Assuming the Court would uphold the CA, petitioner argues that the terms of the Airway Bill, in relation to Article 22(2) of the Warsaw Convention, limits its liability to US$20.00 per kilogram of damaged goods.
+[28]
+Respondents' arguments
+In their Comment,
+[29]
+ respondents argue that petitioner should be deemed to have admitted that the cargo was unloaded from its aircraft in bad condition because it did not properly deny the allegations in the complaint. In its Answer, petitioner admitted that goods arrived at NAIA on January 9, 2003, but denied the allegation that it was unloaded from the carrying aircraft in bad order as evidenced by the MIASCOR Storage and Delivery Receipt No. 251294 "for lack of knowledge or information to form a belief as to the truth or falsity thereof [and that it had] exercised extraordinary diligence in the handling, care and custody of the subject cargo from the time it was placed into the carrier's custody for shipment until it was discharged from the carrier's custody upon arrival."
+[30]
+ Respondents argue that it is a "negative pregnant" because it does not effectively deny the allegation that indeed the cargo sustained damage.
+[31]
+Respondents also point out that the disk drives had undergone testing and examination by the consignee's Quality Control Department, which recommended rejection because of signs of abnormal shock or impact.
+[32]
+Issues
+For resolution are the following issues:    
+  
+1)
+Whether the MIASCOR Storage and Delivery Receipt and the Japan Cargo Delivery Receipt are adequate proof of damage to the goods;
+2)
+Whether the doctrine of 
+res ipsa loquitur
+ may be applied in this case; and
+3)
+Whether petitioner's liability, if any, may be limited in accordance with the Warsaw Convention.
+Ruling of the Court
+The petition is meritorious.
+Generally, only questions of law may be raised in a pet1t10n for 
+certiorari
+ under Rule 45. Because this Court is not a trier of facts, it does not usually reweigh the evidence and deviate from the facts as found by the lower courts. An exception to this rule is when the CA and the RTC disagree on the facts.
+[33]
+ Here, the RTC found that the "plaintiffs assertion that the assured items sustained damages x x x is sitting on feeble basis as the evidence purportedly showing the veracity of the claim x x x is wanting since no witness was presented to substantiate this relevant point."
+[34]
+ In contrast, the CA observed that the damage was "clearly proved x x x through [the] MIASCOR Delivery Receipt No. 251294 and Japan Cargo Delivery Receipt No. 124108 xx x."
+[35]
+ Because of this variance in the factual findings between courts 
+a quo
+, the Court re-examined the records for the proper resolution of this case.
+Under the Original Document Rule (previously called the Best Evidence Rule), when the subject of inquiry is the contents of a document, writing, photograph or other record, no evidence is admissible other than the original document itself.
+[36]
+ In this case, respondents formally offered the MIASCOR Storage and Delivery Receipt and the Japan Cargo Delivery Receipt as proof of their respective contents.
+[37]
+ As such, the originals should have been presented at trial.
+Under Section 4, Rule 130 of the 2019 Rules, however, an original document may consist of a "duplicate" produced by means of photography, mechanical or electronic re-recording, or by other equivalent techniques which accurately reproduce the original. A photocopy of an original, therefore, may consist of a "duplicate" if there is no question that it is an accurate reproduction of the original. But even though this case was tried before the effectivity of the 2019 Rules on Evidence, petitioner had already objected to the admissibility of the MIASCOR Delivery Receipt No. 251294 and Japan Cargo Delivery Receipt No. 124108, arguing that they are secondary evidence because they are mere photocopies.
+[38]
+ 
+Under Section 5 of Rule 130, a party is allowed to submit secondary evidence to prove the contents of a lost or destroyed document by a 
+copy
+, a 
+recital of its contents in some authentic document
+, or the 
+testimony of witnesses
+, provided that the offeror of the secondary evidence proves: (1) that the original existed and duly executed; (2) it was lost or destroyed; and (3) its unavailability is not due to bad faith on his or her part.
+[39]
+That said, regardless of whether an exhibit is an original, a "duplicate" of a document, or secondary evidence, it must still be presented at trial in the manner provided for by the Rules on Evidence before it can be admitted into evidence. For such purposes, it is important to distinguish between public or private documents. Public documents are admissible in evidence without further proof of their due execution and genuineness.
+[40]
+ On the other hand, under Section 20 of Rule 132, a private document cannot be admitted into evidence unless its due execution and authenticity is proven by: (a) anyone who saw the document executed or written; (b) evidence of the genuineness of the handwriting of the maker; or (c) other evidence showing its due execution and authenticity.
+[41]
+Upon a review of the records, We agree with the RTC's finding that the MIASCOR Delivery Receipt No. 251294 and Japan Cargo Delivery Receipt No. 124108 were not authenticated as required by Section 20 of Rule 132. Not one of respondents' three witnesses testified that they saw the receipts - and importantly, the notations of damage - being executed or written. As such, the photocopies of said receipts are inadmissible and have no evidentiary value.
+In any case, the evidence does not show whether the MIASCOR receipt referred to an inspection that was conducted on the goods upon the vehicle's arrival at NAIA or to one done after the unloading from the vehicle. This is critical because the extraordinary responsibility of petitioner KAC, as a common carrier, lasts from the time the goods are unconditionally placed in its possession and received for transportation until they are delivered, actually or constructively, to the consignee or to the person who has a right to receive them,
+[42]
+ 
+e.g.
+, a warehouse operator at NAIA or a forwarding service who is responsible for the last leg of transportation to the consignee. For the same reason, We do not think that the photographs of the cargo that Barcena took are competent to prove the damage as they were taken when the cargo had already arrived at the consignee's premises. At that point in time, the cargo was no longer unconditionally placed in the possession of the carrier.
+Neither can the annotations in the MIASCOR Storage and Delivery Receipt be considered 
+prima facie
+ evidence of damage to the goods as "entries in the course of business" under Section 43, Rule 130 of the 1997 Rules of Evidence, which provides as follows:
+Section 43. 
+Entries in the course of business
+. - Entries made at, or near the time of the transactions to which they refer, by a person deceased, or unable to testify, who was in a position to know the facts therein stated, may be received as prima facie evidence, if such person made the entries in his professional capacity or in the performance of duty and in the ordinary or regular course of business or duty.
+The Rules of Evidence has since been revised and "entries in the course of business" have now been replaced with "records of regularly conducted business activity" under Section 45, Rule 130 of the 2019 Rules, which provides as follows:
+Section 45. 
+Records of regularly conducted business activity
+. - A memorandum, report, record or data compilation of acts, events, conditions, opinions, or diagnoses, made by writing, typing, electronic, optical or other similar means at or near the time of or from transmission or supply of information by a person with knowledge thereof, and kept in the regular course or conduct of a business activity, and such was the regular practice to make the memorandum, report, record, or data compilation by electronic, optical or similar means, all of which are shown by the testimony of the custodian or other qualified witnesses, is excepted from the rule on hearsay evidence.
+In 
+Canque v. Court of Appeals
+,
+[43]
+ the Court laid down the requisites for admission in evidence of entries in the course of business: (1) the person who made the entry is dead, outside the country, or unable to testify; (2) the entries were made at or near the time of the transactions to which they refer; (3) the person who made the entry was in a position to know the facts stated in the entries; (4) the entries were made in a professional capacity or in the performance of a duty; and (5) the entries were made in the ordinary or regular course of business or duty.
+[44]
+In this case, the first, second, and third requisites were not proven at trial because respondents failed to establish who made the annotation in the MIASCOR receipt that the cargo was damaged. Barcena never met the person who made the annotation on the MIASCOR receipt but was content to take a photocopy of it on face value when preparing the Certificate of Survey. The records do not bear out who made the annotation, when they made it, whether they were competent to make such an annotation, and why they could not testify in court on this matter. For these reasons, the annotation of damage, as they appear on the photocopy of the MIASCOR delivery receipt, cannot be considered as an entry in the course of business or as 
+prima facie
+ evidence of damage to the goods under Section 43, Rule 130 of the 1997 Rules of Evidence. A ruling to the contrary would make carriers susceptible to spurious claims of negligence in the transport of goods merely on the basis of a photocopy of an annotation, the provenance of which is uncertain. As will be explained below, this is not the intention of the doctrine of 
+res ipsa loquitur
+ or the extraordinary diligence expected of carriers under Article 1735 of the New Civil Code.
+The delivery receipts aside, respondents failed to present any other evidence that the subject cargo was indeed damaged while it was under the control of KAC. Despite Barcena's own finding that there was no visible sign of damage to the cargo, it appears that the consignee prevailed upon him to believe what appeared in a copy of the MIASCOR delivery receipt that he was provided with. Indeed, testimony that merely repeats the contents of inadmissible documentary evidence is just as insignificant.
+Respondents mention that FCPCP's Quality Control Department examined the damaged goods for shock damage. In some cases, including the present one, it may be important to distinguish between 
+damage to the goods
+ and 
+damage to the containers
+ in which they came packaged. A cursory visual inspection of the outer packaging may not be sufficient to prove the true damage for certain goods, necessitating technical proof of the damage. However, upon a review of the records, We find no evidence of such testing and examination. Indeed, it is not even mentioned in respondents' formal offer of exhibits.
+[45]
+ A review of the witness testimony for respondents also yields no relevant information on said testing or examination of the rejected disk drives. Thus, it appears that this point has been belatedly raised - and unsubstantiated at that.
+Furthermore, We are not convinced by respondents' argument that petitioner had admitted to the fact of damage in the Answer because the latter's mode of denial consisted of a "negative pregnant." This was not an argument that the RTC or the CA even considered - and for good reason. In paragraph 14 of the Answer, petitioner contended that it "exercised extraordinary diligence in the case and custody of the cargo in question. Hence, 
+assuming 
+arguendo
+ that the cargo in question suffered the supposed damage
+, Defendant Kuwait cannot be held liable therefore."
+[46]
+ A faithful and fair reading of the Answer clearly shows that petitioner merely hypothesized that if the goods are proven to have been damaged, then it would still not be liable because it exercised extraordinary diligence. Clearly, this means that petitioner made no admission that the goods were damaged.    
+  
+The CA erred in applying the doctrine of 
+res ipsa loquitur
+.
+ 
+The doctrine of 
+res ipsa loquitur
+ provides a mode of ascribing negligence upon a defendant in certain circumstances. However, it has no application when the plaintiff has not adequately proven the fact that he had suffered an injury in the very first place. In 
+BJDC Construction v. Lanuzo
+,
+[47]
+ the Court, We said:
+Res ipsa loquitur
+ is a Latin phrase that literally means "the thing or the transaction speaks for itself." 
+It is a maxim for the rule that the fact of the occurrence of an injury, taken with the surrounding circumstances, may permit an inference or raise a presumption of negligence, or make out a plaintiff's prima facie case, and present a question of fact for defendant to meet with an explanation.
+ Where the thing that caused the injury complained of is shown to be under the management of the defendant or his servants; and the accident, in the ordinary course of things, would not happen if those who had management or control used proper care, it affords reasonable evidence - in the absence of a sufficient, reasonable and logical explanation by defendant - that the accident arose from or was caused by the defendant's want of care. This rule is grounded on the superior logic of ordinary human experience, and it is on the basis of such experience or common knowledge that 
+negligence may be deduced from the mere occurrence of the accident itself
+. Hence, the rule is applied in conjunction with the doctrine of common knowledge.
+[48]
+ (Emphasis and underscoring supplied)
+In the same case, We enumerated the requirements for the doctrine of 
+res ipsa loquitur
+ to apply, thus:
+For the doctrine to apply, the following requirements must be shown to exist, namely: (a) the accident is of a kind that ordinarily does not occur in the absence of someone's negligence; (b) it is caused by an instrumentality within the exclusive control of the defendant or defendants; and (c) the possibility of contributing conduct that would make the plaintiff responsible is eliminated.
+[49]
+In this case, the first requisite has not been met, because as extensively discussed above, no injury or damage was proven to begin with. In other words, it was not proven by competent evidence that an accident had indeed occurred. Therefore, We hold that the CA erred in applying the doctrine of 
+res ipsa loquitur
+ to impute negligence to petitioner. This is consistent with Article 1735 of the Civil Code of the Philippines, under which a common carrier is presumed to have been at fault or to have acted negligently if the goods are lost, destroyed, or deteriorated. Once the damage or loss has been proven, the common carrier may overturn the presumption by presenting evidence that it had observed extraordinary diligence as required in Article 1733 of the Civil Code of the Philippines. Article 1735 of the Code, however, does not free the plaintiff of its burden to prove the damage or loss. It is only when the damage or loss is undisputed that the presumption of negligence on the part of the common carrier arises.
+[50]
+ Consequently, the carrier will not have the burden to prove extraordinary diligence.
+Having established that petitioner is not liable, there is no reason to discuss the limitation of a carrier's liability under Article 22(2) the Warsaw Convention.
+WHEREFORE
+, the petition is 
+GRANTED
+. The Decision dated February 11, 2014 and the Resolution dated August 14, 2014 of the Court of Appeals in CA-G.R. CV No. 94059 are hereby 
+REVERSED
+ and 
+SET ASIDE
+. The Decision dated June 30, 2009 of the Regional Trial Court of Makati City, Branch 62 in Civil Case No. 05-011 is hereby 
+REINSTATED
+.
+SO ORDERED.
+Leonen, Inting,
+*
+ Zalameda
+, and 
+Dimaampao, JJ.
+, concur.
+*
+ Designated as additional Member.
+[1]
+ 
+Rollo
+, pp. 22-44.
+[2]
+ Penned by Associate Justice Ricardo R. Rosario (now a Member of this Court), with the concurrence of Associate Justices Amelita G. Tolentio and Leoncia Real-Dimagiba; id. at 11-19.
+[3]
+ Penned by Associate Justice Ricardo R. Rosario (now a Member of this Court), with the concurrence of Associate Justices Danton Q. Bueser and Leoncia Real-Dimagiba; id. at 9.
+[4]
+ Penned by Judge Selma Palacio Alaras; id. at 253-261.
+[5]
+ Id. at 254.
+[6]
+ Id.
+[7]
+ Id. at 73.
+[8]
+ Id. at 73-74.
+[9]
+ Id. at 128.
+[10]
+ Id. at 68, 121-127.
+[11]
+ Id. at 12.
+[12]
+ Id. at 143.
+[13]
+ Id. at 142.
+[14]
+ Id. at 12.
+[15]
+ Id. at 192.
+[16]
+ Id. at 60.
+[17]
+ Id. at 192-201.
+[18]
+ 
+Rollo
+, p. 260.
+[19]
+ Records, p. 145.
+[20]
+ 
+Rollo
+, pp. 67-70.
+[21]
+ Id.
+[22]
+ Id. at 76-83.
+[23]
+ Id. at 261.
+[24]
+ Id. at 257-260.
+[25]
+ Id. at 261.
+[26]
+ Id. 14-18.
+[27]
+ Id. at 35-40.
+[28]
+ Id. at 42.
+[29]
+ Id. at 325-344.
+[30]
+ Id. at 332.
+[31]
+ Id. at 331-335.
+[32]
+ Id. at 339.
+[33]
+ 
+Sps. Miano v. Manila Electric Company
+, 800 Phil. 118, 123 (2016), citing 
+Medina v. Mayor Asistio, Jr.
+, 269 Phil. 225, 232 (1990).
+[34]
+ 
+Rollo
+, p. 260.
+[35]
+ Id. at 64.
+[36]
+ Section 3, Rule 130 of the 2019 Amendments to the 1989 Revised Rules on Evidence.
+[37]
+ Records, p. 117.
+[38]
+ 
+Rollo
+, pp. 184-189.
+[39]
+ 
+Citibank, N.A. Mastercard v. Teodoro
+, 458 Phil. 480, 489 (2003).
+[40]
+ 
+Salas v. Sta. Mesa Market Corporation
+, 554 Phil. 343, 348 (2007).
+[41]
+ Id. at 348-349.
+[42]
+ 
+Westwind Shipping Corp. v. UCPB General Insurance Co., Inc.
+, 722 Phil. 38, 45 (2013), citing 
+Philippines First Insurance Co., Inc. v. Wallem Phils. Shipping, Inc.
+, 601 Phil. 454, 463 (2009).
+[43]
+ 365 Phil. 124 (1999).
+[44]
+ Id. at 131.
+[45]
+ Id. at 115-120.
+[46]
+ Id. at 26.
+[47]
+ 730 Phil. 240 (2014).
+[48]
+ Id. at 260, citing 
+Tan v. JAM Transit, Inc.
+, 620 Phil. 668, 680 (2009).
+[49]
+ Supra note 43 at 260.
+[50]
+ 
+Unitrans International Forwarders, Inc. v. Insurance Company of North America
+, G.R. No. 203865, March 13, 2019.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

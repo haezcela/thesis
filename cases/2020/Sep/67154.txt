@@ -1,0 +1,609 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			886 Phil. 452
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 227889, September 28, 2020 ]
+
+
+GAYDEN A. SELOZA, PETITIONER, VS. ONSHORE STRATEGIC ASSETS (SPV-AMC), INC., RESPONDENT.
+DECISION
+
+
+
+
+LEONEN, J.:
+
+
+A lot buyer may seek to annul a real estate mortgage before the Housing and Land Use Regulatory Board, which has exclusive jurisdiction over complaints of unsound real estate business practices. This, however, precludes one from seeking before the trial court an annulment of the extrajudicial foreclosure proceedings. Otherwise, as the second suit would arise from the same cause of action and parties as the first action, it would constitute forum shopping by way of 
+litis pendentia
+.
+This Court resolves the Petition for Review on Certiorari
+[1]
+ filed by Gayden Seloza (Seloza) assailing the Decision
+[2]
+ and Resolution
+[3]
+ of the Court of Appeals, which affirmed the Regional Trial Court Orders
+[4]
+ dismissing his Complaint because of 
+litis pendentia
+ and forum shopping.
+On July 17, 2001, Seloza and First World Home Philippines, Inc. (First World) entered into a contract to sell a house and lot
+[5]
+ in Bignay, Valenzuela City, worth P580,750.00.
+[6]
+ Seloza had long completed payment on December 30, 2004, but First World executed a deed of absolute sale on September 26, 2008, and failed to deliver the new title to Seloza.
+[7]
+Unknown to Seloza, in 2002, First World had loaned P75 million from United Overseas Bank Philippines (United Overseas Bank).
+[8]
+ To secure its loan obligations, on December 30, 2002, First World executed a real estate mortgage on several lots in its Valenzuela housing project, including the property that Seloza paid for.
+[9]
+On January 30, 2006,
+[10]
+ United Overseas Bank transferred its rights over all outstanding obligations of First World, including the real estate mortgage, to Onshore Strategic Assets (SPC-AMV), Inc. (Onshore).
+[11]
+When First World failed to pay its loans, on February 14, 2012, Onshore had the real estate mortgage extrajudicially foreclosed.
+[12]
+ On April 10, 2012, a Notice of Sheriffs Sale setting the auction sale of the mortgaged properties was issued and published in public places. The auction was held on May 11, 2012, with Onshore as the sole bidder. Thus, on May 18, 2012, a Certificate of Sale was issued in its favor. It was registered and annotated in Transfer Certificate of Title No. V-59286 on May 24, 2012.
+[13]
+In May 2012, Seloza discovered that a certificate of sale of the property was issued to Onshore.
+[14]
+In October 2012, Seloza filed a Complaint
+[15]
+ before the Regional Trial Court, seeking to annul the extrajudicial foreclosure sale with prayer for preliminary injunction. He contended that his unregistered rights are superior to the registered mortgage of Onshore because First World failed to apprise him of the mortgage and the foreclosure proceedings.
+[16]
+Onshore moved to dismiss the Complaint for failure to implead First World as an indispensable party.
+[17]
+On November 12, 2012, Seloza and the other lot buyers in the housing project filed an Omnibus Motion to implead Onshore in a case
+[18]
+ pending before the Housing and Land Use Regulatory Board. In that case, filed on September 16, 2011,
+[19]
+ they assail the validity of the real estate mortgages that First World had executed, including the property that involved Seloza.
+On September 20, 2013, the Regional Trial Court dismissed
+[20]
+ Seloza's Complaint for forum shopping. It found the requisites of 
+litis pendentia
+ present: the case had identity of parties, rights asserted, and reliefs prayed for with the case before the Housing and Land Use Regulatory Board, such that judgment in one case would amount to 
+res judicata
+ in the other. It also found that both complaints were based on the superiority of Seloza's unregistered deed of sale over Onshore's right as the assignee of the mortgage.
+[21]
+ The dispositive portion of the Order reads:
+IN VIEW OF THE FOREGOING, the Motion to Dismiss and the Supplement thereto are hereby GRANTED. The instant case is hereby DISMISSED on the ground of 
+litis pendentia
+.
+The prayer for the issuance of preliminary injunction is likewise denied for lack of merit.
+SO ORDERED.
+[22]
+On September 30, 2014, the Regional Trial Court denied Seloza's Motion for Reconsideration.
+[23]
+In its April 22, 2016 Decision,
+[24]
+ the Court of Appeals affirmed the Regional Trial Court's ruling, disposing as follows:
+ACCORDINGLY
+, the instant appeal is 
+DENIED
+. The Orders dated September 20, 2013 and September 30, 2014 of the Regional Trial Court (RTC), Branch 75 of Valenzuela city in Civil Case No. 1530-V-12 are hereby 
+AFFIRMED 
+in toto
+.
+SO ORDERED.
+[25]
+ (Emphasis in the original)
+As with the lower court, the Court of Appeals found that all the requisites of 
+litis pendentia
+ were present.
+[26]
+First, there was substantial identity of parties, since Seloza was one of the lot buyers who filed the case in the Housing and Land Use Regulatory Board against Onshore's predecessors-in-interest.
+[27]
+Second, there was identity of causes of action and reliefs sought. The Court of Appeals found that both cases hinged on the validity of the real estate mortgage.
+[28]
+ Thus, the same pieces of evidence would either establish both cases or fail to prove the cause of action. The validity of the foreclosure sale and the cancellation of the certificate of sale could not be determined without ruling on the validity of the real estate mortgage.
+[29]
+Accordingly, for the third requisite, the Court of Appeals found that the judgment to be rendered by the Housing and Land Use Regulatory Board would amount to 
+res judicata
+ in the case before the trial court.
+[30]
+In an October 19, 2016 Resolution,
+[31]
+ the Court of Appeals denied Seloza's Motion for Reconsideration.
+On November 19, 2016, Seloza filed this Petition
+[32]
+ against Onshore.
+In a February 6, 2017 Resolution,
+[33]
+ this Court denied the Petition for failure to sufficiently show any reversible error in the assailed judgment to warrant the exercise of this Court's discretionary appellate jurisdiction.
+On March 28, 2017, Seloza moved for reconsideration,
+[34]
+ reiterating his argument that there was no identity of rights asserted and reliefs sought in the two cases. He argued that the judgment in the Housing and Land Use Regulatory Board case will not amount to 
+res judicata
+ in the Regional Trial Court case. Hence, there was no 
+litis pendentia
+ and forum shopping.
+On July 31, 2017, this Court granted petitioner's Motion and reinstated the Petition.
+[35]
+ Respondent filed its Comment/Opposition on October 4, 2017,
+[36]
+ and petitioner filed his Reply on September 7, 2018.
+[37]
+Petitioner argues that the Court of Appeals erred in finding that there was 
+litis pendentia
+,
+[38]
+ as the second and third requisites are wanting.
+On the second requisite, petitioner contends that the cause of action in the Housing and Land Use Regulatory Board case was founded on First World's execution of mortgage over his property without his knowledge and consent, in violation of Section 18 of Presidential Decree No. 957. He and the other lot buyers prayed to cancel the mortgage contract. On the other hand, the trial court case was based on the lack of notice in the foreclosure proceedings.
+[39]
+ He prayed that the certificate of sale from the foreclosure proceedings, not the mortgage contract itself, be canceled.
+[40]
+As for the third requisite, petitioner argues that the Housing and Land Use Regulatory Board would only rule on the validity of the mortgage contract. Regardless of its decision, the Regional Trial Court can validate or invalidate the foreclosure sale for lack of notice. Thus, judgment in one tribunal would not conflict with the judgment in another. There being no 
+litis pendentia
+, petitioner insists that he did not commit forum shopping.
+[41]
+For its part, respondent alleges that the Petition should be dismissed as it merely reiterated all its arguments already denied in the lower courts. Allegedly, petitioner did not raise new arguments warranting review under Rule 45 of the Rules of Court.
+[42]
+Respondent asserts that the lower courts correctly found all the elements of 
+litis pendentia
+ present. It underscores that in his Complaint before the trial court, petitioner claimed that he was not aware of the mortgage contract and asserted the superiority of his right against Onshore. Thus, it argues that while the reliefs may be different, petitioner's causes of action in both cases hinge on the validity of the real estate mortgage.
+[43]
+ Respondent also invokes 
+Goodland Company, Inc. v. Asia United Bank
+,
+[44]
+ which held that forum shopping exists when two cases are filed simultaneously, where one seeks to annul the extrajudicial foreclosure, and the other seeks to invalidate the real estate mortgage.
+[45]
+Respondent further alleges that petitioner is guilty of splitting his cause of action, since both actions are premised on the same cause of action and essentially pray for the same relief.
+[46]
+In his Reply, petitioner justifies the filing of the Petition since Rule 45 of the Rules of Court allows review of decisions that are contrary to law and applicable jurisprudence.
+[47]
+He then alleges that his cause of action in the case before the Housing and Land Use Regulatory Board was based on unsound real estate practices under Presidential Decree No. 957, while respondent's extrajudicial foreclosure in 2012 was a supervening event assailed before the Regional Trial Court. Petitioner argues that this supervening event was a new and distinct cause of action that justifies his recourse to the Regional Trial Court.
+[48]
+Finally, petitioner alleges that the Regional Trial Court does not have jurisdiction over violations of Presidential Decree No. 957. Similarly, he asserts that the Housing and Land Use Regulatory Board does not have jurisdiction to resolve matters of title, possession of real property, and any other interest in it. Thus, he maintains that 
+litis pendentia
+ does not lie.
+[49]
+The following are the issues to be resolved:
+First, whether or not 
+litis pendentia
+ exists in filing a complaint to annul the extrajudicial foreclosure proceedings while an action assailing the validity of the real estate mortgage is pending; and
+Second, whether or not the Housing and Land Use Regulatory Board has jurisdiction to annul the extrajudicial foreclosure.
+I
+Forum shopping is a ground for dismissing a complaint under Rule 7, Section 5 of the Rules of Court:
+SECTION 5. 
+Certification against forum shopping
+. - The plaintiff or principal party shall certify under oath in the complaint or other initiatory pleading asserting a claim for relief, or in a sworn certification annexed thereto and simultaneously filed therewith: (a) that he has not theretofore commenced any action or filed any claim involving the same issues in any court, tribunal or quasi-judicial agency and, to the best of his knowledge, no such other action or claim is pending therein; (b) if there is such other pending action or claim, a complete statement of the present status thereof; and (c) if he should thereafter learn that the same or similar action or claim has been filed or is pending, he shall report that fact within five (5) days therefrom to the court wherein his aforesaid complaint or initiatory pleading has been filed.
+Failure to comply with the foregoing requirements shall not be curable by mere amendment of the complaint or other initiatory pleading but shall be cause for the dismissal of the case without prejudice, unless otherwise provided, upon motion and after hearing. The submission of a false certification or non-compliance with any of the undertakings therein shall constitute indirect contempt of court, without prejudice to the corresponding administrative and criminal actions. If the acts of the party or his counsel clearly constitute willful and deliberate forum shopping, the same shall be ground for summary dismissal with prejudice and shall constitute direct contempt, as well as a cause for administrative sanctions.
+In 
+City of Taguig v. City of Makati
+,
+[50]
+ this Court reiterated the various forms of forum shopping and their requisites:
+Jurisprudence has recognized that forum shopping can be committed in several ways:
+(1) filing multiple cases based on the same cause of action and with the same prayer, the previous case not having been resolved yet (where the ground for dismissal is 
+litis pendentia
+); (2) filing multiple cases based on the same cause of action and the same prayer, the previous case having been finally resolved (where the ground for dismissal is res judicata); and (3) filing multiple cases based on the same cause of action but with different prayers (splitting of causes of action, where the ground for dismissal is also either 
+litis pendentia
+ or 
+res judicata
+).
+Similarly, it has been recognized that forum shopping exists "where a party attempts to obtain a preliminary injunction in another court after failing to obtain the same from the original court."
+The test for determining forum shopping is settled. In 
+Yap v. Chua, et al.
+:
+To determine whether a party violated the rule against forum shopping, the most important factor to ask is whether the elements of 
+litis pendentia
+ are present, or whether a final judgment in one case will amount to 
+res judicata
+ in another; otherwise stated, the test for determining forum shopping is whether in the two (or more) cases pending, there is identity of parties, rights or causes of action, and reliefs sought.
+For its part, 
+litis pendentia
+ "refers to that situation wherein another action is pending between the same parties for the same cause of action, such that the second action becomes unnecessary and vexatious." For 
+litis pendentia
+ to exist, three (3) requisites must concur:
+The requisites of 
+litis pendentia
+ are: (a) the identity of parties, or at least such as representing the same interests in both actions; (b) the identity of rights asserted and relief prayed for, the relief being founded on the same facts; and (c) the identity of the two cases such that judgment in one, regardless of which party is successful, would amount to 
+res judicata
+ in the other.
+On the other hand, 
+res judicata
+ or prior judgment bars a subsequent case when the following requisites are satisfied:
+(1) the former judgment is final; (2) it is rendered by a court having 
+jurisdiction
+ over the subject matter and the parties; (3) it is a judgment or an order 
+on the merits
+; (4) there is - between the first and the second actions Â­ 
+identity
+ of parties, of subject matter, and of causes of action....
+These settled tests notwithstanding:
+Ultimately, what is truly important to consider in determining whether forum-shopping exists or not is the vexation caused the courts and parties-litigant by a party who asks different courts and/or administrative agencies to rule on the same or related causes and/or to grant the same or substantially the same reliefs, in the process creating the possibility of conflicting decisions being rendered by the different fora upon the same issue.
+[51]
+ (Citations omitted)
+Here, respondent echoes the Court of Appeals' ruling that all the requisites of 
+litis pendentia
+ are present. There was substantial identity of parties since respondent's predecessors-in-interest were parties in the cases before the Regional Trial Court and the Housing and Land Use Regulatory Board. There was also identity of causes of action because the resolution of each case is premised on the validity of the real estate mortgage executed by First World. Since the same issue will be passed upon in both cases, judgment in one will amount to 
+res judicata
+ in the other.
+[52]
+Petitioner argues that there is no identity of rights asserted in the two cases. In the Housing and Land Use Regulatory Board case, his cause of action was based on First World's execution of mortgage without his knowledge and consent. In the Regional Trial Court case, his cause of action was based on the lack of notice of the foreclosure proceedings, and not the validity of the mortgage contract itself.
+[53]
+We affirm the Court of Appeals' ruling. All the requisites of 
+litis pendentia
+ are present here.
+First, there is substantial identity of parties. It is settled that absolute identity of parties is not required. At the minimum, the parties in both cases must represent the same interest.
+[54]
+ In 
+Grace Park International Corporation v. Eastwest Banking Corporation
+:
+[55]
+Anent the first requisite of forum shopping, "[t]here is identity of parties where the parties in both actions are the same, or there is privity between them, or they are successors-in-interest by title subsequent to the commencement of the action, litigating for the same thing and under the same title and in the same capacity. Absolute identity of parties is not required, shared identity of interest is sufficient to invoke the coverage of this principle. Thus, it is enough that there is a community of interest between a party in the first case and a party in the second case even if the latter was not impleaded in the first case."
+[56]
+ (Citation omitted)
+Here, it is not disputed that respondent is the successor-in-interest of United Overseas Bank, which had assigned to it First World's loan obligations and real estate mortgage.
+[57]
+ Subsequently impleading respondent as an indispensable party in the case before the Housing and Land Use Regulatory Board showed that petitioner has acknowledged its privity of interest with United Overseas Bank. Thus, both cases have similar parties.
+Second, there is also identity of rights asserted and reliefs prayed for.
+Petitioner alleges that the complaints are different because the suit in the Housing and Land Use Regulatory Board pertains to the validity of the real estate mortgage, while the complaint before the Regional Trial Court pertains to the validity of the foreclosure proceedings.
+In 
+Yap v. Chua
+:
+[58]
+Hornbook is the rule that identity of causes of action does not mean absolute identity; otherwise, a party could easily escape the operation of 
+res judicata
+ by changing the form of the action or the relief sought. The test to determine whether the causes of action are identical is to ascertain whether the same evidence will sustain both actions, or whether there is an identity in the facts essential to the maintenance of the two actions. If the same facts or evidence would sustain both, the two actions are considered the same, and a judgment in the first case is a bar to the subsequent action. Hence, a party cannot, by varying the form of action or adopting a different method of presenting his case, escape the operation of the principle that one and the same cause of action shall not be twice litigated between the same parties or their privies. Among the several tests resorted to in ascertaining whether two suits relate to a single or common cause of action are: (1) whether the same evidence would support and sustain both the first and second causes of action; and (2) whether the defenses in one case may be used to substantiate the complaint in the other. Also fundamental is the test of determining whether the cause of action in the second case existed at the time of the filing of the first complaint.
+[59]
+ (Citations omitted)
+The substance, or the material allegations of the complaint, defines its cause of action:
+Substance is that which is essential and is used in opposition to form. It is the most important element in any existence, the characteristic and essential components of anything, the main part, the essential import, and the purport. It means not merely subject of act, but an intelligible abstract or synopsis of its material and substantial elements, though it may be stated without recital of any details. It goes into matters which do not sufficiently appear or prejudicially affect the substantial rights of parties who may be interested therein and not to mere informalities.
+As used in reference to substance of common-law actions, substance comprehends all of the essential or material elements necessary to sufficiently state a good cause of action invulnerable to attack by general demurrer.
+Substance is one which relates to the material allegations in the pleading. It is determinative of whether or not a cause of action exists. It is the central piece, the core, and the heart constituting the controversy addressed to the court for its consideration. It is the embodiment of the essential facts necessary to confer jurisdiction upon the court.
+[60]
+ (Citations omitted)
+To determine whether two causes of action are identical, the material allegations in each complaint must be compared. The Complaint in the Regional Trial Court reads:
+3. That in June 17, 2000, plaintiff made reservations over a house and lot located in Valenzuela View Housing Project, Barangay Bignay, Valenzuela City. Valenzuela Ville Housing Project is owned by First World Home Philippines Inc.
+4. On July 17, 2001 herein plaintiff and First World Home Philippines Inc., through its president executed a Contract to Sell involving a particular piece of land and the improvements thereon, designated as Block 15 Lot 02 and covered by Transfer Certificate of Title No. V-59286.
+5. Plaintiff had religiously comply (sic) with the obligation to pay the monthly amortization of the agreed price for the subject unit. As of December 30, 2004, herein plaintiff has fully paid the agreed consideration.
+6. That as matter of course, plaintiff demanded from First World Home Philippines Inc. its' (sic) performance of contractual and statutory obligations, and more specifically for the delivery of a new Transfer Certificate of Title in the name of the plaintiff. For reasons known only to First World Home Philippines Inc. at that time, plaintiff was just given a series of excuses which led to prolong[ed] agony on the part of the lot buyers.
+7. That sometime in May 2012 plaintiff discovered that a Certificate of Sale arising from an Extrajudicial Foreclosure of Real Property was issued by Evarra Telen and Atty. Gemma Pelino as Sheriff IV and Clerk of Court VI & Ex Officio Sheriff, respectively, of the Regional Trial Court of Valenzuela City. Said certificate of sale awarded numerous Condominium Certificate of Titles and Transfer Certificates of Title to herein defendant Onshore Strategic Assets (SPV-AMC) Inc. being the highest bidder/buyer in the Foreclosure Sale.
+8. To herein plaintiff['s] shock and consternation, Transfer Certificate of Title No. V-59286 covering Block 15 Lot 02 Valenzuela View Housing Project was included in the foreclosure sale and awarded to herein defendant Onshore Strategic Assets (SPV-AMC) Inc.
+CAUSE OF ACTION
+9. Perusal of the above-mentioned certificate of sale revealed that First World Home Phils. Inc. mortgaged the properties to United Overseas Bank of the Philippines on December 5, 2002. This fact is totally unknown to herein plaintiff.
+10. That when plaintiff and other lot buyers similarly situated, verified the truthfulness and veracity of the certificate of sale, the fact of an impending eviction and deprivation of their property rights was made known to them.
+11. Plaintiffs' unregistered rights over the property covered by TCT No. V-59286 are superior to the registered mortgage rights of defendant Onshore Strategic Assets (SPV-AMC) Inc.
+12. That to allow defendant Onshore Strategic Assets (SPV-AMC) Inc. to take even constructive possession of the property subject matter of this case will cause irreparable and irreversible injury to herein plaintiff much more deprived him of his proprietary rights without due process of law.
+[61]
+The substance of the Complaint before the Regional Trial Court is premised on petitioner's unregistered rights over the subject property which is allegedly superior to respondent's rights as an assignee ofthe mortgage.
+Additionally, in his Position Paper, petitioner alleged that his rights as a lot buyer under Section 18 of Presidential Decree No. 957 were violated when First World mortgaged the lot to United Overseas Bank without informing him.
+[62]
+ It reads:
+Right of Gayden Seloza as a Lot Buyer
+12. Gayden Seloza was not aware, not informed, and was not privy to the transaction entered into by FWHPI in mortgaging the lot with TCT V-59286 located in Valenzuela Heights Housing Project; which eventually led to its foreclosure, wherein the defendant was the highest bidder. Gayden Seloza was not even aware of the Extrajudicial Foreclosure Sale that had transpired.
+13. At the time of the mortgage entered into by FWHPI, Gayden Seloza was already its buyer of a house and lot located at Valenzuela Heights Housing Project in the City of Valenzuela under TCT V-59286. TCT V-59286 was used by FWHPI to secure the said loan.
+14. Section 18 of PD 957 provides:
+Mortgages
+. No mortgage on any unit or lot shall be made by the owner or developer without prior written approval of the Authority. Such approval shall not be granted unless it is shown that the proceeds of the mortgage loan shall be used for the development of the condominium or subdivision project and effective measures have been provided to ensure such utilization. The loan value of each lot or unit covered by the mortgage shall be determined and the buyer thereof, if any, shall be notified before the release of the loan. The buyer may, at his option, pay his installment for the lot or unit directly to the mortgagee who shall apply the payments to the corresponding mortgage indebtedness secured by the particular lot or unit being paid for, with a view to enabling said buyer to obtain title over the lot or unit promptly after final payment thereto[.]
+15. Clear from the above-quoted provision of PD 957 [is] that FWHPI should inform Gayden Seloza of the mortgage of TCT V-59286 and his right to choose to give his monthly payments for the house and lot directly to the mortgagee to secure his title thereto upon full payment.
+16. In this case, Gayden Seloza was not informed of the mortgage transaction nor was he informed of his right to pay directly to the mortgagee to secure his title over the house and lot he purchased upon full payment thereof.
+17. Stated by the Supreme Court in one of the cases decided: The act of MDC in mortgaging the lot to petitioner, without the knowledge and consent of lot buyer-respondent spouses and without the approval of the HLURB, as required by P.D. 957, is not only an unsound real estate business practice but also highly prejudicial to them[.]
+18. Gayden Se1oza, in not knowing the existence of any mortgage over the lot which he bought from FWHPI, he was also not aware of the delinquencies of FWHPI in its payment for the loan. In fact, Gayden Seloza had no knowledge of the series of events which started from the void mortgage transaction entered into by FWHPI until prior to his discovery of the Certificate of Sale issued in favor of the defendant on May 2012.
+19. It is only now, after the discovery in May 2012, which Gayden Seloza is acting and pursuing in trying to restore and exercise his right as lot buyer/owner in the land covered by TCT V-59286.
+[63]
+ (Citations omitted)
+Contrary to petitioner's contention, the Complaint before the Regional Trial Court is not assailing the extrajudicial foreclosure proceedings.
+[64]
+ Scrutiny of his allegations revealed that his cause of action is premised on the validity of the real estate mortgage. The extrajudicial foreclosure was not a separate cause of action that justifies filing a new complaint.
+On the other hand, the following are the material allegations in the complaint pending before the Housing and Land Use Regulatory Board:
+1. Sometime on May 2011 some of the members went to the Registry of Deeds to process a Notice of 
+Lis Pendens
+ to their titles, however, for some other reason the registry of Deeds are denying their request, this prompted the officers of Valenzuela View Homeowners Association to trace back the titles.
+2. On May 18, 2011 said officers went to the Registry of Deeds and requested for certified true copy of the Title V-58755, V-58756, V-58758 ..., upon careful perusal of the said titles complainant notices that entry no. 10077-MORTGAGE - in favor to BANCO FILIPINO do not have an entry of cancellation, complainant double check (sic) their individual titles and noticed that the same entry no. 100777 was annotated, however it was annotated intended to different title V-5878, and upon verification we found out that said title was registered under the name of REXLON INDUSTRIES....
+....
+4. To further understand what was the real story, on June 13, 2011 same officers went back to the Registry of Deed[s] and requested for the mother title T-8834, T-89498, T-83782 ..., a careful perusal complainant notice (sic) that several encumbrances are annotated therein most of which have cancellation except for the entry no. 5004/14704 Certificate of Sale in favor of BANCO FILIPINO;
+....
+7. On the other hand on July 2011 complainant went to Paglbig Fund to clarify the issue and requested for a certificate of cancellation of the mortgage and the cancellation of the certificate of sale in favor to Banco Filipino should these annotations was already (sic) cancelled; yet, it has been 2 months and complainants haven't heard anything from them nor any certificate of cancellation was furnished to the complainant....
+....
+15. The fact that the respondent First World Homes Registration and License to Sell has been revoked by this office and proved that they have been engage (sic) with unsound realty practices, brought fear that the house and lot, complainant purchase to the above respondent from their hard earned money will gone (sic) astray....
+16. Now that Banco Filipino is no longer in business, and that its depositors hound the properties that remains (sic) on their possession, complainant (sic) apprehension is their tiny homes which they toil will be one of the assets that needs to be liquidated in order to patched up (sic) with its depositors.
+....
+PRAYER
+WHEREFORE, in the interest of justice and considering the explanation herein offered, it is respectfully prayed that respondent ONSHORE STRATEGIC ASSETS (SPV-AMC) INC. be impleaded as respondents in this instant case being an indispensable part; that the respondents be ordered to execute a certification of cancellation of mortgage and/or complainants are praying for issuance of Temporary Restraining Order in the event that an extrajudicial foreclosure will be executed and cease and desist order of paying monthly amortization to Pagibig be executed until the certificate of cancellation of mortgage will be secured.
+[65]
+Petitioner clarifies that the Omnibus Motion filed in the Housing and Land Use Regulatory Board impleading respondent is a continuation of the original case. He points out that the causes of action there are: first, respondent's "unsound real estate practices"; and second, a "violation of Section 18 of Presidential Decree No. 957[.]"
+[66]
+This case is similar to the string of cases involving Asia United Bank and Goodland Company, Inc., where a series of complaints were filed assailing the validity of third-party real estate mortgages over parcels of land m Laguna and Makati. After the first complaints had been filed in the respective trial courts in Laguna and Makati, succeeding complaints were also filed to enjoin the extrajudicial foreclosures of the allegedly fraudulent real estate mortgages.
+In 
+Asia United Bank v. Goodland Company, Inc.
+,
+[67]
+ this Court held that the distinction between these complaints is illusory since they are based on the same cause of action, founded on the validity of the real estate mortgage:
+There can be no determination of the validity of the extrajudicial foreclosure and the propriety of injunction in the Injunction Case without necessarily ruling on the validity of the REM, which is already the subject of the Annulment Case. The identity of the causes of action in the two cases entails that the validity of the mortgage will be ruled upon in both, and creates a possibility that the two rulings will conflict with each other. This is precisely what is sought to be avoided by the rule against forum shopping.
+The substantial identity of the two cases remains even if the parties should add different grounds or legal theories for the nullity of the REM or should alter the designation or form of the action. The well-entrenched rule is that "a party cannot, by varying the form of action, or adopting a different method of presenting his case, escape the operation of the principle that one and the same cause of action shall not be twice litigated."
+The CA ruled that the two cases are different because the events that gave rise to them are different. The CA rationalized that the Annulment Case was brought about by the execution of a falsified document, while the Injunction Case arose from AUB's foreclosure based on a falsified document. The distinction is illusory. The cause of action for both cases is the alleged nullity of the REM due to its falsified or spurious nature. It is this nullity of the REM which Goodland sought to establish in the Annulment Case. It is also this nullity of the REM which Goodland asserted in the Injunction Case as basis for seeking to nullify the foreclosure and enjoin the consolidation of title. Clearly, the trial court cannot decide the Injunction Case without ruling on the validity of the mortgage, which issue is already within the jurisdiction of the trial court in the Annulment Case.
+[68]
+ (Citation omitted)
+In 
+Goodland Company, Inc. v. Asia United Bank
+,
+[69]
+ this Court further clarified that since both cases have similar causes of action, the reliefs prayed for in the suit seeking injunction against the extrajudicial foreclosure are the expected consequences of the suit seeking to nullify the real estate mortgage:
+There can be no dispute that the prayer for relief in the two cases was based on the same attendant facts in the execution of REMs over petitioner's properties in favor of AUB. While the extrajudicial foreclosure of mortgage, consolidation of ownership in AUB and issuance of title in the latter's name were set forth only in the second case (Civil Case No. 06-1032), these were simply the expected consequences of the REM transaction in the first case (Civil Case No. 03-045). These eventualities are precisely what petitioner sought to avert when it filed the first case. Undeniably then, the injunctive relief sought against the extrajudicial foreclosure, as well as the cancellation of the new title in the name of the creditor-mortgagee AUB, were all premised on the alleged nullity of the REM due to its allegedly fraudulent and irregular execution and registration - the same facts set forth in the first case. In both cases, petitioner asserted its right as owner of the property subject of the REM, while AUB invoked the rights of a foreclosing creditor-mortgagee.
+[70]
+Here, the substance of each complaint petitioner filed confirms that his respective causes of action are founded on the same facts involving similar parties and their successors-in-interest. Since he also alleged the superiority of his unregistered right over the property, the Regional Trial Court cannot rule on the validity of the extrajudicial foreclosure without ruling on the validity of the real estate mortgage. Clearly, all the requisites of 
+litis pendentia
+ are present. Petitioner committed forum shopping, warranting the dismissal of the Complaint before the Regional Trial Court.
+II
+Petitioner insists that he did not commit forum shopping because he filed the complaints pursuant to the exclusive jurisdictions of the Housing and Land Use Regulatory Board and the Regional Trial Court. He alleges that his Complaint in the former is premised on a violation of Presidential Decree No. 957, and within its exclusive jurisdiction; meanwhile, his Complaint before the latter is based on "matters that involve title to, or possession of real property, or any interest therein"
+[71]
+ over which the Housing and Land Use Regulatory Board does not have jurisdiction.
+[72]
+We deny his contentions.
+Petitioner claims that his Complaint before the Housing and Land Use Regulatory Board is based on the alleged violation of his right as a lot buyer when First World mortgaged the property. According to him, this constitutes unsound real estate business practices, which lies within the exclusive jurisdiction of the Housing and Land Use Regulatory Board.
+[73]
+Section 18 of Presidential Decree No. 957 provides:
+SECTION 18. 
+Mortgages
+. - No mortgage on any unit or lot shall be made by the owner or developer without prior written approval of the Authority. Such approval shall not be granted unless it is shown that the proceeds of the mortgage loan shall be used for the development of the condominium or subdivision project and effective measures have been provided to ensure such utilization. The loan value of each lot or unit covered by the mortgage shall be determined and the buyer thereof, if any, shall be notified before the release of the loan. The buyer may, at his option, pay his installment for the lot or unit directly to the mortgagee who shall apply the payments to the corresponding mortgage indebtedness secured by the particular lot or unit being paid for, with a view to enabling said buyer to obtain title over the lot or unit promptly after full payment thereof.
+In 
+Manila Banking Corporation v. Spouses Rabina
+,
+[74]
+ this Court discussed the exclusive jurisdiction of the Housing and Land Use Regulatory Board, which includes complaints against unsound real estate business practices:
+The jurisdiction of the BLURB is well-defined. Thus, 
+Arranza v. BF Homes, Inc.
+ holds:
+Section 3 of P.D. No. 957 empowered the National Housing Authority (NHA) with the "exclusive jurisdiction to regulate the real estate trade and business". On 2 April 1978, P.D. No. 1344 was issued to expand the jurisdiction of the NHA to include the following:
+"Sec. 1. In the exercise of its function to regulate the real estate trade and business and in addition to its powers provided for in Presidential Decree No. 957, the National Housing Authority shall have exclusive jurisdiction to hear and decide cases of the following nature:
+A. Unsound real estate business practices;
+B. Claims involving refund and any other claims filed by subdivision lot or condominium unit buyer against the project owner, developer, dealer, broker or salesman; and
+C. Cases involving specific performance of contractual and statutory obligations filed by buyers of subdivision lot or condominium unit against the owner, developer, broker or salesman."
+Thereafter, the regulatory and quasi-judicial functions of the NHA were transferred to the Human Settlements Regulatory Commission (HSRC) by virtue of Executive Order No. 648 dated 7 February 1981. Section 8 thereof specifies the functions of the NHA that were transferred to the HSRC including the authority to hear and decide "cases on unsound real estate business practices; claims involving refund filed against project owners, developers, dealers, brokers or salesmen and cases of specific performance". Executive Order No. 90 dated 17 December 1986 renamed the HSRC as the Housing and Land Use Regulatory Board (HLURB).
+[75]
+ (Citation omitted)
+In addition, this Court held that mortgaging properties that had been sold to a lot buyer without their knowledge and consent, as well as approval from the Housing and Land Use Regulatory Board, constitutes unsound real estate business practice. Without these requirements, the Housing and Land Use Regulatory Board is authorized to declare the mortgage void:
+The act of MDC in mortgaging the lot to petitioner, without the knowledge and consent of lot buyer-respondent spouses and without the approval of the HLURB, as required by P.D. 957, is not only an unsound real estate business practice but also highly prejudicial to them.
+The jurisdiction of the HLURB to regulate the real estate trade is broad enough to include jurisdiction over complaints for annulment of mortgage.
+ To disassociate the issue of nullity of mortgage and lodge it separately with the liquidation court would only cause inconvenience to the parties and would not serve the ends of speedy and inexpensive administration of justice as mandated by the laws vesting quasi-judicial powers in the agency.
+Petitioner's argument that the mortgage does not fall under the prohibition in Section 18 of P.D. 957 since the loan obligation of MDC was contracted to finance its purchase of other real properties and not for the development of the subdivision project does not lie.
+.... As observed in 
+Far East Bank and Trust Co. v. Marquez
+, Section 18 of P.D. 957 is a prohibitory law and acts committed contrary to it are void.
+Concededly, P.D. 957 aims to protect innocent lot buyers. Section 18 of the decree directly addresses the problem of fraud committed against buyers when the lot they have contracted to purchase, and which they have religiously paid for, is mortgaged without their knowledge. The avowed purpose of P.D. 957 compels the reading of Section 18 as prohibitory - acts committed contrary to it are void. Such construal ensures the attainment of the purpose of the law; to protect lot buyers so they do not end up still homeless despite having fully paid for their home lots with their hard earned cash.
+[76]
+ (Emphasis supplied, citations omitted)
+Similarly, in 
+Philippine National Bank v. Lim
+,
+[77]
+ this Court affirmed the Housing and Land Use Regulatory Board's mandate to protect lot buyers despite a final judgment affirming the validity of the real estate mortgage. In that case, Rina Lim entered into a contract to sell for Unit 48C of the Vista de Loro Condominium. She filed a complaint before the Housing and Land Use Regulatory Board assailing the validity of the mortgage for being prejudicial to her interest and for lacking approval from the Board. This Court partially upheld the Board's invalidation of the mortgage, though only as to Unit 48C of the Vista de Loro Condominium:
+The jurisdiction of the HLURB to regulate the real estate trade is broad enough to include jurisdiction over complaints for annulment of mortgage. This is pursuant to the intent of P.D. No. 957 to protect hapless buyers from the unjust practices of unscrupulous developers which may constitute mortgages over condominium projects sans the knowledge of the former and the consent of the HLURB.
+....
+In 
+Far East Bank
+, we sustained the HLURB when it declared the mortgage entered into between the subdivision developer and the bank as unenforceable against the lot buyer. However, we were categorical that the HLURB acted beyond bounds when it nullified the mortgage covering the entire parcel of land, of which the lot subject of the buyer's complaint is merely a part.
+In the case now before us, while it is within Lim's right to file a complaint before the HLURB to protect her right as a condominium unit buyer, she has no standing to seek for the complete nullification of the subject mortgage. She has an actionable interest only over Unit 48C of Cluster Dominiko of Vista de Loro, no more and no less.
+Further, notwithstanding the existence of the subject mortgage, Section 25 of P.D. No. 957 affords Lim the remedy of redemption. Under the said section, PALI shall be compelled to redeem from PNB at least the portion of the mortgage corresponding to Unit 48C within six months from the issuance of CCT No. 408 to Lim. Thereafter, PALI should deliver to Lim her title over the condominium unit free from all liens and encumbrances.
+[78]
+ (Citations omitted)
+It is thus clear that the Housing and Land Use Regulatory Board has the exclusive jurisdiction to determine the validity of the mortgage executed by First World in favor of United Overseas Bank. Since it is empowered to cancel a portion of the mortgage pertaining to the subject property, petitioner had no reason to split his cause of action and bring the incidents of the extrajudicial foreclosure to the Regional Trial Court. As in 
+Lim
+, should the Housing and Land Use Regulatory Board invalidate any portion of the mortgage, First World would be obliged under Section 25
+[79]
+ of Presidential Decree No. 957 to redeem the property and issue its title to the lot buyer free from all encumbrances.
+WHEREFORE
+, the Petition is 
+DENIED
+. The April 22, 2016 Decision and October 19, 2016 Resolution of the Court of Appeals in CAÂ­G.R. CV No. 104193, which affirmed the Regional Trial Court's dismissal of the Complaint filed by petitioner Gayden Seloza on the basis of 
+litis pendentia
+ and forum shopping, are 
+AFFIRMED
+.
+SO ORDERED.
+Gesmundo, Carandang, Zalameda
+, and 
+Gaerlan, JJ.
+, concur.
+[1]
+ 
+Rollo
+, pp. 12-23.
+[2]
+ Id. at 30-38. The April 22, 2016 Decision in CA-G.R. CV No. 104193 was penned by Associate Justice Noel G. Tijam (now a retired member of this Court) and concurred in by Associate Justices Francisco P. Acosta and Eduardo B. Peralta, Jr. of the Fourth Division of the Court of Appeals, Manila.
+[3]
+ Id. at 40-41. The October 19, 2016 Resolution was penned by Justice Noel G. Tijam and concurred in by Associate Justices Francisco P. Acosta and Eduardo B. Peralta, Jr. of the Fourth Division, Court of Appeals, Manila.
+[4]
+ Id. at 129-132 and 133. The Orders dated September 20, 2013 and September 30, 2014 in Civil Case No. 153-V-12 of the Regional Trial Court, Branch 75 of Valenzuela City were issued by Presiding Judge Lilia Mercedes Encarnacion A. Gepty.
+[5]
+ Covered by Transfer Certificate of Title No. V-59286.
+[6]
+ 
+Rollo
+, pp. 14 and 31.
+[7]
+ Id. at 14.
+[8]
+ Id. at 223.
+[9]
+ Id. at 31.
+[10]
+ Id. at 223.
+[11]
+ Id. at 31.
+[12]
+ Id. at 223.
+[13]
+ Id. at 224.
+[14]
+ Id. at 53.
+[15]
+ Id. at 42-44. Docketed as Civil Case No. 153-V-12.
+[16]
+ Id. at 43-44.
+[17]
+ Id. at 225.
+[18]
+ Id. at 99-109. Entitled "Francisco Victoria, et al., v. First World Homes Phils., and United Overseas Bank Philippines," docketed as HLURB Case No. NCR REM 091611-14594.
+[19]
+ Id. at 480.
+[20]
+ Id. at 129-132.
+[21]
+ Id. at 131.
+[22]
+ Id. at 132.
+[23]
+ Id. at 133.
+[24]
+ Id. at 30-38.
+[25]
+ Id. at 37.
+[26]
+ Id. at 35.
+[27]
+ Id.
+[28]
+ Id. at 35-36.
+[29]
+ Id. at 36-37.
+[30]
+ Id. at 37.
+[31]
+ Id. at 40-41.
+[32]
+ Id. at 12-23. Seloza filed an earlier motion for extension to file petition for review, which this Court granted in a December 5, 2016 Resolution (
+rollo
+, p. 10).
+[33]
+ Id. at 208.
+[34]
+ Id. at 209-216.
+[35]
+ Id. at 217.
+[36]
+ Id. at 222-247.
+[37]
+ Id. at 476-495.
+[38]
+ Id. at 18.
+[39]
+ Id. at 18.
+[40]
+ Id. at 19.
+[41]
+ Id. at 20.
+[42]
+ Id. at 230-234.
+[43]
+ Id. at 239-241.
+[44]
+ 684 Phil. 391 (2012) [Per. J. Villarama, First Division].
+[45]
+ 
+Rollo
+, p. 242.
+[46]
+ Id. at 244-245.
+[47]
+ Id. at 478.
+[48]
+ Id. at 484-485 citing 
+Caina v. Court of Appeals
+, 309 Phil. 241 (1994) [Per J. Davide, First Division].
+[49]
+ Id. at 489-491.
+[50]
+ 787 Phil. 367 (2016) [Per J. Leonen, Second Division].
+[51]
+ Id. at 386-388.
+[52]
+ 
+Rollo
+, pp. 236-238.
+[53]
+ Id. at 18.
+[54]
+ 
+Buan v. Lopez
+, 229 Phil. 65 (1986) [Per J. Narvasa, First Division].
+[55]
+ 791 Phil. 570 (2016) [Per J. Perlas-Bernabe, First Division].
+[56]
+ Id. at 578.
+[57]
+ 
+Rollo
+, p. 223.
+[58]
+ 687 Phil. 392 (2012) [Per J. Reyes, Second Division].
+[59]
+ Id. at 401-402.
+[60]
+ 
+Spouses Munsalud v. National Housing Authority
+, 595 Phil. 750, 760-761 (2008) [Per J. Reyes, Third Division].
+[61]
+ 
+Rollo
+, pp. 42-44.
+[62]
+ Id. at 55-56.
+[63]
+ Id.
+[64]
+ Id. at 18.
+[65]
+ Id. at 102-105.
+[66]
+ Id. at 481.
+[67]
+ 660 Phil. 504 (2011) [Per J. Del Castillo, First Division].
+[68]
+ Id. at 515-516.
+[69]
+ 684 Phil. 391 (2012) [Per J. Villarama, First Division].
+[70]
+ Id. at 409-410.
+[71]
+ 
+Rollo
+, pp. 489.
+[72]
+ Id. at 486-491.
+[73]
+ Id. at 481.
+[74]
+ 594 Phil. 422 (2008) [Per J. Carpio Morales, Second Division].
+[75]
+ Id. at 432-433.
+[76]
+ Id. at 433-434.
+[77]
+ 702 Phil. 461 (2013) [Per J. Reyes, First Division].
+[78]
+ Id. at 481-483.
+[79]
+ Presidential Decree No. 957 (1976), sec. 25 states:
+SECTION 25. 
+Issuance of Title
+. - The owner or developer shall deliver the title of the lot or unit to the buyer upon full payment of the lot or unit. No fee, except those required for the registration of the deed of sale in the Registry of Deeds, shall be collected for the issuance of such title. In the event a mortgage over the lot or unit is outstanding at the time of the issuance of the title to the buyer, the owner or developer shall redeem the mortgage or the corresponding portion thereof within six months from such issuance in order that the title over any fully paid lot or unit may be secured and delivered to the buyer in accordance herewith.  
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

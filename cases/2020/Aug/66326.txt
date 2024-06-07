@@ -1,0 +1,2252 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			879 Phil. 507
+			
+
+
+
+
+EN BANC
+
+
+[ G.R. No. 252119, August 25, 2020 ]
+
+
+ABS-CBN CORPORATION, PETITIONER, VS. NATIONAL TELECOMMUNICATIONS COMMISSION,
+*
+ RESPONDENT.
+D E C I S I O N
+
+
+
+
+PERLAS-BERNABE, J.:
+
+
+Before the Court is a Petition for 
+Certiorari
+ and Prohibition (With Urgent Applications for the Issuance of a Temporary Restraining Order [TRO] and/or a Writ of Preliminary Injunction [WPI])
+[1]
+ assailing the Order
+[2]
+ dated May 5, 2020 issued by respondent National Telecommunications Commission (NTC) which directed petitioner ABS-CBN Corporation (ABS-CBN) to immediately 
+cease and desist
+ from operating its radio and television stations (CDO) due to the expiration of its legislative franchise granted under Republic Act No. (RA) 7966, entitled "An Act Granting the ABS-CBN Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain Television and Radio Broadcasting Stations in the Philippines, and for Other Purposes."
+[3]
+The Facts
+On March 30, 1995, petitioner ABS-CBN was granted a legislative franchise to "construct, operate and maintain, for commercial purposes and in the public interest, television and radio broadcasting stations in and throughout the Philippines"
+[4]
+ under RA 7966. The franchise was valid for a term of twenty-five (25) years from the law's effectivity on May 4, 1995, or until May 4, 2020.
+[5]
+In 2014 and 2018, bills
+[6]
+ for the renewal of ABS-CBN's franchise were filed in the 16
+th
+ and 17
+th
+ Congress.
+[7]
+ In the current (or 18
+th
+) Congress, eleven (11) bills
+[8]
+ for the renewal of ABS-CBN's franchise were submitted before the House Committee on Legislative Franchises, while two (2) bills
+[9]
+ were filed before the Senate Commitee on Rules.
+[10]
+ On February 26, 2020, another bill
+[11]
+ was filed seeking the amendment of Section 1 of RA 7966 to extend the term of ABS-CBN's franchise while Congress is still deliberating on the issue of franchise renewal.
+[12]
+In addition to these bills, several Resolutions were filed in relation to the renewal or extension of ABS-CBN's franchise, particularly: (
+a
+) House Resolution No. 639,
+[13]
+ urging the House Committee on Legislative Franchises to report, without delay, the pending franchise bills of ABSÂ­-CBN for plenary action; (
+b
+) House Joint Resolution No. 28,
+[14]
+ seeking the extension of the franchise of ABS-CBN until the end of the 18
+th
+ Congress, or until June 30, 2022, to give Congress additional time to review and assess the franchise bills; and (
+c
+) House Joint Resolution No. 29,
+[15]
+ seeking to extend the franchise of ABS-CBN until May 4, 2021, to give Congress enough time to thoroughly study and debate on the pending franchise bills.
+[16]
+On February 24, 2020, the Senate Committee on Public Services called a hearing to "look into, in aid of legislation, the operations of [ABSÂ­-CBN] to determine compliance with the terms and conditions of its franchise under [RA] 7966." During the hearing, respondent NTC's Commissioner, Gamaliel A. Cordoba (Commissioner Cordoba), stated that the NTC has not withdrawn any Provisional Authority to operate under similar circumstances and has not closed any broadcast company in the past due to an expired franchise, pending its renewal. Commissioner Cordoba also declared that in the case of ABS-CBN, it will issue a Provisional Authority if so advised by the Department of Justice (DOJ).
+[17]
+On February 26, 2020, the DOJ - through Secretary Menardo I. Guevarra - replied
+[18]
+ to the letter dated February 12, 2020 written by Commissioner Cordoba requesting a legal opinion on the matter of the congressional franchise of ABS-CBN. Citing a number of circumstances,
+[19]
+ the DOJ Secretary refrained from rendering a formal legal opinion on the matter. Nonetheless, he made the following observations for the NTC's "guidance": (
+a
+) there is an "established practice" or "equitable practice" to allow a broadcast company to continue its operations despite an expired franchise, pending its renewal; (
+b
+) the plenary power of Congress includes the auxiliary power to define and preserve the rights of the franchise applicant pending final determination of the renewal of the franchise; and (
+c
+) the NTC may provisionally authorize an entity to operate.
+[20]
+On even date (February 26, 2020), the House Committee on Legislative Franchises sent a letter
+[21]
+ to the NTC enjoining it to grant ABS-Â­CBN a provisional authority to operate "effective May 4, 2020 until such time that the House of Representatives/Congress has made a decision on its application."
+[22]
+ The letter was signed by the Committee's Chairperson, Franz E. Alvarez (Chairperson Alvarez) with the concurrence of Speaker Alan Peter S. Cayetano.
+[23]
+On March 4, 2020, the Senate adopted Resolution No. 40,
+[24]
+ "expressing the sense of the Senate that [ABS-CBN], its subsidiaries and/or affiliates, ABS-CBN Convergence, Inc., Sky Cable Corporation and Amcara Broadcasting Network, Inc., should continue to operate pending final determination of the renewal of its franchise by the 18
+th
+ Congress."
+[25]
+ This was an adoption of Senate Concurrent Resolution No. 6,
+[26]
+ which was earlier filed, taking into consideration Senate Concurrent Resolution Nos. 7
+[27]
+ and 8,
+[28]
+ and Proposed Senate Resolution No. 344.
+[29]
+On March 10, 2020, during the preliminary hearing of the House Bills for the renewal or grant of ABS-CBN's franchise conducted by the House Committee on Legislative Franchises, Commissioner Cordoba declared that the NTC "will follow the advice of the DOJ and let ABS-CBN continue [its] operations based on equity."
+[30]
+On March 16, 2020, the NTC, due to the mandated suspension of regular work in light of the Enhanced Community Quarantine, issued a Memorandum Order
+[31]
+ declaring that "[a]ll subsisting permits [
+sic
+] necessary to operate and maintain broadcast and pay TV facilities nationwide expiring within the quarantine period shall automatically be renewed and shall continue to be valid sixty (60) days after the end of the government-imposed quarantine period."
+[32]
+On May 3, 2020, Solicitor General Jose C. Calida, through a press release, "warned the [NTC] against granting ABS-CBN provisional authority to operate while the approval of its franchise is pending in Congress." He further declared that "the NTC [C]ommissioners could risk subjecting themselves to prosecution under the country's anti-graft and corruption laws should they issue the 'unlawful' [provisional authorities] to ABS-CBN in the absence of a franchise."
+[33]
+For his part, the DOJ Secretary "[stood] by [his] position that there is sufficient equitable basis to allow broadcast entities to continue operating while the bills for the renewal of their franchise[s] remain pending with Congress."
+[34]
+ Also, several lawmakers disagreed with the Solicitor General's statements, including Chairperson Alvarez who said that "[w]ith the legal opinion of the [DOJ] and the authority given by the House of Representatives, there is no reason for ABS-CBN to discontinue or stop [its] operations."
+[35]
+On May 4, 2020, ABS-CBN's franchise expired. Hence, on May 5, 2020, the NTC issued the CDO directing ABS-CBN to "immediately 
+CEASE
+ and 
+DESIST
+ from operating [the enumerated
+[36]
+] radio and television stations." The CDO was based solely on the "expiration of RA 7966."
+[37]
+ Consequently, on even date, ABS-CBN complied with the CDO and went off-air.
+[38]
+On May 7, 2020, ABS-CBN filed the instant Petition for 
+Certiorari
+ and Prohibition (With Urgent Applications for the Issuance of a [TRO] and/or a [WPI]) before the Court, claiming that the NTC committed grave abuse of discretion in issuing the CDO.
+[39]
+In its petition, 
+ABS-CBN mainly argues that instead of issuing the CDO, the NTC should have allowed ABS-CBN to continue its operations pending Congress' determination of whether or not to renew its legislative franchise based on the bills already filed therefor. In this regard, ABS-CBN posits that "the plenary power of Congress to grant or renew a franchise necessarily includes the corollary power to define and preserve rights and obligations pending its final determination of the matter."
+[40]
+ Therefore, by disregarding the pending bills for the renewal of ABS-CBN's franchise, the NTC gravely abused its discretion in issuing the assailed CDO.
+[41]
+Also, ABS-CBN asserts that the CDO violated its right to equal protection of the laws, pointing out that the NTC deviated from its past practice to allow broadcasting entities to continue operating pending Congress' action on the renewal or extension of their franchises.
+[42]
+Furthermore, ABS-CBN decries a transgression of its right to due process since the NTC issued the CDO without any prior notice or hearing and by ignoring the serious and irreparable damage that the CDO will inflict on it and its employees.
+[43]
+Finally, ABS-CBN maintains that the CDO compromised the right to public information, especially in this time of public health emergency where it plays a significant role, and that it necessarily amounts to a limitation, if not, curtailment, of the freedom of speech and of the press with prior restraint.
+[44]
+Incidents After the Filing of the Petition
+On May 11, 2020, the NTC received a Show Cause Order
+[45]
+ from the House of Representatives, requiring it to explain why it should not be cited in contempt for issuing the CDO against ABS-CBN.
+[46]
+ In a letter-response
+[47]
+ dated May 12, 2020, the NTC explained that in view of the wording of the Constitution and related laws, as well as prevailing jurisprudence on the matter, 
+it could not issue a provisional authority in favor of ABS-CBN pending the deliberations of the Congress on its franchise, as to do so would amount to an encroachment into the exclusive power of Congress to grant legislative franchises to broadcasting companies
+. Expressing regret over its failure to notify the House of Representatives of its decision to issue the assailed CDO, the NTC assured that it will abide 
+by any law passed by Congress
+ regarding the matter.
+[48]
+On May 18, 2020, ABS-CBN filed an Urgent Reiterative Motion for the Issuance of a [TRO] and/or a [WPI],
+[49]
+ pointing out that on May 13, 2020, House Bill No. (HB) 6732, entitled "An Act Granting ABS-CBN Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain Television and Radio Broadcasting Stations in the Philippines, and for Other Purposes," was filed before the House of Representatives, seeking to grant ABS-CBN a provisional franchise until October 31, 2020 to "give both the House of Representatives and the Senate [ample time] to hear the issues being raised for and against the renewal, and assess, with complete impartiality and fairness, whether or not the network shall be granted a franchise for another twenty-five (25) years."
+[50]
+ While highlighting that HB 6732 had already been approved on second reading by the House of Representatives convened as a "Committee of the Whole" and that the members of the Senate had also expressed their willingness to act swiftly on the matter, ABS-CBN nevertheless lamented that it will still take some time before HB 6732 is passed into law. In this light, and in order to avert any grave and irreparable injury to it, its employees, various stakeholders, and the public in general, ABS-CBN reiterated its prayer for the Court to immediately issue a TRO or WPI to, in the meantime, restrain the implementation of the CDO.
+[51]
+In a Resolution dated May 19, 2020, the Court resolved to: (
+a
+) require the NTC to comment on the petition and urgent applications for the issuance of a TRO and/or WPI; (
+b
+) separately implead the House of Representatives and the Senate as parties to this case and require them to likewise comment on the petition and urgent applications for a TRO and/or WPI; and (
+c
+) require NTC to file a reply to the aforesaid comments of the House of Representatives and Senate. The Court further resolved to deny the motion to consolidate this case with G.R. No. 251932.
+[52]
+Complying with the Court's directive, the NTC, through the Office of the Solicitor General (OSG), filed its Comment (with Omnibus Motion)
+[53]
+ dated May 25, 2020, raising both procedural and substantive arguments in support of the dismissal of the instant petition. In its Omnibus Motion, the NTC further prayed that 
+the Senate and the House of Representatives should be discharged as parties to the instant case, since they are not real parties-in-interest or indispensable parties herein as no relief has been claimed by ABS-CBN as against them but only as against the NTC
+.
+[54]
+In response, ABS-CBN filed a Motion for Leave to File Opposition to Omnibus Motion and Opposition to Omnibus Motion,
+[55]
+ positing that the Senate and the House of Representatives were rightly impleaded in this case, since the issue herein concerns their constitutional power to grant a legislative franchise, and the CDO is an incursion into the auxiliary power of Congress to preserve the rights of a franchise applicant.
+[56]
+For its part, the Senate filed its Manifestation (In Lieu of Comment Re: Resolution dated May 19, 2020)
+[57]
+ dated May 28, 2020. 
+Praying that it be discharged as a party to the case
+, the Senate echoed the NTC's Omnibus Motion that it is neither an indispensable party nor a necessary party to the case, invoked the principle of separation of powers, and pointed out that there is no claim, counterclaim, or cross-claim against it.
+[58]
+On June 1, 2020, the House of Representatives filed its Comment 
+Ad Cautelam
+,
+[59]
+ similarly seeking to be discharged as a party to the case since there is no cause of action or any relief sought by ABS-CBN as against it in the petition. Moreover, the House of Representatives asserted that any inquiry into its actions at this stage in the deliberations on ABS-CBN's franchise will be premature and offensive to the doctrine of separation of powers.
+[60]
+The Issue Before the Court
+The primordial issue for the Court's resolution is whether or not the NTC gravely abused its discretion in issuing the assailed CDO against ABS-CBN.
+The Court's Ruling
+In light of the supervening denial of the pending House bills for the renewal of ABS-CBN's legislative franchise, the Court finds it appropriate to 
+dismiss
+ this case on the ground of mootness. The Court explains.
+At the onset, it is imperative to point out that based on our Constitution and laws, 
+a legislative franchise is both a pre-requisite and a continuing requirement
+ for broadcasting entities to broadcast their programs through television and radio stations in the country.
+Broadly speaking, "a franchise is defined to be a 
+special privilege
+ to, do certain things conferred by government on an individual or corporation, and 
+which does not belong to citizens generally of common right
+."
+[61]
+ Insofar as the great powers of government are concerned, "[a] franchise is basically a 
+legislative
+ grant
+ of a 
+special privilege
+ to a person."
+[62]
+ In 
+Associated Communications & Wireless Services v. NTC (Associated Communications)
+,
+[63]
+ the Court defined a "franchise [as] the privilege granted by the State through its 
+legislative body
+ x x x subject to regulation by the State itself by virtue of its police power through its administrative agencies."
+[64]
+ On this score, Section 11, Article XII of the 1987 Constitution further states that "for the operation of a public utility," no "such franchise or right [shall] be granted except under the condition that it shall be subject to amendment, alteration, or repeal 
+by the Congress
+ when the common good so requires."
+[65]
+With respect to the broadcast industry, Section 1 of Act No. 3846,
+[66]
+ as amended, clearly provides that "[n]o person, firm, company, association or corporation shall construct, install, establish, or operate a radio station within the Philippine Islands 
+without having first obtained a franchise therefor from the Philippine Legislature
+ x x x."
+[67]
+ It has also been clarified in 
+Associated Communications
+ that a congressional franchise is required to operate radio, 
+as well as television stations
+, in light of the subsequent issuance of Presidential Decree No. (PD) 576-A.
+[68]
+In this relation, Section 6 of PD 576-A further imposes, as an additional requirement to operate a radio or television station, an "authority" coming from "the Board of Communications and the Secretary of Public Works and Communications or their successors [(
+i.e.
+, the NTC
+[69]
+)] who have the right and authority to assign to qualified parties frequencies, channels or other means of identifying broadcasting systems." In 
+Divinagracia v. Consolidated Broadcasting System, Inc.
+ (
+Divinagracia
+),
+[70]
+ citing 
+Associated Communications
+, this Court ruled that the legislative franchise requirement under Act No. 3846, as amended, was not repealed by the additional requirement imposed in PD 576-A.
+[71]
+ Instead, they coÂ­exist. Thus, in 
+Divinagracia
+, it was explained that:
+Broadcast and television stations are required to obtain a legislative franchise, a requirement imposed by the Radio Control Act and affirmed by our ruling in 
+Associated Broadcasting
+.
+ After securing their legislative franchises, stations are required to obtain CPCs from the NTC before they can operate their radio or television broadcasting systems. Such requirement while traceable also to the Radio Control Act, currently finds its basis in E.O. No. 546, the law establishing the NTC.
+[72]
+ (Emphasis supplied)
+In this case, ABS-CBN seeks that the Court annul and set aside the CDO issued by the NTC ordering it to cease and desist from operating its radio and television stations enumerated therein. The core of ABS-CBN's petition rests on its argument that 
+the NTC should not have pre-empted the will of Congress
+ by directing it (ABS-CBN) to halt its broadcasting operations through said stations 
+pending the determination of Congress on the renewal of its legislative franchise based on the bills specifically filed therefor
+. In other words, ABS-CBN banks on the fact that since Congress has yet to act on these pending bills, there is still a possibility that its legislative franchise would be renewed; hence, the NTC should not have overtaken Congress' action on these pending bills by issuing the assailed CDO. In this regard, ABS-CBN claims that Congress has the "
+corollary power
+" to define and preserve rights and obligations 
+pending its final determination on the matter
+.
+[73]
+ Notably, ABS-CBN's position is echoed in the "guidance" issued by the DOJ Secretary, which submits that the plenary power of Congress includes the 
+auxiliary power
+ to define and preserve the rights of the franchise applicant 
+pending final determination of the renewal of the franchise
+.
+[74]
+However, the Court takes judicial notice of the fact that on July 10, 2020, the House Committee on Legislative Franchises had adopted the recommendation of the Technical Working Group (TWG) to "
+deny the application of ABS-CBN Corporation for a franchise to construct, install, establish, operate and maintain radio and broadcasting stations in the Philippines
+"
+[75]
+ by an overwhelming 70 affirmative votes
+[76]
+ from the 85 voting members present.
+[77]
+ While ABS-CBN states that there are two (2) pending bills for the renewal of its legislative franchise authored by members of the Senate,
+[78]
+ the Constitution provides that private bills,
+[79]
+ such as those pertaining to the grant or renewal of a franchise, 
+must exclusively originate from the lower house of Congress
+.
+[80]
+ Accordingly, these pending Senate bills were referred to the Senate Committee on Rules,
+[81]
+ and now, the Senate Committee on Public Services.
+[82]
+ Pursuant to existing jurisprudence, these "substitute" bills are nonetheless only prepared in anticipation of the corresponding bill from the lower House, and that the action of the Senate as a body is withheld pending receipt of the said House bill.
+[83]
+ The anticipated House bills raised in the petition, however, had already been passed upon by the House Committee on Legislative Franchises, and as mentioned, had already been denied. As explicitly stated in the TWG's recommended resolution which was adopted by the House Committee on Legislative Franchises, the denial pertained to "
+all of the House Bills and House Resolutions relative to the grant or renewal of the franchise application of ABS-CBN Corporation [which were] hereby laid on the table
+," clearly showing that the "committee action on a bill or resolution is unfavorable,"
+[84]
+ 
+viz
+.:
+RESOLUTION
+DENYING THE FRANCHISE APPLICATION OF ABS-CBN CORPORATION TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE AND MAINTAIN RADIO AND BROADCASTING STATIONS IN THE PHILIPPINES
+WHEREAS, Republic Act (RA) No. 7966 granted ABS-CBN Corporation (formerly ABS-CBN Broadcasting Corporation) a franchise to construct, operate and maintain television and radio broadcasting stations throughout the Philippines;
+WHEREAS, prior to expiration of RA No. 7966 on 05 May 2020, several House Bills and House Resolutions were filed including House Bill Nos. 676, 3521, 3713, 3947, 4305, 5608, 5705, 5753, 6052, 6138, 6293 and 6694, and House Resolution Nos. 639 and 853 relative to the grant or renewal of ABS-CBN Corporation's franchise;
+WHEREAS, the Committee on Legislative Franchises sought the position of the stakeholders, relevant government agencies and constituencies on the franchise application of ABS-CBN Corporation;
+WHEREAS, the Committee on Legislative Franchises conducted its initial hearing on March 10, 2020 and the Joint Committees on Legislative Franchises and Good Government and Public Accountability conducted extensive hearings from May 26 to July 9, 2020 to discuss the various issues raised against ABS-CBN Corporation;
+WHEREAS, the Committee on Legislative Franchises created a Technical Working Group (TWG) to discuss the findings and recommend a decision of the Committee on Legislative Franchises on the franchise application of ABS-CBN Corporation;
+WHEREAS, the TWG, after due consideration of the testimonies, documents, submissions and arguments has come up with its findings and recommendations contained in the TWG Report;
+WHEREAS, the TWG recommended to deny the franchise application of ABS-CBN Corporation and the Committee on Legislative Franchises to adopt its recommendation;
+NOW THEREFORE BE IT RESOLVED AS IT IS HEREBY RESOLVED, that 
+the members of the Committee on Legislative Franchises 
+deny
+ the application of ABS-CBN Corporation for a franchise to construct, install, establish, operate and maintain radio and broadcasting stations in the Philippines
+;
+RESOLVED FURTHER that, pursuant to Section 49 of the 18
+th
+ Congress Rules of the House of Representatives, 
+all of the House Bills and House Resolutions relative to the grant or renewal of the franchise application of ABS-CBN Corporation are hereby laid on the table
+; and the authors thereof shall be notified in writing and, as far as practicable, through electronic mail of the action within five (5) days stating the reason(s) thereof.
+x x x x (Emphases and underscoring supplied)
+Indeed, 
+the adoption of the TWG's recommendation by the House Committee on Legislative Franchises is considered as the official expression of the legislative will that has dispelled any previous uncertainty regarding ABS-CBN's franchise status insofar as the pending franchise renewal bills are concerned
+. Hence, the supervening denial of these bills means that ABS-CBN cannot any more invoke the same as basis for continuing the operation of the radio and television networks covered by the CDO issued by the NTC. Accordingly, the issue on the "corollary/auxiliary" powers of Congress 
+pending
+ the renewal of these bills had already been rendered moot.
+To expound, "[a] case or issue is considered moot and academic when it ceases to present a justiciable controversy 
+by virtue of supervening events
+, so that an adjudication of the case or a declaration on the issue would be of 
+no practical value or use
+. In such instance, 
+there is no actual substantial relief which 
+a petitioner
+ would be entitled to
+, and 
+which would be negated by the dismissal of the petition
+. Courts generally decline jurisdiction over such case or dismiss it on the ground of mootness. This is because the judgment will not serve any useful purpose or have any practical legal effect because, in the nature of things, it cannot be enforced."
+[85]
+Because of the aforementioned supervening event, 
+there is no actual substantial relief which petitioner ABS-CBN would be entitled to
+ 
+regardless of this Court's disposition on the merits of the present petition
+. To demonstrate, 
+should the Court dismiss the petition on the merits
+, the dismissal would only validate and sustain respondent NTC's CDO and hence, accord ABS-CBN no relief at all. On the other hand, 
+should the Court grant the petition on the merits
+, the nullification of the CDO will be of no practical consequence since based on our Constitution and laws, a legislative franchise is necessary for a broadcasting entity to legally operate its radio and television stations. 
+Thus, even if the CDO is annulled as prayed for, ABS-CBN cannot altogether resume its broadcast operations through its radio and television stations because its legislative franchise therefor bad already expired and that, considerh1g the denial of the House Committee on Legislative Franchises, has not been renewed.
+While indeed Congress has the plenary power to grant or renew legislative franchises and that this power has no time limitation, it must be borne in mind that ABS-CBN's petition against the NTC is specifically anchored on the uncertainty that the then-pending franchise renewal bills may be granted by Congress and hence, in the meantime, should Â·have precluded the NTC from issuing any interim CDO pending Congress' determination on the matter. However, since these bills had already been denied, ABS-CBN's position lost its foundation and more so, legitimizes the current state of affairs that ABS-CBN cannot legally operate its radio and television operations absent a legislative franchise therefor. Suffice it to say that any future favorable action upon a newly-filed franchise renewal bill goes beyond the scope of this case, which is anchored only on the franchise renewal bills pending in Congress at the time the NTC issued the assailed CDO. Besides, a broadcasting entity with an expired legislative franchise cannot simply bank on the speculation of any future favorable congressional action on its expired franchise since to do so would permit it to indefinitely circumvent the constitutional and statutory requirement of a valid and subsisting legislative franchise altogether.
+At any rate, the Court finds that ABS-CBN failed to provide sufficient legal basis to support its theory on Congress' so-called "corollary/auxiliary" powers pending determination of the renewal of its expired franchise. On the contrary, what is sufficiently clear to the Court is that, under our present legal framework, a legislative franchise granting broadcasting entities the privilege to broadcast their programs through television and radio stations in the country must be in the form of a duly enacted law. 
+The congressional deliberations on pending bills are not equivalent and cannot take the place of a duly enacted law, which requires the entire constitutional process for legislation to take its full course.
+ Neither can it be inferred from our Constitution and our present statutes that temporary statutory privileges may be accorded to a franchise applicant pending deliberation of a franchise grant or renewal. Indeed, it is only upon the completion of the full law-making procedure in accordance with the parameters prescribed by the Constitution can it be said that Congress has granted a broadcasting entity the statutory privilege to so broadcast its programs through its television and radio stations. Absent a valid and subsisting legislative franchise embodied in a duly passed law, no such statutory privilege, even if temporary, can be enjoyed.
+On this note, it is apt to explain that it was actually because of ABSÂ­ CBN's argument on Congress' so-called "corollary/auxiliary" powers that the Court deemed it necessary to implead
+[86]
+ the two (2) Houses of Congress as parties to this case if only to accord them the opportunity to be heard. Notably, the Court's directive to implead was made prior to the denial of the franchise renewal bills as above-mentioned. Nonetheless, both the Senate and the House of Representatives requested not to participate in the proceedings, considering that petitioner ABS-CBN has not, in fact, asked for any relief against them but only against the NTC which issued the assailed CDO. As the Court's only intention was to accord its co-equal branch of government due process because of the prospect of tackling a delicate constitutional issue, and considering now that the pertinent issue affecting them had already been rendered moot, the Court therefore grants the requests of both Houses to be discharged as parties to this case as prayed for in their submissions. "Parties may be dropped or added by order of the court on motion of any party or on its own initiative at any stage of the action and on such terms as are just."
+[87]
+Finally, the Court recognizes that ABS-CBN also raises grounds other than its theory on "corollary/auxiliary" powers. These are: (
+a
+) violation of the equal protection clause given that the NTC has in the past allowed broadcast entities to operate pending renewal of their franchises; (
+b
+) violation of due process as it was not given the opportunity to be heard before the CDO was issued; and (
+c
+) violation of freedom of the press and the right to public information because of its "significant role" in disseminating news during this public health emergency.
+[88]
+ All the same, however, the resolution of these issues cannot yield any actual practical relief in favor of ABS-CBN because, by force of our Constitution and laws, it cannot be allowed to legally operate the television and radio stations covered by the said CDO absent a legislative franchise for this purpose, and considering the fact that the pending bills for its renewal had already been denied through official congressional action.
+In closing, while the Court understands the plight and concerns of ABS-CBN, its employees, and its supporters in general, it wishes to emphasize that the act of granting or renewing legislative franchises is beyond the Court's power. Congress has the 
+sole authority
+ to grant and renew legislative franchises for broadcasting entities, such as ABS-CBN, to legally broadcast their programs through allocated frequencies for the purpose. As it presently stands, the legislative branch of our government has yet to grant or renew ABS-CBN's legislative franchise, which decision - whether fortunate or unfortunate - this Court must impartially respect, else it violates the fundamental principle of separation of powers.
+WHEREFORE
+, the Court resolves to: (1) 
+DROP
+ the House of Representatives and the Senate of the Philippines as parties to this case; and (2) 
+DISMISS
+ the petition on the ground of mootness.
+SO ORDERED.
+Peralta, C. J., Caguioa, Gesmundo, J. Reyes, Jr., Hernando, Carandang, Lazaro-Javier, Inting, Zalameda, Lopez, Delos Santos
+, and 
+Gaerlan, JJ.
+, concur.
+Leonen, J.
+, See separate concurring opinion and concur in the result.
+Baltazar-Padilla, J.
+, on official leave.
+*
+ As per the Court's Resolution dated May 19, 2020, the Senate and the House of Representatives of the Philippines were both impleaded as parties to this case, and consequently, directed to file their respective comments to the petition (see 
+rollo
+, pp. 320-AA-320-CC). However, for the reasons discussed below, they are dropped as parties to this case; hence, their non-inclusion in the caption.
+[1]
+ 
+Rollo
+, pp. 10-55.
+[2]
+ In NTC Adm. Case No. 2020-008 issued by Commissioner Gamaliel A. Cordoba and Deputy Commissioners Edgardo V. Cabarios and Delilah F. Deles. Id. at 62-65.
+[3]
+ (May 4, 1995).
+[4]
+ RA 7966; Section 1.
+[5]
+ See 
+rollo
+, p. 11.
+[6]
+ House Bill No. (HB) 4997 (16
+th
+ Congress), entitled "AN ACT RENEWING THE FRANCHISE GRANTED TO ABS-CBN CORPORATION (FORMERLY ABS-CBN BROADCASTING CORPORATION) UNDER REPUBLIC ACT No. 7966 OR 'AN ACT GRANTING ABS-CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE, AND MAINTAIN BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES' FOR TWENTY-FIVE YEARS FROM THE EFFECTIVITY OF THIS ACT" <
+http://congress.gov.ph/legisdocs/basic_16/HB04997.pdf
+> (last visited on July 17, 2020) and HB 4349 (17
+th
+ Congress), entitled "AN ACT RENEWING THE FRANCHISE GRANTED TO ABS-CBN CORPORATION (FORMERLY ABS-CBN BROADCASTING CORPORATION) UNDER REPUBLIC ACT NO. 7966 OR 'AN ACT GRANTING ABS-CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE, AND MAINTAIN BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES' FOR TWENTY-FIVE (25) YEARS FROM THE EFFECTIVITY OF THIS ACT" <
+http://congress.gov.ph/legisdocs/basic_17/HB04349.pdf
+> (last visited on July 17, 2020).
+[7]
+ See 
+rollo
+, pp. 11-12.
+[8]
+ HB 676 (18
+th
+ Congress), entitled "AN ACT RENEWING THE FRANCHISE GRANTED TO ABS-CBN CORPORATION (FORMERLY ABS-CBN BROADCASTING CORPORATION) UNDER REPUBLIC ACT NO. 7966 OR 'AN ACT GRANTING ABS-CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE, AND MAINTAIN BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES' FOR TWENTY-FIVE (25) YEARS FROM THE EFFECTIVITY OF THIS ACT" <
+http://congress.gov.ph/legisdocs/basic_18/HB00676.pdf
+> (last visited on July 17, 2020); HB 3521 (18
+th
+ Congress) entitled, "AN ACT RENEWING THE FRANCHISE GRANTED TO ABS-CBN CORPORATION UNDER REPUBLIC ACT NO. 7966 OTHERWISE KNOWN AS 'AN ACT GRANTING ABSÂ­CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, OPERATE AND MAINTAIN TELEVISION AND RADIO BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES' FOR TWENTY-FIVE (25) YEARS FROM THE EFFECTIVITY OF THIS ACT" <
+http://congress.gov.ph/legisdocs/basic_18/HB03521.pdf
+> (last visited on July 17, 2020); HB 3713 (18
+th
+ Congress), entitled "AN ACT RENEWING THE FRANCHISE GRANTED TO ABS-CBN CORPORATION (FORMERLY ABS-CBN BROADCASTING CORPORATION) UNDER REPUBLIC ACT NO. 7966 OR 'AN ACT GRANTING ABS-CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE AND MAINTAIN BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES' FOR TWENTY-FIVE (25) YEARS FROM THE EFFECTIVITY OF THIS ACT" <
+http://congress.gov.ph/legisdocs/basic_18/HB03713.pdf
+> (last visited on July 17, 2020); HB 3947 (18
+th
+ Congress), entitled "AN ACT RENEWING THE FRANCHISE GRANTED TO ABS-CBN CORPORATION (FORMERLY ABS-CBN BROADCASTING CORPORATION) UNDER REPUBLIC ACT No. 7966 OR 'AN ACT GRANTING ABS-CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE, AND MAINTAIN BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES' FOR TWENTY-FIVE (25) YEARS FROM THE EFFECTIVITY OF THIS ACT" <
+http://congress.gov.ph/legisdocs/basic_18/HB03947.pdf
+> (last visited on July 17, 2020); HB 4305 (18
+th
+ Congress), entitled "AN ACT RENEWING FOR ANOTHER TWENTY-FIVE (25) YEARS THE FRANCHISE GRANTED TO ABS-CBN BROADCASTING CORPORATION, PRESENTLY KNOWN AS ABS-Â­CBN CORPORATION, UNDER REPUBLIC ACT No.17966, ENTITLED 'AN ACT GRANTING THE ABS-CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, OPERATE AND MAINTAIN TELEVISION AND RADIO BROADCASTING STATIONS IN THE PHILIPPINES,' AND FOR OTHER PURPOSES" <
+http://congress.gov.ph/legisdocs/basic_18/HB04305.pdf
+> (last visited on July 17, 2020); HB 5608 (18
+th
+ Congress), entitled "AN ACT RENEWING THE FRANCHISE GRANTED TO ABS-CBN CORPORATION (FORMERLY ABS-CBN BROADCASTING CORPORATION) UNDER REPUBLIC ACT NO. 7966, OR 'AN ACT GRANTING ABS-CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE, AND MAINTAIN BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES' FOR TWENTY-FIVE (25) YEARS FROM THE EFFECTIVITY OF THIS ACT" <
+http://congress.gov.ph/legisdocs/basic_18/HB05608.pdf
+> (last visited on July 17, 2020); HB 5705 (18
+th
+ Congress), entitled "AN ACT RENEWING THE FRANCHISE GRANTED TO ABS-CBN CORPORATION (FORMERLY ABS-CBN BROADCASTING CORPORATION) UNDER REPUBLIC ACT NO. 7966, OR 'AN ACT GRANTING ABS-CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE, AND MAINTAIN BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES' FOR TWENTY-FIVE (25) YEARS FROM THE EFFECTIVITY OF THIS ACT" <
+http://congress.gov.ph/legisdocs/basic_18/HB05705.pdf
+> (last visited on July 17, 2020); HB 5753 (18
+th
+ Congress), entitled "AN ACT RENEWING FOR ANOTHER TWENTY-FIVE (25) YEARS THE FRANCHISE GRANTED TO ABS-CBN BROADCASTING CORPORATION, PRESENTLY KNOWN AS ABS-Â­CBN CORPORATION, UNDER REPUBLIC ACT NO. 7966, ENTITLED 'AN ACT GRANTING THE ABS-CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, OPERATE AND MAINTAIN TELEVISION AND RADIO BROADCASTING STATIONS IN THE PHILIPPINES AND FOR OTHER PURPOSES'" <
+http://congress.gov.ph/legisdocs/basic_18/HB05753.pdf
+> (last visited on July 17, 2020); HB 6052 (18
+th
+ Congress), entitled "AN ACT RENEWING THE FRANCHISE GRANTED TO ABS-CBN CORPORATION (FORMERLY ABS-CBN BROADCASTING CORPORATION) UNDER REPUBLIC ACT No. 7966 OR 'AN ACT GRANTING THE ABS-CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE AND MAINTAIN TELEVISION AND RADIO BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES' FOR TWENTY-FIVE (25) YEARS FROM THE EFFECTIVITY OF THIS ACT" <
+http://congress.gov.ph/legisdocs/basic_18/HB06052.pdf
+> (last visited on July 17, 2020); HB 6138 (18
+th
+ Congress), entitled "AN ACT RENEWING FOR ANOTHER TWENTY-FIVE (25) YEARS THE FRANCHISE GRANTED TO ABS-CBN CORPORATION (FORMERLY ABS-CBN BROADCASTING CORPORATION) UNDER REPUBLIC ACT NO. 7966 OR 'AN ACT GRANTING THE ABS-CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, OPERATE AND MAINTAIN TELEVISION AND RADIO BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES'" <
+http://congress.gov.ph/legisdocs/basic_18/HB06138.pdf
+> (last visited on July 17, 2020); and HB 6293 (18
+th
+ Congress), entitled "AN ACT RENEWING THE FRANCHISE GRANTED TO ABS-CBN CORPORATION (FORMERLY ABS-CBN BROADCASTING CORPORATION) UNDER REPUBLIC ACT No. 7966 OR 'AN ACT GRANTING ABS-CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE, AND MAINTAIN BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES' FOR TWENTY-FIVE (25) YEARS FROM THE EFFECTIVITY OF THIS ACT" <
+http://congress.gov.ph/legisdocs/basic_18/HB06293.pdf
+> (last visited on July 17, 2020).
+[9]
+ Senate Bill No. (SB) 981 (18
+th
+ Congress), entitled "AN ACT RENEWING FOR ANOTHER TWENTY-FIVE (25) YEARS THE FRANCHISE GRANTED TO ABS-CBN BROADCASTING CORPORATION, PRESENTLY KNOWN AS ABS-CBN CORPORATION, UNDER REPUBLIC ACT NO. 7966, ENTITLED 'AN ACT GRANTING THE ABS-CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, OPERATE AND MAINTAIN TELEVISION AND RADIO BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES'" <
+https://www.senate.gov.ph/lisdata/3138928283!.pdf
+> (last visited on July 17, 2020); and SB 1403 (18
+th
+ Congress), entitled "AN ACT RENEWING FOR ANOTHER TWENTY-FIVE (25) YEARS THE FRANCHISE GRANTED TO ABS-CBN BROADCASTING CORPORATION, PRESENTLY KNOWN AS ABS-CBN CORPORATION, UNDER REPUBLIC ACT NO. 7966, ENTITLED 'AN ACT GRANTING THE ABSÂ­-CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, OPERATE AND MAINTAIN TELEVISION AND RADIO BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES'" <
+https://www.senate.gov.ph/lisdata/3249929369!.pdf
+> (last visited on July 17, 2020).
+[10]
+ See 
+rollo
+, pp. 12-15.
+[11]
+ SB 1374 (18
+th
+ Congress), entitled "AN ACT AMENDING SECTION 1 OF REPUBLIC ACT NO. 7966 TO EXTEND THE TERM OF THE FRANCHISE OF ABS-CBN CORPORATION UNTIL 31 DECEMBER 2020" <
+https://www.senate.gov.ph/lisdata/3240129258!.pdf
+> (last visited July 17, 2020).
+[12]
+ See 
+rollo
+, p. 15.
+[13]
+ (18
+th
+ Congress), entitled "RESOLUTION URGING THE COMMITTEE ON LEGISLATIVE FRANCHISES TO REPORT OUT WITHOUT FURTHER DELAY FOR PLENARY ACTION A CONSOLIDATED VERSION OF EIGHT (8) PENDING BILLS PROPOSING FOR THE RENEWAL FOR ANOTHER TWENTY-FIVE (25) YEARS OF THE LEGISLATIVE FRANCHISE OF ABS-CBN CORPORATION" <
+http://www.congress.gov.ph/legisdocs/basic_18/HR00639.pdf
+> (last visited July 17, 2020).
+[14]
+ (18
+th
+ Congress), entitled "JOINT RESOLUTION EXTENDING THE FRANCHISE OF ABS-CBN CORPORATION UNTIL THE END OF THE 18
+TH
+ CONGRESS ON JUNE 30, 2022" <
+http://www.congress.gov.ph/legisdocs/basic_18/HJR0028.pdf
+> (last visited July 17, 2020).
+[15]
+ (18
+th
+ Congress), entitled "JOINT RESOLUTION EXTENDING THE FRANCHISE OF ABS-CBN CORPORATION UNTIL MAY 4, 2021" <
+http://www.congress.gov.ph/legisdocs/basic_18/HJR0029.pdf
+> (last visited July 17, 2020).
+[16]
+ 
+Rollo
+, pp.14-15.
+[17]
+ See id. at 16-18.
+[18]
+ Id. at 68-73.
+[19]
+ Id. at 69. Portions of the letter discussing the circumstances which constrained the DOJ to render legal opinion on the matter are quoted below:
+First, the contentious issues to be resolved involve the substantial rights of a private person - in this case, ABS-CBN - over whom this Department's opinion does not have any binding authority. On many occasions, this Department has declined to render an opinion on issues which involve the rights of private persons for the reason that these issues often become the actual subject of litigation. x x x.
+Second, the questions presented to us are better addressed to Congress itself in the exercise of a power constitutionally reserved to it (
+i.e.
+, the power to grant, extend, or otherwise amend franchises for the operation of public utilities). Even the Supreme Court has desisted from exercising its expanded power of judicial review over an issue that Congress has exclusive power to resolve. The same is likewise expected of us in the executive branch of government.
+Lastly, the main issue involved in this request for opinion is premised on the assumption that Congress would not be able to act on the bills filed to renew the [f]ranchise before it expires. However, there are still several weeks before the expiration of the [f]ranchise, and Congress may still be able to timely act on the renewal of the [f]ranchise, thus making our opinion unnecessary.
+[20]
+ See id. at 20-21.
+[21]
+ See id. at 66-67.
+[22]
+ See id. at 18.
+[23]
+ Id.
+[24]
+ Entitled "RESOLUTION EXPRESSING THE SENSE OF THE SENATE THAT ABS-CBN CORPORATION, ITS SUBSIDIARIES AND/OR AFFILIATES, ABS-CBN CONVERGENCE, INC., SKY CABLE CORPORATION AND AMCARA BROADCASTING NETWORK INC., SHOULD CONTINUE TO OPERATE PENDING FINAL DETERMINATION OF THE RENEWAL OF ITS FRANCHISE BY THE 18
+th
+ CONGRESS."
+[25]
+ 
+Rollo
+, p. 19.
+[26]
+ Entitled "CONCURRENT RESOLUTION EXPRESSING THE SENSE OF THE CONGRESS THAT ABS-CBN CORPORATION SHOULD CONTINUE TO OPERATE PENDING FINAL DETERMINATION OF THE RENEWAL OF ITS FRANCHISE BY THE 18
+TH
+ CONGRESS."
+[27]
+ Entitled "CONCURRENT RESOLUTION EXPRESSING THE SENSE OF THE CONGRESS TO ALLOW ABSÂ­-CBN CORPORATION TO OPERATE PENDING FINAL DETERMINATION OF THE RENEWAL OF ITS FRANCHISE BY THE 18
+TH
+ CONGRESS THROUGH THE ISSUANCE OF THE APPROPRIATE PROVISIONAL AUTHORITY BY THE NATIONAL TELECOMMUNICATIONS COMMISSION."
+[28]
+ Entitled "CONCURRENT RESOLUTION EXPRESSING THE SENSE OF THE CONGRESS TO ALLOW ABS-Â­CBN CORPORATION AND SKY CABLE CORPORATION TO OPERATE PENDING FINAL DETERMINATION OF THE RENEWAL OF THEIR RESPECTIVE FRANCHISES BY THE 18
+TH
+ CONGRESS THROUGH THE ISSUANCE OF THE APPROPRIATE PROVISIONAL AUTHORITY BY THE NATIONAL TELECOMMUNICATIONS COMMISSION."
+[29]
+ See 
+rollo
+, p. 19.
+[30]
+ See id. at 17-18.
+[31]
+ Re: "IMPLEMENTATION OF ENHANCED COMMUNITY QUARANTINE OVER ENTIRE LUZON ISLAND INCLUDING METRO MANILA." Id. at 74-76.
+[32]
+ Id. at 75. See also id. at 21-22.
+[33]
+ See id. at 22-23.
+[34]
+ See id. at 23.
+[35]
+ See id. at 23-24.
+[36]
+ Id. at 63-64. The following radio and TV stations were directed to cease and desist from operating:
+Case No. 
+Call Sign
+Frequency 
+Location
+AM Radio Stations
+87-006
+DZMM-AM
+630 kHz
+Obando, Bulacan
+81-067
+DYAP-AM
+765 kHz
+Puerto Princesa City, Palawan
+90-058
+DYAB-AM
+1512 kHz
+Cebu City
+90-062
+DXAB-AM
+1296 kHZ
+Davao City, Davao del Sur
+95-372
+DYRV-AM
+[1188 kHz]
+Catbalogan City, Western Samar
+FM Radio Stations
+87-006
+DWRR-FM
+[101.9 MHz]
+Antipolo City, Rizal
+88-141
+DZRR-FM
+103.1 MHz
+Baguio City, Benguet
+94-150
+DWEL-FM
+[95.5 MHz]
+San Nicolas, Ilocos Norte
+95-181
+DWEC-FM
+94.3 MHz
+Dagupan City, Pangasinan
+2016-026
+DWBA-FM
+[91.3 MHz]
+Santiago City, Isabela 
+81-067
+DYCU-FM
+99.9 MHz
+Puerto Princesa City, Palawan
+93-089
+DWRD-FM
+[93.9 MHz]
+Legaspi City, Albay
+95-183
+DWAC-FM
+93.5 MHz
+Naga City, Camarines Sur
+2016-025
+PA
+99.3 MHz
+Roxas City, Capiz
+95-185
+DYMC-FM
+[91.1 MHz]
+Iloilo City
+88-140
+DYOO-FM
+101.5 MHz
+Bacolod, Negros Occidental
+88-142
+DYLS-FM
+97.1 MHz
+Cebu City, Mt. Busay
+95-187
+DYTC-FM
+[94.3 MHz]
+Tacloban City, Leyte
+95-182
+DXFH-FM
+[98.7 MHz]
+Zamboanga City, Zamboanga del Sur
+88-139
+DXRR-FM
+101.1 MHz
+Davao City, Davao del Sur
+97-093
+DXBC-FM
+92.7 MHz
+General Santos City [(Lagao)], 
+South Cotabato
+94-149
+DXPS-FM
+95.1 MHz
+Cotabato City, Maguindanao
+95-184
+DXEC-FM
+91.9 MHz
+Cagayan de Oro City, Misamis Oriental
+TV Stations
+ 
+ 
+ 
+87-006
+DWWX-TV
+Ch. 2
+Quezon City, Metro Manila
+2000-143
+DWAC-TV
+Ch. 23
+Quezon City, Metro Manila
+94-193
+DZRR-TV
+Ch. 32
+Mt. Sto. Tomas, Benguet
+87-125
+D-3-ZO
+Ch. 2 (in)
+ Ch. 3 (out)
+Mt. Sto. Tomas, Benguet
+89-068
+D-11-ZZ
+Ch. 2 (in)
+ Ch. 11 (out)
+Mt. Amuyao, Mt. Province
+95-082
+DWRD-TV
+Ch. 7
+San Nicolas, Ilocos Norte
+2003-089
+DZCG-TV
+Ch. 11
+Bantay (Mt. Kaniao), Ilocos Sur
+2008-134
+DWBK-TV
+Ch. 34
+Bantay (Mt. Kaniao); 
+Ilocos Sur
+97-274
+DWAI-TV
+Ch. 2
+Santiago City, Isabela
+96-338
+DWAF-TV
+Ch. 3
+Tuguegarao, Cagayan
+2007-138
+DWAX-TV
+Ch. 9
+Aparri, Cagayan
+2009-085
+DWCM-TV
+Ch. 11 
+Basco, Batanes
+2004-093
+DWBY-TV
+Ch. 34
+San Miguel, Bulacan
+2002-110
+DWTC-TV
+Ch. 34
+Tarlac City, Tarlac
+2003-087
+DWIN-TV
+Ch. 46
+San Fernando, Pampanga
+89-025
+D-12-ZT
+Ch. 2 (in)
+ Ch. 12 (out)
+Olongapo City, Zambales
+89-031
+D-13-ZA
+Ch. 2 (in)
+ Ch. 13 (out)
+Botolan, Zambales
+2007-135
+DZAB-TV
+Ch. 11
+San Jose. Occidental Mindoro
+2005-022
+DWAR-TV
+Ch. 40
+Jala-Jala Rizal
+2003-088
+ 95-082
+DWLY-TV
+Ch. 46
+San Pablo City, Laguna
+89-022
+DZAD-TV Relay
+ Ch. 2 (in) 
+ Ch. 10 (out)
+Mt. Banoy, Batangas
+2007-147
+DZAC-TV
+Ch. 7
+Virac, Catanduanes
+99-252
+DWAW-TV
+Ch. 7
+Sorsogon, Sorsogon
+89-030
+DZNC-TV
+Ch. 11
+Naga City, Camarines Sur
+89-029
+DZAE-TV
+Ch. 4
+Legaspi City, Mt. Bariw, Albay
+89-026
+D-10-ZC
+Ch. 4 (in)
+ Ch. 10 (out)
+Tabaco, Albay
+87-126
+DYXL-TV
+Ch. 4
+Murcia, Mt. Kanlandong,
+ Negros Occidental
+97-283
+DYEZ-TV
+Ch. 9
+Kalibo, Aldan
+94-189
+DYAJ-TV
+Ch. 38
+Iloilo City, Iloilo
+94-188
+DYAT-TV
+Ch. 40
+Bacolod City, Negros Occidental
+87-128
+DYCB-TV
+Ch. 3
+Cebu City, Mt. Busay, Cebu
+89-023
+D-9-YA
+Ch. 3 (in) 
+ Ch. 9 (out)
+Jagna, Bohol
+96-022
+DYMA-TV
+Ch. 12
+Valencia, Mt. Palimpinon, 
+Negros Oriental
+93-041
+DYAB-TV
+Ch. 2
+Tacloban City, Mt. Naga-Naga, Leyte
+2000-211
+DXLL-TV
+Ch. 3
+Zamboaga City, Zamboanga del Sur
+2006-095
+DXCS-TV
+Ch. 4
+Cagayan de Oro City, Misamis Oriental
+96-219
+DXAG-TV
+Ch. 4
+Iligan City, Lanao del Norte
+89-027
+D-2-XB
+Ch. 3 (in)
+ Ch. 2 (out)
+Mt. Kitanglad, Bukidnon
+87-129
+DXAS-TV
+Ch. 4
+Davao City, Davao del Sur
+95-133
+DXZT-TV
+Ch. 3
+General Santos City, South Cotabato
+96-220
+DXAI-TV
+Ch. 5
+Cotabato City, Maguindanao
+97-290
+DXAJ-TV
+Ch. 11
+Butuan City, Agusan del Norte
+DTTB Stations for Implementation
+2007-142
+PA
+Ch. 21
+Apani, Cagayan
+2008-094
+PA
+Ch. 34
+Bayombong, Nueva Vizcaya
+97-288
+PA
+Ch. 9
+Hondagua, Quezon
+2007-140
+PA-TV
+Ch. 21
+Brooke's Point, Palawan
+97-284
+PA-TV
+Ch. 7
+Cadiz City, Negros Occidental
+97-287
+PA-TV
+Ch. 2
+Toledo City, Cebu
+97-204
+PA-TV
+Ch. 37
+Cebu City, Cebu
+94-190
+DXAE-TV
+Ch. 25 
+Zamboanga City, Zamboanga del Sur
+2008-089
+PA-TV
+Ch. 21
+Kidapawan, Cotabato
+94-192
+DXAF-TV
+Ch. 24
+General Santos City, South Cotabato
+[37]
+ See id. at 43-49.
+[38]
+ See id. at 25.
+[39]
+ Separately, ABS-CBN clarifies that the CDO also directed it to "SHOW CAUSE ... why [the] frequencies assigned to it should not be recalled for lack of the necessary Congressional Franchise as required by law" and that this portion of the said order is not being assailed (see id.).
+[40]
+ Id. at 34.
+[41]
+ See id. at 33-36.
+[42]
+ See id. at 37-43.
+[43]
+ See id. at 43-46.
+[44]
+ See id. at 46-49.
+[45]
+ Id. at 637-638.
+[46]
+ Id. at 348.
+[47]
+ Id. at 475-477.
+[48]
+ See id.
+[49]
+ See Urgent Reiterative Motion for the Issuance of a Temporary Restraining Order and/or Writ of Preliminary Injunction dated May 18, 2020; id. at 573-581.
+[50]
+ See id. at 574.
+[51]
+ See id. at 574-579.
+[52]
+ See Resolution dated May 19, 2020 signed by Clerk of Court Edgar O. Aricheta; id. at 320-AA-320-CC.
+[53]
+ Id. at 338-434.
+[54]
+ See id. at 423-427.
+[55]
+ See Motion for Leave to File Opposition to Omnibus Motion and Opposition to Omnibus Motion dated June 1, 2020; id. at 495-511.
+[56]
+ See id. at 497-508.
+[57]
+ See Manifestation (In Lieu of Comment Re: Resolution dated May 19, 2020) dated May 28, 2020; id. at 596-600.
+[58]
+ See id. at 597.
+[59]
+ See Comment 
+Ad Cautelam
+ dated June 1, 2020; id. at 605-629.
+[60]
+ See id. at 607 and 620-621.
+[61]
+ 
+Land Transportation Office v. City of Butuan
+, 379 Phil. 887, 896 (2000); emphases supplied.
+[62]
+ 
+Francisco, Jr. v. Toll Regulatory Board
+, 648 Phil. 54, 91 (2010); emphasis and underscoring supplied. See also 
+Philippine Amusement and Gaming Corporation v. Bureau of Internal Revenue
+, 749 Phil. 1010, 1026 (2014).
+[63]
+ 445 Phil. 621 (2003).
+[64]
+ Id. at 628; emphasis supplied.
+[65]
+ Emphasis and underscoring supplied.
+[66]
+ Entitled "AN ACT PROVIDING FOR THE REGULATION OF RADIO STATIONS AND RADIO COMMUNICATIONS IN THE PHILIPPINE ISLANDS, AND FOR OTHER PURPOSES," approved on November 11, 1931.
+[67]
+ Emphasis supplied.
+[68]
+ Entitled "REGULATING THE OWNERSHIP AND OPERATION OF RADIO AND TELEVISION STATIONS AND FOR OTHER PURPOSES" (November 11, 1974).
+[69]
+ See Executive Order No. 546, entitled "CREATING A MINISTRY OF PUBLIC WORKS AND A MINISTRY OF TRANSPORTATION AND COMMUNICATIONS (July 23, 1979). See also 
+Divinagracia v. Consolidated Broadcasting System, Inc.
+, 602 Phil. 625 (2009).
+[70]
+ 
+Divinagracia
+; id.
+[71]
+ Id. at 652.
+[72]
+ Id. at 655-656.
+[73]
+ 
+Rollo
+, pp. 35-36.
+[74]
+ See id. at 72.
+[75]
+ Per the Photo Journal released by the Congress (see <
+http://www.congress.gov.ph/photojournal/zoom.php?photoid=2427
+> [last visited July 17, 2020]).
+[76]
+ The members who voted to deny ABS-CBN's franchise applications were: Representatives Raneo Abu, Cyrille Abueg-Zaldivar, Gil Acosta, Atonio Albano, Samantha Louise Alfonso, Juan Miguel Macapagal Arroyo, Cristal Bagatsing, Julienne Baronda, Elpidio Barzaga Jr., Claudine Bautista, Juan Pablo Bondoc, Antonio Calixto, Prescious Castelo, Joaquin Chipeco Jr., Ma. Theresa Collantes, Anthony Peter Crisologo, Francisco Datol, Mike Defensor, Paulo Duterte, Faustino Michael Dy, Faustino V. Dy, Ian Paul Dy, Conrado Estrella III, Ria Christina Farinas, Dan Fernandez, Bayani Fernando, Luis Ferrer IV, Pablo John Garcia, Janette Garin, Sharon Garin, Weslie Gatchalian, Sandro Gonzales, Eduardo Gullas, Bernadette Herrera-Dy, Dulce Ann Hofer, Eleandro Jesus Madrona, Dale Malapitan, Esmael Mangudadatu, Rodante Marcoleta, Eric Martinez, Francisco Matugas, Raymond Mendoza, Roger Mercado, John Marvin Nieto, Jose Fidel Nograles, Jericho Nograles, Henry Oaminal, Joseph Stephen Paduano, Wilter Palma II, Enrico Pineda, Jesus Crispin Remulla, Strike Revilla, Yedda Romualdez, Ferdinand Martin Romualdez, Xavier Jesus Romualdo, Deogracias Savellano, Frederick Siao, Jose Singson Jr., Jose Antonio Sy-Alvarado, Alyssa Sheena Tan, Sharee Ann Tan, Arnolfo Teves Jr., Abraham Tolentino, Allan Ty, Christian Unabia, Rolando Valeriano, Luis Villafuerte Jr., Camille Villar, Eric Yap, and Divina Grace Yu. See <
+https://www.philstar.com/headlines/2020/07/10/2027049/list-lawmakers-who-voted-and-against-absÂ­cbn-franchise-renewal
+> (last visited August 14, 2020).
+[77]
+ From the 85 members, 11 voted to grant ABS-CBN's franchise applications, namely: Representatives Sol Aragones, Christopher De Venecia, Carlos Zarate, Gabriel Bordado, Vilma Santos, Lianda Bolilia, Jose Tejada, Bienvenido Abante, Stella Quimbo, Mujiv Hataman, and Edward Maceda; while 2 inhibited, namely: Representative Alfred Vargas (Quezon City) and Micaela Violago (Nueva Ecija). Representative Franz Alvarez, as the Speaker of the House, did not vote. See <
+https://www.cnn.ph/news/2020/7/10/How-lawmakers-voted-ABS-CBN-franchise-.html
+> (last visited August 14, 2020).
+[78]
+ SB 981 (18
+th
+ Congress), entitled "AN ACT RENEWING FOR ANOTHER TWENTY-FIVE (25) YEARS THE FRANCHISE GRANTED TO ABS-CBN BROADCASTING CORPORATION, PRESENTLY KNOWN AS ABSÂ­CBN CORPORATION, UNDER REPUBLIC ACT NO. 7966, ENTITLED 'AN ACT GRANTING THE ABS-CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, OPERATE AND MAINTAIN TELEVISION AND RADIO BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES'" <
+https://www.senate.gov.ph/lisdata/3138928283!.pdf
+> (last visited on July 17, 2020); and SB 1403 (18
+th
+ Congress), entitled "AN ACT RENEWING FOR ANOTHER TWENTY-FIVE (25) YEARS THE FRANCHISE GRANTED TO ABS-CBN BROADCASTING CORPORATION, PRESENTLY KNOWN AS ABSÂ­CBN CORPORATION, UNDER REPUBLIC ACT No. 7966, ENTITLED 'AN ACT GRANTING THE ABS-CBN BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, OPERATE AND MAINTAIN TELEVISION AND RADIO BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES'" <
+https://www.senate.gov.ph/lisdata/3249929369!.pdf
+> (last visited on July 17, 2020).
+[79]
+ A private bill is defined as a "[l]egislation that benefits an individual or a locality" (See 
+ [last visited August 18, 2020]). "Every bill for the particular benefit of a person or company, or a locality in which the whole community is not interested, is, in a parliamentary sense, a private bill." (
+People v. Supervisors of Chautauqua
+, 43 NY 10 1870).
+[80]
+ Section 24, Article VI of the CONSTITUTION reads:
+Section 24. All appropriation, revenue or tariff bills, bills authorizing increase of the public debt, bills of local application, and private bills shall originate exclusively in the House of Representatives, but the Senate may propose or concur with amendments.
+[81]
+ See Section 16 of the RULES OF THE SENATE which reads:
+Section 16. All appropriations, revenue or tariff bills, bills authorizing increase of public debt, bills of local application, and private bills authored and filed by Members of the Senate shall be initially referred to the Committee on Rules.
+[82]
+ See 
+ and 
+ (last visited August 18, 2020).
+[83]
+ "Indeed, what the Constitution simply means is that the initiative for filing revenue, tariff, or tax bills, bills authorizing an increase of the public debt, private bills and bills of local application must come from the House of Representatives on the theory that, elected as they are from the districts, the members of the House can be expected to be more sensitive to the local needs and problems. On the other hand, the senators, who are elected at large, are expected to approach the same problems from the national perspective. Both views are thereby made to bear on the enactment of such laws.
+Nor does the Constitution prohibit the filing in the Senate of a substitute bill in anticipation of its receipt of the bill from the House, so long as action by the Senate as a body is withheld pending receipt of the House bill." (
+Tolentino v. Secretary of Finance
+, G.R. No. 115455, August 25, 1994, 235 SCRA 630, 663).
+"The filing in the Senate of a substitute bill in anticipation of its receipt of the bill from the House, does not contravene the constitutional requirement that [appropriation, revenue or tariff bills, bills authorizing increase of the public debt, bills of local application, and private bills] should originate in the House of Representatives, for as long as the Senate does not act thereupon until it receives the House bill." (
+Alvarez v. Guingona, Jr.
+, 322 Phil. 774, 787 [1996]).
+[84]
+ Section 49 of the RULES OF THE HOUSE OF REPRESENTATIVES states:
+Section 49. 
+Bills Unfavorably Acted Upon
+. - When a committee action on a bill or resolution is unfavorable, the bill or resolution shall be laid on the table. The author(s) shall be notified in writing and, as far as practicable, through electronic mail of the action within five (5) days after the bill or resolution has been laid on the table, stating the reason(s) therefor.
+[85]
+ 
+PeÃ±afrancia Sugar Mill, Inc. v. Sugar Regulatory Administration
+, 728 Phil. 535, 540 (2014), also cited in 
+Sze v. Bureau of Internal Revenue
+, G.R. No. 210238, January 6, 2020; emphases and underscoring supplied.
+[86]
+ See Court's Resolution dated May 19, 2020 (see 
+rollo
+, pp. 320-AA-320-CC).
+[87]
+ RULES OF COURT, Section 11, Rule 3.
+[88]
+ See 
+rollo
+, pp. 46-49.
+SEPARATE CONCURRING OPINION
+LEONEN, J.:
+I concur in the result of the 
+ponencia
+ written by the esteemed Senior Associate Justice Estela Perlas-Bernabe. This Petition became moot the moment the House Committee on Legislative Franchises denied petitioner ABS-CBN Corporation's application for franchise renewal.
+The non-renewal was 
+not
+ made an issue in this case, and petitioner filed no supplemental pleading either. Thus, any resolution here would have been limited to issues originally raised, namely: (1) whether a 
+status quo ante
+ order should have been issued; and (2) under the special circumstances of this case, whether respondent National Telecommunications Commission gravely abused its discretion in issuing the Cease and Desist Order while the House was deliberating on the renewal.
+However, even with the issues that constrain us, I find that this case is capable of repetition yet evading review. For one, this could happen again to any other media network. Its consequences affect the shaping of public opinion, since we deal here with the media and journalists, those who assist the electorate and the people, as sovereign, in exercising their right to freely express well-considered opinions.
+Therefore, I deem it my duty to state my opinion on some of the fundamental issues raised in the Petition as guidance for the Bench and Bar. I would have voted to issue a 
+status quo ante
+ order and eventually declare that respondent gravely abused its discretion in its unprecedented issuance of the Cease and Desist Order-more so when viewed in the context of this case and the regulatory agency's policy.
+Freedom of expression is a primordial right. Amid the ever complex digital means of communication now within the public's grasp, the media plays a large role to provide not only information, but information that is factual and true-that which is governed by the code of journalistic ethics, and which belies the irresponsible posts and rumors on social media.
+Just the same, broadcast media remains one of the major channels of information today. Hence, to silence a network of such huge scale, one that has provided vital news to the country-now, more than ever, amid the pandemic-is not only 
+prima facie
+ censorship, but is an outright denial of information from the Filipino people who need it most.
+Given that other media giants with expired franchises had been allowed to operate pending the renewal of their applications, and considering the House's documented delay in acting on petitioner's franchise, respondent's extraordinary action not only took the House by surprise, but also affected the sovereign discussion on matters related to the governance of the arts.
+I
+A 
+status quo
+ has been defined as "the last actual peaceful uncontested situation that precedes a controversy."
+[1]
+ In its ordinary meaning, "
+status quo
+ is the existing state of affairs[,] while 
+status quo ante
+ refers to the state of affairs that existed previously."
+[2]
+ 
+Status quo ante
+ is a Latin term for "the way things were before." When an order of this nature is imposed, it is to maintain the state of things existing before the controversy.
+[3]
+Status quo ante
+ is an interlocutory order
+[4]
+ created by this Court 
+En Banc
+. This Court, in fact, stated that "courts are now powerless to fashion a remedy" when a changed situation of the parties would be utterly unfair, and "equitable considerations require that the 
+status quo ante
+ be restored."
+[5]
+Our jurisprudence is replete with instances of how 
+status quo ante
+ orders have been issued. As the long succession of cases will show, this Court has repeatedly restored the 
+status quo ante
+ for several compelling reasons that cater to the demands of justice and equity.
+Status quo ante
+ first appeared in our jurisprudence in 1913. In 
+Molina v. Somes
+,
+[6]
+ the plaintiff submitted to this Court that "when an appeal is taken without 
+supersedeas
+, and the judgment appealed from is executed, and subsequently reversed, the appellee is bound to restore the 
+status quo ante
+ or respond in damages for his failure or inability so to do."
+[7]
+ Though this Court mainly ruled on the plaintiff's change of theory, it stated that "many actions would be fruitless if the plaintiff could not obtain an injunction to maintain the 
+status quo
+ until the final determination of the rights of the parties."
+[8]
+It was only in 1946, however, when this Court first used the term 
+status quo ante
+. In 
+Beltran v. Diaz
+,
+[9]
+ it was faced by a 
+fait accompli
+ after the People's Court had canceled the petitioner's bail and had him arrested despite lack of evidence to cancel the bail. This Court upheld its duty to "restore petitioner to his 
+status quo ante
+ as. far as is possible" by allowing his release upon the filing and approval of a new bail bond.
+[10]
+Reverting to the issue of execution pending appeal raised in 
+Molina
+, this Court in the 1948 case of 
+Naredo v. Yatco
+[11]
+ held that, "where the executed judgment is reversed on appeal, the trial court shall issue such orders of restitution as equity and justice may warrant" and "the appellees [are] bound to restore the 
+status quo ante
+ or respond in damages for their failure to do so."
+[12]
+ In 
+Villanueva v. Pelayo
+,
+[13]
+ where the plaintiff secured the execution of the judgment only three days after its rendition, this Court held that this was an execution pending appeal, and thus, provided measures to restore the 
+status quo ante
+.
+[14]
+On the other hand, there are early cases when this Court refused to restore the 
+status quo ante
+. In the 1950 case of 
+Juan P. Pellicer & Co., Inc. v. Philippine Realty Corporation
+,
+[15]
+ this Court found that doing so would undo the consolidation of the original titles to the parcels of land and be a waste of time, effort, and money, when there was still a pending action. Similarly, in the 1960 case of 
+Inco v. Enriquez
+,
+[16]
+ this Court refused a return to the 
+status quo ante
+ when the agreement's annulment would amount to fraud, not further public policy, and defy all justice and equity. It explained that "[t]he interests of society demand that bad faith and fraud be severely repressed, and the Courts cannot consent to their furtherance, directly or indirectly."
+[17]
+ This Court has also held that the 
+status quo ante
+ cannot be restored when the acts complained of have been done or executed.
+[18]
+Status quo ante
+ has also been applied in discussing moral damages. In 1964, Justice J.B.L. Reyes, in his concurring and dissenting opinion in 
+Pangasinan Transportation Company, Inc. v. Legaspi
+,
+[19]
+ coined the term "spiritual 
+status quo ante
+" as the aim of an award of moral damages:
+Moral damages are emphatically not intended to enrich a complainant at the expense of a defendant; they are awarded only to enable the injured party to obtain means, diversions or amusements that will serve to alleviate the moral suffering he has undergone, by reason of the defendant's culpable action. . . . In other words, the award of moral damages is aimed at a restoration, within the limits of the possible, of the spiritual 
+status quo ante
+: and, therefore, it must be proportionate to the suffering inflicted. The intensity of the pain experienced by the relatives of the victim is proportionate to the intensity of the affection for him and bears no relation whatever with the wealth or means of the offender. The death caused by a beggar is felt by the parents of the victim as intensely as that caused by the scion of a wealthy family.
+[20]
+ (Citation omitted)
+This doctrine has been cited as early as 1979 in 
+Grand Union Supermarket, Inc. v. Espino, Jr.
+[21]
+ It was subsequently affirmed in 
+Filinvest Credit Corporation v. The Intermediate Appellate Court
+,
+[22]
+ 
+Makabali v. Court of Appeals
+,
+[23]
+ 
+Spouses de la Serna v. Court of Appeals
+,
+[24]
+ 
+Samson v. Bank of the Philippine Islands
+,
+[25]
+ 
+City Government of Tagaytay v. Judge Guerrero
+,
+[26]
+ 
+Jarcia, Jr. v. People
+,
+[27]
+ and in the recent case of 
+Guy v. Tulfo
+.
+[28]
+In 1968, this Court first applied 
+status quo ante
+ in election cases. In 
+Pacis v. Commission on Elections
+,
+[29]
+ it annulled the petitioner's proclamation and the respondent's subsequent proclamation as mayor-elect, holding that "the case stands as if no proclamation has ever been made at all" and that both parties must "return to 
+status quo ante
+ - neither is proclaimed."
+[30]
+Also in 1968, this Court held that a decision may be set aside, and the 
+status quo ante
+ be restored, when the compromise agreement from which the decision was rendered is tainted with fraud, mistake or duress, or when one of the parties fails or refuses to comply with it.
+[31]
+ In 1972, this Court in 
+Bahanuddin v. Hidalgo
+[32]
+ affirmed its duty to restore the 
+status quo ante
+ if the court below had no jurisdiction and the writ of replevin was void 
+ab initio
+. That same year, this Court in 
+Banzon v. Cruz
+[33]
+ restored the 
+status quo ante 
+after finding that the petitioners' lots were wrongfully taken.
+Status quo ante
+ has likewise been applied in contracts as early as 1972. In 
+Luzon Brokerage Company, Inc. v. Maritime Building Company, Inc.
+,
+[34]
+ this Court held, albeit indirectly, that the restoration of the parties to the 
+status quo ante
+ is contemplated by Article 1592 of the Civil Code.
+[35]
+ In 
+Floro Enterprises, Inc. v. Court of Appeals
+,
+[36]
+ this Court concluded that the cancellation of the agreement meant restoring the 
+status quo ante
+, or before the agreement was executed.
+Conversely, 
+status quo ante
+ has been applied in rescissions of contracts. In 
+Reyes v. Lim
+,
+[37]
+ this Court decided that rescission will not be ordered unless there can be restitution or the status quo ante is restored. In 
+Pryce Corporation v. Philippine Amusement and Gaming Corporation
+,
+[38]
+ it held that a rescinded contract is deemed inexistent and restored the 
+status quo ante
+.
+Courts likewise applied 
+status quo ante
+ in labor cases. In 1982, this Court declared in 
+Philippines Inter-Fashion, Inc. v. National Labor Relations Commission
+[39]
+ that, because of the illegal strike and the illegal lockout, both parties were 
+in pari delicto
+, warranting the restoration of the 
+status quo ante
+.
+Later, in 1984, this Court in 
+Union of Supervisors (RB) Natu v. Secretary of Labor
+[40]
+ held that "[t]he Labor Code provision on reinstatement . . . is aimed to restore the situation as nearly as possible to 
+status quo ante
+" or before "the unfair labor practice."
+[41]
+ It later clarified in 
+Santos v. National Labor Relations Commission
+[42]
+ and in 
+Torillo v. Leogardo
+[43]
+ that when an employee who was unjustly dismissed is reinstated, the employee is restored to the position they were removed from; that is, the 
+status quo ante
+.
+[44]
+Furthermore, in 
+YSS Employees Union v. YSS Laboratories, Inc.
+,
+[45]
+ this Court held that the Secretary of Labor did not commit grave abuse of discretion in issuing orders preserving the 
+status quo ante
+, considering that it was done for the common good, and that the lingering strike could be inimical to both the employer's and employee's interests.
+In recent years, election cases that saw 
+status quo ante
+ orders have been on a rise. Among others, in 
+Asistio v. Judge Aguirre
+,
+[46]
+ this Court issued a 
+status quo ante
+ order pending a determination of whether the petitioner should be excluded from the permanent voters' list of Caloocan City for not complying with the residency rule.
+In 
+Mitra v. Commission on Elections
+,
+[47]
+ this Court issued a 
+status quo ante
+ order allowing the petitioner to be voted in the May 2010 elections, pending a determination of whether his certificate of candidacy was properly canceled. In 
+Amora v. Commission on Elections
+,
+[48]
+ this Court issued a similar order pending a determination of whether the petitioner's disqualification due to a defective notarization of his certificate of candidacy was proper. In 
+Sabili v. Commission on Elections
+,
+[49]
+ the same order required the parties to observe the 
+status quo
+ prevailing before the issuance of the assailed Commission on Elections resolutions.
+In 
+Jalosjos v. Commission on Elections
+,
+[50]
+ this Court issued a 
+status quo ante
+ order enjoining the Commission on Elections from enforcing its decision, pending a determination of whether the petitioner may run as governor. In 
+Atong Paglaum, Inc. v. Commission on Elections
+,
+[51]
+ it issued 
+status quo ante
+ orders for all 54 consolidated petitions, pending a determination of whether the 52 party-list groups may participate in the May 2013 elections.
+Likewise, when constitutional issues are raised, this Court does not hesitate to order a 
+status quo ante
+ while the constitutionality of the laws and issuances in question were being determined.
+A prime example is 
+Tatad v. Secretary of Energy
+,
+[52]
+ where Republic Act No. 8180, a law that would have deregulated the downstream oil industry, was declared unconstitutional. Acting
+[53]
+ on a motion for reconsideration, this Court emphasized that the remedy to prevent the revival of an unwanted 
+status quo ante
+, as a result of the law being unconstitutional, lies with Congress, which may enact the necessary remedial legislation.
+Likewise, in 
+Neri v. Senate Committee on Accountability
+,
+[54]
+ where the primary issue was the petitioner's claim to executive privilege, a 
+status quo ante
+ order enjoined the contempt order from being implemented, and the parties were required to observe the 
+status quo
+ prior to the assailed order. This order was later nullified. In 
+Strategic Alliance Development Corporation v. Radstock Securities, Ltd.
+,
+[55]
+ which involved the P6.185 billion pillage of public coffers, this Court issued a similar order preventing the compromise agreement from taking effect. This agreement was later declared unconstitutional.
+In 
+Gutierrez v. House of Representatives
+,
+[56]
+ this Court issued a 
+status quo ante
+ order in the petitioner's favor, where the issue involved the validity of the impeachment complaints against her. In 
+Bankers Association of the Philippines v. Commission on Elections
+,
+[57]
+ the 
+status quo ante
+ order hindered the implementation of the Commission on Elections' Money Ban Resolution for the May 2013 elections while its constitutionality was being determined. In 
+Spouses Imbong v. Ochoa
+,
+[58]
+ the 
+status quo ante
+ order went against the implementation of the Responsible Parenthood and Reproductive Health Act pending the issue of its constitutionality. Finally, in 
+Ocampo v. Mendoza
+,
+[59]
+ the 
+status quo ante
+ order enjoined the parties to observe the 
+status quo
+ before the Radio Frequency Identification Project was implemented, so as to not render the petition moot and "to prevent serious damage" that its implementation would bring.
+[60]
+Moreover, courts issue mandatory writs to restore matters to the 
+status quo ante
+ when the restraining order or preliminary injunction had been properly issued.
+[61]
+ The sole object of a preliminary injunction is to preserve the 
+status quo
+ until the merits of the case can be heard.
+[62]
+ In 
+Overseas Workers Welfare Administration v. Chavez
+,
+[63]
+ this Court defined 
+status quo
+, 
+status quo ante litem
+, and preliminary injunction, as follows:
+More significantly, 
+a preliminary injunction is merely a provisional remedy, an adjunct to the main case subject to the latter's outcome, the sole objective of which is to preserve the status quo
+ until the trial court hears fully the merits of the case. The 
+status quo
+ should be that existing at the time of the filing of the case. The 
+status quo
+ usually preserved by a preliminary injunction is the last actual, peaceable and uncontested status which preceded the actual controversy. The 
+status quo ante litem
+ is, ineluctably, the state of affairs which is existing at the time of the filing of the case. Indubitably, the trial court must not make use of its injunctive power to alter such status.
+[64]
+ (Emphasis supplied)
+However, in 
+Garcia v. Mojica
+[65]
+ and 
+Megaworld Properties and Holdings, Inc. v. Majestic Finance and Investment Company, Inc.
+,
+[66]
+ this Court categorically differentiated a 
+status quo ante
+ order from a temporary restraining order and a preliminary injunction. Quoting Justice Florenz D. Regalado, this Court explained in both cases:
+There have been instances when the Supreme Court has issued a 
+status quo
+ order which, as the very term connotes, is merely intended to maintain the last, actual, peaceable and uncontested state of things which preceded the controversy. 
+This was resorted to when the projected proceedings in the case made the conservation of the status quo desirable or essential, but the affected party neither sought such relief or the allegations in his pleading did not sufficiently make out a case for a temporary restraining order.
+ The 
+status quo
+ order was thus issued 
+motu proprio
+ on equitable considerations. Also, 
+unlike a temporary restraining order or a preliminary injunction, a 
+status quo
+ order is more in the nature of a cease and desist order
+, since it neither directs the doing or undoing of acts as in the case of prohibitory or mandatory injunctive relief. The further distinction is provided by the present amendment in the sense that, unlike the amended rule on restraining orders, a 
+status quo
+ order does not require the posting of a bond.
+[67]
+ (Emphasis supplied)
+Thus, in 
+Repol v. Commission on Elections
+,
+[68]
+ and likewise in 
+Dojillo v. Commission on Elections
+,
+[69]
+ this Court annulled the 
+status quo ante
+ orders issued by the Commission on Elections for having been issued with grave abuse of discretion. In both cases, this Court noted that the orders were actually temporary restraining orders that had automatically ceased effect.
+Unlike in a 
+status quo ante
+ order where no specific rule governs, Rule 58 of the Rules of Court specifically provides for the issuance of a temporary restraining order and a preliminary injunction when certain requirements are met. Section 3 enumerates the grounds for the issuance of a preliminary injunction, as follows:
+SECTION 3. Grounds for issuance of preliminary injunction. - A preliminary injunction may be granted when it is established:
+a)
+ 
+That the applicant is entitled to the relief demanded, and the whole or part of such relief consists in restraining the commission or continuance of the act or acts complained of, or in requiring performance of an act or acts, either for a limited period or perpetually;
+b)
+ 
+That the commission, continuance or non-performance of the act or acts complained of during the litigation would probably work injustice to the applicant; or
+c) 
+That a party, court, agency or a person is doing, threatening, or is attempting to do, or is procuring or suffering to be done, some act or acts probably in violation of the rights of the applicant respecting the subject of the action or proceeding, and tending to render the judgment ineffectual.
+Before a writ of preliminary injunction, whether mandatory or prohibitory, may be issued, the following requisites must first be proven:
+(1) 
+The applicant must have a clear and unmistakable right to be protected, that is a right in 
+esse
+;
+(2) 
+There is a material and substantial invasion of such right;
+(3)
+ There is an urgent need for the writ to prevent irreparable injury to the applicant; and
+(4) 
+No other ordinary, speedy, and adequate remedy exists to prevent the infliction of irreparable injury.
+[70]
+In 
+Los BaÃ±os Rural Bank, Inc. v. Africa
+,
+[71]
+ this Court expounded on these requisites:
+[I]njunction, like other equitable remedies, should be issued only at the instance of a suitor who has sufficient interest in or title to the right or the property sought to be protected. It is proper only when the plaintiff appears to be entitled to the relief demanded in the complaint. In particular, the existence of the right and the violation thereof must appear in the allegations of the complaint and must constitute at least a 
+prima facie
+ showing of a right to the final relief. Thus, there are two requisite conditions for the issuance of a preliminary injunction; namely, (1) the right to be protected exists 
+prima facie
+, and (2) the acts sought to be enjoined are violative of that right. It must be proven that the violation sought to be prevented would cause an irreparable injustice.
+Further, while a clear showing of the right is necessary, its existence need not be conclusively established. In fact, the evidence required to justify the issuance of a writ of preliminary injunction in the hearing thereon need not be conclusive or complete. The evidence need only be a "sampling" intended merely to give the court an idea of the justification for the preliminary injunction, pending the decision of the case on the merits. Thus, to be entitled to the writ, respondents are only required to show that they have the ostensible right to the final relief prayed for in their Complaint.
+[72]
+ (Citations omitted)
+To entitle the applicant to an injunctive writ, a clear legal right-a right "clearly founded in or granted by law"-must exist.
+[73]
+ No injunction can be granted in the absence of a clear legal right,
+[74]
+ as in this case.
+The requirement of a clear legal right, however, is not necessary for the issuance of a 
+status quo ante
+ order.
+As seen in our jurisprudence, when issuing a 
+status quo ante
+ order, this Court is guided by a number of factors: justice and equity considerations, when conservation of the 
+status quo
+ is desirable or essential, the prevention of any serious damage, and where constitutional issues are raised. As all of these considerations are present in this case, I would have voted to issue a 
+status quo ante
+ order.
+II
+Petitioner successfully showed an ostensible right to the relief it prayed for. Respondent's May 5, 2020 Order directing petitioner to "immediately cease and desist from operating its radio and televisions stations" was issued with grave abuse of discretion-and for many reasons.
+II (A)
+First
+, the Cease and Desist Order was served on petitioner without prior notice or hearing. This is a violation of its right to due process.
+Due process is guaranteed by the Constitution
+[75]
+ and extends to administrative proceedings.
+[76]
+ At the heart of procedural due process is the need for notice and an opportunity to be heard.
+[77]
+ In 
+Central Bank of the Philippines v. Cloribel
+:
+[78]
+Previous notice and hearing, as elements of due process, are constitutionally required for the protection of life or vested property rights, as well as of liberty, when its limitation or loss takes place in consequence of a judicial or quasi-judicial proceeding, generally depend[e]nt upon a 
+past
+ act or event which has to be established or ascertained ...
+... [T]he necessity of notice and hearing in an administrative proceeding depends on the character of the proceeding and the circumstances involved. In so far as generalization is possible in view of the great variety of administrative proceedings, it may be stated as a general rule that notice and hearing are not essential to the validity of administrative action where the administrative body acts in the exercise of executive, administrative, or legislative functions; but 
+where a public administrative body acts in a judicial or quasi-Â­judicial matter, and its acts are particular and immediate rather than general and prospective, the person whose rights or property may be affected by the action is entitled to notice and hearing
+.
+[79]
+ (Emphasis supplied)
+Moreover, in 
+Montoya v. Varilla
+,
+[80]
+ this Court ruled:
+Well-settled is the rule that the essence of due process is simply an opportunity to be heard or, as applied to administrative proceedings, an opportunity to explain one's side or an opportunity to seek a reconsideration of the action or ruling complained of. Unarguably, this rule, as it is stated, strips down administrative due process to its most fundamental nature and sufficiently justifies freeing administrative proceedings from the rigidity of procedural requirements. In particular, however, due process in administrative proceedings has also been recognized to include the following: (1) the right to actual or constructive notice of the institution of proceedings which may affect a respondent's legal rights; (2) a real opportunity to be heard personally or with the assistance of counsel, to present witnesses and evidence in one's favor, and to defend one's rights; (3) a tribunal vested with competent jurisdiction and so constituted as to afford a person charged administratively a reasonable guarantee of honesty as well as impartiality; and (4) a finding by said tribunal which is supported by substantial evidence submitted for consideration during the hearing or contained in the records or made known to the parties affected.
+Hence, even if administrative tribunals exercising quasi-judicial powers are not strictly bound by procedural requirements, they are still bound by law and equity to observe the fundamental requirements of due process. Notice to enable the other party to be heard and to present evidence is not a mere technicality or a trivial matter in any administrative or judicial proceedings. In the application of the principle of due process, what is sought to be safeguarded is not lack of previous notice but the denial of the opportunity to be heard.
+[81]
+ (Citations omitted)
+In line with due process, Commonwealth Act No. 146 or the Public Service Act, as amended, requires proper notice and hearing before a certificate of public convenience/permit/license may be suspended or revoked.
+[82]
+Under the National Telecommunications Commission's 2006 Rules of Practice and Procedure, before an entity could be subjected to a disciplinary measure for violating any law, rule, or regulation, the Commission must first serve a 
+show cause order
+. This order contains "the particulars and matters which the Commission is inquiring"; likewise, it calls upon respondents to file a verified answer at the stated place and time and to "explain why no judgment or action" should be taken against them.
+[83]
+ The Commission may also conduct a summary proceeding within 72 hours of the parties' receipt of its order.
+[84]
+ Within 15 days, it shall require the submission of position papers and memoranda. When some issues need clarifying, the Commission shall set a conference for it.
+[85]
+Likewise, the Commission may, in its discretion, issue a cease and desist order in the following cases: (1) "if the continued acts of the public's utility operator shall cause serious detriment to public interest and the security of the state"; and (2) "in cases of willful or unreasonable refusal" to comply with any order of the Commission, or with other relevant laws.
+[86]
+In this case, petitioner was not given proper notice and hearing. Instead, on May 5, 2020, respondent hastily issued a Cease and Desist Order,
+[87]
+ which merely states as basis that upon expiration of Republic Act No. 7966, the law that had granted petitioner's franchise, petitioner "no longer has a valid and subsisting congressional franchise."
+[88]
+ It cites Section 1 of Act No. 3846,
+[89]
+ which provides:
+SECTION 1. No person, firm, company, association, or corporation shall construct, install, establish, or operate a radio transmitting station, or a radio receiving station used for commercial purposes, or 
+a radio broadcasting station
+, without having first obtained a franchise therefor from the Congress of the Philippines.
+[90]
+Respondent knew very well that petitioner's franchise was about to expire and bills for its renewal were pending in Congress. In fact, Commissioner Gamaliel Cordoba (Cordoba) himself, who co-penned the Cease and Desist Order, had participated in the February 24, 2020 hearing of the Senate Committee on Public Services, where issues on the franchise renewal were discussed.
+[91]
+ Respondent had every opportunity to abide by its own rules of procedure to ascertain what action is appropriate to take-including whether a cease and desist order should be issued. But, for whatever reason, it chose not to do so. Instead, it blatantly violated petitioner's right to due process and openly defied Congress' prerogative.
+As stated earlier, respondent anchored the Cease and Desist Order simply on the expiration of the franchise. This does not even fall within any of the two instances mentioned in respondent's own Rules of Practice and Procedure to justify the issuance of such order.
+Moreover, the Order commanded petitioner to 
+immediately
+ cease and desist from operating the radio and television stations listed therein. This took effect upon petitioner's receipt of the Order, without giving the latter an opportunity to explain. As such, the Cease and Desist Order is actually in the nature of a preliminary injunction as it enjoins petitioner from continuing the operation of its broadcast stations.
+In 
+GMA Network, Inc. v. National Telecommunications Commission
+,
+[92]
+ this Court recognized the National Telecommunications Commission's power to issue a cease and desist order as a provisional relief during the pendency of an action. A cease and desist order was compared to a 
+status quo
+ order because it "does not direct the doing or undoing of acts[.]"
+[93]
+ However, in that same case, this Court clarified that if the cease and desist order is more of a preliminary injunction, compliance with the essential requisites of a writ of preliminary injunction is necessary before it may be issued.
+As has been enumerated earlier, these requisites are the following:
+(1) there exists a clear and unmistakable right to be protected; (2) this right is directly threatened by an act sought to be enjoined; (3) the invasion of the right is material and substantial; and (4) there is an urgent and paramount necessity for the writ to prevent serious and irreparable damage.
+[94]
+ (Citation omitted)
+None of these essential requisites were met in this case. At any rate, it is hard to conceive how it would be for the public's best interests to enjoin petitioner from going on air, or how the public would be seriously and irreparably injured by allowing petitioner to continue its broadcast operations. Neither has any urgent and paramount need been shown for the Cease and Desist Order to be issued.
+On the other hand, this Court has held that a license "is an operating authority of importance involving primarily the interest of the public," and the "valuable rights and investments made in reliance on a license ... should not be destroyed ... except for the most compelling reasons."
+[95]
+II (B)
+Second
+, even if petitioner's permits were to be rendered expired 
+ipso facto
+ upon the expiry of the legislative franchise, the issuance of the Cease and Desist Order would still be improper. Petitioner would still have the authority to continue, in light of the grace period that respondent itself gave in Memorandum Order No. 02-03-2020 dated March 16, 2020.
+[96]
+In this Memorandum Order, which was signed by Cordoba, respondent expressly stated:
+C. ON THE MANAGEMENT OF PERMITS
+All
+ subsisting permits, permits necessary to operate and maintain broadcast and pay TV facilities nationwide expiring within the quarantine period 
+shall automatically be renewed and shall continue to be valid sixty (60) days after the end of the government-imposed quarantine period
+. Thereafter, these stations shall be given sixty (60) days to file for the renewal of their permits/licenses without penalties or surcharges. (Emphasis supplied)
+In the same Memorandum Order, respondent expressly acknowledged that "broadcast and pay TV networks and [their] supporting infrastructures will continue to play a critical role in [the] government's efforts to provide timely and accurate information to the public during this critical period."
+Furthermore, in the February 24, 2020 Senate hearing, Cordoba admitted that the respondent regulatory agency has not withdrawn any provisional authority in the past
+[97]
+ nor closed broadcast companies due to an expired franchise. Instead, it allowed them to operate while their franchises were pending renewal.
+[98]
+Thus, not only was the Cease and Desist Order contrary to respondent's own Memorandum Order granting the grace period, but it is also contrary to respondent's own policy of allowing broadcast companies to continue their operations pending their franchise renewal.
+To be sure, such inconsistent decisions demand no less than a thorough explanation, lest they be deemed arbitrary. In this Court's words in 
+Globe Telecom, Inc. v. National Telecommunications Commission
+:
+[99]
+[W]e think it essential, for the sake of clarity and intellectual honesty, that if an administrative agency decides inconsistently with previous action, that it explain thoroughly why a different result is warranted, or if need be, why the previous standards should no longer apply or should be overturned. Such explanation is warranted in order to sufficiently establish a decision as having rational basis. Any inconsistent decision lacking thorough, ratiocination in support may be struck down as being arbitrary. And any decision with absolutely nothing to support it is a nullity.
+[100]
+Unfortunately, the Cease and Desist Order fails to explain why respondent accorded petitioner a different regulatory treatment from other broadcasting stations.
+The Cease and Desist Order's issuance is a serious error tantamount to grave abuse of discretion. In issuing it, respondent has singled out petitioner without any reasonable basis, in violation of the equal protection guarantee under the Constitution:
+"Equal protection of the laws" requires that "all persons ... be treated alike, 
+under like circumstances and conditions
+ both as to privileges conferred and liabilities enforced." The purpose of the equal protection clause is to secure every person within a state's jurisdiction against intentional and arbitrary discrimination, whether occasioned by the express terms of a statute or by its improper execution through the state's duly constituted authorities.
+[101]
+ (Citations omitted)
+III
+Again, we look into Section 1 of Act No. 3846, as amended, cited by respondent in its Cease and Desist Order. It states:
+SECTION 1. No person, firm, company, association, or corporation shall construct, install, establish, or operate a radio transmitting station, or a radio receiving station used for commercial purposes, or 
+a radio broadcasting station
+, without having first obtained a franchise therefor from the Congress of the Philippines. (Emphasis supplied)
+A perusal of Section 1, as amended, would readily show that it does not include television broadcast stations in the enumeration. This Court had previously observed that despite the advent of commercial television in the 1950s, there was no corresponding amendment to Act No. 3846 to reflect the new technology.
+[102]
+Subsequently, the Public Service Act was passed, creating the Public Service Commission. All public services (save for a few exceptions), including broadcasting stations, were placed within its jurisdiction.
+[103]
+Under Section 13(a) of the Public Service Act, as amended by Republic Act No. 2677 in 1960, the Public Service Commission was vested with "jurisdiction, supervision and control over all public services"; and, as written under Section 13(b), public services included wire or wireless communications system and 
+wire or wireless broadcasting stations
+. Hence, radio and television broadcasting stations fall within the jurisdiction and regulatory authority of the Public Service Commission.
+In 1972, the Commission was abolished, and its regulatory and adjudicatory functions were transferred to the Board of Communications.
+[104]
+In 1979, by virtue of Executive Order No. 546, the National Telecommunications Commission was created. It received the functions of the Board of Communications and the Telecommunications Control Bureau, which were both abolished through the same issuance.
+Unlike Section 1 of Act No. 3846, as amended, nothing in the Public Service Act, as amended, and in Executive Order No. 546 explicitly required the acquisition of a legislative franchise before a radio and television broadcasting station may operate.
+Nonetheless, in 
+Associated Communications & Wireless Services - United Broadcasting Networks v. National Telecommunications Commission
+,
+[105]
+ this Court ruled that a congressional franchise is necessary to operate a television broadcast. It pointed to Presidential Decree No. 576-A,
+[106]
+ whose Section 1 expressly referred to the franchise requirement in stating that "[n]o radio station or television channel may obtain a franchise unless it has sufficient capital on the basis of equity for its operation for at least one year," and whose Section 6 made a similar reference to the franchise requirement.
+This Court further observed that Executive Order No. 546 did not intend to dispense with the franchise requirement. Rather, in continuing to grant franchises after the executive order had been passed, Congress has actually maintained the franchise requirement.
+[107]
+Later, in 
+Divinagracia v. Consolidated Broadcasting System
+,
+[108]
+ this Court pronounced that "[b]roadcast and television stations are required to obtain a legislative franchise," and after doing so, they must also obtain certificates of public convenience from the National Telecommunications Commission before they can operate.
+[109]
+IV
+This case, however, is not about a failure to apply for a franchise or to have it renewed, but about the government officials' delay in acting on the franchise renewal until it finally expired. There was, thus, no 
+prima facie
+ valid reason for the Cease and Desist Order.
+Petitioner's franchise was granted under Republic Act No. 7966.
+[110]
+ As early as 2014, numerous bills for the franchise's renewal had been filed in the House of Representatives, six years before it expired:
+House Bill No. 4997,
+[111]
+ filed by Representative Giorgidi B. Aggabao before the 16
+th
+ Congress in 2014;
+House Bill No. 4349,
+[112]
+ filed by Representative Micaela S. Violago before the 17
+th
+ Congress on November 10, 2018;
+House Bill No. 676,
+[113]
+ filed by Representative Micaela S. Violago before the 18
+th
+ Congress on July 1, 2019;
+House Bill No. 3521,
+[114]
+ filed by Representative Rose Marie J. Arenas before the 18
+th
+ Congress on August 6, 2019;
+House Bill No. 3713,
+[115]
+ filed by Representative Joy Myra S. Tambunting before the 18
+th
+ Congress on August 8, 2019;
+House Bill No. 3947, filed by Representative Sol S. Aragones before the 18
+th
+ Congress on August 14, 2019;
+House Bill No. 4305,
+[116]
+ filed by Representative Vilma Santos-Recto before the 18
+th
+ Congress on September 2, 2019;
+House Bill No. 5608,
+[117]
+ filed by Representatives Aurelio D. Gonzales, Jr., Johnny T. Pimentel, and Paulino Salvador C. Leachon before the 18
+th
+ Congress on November 25, 2019;
+House Bill No. 5705,
+[118]
+ filed by Representative Rufus B. Rodriguez before the 18
+th
+ Congress on December 4, 2019;
+House Bill No. 5753,
+[119]
+ filed by Representative Josephine Y. Ramirez Sato before the 18
+th
+ Congress on December 9, 2019;
+House Bill No. 6052,
+[120]
+ filed by Representatives Carlos Isagani T. Zarate, Ferdinand R. Gaite, Eufemia C. Cullamat, France L. Castro, Arlene D. Brosas, and Sarah Jane I. Elago before the 18
+th
+ Congress on January 27, 2020;
+House Bill No. 6138,
+[121]
+ filed by Representative Mark O. Go before the 18
+th
+ Congress on January 30, 2020; and
+House Bill No. 6293,
+[122]
+ filed by Representative Loren Legarda before the 18
+th
+ Congress on February 13, 2020. 
+On January 6, 2020, several representatives filed House Resolution No. 639,
+[123]
+ urging the House Committee on Legislative Franchises to report, without delay, on the bills regarding petitioner's franchise renewal.
+The Senate, for its part, likewise filed two (2) bills similarly seeking the franchise renewal: (1) Senate Bill No. 981,
+[124]
+ filed by Senator Ralph Recto on August 28, 2019; and (2) Senate Bill No. 1403,
+[125]
+ filed by Senator Ramon Bong Revilla, Jr. on March 5, 2020.
+As the franchise was nearing its expiry, Representative Raul del Mar filed House Joint Resolution No. 28
+[126]
+ on February 18, 2020, seeking an extension until June 20, 2022. On February 26, 2020, two more bills were filed in the House and the Senate, respectively-one until May 4, 2021,
+[127]
+ and the other until December 31, 2020.
+[128]
+ The extensions were sought to give both houses of Congress more time to assess the pending bills.
+On March 10, 2020, the House Committee on Legislative Franchises finally began proceedings for the hearings on these bills.
+[129]
+ However, when COVID-19 struck the country, deliberations were suspended in view of the enhanced community quarantine.
+[130]
+Nonetheless, while Congress cannot be faulted for suspending the deliberations, the fact remains that as early as 2014, franchise renewal applications had been lodged in Congress. For six long years, these bills had hung like a sword of Damocles over petitioner, leaving it without any clear resolution on whether its franchise would be renewed at all.
+The inaction on these pending bills would not have been suspect, had it not been in sharp contrast to Congress' swift action on the franchise renewal of petitioner's leading rival, GMA Network, Inc. House Bill No. 4631 was filed in the 17
+th
+ Congress on December 7, 2016.
+[131]
+ Barely a month later, on January 16, 2017, the House approved the bill, and transmitted it to the Senate two days later. The Senate passed the bill on March 13, 2017, and the House concurred with the amendments a day later. Finally, on April 21, 2017, President Rodrigo Duterte (President Duterte) signed the bill into Republic Act No. 10925.
+[132]
+ The entire renewal process took merely four months and only required the filing of one House bill.
+As for petitioner's franchise, there is no clear technical reason why the numerous bills for its renewal stalled in Congress for over half a decade. The closest to it is found in House Resolution No. 639, which stated that the delay was "possibly due to President Duterte's objection to subject renewal[.]"
+[133]
+ Besides that, no other reason has been offered as to why the House could only act on the bills on March 10, 2020, six years after the first one had been filed.
+According to petitioner, its market share is estimated to be anywhere from 31% to 44%, making it one of the largest broadcast stations in the country.
+[134]
+ This means that petitioner provided access to news and entertainment to the majority population. Therefore, the delay in the franchise renewal deliberations for no technical reason at all effectively silenced petitioner, which amounts to a 
+prima facie
+ censorship. This, in the words of Justice J.B.L. Reyes:
+. . . [is] not a mere instance of official indolence, but a subtle attempt to impose absolute radio [and television] censorship, and to silence at will radio [and television] stations which allow airing of views critical of the powers that be. We should be ever alert to such indirect subversion of the constitutional liberties of speech and of the press.
+[135]
+Indeed, such exercise of censorship is an assault on the right to free speech that is engraved in our fundamental law. In 
+Newsounds Broadcasting Network v. Dy
+,
+[136]
+ this Court elaborated:
+[I]t cannot be denied that our Constitution has a systemic bias towards free speech. The absolutist tenor of Section 4, Article III testifies to that fact. The individual discomforts to particular people or enterprises engendered by the exercise of the right, for which at times remedies may be due, do not diminish the indispensable nature of free expression to the democratic way of life.
+The following undisputed facts bring the issue of free expression to fore. Petitioners are authorized by law to operate radio stations in Cauayan City, and had been doing so for some years undisturbed by local authorities. Beginning in 2002, respondents in their official capacities have taken actions, whatever may be the motive, that have impeded the ability of petitioners to freely broadcast, if not broadcast at all. These actions have ranged from withholding permits to operate to the physical closure of those stations under color of legal authority. While once petitioners were able to broadcast freely, the weight of government has since bore down upon them to silence their voices on the airwaves. An elementary school child with a basic understanding of civics lessons will recognize that free speech animates these cases.
+[137]
+Furthermore, under Article XII, Section 11 of the Constitution, Congress has the sole prerogative of granting or denying franchises of broadcast networks:
+SECTION 11. No franchise, certificate, or any other form of authorization for the operation of a public utility shall be granted except to citizens of the Philippines or to corporations or associations organized under the laws of the Philippines at least sixty per centum of whose capital is owned by such citizens, nor shall such franchise, certificate, or authorization be exclusive in character or for a longer period than fifty years. Neither shall any such franchise or right be granted except under the condition that it shall be subject to amendment, alteration, or repeal by the Congress when the common good so requires. The State shall encourage equity participation in public utilities by the general public. The participation of foreign investors in the governing body of any public utility enterprise shall be limited to their proportionate share in its capital, and all the executive and managing officers of such corporation or association must be citizens of the Philippines.
+In issuing the questioned Cease and Desist Order, respondent undermined this congressional prerogative. In Divinagracia,
+[138]
+ this Court explained the dichotomy between the grant of legislative franchises by Congress and the issuance of regulatory licenses by the National Telecommunications Commission:
+The complexities of our dual franchise/license regime for broadcast media should be understood within the context of separation of powers. The right of a particular entity to broadcast over the airwaves is established by law - 
+i.e.
+, the legislative franchise - and determined by Congress, the branch of government tasked with the creation of rights and obligations. As with all other laws passed by Congress, the function of the executive branch of government, to which the NTC belongs, is the implementation of the law. In broad theory, the legal obligation of the NTC once Congress has established a legislative franchise for a broadcast media station is to facilitate the operation by the franchisee of its broadcast stations. However, since the public administration of the airwaves is a requisite for the operation of a franchise and is moreover a highly technical function, Congress has delegated to the NTC the task of administration over the broadcast spectrum, including the determination of available bandwidths and the allocation of such available bandwidths among the various legislative franchisees. The licensing power of the NTC thus arises from the necessary delegation by Congress of legislative power geared towards the orderly exercise by franchisees of the rights granted them by Congress.
+Congress may very well in its wisdom impose additional obligations on the various franchisees and accordingly delegate to the NTC the power to ensure that the broadcast stations comply with their obligations under the law. Because broadcast media enjoys a lesser degree of free expression protection as compared to their counterparts in print, these legislative restrictions are generally permissible under the Constitution. Yet no enactment of Congress may contravene the Constitution and its Bill of Rights; hence, whatever restrictions are imposed by Congress on broadcast media franchisees remain susceptible to judicial review and analysis under the jurisprudential framework for scrutiny of free expression cases involving the broadcast media.
+The restrictions enacted by Congress on broadcast media franchisees have to pass the mettle of constitutionality. On the other hand, the restrictions imposed by an administrative agency such as the NTC on broadcast media franchisees will have to pass not only the test of constitutionality, but also the test of authority and legitimacy, 
+i.e.
+, whether such restrictions have been imposed in the exercise of duly delegated legislative powers from Congress. If the restriction or sanction imposed by the administrative agency cannot trace its origin from legislative delegation, whether it is by virtue of a specific grant or from valid delegation of rule-Â­making power to the administrative agency, then the action of such administrative agency cannot be sustained. The life and authority of an administrative agency emanates solely from an Act of Congress, and its faculties confined within the parameters set by the legislative branch of government.
+[139]
+Moreover, respondent utterly disregarded the official communication from the House of Representatives,
+[140]
+ which called for it to issue petitioner a provisional authority pending the franchise renewal deliberations; as well as Senate Resolution No. 344, adopted on March 4, 2020, which also called for the same provisional authority.
+[141]
+ This baseless act of defiance should have no place in our system of government.
+By issuing a Cease and Desist Order, respondent, a regulatory agency, effectively removed an entire broadcast network from the airwaves notwithstanding the bills for franchise renewal pending in Congress. Since its Order already operates as a franchise denial, respondent has already preempted any action by Congress--even without having the delegated authority to do so:
+The licensing authority of the NTC is not on equal footing with the franchising authority of the State through Congress. The issuance of licenses by the NTC implements the legislative franchises established by Congress, in the same manner that the executive branch implements the laws of Congress rather than creates its own laws. And similar to the inability of the executive branch to prevent the implementation of laws by Congress, the NTC cannot, without clear and proper delegation by Congress, prevent the exercise of a legislative franchise by withholding or canceling the licenses of the franchisee.
+[142]
+As mentioned, petitioner is one of the largest broadcast networks in the country, delivering news and information to a majority of the population. Even if the Cease and Desist Order were to be withdrawn, it is unclear whether petitioner would be able to operate immediately. It would need days for the network to get back on the air. Every day that it is off the air, information is being denied to the people.
+All this happened while this country is in the midst of a public health crisis. Mass media remains one of the public's main access points of information, and its role cannot be overemphasized:
+An informed citizenry with access to the diverse currents in political, moral and artistic thought and data relative to them, and the free exchange of ideas and discussion of issues thereon, is vital to the democratic government envisioned under our Constitution. The cornerstone of this republican system of government is delegation of power by the people to the State. In this system, governmental agencies and institutions operate within the limits of the authority conferred by the people. Denied access to information on the inner workings of government, the citizenry can become prey to the whims and caprices of those to whom the power had been delegated. The postulate of public office as a public trust, institutionalized in the Constitution (in Art. XI, Sec. 1) to protect the people from abuse of governmental power, would certainly be mere empty words if access to such information of public concern is denied, except under limitations prescribed by implementing legislation adopted pursuant to the Constitution.
+Petitioners are practitioners in media. As such, they have both the right to gather and the obligation to check the accuracy of information they disseminate. For them, the freedom of the press and of speech is not only critical, but vital to the exercise of their professions. The right of access to information ensures that these freedoms are not rendered nugatory by the government's monopolizing pe1iinent information. For an essential element of these freedoms is to keep open a continuing dialogue or process of communication between the government and the people. It is in the interest of the State that the channels for free political discussion be maintained to the end that the government may perceive and be responsive to the people's will. Yet, this open dialogue can be effective only to the extent that the citizenry is informed and thus able to formulate its will intelligently. Only when the participants in the discussion are aware of the issues and have access to information relating thereto can such bear fruit.
+[143]
+A FINAL NOTE
+I am not under the illusion that petitioner only produces quality programs aimed to educate and inform the public. Nor were all its presentations near the kind of quality art deserving of attention from its audience. Some of the network's offerings (like some of its noon time shows) had no value other than mindless entertainment that wasted the opportunity to uplift our people in exchange for ratings and advertisement by addressing the basest instinct of human beings.
+Undoubtedly, independent of any judgment on the content of its programs, the quality of information-including the arts relating to mass entertainment-will be gravely affected by petitioner's fate. From the facts of this case, one cannot but help note the extraordinary challenges it faced. That special attention, which resulted in the protracted process to decide 'on the renewal of a franchise that petitioner had held for decades, should have certainly invited more exacting inquiry from this Court.
+In this age, there is a necessity for journalism-with all the ethics that goes with the profession-to prevail over the extraordinary access that is out there on social media, blogs, and other digital sources that can certainly be called misinformation and propaganda. Petitioner may have made the case for the classic chilling effect on expression: that an experienced network with great impact on many of our far-flung rural areas can be silenced.
+Unfortunately, since the intervening denial by the House Committee on Legislative Franchises was not made an issue in this case, I cannot help but join the majority in dismissing the only issues raised in this case for being moot and academic.
+The hindsight that history provides may be a balm for future generations, but it is no consolation for the present one. But it is for what history may teach a future generation that can inspire more and continue to speak, to inform, and to shape public opinion so that it is more in accordance with the truth. The sovereign Filipino people-not only the 
+kapamilya-
+Â­deserves no less.
+ACCORDINGLY
+, I join the 
+ponencia
+ only in its result. I vote to 
+DISMISS
+ the Petition.
+[1]
+ 
+Los BaÃ±os Rural Bank, Inc., v. Africa
+, 433 Phil. 930, 945 (2002) [Per J. Panganiban, Third Division] citing 
+Verzosa v. Court of Appeals
+, 359 Phil. 425 (1998) [Per J. Panganiban, First Division]. 
+See also Rodulfa v. Alfonso
+, 76 Phil. 225, 231-232 (1946) [Per J. De Joya, En Banc] 
+citing Fredericks v. Huber
+, 180 Pa., 572; 37 Atl., 90.
+[2]
+ 
+Dynamic Builders & Construction Co. (Phil.), Inc. v. Presbitero, Jr.
+, 757 Phil. 454, 481 (2015) [Per J. Leonen, En Banc].
+[3]
+ 
+Remo v. Bueno
+, 784 Phil. 344, 385 (2016) [Per J. Leonardo-de Castro, En Banc].
+[4]
+ 
+Dimayuga v. Commission on Elections
+, 550 Phil. 387, 394 (2007) [Per J. Azcuna, En Banc].
+[5]
+ 
+Ralla v. Ralla
+, 132 Phil. 517 (1968) [Per J. Sanchez, En Banc].
+[6]
+ 24 Phil. 49 (1913) [Per J. Moreland, First Division].
+[7]
+ Id. at 55.
+[8]
+ Id. at 63.
+[9]
+ 77 Phil. 484 (1946) [Per J. Sanchez, En Banc].
+[10]
+ Id. at 491.
+[11]
+ 80 Phil. 220 (1948) [Per J. Bengzon, En Banc] 
+citing Molina vs. Somes
+, 24 Phil. 49, 55 [Per J. Moreland, First Division]; Moran op. cit. Vol. I, p. 648.
+[12]
+ Id. at 224.
+[13]
+ 110 Phil. 602 (1960) [Per J. Bengzon, En Banc].
+[14]
+ Id. at 605.
+[15]
+ 87 Phil. 302 (1950) [Per J. Tuason, En Banc].
+[16]
+ 107 Phil. 226 (1960) [Per J. Reyes, J.B.L., En Banc].
+[17]
+ Id. at 230.
+[18]
+ 
+Los BaÃ±os Rural Bank, Inc., v. Africa
+, 433 Phil. 930, 945-946 (2002) [Per J. Panganiban, Third Division]. 
+See also Remonte v. Bonto
+, 123 Phil. 63 (1966) [Per J. Sanchez, En Banc].
+[19]
+ 120 Phil. 1379 (1964) [Per J. Regala, First Division].
+[20]
+ Id. at 1385.
+[21]
+ 183 Phil. 507 (1979) [Per J. Guerrero, First Division].
+[22]
+ 248 Phil. 394 (1988) [Per J. Sarmiento, Second Division].
+[23]
+ 241 Phil. 260 (1988) [Per J. Fernan, Third Division].
+[24]
+ 303 Phil. 333 (1994) [Per J. Kapunan, First Division].
+[25]
+ 453 Phil. 577 (2003) [Per J. Panganiban, Third Division].
+[26]
+ 616 Phil. 28 (2009) [Per J. Nachura, Third Division].
+[27]
+ 682 Phil. 317 (2012) [Per J. Mendoza, Third Division].
+[28]
+ G.R. No. 213023, April 10, 2019 <
+https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/65234
+> [Per J. Leonen, Third Division].
+[29]
+ 130 Phil. 545 (1968) [Per J. Sanchez, En Banc].
+[30]
+ Id. at 566.
+[31]
+ 
+Arrieta v. Malayan Sawmill Co.
+, 133 Phil. 481, 485-486 (1968) [Per C.J. Concepcion, En Banc].
+[32]
+ 150 Phil. 495 (1972) [Per J. Reyes, J.B.L., First Division].
+[33]
+ 150-A Phil. 865 (1972) [Per J. Teehankee, En Banc].
+[34]
+ 150 Phil. 114 (1972) [Per J. Reyes, J.B.L., First Division].
+[35]
+ Id. at 130.
+[36]
+ 319 Phil. 473 (1995) [Per J. Feliciano, Third Division].
+[37]
+ 456 Phil. 1, 12 (2003) [Per J. Carpio, First Division].
+[38]
+ 497 Phil. 490 (2005) [Per J. Panganiban, Third Division].
+[39]
+ 203 Phil. 23 (1982) [Per J. Teehankee, First Division].
+[40]
+ 213 Phil. 398 (1984) [Per J. Makasiar, Second Division].
+[41]
+ Id. at 407-408.
+[42]
+ 238 Phil. 161 (1987) [Per J. Feliciano, Third Division].
+[43]
+ 274 Phil. 758 (1991) [Per C.J. Fernan, Third Division].
+[44]
+ Id. at 766.
+[45]
+ 622 Phil. 201 (2009) [Per J. Chico-Nazario, Third Division].
+[46]
+ 633 Phil. 523 (2010) [Per J. Nachura, En Banc].
+[47]
+ 636 Phil. 753 (2010) [Per J. Brion, En Banc].
+[48]
+ 655 Phil. 467 (2011) [Per J. Nachura, En Banc].
+[49]
+ 686 Phil. 649 (2012) [Per J. Sereno, En Banc].
+[50]
+ 686 Phil. 563 (2012) [Per J. Abad, En Banc].
+[51]
+ 707 Phil. 454 (2013) [Per J. Carpio, En Banc].
+[52]
+ 346 Phil. 321 (1997) [Per J. Puno, En Banc].
+[53]
+ 
+Tatad v. Secretary of Energy
+, 347 Phil. 1 (1997) [Per J. Puno, En Banc].
+[54]
+ 572 Phil. 554 (2008) [Per J. Leonardo-De Castro, En Banc].
+[55]
+ 622 Phil. 431 (2009) [Per J. Carpio, En Banc].
+[56]
+ 658 Phil. 322 (2011) [Per J. Carpio Morales, En Banc].
+[57]
+ Bankers Association of the Philippines v. Commission on Elections, 722 Phil. 92 (2013) [Per J. Brion, En Banc].
+[58]
+ 732 Phil. 1 (2014) [Per J. Mendoza, En Banc].
+[59]
+ 804 Phil. 638 (2017) [Per J. Sereno, En Banc].
+[60]
+ Id. at 650.
+[61]
+ 
+Banzon v. Cruz
+, 150-A Phil. 865, 898 (1972) [Per J. Teehankee, En Banc] 
+citing Comm. of Public Highways v. San Diego
+, 142 Phil. 553 (1970) [Per J. Teehankee, First Division].
+[62]
+ 
+See Philippine National Bank v. Castalloy
+, 684 Phil. 438 (2012) [Per J. Reyes, Second Division]; 
+Los BaÃ±os Rural Bank, Inc., v. Africa
+, 433 Phil. 930 (2002) [Per J. Panganiban, Third Division]; 
+Ramos v. Court of Appeals
+, 246 Phil. 591 (1988) [Per J. Sarmiento, Second Division]; 
+Rodulfa v. Alfonso
+, 76 Phil. 225 (1946) [Per J. De Joya, En Banc].
+[63]
+ 551 Phil. 890 (2007) [Per J. Chico-Nazario, Third Division].
+[64]
+ Id. at 911-912.
+[65]
+ 372 Phil. 892 (1999) [Per J. Quisumbing, Second Division].
+[66]
+ 775 Phil. 34 (2015) [Per J. Bersamin, First Division].
+[67]
+ Id. at 52 and 
+Garcia v. Mojica
+, 372 Phil. 892, 900 (1999) [Per J. Quisumbing, Second Division] citing FLORENZ D. REGALADO, I REMEDIAL LAW COMPENDIUM 651 (6th Revised Ed., 1997).
+[68]
+ 472 Phil. 335 (2004) [Per J. Carpio, En Banc].
+[69]
+ 528 Phil. 890 (2006) [Per J. Carpio, En Banc].
+[70]
+ 
+Bicol Medical Center v. Botor
+, 819 Phil. 447, 458 (2017) [Per J. Leonen, Third Division] 
+citing St. James College of ParaÃ±aque v. Equitable PCI Bank
+, 641 Phil. 452, 466 (2010) [Per J. Velasco, Jr., First Division].
+[71]
+ 433 Phil. 930 (2002) [Per J. Panganiban, Third Division].
+[72]
+ Id. at 941.
+[73]
+ 
+Bicol Medical Center v. Bator
+, 819 Phil. 447, 461 (2017) [Per J. Leonen, Third Division] 
+citing Executive Secretary v. Forerunner Multi Resources, Inc.
+, 701 Phil. 64 (2013) [Per J. Carpio, Second Division].
+[74]
+ 
+Dynamic Builders & Construction Co. (Phil.), Inc. v. Presbitero, Jr.
+, 757 Phil. 454, 470 (2015) [Per J. Leonen, En Banc].
+[75]
+ CONST., art. III, sec. 1 states:
+SECTION 1. No person shall be deprived of life, liberty or property without due process of law, nor shall any person be denied the equal protection of the laws.
+[76]
+ 
+See Montoya v. Varilla
+, 595 Phil. 507 (2008) [Per J. Chico-Nazario, En Banc]; 
+Globe Telecom, Inc. v. National Telecommunications Commission
+, 479 Phil. 1 (2004) [Per J. Tinga, Second Division].
+[77]
+ 
+Montoya v. Varilla
+, 595 Phil. 507, 519 (2008) [Per J. Chico Nazario, En Banc].
+[78]
+ 150-A Phil. 86 (1972) [Per J. Concepcion, Second Division].
+[79]
+ Id. at 101-102.
+[80]
+ 595 Phil. 507 (2008) [Per J. Chico-Nazario, En Banc].
+[81]
+ Id. at 519-520.
+[82]
+ Commonwealth Act No. 146 (1936), as amended, sec. 16(m) and (n).
+[83]
+ NTC RULES (2006), Rule 10, sec. 4.
+[84]
+ NTC RULES (2006), Rule 10, sec. 5.
+[85]
+ NTC RULES (2006), Rule 10, sec. 5.
+[86]
+ NTC RULES (2006), Rule 10, sec. 5.
+[87]
+ The Order was signed by Commissioners Gamaliel A. Cordoba and Deputy Commissioners Edgardo V. Cabarios and Delilah F. Deles.
+[88]
+ Id. at 2.
+[89]
+ An Act Providing for the Regulation of Radio Stations and Radio Communications in the Philippine Islands, and for Other Purposes (1931) was amended by Commonwealth Act No. 365 (1938), Commonwealth Act No. 571 (1940), and Republic Act No. 584 (1950).
+[90]
+ Act No. 3846, as amended by Commonwealth Act No. 571 (1940).
+[91]
+ Transcript of the February 24, 2020 Senate Hearing, attached to the Petition as Annex "E."
+[92]
+ 780 Phil. 244 (2016) [Per J. Brion, Second Division].
+[93]
+ Id. at 253.
+[94]
+ Id. at 254.
+[95]
+ 
+Lemi v. Valencia
+, 135 Phil. 185, 199 (1968) [Per J. Castro, En Banc].
+[96]
+ Implementation of Enhanced Community Quarantine over Entire Luzon Island Including Metro Manila. The Memorandum Order was signed by NTC Commissioner Gamaliel A. Cordoba and noted by Secretary Gregorio B. Honasan II of the Department of Information and Communications Technology. Available at <
+https://ntc.gov.ph/wp-content/uploads/2020/05/M0-02-03-20.pdf
+> (last accessed on August 24, 2020).
+[97]
+ Transcript of the February 24, 2020 Senate Hearing, attached to the Petition as Annex "E", p. 47.
+[98]
+ Id. at 48.
+[99]
+ 479 Phil. 1 (2004) [Per J. Tinga, Second Division].
+[100]
+ Id. at 33-34.
+[101]
+ 
+Provincial Bus Operators Association of the Philippines v. Department of Labor and Employment
+, G.R. No. 202275, July 17, 2018, 872 SCRA 50, 134 [Per J. Leonen, En Banc].
+[102]
+ 
+See Divinagracia v. Consolidated Broadcasting System, Inc.
+, 602 Phil. 625 (2009) [Per J. Tinga, Second Division].
+[103]
+ At this point, I take exception to this Court's ruling in 
+Divinagracia v. Consolidated Broadcasting System, Inc.
+ that radio broadcasting stations were expressly excluded from the jurisdiction of the Public Service Commission under Section 14 of the Act. I submit that the term "radio companies," which were expressly excluded from the jurisdiction of the Public Service Commission "except as to the fixing of rates" under Section 14 of the Public Service Act, is different from "radio broadcasting stations." These radio companies pertained to telegraphic companies as can be gleaned from the cases cited in 
+Divinagracia
+, namely: 
+RCPI v. Santiago
+, 157 Phil. 484 (1974) [Per J. Fernando, Second Division] and 
+RCPI v. NTC
+, 289 Phil. 935 (1992) [Per J. Padilla, First Division]. The cited cases involved the same petitioner-Radio Communications Philippines, Inc.-a radio or telegraph company that transmits telegraphic messages of its customers, not a radio broadcasting station.
+[104]
+ Presidential Decree No. 1 (1972), Integrated Reorganization Plan of the executive branch.
+[105]
+ 445 Phil. 621 (2003) [Per J. Puno, Third Division].
+[106]
+ Regulating the Ownership and Operation of Radio and Television Stations and for Other Purposes (1974).
+[107]
+ 
+Associated Communications & Wireless Services - United Broadcasting Networks v. National Telecommunications Commission
+, 445 Phil. 621, 645 (2003) [Per J. Puno, Third Division].
+[108]
+ 602 Phil. 625 (2009) [Per J. Tinga, Second Division].
+[109]
+ Id. at 655-656.
+[110]
+ An Act Granting the ABS-CBN Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain Television and Radio Broadcasting Stations in the Philippines, and for Other Purposes (1995).
+[111]
+ An Act Renewing the Franchise Granted to ABS-CBN Corporation (formerly ABS-CBN Broadcasting Corporation) under Republic Act No. 7966 or "An Act Granting ABS-CBN Broadcasting Corporation a Franchise to Construct, Install, Establish, Operate, and Maintain Broadcasting Stations in the Philippines, and for Other Purposes" for Twenty-Five (25) Years from the Effectivity of this Act, available at <
+http://www.congress.gov.ph/legisdocs/basic_16/HB04997.pdf
+> (last accessed on August 24, 2020).
+[112]
+ An Act Renewing the Franchise Granted to ABS-CBN Corporation (formerly ABS-CBN Broadcasting Corporation) under Republic Act No. 7966 or "An Act Granting ABS-CBN Broadcasting Corporation a Franchise to Construct, Install, Establish, Operate, and Maintain Broadcasting Stations in the Philippines, and for Other Purposes" for Twenty-Five (25) Years from the Effectivity of this Act, available at <
+http://www.congress.gov.ph/legisdocs/basic_17/HB04349.pdf
+> (last accessed on August 24, 2020).
+[113]
+ An Act Renewing the Franchise Granted to ABS-CBN Corporation (formerly ABS-CBN Broadcasting Corporation) under Republic Act No. 7966 or "An Act Granting ABS-CBN Broadcasting Corporation a Franchise to Construct[,] Install, Establish, Operate, and Maintain Broadcasting Stations in the Philippines, and for Other Purposes" for Twenty-Five (25) Years from the Effectivity of this Act, available at <
+http://www.congress.gov.ph/legisdocs/basic_18/HB00676.pdf
+> (last accessed on August 24, 2020).
+[114]
+ An Act Renewing the Franchise Granted to ABS-CBN Corporation under Republic Act No. 7966 Otherwise Known as "An Act Granting ABS-CBN Broadcasting Corporation a Franchise to Construct, Install, Operate, and Maintain Television and Radio Broadcasting Stations in the Philippines, and for Other Purposes for Twenty-Five (25) Years from the Effectivity of this Act," available at <
+http://www.congress.gov.ph/legisdocs/basic_18/HB03521.pdf
+> (last accessed on August 24, 2020).
+[115]
+ An Act Renewing the Franchise Granted to ABS-CBN Corporation (formerly ABS-CBN Broadcasting Corporation) under Republic Act No. 7966 or "An Act Granting ABS-CBN Broadcasting Corporation a Franchise to Construct, Install, Establish, Operate, and Maintain Broadcasting Stations in the Philippines, and for Other Purposes" for Twenty-Five (25) Years from the Effectivity of this Act, available at <
+http://www.congress.gov.ph/legisdocs/basic_18/HB03713.pdf
+> (last accessed on August 24, 2020).
+[116]
+ An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to ABS-CBN Broadcasting Corporation, presently known as ABS-CBN Corporation, under Republic Act No. 7966, Entitled "An Act Granting the ABS-CBN Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain Television and Radio Broadcasting Stations in the Philippines, and for Other Purposes", available at <
+http://www.congress.gov.ph/legisdocs/basic_18/HB04305.pdf
+> (last accessed on August 24, 2020).
+[117]
+ An Act Renewing the Franchise Granted to ABS-CBN Corporation (formerly ABS-CBN Broadcasting Corporation) under Republic Act No. 7966 or "An Act Granting ABS-CBN Broadcasting Corporation a Franchise to Construct[,] Install, Establish, Operate, and Maintain Broadcasting Stations in the Philippines, and for Other Purposes" for Twenty[-]Five (25) Years from the Effectivity of this Act, available at <
+http://www.congress.gov.ph/legisdocs/basic_18/HB05608.pdf
+> (last accessed on August 24, 2020).
+[118]
+ An Act Renewing the Franchise Granted to ABS-CBN Corporation (formerly ABS-CBN Broadcasting Corporation) under Republic Act No. 7966 or "An Act Granting ABS-CBN Broadcasting Corporation a Franchise to Construct, Install, Establish, Operate, and Maintain Broadcasting Stations in the Philippines, and for Other Purposes" for Twenty-Five (25) Years from the Effectivity of this Act, available at <
+http://www.congress.gov.ph/legisdocs/basic_18/HB05705.pdf
+> (last accessed on August 24, 2020).
+[119]
+ An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to ABS-CBN Corporation, Presently Known as ABS-CBN Corporation, under Republic Act No. 7966, entitled "An Act Granting ABS-CBN Broadcasting Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Television and Radio Broadcasting Stations in the Philippines, and for Other Purposes", available at <
+http://www.congress.gov.ph/legisdocs/basic_18/HB05753.pdf
+> (last accessed on August 24, 2020).
+[120]
+ An Act Renewing the Franchise Granted to ABS-CBN Corporation (formerly ABS-CBN Broadcasting Corporation) under Republic Act No. 7966 or "An Act Granting ABS-CBN Broadcasting Corporation a Franchise to Construct[,] Install, Establish, Operate, and Maintain Broadcasting Stations in the Philippines, and for Other Purposes" for Twenty-Five (25) Years from the Effectivity of this Act, available at <
+http://www.congress.gov.ph/legisdocs/basic_18/HB06052.pdf
+> (last accessed on August 24, 2020).
+[121]
+ Renewing for Another Twenty-Five (25) Years the Franchise Granted to ABS-CBN Broadcasting Corporation (formerly ABS-CBN Broadcasting Corporation) under Republic Act No. 7966 or "An Act Granting the ABS-CBN Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain Television and Radio Broadcasting Stations in the Philippines, and for Other Purposes", available at <
+http://www.congress.gov.ph/legisdocslbasic_18/HB06138.pdf
+> (last accessed on August 24, 2020).
+[122]
+ Renewing the Franchise Granted to ABS-CBN Broadcasting Corporation (formerly ABS-CBN Broadcasting Corporation) under Republic Act No. 7966 or "An Act Granting the ABS-CBN Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain Television and Radio Broadcasting Stations in the Philippines, and for Other Purposes" for Twenty-Five (25) Years from the Effectivity of this Act, available at <
+http://www.congress.gov.ph/legisdocs/basic_18/HB06293.pdf
+> (last accessed on August 24, 2020).
+[123]
+ Resolution Urging the Committee on Legislative Franchises to Report Out Without Further Delay for Plenary Action a Consolidated Version of Eight (8) Pending Bills Proposing the Renewal for Another Twenty-Five (25) Years of the Legislative Franchise of ABS-CBN Corporation, available at <
+http://www.congress.gov.ph/legisdocs/basic_18/HR00639.pdf
+> (last accessed on August 24, 2020). Filed by Representatives Edcel Lagman, Micaela Violago, Joy Myra Tambunting, Johnny Pimentel, Doy Leachon, Jocelyn Limkaichong, Emmanuel Billones, Christopher Belmonte, France Castro, Carlos Zarate, Eufemia Cullamat, Ferdinand Gaite, and Arlene Brosas.
+[124]
+ Renewing for Another Twenty-Five (25) Years the Franchise Granted to ABS-CBN Broadcasting Corporation, Presently Known as ABS-CBN Broadcasting Corporation, Under Republic Act No. 7966, Entitled "An Act Granting the ABS-CBN Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain Television and Radio Broadcasting Stations in the Philippines, and for Other Purposes", available at <
+http://senate.gov.ph/lisdata/3138928283!.pdf
+> (last accessed on August 24, 2020).
+[125]
+ Renewing for Another Twenty-Five (25) Years the Franchise Granted to ABS-CBN Broadcasting Corporation, Presently Known as ABS-CBN Corporation, Under Republic Act No. 7966, Entitled "An Act Granting the ABS-CBN Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain Television and Radio Broadcasting Stations in the Philippines, and for Other Purposes", available at <
+http://senate.gov.ph/lisdata/3249929369!.pdf
+> (last accessed on August 24, 2020).
+[126]
+ Joint Resolution Extending the Franchise of ABS-CBN Corporation Until the End of this 18
+th
+ Congress on June 30, 2020, available at <
+http://www.congress.gov.ph/legisdocs/basic_18/HJR0028.pdf
+> (last accessed on August 24, 2020).
+[127]
+ Joint Resolution Extending the Franchise of ABS-CBN Corporation Until May 4, 2021, available at <
+http://www.congress.gov.ph/legisdocs/basic_18/HJR0029.pdf
+> (last accessed on August 24, 2020).
+[128]
+ An Act Amending Section 1 of Republic Act No. 7966 to Extend the Term of the Franchise of ABSÂ­CBN Corporation Until 31 December 2020, available at <
+http://senate.gov.ph/lisdata/3240129258!.pdf
+> (last accessed on August 24, 2020).
+[129]
+ Petition, p. 8.
+[130]
+ 
+House suspends work from March 16 to April 12 due to COVID-19 concerns
+, ABS-CBN NEWS ONLINE, March 13, 2020, <
+https://news.abs-cbn.com/news/03/13/20/congress-house-of-representatives-batasanÂ­suspends-work-march-16-to-april-12
+> (last accessed on August 24, 2020).
+[131]
+ H. No. 4631, 7
+th
+ Cong. (2017), available at <
+http://www.congress.gov.ph/legisdocs/first_17/CR00040.pdf
+> (last accessed on August 24, 2020).
+[132]
+ An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Republic Broadcasting System, Inc., Presently Known as GMA Network, Inc., Amending for the Purpose Republic Act No. 7252, Entitled "An Act Granting the Republic Broadcasting System, Inc. a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines (2017). 
+See also
+ the law's legislative history, available at <
+congress.gov.ph
+>.
+[133]
+ H. Res. 639, 18
+th
+ Cong. (2020), available at <
+http://www.congress.gov.ph/legisdocs/basic_18/HR00639.pdf
+> (last accessed on August 24, 2020).
+[134]
+ Petition, p. 37.
+[135]
+ J. J.B.L. Reyes, Separate Concurring Opinion in 
+Lemi v. Valencia
+, 135 Phil. 185, 200 (1968) [Per. J. Castro, En Banc].
+[136]
+ 602 Phil. 255 (2009) [Per J. Tinga, Second Division]
+[137]
+ Id. at 269.
+[138]
+ 602 Phil. 625 (2009) [Per J. Tinga, Second Division].
+[139]
+ Id. at 656-657.
+[140]
+ The February 26, 2020 Letter was signed by Franz E. Alvarez, Chairperson of the Committee on Legislative Franchises, and concured in by House Speaker Alan Peter Cayetano. Attached as Annex "B" of the Petition.
+[141]
+ S. Res. 344, 18
+th
+ Cong., 1
+st
+ Session (2020), available at <
+http://senate.gov.ph/lisdata/3245929312!.pdf
+> (last accessed on August 24, 2020).
+[142]
+ 
+Divinagracia v. National Telecommunications Commission
+, 602 Phil. 625, 668 (2009) [Per J. Tinga, Second Division].
+[143]
+ 
+Valmonte v. Belmonte
+, 252 Phil. 264, 270-271 (1989) [Per J. Cortes, En Banc].
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

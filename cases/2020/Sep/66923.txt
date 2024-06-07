@@ -1,0 +1,1424 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			883 Phil. 134
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 213130, September 09, 2020 ]
+
+
+SECURITIES AND EXCHANGE COMMISSION & INSURANCE COMMISSION, PETITIONERS, VS. COLLEGE ASSURANCE PLAN PHILIPPINES, INC., RESPONDENT. 
+
+
+[G.R. No. 218193, September 9, 2020]
+
+
+INSURANCE COMMISSION, PETITIONER, VS. COLLEGE ASSURANCE PLAN PHILIPPINES, INC., RESPONDENT.
+
+
+D E C I S I O N
+
+
+
+
+LEONEN, J.:
+
+
+The doctrine of immutability of judgment does not apply whenever circumstances transpire after the finality of the decision rendering its execution unjust and inequitable. 
+ These are consolidated
+[1]
+ cases involving jurisdiction over pre-need companies and subsidiary companies (G.R. No. 218193), and the propriety of extending the period of corporate rehabilitation (G.R. No. 213130). They originate from the Petition for Corporate Rehabilitation
+[2]
+ filed by respondent College Assurance Plan Philippines, Inc., before the Regional Trial Court of Makati City.
+ G.R. No. 218193 resolves a Petition for Review on Certiorari
+[3]
+ under Rule 45 of the 1997 Rules of Civil Procedure, praying for the issuance of a temporary restraining order and/or writ of preliminary injunction and the reversal of the Court of Appeals Decision
+[4]
+ in CA-G.R. SP No. 124031.
+ Meanwhile, G.R. No. 213130 is a Petition for Review on Certiorari
+[5]
+ praying for the issuance of a temporary restraining order and/or writ of preliminary injunction and the reversal of the Court of Appeals Decision
+[6]
+ in CA-G.R. SP No. 131991.
+ The antecedents of G.R. No. 218193 are as follows: 
+ College Assurance Plan Philippines, Inc. (CAPPI) is a domestic corporation engaged in the sale of "pre-need educational plans[.]"
+[7]
+ CAPPI owns 86% of the outstanding capital stock of its subsidiary, the Comprehensive Annuity Plans and Pension (CAP Pension).
+[8]
+ 
+ On August 26, 2005, CAPPI filed a Petition for Rehabilitation before the Makati Regional Trial Court.
+[9]
+ Finding the petition sufficient in form and substance, the Regional Trial Court, in its capacity as a rehabilitation court,
+[10]
+ issued a Stay Order on September 13, 2005.
+[11]
+ On October 17, 2005, the Securities and Exchange Commission filed its Comment opposing CAPPI's rehabilitation.
+[12]
+The rehabilitation court gave due course to CAPPI's Petition for Rehabilitation on December 16, 2005 and referred the case to a receiver.
+[13]
+ 
+ On May 8, 2006, Interim Rehabilitation Receiver Mamerto A. Marcelo (Rehabilitation Receiver Marcelo) submitted au Evaluation Report stating that CAPPI's 2006 Revised Rehabilitation Plan was a "more conservative and realistic approach to rehabilitation."
+[14]
+ On November 8, 2006, the rehabilitation court approved CAPPI's revised Rehabilitation Plan through a Resolution.
+[15]
+ Its dispositive portion partly provides: 
+ 
+ WHEREFORE, premises considered, this court hereby APPROVES the revised Rehabilitation Plan of petitioner subject to the following terms and conditions:
+ 
+ For the Board of Directors, Stockholders and Officers of petitioner:
+ 
+ 
+ . . . .
+ 
+ b. They are hereby ordered to dispose and sell all these subsidiaries and affiliates not later than December 31, 2008, listed in page 7 of the audited financial statements issued by San Buenaventura & Co., CPAs for year ending December 31, 2004. 
+ 
+ . . . .
+ 
+ 
+ SO ORDERED.
+[16]
+ 
+ 
+ The Securities and Exchange Commission did not move for reconsideration of the rehabilitation court's Resolution.
+[17]
+ Meanwhile, Republic Act No. 9829 or the Pre-Need Code of the Philippines took effect on December 4, 2009
+[18]
+ Pursuant to Section 5
+[19]
+ and Section 49
+[20]
+ of the law, the Insurance Commission sent a letter to CAP Pension on June 28, 2010, directing its President to "show cause why the company should not be put under conservatorship."
+[21]
+ Receiving no response, the Insurance Commission informed the Board of Directors of CAP Pension that the corporation was placed under conservatorship and that a conservator had been designated on September 13, 2010.
+[22]
+ CAPPI filed an Urgent Motion to Enforce Stay Order dated April 12, 2011 before the rehabilitation court.
+[23]
+ The rehabilitation court issued an April 15, 2011 Order,
+[24]
+ reiterating its jurisdiction over CAPPI and all its assets, including CAP Pension, through the approved rehabilitation plan. In the same Order, the Court directed CAPPI to inform the court "on how to handle the issue of the management and/or sale of [CAP Pension]."
+[25]
+ 
+ Thereafter, the Rehabilitation Receiver and the Philippine Veterans Bank (PVB), as trustee of CAPPI, filed a Manifestation and Motion on May 3, 2011 praying for the "payment of the expenses and fees [to the planholders] . . . from the proceeds of the sale of the properties of the companies controlled by CAP Pension."
+[26]
+ On May 23, 2011, the Insurance Commission filed a Motion for Reconsideration with Comment/Opposition assailing the April 15, 2011 Order and praying for the denial of the Receiver and PVB's Manifestation and Motion.
+[27]
+ The rehabilitation court granted the Rehabilitation Receiver and PVB's Manifestation and Motion on June 17, 2011.
+[28]
+ In a December 12, 2011 Order,
+[29]
+ the rehabilitation court denied the Insurance Commission's Motion for Reconsideration with Comment/Opposition.
+[30]
+ Aggrieved, the Insurance Commission and the Securities and Exchange Commission filed a Petition for Certiorari before the Court of Appeals assailing the rehabilitation court's orders.
+[31]
+ The Petition was docketed as CA-G.R. SP No. 124031.
+ In its April 28, 2015 Decision,
+[32]
+ the Court of Appeals dismissed the Insurance Commission's petition. The Court of Appeals found that the rehabilitation court did not gravely abuse its discretion,
+[33]
+ as it "validly acquired jurisdiction over CAP Pension ahead of the Insurance Commission when it granted CAP's Petition for Rehabilitation[.]"
+[34]
+ The dispositive portion of the Court of Appeals Decision reads: 
+ 
+ 
+ WHEREFORE
+, in view of the foregoing, this Petition for Certiorari is hereby 
+DISMISSED
+.
+ 
+ 
+ SO ORDERED.
+[35]
+ (Emphasis in the original)
+ 
+ 
+ Hence, this Petition (With Urgent Prayer for the Issuance of a Temporary Restraining Order and/or Writ of Preliminary Injunction)
+[36]
+ was filed on July 3, 2015.
+ G.R. No. 213130 involves the rehabilitation court's extension of CAPPI's rehabilitation period and the modification of the revised rehabilitation plan.
+ Based on the same facts, CAPPI filed a Motion for Extension and Modification of the Rehabilitation Plan on September 21, 2012 before the rehabilitation court. It prays for an extension of the rehabilitation until 2021.
+[37]
+ Conferences were held to discuss the viability of the extension. In CAPPI's proposed 2012 Revised Rehabilitation Plan, it was stated that a developer is interested in CAPPI's idle real properties.
+[38]
+ The Insurance Commission and Securities and Exchange Commission opposed CAPPI's motion, arguing that the 2012 Revised Rehabilitation Plan is speculative, erroneously involves CAP Pension's properties, and may be prejudicial to the interest of CAP Pension's planholders.
+[39]
+ In a September 5, 2013 Order, the rehabilitation court granted CAPPI's motion and approved the 2012 Revised Rehabilitation Plan. 
+ 
+ WHEREFORE, premises considered, the Motion for the Extension and Modification of the Rehabilitation Plan filed by petitioner is hereby GRANTED.
+ 
+ The 2012 Revised Rehabilitation Plan as embodied in the Compliance dated December 5, 2012 is hereby APPROVED, which is good for a period of three (3) years, unless sooner terminated by this court for good reason. The same is likewise subject to yearly review to ensure compliance with all the terms and conditions of the plan. Accordingly, the rehabilitation of petitioner College Assurance Plan Philippines, Inc. is hereby extended for a period of three (3) years from date hereof.
+ 
+ SO ORDERED.
+[40]
+ 
+ 
+ Assailing the order of the rehabilitation court, the Insurance Commission and the Securities and Exchange Commission filed a Petition for Certiorari
+[41]
+ with the Court of Appeals docketed as CA-G.R. SP. No. 131991.
+ In its June 18, 2014 Decision,
+[42]
+ the Court of Appeals dismissed the Petition and ruled that under Rule 3, Section 12 of the 2008 Rules of Procedure on Corporate Rehabilitation, the Rehabilitation Receiver has the power to recommend amendments or modifications to the approved rehabilitation plan.
+[43]
+ The approval of these recommendations is left to the discretion of the rehabilitation court, pursuant to Section 22 of the same Rule.
+[44]
+ According to the Court of Appeals, the designated Rehabilitation Receiver, after having evaluated the proposed Redevelopment Project, financial projections, draft Memorandum of Agreement, Lease Agreement, and Joint Development Agreement, recommended the extension of the rehabilitation plan to three years only, subject to an annual review. The Receiver rejected the proposal to extend it until 2021. Thus, the rehabilitation court made its own assessment and found no sufficient ground for the disapproval of the request for extension of the rehabilitation plan.
+[45]
+ The dispositive portion of the Court of Appeals Decision reads: 
+ 
+ 
+WHEREFORE
+, premises considered, the instant petition is 
+DISMISSED
+ for lack of merit Accordingly, the assailed order dated September 5, 2013 of the court a quo is 
+AFFIRMED
+.
+ 
+ 
+SO ORDERED.
+[46]
+ (Emphasis in the original)
+ 
+ 
+ Hence, petitioners Insurance Commission and Securities and Exchange Commission filed this Petition for Review
+[47]
+ on August 14, 2014.
+[48]
+ In an August 18, 2014 Resolution,
+[49]
+ this Court, through the Second Division, issued a temporary restraining order enjoining the Court of Appeals, CAPPI, its agents, representatives or other persons acting on its behalf, from implementing the Court of Appeals' June 18, 2014 Decision in CA-G.R. SP No. 131991.
+[50]
+ In the same Resolution, CAPPI was required to file its Comment on the Petition within 10 days from notice thereof.
+[51]
+ The Second Division issued a September 8, 2014 Resolution
+[52]
+ transferring this case to the First Division.
+ On September 11, 2014, CAPPI filed a Motion for Reconsideration
+[53]
+ (with Urgent Motion to Lift Temporary Restraining Order) of the August 18, 2014 Resolution.
+[54]
+ 
+ Requesting for an additional period of 10 days, CAPPI filed a Motion for Extension
+[55]
+ to file its comment on the Petition for Review on September 19, 2014. CAPPI eventually filed its Comment
+[56]
+ on October 1, 2014.
+[57]
+ 
+ The Securities and Exchange Commission and the Insurance Commission filed their Reply
+[58]
+ on April 6, 2015.
+[59]
+ In a July 29, 2015 Resolution,
+[60]
+ this Court transferred this case to the Third Division.
+ On August 13, 2015, Rehabilitation Receiver Marcelo filed a July 29, 2015 Urgent Motion for Approval to Sell Property.
+[61]
+ 
+ On October 13, 2015, CAPPI filed a Manifestation with Urgent Motion to Resolve,
+[62]
+ manifesting that the 2012 Rehabilitation Plan "provides for the growth of CAP's existing P3.9 billion Trust Fund to P11.737 billion over a period of [25] years[,]"
+[63]
+ and praying for the lifting of the restraining order as well as the resolution of the Petition. 
+ In an October 21, 2015 Resolution,
+[64]
+ the Third Division of this Court referred these cases to the Raffle Committee in view of Justice Francis H. Jardeleza's inhibition due to his prior participation in the case as Solicitor General.
+ On November 9, 2015, CAPPI filed an Urgent Motion to Resolve (Re: Rehabilitation Receiver's Urgent Motion to Sell Property dated 29 July 2015).
+[65]
+ In a November 25, 2015 Resolution,
+[66]
+ this Court, through the Second Division, required the parties to file their Comment on the Urgent Motion to Sell Property filed by the counsel for Rehabilitation Receiver Marcelo within 10 days from notice thereof.
+ On February 1, 2016, CAPPI filed its Comment (Re: Rehabilitation Receiver's July 29, 2015 Urgent Motion for Approval to Sell Property),
+[67]
+ arguing that the sale of the property is not in pursuit of the 2012 Revised Rehabilitation Plan. Allegedly, the restraining order enjoins the implementation of the 2012 Revised Rehabilitation Plan.
+[68]
+ On February 3, 2016, the Office of the Solicitor General, counsel for Securities and Exchange Commission and Insurance Commission, filed a Motion for Extension of Time to File Comment
+[69]
+ on the Urgent Motion for Approval to Sell Property filed by the Rehabilitation Receiver, requesting for an additional period of 15 days.
+ The Securities and Exchange Commission and Insurance Commission filed their Comment
+[70]
+ on the Rehabilitation Receiver's Urgent Motion for Approval to Sell Property on February 17, 2016.
+[71]
+ The First Division of this Court, in a July 13, 2015 Resolution,
+[72]
+ resolved to consolidate G.R. No. 218193, 
+Insurance Commission v. College Assurance Plan Philippines, Inc.
+, with G.R. No. 213130, 
+Securities and Exchange Commission and Insurance Commission v. College Assurance Plan Philippines, Inc.
+ of the Third Division and referred the consolidated case to the Member-in-Charge of the lower-numbered case, G.R. No. 213130.
+ This Court then required CAPPI to file its Comment within 10 days from notice thereof in a November 25, 2015 Resolution.
+[73]
+ CAPPI filed several motions for extension,
+[74]
+ which was granted by this Court's Second Division in a June 1, 2016 Resolution.
+[75]
+ CAPPI was granted a total of 55 days or until February 21, 2016 within which to file its comment. CAPPI filed its Comment
+[76]
+ on March 28, 2016.
+ On August 14, 2017, the Court issued a Resolution
+[77]
+ transferring G.R. No. 213130 and 218193 to the Third Division.
+ On April 17, 2018, the Insurance Commission and Securities and Exchange Commission filed a Motion for Extension of Time to File Reply,
+[78]
+ requesting for an extension of 30 days within which to file their reply.
+ The Insurance Commission filed its Reply
+[79]
+ on May 21, 2018.
+ Petitioner Insurance Commission in its Petition for Review
+[80]
+ in G.R. No. 218193, argues that the Court of Appeals erred in ruling that the rehabilitation court did not commit grave abuse of discretion when "it assumed that the assets of CAP Pension are under 
+custodia legis
+, thereby disregarding the distinct and separate personality of [CAP Pension] apart from respondent [CAPPI]."
+[81]
+ It adds that the Court of Appeals disregarded petitioner's authority as regulator of pre-need companies;
+[82]
+ and "restrained petitioner's actions over CAP Pension despite their co-equal status."
+[83]
+ Petitioner prays for the issuance of a temporary restraining order and/or writ of preliminary injunction to prevent the depletion of assets of CAP Pension during the pendency of the petition.
+[84]
+ 
+ In its Comment,
+[85]
+ respondent CAPPI counters that the petition is a "mere rehash" of the arguments previously passed upon by the Court of Appeals.
+[86]
+ It contends that the distinct and separate personality of CAP Pension from CAPPI was not disregarded, but was expressly recognized by the Court of Appeals. The Court of Appeals ruled that the rehabilitation court acquired jurisdiction over CAP Pension through its order to sell CAP Pension, and not because it is a subsidiary of the corporation under rehabilitation.
+[87]
+ Respondent asserts that the resolution of the court approving the Rehabilitation Plan containing such directive had long become final and executory.
+[88]
+ 
+ Respondent conceded that the petitioner has exclusive supervision and regulation of pre-need companies. However, according to the respondent, it can no longer place CAP Pension under conservatorship because the rehabilitation court had acquired prior jurisdiction over the corporation.
+[89]
+ Moreover, respondent asserts that even if the rehabilitation court and the petitioner are of co-equal status, "where two or more courts have concurrent jurisdiction, the first to validly acquire it takes it to the exclusion of the other or the rest."
+[90]
+ Thus, the rehabilitation court has validly acquired jurisdiction over CAP Pension, to the exclusion of the petitioner.
+[91]
+ Finally, it claims none of the requisites for the issuance of a temporary restraining order or writ of preliminary injunction is allegedly present.
+ In its Reply,
+[92]
+ petitioner contends that an exception to the general rule of immutability of judgment is present. Petitioner avers that the circumstances of this case render the execution of the assailed orders "unjust and inequitable
+[93]
+ Congress enacted Republic Act No. 9829 which is curative and remedial in nature, effectively "remov[ing] CAP Pension from the supposed 
+custodia legis 
+of the rehabilitation court[;]"
+[94]
+ and CAP Pension suffered impairments in its capital, trust fund reserve, and insurance premium fund which necessitated the conservatorship proceeding.
+[95]
+ In G.R. No. 213130, petitioners Securities and Exchange Commission and Insurance Commission in their Petition for Review
+[96]
+ contend that the rehabilitation plan must be "logical, feasible, and founded on legitimate projections."
+[97]
+ They claim that the Court of Appeals seriously erred when it affirmed the order of the rehabilitation court granting the extension of the rehabilitation period and modifying the rehabilitation plan.
+ Petitioners allege that the 2012 Revised Rehabilitation Plan is "incomplete and speculative"
+[98]
+ as respondent CAPPI did not provide details showing that the planned ventures shall be profitable.
+[99]
+ They aver that the rehabilitation plan included properties of CAP Pension,
+[100]
+ which has a separate and distinct personality from its stockholders and other corporations to which it may be connected.
+[101]
+ Moreover, they claim the approval of the 2012 Revised Rehabilitation Plan, which involves the properties of CAP Pension, preempts the resolution in CA-G.R. SP No. 122979 which involves the determination of the rehabilitation court's jurisdiction over CAP Pension.
+[102]
+ Petitioners aver that the Court of Appeals erred in ruling that they failed to show how the properties of CAP Pension are substantial enough to affect the projections in the rehabilitation plan. Further, they claim it was respondent who failed to specify the properties of CAP Pension which shall be part of the redevelopment project.
+[103]
+ Petitioners pray for the issuance of a temporary restraining order and/or writ of preliminary injunction enjoining the enforcement of the assailed Decision of the Court of Appeals, alleging that the implementation of the 2012 Revised Rehabilitation Plan will cause irreparable and serious damage to the planholders and undermine the authority of the Insurance Commission over CAP Pension.
+[104]
+ In its Comment,
+[105]
+ respondent CAPPl counters that it has complied with the requirements of the law and the orders of the rehabilitation court in order to protect the interests of its planholders.
+[106]
+ According to respondent, the factual findings of the rehabilitation court, which was designated by this Court as a special commercial court, are entitled to great weight and respect.
+[107]
+ They claim none of the exceptions to the rule that only questions of law are reviewable by this Court was alleged by petitioners.
+[108]
+ Respondent notes that when it moved for the extension of the approved rehabilitation plan before the rehabilitation court, it attached projections demonstrating the feasibility of the Revised Rehabilitation Plan. Curiously, these were withheld by the petitioners in their present petition. Moreover, conferences were conducted where representatives of petitioners were present.
+[109]
+ Over the opposition of the petitioners, respondents claim that the Rehabilitation Receiver found the Revised Rehabilitation Plan as most beneficial to the planholders.
+[110]
+ Further, respondent asserts that all of the properties in the Revised Rehabilitation Plan belong to them, and none belongs to CAP Pension.
+[111]
+ Thus, respondent claims the Revised Rehabilitation Plan is the most beneficial option for the planholders.
+[112]
+ In their Reply,
+[113]
+ petitioners argue that as an exception, this Court can entertain questions of fact in a Rule 45 petition when the findings are grounded entirely on speculation, surmises, or conjectures. In this case, they claim that the Revised Rehabilitation Plan is incomplete and speculative.
+[114]
+ Further, petitioners argue that this case calls for a relaxation of the Rules as they are government agencies mandated to regulate pre-need corporations.
+[115]
+ Petitioners highlight how respondent admitted that it intends to include the properties of CAP Pension in future ventures. They claim this proposal is premature as it preempts the ruling of the Court of Appeals in CA-G.R. SP No. 122979.
+[116]
+ Petitioners maintain that the identity of the "developer" was not divulged and no evidence was submitted showing the profitability of the planned ventures.
+[117]
+ Moreover, they assert that projections in the Revised Rehabilitation Plan were premised on an extension of the plan for 10 years.
+[118]
+ However, the rehabilitation court approved an extension of only three (3) years which obviously would not bring about the projections originally foreseen in the Revised Rehabilitation Plan.
+[119]
+ For this Court's resolution are the issues of (1) whether or not the rehabilitation court acquired jurisdiction over CAP Pension and its assets (in G.R. No. 218193); and (2) whether or not the rehabilitation court erred in granting the extension of CAPPI's rehabilitation period (in G.R. No. 213130).
+ Assailed in the Petition in G.R. No. 218193 is the Court of Appeals' April 28, 2015 Decision in CA-G.R. SP No. 124031, affirming the April 15, 2011 and December 12, 2011 Orders of the Regional Trial Court of Makati City, Branch 149 in the rehabilitation proceedings
+[120]
+ of respondent.
+ The April 15, 2011 and December 12, 2011 Orders of the rehabilitation court affirmed its jurisdiction over CAP Pension and its assets acquired through the November 8, 2006 Resolution (2006 Resolution).
+[121]
+ We grant the petition. The reliance of the courts below in the 2006 Resolution is misplaced.
+ 
+I
+ 
+ The 2006 Resolution did not place CAP Pension and its assets under 
+custodia legis
+.
+ The rehabilitation court, as affirmed by the Court of Appeals, found that the order to sell and dispose of CAP Pension, "stemmed from the fact that it is one of the indicated sources of funds of [respondent] for its rehabilitation and that 86% of CAP Pension's outstanding stock is owned by [respondent]."
+[122]
+ The Court of Appeals in its assailed decision held that "CAP Pension is covered by the Makati RTC's directive and was effectively placed under 
+custodia legis
+ upon the issuance of the November 8, 2006 Resolution."
+[123]
+ To recall, in its 2006 Resolution, the rehabilitation court ordered the Board of Directors, stockholders, and officers of respondent "to dispose and sell all these subsidiaries and affiliates not later than December 31, 2008," among which is CAP Pension, as part of respondent's revised Rehabilitation Plan.
+[124]
+ Petitioners contend that the directive should be interpreted as an order for respondent to sell its 
+equities 
+in CAP Pension, as stated in the proposed Rehabilitation Plan.
+[125]
+ It insists that the separate and distinct personality of CAP Pension precludes the sale of the whole company.
+[126]
+ Respondent counters that the dispositive portion controls and CAP Pension along with its assets had long been under the rehabilitation court's jurisdiction.
+[127]
+ Petitioners' contention is meritorious.
+ Well-settled is the rule that "a corporation has a personality separate and distinct from that of its individual stockholders."
+[128]
+ This separate personality allows the corporation to acquire properties in its own name and incur obligations. A stockholder owning all or nearly all the capital stock of a corporation is not a ground to disregard a corporation's personality.
+[129]
+ There are stark differences between the businesses of respondent and CAP Pension. Respondent corporation was a pioneer in the pre-need industry in selling educational plans which guaranteed the planholders' payment for tuition and other school fees.
+[130]
+ On the other hand, CAP Pension, respondent's subsidiary, sold pre-need plans for other purposes: "(1) [p]ost-graduate funds; (2) [starting] a business; (3) [a]dditional income during the children's growing-up years; (4) [b]uilding up one's estate; (5) [f]unds for eventual retirement; (6) [a]ugment other pension/retirement benefits; and (7) [f]unds for final expenses."
+[131]
+ Needless to state, each corporation has a distinct personality, does business separately, and has its own clientele of planholders.
+ 
+The subsidiary is not a mere asset of the parent corporation.
+ "If used to perform legitimate functions, a subsidiary's separate existence may be respected, and the liability of the parent corporation as well as the subsidiary will be confined to those arising in their respective business."
+[132]
+ Respondent does not dispute that CAP Pension is its subsidiary
+[133]
+ that has a separate and distinct personality.
+[134]
+ Likewise, undisputed is CAP Pension's performance of a legitimate function. Thus, CAP Pension may own properties and incur liabilities independently of its parent corporation. As a subsidiary, it is not liable for the obligations of respondent parent corporation.
+ Thus, it was incorrect for respondent to claim and the courts below to rule that "CAP Pension's assets were deemed under 
+custodia legis
+. . . because it was directed in the November 8, 2006 Resolution for 
+CAP Pension and its assets
+ to be deemed as such."
+[135]
+ The 2006 Resolution cannot operate to place CAP Pension under the rehabilitation court's 
+custodia legis
+, having full rein over its assets. This treated respondent and CAP Pension as one, rendering nugatory the separate and distinct personality of each corporation. It was likewise erroneous to consider the assets of CAP Pension as commingled with respondent's.
+ The order in the 2006 Resolution can only mean that the Board of Directors, stockholders, and officers of respondent corporation were directed to sell its 
+equities
+ in CAP Pension.
+ Equity represents ownership interest in a business.
+[136]
+ The sale of equity will neither significantly alter the corporation nor meddle in its affairs, but will involve a change in its ownership. As it was respondent CAPPI that was under rehabilitation and not CAP Pension, the rehabilitation court could not have validly ordered the CAP Pension's sale as if it was one of respondent's assets to be disposed. On the other hand, respondent's sale of its equities in CAP Pension shall generate needed funds for its rehabilitation. This reading of the 2006 Resolution is more in accord with law and respects the separate personalities of each corporation.
+ Moreover, the evidence on record supports this claim. Respondent, in its Petition for Rehabilitation,
+[137]
+ filed before the Regional Trial Court
+[138]
+ the proposed Rehabilitation Plan
+[139]
+ and Consolidated Response to the comments of stakeholders,
+[140]
+ and the Rehabilitation Receiver's Evaluation,
+[141]
+ all intended the sale of respondent's 
+equity
+ in its subsidiaries and affiliate.
+ Thus, CAP Pension retained a personality separate and distinct from respondent throughout its rehabilitation proceedings. The 2006 Resolution placed neither CAP Pension nor its assets under 
+custodia legis
+. Neither could the rehabilitation court hold CAP Pension personally liable for the obligations of its parent corporation.
+ 
+I (A)
+ 
+ Separating CAP Pension's conservatorship from respondent's rehabilitation is vital. Apart from their separate and distinct personalities, with each having its own assets and liabilities, the corporations' remedies of conservatorship and rehabilitation are under two separate jurisdictions.
+ Rehabilitation is a remedy availed by financially distressed corporations "to gain a new lease on life[.]"
+[142]
+ This was thoroughly discussed in 
+Viva Shipping Lines, Inc. v. Keppel Philippines Mining, Inc
+.:
+[143]
+ 
+ 
+ Corporate rehabilitation is a remedy for corporations, partnerships, and associations "who foresee the impossibility of meeting their debts when they respectively fall due." A corporation under rehabilitation continues with its corporate life and activities to achieve solvency, or a position where the corporation is able to pay its obligations as they fall due in the ordinary course of business. Solvency is a state where the businesses' liabilities are less than its assets.
+ 
+ . . . .
+ 
+ The rationale in corporate rehabilitation is to resuscitate businesses in financial distress because "assets are often more valuable when so maintained than they would be when liquidated." Rehabilitation assumes that assets are still serviceable to meet the purposes of the business. The corporation receives assistance from the court and a disinterested rehabilitation receiver to balance the interest to recover and continue ordinary business, all the while attending to the interest of its creditors to be paid equitably. These interests are also referred to as the rehabilitative and the equitable purposes of corporate rehabilitation.
+ 
+ The nature of corporate rehabilitation was thoroughly discussed in 
+Pryce Corporation v. China Banking Corporation
+:
+ 
+ 
+ Corporate rehabilitation is one of many statutorily provided remedies for businesses that experience a downturn. Rather than leave the various creditors unprotected, legislation now provides for an orderly procedure of equitably and fairly addressing their concerns. Corporate rehabilitation allows a court-supervised process to rejuvenate a corporation. It provides a corporation's owners a sound chance to reengage the market, hopefully with more vigor and enlightened services, having learned from a painful experience.
+ 
+ Necessarily, a business in the red and about to incur tremendous losses may not be able to pay all its creditors. Rather than leave it to the strongest or most resourceful amongst all of them, the state steps in to equitably distribute the corporation's limited resources.
+ 
+ . . . .
+ 
+ Rather than let struggling corporations slip and vanish, the better option is to allow commercial courts to come in and apply the process for corporate rehabilitation.
+ 
+ 
+ 
+Philippine Bank of Communications v. Basic Polyprinters and Packaging Corporation
+ reiterates that courts "must endeavor to balance the interests of all the parties that had a stake in the success of rehabilitating the debtors." These parties include the corporation seeking rehabilitation, its creditors, and the public in general.
+ 
+ The public's interest lies in the court's ability to effectively ensure that the obligations of the debtor, who has experienced severe economic difficulties, are fairly and equitably served. The alternative might be a chaotic rush by all creditors to file separate cases with the possibility of different trial courts issuing various writs competing for the same assets. Rehabilitation is a means to temper the effect of a business downturn experienced for whatever reason. In the process, it gives entrepreneurs a second chance. Not only is it a humane and equitable relief, it encourages efficiency and maximizes welfare in the economy.
+[144]
+ (Emphasis in the original, citations omitted)
+ 
+ 
+ At the time respondent's petition for corporate rehabilitation was filed before the trial court, Presidential Decree No. 902-A and the Interim Rules of Procedure on Corporate Rehabilitation were in effect. Under these laws, rehabilitation was a court-supervised proceeding. This Court has previously taken cognizance of respondent's rehabilitation in 
+Abrera v. Barza
+[145]
+ where we held that the judge in Sp. Proc. No. M-6144, respondent's rehabilitation proceedings, did not gravely abuse his discretion in issuing the Order giving due course to respondent's petition for rehabilitation. In fact, respondent's rehabilitation has been ongoing, under the jurisdiction of the Regional Trial Court of Makati City, Branch 149, prior to this Court's issuance of a temporary restraining order on August 18, 2014.
+[146]
+ On the other hand, CAP Pension's conservatorship is in the exercise of the Insurance Commission's authority under Republic Act No. 9829. Under this law, the Insurance Commission has the authority to place a pre-need corporation under conservatorship should circumstances warrant it.
+[147]
+ In
+ Garcia v. NLRC
+:
+[148]
+ 
+ 
+ Conservatorship proceedings against a financially distressed insurance company are statutory in nature and are resorted to only if and 
+when the Insurance Commissioner finds that such company is in a state of continuing inability or unwillingness to maintain a condition of solvency or liquidity deemed adequate to protect the interest of policyholders and creditors
+. In other words, the insurance company placed under conservatorship is facing financial difficulties which require the appointment of a conservator to take charge of its assets, liabilities, and management aimed at preserving its assets and restoring its viability as a going business enterprise.
+ 
+ . . . .
+ 
+ The power of the Insurance Commissioner with respect to the statutory proceedings against insolvent or delinquent insurer is of general public concern, to which contract and property rights must yield.
+ 
+ Essentially, conservatorship under Section 248 of the Insurance Code is in the nature of rehabilitation proceedings. As such, the conservator may only act with the approval of the Insurance Commissioner with respect to the major aspects of rehabilitation.
+[149]
+ (Emphasis supplied, citations omitted)
+ 
+ 
+ Although of a similar nature, rehabilitation and conservatorship fall under different jurisdictions and are governed by different laws. While rehabilitation in this case was supervised by a trial court sitting as a commercial court, conservatorship was to be under the Insurance Commission's jurisdiction.
+ Respondent's rehabilitation is diametrically inconsistent with CAP Pension's conservatorship as it treats the latter as a mere asset to be disposed in furtherance of its rehabilitation. It has no regard to CAP Pension's financial infirmities and the protection of its planholders, which the conservatorship proceedings shall undertake. The conservator's mandate shall be impossible to fulfill if this Court affirms the rehabilitation court's ruling that CAP Pension and its assets were deemed under 
+custodia legis
+. As CAP Pension's assets have been corralled solely to rehabilitate respondent corporation, its planholders were left with no recourse as respondent was given full rein over the corporation's assets. This Court cannot condone this.
+ 
+II
+ 
+ The doctrine of immutability of judgment does not apply whenever circumstances transpire after the finality of the decision rendering its execution unjust and inequitable.
+[150]
+ Respondent harps on the finality of the 2006 Resolution, averring that the placing of CAP Pension and its assets in 
+custodia legis
+ cannot be reviewed or modified under the doctrine of immutability of judgment.
+[151]
+ "[J]udgment that lapses into finality becomes immutable and unalterable."
+[152]
+ Consequently, it may no longer be amended. In 
+Mercury Drug Corp. v. Spouses Huang
+:
+[153]
+ 
+ 
+ It is a fundamental principle that a judgment that lapses into finality becomes immutable and unalterable. The primary consequence of this principle is that the judgment may no longer be modified or amended by any court in any manner even if the purpose of the modification or amendment is to correct perceived errors of law or fact. This principle known as the doctrine of immutability of judgment is a matter of sound public policy, which rests upon the practical consideration that every litigation must come to an end.
+ 
+ The rationale behind the rule was further explained in 
+Social Security System v. Isip
+, thus:
+ 
+ 
+ The doctrine of immutability and inalterability of a final judgment has a two-fold purpose: (1) to avoid delay in the administration of justice and thus, procedurally, to make orderly the discharge of judicial business and (2) to put an end to judicial controversies, at the risk of occasional errors, which is precisely why courts exist. Controversies cannot drag on indefinitely. The rights and obligations of every litigant must not hang in suspense for an indefinite period of time.
+[154]
+ (Citations omitted)
+ 
+ 
+ 
+ However, the doctrine of immutability of judgment admits of exceptions: 
+ 
+ (1) The correction of clerical errors; 
+ (2) The so-called 
+nunc pro tunc 
+entries which cause no prejudice to any party; 
+ (3) Void judgments; and 
+ (4) Whenever circumstances transpire after the finality of the decision rendering its execution unjust and inequitable.
+[155]
+ (Citation omitted)
+ 
+ 
+ Petitioner claims the last exception applies here. It cited two events which allegedly rendered the execution of the 2006 Resolution unjust and inequitable: (1) Congress enacted Republic Act No. 9829 or the 
+Pre-Need Code of the Philippines
+; and (2) CAP Pension suffered impairments in its capital, Trust Fund reserve liability, and Insurance Premium Fund.
+[156]
+ II (A)
+ 
+ The remedial and curative character of Republic Act No. 9829 does not extend to the issue of jurisdiction.
+ Petitioner posits that the enactment of the Republic Act No. 9829 divested the rehabilitation court of its 
+supposed
+ jurisdiction over CAP Pension,
+[157]
+ as the curative and remedial character of the law has been recognized in 
+Securities and Exchange Commission v. Laigo
+.
+[158]
+ Jurisdiction is conferred by law.
+[159]
+ Well-settled is the principle that once jurisdiction is acquired, that jurisdiction is retained until the case 1s terminated. This was first enunciated in 
+People v. Pegarum
+:
+[160]
+ 
+ 
+ [J]urisdiction of a court depends upon the state of the facts existing at the time it is invoked, and if the jurisdiction once attaches to the person and subject matter of the litigation, the subsequent happening of events, although they are of such a character as would have prevented jurisdiction from attaching in the first instance, will not operate to oust jurisdiction already attached.
+[161]
+ 
+ 
+ Once attached, jurisdiction is not divested even by a subsequent statute transferring jurisdiction over such proceedings in another tribunal.
+[162]
+ "The exception to the rule is where the statute expressly provides, or is construed to the effect that it is intended to operate as to actions pending before its enactment."
+[163]
+ Thus, a statute which has no retroactive effect as to jurisdiction may not be applied to a pending case upon its enactment.
+[164]
+ Republic Act No. 9829 granted the Insurance Commission the primary and exclusive supervision and regulation over all pre-need companies. Section 5 of the law is explicit: 
+ 
+ SECTION 5. 
+Supervision
+. â All pre-need companies, as defined under this Act, shall be under the primary and exclusive supervision and regulation of the Insurance Commission. The Commission is hereby authorized to provide for its reorganization, to streamline its structure and operations, upgrade its human resource component to enable it to effectively and efficiently perform its functions and exercise its powers under this Code.
+ 
+ 
+ However, this Court cannot subscribe to the position that jurisdiction as provided in Republic Act No. 9829 should be applied retroactively. The remedial and curative character of Republic Act No. 9829 recognized in
+ Laigo
+ does not extend to the issue of jurisdiction.
+ First, a plain reading of the text of Republic Act No. 9829 shows that the transfer of jurisdiction over pre-need companies from the Securities and Exchange Commission to the Insurance Commission cannot be applied retroactively to pending cases.
+ Prior to the enactment of Republic Act No. 9829, Republic Act No. 8799 or the Securities Regulation Code governed pre-need plans. The Securities and Exchange Commission was then the agency mandated to prescribe rules and regulations governing the pre-need industry.
+[165]
+ On December 4, 2009, Republic Act No. 9829 took effect, granting the Insurance Commission the primary and exclusive supervision and regulation over all pre-need companies.
+[166]
+ However, section 57 of Republic Act No. 9829 reads: 
+ 
+ SECTION 57. 
+Transitory Provisions
+. â Any pre-need company who, at the time of the effectivity of this Code has been registered and licensed to sell pre-need plans and similar contracts, shall be considered registered and licensed under the provision of this Code and its implementing rules and regulations and shall be subject to and governed by the provisions hereof[.]
+ 
+ The Commission shall constitute forthwith a special team of experts to handle all matters related to the pre-need industry and shall secure and transfer all the files and records of the SEC to the Insurance Commission within ninety (90) days after the effectivity of this Code.
+ 
+ 
+Notwithstanding any provision to the contrary, all pending claims, complaints and cases filed with the SEC shall be continued in its full and final conclusion.
+ It shall also assist the Department of Justice in criminal cases involving matters related to the pre-need industry. (Emphasis supplied)
+ 
+ 
+ Section 57 of Republic Act No. 9829 recognizes the Commission's jurisdiction over all pending proceedings before it and decrees the retention of jurisdiction until final disposition of the cases. Manifest is the adherence to the previously acquired jurisdiction of the Commission over pending claims. Thus, there is no basis for petitioner to claim that jurisdiction under Republic Act No. 9829 may be applied retroactively.
+ Second, petitioner calls this Court's attention to its pronouncement in 
+Laigo
+ that "the primary protection accorded by the Pre-Need Code to the planholders is curative and remedial and, therefore, 
+can be applied retroactively
+."
+[167]
+ We take this opportunity to explain our ruling in that case. 
+ 
+Laigo
+ involves the insolvency proceedings of Legacy Consolidated Plans, Incorporated. The issue was whether Presiding Judge Reynaldo M. Laigo gravely abused his discretion in ordering the inclusion of the trust fund in its corporate assets to the prejudice of the planholders.
+ To support its position, petitioner quotes the following from 
+Laigo
+: 
+ 
+ Finally, it must be stressed that the primary protection accorded by the Pre-Need Code to the planholders is curative and remedial and, therefore, can be applied retroactively. The rule is that where the provisions of a statute clarify an existing law and do not contemplate a change in that law, the statute may be given curative, remedial and retroactive effect. To review, curative statutes are those enacted to cure defects, abridge superfluities, and curb certain evils. As stressed by the Court in
+ Fabian v. Desierto
+,
+ 
+ If the rule takes away a vested right, it is not procedural. If the rule creates a right such as the right to appeal, it may be clarified as a substantive matter; 
+but if it operates as a means of implementing an existing right then the rule deals merely with procedure
+.
+ 
+ . . . .
+ 
+ It has been said that a 
+remedial statute must be so construed as to make it effect the evident purpose for which it was enacted, so that if the reason of the statute extends to past transactions
+, as well as to those in the future, then it will be so applied although the statute does not in terms so direct. . . .
+[168]
+ (Citations omitted, emphasis in the original)
+ 
+ 
+ Omitted in that quotation are the following paragraphs: 
+ 
+ A reading of [Republic Act No. 9829] immediately shows that its provisions operate merely 
+in furtherance of the remedy or confirmation of the right of the planholders to exclusively claim against the trust funds
+ as intended by the legislature. No new substantive right was created or bestowed upon the planholders. Section 52 of [Republic Act No. 9829] only echoes and clarifies the [Securities Regulation Code's] intent to exclude from the insolvency proceeding trust fund assets that have been established "exclusively for the benefit of planholders." It was precisely enacted to foil the tactic of taking undue advantage of any ambiguities in the New Rules.
+ 
+ Any doubt or reservation in this regard has been dispelled by [Republic Act No. 9829.] Section 57 thereof provides that "[a]ny pre-need company who, at the time of the effectivity of this Code has been registered and licensed to sell pre-need plans and similar contracts, shall be considered registered and licensed under the provision of this Code and its implementing rules and regulations and shall be subject to and governed by the provisions hereof[.]" Thus, Legacy and all other existing pre-need companies cannot claim that the provisions of [Republic Act No. 9829] are not applicable to them and to the claims which accrued prior to the enactment of the said law.
+[169]
+ (Emphasis supplied, citations omitted)
+ 
+ 
+ The remedial and curative character of Republic Act No. 9829 pertains to the right of the planholders to claim against the trust fund. This Court in 
+Laigo
+ determined that the paramount consideration in requiring the establishment of a trust fund is the protection of the interests of the planholders in investment plans. What is remedial and curative is this 
+protection
+ to the planholders accorded by Republic Act No. 9829, and not jurisdiction.
+ Thus, the remedial and curative character of Republic Act No. 9829 does not extend to the issue of jurisdiction.
+ 
+II (B)
+ 
+ The execution of the November 8, 2006 Resolution, as interpreted by the rehabilitation court, is unjust and inequitable for CAP Pension's planholders.
+ The petitioner found that CAP Pension's capital stock was impaired by P5,171,390,117.00, its trust fund deficient by P3,136,663,312.00, and the pre-need company did not set up a separate account for the Insurance Premium Fund of P169,453,089.00.
+[170]
+ Respondent claims petitioner's findings relative to CAP Pension's financial condition are irrelevant.
+[171]
+ To reiterate, Republic Act No. 9829 vested petitioner with primary and exclusive supervision and regulation over all pre-need companies.
+[172]
+ In the exercise of its regulatory function, petitioner was constrained to place CAP Pension under conservatorship upon the discovery of the financial infirmities of the pre-need company. The company's distressed state entailed petitioner's intervention to avoid serious peril to its planholders. Per 
+Laigo
+, this protection to the planholders is the primary consideration in the enactment of Republic Act No. 9829. 
+ Republic Act No. 9829 was passed in response to "the chaos confounding the [pre-need] industry at the time."
+[173]
+ The legislation was intended to be a stronger legal framework that shall govern the pre-need industry and primarily protect the rights of the planholders.
+[174]
+ Section 2 declares the policy considerations of the law: 
+ 
+ SECTION 2. 
+Declaration of Policy
+. â It is the policy of the State to 
+regulate the establishment of pre-need companies
+ and to place their operation on sound, efficient and stable basis to derive the optimum advantage from them in the mobilization of savings and to prevent and mitigate, as far as practicable, practices prejudicial to public interest and the protection of planholders.
+ 
+ The State shall hereby regulate, 
+through an empowered agency
+, pre-need companies based on prudential principles to promote soundness, stability and sustainable growth of the pre-need industry.
+[175]
+ (Emphasis supplied)
+ 
+ 
+ The Insurance Commission, as the primary agency governing pre-need companies, should not be restrained from fulfilling its mandate. To rule that CAP Pension was placed under 
+custodia legis
+ by the order of the rehabilitation court is prejudicial to the interests of CAP Pension's planholders. CAP Pension's planholders need protection in the same manner and degree as respondent corporation's planholders who had been amply protected through the rehabilitation proceedings.
+ 
+III
+ 
+ No circumstance exists to reverse the Court of Appeals' affirmation of the rehabilitation plan's extension and modification.
+ Assailed in the Petition in G.R. No. 213130 is the June 18, 2014 Decision of the Court of Appeals in CA-G.R. SP No. 131991, affirming the September 5, 2013 Order of the Regional Trial Court of Makati City, Branch 149 granting respondent's Motion for Extension and Modification of the Rehabilitation Plan. 
+ Petitioners claim that the rehabilitation court erred in approving the 2012 Revised Rehabilitation Plan which extended the period of rehabilitation and modified the rehabilitation plan. Petitioners insist the rehabilitation plan is speculative and incomplete as there were no sufficient evidence showing the profitability of the proposed ventures. Moreover, it allegedly includes CAP Pension's properties and is preemptive of the resolution in CA-G.R SP No. 122979 as the latter involves the determination of the rehabilitation court's jurisdiction over CAP Pension.
+[176]
+ Respondent disputed the claim that the plan is speculative, charging bad faith to petitioner by omitting supporting evidence in the rehabilitation court.
+[177]
+ Respondent counters that there is substantial basis for the rehabilitation plan's extension and modification. It insists that the 2012 plan does not include CAP Pension's properties,
+[178]
+ but admits that it intends to incorporate these assets in future ventures.
+[179]
+ In petitions for review under Rule 45 of the Rules of Court, only questions of law may be raised.
+[180]
+ In 
+Pascual v. Burgos
+: 
+[181]
+ 
+ 
+ The Rules of Court require that only questions of law should be raised in petitions filed under Rule 45. This court is not a trier of facts. It will not entertain questions of fact as the factual findings of the appellate courts are "final, binding[,] or conclusive on the parties and upon this court" when supported by substantial evidence. Factual findings of the appellate courts will not be reviewed nor disturbed on appeal to this court.
+ 
+ However, these rules do admit exceptions. Over time, the exceptions to these rules have expanded. At present, there are 10 recognized exceptions that were first listed in 
+Medina v. Mayor Asistio, Jr.
+:
+ 
+ 
+ (1) When the conclusion is a finding grounded entirely on speculation, surmises or conjectures; (2) When the inference made is manifestly mistaken, absurd or impossible; (3) Where there is a grave abuse of discretion; (4) When the judgment is based on a misapprehension of facts; (5) When the findings of fact are conflicting; (6) When the Court of Appeals, in making its findings, went beyond the issues of the case and the same is contrary to the admissions of both appellant and appellee; (7) The findings of the Court of Appeals me contrary to those of the trial court; (8) When the findings of fact are conclusions without citation of specific evidence on which they are based; (9) When the facts set forth in the petition as well as in the petitioner's main and reply briefs are not disputed by the respondents; a.'ld (10) The finding of fact of the Court of Appeals is premised on the supposed absence of evidence and is contradicted by the evidence on record[.]
+ 
+ 
+ These exceptions similarly apply in petitions for review filed before this court involving civil, labor, tax, or criminal cases.
+ 
+ A question of fact requires this court to review the truthfulness or falsity of the allegations of the parties. This review includes assessment of the "probative value of the evidence presented." There is also a question of fact when the issue presented before this court is the correctness of the lower courts' appreciation of the evidence presented by the parties.
+[182]
+ (Citations omitted)
+ 
+ 
+ A question of fact is involved when "doubt arises as to the truth or falsity of the alleged facts."
+[183]
+ It entails an examination of the evidence on record, which the petitioner is asking this Court to do. The determination whether the rehabilitation plan is speculative and incomplete is a question of fact, involving a reassessment of the rehabilitation court's appreciation of evidence.
+[184]
+ The factual findings of the trial court, as affirmed by the Court of Appeals, are binding on this Court and will not be disturbed on appeal.
+[185]
+ More so if the findings are that of a special commercial court which "has the expertise and knowledge over matters under its jurisdiction and is in a better position to pass judgment thereon."
+[186]
+ Unless there is abuse in the exercise of its authority, the rehabilitation court's findings of fact should be accorded finality.
+ Thus, the petition in G.R. No. 213130 must be denied outright for raising issues that require a review of the evidence.
+ Even assuming the case can be resolved on the merits, the petition should still be denied as no sufficient grounds exist to reverse the decision of the Court of Appeals. The Court of Appeals was categorical on the propriety of the extension and modification of respondent's rehabilitation plan: 
+ 
+ It is clear that under Sections 12, Rule 3 of the 2008 Rules of Procedure on Corporate Rehabilitation that it is within the power of the rehabilitation receiver to recommend amendments or modifications to the approved rehabilitation plan.
+ 
+ 
+ "Rule 3
+ General Provisions 
+ 
+ 
+Section 12.
+ 
+Powers and Functions of Rehabilitation Receiver
+. - x x x x x x x x x
+ 
+ (v) To recommend any modification of an approved rehabilitation plan as he may deem appropriate;"
+ 
+ But whether such recommendation is to be accepted or rejected is subject to the discretion of the rehabilitation court. 
+ 
+ "
+Section 22. 
+Alteration or Modification of Rehabilitation Plan.
+ - An approved rehabilitation plan may, upon motion, be altered or modified if, in the judgement of the court, such alteration or modification is necessary to achieve the desired targets or goals set forth therein." 
+ 
+ The alteration or modification of the approved rehabilitation plan being left to the sole discretion of the court, its decision could not be set aside absent any proof of grave abuse thereof. We find that petitioners failed to establish any such abuse on the part of the respondent. 
+ 
+ In this case, the designated rehabilitation receiver, Mamerto A. Marcelo, Jr., manifested in his comment his approval of the extension and modification sought by respondent [CAPPI] of its approved rehabilitation plan, although he rejected the proposal to extend it all the way until 2021, and suggested to cut it short to just three (3) years, subject to an annual review. The said rehabilitation receiver, taking into consideration the proposed Redevelopment Project, [CAPPI's] / the developer's financial projections, as well as the draft Memorandum of Agreement, Lease Agreement, and Joint Development Agreement, adequately believes that the approval of the 2012 Revised Rehabilitation Plan of [CAPPI] would be for the best interest of the planholders. Having been directly and closely involved in the rehabilitation of [CAPPI] for already quite sometime, the court a quo cannot be faulted if it opted to adopt the recommendation of the rehabilitation receiver. Being appointed by the court, and thus considered as an officer of the court, it is only appropriate that the suggestion of the rehabilitation receiver should be given weight and credence by the court. But the court a quo, in approving the 2012 Revised Rehabilitation Plan of [CAPPI] did not merely rely on the recommendation of the rehabilitation receiver, it made its own assessment and evaluation of the same and even took into account the comments of the petitioners[.]
+[187]
+ (Emphasis in the original)
+ 
+ 
+ This Court finds no reason to disturb these findings.
+ However, the Court of Appeals is incorrect in ruling, "[t]he fact that there are properties owned by CAP Pension which are included in the proposed redevelopment project of respondent [CAPPI] is not a sufficient ground for the disapproval of the request for extension or modification of the rehabilitation plan[.]"
+[188]
+ Again, CAP Pension's assets are not and should not be included in the rehabilitation plan.
+ As a final note, respondent's rehabilitation has yet to be completed since it was initiated in 2005. There had been a full-blown trial before the rehabilitation court which thoroughly assessed all the pieces of evidence presented by the parties. This Court is aware this ruling will affect thousands of planholders. At this point, to dismiss the rehabilitation proceedings because of the erroneous assumption that CAP Pension and its assets were placed under the rehabilitation court's jurisdiction would severely frustrate justice. This ruling is ultimately aimed at protecting the interests of the planholders of both pre-need companies. Thus, petitioner is directed to proceed with the conservatorship proceedings of CAP Pension. Meanwhile, respondent is ordered to continue its rehabilitation efforts to be monitored by the court of origin. 
+ 
+WHEREFORE
+, the Petition in G.R. No. 218193 is 
+GRANTED
+. The assailed April 28, 2015 Decision of the Court of Appeals in CA-G.R. SP No. 124031 is 
+REVERSED
+ and 
+SET ASIDE
+.
+ The Petition in G.R. No. 213130 is 
+DENIED
+. The assailed June 18, 2014 Decision of the Court of Appeals in CA-G.R. SP No. 131991 is 
+AFFIRMED WITH MODIFICATION
+. Respondent College Assurance Plans Philippines, Inc. is permanently 
+ENJOINED 
+from including the properties of Comprehensive Annuity Plans and Pension in its rehabilitation proceedings.
+ The case is 
+REMANDED
+ to the Regional Trial Court, National Capital Judicial Region, Br. 149, Makati City, for its supervision over the implementation of the 2012 Revised Rehabilitation Plan.
+ 
+SO ORDERED.
+ 
+Gesmundo, Carandang, Zalameda
+, and 
+Gaerlan, JJ.
+, concur. 
+[1]
+ 
+Rollo
+ (G.R. No. 218193), p. 488. July 13, 2015 First Division Resolution. 
+[2]
+ Id. at 15 
+ 
+[3]
+ Id. at 10-49.
+ 
+ 
+[4]
+ Id. at 51-65. The Decision dated April 28, 2015 was penned by Associate Justice Ramon A. Cruz and concurred in by Associate Justices Remedios A. Salazar-Fernando (Chairperson) and Marlene Gonzales-Sison of the Second Division of the Court of Appeals, Manila.
+ 
+ 
+[5]
+ 
+Rollo
+ (G.R. No. 213130), pp. 12-52. 
+ 
+[6]
+ Id. at 54-59. The June 18, 2014 Decision was penned by Associate Justice Amelita G. Tolentino and concurred into by Associate Justices Ricardo R. Rosario and Leoncia R. Dimagiba of the Fourth Division of the Court of Appeals Manila. 
+ 
+[7]
+ 
+Rollo
+ (G.R. No. 218193), p. 52. 
+ 
+[8]
+ Id. 
+ 
+[9]
+ Id. 
+ 
+[10]
+ Branch 149, Makati City was designated as a Special Commercial Court pursuant to this Court's A.M. No. 00-11-03-SC (November 21, 2000) and A.M. No. 03-03-03-SC (June 27, 2003), as amended. 
+ 
+[11]
+ 
+Rollo
+ (G.R. No. 218193), p. 52. 
+ 
+[12]
+ Id. at 53. 
+[13]
+ Id. 
+[14]
+ Id. 
+ 
+[15]
+ Id. at 253-268. The Resolution dated November 8, 2006 was penned by Presiding Judge Cesar O. Untalan of Branch 149, Regional Trial Court, Makati City. 
+ 
+[16]
+ Id. at 264-268. 
+[17]
+ Id. at 53-54. 
+[18]
+ Id. at 54. 
+[19]
+ Republic Act No. 9829 (2009), sec. 5 provides: 
+ 
+SECTION 5. 
+Supervision
+. â All pre-need companies, as defined under this Act, shall be under the primary and exclusive supervision and regulation of the Insurance Commission. The Commission is hereby authorized to provide for its reorganization, to streamline its structure and operations, upgrade its human resource component to enable it to effectively and efficiently perform its functions and exercise its powers under this Code. 
+ 
+ 
+ 
+[20]
+ Republic Act No. 9829 (2009), sec. 49 provides: 
+ 
+SECTION 49. 
+Appointment of Conservator.
+ - If at any time before or after the suspension or revocation of the license of a pre-need company as provided in Section 27 hereof, the Commission finds that such company is in a state of continuing inability or unwillingness to comply with the requirements of the Code and/or orders of the Commission, a conservator may be appointed to take charge of the assets, liabilities, and the management of such company, collect all moneys and debts due the company and exercise all powers necessary to preserve the assets of the company, reorganize its management, and restore its viability. The conservator shall have the power to overrule or revoke the actions of the previous management and board of directors of the said company, any provision of law, or of the articles of incorporation or bylaws of the company, to the contrary notwithstanding, and such other powers as the Commission shall deem necessary. The conservator may be another pre-need company, by officer or officers of such company, or any other competent and qualified person, firm or corporation. The remuneration of the conservator and other expenses attendant to the conservation shall be borne by the pre-need company. The conservator shall not be subject to any action, claim or demand by, or liability to, any person in respect of anything done or omitted to be done in good faith in the exercise, or in connection with the exercise, of the powers conferred on the conservator. 
+ 
+ The conservator appointed shall report and be responsible to the Commission until such time as the Commission is satisfied that the pre-need company can continue to operate on its own and the conservatorship shall likewise be terminated should the Commission, on the basis of the report of the conservator or of his own findings, determine that the continuance in business of the pre-need company would be hazardous to planholders and creditors, in which case the provisions of Chapter XVI shall apply. 
+ 
+ 
+ 
+[21]
+ 
+Rollo
+ (G.R. No. 218193), p. 54. 
+ 
+[22]
+ Id. 
+[23]
+ 
+Rollo
+ (G.R. No. 213130), pp. 100-104. 
+ 
+[24]
+ Id. at 25. 
+[25]
+ Id. 
+[26]
+ 
+Rollo
+ (G.R. No. 218193), p. 279. 
+[27]
+ Id. at 54. William Russel L. SobrepeÃ±a filed an Entry of Appearance with Comment and Omnibus Motion "asserting his claim over the assets of CAP Pension." 
+ 
+[28]
+ Id. at 55. The Insurance Commission, together with the SEC, and Sobrepena filed separate Motions for Reconsideration, which were denied by the trial court in a Joint Resolution dated November 3, 2011. The Insurance Commission and the SEC filed a Petition for Certiorari and Prohibition dated January 13, 2012 before the Court of Appeals. The Petition assailed the trial court's June 17, 2011 Order and Joint Resolution dated November 3, 2011. The Petition was docketed as CA-G.R. SP No. 122979. "The main issue in CA-G.R. SP No. 122979 is the propriety of the Makati RTC's Order allowing the disbursement of funds and the payment of CAP's beneficiaries using funds taken from CAP Pension's Trust Fund." 
+ 
+[29]
+ Id. at 352-354. 
+[30]
+ Id. at 55. 
+[31]
+ Id. 
+[32]
+ Id. at 51-65. The Decision was penned by Associate Justice Ramon A. Cruz and concurred into by Associate Justices Remedios A. Salazar-Fernando and Marlene Gonzales-Sison of the Second Division of the Court of Appeals Manila. 
+ 
+[33]
+ Id. at 60. 
+ 
+[34]
+ Id. at 56-57. 
+ 
+[35]
+ Id. at 61. 
+ 
+[36]
+ Id. at 10-49. 
+[37]
+ 
+Rollo
+ (G.R. No. 213130), p. 56. 
+ 
+[38]
+ Id. 
+[39]
+ Id. 
+ 
+[40]
+ Id. 
+ 
+[41]
+ Id. at 12-52. 
+ 
+[42]
+ Id. at 54-59. The Decision was penned by Associate Justice Amelita G. Tolentino and concurred into by Associate Justices Ricardo R. Rosario and Leoncia R. Dimagiba of the Fourth Division of the Court of Appeals Manila. 
+ 
+[43]
+ Id. at 58. 
+ 
+[44]
+ Id. 
+ 
+[45]
+ Id. at 58-58-A. 
+[46]
+ Id. at 59. 
+ 
+[47]
+ Id. at 12-52. 
+[48]
+ This Court, in a July 28, 2014 Resolution, granted the Securities and Exchange Commission and Insurance Commission' Motion for Extension of 30 days from the expiration of the reglementary period within which to file this Petition for Review on Certiorari. 
+ 
+[49]
+ Id. at 275-276. 
+[50]
+ Id. at 277-278. 
+ 
+[51]
+ Requesting for an additional 15 days to file its Comment, CAP filed a Motion for Extension on September 5, 2014. Another Motion for Extension was filed by CAP on September 19, 2014, requesting for an additional period of ten days. These motions were granted by this Court in a December 3, 2014 Resolution. 
+ 
+[52]
+ 
+Rollo
+ (G.R. No. 213130), p. 290-A. 
+ 
+[53]
+ Id. at 532-543. 
+[54]
+ This Court resolved to deny this reconsideration with finality in a December 3, 2014 Resolution. 
+ 
+[55]
+ 
+Rollo
+ (G.R. No. 213130), pp. 760-763. 
+ 
+[56]
+ Id. at 799-828. 
+[57]
+ The Court granted CAP's first and second motions for extension to file a comment on the petition for review on certiorari in a December 3, 2014 Resolution. The Securities and Exchange Commission and the Insurance Commission were required to file a Reply thereto. 
+ 
+[58]
+ 
+Rollo
+ (G.R. No. 213130), pp. 1057-1073. 
+ 
+[59]
+ The Court granted the Office of the Solicitor General's motion for an extension to file a reply to the comment on the petition for review on certiorari in an April 20, 2015 Resolution. 
+ 
+[60]
+ 
+Rollo
+ (G.R. No. 213130), p. 1083. First Division Resolution. 
+ 
+[61]
+ Id. at 1088-1098. 
+[62]
+ Id at 1208-1213. 
+ 
+[63]
+ Id. at 1209. 
+[64]
+ Id. at 1286. 
+[65]
+ Id. at 1280-1285. 
+ 
+[66]
+ Id. at 1287-1289. Second Division Resolution. 
+ 
+[67]
+ Id. at 1290-1295. 
+ 
+[68]
+ Id. at 1291. 
+[69]
+ Id. at 501-506; also in 
+Rollo
+ (G.R. No. 213130), pp. 1299-1304. 
+ 
+[70]
+ Id. at 507-524; also in 
+Rollo
+ (G.R. No. 213130), pp. 1305-1322. 
+ 
+[71]
+ The June 1, 2016 Resolution likewise granted the Office of the Solicitor General's Motion for Extension of 15 days to file its comment on the Urgent Motion to Sell Property. 
+ 
+[72]
+ 
+Rollo
+ (G.R. No. 218193), p. 488. 
+ 
+[73]
+ Id. at 489-491. 
+ 
+[74]
+ 
+Rollo
+ (G.R. No. 213130), pp. 1295-1298; pp. 1323-1327; and pp. 1323-1327. 
+ 
+[75]
+ 
+Rollo
+ (G.R. No. 218193), pp. 531-533. 
+[76]
+ 
+Rollo
+ (G.R. No. 213130), pp. 1346-1374. 
+[77]
+ Id. at 549; also in 
+Rollo
+ (G.R. No. 213130), p. 1608. 
+[78]
+ Id. at 571-576. 
+[79]
+ Id. at 588-603. 
+[80]
+ Id. at 10-49. 
+[81]
+ Id. at 28-32. 
+[82]
+ Id. at 32-35. 
+[83]
+ Id. at 36. 
+ 
+[84]
+ Id. at 39. 
+[85]
+ 
+Rollo
+ (G.R. No. 213130), pp. 1346-1374. 
+ 
+[86]
+ Id. at 1355. 
+ 
+[87]
+ Id. at 1356-1358. 
+[88]
+ Id. at 1358. 
+[89]
+ Id. at 1363-1364. 
+ 
+[90]
+ Id. at 1365. 
+ 
+[91]
+ Id. at 1366. 
+[92]
+ 
+Rollo
+ (G.R. No. 218193), 604-619. 
+[93]
+ Id. at 609-610. 
+[94]
+ Id. at 610. 
+ 
+[95]
+ Id. at 613. 
+[96]
+ 
+Rollo
+ (G.R. No. 213130), pp. 10-49. 
+ 
+[97]
+ Id. at 30. 
+ 
+[98]
+ Id. at 32. 
+[99]
+ Id. at 33. 
+ 
+[100]
+ Id. at 34. 
+[101]
+ Id. at 35. 
+ 
+[102]
+ Id. 
+[103]
+ Id. at 41. 
+ 
+[104]
+ Id. at 42. 
+ 
+[105]
+ Id. at 799-828. 
+[106]
+ Id. at 799. 
+ 
+[107]
+ Id. at 803-805. 
+ 
+[108]
+ Id. at 801-803. 
+[109]
+ Id. at 800. 
+ 
+[110]
+ Id. at 800. 
+ 
+[111]
+ Id. at 805-808. 
+ 
+[112]
+ Id. at 810. 
+[113]
+ Id. at 1057-1073. 
+[114]
+ Id. at 1059. 
+[115]
+ Id. at 1060. 
+[116]
+ Id. at 1060-1063 
+[117]
+ Id. at 1063-1064. 
+[118]
+ Id. at 1067. 
+ 
+[119]
+ Id. at 1068. 
+ 
+[120]
+ Docketed as Sp. Proc. No. M-6144. 
+ 
+[121]
+ 
+Rollo
+ (G.R. No. 218193), pp. 253 268. The Resolution was penned by Presiding Judge Cesar O. Untalan of the Regional Trial Court of Makati City, Branch 149. 
+ 
+[122]
+ Id. at 57. 
+[123]
+ Id. 
+[124]
+ Id. at 264. 
+[125]
+ Id. at 31. 
+[126]
+ Id. 
+ 
+[127]
+ 
+Rollo
+ (G.R. No. 213130), p. 1362. 
+ 
+[128]
+ 
+Aboitiz Equity Ventures, Inc. v. Chiongbian, 
+738 Phil. 773, 807 (2014) [Per J. Leonen, Third Division. 
+ 
+[129]
+ Id. 
+[130]
+ 
+Rollo
+ (G.R. No. 213130), p. 70. 
+[131]
+ Id. at 29. 
+ 
+[132]
+ 
+Philippine National Bank v. Ritratto Group Inc
+., 414 Phil. 494, 503 (2001) [Per J. Kapunan, First Division]. 
+[133]
+ 
+Rollo
+ (G.R. No. 218193), p. 52. 
+ 
+[134]
+ 
+Rollo
+ (G.R. No. 213130), p. 1356. 
+[135]
+ Id. at 1357. 
+ 
+[136]
+ Black Law's Dictionary. 
+ 
+[137]
+ 
+Rollo
+ (G.R. No. 218193), pp. 67-100. Petition for Rehabilitation. 
+ 
+[138]
+ Id. at 87. 
+ 
+[139]
+ Id. at 67-100. 
+[140]
+ Id. at 164. 
+[141]
+ Id. at 232-252, Evaluation Report: Revised Rehabilitation Plan. 
+ 
+[142]
+ 
+Metropolitan Bank & Trust Co. v. G & P Builders, Inc.
+, 773 Phil. 289 (2015) [Per J. Leonen, Second Division]. 
+ 
+[143]
+ 781 Phil. 95 (2016) [Per J. Leonen, Second Division]. 
+ 
+[144]
+ Id. at 112-115. 
+[145]
+ 615 Phil. 595 (2009) [Per J. Peralta, Third Division]. 
+[146]
+ 
+Rollo
+ (G.R. No. 213130), pp. 275-278. 
+ 
+[147]
+ Republic Act No. 9829 (2009), sec. 49 provides: 
+ 
+ SECTION 49. 
+Appointment of Conservator
+. â If at any time before or after the suspension or revocation of the license of a pre-need company as provided in Section 27 hereof, the Commission finds that such company is in a state of continuing inability or unwillingness to comply with the requirements of the Code and/or orders of the Commission, a conservator may be appointed to take charge of the assets, liabilities, and the management of such company, collect all moneys and debts due the company and exercise all powers necessary to preserve the assets of the company, reorganize its management, and restore its viability. The conservator shall have the power to overrule or revoke the actions of the previous management and board of directors of the said company, any provision of law, or of the articles of incorporation or bylaws of the company, to the contrary notwithstanding, and such other powers as the Commission shall deem necessary. The conservator may be another pre-need company, by officer or officers of such company, or any other competent and qualified person, firm or corporation. The remuneration of the conservator and other expenses attendant to the conservation shall be borne by the pre-need company. The conservator shall not be subject to any action, claim or demand by, or liability to, any person in respect of anything done or omitted to be done in good faith in the exercise, or in connection with the exercise, of the powers conferred on the conservator.
+ 
+ The conservator appointed shall report and be responsible to the Commission until such time as the Commission is satisfied that the pre-need company can continue to operate on its own and the conservatorship shall likewise be terminated should the Commission, on the basis of the report of the conservator or of his own findings, determine that the continuance in business of the pre-need company would be hazardous to planholders and creditors, in which case the provisions of Chapter XVI shall apply.
+ 
+ 
+ 
+[148]
+ 237 Phil. 623 (1987) [Per J. Fernan, Third Division]. 
+[149]
+ Id. at 635-636. 
+ 
+[150]
+ 
+Mercury Drug Corp. v. Spouses Huang
+, 817 Phil. 434 (2017) [Per J. Leonen, Third Division]. 
+ 
+[151]
+ 
+Rollo
+ (G.R. No. 213130), pp. 1358-1359. 
+ 
+[152]
+ 
+Mercury Drug Corp. v. Spouses Huang
+, 817 Phil. 434, 437 (2017) [Per J. Leonen, Third Division]. 
+ 
+[153]
+ 817 Phil. 434 (2017) [Per J. Leonen, Third Division]. 
+[154]
+ Id. at 445-446. 
+[155]
+ Id. at 446. 
+[156]
+ 
+Rollo 
+(G.R. No. 218193), p. 7, Reply. 
+ 
+[157]
+ Id. 
+ 
+[158]
+ 768 Phil. 239 (2015) [Per J. Mendoza, Second Division]. 
+ 
+[159]
+ 
+U.S. v. Jayme
+, 24 Phil. 90 (1913) [Per J. Cason, First Division]. 
+[160]
+ 58 Phil. 715 (1933) [Per J. Abad Santos, En Banc]. 
+ 
+[161]
+ Id. at 717. 
+[162]
+ 
+Bengzon v. Inciong
+, 180 Phil. 206 (1979) [Per J. Antonio, Second Division]. 
+ 
+[163]
+ Id. at 214. 
+[164]
+ Id. 
+[165]
+ Republic Act No. 8799 (2000), sec. 16 provides: 
+ 
+SECTION 16. 
+Pre-Need Plans
+. â No person shall sell or offer for sale to the public any pre-need plan except in accordance with rules and regulations which the Commission shall prescribe. Such rules shall regulate the sale of pre-need plans by, among other things, requiring the registration of preÂ­need plans, licensing persons involved in the sale of pre-need plans, requiring disclosures to prospective plan holders, prescribing advertising guidelines, providing for uniform accounting system, reports and record keeping with respect to such plans, imposing capital, bonding and other financial responsibility, and establishing trust funds for the payment of benefits under such plans. 
+ 
+ 
+ 
+[166]
+ Republic Act No. 9829 (2009), sec. 5. 
+[167]
+ 
+Securities and Exchange Commission v. Laigo
+,768 Phil. 239, 269 (2015) [Per J. Mendoza. Second Division]. 
+[168]
+ Id. at 269-270. 
+ 
+[169]
+ Id. at 270. 
+ 
+[170]
+ 
+Rollo
+ (G.R. No. 218193), p. 33. 
+[171]
+ Id. at 1364. 
+[172]
+ Republic Act No. 9829 (2009), sec. 5. 
+[173]
+ 
+Securities and Exchange Commission v. Laigo
+, 768 Phil. 239, 257 (2015) [Per J. Mendoza, Second Division]. 
+ 
+[174]
+ Id. 
+[175]
+ Republic Act No. 9829 (2009), sec. 2. 
+ 
+[176]
+ 
+Rollo
+ (G.R. No. 213130), p. 35. 
+[177]
+ Id. at 779. 
+[178]
+ Id. at 774. 
+ 
+[179]
+ Id. at 775. 
+[180]
+ RULES OF COURT, Rule 45, sec. 1. 
+ 
+[181]
+ 776 Phil. 167 (2016) [Per J. Leonen, Second Division]. 
+ 
+[182]
+ Id. at 182-183. 
+[183]
+ 
+Republic v. Malabanan
+, 646 Phil. 631, 637 (2010) [Per J. Villarama, Jr., Third Division] 
+ 
+[184]
+ 
+See Quesada v. Department of Justice
+, 532 Phil. 159, 166 (2006) [Per J. Sandoval-Gutierrez, Second Division]. 
+ 
+[185]
+ 
+Pascual v. Burgos
+, 776 Phil. 167 (2016) [Per J. Leonen, Second Division]. 
+[186]
+ China Banking Corp. v. Cebu Printing and Packaging Corp
+., 642 Phil. 308, 326 (2010) [Per J. Carpio, Second Division]. 
+ 
+[187]
+ 
+Rollo
+ (G.R. No. 213130), p. 58-58-A. 
+[188]
+ Id. at 58-A. 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

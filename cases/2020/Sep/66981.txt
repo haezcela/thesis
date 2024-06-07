@@ -1,0 +1,2845 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			883 Phil. 15; 118 OG No. 44, 12084 (October 31, 2022)
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 203346, September 09, 2020 ]
+
+
+CARGILL PHILIPPINES, INC., PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+
+
+D E C I S I O N
+
+
+
+
+LEONEN, J.:
+
+
+Two conditions must be met for the most favored nation clause to apply: (1) similarity in subject matter,
+ i.e
+. that royalties derived from the Philippines by a resident of the United States and of the third state are of the same kind;
+[1]
+ and (2) similarity in circumstances in the payment of tax, 
+i.e
+. the same mechanism must be employed by the United States and the third state in mitigating the effects of double taxation.
+[2]
+ Failure to meet these conditions means the clause cannot apply.
+  
+ This Court resolves a Petition for Review on Certiorari
+[3]
+ assailing the Decision
+[4]
+ and Resolution
+[5]
+ of the Court of Tax Appeals 
+En Banc
+,
+ which denied Cargill Philippines, Inc.'s (Cargill) claim for refund or 
+tax credit worth P8,771,270.71, supposedly representing the erroneously 
+paid withholding taxes on royalties from June 1, 2005 to April 30, 2007.
+ The Court of Tax Appeals 
+En Banc
+ upheld the First Division's Decision
+[6]
+ and Resolution,
+[7]
+
+ holding that BIR Ruling No. DA-ITAD 60-07 is not binding because the 
+RP-Czech and RP-US tax treaties do not grant similar tax reliefs on 
+royalty payments in violation of the most favored nation clause.
+  
+ Cargill is a domestic corporation primarily engaged in trading
+ commodities such as copra products, soybeans, and wheat, and in the 
+manufacturing of animal feeds and coconut oil.
+[8]
+ 
+
+ On June 1, 2002, Cargill entered into an Intellectual Property License 
+Agreement with United States company CAN Technologies, Inc.
+[9]
+
+ (CAN Technologies). The Agreement granted Cargill a "non-exclusive, 
+royaltyÂ­ bearing, and non-transferable license" to use CAN Technologies'
+ patent, technology, and copyrights "to produce, market, distribute, 
+sell, use and supply animal feeds in the Philippines."
+[10]
+
+ In turn, Cargill would pay CAN Technologies a royalty fee equivalent to
+ 1.25% of its net sales and 5.25% of its consulting revenues.
+[11]
+
+ From June 1, 2005 to April 2007, Cargill allegedly paid CAN 
+Technologies P175,425,414.12 as royalties, less withholding final taxes 
+at the rate of 15%, or P26,313,812.10.
+[12]
+ 
+
+ On December 21, 2005, Cargill wrote the Bureau of Internal Revenue, 
+requesting confirmation that the royalties it had paid CAN Technologies 
+were subject to the preferential tax rate of 10% in accordance with the 
+"most favored nation" clause of the RP-US Tax Treaty, in relation to the
+ RP-Bahrain Tax Treaty.
+[13]
+
+ In reply, the Bureau of Internal Revenue issued BIR Ruling No. DAÂ­ ITAD
+ 60-07 on May 11, 2007, confirming that a 10% tax rate may be applied to
+ the royalties Cargill had paid CAN Technologies since January 1, 2004. 
+It did clarify that this was not due to the RP-Bahrain Tax Treaty, which
+ was inapplicable, but Article 12
+[14]
+ of the RP-Czech Tax Treaty, m relation to Article 13
+[15]
+ of the RP-US Tax Treaty.
+[16]
+
+ Thus, on July 10, 2007, Cargill filed on behalf of CAN Technologies a 
+claim for refund of P8,771,270.71, which it alleged to be the overpaid 
+withholding tax on royalty payments. On the same date, Cargill also 
+filed a Petition before the Court of Tax Appeals, though later submitted
+ an amended Petition.
+[17]
+ On September 6, 2010, the Court of Tax Appeals First Division dismissed
+[18]
+
+ the Petition for insufficiency of evidence. It held that Cargill failed
+ to show that the taxes imposed on royalties in the RP-US and RP-Czech 
+tax treaties were "paid under similar circumstances" or that the tax 
+reliefs granted to United States residents under the RP-US Tax Treaty, 
+with respect to taxes imposable upon royalties earned from sources 
+within the Philippines, were similar to those allowed to Czech residents
+ under the RP-Czech Tax Treaty.
+[19]
+ 
+
+   The First Division noted that since Cargill failed to present the 
+relevant provisions of the United States law, it cannot be determined 
+for certain whether the limitation on tax credit under the United States
+ Law was similar to that under the RP-Czech Tax Treaty.
+[20]
+
+ The First Division found BIR Ruling No. DA-ITAD 60-07 infirm in 
+allowing Cargill to apply the 10% preferential tax rate on royalties. It
+ held that the BIR Ruling merely cited the relevant provisions of the 
+tax treaties without explaining how the mechanisms employed by the 
+United States and Czech Republic to mitigate the effects of double 
+taxation are the same.
+[21]
+
+ On September 23, 2010, Cargill filed an Omnibus Motion for 
+Reconsideration and To Reopen the Case for Presentation of Additional 
+Evidence.
+[22]
+ In its February 15, 2011 Resolution,
+[23]
+ the Court of Tax Appeals First Division denied the Omnibus Motion. Citing 
+Commissioner of Internal Revenue v. S.C. Johnson and Son, Inc
+.,
+[24]
+
+ it explained that the most favored nation clause aims to grant 
+"equality of international treatment," which entails that the tax burden
+ laid on the investor's income be the "
+same
+" in the two 
+countries. To determine whether there is equality of treatment, the 
+limitations of credit on foreign taxes under the United States Law in 
+relation to Article 23(1) of the RP-US Tax Treaty must be compared with 
+the limitation in Article 22 of the RP-Czech Tax Treaty.
+[25]
+
+ As such, Cargill's failure to present the United States Law was deemed 
+fatal to its refund claim. The First Division also reiterated that it 
+was not bound by the BIR Ruling, it being "judicially found to be 
+erroneous."
+[26]
+ On March 25, 2011, Cargill filed its Petition for Review before the Court of Tax Appeals 
+En Banc
+.
+[27]
+ In a May 24, 2012 Decision,
+[28]
+ the Court of Tax Appeals 
+En Banc
+
+ dismissed the Petition. It held that Cargill may not avail of the lower
+ 10% tax rate for its failure to comply with the requirements of the 
+most favored nation clause embodied in 
+S.C. Johnson
+, 
+particularly, its failure to show similarity in the circumstances in the
+ payment of taxes on royalties under the two treaties. It also sustained
+ the First Division's holding that BIR Ruling No. DA-ITAD 60-07 cannot 
+be given weight.
+[29]
+ Cargill's Motion for Reconsideration was likewise denied in an August 30, 2012 Resolution.
+[30]
+ Rejecting the argument on its lack of jurisdiction to reverse BIR rulings, the Court of Tax Appeals 
+En Banc
+
+ reasoned that it may pass upon the issue of the validity of an 
+administrative ruling or regulation if raised in refund or assessment 
+cases or other cases where it has jurisdiction.
+[31]
+
+ Hence, Cargill filed this Petition. In turn, the Commissioner of 
+Internal Revenue, through the Office of the Solicitor General, filed a 
+Comment.
+[32]
+ Cargill subsequently filed its Reply.
+[33]
+
+ Petitioner submits that BIR Ruling No. DA-ITAD 60-07 had confirmed the 
+applicability of the 10% preferential tax rate on the royalties payable 
+by petitioner to CAN Technologies, pursuant to the RP-Czech Tax Treaty 
+in relation to the most favored nation clause of the RP-US Tax Treaty.
+[34]
+
+ It adds that, contrary to the holding of the First Division, the BIR 
+Ruling exhaustively explained why the most favored nation rate was 
+applicable,
+[35]
+ and the ruling was arrived at after the Commissioner had considered	all the appropriate laws,
+[36]
+ supporting documents, and information
+[37]
+ submitted by petitioner.
+ Petitioner contends that the BIR Ruling determined that the two conditions laid down in 
+S.C. Johnson
+ for the most favored nation clause to apply were met.
+[38]
+
+ These conditions were: (1) that royalties derived by a resident of the 
+United States and of Czech Republic are of the same kind;
+[39]
+
+ and (2) that the same mechanism must be employed by the United States 
+and Czech Republic in mitigating the effects of double taxation.
+[40]
+
+ Petitioner further stresses that before and after BIR Ruling No. 
+DA-ITAD-60-07, the Bureau of Internal Revenue had issued several rulings
+ with the same conclusion.
+[41]
+ These rulings were presumably supported by factual and legal bases, and petitioner argues that these must be respected.
+[42]
+ Moreover, petitioner submits that the Court of Tax Appeals had no jurisdiction to reverse BIR Ruling No. DA-ITAD-60-07.
+[43]
+ It invokes 
+British American Tobacco v. Camacho
+,
+[44]
+
+ which had ruled that the Court of Tax Appeals' jurisdiction does not 
+include cases where the constitutionality of a law or rule is 
+challenged. It submits that the BIR Ruling remains valid until the 
+Commissioner of Internal Revenue or the regular courts revoke it.
+[45]
+ Neither can it be attacked collaterally in the present tax refund case.
+[46]
+
+ Even if BIR Ruling No. DA-ITAD-60-07 were invalid, petitioner contends 
+that such invalidity cannot be applied retroactively to its prejudice.
+[47]
+ Petitioner then argues that the preferential 10% tax rate would still apply despite certain dissimilarities.
+[48]
+ For one, even if the RP-Czech Tax Treaty allows tax credit to a 
+resident
+, while the RP-US Tax Treaty allows tax credit to a 
+resident and citizen
+,
+ the most favored nation clause still applies. What is important is that
+ residents of both states are entitled to the similar tax reliefs for 
+taxes paid in the Philippines.
+[49]
+ Similarly, even if the RP-Czech Tax Treaty allows tax credit on royalties 
+paid
+ in the Philippines, while the RP-US Tax Treaty allows tax credit on royalties 
+paid or accrued
+ in the Philippines, the clause would still apply.
+[50]
+
+
+ Petitioner also submits that a reference to United States laws is not necessary for the most favored nation clause to apply.
+[51]
+ It adds that in 
+S.C. Johnson
+,
+ this Court did not consider the domestic laws of the United States and 
+Germany in determining if the taxes are "paid under similar 
+circumstances."
+[52]
+ In that 
+case, asserts petitioner, the tax credit allowed under the RP-US and 
+RP-Germany tax treaties were considered, and not the tax credit 
+ultimately granted under each country's domestic law.
+[53]
+
+
+ Petitioner adds that "since the . . . royalties involved refer
+ to royalties in the Philippines, the taxes on royalties referred to . .
+ . pertains to the taxes paid in the Philippines based on the treaties 
+and not the taxes paid in the country where the recipient of the royalty
+ income is a resident."
+[54]
+ Petitioner submits that: 
+  
+
+
+ . . . the taxes on royalties under both the RP-US Tax Treaty and
+ the RP-Czech Tax Treaty are paid under similar circumstances, 
+considering that the taxes paid on such royalties in the Philippines are
+ allowed as tax credit from the tax due on such income imposed in the 
+United States and on the taxes due on such income imposed in the Czech 
+Republic.
+[55]
+
+
+
+
+ Finally, petitioner insists on being entitled to the refund of 
+P8,771,270.71, the amount it claims to represent the erroneously paid 
+final withholding taxes on royalties paid to CAN Technologies.
+[56]
+
+ In her Comment, respondent counters that the Court of Tax Appeals has 
+jurisdiction to pass upon the validity of BIR Ruling No. DA-ITAD 60-07, 
+as petitioner's claim for refund hinges on this issue.
+[57]
+
+ Respondent goes on to claim that the Court of Tax Appeals correctly 
+ruled that BIR Ruling No. DA-ITAD 60-07 is not valid because the second 
+requirement of the most favored nation clause, per 
+S.C. Johnson
+, was not met.
+[58]
+
+ Petitioner allegedly failed to show similarity in the circumstances in 
+the payment of taxes on royalties under the two treaties.
+[59]
+
+ Respondent also asserts that petitioner failed to present evidence to 
+establish the provisions of the United States law that determines the 
+limitation of the amount that may be credited, as referred to in Article
+ 23(1) of the RP-US Tax Treaty.
+[60]
+ 
+ Finally, respondent claims that BIR Ruling No. DA-ITAD 60-07 must be struck down because it goes against the rule in 
+S.C. Johnson
+ for the most favored nation clause to apply.
+[61]
+ She maintains that "administrative regulations 'may not enlarge, alter, or restrict the provisions of the law it administers."'
+[62]
+ 
+
+ In its Reply, petitioner reiterates the arguments it raised in its 
+Petition. It maintains that even if BIR Ruling No. DA-ITAD 60-07 were 
+invalid, the ruling should not be retroactively applied to its 
+prejudice.
+[63]
+ Petitioner further avers that the differences on entities entitled to  credit
+[64]
+
+ and on the timing of tax credit recognition do not amount to 
+dissimilarities in the circumstances of the payment of the tax, and 
+thus, would not render the most favored nation clause inapplicable.
+[65]
+
+ It also submits that limitations on tax credit are present in both the 
+RP-US Tax Treaty and RP-Czech Tax Treaty. It disagrees with respondent's
+ position that reference to domestic laws on the determination of the 
+amount of foreign tax credit would result in a dissimilarity in the 
+circumstances of the payment of the taxes.
+[66]
+
+ Petitioner asserts that limitations on tax credit are common features 
+in tax treaties. Citing the OECD Model Tax Convention and its 
+commentaries, petitioner avers that a number of treaties usually refer 
+to the domestic laws of the contracting states for detailed rules on 
+foreign tax credit. This is permissible, adds petitioner, as long as the
+ general principle laid down in Article 23B of the OECD Model is not 
+altered. The general principle is that the tax credit of foreign income 
+taxes imposed on foreign source income is limited to the extent that 
+such taxes do not exceed the income tax of the other country on that 
+foreign source income.
+[67]
+ 
+
+ Petitioner submits that since both the RP-US and RP-Czech tax treaties 
+provide the general principle on limitation on tax credit, there is 
+similarity in the circumstances of payment of taxes.
+[68]
+
+ There is no need to delve into the details of the United States law, 
+which merely concerns the calculation of the limitation on tax credit. 
+Petitioner adds that the Philippines had likewise placed similar 
+conditions and references to domestic law in the tax treaties.
+[69]
+ 
+ Invoking the doctrine of 
+processual presumption
+,
+ petitioner further argues that the United States income tax law is 
+presumed to be the same as Philippine tax law. It contends that Section 
+904(a) of the United States Internal Revenue Code is similar to Section 
+34(c)(4) of the National Internal Revenue Code of 1997, as amended.
+[70]
+ 
+
+ Finally, petitioner submits that tax treaties are governed by 
+international law, and they should be interpreted in good faith in light
+ of their object and purpose, pursuant to the general rules of 
+interpretation set forth in the Vienna Convention on the Law of 
+Treaties. It then asserts that the Court of Tax Appeals' rulingâthat the
+ second requisite of the most favored nation clause was not metâwas not 
+made in good faith and does not serve the object and purpose of the tax 
+treaties. Petitioner argues that such strict construction negates the 
+essence of the most favored nation clause, which is to ensure equality 
+in international treatment, and the availment of the reliefs provided in
+ the tax treaties.
+[71]
+ For this Court's resolution are the following issues: 
+
+ First, whether or not the Court of Tax Appeals has jurisdiction to 
+determine the validity of BIR Ruling No. DA-ITAD 60-07. Related to this 
+is whether or not the validity of BIR Ruling No. DA-ITAD 60-07 can be 
+assailed in the present tax refund case; 
+ Second, whether or not the Court of Tax Appeals erred in declaring BIR Ruling No. DA-ITAD 60-07 invalid and not binding; 
+
+ Third, whether or not the Court of Tax Appeals' ruling declaring BIR 
+Ruling No. DA-ITAD 60-07 to be invalid can be applied to petitioner; and
+
+ Finally, whether or not petitioner is entitled to a tax refund/credit 
+certificate in the amount of P8,771,270.71, representing erroneously 
+paid final withholding taxes on royalties paid to CAN Technologies from 
+June 1, 2005 to April 30, 2007. 
+ The Petition is denied. 
+ 
+I
+
+
+ The Court of Tax Appeals has jurisdiction to review and nullify the rulings of the Commissioner of Internal Revenue. 
+
+ Under Republic Act No. 1125, or An Act Creating the Court of Tax 
+Appeals, as amended by Republic Act No. 9282, the Commissioner of 
+Internal Revenue's rulings on "other matters arising under the National 
+Internal Revenue or other laws administered by the Bureau of Internal 
+Revenue" are appealable to the Court of Tax Appeals, thus: 
+  
+
+
+ SECTION 7. 
+Jurisdiction
+. â The CTA shall exercise: 
+
+
+
+
+
+
+a.
+
+
+Exclusive appellate jurisdiction to review by appeal
+, as herein provided:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.
+
+
+Decisions of the Commissioner of Internal Revenue
+
+ in cases involving disputed assessments, refunds of internal revenue 
+taxes, fees or other charges, penalties in relation thereto, or other 
+matters arising under the National Internal Revenue or other laws administered by the Bureau of Internal Revenue
+[.]
+
+
+
+
+
+
+
+
+Here, petitioner argues that the Court of Tax Appeals had no 
+jurisdiction to reverse or nullify BIR Ruling No. DA-ITAD-60-07, citing 
+British American Tobacco v. Camacho
+,
+[72]
+ which held: 
+
+
+
+
+ While the above statute confers on the CTA jurisdiction to 
+resolve tax 	disputes in 	general, this 	does not 	include 	cases where 
+the constitutionality of a law or rule is challenged. 
+Where what is 
+assailed is the validity or constitutionality of a law, or a rule or 
+regulation issued by the administrative agency in the performance of its
+ quasi-legislative function, the regular courts have jurisdiction to 
+pass upon the same. The determination of whether a specific rule or set 
+of rules issued by an administrative agency contravenes the law or the 
+constitution is within the jurisdiction of the regular courts. Indeed, 
+the Constitution vests the power of judicial review or the power to 
+declare a law, treaty, international or executive agreement, 
+presidential decree, order, instruction, ordinance, or regulation in the
+ courts, including the regional trial courts. 
+This is within the 
+scope of judicial power, which includes the authority of the courts to 
+determine in an appropriate action the validity of the acts of the 
+political departments. Judicial power includes the duty of the courts of
+ justice to settle actual controversies involving rights which are 
+legally demandable and enforceable, and to determine whether or not 
+there has been a grave abuse of discretion amounting to lack or excess 
+of jurisdiction on the part of any branch or instrumentality of the 
+Government.
+[73]
+ 	(Emphasis supplied)
+
+
+
+
+ We disagree. 
+ In 
+The City of Manila v. Hon. Grecia-Cuerdo
+,
+[74]
+
+ this Court recognized that the Court of Tax Appeals possessed all 
+inherent powers necessary to the full and effective exercise of its 
+appellate jurisdiction over tax cases: 
+  
+
+
+ A grant of appellate jurisdiction implies that there is included
+ in it the power necessary to exercise it effectively, to make all 
+orders that will preserve the subject of the action, and to give effect 
+to the final determination of the appeal. It carries with it the power 
+to protect that jurisdiction and to make the decisions of the court 
+thereunder effective. The court, in aid of its appellate jurisdiction, 
+has authority to control all auxiliary and incidental matters necessary 
+to the efficient and proper exercise of that jurisdiction. For this 
+purpose, it may, when necessary, prohibit or restrain the performance of
+ any act which might interfere with the proper exercise of its rightful 
+jurisdiction in cases pending before it. 
+
+
+ Lastly, it would not be amiss to point out that a court which is
+ endowed with a particular jurisdiction should have powers which are 
+necessary to enable it to act effectively within such jurisdiction. 
+These should be regarded as powers which are inherent in its 
+jurisdiction and the court must possess them in order to enforce its 
+rules of practice and to suppress any abuses of its process and to 
+defeat any attempted thwarting of such process. 
+
+
+ 
+In this regard, Section I of RA 9282 states that the CTA 
+shall be of the same level as the CA and shall possess all the inherent 
+powers of a court of justice. 
+
+
+ 
+Indeed, courts possess certain inherent powers which may be 
+said to be implied from a general grant of jurisdiction, in addition to 
+those expressly conferred on them. These inherent powers are such powers
+ as are necessary for the ordinary and efficient exercise of 
+jurisdiction; or are essential to the existence, dignity and functions 
+of the courts, as well as to the due administration of justice; or are 
+directly appropriate, convenient and suitable to the execution of their 
+granted powers; and include the power to maintain the court's 
+jurisdiction and render it effective in behalf of the litigants. 
+
+
+ 
+Thus, this Court has held that "while a court may be 
+expressly granted the incidental powers necessary to effectuate its 
+jurisdiction, a grant of jurisdiction, in the absence of prohibitive 
+legislation, implies the necessary and usual incidental powers essential
+ to effectuate it, and, subject to existing laws and constitutional 
+provisions, every regularly constituted court has power to do all things
+ that are reasonably necessary for the administration of justice within 
+the scope of its jurisdiction and for the enforcement of its judgments 
+and mandates. "	Hence, demands, matters or questions ancillary or 
+incidental to, or growing out of the main action, and coming within the 
+above principles, may be taken cognizance of by the court and 
+determined, since such jurisdiction is in aid of its authority over the 
+principal matter, even though the court may thus be called on to 
+consider and decide matters which, as original causes of action, would 
+not be within its cognizance
+.
+[75]
+ (Emphasis supplied, citations omitted) 
+
+
+
+
+ This Court underscored that the grant of appellate jurisdiction to
+ the Court of Tax Appeals includes the power necessary to exercise it 
+effectively. Deemed included in its jurisdiction is the authority to 
+resolve petitions for certiorari against interlocutory orders of the 
+Regional Trial Court in local tax cases.
+[76]
+
+ Furthermore, a split jurisdiction between the Court of Tax Appeals and 
+the Court of Appeals is "anathema to the orderly administration of 
+justice" and could not have been the legislative intent.
+[77]
+ In 
+Banco De Oro v. Republic
+,
+[78]
+ this Court abandoned 
+British American Tobacco
+
+ and declared that the Court of Tax Appeals has exclusive jurisdiction 
+to determine the validity of tax laws, rules and regulations, and other 
+administrative issuances of the Commissioner of Internal Revenue. 
+Consistent with 
+Commissioner of Internal Revenue v. Leal
+,
+[79]
+ citing 
+Rodriguez v. Blaquera
+[80]
+ and 
+Asia International Auctioneers, Inc. v. Hon. Parayno, Jr
+.,
+[81]
+ we recognized the Court of Tax Appeals' broad authority over tax-related cases. Thus: 
+  
+
+
+ 
+The Court of Tax Appeals has undoubted jurisdiction to pass 
+upon the constitutionality or validity of a tax law or regulation when 
+raised by the taxpayer as a defense in disputing or contesting an 
+assessment or claiming a refund. It is only in the lawful exercise of 
+its power to pass upon all matters brought before it, as sanctioned by 
+Section 7 of Republic Act No. 1125, as amended. 
+
+
+ 
+This Court, however, declares that the Court of Tax Appeals 
+may likewise take cognizance of cases directly challenging the 
+constitutionality or validity of a tax law or regulation or 
+administrative issuance (revenue orders, revenue memorandum circulars, 
+rulings).
+ 
+
+
+ Section 7 of Republic Act No. 1125, as amended, is explicit 
+that, except for local taxes, appeals from the decisions of 
+quasi-judicial agencies (Commissioner of Internal Revenue, Commissioner 
+of Customs, Secretary of Finance, Central Board of Assessment Appeals, 
+Secretary of Trade and Industry) on tax-related problems must be brought
+ 
+exclusively
+ to the Court of Tax Appeals. 
+
+
+ In other words, within the judicial system, the law intends the 
+Court of Tax Appeals to have exclusive jurisdiction to resolve all tax 
+problems. Petitions for writs of certiorari against the acts and 
+omissions of the said quasi-judicial agencies should, thus, be filed 
+before the Court of Tax Appeals. 
+
+
+ Republic Act No. 9282, a special and later law than Batas 
+Pambansa Blg. 129 provides an exception to the original jurisdiction of 
+the Regional Trial Courts over actions questioning the constitutionality
+ or validity of tax laws or regulations. Except for local tax cases, 
+actions directly challenging the constitutionality or validity of a tax 
+law or regulation or administrative issuance may be filed directly 
+before the Court of Tax Appeals. 
+
+
+ Furthermore, with respect to administrative issuances (revenue 
+orders, revenue memorandum circulars, or rulings), these are issued by 
+the Commissioner under its power to make rulings or opinions in 
+connection with the implementation of the provisions of internal revenue
+ laws. Tax rulings, on the other hand, are official positions of the 
+Bureau on inquiries of taxpayers who request clarification on certain 
+provisions of the National Internal Revenue Code, other tax laws, or 
+their implementing regulations. Hence, the determination of the validity
+ of these issuances clearly falls within the exclusive appellate 
+jurisdiction of the Court of Tax Appeals under Section 7(1) of Republic 
+Act No. 1125, as amended, subject to prior review by the Secretary of 
+Finance, as required under Republic Act No. 8424.
+[82]
+ (Emphasis supplied, citations omitted) 
+
+
+
+
+ 
+Banco de Oro
+ stressed that such jurisdiction is exclusively
+ vested in the Court of Tax Appeals, whether raised by the taxpayer 
+directly or as a defense. 
+ Thus, the Court of Tax Appeals has 
+jurisdiction to pass upon the validity of BIR Ruling No. DA-ITAD-60-07, 
+on which petitioner squarely relied to support its claim for refund. The
+ Court of Tax Appeals is not bound by the Bureau of Internal Revenue's 
+interpretation or application of treaty provisions when it is found to 
+be clearly erroneous. As this Court held: 
+  
+
+
+ Even conceding that the construction of a statute by the CIR is 
+to be given great weight, the courts, which include the CTA, are not 
+bound thereby if such construction is erroneous or is clearly shown to 
+be in conflict with the governing statute or the Constitution or other 
+laws. "It is the role of the Judiciary to refine and, when necessary, 
+correct constitutional (and/or statutory) interpretation, in the context
+ of the interactions of the three branches of the government."
+[83]
+ (Citation omitted) 
+
+
+
+
+ II
+
+
+ The main substantive issue raised in this case involves the 
+application of the most favored nation clause under Article 
+13(2)(b)(iii) of the RP-US Tax Treaty,
+[84]
+ a convention between the Philippines and the United States. The provision states: 
+ Article 13
+ Royalties  
+
+
+
+
+
+
+1)
+
+
+Royalties derived by a 
+resident of one of the Contracting States from sources within the other 
+Contracting State may be taxed by both Contracting States.
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+2)
+
+
+However, the tax imposed by that Contracting State shall not exceed -
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+a.
+
+
+In the case of the United States, 15 percent of the gross amount of the royalties, and
+
+
+
+
+
+
+
+
+b.
+
+
+ 
+In the case of the Philippines, the least of:
+
+
+
+
+
+
+
+
+
+
+i.
+
+
+25 percent of the gross amount of the royalties; 
+
+
+
+
+
+
+
+
+
+
+ii.
+
+
+15 percent of the gross amount of the 
+royalties, where the royalties are paid by a corporation registered with
+ the Philippine Board of Investments and engaged in preferred areas of 
+activities; and
+
+
+
+
+
+
+
+
+
+
+iii.
+
+
+ 
+The lowest rate of Philippine tax that may be imposed on royalties of the same kind
+ 
+paid under similar circumstances
+ to a resident of a third State
+. (Emphasis supplied) 
+
+
+
+
+
+
+
+
+The most favored nation clause speaks of the "
+lowest rate of Philippine tax that may be imposed on royalties of the same kind 
+paid under similar circumstances
+ to a resident of a third State
+."
+ Therefore, the tax treatment of royalties to a United States entity may
+ be taken in relation to other tax treaties that provide a lower tax 
+rate on the same type of income. 
+
+
+ Here, the question is whether petitioner is entitled to the 10% 
+preferential tax rate, as provided in Article 12(2)(a) of the RP-Czech 
+Tax Treaty,
+[85]
+ on royalties paid to CAN Technologies, a resident corporation of the United States: 
+ Article 12
+ Royalties  
+
+
+
+
+
+
+1)
+
+
+Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+2)
+
+
+However, such royalties may
+ also be taxed in the Contracting State in which they arise and 
+according to the laws of that State, but if the beneficial owner of the 
+royalties is a resident of the other Contracting State, 
+the tax so charged 
+shall not exceed
+ â 
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+a.
+
+
+10 per cent of the gross amount of the royalties
+
+ arising from the use of, or the right to use, any copyright of 
+literary, artistic or scientific work, other than that mentioned in 
+sub-paragraph (b), any patent, trademark, design or model, plan, secret 
+formula or process, or from the use of, or the right to use, industrial,
+ commercial or scientific equipment, or for information concerning 
+industrial, commercial or scientific experience;
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+. . . . 
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+The competent authorities 
+of the Contracting States shall by mutual agreement settle the mode of 
+application of these limitations. (Emphasis supplied) 
+
+
+
+
+
+
+
+
+In 
+Commissioner of Internal Revenue v. S.C. Johnson & Sons
+,
+[86]
+ this Court construed the phrase "paid under similar circumstances" under the most favored nation clause as referring to 
+circumstances
+ that are tax-related. In other words, the similarity in the 
+circumstances of payment of taxes on the royalties derived from the 
+Philippines is a condition/or the enjoyment of the most favored nation 
+treatment.
+ 
+
+
+ This Court explained in 
+S.C. Johnson
+ that bilateral tax 
+treaties have been entered into by the Philippines with different 
+countries to avoid double taxation. It held: 
+  
+
+
+ The purpose of these international agreements is to reconcile 
+the national fiscal legislations of the contracting parties in order to 
+help the taxpayer avoid simultaneous taxation in two different 
+jurisdictions. More precisely, the tax conventions are drafted with a 
+view towards the elimination of 
+international juridical double taxation
+,
+ which is defined as the imposition of comparable taxes in two or more 
+states on the same taxpayer in respect of the same subject matter and 
+for identical periods. The apparent rationale for doing away with double
+ taxation is to encourage the free flow of goods and services and the 
+movement of capital, technology and persons between countries, 
+conditions deemed vital in creating robust and dynamic economies. 
+Foreign investments will only thrive in a fairly predictable and 
+reasonable international investment climate and the protection against 
+double taxation is crucial in creating such a climate.
+[87]
+ (Emphasis in the original, citations omitted) 
+
+
+
+
+ This Court further explained that to eliminate double taxation, a tax treaty resorts to two methods: 
+first
+, by allocating the right to tax between the contracting states; and 
+second
+,
+ where the state of source is assigned the right to tax, by requiring 
+the state of residence to grant a tax relief either through exemption or
+ tax credit. Thus: 
+  
+
+
+ Double taxation usually takes place when a person is resident of
+ a contracting state and derives income from, or owns capital in, the 
+other contracting state and both states impose tax on that income or 
+capital. In order to eliminate double taxation, a tax treaty resorts to 
+several methods. First, it sets out the respective rights to tax of the 
+state of source or situs and of the state of residence with regard to 
+certain classes of income or capital. In some cases, an exclusive right 
+to tax is conferred on one of the contracting states; however, for other
+ items of income or capital, both states are given the right to tax, 
+although the amount of tax that may be imposed by the state of source is
+ limited. 
+
+
+ The second method for the elimination of double taxation applies
+ whenever the state of source is given a full or limited right to tax 
+together with the state of residence. In this case, the treaties make it
+ incumbent upon the state of residence to allow relief in order to avoid
+ double taxation. 
+There are two methods of relief
+ â 
+the exemption method and the credit method. In the 
+exemption
+ method, the income or capital which is taxable in the state of source 
+or situs is exempted in the state of residence, although in some 
+instances it may be taken into account in determining the rate of tax 
+applicable to the taxpayer's remaining income or capital. 
+ On the other hand, in the 
+credit
+ method, although the income or capital which is taxed in the state of 
+source is still taxable in the state of residence, the tax paid in the 
+former is credited against the tax levied in the latter.
+ The basic 
+difference between the two methods is that in the exemption method, the 
+focus is on the income or capital itself, whereas the credit method 
+focuses upon the tax
+. 
+[88]
+ (Emphasis supplied, citations omitted) 
+
+
+
+
+ The exemption and credit principles are the two leading principles
+ in eliminating double taxation that are being followed in existing 
+conventions between countries.
+[89]
+ 
+
+ Under the exemption principle, the income that may be taxed in the 
+state of source is not taxed in the state of residence. This may be 
+applied by two methods: 
+full exemption
+, where the state of residence does not account for the income from the state of source for tax purposes; or 
+with progression
+,
+ where the income taxed in the state of source is not taxed by the state
+ of residence, but the state of residence retains the right to consider 
+that income when determining the tax to be imposed on the rest of the 
+income.
+[90]
+ 
+ Under the 
+credit principle, the state of residence retains the right to tax the 
+taxpayer's total income, but allows a deduction for the tax paid in the 
+state of source. It may be applied by two methods: a 
+full credit
+, where the total amount of tax paid in the state of source is allowed as deduction; or an 
+ordinary credit
+,
+ where the deduction allowed by the state of residence is restricted to 
+that part of its own tax appropriate to the income from the state of 
+source.
+[91]
+ Some states have also adopted the so-called "
+tax sparing
+"
+[92]
+ provision, in relation to tax incentives granted under their respective domestic laws to attract foreign investments.
+[93]
+ With tax sparing, taxes exempted or reduced are considered fully paid.
+[94]
+ Consequently, a non-resident may obtain a tax credit for the taxes that have been "
+spared
+" under the incentive program of the state of source,
+[95]
+ preserving the economic benefits granted by the state of source. 
+ Another form of tax sparing the so-called "matching credit,"
+[96]
+
+ where the state of residence agrees, as a counterpart to the reduced 
+tax, to allow a deduction against its own tax of an amount fixed at a 
+higher rate.
+[97]
+ In 
+S.C. Johnson
+,
+ this Court stated that "[i]n negotiating tax treaties, the underlying 
+rationale for reducing the tax rate is that the Philippines will give up
+ a part of the tax in the expectation that the tax given up for this 
+particular investment is not taxed by the other country." 
+[98]
+ It expounded:
+  
+
+
+ . . . the ultimate reason for avoiding double taxation is to 
+encourage foreign investors to invest in the Philippines â a crucial 
+economic goal for developing countries. The goal of double taxation 
+conventions would be thwarted if such treaties did not provide for 
+effective measures to minimize, if not completely eliminate, the tax 
+burden laid upon the income or capital of the investor. Thus, if the 
+rates of tax are lowered by the state of source, in this case, by the 
+Philippines, there should be a concomitant commitment on the part of the
+ state of residence to grant some form of tax relief, whether this be in
+ the form of a tax credit or exemption. Otherwise, the tax which could 
+have been collected by the Philippine government will simply be 
+collected by another state, defeating the object of the tax treaty since
+ the tax burden imposed upon the investor would remain unrelieved. If 
+the state of residence does not grant some form of tax relief to the 
+investor, no benefit would redound to the Philippines, i.e., increased 
+investment resulting from a favorable tax regime, should it impose a 
+lower tax rate on the royalty earnings of the investor, and it would be 
+better to impose the regular rate rather than lose much-needed revenues 
+to another country.
+[99]
+ (Citations omitted) 
+
+
+
+
+ In light of the purpose of tax treaties, the relevant treaty 
+provisions on the tax treatment of particular items of income, combined 
+with the provision on the elimination or avoidance of double taxation, 
+govern the allocation of the right to tax between the contracting 
+states. 
+ In some tax treaties or international agreements, a most
+ favored nation clause is added to ensure the contracting states of the 
+benefit of concessions previously or subsequently to be made by either 
+contracting state. This provision guards against oversight during treaty
+ negotiation, and obviates the need for subsequent negotiations.
+[100]
+ The clause aims to prevent discriminations
+[101]
+ and to give assurance of the opportunity to enjoy equality of treatment.
+[102]
+ In 
+S.C. Johnson
+: 
+  
+
+
+ The purpose of a most favored nation clause is to grant to the 
+contracting party treatment not less favorable than that which has been 
+or may be granted to the "most favored" among other countries. The most 
+favored nation clause is intended to establish the principle of equality
+ of international treatment by providing that the citizens or subjects 
+of the contracting nations may enjoy the privileges accorded by either 
+party to those of the most favored nation. The essence of the principle 
+is to allow the taxpayer in one state to avail of more liberal 
+provisions granted in another tax treaty to which the country of 
+residence of such taxpayer is also a party provided that the subject 
+matter of taxation, in this case royalty income, is the same as that in 
+the tax treaty under which the taxpayer is liable. Both Article 13 of 
+the RP-US Tax Treaty and Article 12(2)(b) of the RP-West Germany Tax 
+Treaty, above-quoted, speaks of tax on royalties for the use of 
+trademark, patent, and technology. The entitlement of the 10% rate by 
+U.S. firms despite the absence of a matching credit (20% for royalties) 
+would derogate from the design behind the most favored nation clause to 
+grant equality of international treatment since the tax burden laid upon
+ the income of the investor is not the same in the two countries. The 
+similarity in the circumstances of payment of taxes is a condition for 
+the enjoyment of most favored nation treatment precisely to underscore 
+the need for equality of treatment.
+[103]
+ (Citations omitted) 
+
+
+
+
+ Per 
+S.C. Johnson
+, two conditions must be met for the most favored nation clause to apply. 
+First
+,
+ royalties derived from the Philippines by a resident of the United 
+States and of the third state must be of the same kind or class, in 
+order to avail of the lower tax enjoyed by the third state. 
+Second
+,
+ the tax consequences of royalty payments under the two treaties must be
+ under similar circumstances. This requires a showing that the method 
+employed for eliminating or mitigating the effects of double taxation 
+under the treaty with the United States and the third state are the 
+same. 
+ In that case, this Court found that the United States 
+resident was not entitled to the most favored nation tax rate of 10% on 
+royalty income derived from the Philippines because the payment of such 
+tax was not under similar circumstances. While Germany has a matching 
+credit of 20% of the gross amount of royalties paid in the Philippines, 
+there is no such similar credit granted by the United States.
+[104]
+
+ Here, there is no question as to compliance with the first condition. 
+It is undisputed that payments to CAN Technologies for the use or 
+entitlement to use its patent, technology, and copyrights on the 
+manufacture and sale of animal feeds are within the definition of 
+royalties under Article 13(3)
+[105]
+ of the RP-US Tax Treaty and Article 12(2)
+[106]
+ of the RP-Czech Tax Treaty. 
+
+ On the second condition, this Court agrees with petitioner that 
+differences pertaining to the taxpayers entitled to tax credit (
+resident and citizen
+ under RP-US Tax Treaty vs. 
+resident 
+under RP-Czech Tax Treaty) and to the timing of the recognition of the tax credit (taxes 
+paid or accrued 
+under
+ RP-US Tax Treaty vs. taxes paid under RP-Czech Tax Treaty) do not 
+amount to dissimilarities in the circumstances of the payment of the 
+tax, which would have rendered the most favored nation clause 
+inapplicable.
+[107]
+ As 
+petitioner argued, the inclusion of "citizens" under the RP-US Tax 
+Treaty is not a material distinguishing feature. What is important is 
+that residents of both the United States and the Czech Republic are 
+entitled to similar tax reliefs for taxes paid in the Philippines. 
+Similarly, that taxes "paid or accrued" are allowed as tax credit under 
+the RP-US Tax Treaty pertains merely to the timing of recognition of the
+ credit, which depends on when the tax was levied at the state of 
+source. Regardless, under the tax treaties, relief is required to be 
+granted by the state of residence where an item of income is taxed by 
+the state of source. 
+ However, we find untenable petitioner's 
+contention on the similarity of tax reliefs allowed by the United States
+ and the Czech Republic. Both the RP-US Tax Treaty and the RP-Czech Tax 
+Treaty were entered into "for the avoidance of double taxation and the 
+prevention of fiscal evasion with respect to taxes on income."
+[108]
+
+ The articles for the elimination or avoidance of double taxation of 
+both countries are found in the following provisions in the RP-US Tax 
+Treaty and RP-Czech Tax Treaty: 
+  
+
+
+
+
+
+
+
+
+
+
+RP-US Tax Treaty
+ 
+
+
+
+
+
+
+
+
+
+
+RP-Czech Tax Treaty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Article 23 
+
+                RELIEF FROM DOUBLE TAXATION
+                  
+              
+
+
+Double taxation of income shall be avoided in the following manner:
+
+
+
+
+
+
+1.
+
+
+
+
+In accordance with the provisions and 
+                        subject to the limitations of the law of
+                        the United States ( as it may be
+                        amended from time to time without                      changing the general principle hereof),
+                        the United States shall allow to a
+                        citizen or resident of the United States                      
+as a credit against the United States tax
+                        the appropriate amount of taxes paid
+                        or accrued to the Philippines
+ and, in
+                        the case of a United States corporation 
+                        owning at least 10 percent of the voting
+                      stock of a Philippine corporation from which it receives dividends in any 
+                        taxable year, shall allow credit for the
+                        appropriate amount of taxes paid or
+                        accrued to the Philippines by the
+                        Philippine corporation paying such
+                        dividends with respect to the profits out
+                        of which such dividends are paid. Such
+                        appropriate amount shall be based upon
+                        the amount of tax paid or accrued to the
+                        Philippines, 
+but the credit shall not
+                        exceed the limitations (for the purpose
+                        of limiting the credit to the United
+                        States tax on income from sources
+                        within the Philippines or on income
+ 
+from sources outside the United States)
+                        provided by United States law for the
+                        taxable year.
+ For the purpose of
+                        applying the United States credit in
+                        relation to taxes paid or accrued to the
+                        Philippines, the rules set forth in
+                        Article 4 (Source of Income) shall be
+                        applied to determine the source of 
+                        income. For purposes of applying the
+                        United States credit in relation to taxes
+                        paid or accrued to the Philippines, the
+                        taxes referred to in paragraphs 
+1 (b) and
+                        2 of Article I
+ (Taxes Covered) shall be
+                        considered to be income taxes.
+                        
+                    
+
+
+
+
+
+
+2.
+
+
+In accordance with the provisions and 
+                      subject to the limitations of the law of
+                      the Philippines (as it may be amended
+                      from time to time without changing the general principle hereof), the
+                      Philippines shall allow to a citizen or
+                      resident of the Philippines as a credit
+                      against the Philippine tax the
+                      appropriate amount of taxes paid or
+                      accrued to the United States . . . Such
+                      appropriate amount shall be based upon
+                      the amount of tax paid or accrued to the
+                      United States, but the credit shall not
+                      exceed the limitations (for the purpose
+                      of limiting the credit to the Philippine
+                      tax on income from sources within the
+                      United States, and on income from
+                      sources outside the Philippines)
+                      provided by Philippine law for the
+                    taxable year[.] (Emphasis supplied)
+
+
+
+
+
+
+
+
+
+
+
+
+Article 22 
+
+  ELIMINATION OF DOUBLE TAXATION
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.
+
+
+In the case of a resident of the Philippines, double taxation shall be eliminated as follows: 
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Subject to the laws of the 
+Philippines and the limitations thereof regarding the allowance of a 
+credit against the Philippine tax of tax paid in any country other than 
+the Philippines, the Czech tax paid in respect of income derived from 
+the Czech Republic shall be allowed as credit against the Philippine tax
+ payable in respect of that income.
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+2.
+
+
+In the case of a resident of the Czech Republic, double taxation shall be eliminated as follows: 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+a) The Czech Republic, when 
+imposing taxes on its residents, may include in the tax base upon which 
+such taxes are imposed the items of income which according to the 
+provisions of this Convention may also be taxed in the Philippines, but 
+shall allow as a deduction from the amount of tax computed on such a 
+base 
+an amount equal to the tax paid in the Philippines. Such 
+deduction shall not, however, exceed that part of the Czech tax, as 
+computed before the deduction is given, which is appropriate to the 
+income which, in accordance with the provisions of this Convention, may 
+be taxed in the Philippines.
+ 
+
+
+b) Where in accordance with any
+ provision of the Convention income derived by a resident of the Czech 
+Republic is exempt from tax in the Czech Republic, the Czech Republic 
+may nevertheless, in calculating the amount of Czech tax on the 
+remaining income of such resident, take into account the exempted 
+income. (Emphasis supplied)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+   	          	  	    	Indeed, both the United States and the Czech
+ Republic adopt the credit principle, where the taxes paid in the 
+Philippines on royalty income are allowed to be credited against the 
+United States tax or Czech tax, as the case may be. However, a closer 
+look at the treaty provisions would show that while the RP-Czech Tax 
+Treaty specifies how the tax credit is to be implemented and its 
+limitations, the RP-US Tax Treaty does not. 
+
+
+ By looking at the RP-Czech Tax Treaty, we would already know how 
+the credit is applied and what the maximum deduction allowed is: 
+ 
+First
+,
+ the Czech tax is calculated based on the taxpayer's total income, 
+including the income from the Philippines, but the tax paid in the 
+Philippines is allowed as deduction from the Czech tax; and
+ 
+Second
+, the 
+tax paid in the Philippines should not exceed the Czech tax appropriate to the Philippine-sourced income. 
+
+ On the other hand, while the RP-US Tax Treaty does not provide details 
+on how the credit is to be applied and its limitations, it expressly 
+refers to the United States law in that the tax paid or accrued to the 
+Philippines shall be allowed as a credit against United States tax 
+in accordance with, and subject to the limitations of United States law
+. Furthermore, the
+ tax credit shall not exceed the limitations provided by the United States law for the taxable year.
+ 
+
+ Moreover, under the RP-Czech Tax Treaty, the limitation on credit is 
+already specifiedâthat the Philippine tax should not exceed the Czech 
+tax payable for the same income. Under the RP-US Tax Treaty, the 
+limitation on credit is not determinable unless we look into the 
+internal tax law of the United States. 
+ Therefore, the Court of 
+Tax Appeals was correct in ruling that the relevant provisions of the 
+United States law are necessary to determine for certain the similarity 
+in circumstances in the payment of taxes on royalty in the United States
+ and the Czech Republic. 
+ In this regard, the Court of Tax Appeals First Division, as reiterated by the 
+En Banc
+, made the following findings: 
+  
+
+
+ Records show that petitioner failed to present evidence to prove
+ or establish the provisions of the United States law which would 
+determine the limitation being referred to in Article 23(1) of the RP-US
+ Tax Treaty. Thus, We cannot say for certain that the RP-US Tax Treaty 
+grants similar tax reliefs to residents of the United States with 
+respect to taxes imposable upon royalties earned from sources within the
+ Philippines as those allowed to Czech residents under the RP-Czech Tax 
+Treaty. 
+
+
+ The limitation of the amount that may be credited under the 
+RP-US Tax Treaty must be clearly established. This must be so because 
+the similarity in the circumstances of payment of taxes is a condition 
+for the enjoyment of most favored nation treatment, precisely to 
+underscore the need for equality of treatment.
+[109]
+ (Citation omitted) 
+
+
+
+
+ Petitioner, however, invokes the doctrine of 
+processual presumption
+,
+ which provides that "in the absence of pleading and proof, the laws of 
+the foreign country or state will be presumed to be the same as our 
+local or domestic law."
+[110]
+ 
+It argues that the limitation on credit may then be clearly established 
+by referring to our domestic law, which is presumed to be the same as 
+the United States law on the matter. It adds that Section 904(a) of the 
+United States Internal Revenue Code is similar to Section 34(c)(4) of 
+the National Internal Revenue Code of 1997, as amended.
+[111]
+ This Court is not convinced. 
+  
+The International law doctrine of 
+processual presumption
+ or 
+presumed-identity approach
+ comes into play when a party invoking the application of a foreign law to a dispute fails to prove the foreign law.
+[112]
+ While the doctrine has been applied in cases involving common carriers, 
+[113]
+ property relations of spouses,
+[114]
+ maritime 
+[115]
+ and labor,
+[116]
+ it is not applicable in this case. 
+  
+ It is a fundamental taxation principle that a state may tax persons, property, 
+income
+, or business within its territorial limits.
+[117]
+
+ Royalty income derived by a non-resident foreign corporation in the 
+Philippines are generally taxed at 35% (for payments before January 1, 
+2009) pursuant to Section 28(B)(1)
+[118]
+
+ of the National Internal Revenue Code of 1997. However, such royalties 
+may be exempt or partially exempt (if subject to a reduced rate only) to
+ the extent required by any treaty obligation binding on the 
+Philippines. Section 32(B)(5) of the National Internal Revenue Code of 
+1997, as amended, provides: 
+  
+
+
+ SECTION 32. 
+Gross Income
+. â
+
+
+ . . . .
+
+
+ (B) Exclusions from Gross Income. â The following items shall 
+not be included in gross income and shall be exempt from taxation under 
+this Title: 
+
+
+  . . . .
+
+
+ (5) 
+Income Exempt under Treaty
+. â Income of any kind, to the extent required by any treaty obligation binding upon the Government of the Philippines. 
+
+
+
+
+ Thus, a foreign corporation may avail of the benefits of a tax 
+treaty concluded by the Philippines with its country of residence by 
+invoking the treaty provisions and proving that they apply to it. In 
+other words, unless clearly proven that the treaty provisions apply to 
+it, a non-resident foreign corporation, like CAN Technologies, shall be 
+taxed according to the National Internal Revenue Code of 1997, as 
+amended. 
+ Petitioner's claim on behalf of CAN Technologies for 
+refund of "erroneously paid withholding tax on royalty income" is 
+anchored on the 10% preferential tax rate under the RP-Czech Tax Treaty,
+ in relation to the most favored nation clause of the RP-US Tax Treaty. 
+Consequently, compliance with the conditions for the applicability of 
+the most favored nation clause must be proven as a fact. It is necessary
+ to show the similarity in tax reliefs accorded by the United States and
+ the Czech Republic under their respective treaties with the 
+Philippines. 
+ With regard to the RP-US Tax Treaty, a specific 
+reference was made to the United States law for the limitation on 
+allowable tax credit. This requires that the pertinent provisions of the
+ United States law be presented in evidence. Whether the United States 
+law imposes the same restrictions on tax credit as those imposed in the 
+RP-Czech Tax Treaty is a question of fact that petitioner must prove. 
+ Petitioner misapplies the doctrine of 
+processual presumption
+ in a bid to escape the consequences of its failure to present the pertinent provisions of the United States law. 
+  
+ A tax refund hinged on a lower tax rate under the RP-Czech Tax
+ Treaty, in relation to the RP-US Tax Treaty, is akin to a tax 
+exemption, and is strictly construed against the taxpayer.
+[119]
+ Petitioner bears the burden of proving its claim indubitably. It cannot be permitted to rest on vague implications.
+[120]
+ As this Court held: 
+  
+
+
+ This Court has laid down the rule that "as the power of taxation
+ is a high prerogative of sovereignty, the relinquishment is never 
+presumed and any reduction or diminution thereof with respect to its 
+mode or its rate, must be strictly construed, and the same must be 
+coached in clear and unmistakable terms in order that it may be 
+applied." More specifically stated, the general rule is that any claim 
+for exemption from the tax statute should be strictly construed against 
+the taxpayer.
+[121]
+
+
+
+
+ All told, the most favored nation clause cannot apply. Petitioner 
+cannot avail of the lower 10% tax rate under the RP-Czech Tax Treaty for
+ its failure to prove that the tax on royalties under the RP-US Tax 
+Treaty was paid under circumstances similar to the tax on royalties 
+under the RP-Czech Tax Treaty. Accordingly, there is no overpayment of 
+tax on royalties from June 1, 2005 to April 30, 2007. The Court of Tax 
+Appeals correctly denied petitioner's claim for refund of P8,771,270.71.
+ 
+ 
+WHEREFORE
+, the Petition for Review on Certiorari is 
+DENIED
+. The assailed May 24, 2012 Decision and August 30, 2012 Resolution of the Court of Tax Appeals 
+En Banc
+ in CTA EB No. 734 are 
+AFFIRMED
+. 
+ 
+SO ORDERED. 
+ 
+Gesmundo, Carandang, Zalameda
+, and
+ Gaerlan, JJ.
+, concur.  
+
+
+[1]
+ Id. at 23.
+  
+ 
+[2]
+ Id. at 25.
+
+
+ 
+[3]
+ 
+Rollo
+, pp. 10-69.
+
+
+ 
+[4]
+ Id. at 89-114. The 
+May 24, 2012 Decision in CTA EB Case No. 734 was penned by Associate 
+Justice Juanito C. CastaÃ±eda, Jr. and concurred in by Presiding Justice 
+Ernesto D. Acosta and Associate Justices Erlinda P. Uy, Caesar A. 
+Casanova, Olga Palanca-Enriquez, Esperanza R. Pabon-Victorino and Amelia
+ R. Cotangco-Manalastas of En Banc, Court of Tax Appeals.
+
+
+ 
+[5]
+ Id. at 76-87. The 
+August 30, 2012 Resolution in CTA EB No. 734 was penned by Associate 
+Justice Juanito C. CastaÃ±eda, Jr. and concurred in by Presiding Justice 
+Ernesto D. Acosta and Associate Justices Lovell R. Bautista, Erlinda P. 
+Uy, Caesar A. Casanova, Olga Palanca-Enriquez, Esperanza R. 
+Pabon-Victorino, Cielito N. Mindaro-Grulla and Amelia R. 
+Cotangco-Manalastas of En Banc, Court of Tax Appeals, Quezon City.
+
+
+ 
+[6]
+ Id. at 116-132. The 
+September 6, 2010 Decision in CTA Case No. 7656 was penned by Associate 
+Justice Erlinda P. Uy and concurred in by Presiding Justice Ernesto D. 
+Acosta and Associate Justice Esperanza R. Pabon-Victorino of the First 
+Division, Court of Tax Appeals, Quezon City. 
+
+
+[7]
+ Id. at 134-143. The 
+February 15, 2011 Resolution in CTA Case No. 7656 was penned by 
+Associate Justice Erlinda P. Uy and concurred in by Presiding Justice 
+Ernesto D. Acosta of the First Division, Court of Tax Appeals, Quezon 
+City. 
+
+
+[8]
+ Id. at 14.
+
+
+ 
+[9]
+ The company was formerly known as AGX Services, Inc. 
+
+
+[10]
+ Id. at 15-16. 
+
+
+[11]
+ Id. at 16.
+
+
+ 
+[12]
+ Id. 
+
+
+[13]
+ Id. at 118.
+ See
+
+ Convention Between the Government of the Republic of the Philippines 
+and the State of Bahrain for the Avoidance of Double Taxation and the 
+Prevention of Fiscal Evasion with Respect to Taxes	on Income and on 
+Capital (2001), available at <
+https://www.bir.gov.ph/images/bir_files/international_tax_affairs/Bahrain%20treaty.pdf
+> (last accessed on September 15, 2020).
+
+
+ 
+[14]
+ Convention Between 
+the Czech Republic and the Republic of the Philippines for the Avoidance
+ of Double Taxation and the Prevention of Fiscal Evasion with Respect to
+ Taxes on Income (2000), art. 12 provides:
+ Article 12
+ Royalties
+  
+
+
+ 1) Royalties arising in a Contracting State and paid to a 
+resident of the other Contracting State may be taxed in that other 
+State. 
+
+    2) However, the royalties may also be taxed in the Contracting State
+ in which they arise and according to the laws of that State, but if the
+ beneficial owner of the royalties is a resident of the other 
+Contracting State, the tax so charged shall not exceed: 
+
+    a. 10 per cent of the gross amount of the royalties arising from the
+ use of, or the right to use, any copyright of literary, artistic or 
+scientific work, other than that mentioned in sub-paragraph (b), any 
+patent, trademark, design or model, plan, secret formula or process, or 
+from the use of, or the right to use, industrial, commercial or 
+scientific equipment, or for information concerning industrial, 
+commercial or scientific experience;
+
+    . . . .
+
+    The competent authorities of the Contracting States shall by mutual 
+agreement settle the mode of application of these limitations.
+
+
+
+
+ 
+[15]
+ 	Convention Between 
+the Government of the Republic of the Philippines and the Government of 
+the United States of America with Respect to Taxes on Income (1976), 
+art. 13 provides: 
+  
+Article 13
+ 
+    Royalties
+  
+
+
+
+
+
+
+1)
+
+
+Royalties derived by a 
+resident of one of the Contracting State from sources within the other 
+Contracting State may be taxed by both Contracting States. 
+
+
+
+
+
+
+2)
+
+
+However, the tax imposed by that Contracting State shall not exceed -
+
+
+
+
+
+
+a.
+
+
+ 
+In the case of the United States, 15% of the gross amount of the royalties, and
+
+
+
+
+
+
+b.
+
+
+ 
+In the case of the Philippines, the least of: 
+
+
+
+
+
+
+
+
+i. 25 per cent of the gross amount of the royalties;
+
+ 
+          ii. 15 per cent of the gross amount of the royalties, where 
+the royalties are paid by a corporation registered with the Philippine 
+Board of Investments and engaged in preferred areas of activities; and
+ 
+        iii. 
+The lowest rate of Philippine tax that may be imposed on royalties 
+of the same kind paid under similar circumstances
+ to a resident of a third State.
+ (Emphasis supplied)
+
+
+
+
+
+
+
+
+[16]
+ 	Id. at 118-119.
+
+
+ 
+[17]
+ Id. at 17-18.   
+  
+[18]
+ Id. at 116-132.   
+  
+[19]
+ Id. at 125.
+  
+ 
+[20]
+	Id. at 130. 
+  
+[21]
+ Id. at 131.  
+  
+ 
+[22]
+ Id. at 134.  
+  
+ 
+[23]
+ Id. at 134-143.  
+  
+ 
+[24]
+ 368 Phil. 388 (1999) [Per J. Gonzaga-Reyes, Third Division].  
+  
+ 
+[25]
+ 
+Rollo
+, pp. 137-138.  
+  
+ 
+[26]
+ Id. at 138-141.  
+  
+ 
+[27]
+ Id. at 89 and 92.   
+  
+[28]
+ Id. at 89-114.   
+  
+[29]
+ Id. at 112.   
+  
+[30]
+ Id. at 76-87.   
+  
+[31]
+ Id. at 85.   
+  
+[32]
+ Id. at 510-538.  
+  
+ 
+[33]
+ Id. at 546-572. In compliance with this Court's June 23, 2014 Resolution in relation to the October 22, 2012 Resolution.  
+  
+ 
+[34]
+ Id. at 22.  
+  
+ 
+[35]
+ Id. at 27-28.  
+  
+ 
+[36]
+ Id. at 28.  
+  
+ 
+[37]
+ Id. at 31.   
+  
+[38]
+ 
+Rollo
+, p. 22.   
+  
+[39]
+ Id. at 23.  
+  
+ 
+[40]
+ Id. at 25.   
+  
+[41]
+ Id. at 29-31. DA
+ ITAD BIR Ruling No. 127-06 dated October 23, 2006; ITAD BIR Ruling No. 
+152-12 dated March 4, 2012; ITAD BIR Ruling No. 073-12 dated February 
+16, 2012; ITAD BIR Ruling No. 126-11 dated April 5, 2011; ITAD BIR 
+Ruling No. 070-11 dated March 1, 2011; ITAD BIR Ruling No. 045-10 dated 
+March 5, 2010; ITAD BIR Ruling No. 041-10 dated September 21, 2010; ITAD
+ BIR Ruling No. 019-10 dated August 20, 2010.   
+  
+[42]
+ Id. at 31-32.   
+  
+[43]
+ Id. at 32.   
+  
+[44]
+ 584 Phil. 489 (2008) [Per J. Ynares-Santiago, En Banc].  
+  
+ 
+[45]
+ 
+Rollo
+, p. 32.  
+  
+ 
+[46]
+ Id. at 33 34.   
+  
+[47]
+ Id. at 35.   
+  
+[48]
+ Id. at 39.   
+  
+[49]
+ Id. at 40-41.  
+  
+ 
+[50]
+ Id. at 42-43.   
+  
+[51]
+ Id. at 44.   
+  
+[52]
+ Id. at 50.   
+  
+[53]
+ Id. at 49-50.   
+  
+[54]
+ Id. at 50-51.  
+  
+ 
+[55]
+ Id. at 54.  
+  
+ 
+[56]
+ Id.  
+  
+ 
+[57]
+ Id. at 517.  
+  
+ 
+[58]
+ Id. at 522.  
+  
+ 
+[59]
+ Id. at 525.  
+  
+ 
+[60]
+ Id. at 528.   
+  
+[61]
+ Id. at 531.   
+  
+[62]
+ Id.   
+  
+[63]
+ Id. at 547-548.  
+  
+ 
+[64]
+ Id. at 549.   
+  
+[65]
+ Id. at 551-552.   
+  
+[66]
+ Id. at 552.  
+  
+ 
+[67]
+ Id. at 552-554.  
+  
+ 
+[68]
+ Id. at 556.   
+  
+[69]
+ Id. at 556-558.  
+  
+ 
+[70]
+ Id. at 561-563.   
+  
+[71]
+ Id. at 564-566.  
+  
+ 
+[72]
+ 584 Phil. 489 (2008) [Per J. Ynares-Santiago, En Banc].   
+  
+[73]
+ Id. at 511.  
+  
+ 
+[74]
+ 726 Phil. 9 (2014) [Per J. Peralta, En Banc].  
+  
+ 
+[75]
+ Id. at 26-28.  
+  
+ 
+[76]
+ Id. at 28.  
+  
+ 
+[77]
+ Id. at 25.  
+  
+ 
+[78]
+ 793 Phil. 97 (2016) [Per J. Leonen, En Banc].  
+  
+ 
+[79]
+ 440 Phil. 477 (2002) [Per Sandoval-Gutierrez, Third Division].  
+  
+ 
+[80]
+ 109 Phil. 598 (1960) [Per J. Concepcion, En Banc].   
+  
+[81]
+ 565 Phil. 255 (2007) [Per C.J. Puno, First Division].  
+  
+ 
+[82]
+ 
+Banco De Oro v. Republic
+, 793 Phil. 97, 123-125 (2016) [Per J. Leonen, En Banc].   
+  
+[83]
+ 
+Commissioner of Internal Revenue v. Philippine Airlines, Inc
+., 609 Phil. 695, 724 (2009) [Per J. Chico-Nazario, Third Division].  
+  
+ 
+[84]
+ The Convention 
+between the Government of the Republic of the Philippines and the 
+Government of the United States of America with respect to Taxes on 
+Income was signed in Manila on October 1, 1976. It entered into force on
+ October 16, 1982, the 30th day following the exchange of the relevant 
+instruments of ratification in Washington, United States on September 
+16, 1982. Its provisions on taxes apply on income derived or which 
+accrued beginning January 1, 1983.
+  
+ 
+[85]
+	The Convention 
+between the Czech Republic and the Republic of the Philippines for the 
+Avoidance of Double Taxation and the Prevention of Fiscal Evasion with 
+respect to Taxes on Income was signed in Manila on November 13, 2000. It
+ became effective on January 1, 2004.
+ 
+[86]
+ 	368 Phil. 388 (1999) [Per J. Gonzaga-Reyes, Third Division]. 
+ 
+[87]
+ 	Id. at 404-405.
+  
+ 
+[88]
+ Id. at 405-406.
+  
+ 
+[89]
+ Commentary on 
+Article 23A and 23B of the OECD Model: Concerning the Methods for 
+Elimination of Double Taxation, 8, available at <
+https://read.oecd-ilibrary.org/taxation/model-tax-convention-on-Â­income-and-on-capital-2017-full-version_59d66429-en#page9
+> (last accessed on September 8, 2020). The Organization for 
+Economic Cooperation and Development (OECD) Model Double Taxation 
+Conventions constituted as the principal bases for bilateral treaty 
+negotiations among developed nations. The US' model income tax 
+convention was also based to a large degree on the OECD Model. 
+See 
+Robert Thornton Smith, 
+Tax Treaty Interpretation by the Judiciary
+,
+ 49 THE TAX LAWYER 845-891 (1996),	available	at <
+https://www.jstor.org/stable/20771815 
+?refreqid=excelsior%3Af1e1bc19b78581d03babe8c48d68a7eb&seq=1
+> 
+(last accessed on September 8, 2020).    
+  
+ 
+[90]
+ 	Commentary on 
+Article 23A and 23B of the OECD Model: Concerning the Methods for 
+Elimination of Double Taxation, 8, available at <
+https://read.oecd-ilibrary.org/taxation/model-tax-convention-on-income-and-on-capital-2017-full-version_59d66429-en#page9
+> (last 
+accessed on September 8, 2020).
+  
+ 
+[91]
+ Id.   
+  
+[92]
+ 
+See for instance
+
+ Article 24 of RP-India Tax Treaty; Article 23(3) of the RP-Vietnam Tax 
+Treaty. An example of tax sparing is found in the TAX CODE, Section 
+28(B)(5)(b), in relation to dividend income earned by a foreign investor
+ in the Philippines. The provision states:
+  
+
+
+ SEC. 28. Rates of Income Tax on Foreign Corporations. â
+
+    . . . .
+
+    (B) 
+Tax on Nonresident Foreign Corporation
+. â
+ 
+    . . . .
+
+    (5) 
+Tax on Certain Incomes Received by a Nonresident Foreign Corporation
+. â
+
+    . . . .
+
+    (b) 
+Intercorporate Dividends
+. â A final withholding tax at 
+the rate of fifteen percent (15%) is hereby imposed on the amount of 
+cash and/or property dividends received from a domestic corporation, 
+which shall be collected and paid as provided in Section 57(A) of this 
+Code, s
+ubject to the condition that the country in which the 
+nonresident foreign corporation is domiciled, shall allow a credit 
+against the tax due from the nonresident foreign corporation taxes 
+deemed to have been paid in the Philippines equivalent to twenty percent
+ (20%)
+, which represents the difference between the regular income 
+tax of thirty-five percent (35%) and the fifteen percent (15%) tax on 
+dividends as  provided in this subparagraph: 
+Provided
+, That 
+effective January 1, 2009 the credit against the tax due shall be 
+equivalent to fifteen percent (15%), which represents the difference 
+between the regular income tax of thirty percent (30%) and the fifteen 
+percent (15%) tax on dividends[.] 
+
+    See Commissioner of Internal Revenue v. Procter & Gamble Phil. Manufacturing Corp
+., 243 Phil. 703 (1988) [Per J. Paras, Second Division].
+
+
+
+
+ 
+[93]
+ Commentary on 
+Article 23A and 23B of the OECD Model: Concerning the Methods for 
+Elimination of Double Taxation, p. 8, available at <
+https://read.oecd-ilibrary.org/taxation/model-tax-convention-on-Â­income-and-on-capital-2017-full-version_59d66429-en#page9
+> (last accessed on September 8, 2020).
+  
+ 
+[94]
+ J. Paras, Dissenting Opinion in Commissioner of 
+Internal Revenue v. Procter & Gamble Philippines Manufacturing Corp
+., 281 Phil. 425, 465-476 (1991) [Per J. Feliciano, En Banc].
+  
+ 
+[95]
+ Commentary on 
+Article 23A and 23B of the OECD Model: Concerning the Methods for 
+Elimination of Double Taxation, p. 8, available at <
+https://read.oecd-ilibrary.org/taxation/model-tax-convention-on-income-and-on-capital-2017-full-version_59d66429-en#page9
+> (last accessed on September 8, 2020). An example of a tax sparing 
+provision is found in Article 23 in relation to Article 12 of the 
+R.P-New Zealand Tax Treaty, which provides:      
+  
+ Article 12
+ ROYALTIES
+  
+
+
+
+
+
+
+1.
+
+
+Royalties arising in a 
+Contracting State and paid to a resident of the other Contracting State 
+may be taxed in that other State. 
+
+
+
+
+
+
+2.
+
+
+However, such royalties may
+ also be taxed in the Contracting State in which they arise, and 
+according to the law of that State, but if the recipient is the 
+beneficial owner of the royalties, the tax so charged shall not exceed: 
+
+
+
+
+
+
+a)
+
+
+in the case of New Zealand, 15 percent of the gross amount of the royalties; and
+
+
+
+
+
+
+b)
+
+
+ 
+in the case of the Philippines,
+
+
+
+
+
+
+
+
+(i)
+
+
+15 percent of the gross amount of 
+the royalties where the royalties are paid by an enterprise registered 
+with the Philippine Board of Investments and engaged in preferred areas 
+of activities
+; and 
+
+
+
+
+
+
+
+
+(ii)
+
+
+in all other cases, 25 percent of the gross amount of the royalties.
+
+
+
+
+
+
+Article 23 
+
+    RELIEF FROM DOUBLE TAXATION
+
+
+ Double taxation shall be avoided in the following manner: 
+
+    . . . .
+
+    2. In the case of New Zealand:
+
+    Subject to any provisions of the law of New Zealand which may from 
+time to time be in force and which relate to the allowance of a credit 
+against New Zealand tax of tax paid in a country outside New Zealand 
+(which shall not affect the general principle hereof), Philippine tax 
+paid under the law of the Philippines and consistently with this 
+Convention, whether directly or by deduction, in respect of income 
+derived by a New Zealand resident from sources in the Philippines 
+(excluding, in the case of a dividend, tax paid in respect of the 
+profits out of which the dividend is paid) shall be allowed as a credit 
+against New Zealand tax payable in respect of that income. . . 
+Where,
+ in terms of paragraph 2(b)(i) of Article 12, a resident of New Zealand 
+derives income from royalties which are paid by an enterprise registered
+ with the Philippine Board of Investments and engaged in preferred areas
+ of activity he shall be deemed to have paid in addition to the 
+Philippine tax actually paid, Philippine tax in an amount equal to 10 
+percent of the gross amount of the royalties
+. (Emphasis supplied)
+
+
+
+
+ 
+[96]
+ 	For instance, Article 23(2) of the RP-Brazil Tax Treaty provides:
+ Article 23
+ METHODS FOR THE ELIMINATION OF DOUBLE TAXATION
+  
+
+
+  
+
+
+
+
+
+
+1.
+
+
+Where a resident of a 
+Contracting State derives income which, in accordance with the 
+provisions of this Convention, may be taxed in the other Contracting 
+State, the first Contracting State shall allow as a deduction from the 
+tax on the income of that resident, an amount equal to the income tax 
+paid in the other Contracting State. The deduction shall not, however, 
+exceed that part of the income tax as computed before the deduction is 
+given, which is appropriate to the income which may be taxed in the 
+other Contracting State.
+
+
+
+
+
+
+2.
+
+
+For the deduction indicated in 
+paragraph I, the Brazilian tax and the Philippine tax shall always be 
+deemed to have been paid at the rate of 25 per cent in the following 
+cases
+:
+
+
+
+
+
+
+
+
+a) dividends referred to in paragraph 2 of Article 10;
+ 
+          b) interest referred to in paragraph 2 of Article 11; and
+ 
+        c) royalties referred to in paragraph 2 of Article 12.
+
+
+
+
+
+
+
+
+[97]
+ Commentary on 
+Article 23A and 23B of the OECD Model: Concerning the Methods for 
+Elimination of Double Taxation, p. 8, available at <
+https://read.oecd-ilibrary.org/taxation/model-tax-convention-on-income-and-on-capital-2017-full-version_59d66429-en#page9
+> (last accessed on September 8, 2020). 
+
+
+[98]
+ 
+Commissioner of Internal Revenue v. S.C. Johnson and Son, Inc
+., 368 Phil. 388, 406 (1999) [Per J. Gonzaga-Reyes, Third Division].
+  
+ 
+[99]
+ Id. at 409-410.   
+  
+[100]
+ T
+he Most Favoured Nation Clause
+,
+ 22 THE AMERICAN JOURNAL OF INTERNATIONAL LAW, 133-156 (1928). Available
+ at <
+https://www.jstor.org/stable/2213313
+> (last accessed on 
+September 8, 2020).  
+  
+ 
+[101]
+ 
+See Commissioner of Internal Revenue v. Philippine Ace Lines, Inc
+., 134 Phil. 874 (1968) [Per J. Angeles, En Banc].  
+  
+ 
+[102]
+ 
+See Commissioner of Internal Revenue v. S.C. Johnson and Son, Inc
+., 368 Phil. 388 (1999) [Per J. Gonzaga-Reyes, Third Division].  
+  
+ 
+[103]
+ Id. at 410-411.  
+  
+ 
+[104]
+ Id. at 411.   
+  
+[105]
+ Convention 
+Between the Government of the Republic of the Philippines and the 
+Government of the United States of America with Respect to Taxes on 
+Income (1976), art. 13 provides:
+  
+ Article 13 
+Royalties
+  
+
+
+ . . . .
+
+
+ (3) The term "royalties" as used in this article means payments 
+of any kind received as a consideration for the use of, or the right to 
+use, any copyright of literary, artistic or scientific work, including 
+cinematographic films or films or tapes used for radio or television 
+broadcasting, 
+any patent, trademark, design or model, plan, secret 
+formula or process, or other like right or property, or for information 
+concerning industrial, commercial, or scientific experience
+. The 
+term "royalties" also includes gains derived from the sale, exchange or 
+other disposition of any such right or property which are contingent on 
+the productivity, use, or disposition thereof. (Emphasis supplied)
+
+
+
+
+ 
+[106]
+ Convention Between
+ the Czech Republic and the Republic of the Philippines for the 
+Avoidance of Double Taxation and the Prevention of Fiscal Evasion with 
+Respect to Taxes on Income (2000), art. 12 provides:
+  
+ Article 12 
+Royalties
+  
+
+
+
+
+
+
+1)
+
+
+. . . . 
+
+
+
+
+
+
+2)
+
+
+However, such royalties may
+ also be taxed in the Contracting State in which they arise and 
+according to the laws of that State, but if the beneficial owner of the 
+royalties is a resident of the other Contracting State, the tax so 
+charged shall not exceed â
+
+
+
+
+
+
+
+
+a.
+
+
+10% of the gross amount of 
+the royalties arising from the use of, or the right to use, any 
+copyright of literary, artistic or scientific work, other than that 
+mentioned in sub-paragraph (b), 
+any patent, trademark, design or 
+model, plan, secret formula or process, or from the use of, or the right
+ to use, industrial, commercial or scientific equipment, or for 
+information concerning industrial, commercial or scientific 
+experience[.]
+ (Emphasis supplied)
+
+
+
+
+
+
+
+
+ 
+[107]
+ 
+Rollo
+, pp. 40-43. 
+
+
+[108]
+ The prefatory clauses of both treaties uniformly state this. 
+  
+[109]
+ 
+Rollo
+, p. 130.
+  
+ 
+[110]
+ Id. at 561. 
+  
+[111]
+ Id. at 561-562. 
+  
+[112]
+ 
+EDI-Staffbuilders International, Inc. v. National Labor Relations Commission
+, 563 Phil. 1, 22 (2007) [Per J. Velasco, Jr., Second Division].
+  
+ 
+[113]
+ 
+See Nedlloyd Lijnen B. V. Rotterdam v. Glow Laks Enterprises, Ltd
+., 747 Phil. 170 (2014) [Per J. Perez, First Division] and 
+International Harvester Co. in Russia v. Hamburg-American Line
+, 42 Phil. 845 (1918) [Per J. Street, Second Division].
+  
+ 
+[114]
+ 
+See Collector of Internal Revenue v. Fisher
+, 110 Phil. 686 (1961) [Per J. Barrera, En Banc] and 
+Beam v. Yatco
+, 82 Phil. 30 (1948) [Per J. Perfecto, Second Division].
+  
+ 
+[115]
+ 
+See Wildvalley Shipping Co., Ltd v. Court of Appeals
+, 396 Phil. 383 (2000) [Per J. Buena, Second Division]. 
+  
+[116]
+ 
+See ATCI Overseas Corporation v. Echin
+, 647 Phil. 43 (2010) [Per J. Carpio Morales, Third Division] and 
+EDI-Staffbuilders International, Inc. v. National Labor Relations Commission
+, 563 Phil. 1 (2007) [Per J. Velasco, Jr., Second Division].
+  
+ 
+[117]
+ 
+Manila Gas Corp. v. Collector of Internal Revenue,
+ 62 Phil. 895, 900 (1936) [Per J. Malcolm, En Banc]. 
+  
+
+
+[118]
+ TAX CODE, sec. 28 provides: 
+
+    Section 28. 
+Rates of Income Tax on Foreign Corporations
+. â 
+ 
+    . . . .
+
+    (B) 
+Tax on Nonresident Foreign Corporation
+. â 
+
+    (1) 
+In General
+. â Except as otherwise provided in this Code, a
+ foreign corporation not engaged in trade or business in the Philippines
+ shall pay a tax equal to thirty-five percent (35%) of the gross income 
+received during each taxable year from all sources within the 
+Philippines, such as interests, dividends, rents, royalties, salaries, 
+premiums (except reinsurance premiums), annuities, emoluments or other 
+fixed or determinable annual, periodic or casual gains, profits and 
+income, and capital gains, except capital gains subject to tax under 
+subparagraph 5 (c): Provided, That effective January 1, 2009, the rate 
+of income tax shall be thirty percent (30%). 
+
+    . . . .
+
+
+
+
+ 
+[119]
+ 
+See Commissioner of Internal Revenue v. Mitsubishi Metal Corp
+., 260 Phil. 224 (1990) [Per J. Regalado, Second Division] and 
+PLDT v. City of Davao
+, 415 Phil. 764 (2001) [Per J. Mendoza, Second Division].
+  
+ 
+[120]
+ 
+See Davao Light & Power Co., Inc. v. Commissioner of Customs
+, 150 Phil. 940 (1972) [Per J. J.B.L. Reyes, First Division]; 
+Asiatic Petroleum Co., Ltd v. Llanes
+, 49 Phil. 466 (1926) [Per J. Street, En Banc].  
+  
+ 
+[121]
+ 
+Luzon Stevedoring Corp. v. Court of Tax Appeals
+, 246 Phil. 666, 671 (1988) [Per J. Paras, Second Division].
+
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

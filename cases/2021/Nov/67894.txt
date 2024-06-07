@@ -1,0 +1,295 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 256973, November 15, 2021 ]
+
+
+IFC CAPITALIZATION (EQUITY) FUND, L.P., PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+
+
+D E C I S I O N
+
+
+
+
+CARANDANG, J.:
+
+
+Before this Court is a Petition for Review on 
+Certiorari
+[1]
+ under Rule 45 of the Rules of Court assailing the Decision
+[2]
+ dated November 5, 2020 and the Resolution
+[3]
+ dated June 16, 2021 rendered by the Court of Tax Appeals (CTA) 
+En Banc
+ in C.T.A. EB Case No. 2083, which reversed and set aside the Decision
+[4]
+ dated January 17, 2019 of the CTA in Division and held that IFC Capitalization (Equity) Fund, L.P. (petitioner) is not entitled to claim the tax refund.
+ 
+Facts of the Case
+ 
+ Petitioner is a non-resident foreign limited partnership engaged in the business of making investments in the private sector banks that have systemic impact in their home markets, traded shares in the Philippine Stock Exchange from September 20, 2013 to September 3, 2014, through two trading companies, Deutsche Securities Asia Limited (DSAL) and UBS Securities Asia Limited (USAL).
+[5]
+ DSAL and USAL informed stockbrokers, Deutsche Regis Partners, Inc. (DRPI) and UBS Securities Philippines, Inc. (USPI), that the proceeds of the sale of shares were to be remitted to petitioner's custodian banks in the Philippines, J.P. Morgan and Hongkong and Shanghai Banking Corporation (HSBC). Stockbrokers DRPI and USPI withheld stock transaction tax of 1/2 of 1% from the proceeds of the sales of petitioner's listed shares in the aggregate amount of P62,444,698.37.
+[6]
+ 
+ Claiming exemption from stock transaction tax, petitioner filed a claim for refund. Since the Bureau of Internal Revenue (BIR) did not act on the claim and the two-year period to file the claim was about to lapse, petitioner filed its Petition for Review to the CTA.
+[7]
+ 
+ In his Answer, the Commissioner of Internal Revenue (CIR) insisted that petitioner correctly paid the stock transaction tax.
+[8]
+ 
+ Subsequently, pre-trial and trial ensued. Petitioner presented four witnesses, including the independent certified public accountant.
+[9]
+ 
+ For failure to submit the judicial affidavits of its witnesses, the CIR's right to present his evidence was deemed waived. The CIR likewise failed to file his Memorandum. Thus, the case was submitted for Decision.
+[10]
+ 
+ 
+Ruling of the Court of Tax Appeals in Division
+ 
+ On January 17, 2019, the CTA in Division rendered its Decision
+[11]
+ granting petitioner's claim for refund. The CTA in Division ordered the CIR to refund to petitioner the total amount of P62,444,697.57. 
+ According to the CTA in Division, there was an erroneous or illegal collection of stock transaction tax in this case. The CTA in Division cited Section 32(B)(7)(a) of the National Internal Revenue Code (NIRC), which provides for exclusions from gross income, thus: 
+ 
+ Section 32. Gross Income. -
+ 
+ x x x x
+ 
+ (B) Exclusions from Gross Income.- The following items shall not be included in gross income and shall be exempt from taxation under this title: 
+ 
+ x x x x
+ 
+ (7) Miscellaneous Items. -
+ 
+ (a) Income Derived by Foreign Government. - Income derived from investments in the Philippines in loans, stocks, bonds or other domestic securities, or from interest on deposits in banks in the Philippines by (i) foreign governments, (ii) financing institutions owned, controlled, or enjoying refinancing from foreign governments, and (iii) international or regional financial institutions established by foreign governments. 
+ 
+ 
+ The CTA in Division found that petitioner is exempt from income tax pursuant to the above provision because it is a financing institution owned and controlled or enjoyed refinancing from foreign governments. 
+ CTA Presiding Justice Roman G. Del Rosario (PJ Del Rosario) dissented from the majority decision. According to PJ Del Rosario, petitioner is not exempt from payment of stock transaction tax because stock transaction tax is not an income tax under Title II of the NIRC to which the exemption under Section 32(B)(7)(a) pertains. 
+ Aggrieved, the CIR moved for reconsideration adopting the dissent of PJ Del Rosario; the motion was denied in a Resolution
+[12]
+ dated June 3, 2019. Thus, the CIR filed his petition for review to the CTA 
+En Banc
+. 
+ 
+Ruling of the Court of Tax Appeals 
+En Banc
+ 
+ In its Decision
+[13]
+ dated November 5, 2020, the CTA 
+En Banc
+ reversed and set aside the decision of the CTA in Division and held that petitioner is not entitled to claim the refund. 
+ According to the CTA 
+En Banc
+, contrary to the ruling of the CTA in Division, a stock transaction tax is a percentage tax and not an income tax; hence, the exemption from income tax under Section 32(B)(7)(a) of the NIRC cannot be extended to it. 
+ The CTA 
+En Banc
+ held that petitioner is not exempt from stock transaction tax since Section 32(B) of the NIRC, as amended, merely excludes any income derived from the items enumerated therein from gross income and exempts the same from taxation only under Title II of the same law. Stock transaction tax is provided in Title V of the NIRC on Other Percentage Taxes, to wit: 
+ 
+ TITLE V
+ OTHER PERCENTAGE TAXES
+ 
+ x x x x
+ 
+ Section 127. Tax on Sale, Barter or Exchange of Shares of Stock Listed and Traded through the Local Stock Exchange or through Initial Public Offering. â
+ 
+ (A) Tax on Sale, Barter or Exchange of Shares of Stock Listed and Traded through the Local Stock Exchange. - There shall be levied, assessed and collected on every sale, barter, exchange or other disposition of shares of stock listed and traded through the local stock exchange other than the sale by a dealer in securities, a tax at the rate of one-half of one percent (1/2 of 1%) of the gross selling price or gross value in money of the shares of stock sold, bartered, exchanged or otherwise disposed which shall be paid by the seller or transferor. 
+ 
+ 
+ The CTA 
+En Banc
+ concluded that since the law is clear in excluding only the income derived by financing institutions owned, controlled, or enjoying refinancing from foreign governments from gross income and thereby exempting the same from tax under Title II of the NIRC of 1997, as amended (which pertains to income tax), the same cannot be extended to stock transaction tax imposed under Title V of the same law (which pertains to other percentage taxes). 
+ The CTA 
+En Banc
+ even traced the legislative history of Section 127 of the NIRC and found that during the congressional deliberations, the authors of the law intended to delineate between stock transaction tax and income tax. 
+ Petitioner filed a motion for reconsideration but it was denied in a Resolution
+[14]
+ dated June 16, 2021. 
+ 
+Proceedings Before This Court
+ 
+ Hence, petitioner filed this Petition for Review on
+ Certiorari
+ under Rule 45 of the Rules of Court. According to petitioner, the CTA 
+En Banc
+ should not have taken cognizance of the issue on whether stock transaction tax is income tax as this was belatedly raised. Petitioner also insists that the stock transaction tax is essentially a tax on income covered by the exemption provided in Section 32(B)(7)(a) of the NIRC.
+[15]
+ 
+ 
+Issue
+ 
+ The issue in this case is whether the stock transaction tax is an income tax covered by the exemption under Section 32(B)(7)(a) of the NIRC. 
+ 
+Ruling of the Court
+ 
+ After a perusal of the records of the case, this Court resolves to deny the Petition for Review on 
+Certiorari
+ for failure of petitioner to show that the CTA 
+En Banc
+ committed a reversible error in denying its claim for refund. 
+ On petitioner's claim that the CTA 
+En Banc
+ should not have taken cognizance of the issue on whether stock transaction tax is income tax because this was raised belatedly, We agree with the CTA 
+En Banc
+ that it can validly take up an issue raised for the first time on appeal. The Revised Rules of the CTA provides that: 
+ 
+ In deciding the case, the Court may not limit itself to the issues stipulated by the parties but may also rule upon related issues necessary to achieve an orderly disposition of the case. 
+ 
+ 
+ Thus, the CTA 
+En Banc
+ properly took cognizance of the issue on whether stock transaction tax is essentially income tax although raised by the CIR not at the first instance because this issue goes into the very substance of the case. 
+ As to the substantive aspect, Section 32(B)(7)(a) of the NIRC provides for exclusions from gross income, thus: 
+ 
+ (B) Exclusions from Gross Income. - The following items shall not be included in gross income and shall be exempt from taxation under this Title: 
+ 
+ x x x x
+ 
+ (7) Miscellaneous Items. -
+ 
+ (a) Income Derived by Foreign Government. - Income derived from investments in the Philippines in loans, stocks, bonds or other domestic securities, or from interest on deposits in banks in the Philippines by (i) foreign governments, (ii) financing institutions owned, controlled, or enjoying refinancing from foreign governments, and (iii) international or regional financial institutions established by foreign governments. 
+ 
+ 
+ This provision is found under Title II on Income Tax. 
+ On the other hand, stock transaction tax is found under Title V on Other Percentage Taxes,
+ viz
+.: 
+ 
+ TITLE V
+ OTHER PERCENTAGE TAXES
+ 
+ x x x x
+ 
+ Section 127. Tax on Sale, Barter or Exchange of Shares of Stock Listed and Traded through the Local Stock Exchange or through Initial Public Offering. -
+ 
+ (A) Tax on Sale, Barter or Exchange of Shares of Stock Listed and Traded through the Local Stock Exchange. [4] - There shall be levied, assessed and collected on every sale, barter, exchange, or other disposition of shares of stock listed and traded through the local stock exchange other than the sale by a dealer in securities, a tax at the rate of six-tenths of one percent (6/10 of 1%) of the gross selling price or gross value in money of the shares of stock sold, bartered, exchanged or otherwise disposed which shall be paid by the seller or transferor. 
+ 
+ 
+ A percentage tax is a national tax measured by a certain percentage of the gross selling price or gross value in money of goods sold, bartered or imported; or of the gross receipts or earnings derived by any person engaged in the sale of services. An income tax, on the other hand, is a national tax imposed on the net or the gross income realized in a taxable year.
+[16]
+ 
+ As held by the CTA 
+En Banc
+, the exemption given under Section 32(B)(7)(a) is applicable only to income tax under Title II of the NIRC. Its application cannot be stretched to Title V on Other Percentage Taxes. 
+ Further, it is an oft-repeated rule that tax refunds or credits â just like tax exemptions â are strictly construed against taxpayers, the latter having the burden to prove strict compliance with the conditions for the grant of the tax refund or credit.
+[17]
+ This, petitioner failed to do. 
+ 
+WHEREFORE
+, for failure of petitioner to prove its entitlement to refund, the instant Petition for Review on 
+Certiorari
+ is 
+DENIED
+. The Decision dated November 5, 2020 and the Resolution dated June 16, 2021, rendered by the Court of Tax Appeals 
+En Banc
+ in C.T.A. EB Case No. 2083 are 
+AFFIRMED
+. 
+ 
+SO ORDERED.
+ 
+ 
+Leonen (Chairperson), Zalameda, Rosario
+, and 
+Dimaampao, JJ
+., concur. 
+ 
+[1]
+ 
+Rollo
+, pp. 3-30. 
+[2]
+ Penned by Associate Justice Marie A. Bacorro-Villena, with the concurrence of Presiding Justice Roman G. Del Rosario and Associate Justices Juanito C. CastaÃ±eda, Jr., Erlinda P. Uy, Ma. Belen M. Ringpis-Liban, Catherine T. Manahan, Maria Rowena Modesto-San Pedro; id. at 46-79.
+ 
+ 
+[3]
+ Id. at 81-92.
+ 
+ 
+[4]
+ Penned by Associate Justice Erlinda P. Uy, with the concurrence of Presiding Justice Roman G. Del Rosario and Associate Justice Cielito N. Mindaro-Grulla; id. at 94-111.
+ 
+ 
+[5]
+ Id. at 48, 94-95.
+ 
+ 
+[6]
+ Id. at 48-49. 
+ 
+[7]
+ Id. at 49. 
+ 
+[8]
+ Id. at 96-97.
+ 
+ 
+[9]
+ Id. at 98. 
+ 
+[10]
+ Id. at 51.
+ 
+ 
+[11]
+ Supra note 4.
+ 
+ 
+[12]
+ 
+Rollo
+, pp. 120-132.
+ 
+ 
+[13]
+ Supra note 2. 
+ 
+[14]
+ Supra note 3.
+ 
+ 
+[15]
+ 
+Rollo
+, pp. 10-30.
+ 
+ 
+[16]
+ 
+Commissioner of Internal Revenue v. Citytrust Investment Phils., Inc
+., 534 Phil. 517, 536 (2006).
+ 
+ 
+[17]
+ 
+Applied Food Ingredients Company, Inc. v. Commissioner of Internal Revenue
+, 720 Phil. 782, 789 (2013). 
+ 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

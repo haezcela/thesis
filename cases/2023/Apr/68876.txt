@@ -1,0 +1,1092 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 223767*, April 24, 2023 ]
+
+
+COMMISSIONER OF INTERNAL REVENUE, 
+PETITIONER
+, VS. SOUTH ENTERTAINMENT GALLERY, INC., 
+RESPONDENT
+.
+D E C I S I O N
+
+
+
+
+GESMUNDO, C.J.:
+
+
+Taxing authorities may serve the required notices upon the taxpayer personally or through substituted service. They are not excused from complying with the requirements of a valid substituted service even if the taxpayer's registered or known address is located inside an establishment with a central receiving station. It is incumbent upon them to prove the fact of such service through the attestation of at least two revenue officers other than the revenue officer serving the notice. Strict compliance with the requirements of substituted service is essential in ensuring the right of the taxpayer to due process.
+This is a Petition for Review on 
+Certiorari
+[1]
+ under Rule 45 of the Revised Rules of Court, which seeks to reverse and set aside the October 28, 2015 Decision
+[2]
+ and the March 22, 2016 Resolution
+[3]
+ of the Court of Tax Appeals 
+En Banc
+ (
+CTA En Banc
+) in CTA EB No. 1214 entitled "
+Commissioner of Internal Revenue vs. South Entertainment Gallery, Inc.
+"
+The CTA 
+En Banc
+ denied the Petition for Review filed by the Commissioner of Internal Revenue (
+CIR
+) and affirmed the July 7, 2014 Amended Decision
+[4]
+ and the August 29, 2014 Resolution
+[5]
+ of the CTA Third Division (
+CTA Division
+) in CTA Case No. 8286. The CTA Division granted the Motion for Partial Reconsideration of its April 15, 2014 Decision
+[6]
+ filed by respondent South Entertainment Gallery, Inc. (
+SEGI
+), and cancelled and set aside the Formal Letter of Demand with attached Details of Discrepancies and Assessment Notices dated December 9, 2009, the Final Notice Before Seizure dated May 28, 2010, and the Warrant of Distraint and/or Levy Dated September 1, 2010.
+Antecedents
+Respondent SEGI is a duly organized and existing domestic corporation with office address at 3/F SM City Pampanga, Barangay San Jose, San Fernando City, Pampanga and Barangay Lagundi, Mexico City, Pampanga.
+[7]
+ SEGI is engaged in the business of operating and conducting Bingo games and other games of chance.
+[8]
+On June 8, 2009, SEGI received a Notice of Informal Conference
+[9]
+ dated May 8, 2009 from Officer-in-Charge-Revenue District Officer Amador P. Ducut (
+OIC-RDO Ducut
+) of Revenue District Office (
+RDO
+) No. 21, City of San Fernando, Pampanga. Based on the said notice, SEGI was being assessed for deficiency income tax and value-added tax (
+VAT
+) for taxable year 2007, namely:
+I. Deficiency Income Tax â 2007
+ 
+Taxable Income
+17,678,360.00
+Tax Rate
+35%
+Tax Due 
+6,187,426.00
+Less: Tax paid per return
+--
+Balance
+6,187,426.00
+Add: 25% Surcharge
+Interest (20% p.a.)
+1,440,903.00
+Compromise penalty â late payment
+25,000.00 
+1,465,903.00
+STILL DUE AND COLLECTIBLE
+7,653,329.00
+II. Deficiency Value Added Tax â 2007
+Sales
+ 
+146,753,341.00
+VAT Due 
+ 
+17,610,400.92
+Less: Input Tax
+0.00
+VAT paid per return
+0.00
+Balance
+17,610,400.92
+Add: Surcharge
+Interest (20% p.a.)
+8,491,559.25 
+Compromise penalty
+25,000.00
+8,516,559.25
+STILL DUE AND COLLECTIBLE
+26,126,960.17
+GRAND TOTALS
+ 
+P 33,780,289.17
+[10]
+Thereafter, SEGI sent a Letter
+[11]
+ dated June 9, 2009, addressed to OICÂ­-RDO Ducut, invoking its tax-exempt status as a grantee of the Philippine Amusement and Gaming Corporation (
+PAGCOR
+).
+In his Letter-reply
+[12]
+ dated August 20, 2009, OIC-RDO Ducut reiterated the initial assessment and informed SEGI of the instruction of the OIC-Chief, Legal Division of Revenue Region 21B, South Pampanga, to issue an Informal Notice of Assessment for a possible assessment of deficiency income tax and VAT for taxable year 2007.
+Subsequently, SEGI received on October 16, 2009 a Preliminary Assessment Notice (
+PAN
+) No. 021R-0804084618
+[13]
+ dated September 16, 2009 from Regional Director Romulo L. Aguila, Jr. (
+RED Aguila
+) of the Bureau of Internal Revenue (
+BIR
+), Revenue Region No. 4, City of San Fernando, Pampanga. Based on the PAN, SEGI has an alleged deficiency income tax and VAT for taxable year 2007 amounting to P8,068,653.80 and P30,529,560.40, respectively.
+Later, SEGI sent a Letter
+[14]
+ dated October 19, 2009 to RED Aguila, enclosing copies of the opinions of the PAGCOR Chief Legal Counsel Atty. Carlos R. Bautista, Jr. (
+Atty. Bautista
+) and BIR Deputy Commissioner Gregorio V. Cabantac. Atty. Bautista opined that SEGI cannot be made liable for income tax and VAT as it is liable only for the 5% franchise tax
+[15]
+ based on the pronouncement of the Court in the case of 
+Commissioner of Internal Revenue v. Acesite (Phils.) Hotel Corporation
+.
+[16]
+The foregoing prompted RED Aguila to issue a Letter
+[17]
+ dated October 27, 2009, informing SEGI that all transactions of PAGCOR and its franchisees or licensees prior to November 2005 are exempt from VAT, and that the assessment of deficiency income and VAT on its transactions for the taxable year 2007 is based on Republic Act (
+R.A.
+) No. 9337.
+[18]
+ RED Aguila theorized that R.A. No. 9337, which took effect in November 2005, repealed PAGCOR's tax exemption.
+On December 9, 2009, RED Aguila issued a Formal Letter of Demand
+[19]
+ with attached Details of Discrepancies and Assessment Notice
+[20]
+ (FLD-DDAN), which was supposedly received by SEGI on January 13, 2010.
+[21]
+Thereafter, OIC-RDO Ducut issued a Final Notice Before Seizure
+[22]
+ (
+FNBS
+) dated May 28, 2010, giving SEGI ten days from receipt within which to settle the deficiency assessments for income tax and VAT in the aggregate amount of P39,788,105.55, inclusive of surcharge, interests, and penalties for taxable year 2007. SEGI received the said notice on June 16, 2010. On September 1, 2010, OIC-RDO Ducut issued a Warrant for Distraint and/or Levy
+[23]
+ (
+WDL
+) in connection with the alleged deficiency taxes. 
+Consequently, SEGI sent a Letter
+[24]
+ dated September 24, 2010 to OICÂ­-RDO Ducut, requesting for the withdrawal and cancellation of the WDL for being premature due to the absence of a FLD-DDAN, as well as the opportunity to submit a written protest against the same. It likewise insisted on its exemption from all taxes except for the 5% franchise tax.
+On April 13, 2011, SEGI received a Letter
+[25]
+ dated March 28, 2011 from OIC-RDO Ducut, with attached Memorandum
+[26]
+ dated February 3, 2011, reiterating the collection of the alleged deficiency income tax in the amount of P8,378,025.10 and deficiency VAT in the amount of P31,410,080.45 for taxable year 2007.
+Hence, on May 11, 2011, SEGI filed a Petition for Review
+[27]
+ before the CTA, seeking for the withdrawal and cancellation of the WDL dated September 1, 2010, and for the declaration that it is not liable for deficiency income tax and VAT for taxable year 2007 in the total amount of P39,788,105.55.
+After pre-trial, trial ensued, with both parties presenting and offering their respective documentary and testimonial evidence.
+CTA Division Ruling
+On April 15, 2014, the CTA Division rendered a Decision, which contains the following dispositive portion:
+WHEREFORE
+, the Petition for Review is hereby 
+PARTLY GRANTED
+.
+Accordingly, the Formal Letter of Demand, with attached Details of Discrepancies and Assessment Notices, dated December 9, 2009; the Final Notice Before Seizure dated May 28, 2010; and the Warrant of Distraint and/or Levy dated September 1, 2010, insofar as it covers the deficiency Value-added Tax for taxable year 2007 are hereby 
+CANCELLED
+ and 
+SET ASIDE
+.
+On the other hand, petitioner is hereby 
+ORDERED
+ to 
+PAY
+ the amount of P7,734,282.50, representing deficiency Income Tax, inclusive of the twenty five percent (25%) surcharge imposed under Section 248(A)(3) of the 1997 NIRC, as amended; to compute:
+ 
+Basic
+Surcharge
+Total
+Income Tax
+P6,187,426.00
+P1,546,856.50
+P7,734,282.50
+In addition, petitioner is hereby 
+ORDERED
+ to 
+PAY
+, as follows: 
+ 
+a)
+Deficiency interest at the rate of twenty percent (20%) per annum on the basic deficiency Income Tax in the amount of P6,187,400.92, computed from April 15, 2008, until full payment thereof pursuant to Section 249(8) of the [1997 NIRC], as amended; and
+b)
+Delinquency at the rate of twenty percent (20%) per annum on the total deficiency taxes of P7,734,282.50 and on the twenty percent (20%) deficiency interest which have accrued from the date afore-stated in (a) computed from January 15, 2009, until full payment thereof pursuant to Section 249(C) of the 1997 NIRC, as amended.
+SO ORDERED.
+[28]
+ (Citations omitted)
+On the issue of whether the WDL is premature and invalid, the CTA Division ruled that the CIR had satisfactorily proven that the FLD-DDAN was indeed mailed or sent to SEGI.
+[29]
+ It also found that SEGI failed to file a timely protest pursuant to Section 228 of the 1997 National Internal Revenue Code (
+NIRC
+), as amended, since SEGI only filed its petition for review on May 11, 2011, despite receiving the FLD-DDAN on January 13, 2010. It also observed that it was only on September 24, 2010 that SEGI requested for the withdrawal of the WDL dated September 1, 2010; and that it was only on May 11, 2011 that SEGI filed the petition for review upon receipt on April 13, 2011 of the CIR's March 28, 2011 Letter reiterating the collection of the deficiency assessments for income tax and VAT for taxable year 2007. SEGI also failed to even prove that it took any action within 10 days from receipt of the FNBS dated May 28, 2010.
+[30]
+Anent the issue as to whether the period to assess SEGI for internal revenue taxes for taxable year 2007 had prescribed, the CTA Division ruled that the FLD-DDAN, FNBS and WDL were all issued within the mandatory three-year period. Since SEGI filed its Annual Income Tax Return for the taxable year 2007 on April 14, 2008 without the VAT Returns, the CIR had until April 15, 2011 within which to assess the subject tax.
+[31]
+As regards SEGI's liability for deficiency income tax and VAT for the taxable year 2007, the CTA Division held that SEGI cannot invoke Presidential Decree No. 1869
+[32]
+ (
+P.D. No. 1869
+) as basis for its exemption because the Court has already ruled
+[33]
+ that PAGCOR is no longer exempt from income taxes.
+[34]
+ With respect to its liability for VAT, the CTA ruled that SEGI, being a grantee of PAGCOR, is not exempt but subject to said tax at zero percent (0%) rate in accordance with Sec. 108(B)(3) of the 1997 NIRC, as amended.
+[35]
+Dissatisfied, both SEGI and the CIR filed their respective Motions for Partial Reconsideration.
+[36]
+On July 7, 2014, the CTA Division rendered an Amended Decision in favor of SEGI. The 
+fallo
+ of the said Decision reads:
+WHEREFORE
+, the "Motion for Partial Reconsideration [of the Decision dated April 15, 2014]" filed by petitioner [SEGI] is hereby 
+GRANTED
+.
+Accordingly, the Decision dated April 15, 2014 is hereby 
+REVERSED
+ and 
+SET ASIDE
+. The Formal Letter of Demand, with attached Details of Discrepancies and Assessment Notices, dated December 9, 2009; the Final Notice Before Seizure dated May 28, 2010; and the Warrant of Distraint and/or Levy dated September 1, 2010, are hereby 
+CANCELLED
+ and 
+SET ASIDE
+.
+The "Motion for Partial Reconsideration (Re: Decision dated 15 April 2014" filed by respondent [CIR] is hereby 
+DENIED
+ for lack of merit.
+SO ORDERED.
+[37]
+In reversing its April 15, 2014 Decision, the CTA Division held that since the CIR failed to prove that the FLD-DDAN dated December 9, 2009 had actually been served and received by SEGI or its duly authorized representative, the deficiency assessments cannot be considered as final, executory, and demandable. While the certification issued by the Office of the Postmaster and the Judicial Affidavit of CIR's administrative staff showed that the FLD-DDAN was received by a certain "Rose Ann Gomez," no evidence was adduced to prove that the latter was authorized by SEGI to receive the FLD-DDAN.
+[38]
+On August 29, 2014, the CTA Division denied for lack of merit the CIR's Motion for Reconsideration (Re: Amended Decision dated 07 July 2014).
+[39]
+Aggrieved, the CIR filed a Petition for Review
+[40]
+ before the CTA 
+En Banc
+.
+CTA 
+En Banc
+ Ruling
+On October 28, 2015, the CTA 
+En Banc
+ rendered a Decision, denying the CIR's Petition for Review for lack of merit and affirming the July 7, 2014 Amended Decision and the August 29, 2014 Resolution of the CTA Division.
+[41]
+Finding that the FLD-DDAN was delivered to the administrative office of SM City Pampanga and not to SEGI, the CTA 
+En Banc
+ ruled that the CIR's FLD-DDAN and FNBS cannot be validly used as bases for the issuance of the WDL. The fact that the administrative office of SM City Pampanga is located at the ground floor, and that SEGI's registered business address as a tenant of the mall is at the third floor which is open to the public, the CIR or its representatives could have personally served the assessment notices at SEGI's office with ease.
+[42]
+The CIR filed a Motion for Reconsideration
+[43]
+ of the October 28, 2015 Decision.
+On March 22, 2016, the CTA 
+En Banc
+ issued a Resolution denying the CIR's motion for reconsideration. In ruling that the petition for review was not filed out of time, the CTA 
+En Banc
+ stated that since the issuance and receipt of the FAN and FLD were questioned and found to be irregular, the subsequent issuance of the FNBS or WDL was deemed invalid due to the CIR's failure to properly observe due process.
+[44]
+ Citing the case of 
+Samar-I Electric Cooperative v. Commissioner of Internal Revenue
+,
+[45]
+ the CTA En Banc held that by failing to comply with the mandatory requirement of due process, it was erroneous for the CIR to assume that SEGI's right to appeal is reckoned from its purported receipt of the FNBS or the WDL.
+[46]
+The CTA 
+En Banc
+ further ruled that there was no negligence or inaction on the part of SEGI in asserting its right to warrant the application of laches, and that it did not err in giving faith and credence on the testimony of SEGI's witness.
+[47]
+Presiding Justice Roman G. Del Rosario (
+PJ Del Rosario
+) filed a Dissenting Opinion,
+[48]
+ stating that SEGI's Petition for Review was filed out of time and thus, the CTA has no jurisdiction to act on the case. PJ Del Rosario observed that it took SEGI a period of 252 days before it questioned and appealed the WDL by way of a Petition for Review filed on May 11, 2011.
+[49]
+Hence, this Petition for Review on 
+Certiorari
+.
+Issues
+The CIR raises the following grounds for the allowance of its petition:
+I.
+The CTA had no jurisdiction to entertain the original Petition for Review filed by respondent SEGI because the appeal was filed out of time.
+II.
+The CTA 
+En Banc
+ erred in sustaining the CTA Third Division's ruling that there was insufficient delivery of the Formal Letter of Demand (FLD) by petitioner CIR.
+III.
+The CTA 
+En Banc
+ erred in sustaining the CTA Third Division's Amended Decision in favor of respondent SEGI, which contradicted and disregarded the express terms of Section 228 of the 1997 NIRC, in relation to Section 3(a) of Rule 8 of the Revised Rules of the Court of Tax Appeals.
+[50]
+Ruling of the Court
+The petition is devoid of merit.
+The Court shall first discuss the issue of the validity of the service of the FLD-DDAN because the resolution thereof is crucial in reckoning the reglementary period for SEGI to file its appeal, and to determine whether its petition for review was seasonably filed with the CTA. 
+ 
+The FLD-DDAN was not properly served by registered mail, rendering the deficiency tax assessment void for denial of the taxpayer's right to due process.
+ 
+The CIR insists on the valid service of the FLD-DDAN
+[51]
+ and that SEGI's witness, Mr. Ruben Q. Ong, has no personal knowledge and was incompetent to testify on the alleged non-receipt of the FLD-DDAN. It contends that a self-serving denial from an incompetent witness cannot outweigh the documentary evidence presented by petitioner to prove such receipt by SEGI.
+[52]
+Further, the CIR maintains that it had successfully established that the FLD-DDAN was properly addressed to SEGI's registered address and was mailed and received by SEGI based on the testimony of Emelito Victoria (
+Victoria
+), Postman II of the Post Office of San Fernando, Pampanga. Victoria explained the standard procedure that delivery of mail matters is made to a central receiving station.
+[53]
+ Apart from the registry receipt and certification from the Office of the Postmaster, the CIR also presented and offered in evidence, the testimony of Victoria and Ronnie SJ Ocampo (
+Ocampo
+), an Administrative Aide of BIR Revenue Region No. 4, who were able to explain the fact of SEGI's receipt of the FLD-DDAN.
+[54]
+Finally, the CIR invokes the ruling in 
+Rubia v. Government Service Insurance System
+[55]
+ where the Court recognized that service of court processes to the central receiving unit clerk is deemed as valid service if the establishment or institution has a central receiving unit that is authorized to receive all its mails.
+[56]
+Petitioners' arguments are untenable.
+On the issue of due process in the issuance of a deficiency tax assessment, the Court rules that even if the CTA 
+En Banc
+ erred in relying on Revenue Regulations (
+RR
+) No. 18-2013
+[57]
+ dated November 28, 2013, as it was not yet in effect when the FLD-DDAN dated December 9, 2009 was issued, it correctly ruled that the FLD-DDAN was not properly served by registered mail on SEGI on January 13, 2010. Since the valid service of the FLD-DDAN on SEGI is part of the due process requirement in the issuance of a deficiency tax assessment, non-observance thereof renders the deficiency tax assessment of the CIR void.
+At the outset, the Court stresses that in order to determine whether the requirement for a valid assessment is duly complied with, it is important to ascertain the governing law, rules, and regulations and jurisprudence at the time the assessment was issued.
+[58]
+ Since the FLD-DDAN in question was issued on December 9, 2009, the CTA 
+En Banc
+ erred in citing the provisions on modes of service under RR No. 18-2013 dated November 28, 2013 which amended the provisions of RR No. 12-99
+[59]
+ dated September 6, 1999.
+Prior to the substantial amendments introduced by RR No. 18-2013, RR No. 12-99 which implemented Sec. 228
+[60]
+ of the 1997 NIRC, as amended, provides for the due process requirement to be observed in the issuance of a deficiency tax assessment. Compared to RR No. 18-2013 which contains comprehensive details on the modes of service, the pertinent portions of Sec. 3 of RR No. 12-99, which was in effect at the time of the issuance of the FLD-DDAN dated December 9, 2009 to SEGI, simply provides that the formal letter of demand and assessment notice shall be sent to the taxpayer only by registered mail or by personal delivery, without explicit detail on how service by registered mail is done. The differences between the two revenue regulations are illustrated below: 
+RR No. 12-99 dated September 14, 1999 
+RR No. 18-2013 dated November 28, 2013, amending RR No. 12-99
+SECTION 3. 
+Due process requirement in the issuance of a Deficiency Tax Assessment
+.
+ â  
+3.1
+ Mode of procedures in the issuance of a deficiency tax assessment:
+ 
+3.1.1 Notice for informal conference.
+ x x x
+  
+3.1.2 Preliminary Assessment Notice (PAN)
+. x x x
+ 
+3.1.3 Exceptions to Prior Notice of the Assessment.
+ x x x
+ 
+x x x x
+ 
+3.1.4 Formal Letter of Demand and Assessment Notice.
+ â The formal letter of demand and assessment notice shall be issued by the Commissioner or his duly authorized representative. The letter of demand calling for payment of the taxpayer's deficiency tax or taxes shall state the facts, the law, rules and regulations, or jurisprudence on which the assessment is based, otherwise, the formal letter of demand and assessment notice shall be void. x x x 
+The same shall be sent to the taxpayer only by registered mail or by personal delivery.
+ If sent by personal delivery, the taxpayer or his duly authorized representative shall acknowledge receipt thereof in the duplicate copy of the letter of demand, showing the following: (a) His name; (b) signature; (c) designation and authority to act for and in behalf of the taxpayer, if acknowledged received by a person other than the taxpayer himself; and (d) date of receipt thereof.
+3.1.5 Disputed Assessment. â The taxpayer or his duly authorized representative may protest administratively against the aforesaid formal letter of demand and assessment notice within thirty (30) days from date of receipt thereof. x x x
+ 
+ 
+3.1.6 Administrative Decision on a Disputed Assessment.
+ â x x x
+ 
+3.1.7 Constructive Service.
+ â 
+If the notice to the taxpayer herein required is served by registered mail, and no response is received from the taxpayer within the prescribed period from date of the posting thereof in the mail, the same shall be considered actually or constructively received by the taxpayer.
+ If the same is personally served on the taxpayer or his duly authorized representative who, however, refused to acknowledge receipt thereof, the same shall be constructively served on the taxpayer. 
+Constructive service thereof shall be considered effected by leaving the same in the premises of the taxpayer and this fact of constructive service is attested to, witnessed and signed by at least two (2) revenue officers other than the revenue officer who constructively served the same. The revenue officer who constructively served the same shall make a written report of this matter which shall form part of the docket of this case.
+ (Underscoring supplied)
+SECTION 3. 
+Due process requirement in the issuance of a Deficiency Tax Assessment
+.
+ â
+3.1
+ Mode of procurement in the issuance of a deficiency tax assessment:
+ 
+3.1.1 
+Preliminary Assessment Notice (PAN)
+.
+ x x x 
+ x x x x
+ 
+3.1.2 
+Exceptions to Prior Notice of the Assessment
+.
+ x x x
+x x x x
+3.1.3 
+Formal Letter of Demand and Assessment Notice (FLD/FAN)
+.
+ â 
+The Formal Letter of Demand and Final Assessment Notice (FLD/FAN) shall be issued by the Commissioner or his duly authorized representative. The FLD/FAN calling for payment of the taxpayer's deficiency tax or taxes shall state the facts, the law, the rules and regulations, or-jurisprudence on which the assessment is based;
+ otherwise, the assessment shall be void
+ (see illustration in ANNEX "B" hereof).
+3.1.4 
+Disputed Assessment
+. â The taxpayer or its authorized representative or tax agent may protest administratively against the aforesaid FLD/FAN within thirty (30) days from date of receipt thereof. The taxpayer protesting an assessment may file a written request for reconsideration or reinvestigation as follows:
+x x x x
+3.1.5
+ 
+Final Decision on a Disputed Assessment (FDDA)
+.
+ â x x x
+ 
+3.1.6 
+Modes of Service
+.
+ 
+â The notice (PAN/FLD/FAN/FDDA) to the taxpayer herein required may be served by the Commissioner or his duly authorized representative through the following modes:
+ 
+(i) The notice shall be served through personal service by delivering personally a copy thereof to the party at his registered or known address or wherever he may be found. A 
+known address
+ shall mean a place other than the registered address where business activities of the party are conducted or his place of residence.
+ 
+x x x x 
+(ii) Substituted service can be resorted to when the party is not present at the registered or known address under the following circumstances:
+The notice may be left at the party's registered address, with his clerk or with a person having charge thereof.
+If the known address is a place where business activities of the party are conducted, the notice may be left with his clerk or with a person having charge thereof.
+If the known address is the place of residence, substituted service can be made by leaving the copy with a person of legal age residing therein.
+If no person is found in the party's registered or known address, the revenue officers concerned shall bring a barangay official and two (2) disinterested witnesses to the address so that they may personally observe and attest to such absence. The notice shall then be given to said barangay official. Such facts shall be contained in the bottom portion of the notice, as well as the names, official position and signatures of the witnesses.
+Should the party be found at his registered or known address or any other place but refuse to receive the notice, the revenue officers concerned shall bring a barangay official and two (2) disinterested witnesses in the presence of the party so that they may personally observe and attest to such act of refusal. The notice shall then be given to said barangay official. Such facts shall be contained in the bottom portion of the notice, as well as the names, official position and signatures of the witnesses.
+"
+Disinterested witnesses
+" refers to persons of legal age other than employees of the Bureau of Internal Revenue. 
+(iii) Service by mail is done by sending a copy of the notice by registered mail to the registered or known address of the party with instruction to the Postmaster to return the mail to the sender after ten (10) days, if undelivered. A copy of the notice may also be sent through reputable professional courier service. If no registry or reputable professional courtier service is available in the locality of the addressee, service may be done by ordinary mail. 
+The server shall accomplish the bottom portion of the notice. He shall also make a written report under oath before a Notary Public or any person authorized to administer oath under Section 14 of the NIRC, as amended, setting forth the manner, place and date of service, the name of the person/barangay official/professional courier service company who received the same and such other relevant information. The registry receipt issued by the post office or the official receipt issued by the professional courier company containing sufficiently identifiable details of the transaction shall constitute sufficient proof of mailing and shall be attached to the case docket.
+Service to the tax agent/practitioner, who is appointed by the taxpayer under circumstances prescribed in the pertinent regulations on accreditation of tax agents, shall be deemed service to the taxpayer.
+ (Underscoring in the original) 
+ 
+ 
+As can be gleaned from Sec. 3.1.4 of RR No. 12-99 quoted above, the formal letter of demand and assessment notice shall be sent to the taxpayer only by personal delivery or by registered mail, and service thereof can either be considered actually or constructively received. If sent by personal delivery, the taxpayer or his/her duly authorized representative shall acknowledge receipt in the duplicate copy of the letter of demand, indicating the following: (a) name; (b) signature; (c) designation and authority to act for and in behalf of the taxpayer, if acknowledged received by a person other than the taxpayer; and (d) date of receipt thereof.
+Under Sec. 3.1.7 of RR No. 12-99, effecting constructive service involves two requisites: (1) leaving the notice in the premises of the taxpayer, and (2) the fact of such service is attested to, witnessed, and signed by at least two revenue officers other than the revenue officer who constructively served the same.
+The CIR failed to prove these requisites.
+To prove that the FLD-DDAN was properly served on SEGI, the CIR merely presented and formally offered in evidence the registry receipt, the certification issued by the Philippine Postal Corporation, and the testimonies of Ocampo and Victoria. Their respective narrations show that Ocampo placed the assessment notice in a sealed envelope and delivered the mail matter to the Post Office of San Fernando Pampanga on January 8, 2010, while Victoria delivered the mail matter recorded as registered letter no. 44 to Ms. Rose Ann Gomez, an administrative officer of SM City Pampanga on January 13, 2010. Victoria testified that he did not attempt to directly deliver the said mail to the SEGI's place of business.
+Clearly, the testimonies of Ocampo and Victoria merely proved that the FLD-DDAN was served only on an administrative officer of SM City Pampanga, who was allegedly in charge of receiving mail matters for all mall tenants like SEGI. However, their testimonies fell short in showing that the FLD-DDAN was either actually or constructively served on SEGI or its duly authorized representative, as required by Secs. 3.1.4 and 3.1.7 of RR No. 12-99.
+The Court quotes with approval the following observation of the CTA 
+En Banc
+ on this score, thus:
+It is worthy to note that considering the importance of the FLDÂ­DDAN, the prudent course would have been to directly serve the said assessment notice to respondent [SEGI]. The fact that the administrative office of SM City Pampanga is located at the ground floor, and respondent's registered business address is at the third floor, as a tenant of the same mall, to which, needless to say, is open to the public, petitioner [CIR] or any of her representatives could have personally served the assessment notices to respondent with ease.
+[61]
+The CIR cannot rely on the supposed incompetence and lack of personal knowledge of SEGI's witness to testify on the alleged non-receipt of the FLD-DDAN, because the evidence on record clearly showed that the FLD-DDAN was not properly served on SEGI or its duly authorized representative at its registered business address. As the CTA 
+En Banc
+ correctly noted, the presumption that a letter duly directed and mailed was received in the regular course of the mail
+[62]
+ is merely a disputable presumption which may be controverted. A direct denial thereof shifts the burden to the party favored by the presumption to prove that the mailed matter was indeed received by the addressee.
+[63]
+This case should be distinguished from the related case of 
+Commissioner of Internal Revenue v. South Entertainment Gallery, Inc.
+[64]
+ involving the assessment of deficiency income tax and VAT against SEGI for the taxable year 2005. In finding that SEGI failed to overcome the presumption that the Final Assessment Notice, which the CIR sent by registered mail, was received in the regular course of mail, and that bare denial of receipt of the said notice will not suffice, the Court ruled as follows:
+Here, petitioner [CIR] presented the registry receipts and return card along with the testimony of the Bureau of Internal Revenue personnel who prepared the mail matter and personally delivered it to the Post Office of San Fernando, Pampanga. In addition, petitioner also presented Postman II Emelita M. Victoria who delivered the mail. He testified that all mail matters addressed to tenants of SM City Pampanga are received through SM Warehouse by Warehouse Assistant Brian David, who receives such mail matters for the tenants. For this, the Postman issued a Certification dated February 7, 2012 stating that he delivered Registered Mail No. 853, addressed to respondent and posted on April 10, 2008, and was received by Brian David on April 14, 2008 in SM City Pampanga. Warehouse Assistant Brian David, in turn, testified that as part of his functions, he receives mail matters and other documents for distribution to tenants of SM City Pampanga, and confirmed his receipt of the mail matter on April 14, 2008 and his handwriting on the Registry Return Card. He also confirmed that respondent is one of the tenants of SM City Pampanga.
+[65]
+In this case, the CIR likewise presented the registry receipt and certification of the Postmaster, along with the testimonies of the BIR personnel who personally delivered the mail matter to the post office of San Fernando, Pampanga, and the postman who delivered the mail to the administrative office of SM City Pampanga located at the ground floor, where mail matters and other documents are received for distribution to tenants of the mall. However, unlike in the above-cited case, the administrative officer of SM City Pampanga, a certain Rose Ann Gomez, who allegedly received the FLD-DDAN, was not presented to testify on her functions, and to confirm that she indeed received such mail matter. There is also no showing that a Preliminary Collection Letter was issued by the BIR and received by SEGI, referring to the FLD-DDAN as the CIR's basis in collecting the deficiency taxes.
+Significantly, the CIR failed to prove compliance with the two requisites under Sec. 3.1.7 of RR No. 12-99 on effecting constructive service: (1) leaving the notice in the premises of the taxpayer, and (2) the fact of such service is attested to, witnessed and signed by at least two revenue officers other than the revenue officer who constructively served the same. Without proof that these two requisites had been duly complied with, service of the FLD-DDAN at the ground floor of the administrative office of SM City Pampanga cannot be deemed constructive service to SEGI. In fine, the CIR's evidence failed to establish compliance with the requisites for actual or constructive service of the FLD-DDAN either by personal delivery or by registered mail under Secs. 3.1.4 and 3.1.7 of RR No. 12-99, respectively.
+At this juncture, it bears emphasizing that in 
+Commissioner of Internal Revenue v. Menguito
+[66]
+ (
+Menguito
+), the Court held that the stringent requirement that an assessment notice be satisfactorily proven to have been issued and released or, if receipt thereof is denied, that said assessment notice have been served on the taxpayer, applies only to formal assessments prescribed under Sec. 228 of the 1997 NIRC, but not to post-reporting notices or pre-assessment notices. The issuance of a valid formal assessment is a substantive prerequisite to tax collection. A formal assessment contains not only a computation of tax liabilities but also a demand for payment within a prescribed period, thereby signaling the time when penalties and interests begin to accrue against the taxpayer and enabling the latter to determine his remedies therefor. Due process requires that it must be served on and received by the taxpayer.
+[67]
+In 
+Commissioner of Internal Revenue v. Metro Star Superama, Inc.
+[68]
+ (
+Metro Star
+), the Court also had the occasion to resolve the issue of whether the failure to strictly comply with notice requirements prescribed under Sec. 228 of the 1997 NIRC and RR No. 12-99 is tantamount to a denial of due process.
+[69]
+ The Court held that the failure of the CIR to send the PAN stating the facts and the law on which the assessment was made as required by Sec. 228 of R.A. No. 8424, renders its assessment void. The Court explained:
+Indeed, Section 228 of the Tax Code clearly requires that the taxpayer must first be informed that he is liable for deficiency taxes through the sending of a PAN. He must be informed of the facts and the law upon which the assessment is made. The law imposes a substantive, not merely a formal, requirement. To proceed heedlessly with tax collection without first establishing a valid assessment is evidently violative of the cardinal principle in administrative investigations â that taxpayers should be able to present their case and adduce supporting evidence.
+[70]
+Guided by the rulings in 
+Menguito
+ and 
+Metro Star
+, the Court holds that insofar as the proper service of the formal letter of demand and assessment notice is part of the due process requirement in the issuance of a deficiency tax assessment under Sec. 3 of RR No. 12-99, the absence of such service renders nugatory any assessment made by the tax authorities.
+In line with 
+Metro Star
+, the Court similarly rules that the word "shall" in subsection 3.1.4 of RR No. 12-99 likewise describes the mandatory nature of the service of the formal letter of demand and assessment notice. In view of the ruling therein that the persuasiveness of the right to due process reaches both substantial and procedural rights, and that the failure of the CIR to strictly comply with the requirements laid down by law and its own rules is a denial of the taxpayer's right to due process,
+[71]
+ the Court declares that the CIR's failure to prove that the FLD-DDAN was properly served on SEGI by registered mail renders void the deficiency assessment issued by the CIR.
+It bears emphasis that despite the inevitability and indispensability of taxation, it is required in all democratic regimes that it be exercised reasonably and in accordance with the prescribed procedure; otherwise, the taxpayer has a right to complain and the courts will then come to its succor.
+[72]
+ For all the awesome power of the tax collector, it may still be stopped in its tracks if the taxpayer can demonstrate that the law has not been observed.
+[73]
+Considering that the FLD-DDAN was not proven to have been properly served on SEGI on January 13, 2010, the next issue to be resolved is whether the petition for review was timely filed before the CTA. However, the resolution of this matter will depend on the determination of when the reglementary period should commence to run â from receipt of: (1) the FNBS; (2) the WDL; or (3) the letter dated March 28, 2011 from OIC-RDO Ducut. 
+ 
+The petition for review with the CTA was filed on time; the 30-day reglementary period should be reckoned from receipt of the letter dated March 28, 2011 of OIC-RDO Ducut.
+ 
+The CIR argues that the CTA should not have taken cognizance of and has no jurisdiction to hear SEGI's petition for review, as it was filed out of time. The CIR asserts that failure to file the petition within the reglementary period rendered the disputed assessment final, executory, and demandable, thereby precluding SEGI from interposing the defenses of the legality or validity of the assessment and prescription of the Government's right to assess.
+[74]
+The CIR further contends that SEGI was given ample opportunity to protest and dispute the deficiency assessments as early as its receipt of the FLD-DDAN on January 8, 2010. Even assuming that SEGI did not receive the FLD-DDAN, the CIR posits that the 30-day period within which to file a petition for review before the CTA should be reckoned from June 16 2010 the date that SEGI admitted to have received the FNBS. The CIR submits that such final notice can be considered a formal notice of denial of SEGI's protest, for the purpose of filing an appeal before the CTA, as the contents of said notice patently informs the taxpayer of the declaration of deficiency tax against the latter.
+[75]
+Considering that SEGI received the FNBS on June 16, 2010 and its petition for review was filed before the CTA on May 11, 2011, the CIR faults SEGI for allowing a period of 100 days from receipt of the FNBS to lapse before questioning the issuance thereof or only on September 24, 2010, and a period of 329 days before appealing the FNBS to the CTA Division. The CIR claims that since SEGI had 30 days from the time it received the FNBS, or until July 16, 2010 to appeal the same, the filing of the petition for review on May 11, 2011 was way beyond the 30-day reglementary period.
+[76]
+ The CIR likewise argues that in the absence of a valid service of the FLD-Â­DDAN, the statutory period for filing an appeal should be reckoned from SEGI's receipt of the WDL.
+[77]
+For its part, SEGI counters that the appealable decision is the letter dated March 28, 2011 with attached Memorandum dated February 3, 2011, which denied its request for the withdrawal or cancellation of the WDL. SEGI asserts that its petition for review was timely filed before the CTA on May 11, 2011, which is within the 30-day reglementary period from receipt of the denial of its request for cancellation of the WDL on April 13, 2011. SEGI claims that the FNBS cannot be construed as the formal notice of denial of its protest, because a protest must be preceded by a valid assessment. SEGI avers that it would be absurd to require it to file a protest when it did not actually receive the FLD-DDAN.
+[78]
+The Court finds no merit in the arguments of the CIR, and agrees with the CTA 
+En Banc
+ in ruling that SEGI's petition for review was filed on time.
+Sec. 228 of the 1997 NIRC, as amended, provides for the procedure on protesting assessments and on appealing from the decision on the protest to the CTA:
+Sec. 228. 
+Protesting of Assessment
+. â When the Commissioner or his duly authorized representative finds that proper taxes should be assessed, he shall first notify the taxpayer of his findings: 
+Provided, however
+, That a pre-assessment notice shall not be required in the following cases:
+x x x x
+Within a period to be prescribed by implementing rules and regulations, the taxpayer shall be required to respond to said notice. If the taxpayer fails to respond, the Commissioner or his duly authorized representative shall issue an assessment based on his findings.
+Such assessment may be protested administratively by filing a request for reconsideration or reinvestigation within thirty (30) days from receipt of the assessment in such form and manner as may be prescribed by implementing rules and regulations. Within sixty (60) days from filing of the protest, all relevant supporting documents shall have been submitted; otherwise, the assessment shall become final.
+If the protest is denied in whole or in part
+, or is not acted upon within one hundred eighty (180) days from submission of documents, 
+the taxpayer adversely affected by the decision
+ or inaction 
+may appeal to the Court of Tax Appeals within thirty (30) days from receipt of the said decision
+, or from the lapse of one hundred eighty (180)-day period; otherwise, the decision shall become final, executory and demandable. (Emphases supplied)
+Prior to the amendments introduced by RR 18-2013, Sec. 3.1.5 of RR 12-99 provides that the remedy to question the formal letter of demand and assessment notice is to file an administrative protest within 30 days from the date of receipt thereof. If the protest is denied by the CIR or his/her duly authorized representative, the taxpayer may appeal to the CTA within 30 days from date of receipt of the decision, to wit:
+3.1.5. 
+Disputed Assessment
+. â The taxpayer or his duly authorized representative may protest administratively against the aforesaid formal letter of demand and assessment notice within thirty (30) days from date of receipt thereof. If there are several issues involved in the formal letter of demand and assessment notice but the taxpayer only disputes or protests against the validity of some of the issues raised, the taxpayer shall be required to pay the deficiency tax or taxes attributable to the undisputed issues, in which case, a collection letter shall be issued to the taxpayer calling for payment of the said deficiency tax, inclusive of the applicable surcharge and/or interest. No action shall be taken on the taxpayer's disputed issues until the taxpayer has paid the deficiency tax or taxes attributable to the said undisputed issues. The prescriptive period for assessment or collection of the tax or taxes attributable to the disputed issues shall be suspended.
+The taxpayer shall state the facts, the applicable law, rules and regulations, or jurisprudence on which his protest is based, otherwise, his protest shall be considered 
+void and without force and effect
+. If there are several issues involved in the disputed assessment and the taxpayer fails to state the facts, the applicable law, rules and regulations, or jurisprudence in support of his protest against some of the several issues on which the assessment is based, the same shall be considered undisputed issue or issues, in which case, the taxpayer shall be required to pay the corresponding deficiency tax or taxes attributable thereto.
+The taxpayer shall submit the required documents in support of his protest within sixty (60) days from date of filing of his letter of protest, otherwise, the assessment shall become final, executory and demandable. The phrase "submit the required documents" includes the submission or presentation of the pertinent documents for scrutiny and evaluation by the Revenue Officer conducting the audit. The said Revenue Officer shall state this fact in his report of investigation.
+If the taxpayer fails to file a valid protest against the formal letter of demand and assessment notice within thirty (30) days from date of receipt thereof, the assessment shall become final, executory and demandable.
+If the protest is denied, in whole or in part, by the Commissioner, the taxpayer may appeal to the Court of Tax Appeals within thirty (30) days from date of receipt of the said decision
+, otherwise, the assessment shall become final, executory and demandable.
+In general, 
+if the protest is denied, in whole or in part, by the Commissioner or his duly authorized representative, the taxpayer may appeal to the Court of Tax Appeals within thirty (30) days from date of receipt of the said decision
+, otherwise, the assessment shall become final, executory and demandable: 
+Provided, however
+, That if the taxpayer elevates his protest to the Commissioner within thirty (30) days from date of receipt of the final decision of the Commissioner's duly authorized representative, the latter's decision shall not be considered final, executory and demandable, in which case, the protest shall be decided by the Commissioner.
+If the Commissioner or his duly authorized representative fails to act on the taxpayer's protest within one hundred eighty (180) days from date of submission, by the taxpayer, of the required documents in support of his protest, the taxpayer may appeal to the Court of Tax Appeals within thirty (30) days from the lapse of the said 180-day period, otherwise, the assessment shall become final, executory and demandable. (Emphases supplied)
+The period for filing an appeal before the CTA is found under Sec. 11 of R.A. No. 1125,
+[79]
+ as amended by R.A. No. 9282:
+[80]
+Sec. 11. 
+Who May Appeal; Mode of Appeal; Effect of Appeal
+. â 
+Any party adversely affected by a decision, ruling
+ or inaction 
+of the Commissioner of Internal Revenue
+, the Commissioner of Customs, the Secretary of Finance, the Secretary of Trade and Industry or the Secretary of Agriculture or the Central Board of Assessment Appeals or the Regional Trial Courts 
+may file an appeal with the CTA within thirty (30) days after the receipt of such decision or ruling
+ or after the expiration of the period fixed by law for action as referred to in Section 7(a)(2) herein. (Emphases supplied)
+Sec. 3(a), Rule 8 of the Revised Rules of the Court of Tax Appeals, as amended, likewise states the procedure for appeal by petition for review of the decision or ruling of the CIR:
+Rule 8
+PROCEDURE IN CIVIL CASES
+x x x x
+Sec. 3. 
+Who may appeal; period to file petition
+. â (a) 
+A party adversely affected by a decision, ruling
+, or the inaction 
+of the Commissioner of Internal Revenue on disputed assessments
+ or claims for refund of internal revenue taxes, or by a decision or ruling of the Commissioner of Customs, the Secretary of Finance, the Secretary of Trade and Industry, the Secretary of Agriculture, or a Regional Trial Court in the exercise of its original jurisdiction may appeal to the Court by 
+petition for review filed within thirty days after receipt of copy of such decision or ruling
+, or expiration of the period fixed by law for the Commissioner of Internal Revenue to act on the disputed assessments. In case of inaction of the Commissioner of Internal Revenue on claims for refund of internal revenue taxes erroneously or illegally collected, the taxpayer must file a petition for review within the two-year period prescribed by law from payment or collection of the taxes. (Emphases supplied)
+Based on Sec. 3.1.5 of RR No. 12-99, Sec. 11 of R.A. No. 1125, as amended, and Sec. 3(a), Rule 8 of the Revised Rules of the CTA, a protesting taxpayer has three options to dispute an assessment:
+[81]
+If the protest is wholly or partially denied by the CIR or his authorized representative, then the taxpayer may appeal to the CTA within 30 days from receipt of the whole or partial denial of the protest;
+If the protest is wholly or partially denied by the CIR's authorized representative, then the taxpayer may appeal to the CIR within 30 days from receipt of the whole or partial denial of the protest;
+If the CIR or his authorized representative failed to act upon the protest within 180 days from submission of the required supporting documents, then the taxpayer may appeal to the CTA within 30 days from the lapse of the 180-day period.
+[82]
+In 
+Lascona Land Co., Inc. v. Commissioner of Internal Revenue
+,
+[83]
+ the Court noted that as early as the case of 
+Commissioner of Internal Revenue v. Villa
+[84]
+ (
+Villa
+), it was already established that the word "decisions" which are within the exclusive appellate jurisdiction of the CTA in paragraph 1, Sec. 7
+[85]
+ of R.A. No. 1125, has been interpreted to mean the 
+decisions
+ of the CIR on the 
+protest
+ of the taxpayer against the assessments. In noting that word "decisions" does not signify the assessment itself, the Court explained as follows:
+In the first place, 
+we believe the respondent court erred in holding that the assessment in question is the respondent Collectors decision or ruling appealable to it
+, and that consequently, the period of thirty days prescribed by section 11 of Republic Act No. 1125 within which petitioner should have appealed to the respondent court must be counted from its receipt of said assessment. 
+Where a taxpayer questions an assessment and asks the Collector to reconsider or cancel the same because he (the taxpayer) believes he is not liable therefor, the assessment becomes a "disputed assessment" that the Collector must decide, and the taxpayer can appeal to the Court of Tax Appeals only upon receipt of the decision of the Collector on the disputed assessment[.]
+[86]
+ (Emphasis in the original)
+The Court also noted in 
+Villa
+ that Sec. 11 of R.A. No. 1125 uses the word "decisions" instead of "assessments," further indicating the legislative intention to subject to judicial review the 
+decision
+ of the Commissioner on the protest against an assessment but not the assessment itself.
+[87]
+Clearly, it is the decision or ruling of the CIR on the protest or disputed assessment that is the subject of an appeal by petition for review before the CTA, within 30 days from receipt of the decision or ruling.
+For ready reference in determining the timeliness of the petition for review which SEGI filed before the CTA, the relevant facts are tabulated as follows: 
+Letter/Notice
+Date of Receipt
+Remedy availed by SEGI
+Date of Filing
+OIC-RDO's Formal Letter of Demand with Details of Discrepancies and Assessment Notice (FLD-DDAN)
+(Improperly served on January 13, 2010) 
+-
+-
+OIC-RDO's Final Notice Before Seizure (FNBS)
+June 16, 2010
+-
+-
+OIC-RDO's Warrant of Distraint/Levy (WDL)
+September 1, 2010
+SEGI's letter to cancel WDL
+September 24, 2010
+OIC-RDO's March 28, 2011 letter reiterating deficiency assessment
+April 13, 2011 
+Petition for Review with CTA
+May 11, 2011
+In this case, SEGI could not have filed a timely administrative protest with the CIR, because the latter failed to prove that SEGI was properly served by registered mail of a copy of the FLD-DDAN. Such invalid service rendered the said assessment void and without force and effect, for noncompliance with the due process requirement in the issuance of a deficiency tax assessment. For the same-reason, neither the date of receipt of the FNBS nor that of the WDL could be considered the reckoning point of the 30-day reglementary period to file a petition for review before the CTA. Both the FNBS and WDL issued by OIC-RDO Ducut are fruits of a void assessment, as they were both based on the FLD-DDAN, specifically, Assessment No. 021R-0804084618 issued on December 9, 2009, which was improperly served.
+While it is true that as a rule, the warrant of distraint and levy is "proof of the finality of the assessment" and "renders hopeless a request for reconsideration," being tantamount to an outright denial thereof and makes the said request deemed rejected,
+[88]
+ there is a special circumstance in this case that prevents the application of this accepted doctrine. The special circumstance is that the CIR failed to prove that the FLD-DDAN was properly served on SEGI. Therefore, SEGI has nothing to protest for reconsideration or reinvestigation. It is sufficient that SEGI filed a letter to cancel the WDL to exhaust the administrative remedy. Thus, the decision or ruling that is subject of the petition for review before the CTA is the March 28, 2011 Letter of OIC-RDO Ducut because this can be deemed as the denial of protest by the CIR's authorized representative.
+Although OIC-RDO Ducut's March 28, 2011 Letter does not specifically refer to SEGI's September 24, 2010 Letter to cancel the WDL, the said OIC-RDO letter can be deemed a denial of SEGI's request. This is because the OIC-RDO letter also addressed the issues raised in SEGI's letter relative to the assessment of deficiency income tax and VAT for the taxable year 2007, by merely attaching the Memorandum
+[89]
+ dated February 3, 2011 of its Legal Division which delved with similar issues involving SEGI's deficiency income tax and VAT for the taxable year 2005. As noted in the CTA's Pre-trial Order,
+[90]
+ the parties stipulated, among others, that the said Memorandum was issued relative to the request for withdrawal and cancellation of the WDL for the taxable year 2005, the arguments and rationale of which were adopted and applied in denying SEGI's request for withdrawal and cancellation of the WDL issued for the taxable year 2007.
+[91]
+ Pertinent portions of OIC-RDO Ducut's Letter dated March 28, 2011 to SEGI read:
+This has reference with the Objections/Comments submitted to our officer relative to the Assessment Notice No. 021R-0804084618 dated December 9, 2009 for the taxable year 2007.
+The unfavorable legal opinion/ruling issued relative to your objections/comments for the assessment of your taxable year 2005 against you also applies since the issues raised in your objections/comments for the taxable year 2007 are the same with the issues raised in your objections/comments for the taxable year 2005.
+Hence, we hereby reiterate the collection of deficiency Income Tax in the amount of P8,378,025.10 and deficiency VAT in the amount of P31,410,080.45 for the taxable year 2007.
+Attached herewith is the copy of the Memorandum of our Legal Division dated February 3, 2011. 
+Please give this matter your preferential attention.
+[92]
+Accordingly, the 30-day reglementary period within which to file the petition for review should be reckoned from the receipt of the March 28, 2011 Letter of OIC-RDO Ducut on April 13, 2011. Hence, the filing of the petition on May 11, 2011, or within 30 days from April 13, 2011, is on time. 
+ 
+Validity of the assessment need not be discussed, because a void assessment bears no fruit.
+ 
+Finally, the CIR contends that the assessments are valid and lawful, and that SEGI cannot invoke P.D. No. 1869 as basis in assailing the deficiency income tax. With the passage of R.A. No. 9337, the CIR states that PAGCOR is no longer exempt from corporate income tax, while SEGI is also no longer exempt from paying such tax because of its contractual relations with PAGCOR. The CIR also invokes the presumption that tax assessments by tax examiners are presumed correct and made in good faith, and that all presumptions are in favor of the correctness of a tax assessment unless proven otherwise.
+[93]
+ In its defense, SEGI stated that in 
+Bloomberry Resorts and Hotels, Inc. v. Bureau of Internal Revenue
+,
+[94]
+ the Court recognized that like PAGCOR, its contractees and licensees remain exempted from payment of corporate tax and other taxes since the law is clear that said exemption inures to their benefit.
+[95]
+In light of the Court's finding that the CIR failed to prove that the FLD-DDAN was actually or constructively received by SEGI or its duly authorized representative, which rendered the assessment void, the Court will no longer discuss the third issue on the validity of the assessment, for it is well-settled that a void assessment bears no valid fruit.
+[96]
+ As the Court explained in 
+Commissioner of Internal Revenue v. Reyes
+:
+[97]
+The law imposes a substantive, not merely a formal, requirement. To proceed heedlessly with tax collection without first establishing a valid assessment is evidently violative of the cardinal principle in administrative investigations: that taxpayers should be able to present their case and adduce supporting evidence. In the instant case, respondent has not been informed of the basis of the estate tax liability. 
+Without complying with the unequivocal mandate of first informing the taxpayer of the government's claim, there can be no deprivation of property, because no effective protest can be made.
+ The haphazard shot at slapping an assessment, supposedly based on estate taxation's general provisions that are expected to be known by the taxpayer, is utter chicanery.
+[98]
+ (Emphasis added)
+WHEREFORE
+, premises considered, the instant Petition for Review on 
+Certiorari
+ is 
+DENIED
+. The October 28, 2015 Decision of the Court of Tax Appeals 
+En Banc
+ and its Resolution dated March 22, 2016 in CTA EB No. 1214 are 
+AFFIRMED
+.
+SO ORDERED.
+Hernando, Zalameda
+, and 
+Marquez, JJ.
+, concur.
+Rosario
+,
+**
+ 
+J.
+, on leave.
+*
+ Part of the Supreme Court Decongestion Program.
+**
+ On leave.
+[1]
+ 
+Rollo
+, pp. 55-102.
+[2]
+ 
+Id.
+ at 7-36; penned by Associate Justice Caesar A. Casanova and concurred in by Presiding Justice Roman G. Del Rosario and Associate Justices Juanito C. CastaÃ±eda, Jr., Lovell R. Bautista, Erlinda P. Uy, Esperanza R. Fabon-Victorino, Cielito N. Miridaro-Grulla, and Ma. Belen M. Ringpis-Liban; Associate Justice Amelia R. Cotangco-Manalastas, on leave.
+[3]
+ 
+Id.
+ at 38-49; penned by Associate Justice Caesar A. Casanova and concurred in by Associate Justices Juanito C. CastaÃ±eda, Jr., Lovell R. Bautista, Erlinda P. Uy, Esperanza R. Fabon-Victorino, Cielito N. Mindaro-Grulla, and Amelia R. Cotangco-Manalastas; Presiding Justice Roman G. Del Rosario, with Dissenting Opinion; Associate Justice Ma. Belen M. Ringpis-Liban, on leave.
+[4]
+ 
+Id.
+ at 250-261; penned by Associate Justice Lovell R. Bautista and concurred in by Associate Justice Ma. Belen M. Ringpis-Liban; Associate Justice Esperanza R. Fabon-Victorino, on leave.
+[5]
+ 
+Id.
+ at 263-264; penned by Associate Justice Lovell R. Bautista and concurred in by Associate Justices Esperanza R. Fabon-Victorino and Ma. Belen M. Ringpis-Liban.
+[6]
+ 
+Id.
+ at 226-248.
+[7]
+ CTA records, p. 6.
+[8]
+ 
+Id.
+ at 471-481.
+[9]
+ 
+Id.
+ at 488-489.
+[10]
+ 
+Id.
+ at 489.
+[11]
+ 
+Id.
+ at 490-491.
+[12]
+ 
+Id.
+ at 509.
+[13]
+ 
+Id.
+ at 515-516.
+[14]
+ 
+Id.
+ at 517-521.
+[15]
+ 
+Id.
+ at 518-520.
+[16]
+ 545 Phil. 1 (2007).
+[17]
+ CTA records, p. 522.
+[18]
+ Entitled "AN ACT AMENDING SECTIONS 27, 28, 34, 106, 107, 108, 109, 110, 111, 112, 113, 114, 116, 117, 119, 121, 148, 151, 236, 237 AND 288 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES." Otherwise known as "THE EXPANDED VALUE-ADDED TAX ACT." Approved on May 24, 2005.
+[19]
+ BIR records, pp. 491-494.
+[20]
+ 
+Id.
+ at 484-490.
+[21]
+ 
+Rollo
+, p. 133.
+[22]
+ CTA records, p. 526.
+[23]
+ 
+Id.
+ at 527.
+[24]
+ 
+Id.
+ at 528.
+[25]
+ 
+Id.
+ at 536.
+[26]
+ 
+Id.
+ at 537-542.
+[27]
+ 
+Id.
+ at 6-34.
+[28]
+ 
+Rollo
+, pp. 246-247.
+[29]
+ 
+Id.
+ at 238-239.
+[30]
+ 
+Id.
+ at 239.
+[31]
+ 
+Id.
+ at 240-241.
+[32]
+ CONSOLIDATING AND AMENDING PRESIDENTIAL DECREE NOS. 1067-A, 1067-B, 1067-C, 1399 AND 1632, RELATIVE TO THE FRANCHISE AND POWERS OF THE PHILIPPINE AMUSEMENT AND GAMING CORPORATION (PAGCOR). Issued on July 11, 1983.
+[33]
+ 
+Philippine Amusement and Gaming Corporation (PAGCOR) v. Bureau of Internal Revenue
+, 660 Phil. 636 (2011); 
+Abakada Gura Party List v. Ermita
+, 506 Phil. 1 (2005).
+[34]
+ 
+Rollo
+, pp. 241-244.
+[35]
+ 
+Id.
+ at 244-245.
+[36]
+ CTA records, pp. 853-877; 881-889.
+[37]
+ 
+Rollo
+, pp. 259-260.
+[38]
+ 
+Id.
+ at 257-259.
+[39]
+ 
+Id.
+ at 264.
+[40]
+ 
+Id.
+ at 265-289.
+[41]
+ 
+Id.
+ at 35.
+[42]
+ 
+Id.
+ at 33-34.
+[43]
+ 
+Id.
+ at 154-174.
+[44]
+ 
+Id.
+ at 40.
+[45]
+ 749 Phil. 772 (2014).
+[46]
+ 
+Rollo
+, pp. 40-41.
+[47]
+ 
+Id.
+ at 41-44.
+[48]
+ 
+Id.
+ at 46-49.
+[49]
+ 
+Id.
+ at 48-49.
+[50]
+ 
+Id.
+ at 72.
+[51]
+ 
+Id.
+ at 82-85.
+[52]
+ 
+Id.
+ at 86.
+[53]
+ 
+Id.
+ at 88-90.
+[54]
+ 
+Id.
+ at 93.
+[55]
+ 476 Phil. 623, 634-635 (2004).
+[56]
+ 
+Rollo
+, p. 91.
+[57]
+ Amending Certain Sections of Revenue Regulations No. 12-99 Relative to the Due Process Requirement in the Issuance of a Deficiency Tax Assessment.
+[58]
+ 
+Commissioner of Internal Revenue v. United Salvage and Towage (Phils.), Inc.
+, 738 Phil. 335, 348 (2014).
+[59]
+ Implementing the Provisions of the National Internal Revenue Code of 1997 Governing the Rules on Assessment of National Internal Revenue Taxes, Civil Penalties and Interest and the Extra-judicial Settlement of a Tax Payer's Criminal Violation of the Code through Payment of a Suggested Compromise Penalty. Issued on September 14, 1999.
+[60]
+ Sec. 228. 
+Protesting of Assessment
+. â When the Commissioner or his duly authorized representative finds that proper taxes should be assessed, he shall first notify the taxpayer of his findings: 
+Provided, however
+, That a pre-assessment notice shall not be required in the following cases:
+x x x x
+Within a period to be prescribed by implementing rules and regulations, the taxpayer shall be required to respond to said notice. If the taxpayer fails to respond, the Commissioner or his duly authorized representative shall issue an assessment based on his findings.
+Such assessment may be protested administratively by filing a request for reconsideration or reinvestigation within thirty (30) days from receipt of the assessment in such form and manner as may be prescribed by implementing rules and regulations. Within sixty (60) days from filing of the protest, all relevant supporting documents shall have been submitted; otherwise, the assessment shall become final.
+[61]
+ 
+Rollo
+, p. 34.
+[62]
+ Sec. 3(v), Rule 131 of the Revised Rules of Court, as amended.
+[63]
+ 
+Barcelon, Roxas Securities, Inc. v. Commissioner of Internal Revenue
+, 529 Phil. 785, 793 (2006), citing 
+Protectors Services, Inc. v. Court of Appeals
+, 386 Phil. 611, 623 (2000); 
+Republic of the Philippines v. Court of Appeals
+, 233 Phil. 359, 363-364 (1987).
+[64]
+ 
+G.R. No. 225809
+, March 17, 2021.
+[65]
+ 
+Id.
+[66]
+ 587 Phil. 234 (2008).
+[67]
+ 
+Id.
+ at 256.
+[68]
+ 652 Phil. 172 (2010).
+[69]
+ 
+Id.
+ at 182.
+[70]
+ 
+Id.
+ at 184.
+[71]
+ 
+Id.
+ at 186-187.
+[72]
+ 
+Commissioner of Internal Revenue v. Algue, Inc.
+, 241 Phil. 829, 836 (1988).
+[73]
+ 
+Id.
+[74]
+ 
+Rollo
+, pp. 73-74.
+[75]
+ 
+Id.
+ at 79.
+[76]
+ 
+Id.
+ at 80.
+[77]
+ 
+Id.
+ at 81-82.
+[78]
+ 
+Id.
+ at 312.
+[79]
+ AN ACT CREATING THE COURT OF TAX APPEALS. Approved on June 16, 1954.
+[80]
+ AN ACT EXPANDING THE JURISDICTION OF THE COURT OF TAX APPEALS (CTA), ELEVATING ITS RANK TO THE LEVEL OF A COLLEGIATE COURT WITH SPECIAL JURISDICTION AND ENLARGING ITS MEMBERSHIP, AMENDING FOR THE PURPOSE CERTAIN SECTIONS OF REPUBLIC ACT No. 1125, AS AMENDED, OTHERWISE KNOWN AS THE LAW CREATING THE COURT OF TAX APPEALS, AND FOR OTHER PURPOSES. Approved on March 30, 2004.
+[81]
+ 
+Commissioner of Internal Revenue v. Domingo Jewellers, Inc.
+, 850 Phil. 403 (2019).
+[82]
+ 
+Id.
+ at 415.
+[83]
+ 683 Phil. 430 (2012).
+[84]
+ 130 Phil. 3, 6 (1968).
+[85]
+ Sec. 7. 
+Jurisdiction
+. â The Court of Tax Appeals shall exercise exclusive appellate jurisdiction to review by appeal, as herein provided:
+(1) Decisions of the Collector of Internal Revenue in cases involving disputed assessments, refunds of internal revenue taxes, fees or other charges, penalties imposed in relation thereto, or other matters arising under the National Internal Revenue Code or other law or part of law administered by the Bureau of Internal Revenue[.]
+[86]
+ 
+Lascona Land Co., Inc. v. Commissioner of Internal-Revenue
+, 
+supra
+ at 440.
+[87]
+ 
+Commissioner of Internal Revenue v. Villa
+, 
+supra
+ at 7; see 
+Villamin v. Court of Tax Appeals
+, 109 Phil. 896, 899 (1960).
+[88]
+ 
+Commissioner of Internal Revenue v. Algue, Inc.
+, 
+supra
+ note 72, at 831-832.
+[89]
+ CTA records, pp. 537-542.
+[90]
+ 
+Id.
+ at 323-329.
+[91]
+ 
+Id.
+ at 325.
+[92]
+ 
+Id.
+ at 536.
+[93]
+ 
+Rollo
+, pp. 95-97.
+[94]
+ 792 Phil. 751, 767 (2016).
+[95]
+ 
+Rollo
+, p. 325.
+[96]
+ 
+Samar-I Electric Cooperative v. Commissioner of Internal Revenue
+, 
+supra
+ note 45, at 786; 
+Commissioner of Internal Revenue v. Metro Star Superama, Inc.
+, 
+supra
+ note 68, at 187.
+[97]
+ 516 Phil. 176 (2006).
+[98]
+ 
+Id.
+ at 190.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

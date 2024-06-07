@@ -1,0 +1,487 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 234851, February 15, 2022 ]
+
+
+PAOLO ANTHONY C. DE JESUS, PETITIONER, VS. DR. ROMEO F. UYLOAN, SUBSTITUTED BY HIS WIFE SALVACION UYLOAN, ASIAN HOSPITAL AND MEDICAL CENTER AND DR. JOHN FRANCOIS OJEDA, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+GESMUNDO, C.J.:
+
+
+This resolves the petition for review on 
+certiorari 
+under Rule 45 of the Rules of Court to reverse and set aside the June 16, 2017 Decision
+[1]
+ and October 11, 2017 Resolution
+[2]
+ of the Court of Appeals (
+CA
+) in CA-G.R. SP No. 148192. The CA reversed the May 6, 2016 and August 26, 2016 Joint Orders
+[3]
+ of the Regional Trial Court of Las PiÃ±as City, Branch 198 (
+RTC
+), in Civil Case No. LP-15-0091 denying motions to dismiss based on prescription, among other grounds.
+ 
+Antecedents
+ 
+ On November 10, 2015, Paolo Anthony De Jesus (
+petitioner
+) filed a Complaint
+[4]
+ "For Damages under Articles 1170
+[5]
+ and 1173
+[6]
+ of the New Civil Code of the Philippines" against Dr. Romeo F. Uyloan (
+Dr. Uyloan
+), Dr. John Francois Ojeda (
+Dr. Ojeda
+) and the Asian Hospital and Medical Center (
+AHMC
+). 
+ On September 13, 2010, petitioner underwent an abdomino-pelvic sonogram. Dr. Uyloan diagnosed petitioner with 
+Cholelithiasis
+, a condition where there is a presence of stones in the gall bladder. Dr. Uyloan advised petitioner to undergo 
+laparoscopic cholecystectomy 
+to remove the gallstones. Petitioner agreed to have the operation at the AHMC. The operation was done on September 15, 2010, with Dr. Uyloan as attending physician and principal surgeon, and Dr. Ojeda as assisting surgeon.
+[7]
+ 
+ Petitioner expected that the procedure would consist of just four small incisions around his umbilical area. Instead, Dr. Uyloan and Dr. Ojeda performed an 
+open cholecystectomy
+ on petitioner without his approval or consent. During the operation in which his abdomen was opened up, he lost a lot of blood, which necessitated blood transfusion. Dr. Uyloan explained to him that the conversion of the operation from 
+laparoscopic cholecystectomy
+ to 
+open cholecystectomy
+ was a result of a "punctured cystic artery."
+[8]
+ Petitioner further alleged that upon his discharge from the AHMC on September 19, 2010, the release forms stated that he was in "good condition" and "recovered." However, he experienced vomiting and unbearable pain in his abdominal area, and there was continuous bile leak in his colostomy bag even after three days from discharge. During his follow-up checkup, Dr. Uyloan told him that the abdominal pains and bile leak were "part of it" and advised him to undergo magnetic resonance cholangio-pancreatography.
+[9]
+ 
+ Dissatisfied with Dr. Uyloan's response, petitioner went to another hospital for a series of medical tests, the results of which disclosed that instead of the cystic duct that joins the gall bladder to the common bile duct, it was the common bile duct that was cut and clipped. The transection of the common bile duct caused bile to leak out and accumulate around his liver, kidney spleen, the spaces between the colon and abdominal wall, as well as in his abdomen and lower limbs. He had to undergo another operation on November 19, 2010, to rectify the first operation performed by Dr. Uyloan and Dr. Ojeda.
+[10]
+ For the negligent acts of Dr. Uyloan and Dr. Ojeda, who allegedly breached their professional duties under their "medical contract" with petitioner, the latter sought to hold the former liable for actual damages, moral and exemplary damages, attorney's fees and litigation costs. Petitioner also sought to enforce solidary liability on the part of the AHMC in failing to supervise its doctors under the doctrine of corporate responsibility. 
+ Dr. Uyloan filed a Motion to Dismiss
+[11]
+ anchored on grounds of prescription, forum shopping, and lack of jurisdiction. Citing Art. 1146
+[12]
+ of the Civil Code, he argued that petitioner's action based on quasi-delict is already barred, having been filed beyond the four-year prescriptive period. As to forum shopping, he claimed that petitioner had filed criminal and administrative cases against him way back in 2011, which was not mentioned in the certification on non-forum shopping attached to the complaint. 
+ The AHMC and Dr. Ojeda also moved to dismiss the case based, among others, on prescription contending that it was readily apparent on the face of the complaint that petitioner's cause of action was premised on quasi-delict, arising from the cutting and clipping of his bile duct due to an alleged "misidentification of an anatomy." Such action should have been commenced within four years from September 15, 2010, the date he underwent the cholecystectomy at the AHMC.
+[13]
+ 
+ 
+The RTC Ruling
+ 
+ In its Joint Order dated May 6, 2016, the trial court denied both motions and held that the defense of prescription is evidentiary in nature which may not be established by mere allegations in the pleadings and cannot be resolved in a motion to dismiss. It also found that no forum shopping was committed by the petitioner considering that the criminal and administrative cases, and the present civil action, involve different causes of action. 
+ Petitioner, the AHMC, and Dr. Ojeda filed separate motions for reconsideration. 
+ On August 26, 2016, the trial court issued a joint order denying the motions for reconsideration. It declared that the complaint sufficiently alleges ultimate facts constituting petitioner's cause of action for damages. Accordingly, Dr. Uyloan, the AHMC, and Dr. Ojeda were directed to file their answer. 
+ Undaunted, Dr. Uyloan filed a petition for 
+certiorari
+ before the CA ascribing grave abuse of discretion on the part of the RTC in issuing the aforesaid orders. 
+ 
+The CA Ruling
+ 
+ In its assailed decision, the CA reversed the RTC and ordered the dismissal of the complaint. It held that petitioner's cause of action is indisputably based on medical negligence for which the applicable period of prescription is four years, pursuant to Art. 1146 of the Civil Code. However, the complaint was filed only on November 10, 2015, which is more than five years from the date the cause of action accrued, on September 15, 2010, when Dr. Uyloan and Dr. Ojeda performed the botched operation on his gallbladder. Hence, the trial court gravely abused its discretion in not ruling that petitioner's action was already time-barred. 
+ Petitioner's motion for reconsideration was likewise denied. 
+ 
+ISSUE
+ 
+ The lone issue that begs to be resolved by the Court is whether or not the CA committed reversible error when it ruled that the trial court gravely abused its discretion in denying the motions to dismiss. 
+ 
+Petitioner's Arguments
+ 
+ Petitioner argues that he is suing under the theory of breach of contract considering that the relationship between him as patient, and Dr. Uyloan and Dr. Ojeda as physicians, was contractual in nature. He stresses that the patientÂ­-physician relationship is basically a contract involving the exchange of money for services with all the elements of a valid contract (consent, determinate subject matter and consideration or price). Invoking the pronouncements in citing 
+Sullivan v. O'Connor
+[14]
+ and 
+Colvin v. Smith
+,
+[15]
+ decided by American courts, petitioner states that medical malpractice actions based on contract are not unheard of and permissible in this jurisdiction even if the cases that has reached this Court were brought under the theory of quasi-delict. He submits that it is already settled doctrine that liability for quasi-delict may co-exist in the presence of contractual relations.
+ As to the AHMC, petitioner contends that the recognition of the contractual relation between patient and hospital may be inferred from the Court's decision in 
+Professional Services, Inc. v. Court of Appeals
+[16]
+ which recognized the fact that the manner of operation of present-day hospitals has gone beyond mere furnishing of facilities for treatment; and that persons availing of facilities expect that the hospital will attempt to cure them.
+ Petitioner asserts that in the absence of a special law or jurisprudence, the physician-patient and patient-hospital relationships, just like other transactions involving exchange of money for services, are governed by the provisions of the Civil Code. Thus, under Art. 1173, a contract can be breached through omission of the diligence required by the nature of obligation, or of such diligence agreed upon by the parties in a contract.
+ Petitioner reiterates that a reading of his complaint plainly shows that his cause of action is based on contract. Hence, the CA clearly erred in holding that the applicable prescriptive period is four years, and not six or ten years, in accordance with Art. 1145 and 1144 of the Civil Code, respectively. Moreover, the issue of whether Dr. Uyloan, Dr. Ojeda, and the AHMC breached their contract with him deserves a full blown trial, and is not appropriate for resolution in a motion to dismiss.
+ 
+Respondent's Arguments
+ Dr. Uyloan maintains that the Court has uniformly treated medical malpractice cases as a distinct type of tort, which has four elements as with quasi-delicts in general: duty, breach, injury, and causation. While, concededly, there is no specific law and categorical judicial pronouncement in this jurisdiction on medical malpractice suits being limited to Art. 2176 of the Civil Code, he disagrees with petitioner's posture that his action is essentially based on contract. He points out that the foreign jurisprudence cited by the petitioner even shows that petitioner's complaint states a cause of action in tort and 
+not
+ in contract. In those cited cases, there was a special contract created between the physician and the patient, which is not the same as any other physician-patient relationship. Such a special contract is based on an express agreement between the physician and the patient to achieve a specific result. In this case, the allegations in petitioner's complaint simply do not support his theory of a medical malpractice action based on contract. 
+ 
+The Court's Ruling
+ 
+ The petition has no merit. 
+ The basic rule is that the Court's jurisdiction in a petition for review on 
+certiorari
+ under Rule 45 of the Rules of Court is limited only to the review of pure questions of law. 
+ In 
+Crisostomo v. Garcia
+,
+[17]
+ We ruled that prescription may either be a question of law or fact. Prescription is a question of fact when the doubt or difference arises as to the truth or falsity of an allegation of fact; it is a question of law when there is doubt or controversy as to what the law is on a given state of facts. The test of whether a question is one of law or of fact is not the appellation given to such question by the party raising the same; rather, it is whether the appellate court can determine the issue raised without reviewing or evaluating the evidence. Evidently, prescription is a question of fact where there is a need to determine the veracity of factual matters such as the date when the period to bring the action commenced to run.
+[18]
+ It is likewise settled that while trial courts have authority and discretion to dismiss an action on the ground of prescription, it may only do so when the parties' pleadings or other facts on record show it to be indeed time-barred.
+[19]
+ Thus, in 
+Macababbad, Jr. v. Masirag
+,
+[20]
+ We held that "[a] ruling on prescription necessarily requires an analysis of the plaintiff's cause of action based on the allegations of the complaint and the documents attached as its integral parts." A motion to dismiss based on prescription hypothetically admits the allegations relevant and material to the resolution of this issue, but not the other facts of the case.
+[21]
+ Here, the complaint prayed for damages resulting from the negligence of defendant doctors under the provisions of the Civil Code on contracts and quasi-delicts. However, petitioner explicitly anchors his action on the implied contract for medical treatment with Dr. Uyloan, Dr. Ojeda and the AHMC. It is the position of petitioner that an action alleging medical negligence may be brought at the same time under the contract theory. Since he has also alleged the contractual relation of physician and patient, petitioner argues that the prescriptive period of actions based on quasi-delict under Art. 1146 of the Civil Code should not apply. Instead, Arts. 1144
+[22]
+ and 1145
+[23]
+ on prescription of contracts should govern this case.
+ Considering that the dispute lies in the applicable provision on prescription of actions under the Civil Code, the issue of prescription in this case is one of law. Resolution of this question therefore requires a determination of petitioner's cause of action based on the allegations in the complaint and its annexes.
+ When a patient engages the services of a physician, a physician-patient relationship is generated. The type of lawsuit which has been called medical malpractice or, more appropriately, medical negligence, is that type of claim which a victim (
+patient
+) has available to him or her to redress a wrong committed by a medical professional which has caused bodily harm.
+[24]
+ For lack of a specific law geared towards the type of negligence committed by members of the medical profession in this jurisdiction, such claim for damages is almost always anchored on the alleged violation of Art. 2176 of the Civil Code, which states that: 
+ 
+ ART. 2176. Whoever by act or omission causes damage to another, there being fault or negligence, is obliged to pay for the damage done. Such fault or negligence, 
+if there is no pre-existing contractual relation
+ between the parties, is called a 
+quasi-delict
+ and is governed by the provisions of this Chapter. 
+ 
+ 
+ Medical malpractice is a particular form of negligence which consists in the failure of a physician or surgeon to apply to his practice of medicine that degree of care and skill which is ordinarily employed by the profession generally, under similar conditions, and in like surrounding circumstances.
+[25]
+ In order to successfully pursue such a claim, a patient must prove that the physician or surgeon either failed to do something which a reasonably prudent physician or surgeon would have done, or that he or she did something that a reasonably prudent physician or surgeon would not have done, and that the failure or action caused injury to the patient.
+[26]
+ There are thus four elements involved in medical negligence cases, namely: duty, breach, injury, and proximate causation. 
+ In 
+Lucas v. TuaÃ±o
+,
+[27]
+ this Court explains: 
+ 
+ When a patient engages the services of a physician, a physicianÂ­-patient relationship is generated. And in accepting a case, the physician, for all intents and purposes, represents that he has the needed training and skill possessed by physicians and surgeons practicing in the same field; and that he will employ such training, care, and skill in the treatment of the patient. Thus, in treating his patient, a physician is under a 
+duty
+ [to the former] to exercise that degree of care, skill and diligence which physicians in the same general neighborhood and in the same general line of practice ordinarily possess and exercise in like cases. Stated otherwise, the physician has the duty to use at least the same level of care that any other reasonably competent physician would use to treat the condition under similar circumstances.
+[28]
+ (emphasis supplied) 
+ 
+ 
+ Thus, where the complaint contains averments of the foregoing elements and the defendant doctor failed to observe such degree of care which caused damage or harm to the plaintiff patient, the cause of action is one for medical negligence under the law on torts rather than contract. 
+ The petitioner states his cause of action in the complaint thus: 
+ 
+CAUSE OF ACTION AGAINST THE DOCTORS
+ 
+ 
+ x x x x 
+ 
+ 29. A physician-patient relationship is created when the professional services are rendered to and accepted by another for purposes of medical or surgical treatment. As such, it arises from the moment a physician gives advice to a patient. 
+ 
+ 30. 
+The physician-patient relationship is basically a contractual relationship. Independently, liability may also arise 
+ex contractu
+ because of the contract between the doctor and the patient.
+ 
+ 
+ 31. In this case, a doctor-patient relationship was created when the Plaintiff sought the medical services of the Defendants and the latter rendered medical services to the former. 
+ 
+ 
+ 31.1 Defendant Uyloan diagnosed Plaintiff with 
+chlolethesis
+ and advised him to undergo Laparoscopic Cholelystectomy. 
+ 
+ 31.2 Defendant Uyloan performed the First Operation of Plaintiff as the principal surgeon with Defendant Ojeda as the assisting surgeon. 
+ 
+ 
+ 32. 
+Undeniably, a medical contract existed between the Plaintiff and Defendants Uyloan and Ojeda.
+ 
+ 
+ x x x x
+ 
+ 35. The primary duty of the Defendant Doctors is to perform the First Operation with the same level of care that any other competent physician would exercise under the circumstances to ensure the successful removal of the Plaintiff's gallstones without detriment to his health. 
+ 
+ 36. Defendant Doctors also have the duty to secure the voluntary informed consent of a patient or his relatives regarding the status of the operation, changes in the procedure and the mode of treatment effected because the patient has the right to refuse the medical treatment. 
+ 
+ x x x x
+ 
+ 38. Defendant Doctors also have the obligation to perform a post-operation procedure for the purpose of ensuring the success of the medical operation and to immediately rectify any damage or prevent adverse side effects. Such duty is even more required in this kind of operation because of the 'potential injury to the common bile duct, which connects the cystic and common hepatic ducts to the duodenum.' An injured bile duct can leak and cause a painful and potentially dangerous infection. Many cases of minor injury to the common bile duct can be managed non-surgically. Major injury to the bile duct, however, is a very serious problem and may require corrective surgery. 
+ 
+ 39. 
+The breach of these professional duties of skill and care, or their improper performance by a physician surgeon, whereby the patient is injured in body or in health, constitutes actionable malpractice.
+ 
+ 
+ x x x x
+ 
+ 44. In this case, Defendant Doctors committed the following acts in the course of the First Operation, which are in breach of their obligations to the Plaintiff: 
+ 
+ 
+ 43.1[
+sic
+] The negligent cutting and clipping of Plaintiff's common bile duct during the operation instead of the cystic duct. Consequently, the unbearable and incessant pain suffered by the Plaintiff after his discharge is attributed to the Defendant Doctors' negligent acts. 
+ 
+ 43.2[
+sic
+] The defendant failed to immediately explain to the Plaintiff the reason for the conversion of the procedure. He, however, offered no explanation. 
+ 
+ 45.3[
+sic
+] Dr. Uyloan did not perform the required post operation procedure despite the concomitant risks in the operation. Had the post operation procedure been done, they should have seen the damage done to the common bile duct and could have remedied it immediately. 
+ 
+ 45.4[
+sic
+] Dr. Uyloan issued a "Clinical Summary Form" to the Plaintiff without ascertaining the true condition of his health after the operation. Worse, it was marked as "Good" and "Recovered" even without the proper post operation assessment. 
+ 
+ 
+ 45. Due to the breach of their obligations, the Plaintiff suffered abdominal pains and had continued bile leak. Thus, the Plaintiff was constrained to undergo several other tests and procedures and incurred expenses amounting to 
+TWO MILLION SIX HUNDRED THOUSAND PESOS (PHP 2,600,000.00). 
+ 
+ 46. The negligent acts of the Defendant Doctors were the proximate cause of Plaintiff's injury. This was confirmed by the tests which show that the transection of the common bile duct was a result of previous misidentification of an anatomy and that there was an obstruction to the flow of bile coming from the liver that passes through the common hepatic into the common bile duct.
+[29]
+ (emphases supplied) 
+ 
+ 
+ The above complaint indeed states a categorical declaration of the case being brought on the basis of a "medical contract between the Plaintiffs and Defendants Uyloan and Ojeda" under the statement of cause of action against said doctors.
+[30]
+ However, the rest of the allegations and arguments unmistakably show that the cause of action is premised upon the law and jurisprudence on damages in general and medical negligence under the Civil Code provisions on quasi-delict. There is no mention at all of any express promise on the part of the defendant doctors to provide medical treatment or achieve a specific result. The absence of an express agreement as basis for contractual liability is evident from a plain invocation of an implied contract between the parties. 
+ In 
+Casumpang v. Cortejo
+,
+[31]
+ We expounded on the establishment of a physician-patient relationship, as follows: 
+ 
+ A physician-patient relationship is created when a patient engages the services of a physician, and the latter accepts or agrees to provide care to the patient. 
+The establishment of this relationship is consensual
+, and the acceptance by the physician essential. The mere fact that an individual approaches a physician and seeks diagnosis, advice or treatment does not create the duty of care unless the physician agrees. 
+ 
+ 
+The consent needed to create the relationship does not always need to be express. 
+In the absence of an express agreement, a physician-patient relationship may be implied from the physician's affirmative action to diagnose and/or treat a patient, or in his participation in such diagnosis and/or treatment. The usual illustration would be the case of a patient who goes to a hospital or a clinic, and is examined and treated by the doctor. In this case, we can infer, based on the established and customary practice in the medical community that a patient-physician relationship exists.
+[32]
+ (citations omitted, emphases supplied)
+ 
+ 
+ The fact that the physician-patient relationship is consensual does not necessarily mean it is a contractual relation, in the sense in which petitioner employs this term by equating it with any other transaction involving exchange of money for services. Indeed, the medical profession is affected with public interest.
+[33]
+ Once a physician-patient relationship is established, the legal duty of care follows. The doctor accordingly becomes duty-bound to use at least the same standard of care that a reasonably competent doctor would use to treat a medical condition under similar circumstances.
+[34]
+ Breach of duty occurs when the doctor fails to comply with, or improperly performs his duties under professional standards. This determination is both factual and legal, and is specific to each individual case.
+[35]
+ If the patient, as a result of the breach of duty, is injured in body or in health, actionable malpractice is committed, entitling the patient to damages.
+[36]
+ 
+ In the light of the foregoing, We hold that a mere reference to an implied contract between the physician and the patient in general is insufficient for pleading a cause of action under the contract theory of professional malpractice. An action for medical malpractice based on contract must allege an express promise to provide medical treatment or achieve a specific result. The following discussion of established rules on medical malpractice culled from fairly recent American jurisprudence highlights this point, 
+viz
+.: 
+ 
+ Absent an express contract, a physician does not impliedly warrant the success of his or her treatment but only that he or she will adhere to the applicable standard of care. 
+Thus, there is no cause of action for breach of implied contract or implied warranty arising from an alleged failure to provide adequate medical treatment. This allegation clearly sounds in tort, not in contract
+; therefore, the plaintiff's remedy is an action for malpractice, not breach of contract. 
+A breach of contract complaint fails to state a cause of action if there is no allegation of any express promise
+ 
+to cure or to achieve a specific result.
+ A physician's statements of opinion regarding the likely result of a medical procedure are insufficient to impose contractual liability, even if they ultimately prove incorrect.
+[37]
+ (emphases supplied) 
+ 
+ 
+ Clearly, the cause of action in this case is one for medical malpractice or medical negligence premised on the "breach of [the defendant doctors'] professional duties of skill and care, or their improper performance by a physician surgeon,"
+[38]
+ whereby the plaintiff suffered injury and damages. Petitioner's attempt to present a hybrid tort and contract claim arising from the negligent acts of his physicians thus fails. Apparently, inclusion of the contract approach to seek damages from the defendant physicians was an afterthought intended to revive a stale claim. 
+ From the recitals of the complaint, petitioner's cause of action accrued on September 15, 2010, the day Dr. Uyloan and Dr. Ojeda performed the operation on his gallbladder. Clearly, the filing of the case against said physicians on November 10, 2015, is already barred by prescription. 
+ 
+WHEREFORE
+, the petition is 
+DENIED
+. The June 16, 2017 Decision and October 11, 2017 Resolution of the Court of Appeals in CA-G.R. SP No. 148192 are hereby 
+AFFIRMED.
+ 
+ 
+SO ORDERED.
+ 
+ 
+Caguioa, Lazaro-Javier, M. Lopez
+, and 
+J. Lopez, JJ
+., concur.
+ 
+[1]
+ 
+Rollo
+, pp. 9-19; penned by Associate Justice Priscilla J. Baltazar-Padilla (now deceased; was a member of the Court), with Court of Appeals Presiding Justice Andres B. Reyes, Jr. (now retired from the Supreme Court) and Associate Justice Myra V. Garcia-Fernandez, concurring. 
+ 
+[2]
+ Id. at 21-22; penned by Associate Justice Priscilla J. Baltazar-Padilla with Associate Justices Sesinando E. Villon and Myra V. Garcia-Fernandez, concurring.
+ 
+ 
+[3]
+ Id. at 189-190 and 191-192, respectively; both penned by Presiding Judge Erlinda Nicolas-Alvaro. 
+ 
+[4]
+ Id. at 124-141. 
+ 
+[5]
+ Art. 1170. Those who in the performance of their obligations are guilty of fraud, negligence, or delay, and those who in any manner contravene the tenor thereof, are liable for damages.
+ 
+ 
+[6]
+ Art. 1173. The fault or negligence of the obliger consists in the omission of that diligence which is required by the nature of the obligation and corresponds with the circumstances of the persons, of the time and of the place. When negligence shows bad faith, the provisions of Articles 1171 and 2201, paragraph 2, shall apply.
+ 
+ 
+[7]
+ 
+Rollo
+, pp. 125-126. 
+ 
+[8]
+ Id. at 126. 
+ 
+[9]
+ Id. at 126-127.
+ 
+ 
+[10]
+ Id. at 127-129.
+ 
+ 
+[11]
+ Id. at 147-149. 
+ 
+[12]
+ Art. 1146. The following actions must be instituted within four years:
+ 
+ 
+ (1) Upon an injury to the rights of the plaintiff; 
+ (2) Upon a quasi-delict.
+ 
+ 
+ 
+[13]
+ 
+Rollo
+, pp. 152-160. 
+ 
+[14]
+ 363 Mass. 579, 583, 296 N.E.2d 183, 186 (1973). 
+ 
+[15]
+ 276 A.D. 9, 9, 92 N.Y.S.2d 794, 795 (App. Div., 1949). 
+[16]
+ 625 Phil. 122 (2010). 
+[17]
+ 516 Phil. 743, 749-750 (2006). 
+ 
+[18]
+ 
+Macababbad, Jr. v. Masirag
+, 596 Phil. 76, 90 (2009). 
+[19]
+ 
+James v. Eurem Realty Development Corp
+., 719 Phil. 501, 510 (2013), citing 
+Heirs of the Late Fernando S. Falcasantos v. Tan
+, 614 Phil. 57, 61-62 (2009). 
+ 
+[20]
+ Supra note 18 at 92. 
+ 
+[21]
+ Id. 
+ 
+[22]
+ Art. 1144. The following actions must be brought within ten years from the time the right of action accrues: 
+ 
+(1) Upon a written contract;
+x x x x 
+ 
+ 
+[23]
+ Art. 1145. The following actions must be commenced within six years: 
+ 
+(1) Upon an oral contract; 
+x x x x 
+ 
+ 
+[24]
+ 
+Cereno v. Court of Appeal
+, 695 Phil. 820, 828 (2012), citing 
+Garcia-Rueda v. Pascasio
+, 344 Phil. 323, 331 (1997). 
+ 
+[25]
+ 
+Reyes v. Sisters of Mercy Hospital
+, 396 Phil. 87, 95 (2000), citing 61 Am. Jur. 2d 337, Â§205 pm Physicians, Surgeons, etc. 
+ 
+[26]
+ Id.; citing 
+Garcia-Rueda v. Pascasio
+, supra note 24 at 331. 
+[27]
+ 604 Phil 98 (2009), cited in 
+Jarcia, Jr. v. People of the Philippines
+, 682 Phil. 317, 339-340 (2012). 
+ 
+[28]
+ Id. at 121-122. 
+[29]
+ 
+Rollo
+, pp. 130-134. 
+[30]
+ Id. at 130. 
+[31]
+ 755 Phil. 466 (2015). 
+ 
+[32]
+ Id. at 485-486. 
+ 
+[33]
+ 
+Reyes v. Sisters of Mercy Hospital
+, supra note 25 at 106. 
+[34]
+ 
+Casumpang v. Cortejo
+, supra note 31 at 486. 
+[35]
+ Id. 
+ 
+[36]
+ Id. 
+[37]
+ 
+The Preparation and Trial of Medical Malpractice Cases
+, Rochard E. Shandell and Patricia Smith, Rev. Ed. 2006, Law Journal Press. (citations omitted) 
+[38]
+ 
+Rollo
+, p. 132. 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

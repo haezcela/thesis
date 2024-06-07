@@ -1,0 +1,629 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. Nos. 246780-82, July 06, 2022 ]
+
+
+PEOPLE OF THE PHILIPPINES, PLAINTIFF-APPELLEE, VS. LUISITO ENRIQUEZ MARTY, ACCUSED-APPELLANT.
+D E C I S I O N
+
+
+
+
+LOPEZ, J., J.:
+
+
+This Court resolves the Appeal
+[1]
+ assailing the Decision
+[2]
+ dated February 15, 2019 and the Resolution
+[3]
+ dated April 4, 2019 of the Sandiganbayan in Criminal Cases Nos. SB-17-CRM-0050 and SB-17-CRM-0052, finding Luisito Enriquez Marty (
+Marty
+) guilty of: (1) violation of Section 3(e) of Republic Act (
+R.A.
+) No. 3019, otherwise known as the 
+Anti-Graft and Corrupt Practices Act
+, and (2) usurpation of legislative powers under Article 239 of the Revised Penal Code (
+RPC
+), respectively.
+The present appeal stemmed from three (3) Informations, all dated January 16, 2017, filed against Marty, the accusatory portions of which state:
+Criminal Case No. SB-17-CRM-0050
+That on December 2, 2009, or sometime prior or subsequent thereto, in Sta. Cruz, Zambales, and within the jurisdiction of this Honorable Court, accused LUISITO E. MARTY, a public officer, being then the Municipal Mayor of Sta. Cruz, Zambales, while in the performance of his official duties and functions, and acting with evident bad faith, did then and there willfully, unlawfully and criminally issue a Memorandum dated 02 December 2009, directing the Municipal Treasurer of Sta. Cruz, Zambales not to accept payment of occupational fees (should be "occupation fees") from holders of MPSA (Mineral Production-Sharing Agreement) covering areas in Sta. Cruz, Zambales, without Mayor's permit from his office, by reason of which the Municipal Treasurer of Sta. Cruz, Zambales and/or her office refused to accept the payment for occupation fees of Zambales Diversified Metals Corporation (ZDMC), which had a duly-registered MPSA with the government at that time but without Mayor's Permit or Business Permit from Sta. Cruz, Zambales due to the refusal of the accused to issue one despite ZDMC's compliance with the requirements set by law and applicable rules and regulations for the issuance of Mayor's Permits or Business Permits, thereby preventing ZDMC from paying the occupation fees required under Sections 86 and 87 of R.A. 7942, or the Philippine Mining Act of 1995, and conducting its operations in Sta. Cruz, Zambales and obtaining profits or, at least, the just and reasonable return of its investments, and also depriving the Province of Zambales and the Municipality of Sta. Cruz of incomes or revenues from occupation fees as provided for under Section 88 of R.A. 7942, to the undue damage or injury of the Province of Zambales, the Municipality [of] Sta. Cruz, Zambales and ZDMC.
+CONTRARY TO LAW.
+[4]
+Criminal Case No. SB-17-CRM-0051
+That in April 2011, or sometime prior or subsequent thereto, in Sta. Cruz, Zambales, and within the jurisdiction of this Honorable Court, accused LUISITO E. MARTY, a high-ranking public officer, being then the Municipal Mayor of Sta. Cruz, Zambales, while in the performance of his official duties and functions, and acting with evident bad faith, did then and there, willfully, unlawfully and criminally refuse to issue/grant business permits to Zambales Diversified Metals Corporation, Inc. (ZDMC) and Zambales Chromite Mining Company, Inc. (ZCMC), without legal basis and despite their compliance with all the requirements prescribed by law and applicable rules and regulations for the issuance/granting of business permits, thereby preventing them from conducting their operations in Sta. Cruz, Zambales and obtaining profits or, at least, the just or reasonable return of their investments, to the undue damage or injury of said legal entities.
+CONTRARY TO LAW.
+[5]
+Criminal Case No. SB-17-CRM-0052
+That on December 2, 2009, or sometime prior or subsequent thereto, in Sta. Cruz, Zambales, and within the jurisdiction of this Honorable Court, accused LUISITO E. MARTY, a public officer, being then the Municipal Mayor of Sta. Cruz, Zambales, taking advantage of his official position and committing the offense in relation to his office, did then and there willfully, unlawfully and feloniously encroach upon the lawmaking power of Congress, by issuing a Memorandum dated December 2, 2009, directing the Municipal Treasurer of Sta. Cruz, Zambales not to accept payment of occupational fees (should be "occupation fees") from holders of MPSA (Mineral Production-Sharing Agreement) covering areas in Sta. Cruz, Zambales, without Mayor's permit from his office, which Memorandum or general regulation was beyond the scope of accused's authority to issue as Municipal Mayor, considering that a Mayor's Permit is not a prerequisite prescribed by Congress for the acceptance of payment for occupation fees under Sections 86 and 87 of R.A. 7942 or the Philippine Mining Act of 1995.
+CONTRARY TO LAW.
+[6]
+On September 5, 2001, the Sangguniang Bayan of Sta. Cruz, Zambales, enacted Resolution No.01-2422 entitled "Resolution Favorably Endorsing the Application of CRAU Mineral Resources for Exploration, Development and Mining at the Former Acoje Mines-Lucapon South Sta. Cruz, Zambales, subject to existing Mining Laws and Regulations." The Resolution was approved by then Municipal Mayor Consolacion M. Marty.
+[7]
+On May 22, 2004, the Republic of the Philippines and CRAU Mineral Resources Corporation (CRAU) entered into Mineral Production-Sharing Agreement (
+MPSA
+) No. 191-2004-III.
+[8]
+ On May 7, 2006, the Mines and Geosciences Bureau (
+MGB
+) approved the "Full Declaration of Mining Project Feasibility of Crau Mineral Resources Corporation" under MPSA No. 191- 2004-III, subject to certain conditions.
+[9]
+Subsequently, a Deed of Assignment of MPSA No. 191-2004-III, dated November 26, 2007, was executed between CRAU and Zambales Diversified Metals Corporation, Inc. (
+ZDMC
+). It was approved by the Department of Natural Resources (
+DENR
+) in an Order dated March 5, 2010.
+[10]
+On December 2, 2009, Marty, in his capacity as then Mayor of the Municipality of Sta. Cruz, Zambales, issued a Memorandum
+[11]
+ instructing the Office of the Municipal Treasurer not to accept payment of occupation fees from MPSA holders without first obtaining a business permit from his office.
+[12]
+On July 6, 2010, Deady V. Solee (
+Solee
+), the Manager for Permitting and Compliance Department of ZDMC, tried to pay the prescribed occupation fees of ZDMC's MPSA in the amount of P113,550.00. The tender of payment, however, was refused by the Office of the Municipal Treasurer on the ground that a clearance from the office of Mayor Marty must first be secured.
+[13]
+Meanwhile, on April 1, 2011, Atty. Michael Samuel Tulay (
+Atty. Tulay
+) of Valenton Gramata and Loseriaga Law Office went to the Municipality of Sta. Cruz, Zambales to submit applications for business permits of various mining firms referred to as the Zambales Alliance.
+[14]
+ The applications included that of Zambales Chromite Mining Company, Inc. (
+ZCMC
+), a holder of MPSA No. 005-91-111. The applications were denied by Mayor Marty for the failure of the applicants to comply with the additional requirements imposed by the Office of the Mayor.
+[15]
+Thereafter, on April 19, 2011, Atty. Jhorad B. Valenton (
+Atty. Valenton
+) wrote to the office of Mayor Marty, reiterating the application for business permits of their clients composing the Zambales Alliance. Attached to their letter was a list of documents submitted by the mining firms for purposes of business permit applications.
+Mayor Marty responded through a Letter
+[16]
+ dated May 10, 2011, where he explained that: (1) he is requiring the mining firms to submit an Environment Protection and Enhancement Program (
+EPEP
+) and a Social Development and Management Program (
+SDMP
+) to ensure environmental protection and social developments in all of the proposed mining activities in the municipality; (2) only Eramen Mining, Inc., ZCMC, ZDMC, and LNL Archipelago Minerals, Inc. submitted the respective SDMPs; (3) the submitted SDMPs nevertheless failed to indicate that it was approved by the concerned government agency; and (4) he has made a formal query with the Acting Director of the MGB on various mining concerns in Sta. Cruz, Zambales. In the same letter, Mayor Marty directed the concerned mining firms to complete the submission of the requirements and to explain the discrepancies in some of the documents they have so far submitted.
+[17]
+On June 16, 2011, Atty. Valenton submitted a reply to Mayor Marty's letter, opposing the submission of additional requirements in the application of business permits of its clients in view of Joint Memorandum Circular No. 1, Series of 2010 dated August 6, 2010 issued by the Department of the Interior and Local Government pertaining to the guidelines for streamlining the business permits and licensing systems (
+BPLs
+) in cities and municipalities. Additionally, Atty. Valenton pointed out that the national government has already allowed their clients to engage in mining activities. Hence, the local government cannot prohibit what the national government has already allowed.
+[18]
+In response, Mayor Marty wrote a rejoinder dated July 5, 2011, where he stated that due to the pendency of his inquiry with the MGB, his office cannot act on the application of the business permits of the concerned mining firms.
+[19]
+This led to the filing of the charges against Marty.
+ZDMC and ZCMC argued that Marty acted with evident bad faith in issuing the Memorandum dated December 2, 2009, considering that as Mayor, Marty should have known that the legal obligation to pay annual occupation fees under Section 86 of R.A. No. 7942, or the 
+Philippine Mining Act
+, is imposed upon holders of MPSAs. There is nothing in the law or any other law, or rule or regulation, requiring the MPSA holder to first obtain a business permit before it may be allowed to pay the said occupation fees.
+[20]
+ As a result of Marty's baseless refusal to grant them a business permit, ZDMC and ZCMC were prevented from conducting mining operations in Sta. Cruz, Zambales and obtain profits or at least the just or reasonable return of their investments, thereby causing undue damage to them.
+[21]
+ Moreover, the Province of Zambales and the Municipality of Sta. Cruz suffered irreparable injuries or loss in terms of income or revenues it could have derived from the occupation fees that ZDMC was ready and willing to pay. In issuing the Memorandum dated December 2, 2009, Marty also usurped legislative power to amend, suspend, or repeal Section 86, in relation to Section 87, of R.A. No. 7942, considering that a mayor's permit is not a prerequisite under the law for the acceptance of payment for occupation fees.
+[22]
+ 
+On March 13, 2017, Marty filed a Motion to Quash Informations on the ground of violation of his constitutional right to a speedy disposition of cases. It was denied by the Sandiganbayan in a Resolution dated June 28, 2017. Marty's motion for reconsideration was likewise denied by the Sandiganbayan in a Resolution dated September 7, 2017.
+[23]
+Upon his arraignment on October 6, 2017, Marty pleaded not guilty to the offenses charged. During pre-trial, the parties entered into the following stipulation of facts:
+1. [Marty] was the incumbent Municipal Mayor of Sta. Cruz, Zambales, at the time material to these cases;
+2. ZDMC was a 
+bona fide
+ holder of Mineral Production Sharing Agreement (MPSA) No. 191-2004-III dated May 12, 2004;
+3. ZCMC was a 
+bona fide
+ holder of MPSA No. 005-91-111 dated May 21, 1991; and
+4. [Marty] issued Memorandum dated December 2, 2009, addressed to the Municipal Treasurer of Sta. Cruz, Zambales, directing the latter not to accept occupational [sic] fees by MPSA holders covering an area in Sta. Cruz, Zambales without first obtaining the necessary 
+mayor's permit
+.
+[24]
+The prosecution presented the following witnesses: (1) Florencio K. Coronel; (2) Atty. Michael Samuel Tulay; and (3) Deody V. Solee.
+After the prosecution had rested its case, Marty filed a Motion for Leave of Court to File Accused's Demurrer to Evidence
+[25]
+ dated July 16, 2018, which was denied by the Sandiganbayan in its Resolution
+[26]
+ dated July 26, 2018. The Sandiganbayan then gave Marty a period of five (5) days from receipt of notice within which to manifest whether or not he will pursue his demurrer to evidence without leave of court.
+[27]
+ On August 15, 2018, Marty manifested the affirmative, subject to the legal consequences provided under Section 23, Rule 119 of the Revised Rules of Criminal Procedure.
+[28]
+Marty argued that his refusal to issue a business permit in favor of ZDMC and ZCMC, and his issuance of the Memorandum dated December 2, 2009, were all based on a valid ground, 
+i.e.
+, the promotion of the general welfare of the people of the Municipality of Sta. Cruz, Zambales, in view of the magnitude of the threat imposed by the mining industry to the environment of their municipality. He insisted that as mayor, he enjoys the presumption of regularity in the discharge of his official duties and that his power to issue a business permit is a delegated power which is clearly discretionary in nature.
+[29]
+In its Decision
+[30]
+ dated February 15, 2019, the Sandiganbayan found Marty guilty of violating Section 3(e) of R.A. No. 3019 in Criminal Case No. SB-17-CRM-0050 and usurpation of legislative powers under Article 239 of the RPC in Criminal Case No. SB-17-CRM-0052. It, however, acquitted Marty of violation of Section 3(e) of R.A. No. 3019 in Criminal Case No. SB-17-CRM-0051.
+In convicting Marty for violation of Section 3(e) of R.A. No. 3019 in Criminal Case No. SB-17-CRM-0050, the Sandiganbayan found that Marty's unilateral issuance of a mere memorandum which effectively prevented ZDMC and ZCMC from paying their occupation fees, coupled with his inaction on the business permit application of ZDMC and ZCMC, clearly manifested evident bad faith on his part.
+[31]
+ As a result of Marty's issuance of the Memorandum dated December 2, 2009, the Municipality of Sta. Cruz, Zambales suffered undue injury since it was deprived of its rightful share in the occupation fees of ZDMC as a valid MPSA holder.
+[32]
+ The Sandiganbayan noted that ZDMC was ready to comply with the payment of its occupation fees as early as July 6, 2010 in the form of a manager's check representing the amount of P113,550.00. The said amount, however, was refused by the Office of the Municipal Treasurer despite repeated tender of payments made by Solee, the manager of ZDMC, on the ground that it should be cleared first by the office of Mayor Marty.
+[33]
+With respect to the crime of usurpation of legislative powers under Article 239 of the RPC in Criminal Case No. SB-17-CRM-0052, the Sandiganbayan found that all the elements thereof were established by the prosecution, to wit: (1) Marty is admittedly an executive officer; and (2) he issued the Memorandum dated December 2, 2009 without any legal basis and without the approbation of the Sangguniang Bayan.
+[34]
+The dispositive portion of the Sandiganbayan Decision reads:
+WHEREFORE, the Court hereby renders judgment as follows:
+1. In Criminal Case No. SB-17-CRM-0050, for violation of Section 3 (e) of R.A. No. 3019, the Court finds the accused 
+GUILTY BEYOND REASONABLE DOUBT
+. Accordingly, he is hereby sentenced to suffer the indeterminate penalty of six (6) years and one (1) month, as minimum, to ten (10) years, as maximum, and to suffer the penalty of perpetual disqualification from holding public office.
+2. In Criminal Case No. SB-17-CRM-0051, for violation of Section 3 (e) of R.A. No. 3019, the Court finds the accused 
+NOT GUILTY
+ for failure of the prosecution to establish the existence of the element of 
+undue injury
+ on the part of Zambales Diversified Metals Corporation and Zambales Chromite Mining Company, Inc.; [and]
+3. In Criminal Case No. SB-17-CRM-0052, the Court finds accused Luisito E. Marty 
+GUILTY BEYOND REASONABLE DOUBT
+ of the crime of 
+usurpation of legislative powers
+ under Article 239 of the Revised Penal Code. Accordingly, he is sentenced to suffer the indeterminate penalty of four (4) months and twenty-one (21) days of 
+arresto mayor
+, as minimum to six (6) months and one (1) day of 
+prision correccional
+, as maximum, taking into consideration the presence of the mitigating circumstance of voluntary surrender in these cases, with temporary special disqualification. He is further ordered to pay a fine of Php50,000.00.
+The 
+hold departure order
+ issued against the accused in Criminal Case No. SB-17-CRM-0051 is hereby 
+lifted
+ and 
+set aside
+. Also, the bail bond posted by the accused for his provisional liberty in the said case is ordered released to him subject to the usual auditing and accounting requirements.
+SO ORDERED.
+[35]
+Marty filed a motion for reconsideration, which was denied by the Sandiganbayan in its Resolution
+[36]
+ dated April 4, 2019.
+Hence, the present appeal.
+Issue
+This Court now resolves the issues of whether the Sandiganbayan erred in convicting Marty for: (1) violation of Section 3(e) of R.A. No. 3019; and (2) usurpation of legislative powers under Article 239 of the RPC.
+Our Ruling
+The appeal is meritorious.
+Preliminarily, in all criminal cases, the burden is on the prosecution to prove the guilt of an accused beyond reasonable doubt. In convicting the accused, the Court must be satisfied that the factual findings and conclusions of the trial court meet this exacting standard of proof beyond reasonable doubt.
+[37]
+ Thus, where there is reasonable doubt, acquittal must necessarily follow, for all accused are presumed innocent until proven otherwise.
+[38]
+After a judicious examination of the records and the submissions of the parties in the present case, this Court finds that the prosecution failed to prove the guilt of appellant beyond reasonable doubt for both charges.
+Criminal Case No. SB-17-CRM-0050
+Appellant is charged with violation of Section 3(e) of R.A. No. 3019 which states:
+Section 3. 
+Corrupt practices of public officers
+. - In addition to acts or omissions of public officers already penalized by existing law, the following shall constitute corrupt practices of any public officer and are hereby declared to be unlawful:
+x x x x
+(e) Causing any undue injury to any party, including the Government, or giving any private party any unwarranted benefit, advantage or preference in the discharge of his official administrative or judicial functions through manifest partiality, evident bad faith or gross inexcusable negligence. This provision shall apply to officers and employees of offices or government corporations charged with the grant of licenses or permits or other concessions.
+It is now settled that for a successful prosecution of violation of Section 3(e) of R.A. No. 3019, the following elements must concur:
+The offender is a public officer;
+The act was done in the discharge of the public officer's official, administrative, or judicial functions;
+The act was done through manifest partiality, evident bad faith, or gross inexcusable negligence; and
+The public officer caused undue injury to any party, including the Government, or gave any unwarranted benefits, advantage, or preference.
+[39]
+There is no dispute as to the presence of the first and second elements in this case. Appellant was the Municipal Mayor of Sta. Cruz, Zambales at the time material to the charges against him. He was performing his official functions when he issued the assailed Memorandum and required the mining corporations to comply with certain conditions before his office issues a business permit.
+With respect to the third element, the terms partiality, bad faith, and gross inexcusable negligence have been explained as follows:
+"Partiality" is synonymous with "bias" which "excites a disposition to see and report matters as they are wished for rather than as they are." "Bad faith does not simply connote bad judgment or negligence; it imputes a dishonest purpose or some moral obliquity and conscious doing of a wrong; a breach of sworn duty through some motive or intent or ill will; it partakes of the nature of fraud." "Gross negligence has been so defined as negligence characterized by the want of even slight care, acting or omitting to act in a situation where there is a duty to act, not inadvertently but willfully and intentionally with a conscious indifference to consequences in so far as other persons may be affected. It is the omission of that care which even inattentive and thoughtless men never fail to take on their own property." (Citations omitted)
+[40]
+The Information filed against appellant alleged that he is guilty of evident bad faith in issuing the "Memorandum xx x directing the Municipal Treasurer of Sta. Cruz, Zambales not to accept payment of [occupation] fees x x x thereby preventing ZDMC from paying the occupation fees x x x and conducting its operations in Sta. Cruz, Zambales and obtaining profits or, at least, the just or reasonable return of its investments, and also, depriving the Province of Zambales and the Municipality of Sta. Cruz of incomes or revenues from occupation fees x x x."
+Section 26(a) of R.A. No. 7942, or the 
+Philippine Mining Act of 1995
+, provides that a mineral production sharing agreement is a mineral agreement where the Government grants to the contractor the exclusive right to conduct mining operations within a contract area and shares in the gross output. The contractor shall provide the financing, technology, management and personnel necessary for the implementation of this agreement.
+[41]
+A qualified person may enter into any of the three (3) modes of mineral agreement with the government for the exploration, development and utilization of mineral resources. Provided, that in case the applicant has been in the mining industry for any length of time, he should possess a satisfactory environmental track record as determined by the MGB and in consultation with the Environmental Management Bureau of the Department.
+[42]
+Consequently, Section 13 of DENR Administrative Order No. 2005-15, or the Revised Implementing Rules and Regulations (
+IRR
+) of R.A. No. 7942, which amended Section 35 of DENR A.O. No. 96-40, provides the mandatory requirements for a mineral agreement application, to wit:
+The applicant shall submit at least five (5) sets of the following mandatory requirements for the Mineral Agreement, for development/construction/utilization of mineral resources, including the continuance of exploration works during the conduct of development/construction/utilization activities.
+x x x x
+b. For a corporation, partnership, association or cooperative -
+Duly certified Certificate of Registration, Articles of Incorporation/Partnership/Association and By-Laws issued by the SEC or authorized Government agency concerned, or Certification from the Bureau/Regional Office concerned that the said documents are duly registered in that Office;
+Location map/sketch plan of the proposed contract area showing its geographic coordinates/meridional block(s) and boundaries in relation to major environmental features and other projects using a NAMRIA topographic map in a scale of 1:50,000 duly prepared, signed and sealed by a deputized Geodetic Engineer;
+Three-year Development/Utilization Work Program (MGB Form No. 6-2) duly prepared, signed and sealed by a licensed Mining Engineer or Geologist;
+Proof of technical competence, including, among others, curricula vitae and track records in mining operations and environmental management of the technical personnel who shall undertake the activities in accordance with the submitted Development/Utilization Work Program;
+Proof of financial capability to undertake the activities pursuant to the Development/Utilization Work Program, such as latest audited financial statement and, where applicable, Annual Report for the preceding year, credit line(s), bank guarantee(s) and/or similar negotiable instruments;
+Affidavit of Undertaking pursuant to DMO No. 99-10, as amended;
+Mining Project Feasibility Study (MGB Form No. 5-3); and
+Complete and final exploration report pertaining to the area.
+c. For holders of valid and existing mining lease contracts, operating agreements, Quarry Permits/licenses or unperfected mining/quarry claims, the following shall be submitted in addition to the aforesaid requirements, whenever applicable:
+Certification from the Regional Office concerned that the mining/quarry claims are valid and subsisting;
+Appropriate environmental report on the rehabilitation of mined-out and/or mine waste/tailings-covered areas and antiÂ­pollution measures undertaken during the mining operations;
+ECC for any new phase outside of the originally approved operation under the mining project;
+Mining Project Feasibility Study (MGB Form No. 5-3): 
+Provided
+, That a Mineral Agreement applicant with existing mining operation may submit, in lieu of the Mining Project Feasibility Study, a Project Description and a detailed financial statement of its operations incorporating therein the social and environmental expenditures, taxes and fees paid (MGB Form No. 5-3A); and
+Approved survey plan of the mining area.
+The ECC, EPEP (MGB Form No. 16-2) as provided for in Section 169 hereof, CEMCRR and approved survey plan shall be required from the Mineral Agreement applicant after acceptance of the application but prior to the issuance of the pertinent Notice of Application.
+The Certificate of Non-Overlap for areas without ICCs/IPs or Certification Precondition from the NCIP for areas with ICCs/IPs shall be secured by the Mineral Agreement applicants whose applications are not originating from Exploration Permits in accordance with the NCIP rules and regulations: 
+Provided
+, That in case the aforesaid requirements are not issued within the NCIP's prescribed periods, the Mineral Agreement applicant shall submit the NCIP's Report on the Field-Based Investigation for the applied area that does not overlap ancestral domain, or the MoA executed by and among the Mineral Agreement applicant, ICC/IP concerned and the NCIP for the applied area that affects the ICCs/IPs: 
+Provided, further
+, That the said Certificate of Non-Overlap or Certification Precondition shall be submitted by the Mineral Agreement applicant within ninety (90) days from issuance of the Mineral Agreement.
+Mineral Agreement applicants whose applications originated from Exploration Permits and have complied with the above requirements in the process are no longer covered by the same NCIP requirements.
+Pursuant to Section 36 of DENR A.O. No. 96-40, the mineral agreement application, together with the mandatory requirements, shall be filed with the concerned Regional Office of the MGB. The application shall undergo publication and will be initially evaluated by the concerned Regional Director of the MGB. The application will then be further evaluated by the Director of the MGB. After evaluation, the Director shall endorse the application to the Secretary of the DENR. Upon approval of the mineral agreement by the Secretary, the application shall be forwarded to the MGB for numbering. Once the contractor has registered, the MGB shall officially release the mineral agreement.
+[43]
+ Under Section 7 of DENR A.O. No. 96-40, the MGB shall be the line bureau primarily responsible for the implementation of the Act pursuant to Section 100 thereof.
+[44]
+With respect to the payment of occupation fees, Sections 86 to 89 of R.A. No. 7942 provides:
+Section 86
+Occupation Fees
+There shall be collected from any holder of a mineral agreement, financial or technical assistance agreement or exploration permit on public or private lands, an annual occupation fee in accordance with the following schedule:
+(a) For exploration permit â Five pesos (P5.00) per hectare or fraction thereof per annum.
+(b) For mineral agreements and financial or technical assistance agreements â Fifty pesos (P50.00) per hectare or fraction thereof per annum; and
+(c) For mineral reservation â One hundred pesos (P100.00) per hectare or fraction thereof per annum.
+The Secretary is authorized to increase the occupation fees provided herein when the public interest so requires, upon recommendation of the Bureau Director.
+Section 87
+Manner of Payment of Fees
+The fees shall be paid on the date the mining agreement is registered with the appropriate office and on the same date every year thereafter.
+ It shall be paid to the treasurer of the municipality or city where the onshore mining areas are located, or to the Director in case of offshore mining areas. For this purpose, the appropriate officer shall submit to the treasurer of the municipality or city where the onshore mining area is located, a complete list of all onshore mining rights registered with his office, indicating therein the names of the holders, area in hectares, location, and date registered. If the fee is not paid on the date specified, it shall be increased by twenty-five per centum (25%).
+[45]
+Section 88
+Allocation of Occupation Fees
+Thirty per centum (30%) of all occupational fees collected from the holder of mining rights in onshore mining areas shall accrue to the province and seventy per centum (70%) to the municipality in which the 35 onshore mining areas are located. In a chartered city, the full amount shall accrue to the city concerned.
+Section 89
+Filing Fees and Other Charges
+The Secretary is authorized to charge reasonable filing fees and other charges as he may prescribe in accordance with the implementing rules and regulations.
+From the foregoing, it is clear that the issuance of MPSA is within the jurisdiction of the DENR and the MGB. Once the mining agreement has been registered, R.A. No. 7942 requires that occupation fees be paid on the same date and every year thereafter. The obligation to pay occupation fees starts from the moment the mining agreement has been registered. There is nothing in the law that imposes any other conditions before the payment of occupation fees will be accepted. Be that as it may, the Court finds that the prosecution failed to prove that appellant acted with evident bad faith as to hold him liable under Section 3(e) of R.A. No. 3019.
+In 
+People v. Bacaltos
+,
+[46]
+ the Court emphasized that "bad faith 
+per se
+ is not enough for one to be held criminally liable for violation of Section 3(e) of R.A. No. 3019."
+[47]
+ Thus:
+x x x bad faith must be evident. It must partake the nature of fraud. It contemplates a state of mind affirmatively operating with furtive design or some motive or ill will for ulterior purposes. In short, it is a manifest deliberate intent on the part of the accused to do wrong or to cause damage.
+[48]
+In the present case, the Court finds the presence of certain factual considerations that negate evident bad faith on the part of appellant and, instead, show that he was compelled by a genuine intention and under the honest belief that his acts were authorized by law.
+First
+, the records disclose that in issuing the assailed Memorandum and mandating the mining corporations to comply with certain conditions before issuing their business permits, appellant was motivated only by a goal of promoting the general welfare of the people in his municipality. In justifying his actions, appellant consistently alluded to the magnitude of the threat that the mining industry may impose to the environment of the Municipality of Sta. Cruz, Zambales. It should be emphasized that what appellant required from the mining corporations as a condition for the issuance of business permits were their respective EPEPs and SDMPs. For appellant, this was to ensure environmental protection and social development in the proposed mining activities in the municipality. Appellant found that while ZCMC and ZDMC were able to submit their EPEPs and SDMPs, the documents failed to indicate that these were approved by the concerned government agency. This prompted him to formally inquire with the MGB regarding the status of the affected mining corporations and to direct these corporations to explain the discrepancies in the documents they submitted.
+Second
+, it does not show that appellant personally gained anything, pecuniary or otherwise, in doing the assailed acts. The records suggest that appellant himself only wanted to be satisfied as to the qualifications and eligibility of the mining corporations to undertake mining activities within the jurisdiction of the municipality â consistent with the purpose of promoting the general welfare of his constituents.
+Third
+, the Memorandum issued by appellant applies to all MPSA holders allowed to operate within his municipality and did not apply in favor of, or to the disadvantage of any specific party. The additional requirements for the approval of business permits were likewise imposed on all MPSA holders and not just ZDMC and ZCMC.
+Fourth
+, in issuing the Memorandum and requiring additional documents as a condition for the release of business permits of the mining corporations, appellant may have relied on Section 444 of R.A. No. 7160, otherwise known as the Local Government Code of 1991 (
+LGC
+), which provides the powers, duties, and functions of a municipal mayor, thus:
+Section 444. 
+The Chief Executive: Powers, Duties, Functions and Compensation
+. â (a) The municipal mayor, as the chief executive of the municipal government, shall exercise such powers and perform such duties and functions as provided by this Code and other laws.
+(b) 
+For efficient, effective and economical governance the purpose of which is the general welfare of the municipality and its inhabitants
+ pursuant to Section 16 of this Code, the municipal mayor shall:
+x x x x
+(2) Enforce all laws and ordinances relative to the governance of the municipality and the exercise of its corporate powers provided for under Section 22 of this Code, implement all approved policies, programs, projects, services and activities of the municipality and, in addition to the foregoing, shall:
+x x x x
+(iii) 
+Issue such executive orders as are necessary for the proper enforcement and execution of laws and ordinances.
+(3) Initiate and maximize the generation of resources and revenues, and apply the same to the implementation of development plans, program objectives and priorities as provided for under Section 18 of this Code, particularly those resources and revenues programmed for agro-industrial development and country-wide growth and progress, and relative thereto, shall:
+x x x x
+(iv) 
+Issue licenses and permits and suspend or revoke the same for any violation of the conditions upon which said licenses or permits had been issued, pursuant to law or ordinance.
+x x x
+[49]
+It is true that under R.A. No. 7492, the obligation to pay occupation fees starts from the moment the mining agreement has been registered. Notably, the law does not impose any condition, not even the issuance of a business permit, before the payment of occupation fees will be accepted. Nevertheless, it has been held that mere violation of a law does not constitute evident bad faith under Section 3(e) of R.A. No. 3019,
+[50]
+ which requires a clear showing that the accused was spurred by a corrupt motive or a deliberate intent to do wrong or cause damage.
+[51]
+ In any case, it should be pointed out that the LGC is also a law which is of equal status as R.A. No. 7492. It cannot be said, therefore, that appellant's issuance of the assailed Memorandum and non-approval of the business permits pending compliance with the additional requirements by the mining corporations were made without any basis.
+From the foregoing, the Court is convinced that appellant did not act with a furtive design or ill will for ulterior purposes, nor was he moved by a "palpably and patently fraudulent and dishonest purpose to do some moral obliquity or conscious wrongdoing for some perverse motive or ill will."
+[52]
+ On the contrary, the Court finds that appellant acted in good faith â with honest and lawful intent, without knowledge of fraud, and without any intention to engage in a fraudulent or unlawful scheme.
+[53]
+ Appellant was only under an honest belief that as local chief executive, he had the duty to act for the best interests of his constituents and to protect the municipality's environmental resources. Thus, to the mind of the Court, appellant's actuations are inconsistent with the bad faith which R.A. No. 3019 seeks to punish.
+Anent the fourth element, the law provides for two modes by which a public official violates Section 3(e) of R.A. No. 3019: (1) by causing undue injury to any party, including the government, or (2) by giving any private party any unwarranted benefits, advantage or preference in the discharge by the accused of his official, administrative or judicial functions.
+[54]
+ Appellant is charged under the first mode.
+The Sandiganbayan held that appellant caused undue injury to the Municipality of Sta. Cruz, Zambales, since the latter was deprived of its rightful share in the occupation fees of ZDMC as a valid MPSA holder. It found that ZDMC was ready to comply with the payment of its occupation fees as early as July 6, 2010 in the form of a manager's check representing the amount of P113,550.00. The amount was refused by the Office of the Municipal Treasurer despite repeated tender of payments made by ZDMC's manager, on the ground that it should be cleared by Marty's office first.
+It appears from the records, however, that the prosecution failed to introduce into evidence the manager's check supposedly tendered by ZDMC's manager to the Office of the Municipal Treasurer. There was, likewise, no proof that the said manager's check was indeed for the payment of ZDMC's occupation fees for the year 2010, or that the amount owed by ZDMC was P113,550.00.
+It is settled that undue injury under Section 3(e), R.A. No. 3019 must be proven as one of the elements of the crime.
+[55]
+ Moreover, "[w]hile it is not necessary that the specific amount of the damage be proven with absolute certainty, there must be some reasonable basis by which the court can measure it."
+[56]
+ In the present case, the prosecution was unable to present sufficient evidence to establish the alleged injury sustained by the Municipality of Sta. Cruz, Zambales. In 
+Llorente v. Sandiganbayan
+,
+[57]
+ the Court emphasized that undue injury under Section 3(e) of R.A. No. 3019 is consistently interpreted as actual damage akin to that in civil law.
+[58]
+ Thus, similar to civil cases, actual damages, if not supported by evidence on record, cannot be considered.
+[59]
+Accordingly, for the failure of the prosecution to establish the third and fourth elements under Section 3(e) of R.A. No. 3019, the acquittal of appellant is in order.
+Criminal Case No. SB-17-CRM-0052
+With respect to the crime of usurpation of legislative powers under Article 239 of the RPC, the elements thereof are as follows: (1) the offender is an executive or judicial officer; and (2) that he/she (a) makes general rules or regulations beyond the scope of his/her authority; or (b) attempts to repeal a law; or (c) suspends the execution thereof.
+[60]
+Usurpation of legislative powers under Article 239 of the RPC is a felony committed by 
+dolo
+ or with malice. To warrant a conviction under this provision, the modes of committing the offense must be coupled with criminal intent. Basic is the principle in criminal law that 
+actus non facit reum, nisi mens sit rea
+. A crime is not committed if the mind of the person performing the act complained of be innocent.
+[61]
+ In this regard, the rule is that general criminal intent is presumed from the commission of the criminal act.
+[62]
+ This presumption may be rebutted only by an evidence of good faith and lack of criminal intent.
+In the present case, appellant is the local chief executive of the Municipality of Sta. Cruz, Zambales. As the local chief executive, appellant's duty is to ensure that laws and ordinances are being faithfully enforced and executed within the municipality. As discussed above, R.A. No. 7942 requires the payment of occupation fees from MPSA holders the moment the mining agreement has been registered without any condition. Thus, when appellant prevented the concerned mining corporations from paying their occupation fees subject to the issuance of business permit, he effectively went beyond the clear mandate of the law.
+Nevertheless, appellant, in doing so, was not prompted by a criminal intent or illicit purpose. Quite the opposite, appellant was motivated with a sincere desire to protect the interests of his constituents and the environmental resources of the municipality. As discussed above, there was no evidence that appellant personally gained anything from the issuance of the assailed Memorandum. What the records suggest is that he acted in good faith and under a legitimate belief that he was authorized to act in accordance with Section 444 of the LGC to promote the general welfare of the municipality and its inhabitants. These circumstances, to be sure, negate criminal intent on his part and diminish criminal liability under Article 239 of the RPC.
+ACCORDINGLY
+, premises considered, the appeal is 
+GRANTED
+. The Decision dated February 15, 2019 and the Resolution dated April 4, 2019 of the Sandiganbayan in Criminal Cases Nos. SB-17-CRM-0050 and SB-17-CRM-0052, finding accused-appellant Luisito Enriquez Marty guilty of violation of Section 3(e) of Republic Act No. 3019 and (2) usurpation of legislative powers under Article 239 of the Revised Penal Code, respectively, are hereby 
+REVERSED AND SET ASIDE
+. Consequently, accusedÂ­appellant Luisito Enriquez Marty is hereby 
+ACQUITTED
+ of the crimes charged.
+Let entry of judgment be issued immediately.
+SO ORDERED.
+Leonen, SAJ. (Chairperson), Lazaro-Javier, M. Lopez
+, and 
+Kho, Jr., JJ.
+, concur.
+[1]
+ 
+Rollo
+, pp. 45-47.
+[2]
+ Penned by Presiding Justice Amparo M. Cabotaje-Tang, with Associate Justices Bernelito R. Fernandez and Sarah Jane T. Fernandez, concurring; 
+id.
+ at 3-44.
+[3]
+ Records, Vol. 2, pp. 494-515.
+[4]
+ Records, Vol. 1, pp. 1-2.
+[5]
+ 
+Id.
+ at 4-5.
+[6]
+ 
+Id.
+ at 7-8.
+[7]
+ 
+Rollo
+, p. 23.
+[8]
+ 
+Id.
+[9]
+ 
+Id.
+ at 23-24.
+[10]
+ 
+Id.
+ at 24.
+[11]
+ Exhibit "A-4," of the Prosecution.
+[12]
+ 
+Rollo
+, p. 24.
+[13]
+ 
+Id.
+[14]
+ The members of the Zambales Alliance are the following: Eramen Minerals, Inc., Zambales Chromite Mining Company, Inc., Zambales Diversified Metals Corporation, Filipinas Mining Corporation, LNL Archipelago Minerals Incorporated, BenguetCorp Nickel Mines, Inc., and Santa Cruz Mineral Port Corporation; 
+id.
+ at 20.
+[15]
+ 
+Rollo
+, pp. 20-21.
+[16]
+ Exhibit "B-16," of the Prosecution.
+[17]
+ 
+Rollo
+, p. 25.
+[18]
+ 
+Id.
+ at 25-26.
+[19]
+ 
+Id.
+ at 26.
+[20]
+ 
+Id.
+ at 5-6.
+[21]
+ 
+Id.
+ at 7.
+[22]
+ 
+Id.
+ at 6.
+[23]
+ 
+Id.
+ at 14.
+[24]
+ 
+Id.
+ at 14-15.
+[25]
+ Records, Vol. 2, pp. 303-305.
+[26]
+ 
+Id.
+ at 318-319.
+[27]
+ 
+Id.
+ at 15.
+[28]
+ 
+Id.
+ at 16.
+[29]
+ 
+Id.
+ at 8-9.
+[30]
+ 
+Id.
+ at 3-44.
+[31]
+ 
+Id.
+ at 26.
+[32]
+ 
+Id.
+ at 35.
+[33]
+ 
+Id.
+[34]
+ 
+Id.
+ at 41.
+[35]
+ 
+Id.
+ at 42-43.
+[36]
+ Records, Vol. 2, pp. 494-516.
+[37]
+ 
+Macairan v. People, G.R. No. 215104
+, March 18, 2021, citing 
+Maamo v. People
+, 801 Phil. 627, 652 (2016).
+[38]
+ 
+Buencamino v. People, G.R. Nos. 216745-46
+, November 10, 2020, citing 1987 Constitution, Art. III, Sec. 14(2).
+[39]
+ See 
+Sabio v. Sandiganbayan, G.R. Nos. 233853-54
+, July 15 2019, citing 
+Sison v. People
+, 628 Phil. 573, 583 (2010).
+[40]
+ 
+Alvarez v. People
+, 668 Phil. 216, 150 (2011), citing 
+Sison v. People
+, 
+supra
+, at 583-584.
+[41]
+ The last paragraph of Section 26 further provides: A mineral agreement shall grant to the contractor the exclusive right to conduct mining operations and to extract all mineral resources found in the contract area. In addition, the contractor may be allowed to convert his agreement into any of the modes of mineral agreements or financial or technical assistance agreement covering the remaining period of the original agreement subject to the approval of the Secretary.
+[42]
+ R.A. No. 7942, Sec. 27.
+[43]
+ 
+Rollo
+, pp. 29-30.
+[44]
+ As further amended by Section 7, DENR A.O. 2010-21.
+[45]
+ Emphasis supplied. Section 219 of the IRR of R.A. No. 7942 regarding the Manner and Place of Payment of Occupation Fees further provides:
+The occupation fees shall be pain on the date the Exploration Permit/Mineral Agreement/FTAA is registered with the appropriate office and on the same date every year thereafter. It shall be paid to the Treasurer of the Municipality/City where the onshore mining areas are located, or to the Bureau in case of offshore mining areas. For this purpose, the appropriate officer, (the Director for FTAAs or the Regional Director for Exploration Permits and Mineral Agreements) shall submit to the Treasurer of the Municipality/City where the onshore mining area is located, a complete list of all onshore mining rights registered with his/her office, indicating therewith the names of the holders, area covered in hectares, name of Municipality/City and its provincial location and date of registration. If the fee is not paid on the date specified, the Contractor shall pay a surcharge of twenty-five percent (25%) of the amount due in addition to the occupation fees: 
+Provided
+, That if the municipality/city treasurer refuses to accept payment of the occupation fee and the case for consignation is filed in the appropriate court, the Exploration Permit/Mineral Agreement/FTAA may already be registered.
+If the applied area lies in several municipalities, the Director in the case of Mineral Reservations or the Regional Director in the case of areas outside Mineral Reservations shall determine the amount to be paid by the Contractor based on official maps available in the respective offices and endorses the same to the Municipal/City Treasurer concerned. If disagreements arise from this payment later, the Provincial Governor shall decide on the proportionate amount to be paid to the municipalities. (Emphasis supplied)
+[46]
+ 
+G.R. No. 248701
+, July 28, 2020.
+[47]
+ 
+Supra
+.
+[48]
+ 
+Id.
+, citing 
+Republic v. Hon. Desierto
+, 516 Phil. 509, 516 (2006).
+[49]
+ Emphases supplied.
+[50]
+ 
+Macairan v. People
+, 
+supra
+ note 37.
+[51]
+ 
+Id.
+, citing 
+Republic v. Desierto
+, 
+supra
+ note 48, and 
+Collantes v. Marcelo
+, 556 Phil. 794 (2007).
+[52]
+ 
+Suba v. Sandiganbayan, G.R. No. 235418
+, March 3, 2021.
+[53]
+ 
+Giangan v. People
+, 767 Phil. 738, 749 (2015).
+[54]
+ 
+Villarosa v. People, G.R. Nos. 233155-63
+, June 23, 2020, citing 
+Ambil, Jr. v. Sandiganbayan
+, 669 Phil, 32, 53 (2011).
+[55]
+ 
+People v. Pallasigue, G.R. Nos. 248653-54
+, July 14, 2021, citing 
+Llorente v. Sandiganbayan
+, 350 Phil. 820, 838 (1998).
+[56]
+ 
+Soriano v. Ombudsman
+, 591 Phil. 308, 319 (2009), citing 
+G.Q. Garments, Inc. vs. Miranda
+, 528 Phil. 341, 359 (2006).
+[57]
+ 
+Supra
+ note 55.
+[58]
+ 
+Id.
+ at 838.
+[59]
+ 
+Id.
+ at 839.
+[60]
+ 
+Rollo
+, p. 40, citing Reyes, L.B. Book II, The Revised Penal Code, Seventeenth Edition; Article 239 of the RPC provides: "Usurpation of Legislative Powers. - The penalties of 
+prision correccional
+ in its minimum period, temporary special disqualification and a fine not exceeding 1,000 pesos, shall be imposed upon any public officer who shall encroach upon the powers of the legislative branch of the Government, either by making general rules or regulations beyond the scope of his authority, or by attempting to repeal a law or suspending the execution thereof."
+[61]
+ 
+Valenzuela v. People
+, 552 Phil. 381, 395 (2007).
+[62]
+ 
+Recuerdo v. People
+, 526 Phil. 460, 475 (2006).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

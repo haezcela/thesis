@@ -1,0 +1,952 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 201944, April 19, 2023 ]
+
+
+BONIFACIO COMMUNICATIONS CORPORATION AND PHILIPPINE LONG DISTANCE TELEPHONE COMPANY, 
+PETITIONERS
+, VS. NATIONAL TELECOMMUNICATIONS COMMISSION, INNOVE COMMUNICATIONS, INC., AND FORT BONIFACIO DEVELOPMENT CORPORATION, 
+RESPONDENTS
+.
+D E C I S I O N
+
+
+
+
+HERNANDO, J.:
+
+
+This is a Petition for Review on 
+Certiorari
+[1]
+ under Rule 45 of the Rules of Court assailing the August 16, 2011 Decision
+[2]
+ and the May 18, 2012 Resolution
+[3]
+ of the Court of Appeals (CA) in CA-G.R. SP No. 117535. In the assailed Decision, the CA denied the Petition for 
+Certiorari
+ and Prohibition
+[4]
+ under Rule 65 of the Rules of Court filed by petitioners Bonifacio Communications Corporation (BCC) and Philippine Long Distance Company (PLDT) against the October 28, 2008
+[5]
+ and the October 26, 2010
+[6]
+ Orders issued by public respondent, the National Telecommunications Commission (NTC).
+The Facts
+The facts as culled from the August 16, 2011 Decision of the CA are as follows:
+On 16 October 1997, Bases Conversion Development Authority (BCDA), Fort Bonifacio Development Corporation (FBDC) and Smart Communications, Inc. (SCI), incorporated petitioner [BCC]. Thereafter, BCDA, FBDC, and SCI executed a Shareholders' Agreement, whereby BCC was granted 'the exclusive right to install, construct, own and maintain all the necessary Communication Infrastructure,' and provide related services, including but not limited to ValueÂ­Added Services (VAS), within Bonifacio Global City (BGC).
+Subsequently, a Memorandum of Agreement (MOA) was entered into by FBDC and BCC reiterating the aforestated provision, among others. By 2002, petitioner Philippine Long Distance Telephone Company (PLDT) already owns the shares of SCI and FBDC, equivalent to 75% of the total shares.
+On 13 May 2002, Memorandum Circular No. 05-05-2002 (
+Rules and Regulations on the Provisions of High Speed Networks and Connectivity to IT Hub Areas
+) (NTC MC No. 05-05-02) was issued by NTC. BGC was declared therein as one of the free zones where any duly enfranchised public telecommunications entity shall be allowed to provide high speed networks and connectivity.
+Sometime in September 2007, the services of private respondent Innove Communications, Inc. [Innove] were sought to provide landline and data services and internet connectivity to Net 1, 2, and 3 Buildings within BGC, also known as e-Square. In the process of installing the facilities, Innove's contractor, Avecs Corporation, disconnected BCC's conduit from an unused stub-out of the Net 3 Building, replaced it with an Innove conduit, and ran Innove's fiber into said building. These were all done after securing the permission of the buildings' owner, albeit without Innove's prior knowledge.
+Meanwhile, Innove and its parent company, Globe Telecom, Inc. [Globe] sought clarification from NTC on their legal capacities to install and operate telecommunications infrastructure and provide telecommunication services within BGC. At the same time, they requested NTC's opinion on the legality and propriety of BCC's and PLDT's claimed exclusivities within the said area.
+NTC turned to the Department of Justice (DOJ) for guidance on the said queries. In its Opinion No. 22, Series of 2008, DOJ declined to render the opinion requested, stressing that the issue cannot be resolved without passing upon the contracts/agreements concerned as it involves the substantive rights of private parties. But as guidance, it expressed its views, as thus:
+The foregoing notwithstanding, if only for your guidance, we agree with your view that no carrier can claim any exclusivity in the operation of public utilities within any given service area. Section 11, Article XII of the Philippine Constitution provides that the operation a public utility shall not be exclusive. As you have rightfully noted, the Supreme Court itself, in defense of this constitutional mandate, has repeatedly struck down claims of and monopoly in telecommunications services [x x x]
+Moreover, a private agreement of arrangement cannot violate this Constitutional mandate. This is because Article 1306 of the New Civil Code limits the parties' freedom to contract by providing that parties to a contract can establish only such contractual stipulations as are not contrary to law, morals, and public policy [x x x]
+A careful perusal of Republic Act No. 7227, the law creating the BCDA, does not show the grant to BCDA of any exclusivity in the operation of infrastructure facilities of public utilities. While Sec 5 (f) of RA 7227 is explicit that BCDA is authorized 'to construct, own, lease, operate and maintain public utilities as well as infrastructure facilities,' nothing in RA 7227, however, shows that the grant is sole and exclusive.
+Upon discovery [of] Innove's alleged illegal acts, BCC brought the matter to Innove's attention through a demand letter dated 1 September 2008. Innove was likewise informed about the existence of the above-mentioned Shareholder's Agreement and MOA.
+On 12 September 2008, Innove filed a Complaint before the NTC, docketed as NTC Case No. 2008-236, praying for: (a) the affirmation of MC No. 05-05-02 declaring BGC as a free zone; (b) the issuance of a Cease and Desist Order prohibiting BCC, PLDT and FBDC from removing the facilities of Innove from the Net Buildings or from any other place in BGC and from performing further acts and threats to frustrate and prevent Innove's purported obligations as a telecommunication service provider; (c) the issuance of an Order making the Cease and Desist Order permanent, after due hearing; and (d) the issuance of an Order mandating the removal by BCC and PLDT of their devices and installations which intercept vacant cable entrance facilities which are owned by buildings.
+ 
+In their Joint Answer, 
+Ad Cautelam
+, petitioners asserted that: (a) NTC has no jurisdiction over BCC because it is not engaged in public service and is neither an enfranchised public telecommunications entity nor an unauthorized operator; (b) NTC has no jurisdiction over the subject matter therein, 
+i.e.
+ the validity of the MOA and Shareholders' Agreement; and (c) even assuming that NTC has jurisdiction, it is legally precluded from taking further cognizance of the case by virtue of its conclusion and opinions on the same issues, as expressed in its letter to the DOJ.
+Thereafter, Innove filed its Reply dated 17 November 2008. On the same date, BCC and PLDT filed separate civil suits before the Regional Trial Courts (RTC) in Pasig City and Quezon City, respectively, against FBDC, Globe and Innove. The first was for "specific performance, contractual interference, injunction and damages" while the second was for "injunction and nullification of NTC MC No. 05-05-2002 with application for a writ of preliminary injunction (with prayer for temporary restraining order).
+[7]
+"The [Regional Trial Court] (RTC) in Quezon City denied PLDT's prayer for temporary restraining order (TRO), holding that NTC has primary jurisdiction to hear and decide the case, and effectively suspended the proceedings therein. x x x"
+[8]
+After consideration of the parties' arguments, the NTC issued the first assailed Order
+[9]
+ dated October 28, 2008, the dispositive portion of which reads:
+WHEREFORE, the Commission hereby ORDERS the respondents to strictly comply with the provisions of NTC MC 05-05-02 and to CEASE and DESIST from performing further acts that will prevent the complainant from implementing and providing telecommunications service in the Fort Bonifacio Global City (BOC) pursuant to the authorizations granted by the Commission.
+SO ORDERED.
+[10]
+"BCC and PLDT filed a Joint Motion for Reconsideration 
+Ex Abundanti Cautelam
+.
+[11]
+ In its second assailed Order
+[12]
+ dated [October 26, 2010], NTC denied petitioners' motion with finality, stating that they failed to present any substantial argument or compelling reason to grant the reconsideration of the Commission's Order dated October 28, 2008."
+[13]
+In petitioners' Memorandum
+[14]
+ dated December 22, 2021, the petitioners provided the following updates on the cases they filed before the trial courts: 
+2.21.1. On 17 October 2008, BCC filed a complaint before the Regional Trial Court of Pasig (at Taguig) for specific performance, contractual interference, injunction and damages against FBDC, GLOBE, and INNOVE ("RTC Taguig Case"). BCC sought to enjoin the illegal and unauthorized operations and actions of GLOBE and INNOVE in Bonifacio Global City and to enforce the contractual exclusivities granted to BCC by FBDC within the same area. After trial on the merits, the RTC Taguig issued a Resolution dated 30 March 2012 dismissing the Case. BCC filed its Motion for Reconsideration seeking the reversal of the 30 March 2012 Resolution. It was only on 20 October 2020, did BCC [receive] a copy of Court's Resolution dated 27 April 2015 denying its Motion for Reconsideration. It filed a Notice of Appeal dated 3 November 2020 to appeal the Court's Decision and Resolution. However, after a careful consideration of the intervening events from the filing of the Complaint, BCC filed its Notice of Withdrawal of Notice of Appeal on 11 January 2021.
+2.21.2. On 17 October 2008, PLDT filed a Complaint before the Regional Trial Court of Quezon City ("RTC QC Case") for the declaration of the unconstitutionality/nullity of this Honorable Commission's MC 05-05-2001 and injunction against its enforcement. Before pre-trial was held, PLDT (sic) filed a Motion to Dismiss on 8 January 2021.
+[15]
+Ruling of the Court of Appeals
+In its August 16, 2011 Decision,
+[16]
+ the CA denied the petition and affirmed the assailed Orders of the NTC. The CA ruled that NTC may exercise jurisdiction over BCC because BCC, by its own admission, is a Value-Added Service (VAS) provider, and even assuming 
+arguendo
+ that BCC is not a VAS provider, it could still be made subject to the jurisdiction of the NTC because it was acting in concert with a public telecommunication entity (PTE), namely its mother company and co-petitioner PLDT.
+The CA emphasized that Innove Communications, Inc. (Innove) was not questioning the validity of MC No. 05-05-02 but was merely asking the NTC to enforce the authorizations issued to it by NTC. Although directing petitioners to cease and desist from performing acts that will prevent Innove from rendering telecommunications services in the BGC area necessarily affects the agreements entered into by the petitioners, the assailed Orders did not rule on the validity and/or constitutionality of MC No. 05-05-02, the Memorandum of Agreement (MOA), and the Shareholder's Agreements. The CA further held that NTC has lawful authority to issue the cease and desist order as a means to enforce compliance with MC No. 05-05-02 and to implement the authorizations previously granted to Innove.
+[17]
+Finally, the CA also addressed petitioners' claims that NTC's letter to Department of Justice (DOJ) would reveal the NTC's bias in favor of Innove and Globe Telecom, Inc. (Globe). The CA held that the findings of the NTC do not automatically equate to bias and pre-judgment especially considering that the parties were given sufficient, fair, and reasonable opportunity to express their opposing views and sway the NTC to rule in their favor, if the arguments in their pleadings were indeed meritorious.
+[18]
+The 
+fallo
+ of the CA's August 16, 2011 Decision reads:
+WHEREFORE
+, premises considered, the instant petition is 
+DENIED
+. The Orders dated 28 October 2008 and 26 October 2010 issued by public respondent, the National Telecommunications Commission (NTC), in NTC Case No. 2008-236 are hereby 
+AFFIRMED
+.
+SO ORDERED.
+[19]
+Aggrieved, petitioners filed on September 8, 2011 a Motion for Reconsideration
+[20]
+ of the assailed Decision. The Motion was denied by the CA in a Resolution
+[21]
+ dated May 18, 2012. Hence, the instant petition.
+Issues
+Whether the CA correctly held that NTC has jurisdiction over petitioner BCC.
+Whether the CA correctly affirmed the assailed Orders that directed petitioners to comply with NTC MC 05-05-02 and to cease and desist from performing further acts that will prevent Innove from implementing and providing telecommunications service in BGC pursuant to the authorizations granted by the Commission.
+Whether petitioners were deprived of due process when NTC allegedly prejudged the instant case based on the latter's pronouncements in the letter to the DOJ dated March 14, 2008.
+Whether petitioners committed forum shopping when they filed a case before the lower courts while the present action was pending before the NTC and, thereafter, the CA.
+Our Ruling
+The petition is bereft of merit.  
+ 
+The NTC has jurisdiction over BCC insofar as the acts of BCC falling under the scope of functions of the NTC, such as enforcement and administration of authorizations granted to PTEs, promulgation of rules and regulations encouraging effective use of communications and maintaining effective competition among private entities in the telecommunications industry, among others
+ 
+Petitioners claim that the CA decided in a way that is contrary to law and jurisprudence when it affirmed the assailed Orders of the NTC, and held that the NTC had jurisdiction over BCC. Petitioners assert that BCC is not: (1) engaged in public service, (2) a PTE or an enfranchised carrier under Republic Act No. (RA) 7925,
+[22]
+ and (3) an unauthorized operator.
+[23]
+ Petitioners further emphasize that BCC is merely engaged in the business of owning, constructing, establishing, maintaining, leasing, and otherwise operating communications infrastructure and the provision of related services.
+[24]
+In finding that the NTC may exercise jurisdiction over BCC, the CA took into consideration BCC's admissions in the relevant agreements that it is a VAS provider, and even assuming 
+arguendo
+ that BCC did not provide VAS, it was still acting in concert with a PTE, namely its mother company and co-petitioner, PLDT. The CA also agreed with Innove's contention that if NTC can exercise power over a fully enfranchised PTE and an entity without authority/license, all the more reason should an entity possessing a lesser authority as a VAS provider should be under the jurisdiction of the Commission.
+[25]
+BCC and the incorporators of BCC readily admit that the primary purpose of BCC is "to own, construct, establish, maintain, lease, and otherwise operate, to the extent allowed by law, communication infrastructure and to provide related services, 
+including but not limited to value added services
+, within the Fort Bonifacio Global City, Taguig, Metro Manila and in all other areas within Fort Bonifacio and the Villamor Air Base; and in general to do and perform whatsoever is necessary, incidental or appurtenant to and proper for the attainment of the purposes aforesaid and to carry on said business subject to existing laws."
+[26]
+ In the Shareholders' Agreement, the parties therein agreed that BCC "shall provide on a non-exclusive basis VAS within the Service Area, to the extent allowed by law and in accordance with the Business Plan."
+[27]
+ The MOA reiterates these statements in the Whereas clauses.
+[28]
+ Thus, it is evidently stated in the Shareholders' Agreement, Articles of Incorporation of BCC, and MOA, that BCC in addition to owning, constructing, establishing, maintaining, leasing, and otherwise operating of communications infrastructure, BCC will also provide services related thereto that 
+include but are not limited to Value Added services
+. As a VAS provider, BCC must comply strictly with the service performance and other standards prescribed by the NTC as provided under Section 420 (g) of the NTC Memorandum Circular No. 08-09-95 or the Implementing Rules and Regulations for RA 7925 (IRR of RA 7925).
+To determine whether the NTC can indeed exercise jurisdiction over BCC, We look for guidance in Executive Order No. (EO) 546
+[29]
+ which abolished the Telecommunications Control Bureau and the Board of Communications and integrated the same into the NTC under the then Ministry of Transportation and Communications.
+[30]
+ Sec. 15 of EO 546 enumerates the following functions of the NTC:
+Issue Certificate of Public Convenience for the operation of communications utilities and services, radio communications systems, wire or wireless telephone or telegraph systems, radio and television broadcasting system and other similar public utilities
+;
+Establish, prescribe and regulate areas of operation of particular operators of public service communications
+; and determine and prescribe charges or rates pertinent to the operation of such public utility facilities and services except in cases where charges or rates are established by international bodies or associations of which the Philippines is a participating member or by bodies recognized by the Philippine Government as the proper arbiter of such charges or rates;
+Grant permits for the use of radio frequencies for wireless telephone and telegraph systems and radio communication systems including amateur radio stations and radio and television broadcasting systems;
+Sub-allocate series of frequencies of bands allocated by the International Telecommunications Union to the specific services;
+Establish and prescribe rules, regulations, standards, specifications in all cases related to the issued Certificate of Public Convenience and administer and enforce the same
+;
+Coordinate and cooperate with government agencies and other entities concerned with any aspect involving communications with a view to continuously improve the communications service in the country
+;
+Promulgate such rules and regulations, as public safety and interest may require, to encourage a larger and more effective use of communications, radio and television broadcasting facilities, and to maintain effective competition among private entities in these activities whenever the Commission finds it reasonably feasible
+;
+Supervise and inspect the operation of radio stations and telecommunications facilities
+;
+Undertake the examination and licensing of radio operators;
+Undertake, whenever necessary, the registration of radio transmitters and transceivers; and
+Perform such other functions as may be prescribed by law.
+[31]
+RA 7925 or the "Public Telecommunications Policy Act of the Philippines" provides, under Sec. 5, the responsibilities of the NTC as principal administrator of RA 7925. In addition to its existing functions, the NTC shall be responsible for the following: 
+(a)
+Adopt an administrative process which would facilitate the entry of qualified service providers and adopt a pricing policy which would generate sufficient returns to encourage them to provide basic telecommunications services in unserved and underserved areas;
+(b)
+Ensure quality, safety, reliability, security, compatibility and inter-operability of telecommunications facilities and services in conformity with standards and specifications set by international radio and telecommunications organizations to which the Philippines is a signatory;
+(c)
+Mandate a fair and reasonable interconnection of facilities of authorized public network operators and other providers of telecommunications services through appropriate modalities of interconnection and at a reasonable and fair level of charges, which make provision for the cross subsidy to unprofitable local exchange service areas so as to promote telephone density and provide the most extensive access to basic telecommunications services available at affordable rates to the public;
+(d)
+Foster fair and efficient market conduct through, but not limited to, the protection of telecommunications entities from unfair trade practices of other carriers;
+(e)
+Promote consumers welfare by facilitating access to telecommunications services whose infrastructure and network must be geared towards the needs of individual and business users;
+(f)
+Protect consumers against misuse of a telecommunications entity's monopoly or quasi-monopolistic powers by, but not limited to, the investigation of complaints and exacting compliance with service standards from such entity; and
+(g)
+In the exercise of its regulatory powers, continue to impose such fees and charges as may be necessary to cover reasonable costs and expenses for the regulation and supervision of the operations of telecommunications entities.
+[32]
+It is clear from the foregoing that NTC is empowered to not only issue Certificates of Public Convenience (CPCN) and other related authorizations but also "establish and prescribe rules, regulations, standards, specifications in all cases related to the issued Certificate of Public Convenience 
+and administer and enforce the same
+."
+[33]
+ Thus, the NTC may employ the appropriate remedies to ensure that there is no obstruction in the enforcement of CPCNs, permits, and licenses in favor of duly enfranchised PTEs. In the present case, pursuant to its mandate, the NTC issued a cease and desist order directing petitioners to refrain from performing any act that would prevent Innove from implementing and providing telecommunications services pursuant to the authorizations granted by the NTC.
+EO 546 and RA 7925 notably do not define the term "telecommunications facilities." Thus, unless particularly and exhaustively defined in an appropriate legislative issuance, it can be generally understood as to simply mean any facility, equipment, and infrastructure used to carry out telecommunication services. In the Shareholders' Agreement, the Communications Infrastructure provided by BCC is defined as "all communications equipment and facilities which may be necessary in the Business Plan to carry out the business of the Corporation."
+[34]
+ Such definition covers a vast array of infrastructure that can also fall under the general definition of telecommunication facilities under EO 546. Hence, as an entity that owns and operates telecommunication facilities, the NTC can supervise and inspect such communications infrastructure owned by petitioners pursuant to Sec. 15 (h) of EO 546.
+The 2006 Revised Rules of Practice and Procedure of the National Telecommunications Commission (NTC Rules) further provides that a Complaint before the NTC may be commenced for any violation of any provisions of the laws, rules and regulations of this Commission, or terms and conditions of its certificate or any order, decision, or regulation of the Commission:
+SECTION 1. How Commenced. â Any action, the object of which is to subject a holder of a CPCN/CPC/CA/PA/authorization or any person operating a service or activity or possessing any instrument and equipment without any authority, permit or license from the Commission, to any penalty, or disciplinary measure that may be taken by the Commission against such holder or person for violation of any provisions of the laws, rules and regulations of this Commission, or terms and conditions of its certificate or any order, decision, or regulation of the Commission, shall be commenced by the filing of a complaint in accordance with these Rules.
+[35]
+Petitioners argue that the Sec. 1 of the NTC Rules limits the jurisdiction of the NTC to PTEs and illegal operators only, and since BCC claims it is neither a PTE nor an illegal operator, the NTC does not have jurisdiction over it.
+[36]
+We disagree. Sec. 1 of Rule 10 of the NTC Rules indeed covers actions against the following: (1) a holder of a CPCN/CPC/CA/PA/authorization and (2) any person operating a service or activity or possessing any instrument and equipment without any authority, permit or license from the Commission. Worded differently, with or without authorization to operate a telecommunications service or activity or possess any such instrument and equipment, the NTC may subject any person to a penalty or disciplinary measure if there is a finding that such person has violated the laws, rules, regulations, authorizations, orders, and decisions of the NTC. Hence, the crux of the provision is the jurisdiction of the NTC over actions involving the violation of the laws, rules, and regulations of the NTC and/or the terms and conditions of the authorization, order, decision, or regulation of the NTC. Such reading is in line with the earlier stated provisions on the power of the NTC to enforce and administer authorizations granted to PTEs, encourage effective use of communications, and maintain effective competition among private entities in the telecommunications industry, among others.
+In summary, it is apparent that NTC may exercise jurisdiction over BCC insofar as BCC's activities affect the enforcement of authorities granted to duly authorized PTEs and violate the rules and regulations of the Commission. To rule otherwise would render NTC powerless in administering and enforcing permits, licenses, and other similar authorizations it is empowered to grant to qualified entities under the law especially against entities that do not possess any authorization to provide telecommunication services but interfere with the services of such PTEs. In reviewing the scope of the powers of the NTC, We emphasize that such powers are not limited to the authorizations granted to certain parties or the lack thereof but must be guided by the responsibilities and functions of NTC embodied in the relevant laws, particularly RA 7925 and EO 546.  
+ 
+The Assailed Orders of NTC are valid and issued pursuant to the mandate of the NTC to ensure that Innove, as a duly authorized PTE, can freely exercise authorities granted to it by the NTC
+ 
+Petitioners claim that the NTC erroneously delved into the validity of the MOA and Shareholder's Agreement which is beyond the jurisdiction and competence of the NTC. Petitioners further assert that there is no law or rule which gives the NTC the authority or jurisdiction to resolve questions regarding the enforcement, validity, and constitutionality of exclusivities under the subject agreements.
+[37]
+ Moreover, petitioners disagree with the finding of the CA that the cease and desist order was issued as part of the final resolution of NTC Case No. 2008-236.
+[38]
+In the dispositive portion of the assailed October 28, 2008 Order,
+[39]
+ the NTC ordered petitioners (1) to strictly comply with the provisions of NTC MC 05-05-02 and (2) to cease and desist from performing further acts that will prevent [private respondent Innove] from implementing and providing telecommunications service in BGC pursuant to the authorizations granted by the Commission.
+To settle the issue of whether the NTC may compel petitioners to comply with the provisions of NTC MC 05-05-02 as well as order petitioner to cease and desist from performing acts that will interfere with the authorizations granted to Innove, We emphasize the following functions of NTC under Sec. 15 of EO 546: 
+x x x x
+(b)
+Establish, prescribe and regulate areas of operation of particular operators of public service communications; x x x;
+[40]
+x x x x
+(e)
+Establish and prescribe rules, regulations, standards, specifications in all cases related to the issued Certificate of Public Convenience and administer and enforce the same;
+[41]
+(f)
+Coordinate and cooperate with government agencies and other entities concerned with any aspect involving communications with a view to continuously improve the communications service in the country;
+[42]
+(g)
+Promulgate such rules and regulations, as public safety and interest may require, to encourage a larger and more effective use of communications, radio and television broadcasting facilities, and to maintain effective competition among private entities in these activities whenever the Commission finds it reasonably feasible;
+[43]
+The NTC's issuance of NTC MC 05-05-02 is in line with the foregoing provisions. NTC MC 05-05-02 provides, under Sec. III (3), that any duly enfranchised PTE shall be allowed to provide high-speed networks and connectivity to IT Hub areas identified therein. Sec. I (1) (d) further provides that "IT Hub Areas" are specific areas declared by the Board of Investments and Department of Trade and Industry (BOI-DTI) as locations which require high speed networks, services and connectivity. The first paragraph of NTC MC 05-05-02 explains that it was issued pursuant to the provisions of RA 7925, EO 546, RA 8792 (or the E-Commerce Law), and it is consistent with the government's goal to develop and maintain a viable, efficient, reliable and universal telecommunications infrastructure using the best available and affordable technologies, as a vital tool to nation building and development and in order to stimulate the growth and development of the information and communications technology. NTC MC 05-05-02 is a valid regulation absent any ruling stating otherwise. As principal administrator of RA 7925, the NTC shall take the necessary measures to implement the policies and objectives set forth therein including ensuring compliance with NTC MC 05-05-02.
+Indeed, the power of NTC to issue authorizations such as CPCNs also necessarily includes the NTC's power to establish and prescribe rules, regulations, standards, and specifications related thereto, and to administer and enforce the same.
+[44]
+ It is undisputed that Innove is a telecommunications entity duly authorized by the NTC in NTC Case No. 2004-027, under provisional authority, "to establish, install, operate and maintain a local exchange service, particularly integrated local telephone service with public payphone facilities and public calling stations in all regions, provinces, cities and municipalities across the nation that are not yet covered by its existing CPCN," among others and subject to certain conditions indicated in the Order dated June 17, 2005.
+[45]
+ 
+A local exchange operator shall, among others, provide universal basic telephone service to all subscribers who applied for such service, within a reasonable period and at such standards as may be prescribed by the Commission.
+[46]
+ Under Sec. 100 of the Implementing Rules and Regulations (IRR) of RA 7925, the local exchange operator is required to "provide universal basic telephone service capable of accessing local, national, international and other networks 
+without discrimination to all applicants for such service within its defined authorized service area/s
+ and within the schedule duly approved by the Commission."
+[47]
+In the case of 
+Philippine Telegraph & Telephone Corp. v. Smart Communications, Inc.
+,
+[48]
+ We note that Congress gave the NTC broad powers over interconnection matters in order to achieve the goal of universal accessibility. Referring to the discussion on NTC's regulation of interconnection between PTEs in 
+Philippine Long Distance Telephone Co. v. National Telecommunications Commission
+,
+[49]
+ We emphasized that the decisive considerations are public need, public interest, and the common good, and that such extensive powers may generally be traced to the Constitution, which recognizes the vital role of communication and information in nation-building.
+A careful reading of the assailed Order dated October 28, 2008 reveals that NTC did not delve into the validity of the NTC MC 05-05-02, the MOA, or the Shareholders' Agreement. The NTC, pursuant to its mandate, merely enforced existing rules and regulations as well as the authorization granted to Innove. However, in affirming the validity of NTC MC 05-05-02 and ordering compliance with the same, the NTC thereby confirmed that BGC is a free zone wherein any duly enfranchised PTE shall be allowed to provide high-speed networks and connectivity. Hence, the provisions of the exclusivity agreements that are incompatible with NTC MC 05-05-02 cannot be enforced, especially against duly authorized PTEs.
+We note that, as pointed out by respondents, there are two levels of exclusivity exercised by petitioners: exclusivity in telecommunications facilities and exclusivity in telecommunications services.
+[50]
+ In the present case, there is a need to determine if the provision of mere telecommunications facilities can be subjected to the same constitutional prohibition against exclusivity in the operation of a public utility.
+[51]
+In the case of 
+JG Summit Holdings v. Court of Appeals
+,
+[52]
+ We defined the term "public utility" and stated that, although such term implies public use and service to the public, the determinative characteristic of public utility is service or readiness to serve an indefinite public or portion of the public which has a legal right to demand and receive its services or commodities, 
+viz
+.:
+A '
+public utility
+' is '
+a business or service engaged in regularly supplying the public with some commodity or service of public consequence such as electricity, gas, water, transportation, telephone or telegraph service
+.' To constitute a public utility, the facility must be necessary for the maintenance of life and occupation of the residents. However, the fact that a business offers services or goods that promote public good and serve the interest of the public does not automatically make it a public utility. Public use is not synonymous with public interest. As its name indicates, the term 'public utility' implies public use and service to the public. 
+The principal determinative characteristic of a public utility is that of service to, or readiness to serve, an indefinite public or portion of the public as such which has a legal right to demand and receive its services or commodities.
+ Stated otherwise, the owner or person in control of a public utility must have devoted it to such use that the public generally or that part of the public which has been served and has accepted the service, has the right to demand that use or service so long as it is continued, with reasonable efficiency and under proper charges. Unlike a private enterprise which independently determines whom it will serve, a 'public utility' holds out generally and may not refuse legitimate demand for service.
+[53]
+The MOA
+[54]
+ between BCC and Fort Bonifacio Development Corporation (FBDC) states that BCC provides infrastructure to support the requirements of utility service providers and users in the BGC, and that such fiber network will serve as the carrier medium for all telecommunications services and information technology requirements of the BGC, to wit: 
+a)
+BCC is tasked to provide the telecommunications infrastructure to support the requirements of Utility Service Providers (USP) and users in the BGC;
+b)
+BCC will design, construct, own, operate and maintain the telecommunications underground duct banks/conduits and fiber optic cable infrastructure; and
+c)
+The said fiber network will serve as the carrier medium for all the telecommunications services (
+i.e.
+ voice, data, video and other value-added services) and information technology requirements of the BGC.
+[55]
+BCC thus readily admits that its facilities are necessary in providing 
+all
+ telecommunication services in the area. In exercising its alleged right to exclusivity, BCC declares that, without its communications infrastructure, no entity would be able to provide telecommunications services in BGC.
+ 
+Telecommunications services require telecommunication facilities as the former cannot exist without the latter. Entities duly authorized by the NTC, as stated in their permits and licenses, do not independently determine whom to serve but are obliged to hold out such service generally. The public has a legal right to demand and receive such service. If certain facilities are necessary for the operation of a public utility, it stands to reason that the same becomes part and parcel of telecommunication services. Hence, such essential facilities should also be subjected to the constitutional prohibition against exclusivity of public utilities.
+As to exclusivity in the provision of telecommunications services, respondents claim that BCC, acting in concert with PLDT, created a lock-out in BGC.
+[56]
+ In a Complaint
+[57]
+ (with Application for a 20-day Temporary Restraining Order and Preliminary Injunction) dated October 14, 2008 filed by PLDT with the RTC of Quezon City, PLDT admitted the following: 
+2.14
+Upon PLDT's acquisition of SCI's and FBDC's shares in BCC in 2002, it owned seventy-five (75%) of BBC, whereas BCDA owns twenty-five (25%).
+2.15
+The MOA between FBDC and PLDT for the acquisition of FBDC's shares in BCC provides that 
+an essential condition for PLDT to purchase FBDC's BCC shares is that PLDT will be 'the sole provider of basic telecommunication and related value added services in the Service Area and will have exclusive access to the communications infrastructure of BCC except for the E-Square
+ area which comprises approximately 20-25 hectares based on the property plan of FBDC and BCDA where other duly enfranchised telecommunications carriers may be allowed to lease from the FBDC the communications infrastructure sold by BCC x x x'
+[58]
+A private agreement designating PLDT as "the sole provider of basic telecommunication and related value added services in the Service Area,"
+[59]
+ now considered a free zone, with "exclusive access to the infrastructure of BCC,"
+[60]
+ which the former owns 75% of the shares, is without a doubt in violation of the constitutional prohibition against the exclusive operation of public utilities. The foregoing admission confirms that PLDT, acting in concert with BCC, are operating a monopoly in telecommunication facilities and services in the affected area.
+RA 7925 states that one of the responsibilities of the NTC is to protect consumers against misuse of a telecommunications entity's monopoly or quasi-monopolistic powers by, but not limited to, the investigation of complaints and exacting compliance with service standards from such entity.
+[61]
+ Such responsibility is balanced with the other functions of the NTC such as ensuring the quality, safety, reliability, security, compatibility and inter-operability of telecommunications facilities and services;
+[62]
+ fostering fair and efficient market conduct through, but not limited to, the protection of telecommunications entities from unfair trade practices of other carriers;
+[63]
+ and promoting consumers welfare by facilitating access to telecommunications services whose infrastructure and network must be geared towards the needs of individual and business users,
+[64]
+ among others. The very issuance of NTC MC 05-05-02 shows that NTC recognizes areas in the country that require high speed networks and connectivity wherein the provision of telecommunication services is particularly competitive.
+In 
+Philippine Long Distance Telephone Co. v. National Telecommunications Commission
+,
+[65]
+ We categorically declared that neither PLDT nor any other public utility has a constitutional right to a monopoly and that free competition in the telecommunications industry may lead to improvement in quality of service and reduce user dissatisfaction:
+Free competition in the industry may also provide the answer to a much desired improvement in the quality and delivery of this type of public utility, to improved technology, fast and handy mobile service, and reduced user dissatisfaction. After all, neither PLDT nor any other public utility has a constitutional right to a monopoly position in view of the Constitutional proscription that no franchise certificate or authorization shall be exclusive in character or shall last longer than fifty (50) years (ibid., Section 11; Article XIV, Section 5, 1973 Constitution; Article XIV, Section 8, 1935 Constitution). Additionally, the State is empowered to decide whether public interest demands that monopolies be regulated or prohibited (1987 Constitution, Article XII, Section 19)."
+[66]
+The Constitution is quite emphatic that the operation of a public utility shall not be exclusive.
+[67]
+ Despite the foregoing requirements, petitioners insist that they are entitled to the exclusive operation of telecommunications infrastructure in the BGC area based on the Shareholders' Agreement and MOA. Although contracting parties may establish such stipulations, clauses, terms and conditions as they may deem convenient, such contract must not contain provisions that are contrary to law, morals, good customs, public order, or public policy.
+[68]
+ It is basic that the law is deemed written into every contract.
+[69]
+ Although a contract is the law between the parties, the provisions of positive law which regulate contracts are deemed written therein and shall limit and govern the relations between the parties.
+In 
+Manila Prince Hotel v. Government Service Insurance System
+,
+[70]
+ We discussed the doctrine of constitutional supremacy and that any law or even contract entered into by private persons for private purposes is null and void and without any force and effect if it violates any norm of the Constitution.
+Under the doctrine of constitutional supremacy, if a law or contract violates any norm of the constitution that law or contract whether promulgated by the legislative or by the executive branch or entered into by private persons for private purposes is null and void and without any force and effect. Thus, since the Constitution is the fundamental, paramount and supreme law of the nation, it is deemed written in every statute and contract.
+[71]
+NTC MC 05-05-02 may have been issued after the Shareholders' Agreement and MOA took effect, but RA 7925 was already in full force when such agreements were entered into by the parties. As such, any provisions incompatible with the Constitution and existing laws and regulations cannot be given full force and effect.
+In addition to the foregoing, if a private contract interferes with the authority of a duly enfranchised PTE to provide telecommunications services in areas declared as free zones, such agreement clearly defies the role of NTC as the government agency empowered to enforce and administer authorizations in favor of duly enfranchised PTEs.
+A closer review of the specific provisions of the relevant agreements discussed in the present case, as well as the acts of the parties pursuant to such agreements, would reveal petitioners' efforts to prevent Innove, a duly authorized PTE, from freely exercising fulfilling their obligations to provide telecommunication services under the authorizations granted by the NTC. Petitioners persistently opposed the installation of Innove's communication facilities and demanded the removal of the same. Innove also claims that petitioner set up devices and installations which intercept vacant cable entrance facilities owned by buildings or hog them to the exclusion of other carriers.
+[72]
+In its Memorandum dated December 22, 2021, Innove explains that the context of its request for NTC's opinion on the legality and propriety of the petitioners' claimed exclusivities within BGC was two-fold: (1) Innove had received applications for its services from locators within the Net Buildings, and sought to provide said services despite the claimed exclusivities; and (2) Globe sought to establish its new corporate headquarters within the BGC area, but wanted to be assured that it could provide its own facilities to its own building.
+[73]
+The parties to the Shareholders' Agreement, namely BCDA, FBDC, and Smart Communications Inc. (SCI) do not have the authority to limit or obstruct the activity of a duly enfranchised PTEs regardless of the contents of their Business Plan or any other private agreement because the power to grant, define, limit, and revoke the authority to PTEs to provide its telecommunications services within a certain area is within the scope of functions of the NTC.
+However, considering the significant investment of BCC in creating a network of telecommunication facilities in BGC, the Court notes that the NTC is in the proper position to determine the reasonable fees for lease or possible compensation if there is a need to remove or replace existing structures. As provided in the Shareholders' Agreement, should a PTE wish to use the existing facilities constructed, operated, and owned by BCC, the PTE may enter into a lease or similar arrangement with reasonable conditions
+[74]
+ subject to the regulation by NTC. Nonetheless, no PTE should be compelled to use the facilities established by BCC. BCC also cannot prevent any duly authorized PTE from installing the necessary facilities in the areas declared part of the free zone under NTC MC 05-02-02.
+Necessarily, the NTC deemed it fit to issue the cease and desist order to prevent any further violation of the provisions of NTC MC 05-05-02 and interference with the authorizations granted to Innove. Sec. 4 of the NTC Rules provides that, pending hearing and final consideration of the case, the Commission may issue a cease and desist order to a respondent upon motion or 
+motu proprio
+ in the interest of public service, welfare and security of the state and/or where the respondent does not have any authority from the Commission to install, operate, and maintain the service/facility.
+Moreover, in the case of 
+GMA Network, Inc. v. National Telecommunications Commission
+,
+[75]
+ We emphasized that the NTC has the authority to determine the propriety of the issuance of a cease and desist order, which is a provisional relief, pursuant to Sec. 3, Part VI of the NTC Rules. The Court, citing 
+Garcia v. Mojica
+,
+[76]
+ ruled that a cease and desist order is similar in nature to a 
+status quo
+ order wherein the last, actual, peaceable, and uncontested state of things which preceded the controversy is sought to be maintained. The Court further notes, however, that there have been instances when the status quo order was treated as a preliminary injunction. In 
+Prado v. Veridiano II
+,
+[77]
+ the Court ruled that the 
+status quo
+ order in that case was in fact a writ of preliminary injunction, which enjoined the defendants from continuing not only the public bidding in that case but also subsequent bidding until the trial court had resolved the issues.
+[78]
+ The Court applied the requirements for the issuance of a writ of preliminary injunction in determining the propriety for the issuance of a 
+status quo
+ order.
+[79]
+ Thus, the petitioners' entitlement to the issuance of a cease and desist order depends on its compliance with the requisites for the issuance of a preliminary injunction.
+[80]
+To be entitled to the injunctive writ, petitioners must show that (1) there exists a clear and unmistakable right to be protected; (2) this right is directly threatened by an act sought to be enjoined; (3) the invasion of the right is material and substantial; and (4) there is an urgent and paramount necessity for the writ to prevent serious and irreparable damage.
+[81]
+In the instant case, Innove has a clear and unmistakable right to provide telecommunication services nationwide pursuant to the authorizations granted by the NTC. The acts of petitioners insisting enforcement of the exclusivity agreements and terms therein directly threatens such right. Such invasion of the right is material and substantial as it undoubtedly prevents Innove from fully exercising its right to provide telecommunication services in the area. There is likewise an urgent and paramount necessity for the writ to prevent serious and irreparable damage as it affects not only the rights of innove but also the access of the relevant public to telecommunication services. Clearly, pursuant to Sec. 4 of the NTC Rules, the cease and desist order was issued in the interest of public service and welfare and respondents do not have authority to exclusively operate telecommunications facilities and services. Hence, the cease and desist order was validly issued by the NTC, especially considering that, as discussed above, respondents cannot continue assert and derive rights from their exclusivity agreements to the detriment of Innove and other duly authorized PTEs.  
+ 
+Petitioners failed to present sufficient evidence to prove the allegation that NTC prejudged the present case
+ 
+Petitioners claim that the CA acted contrary to law and jurisprudence when it held that NTC did not prejudge NTC Case No. 2008-236. Petitioners assert that, even before Innove filed its Complaint, NTC had already formed an opinion, through its March 14, 2008 letter to DOJ that NTC MC 05-05-02 is constitutional, the exclusivities in favor of BCC and PLDT are invalid the MOA and the Shareholders' Agreement by and between BCC, PLDT, and FBDC are unconstitutional and violate NTC MC 05-05-02.
+[82]
+In the March 14, 2008 letter to the DOJ,
+[83]
+ prior to the filing of the Complaint in the instant case, the NTC merely relied on the information provided by Globe and Innove in their letter dated March 7, 2008. NTC then provided their initial assessment based on the limited information available to them at the time. Nevertheless, NTC still sought further guidance from DOJ on the legal issues involved, which clearly shows the NTC's willingness to deliver an unbiased and accurate response to Globe and Innove as to their legal capacities to install and operate telecommunications infrastructure and provide telecommunications services within BGC.
+Thereafter, NTC issued an Order
+[84]
+ dated September 29, 2008 directing PLDT, BCC, and FBDC to show cause why the latter should not be administratively sanctioned for the alleged violations stated in the Complaint filed by Innove. Petitioners then filed an 
+Ex Abundanti Cautela
+ Urgent Motion for Suspension of Time to File Appropriate Pleading or Motion
+[85]
+ dated October 8, 2008 praying for the suspension for the period to file the appropriate pleading until they are furnished with a complete set of the attachments to the Complaint. On October 17, 2008, petitioners filed their Join Answer 
+Ad Cautelam
+ (with Opposition to Application for a Cease and Desist Order).
+[86]
+ It is worth noting that petitioners also filed separate suits in regular courts on October 17, 2008.
+After receipt of the assailed Order
+[87]
+ dated October 28, 2008, petitioners filed a Motion for Reconsideration 
+Ex Abundanti Cautelam
+[88]
+ dated November 13, 2008 followed by a Reply
+[89]
+ dated January 16, 2009 in response to Innove's Opposition
+[90]
+ of their Motion for Reconsideration.
+In the case of 
+Calayag v. Sulpicio Lines, Inc.
+,
+[91]
+ We held that allegations of bias, partiality, and prejudgment must be supported by clear and convincing evidence to overcome the presumption that judges will dispense justice according to law and evidence without fear and favor, to wit: 
+Generally
+, the mere imputation of bias, partiality and prejudgment will not suffice in the absence of clear and convincing evidence to overcome the presumption that the judge will undertake his noble role to dispense justice according to law and evidence and without fear or favor.
+ The disqualification of a judge cannot be based on mere speculations and surmises or be predicated on the adverse nature of the judges rulings towards the movant for inhibition. In fact, this Court has, on several instances, ruled that to warrant the judge's inhibition from the case, bias or prejudice must be shown to have stemmed from an extra-judicial or extrinsic source. In other words, 
+a judge must inhibit only if it is shown that a judge's evident leaning towards a party would result in a disposition on the merits on some basis other than what the judge learned from participating in the case
+.
+After all, the option given to a judge to choose whether or not to handle a particular case should be counterbalanced by the judge's sworn duty to administer justice without fear of repression.
+As with many rules, however, there are exceptions; such as â whenever it is shown that the consistency and regularity with which a judge issued the assailed directives give rise, not to a fanciful suggestion or to a superficial impression of partiality, but to a clear and convincing proof of bias and prejudice, a judge may be directed to inhibit himself from presiding over the case.
+[92]
+The foregoing ruling should be applied to the NTC when it exercises its quasi-judicial powers. The NTC is also presumed to issue orders and render decisions in accordance with law and evidence free from any fear or favor. As correctly held by the CA, the parties were not deprived of due process because all of the parties were given sufficient opportunity to present arguments and any relevant evidence before the NTC. Thereafter, the NTC considered all submissions of the parties as well as existing laws and jurisprudence when it issued the assailed Orders. Mere allegations of bias, partiality, or prejudgment are insufficient to overcome the presumption that the NTC is regularly performing its duties especially considering that the parties actively participated in the proceedings.
+In 
+Eastern Telecommunications Phils., Inc. v. International Communication Corporation
+,
+[93]
+ We held that, absent any clear and convincing evidence of error of law, abuse of power, lack of jurisdiction or grave abuse of discretion clearly conflicting with the letter and spirit of the law, the Court will yield and accord great respect to the interpretation by administrative agencies of their own rules.
+The NTC, being the government agency entrusted with the regulation of activities coming under its special and technical forte, and possessing the necessary rule-making power to implement its objectives, is in the best position to interpret its own rules, regulations and guidelines. The Court has consistently yielded and accorded great respect to the interpretation by administrative agencies of their own rules unless there is an error of law, abuse of power, lack of jurisdiction or grave abuse of discretion clearly conflicting with the letter and spirit of the law.
+[94]
+ 
+Petitioners are guilty of forum shopping
+ 
+Innove initiated the complaint 
+a quo
+ with the NTC on September 12, 2008. While the case was pending, petitioners filed the following civil suits before the regular courts:
+Petitioner BCC filed on October 17, 2008 a civil case for specific performance, contractual interference, damages, and injunction against FBDC before the Regional Trial Court of Pasig (at Taguig), Branch 271 (RTC-Taguig) entitled "
+Bonifacio Communications Corporation v. Fort Bonifacio Development Corporation, Globe Communications, Inc. and Innove Communications, Inc.
+" docketed as Civil case No. 71843-TG.
+[95]
+Petitioner PLDT filed October 17, 2008 a civil case for the declaration of nullity of NTC MC 05-05-02 and injunction against the NTC's assumption of jurisdiction over the NTC Case No. 2008-236 before the Regional Trial Court of Quezon City, Branch 96 (RTC-QC).
+[96]
+Petitioner BCC also filed with the Office of the City Prosecutor of the City of Taguig a criminal complaint for malicious mischief, theft, and violation of Presidential Decree No. (P.D.) 401.
+[97]
+In an Order
+[98]
+ dated October 28, 2008, the RTC-QC held that the NTC had primary jurisdiction to hear and decide the case, and that mere perception and suspicion of impartiality or prejudgment by the NTC is no reason to restrain the Commission from proceeding with the case.
+[99]
+ PLDT filed a Motion to Dismiss
+[100]
+ on January 8, 2021.
+With particular regard to the case before RTC-Taguig, BCC sought to enjoin the illegal and unauthorized operations and actions of Globe and Innove in BGC and to enforce the contractual exclusivities granted to BCC by FBDC in the same area.
+[101]
+ The lower court, in a Resolution
+[102]
+ dated March 30, 2012, granted the Motion to Dismiss filed by the FBDC and ruled on the following matters: jurisdiction of NTC over BCC, power and authority of NTC to decide on the validity of the exclusivity agreements, and the existence of forum shopping.
+[103]
+ The lower court held that, when Innove asked for the affirmation of NTC MC No. 05-05-02 declaring BGC as a free zone, it would in effect require annulment of the MOA and thus admit that the NTC has the power and authority to pass upon the validity and enforceability of the MOA and the Shareholders' Agreement. Moreover, in the Resolution
+[104]
+ dated April 27, 2015, RTC-Taguig declared that BCC is a VAS and, therefore, NTC may exercise jurisdiction over it. However, even if BCC is not a PTE, the NTC may regulate the use of telecommunication facilities and infrastructure based on Secs. 4(a), (b), and (c) of RA 7925 and to promulgate rules and regulations in the effective management and use of telecommunication facilities based on Sec. 15 (g) of EO 546.
+[105]
+As to the issue of whether petitioner BCC committed forum shopping, the trial court held that forum shopping and 
+res judicata
+ are present, to wit:
+Anent the issue that movant did not commit forum shopping when the instant case was filed during the pendency of NTC Case No. 2008-236 and thus, the element of litis [pendentia] is wanting, again, the NTC had decided in said case against the Movant herein. Aggrieved, the Movant (respondents therein) filed a Petition for Certiorari and Prohibition under Rule 65 of the Rules of Court in the Court of Appeals. The Court therein resolved the Petition and affirmed the Orders of NTC. The foregoing Order of the NTC and the Decision of the Court of Appeals had greatly affected the resolution of the instant case. It affirmed the findings of the Court herein in the assailed Resolution that the NTC has jurisdiction over the exclusivity contract which is the issue herein.
+When the NTC issued its 28 October 2008 Order, affirming with finality NTC Memo. Circ. 05-05-02 and declaring BGC as [a] free zone, the NTC had already settled the fate of the movant in the instant case. In upholding the rights of all telecommunication entities to provide telecommunication services within BGC, the NTC had already determined the unenforceability of the rights of BCC under the exclusivity contract in BGC. Thus, it rendered the case moot and academic. Therefore, forum shopping and res judicata are present. There is, therefore, no reason to dwell on the alleged error of this Court in denying the issuance of the Writ of Preliminary Injunction.
+[106]
+In response to the allegations that petitioners are guilty of forum shopping, petitioners claim that there is no identity of the parties because PLDT and NTC are not parties to the case before RTC-Taguig
+[107]
+ and BCC, Innove, and Globe were also not impleaded as parties in the RTC-QC case.
+[108]
+ Petitioners also assert that there is no identity of rights or causes of action and identity of subject matter because the RTC-Taguig case concerns the installation of telecommunications infrastructure, among others, in violation of BCC's contractual rights while the present NTC case pertains to Innove's nationwide authorizations.
+[109]
+ Petitioners argue that the actual installation of telecommunications infrastructure or facilities is entirely relevant to the enforcement of authorizations granted to Innove and the allegations that the exclusivity provisions allegedly violates NTC MC 05-05-02 can be proven independently of the actual installation of telecommunications infrastructure.
+[110]
+The elements of forum shopping are: (i) identity of parties, or at least such parties representing the same interest; (ii) identity of rights asserted and relief prayed for, the latter founded on the same facts; and (iii) identity of the two preceding particulars such that any judgment rendered in the other action will, regardless of which party is successful, amount to 
+res judicata
+ in the action under consideration.
+[111]
+ In 
+Spouses Reyes v. Spouses Chung
+,
+[112]
+ We explained the test to determine whether a party violated the rule against forum shopping, to wit:
+It has been jurisprudentially established that forum shopping exists when a party avails himself of several judicial remedies in different courts, simultaneously or successively, all substantially founded on the same transactions and the same essential facts and circumstances, and all raising substantially the same issues either pending in or already resolved adversely by some other courts.
+The test to determine whether a party violated the rule against forum shopping is whether the elements of 
+litis pendentia
+ are present, or whether a final judgment in one case will amount to 
+res judicata
+ in another. Simply put, when 
+litis pendentia
+ or 
+res judicata
+ does not exist, neither can forum shopping exist.
+The requisites of 
+litis pendentia
+ are: (a) the identity of parties, or at least such as representing the same interests in both actions; (b) the identity of rights asserted and relief prayed for, the relief being founded on the same facts; and (c) the identity of the two cases such that judgment in one, regardless of which party is successful, would amount to 
+res judicata
+ in the other. On the other hand, the elements of 
+res judicata
+, also known as bar by prior judgment, are: (a) the former judgment must be final; (b) the court which rendered it had jurisdiction over the subject matter and the parties; (c) it must be a judgment on the merits; and (d) there must be, between the first and second actions, identity of parties, subject matter, and causes of action.
+[113]
+The Court agrees with the pronouncement of RTC-Taguig and finds petitioners guilty of forum shopping by 
+res judicata
+. The judgment before RTCÂ­Taguig is already final. Petitioner BCC filed a Notice of Appeal before the lower court but eventually withdrew the same in a Notice of Withdrawal dated January 7, 2021. With the withdrawal of the appeal, petitioner BCC no longer contests the findings of the lower court. RTC-Taguig had jurisdiction over the subject matter and the parties and its March 30, 2012 and April 27, 2015 Resolutions are considered judgment on the merits.
+There is identity of parties, or at least such parties representing the same interest, because PLDT owns 75% of shares of BCC and also admitted that one of the conditions for the acquisition of the shares is that PLDT will become "the sole provider of basic telecommunication and related value added services in the Service Area and will have exclusive access to the communications infrastructure of BCC except for the E-Square area"
+[114]
+ thereby creating a monopoly of telecommunication services in BGC.
+In the RTC Taguig Case, BCC sought to enjoin the illegal and unauthorized operations and actions of Globe and Innove in BGC and to enforce the contractual exclusivities granted to BCC by FBDC within the same area.
+[115]
+ In RTC QC Case, PLDT sought for the declaration of the unconstitutionality or nullity of NTC MC 05-05-02.
+[116]
+ These suits directly address the subject of the assailed Order of the NTC in the present case wherein the NTC directed petitioners to strictly comply with the provisions of NTC MC 05-05-02 and desist from preventing Innove from providing telecommunications services in BGC. Thus, there is identity of rights asserted and relief prayed for, as the same are founded on the same set of facts. It is settled by this Court in several cases that the filing by a party of two apparently different actions but with the same objective constitutes forum shopping.
+[117]
+ Without a doubt, any judgment rendered in one action will amount to 
+res judicata
+ in the other action. Hence, with such finding that petitioners are guilty of forum shopping, the dismissal of the present case is warranted.
+WHEREFORE
+, the instant Petition is 
+DENIED
+ for lack of merit. The Decision dated August 16, 2011 and the Resolution dated May 18, 2012 of the Court of Appeals in CA-G.R. SP No. 117535 are 
+AFFIRMED
+.
+SO ORDERED.
+Gesmundo, C.J. (Chairperson), Zalameda, Rosario
+, and 
+Marquez, JJ.
+, concur.
+[1]
+ 
+Rollo
+, pp. 12-76.
+[2]
+ 
+Id.
+ at 78-92. Penned by Associate Justice Samuel H. Gaerlan (now a Justice of this Court) and concurred in by Associate Justices Rosmari D. Carandang (a retired Justice of this Court) and Ramon R. Garcia.
+[3]
+ 
+Id.
+ at 94.
+[4]
+ 
+Id.
+ at 78.
+[5]
+ 
+Id.
+ at 92.
+[6]
+ 
+Id.
+[7]
+ 
+Id.
+ at 79-82. Citations Omitted.
+[8]
+ 
+Id.
+ at 82.
+[9]
+ 
+Id.
+[10]
+ 
+Id.
+[11]
+ 
+Id.
+[12]
+ 
+Id.
+[13]
+ 
+Id.
+[14]
+ 
+Id.
+ at 1192-1267.
+[15]
+ 
+Id.
+ at 1212-1213. Citations Omitted.
+[16]
+ 
+Id.
+ at 78-92.
+[17]
+ 
+Id.
+ at 84-91.
+[18]
+ 
+Id.
+[19]
+ 
+Id.
+ at 92.
+[20]
+ 
+Id.
+ at 94.
+[21]
+ 
+Id.
+[22]
+ Entitled "AN ACT TO PROMOTE AND GOVERN THE DEVELOPMENT OF PHILIPPINE TELECOMMUNICATIONS AND THE DELIVERY OF PUBLIC TELECOMMUNICATIONS SERVICES." Approved: March 1, 1995.
+[23]
+ 
+Rollo
+, p. 1230.
+[24]
+ 
+Id.
+ at 1231.
+[25]
+ 
+Id.
+ at 84-86.
+[26]
+ 
+Id.
+ at 107 (Articles of Incorporation of BCC).
+[27]
+ 
+Id.
+ at 123 (Shareholders' Agreement).
+[28]
+ 
+Id.
+ at 141 (Memorandum of Agreement).
+[29]
+ Entitled "CREATING A MINISTRY OF PUBLIC WORKS AND A MINISTRY OF TRANSPORTATION AND COMMUNICATIONS." Approved: July 23, 1979.
+[30]
+ EXECUTIVE ORDER NO. 546 (1979), SEC. 19 (A) AND (D).
+[31]
+ Underscoring supplied.
+[32]
+ REPUBLIC ACT NO. 7925, SEC. 5.
+[33]
+ EXECUTIVE ORDER NO. 546, SEC. 15 (A) AND (E). Emphasis and underscoring supplied.
+[34]
+ 
+Rollo
+, p. 120.
+[35]
+ RULES OF PRACTICE AND PROCEDURE BEFORE THE NTC (2006), SEC. 1.
+[36]
+ 
+Rollo
+, p. 1230.
+[37]
+ 
+Id.
+ at 1218-1219.
+[38]
+ 
+Id.
+ at 1244.
+[39]
+ 
+Id.
+ at 82.
+[40]
+ EXECUTIVE ORDER NO. 546, SEC. 15 (B).
+[41]
+ EXECUTIVE ORDER NO. 546, SEC. 15 (E).
+[42]
+ EXECUTIVE ORDER NO. 546, SEC. 15 (F).
+[43]
+ EXECUTIVE ORDER NO. 546, SEC. 15 (G).
+[44]
+ EXECUTIVE ORDER NO. 546, SEC. 15 (E).
+[45]
+ Records, pp. 711-723. (Order dated June 17, 2005 in NTC Case No. 2004-027 granting Innove Communications, Inc. provisional authority).
+[46]
+ REPUBLIC ACT NO. 7925, SEC. 8.
+[47]
+ Underscoring supplied.
+[48]
+ 
+Philippine Telegraph & Telephone Corp. v. Smart Communications, Inc.
+, 799 Phil. 78, 88 (2016).
+[49]
+ 
+Philippine Long Distance Telephone Co. v. National Telecommunications Commission
+, 268 Phil. 784, 804 (1990).
+[50]
+ 
+Rollo
+, pp. 1275-1276.
+[51]
+ CONSTITUTION, Art. XII, SEC. 11.
+[52]
+ 
+JG Summit Holdings v. Court of Appeals
+, 458 Phil. 581 (2003).
+[53]
+ 
+Id.
+ at 602. Emphasis supplied. Citations omitted.
+[54]
+ 
+Rollo
+, pp. 141-144.
+[55]
+ 
+Id.
+ at 143 and 1206.
+[56]
+ 
+Id.
+ at 1127-1128 and 1276.
+[57]
+ 
+Id.
+ at 215-247.
+[58]
+ 
+Id.
+ at 221-222. Emphasis and underscoring supplied.
+[59]
+ 
+Id.
+[60]
+ 
+Id.
+ at 222.
+[61]
+ REPUBLIC ACT NO. 7925, SEC. 5 (F).
+[62]
+ REPUBLIC ACT NO. 7925, SEC. 5 (B).
+[63]
+ REPUBLIC ACT NO. 7925, SEC. 5 (D).
+[64]
+ REPUBLIC ACT NO. 7925, SEC. 5 (E).
+[65]
+ 
+Philippine Long Distance Telephone Co. v. National Telecommunications Commission
+, 
+supra
+ note 49, 81 also cited in 
+Republic v. Republic Telephone Company, Inc.
+, 332 Phil. 789, 803 (1996).
+[66]
+ 
+Id.
+ at 805.
+[67]
+ 
+Republic v. Express Telecommunication Co., Inc.
+, 424 Phil. 372, 401 (2002). CONSTITUTION, ART. XII, SEC. 11.
+[68]
+ CIVIL CODE, ART. 1306.
+[69]
+ 
+Heirs of San Miguel v. Court of Appeals
+, 416 Phil. 943, 954 (2001), citing 
+National Steel Corporation v. Regional Trial Court of Lanao del Norte, Br. 2, Iligan City
+, 364 Phil. 240, 256 (1999).
+[70]
+ 335 Phil. 82 (1997).
+[71]
+ 
+Id.
+ at 101.
+[72]
+ 
+Rollo
+, p. 261.
+[73]
+ 
+Id.
+ at 1278.
+[74]
+ 
+Id.
+ at 123.
+[75]
+ 
+GMA Network, Inc. v. National Telecommunications Commission
+, 780 Phil. 244, 251 (2016).
+[76]
+ 372 Phil. 892, 900 (1999).
+[77]
+ 281 Phil. 723, 741 (1991).
+[78]
+ 
+GMA Network, Inc. v. National Telecommunications Commission
+, 
+supra
+ at 254, citing 
+Prado v. Veridiano II
+, 
+supra
+.
+[79]
+ 
+Id.
+[80]
+ 
+Id.
+[81]
+ 
+Id.
+, citing 
+Australian Professional Realty, Inc. v. Municipality of Padre Garcia, Batangas Province
+, 684 Phil. 283, 292 (2012).
+[82]
+ 
+Rollo
+, p. 1254.
+[83]
+ 
+Id.
+ at 175-182.
+[84]
+ 
+Id.
+ at 30.
+[85]
+ 
+Id.
+[86]
+ 
+Id.
+ at 275-306.
+[87]
+ 
+Id.
+ at 82.
+[88]
+ 
+Id.
+[89]
+ 
+Id.
+ at 32.
+[90]
+ 
+Id.
+[91]
+ 795 Phil. 418 (2016).
+[92]
+ 
+Id.
+ at 435. Citations omitted. Emphasis supplied.
+[93]
+ 516 Phil. 518, 521 (2006), cited in 
+GMA Network, Inc. v. National Telecommunications Commission
+, 728 Phil. 192-210 (2014).
+[94]
+ 
+Id.
+[95]
+ 
+Rollo
+, pp. 65-66. (Verification and Certification of Non-Forum Shopping executed by Florentino D. Mabasa, Jr., then Assistant Corporate Secretary and Head of Legal Center of petitioner PLDT); 
+Rollo
+, pp. 69-70. (Verification and Certification of Non-Forum Shopping executed Tricia A. Ligon, then Business Development Manager of petitioner BCC); 
+Rollo
+, pp. 1212-1213.
+[96]
+ 
+Rollo
+, p. 65.
+[97]
+ 
+Id.
+ at 69.
+[98]
+ 
+Id.
+ at 1374.
+[99]
+ 
+Id.
+[100]
+ 
+Id.
+ at 1418-1421.
+[101]
+ 
+Id.
+ at 1212.
+[102]
+ 
+Id.
+ at 1375-1391. Penned by Presiding Judge Paz Esperanza M. Cortes.
+[103]
+ 
+Id.
+[104]
+ 
+Id.
+ at 1541.
+[105]
+ 
+Id.
+[106]
+ 
+Id.
+ at 1542-1543. 
+[107]
+ 
+Id.
+ at 1225-1226.
+[108]
+ 
+Id.
+ at 1226.
+[109]
+ 
+Id.
+ at 1226-1227.
+[110]
+ 
+Id.
+[111]
+ 
+Santos Ventura Hocorma Foundation, Inc. v. Mabalacat Institute, Inc., G.R. No. 211563
+, September 29, 2021, citing 
+Chavez v. Court of Appeals
+, 624 Phil. 396, 400 (2010).
+[112]
+ 818 Phil. 225 (2017), cited in 
+Santos Ventura Hocorma Foundation, Inc. v. Mabalacat Institute, Inc.
+, 
+supra
+.
+[113]
+ 
+Id.
+ at 234. Citation omitted.
+[114]
+ 
+Rollo
+, pp. 221-222.
+[115]
+ 
+Id.
+ at 1212-1213. Citations omitted.
+[116]
+ 
+Id.
+[117]
+ 
+Phil Pharmawealth, Inc. v. Pfizer, Inc.
+, 649 Phil. 423, 441 (2010).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

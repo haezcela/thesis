@@ -1,0 +1,742 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 229274, June 16, 2021 ]
+
+
+DEVELOPMENT BANK OF THE PHILIPPINES, PETITIONER, VS. LAND BANK OF THE PHILIPPINES AND DEPARTMENT OF AGRARIAN REFORM ADJUDICATION BOARD, RESPONDENTS.
+
+
+[G.R. No. 229289, June 16, 2021]
+
+
+LAND BANK OF THE PHILIPPINES, PETITIONER, VS. DEVELOPMENT BANK OF THE PHILIPPINES, RESPONDENT. 
+
+
+D E C I S I O N
+
+
+
+
+LOPEZ, M., J.:
+
+
+Before us are the consolidated Petitions for Review on 
+Certiorari
+[1]
+ under Rule 45 of the Revised Rules of Court, assailing the Decision
+[2]
+ dated August 11, 2016 and Resolution
+[3]
+ dated January 11, 2017 of the Court of Appeals (CA) in CA-G.R. SP No. 136570, which affirmed with modification the Decision
+[4]
+ dated December 10, 2013 of the Regional Trial Court (RTC) of Malolos City, Bulacan, Branch 81, in Civil Case No. 368-M-2008.
+ 
+ANTECEDENTS
+ 
+ Subject of this case is a parcel of land in 
+Barangay
+ Duhat, Bocaue, Bulacan, registered in the name of the Development Bank of the Philippines (DBP) under Transfer Certificate of Title (TCT) No. T-144547 with an area of 2,225 square meters (sq.m.). This land was originally owned by Spouses Angel Armando and Remedios Martin (Spouses Angel and Remedios) under TCT No. 39413(M). In 1979, Spouses Angel and Remedios mortgaged this property in favor of DBP to obtain loans, amounting to an aggregate of P400,000.00. Upon default in payment, the property was foreclosed in 1990. DBP acquired the property as the highest bidder in the foreclosure sale. In January 13, 1992, the title was consolidated in DBP's name due to Spouses Angel and Remedios' failure to redeem the property.
+[5]
+ 
+ Sometime in 1998, a 1,567-sq.m. portion of the property was placed under the Comprehensive Agrarian Reform Program (CARP) pursuant to Republic Act (RA) No. 6657,
+[6]
+ as amended.
+[7]
+ On May 13, 1998, the Land Bank of the Philippines (LBP) received from the Department of Agrarian Reform (DAR) Provincial Agrarian Reform Office (PARO) of Bulacan a request to determine the value of the property for the payment of just compensation.
+[8]
+ As can be gleaned from the Claims Valuation and Processing Form No. 03-CA-98-0066,
+[9]
+ LBP recommended the payment of P11,922.32 to DBP as just compensation. DBP rejected the offered amount. The matter was then forwarded to the Provincial Agrarian Reform Adjudicator (PARAD). In the summary proceeding before the PARAD, DBP argued that the property does not fall under the coverage of RA No. 6657 because some portions are residential and not devoted to agriculture; nor is it a tenanted agricultural land.
+[10]
+ In a Decision
+[11]
+ dated December 29, 2003, the PARAD assumed jurisdiction and sustained the LBP's valuation. DBP filed a motion for reconsideration (MR), but was denied in PARAD Resolution dated January 24, 2005.
+[12]
+ Dissatisfied, DBP appealed to the DAR Adjudication Board (DARAB). In a Decision
+[13]
+ dated December 10, 2007, the DARAB affirmed the PARAD ruling.
+ DBP then filed a Petition
+[14]
+ for Determination of Just Compensation before the RTC of Malolos. DBP posited that the DARAB-affirmed LBP valuation was "grossly erroneous and highly prejudicial"
+[15]
+ to DBP's interest as the landowner. To support its claim, DBP presented as witnesses: Leonardo L. Simangan
+[16]
+ (DBP Project Evaluation Officer V), who conducted the appraisal inspection of the property when offered as collateral and prepared the Appraisal Report dated June 3, 2009, stating that the property is valued at P2,100.00/sq. m., 
+i.e
+., P3,290,700.00 for the 1,567-sq. m. portion subjected to the CARP; and Michael D. Lora
+[17]
+ (DBP Account Officer â Asset Management Department), who prepared an appraisal report for the property as of August 8, 1979 to May 29, 2009, which states that the property was valued at P 133,500.00 as of August 8, 1979. DBP's appraisal reports, along with several photos of the property, were formally offered in evidence.
+[18]
+ 
+ For its part, LBP presented as witness Mina Grace Francisco
+[19]
+ (Francisco) (LBP Property Appraiser and OIC â Claims Processing Valuation and Payment Division). In brief, Francisco testified that LBP used the guidelines and formula laid down in DAR Administrative Order No. 5, series of 1998
+[20]
+ (DAR AO No. 5-98) in computing DBP's claim. 
+ Specifically, Francisco explained that under DAR AO No. 5-98, the basic formula for land valuation is LV = (CNI x 0.6) + (CS x 0.3) + (MV x 0.1).
+[21]
+ LBP, however, used the alternative formula, 
+i.e.
+, 
+LV = (CNI x 0.9)
+ + 
+(MV x 0.1)
+[22]
+ because no sales transaction was available on record with the Register of Deeds that meets the criteria under DAR AO No. 5-98 to apply to the CS factor in the basic formula. CNI refers to the difference between the gross sales â the Annual Gross Production (AGP) multiplied by the average of the latest available 12-months' Selling Prices (SP) prior to the date of receipt of the Claim Folder by LBP for processing less the total Cost of Operations (CO) capitalized at 12%. Expressed in an equation, CNI - (AGP x SP) - CO / 0.12. Since DBP did not submit a statement of net income, LBP used the Industry Data from the Department of Agriculture (DA) to apply to the AGP factor, 
+i.e.
+, 90 cavans per hectare or 4,500 kilograms (kg) using the conversion factor of 50 kg is equal to one cavan; Industry Data from the Bureau of Agricultural Statistics were used to apply to the SP factor in the formula, 
+i.e
+., 8.33/kg; and the assumed net income rate of 20% pursuant to DAR AO No. 5-98 or P29,988.00/hectare.
+[23]
+ Thus: 
+ 
+ CNI = (AGP x SP) - CO / 12% 
+ CNI = (4,500 x 8.33) - 29,988.00 / 0.12 
+ CNI = P62,475.00
+[24]
+ 
+ 
+ In computing the MV, LBP used the following factors: (1) the Base Unit Market Value of Riceland-unirrigated secured from the provincial assessors office, which is P200,000/hectare; (2) the Location Adjustment Factor indicated in the Tax Declaration, which is 91%; and (3) the Regional Consumer Price Index (RCPI) adjustment factor, which is 1.091. The RCPI adjustment factor refers to the ratio of the most recent available RCPI for the month issued by the National Statistics Office (NSO) as of the date when the Claim Folder was received by LBP from the DAR for processing, 
+i.e
+., 242.40, and the RCPI for the month issued as of the date of effectivity of the base unit market, 
+i.e
+., 222.20. As expressed in an equation, RCPI Adjustment Factor = 242.40/222.20= 1.091.
+[25]
+ Thus: 
+ 
+ MV = 200,000 x 0.91 x 1.091 
+ MV = P198,562.00
+[26]
+ 
+ 
+ Briefly, therefore, the LV of the property as determined by the LBP is: 
+ 
+ LV = (CNI x 0.9) + (MV x 0.1) 
+ LV = (62,475.00 x 0.9) + (198,562.00 x 0.1)
+ LV = 56,227.50+19,856.2 
+ LV = P76,083.70/hectare
+ 
+ LV = 76,083.70 x 0.1567 (total area subject to the CARP)
+ 
+LV = P11,922.32 or P7.61/sq. m.
+[27]
+ 
+ 
+ The following documents were also presented and formally offered in evidence for LBP: (1) a copy of the PARAD Decision dated December 29, 2003; (2) Memorandum Request to Value Land; (3) Field Investigation Report; (4) Letter to DBP; (5) Claims Valuation and Processing Form; (6) Request to Deposit; (7) Memorandum of Valuation, Claim Folder Profile and Valuation Summary; (8) a copy of the DARAB Decision dated December 10, 2007; (9) Land Valuation Worksheet; and (10) Francisco's Judicial Affidavit.
+[28]
+ 
+ 
+RTC Ruling
+ 
+ In a Decision
+[29]
+ dated December 10, 2013, the RTC exhaustively discussed its jurisdiction as a Special Agrarian Court (SAC) in the determination of just compensation due to landowners under the CARP 
+vis-Ã -vis
+ the jurisdiction of the DAR to determine and adjudicate agrarian reform matters. The RTC highlighted that the proceedings before the RTC, sitting as a SAC, are not a continuation of the administrative determination of the just compensation conducted before the DAR. Nevertheless, the RTC sustained the DARAB's Decision dated December 10, 2007 in its entirety. It upheld the LBP's valuation on the ground that it was arrived at using the guidelines and formula under DAR AO No. 5-98. The RTC ratiocinated that while the determination of just compensation is essentially a judicial function, courts are not at liberty to disregard DAR AO No. 5-98; unless the AO is declared invalid, courts have no option but to apply it, otherwise, they will be guilty of grave abuse of discretion. The RTC disposed, thus: 
+ 
+ WHEREFORE, premises considered, judgment is hereby rendered:
+ 
+ 
+ 
+1.
+ 
+Fixing the amount of ELEVEN THOUSAND NINE HUNDRED TWENTY-TWO and 32/100 ([P]11,922.32) Pesos, Philippine currency, for the acquired area of 0.1567 hectares, situated in Duhat, Bocaue, Bulacan, in the name of [DBP], covered by [TCT] No. T-144547 (M), which property was taken by the government pursuant to the Agrarian Reform Program of the government as provided by [RA] No. 6657.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.
+ 
+Ordering [LBP] to pay [DBP] the amount of ELEVEN THOUSAND NINE HUNDRED TWENTY-TWO and 32/100 ([P]11,922.32) Pesos, Philippine currency, in the manner provided by [RA] No. 6657, by way of full payment of the said just compensation, after deducting whatever amount previously-received by [DBP] as part of the just compensation, if any.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.
+ 
+Without pronouncement as to costs.
+ 
+ 
+ 
+SO ORDERED.
+[30]
+ 
+ 
+ DBP's MR was denied in an Order
+[31]
+ dated July 10, 2014. Undaunted by another setback, DBP appealed to the CA. 
+ 
+CA Ruling
+ 
+ In its Decision
+[32]
+ dated August 11, 2016, the C A affirmed the RTC ruling with modification. The appellate court rejected DBP's valuation as it was based on appraisal reports which were not in accord with DAR AO No. 5-98, but based instead on DBP's internal policy in appraising properties offered as collateral in the regular course of business. Moreover, DBP's claimed amount was based on the property's appraisal as of 2009, not at the time of the taking of the property in 1998. On the other hand, LBP's valuation was found to be consistent with the formula and guidelines laid down in DAR AO No. 5-98. However, the CA noticed an inaccuracy in the computation of the CNI. The CA observed that 
+based on the Field Investigation Report
+, there are four (4) months per crop cycle, and there are three production periods per year, which yield an average production of 90 cavans or 4,500 kg (50 kg/cavan) per crop cycle per hectare.
+[33]
+ Hence, in one year, the AGP per hectare is 270 cavans or 13,500 kg (90 cavans x three productions periods). Using the same formula used by LBP, the CA concluded that the just compensation should be fixed at P18.85/sqm or a total of P29,544.01,
+[34]
+ The CA also imposed legal interest on the unpaid difference of the LBP valuation and the CA computation, thus: 
+ 
+ 
+WHEREFORE
+, the 
+Decision
+ dated 10 December 2013 of the Regional Trial Court, Third Judicial Region, Malolos City, Bulacan, Branch 81, in Civil Case No. 368-M-2008, is 
+AFFIRMED WITH THE FOLLOWING MODIFICATIONS:
+ 
+ 
+ 
+ 
+1.
+ 
+The subject realty should be valued at P29,544.01 instead of P11,922.32.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.
+ 
+ 
+[LBP] is ordered to pay [DBP] the remaining balance of 
+P17,621.69 with interest
+ of 12% per annum from the time of the taking until 30 June 2013 and 6% per annum from 1 July 2013 until full payment.
+ 
+ 
+ 
+ 
+SO ORDERED.
+[35]
+ 
+ 
+ Both DBP and LBP filed MRs of the CA Decision. DBP insisted that the CA should have made its own computation based on the fair market value of the property. On the other hand, LBP asserted that it applied the correct value in the AGP for the computation of the CNI. LBP also argued that no interest should accrue because a provisional compensation based on its valuation was already deposited in favor of DBP. In its Resolution
+[36]
+ dated January 11, 2017, the CA denied both motions: 
+ 
+ 
+WHEREFORE
+, the instant 
+Motions for Reconsideration
+ are hereby 
+DENIED
+.
+ 
+ 
+SO ORDERED.
+[37]
+ 
+ 
+ Hence, these Petitions.
+ In G.R. No. 229274, DBP maintains that the CA gravely erred in relying solely on LBP's valuation based on DAR AO No. 5-98. It argues that such issuance is merely an administrative guideline which is not binding upon the courts.
+[38]
+ DBP claims that the property should be valued at P2,100/sqm using the Market Data Approach, which, according to DBP, is similar to the alternative formula under DAR AO No. 5-98, 
+i.e
+., LV = (CS x 0.9) + (MV x 0.1), where the CS value is determined by comparing the property being appraised to similar properties and making appropriate financial adjustments for any differences between them.
+[39]
+ 
+ In G.R. No. 229289, LBP insists that its computation of the CNI was proper.
+[40]
+ Also, it faulted the CA for imposing interest on the compensation due considering that the amount of the initial valuation was promptly deposited in favor of DBP.
+[41]
+ It prayed, thus, that the RTC Decision dated December 10, 2013 be affirmed in its entirety.
+[42]
+ 
+ISSUE
+ 
+ The central issue for our resolution is whether the CA committed reversible error in upholding the RTC's valuation with modification, fixing the just compensation for DBP's property at P18.85/sqm or a total of P29,544.01 plus legal interest. 
+ 
+THIS COURT'S RULING
+ 
+ We emphasize at the outset the well-settled rule that the determination of just compensation is a judicial function, vested with the RTC as SAC, not with administrative agencies.
+[43]
+ In the exercise of such function, the RTC must work within the parameters set by governing law and rules. Certain factors enumerated under Section 17 of RA No. 6657, as amended, cannot be unjustifiably disregarded, 
+viz
+.: 
+ 
+ SEC. 17. Determination of Just Compensation. â In determining just compensation, the cost of acquisition of the land, the current value of like properties, its nature, actual use and income, the sworn valuation by the owner, the tax declarations, and the assessment made by the government assessors shall be considered. The social and economic benefits contributed by the farmers and the farmworkers and by the Government to the property as well as the non-payment of taxes or loans secured from any government financing institution on the said land shall be considered as additional factors to determine its valuation.
+ 
+ 
+ The guidelines and formulas laid down under DAR AO No. 5-98, which was issued by the DAR pursuant to its rule-making power, should likewise be taken into consideration given the implementing agency's expertise on the matter.
+[44]
+ Be that as it may, while ushered by the standards set by the law and rules, courts cannot be restrained by the strict and fixed application of the formulas set by DAR issuances.
+[45]
+ The courts may relax the application of the factors under Section 17 of RA No. 6657 and the DAR formulas if warranted by the circumstances of the case, provided that they explain such deviation. Ultimately, "the 'justness' of the enumeration of valuation factors in Section 17, the 'justness' of using the basic or alternative DAR formula, and the 'justness' of the components that flow into such formulas, as well as their weights, are all matters for the courts to decide."
+[46]
+ To effectively discharge such function, the RTC should be equipped with all the necessary evidence from both parties. It cannot merely rely on the data and numbers used by the government assessors in their administrative valuation without verification as to their truth and accuracy. Otherwise, the courts' mandate and judicial prerogatives would be derogated to a mere bureaucratic function of inputting data and arriving at the valuation.
+[47]
+ In this case, the RTC and the CA sustained the LBP valuation on the sole ground that such computation was in conformity with the formula and guidelines under DAR AO No. 5-98. The courts 
+a quo
+ disregarded the specific factors enumerated under Section 17 of RA No. 6657, as amended. Both the RTC and the CA Decisions merely relied upon the data used by the LBP in its computation 
+as reflected in the Field Investigation Report and the Claims Valuation and Processing Form
+, without conducting a separate judicial determination or, at least, making a verification as to the genuineness and veracity of the figures and values used. Recall that due to the lack of income statement from DBP, most of the pertinent data applied by LBP in the DAR formula were sourced from Industry Data allegedly supplied by the DA and the Bureau of Agricultural Statistics. Further, the RTC noted that, per the DARAB's findings, "all the valuation factors were grossed up/adjusted for inflation using the consumer Price Index issued by the National Economic Development Authority (NEDA) reckoned up to actual coverage in order to reflect the present value of money."
+[48]
+ The RCPI was also based on data supposedly issued by the NSO. However, no competent evidence was adduced to support such sourced data and amounts used by LBP in its computation as it did not present in evidence any certification from the concerned government agencies showing the relevant industry data used and cited by the LBP in its Field Investigation Report and the Claims Valuation and Processing Form.
+[49]
+ 
+ It is true that DAR AO No. 5-98 sanctions the use of industry data from appertaining government agencies to complete the necessary figures in the formula,
+[50]
+ and that LBP is given the initial responsibility of determining the value of lands placed under the land reform program and the compensation to be paid for their taking.
+[51]
+ The LBP's valuation is, however, regarded only as an initial determination, which is not conclusive.
+[52]
+ The court cannot simply rely on such valuation lest it be charged with betraying its bounden duty to make an independent determination of just compensation. It should be stressed that, it is the court of law, which is clothed with the power and duty to make a final determination of just compensation as borne by the records available to it.
+[53]
+ We likewise cannot adopt DBP's computation. As aptly observed by the CA, DBP's claimed amounts were based on its appraisal of the property in 2009, not in 1998 when the property was taken for land reform purposes. Just compensation must be valued at the time of taking or at the time when the landowner was deprived of the use and benefit of its property. Hence, the evidence to be presented by the parties for the valuation of the expropriated land must be based on the values prevalent at the time of taking similar agricultural lands.
+[54]
+ Anent the imposition of interest, we cannot subscribe to LBP's contention that there is no obligation on the part of LBP or the government to pay interest because of the prompt payment based on the initial valuation. It is doctrinal that the concept of just compensation encompasses not only a fair valuation, but also its timely payment in full as finally determined by the court. Thus, despite prompt provisional payment, delay still exists when the court finally determines that an unpaid balance remains. In this regard, the Court has been consistent in allowing the grant of legal interest on the value of the expropriated property where there is delay in the payment of just compensation because such payment due to the landowner is deemed to be an effective forbearance on the part of the State.
+[55]
+ The interest is intended to eradicate the issue of the constant variability of the value of the currency over time, and to limit the opportunity loss of the owner from non-payment of just compensation that can drag from days to decades.
+[56]
+ Thus, in cases where the just compensation is computed pursuant to the formula under DAR AC No. 5-98, the Court has imposed legal interest on the amount of just compensation when there is delay in payment, or the unpaid balance thereof, if any, as determined by the RTC, reckoned from the time of the taking or the time when the landowner was deprived of the use and benefit of the property until full payment.
+[57]
+ Be mindful, however, that the circumstances prevailing in every case, as well as the governing law and rules, should be carefully taken into consideration in the imposition of interest.
+[58]
+ At this juncture, we note that the determination of the veracity of the figures used and the applicability or inapplicability of the factors under Section 17 of RA No. 6657 in computing the just compensation, necessitates reception of further evidence for the court to have its own judicious determination of the just compensation and for the proper imposition of interest, if at all. Since these are purely factual matters and this Court is not a trier of facts, a remand of this case to the RTC as a SAC is in order. To this end, the RTC is directed to observe the following guidelines in its judicial determination of just compensation: 
+ 
+ 
+ 
+1.
+ 
+Just compensation must be valued at the time of the taking or the time when the landowner was deprived of the use and benefit of the property. Hence, the evidence to be presented by the parties before the RTC for the valuation of the property taken must be based on the values prevalent on such time of taking for similar agricultural lands.
+[59]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.
+ 
+The RTC must consider the factors specified in Section 17 of RA No. 6657, as amended and translated into the applicable DAR formula before its further amendment by RA No. 9700.
+[60]
+ It is well to point out that the LBP, in this case, received the Claim Folder in 1998 or long before the passage of RA No. 9700 on July 1, 2009. DAR AO No. 02, series of 2009,
+[61]
+ implementing RA No. 9700, expressly declared that "all Claim Folders received by LBP prior to July 1, 2009 shall be valued in accordance with Section 17 of [RA] No. 6657 prior to its amendment by [RA] No. 9700."
+[62]
+ The RTC is reminded, however, that while it should take into account the applicable DAR formula, it may depart from it upon an explanation that its strict application is not warranted.
+[63]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.
+ 
+Interest may be awarded, as may be warranted by the circumstances of the case, based on the applicable DAR formula and prevailing jurisprudence. When there is delay in payment, the Court has allowed the imposition of the governing legal interest rate
+[64]
+ upon the just compensation as finally determined by the court from the date of the taking until fully paid because the compensation due to the landowner is deemed to be an effective forbearance on the part of the State.
+[65]
+ 
+ 
+ 
+ 
+FOR THESE REASONS
+, the Petition in G.R. No. 229274 is 
+PARTLY GRANTED
+, while the Petition in G.R. No. 229289 is 
+DENIED
+. The Decision dated August 11, 2016 and Resolution dated January 11, 2017 of the Court of Appeals in CA-G.R. SP No. 136570 are 
+REVERSED
+. Civil Case No. 368-M-2008 is 
+ORDERED REMANDED
+ to the Regional Trial Court of Malolos City, Bulacan, Branch 81 for the proper determination of just compensation in accordance with this Decision.
+ 
+ 
+SO ORDERED.
+ 
+Perlas-Bernabe, S.A.J., (Chairperson), Lazaro-Javier, Rosario
+, and
+ J. Lopez, JJ
+., concur. 
+ 
+[1]
+ 
+Rollo
+ (G.R. No. 229274), pp. 3-22; and 
+rollo
+ (G.R. No. 229289), pp. 14-32. 
+[2]
+ 
+Rollo
+ (G.R. No. 229274), pp. 38-50; and 
+rollo
+ (G.R. No. 229289), pp. 38-51; Penned by Associate Justice Japar B. Dimaampao, with the concurrence of Associate Justices Franchito N. Diamante and ZenaidaT. Galapate-Laguilles.
+ 
+ 
+[3]
+ 
+Rollo
+ (G.R. No. 229274), pp. 39-50; and 
+rollo
+ (G.R. No. 229289), pp. 66-77; Penned by Associate Justice Japar B. Dimaampao, with the concurrence of Associate Justices Franchito N. Diamante and Carmelita Salandanan-Manahan.
+ 
+ 
+[4]
+ 
+Rollo
+ (G.R No. 229274), pp. 81-112; Penned by Presiding Judge Hermenegildo C. Dumlao II.
+ 
+ 
+[5]
+ Id. at 81-82. 
+ 
+[6]
+ Entitled, "AN ACT INSTITUTING A COMPREHENSIVE AGRARIAN REFORM PROGRAM TO PROMOTE SOCIAL JUSTICE AMD INDUSTRIALIZATION, PROVIDING THE MECHANISM FOR ITS IMPLEMENTATION, AND FOR OTHER PURPOSES;" Approved on June 10, 1988.
+ 
+ 
+[7]
+ 
+Rollo
+ (G.R. No. 229289), p. 25.
+ 
+ 
+[8]
+ Id. at 97.
+ 
+ 
+[9]
+ Id. at 97-100. 
+ 
+[10]
+ 
+Rollo
+ (G.R. No. 229274), p. 82.
+ 
+ 
+[11]
+ Id. at 124-132; Penned by Provincial Adjudicator Joseph Noel C. Longboan.
+ 
+ 
+[12]
+ Id. at 82. 
+ 
+[13]
+ Id. at 150-158; Penned by Member Delfin B. Samson, with the concurrence of Members Augusto P. Quijano, Edgar A. Igano, and Ma. Patricia P. Rualo-Bello. Chairman Nasser C. Pangandaman and Members Nestor R. Acosia and Renato F. Herrera did not take part.
+ 
+ 
+[14]
+ Id. at 159-170.
+ 
+ 
+[15]
+ Id. at 164.
+ 
+ 
+[16]
+ Id. at 86-88.
+ 
+ 
+[17]
+ Id. at 88.
+ 
+ 
+[18]
+ Id. at 85.
+ 
+ 
+[19]
+ Id. at 88-91.
+ 
+ 
+[20]
+ Entitled, "REVISED RULES AND REGULATIONS GOVERNING THE VALUATION OF LANDS VOLUNTARILY OFFERED OR COMPULSORILY ACQUIRED PURSUANT TO REPUBLIC ACT NO. 6657," Signed on April 15, 1988.
+ 
+ 
+[21]
+ DAR AO NO. 5-98 (1998), Section II. A. There shall be one basic formula for the valuation of lands covered by VOS or CA: LV = (CNI x 0.6) + (CS x 0.3) + (MV x 0.1) 
+ 
+ 
+ 
+ 
+Where:
+ 
+ LV = Land Value
+ 
+ 
+ 
+ 
+ 
+ CNI = Capitalized Net Income 
+ 
+ 
+ 
+ 
+ 
+CS = Comparable Sales 
+ 
+ 
+ 
+ 
+ 
+MV = Market Value Per Tax Declaration 
+ 
+ 
+ 
+ 
+ 
+[22]
+ DAR AO No. 5-98 (1908), Section II, A.2. When the CNI factor is not present, and CS and MV are applicable, the formula shall be: LV = (CS x 0.9) + (MV x 0.1).
+ 
+ 
+[23]
+ 
+Rollo
+ (G.R. No. 229274), pp. 89-90. 
+ 
+[24]
+ Id. at 90. 
+[25]
+ Id. 
+ 
+[26]
+ Id. 
+ 
+[27]
+ Id. 
+ 
+[28]
+ Id. at 85. 
+ 
+[29]
+ 
+Rollo
+ (G.R. No. 229274), pp. 81-112. 
+ 
+[30]
+ Id. at 111-112. 
+ 
+[31]
+ Id. at 113. 
+ 
+[32]
+ 
+Rollo
+ (G.R. No. 229274), pp. 24-27; and 
+rollo
+ (G.R. No. 229789), pp. 38-51; Penned by Associate Justice Japar B. Dimaampao, with the concurrence of Associate Justices Franchito M. Diamante and ZenaidaT. Galapate-Laguilles. 
+ 
+[33]
+ 
+Rollo
+ (G.R. No. 229274), p. 34; 
+rollo
+ (G.R. No 229289), p. 48. 
+ 
+[34]
+ 
+Rollo
+ (G.R. No. 229274), pp. 35-36; 
+rollo
+ (G.R. No. 229289), pp. 49-50. 
+ 
+[35]
+ 
+Rollo
+ (G.R. No. 229274), p. 36; 
+rollo
+ (G.R. No. 229289), p. 50. 
+ 
+[36]
+ 
+Rollo
+ (G.R. No. 229274), pp. 39-50; and 
+rollo
+ (G.R. No. 229289), pp. 66-77; Penned by Associate Justice Japar B. Dimaampao, with the concurrence of Associate Justices Franchito N. Diamante and Carmelita Salandanan-Manahan. 
+ 
+[37]
+ 
+Rollo
+ (G.R. No. 229274), p. 49; and 
+rollo
+ (G.R. No. 229289), p. 76. 
+ 
+[38]
+ 
+Rollo
+ (G.R. No. 229274), pp. 11-16. 
+ 
+[39]
+ Id. at 16-20. 
+ 
+[40]
+ 
+Rollo
+ (G.R. No. 229289), pp. 21-23. 
+ 
+[41]
+ Id. at 24-29. 
+ 
+[42]
+ Id. at 29. 
+ 
+[43]
+ 
+Land Bank of the Philippines v. Briones-Blanco
+, G.R. No. 213199, March 21, 2019; 
+Land Bank of the Philippines v. Rural Bank of Hermosa (Bataan), Inc.
+, 814 Phil. 157, 166 (2017); 
+Land Bank of the Philippines v. Omengan
+, 813 Phil. 901, 911 (2017). 
+ 
+[44]
+ See 
+Land Bank of the Philippines v. Rural Bank of Hermosa (Bataan), Inc
+., id. at 166, citing A
+lfonso v. LBP
+, 801 Phil. 217 (2016). 
+ 
+[45]
+ See 
+Land Bank of the Philippines v. Briones-Blanco
+, supra note 43. 
+ 
+[46]
+ 
+Land Bank of the Philippines v. Rural Bank of Hermosa (Bataan), Inc
+., supra note 43. 
+ 
+[47]
+ 
+Land Bank of the Philippines v. Heirs of Maximo Puyat and Gloria Puyat
+, 689 Phil. 505, 522 (2012). 
+ 
+[48]
+ 
+Rollo
+ (G.R. No. 229274), p. 108. 
+ 
+[49]
+ See 
+Land Bank of the Philippines v. Rural Bank of Hermosa (Bataan), Inc.,
+ supra note 43. 
+ 
+[50]
+ DAR AO 5-98, Section II, B. Capitalized Net Income (CNI) â This shall refer to the difference between the gross sales (AGP x SP) and total cost of operations (CO) capitalized at 12%. 
+ 
+ x x x x
+ Where: 
+ x x x x
+ SP â The average of the latest available 12-months' selling prices prior to the date of receipt of the CF by LBP for processing, 
+such prices to be secured from the Department of Agriculture (DA) and other appropriate regulatory bodies or, in their absence, from the Bureau of Agricultural Statistics
+. If possible, SP data shall be gathered for the 
+barangay
+ or municipality where the property is located. In the absence thereof, SP may be secured within the province or region. 
+ x x x x
+ 
+B.1 Industry data on production, cost of operations and selling price shall be obtained from government/private entities. Such entities shall include, but not be limited to, the Department of Agriculture (DA), the Sugar Regulatory Authority (SRA), the Philippine Coconut Authority (PCA) and other private persons/entities knowledgeable in the concerned industry.
+ 
+ B.2 x x x x
+ In case of failure by the landowner to submit the statement within fifteen (15) days from the date of receipt of letter-request as certified by the Municipal Agrarian Reform Office (MARO) or the data stated therein cannot be verified/validated, 
+DAR and LBP may adopt any applicable industry data or, in the absence thereof, conduct an industry study on the specific crop which will be used in determining the production, cost and net income of the subject landholding.
+ x x x x (Emphasis supplied)
+ 
+ 
+ 
+[51]
+ 
+Department of Agrarian Reform v. BeriÃ±a
+, 738 Phil. 605 (2014).
+ 
+[52]
+ See 
+Land Bank of the Philippines v. Heir of Trinidad S. Vda. De Arieta
+; 642 Phil. 198, 222 (2010). 
+[53]
+ See 
+Land Bank of the Philippines v. Rural Bank of Hermosa (Bataan), Inc.
+, supra note 43, citing 
+Alfonso v. LBP
+, 801 Phil. 217 (2016). 
+ 
+[54]
+ Id. 
+ 
+[55]
+ Id. 
+[56]
+ 
+Land Bank of the Philippines v. Heirs of the Estate of Mariano Angela Vda. De Venaracion
+, (G.R. No. 233401, June 17, 2019. 
+ 
+[57]
+ See id. 
+[58]
+ See 
+Land Bank of the Philippines v. Heirs of Barrameda
+, G.R. No. 221216, July 13, 2020. 
+ 
+[59]
+ See 
+Land Bank of the Philippines v. Rural Bank of Hermosa (Bataan), Inc.
+, supra note 43; and 
+Department of Agrarian Reform v. BeriÃ±a
+, supra note 51. 
+ 
+[60]
+ Entitled, "AN ACT STRENGTHENING THE COMPREHENSIVE AGRARIAN REFORM PROGRAM (CARP), EXTENDING THE ACQUISITION AND DISTRIBUTION OF ALL AGRICULTURAL LANDS. INSTITUTING NECESSARY REFORMS, AMENDING FOR THE PURPOSE CERTAIN PROVISIONS OF REPUBLIC ACT NO. 6657, OTHERWISE KNOWN AS THE COMPREHENSIVE AGRARIAN REFORM LAW OF 1988, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR;" Approved on August 7, 2009. 
+ 
+[61]
+ Rules and Procedures Governing the Acquisition and Distribution of Agricultural Lands under Republic Act (R.A.) No. 6657, as Amended by R.A. No. 9700 dated October 15, 2009. 
+ 
+[62]
+ Id. Section VI, Transitory Provision. 
+ 
+[63]
+ See 
+Land Bank of the Philippines v. Rural Bank of Hermosa (Bataan), Inc
+., supra note 43; and 
+Department of Agrarian Reform v. BeriÃ±a
+, supra note 51. 
+ 
+[64]
+ See 
+Nacar v. Gallery Frames
+, 716 Phil. 267 (2013); and BSP-MB Circular No. 799, Rate of interest in the absence of stipulation, dated July 1, 2013. 
+ 
+[65]
+ Id. 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

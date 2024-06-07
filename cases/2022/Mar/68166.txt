@@ -1,0 +1,328 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 205189, March 07, 2022 ]
+
+
+HARTE-HANKS PHILIPPINES, INC., PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+D E C I S I O N
+
+
+
+
+HERNANDO, J.:[**]
+
+
+This petition for review on 
+certiorari
+[1]
+ seeks the reversal of the August 16, 2012 Decision
+[2]
+ and the December 11, 2012 Resolution
+[3]
+ of the Court of Tax Appeals (CTA) 
+En Banc
+ in CTA EB Case No. 813. Both the CTA 
+En Banc
+ Decision and Resolution affirmed the CTA Second Division Resolutions
+[4]
+ in CTA Case No. 8124 dated June 1, 2011 and July 27, 2011, respectively, which affirmed the Commissioner of Internal Revenue's (CIR) motion to dismiss on the ground of premature filing.
+The Antecedents
+Harte-Hanks Philippines, Inc. (petitioner) is a domestic corporation duly organized and existing by virtue of the laws of the Republic of the Philippines. It was incorporated for the primary purpose of providing outsourcing customer relationship management solutions by rendering inbound or outbound call services to its customers.
+[5]
+On March 23, 2010, petitioner filed a written application
+[6]
+ for refund or issuance of a tax credit for its excess and unutilized input value-added tax (VAT) for the first to second quarters of 2008 in the total amount of P5,471,506.55 with respondent CIR. The CIR did not act on the application.
+[7]
+On June 29, 2010, petitioner filed a petition for review
+[8]
+ with the CTA Second Division, praying for the refund or issuance of a tax credit for P2,535,459.48, representing excess input VAT attributable to zero-rated sales for the second quarter of 2008.
+On August 19, 2010, CIR filed his answer,
+[9]
+ alleging that: (1) petitioner failed to demonstrate that the tax subject of this case was erroneously or illegally collected; (2) taxes paid and collected are presumed to be made in accordance with the laws and regulations of the Philippines, hence, not creditable and refundable; (3) it is incumbent upon petitioner to show that it has complied with the provisions of the Tax Code; (4) petitioner has the burden of proving that it complied with the requirements of effectively zero-rated transactions under Revenue Regulation No. 16-2005, dated September 1, 2005, and that it is entitled to a tax credit or refund; and (5) claims for refund are construed strictly against the claimant.
+On October 4, 2010, the CIR filed a supplemental answer,
+[10]
+ praying that the petition for review be dismissed for failure of petitioner to exhaust administrative remedies, pursuant to Section 112 (C) of the 1997 Tax Code, and for lack, of jurisdiction, as there has been no decision or inaction that is tantamount to a denial by the CIR and appealable to the CTA, pursuant to Rule 4, Section 3 of the Revised Rules of the CTA.
+Ruling of the CTA Second Division:
+In a Resolution
+[11]
+ dated June 1, 2011, the CTA Second Division dismissed the petition for review for having been prematurely filed. Citing 
+Commissioner of Internal Revenue v. Aichi Forging Company of Asia, Inc
+.
+[12]
+ (
+Aichi
+) the CTA Second Division held that:
+In the present case, it is clear that petitioner failed to comply with the "120-30" day period. Records of the case show that petitioner filed its administrative claim for refund on March 23, 2010 and thereafter filed its Petition for Review on June 29, 2010 or before the lapse of the 120-day period on July 21, 2010. Consequently, the instant Petition for Review was prematurely filed and this Court lacks jurisdiction.
+x x x . As the Court has no jurisdiction to decide the present case on the merits for petitioner's failure to comply with Section 112 (C) of the NIRC of 1997, the Court has no other alternative but to GRANT respondent's Motion to Dismiss.
+WHEREFORE, premises considered, the petition for review is hereby DENIED for being prematurely filed.
+SO ORDERED.
+[13]
+On July 27, 2011, the CTA Second Division denied petitioner's motion for reconsideration for lack of merit.
+[14]
+Ruling of the CTA 
+En Banc
+:
+In a Decision
+[15]
+ dated August 16, 2012, the CTA 
+En Banc
+ affirmed the assailed Resolutions of the CTA Second Division. Relevant portions of the Decision read as follows:
+The petition has no merit.
+The issues raised by petitioner are not novel, as the same had already been settled by the Supreme Court in the case of 
+Commissioner of Internal Revenue v. Aichi Forging Company of Asia, Inc.
+, 632 SCRA 422 x x x.
+x x x x
+Under the above-quoted ruling, the Supreme Court clarified that Section 112 (A) of the NIRC of 1997, as amended, provides a 2-year prescriptive period to file an administrative claim for refund/credit with the CIR, while Section 112 (D) [now Section 112 (C)] of the same Code provides a period within which to file a judicial claim for refund/credit with the CTA, which is, within thirty (30) days from receipt of the decision of the CIR, or from the expiration of the 120-day period when no decision was made by the CIR within the 120-day period. The premature filing of the claim for refund or credit with the CTA warrants a dismissal of the claim, inasmuch as no jurisdiction was acquired by the CTA.
+x x x x
+WHEREFORE, premises considered, the instant petition is hereby DISMISSED for lack of merit.
+SO ORDERED.
+[16]
+In its Resolution
+[17]
+ dated December 11, 2012, the CTA 
+En Banc
+ held that the motion for reconsideration of petitioner raised the same issues and arguments which have already been discussed by the Court, thus:
+x x x . The arguments stated therein constitute neither compelling nor cogent reason to modify, much less reverse our Decision dated August 16, 2012.
+WHEREFORE, premises considered, petitioner's "Motion for Reconsideration" is hereby DENIED for lack of merit.
+SO ORDERED.
+[18]
+Thus, this petition for review on 
+certiorari
+.
+Issues
+Petitioner submitted the following grounds in support of its petition:
+1. The premature filing of the judicial claim for refund is not jurisdictional but merely constitutes a failure to state a cause of action.
+2. The [CIR] waived [its] right to raise the defense of failure to state a cause of action in [its] Answer.
+3. Since the provisions of the 1977 and the 1997 Tax Code are substantially the same, the 
+Aichi
+ case cannot overturn the ruling of this Court in the 
+Atlas
+ case, where it was held that Section 229 of the Tax Code applies to claims for refunds of VAT;
+4. Sections 112 and 229, Tax Code should be reconciled;
+5. Even the [CIR's] own issuances show that judicial claims for VAT refunds must be filed within the [two]-year prescriptive period; and
+6. Assuming arguendo that 
+Aichi
+ is applicable, the same should be applied prospectively.
+Our Ruling
+The Court grants the petition for review.
+The general rule under Section 112 (C)
+[19]
+ of the Tax Code, as explained in 
+Aichi
+, is clear, plain and unequivocal. The observance of the 120 and 30-day periods is crucial in filing a judicial appeal before the CTA, thus:
+Section 112 (D) [now Section 112 (C)] of the NIRC clearly provides that the CIR has "120 days, from the date of the submission of the complete documents in support of the application [for tax refund/credit],â within which to grant or deny the claim. In case of full or partial denial by the CIR, the taxpayer's recourse is to file an appeal before the CTA within 30 days from receipt of the decision of the CIR. However, if after the 120-day period the CIR fails to act on the application for tax refund/credit, the remedy of the taxpayer is to appeal the inaction of the CIR to CTA within 30 days.
+[20]
+There is an exception to this general rule, however. BIR Ruling No. DA-489-03, a general interpretative rule issued by the CIR pursuant to its power under Section 4
+[21]
+ of the Tax Code, expressly states that the "taxpayer-claimant need not wait for the lapse of the 120-day period before it could seek judicial relief with the CTA by way of petition for review." The landmark case of 
+Commissioner of Internal Revenue v. San Roque Power Corporation
+[22]
+ consolidated with 
+Taganito Mining Corporation v. Commissioner of Internal Revenue
+[23]
+ (
+Taganito
+), and 
+Philex Mining Corporation v. Commissioner of Internal Revenue
+[24]
+ (
+Philex
+) clearly explained the exception in this wise:
+BIR Ruling No. DA-489-03 is a general interpretative rule because it was a response to a query made, not by a particular taxpayer, but by a government agency tasked with processing tax refunds and credits, that is, the One Stop Shop Inter-Agency Tax Credit and Drawback Center of the Department of Finance. This government agency is also the addressee, or the entity responded to, in BIR Ruling No. DA-489-03. x x x [T]he agency was in fact questioning the Commissioner what to do in cases x x x where the taxpayer did not wait for the lapse of the 120-day period.
+Clearly, BIR Ruling No. DA-489-03 is a general interpretative rule. Thus, all taxpayers can rely on BIR Ruling No. DA-489-03 from the time of its issuance on 10 December 2003 up to its reversal by this Court in Aichi on 6 October 2010, where this Court held that the 120+30 day periods are mandatory and jurisdictional.
+[25]
+Citing 
+Taganito
+, the Court further elaborated on this exception in the recent case of 
+San Roque Power Corporation v. Commissioner of Internal Revenue
+[26]
+ (
+San Roque
+), to wit:
+[T]he Court further clarified the doctrines in 
+Aichi
+ and 
+San Roque
+ explaining that 
+during the window period from 10 December 2003, upon the issuance of BIR Ruling No. DA-489-03 up to 6 October 2010, or date of promulgation of 
+Aichi
+, taxpayers need not observe the stringent 120-day period.
+In other words, the 120+30-day period is generally mandatory and jurisdictional from the effectivity of the 1997 NIRC on 1 January 1998, up to the present. By way of an exception, 
+judicial claims filed during the window period from 10 December 2003 to 6 October 2010, need not wait for the exhaustion of the 120-day period
+. The exception in 
+San Roque
+ has been applied consistently in numerous decisions of this Court. (Emphasis supplied)
+In 
+San Roque
+, the claims filed by petitioner were well within the window period. The written application for tax refund/credit was filed with the CIR on March 23, 2010. When it was left unacted upon by the CIR, 98 days later or on June 29, 2010, petitioner filed a judicial claim with the CTA Second Division.
+Similar to the 
+Taganito
+ and the 2018 
+San Roque
+ cases, even if petitioner seemed to have prematurely filed its judicial claim under the general rule, the Court, pursuant to BIR Ruling No. DA-489-03, considers petitioner to have filed its judicial claim on time.
+As a final note, the Court emphasizes that, although petitioner did not actually invoke BIR Ruling No. DA-489-03 in any of its pleadings to justify the timeliness of its judicial claim with the CTA, the BIR Ruling applies to 
+all
+ taxpayers who filed their judicial claims within the window period of December 10, 2003 to October 6, 2010. To limit the application of the BIR Ruling only to those who invoked it specifically would unduly strain the pronouncements in 
+San Roque, Taganito
+ and 
+Philex
+.
+[27]
+Commissioner of Internal Revenue v. Air Liquide Philippines, Inc
+.
+[28]
+ ruled similarly, thus:
+The Court agrees with ALPI in its survey of cases which shows that BIR Ruling No. DA-489-03 was applied even though the taxpayer did not specifically invoke the same. As long as the judicial claim was filed between December 10, 2003 and October 6, 2010, then the taxpayer would not be required to wait for the lapse of the 120-day period. This doctrine has been consistently upheld in the recent decisions of the Court. x x x
+Indeed, BIR Ruling No. DA-489-03 is a general interpretative law and it applies to each and every taxpayer. To subscribe to the contention of the CIR would alter the Court's ruling in 
+San Roque
+. It will lead to an unreasonable classification of the beneficiaries of BIR Ruling No. DA-489-03 and further complicate the doctrine. ALPI cannot be faulted for not specifically invoking BIR Ruling No. DA-489-03 as the rules tor its application were not definite until the 
+San Roque
+ case was promulgated.
+In the furtherance of the doctrinal pronouncements in 
+San Roque
+, the better approach would be to apply BIR Ruling No. DA-489-03 to all taxpayers who filed their judicial claim for VAT refund within the period of exception from December 10, 2003 to October 6, 2010 x x x.
+[29]
+The CTA, therefore, has jurisdiction over the judicial claim filed by petitioner. Taking judicial notice of the BIR Ruling and the consistent application of the same to past Court rulings, the Court holds that both the CTA Second Division and 
+En Banc
+ erred in denying petitioner's petition for review.
+WHEREFORE
+, the petition for review is 
+GRANTED
+. The August 16, 2012 Decision and December 11, 2012 Resolution of the Court of Tax Appeals 
+En Banc
+ in CTA EB No. 813 are 
+REVERSED
+ and 
+SET ASIDE
+.
+SO ORDERED.
+Zalameda, Rosario,
+ and 
+Marquez, JJ.,
+ concur.
+Perlas-Bernabe,
+*
+ J.,
+ On official business.
+*
+ On official business.
+**
+ Per Special Order No. 2872 dated March 4, 2022.
+[1]
+ 
+Rollo
+, pp. 12-60.
+[2]
+ Id. at 64-81. Penned by Associate Justice Olga Palanca-Enriquez and concurred in by Associate Justices Juanito C. CastaÃ±eda. Jr., Erlinda P. Uy, Caesar A. Casanova, Cielito N. Mindaro-Grulla, Presiding Justice Ernesto D. Acosta and Associate Justices Esperanza R. Fabon-Victorino and Amelia R. Cotangco-Manalastas concurring and dissenting, and Associate Justice Lovell R. Bautista dissenting.
+[3]
+ Id. at 91-92.
+[4]
+ Id. at 225-229 and 249-252. Penned by Associate Justice Juanito C. CastaÃ±eda, Jr. and concurred in by Associate Justices Caesar A. Casanova and Cielito N. Mindaro-Grulla.
+[5]
+ Id. at 65-66.
+[6]
+ Id. at 95-100.
+[7]
+ Id. at 66.
+[8]
+ Id. at 103-112.
+[9]
+ Id. at 144-146.
+[10]
+ Id. at 149-153.
+[11]
+ Id. at 225-229.
+[12]
+ 646 Phil. 710-732 (2010).
+[13]
+ 
+Rollo
+, p. 229.
+[14]
+ Id. at 249-252.
+[15]
+ Id. at 64-81.
+[16]
+ Id. at 72-80.
+[17]
+ Id. at 91-92.
+[18]
+ Id. at 92.
+[19]
+ Section 112 (C) of the NIRC. as amended, reads as follows:
+Sec. 112. 
+Refunds or Tax Credits of Input Tax
+. â
+ 
+ 
+(A) x x x
+ 
+ 
+ 
+(B) x x x
+ 
+ 
+ 
+(C)
+ 
+ Period within which refund of input taxes shall be made. - In proper cases, the Commissioner shall grant a refund of creditable input taxes within ninety (90) days from the date of submission of the official receipts or invoices and other documents in support of the application filed in accordance with Subsections (A) and (B) hereof: 
+Provided
+, That should the Commissioner find the grant of refund is not proper, the Commissioner must state in writing the legal and factual basis for the denial.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case of full or partial denial of the claim for tax refund, the taxpayer affected may, within thirty (30) days from the receipt of the decision denying the claim, appeal the decision with the Court of Tax Appeals: 
+Provided
+, however, That failure on the part of any official, agent or employee of the BIR to act on the application within the ninety (90)-day period shall be punishable under Section 269 of this Code. x x x
+ 
+ 
+[20]
+ 646 Phil. 710. 731 (2010).
+[21]
+ Section 4 of the NIRC reads as follows:
+Sec. 4. The Secretary of Finance shall, upon recommendation of the Commissioner of Internal Revenue, promulgate and publish the necessary rules and regulations for the effective implementation of this Act.
+[22]
+ 703 Phil. 310-434 (2013)
+[23]
+ Id.
+[24]
+ Id.
+[25]
+ Id. at 376.
+[26]
+ 836 Phil. 529, 542-543 (2018).
+[27]
+ Id.
+[28]
+ 765 Phil. 304-312 (2015).
+[29]
+ Id. at 311-312.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

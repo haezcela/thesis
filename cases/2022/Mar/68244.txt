@@ -1,0 +1,1052 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+EN BANC
+
+
+[ G.R. No. 208379, March 29, 2022 ]
+
+
+LUIS R. VILLAFUERTE, CARIDAD R. VALDEHUESA, AND NORMA L. LASALA, PETITIONERS,
+*
+ VS. SECURITIES AND EXCHANGE COMMISSION, BANGKO SENTRAL NG PILIPINAS, SECRETARY OF FINANCE, THE NATIONAL TREASURER, BANKERS ASSOCIATION OF THE PHILIPPINES, PHILIPPINE DEALING & EXCHANGE CORPORATION, PHILIPPINE DEPOSITORY & TRUST CORP., PHILIPPINE SECURITIES SETTLEMENT CORPORATION, PHILIPPINE DEALING SYSTEM HOLDINGS CORPORATION, AND VICENTE B. CASTILLO, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+HERNANDO, J.:
+
+
+This Petition for 
+Certiorari
+ and Prohibition with Prayer for Temporary Restraining Order (TRO) and Preliminary Injunction (PI)
+[1]
+ seeks to nullify the various rules, orders, issuances, and acts
+[2]
+ of Securities and Exchange Commission (SEC), Bangko Sentral ng Pilipinas (BSP), Secretary of Finance, and National Treasurer (collectively, public respondents), as well as to prohibit them from continuing with specific actions,
+[3]
+ in relation to the operations of the PDS Group, composed of private respondents Philippine Dealing & Exchange Corporation (PDEx), Philippine Depository & Trust Corporation (PDTC), Philippine Securities Settlement Corporation (PSSC), and Philippine Dealing System Holdings Corp. (PDSHC) (collectively, private respondents).
+Stripped to its core, the petition alleges that public respondents, through their assailed regulations, and with the help of private respondent Bankers Association of the Philippines (BAP),
+[4]
+ enabled the PDS Group to establish and maintain a monopoly and impose unlawful restraint of trade and unfair competition in the market for fixed-income securities and the over-the-counter (OTC) market
+[5]
+ for government securities.
+[6]
+Antecedents
+Petitioners allege that the creation of the monopoly began in the early 2000s when private respondent Vicente E. Castillo (Castillo) and his colleagues in BAP exploited the lack of market for privately-issued securities in the country.
+[7]
+ This led to the establishment of the Fixed-Income Exchange (FIE),
+[8]
+ a marketplace or facility for fixed-income securities.
+[9]
+ To implement the FIE, the PDS Group was created, with each company tasked to provide a specific service: (1) PDEx, to provide the trading platform for the FIE; (2) PSSC, to operate as the central clearing and settlement institution for trading activities; (3) PDTC, to act as the depository, registry, and custodian of fixed-income securities; and (4) PDSHC, to be the holding company for the three corporations.
+[10]
+The FIE, according to petitioners, failed as a financial venture.
+[11]
+ PDEx allegedly incurred heavy business losses, which accumulated to about P170 million by the end of 2006.
+[12]
+ Such losses purportedly persisted despite the illegal capital infusion by banks to PDEx, which banks were unlawfully ordered by BAP to invest therein.
+[13]
+ These financial losses led Castillo and BAP to intrude upon the stable OTC market for government securities in 2008, which was then operated by the Money Market Association of the Philippines (MART).
+[14]
+ In intruding upon the said market, MART was allegedly unlawfully eased out.
+[15]
+Petitioners allege that the monopoly of the PDS Group was made possible with the help of public respondents through the following rules, orders, issuances, and acts:
+BSP Circular No. 338 (2002)
+,
+[16]
+ which amended the Manual of Regulations for Banks by adding the FIE as one of the non-financial allied undertakings in which equity banks may invest, allegedly ensuring that PDEx could legally source its funding from banks;
+[17]
+BSP Circular No. 392 (2003)
+,
+[18]
+ which imposed an additional requirement for a book entry of scripless securities where none was previously required, supposedly creating a business for PDTC;
+[19]
+BSP Circular No. 428 (2004)
+,
+[20]
+ which enumerated the prequalification requirements for a securities custodian and registry, allegedly giving figment of legitimacy to the operations of PDTC;
+[21]
+BSP Circular Letter dated November 16, 2004
+, which authorized PDTC to perform securities custodianship and registry operations, giving license to PDTC to act as such despite being unqualified and despite being the only non-bank entity accredited by the BSP;
+[22]
+BSP Circular No. 481 (2005)
+,
+[23]
+ which deferred the implementation of the P650 million minimum capital requirement for non-bank financial institutions (NBFI) to operate as quasi-banks, allegedly favoring PDTC;
+[24]
+BSP Circular No. 557 (2007)
+,
+[25]
+ which lifted the moratorium in granting licenses to engage in quasi-banking activities, allegedly allowing PDTC to be licensed despite not being qualified;
+[26]
+BSP's act of disallowing MART from participating in government securities trading
+, unlawfully depriving the latter of business;
+[27]
+BSP and the National Treasurer's act of allowing PDEx and PDTC to electronically connect or interface with the Registry of Scripless Securities (ROSS)
+âthe Bureau of Treasury (BTr)'s registry for government securitiesâallegedly forcing trading participants to use the PDEx trading system
+[28]
+ and consolidating the PDS Group's monopoly;
+[29]
+BSP and the National Treasurer's act of allowing PDTC and PSSC to electronically connect or interface with the Philippine Payment and Settlement System (PhilPaSS)
+âa payment system owned and operated by the BSPâallegedly consolidating the PDS Group's monopoly;
+[30]
+SEC's act of regulating government securities
+, allegedly amounting to grave abuse of discretion as the Securities Regulation Code (SRC) covers regulation of private securities only;
+[31]
+SEC's grant of license to PDEx as a Self-Regulatory Organization (SRO)
+âan organization or association registered under the SRC that is empowered to make and enforce its own rules among its members
+[32]
+âallegedly enabling PDEx to enter such market and establish a monopoly therein;
+[33]
+SEC Memorandum Circular No. 14, or the Rules Governing the OTC Market (OTC Rules)
+,
+[34]
+ which "have been so crafted at the instigation of PDEx as to effectively preclude any other organization x x x from setting up such an SRO;"
+[35]
+ and
+The Secretary of Finance's and the National Treasurer's abdication of their duties
+ when they allowed the SEC to encroach upon their regulatory powers over government securities.
+[36]
+In their petition, petitioners also lay down the following arguments:
+First,
+ that government securities are outside the power of the SEC to regulate, since the securities defined in the SRC refer only to securities issued by private corporations, by private commercial enterprises, and by private profit-making ventures.
+[37]
+Second,
+ that SEC exceeded its jurisdiction with grave abuse of discretion when it licensed PDEx to be the marketplace or facility for the OTC market in government securities and to be the SRO in the said OTC market concurrently with its exchange operations.
+[38]
+Third,
+ that SEC committed grave abuse of discretion when after it agreed with petitioners through correspondence
+[39]
+ with petitioner Villafuerte: (1) that PDEx could not compel trading participants to join PDEx as its member, (2) that PDEx could not compel participants to course their trade exclusively in the PDEx trading system; and (3) that trading participants may course their transactions in other trading platforms, SEC still continued to allow PDEx to enforce Section 6 of the OTC Rules requiring that no broker or dealer shall participate in an OTC market unless he or she is a member of a registered SRO.
+[40]
+Fourth,
+ that PDEx could not compulsorily charge 
+ad valorem
+ mapping fees.
+[41]
+Fifth,
+ that the BSP committed grave abuse of discretion when it temporarily lifted the minimum capital requirement of P650 million for NBFIs in order to grant quasi-banking and trust licenses to PDTC, a subsidiary of the monopolistic PDS Group.
+[42]
+Sixth,
+ that the Secretary of Finance, through the BTr, committed grave abuse of discretion when PDTC was unlawfully allowed to connect and have access to ROSS, the official public record of ownership or interest in government securities at the primary market and of the transfers through the secondary market by and among government securities eligible dealers.
+[43]
+Last,
+ that BSP, as operator of PhilPaSS, committed grave abuse of discretion when, in concert with the Secretary of Finance, it allowed PSSC (a private entity) to intervene for a fee in the settlement of government securities transactions.
+[44]
+The PDS Group opposed the application for TRO and PI,
+[45]
+ which was responded to by petitioners in their Reply
+[46]
+ and Supplementary Reply.
+[47]
+Respondents then filed their respective Comments,
+[48]
+ pointing out the several procedural defects of the petition
+[49]
+ and disputing the factual allegations of petitioners.
+[50]
+ They submit in common that the establishment of the FIE was the result of necessary reforms in the fixed-income market, which arose from an environment characterized by lack of transparency and limited regulation. Rather than being a product of Castillo's exploitation, the FIE was created to provide a comprehensive financial market infrastructure for the electronic trading, clearing and settlement, depository, registry, and custody of fixed-Â­income securities.
+[51]
+Respondents further assert that SEC has jurisdiction over the secondary market for government securities as this is within the scope of the SRC.
+[52]
+ They argue that there is no monopoly in the OTC market because PDEx does not enjoy any exclusive right to be the SRO in such market
+[53]
+ (while other entities may apply and qualify as SROs, only PDEx satisfied the requirements).
+[54]
+ Further, the requirement in the OTC Rules for mandatory membership in an SRO constitutes a reasonable regulation that is consistent with the SEC's mandate to establish a free market that regulates itself.
+[55]
+As to the assailed connectivity to PhilPaSS and ROSS, respondents point out that they are not the only non-government entities connected to the two facilities.
+[56]
+ As last reported by BSP, PhilPass has 35 links to universal banks, 3 links to specialized government banks, 43 links to thrift banks, 54 links to rural banks, 14 links to entities with quasi-banking license, and 4 links to third party system providers including the Philippine Clearing House Corporation, BancNet, and Megalink.
+[57]
+ Further, ROSS is linked to Moneyline Telerate.
+[58]
+As to the other assailed issuances, including the BSP regulations, respondents assert that these were made pursuant to the executive and rule-making functions of public respondents.
+[59]
+In response to the Comments, petitioners filed their Consolidated Reply.
+[60]
+ Thereafter, the parties were required to move in premises, and in compliance, respondents informed the Court that many developments have transpired which rendered the case moot and academic, among them that MART has been licensed as an SRO in an OTC market (Government Securities Repo Market), and that the BTr has upgraded and modernized its system to the National Registry of Scripless Securities (NROSS), removing certain infrastructures, services, and features previously offered by the PDS Group to ROSS.
+[61]
+Our Ruling
+The petition suffers from procedural infirmities. We dismiss.
+Petitioners have no legal standing.
+Among the requisites for judicial review is legal standing or 
+locus standi
+, which is the "right of appearance in a court of justice on a given question."
+[62]
+ To possess legal standing, parties must show "a personal and substantial interest in the case such that [they have] sustained or will sustain direct injury as a result of the governmental act that is being challenged."
+[63]
+Here, petitioners state that they are former legislators, former national treasurers, and a former budget secretary and economics professor, who all maintain a continuing interest in the subject of the petition in view of their advocacies and prior government positions.
+[64]
+ However, this allegation by itself does not satisfy the requirement of standing. What is required is "a material interest, an interest in issue affected by the decree as distinguished from mere interest in the question involved, or a mere incidental interest."
+[65]
+Petitioners also invoke the exceptions to the rule on standing, suing as taxpayers, concerned citizens, and public interest advocates raising issues of transcendental importance;
+[66]
+ and suing on behalf of BAP member-banks who are allegedly afraid to file the case.
+[67]
+Indeed, these exceptions have been recognized by jurisprudence:
+Like any rule, the rule on legal standing has exceptions. This Court has taken cognizance of petitions filed by those who have no personal or substantial interest in the challenged governmental act but whose petitions nevertheless raise "constitutional issue[s] of critical significance." This Court summarized the requirements for granting legal standing to "non-traditional suitors" in 
+Funa v. Villar
+, thus:
+1.)
+For 
+taxpayers
+, there must be a claim of illegal disbursement of public funds or that the tax measure is unconstitutional;
+2.)
+For 
+voters
+, there must be a showing of obvious interest in the validity of the election law in question;
+3.) 
+For 
+concerned citizens
+, there must be a showing that the issues raised are of transcendental importance which must be settled early; and
+4.)
+For 
+legislators
+, there must be a claim that the official action complained of infringes their prerogatives as legislators. x x x
+Another exception is the concept of third-party standing. Under this concept, actions may be brought on behalf of third parties provided the following criteria are met: first, "the [party bringing suit] must have suffered an 'injury-in-fact,' thus giving him or her a 'sufficiently concrete interest' in the outcome of the issue in dispute"; second, "the party must have a close relation to the third party"; and third, "there must exist some hindrance to the third party's ability to protect his or her own interests."
+[68]
+ (Citations omitted)
+However, none of these exceptions apply here.
+First, as 
+taxpayers
+, petitioners submit that this exception is present essentially because the public money used to finance ROSS was deflected to an improper and illegal purpose when PDEx was given an undue advantage to use it.
+[69]
+ However, this allegation falls short of the requirements for a taxpayer's suit: (1) that public funds derived from taxation are disbursed by a political subdivision or instrumentality and in doing so, a law is violated or some irregularity is committed; and (2) that the petitioner is directly affected by the alleged act.
+[70]
+A closer look at petitioners' allegations would show that what they claim to be illegal and improper is not 
+per se
+ the 
+disbursement
+ of public funds to finance ROSS, but the 
+use
+ of the latter by PDEx.
+[71]
+ However, that a government project is later on used for an alleged improper purpose does not necessarily make the prior funding of such project illegal; what makes a disbursement illegal is the violation of a specific law or the commission of an irregularity in the deflection of such public funds. Because there is no showing that the disbursement of funds 
+per se
+ is illegal or improper, the requirement that a law was violated or that some irregularity was committed when public money was disbursed is not met. Further, the requirement that petitioners are directly affected by such act is also not satisfied (as will be expounded on later). Thus, this case does not qualify as a taxpayer's suit.
+Petitioners also assert that as 
+citizens
+ and 
+public interest advocates
+ seeking to enforce a constitutional right, they have standing to file this suit.
+[72]
+ They claim that they have a strong interest in the case as it involves constitutional issues.
+[73]
+ Further, the issues they raise are of 
+transcendental importance
+:
+This is a case of 
+TRANSCENDENTAL IMPORTANCE
+ to the nation because it tests the will of the justice system to enforce (a) the constitutional provision against illegal monopolies and combinations in restraint of trade and unfair competition and (b) the implementation of statutory prohibitions against monopolizing the management and operation of both Exchange and Over-the-Counter (OTC) markets for securities; and to stop the undue interference with the freedom to choose the trading market facility in the fixed income securities; and the unlawful and unjust malpractices which create distortions in the free market, which thereby also impede and obstruct the establishment of a socially conscious free market in fixed income securities, 
+particularly in government securities
+, all of which have negative impact in the protection of investors and the promotion of public interest.
+[74]
+Petitioners add in their Consolidated Reply that the national economy is greatly impacted by the government securities market affected by the acts of respondents.
+[75]
+To determine whether a matter is of transcendental importance, the Court considers "(1) the character of the funds or other assets involved in the case; (2) the presence of a clear case of disregard of a constitutional or statutory prohibition by the public respondent agency or instrumentality of the government; and (3) the lack of any other party with a more direct and specific interest in the questions being raised."
+[76]
+Here, petitioners failed to show a 
+clear
+ or 
+obvious
+ disregard of the relevant constitutional provision which requires an immediate action from this Court. In the first place, monopoly is not prohibited 
+per se
+ but is only regulated or disallowed when public interest so requires.
+[77]
+ Further, We have already recognized that securities markets may regulate their own operations by requiring membership in an SRO under the principle of self-regulation, consistent with the State policy to "establish a socially conscious, free 
+market that regulates itself
+," 
+viz
+.:
+From their earliest inception in the United States, stock exchanges and securities markets have always exercised some form of control over their own regulatory affairs. It has been generally recognized that due to the large number of market participants and the lack of resources, full government regulation of securities markets is impractical. As such, stock exchanges and securities markets are allowed to regulate their own operations, subject to the control and supervision of the government regulatory authority. This principle is known as 
+self-regulation
+; and is embodied in the SRC's declaration of policy, which states 
+inter alia
+ that "the State shall establish a socially conscious, free 
+market that regulates itself
+ x x x." As explained by a commentator:
+In lieu of direct regulation by the SEC of Exchanges and other securities-related organizations, the statutory scheme involves, in the first instance, the adoption by SROs of rules that are subject to SEC review and approval, and the enforcement of such rules by the SROs against their members. Under this SECÂ­-supervised self-regulation, the SEC will step in only if the SROs are unable to perform properly their functions. In the process, the SEC is able to conserve its own resources, since the SROs effectively serve as its instrumentalities in the surveillance of the markets.
+The principle of self-regulation is enshrined and fleshed out in Sections 39 and 40 of the SRC. Rule 3 (R) of the 2015 SRC IRR defines a "
+Self-Regulatory Organization or SRO
+" as:
+an organized Exchange, registered clearing agency, organization or association registered as an SRO under Section 39 of the Code, and which has been authorized by the Commission to: (1) 
+enforce compliance with relevant provisions of the Code and rules and regulations adopted thereunder
+; (2) 
+promulgate and enforce its own rules
+ which have been approved by the Commission, by their members and/or participants; and, (3) 
+enforce fair, ethical and efficient practices
+ in the securities and commodity futures industries including securities and commodities exchanges.
+Under Section 39.1 of the SRC, the SEC is given the "power to register as a self-regulatory organization, or otherwise grant licenses, and to regulate, supervise, examine, suspend or otherwise discontinue, as a condition for the operation of organizations whose operations are related to or connected with the securities market." In turn, associations of securities market participants are allowed to apply for registration as SROs. Under the SRC, SROs are empowered: 1) to promulgate, amend, and enforce rules and regulations to govern the trading activities of its members; 2) to control the admission of brokers, dealers, salespersons, and associated persons into a securities association; and 3) to impose disciplinary sanctions upon its members.
+The regulatory structure under the SRC is therefore a two-tiered scheme, with the SROs as the first-level regulatory entities, subject to the review, regulation, and supervision of the SEC as the second-level regulatory entity. The regulatory jurisdiction of SROs is defined in Section 40.2 of the SRC, which mandates SROs to "comply with the provisions of this Code, the rules and regulations thereunder, and its own rules, and enforce compliance therewith x x x." x x x.
+x x x x
+It is readily apparent from the foregoing that, in enacting the principle of self-regulation into statute, Congress delegated a modicum of regulatory power to the SROs. These regulatory powers are exercised "[i]n lieu of direct regulation by the SEC of Exchanges and other securities-related organizations," and are therefore of the same legal nature as that of the SEC's powers.
+[78]
+ (Citations omitted)
+Thus, the membership requirement in an SRO does not necessarily violate the constitutional provision on monopoly.
+Moreover, there are other parties with a more direct and specific interest in the issues raised in the petition: with respect to the supposed monopoly in the market for fixed-income securities and OTC market for government securitiesâ
+the participants in the said markets
+; and with respect to the alleged unlawful deprivation of MART's businessâ
+MART
+.
+Petitioners' claim that they are suing 
+on behalf of BAP member-banks
+ who are afraid of retaliation from respondents deserves scant consideration.
+[79]
+ Aside from being unsubstantiated, their allegations do not satisfy the jurisprudential requirements for third-party standing: (1) that the party must have suffered an injury-in-fact, thus giving him or her a sufficiently concrete interest in the outcome of the issue in dispute; (2) that the party must have a close relation to the third party; and (3) that there must exist some hindrance to the third party's ability to protect his or her own interests.
+[80]
+ Here, petitioners have not shown any injury-in-fact that gives them a sufficiently concrete interest in the outcome of the case. They also have not shown any close relation to the banks, nor have they sufficiently demonstrated how these banks are hindered from filing the case.
+Further, We have held that generalized interests, albeit accompanied by the assertion of a public right, do not establish standing.
+[81]
+ What is required in suits by concerned citizens is "an allegation that the continuing enforcement of a law or any government act has denied the party some right or privilege to which they are entitled, or that the party will be subjected to some burden or penalty because of the law or act being complained of."
+[82]
+ Again, petitioners have not alleged any sufficient and specific denial of their rights or any burden caused to them by the assailed acts and issuances.
+Petitioners add, seemingly as an afterthought, that they are 
+investors
+ in government securities.
+[83]
+ But aside from once more being unsubstantiated, even if this is true, petitioners still failed to establish how they as investors have suffered or will suffer direct or personal injury. Without such showing, the claim of being an investor in itself cannot accord them standing.
+In sum, petitioners were unable to establish the necessary legal standing to file the instant Petition. Without this, judicial review could not proceed. 
+Unfortunately for petitioners, even if We relax the rule, the petition would still fail.
+  
+ 
+Petitioners violated the constitutional filtering mechanism of hierarchy of courts.
+ 
+Hierarchy of courts is the mechanism that ordains a sequence of recourse to courts vested with concurrent jurisdiction.
+[84]
+ The hierarchy begins from the trial courts, then the Court of Appeals and the other intermediate courts, then finally the Supreme Court. This sequence recognizes; (1) the various levels of courts in the country as they are established under the Constitution and by law; (2) their ranking and effect of their rulings in relation with one another; and (3) how they interact with one another.
+[85]
+ Given the differences in these aspects, the questions these courts resolve also differ: trial courts decide questions of fact and law at first instance; the Court of Appeals and the other intermediate courts, both questions of fact and law; and this Court, only questions of law in general.
+[86]
+Here, petitioners filed the case directly before this Court despite the concurrent jurisdiction of the Court of Appeals and the Regional Trial Courts to issue the writs of 
+certiorari
+ and prohibition they pray for.
+[87]
+ Petitioners invoke "special and important reasons"
+[88]
+ and "transcendental importance"
+[89]
+ to justify their action.
+While We have previously held that the invocation of the Court's original jurisdiction to issue extraordinary writs may be allowed on the ground of special and important reasons or transcendental importance, in the landmark case of 
+Gios-Samar, Inc. v. Department of Transportation and Communications
+,
+[90]
+ the Court clarified that direct recourse is allowed 
+only when the issues presented are purely legal
+:
+In fine, while this Court has original and concurrent jurisdiction with the RTC and the CA in the issuance of writs of 
+certiorari
+, prohibition, 
+mandamus, quo warranto
+, and 
+habeas corpus
+ (extraordinary writs), 
+direct recourse to this Court is proper only to seek resolution of questions of law
+. Save for the single specific instance provided by the Constitution under Section 18, Article VII, cases the resolution of which depends on the determination of questions of fact cannot be brought directly before the Court because we are not a trier of facts.
+[91]
+ (Emphasis supplied; citations omitted)
+Some of the issues here are not purely legal.
+First, what petitioners ask is for this Court to nullify the various rules, orders, issuances, and acts of public respondents for essentially perpetuating the alleged 
+monopoly
+ of the PDS Group in the market for fixed-income securities and the OTC market for government securities.
+[92]
+A monopoly is "a privilege or peculiar advantage vested in one or more persons or companies, consisting in the exclusive right or power to carry on a particular business or trade, manufacture a particular article, or control the sale or the whole supply of a particular commodity."
+[93]
+ Its existence is a question of fact.
+[94]
+Because petitioners are assailing the supposedly subsisting monopoly of the PDS Group,
+[95]
+ it is necessary to determine first whether there actually is a monopoly. This question is clearly factual in nature; thus, it is imperative that it be threshed out before a tribunal that is competent to receive evidence and to resolve such question: a court that is a trier of facts.
+Even if this Court disregards the factual assertions of the parties on the existence of monopoly, and simply rule on the legal issues raised by petitioners, there is still a need to receive evidence to fully resolve the case since some of these issues are inextricably intertwined with underlying questions of fact.
+For instance, petitioners argue that the SEC committed grave abuse of discretion when it issued Section 6 of the OTC Rules, which requires a broker or dealer to be a member of a registered SRO to be able to participate in an OTC market.
+[96]
+ According to petitioners, since PDEx is the only SRO in the OTC market, and because the OTC Rules were "designed to be complied with by no one except PDEx,"
+[97]
+ any aggrieved broker or dealer who does not want to be a member of PDEx is unlawfully prevented from setting up a new SRO.
+[98]
+ Petitioners emphasize that the specifications for facilities to be operated by the SRO as described in the SEC-issued OTC Rules are virtual descriptions of the PDEx trading system.
+[99]
+To resolve this issue, the Court must closely examine and compare the specifications of the PDEx trading system with the specifications described in the OTC Rules. To determine this factual matter would require a great deal of time and attention from this Courtâresources that are better devoted to matters within its exclusive jurisdiction.
+Even in their prayer, petitioners ask for reliefs which can only be granted after a thorough evaluation of facts. Most notable is their prayer to prohibit BAP from "further compelling, persuading or exerting any undue influence upon its member banks tending to coerce, convince or induce them to use exclusively the PDEx trading system in government securities."
+[100]
+ Needless to say, the question of whether BAP is exerting or has been exerting undue influence on its members is undeniably a question of fact.
+Further, the need to bring this particular case before a trial court is amplified by the fact that the securities market is 
+dynamic
+ in nature, as shown by the many developments that arose after the filing of this Petition in 2013.
+[101]
+ Incidentally, these developments, if true, may render moot and academic the resolution of some issues in this case.
+For instance, in the issue of whether the specifications in the OTC Rules were designed to be complied with by no one except PDEx, respondents informed the Court that in 2017, MART has been granted a license to operate as an SRO in an OTC market (Government Securities Repo Market).
+[102]
+ If this is indeed true, then the annulment of Section 6 of the OTC Rules by reason that it prevents the formation and registration of other SROs may possibly be affected by this development.
+In the same vein, petitioners' prayer to nullify PDTC's connectivity to ROSS may also have been mooted by the latter's upgrade to NROSS (a new system which does not carry the assailed services previously rendered by the PDS Group to ROSS),
+[103]
+ if proven to be true.
+These reasons, along with petitioners' lack of legal standing, constrain us to dismiss the Petition. As We have stressed in 
+Gios-Samar v. Department of Transportation and Communications
+:
+Accordingly, for the guidance of the bench and the bar, we reiterate that 
+when a question before the Court involves determination of a factual issue indispensable to the resolution of the legal issue, the Court will refuse to resolve the question regardless of the allegation or invocation of compelling reasons, such as the transcendental or paramount importance of the case
+. Such question must first be brought before the proper trial courts or the CA, both of which are specially equipped to try and resolve factual questions.
+[104]
+ (Emphasis in the original; underscoring supplied)
+Finally, it would do well to remind petitioners that pleadings before all courts must be presented in an organized and systematic manner. Not only does this aid the court's analysis, but it also reflects the litigants' grasp and comprehension of the matters they discuss.
+WHEREFORE
+, this Court resolves to 
+DISMISS
+ the petition.
+[105]
+The Motion to Withdraw as Petitioner of Benjamin E. Diokno is 
+GRANTED
+. Respondent Bankers' Association of the Philippines' compliance with the Move in the Premises Resolution dated March 3, 2020 is 
+DISPENSED WITH
+.
+SO ORDERED.
+Gesmundo, C.J., Perlas-Bernabe, Caguioa, Lazaro-Javier, Inting, Zalameda, M. Lopez, Gaerlan, Rosario, J. Lopez, Dimaampao, Marquez
+, and 
+Kho, Jr., JJ.
+, concur.
+Leonen, J.
+, see separate concurring opinion.
+*
+ Aquilino Q. Pimentel, Jr. and Benjamin E. Diokno withdrew as petitioners, 
+Rollo
+, pp. 2159-2167 and 2579-2584.
+[1]
+ Id. at 3-134.
+[2]
+ These are:
+The Securities and Exchange Commission (SEC)'s grant of license to Philippine Dealing & Exchange Corp. (PDEx) to operate in the over-the-counter (OTC) market for government securities concurrently in the market for fixed-income securities;
+The SEC's grant of license to PDEx as a Self-Regulatory Organization (SRO) in the OTC market for government securities;
+Bangko Sentral ng Pilipinas (BSP)'s Circular Letter dated November 16, 2004;
+BSP Circular No. 481 dated March 21, 2005;
+BSP Circular No. 557 dated January 12, 2007;
+Section 6 of SEC Memorandum Circular No. 14-06;
+Rule 3.3 (1) in relation to Rule 17 of the PDEx Rules for the Fixed Income Securities Market, as Amended (July 17, 2009);
+The Secretary of Finance's grant, through the National Treasurer, to PDEx and Philippine Depository & Trust Corp. of connectivity to the Registry of Scripless Securities; and
+The Secretary of Finance's grant, through the BSP, to PDEx and Philippine Securities Settlement Corp. of connectivity to the Philippine Payment and Settlement System.
+[3]
+ These are:
+The SEC's act of regulating government securities;
+The Bankers Association of the Philippines (BAP)'s act of unduly influencing its member banks to use the PDEx trading system exclusively;
+The PDS Group's act of exercising revenue imposition functions; and
+Public respondents' implementation of unlawful rules, orders, circulars, and other issuances.
+[4]
+ According to its website, BAP is the lead organization of universal and commercial banks in the Philippines consisting of 45 member banks, 21 of which are local banks and 24 are foreign bank branches. 
+bap.org.ph/about/>
+ (visited May 29, 2021).
+[5]
+ Defined as "the market created by the buying and selling of a security on a bilateral basis between parties that takes place outside of an Exchange or Alternative Trading System (ATS)" in SEC Memorandum Circular No. 14-06, or the Rules Governing the Over the Counter Market.
+[6]
+ 
+Rollo
+, pp. 23, 29.
+[7]
+ Id. at 73.
+[8]
+ Id.
+[9]
+ See Section 3.7 of the Securities Regulation Code (SRC), which defines an exchange as "an organized market place or facility that brings together buyers and sellers and executes trade of securities and/or commodities."
+[10]
+ 
+Rollo
+, p. 76.
+[11]
+ Id. at 73.
+[12]
+ Id.
+[13]
+ Id. at 90.
+[14]
+ Id. at 74.
+[15]
+ Id. at 18-19, 73.
+[16]
+ Dated July 18, 2002.
+[17]
+ 
+Rollo
+, p. 78.
+[18]
+ Dated July 23, 2003.
+[19]
+ 
+Rollo
+, p. 79.
+[20]
+ Dated April 27, 2004.
+[21]
+ 
+Rollo
+, p. 79.
+[22]
+ Id. at 80-81.
+[23]
+ Dated March 21, 2005.
+[24]
+ 
+Rollo
+, pp. 82, 111.
+[25]
+ Dated January 12, 2007.
+[26]
+ 
+Rollo
+, p. 82.
+[27]
+ Id. at 18.
+[28]
+ Id. at 83-85.
+[29]
+ Id. at 7-8.
+[30]
+ Id.
+[31]
+ Id. at 105-107.
+[32]
+ An SRO is more accurately defined in the SRC's Implementing Rules of Regulations as "an organized Exchange, registered clearing agency, organization or association registered as an SRO under Section 39 of the Code, and which have been authorized by the Commission to: (1) enforce compliance with relevant provisions of the Code and rules and regulations adopted thereunder; (2) promulgate and enforce its own rules which have been approved by the Commission, by their members and/or participants, and; (3) enforce fair, ethical and efficient practices in the securities and commodity futures industries including securities and commodities exchanges."
+[33]
+ 
+Rollo
+, pp. 5-8.
+[34]
+ Dated October 27, 2006.
+[35]
+ 
+Rollo
+, p. 7.
+[36]
+ Id. at 4.
+[37]
+ Id. at 105-107.
+[38]
+ Id. at 108-109. 
+[39]
+ Id. at 6-7.
+[40]
+ Id. at 108-109.
+[41]
+ Id. at 109-110.
+[42]
+ Id. at 111.
+[43]
+ Id. at 111-113.
+[44]
+ Id. at 113-114.
+[45]
+ Id. at 728-762.
+[46]
+ Id. at 801-834.
+[47]
+ Id. at 851-897.
+[48]
+ Id. at 1000-1023, 1024-1106, 1537-1609, 1619-1749.
+[49]
+ Id. at 1009-1018, 1027-1043, 1550-1552, 1555-1567, 1651-1652, 1656-1666.
+[50]
+ Id. at 1001-1009, 1025-1027; 1625-1650.
+[51]
+ Id. at 1003-1004, 1014, 1025-1026; 1628-1634, 1667-1678.
+[52]
+ Id. at 1045-1055; 1573-1574, 1694-1696.
+[53]
+ Id. at 1098-1099; 1716.
+[54]
+ Id. at 1076; 1716-1717.
+[55]
+ Id. at 1074-1075; 1578-1580, 1700-1703, 1705-1710.
+[56]
+ Id. at 1085, 1090.
+[57]
+ Id. at 1085.
+[58]
+ Id. at 1090.
+[59]
+ Id. at 1036-1037; 1559-1563.
+[60]
+ Id. at 1870-2092.
+[61]
+ Id.
+[62]
+ 
+Provincial Bus Operators Association of the Philippines v. Department of Labor and Employment
+, 836 Phil. 205, 249 (2018), citing 
+Advocates for Truth in Lending, Inc. v. Bangko Sentral Monetary Board
+, 701 Phil. 483, 493 (2013).
+[63]
+ 
+Pimentel v. Legal Education Board
+, G.R. Nos. 230642 & 242954, September 10, 2019, citing 
+Provincial Bus Operators Association of the Philippines v. Department of Labor and Employment
+, supra.
+[64]
+ 
+Rollo
+, pp. 55-56, 48-50.
+[65]
+ 
+Falcis III v. Civil Registrar General
+, G.R. No. 217910, September 3, 2019, citing 
+Integrated Bar of the Philippines v. Zamora
+, 392 Phil. 618, 633 (2000).
+[66]
+ 
+Rollo
+, p. 54.
+[67]
+ Id. at 1942-1944.
+[68]
+ 
+Provincial Bus Operators Association of the Philippines v. Department of Labor and Employment
+, supra note 62, at 250-251.
+[69]
+ 
+Rollo
+, p. 56-57.
+[70]
+ 
+Alliance of Non-life Insurance Workers of the Philippines v. Mendoza
+, G.R. No. 206159, August 26, 2020, citing 
+Mamba v. Lara
+, 623 Phil. 63, 77 (2009).
+[71]
+ 
+Rollo
+, p. 56-57.
+[72]
+ Id. at 54.
+[73]
+ Id. at 56.
+[74]
+ Id. at 4.
+[75]
+ Id. at 1935-1942. Petitioners enumerate the following considerations: (1) the magnitude of annual government securities issuances, annual debt service requirements, and outstanding securities net of redemption and payments that are made every year; (2) the substantial contributions of government securities to socio-economic development; (3) the essential role of government securities in the fiscal management of the government; (4) the significant functions of government securities in the management by the BSP of the monetary sector; and (5) the relevant use of government securities in the management of financial institutions.
+[76]
+ 
+Advocates for Truth in Lending, Inc. v. Bangko Sentral Monetary Board
+, 701 Phil. 483, 495 (2013), citing 
+Chamber of Real Estate and Builders' Association, Inc. v. Energy Regulatory Commission
+, 638 Phil. 542, 556-557 (2010).
+[77]
+ CONSTITUTION, Article XII, Section 19.
+[78]
+ 
+Palanca IV v. RCBC Securities, Inc.
+, G.R. No. 241905, March 11, 2020.
+[79]
+ 
+Rollo
+, pp. 1942-1944.
+[80]
+ 
+Provincial Bus Operators Association of the Philippines v. Department of Labor and Employment
+, supra note 64 at 251, citing 
+White Light Corp. v. City of Manila
+, 596 Phil. 444, 456 (2009).
+[81]
+ 
+Padilla v. Congress of the Philippines
+, 814 Phil. 344, 366 (2017).
+[82]
+ 
+Falcis III v. Civil Registrar General
+, supra note 65, citing 
+Francisco, Jr. v. House of Representatives
+, 460 Phil. 830, 896 (2003).
+[83]
+ 
+Rollo
+, p. 1916.
+[84]
+ 
+Montes v. Court of Appeals
+, 523 Phil. 98, 109 (2006), citing 
+Yared v. Ilarde
+, 391 Phil. 722, 733 (2000).
+[85]
+ 
+Gios-Samar, Inc. v. Department of Transportation and Communications
+, G.R. No. 217158, March 12, 2019, citing 
+Association of Medical Clinics for Overseas Workers, Inc. v. GCC Approved Medical Centers Association, Inc.
+, 802 Phil. 116, 156 (2016).
+[86]
+ Id., citing 
+Association of Medical Clinics for Overseas Workers, Inc. v. GCC Approved Medical Centers Association, Inc.
+, 802 Phil. 116, 157 (2016) and 
+Aspacio v. Inciong
+, 244 Phil. 180, 184 (1998). 
+[87]
+ Id.
+[88]
+ 
+Rollo
+, pp. 1916-1918.
+[89]
+ Id. at pp. 55, 57; pp. 1917-1918.
+[90]
+ Supra note 85.
+[91]
+ Id.
+[92]
+ 
+Rollo
+, pp. 23, 29.
+[93]
+ 
+Tatad v. Secretary of the Department of Energy
+, 346 Phil. 321, 365 (1997), citing Black's Law Dictionary, 6th ed., p. 1007.
+[94]
+ 
+Garcia v. Executive Secretary
+, 602 Phil. 64, 75 (2009).
+[95]
+ 
+Rollo
+, Vol. I, pp. 23, 29.
+[96]
+ Id. at 109-110.
+[97]
+ Id. at 8.
+[98]
+ Id. at 6-8.
+[99]
+ Id. at 8.
+[100]
+ Id. at 118.
+[101]
+ See compliances filed by private respondent PDS Group and public respondents (Id., unpaginated).
+[102]
+ Id., unpaginated.
+[103]
+ Id., unpaginated.
+[104]
+ 
+Gios-Samar, Inc. v. Department of Transportation and Communications
+, supra note 87.
+[105]
+ Nothing in this Resolution shall be taken as a prejudgment on the matters discussed, including but not limited to the statement on the lack of clear case of disregard of the relevant constitutional provision, and the disquisition on mootness.
+SEPARATE CONCURRING OPINION
+LEONEN, 
+J
+.:
+I agree that the Petition suffers procedural infirmities, meriting its outright dismissal. Petitioners failed to establish their legal standing to institute the action
+[1]
+ and have raised factual questions which cannot be resolved by this Court.
+[2]
+Nevertheless, the Petition raises important questions surrounding our financial markets which have significant impact on our economy. Thus, we have to understand the impact of the securities market and the legal parameters set by the parties.
+I
+Petitioners mainly contend that the Securities and Exchange Commission cannot regulate the trade of government securities
+[3]
+ as these are not covered by the Securities Regulation Code.
+[4]
+ Thus, the Commission cannot authorize the Philippine Dealing & Exchange Corporation (PDEx) to operate an over-the-counter market for government securities.
+[5]
+ Instead, it is the Secretary of Finance who has jurisdiction over this market.
+[6]
+They further argue that public respondents allowed PDEx to monopolize the over-the-counter market because the Securities and Exchange Commission required brokers and dealers to become members of a self-regulatory organization (SRO), which was only PDEx at that time, to be able to trade in this market.
+[7]
+Republic Act No. 8799, or the Securities Regulation Code, governs our securities trading markets. Section 2 contains the State policy with respect to our financial market:
+SECTION 2. 
+Declaration of State Policy
+. â The State shall establish a socially conscious, free market that regulates itself, encourage the widest participation of ownership in enterprises, enhance the democratization of wealth, promote the development of the capital market, protect investors, ensure full and fair disclosure about securities, minimize if not totally eliminate insider trading and other fraudulent or manipulative devices and practices which create distortions in the free market.
+To attain these goals, the Securities and Exchange Commission was created and mandated to regulate and supervise the securities market.
+[8]
+ It also protects the investing public from risks associated with financial investments. In 
+Securities and Exchange Commission v. Subic Bay Gold and Country Club, Inc.
+[9]
+ we underscored the special role of the Commission:
+The Securities and Exchange Commission's approval of securities registrations signals to the public that the securities are valid. It provides the public with basis for relying on the representations of corporations that issue securities or financial instruments.
+Any fraud or misrepresentation in the issuance of securities injures the public. The Securities and Exchange Commission's power to suspend or revoke registrations and to impose fines and other penalties provides the public with a certain level of assurance that the securities contain representations that are true, and that misrepresentations if later found, would be detrimental to the erring corporation. It creates risks to corporations that issue securities and adds cost to errors, misrepresentations, and violations related to the issuance of those securities. This protects the public who will rely on representations of corporations and partnerships regarding financial instruments that they issue. The Securities and Exchange Commission's regulatory power over securities-related activities is tied to the government's duty to protect the investing public from illegal and fraudulent instruments.
+[10]
+The securities market plays an important role in channeling funds from and across individuals, firms, and even the government. In securities trading, funds may be borrowed from lenders by selling them securities. Securities are characterized as "claims on the borrower's future income or assets."
+[11]
+ These can be shares of stock, bonds, or debentures, among other financial instruments. Financial markets act as intermediaries connecting a borrower with investment opportunities to a lender with excess funds but not enough productive investment. Thus, financial markets promote economic efficiency and production.
+[12]
+There are two types of financial markets for securities: primary and secondary markets.
+A primary market is a financial market which issues new securities. For instance, a bond or a stock is sold to initial buyers by a corporation or by the government. Meanwhile, secondary markets involve reselling securities that have been previously issued. Brokers and dealers are crucial in secondary markets as they match buyers and sellers of securities.
+[13]
+Issuers of securities do not acquire new funds when their securities are sold from the secondary market. However, the secondary market makes the securities more liquid or easier to exchange. As investors can easily buy and sell their securities, this makes the securities more attractive to investors which, in turn, makes it easier for issuers to sell more securities in the primary market.
+[14]
+Secondary markets are further organized through exchanges and over-Â­the-counter markets.
+Exchange markets are organized facilities where buyers and sellers of securities, or their agents, trade securities.
+[15]
+ In contrast, in over-the-counter markets, "dealers at different locations who have an inventory of securities stand ready to buy and sell securities over the counter to anyone who comes to them and is willing to accept their prices."
+[16]
+Petitioners confuse primary with secondary markets. The Secretary of Finance performs a primary and exclusive role in the 
+issuance
+ of government securities through the primary market.
+Under Republic Act No. 245, the Secretary of Finance is mandated to determine the terms and conditions of issuance, placement, sale, servicing, redemption, and payment of all evidence of indebtedness of the Philippine government.
+[17]
+ Through the Bureau of Treasury, government securities are issued to the public. Section 1 of the law states:
+SECTION 1. In order to meet public expenditures authorized by law or to provide for the purchase, redemption, or refunding of any obligations, either direct or guaranteed, of the Philippine Government, the Secretary of Finance, with the approval of the President, after consultation with the Monetary Board, is authorized to borrow from time to time on the credit of the Republic of the Philippines such sum or sums as in his judgment may be necessary, and to issue therefor evidences of indebtedness of the Philippine Government.
+Such evidences of indebtedness may be of the following types:
+(a) Treasury bills issued on a discount basis and payable at maturity without interest. Treasury bills may be offered for sale either on a competitive basis or at a fixed rate of discount and may be made payable at any date not later than one year from the date of issue.
+(b) Interest-bearing certificates of indebtedness having maturities not exceeding eighteen months from the date of issue.
+(c) Interest-bearing notes having maturities of not less than one or more than five years from the date of issue.
+The Secretary of Finance, in consultation with the Monetary Board, shall prescribe the form or forms, the interest and discount rates, the denominations, maturities, negotiability, convertibility, call and redemption features, and all other terms and conditions of issuance, placement, sale, servicing, redemption, and payment of all evidences of indebtedness issued under the authority of this Act[.]
+These government securities, such as treasury bills and bonds, are issued and sold by the Bureau of Treasury to investors through a network of licensed dealers called Government Securities Eligible Dealers (GSED).
+[18]
+The securities are mainly issued and sold through an auction where the Bureau of Treasury issues a public notice to invite tenders.
+[19]
+ They can also be sold through the tap method where sales are "open exclusively to Accredited Government Securities Dealers (AGSDs) in the event of an acute and protracted shortage of Government Securities."
+[20]
+ The Secretary of Finance may also authorize the sale through over-the-counter method, where government securities are sold through negotiation, not auction.
+[21]
+Under DOF Department Order No. 141-95, the Securities and Exchange Commission can license an eligible financial institution to participate in the primary sale of government securities.
+V. Dealers Eligible to Bid at Primary or 
+Origination Sale of Government Securities
+SECTION 28. Any Financial Institution licensed by Bangko Sentral ng Pilipinas, Insurance Commission or Securities and Exchange Commission to deal in securities shall be eligible to participate in the primary sale of government securities as long as they meet the following criteria.
+Unimpaired capital and surplus account as defined in Sec. 29 of at least P100 Million at any one time. This must be proven by certification from Bangko Sentral ng Pilipinas or the Securities and Exchange Commission or the Insurance Commission; and
+Certification by Bangko Sentral ng Pilipinas, Securities and Exchange Commission or Insurance Commission that the institution is in good standing.
+For purposes of participating in the auction, such Financial Institution defined in Sec. 29 shall have an account with Bangko Sentral ng Pilipinas where the settlement of the award may be debited in order to avoid making the deposit prior to bidding.
+[22]
+The Secretary of Finance and the Bureau of Treasury are not active participants in the trading of government securities in the secondary market.
+In the secondary market, the trading of government securities involve brokers, salespersons, and other securities market professionals. The Securities and Exchange Commission is mandated to supervise and regulate the membership and transactions of these professionals. Under Chapter VIII, Section 28 of the Securities Regulations Code:
+CHAPTER VIII
+Regulation of Securities Market Professionals
+SECTION 28. 
+Registration of Brokers, Dealers, Salesmen and Associated Persons
+. â
+28.1. No person shall engage in the business of buying or selling securities in the Philippines as a broker or dealer, or act as a salesman, or an associated person of any broker or dealer unless registered as such with the Commission.
+28.2. No registered broker or dealer shall employ any salesman or any associated person, and no issuer shall employ any salesman, who is not registered as such with the Commission.
+28.3. The Commission, by rule or order, may conditionally or unconditionally exempt from Subsections 28.1 and 28.2 any broker, dealer, salesman, associated person of any broker or dealer, or any class of the foregoing, as it deems consistent with the public interest and the protection of investors.
+28.4. The Commission shall promulgate rules and regulations prescribing the qualifications for registration of each category of applicant[.]
+The Securities and Exchange Commission does not usurp the power and authority of the Department of Finance.
+The functions of the Secretary of Finance and the Securities and Exchange Commission with respect to the issuance and trade of government securities are not irreconcilable. The Secretary of Finance's exclusive authority to 
+issue
+ government securities in the primary market should not be misconstrued to preclude the Securities and Exchange Commission from 
+trading
+ government securities. This is because they operate exclusively in different financial markets.
+Government securities are still covered by the regulatory powers of the Securities and Exchange Commission. The exemption of government securities under Section 9 of the Securities Regulations Code is an exemption 
+from the registration requirement
+. The provision reads:
+SECTION 9. 
+Exempt Securities
+. â
+9.1. 
+The requirement of registration under Subsection 8.1 shall not as a general rule apply
+ to any of the following classes of securities:
+(a) Any security issued or guaranteed by the Government of the Philippines, or by any political subdivision or agency thereof, or by any person controlled or supervised by, and acting as an instrumentality of said Government. (Emphasis supplied)
+Moreover, the Securities Regulations Code intended to delete the exclusion of government securities from over-the-counter markets. The Revised Securities Act of 1982 expressly excluded trading in exempt securities. Section 35 states:
+SECTION 35. 
+Over-the-counter markets
+. â It shall be unlawful, in the contravention of such rules and regulations as the Commission may prescribe as necessary and appropriate in the public interest or to insure to investors protection comparable to that provided by and under authority of this Act in the case of securities exchanges:    
+  
+(1)
+For any broker or dealer, singly or with any other person, to make or create, or enable another to make or create, a market, otherwise than on a securities exchange, for both the purchase and sale of 
+any security, other than an exempted security
+ or commercial paper, banker's acceptances, or commercial bills, or securities which have not previously been registered or listed with an exchange, or
+(2)
+ For any broker or dealer to use any facility of any such market. (Emphasis supplied)
+The counterpart provision in the Securities Regulation Code deleted this exclusion. Under Section 32.2(a) of the Securities Regulations Code:
+CHAPTER IX
+Exchanges and Other Securities Trading Markets
+SECTION 32. 
+Prohibition on Use of Unregistered Exchange; Regulation of Over-the-Counter Markets
+. â
+. . . .
+32.2. (a) No broker, dealer, salesman or associated person of a broker or dealer, singly or in concert with any other person, shall make, create or operate, or enable another to make, create or operate, any trading market, otherwise than on a registered Exchange, for the buying and selling 
+of any security
+, except in accordance with rules and regulations the Commission may prescribe. (Emphasis supplied)
+Thus, over-the-counter trading m exempted securities, such as government bonds, are now subject to the Securities and Exchange Commission's authority.
+Moreover, prohibiting the Commission from trading government securities will injure the liquidity of these financial instruments. Without trading in the secondary market, buyers of government securities from the primary market will have no options on how to sell these instruments, ultimately discouraging any investor from buying newly issued government securities. Thus, it is reasonable and necessary to allow the trading of government securities in the secondary market through brokers and dealers.
+II
+Petitioners argue that public respondents created a monopolistic market when it required brokers and dealers to become members of an SRO, which was only PDEx at that time. They claim that this allowed PDEx to capture both the exchange and over-the-counter markets,
+[23]
+ forcing stakeholders in the markets to do business with PDEx.
+[24]
+ They claim that this is violative of the constitutional proscription against monopoly, unfair competition, and combination in restraint of trade.
+They further question the Securities and Exchange Commission's grant of authority for PDEx to operate in both exchange and over-the-counter markets for government securities.
+Our Constitution does not absolutely prohibit monopolies as can be gleaned in Article XII, Section 19:
+The State shall regulate or prohibit monopolies when the public interest so requires. No combinations in restraint of trade or unfair competition shall be allowed.
+A monopoly arises when "there is only one seller or producer of a product or service for which there are no substitutes."
+[25]
+ A monopoly can "control and dominate trade and commerce in a commodity . . . to exclude actual or potential competitors from the field, accompanied with the intention and purpose to exercise such power."
+[26]
+Meanwhile, a combination in restraint of trade is a way to produce a monopoly.
+[27]
+ It "is an agreement or understanding between two or more persons, in the form of a contract, trust, pool, holding company, or other form of association, for the purpose of unduly restricting competition, monopolizing trade and commerce in a certain commodity, controlling its production, distribution and price, or otherwise interfering with freedom of trade without statutory authority."
+[28]
+Monopolies are caused by barriers to entryâfactors which prevent other entities from entering the market. Barriers to entry can be due to monopoly in resources, wherein a key component required for the market is owned by a single entity, or due to production process, where one entity can produce the good or service at a lower cost than others. Government regulations can also result in a barrier to entry when the government grants a single entity the exclusive right to produce a good or service.
+[29]
+Petitioners contend that Section 6 of SEC Memorandum Circular No. 14-06 is a government regulation unduly creating a monopoly in favor of the PDEx. Section 6 provides:
+SEC MEMORANDUM CIRCULAR NO. 14-06
+SUBJECT: Rules Governing the Over the Counter (OTC) Market
+SECTION 6. 
+Membership in an SRO
+ â
+A. 
+No broker or dealer shall participate in an OTC market unless he is a member of an SRO that has been registered with the Commission for the purpose of regulating and supervising the activities of the broker or dealer in an OTC market.
+B. In case a broker or dealer is already a member of an existing SRO whose current status is for the purpose of regulating and supervising a market other than the OTC market, such broker or dealer may be allowed to participate in the OTC market; Provided, that the broker or dealer shows proof and the existing SRO is able to demonstrate that said SRO is capable of performing its regulatory and supervisory obligations relative to the activities of the broker or dealer in the OTC market; Provided further, that the SRO has committed to regulate and supervise the broker or dealer with respect to such activities; Provided finally, that the SRO files an amendment to its current SRO registration to reflect its intention to act as SRO in such OTC market.
+C. The Commission may prescribe the governance and ownership structure of an SRO or require amendment thereto to ensure the effective regulation and supervision of the OTC market.
+[30]
+ (Emphasis supplied)
+An SRO is "an organized Exchange, registered clearing agency or any organization or association registered as an SRO under Section 39 of the SRC to enforce compliance with relevant provisions of the SRC and IRR issued thereunder, and mandated to make and enforce its own rules, which have been approved by the Commission, by their members and/or participants."
+[31]
+ In 
+Palanca IV v. RCBC Securities, Inc.
+:
+[32]
+It has been generally recognized that due to the large number of market participants and the lack of resources, full government regulation of securities markets is impractical. As such, stock exchanges and securities markets are allowed to regulate their own operations, subject to the control and supervision of the government regulatory authority. This principle is known as self-regulation; and is embodied in the SRC's declaration of policy, which states inter alia that "the State shall establish a socially conscious, free market that regulates itself x x x." As explained by a commentator:
+In lieu of direct regulation by the SEC of Exchanges and other securities-related organizations, the statutory scheme involves, in the first instance, the adoption by SROs of rules that are subject to SEC review and approval, and the enforcement of such rules by the SROs against their members. Under this SEC-supervised self-regulation, the SEC will step in only if the SROs are unable to perform properly their functions. In the process, the SEC is able to conserve its own resources, since the SROs effectively serve as its instrumentalities in the surveillance of the markets.
+[33]
+ (Citations omitted)
+SROs enhance the efficiency of the financial market. Self-regulation is a combination of private interests and government oversight. By their nature, SROs are able to craft effective and efficient rules because they have an intimate and specialized knowledge of the market which enables them to respondent immediately and flexibly to the ever-changing market conditions.
+[34]
+The Securities and Exchange Commission strictly regulates the registration and performance of SROs.
+CHAPTER X
+Registration, Responsibilities and Oversight of Self-Regulatory
+ Organizations
+SECTION 39. 
+Associations of Securities Brokers, and Dealers, and Other Securities Related Organizations
+. â
+39.1. The Commission shall have the power to register as a selfÂ­-regulatory organization, or otherwise grant licenses, and to regulate, supervise, examine, suspend or otherwise discontinue, as a condition for the operation of organizations whose operations are related to or connected with the securities market such as but not limited to associations of brokers and dealers, transfer agents, custodians, fiscal and paying agents, computer services, news disseminating services, proxy solicitors, statistical agencies, securities rating agencies, and securities information processors which are engaged in the business of: (a) Collecting, processing, or preparing for distribution or publication, or assisting, participating in, or coordinating the distribution or publication of, information with respect to transactions in or quotations for any security; or (b) Distributing or publishing, whether by means of a ticker tape, a communications network, a terminal display device, or otherwise, on a current and continuing basis, information with respect to such transactions or quotations. The Commission may prescribe rules and regulations which are necessary or appropriate in the public interest or for the protection of investors to govern self-regulatory organizations and other organizations licensed or regulated pursuant to the authority granted in Subsection 39.1 including the requirement of cooperation within and among, and electronic integration of the records of, all participants in the securities market to ensure transparency and facilitate exchange of information.
+[35]
+SROs are bound to comply with the provisions of the Securities Regulations Code. The rules they create and the subsequent amendments they propose are all subject to the prior approval of the Securities and Exchange Commission. The Commission can also suspend and revoke an SROs registration if it willfully violates or is unable to comply with the rules.
+[36]
+Here, contrary to petitioners' submission, the rules do not exclusively grant an SRO status to PDEx. The Securities Regulations Code does not restrict the registration of other entities who wish to register as SROs. That PDEx was the only SRO at that time does not equate to a monopolistic market due to government regulation.
+Further, an allegation or charge of monopoly is a factual matter which must be established and proven by petitioners. At the very least, they must define and characterize what a monopolistic market is and lay down the parameters in claiming the entity's dominance in the market. There must be sufficient evidence showing how the entity behaves, how market dominance was brought about by the alleged barrier to entry, and how this prevents the entry of other entities.
+As noted in the 
+ponencia
+, petitioners failed to establish these allegations.
+[37]
+ It must be stressed that this Petition is filed directly before this Court in disregard of the concurrent jurisdiction of the trial and appellate courts. Generally, direct recourse to this Court is only warranted for resolution of questions of law. Here, petitioners merely assert that the securities trading is a monopolistic market without demonstrating how PDEx dominates the market, such as its ability to dictate market price. More importantly, they failed to prove how government regulations unreasonably restrained the entry of other companies in favor of PDEx.
+[38]
+The Securities Regulations Code does not provide specific requirements which only PDEx is able to satisfy. In fact, in 2017, the Money Market Association of the Philippines (MART) has been granted a license to operate as an SRO in an over-the-counter market.
+[39]
+ Clearly, the required membership of brokers and dealers in an SRO does not intend to create a monopoly but to regulate the securities trading market.
+Thus, Section 6 of SEC Memorandum Circular No. 14-06 and other related issuances of public respondents do not violate the constitutional proscription on unfair competition and combinations in restraint of trade.
+ACCORDINGLY
+, I vote to 
+DISMISS
+ the Petition.
+[1]
+ Ponencia, pp. 8-13.
+[2]
+ Id. at 13-14.
+[3]
+ 
+Rollo
+, pp. 60-63.
+[4]
+ Id. at 33.
+[5]
+ Id. at 36-37.
+[6]
+ Id. at 37 and 106-207.
+[7]
+ Id. at 37-39.
+[8]
+ Republic Act No. 8799 (2000), sec. 5.
+[9]
+ 755 Phil. 553 (2015) [Per J. Leonen, Second Division].
+[10]
+ Id. at 578-579. 
+[11]
+ FREDERIC MISHKIN, THE ECONOMICS OF MONEY, BANKING, AND FINANCIAL MARKETS 24 (7
+TH
+ Ed., 2004).
+[12]
+ Id.
+[13]
+ Id. at 26.
+[14]
+ Id. at 26-27.
+[15]
+ 
+Rollo
+, p. 30 citing Republic Act No. 8799 (2000), sec. 3.7
+[16]
+ FREDERIC MISHKIN, THE ECONOMICS OF MONEY, BANKING, AND FINANCIAL MARKETS 27 (7
+TH
+ Ed., 2004).
+[17]
+ Republic Act No. 245 (1948).
+[18]
+ 
+Banco De Oro v. Republic
+, 793 Phil. 97 (2016) [Per J. Leonen, En Banc].
+[19]
+ DOF Department Order No. 141-95 (1995), sec. 9.
+[20]
+ DOF Department Order No. 141-95 (1995), sec. 18.
+[21]
+ DOF Department Order No. 141-95 (1995), sec. 16.
+[22]
+ DOF Department Order No. 141-95 (1995), sec. 28. 
+[23]
+ 
+Rollo
+, p. 37.
+[24]
+ Id. at 39-40.
+[25]
+ 
+Garcia v. Corona
+, 378 Phil. 848, 860 (1999) [Per J. Ynares-Santiago, En Banc].
+[26]
+ Id.
+[27]
+ 
+Tatad v. Secretary of the Department of Energy
+, 346 Phil. 321 (1997) [Per J. Puno, En Banc].
+[28]
+ Id. at 365.
+[29]
+ N. GREGORY MANKIW, PRINCIPLES OF ECONOMICS, 288 (9
+th
+ ed., 2021).
+[30]
+ SEC Memorandum Circular No. 14-06 (2006), sec. 6.
+[31]
+ SEC Memorandum Circular No. 14-06 (2006), sec. 2(L).
+ 
+[32]
+ 
+Palanca IV v. RCBC Securities, Inc.
+, G.R. No. 241905, March 11, 2020, 
+elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/66453>
+ [Per J. A.B. Reyes, Jr., Second Division].
+[33]
+ Id.
+[34]
+ 
+Report of the SRO Consultative Committee of the International Organization of Securities Commissions, Model for Effective Regulation
+, available at 
+www.iosco.org/library/pubdocs/pdf/IOSCOPD110.pdf>
+ (Last accessed on March 24, 2022).
+[35]
+ Republic Act No. 8799 (2000), sec. 39.1.
+[36]
+ Republic Act No. 8799 (2000), sec. 40.
+[37]
+ Ponencia, p. 13.
+[38]
+ 
+Rollo
+, pp. 37, 109-110.
+[39]
+ 
+Draft Resolution
+, p. 14.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

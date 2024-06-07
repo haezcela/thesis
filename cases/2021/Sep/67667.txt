@@ -1,0 +1,940 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 251157, September 29, 2021 ]
+
+
+DANILO A. DAVID, PETITIONER, VS. BANK OF THE PHILIPPINE ISLANDS, RESPONDENT.
+D E C I S I O N
+
+
+
+
+LAZARO-JAVIER, J.:
+
+
+The Case
+This petition for review on 
+certiorari
+[1]
+ seeks to reverse and set aside the following dispositions of the Court of Appeals in CA-G.R. SP No. 144469 entitled 
+Spouses Danilo A. David and Jane Doe v. Bank of the Philippine Islands
+:
+1. Decision
+[2]
+ dated November 29, 2018, fixing the base amount of petitioner's credit card obligation at P278,649.87 per Statement of Account dated January 14, 2007 and holding that he still has an unpaid obligation of P63,074.89; and
+2. Resolution
+[3]
+ dated January 2, 2020, denying petitioner's motion for reconsideration.
+Antecedents
+Respondent Bank of the Philippine Islands (BPI) issued petitioner Danilo A. David a pre-approved credit card under Customer No. 0201005001208180. Per its terms and conditions, the cardholder agrees to pay all charges incurred within twenty (20) calendar days from the assigned cut-off date without need for demand. Any unpaid amount thereafter is subject to monthly 3.25% interest and 6% late payment charge (penalty charge).
+[4]
+ Petitioner availed of the credit accommodation and made his payments on time. But by 2007, he started delaying in his payments. Per Statement of Account dated August 12, 2008, he had a total credit card charge of P404,733.03. Demands for payment went unheeded. Thus, on February 26, 2009, the bank sued petitioner and his wife for sum of money.
+[5]
+The case was docketed Civil Case No. 97505 and raffled to Metropolitan Trial Court (MeTC), Branch 67, Makati City presided by Judge Jackie Crisologo Saguisag.
+In his answer, petitioner admitted using the credit card but denied that he had agreed to the terms and conditions, specifically the payment of interest and penalty charges. He claimed that his outstanding balance was only P30,000.00.
+[6]
+During the hearing, the bank's Account Specialist Michael Alvin Gianan (Gianan) testified that per the bank's internal record, the reference amount of P223,000.00 should be used in computing petitioner's obligation. Starting from this amount onward, he no longer paid his obligation on time.
+The aforesaid internal record, however, reflected a slightly higher amount of P223,
+749.48
+. Petitioner himself had this internal record marked as "Exhibit 1."
+[7]
+ Neither party, however, formally offered this document.
+For his part, petitioner submitted in evidence the various Statements of Account (Exhibits "1" to "11") sent him by the bank. Prior to the January 14, 2007 Statement of Account the parties agreed that petitioner paid on time. At any rate, the January 14, 2007 Statement of Account contained a balance of P278,649.87,
+[8]
+ a sum more than what was reflected in the bank's internal record.
+Ruling of the MeTC
+By Decision
+[9]
+ dated October 7, 2014, the MeTC ruled that petitioner's unpaid obligation is Pl94,682.99 including interests and charges. It used as starting reference the amount of P278,649.87. It nonetheless reduced the interest and penalty charges to 1% per month or 12% legal interest per annum until June 30, 2013, and 6% 
+per annum
+ thereafter.
+Through Resolution
+[10]
+ dated May 25, 2015, it partially granted petitioner's motion for reconsideration and reduced his obligation to P97,428.51. 
+First
+, it held that the starting reference should be P223,749.48, the amount reflected in the bank's "
+internal record
+;" and 
+second
+, it deleted the penalty charges for lack of proof that petitioner applied for the credit card and agreed to its terms and conditions including penalty charges. It, however, retained petitioner's liability of 12% interest 
+per annum
+.
+Ruling of the Regional Trial Court (RTC)
+On petitioner's appeal, RTC-Branch 145, Makati City affirmed under Judgment
+[11]
+ dated December 7, 2015. It held that the MeTC correctly considered the amount reflected in the bank's internal record as the reckoning point of petitioner's obligation. According to the RTC, while the rules state that no evidence shall be considered unless formally offered, the same admits of an exception, 
+i.e.
+, when the evidence had been properly identified through testimony duly recorded and the same had been incorporated in the case records, as what happened in this case. It pointed out that the bank's own witness presented the aforesaid internal record and testified that the amount borne therein represented the starting point of petitioner's indebtedness. Since the document was attached to the original case records, the same may be considered in evidence, albeit it was not formally offered.
+In his motion for reconsideration, petitioner asserted that the amount of P223,
+000.00
+ per testimony of Account Specialist Gianan should prevail over the amount of P223,
+749.48
+ appearing on the bank's internal record. In any case, he already made a total payment of P211,100.00. Thus, his remaining balance should only be P11,900.00.
+Under Resolution
+[12]
+ dated February 11, 2016, the RTC denied petitioner's motion for reconsideration.
+[13]
+Ruling of the Court of Appeals
+Undaunted, petitioner further appealed to the Court of Appeals. His first assigned error hinged on the slight discrepancy between the amount of P223,
+749.48
+ as borne in the internal record and the amount of P223,
+000.00
+ per testimony of the bank representative. According to petitioner, the lesser amount should prevail and serve as the reference point. His second assigned error hinged on the computation of his indebtedness which he claimed should only be P11,900.00.
+Under its assailed Decision
+[14]
+ dated November 29, 2018, the Court of Appeals modified. It did not focus on the two (2) reference amounts in issue, instead, it brought to fore as reference point the amount of P278,649.87 reflected in the Statement of Account dated January 14, 2007. Thus, it computed anew petitioner's obligation and came out with the final amount of P63,074.89 as of August 12, 2008.
+[15]
+The Court of Appeals rejected the testimony of Account Specialist Gianan as well as the bank's internal record bearing the amount of P223,000.00 or 223,749.48 on the ground that this document was not formally offered in evidence.
+By its assailed Resolution
+[16]
+ dated January 2, 2020, the Court of Appeals denied petitioner's motion for reconsideration.
+[17]
+The Present Petition
+Petitioner now seeks affirmative relief and prays that the dispositions of the Court of Appeals be reversed and set aside. He maintains that the internal record is admissible in evidence and should have been used to establish the reckoning amount of his obligation, notwithstanding that it was not formally offered in evidence. Too, the testimony of Account Specialist Gianan is a compelling evidence of this amount. He insists though that since he already paid a total of P211,100.00, his remaining outstanding balance should only be P11,900.00. Finally, he should not be made to pay attorney's fees.
+The bank, on the other hand, argues that petitioner failed to establish that his remaining balance is P11,900.00 only.
+Issues
+1. Which of the following amounts, 
+i.e.
+, P223,000.00, P223,749.48, and P278,649.87, should be the reckoning point of petitioner's obligation?
+2. How much is the unpaid obligation of petitioner?
+Our Ruling
+For perspective, starting with his obligation under the Statement of Account dated January 14, 2007, petitioner had delayed in his payments and settled his obligation only partially each time. This resulted in the imposition of interest and finance charges. And since he also made additional purchases (some of which were payable in installment) his unpaid obligations accumulated and ultimately resulted in the filing of the present collection case against him.
+During the hearing, two (2) pieces of documents came to fore: 
+first
+, the Statement of Account dated January 14, 2007 bearing the balance of P278,649.87; and 
+second
+, the internal record of the bank, bearing the balance of P223,749.48 only. The Statement of Account dated January 14, 2007 was offered in evidence by petitioner, while the internal record was introduced into the record per testimony of the bank's Account Specialist Â­ Gianan. In the course of petitioner's cross-examination of this witness, petitioner had the internal record marked as Exhibit "1," the same marking he used for the Statement of Account dated January 14, 2007.
+In the end, however, neither petitioner nor the bank formally offered the internal record in evidence.
+As it was, both the MeTC and RTC applied the amount of P223,749.48 borne in the internal record as reference point. But the Court of Appeals differed and applied instead the amount of P278,649.87 borne in the Statement of Account dated January 14, 2007.
+As stated, we have on record the testimony of Account Specialist Gianan that per the bank's internal record, the reckoning amount is P223,
+000.00
+, albeit, the internal record actually bears the amount of P223,
+749.48
+. As between these two (2) amounts, the one indicated in the document should prevail. Obviously, the witness may have simply rounded off the figure when he omitted to mention the fraction of P749.48. Besides, between a document and a testimony, the document is the best evidence.
+True, the document was not formally offered in evidence but 
+Sabay v. People
+[18]
+ teaches that the trial court may consider evidence not formally offered provided these twin requisites are present: (1) the evidence must have been duly identified by testimony duly recorded; and (2) the same must have been incorporated in the records of the case. These requisites are both present here. In any event, the existence of the document and its contents were part of the testimony of Account Specialist Gianan, hence, their evidentiary value was correctly considered by the MeTC and RTC.
+We now address the pronouncement of the Court of Appeals that the correct reckoning amount is P278,649.87 per Statement of Account dated January 14, 2007, rather than the amount of P223,749.48 per the bank's internal record.
+We cannot agree.
+First.
+ The issuer of the Statement of Account, the bank itself, was deemed to have corrected the amount indicated therein: (a) when Account Specialist Gianan testified that per the bank's internal record, the reference amount is only P223,749.48; and (b) when the bank itself did not appeal the rulings of the MeTC and RTC adopting this reference amount.
+[19]
+Second.
+ The bank representative affirmed the existence and veracity of its internal record. This means that the bank itself was saying that the amount borne therein is the correct and accurate one and not what is reflected in its Statement of Account dated January 14, 2007. As issuer of these twin documents and as creditor of petitioner, the bank is the most competent, if not the only competent witness to determine which of the two (2) documents it issued is the correct and accurate one.
+Third.
+ The testimony of Account Specialist Gianan that as between the amount of P278,649.87 and P223,749.48, the latter amount (which is lower) is the correct and accurate one, is a declaration against interest which assumes the highest probative weight.
+[20]
+Notably, even though petitioner went up on appeal to the RTC, and later to the Court of Appeals, he was simply fighting for the difference between P223,
+749.48
+ and P223,
+000.00
+. He asked that the latter be made to prevail as reference point of his indebtedness, the final amount of which he claims should only be P11,900.00.
+Clearly, the amount reflected in the Statement of Account is not relevant at all. It had never been an issue between the parties since way back when the MeTC proceedings got commenced up to the RTC and then the Court of Appeals. Verily, the approach adopted by the Court of Appeals in resolving the case was flawed.
+[21]
+What is on track, accurate, and correct are the concurrent findings of the MeTC and RTC that the reference point is P223,
+749.48
+ per the internal record of the bank.
+In any event, we reproduce here how the Court of Appeals computed petitioner's obligations using P278,649.87 as reference point, 
+viz
+.:
+[22]
+Statement Date 
+Beginning Balance 
+(Plus)
+ Purchases 
+(Less)
+ Payments 
+(Less)
+ Charges 
+(Plus) 
+1% Interest 
+Total Amount Due for the Month
+01/14/07 
+P278,649.87 
+P4,665.00
+ 
+- 
+P12,018.32 
+P2,712.97
+P274,009.52
+02/12/07
+ 
+P274,009.52 
+P4,665.00 
+P72,100.00 
+P8,879.96
+ 
+P1,976.95 
+P199,671.51
+03/12/07 
+P199,671.51 
+P8,549.24 
+-
+ 
+P8,766.09 
+P1,994.55 
+P201,449.21
+04/12/07
+ 
+P201,449.21 
+P4,665.00 
+P34,000.00 
+P7,733.34 
+P1,643.81 
+P166,024.68
+05/14/07 
+P166,024.68 
+P4,665.00
+ 
+P30,000.00 
+P6,998.21 
+P1,336.91 
+P135,028.38
+06/12/07 
+P135,028.38 
+ 
+- 
+ 
+- 
+P7,915.68 
+P1,271.13 
+P128,383.83
+07/12/07 
+P128,383.83
+ 
+-
+P20,000.00
+ 
+P7,234.88 
+P1,011.49 
+P102,160.44
+08/12/07
+ 
+P102,160.44 
+ 
+- 
+ 
+- 
+P7,984.12
+P941.76 
+P95,118.08
+09/12/07
+ 
+P95,118.08
+ 
+-
+P30,000.00 
+P7,181.97 
+P579.36
+ 
+P58,515.47
+10/14/07
+ 
+P58,515.47 
+P20,792.58
+ 
+- 
+P7,070.96
+P722.37
+P72,959.46
+11/12/07
+ 
+P72,959.46 
+P16,383.26 
+P25,000.00 
+P7,241.76
+P571.01 
+P57,671.97
+12/12/07
+P57,671.97
+ 
+- 
+ 
+- 
+ 
+- 
+P576.72 
+P58,248.69
+01/12/08 
+P58,248.69
+- 
+- 
+- 
+P582.49
+P58,831.18
+02/12/08 
+P58,831.18
+- 
+- 
+- 
+P588.31
+ 
+P59,419.49
+03/12/08
+ 
+P59,419.49
+ 
+- 
+ 
+- 
+ 
+- 
+P594.19 
+P60,013.59
+04/12/08 
+P60,013.59
+- 
+- 
+- 
+P600.14 
+P60,613.73
+05/12/08 
+P60,613.73
+- 
+- 
+- 
+P606.14
+ 
+P61,219.87
+06/14/08 
+P61,219.87
+ 
+- 
+ 
+- 
+ 
+- 
+P612.20 
+P61,832.07
+07/12/08 
+P61,832.07
+ 
+- 
+-
+ 
+- 
+P618.32 
+P62,450.39
+08/12/08 
+P62,450.39 
+- 
+-
+ 
+- 
+P624.50
+ 
+P63,074.89
+To be sure, since the computation of the Court of Appeals started with the erroneous amount of P278,649.87, the end result is also incorrect.
+Can we use instead the following uniform computation by the MeTC and RTC?
+[23]
+Statement
+Date 
+Previous
+Balance
+Purchases
+(Payments)
+ 
+Balance 
+Interest
+(1%) 
+Total Amount Due for the Month
+Php223,749.48 
+4,665.00 
+228,414.48
+ 
+2,284.14 
+230,698.62
+2/12/2007
+ 
+228,414.48
+ 
+4,665.00
+(72,100.00)
+ 
+160,979.48 
+1,609.79
+162,589.27
+3/12/2007
+ 
+160,979.48 
+8,549.24 
+169,528.72
+1,695.28
+ 
+171,224.00
+4/12/2007 
+169,528.72
+ 
+4,665.00
+(34,000.00)
+ 
+140,193.72
+ 
+1,401.93
+141,595.65 
+5/14/2007 
+140,193.72 
+4,665.00
+(30,000.00) 
+114,858.72 
+1,148.58 
+116,007.30 
+6/12/2007 
+114,858.72 
+-
+114,858.72
+ 
+1,148.58 
+116,007.30
+7/12/2007 
+114,858.72
+-
+(20,000.00)
+ 
+94,858.72 
+948.58 
+93,910.14 
+8/12/2007 
+94,858.72
+ 
+- 
+94,858.72
+948.58 
+93,910.14
+9/12/2007 
+94,858.72 
+-
+(30,000.00)
+64,858.72 
+648.58 
+65,507.30
+10/12/2007 
+64,858.72 
+20,792.58
+85,651.30 
+856.51 
+86,507.81
+11/12/2007
+ 
+85,651.30
+ 
+16,383.26
+(25,000.00) 
+77,034.56 
+770.34
+77,804.90 
+12/12/2007 
+77,034.56
+ 
+- 
+77,034.56
+ 
+770.34 
+77,804.90
+1/12/2008 
+77,034.56 
+- 
+77,034.56
+770.34
+77,804.90
+2/12/2008 
+77,034.56
+ 
+- 
+77,034.56
+770.34
+ 
+77,804.90
+3/12/2008
+ 
+77,034.56
+ 
+- 
+77,034.56
+770.34
+77,804.90
+4/12/2008 
+77,034.56
+ 
+- 
+77,034.56 
+770.34
+77,804.90
+5/12/2008
+ 
+77,034.56
+ 
+-
+77,034.56
+770.34
+ 
+77,804.90
+6/14/2008
+ 
+77,034.56 
+- 
+77,034.56
+770.34 
+77,804.90
+7/12/2008 
+77,034.56
+ 
+- 
+77,034.56 
+770.34 
+77,804.90
+8/12/2008
+ 
+77,034.56 
+- 
+77,034.56
+770.34
+77,804.90
+TOTAL 
+77,034.56
+ 20,393.95
+97,428.51
+The answer is NO.
+Under Article 1253 of the New Civil Code, "
+if the debt produces interest, payment of the principal shall not be deemed to have been made until the interests have been covered
+."
+[24]
+ But this is not what the trial courts did. For they applied all the payments exclusively to the principal amount, unmindful of the interests. As a result, the interest simply started from January 2007 onward.
+[25]
+ Consequently, since the application of payments by the MeTC, RTC, and Court of Appeals, was erroneous, the end result was also erroneous.
+We now turn to petitioner's own computation. He posits that since he already paid a total amount of P211,100.00 out of his starting obligation of P223,000.00, then his total unpaid obligation is only P11,900.00. This computation is likewise wrong. First, he erroneously used as reference point P223,000.00 instead of P223,749.48; second, he totally omitted to include interests.
+So what is the correct computation? The following table shows it, 
+viz
+.:
+[26]
+Statement Date
+Principal 
+Accrued Interest 
+Purchases 
+Payments 
+Payment applied to Interest
+Remaining Interest 
+Payment Applied to Principal
+New Principal
+Monetary Interest 
+01/14/07
+223,749.48 
+0.00 
+4,665.00 
+- 
+-
+- 
+- 
+228,414.48
+2,284.14
+02/12/07
+228,414.48
+2,284.14 
+4,665.00
+72,100.00 
+2,284.14
+-
+69,815.86 
+163,263.62 
+1,632.64 
+03/12/07
+163,263.62 
+1,632.64
+8,549.24
+-
+- 
+1,632.64
+- 
+171,812.86
+1,718.13
+04/12/07
+171,812.86
+3,350.77
+4,665.00
+34,000.00 
+3,350.77
+- 
+30,649.23
+145,828.63
+1,458.29
+05/14/07 
+145,828.63
+1,458.29
+4,665.00
+30,000.00
+1,458.29
+-
+28,541.71 
+121,951.92 
+1,219.52
+06/12/07
+121,951.92 
+1,219.52
+-
+-
+- 
+1,219.52
+-
+121,951.92
+1,219.52
+07/12/07
+121,951.92 
+2,439.04
+- 
+20,000.00
+2,439.04
+-
+17,560.96
+104,390.96
+1,043.91
+08/12/07
+104,390.96
+1,043.91
+- 
+- 
+- 
+1,043.91
+-
+104,390.96
+1,043.91
+09/12/07
+104,390.96 
+2,087.82
+-
+30,000.00 
+2,087.82
+- 
+27,912.18
+76,478.78
+764.79
+10/14/07
+76,478.78
+764.79 
+20,792.58
+-
+- 
+764.79 
+- 
+97,271.36
+972.71
+11/12/07
+97,271.36
+1,737.50
+16,383.26 
+25,000.00
+1,737.50
+-
+23,262.50
+90,392.12
+903.92
+12/12/07
+90,392.12
+903.92
+-
+- 
+ 
+- 
+903.92
+-
+90,392.12
+903.92
+01/12/08
+90,392.12 
+1,807.84
+- 
+ 
+-
+-
+1,807.84
+- 
+90,392.12
+903.92
+02/12/08 
+90,392.12
+2,711.76
+- 
+-
+- 
+2,711.76 
+- 
+90,392.12
+903.92
+03/12/08
+90,392.12
+3,615.68
+-
+-
+ 
+- 
+3,615.68
+- 
+90,392.12
+903.92
+04/12/08
+90,392.12
+4,519.60
+- 
+ 
+-
+-
+4,519.60
+- 
+90,392.12
+903.92 
+05/12/08
+90,392.12
+5,423.52
+-
+-
+ 
+- 
+5,423.52 
+- 
+90,392.12
+903.92
+06/14/08
+90,392.12
+6,327.44
+- 
+ 
+- 
+-
+6,327.44
+- 
+90,392.12
+903.92
+07/12/08
+90,392.12
+7,231.36
+- 
+-
+- 
+7,231.36
+-
+90,392.12
+903.92 
+08/12/08
+90,392.12
+8,135.28
+- 
+- 
+- 
+8,135.28
+- 
+90,392.12
+- 
+TOTAL 
+8,135.28
++
+90,392.12 
+98,527.40
+ 
+The last row shows the unpaid obligation of petitioner as of August 12, 2008, 
+i.e.
+, P90,392.12, representing the principal amount, and P8,135.28, representing the total accrued interests as of August 2008. The total is P98,527.40, thus: 
+Principal Amount
+ 
+: 
+P90,392.12
+Accrued Interest
+ 
+: 
+P 8,135.28
+TOTAL
+ 
+: 
+P 98,527.40
+The transactions here occurred between 2007 and 2008, hence, the twelve percent (12%) interest 
+per annum
+ under 
+Eastern Shipping Lines, Inc. v. Court of Appeals
+[27]
+ applies from the time petitioner failed to fully pay his obligation until August 2008. The unpaid obligation of P98,527.40, continued to earn one percent (1%) interest per month or twelve percent (12%) interest 
+per annum
+ from September 2008 until June 30, 2013 pursuant to 
+Eastern Shipping Lines
+, and six percent (6%) interest 
+per annum
+ from July 1, 2013 until finality of this Decision in accordance with 
+Nacar v. Gallery Frames
+.
+[28]
+ Thereafter, the total amount due shall earn six percent (6%) interest 
+per annum
+ from finality of this Decision until full payment similarly in accordance with 
+Nacar
+ and Article 2212 of the New Civil Code.
+[29]
+Lastly, in accordance with Article 2208 of the Civil Code,
+[30]
+ the MeTC, RTC, and the Court of Appeals all correctly awarded the bank with ten percent (10%) of the total monetary award as attorney's fees because it was compelled to engage the services of a lawyer to protect its interest.
+[31]
+WHEREFORE
+, the Decision dated November 29, 2018 and Resolution dated January 2, 2020 of the Court of Appeals in CA-G.R. SP No. 144469 are 
+AFFIRMED with MODIFICATION
+. Petitioner Danilo A. David is ordered to 
+PAY
+ respondent Bank of the Philippine Islands the following amounts:
+1. 
+Ninety-Eight Thousand Five Hundred Twenty-Seven Pesos and 40/100 (P98,527.40)
+ representing the principal obligation plus twelve percent (12%) interest 
+per annum
+ from September 2008 until June 30, 2013, and six percent (6%) interest 
+per annum
+ from July 1, 2013 until finality of this Decision. The total amount due shall in turn earn six percent (6%) interest 
+per annum
+ from finality of this Decision until fully paid; and
+2. Ten percent (10%) of the total monetary award as 
+attorney's fees
+.
+SO ORDERED.
+Gesmundo, C. J., (Chairperson), Caguioa, M. Lopez
+, and 
+J. Lopez, JJ.
+, concur.
+[1]
+ 
+Rollo
+, pp. 14-48.
+[2]
+ Penned by Associate Justice Japar B. Dimaampao (now a member of the Court) and concurred in by Associate Justice Manuel M. Barrios and Associate Justice Henri Jean Paul B. Inting (now a member of the Court), 
+id.
+ at 51-65.
+[3]
+ Penned by Associate Justice Japar B. Dimaampao (now a member of the Court) and concurred in by Associate Justice Manuel M. Barrios and Associate Justice Samuel H. Gaerlan (now a member of the Court), 
+id.
+ at 75-76.
+[4]
+ 
+Id.
+ at 132.
+[5]
+ 
+Id.
+ at 133.
+[6]
+ 
+Id.
+ at 105.
+[7]
+ 
+Id.
+[8]
+ 
+Id.
+ at 134.
+ 
+[9]
+ Penned by Presiding Judge Jackie Crisologo-Saguisag, 
+id.
+ at 132-136.
+[10]
+ 
+Id.
+ at 137-139.
+[11]
+ Penned by Presiding Judge Carlito B. Calpatura, 
+id.
+ at 104-116.
+[12]
+ 
+Id.
+ at 117-118.
+[13]
+ 
+Id.
+ at 119-128.
+[14]
+ 
+Id.
+ at 51-65.
+[15]
+ 
+Id.
+ at 59 and 62-63.
+[16]
+ 
+Id.
+ at 75-76.
+[17]
+ 
+Id.
+ at 66-72.
+ 
+[18]
+ See 744 Phil. 760, 771 (2014).
+[19]
+ 
+Rollo
+, p. 53.
+[20]
+ A declaration against interest is the best evidence which affords the greatest certainty of the facts in dispute. 
+Parel v. Prudencio
+, 521 Phil. 533, 543 (2006).
+[21]
+ In accordance with Section 8, Rule 51 of the Revised Rules of Court, only matters assigned as errors in the appeal may be resolved, thus:
+Section 8. 
+Questions that may be decided
+. No error which does not affect the jurisdiction over the subject matter or the validity of the judgment appealed from or the proceedings therein will be considered, unless stated in the assignment of errors, or closely related to or dependent on an assigned error and properly argued in the brief, save as the court may pass upon plain errors and clerical errors. Also see 
+Heirs of Loyola v. Court of Appeals
+, 803 Phil. 143 (2017).
+[22]
+ 
+Rollo
+, p. 63.
+ 
+[23]
+ 
+Rollo
+, pp. 138-139.
+[24]
+ See 
+Sps. Abella v. Sps. Abella
+, 763 Phil. 372, 392 (2015).
+[25]
+ See 
+Chi v. BPI
+, G.R. No. 240496, May 12, 2021.
+[26]
+ For purchases and payments, see matrix, 
+rollo
+, pp. 63 and 138-139.
+[27]
+ 304 Phil. 236 (1994).
+[28]
+ 716 Phil. 267 (2013).
+[29]
+ Interest due shall earn legal interest from the time it is judicially demanded, although the obligation may be silent upon this point.
+[30]
+ Art. 2208. In the absence of stipulation, attorney's fees and expenses of litigation, other than judicial costs, cannot be recovered, except: (1) When exemplary damages are awarded; (2) When the defendant's act or omission has compelled the plaintiff to litigate with third persons or to incur expenses to protect his interest; (3) In criminal cases of malicious prosecution against the plaintiff; (4) In case of a clearly unfounded civil action or proceeding against the plaintiff; (5) Where the defendant acted in gross and evident bad faith in refusing to satisfy the plaintiffs plainly valid, just and demandable claim; (6) In actions for legal support; (7) In actions for the recovery of wages of household helpers, laborers and skilled workers; (8) In actions for indemnity under workmen's compensation and employer's liability laws; (9) In a separate civil action to recover civil liability arising from a crime; (10) When at least double judicial costs are awarded; (11) In any other case where the court deems it just and equitable that attorney's fees and expenses of litigation should be recovered.
+[31]
+ 
+Rollo
+, pp. 63 and 135; See 
+Spouses Louh v. Bank of the Philippine Islands
+, (Resolution) 807 Phil. 142 (2017).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

@@ -1,0 +1,837 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			890 Phil. 192
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 225266, November 16, 2020 ]
+
+
+COMMISSIONER OF INTERNAL REVENUE, 
+PETITIONER
+, VS. EAST ASIA UTILITIES CORPORATION, 
+RESPONDENT
+.
+D E C I S I O N
+
+
+
+
+LOPEZ, J.:
+
+
+Before this Court is a Petition for Review on 
+Certiorari
+[1]
+ filed under Rule 45 of the Rules of Court assailing the Decision
+[2]
+ dated February 3, 2016 and Resolution
+[3]
+ dated May 24, 2016 of the Court of Tax Appeals (CTA) 
+En Banc
+ in CTA EB No. 1207, which affirmed the Divisionâs Decision
+[4]
+ dated May 21, 2014 and Resolution
+[5]
+ dated August 6, 2014 in CTA Case No. 8179, finding East Asia Utilities Corporation (East Asia Utilities) liable for deficiency income tax in the reduced amount of P612,406.94.
+ANTECEDENTS
+East Asia Utilities is a domestic corporation registered with the Philippine Economic Zone Authority (PEZA) as an ECOZONE Utilities Enterprise at the Mactan Economic Zone and West Cebu Industrial Park-Special Economic Zone.
+[6]
+ Under PEZA Certificate of Board Resolution dated January 28, 2000, East Asia Utilities is entitled to the incentives under Sections 24 and 42 of Republic Act (RA) No. 7916, as amended, such as payment of the special five percent (5%) tax on gross income in 
+lieu
+ of national and local taxes.
+On July 17, 2009, East Asia Utilities received a Preliminary Assessment Notice (PAN) from the Commissioner of Internal Revenue
+[7]
+ (CIR) assessing it for deficiency tax in the amount of P5,892,780.71, consisting of (a) income tax in the amount of P5,884,985.91 and (b) expanded withholding tax (EWT) in the amount of P7,794.80 for the calendar year ending December 2006, plus interest to be computed upon payment. East Asia Utilities filed a reply to the PAN on August 3, 2009.
+On September 29, 2009, East Asia Utilities received a Formal Letter of Demand together with Audit Result/Assessment Notice dated August 25, 2009, requesting East Asia Utilities to pay the aggregate amount of P6,095,971.08, representing deficiency income tax of P6,087,916.46 and deficiency EWT of P8,054.62. East Asia Utilities paid the deficiency EWT on October 10, 2009. On October 29, 2009, East Asia Utilities filed its protest disputing the deficiency income tax assessment.
+On September 17, 2010, East Asia Utilities received the Final Decision on Disputed Assessment assessing it for deficiency income tax in the reduced amount of P2,791,894.70, inclusive of increments. The deficiency arose from the CIRâs disallowance of East Asia Utilitiesâ claimed costs and expenses in the amount of P34,467,835.76 broken down as follows:
+[8]
+PARTICULARS
+AMOUNT
+SSS-employer cost
+P 305,882.12
+Pag-[IBIG] employer cost
+24,950.78
+Medical/health insurance
+465,621.03
+Accident/Life insurance
+70,410.55
+Uniform/working gears
+319,257.02
+Employee Activities
+20,486.59
+Training and Development-non-technical
+31,495.87
+Training and Development-technical
+125,838.74
+Insurance and Freight 
+1,707,489.68
+Hauling and Trucking Services
+23,952.75
+Brokerage Fees 
+261,829.61
+Other inventory incidental cost
+536,977.10
+Safety programs and services
+ 
+1,695,767.23
+Other professional fees 
+182,939.12
+DOE Electrification Fund
+7,338,411.98
+Insurance-power plant
+19,473,119.22
+Insurance-other assets
+152,531.85
+General Office-expense
+1,057,080.11
+Business expense
+636,604.54
+Taxes and licenses
+36,189.87
+TOTAL
+P34,467,835.76
+[9]
+On October 15, 2010, East Asia Utilities filed a Petition for Review before the CTA Division, praying that the assessment be cancelled.
+Ruling of the CTA
+After trial, the CTA Division rendered its Decision
+[10]
+ finding East Asia Utilities liable for deficiency income tax in the reduced amount of P612,406.94.
+[11]
+ The CTA Division held that the amendment of Revenue Regulations (RR) No. 2-2005
+[12]
+ by RR No. 11-2005
+[13]
+ rendered the enumeration of allowable deductions from gross income of a PEZA-registered enterprise, such as East Asia Utilities, no longer exclusive. The criteria for determining the deductibility of an expense for computing the 5% Gross Income Tax (GIT) is the direct relation of the item in the rendition of PEZA-registered services. The CTA Division found that only P9,798,510.88
+[14]
+ out of the P34,467,835.76 amount disallowed by the CIR are recurring costs associated with the central operations of the corporation and, therefore, cannot be deducted from East Asia Utilitiesâ gross income to compute the 5% GIT. The CTA allowed the following expenses as deduction from gross income which were directly related to East Asia Utilitiesâ power generation services:
+[15]
+PARTICULARS
+AMOUNT
+SSS-Employer Cost
+P 306,882.12
+Pag-IBIG-Employer Cost
+24,950.78
+Medical/Health Insurance
+465,621.03
+Accident/Life Insurance
+50,584.80
+Uniform/Working Gears
+228,935.31
+Training and Development-technical
+97,017.53
+Hauling and Trucking Services
+23,952.75
+Insurance and Freight
+1,384,986.64
+Brokerage Fees
+252,815.95
+Other Inventory Incidental Cost
+361,157.55
+Safety Programs and Services
+1,695,767.23
+Other Professional Fees
+151,002.12
+Insurance-Power Plant
+19,473,119.22
+Insurance-Other Assets
+152,531.85
+TOTAL
+P 24,669,324.88
+The dispositive portion of the Decision
+[16]
+ dated May 21, 2014 reads:
+WHEREFORE
+, the instant Petition for Review is hereby 
+PARTIALLY GRANTED
+. Accordingly, the assessment for deficiency income tax is 
+UPHELD
+ with modifications. [East Asia Utilities] is hereby 
+ORDERED TO PAY
+ [the CIR] for deficiency 5% GIT for the year 2006 in the amount of P612,406.94, inclusive of the twenty-five percent (25%) surcharge imposed under Section 248(A)(3) of the NIRC of 1997, as amended, x x x.
+x x x x
+SO ORDERED.
+[17]
+ (Emphases in the original.)
+East Asia Utilities and the CIR separately filed motions for reconsideration but were denied by the CTA Division on August 6, 2014, for lack of merit.
+[18]
+ The CTA Division held that the word âincludedâ as used in RR No. 11-2005 necessarily conveys the idea of non-exclusivity of the enumeration of allowable deductions and that the principle of 
+expressio unius est exclusio alterius
+ does not apply. The CTA reiterated that East Asia Utilities cannot deduct the amount of P9,798,510.88 which represents operating expenses not directly associated with the rendition of its registered activity.
+Undaunted, the CIR, through the Litigation Division of the Bureau of Internal Revenue (BIR), interposed an appeal to the CTA 
+En Banc
+ in its Petition for Review dated September 4, 2014.
+[19]
+ East Asia Utilities filed its Comment
+[20]
+ on October 23, 2014.
+On September 25 and 26, 2014, East Asia Utilities paid P741,257.35
+[21]
+ to the Treasurerâs Office of the City of Lapu-Lapu and P1,111,886.03
+[22]
+ to the BIR, or a total amount of P1,853,143.38, representing its deficiency income tax for the taxable year 2006 plus surcharge and interest as of September 26, 2014.
+On February 3, 2016, the CTA 
+En Banc
+ affirmed the CTA Divisionâs findings and conclusion, and disposed:
+[23]
+ 
+WHEREFORE
+, the Petition for Review filed by the Commissioner of Internal Revenue on September 8, 2014, is hereby 
+DENIED
+ for lack of merit. Accordingly, the assailed Decision and Resolution promulgated on May 21, 2014 and August 6, 2014, respectively, are 
+AFFIRMED
+.
+SO ORDERED.
+[24]
+ (Emphases in the original.)
+Aggrieved, on February 26, 2016, the CIR, represented by the 
+BIRâs Litigation Division
+, sought reconsideration
+[25]
+ of the Decision dated February 3, 2016. East Asia Utilities opposed.
+[26]
+Meanwhile, the 
+Office of the Solicitor General
+ (OSG) filed a Motion for Extension of Time to File Petition for Review on 
+Certiorari
+[27]
+ dated February 24, 2016 (motion for time) on the CIRâs behalf before this Court in connection with the Decision dated February 3, 2016 of the CTA 
+En Banc
+ in CTA EB No. 1207. The motion for time was docketed as 
+G.R. No. 222824
+.
+[28]
+ The Court granted the motion in its Resolution dated March 7, 2016.
+[29]
+Thereafter, the OSG filed a Manifestation and Motion
+[30]
+ dated March 21, 2016, stating that it learned that a motion for reconsideration was filed with the CTA 
+En Banc
+; hence, the OSG deemed it prudent to withdraw the motion for time that it previously filed. East Asia Utilities did not object to the OSGâs withdrawal of the motion for time. Still, it submitted that the Decision dated February 3, 2016 of the CTA 
+En Banc
+ had attained finality for the CIRâs failure to perfect his appeal within the allowable period.
+[31]
+ 
+In its Resolution dated June 27, 2016, the Court noted the OSG and East Asia Utilitiesâ manifestations and declared 
+G.R. No. 222824
+ closed and terminated, 
+viz.
+:
+[32]
+â
+G.R. No. 222824
+ (
+Commissioner of Internal Revenue vs. East Asia Utilities Corporation
+). â The Court resolves to:
+1. 
+NOTE
+ the Office of the Solicitor Generalâs manifestation and motion dated 21 March 2016, praying for the withdrawal of the motion for extension to file petition for review on certiorari on the ground that petitioner has opted to adhere to the established policy of avoiding inordinate demands upon the Honorable Courtâs time and attention by filing a motion for reconsideration before the Court of Tax Appeals;
+2. 
+NOTE
+ the manifestation dated 13 April 2016 filed by counsel for respondent, relative to the withdrawal of the motion for extension of time to file petitions and the filing of motion for reconsideration before the Court of Tax Appeals, submitting that the subject decision has now attained the status of a final and unappealable decision based on the ground stated therein; and
+3. 
+DECLARE
+ this case 
+CLOSED
+ and 
+TERMINATED
+.â x x x.
+[33]
+Meantime, the CTA 
+En Banc
+ issued a Resolution
+[34]
+ on May 24, 2016, denying the CIRâs motion for reconsideration of the Decision dated February 3, 2016 for lack of merit.
+Thus, on June 22, 2016, the CIR, through the 
+Litigation Division of the BIR
+, posted a motion for extension of time to file a petition
+[35]
+ before this Court and docketed as 
+G.R. No. 225266
+. East Asia Utilities opposed, stating that the motion for extension should be denied for the following reasons: (a) the Litigation Division of the BIR is not authorized to file the motion; and (b) the CIR committed willful and deliberate forum-shopping for pursuing multiple remedies relative to CTA EB No. 1207.
+[36]
+ The Court granted the CIRâs motion for extension and noted East Asia Utilitiesâ opposition in its Resolution dated November 9, 2016.
+[37]
+On July 22, 2016, the CIR filed its Petition for Review on 
+Certiorari
+[38]
+ 
+via
+ registered mail and received by this Court on August 10, 2016.
+The CIR insists that the enumeration of direct costs and expenses under RR No. 11-2005 is exclusive. 
+Expressio unius est exclusio alterius.
+ Even assuming that the list is not all-inclusive, the CTA erroneously allowed P24,669,324.88 as deductible costs because these expenses are not directly related to East Asia Utilitiesâ power generation services.
+In its Comment,
+[39]
+ East Asia Utilities maintains that the petition should be dismissed outright because: (a) the CIR failed to perfect an appeal since it filed the petition in the wrong case â in 
+G.R. No. 222824
+, instead of the present case with 
+G.R. No. 225266
+ and as such, the petition is legally inexistent in so far as 
+G.R. No. 225266
+ is concerned; (b) the Litigation Division had no authority to file the motion for extension of time to file the petition and the instant petition; (c) the CIR committed willful and deliberate forum-shopping; and (d) the petition is a mere rehash of the arguments made before the CTA. In any event, the CTA 
+En Banc
+ correctly ruled that RR No. 11-2005 is not all-inclusive and intended merely as a guide in determining the items that may be considered for income tax deduction purposes. Lastly, the CIR cannot raise for the first time on appeal to the CTA 
+En Banc
+, and thereafter, to this Court, the issue of whether the cost and expenses allowed as deductions by the CTA are directly related to the rendition of PEZA-registered activities. Further, this is a factual question not cognizable in a Rule 45 petition.
+RULING
+We deny the petition.
+Before delving on the merits of this case, we shall first discuss the procedural lapses committed by the CIR, particularly: (1) forum shopping; (2) lack of authority on the part of the BIRâs Litigation Division to file the petition; and (3) placing of an erroneous docket number in the petition for review.    
+  
+The CIR is not guilty of forum shopping.
+ 
+Forum-shopping consists of filing multiple suits in different courts, either simultaneously or successively, involving the same parties, to ask the courts to rule on the same or related causes and/or to grant the same or substantially same reliefs, on the supposition that one or the other court would make a favorable disposition.
+[40]
+ There is forum shopping when there exist: (a) the identity of parties, or at least such parties as representing the same interests in both actions; (b) the identity of rights asserted and relief prayed for, the relief being founded on the same facts; and (c) the identity of the two preceding particulars is such that any judgment rendered in the pending case, regardless of which party is successful would amount to 
+res judicata
+ in the other case.
+[41]
+Here, the CIR filed a motion for extension of time to file a petition for review relative to the Decision dated February 3, 2016 of the CTA 
+En Banc
+ in CTA EB No. 1207. The case was docketed as G.R. No. 222824. The CIR also filed a motion for reconsideration of the same Decision before the CTA 
+En Banc
+. Clearly, there is an identity of parties in both cases â the CIR, although represented by two different agencies, the OSG and the BIR.
+However, there is no identity of rights asserted. G.R. No. 222824 is a request for more time to file a petition for review under Rule 45 of the Rules of Court, while the motion filed with the CTA 
+En Banc
+ is a reconsideration of the Decision dated February 3, 2016. While both motions pertain to the same Decision of the CTA 
+En Banc
+ in CTA EB No. 1207, the CIR is asserting different rights. Moreover, a âjudgmentâ rendered in G.R. No. 222824 will not amount to 
+res judicata
+ as the Resolution will be limited to the granting or denying the motion for time; or the Resolution of the CTA 
+En Banc
+ of the CIRâs motion for reconsideration will not result to a 
+res judicata
+ in G.R. No. 222824. Besides, the records indicate that the OSG filed its Manifestation and Motion
+[42]
+ dated March 21, 2016, informing the Court of a pending motion for reconsideration filed by the BIRâs Litigation Division with the CTA 
+En Banc
+. As such, G.R. No. 222824 was declared closed and terminated.
+[43]
+ Clearly, there is no forum shopping.    
+  
+The Office of the Solicitor General is the proper party to represent the Republic in appeals before this Court.
+ 
+In 
+LG Electronics Philippines, Inc. v. Commissioner of Internal Revenue
+,
+[44]
+ the Court stressed that the OSG is the proper representative of the CIR in appellate proceedings, particularly before this Court, 
+viz.
+:
+We are mindful of Section 220 of Republic Act No. 8424 or the Tax Reform Act of 1997, which provides that legal officers of the Bureau of Internal Revenue are the ones tasked to institute the necessary civil or criminal proceedings on behalf of the government:
+x x x x
+Nonetheless, this court has previously ruled on the issue of the Bureau of Internal Revenueâs representation in appellate proceedings, particularly before this court:
+The institution or commencement before a proper court of civil and criminal actions and proceedings arising under the Tax Reform Act which âshall be conducted by legal officers of the Bureau of Internal Revenueâ is not in dispute. An appeal from such court, however, is not a matter of right. Section 220 of the Tax Reform Act must not be understood as overturning the long established procedure before this Court in requiring the Solicitor General to represent the interest of the Republic. This Court continues to maintain that it is the Solicitor General who has the primary responsibility to appear for the government in appellate proceedings. This pronouncement finds justification in the various laws defining the Office of the Solicitor General, beginning with Act No. 135, which took effect on 16 June 1901, up to the present Administrative Code of 1987.
+ Section 35, Chapter 12, Title III, Book IV, of the said Code outlines the powers and functions of the Office of the Solicitor General which includes, but not limited to, its duty to â
+(1) Represent the Government in the Supreme Court and the Court of Appeals in all criminal proceedings; represent the Government and its officers in the Supreme Court, the Court of Appeals, and all other courts or tribunals in all civil actions and special proceedings in which the Government or any officer thereof in his official capacity is a party.
+x x x x
+(3) Appear in any court in any action involving the validity of any treaty, law, executive order or proclamation, rule or regulation when in his judgment his intervention is necessary or when requested by the Court.
+In 
+Gonzales vs. Chavez
+, the Supreme Court has said that, from the historical and statutory perspectives, the Solicitor General is the âprincipal law officer and legal defender of the government.â
+ x x x
+From the foregoing, 
+we find that the Office of the Solicitor General is the proper party to represent the interests of the government through the Bureau of Internal Revenue. The Legal Division of the Bureau of Internal Revenue should be mindful of this procedural lapse in the future
+.
+[45]
+ (Emphases supplied.)
+We note that the BIRâs Litigation Division represents the CIR in all pleadings filed before this Court. Even so, records reveal that the OSG has been notified of the proceedings since filing the motion for extension of time to file a petition for review and all issuances of this Court regarding the caseâs developments. Thus, the interests of the government have been duly protected.
+[46]
+ Hence, we may disregard this procedural lapse to give due course to the petition. Be that as it may, we again remind the BIR to be mindful of this long established procedure before this Court so that any similar incident may not happen again.    
+  
+Erroneous docket number in the petition.
+ 
+In the old case of 
+Llantero v. CA
+,
+[47]
+ the Court had the occasion to rule that a motion, albeit seasonably filed, is legally inexistent for all intents and purposes since it erroneously bore the docket number of another case.
+[48]
+ It could not be attached to the 
+expediente
+ of the correct case.
+[49]
+We observed that the petition for review bore docket number 
+G.R. No. 222824
+, and was deleted by a horizontal line through the â222824.â
+[50]
+ The Affidavit of Service attached to the petition indicated that the petition was filed for 
+G.R. No. 222824
+.
+[51]
+ However, the correct docket number â G.R. No. 225266 â was written by hand beside the deleted docket number in the petition for review. All notices issued by this Court refer to G.R. No. 225266, and it appears that all pleadings filed by the parties relative to the case were compiled in the 
+rollo
+ of G.R. No. 225266. Accordingly, the possibility of misplacing and mixing up pleadings and court issuances and not attaching them in the 
+expediente
+ of the correct case as what happened in 
+Llantero
+ was averted. On this score, we conclude that the petition should not be dismissed on this ground alone.
+A relaxation of the CIRâs procedural slip-ups notwithstanding, we deny the petition for lack of merit.    
+  
+The enumeration of direct costs deductible from a PEZA-registered enterpriseâs gross income in RR No. 11-2005 is not exclusive.
+ 
+Under Section 24
+[52]
+ of RA No. 7916
+[53]
+ (PEZA Law), a PEZA-registered enterprise, such as East Asia Utilities, is entitled to the special tax of 5% on gross income earned within the ECOZONE in 
+lieu
+ of all national and local taxes. Gross income refers to âgross sales or gross revenues derived from business activity within the ECOZONE, net of sales discounts, sales returns and allowances and 
+minus costs of sales or direct costs
+ but before any deduction is made for administrative expenses or incidental losses during a given taxable period.â
+[54]
+ 
+Thereafter, the BIR issued RR No. 2-2005
+[55]
+ to implement Section 24, 
+viz.
+:
+SECTION 7. Gross income earned. â For purposes of the application of these Regulations âgross income earnedâ shall refer to gross sales or gross revenue derived from registered business activity within the Zone net of sales discounts, sales returns and allowances minus cost of sales or direct costs but before any deductions for administrative, marketing, selling, operating expenses or incidental losses during a given taxable. For financial enterprises, gross income shall include interest income, gains from sales, and other income.
+For purposes of computing the total five percent (5%) tax rate imposed by Republic Act No. 7916, the cost of sales or direct cost 
+shall consist only
+ of the following cost or expense items which shall be computed in accordance with Generally Accepted Accounting Principles (GAAP):
+x x x x
+For ECOZONES under RA No. 7916 â
+x x x x
+2. ECOZONE Developer/Operator, Facilities, Utilities and Tourism Enterprises:
+â Direct salaries, wages or labor expense
+â Service supervision salaries
+â Direct materials, supplies used
+â Depreciation of machinery and equipment used in registered activities
+â Financing charges associated with fixed assets used in registered activities the amount of which were not capitalized
+â Rent and utility charges for buildings and capital equipment used in undertaking registered activities (Emphasis supplied.)
+By using the phrase âshall consist 
+only
+ of the following cost or expense item,â RR No. 2-2005 restricted the allowable deductions from gross income of a PEZA-registered enterprise to the enumerated cost and expenses.
+Later, the BIR issued RR No. 11-2005
+[56]
+ revoking Section 7 of RR No. 2-2005 and removing the exclusivity of the enumeration of cost or expense that is allowed as a deduction from gross income. Section 3 provides:
+SECTION 3. Gross Income Earned. â For purposes of implementing the tax incentive of registered Special Economic Zone (ECOZONE) enterprises in Section 24 of Republic Act No. 7916, the term âgross income earnedâ shall refer to gross sales or gross revenues derived from business activity within the ECOZONE, net of sales discounts, sales returns and allowances and minus costs of sales or direct costs but before any deduction is made for administrative, marketing, selling and/or operating expenses or incidental losses during a given taxable period.
+For purposes of computing the total five percent (5%) tax rate imposed, the following direct costs are included in the allowable deductions to arrive at gross income earned for specific types of enterprises:
+x x x x
+2. ECOZONE Developer/Operator, Facilities, Utilities and Tourism Enterprises:
+â Direct salaries, wages or labor expense
+â Service supervision salaries
+â Direct materials, supplies used
+â Depreciation of machineries and equipment used in the rendition of registered services, and of that portion of the building owned or constructed that is used exclusively in the rendition of registered service
+â Rent and utility charges for buildings and capital equipment used in the rendition of registered services
+â Financing charges associated with fixed assets used in the registered service business the amount of which were not previously capitalized (Emphasis supplied.)
+The word âincludeâ means âto take in or comprise as a part of a wholeâ;
+[57]
+ âto contain as a part of something. The participle 
+including
+ typically indicates a partial list.â
+[58]
+ In 
+Sterling Selections Corp. v. Laguna Lake Development Authority
+ (
+LLDA
+),
+[59]
+ the Court held that using the word âincludingâ necessarily conveys the enumerationâs very idea of non-exclusivity.
+[60]
+ Thus, the word âinvolving,â when understood in the sense of âincluding,â implies that there are activities other than those included. For example, if an agreement includes technical or financial assistance, there is, apart from such assistance, something else already in, and covered or may be covered by, the agreement.
+[61]
+ Similarly, in 
+United Coconut Planters Bank v. E. Ganzon, Inc.
+,
+[62]
+ we construed the word âincludingâ in Section 9 (3) of 
+Batas Pambansa Blg. 129
+, which enumerated the quasi-judicial agencies within the exclusive appellate jurisdiction of the Court of Appeals not exclusive, 
+viz.
+:
+A perusal of Section 9(3) of Batas Pambansa Blg. 129, as amended, and Section 1, Rule 43 of the 1997 Revised Rules of Civil Procedure reveals that the BSP Monetary Board is not included among the quasi-judicial agencies explicitly named therein, whose final judgments, orders, resolutions or awards are appealable to the Court of Appeals. 
+Such omission, however, does not necessarily mean that the Court of Appeals has no appellate jurisdiction over the judgments, orders, resolutions or awards of the BSP Monetary Board.
+It bears stressing that Section 9(3) of Batas Pambansa Blg. 129, as amended, on the appellate jurisdiction of the Court of Appeals, generally refers to quasi-judicial agencies, instrumentalities, boards, or commissions. 
+The use of the word âincludingâ in the said provision, prior to the naming of several quasi-judicial agencies, necessarily conveys the very idea of non-exclusivity of the enumeration. The principle of 
+expressio unius est exclusio alterius
+ does not apply where other circumstances indicate that the enumeration was not intended to be exclusive, or where the enumeration is by way of example only.
+[63]
+ (Emphases supplied; citation omitted.)
+The Court reiterated this rule in 
+Binay v. Sandiganbayan
+.
+[64]
+ Petitioners therein argue that they are municipal officials excluded from the exclusive original jurisdiction of the Sandiganbayan under Section 4a (1) of PD No. 1606, as amended by RA No. 7975, invoking the rule in statutory construction 
+expressio unius est expressio alterius
+. We ruled:
+Resort to statutory construction, however, is not appropriate where the law is clear and unambiguous. The law is clear in this case. As stated earlier, Section 4a(1) of P.D. No. 1606, as amended by R.A. No. 7975, speaks of â[o]fficials of the executive branch occupying the positions of regional director and higher, otherwise classified as grade â27â and higher, of the Compensation and Position Classification Act of 1989.â
+The Court fails to see how a different interpretation could arise even if the plain meaning rule were disregarded and the law subjected to interpretation.
+The premise of petitioners argument is that the enumeration in Section 4a(1) is exclusive. It is not. The phrase âspecifically includingâ after â[o]fficials of the executive branch occupying the positions of regional director and higher, otherwise classified as grade â27â and higher, of the Compensation and Position Classification Act of 1989â necessarily conveys the very idea of non-exclusivity of the enumeration. The principle of 
+expressio unius est exclusio alterius
+ does not apply where other circumstances indicate that the enumeration was not intended to be exclusive, or where the enumeration is by way of example only. In 
+Conrado B. Rodrigo, et al. vs. The Honorable Sandiganbayan (First Division), supra
+, the Court held that the catchall in Section 4a(5) was ânecessary for it would be impractical, if not impossible, for Congress to list down each position created or will be created pertaining to Grades 27 and above.â The same rationale applies to the enumeration in Section 4a(1). Clearly, the law did not intend said enumeration to be an exhaustive list.
+[65]
+ (Emphasis supplied; citations omitted.)
+As the amendment in RR No. 11-2005 now stands, the enumeration of allowable deductions was only made by way of example or illustration of the nature and type of expenses that may be deducted from a PEZA-registered enterpriseâs gross income for purposes of computing the 5% GIT. The maxim 
+expressio unius est exclusio alterius
+ does not apply.
+[66]
+ Besides, the BIR should not have issued RR No. 11-2005 and deleted the phrase âshall consist 
+only
+ of the following cost or expense itemâ and changed it to âthe following direct costs are 
+included
+ in the allowable deductionsâ if it did not intend to remove the restriction on the expenses that may be deducted. The deletion of the restrictive word âonlyâ is also consistent with Section 24 of the PEZA Law that costs and expenses directly related to the enterpriseâs PEZA-registered activity and are not administrative, marketing, selling and/or operating expenses or incidental losses shall be allowed as deduction from gross income. Accordingly, the CTA 
+En Banc
+ did not err in examining the nature and type of each of the expenses East Asia Utilities claimed as deductions 
+vis-Ã -vis
+ their relation to East Asia Utilitiesâ PEZA-registered activities in computing the correct amount of tax deficiency.
+Still, the CIR insists that the P24,669,324.88 amount allowed as deduction by the CTA 
+En Banc
+ is not directly related to East Asia Utilitiesâ power generation services. However, this issue is factual in nature and not appropriately cognizable in a Rule 45 Petition for Review on Certiorari where only questions of law may be generally raised. It is not this Courtâs function to analyze and weigh all over again evidence already considered in the proceedings below. Our jurisdiction is limited to reviewing only errors of law that may have been committed by the lower court. Besides, the findings of fact of the CTA, which is, by the very nature of its functions, dedicated exclusively to the study and consideration of tax problems and has necessarily developed an expertise on the subject, are generally regarded as final, binding, and conclusive upon this Court. The findings shall not be reviewed nor disturbed on appeal unless a party can show that these are not supported by evidence, or when the judgment is premised on a misapprehension of facts, or when the lower courts overlooked certain relevant facts which, if considered, would justify a different conclusion. The CIR has not sufficiently presented a case for the application of an exception from the rule.
+FOR THESE REASONS
+, the Petition for Review on 
+Certiorari
+ is 
+DENIED
+.
+SO ORDERED.
+Perlas-Bernabe, S.A.J. (Chairperson), Gesmundo, Lazaro-Javier
+, and 
+Rosario
+,
+*
+ 
+JJ.
+, concur.
+*
+ Designated as additional Member 
+per
+ Special Order No. 2797 dated November 5, 2020.
+[1]
+ 
+Rollo
+, pp. 11-25.
+[2]
+ 
+Id.
+ at 28-43; penned by Associate Justice Esperanza R. Fabon-Victorino, with the concurrence of Associate Justices Lovell R. Bautista, Cielito N. Mindaro-Grulla, Amelia R. Cotangco-Manalastas, and Ma. Belen M. Ringpis-Liban. Presiding Justice Roman G. Del Rosario wrote his Concurring and Dissenting Opinion, and joined by Associate Justices Juanito C. CastaÃ±eda, Jr., Erlinda P. Uy, and Caesar A. Casanova; see 
+id.
+ at 44-46.
+[3]
+ 
+Id.
+ at 47-51.
+[4]
+ 
+Id.
+ at 232-268; penned by Associate Justice Amelia R. Cotangco-Manalastas, with the concurrence of Associate Justices Juanito C. CastaÃ±eda, Jr. and Caesar A. Casanova.
+[5]
+ 
+Id.
+ at 449-459.
+[6]
+ 
+Id.
+ at 232-234.
+[7]
+ Through the BIRâs Large Taxpayerâs District Office-Cebu, District Office No. 123. 
+Id.
+ at 233.
+[8]
+ 
+Id.
+ at 246-247.
+[9]
+ 
+Id.
+[10]
+ 
+Supra
+ note 4.
+[11]
+ 
+Rollo
+, p. 267.
+[12]
+ CONSOLIDATED REVENUE REGULATIONS IMPLEMENTING RELEVANT PROVISIONS OF REPUBLIC ACT [RA] NO. 7227 OTHERWISE KNOWN AS â
+BASES CONVERSION AND DEVELOPMENT ACT OF 1992
+[,â] [RA] NO. 7916 As AMENDED OTHERWISE KNOWN AS â
+SPECIAL ECONOMIC ZONE ACT OF 1995
+[,â] [RA] NO. 7903 OTHERWISE KNOWN AS â
+ZAMBOANGA CITY SPECIAL ECONOMIC ZONE ACT OF 1995
+â AND [RA] NO. 7922 OTHERWISE KNOWN AS â
+CAGAYAN SPECIAL ECONOMIC ZONE OF 1995
+â THEREBY AMENDING REVENUE REGULATIONS NO. 1-95 AS AMENDED BY REVENUE REGULATIONS NO. 16-99, dated February 8, 2005.
+[13]
+ REGULATIONS DEFINING âGROSS INCOME EARNEDâ TO IMPLEMENT THE TAX INCENTIVE PROVISION IN SECTION 24 OF [RA] NO. 7916, OTHERWISE KNOWN AS âTHE SPECIAL ECONOMIC ZONE ACT OF 1995â REVOKING SECTION 7 OF REVENUE REGULATIONS NO. 2-2005, AND SUSPENDING THE EFFECTIVITY OF CERTAIN PROVISIONS OF REVENUE REGULATIONS NO. 2-2005, dated April 25, 2005.
+[14]
+ 
+Rollo
+, p. 265. The disallowed cost of services are follows:  
+PARTICULARS
+AMOUNT
+Accident/Life insurance
+P 19,825.75
+Working gears 
+84,543.05
+Uniform
+5,778.66
+Employee Activities
+20,486.59
+Training and Development-non-technical
+31,495.87
+Training and Development-technical
+28,821.21
+Insurance and freight
+322,503.04
+Brokerage fees
+9,013.66
+Other inventory incidental cost
+175,819.55
+Other professional fees
+31,937.00
+DOE Electrification Fund
+7,338,411.98
+General Office-expense
+1,057,080.11
+Business expense
+636,604.54
+Taxes and Licenses
+36,189.87
+TOTAL
+P 9,798,510.88
+[15]
+ 
+Id.
+ at 250-264.
+[16]
+ 
+Supra
+ note 4.
+[17]
+ 
+Rollo
+, p. 266.
+[18]
+ 
+Supra
+ note 5. The dispositive portion of the Resolution reads:
+WHEREFORE
+, premises considered, [East Asia Utilities] Motion for Partial Reconsideration and [the CIR]âs Motion for Partial Reconsideration are hereby 
+DENIED
+ for lack of merit.
+SO ORDERED.
+ (Emphasis in the original.) 
+Rollo
+, p. 459.
+[19]
+ 
+Id.
+ at 462-475.
+[20]
+ 
+Id.
+ at 478-512.
+[21]
+ 
+Id.
+ at 460. Official Receipt No. 4599648.
+[22]
+ 
+Id.
+ at 461. Payment Transaction No. 147604980.
+[23]
+ 
+Supra
+ note 2.
+[24]
+ 
+Rollo
+, p. 42.
+[25]
+ 
+Id.
+ at 567-576. See also 
+supra
+ note 3.
+[26]
+ 
+Id.
+ at 585-620.
+[27]
+ 
+Id.
+ at 578-582.
+[28]
+ 
+Id.
+ at 583.
+[29]
+ 
+Id.
+ at 583-584.
+[30]
+ 
+Id.
+ at 621-624.
+[31]
+ 
+Id.
+ at 625-631.
+[32]
+ 
+Id.
+ at 662-663.
+[33]
+ 
+Id.
+ at 662.
+[34]
+ 
+Supra
+ note 3. The dispositive portion of the Resolution reads:
+WHEREFORE
+, the Motion for Reconsideration filed by petitioner Commissioner of Internal Revenue is hereby 
+DENIED
+, for lack of merit. 
+Rollo
+, p. 50.
+[35]
+ 
+Id.
+ at 3-7.
+[36]
+ 
+Id.
+ at 56-65.
+[37]
+ 
+Id.
+ at 116-117.
+[38]
+ 
+Supra
+ note 1.
+[39]
+ 
+Rollo
+, pp. 136-208.
+[40]
+ 
+Alaban v. CA
+, 507 Phil. 682, 695-696 (2005).
+[41]
+ 
+Spouses Zosa v. Judge Estrella
+, 593 Phil. 71, 77 (2008), quoting 
+Young v. Spouses Sy
+, 534 Phil. 246, 264 (2006); 
+Veluz v. CA
+, 399 Phil. 539, 548-549 (2000).
+[42]
+ 
+Supra
+ note 30.
+[43]
+ 
+Supra
+ note 32.
+[44]
+ 749 Phil. 155 (2014).
+[45]
+ 
+Id.
+ at 183-185.
+[46]
+ 
+LG Electronics Philippines, Inc. v. Commissioner of Internal Revenue, supra
+ note 43, at 185.
+[47]
+ 193 Phil. 41 (1981).
+[48]
+ 
+Id.
+ at 46.
+[49]
+ 
+Id.
+[50]
+ 
+Rollo
+, p. 11.
+[51]
+ 
+Id.
+ at 27.
+[52]
+ SECTION 24. 
+Exemption from Taxes under the National Internal Revenue Code
+. â Any provision of existing laws, rules and regulations to the contrary notwithstanding, no taxes, local and national, shall be imposed on business establishments operating within the ECOZONE. In lieu of paying taxes, five percent (5%) of the gross income earned by all businesses and enterprises within the ECOZONE shall be remitted to the national government. x x x
+x x x x
+[53]
+ THE SPECIAL ECONOMIC ZONE ACT OF 1995; approved on February 24, 1995.
+[54]
+ SEC. 2, par. (nn), RULES AND REGULATIONS TO IMPLEMENT [RA] NO. 7916, OTHERWISE KNOWN AS âTHE SPECIAL ECONOMIC ZONE ACT OF 1995â; approved on May 17, 1995; published in the Philippine Star on May 28, 1995.
+[55]
+ 
+Supra
+ note 12.
+[56]
+ 
+Supra
+ note 13. 
+[57]
+ Websterâs All-in-One Dictionary and Thesaurus, 2008 ed. cited in 
+Sterling Selections Corp. v. Laguna Lake Development Authority (LLDA)
+, 662 Phil. 243, 261 (2011).
+[58]
+ Blackâs Law Dictionary, 2009 ed.
+[59]
+ 662 Phil. 243 (2011).
+[60]
+ 
+Id.
+ at 261-262. See 
+United Coconut Planters Bank v. E. Ganzon, Inc.
+, 609 Phil. 104, 121 (2009), and 
+Binay v. Sandiganbayan
+, 374 Phil. 413, 440-441 (1999).
+[61]
+ 
+Id.
+ at 662, quoting 
+La Bugal-Bâlaan Tribal Association, Inc. v. Ramos
+, 486 Phil. 754, 796 (2004).
+[62]
+ 609 Phil. 104 (2009).
+[63]
+ 
+Id.
+ at 121.
+[64]
+ 374 Phil. 413 (1999).
+[65]
+ 
+Id.
+ at 439-440.
+[66]
+ See 
+Sterling Selections Corp. v. Laguna Lake Development Authority (LLDA), supra
+ note 59; and 
+Binay v. Sandiganbayan, supra
+ note 64.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

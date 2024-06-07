@@ -1,0 +1,1805 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+EN BANC
+
+
+[ G.R. No. 226680, August 30, 2022 ]
+
+
+ACES PHILIPPINES CELLULAR SATELLITE CORPORATION, 
+PETITIONER,
+ VS. THE COMMISSIONER OF INTERNAL REVENUE, 
+RESPONDENT
+D E C I S I O N
+
+
+
+
+INTING, J.:
+
+
+This resolves the Petition
+[1]
+ for Review on 
+Certiorari
+ assailing the Decision
+[2]
+ dated June 8, 2016 and the Resolution
+[3]
+ dated August 16, 2016 of the Court of Tax Appeals 
+En Banc
+ (CTA 
+En Banc
+) in CTA EB Case No. 1242 (CTA Case No. 8567). The assailed issuances upheld the CTA Second Division (CTA Division) rulings in CTA Case No. 8567 which affirmed with modification the Final Decision on Disputed Assessment (FDDA)
+[4]
+ dated August 23, 2012 issued by respondent Commissioner of Internal Revenue (CIR) and found petitioner Aces Philippines Cellular Satellite Corporation (Aces Philippines) liable for deficiency final withholding tax (FWT) for taxable year 2006.
+The Antecedents
+The facts as culled from the 
+rollo
+ reveal the following:
+In 1995, the Philippine Long Distance Telephone Company (PLDT) entered into a 
+Gateway Agreement
+ with PT Asia Cellular Satellite (Aces Indonesia), a company organized under the laws of Indonesia, "for the supply of certain equipment, software, data and documentation [to allow PLDT] to construct, own and operate a [g]ateway or [g]ateways in the Philippines."
+[5]
+In the same year, Aces Philippines was incorporated as PLDT's subsidiary
+[6]
+ to operate telecommunication gateways and equipment involving the processing, storage, monitoring, and retrieval of data, image, voice, audio, and tone.
+[7]
+Subsequently, on March 12, 1997, PLDT entered into another agreement with Aces Indonesia. The contract, denominated as the Founder NSP Air Time Purchase Agreement
+[8]
+ (Air Time Purchase Agreement) contained the following Recitals:
+A.    [Aces Indonesia] has contracted with Lockheed Martin and its affiliates for the manufacture and launch of satellite that is expected to be located in geostationary orbit at 123 degrees East Longitude and to have the capacity to receive, switch, amplify and transmit radio signals from and to (i) terminals and (ii) ground station interlinks with terrestrial fixed-line telephone systems and terrestrial cellular telephone systems ("Gateways"). This system is herein referred to as the "ACeS System", and the satellite, together with any satellite [Aces Indonesia] elects to launch in lieu thereof or in replacement thereof having substantially equivalent coverage and the capacity to receive, switch, amplify and transmit radio signals from and to (i) terminals and (ii) Gateways, is herein called the "Satellite". The ACeS System is designed to allow [Aces Indonesia] to sell satellite communication time to providers of the communication services supported by [Aces Indonesia] ("Service Providers") for resale to subscribers in the ACeS System coverage area.
+B.    [PLDT] has entered into a contract with [Aces Indonesia] and Martin Marietta Overseas Corporation, dated August 28, 1995 (the "Gateway Agreement"), for the supply of certain equipment, software, data and documentation to enable [PLDT] to construct, own and operate a Gateway or Gateways in the Philippines (the "Territory").
+C.    [Aces Indonesia] wishes to sell satellite communications time for the ACeS System to [PLOT], and [PLOT] wishes to (i) purchase satellite communications time for the ACeS System from [Aces Indonesia] and (ii) be the sole supplier of the ACeS Services to subscribers resident in the Territory. In return for being designated as the sole supplier of ACeS Services in the Territory, [PLDT] is willing to agree to the payment obligations and other terms and conditions set fo11h herein and to the various obligations and standards of service with respect to the ACeS System and the provision of the ACeS Services to its subscribers set forth in the Founder NSP Operating Agreement, dated the date hereof, between [PLOT] and [Aces Indonesia].
+[9]
+ (Emphasis omitted.)
+Paragraph 2.2 of the Air Time Purchase Agreement further provided:
+2.2 
+Grant of Exclusive Rights: Retained Rights of [Aces Indonesia]
+(a)    [Aces Indonesia] hereby grants to [PLDT], and [PLOT] hereby accepts, the exclusive right to provide (directly or through Authorized Distributors) the ACeS Services to Persons resident in the Territory during the Term, on the terms and conditions set forth in this Agreement. Except as provided in the Roaming Guidelines, during the Term of this Agreement, [Aces Indonesia] will not without [PLDT]'s prior written consent (a) enter into agreements with any Person (other than [PLDT]) for the provision of ACeS Services to Persons resident in the Territory during the Term, or (b) itself solicit or enter into contracts for ACeS Services with Persons resident in the Territory. During the Term of this Agreement, ACeS will refer to [PLDT] any inquiries it receives from Persons resident in the Territory concerning the ACeS System or ACeS Services in the Territory. Any Person with whom [PLDT] or an Authorized Distributor of [PLDT] contracts for the delivery of ACeS Services is a 'subscriber" of [PLOT] for all purposes of this Agreement.
+(b)    [Aces Indonesia] is free to contract with any Person to act as a Service Provider for any area not included in the Territory, to act itself as the Service Provider for any area not included in the Territory, and to appoint operators of GSM or AMPS systems covering areas not included in the Territory to act as authorized distributors of ACeS Services in such areas.
+[10]
+ (Underscoring in the original.)
+In brief, by the end of 1997, Aces Indonesia had two executory contracts with PLDT. The 
+Gateway Agreement
+ allowed Aces Indonesia to. supply PLDT the equipment, software, data, and documentation necessary for the construction and operation of gateways in the Philippines.
+[11]
+ On the other hand, the 
+Air Time Purchase Agreement
+ allowed Aces Indonesia to sell satellite communications time (Aces Services) to PLDT, which, in turn, shall become the exclusive provider/distributor thereof to Philippine subscribers.
+[12]
+The provision of these services depended upon the "Aces System," which consisted of satellite, terminals, and gateways. The satellite, located in outer space, has the capacity to receive, switch, amplify, and transmit radio signals from and to terminals and gateways, which, on the other hand, are 
+ground station interlinks with terrestrial fixed-line telephone systems
+ and 
+terrestrial cellular telephone systems
+ located in various geographical jurisdictions within its coverage.
+[13]
+PLDT shall pay Aces Indonesia satellite air time fees as consideration for satellite communications time used by PLDT, which shall be measured in "Billable Units,"
+[14]
+ 
+viz.:
+3.2 
+Payments for Billable Units Used
+(a) [Aces Indonesia] will invoice [PLDT], and [PLDT] will pay, for all satellite communications time, measured in Billable Units, used by [PLDT] during each Billing Month in a Billing Period (the "Monthly Usage"). The price for each Billable Unit of satellite communications time used by Buyer is US $0.025.
+(b)    For the purpose of this Section 3.2, [PLDT] will be deemed to have "used" all Billable Units allocated to [PLOT] in accordance with the following 
+allocation principles.
+ All Billable Units arising from calls made to or from [PLOT]'s subscribers 
+utilizing the ACeS System (i.e., routed through the ACeS Satellite) will be allocated to Buyer, regardless of the location of the subscriber at the time of the call or the Gateway that handles such call.
+ Any subscriber (possessing an ACeS-capable handset) of a terrestrial cellular system which has an ACeS roaming agreement with [PLOT] is deemed a subscriber of [PLOT] for the purposes of this Agreement, so that all calls to or from any such subscriber utilizing the ACeS System also will be allocated to [PLOT] regardless of the location of such subscriber at the time of the call or the Gateway that handles such call. Additional rules governing the implementation of these principles are set forth in the Operating Agreement and the Annexes thereto, including the procedures for the settlement between [PLOT] and other operators of Gateways to the ACeS System 
+for the utilization by [PLDT]'s subscribers of Gateways not operated by the [PLDT].
+xx x x
+[15]
+ Emphasis omitted; italics supplied.)
+x x x x
+Annex Z
+DEFINITIONS
+x x x x
+Billable Unit: each six-second interval (fractions thereof to be rounded up to the next six-second interval) of satellite utilization time for a voice or data call to or from a terminal, excluding satellite utilization time for all set-up, unanswered calls, and incomplete calls.
+[16]
+ (Emphasis omitted.)
+A year later, or in 1998, the original parties to the Air Time Purchase Agreement transferred their rights and obligations under the contract to third parties, viz.: (a) Aces Indonesia transferred in favor of Aces International Limited, a company incorporated in Bermuda (Aces Bermuda), and (b) PLDT transferred to its subsidiary, herein petitioner Aces Philippines.
+[17]
+After the transfer, effectively, Aces Philippines had the authority to operate telecommunications gateways and related equipment within the Aces System, as well as the exclusive authority to provide Aces Services to its Philippine subscribers.
+[18]
+In 2007, the Bureau of Internal Revenue (BIR) commenced its audit of Aces Philippines' books of account and other accounting records in relation to all internal revenue taxes for taxable year 2006. 
+[19]
+ The tax authorities found that Aces Philippines paid Aces Bermuda satellite air time fees amounting to Pl99,312,169.00 in 2006 but did not withhold the proper amount of tax. According to the BIR, these satellite airtime fees are income payments to a non-resident foreign corporation (NRFC) that are subject to 35% FWT.
+[20]
+Aces Philippines protested the findings at the administrative level.
+[21]
+ However, the CIR issued the FDDA
+[22]
+ against Aces Philippines relative to the deficiency FWT for taxable year 2006 amounting to P170,935,184.92, inclusive of surcharge, interest, and compromise penalty, computed as follows
+[23]
+ 
+ 
+Satellite airtime fees
+ 
+P199,312,169.00
+ 
+ 
+ 
+Multiply by: FWT rate
+ 
+35%
+ 
+ 
+ 
+Basic tax
+ 
+P69,759,259.15
+ 
+ 
+ 
+Add: 25% surcharge
+ 
+17,439,814.79
+ 
+ 
+ 
+Interest
+[24]
+ 
+83,711,110.98
+ 
+ 
+ 
+Compromise penalty
+ 
+25,000.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total amount payable 
+ 
+P170,935,184.92
+ 
+ 
+Aggrieved, Aces Philippines filed its judicial protest before the CTA.
+The Ruling of the CTA Division
+The CTA Division affirmed the CIR's assessment against Aces Philippines, 
+viz.:
+[25]
+WHEREFORE, premises considered, the assessment issued by respondent against petitioner covering deficiency final withholding tax for taxable year 2006 as per the assailed Final Decision on Disputed Assessment dated August 23, 2012 is hereby AFFIRMED with some modifications. Accordingly, petitioner is ORDERED TO PAY respondent the amount of P87,199,073.94, representing deficiency final withholding tax for taxable year 2006, inclusive of twenty five percent (25%) surcharge imposed under Section 248(3) of the NIRC of 1997, computed as follows:
+ 
+ 
+Basic Final Withholding Tax Due
+ 
+P 69,759,259.15
+ 
+ 
+ 
+Add: 25% Surcharge
+ 
+17,439,814.79
+ 
+ 
+ 
+TOTAL AMOUNT DUE 
+ 
+P87,199,073.94
+ 
+ 
+Likewise, petitioner is ORDERED TO PAY the following:
+(a)    deficiency interest at the rate of twenty percent (20%) per annum on the basic deficiency final withholding tax of P69,759,259.l 5 computed from January 10, 2007 until full payment thereof pursuant to Section 249(B) of the NIRC of 1997; and
+(b)    delinquency interest at the rate of 20% per annum on the total amount of P87,199,073.94 and on the 20% deficiency interest which have accrued as aforestated in (a), computed from October 3, 2012 until full payment thereof pursuant to Section 249(C) of the NIRC of 1997.
+SO ORDERED.
+[26]
+The CTA Division concluded that the satellite air time fees paid to Aces Bermuda under the Air Time Purchase Agreement are considered Philippine-sourced income. It observed from the payment terms in the agreement that Aces Philippines pays the satellite air time fees only when satellite air time is delivered to Aces Philippines and its Philippine subscribers, and utilized in the Philippines for a voice or data call, excluding satellite utilization time for call set-up, unanswered calls and incomplete calls. Based on these premises, the activity that produces income is the undertaking of providing satellite communication time to be delivered by Aces Bermuda and utilized by Aces Philippines and its Philippine subscribers. Thus, the activity that produced the income took place in the Philippines.
+[27]
+In its motion for reconsideration, Aces Philippines insisted that Aces Bermuda rendered all services outside the Philippines. Further, the law did not intend to impose a 20% deficiency interest and delinquency interest simultaneously.
+[28]
+However, the CTA Division denied its motion.
+[29]
+ This prompted Aces Philippines to elevate the case to the CTA En Banc.
+The Ruling of the CTA En Banc
+In its assailed Decision,
+[30]
+ the court 
+a quo
+ affirmed the CTA Division's ruling. In upholding that the satellite air time fees are income sourced within the Philippines, the CTA En Banc further observed:
+x x x The services for satellite air time fees do not only compound with the use of the Garuda Satellite (located in outer space) and the Network Control Center (located in Indonesia), but also require that satellite communication time be available and delivered in the Philippines.
+ There is a continuous and very real connection starting from the Philippines (that is the agreement to sell satellite communications time for the ACES System in the Philippines). Garuda Satellite (located in outer space), the Network Control Center (located in Indonesia) and again the Philippines. through petitioner's gateway.facilities.
+x x x x
+The contract reveals that the consideration is the undertaking assumed by [Aces Bermuda] of providing successful transmission of satellite signals to petitioner in the Philippines. It is only when the satellite signals are received by petitioner's gateway facilities situated in the Philippines that it can be said that the performance of the contractual services was fully consummated or rendered. 
+Petitioner pays air time fees only when the satellite air time is successfully delivered to the petitioner through its gateway facilities in the Philippines.
+ For unanswered or incomplete calls[,] no charges are billed against petitioner even if the Garuda Satellite (located in outer space), the Network Control Center (located in Indonesia) were used. Clearly, the absence of successful transmission of the satellite signal by [Aces Bermuda] to petitioner's gateway facilities located in the Philippines, income or payment for satellite [air time] fees will not arise. 
+Thus, it is incorrect to state that the act of transmission of satellite signals occurs entirely outside of the Philippines considering that there is no satellite transmission to speak of if the signal does not reach the gateway facilities situated in the Philippines.
+[31]
+ (Italics supplied.)
+The CTA 
+En Banc
+ pointed out that the services for satellite air time fees do not rely exclusively on the transmission of signals from the satellite in outer space. While the satellite does transmit signals, the service would not be considered delivered to Aces Philippines and its subscribers if those signals do not reach the 
+gateways
+ located in the Philippines.
+[32]
+Moreover, in upholding the imposition of deficiency interest, the court 
+a quo
+ ratiocinated that the law imposes the liability for the payment of FWT on the withholding agent. Thus, when there is deficiency FWT, the withholding agent shall also be liable for the deficiency interest arising therefrom.
+[33]
+ Deficiency interest accrues based on any amount of due and unpaid tax.
+[34]
+Aces Philippines moved for reconsideration. When the CTA 
+En Banc
+ denied its motion, it filed the present petition.
+Petitioner's Arguments
+For reference, Aces Philippines' arguments are reproduced below.
+A. PAYMENTS FOR SATELLITE AIR TRANSMISSION RECEIVED BY A NONRESIDENT FOREIGN COMPANY IS FROM SOURCES OUTSIDE THE PHILIPPINES, HENCE, NOT SUBJECT TO INCOME TAX IN THE PHILIPPINES, CONSEQUENTLY, NOT SUBJECT TO FINAL WITHHOLDING TAX
+[35]
+Income Sourced Outside the Philippines is Not Subject to Philippine Income Tax
+[36]
+Satellite Airtime Fees are not Rentals or Royalties
+[37]
+BIR previously ruled that Fees for Space Segment Services are Income Derived from Sources Outside the Philippines and are therefore Not Subject to Philippine Income Tax and consequently to Withholding Tax
+[38]
+Several United States tax laws, jurisprudence and tax regulations address the source of income principle on satellite communications which have persuasive effect in our jurisdiction
+[39]
+The US IRS has Governing Source Rules on Space and Ocean Activities and International Communications Activities
+[40]
+Stare Decisis is Not Applicable since Baier-Nickel's and Howden [sic] Circumstances are Different from the Case at Hand
+[41]
+The Same 1996 Edition of Merten's Treatise on Law of Federal Income Taxation cited in the Baier-Nickel case has Specifically Addressed Special Types of Income such as International Communications Income
+[42]
+Commentaries on Article 5 of the Model Tax Convention on Income and on Capital of the Organisation for Economic Co- operation and Development (OECD) can be applied in the instant case
+[43]
+Various other jurisdictions have ruled that satellite airtime fees are payments for services not subject to withholding tax in such jurisdictions
+[44]
+[Aces Bermuda]'s undertaking to provide Satellite Services to [Aces Philippines], being the activity that produced the income took place outside the Philippines
+[45]
+Assuming for the sake of argument that the satellite airtime fees are subject to Philippine income tax and consequently to withholding tax, it is not the intent of the law to simultaneously impose a 20% deficiency interest, per annum, on the unpaid balance of tax deficiency until full payment
+[46]
+In the main, Aces Philippines insists that Aces Bermuda's income from satellite air time fee payments was sourced outside the Philippines for the following reasons: 
+first,
+ the act of transmission, which takes place in outer space, is the activity that produces the income for Aces Bermuda.
+[47]
+ 
+Second, 
+Aces Bermuda does not have machinery, equipment and/or computers, or employees in the Philippines through which calls would reach and be received within the Philippines.
+[48]
+The act of transmission is the activity
+that produces the income.
+Aces Philippines limits Aces Bermuda's income-producing activity to the "receipt and beaming of satellite signals which all happen in the satellite and its control center, all located outside the Philippines."
+[49]
+ It claims that Aces Bermuda cannot be considered already as carrying out business operations in the Philippines by "[t]he mere fact that the satellite footprint reaches the Philippines."
+[50]
+Aces Philippines provides the following diagram:
+[51]
+Aces Network Topology and Transaction Flow
+(image supposed to be here)
+Stated differently, it describes the satellite system as comprising of the following: (a) Garuda 1, a communications satellite in outer space, which has the capacity to receive, switch, amplify, and transmit radio signals from and to terminals and ground station interlinks called "gateways";
+[52]
+ (b) Satellite Control Facility, which monitors and controls the satellite;
+[53]
+ and (c) Network Control Center, which consists of the hardware, software, and facilities required in the management and control of the telecommunications system.
+[54]
+ The Satellite Control Facility and Network Control Center, referred to as the ground or earth stations, are located in Aces Bermuda's facilities in Batam Island, Indonesia.
+[55]
+Aces Philippines insists that the 
+situs
+ of the income derived from the payment of satellite air time fees by Aces Philippines is considered income from sources outside the Philippines, inasmuch as Aces
+Bermuda's ground or earth station that performs the required service (
+i.e.,
+ satellite monitoring, operations, control, and management)
+[56]
+ are located outside the Philippines.
+[57]
+ In a judicial affidavit,
+[58]
+ Felimon R. Llavore (Llavore), Service Quality Assurance Manager of Global Access Group of Smart Communications, Inc., testified that the satellite which beams the signal and routes the call is situated in outer space (
+i.e.,
+ 123 degrees above Indonesia) and clearly outside Philippine jurisdiction.
+According to Aces Philippines, Aces Bermuda's service to Aces Philippines is terminated when the farmer's Network Control Center provides information to the Garuda 1 as to which gateway the call shall be routed to.
+[59]
+ Thereafter, it will be Aces Philippines' gateway/facilities that will receive the call, route the same to a local subscriber using its switch, and process it until termination.
+[60]
+ Further, the endÂ­ users/consumers of this service are most likely seafarers
+[61]
+ deployed in the high seas where there is no wireless signal or tower.
+[62]
+Aces Bermuda has no machinery, 
+equipment, and employees in the 
+Philippines.
+Aces Philippines cites various references to bolster the aboveÂ­ captioned contention.
+In the 
+BIR Ruling No. ITAD-214-02 dated December 4, 2002,
+ the CIR opined that when no equipment is installed in the Philippines and the services rendered by the NRFC had been coursed through satellites, the income from the service fees are regarded as derived from sources outside the Philippines and, thus, not subject to FWT.
+[63]
+Also, in 
+Commissioner of Internal Revenue v. Piedras Negras Broadcasting Co.,
+[64]
+ the 
+United States
+ (US) 
+Circuit  Court of Appeals
+ ruled in connection with foreign radio corporation that broadcasts directly to listeners in the US and elsewhere, 
+viz.:
+We think the language of the statutes clearly demonstrates the intendment of Congress that the source of income is the 
+situs
+ of the income-producing service. The repeated use of the words within and without the United States denotes a concept of 
+some physical presence, some tangible and visible activity.
+ If income is produced by the transmission of electromagnetic waves that cover a radius of several thousand miles, free of control or regulation by the sender from the moment of generation, the source of that income is the act of transmission. 
+All of respondent's broadcasting.facilities were situated [outside] the United States, and all of the services it rendered in connection with its business were performed in Mexico.
+ None of its income was derived from sources within the United States.
+[65]
+ (Citations omitted; italics supplied.)
+Other jurisdictions such as India, Singapore, Thailand, and Germany, also do not regard satellite airtime fee payments as subject to withholding tax.
+[66]
+Likewise, Aces Philippines argues that the source of Aces Bermuda's income is the act of transmission of the call, which occurs in outer space, not the property, activity, or service that produced the income.
+[67]
+ It avers repeatedly that Aces Bermuda's facilities are located outside the Philippines (
+i.e.,
+ outer space, Indonesia). As Aces Bermuda performs the required service outside the Philippines, 
+[68]
+ the satellite air time fees paid by Aces Philippines in exchange therefor are not subject to FWT.
+Aces Philippines also cites the
+ US Internal Revenue Code,
+ which establishes special rules
+[69]
+ for determining the source of 
+international communications income, viz.:
+26 U.S.C.S. Â§ 863, I.R.C. Â§ 863
+ Â§ 863.  Special rules for determining source
+x x x x
+(e)    International communications income.
+(1)    Source rules.
+(A)    United States persons.
+In the case of any United States person, 50 percent of any international communications income shall be sourced in the United States and 50 percent of such income shall be sourced outside the United States.
+(B)    Foreign persons.
+(i)    In general. Except as provided in regulations or clause (ii), in the case of any person other than a United States person, any international communications income shall be sourced outside the United States.
+(ii)    Special rule for income attributable to office or fixed place of business in the United States. In the case of any person (other than a United States person) who maintains an office or other fixed place of business in the United States, any international communications income attributable to such office or other fixed place of business shall be sourced in the United States.
+(2) Definition. For purposes of this section, the term "international communications income" includes all income derived from the transmission of communications or data from the United States to any foreign country (or possession of the United States) or from any foreign country (or possession of the United States) to the United States.
+In brief, 
+under the US taxation laws,
+ the international communications income of a foreign corporation is treated wholly as income sourced outside the US. The only time such income is taxable in the US is in case the foreign corporation maintains an office or other fixed place of business in the US, in which case the income will be attributable to such fixed place of business.
+[70]
+Furthermore, based on the 
+Commentaries on Article 5 of the Model Tax Convention on Income and on Capital,
+[71]
+ "the particular area over which a satellite's signals may be received (the satellite's 'footprint') cannot be considered to be at the disposal of the operator of the satellite so as to make that area a place of business of the satellite's operator." In which case, the footprint alone does not constitute a 
+permanent establishment
+ in a contracting state.
+In sum, Aces Philippines imputes error upon the CTA 
+En Banc
+ for not considering the above-discussed references and, instead, upholding (stare decisis) the principles set out in the cases of 
+Commissioner of Internal Revenue v. Baier-Nickel
+[72]
+ 
+(Baier-Nickel)
+ and 
+Alexander Howden & Co., Ltd. v. Collector of Internal Revenue.
+[73]
+ According to Aces Philippines, the doctrines enunciated therein cannot be applied here because the facts of these precedent cases are not substantially the same with those in the present controversy 
+[74]
+The law does not intend to impose 
+deficiency and delinquency interests 
+simultaneously
+Assuming for the sake of argument that the satellite air time fee payments are subject to FWT, the law did not intend to impose simultaneously a 20% deficiency interest and a 20% delinquency interest, per annum on the unpaid balance of tax deficiency until full payment.
+[75]
+The Issues
+The issues in the present controversy may be restated as follows: 
+first,
+ are the
+ satellite air time fee payments
+ to Aces Bermuda in consideration for services rendered using the Aces System, income from sources within the Philippines?
+ Second,
+ if the primary issue is resolved in the affirmative, is Aces Philippines liable for delinquency interest?
+Our Ruling
+The petition is unmeritorious.
+I
+That taxation is inherent in sovereignty
+[76]
+ limits the scope of taxing power within a state's territorial jurisdiction.
+[77]
+ There must be an established
+ nexus
+ between the subject (e.g., person, property, income, or business) and the state that intends to tax it. The existence of a nexus ensures that the taxing power does not extend beyond its territorial limits.
+[78]
+Under our income tax law, this nexus is established by one's residence and source of income. While    resident    individuals
+[79]
+ and domestic corporations
+[80]
+ are taxed on their 
+worldwide
+ income, the National Internal Revenue Code of 1997, as amended (1997 Tax Code), provides that any 
+''foreign corporation,
+ whether engaged or not in trade or business in the Philippines, is taxable only on income derive
+ from sources within the Philippines.
+"
+[81]
+ In particular, an NRFC
+[82]
+ is subject to a 35% final tax on its "gross income received during each taxable year from 
+all sources within the Philippines."
+[83]
+ Any tax due shall be withheld at source by the income payor (withholding agent),
+[84]
+ who shall be responsible for filing the applicable return and remitting the tax withheld to the BIR.
+[85]
+In other words, the statute recognizes that the taxability of a foreign corporation's income is limited to that which is connected to Philippine territory or 
+Philippine-sourced income.
+ Certainly, other income the foreign corporation may derive from foreign sources is beyond the scope of the Philippines' taxing power.
+In the present case, the CIR assessed Aces Philippines (payor/withholding agent) for deficiency FWT on satellite air time fees paid to Aces Bermuda (payee/income earner), an NRFC, on the theory that such payments constituted Philippine-sourced income. In contrast, Aces Philippines argues the income from these payments was not sourced from the Philippines because Aces Bermuda: (a) performed the relevant service completely outside of the Philippines, and (b) does not own equipment in the Philippines.
+Resolving the issue of whether the satellite air time fee payments to Aces Bermuda is subject to FWT requires a two-tiered approach, where We identify, first, the source of the income and, second, the 
+situs
+ of that source.
+A. 
+Identifying the source
+The gateways' receipt of the call as
+routed by the satellite is the income
+source.
+"Income" refers to the flow of wealth.
+[86]
+ In ascertaining the income source, We must inquire into the property, activity, or service that produced the income,
+[87]
+ or where the inflow of wealth originated.
+[88]
+ It is insufficient to identify just any property, activity, or service. The subject may only be regarded as an income source if the particular property, activity, or service causes an 
+increase in economic benefits, 
+which may be in the form of an inflow or enhancement of assets or a decrease in liabilities with a corresponding increase in equity other than that attributable to a capital contribution.
+[89]
+At this juncture, it is best to recall the structure of the subject satellite system. The "Aces System" is described in the Air Time Purchase Agreement as consisting of 
+satellite/s, terminals, 
+and gateways. The 
+satellite
+ (outer space) receives, switches, amplifies, and/or transmits radio signals to and from the 
+terminals
+ and 
+gateways
+ (terrestrial/ground, including Philippine territory).
+Aces Philippines' description of the system largely concurs with that provided in the agreement, except that it insists that the Aces System's operations can be broken down into two 
+separate
+ 
+segments
+ after a Philippine subscriber makes a call using the satellite user terminal:
+ first,
+ the satellite receives the call and beams the signal to the Network Control Center in Indonesia, which, in turn, would determine the exact Philippine gateway the call shall be routed to.
+[90]
+ 
+Second,
+ the Philippine gateway receives the call, routes it using its switch, and processes it for termination.
+[91]
+ According to Aces Philippines, Aces Bermuda's service is terminated or finished by the time the Indonesian Network Control Center provides information to the Garuda I satellite.
+[92]
+To put it in another way, Aces Philippines attempts to remove the subject satellite air time fees from the reach of Philippine taxation by 
+confining
+ Aces Bermuda's service to the 
+first segment,
+ which takes place in/at locations outside the Philippines (
+e.g.,
+ outer space, Indonesia) and attributing the income-generating activity exclusively to the 
+second segment,
+ which is handled by Aces Philippines' facilities without any participation from Aces Bermuda.
+Aces Philippines' theory misleads in that, for purposes of determining Aces Bermuda's income source, the satellite in outer space is completely independent from the terrestrial components of the Aces System, particularly the 
+gateways
+ located within Philippine territory.
+The Court agrees with the CTA that the income-generating activity takes place not during the act of transmission but only upon the gateway's receipt of the call as routed by the satellite. As will be discussed below, the Court identifies the gateway's receipt of the call as the income source as it coincides with (1) the 
+completion or delivery
+ of the service, and (2) the 
+inflow of economic benefits
+ in favor of Aces Bermuda.
+1)    The gateway's receipt of the
+routed call marks the completion 
+or delivery of the service.
+In rejecting Aces Philippines' attempt to single out the act of transmission as the income-producing activity, the Court echoes the CTA En Banc's keen observation that "there is a 
+continuous and very real connection"
+[93]
+ within the components of the Aces System. While the satellite appears to be the focal point of the system, the Court cannot ignore that there is a 
+two-/three-way inter-connection
+ or interÂ­ dependence between/among the satellite in outer space, the control center in Indonesia, and the terminals and 
+gateways in the Philippines.
+By itself, the act of transmission only suggests that a Philippine subscriber has made a call and that the satellite received the call and signaled the control center to determine where the call should be routed. At this point, the satellite and its control center have only determined the location the call shall be directed to but have not actually routed the call. Thus, 
+it is clear that nothing has been sold/delivered yet to Aces Philippines.
+ At best, Aces Bermuda's provision of its service remains inÂ­ progress at this stage and requires further action to be completed.
+That Aces Bermuda's service: (a) relies on the inter-connectivity of the Aces Satellite System's components, and (b) cannot be compartmentalized to the point of transmission are inherent in the nature of its 
+principal undertaking.
+The CTA 
+En Banc
+ emphasized that Aces Bermuda undertook 
+to provide satellite communication time to petitioner Aces Philippines.
+[94]
+ As expressly described in the Air Time Purchase Agreement, Aces Bermuda's provision of satellite communication services relies on the entire Aces System consisting of a satellite that is 
+interconnected
+ with terminals and gateways. The technology was designed precisely to allow local service providers (
+e.g.,
+ Aces Philippines) to access, connect to, and use the Aces Satellite System so that, in turn, the local service providers can cater to their local subscribers (
+e.g., 
+Philippine subscribers) whose calls require the use of access to the Aces Satellite System to be able to contact and be connected to another mobile/landline number.
+Thus, the fulfillment of Aces Bermuda's undertaking requires the satellite to have transmitted/routed the call (first segment) and a gateway to have received the call as routed by the satellite (second segment). At the point of transmission, Aces Philippines has not been given access to the Aces System yet. It is only when the call is actually routed to its gateway that Aces Philippines is able to connect its local subscriber to the intended recipient of the call. In this sense, the gateway's receipt of the call signifies completion/delivery of Aces Bermuda's service.
+2) The accrual of satellite air 
+time fees marks the inflow of 
+economic benefits.
+A reading of Section 3.2 of the Air Time Purchase Agreement, supra, reveals that Aces Bermuda charges satellite air time fees to Aces Philippines according to the latter's usage. Its usage is determined by allocation (Billable Units) based on 
+all calls made to or from Aces Philippines ' subscribers utilizing the Aces System-routed through the satellite
+-regardless of the location of the subscriber at the time of the call or the gateway handling the call.
+[95]
+ Certainly, Aces Philippines will not be charged anything at the point of transmission inasmuch as there has not been any usage at that time and satellite air time fees expressly exclude
+ satellite utilization time for call set-up, unanswered calls and incomplete calls.
+[96]
+In other words, the satellite air time fees accrue only when the satellite air time is delivered to Aces Philippines (i.e., upon the gateway's receipt of the routed call) and is utilized by the Philippine subscriber for a voice or data call.
+[97]
+ The accrual of fees payable to Aces Bermuda signifies the 
+inflow of economic benefits.
+B.
+Identifying the 
+situs
+The situs of the income-producing 
+activity is within the Philippines.
+After having identified the source of the income, We now inquire into its 
+situs.
+ It is settled that where the inflow of wealth and/or economic benefits proceeds from, and occurs within Philippine territory, it enjoys protection of the Philippine government. In consideration of such protection, the flow of wealth should share the burden of supporting the government,
+[98]
+ and thus, is subject to tax.
+The following establishes the Philippine 
+situs
+ of Aces Bermuda's income from satellite air time fee payments: (1) the income-generating activity is directly associated with the 
+gateways located within the Philippine territory; 
+and (2) engaging in the business of providing satellite communication services in the Philippines is a 
+governmentÂ­ regulated industry.
+1)    The income-generating activity
+ is directly associated with the gateways 
+located within Philippine territory. 
+Verily, Aces Philippines' admits that the gateway's receipt of the call as routed by the satellite (i.e., second segment of Aces System) takes place in the Philippines.
+[99]
+ However, it insists that any income arising therefrom cannot be attributable to Aces Bermuda because: (a) Aces Bermuda's operations are confined to its satellite in outer space; and (b) Aces Philippines, not Aces Bermuda, owns the gateways and related equipment installed in the Philippines.
+[100]
+These contentions do not persuade.
+First,
+ the Court has already discussed above that Aces Bermuda's service encompasses both first and second segments of the Aces System's operations. The performance of the service does not cease at the point of transmission but continues until such time Aces Bermuda delivers the satellite communication time (
+i.e.,
+ routes the call) to the Philippine gateway.
+Second,
+ while Aces Philippines is the legal owner/operator of the Philippine gateways, it cannot be denied that these gateways were constructed primarily to serve the needs and requirements of the Aces System.
+To recall, under the Gateway Agreement executed between PLDT and Aces Indonesia in 1995, Aces Indonesia had supplied PLDT with the necessary equipment and software to enable the latter "to construct, own and operate a [g]ateway or [g]ateways in the Philippines."
+[101]
+ The construction of the gateways was an act preparatory to the Air Time Purchase Agreement executed in 1997. It was instrumental in and necessary to providing and installing the required technology in the Philippines precisely to join PLDT/Aces Philippines to the Aces Satellite System.
+The agreements, taken together, were instrumental in allowing Aces Bermuda to make its services available to Philippine subscribers. The nature of its undertaking necessitates Aces Bermuda to contract service providers in specific jurisdictions like the Philippines. Even if Aces Bermuda operates the satellite in outer space, it cannot provide its services completely even if a territory is within its coverage. It needs: (a) to cause the construction of 
+terrestrial gateways
+ that will receive signals from its satellite; (b) to provide the specific equipment and software to ensure that the gateways are compatible with the Aces System; and (c) to contract a local supplier (
+e.g.,
+ PLDT/Aces Philippines) that would operate the gateways and act as its local distributor of services.
+The foregoing observations are consistent with the general company description in Aces Bermuda's 2008 Consolidated Financial Statements,
+[102]
+ 
+viz.:
+The Company has authorized National Service Providers ("NSPs") of the Aces System to the followings (sic)[:] PT Pasifik Satelit Nusantara ("PSN") for Indonesia, Philippines Long Distance Company ("PLDT") further assigned to ACeS Philippines Cellular Satellite Corporation ("APCSC"), for Philippines and Jasmine Overseas Company Limited ("Jasmine") for Thailand with sole supplier rights in their respective countries. 
+The continuation of Company's operation is largely dependent upon the successful operations of the NSPs.
+[103]
+ (Italics supplied.)
+To stress, the income-generating activity (
+i.e., 
+accrual of satellite airtime fee payments and completion of the principal undertaking) coincides with the receipt of the routed call by gateways located within Philippine territory. That income generation is dependent on the operations of facilities situated in the Philippines contributes to the income's Philippine 
+situs.
+ Verily, the gateways are legally owned by Aces Philippines. Nonetheless, Aces Bermuda has sufficient economic/beneficial interest in these Philippine properties, inasmuch as its Philippine operations are dependent on these local facilities.
+2) The provision of satellite 
+communication services in the 
+Philippines is a government-regulated 
+industry.
+The contracting of a Philippine gateway operator and service provider is pivotal particularly to Aces Bermuda's operations in the Philippines because the local public telecommunications industry is state-regulated.
+[104]
+ Only telecommunications entities endowed with a state-granted franchise may operate within the territory.
+[105]
+ That a foreign satellite service provider seeks to provide telecommunications services to Philippine subscribers or otherwise participate in the Philippine telecommunications industry necessarily invokes Philippine sovereignty and government intervention/protection.
+All told, that the main asset is situated in outer space cannot be determinative of the income source and the 
+situs
+ thereof. 
+[106]
+ At this point, it' is clear that: (a) Aces Bermuda's income attaches to property operated and maintained in the Philippines, and (b) making Aces Services available to Philippine subscribers, albeit through its local service provider, is an endeavor that requires the intervention of the Philippine government. In the Court's view, it is only fair that this income be subjected to Philippine taxation; to hold Aces Bermuda accountable for its share in compensating the government for the protection it accords to Aces Bermuda's arrangements, operations, and related transactions in the Philippines.
+The references cited by Aces 
+Philippines do not have the
+force of law in our jurisdiction.
+Aces Philippines cites the following references to refute the satellite airtime fee's Philippine 
+situs:
+1)    BIR Ruling No. ITAD-214-02;
+2)    
+Commissioner of Internal Revenue v. Piedras Negras Broadcasting
+ decided by the US Circuit Court of Appeals, as well as other cases decided in 
+India, Singapore, Thailand, and Germany;
+3)    Section 863(e) of the US Internal Revenue Code; and
+4)    OECD Commentaries on Article 5 of the Model Tax Convention on Income and on Capital.
+On the one hand, the authority of the issuing bodies/tribunals from which the above-enumerated references is derived is not in question.
+However, as these rulings and legislation do not have the force of law in the Philippines, these shall not persuade the Court.
+1) BIR Ruling No. ITAD-214-02
+This ruling was issued by the CIR
+[107]
+ in response to a query submitted by C.L. Manabat & Co. on behalf of its client, Sky Subic Satellite System, Inc. Being 
+a specific interpretative rule
+ addressing issues raised by a particular taxpayer, it binds the CIR only with respect to the inquiring taxpayer.
+[108]
+ In other words, all other taxpayers are not at liberty to rely on this ruling as its application is limited to the specific taxpayer and the factual circumstances upon which the ruling was based.
+2) US cases/legislation and 
+jurisprudence from foreign
+jurisdictions
+While the Court has on occasion relied on US cases and legislation in resolving tax cases,
+[109]
+ the general rule is that these are not 
+binding
+ and are merely 
+persuasive
+ in our jurisdiction.
+[110]
+ To be clear, the Court relies on US tax laws and regulations only by 
+exception;
+ in instances where the domestic legal provision under consideration was lifted substantively, if not in its entirety, from US legislation.
+[111]
+ If the party relying on the foreign law and/or jurisprudence fails to demonstrate this, the application thereof in our jurisdiction shall not be justified.
+In the present case, Aces Philippines merely states that the Philippine income tax law is of American origin. It did not point to any domestic tax law provision that has been supposedly transposed directly from US tax legislation. This bare statement as to the origins of Philippine income tax law is not a sufficient justification for the Court to apply the US Internal Revenue    Code in resolving the present controversy.
+Aces Philippines decries that the current domestic tax laws and issuances do not have special source rules that 
+deem as foreign-sourced amounts pertaining to international communications services income
+ as the US tax rules 
+[112]
+ do. It points out that the BIR has been unable to "cope with the fast pace of advances in science and technology." As a consequence, there has yet to be a regulation that deals specifically with telecommunication companies for the purpose of clarifying the complicated tax system applicable to them.
+[113]
+Whether there have been few developments in the field of taxation of satellite communications, the Court cannot simply incorporate a foreign law into our legal system to mend this situation. It is fundamental that the power to determine the nature, object, extent, coverage, and 
+situs
+ of taxation tax rests with Congress. "This Court cannot freely delve into those matters which, by constitutional fiat, rightly rest on legislative judgment." 
+[114]
+ That at this time, no Philippine tax law characterizes international satellite communications income as foreign-sourced only reveals that the Legislative did not intend to remove automatically the income of foreign satellite companies from the reach of Philippine taxation. Should there be changes to this intention, only Congress is authorized to put it into effect by amending the law.
+In these lights, there is even less reason to give probative value to case law from foreign jurisdictions other than the US. There is clearly no law or jurisprudence supporting the application of these precedents to the present controversy, much less in our jurisdiction.
+3) OECD Commentaries on Article
+5 of the Model Tax Convention 
+on Income and on Capital
+The OECD is an international standard-setting body 
+[115]
+ that, among others, develops a model or 
+pro-forma
+ tax convention, which contracting states may adopt in executing or amending tax treaties or double tax agreements. The model treaty provisions of the OECD Model Tax Convention on Income and on Capital and the accompanying commentary are irrelevant to the present case for the obvious reason that there is no double tax agreement between the Philippines and Aces Bermuda's country of residence.
+[116]
+Interestingly, Bermuda was recognized as a tax haven
+[117]
+ or a low or no-tax jurisdiction. Aces Bermuda's consolidated financial statements expressly declared that it does not pay any income tax in its residence country.
+[118]
+ 
+If Aces Bermudas income from satellite air time fees is not taxed in the Philippines, in other jurisdictions where Aces Bermuda has local service providers, or even in its residence country, it appears that these amounts will escape completely the imposition of any income tax.
+ These are indicative of a profit shifting strategy: a method of tax avoidance that artificially shifts profits to low or no-tax locations where there is little or no economic activity.
+[119]
+ While most tax avoidance schemes are legal, the OECD itself underscores that these undermine "the fairness and integrity of tax systems because businesses that operate across borders can use [these strategies] to gain a competitive advantage over enterprises that operate at a domestic level." 
+[120]
+Aces Philippines failed to establish
+that the satellite air time fee
+payments are foreign-sourced.
+The rule is that the taxpayer bears the burden of proving that the "income was from sources outside the Philippines and exempt from the application of our income tax law."
+[121]
+ In this regard, the CTA categorically ruled that petitioner did not present sufficient evidence that the satellite air time fees were generated from sources without the Philippines.
+[122]
+Aces Philippines relied heavily on Llavore's judicial affidavit, where he submitted that "the satellite which beams the signal that will route the call is not within the jurisdiction of the Philippines as the satellite is situated 120 degrees above Indonesia." The CTA did not find Llavore's statements persuasive
+[123]
+ and the Court agrees. The statements merely narrated that the satellite is situated in outer space but did not contradict the finding that Aces Bermuda's service is completed and performed in the Philippines.
+II
+The Court rejects Aces Philippines' theory that the imposition of deficiency interest and delinquency interest, simultaneously, was not the intent of the law. In 
+Takenaka Corporation Philippine Branch v. Commissioner of Internal Revenue,
+[124]
+ the Court explained:
+The law is clear The imposition of deficiency interest and delinquency interest is simultaneous,:
+ pursuant to Section 249 (A) (B) (C) of the NIRC, as amended, to wit: 
+SEC. 249. Interest. - 
+(A)    In General. - There shall be assessed and collected on any unpaid amount of tax, interest at the rate of twenty percent (20%) per annum, or such higher rate as may be prescribed by rules and regulations, front the date prescribed for payment until the amount is fully paid.
+(B)    Deficiency Interest. - Any deficiency in the tax due, as the term is defined in this Code, shall be subject to the interest prescribed in Subsection (A) hereof, which interest shall be assessed and collected from the date prescribed for its payment until the full payment thereof.
+(C)    Delinquency Interest. - In case of failure to pay:
+xxx  xxx  xxx
+(3)    A deficiency tax, or any surcharge or interest thereon on the due date appearing in the notice and demand of the Commissioner, there shall be assessed and collected on the unpaid amount, interest at the rate prescribed in Subsection (A)    hereof until the amount is fully paid, which interest shall form part of the tax.
+A cardinal rule in statutory construction is that when the law is clear and free from any doubt or ambiguity, there is no room for construction or interpretation. There is only room for application. 
+As the 
+statute is clear,
+ plain, and free from ambiguity. it must be given its literal meaning and applied without attempted interpretation.
+ This is what is known as the plain-meaning rule or verba legis. It is expressed in the maxim, index animi sermo, or "speech is the index of intention." Furthermore, there is the maxim verba legis non est recedendum, or "from the words of a statute there should be no departure."
+The NIRC is clear. It imposes deficiency interest at the rate of 20% per annum on any deficiency in the tax due from the date prescribed for its payment under the relevant tax law until full payment thereof. In addition, the NIRC imposes delinquency interest at the rate of 20% per annum on any deficiency tax, or any surcharge or interest thereon from its due date, appearing in the notice and demand of respondent until the amount is fully paid. Failure to pay the deficiency tax assessed, including any surcharge or interest thereon, within the time prescribed for its payment justifies the imposition of delinquency interest.
+[125]
+ (Citations omitted; italics supplied.)
+Significantly, Congress has since enacted RA 10963,
+[126]
+ otherwise known as the Tax Reform for Acceleration and Inclusion (TRAIN) Law, which amended the 1997 Tax Code's interest provision to read:
+Sec. 249. Interest. -
+(A) In General. - There shall be assessed and collected on any unpaid amount of tax, interest at the rate of double the legal interest rate for loans or forbearance of any money in the absence of an express stipulation as set by the Bangko Sentral ng Pilipinas [BSP] from the date prescribed for payment until the amount is fully paid: 
+Provided
+, That in no case shall the deficiency and delinquency interest prescribed under Subsections (B) and (C) hereof, be imposed simultaneously.
+In brief, the TRAIN Law bars the simultaneous imposition of deficiency and delinquency interests. Instead, interest equal to the prevailing legal rate as set by the Bangko Sentral ng Pilipinas shall accrue on any amount of unpaid tax until it is fully paid.
+As pointed out by Associate Justice Japar B. Dimaampao, the Secretary of Finance issued Revenue Regulations No. 21-2018
+[127]
+ to implement the above-cited amendments. The issuance instructs:
+SECTION 6. Transitory Provision. - In cases where the tax liability/ies or deficiency tax/es became due before the effectivity of the TRAIN Law on January 1, 2018, and where the full payment thereof will only be accomplished after the said effectivity date, the interest rates shall be applied as follows:
+ 
+ 
+ 
+Period 
+ 
+ 
+ 
+ 
+ 
+Applicable Interest Type and Rate
+ 
+ 
+ 
+ 
+ 
+ 
+For the period  up to December 31, 2017
+ 
+ 
+ 
+Deficiency and/or interest at 20%
+ 
+ 
+ 
+ 
+ 
+For the period January 1, 2018  until full payment of the tax liability 
+ 
+ 
+ 
+Deficiency and/or interest at 12%
+ 
+ 
+ 
+The double imposition of both deficiency and delinquency interest under Section 249 prior to its amendment will still apply in so far as the period between the date prescribed for payment until December 31, 2017.
+Associate Justice Samuel H. Gaerlan adds that the Court has since had the occasion to deal with the matter of imposition of deficiency and/or delinquency interest in light of the recent statutory developments. In this regard, the Court's Resolution in 
+E.E. Black Ltd. - Philippine Branch v. Commissioner of Internal Revenue
+[128]
+ (E.E. Black Ltd. - Philippine Branch) is instructive inasmuch as it is consistent with the above-discussed amendments and implementing rules.
+Taking these amendments into consideration and guided by Revenue Regulations No. 21-2018, as well as the Court's Resolution in 
+E.E. Black Ltd. - Philippine Branch,
+ deficiency and delinquency interests under the 1997 Tax Code shall be imposed simultaneously but only until December 31, 2017. Beginning January 1, 2018 or upon the TRAIN Law's effectivity, only deficiency interest at the prevailing legal rate of 12% shall accrue on the unpaid amount of tax until fully paid.
+Apart from deficiency and delinquency interests, the CIR also imposed a 25% surcharge on account of Aces Philippines failure, as a withholding agent, to pay the deficiency FWT within the time prescribed. However, notably, Aces Philippines did not question this assessment before the CTA Division and CTA 
+En Banc.
+ It also did not raise in the present petition any defense against the imposition thereof. In other words, Aces Philippines did not submit any reason for the Court to review and, much less, depart from the 25% surcharge assessment. Thus, the Court also upholds this portion of the assessment, as affirmed by the CTA.
+In sum, the satellite air time fee payments to Aces Bermuda constitute income from sources within the Philippines. Thus, the CIR correctly assessed Aces Philippines for deficiency FWT for its failure to withhold the proper amount of tax from its income payments to Aces Bermuda. That Aces Philippines was liable for said deficiency also gave rise to its liability for the additions to tax (e.g., surcharge, deficiency interest, and delinquency interest) under the 1997 Tax Code. Consequently, the CTA 
+En Banc
+ did not commit any error in upholding the assessment, only that the computation of interests shall be modified in accordance with the amendments introduced by the TRAIN Law, as implemented by Revenue Regulations No. 21-2018.
+WHEREFORE,
+ the instant petition is 
+DISMISSED.
+ The Decision dated June 8, 2016 and the Resolution dated August 16, 2016 of the Court of Tax Appeals 
+En Banc
+ in CTA EB Case No. 1242 (CTA Case No. 8567) are 
+AFFIRMED WITH MODIFICATION
+ relative to interest computation, in that Petitioner Aces Philippines is 
+ORDERED TO PAY
+ the following:
+(a)    deficiency interest at the rate of 20% 
+per annum
+ on the basic deficiency final withholding tax of P69,759,259.15 computed from January 10, 2007 until December 31, 2017 pursuant to Section 249(B) of the 1997 Tax Code;
+(b)    delinquency interest at the rate of 20% 
+per annum
+ on the total amount of P87,199,073.94 and on the 20% deficiency interest which have accrued as aforestated in paragraph (a), computed from October 3, 2012 until December 31, 2017 pursuant to Section 249(C) of the 1997 Tax Code; and
+(c)    delinquency interest at the rate of 12% 
+per annum
+ on the unpaid amount (i.e., basic tax plus surcharge and interests computed in paragraphs (a) and (b)) computed from January 1, 2018 until full payment thereof, pursuant to Section 249(C)(3) of the 1997 Tax Code, as amended by Republic Act No. 1 0963.
+SO ORDERED.
+Gesmundo, C.J., Caguioa, Hernando, Lazaro-Javier, Zalameda, Lopez, M., Gaerlan, Rosario, Lopez, J.,  Marquez, Kho, Jr.,
+ and 
+Singh, JJ. 
+concur.
+Leonen, SAJ.,
+ see separate opinion. 
+Dimaampao, J.,
+ see separate, concurring and dissenting opinion.
+[1]
+ 
+Rollo, 
+pp. 11-56.
+[2]
+ 
+Id.
+ at 60-77. Penned by Associate Justice Cielito N. Mindaro-Grulla and concurred in by Associate Justices Juanita C. Castaneda, Jr., Caesar A. Casanova, Esperanza R. Fabon-Victorino, and Ma. Belen M. Ringpis-Liban. Presiding Justice Roman G. Del Rosario issued his Concurring and Dissenting Opinion, as joined by Associate Justice Erlinda P. Uy. Associate Justice Lovell R. Bautista issued his Dissenting Opinion. 
+[3]
+ 
+Id.
+ at 94-96.
+[4]
+ 
+Id.
+ at 712-713. Signed by Regional Director and CESO VI Araceli L. Francisco, Revenue Region No.4. 
+[5]
+ 
+Id.
+ at 530. 
+[6]
+ 
+Id.
+ at 63. 
+[7]
+ 
+Id.
+ at 62-63. 
+[8]
+ 
+Id.
+ at 527-556.
+[9]
+ 
+Id.
+ at 530.
+[10]
+ 
+Id.
+ at 531. 
+[11]
+ 
+Id.
+ at 530. 
+[12]
+ 
+Id.
+ at 530-531. 
+[13]
+ 
+Id.
+ at 530. 
+[14]
+ 
+Id.
+ at 533.
+[15]
+ 
+Id.
+ at 533. 
+[16]
+ 
+Id.
+ at 552.
+[17]
+ 
+Id.
+ at 63.
+[18]
+ 
+Id.
+ at 62-63. 
+[19]
+ 
+Id.
+ at 63. 
+[20]
+ 
+Id.
+ at 712.
+[21]
+ 
+Id.
+ at 65. 
+[22]
+ 
+Id.
+ at712-713. 
+[23]
+ 
+Id.
+ at 712. 
+[24]
+ Computed from July 30, 2006 to August 31, 2012.
+[25]
+ See Decision dated July 23, 2014 of the CTA Second Division as penned by Associate Justice Amelia R. Cotangco-Manalastas and with the concurrence of Associate Justices Juanito C. Castaneda, Jr. and Caesar A. Casanova, 
+rollo, 
+pp. 408-434. 
+[26]
+ 
+Id.
+ at 432-433.
+[27]
+ 
+Id.
+ at 430. 
+[28]
+ 
+Id.
+ at 69.
+[29]
+ See Resolution dated October 15, 2014 of the CTA Second Division, 
+id.
+ at 456-461. 
+[30]
+ 
+Id.
+ at 60-77.
+[31]
+ 
+Id.
+ at71-74. 
+[32]
+ 
+Id.
+ at 74. 
+[33]
+ 
+Id.
+ at 75. 
+[34]
+ 
+Id.
+ at 76.
+[35]
+ 
+Id.
+ at 22. 
+[36]
+ 
+Id.
+ 
+[37]
+ 
+Id.
+ at 26. 
+[38]
+ 
+Id.
+ at 27. 
+[39]
+ 
+Id.
+ at 29. 
+[40]
+ 
+Id.
+ at 32. 
+[41]
+ 
+Id.
+ at 36. 
+[42]
+ 
+Id.
+ at 41.
+[43]
+ 
+Id.
+ at 42. 
+[44]
+ 
+Id.
+ at 44. 
+[45]
+ 
+Id.
+ at 46. 
+[46]
+ 
+Id.
+ at 49-50. 
+[47]
+ 
+Id.
+ at 35. 
+[48]
+ 
+Id.
+ 
+[49]
+ 
+Id.
+ 
+[50]
+ 
+Id.
+ at 34.
+[51]
+ 
+Id.
+ at 562. Marked as Annex "E" in the 
+rollo. 
+[52]
+ 
+Id.
+ at 24. 
+[53]
+ 
+Id.
+ at 25. 
+[54]
+ 
+Id.
+ 
+[55]
+ 
+Id.
+[56]
+ 
+Id.
+ at 28-29. 
+[57]
+ 
+Id.
+ at 28. 
+[58]
+ 
+Id.
+ at 557-559. 
+[59]
+  
+Id.
+ at 25. 
+[60]
+ 
+Id.
+ at 26. 
+[61]
+ 
+Id.
+ at 49. 
+[62]
+ 
+Id.
+ at 26. 
+[63]
+ 
+Id.
+ at 27-28. 
+[64]
+ 127 F.2d 260 (5th Cir. 1942).
+[65]
+ 
+Id.
+ at 261. 
+[66]
+ 
+Rollo, 
+pp. 44-45. 
+[67]
+ 
+Id.
+ at 32. 
+[68]
+ 
+Id.
+[69]
+ 26 U.S.C.S. Â§ 863 (LexisNexis, Lexis Advance through Public Law 117-129 approved May 21 2022).    
+[70] 
+Rollo,
+ p. 34.
+[71] 
+Organization for Economic Co-operation and Development (OECD)(2019), Model Tax Convention on  Income  and  on  Capital 2017 (Full Version), OECD  Publishing,  Paris, 
+ (last accessed on June 6, 2022). 
+[72]
+ 531 Phil. 480 (2006). 
+[73]
+ 121 Phil.579(1965). 
+[74]
+ 
+Rollo,
+ p. 40. 
+[75]
+ 
+Id.
+ at 50.
+[76]
+  See 
+City Gov't. of Quezon City v. Hon. Judge Ericta
+, 207 Phil. 648, 654 ( 1983). 
+[77]
+ 
+Manila Gas Corporation v. Collector of Internal Revenue,
+ 62 Phil. 895, 900 ( 1936). 
+[78]
+ 
+Id.
+; See also 
+Cargill Philippines, Inc. v. Commissioner of Internal Revenue
+, G.R. No. 203346, September 9 2020. 
+[79]
+ Section 23(A), 1997 Tax Code. 
+[80]
+ Section 23(E), 1997 Tax Code. 
+[81]
+ Section 23(F), 1997 Tax Code. 
+[82]
+ Section 22(1) of the I 997 Tax Code defines an NRFC as "a foreign corporation not engaged in trade or business within the Philippines." 
+[83]
+ Section 28(8)( I) of the 1997 Tax Code provides:
+SEC. 28.
+ Rates of Income Tax on Foreign Corporations. -
+x x x x
+(B)
+Tax on Nonresident Foreign Corporation. - 
+(1)
+ In General.
+ - Except as otherwise provided in this Code, a foreign corporation not engaged in trade or business in the Philippines shall pay a tax equal to thirty-five percent (35%) of the gross income received during each taxable year from all sources within the Philippines, such as interests, dividends, rents, royalties, salaries, premiums (except reinsurance premiums), annuities, emoluments or other fixed or determinable annual, periodic or casual gains, profits and income, and capital gains, except capital gains subject
+ to tax under subparagraph 5(c). 
+xxxx 
+[84]
+  Section 57(A) of the 1997 Tax Code provides: 
+SEC. 57.
+ Withholding of Tax at Source.
+ - (A) Withholding of Final Tax on Certain Incomes. - Subject to rules and regulations the Secretary of Finance may promulgate, upon the recommendation of the Commissioner, requiring the filing of income tax return by certain income payees, the tax imposed or prescribed by Sections 24(8)( I), 24(8)(2), 24(C), 24(0)( I); 25(A)(2), 25(A)(3 ), 25(8), 25(C), 25(0), 25(E), 27(0)( I), 27(0)(2), 27(0)(3), 27(0)(5), 28 (A)(4), 28(A)(5), 28(A)(7) (a), 28(A)(7)(b), 28(A)(7)(c), 28(8)(1), 28(8)(2), 28(8)(3), 28(8)(4), 28(8)(5)(a), 28(8)(5) (b), 28(8)(5)(c); 33; and 282 of this Code on specified items of income shall be withheld by payor-corporation and/or person and paid in the same manner and subject to the same conditions as provided in Section 58 of this Code. 
+x x x x 
+[85]
+ Section 58(A) of the 1997 Tax Code provides: 
+SEC. 58. 
+Returns and Payment of Taxes Withheld at Source. - 
+(A) 
+Quarterly Returns and Payments of Taxes Withheld.
+ - Taxes deducted and withheld under Section 57 by withholding agents shall be covered by a return and paid to, except in cases where the Commissioner otherwise permits, an authorized agent bank Revenue District Officer, Collection Agent, or duly authorized Treasurer of the city of  municipality where the withholding agent has his legal residence or principal place of business, or where the withholding agent is a corporation, where the principal office is located. The taxes deducted and withheld by the withholding agent shall be held as a special fund in trust for the government until paid to the collecting officers. The return for final and creditable withholding taxes shall be filed and the payment made not later than the last day of the month following the close of the quarter during which withholding was made. 
+x x x x
+[86]
+ 
+Alexander Howden & Cu., lid. v. Collector of  Internal Revenue,
+ supra note 73 at 584, citing 
+Madrigal and Paterno v. Rafferty and Concepcion,
+ 38 Phil. 414,418 (1918). 
+[87]
+ 
+Id.
+ at 583-584. Also see 
+Commissioner of Internal Revenue v. British Overseas Airways Corporation,
+ 233 Phil. 406, 422 ( 1987); 
+Commissioner of Internal Revenue v. Baier-Nickel, 
+supra
+ note 72 at 418. 
+[88]
+ 
+Manila Gas Corporation v. Collector of Internal Revenue,
+ supra note 77 at 901; See also 
+Cargill Philippines, Inc. v. Commissioner of Internal Revenue
+, G.R. No. 203346, September 9, 2020. 
+[89]
+ The Framework for the Preparation and Presentation of Financial Statements (Conceptual Framework) defines "income" as "increases in economic benefits during the accounting period in the form of inflows or enhancements of assets or decreases of liabilities that result in increases in equity, other than those relating to contributions from equity participants. Income encompasses both revenue and gains. Revenue is income that arises in the course of ordinary activities of an entity and is referred to by a variety of different names including sales, fees, interest, dividends and royalties." See SEC Memorandum Circular No. 12, series of 2019 - Adoption of Revised Conceptual Framework; Summary of Philippine Financial Reporting Standards adopted by the SEC. Available at <
+https://www.sec.gov.ph/wp-content/uploads/2019/11/2011PFRSDecember31.pdf
+>
+ 
+(last accessed on March 4, 2022). Also see 
+Ericsson Telecommunications. Inc. v. City of Pasig,
+ 563 Phil. 417, 431-432 (2007).
+[90]
+ 
+Rollo,
+ p. 25. 
+[91]
+ 
+Id.
+ at 26. 
+[92]
+ 
+Id.
+ at 25.
+[93]
+ 
+Id.
+ at 71. 
+[94]
+ 
+Id.
+ at 74.
+[95]
+ 
+Id.
+ at 533. 
+[96]
+ 
+Id.
+ at 73-74. 
+[97]
+ 
+Id.
+[98]
+ 
+Alexander  Howden & Co.,  Ltd. v. Collector of' Internal Revenue, 
+supra
+ note 73 at 584; 
+Commissioner of Internal Revenue v. British Overseas Airways Corporation,
+ 
+supra
+ note 87 at 422. 
+[99]
+ 
+Rollo,
+ p. 35. Petitioner avers in Paragraph 5.44 of the Petition, "Once the above is done, it is now the Petitioner's equipment and/or personnel which do the work of receiving and routing the call to the proper person. Any machinery, equipment, computer or persons which can receive the signals in the Philippines are owned by the Petitioner. This second leg is the activity which takes place in the Philippines, and as such, income arising from this service having performed in the Philippines, constitute income from sources within the Philippines." 
+[100]
+ 
+Id.
+[101]
+ 
+Id.
+ at 530.
+[102]
+ 
+Id.
+ at 339-372. 
+[103]
+ 
+Id.
+ at 348. 
+[104]
+ Executive Order No. 546, entitled, 'Creating the Ministry of Public Works and Ministry of Transportation and Communications," approved on July 23, 1979; Republic Act No. (RA) 7925, entitled, "Public Telecommunications Policy Act of the Philippines.'' approved on March 1, 1995. 
+[105]
+ Section 16, RA 7925.
+[106]
+ See
+ Dissenting Opinion of Associate Justice Florentino P. Feliciano in Commissioner of lnternal Revenue v. British Overseas Airways Corporation,
+ 
+supra
+ note 87 at 429.
+[107]
+ Signed by Milagros Y. Regalado, Assistant Commissioner, BIR Legal Service, in behalf of CIR. 
+[108]
+ 
+Commissioner of Internal Revenue v. San Roque Power Corp.,
+ 703 Phil. 310, 376(2013). 
+[109]
+ See
+ Commissioner of Internal Revenue v. Baier-Nickel,
+ 
+supra
+ note 72 at 487; 
+Phil. Health Care Providers, Inc. v. Commissioner of Internal Revenue,
+ 616 Phil. 387, 403 (2009);
+ Transimex Co. v. Mafre Asian Insurance Corp., 
+795 Phil. 97,112-113 (2016). 
+[110]
+ 
+Transimex Co. v. Mafre Asian Insurance Corp.,
+ id. 
+[111]
+ Commissioner of Internal Revenue v. Baier-Nickel,
+ supra note 72 at 487;
+ Transimex Co. v. Mafre Asian Insurance Corp.,
+ id. at 113.
+[112]
+ 26 U.S.C.A. Â§ 863, 1.R.C. Â§ 863. 
+[113]
+ 
+Rollo,
+ p. 29.
+[114]
+ 
+Commissioner of Internal Revenue v. Santos,
+ 
+ 343 Phil. 411, 427 (1997), citing 
+ Tan v. Del Rosorio. Jr., 
+ 307 Phil. 342 (1994).
+[115]
+ See OECD iLibrary <
+https://www.oecd.org/about/
+>
+ 
+ (last accessed on June 6, 2022). 
+[116]
+ All valid and effective Double Tax Agreements the Philippines is a party to are listed on the BIR website <
+https://www.bir.gov.ph/index.php/international-tax-matters/international-tax-agreements.html
+>
+(last accessed on March 16, 2022). 
+[117]
+ In 1998, the OECD published "Harmful Tax Competition: An Emerging Global Issue" (1998 Report), a report that, among others, enumerated the criteria for identifying whether a jurisdiction is a being a tax haven. In 2000, the progress report on the 1998 Report listed jurisdictions which met the tax haven criteria. While Bermuda met the criteria, it was not listed as a tax haven in the progress report because it made an advance commitment to cooperate with the OECD in its effort to eliminate harmful tax practices set out in the 1998 report. The OECD's 1998 Report and the 2000 Progress Report are available on <
+https://www.oecd.org/ctp/harmful/1904176.pdf
+>
+ 
+
+
+and  <
+https://www.oecd.org/ctp/harmful/2090192.pdf
+> and 
+ (last Accessed on June 6, 2022), respectively. On the other hand, Bermuda's advance commitment is available on
+ <
+https://www.oecd.org/ctp/harmful/l903535.pdf
+>
+ (last accessed on June 6, 2022). 
+[118]
+ 
+Rollo,
+ p. 358. Note 9 to the Financial Statements discloses the following: "To date no Income, profit, capital or capital gain taxes are levied in Bermuda and, accordingly, the [Aces Bermuda] has not recorded any provision for such taxes. In the event that such taxes are levied, the Company has received an undertaking from the Bermuda Government exempting it from all such taxes until March 28, 2016." 
+[119]
+ See the OECD iLibrary <
+https://www.oecd.org/about/
+>
+ 
+ (last accessed on June 6, 2022). 
+[120]
+ 
+Id.
+[121]
+ 
+Commissioner of Inlernal Revenue v. Baier-Nickel,
+ supra note 72 at 493.
+[122]
+ 
+Rollo,
+ p. 431.. 
+[123]
+ 
+Id.
+ 
+[124]
+ G.R. No. 211589 (Notice), March 12, 2018.
+[125]
+ 
+Id.
+[126]
+ Approved on December 19, 2017.
+[127]
+ Regulations Implementing Section 249 (Interest) of the NIRC of 1997, as Amended under Section 75 of the TRAIN Law, Revenue Regulations No. 21-18, September I 4, 2018.
+[128]
+ G.R. No. 221655 (Notice), January 20, 2021 <
+https://sc.judiciary.gov.ph/17691
+/>
+(last accessed on July 15, 2022).
+EN BANC
+G.R. No. 226680 - ACES PHILIPPINES CELLULAR SATELLITE CORPORATION
+, 
+petitioner, 
+v. THE COMMISSIONER OF INTERNAL REVENUE, 
+respondent.
+Promulgated
+: 
+August 30, 2022
+x - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - x
+CONCURRING AND DISSENTING OPINION 
+LEONEN, 
+J.:
+I concur with the 
+ponencia
+ that the airtime fees received by Aces Bermuda, a nonresident foreign corporation, constitute income within the Philippines, subject to income taxes. However, I dissent to the simultaneous imposition of the deficiency and delinquency interest on the deficiency final withholding tax assessment.
+I
+Section 42 of the National Internal Revenue Code of 1997 provides the rules in determining whether a particular income is derived from sources "within" or "without" the Philippines. Under this provision, income from service is considered sourced within the Philippines when the service is performed in the Philippines.
+Aces Philippines contends that the air time fees came from sources outside the Philippines because the act, of transmission, "the receipt and beaming of satellite signals" takes place abroad, so their 
+situs
+ lies outside the Philippines.
+Aces Philippines is mistaken. Under the Civil Code, there is performance when "the thing or service in which the obligation consists has been completely delivered or rendered, as the case may be."
+[1]
+ Here, from the express terms of the parties' agreement, service is completely rendered upon the actual connection of calls to or from the Philippines.
+Under the Air Time Purchase Agreement, Aces Indonesia/ Aces Bermuda grants PLDT/Aces Philippines the exclusive right to sell the Aces services to end-users or subscribers in the Philippines. PLDT/Aces Philippines shall pay Aces Indonesia/ Aces Bermuda airtime fees for satellite communications time used, "excluding satellite utilization time for all set-up, unanswered calls, and incomplete calls."
+[2]
+In other words, Aces Philippines will be charged/billed only for the successful connection of calls to and from Philippine subscribers. Aces Bermuda will earn income only when the service is completed, i.e. the routed call is received.
+The provision of telecommunications services in the country is subject to franchise and licensing requirements.
+[3]
+ Through Aces Philippines' international gateway facility, Aces Bermuda is able to provide its satellite communication services to end users or subscribers in the Philippines. Aces Bermuda's income source is the business generated by Aces Philippines for the use of Aces communications services. Aces Bermuda benefited from the infrastructures put in place and regulated in the country. Therefore, its income is deemed sourced within the Philippines and is subject to income tax.
+II
+The imposition of deficiency and delinquency interest is provided under Section 249 of the National Internal Revenue Code of 1997, as amended:
+SECTION 249. 
+Interest.-
+(A)    
+In General.
+- There shall be assessed and collected on any unpaid amount of tax, interest at the rate of twenty percent (20%) per annum, or such higher rate as may be prescribed by rules and regulations, from the date prescribed for payment until the amount is fully paid.
+(B)    
+Deficiency Interest.
+-Any deficiency in the tax due, as the term is defined in this Code, shall be subject to the interest prescribed in Subsection (A) hereof, which interest shall be assessed and collected from the date prescribed for its payment until the full payment thereof
+(C)    
+Delinquency Interest.
+- In case of failure to pay:
+(1)    The amount of the tax due on any return required to be filed, or
+(2) The amount of the tax due for which no return is required, or
+(3) A deficiency tax, or any surcharge or interest thereon 
+on the due date appearing in the notice and demand
+ of the Commissioner, there shall be assessed and collected on the unpaid amount, interest at the rate prescribed in Subsection
+(A) hereof 
+until the amount is fully paid,
+ which interest shall form part of the tax[.]
+Section 249(B) imposes a 20% per annum deficiency interest for any deficiency tax due, which is computed starting from the date prescribed for its payment 
+until the full payment thereof
+Section 249(C), on the other hand, imposes a 20% per annum delinquency interest on the following: (1) when a taxpayer filed a return but failed to pay the tax due thereon; (2) when a taxpayer failed to pay the tax due for which no return is required; or (3) when the Bureau of Internal Revenue issued a notice and demand for the collection of unpaid tax (deficiency tax plus surcharge or interest thereon). Delinquency interest is computed starting from the date indicated in the notice 
+until the full payment thereof
+In the old Tax Code,
+[4]
+ deficiency interest is computed from the date prescribed for payment 
+until the date the deficiency tax is assessed or upon notice and demand.
+ Delinquency interest, on the other hand, is collected, from the date of notice and demand until full payment.
+Because of the way Section 249(B) of the National Internal Revenue Code of 1997 is worded, it may happen that both deficiency and delinquency interest are imposed simultaneously against an erring taxpayer.
+To illustrate:
+Let us assume that in March 2020, the Bureau of Internal Revenue issued a final notice to X Co. demanding payment of deficiency income tax of P100,000.00 for the taxable year 2018. The notice indicates that the deficiency tax, including penalties and interest, must be paid on or before April 15, 2020, and X Co. paid the deficiency tax only on April 15, 2022.
+Applying Section 249(B), X Co. is required to pay deficiency interest of 20% computed from April 15, 2019 until April 15, 2022, or a total of P60,000.00.
+Moreover, since X Co. failed to pay on the due date specified in the final notice, applying Section 249(C), it is required to pay delinquency interest at the rate of 20% computed from April 15, 2020 until April 15, 2022 or a total of P48,000.00.
+[5]
+Thus, the deficiency tax of Pl00,000.00 is simultaneously subject to deficiency interest and delinquency interest, in the total amount of P100,000.00 (P60,000.00 + P40,000.00). The total amount of interest is, in effect, equal to the basic deficiency tax due. Thus, the amount of deficiency tax assessment could double in just three years because of the overlapping imposition of deficiency and delinquency interest.
+Interests are imposed to encourage taxpayers to pay the correct amount of taxes in a timely manner, as well as to compensate the government for the time value of money lost due to delays in the payment of taxes.
+[6]
+ The collection of interests is not penal but compensatory in nature.
+[7]
+From the example given, the manner of imposition of deficiency interest and delinquency interest under the National Internal Revenue Code of 1997 was confiscatory and oppressive.
+In 2018, the Republic Act No. 10963, or the Tax Reform for Acceleration and Inclusion (TRAIN) Law, took effect, which among others, amended Section 249 of the National Internal Revenue Code of 1997:
+SECTION 75. Section 249 of the NIRC, as amended, is hereby further amended to read as follows:
+SEC. 249. 
+Interest. -
+(A) In General.
+ - There shall be assessed and collected on any unpaid amount of tax, interest at the rate of double the legal interest rate for loans or forbearance of any money in the absence of an express stipulation as set by the Bangko Sentral ng Pilipinas from the date prescribed for payment until the amount is fully paid: 
+Provided, That in no case shall the deficiency and the delinquency interest prescribed under Subsections (B) and (C) hereof be imposed simultaneously.
+(B) Deficiency Interest.
+ - Any deficiency in the tax due, as the term is defined in this Code, shall be subject to the interest prescribed in Subsection (A) hereof, which interest shall be assessed and collected from the date prescribed for its payment 
+until the full payment thereof or upon issuance of a notice and demand by the Commissioner of Internal Revenue, whichever comes earlier.
+ (Emphasis supplied)
+Section 75 of the TRAIN Law reverts to the computation of deficiency interest under the old Tax Code.
+A comparison of Section 249 under the National Internal Revenue Code of 1997 and the TRAIN Law is shown below:
+ 
+ 
+ Interest 
+ 
+ NIRC 
+ 
+ TRAIN 
+ 
+ 
+ 
+ 
+ Rate 
+ 
+ 
+ 
+ 20% 
+ 
+ 
+ 
+ Twice the legal rate (6% per BSP Circular No. 799) 
+ 
+ 
+ 
+ 
+ 
+ Deficiency interest (on the basic deficiency tax due) 
+ 
+  
+ 
+ 
+ 
+ From the    date prescribed
+  for  the  payment of the 
+ deficiency tax
+ 
+until full payment
+ 
+ 
+ 
+ From the date prescribed for the payment of the deficiency tax 
+until full payment or upon notice and demand by the Commissioner, whichever comes earlier.
+ 
+ 
+ 
+ 
+ 
+ 
+ Delinquency interest (on the basic deficiency tax due+ penalties and interest)
+ 
+ 
+ 
+  From the date indicated in the notice and demand until the full payment thereof.
+ 
+ 
+ 
+ From the date indicated in the notice and demand until the full payment thereof. 
+ 
+ 
+ 
+Section 75 of the TRAIN Law contains words of positive prohibition - 
+"that in no case shall the deficiency and the delinquency interest ... be imposed simultaneously," which is mandatory.
+ The provision is curative
+[8]
+ in nature. It cures the defect in the wording of Section 249 of the National Internal Revenue Code of 1997 by curbing the oppressive effect of a simultaneous imposition of deficiency and delinquency interest, and hence, should operate retroactively to pending proceedings like this case. " Tax laws must be construed in favor of the taxpayer and strictly against the government."
+[9]
+Applying retroactively the 
+proviso
+ in the amendatory provision will not adversely affect any vested right. It is more m keeping with "right and justice"
+[10]
+ and the policy
+[11]
+ of the TRAIN Law to provide equitable relief to taxpayers.
+ACCORDINGLY
+, I vote to 
+PARTIALLY GRANT
+ the Petition.
+(SGD.) MARVIC M.V.F. LEONEN 
+Senior Associate Justice
+[1]
+ 
+Civil Code, Article 1233.
+[2]
+ 
+Ponencia,
+ p. 6. 
+[3]
+ CONST, art. XII, sec. 11. See also Commonwealth Act No. 146, Section 13(b).
+[4]
+ 
+Presidential Decree No. 1158, sec. 51(d), National Internal Revenue Code of 1977 provides: 
+SECTION 51.
+ Payment and Assessment of Income Tax 
+- ...
+(d) 
+Interest on deficiency.
+ - Interest upon the amount determined as a deficiency shall be assessed at the same time as the deficiency and shall be paid upon notice and demand from the Commissioner and shall be collected as a part of the tax at the rate of fourteen per centum 
+per annum
+ from the date prescribed for the payment of the tax (or, if the tax is paid in installments, from the date prescribed for the payment of the first installment) 
+to the date the deficiency is assessed: Provided,
+ That the maximum amount that may be collected as interest on deficiency shall in no case exceed the amount corresponding to a period of three years, the present provisions regarding prescription to the contrary notwithstanding.
+(e) 
+Additions to the tax in case of nonpayment.
+ - (1) 
+Tax shown on the return.
+ - Where the amount determined by the taxpayer as the tax imposed by this Title or any installment thereof, or any part of such amount or installment, is not paid on or before the date prescribed for its payment, there shall be collected as a part of the tax, interest upon such unpaid amount at the rate of fourteen per centum per annum from the date prescribed for its payment until it is paid: 
+Provided,
+ That the maximum amount that may be collected as interest on deficiency shall in no case exceed the amount corresponding to a period of three years, the present provisions regarding prescription to the contrary notwithstanding. (2) 
+Deficiency
+. - Where a deficiency, or any interest assessed in connection therewith under paragraph (d) of this section, or any addition to the taxes provided for in Section seventy-two of this Code is not paid in full within thirty days from the date of notice and demand from the Commissioner of Internal Revenue, there shall be collected upon the unpaid amount, as part of the tax, interest at the rate of fourteen
+ per centum per annum from the date of such notice and demand until it is paid: Provided,
+ That the maximum amount that may be collected as interest on deficiency shall in no case exceed the amount / corresponding to a period of three years, the present provisions regarding prescription to the contrary notwithstanding. 
+Commonwealth Act No. 466, sec.51(d), National Internal Revenue Code of 1939, as amended by Republic Act No. 2343 (1959) contains the same provision except for the rate of interest imposed, thus: SECTION 51. 
+Assessment and Payment of Income Tax. - ...
+(d)
+ Interest on deficiency.
+ - Interest upon the amount determined as a deficiency shall be assessed at the same time as the deficiency and shall be paid upon notice and demand from the Commissioner of Internal Revenue; and shall be collected as a part of the tax, at the rate of six 
+per centum per annum
+ from the date prescribed for the payment of the tax (or, if the tax is paid in installments, from the date prescribed for the payment of the first installment) to the date the deficiency is assessed: 
+Provided, 
+That the maximum amount that may be collected as interest on deficiency shall in no case exceeded the amount corresponding to a period of three years, the present provisions regarding prescription to the contrary notwithstanding.
+[5]
+ 
+[0.20 x (P100,000 + P20,000)) x 2 years. 
+[6]
+ 
+Republic v. Philippine Bank of Commerce,
+ 
+145 Phil. 81, 89 (1970) [Per J. Dizon, 
+En Banc
+].See also
+ C
+entral Azucarera Don Pedro v. Court of Tax Appeals,
+ 
+126 Phil. 685 ( 1967) [Per J. Reyes, J.B.L., En Banc]. 
+[7]
+ 
+Id.
+[8]
+ 
+Emcor, Inc. v. Sienes,
+ 615 Phil. 33, 46 (2009) [Per J. Peralta, Third Division], citing 
+Narzoles v. NLRC, 
+395 Phil. 758 (2000) [Per J. Kapunan, First Division]: 
+Curative statutes are enacted to cure defects in a prior law or to validate legal proceedings which would otherwise be void for want of conformity with ce11ain legal requirements. They are intended to supply defects, abridge superfluities and curb certain evils. They are intended to enable persons to carry into effect that which they have designed or intended, but has failed of expected legal consequence by reason of some statutory disability or irregularity in their own action. They make valid that which, before the enactment of the statute was invalid. Their purpose is to give validity to acts done that would have been invalid under existing laws, as if existing laws have been complied with. Curative statutes, therefore, by their very essence, are retroactive. 
+[9]
+ 
+Commissioner of Internal Revenue v. SM Prime Holdings, Inc., 
+627 Phil. 581,605 (2010) [Per J. Del Castillo, Second Division]. 
+See also Michel J. Lhuillier Pawnshop, Inc. v. Commissioner of Internal Revenue,
+ 
+522 Phil. 693 (2006) [Per J. Ynares-Santiago, First Division]; 
+Commissioner of Internal Revenue v. Philippine American Accident Insurance Co., Inc.,
+ 
+493 Phil. 785 (2005) [Per J. Carpio, first Division]; 
+Collector of Internal Revenue v. De Los Angeles,
+ 101 Phil. 1026 (1957) [Per J. Reyes A., En Banc].
+[10]
+ 
+CIVIL CODE, art. 10 provides:
+Article 10. In case of doubt in the interpretation or application of laws, it is presumed that the lawmaking body intended right and justice to prevail. 
+[11]
+ Republic Act No. 10963, sec. 2, Tax Reform for Acceleration and Inclusion Law (TRAIN).
+EN BANC
+G.R. No. 226680 
+(Aces Philippines Cellular Satellite Corporation v. The Commissioner of Internal Revenue)
+Promulgated:   
+ August 30, 2022
+x - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - x
+SEPARATE CONCURRING AND DISSENTING OPINION
+DIMAAMPAO, 
+J.:
+"[E]very person surrenders a portion of their income for the running of the government, and the government in turn, provides tangible and intangible benefits to serve and protect those within its jurisdiction."1 This describes the benefits-received principle in taxation.
+The instant Petition calls upon the Court to settle a novel question of law: is income paid to a foreign corporation for satellite services it provides subject to taxation in our jurisdiction?
+The 
+ponencia
+ answers this issue in the affirmative based on a close examination of the ACeS System as described in the Air Time Purchase Agreement executed between Aces Philippines Cellular Satellite Corporation (petitioner) and Aces International Limited, the foreign corporation incorporated in Bermuda (Aces Bermuda).
+Although I agree with this conclusion, I believe that the 
+ponencia
+ should have also scrutinized the instant case in light of the relevant principles laid down by the Court in the very recent case of 
+Saint Wealth Ltd. v. Bureau of Internal Revenue,
+[2]
+ where our traditional rules on recognizing the source of income was applied to the economic activities of Philippine Offshore Gaming Operators (POGOs).
+Indeed, an identical level of complex innovativeness attends the present query, and Our decision would have far-reaching implications to other parties and transactions similarly-situated.
+In 
+Saint Wealth,
+ the Court was tasked with properly assessing the taxability of an unprecedented situation: POGOs providing and participating in offshore gaming services. There, the Court undertook to carefully analyze how the POGOs operated and how they derived revenues. The Court's eventual conclusion found its legal mooring under Section 42 (A)
+[3]
+ of the National Internal Revenue Code (Tax Code), as amended by Republic Act No. 8424,
+[4]
+ and from the seminal cases of Commissioner of Internal Revenue v. British Overseas Airways Corporation (BOAC)
+[5]
+ and 
+Commissioner of Internal Revenue v. Baier-Nickel.
+[6]
+The Court ratiocinated that the POGOs derived no income from sources within the Philippines "because the 'activity' which produces income occurs and is located outside the territory of the Philippines. Indeed, the flow of wealth or the income-generating activity-the placing of bets less the amount of payout - transpires outside the Philippines."
+[7]
+ Thus, the POGOs, by the very nature of their operations and limited presence, could not have been said to enjoy any protection from the State as to justify their taxation in this jurisdiction.
+This was the necessary outcome of applying the prevailing 
+situs
+ rules embodied in Our Tax Code. The Court recognized this inherent statutory limitation in the State's current ability to exact taxes when it observed that "until such time as existing tax treaties and tax laws are revised and revisited to account for the digital economy, this Court must apply the laws as they currently are. Since, as explained above, no income is derived from sources within the Philippines, offshore-based POGO licensees cannot be subjected to income tax."
+[8]
+From the foregoing, the question devolves to whether the same principles should apply to Aces Bermuda's satellite services. To my mind, they do not.
+At first blush, the services provided by Aces Bermuda do seem to present the same issues that arose from the incorporeality of the POGO transactions rendered in the digital economy. It cannot be gainsaid that when the movement of products or services are neither tangible nor visible, there is a layer of added complexity in pinpointing precisely where the business activity which produces the taxable income occurs. This was precisely the challenge that the Court hurdled in arriving at its ruling in 
+Saint Wealth.
+ However, the apparent nonphysical form of the services rendered by both Aces Bermuda and the POGOs is where the similarities of the two end. As will be extensively discussed below, the present case presents a key distinction that exists by the very nature of how satellite radio signals are utilized which sets it apart from transactions conducted over the internet and which call upon a different conclusion from this Court.
+The revenue-generating activity occurs within the Philippines.
+The "source" of income is not determined by where the payout is either disbursed or physically received but rather where the business activity that produced the same was actually conducted.
+[9]
+ Moreover, in cases where the transaction occurs in multiple stages spanning different taxing jurisdictions, it becomes imperative to determine whether particular stages occurring in the Philippines are so integral to the transaction as a whole that the business activity would not be accomplished without it. In such instances, the foreign corporation would clearly need to rely on the State to produce its income, which is the very tenet of the benefits-received theory.
+Here, it was keenly observed by the 
+ponencia
+ that the performance of the service in this case does not cease at the point of transmission but continues until Aces Bermuda successfully delivers the satellite communication time to the petitioner's gateways. This is further underscored by the parties' own Air Time Purchase Agreement whereby petitioner is only charged based on usage but excludes therefrom satellite utilization time for call set-up, unanswered calls, and incomplete calls. Interestingly, the last two situations presuppose that air time was transmitted from Aces Bermuda and yet by the terms of their contract, petitioner would not be liable for these. This contradicts petitioner's assertion that Aces Bermuda's provided services cease from transmission. Clearly, a complete and successful delivery of air time between and among end users or Philippine subscribers is the anchor of the revenue-generating business activity. Without which, there would be no "inflow of economic benefits" as advanced by the 
+ponencia.
+ This is better appreciated when the ACeS System is illustrated: 
+[10]
+ACeS Svstem
+(Image supposed to be here
+)
+To my mind, and as portrayed in the illustration above, the receipt of the satellite air time by petitioner's gateways and the actual utilization thereof by the Philippine subscribers, whether or not they are found locally or are seafarers in the high seas as claimed by petitioner, are the very core of Aces Bermuda's services.
+ Whether intentionally or unintentionally, Aces Bermuda relies on the State's facilities to pursue its commercial interests. Hence, it cannot disclaim the surrender of a portion of its income in exchange for the State's protection.
+As above-intimated, this distinguishes the instant case from that presented in 
+Saint Wealth.
+ In the afore-cited case, the core stage of the business activity conducted by the POGOs, i.e., the placing of bets less the amount of payout, occurred outside of the Philippines. Hence, there was no basis to impose taxes. This is contra-distinguished in the present case where the receipt of the satellite air time and the eventual successful utilization of the same by end-users is the very trigger for petitioner's payment of fees to Aces Bermuda.
+All in all, Aces Bermuda cannot evade its tax liabilities. By extension, petitioner, having failed to withhold the appropriate taxes, is directly liable for the same as a withholding agent.
+As aptly observed by the ponencia, there is some merit in the petitioner's contention that it should not be held liable simultaneously for deficiency and delinquency interest.
+To be sure, prior to the 2018 amendment to the Tax Code, the wording of Section 249 thereof supported the practice of imposing both deficiency and delinquency interest until the taxes due were paid in full.
+As the 
+ponencia
+ observes, one of the changes introduced by Republic Act No. 10963,
+[11]
+ 
+or the Tax Reform for Acceleration and Inclusion (TRAIN) Act is to halt the hemorrhaging of interest on tax liabilities by proscribing the simultaneous application of deficiency and delinquency interest, to wit:
+SEC. 249. Interest. -
+(A) In General. - There shall be assessed and collected on any unpaid amount of tax, interest at the rate of double the legal interest rate for loans or forbearance of any money in the absence of an express stipulation as set by the Bangko Sentral ng Pilipinas from the date prescribed for payment until the amount is fully paid: Provided, 
+That in no case shall the deficiency and the delinquency interest prescribed under Subsections (B) and (C) hereof, be imposed simultaneously.
+ 
+(Emphases and underscoring supplied)
+It is readily apparent in the minutes of the Bicameral Conference Committee Hearings for the disagreeing provisions to the precursor bills to the TRAIN Act, i.e., House Bill No. 5636 and Senate Bill No. 1592, that Congress expressly adopted this prohibition as a concession to taxpayers, to wit:
+CHAIRPERSON CUA. May I present a proposal from the industry.
+CHAIRPERSON ANGARA. For which provision? Is it for the current provision?
+CHAIRPERSON CUA. Yeah, for the current provision.xx x
+x x x x
+CHAIRPERSON CUA. They also propose expressly to prohibit the simultaneous imposition of deficiency and delinquency interest.
+CHAIRPERSON ANGARA. That's acceptable to the BIR? MR. CHUA. (Nodding) CHAIRPERSON ANGARA. Subject to style, yes. I think that has been a complaint put that on top of the other. Thank you.
+CHAIRPERSON CUA. Thank you, Mr. Chairman.
+[12]
+Indeed, even the Department of Finance conceded that the interest regime under TRAIN was made "fairer and simpler" in order to encourage taxpayers to pay their taxes.
+[13] 
+It recognized the stark reality that prior to this amendment, taxpayers could end up paying accumulated interest penalties which exceeded the amount of the basic deficiency tax.
+[14]
+Clearly, the amendment to Section 249 is a form of remedial legislation which the Court should apply in every opportunity, as in this case.
+In applying the same to the present case, We must be guided by Revenue Regulation No. 21-2018, which implements the amendment to Section 249. Section 6 thereof provides:
+Section 6. TRANSITORY PROVISIONS. - In cases where the tax liability/ies or deficiency tax/es became due before the effectivity of the TRAIN Law on January 1, 2018, and where the full payment thereof will only be accomplished after the said effectivity date, the interest rates shall be applied as follows:
+ 
+ 
+ Period
+ 
+ Applicable Interest 
+ Type and Rate
+ 
+ 
+ 
+ 
+ For the period up to December 31 , 2017 
+ 
+ 
+ 
+ Deficiency and / or delinquency interest at 20% 
+ 
+ 
+ 
+ 
+ 
+ For the period January 1 , 2018 until full payment of the tax liability 
+ 
+ 
+ 
+ Deficiency and / or delinquency interest at 12% 
+ 
+ 
+ 
+The double imposition of both deficiency and delinquency interest under Section 249 prior to its amendment will still apply in so far as the period between the date prescribed for payment until December 31, 2017
+x x x x
+Accordingly, the assailed rulings of the Court of Tax Appeals 
+En Banc
+ were correctly modified by the 
+ponencia
+ when it held that petitioner should only be ordered to pay the basic final withholding tax due with simultaneous deficiency and delinquency of twenty percent (20%) per annum thereon computed from 10 January 2007 until 31 December 2017. Thereafter, only delinquency interest at the rate of twelve percent (12%) per annum shall accrue, computed from 1 January 2018, which is the effectivity date of the TRAIN Act, until full payment.
+In the interest of equity, the imposition of surcharge should be deleted.
+Anent the imposition of surcharge, it is my considered opinion that the same must be deleted. Generally, surcharges are paid to penalize the taxpayer's non-filing or improper filing of returns or non-payment of taxes due. Here, the surcharge was imposed based on Section 248 (3) of the Tax Code for petitioner's "[f]ailure to pay the deficiency tax within the time prescribed for its payment in the notice of assessment."
+In the past, this Court limited the deletion of the surcharges imposed to instances when the taxpayer's "good faith" was grounded on the Bureau of Internal Revenue (BIR)'s previous erroneous interpretations of the law.
+[15]
+ In 
+Philippine Amusement and Gaming Corp. (PAGCOR) v. The Commissioner of Internal Revenue, et al.,
+[16]
+ We sustained the imposition of surcharge considering that the therein taxpayer's "good faith" was based solely on "opinions of the Office of the Government Corporate Counsel, and the [Office of the Solicitor General] and the Resolutions issued by the Department of Justice" which were government offices bereft of any authority to implement or interpret tax laws.
+However, these previous cases did not present the same complexity or novelty as entailed in the present Petition. As the 
+ponencia
+ summarized, the petitioner here relied on (1) BIR Ruling No. ITAD-214-02; (2) 
+Commissioner of Internal Revenue v. Piedras Negras Broadcasting
+ decided by the US Circuit Court of Appeals, as well as other cases decided in India, Singapore, Thailand, and Germany; (3) Section 863(e) of the US Internal Revenue Code; and (4) OECD Commentaries on Article 5 of the Model Tax Convention on Income and on Capital.
+[17]
+ Concededly, none of these references are binding in this jurisdiction and the BIR Ruling relied upon was issued in favor of a different taxpayer.
+Nevertheless, since the taxability of income from satellite services has never been passed upon by this Court and the provisions of the Tax Code, particularly the sections on income tax and 
+situs
+ of taxation, are silent with respect to the treatment of this particular form of revenue, the petitioner's liability to income tax is a difficult question of law and an admitted gray area prior to the promulgation of this Decision. Indeed, petitioner was constrained to rely upon how similar services were treated in other jurisdictions, particularly the U.S. from which our Tax Code was originally drawn from. The similarity in the tax treatment of similar services across multiple jurisdictions supported petitioner's honest belief that the payments it made to Aces Bermuda were not subject to tax.
+With all due respect to the majority, I believe it is of no moment that petitioner failed to raise the issue on the imposition of the surcharge before the CTA. Indeed, as a general rule, the Court may not pass upon issues not raised before the trial court lest We offend the other party's right to due process.
+[18]
+ Nevertheless, this rule admits of exceptions such as when the matter not assigned as an error is closely related to another error that was assigned, or when the resolution thereof is necessary in arriving at a just decision and complete resolution of the case or to serve the interests of justice, as in this case.
+[19]
+Undoubtedly, the issue on petitioner's liability for surcharge is closely related to its ultimate tax liability. Moreover, and as above-discussed, this point of law has never been passed upon by the Court and this necessitates that We temper petitioner's liability to cushion the blow as it were, especially since it had colorable basis for believing that it was not subject to tax for its transactions.
+Undoubtedly, it is within the power of the Court to temper penalties on the basis of good faith and honest belief.20 I believe the current situation merits the same exercise of equity.
+With the foregoing discourse, I vote to partly grant the
+ Petition.
+(SGD.) JAPAR B. DIMAAMPAO
+Associate Justice
+[1]
+ Saint Wealth Ltd. v. Bureau of Internal Revenue, et. al., 
+G.R. Nos. 252965 & 254102, 7 December 2021. 
+[2]
+ 
+Id.
+[3]
+ Section 42. Income from Sources Within the Philippines.- 
+(A) Gross Income Fr.om Sources Within the Philippines. - The following items of gross income shall be treated as gross income from sources within the Philippines: 
+x x x x
+(3) Services. - Compensation for labor or personal services performed in the Philippines;
+x x x x
+[4]
+ TAX REFORM ACT OF 1997, enacted on 11 December 1997. 
+[5]
+ 233 Phil. 406-438 (I 987).
+[6]
+ 531 Phil. 480-496 (2006). 
+[7]
+ 
+Supra
+ note I. 
+[8]
+ 
+Id.
+[9]
+ 
+Supra
+ note I. 
+[10]
+ Note: The simplified illustration is based on the diagram submitted by petitioner and as described in the pleadings and the records; it was prepared using the stock clip arts provided in Microsoft Word (see
+ rollo, 
+p. 562).
+[11]
+ Approved on 19 December 2017. 
+[12]
+ Minutes of the Bicameral Conference Committee Meeting on the Disagreeing Provisions of H.B. No. 5636 and S.8. No. 1592 on 5 December 2017, pp. EMTB / XYIII-3 to XVIII-4
+[13]
+ "TRAIN removes oppressive rates for delinquent tax payments." Department of Finance, posted on 14 February 2018. Accessed at 
+ <
+https://www.dof.gov.ph/train-removes-oppressive-rates-for-delinquentÂ­ tax-payments/
+>
+[14]
+ 
+Id.
+[15]
+ See 
+Thunderbird Pilipinas Hotels and Resorts, Inc. v. Commissioner of Internal Revenue,
+ G.R. No. 211327, 11 November 2020. 
+[16]
+ 821 Phil. 508-537(2017).    
+[17]
+ Ponencia, 
+p. 26.
+[18]
+ See 
+Figuera v. Ang, 
+788 Phil. 607-621 (2016). 
+[19]
+ 
+Id.
+ 
+[20]
+  See 
+Film Development Council of the Philippines v. Colon Heritage Realty Corp.,
+ G.R. Nos. 203754 & 204418 (Resolution), 15 October 2019, 923 SCRA 583-603.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

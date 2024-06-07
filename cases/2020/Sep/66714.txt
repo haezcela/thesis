@@ -1,0 +1,529 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			885 Phil. 203
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 216599, September 16, 2020 ]
+
+
+VERIZON COMMUNICATIONS PHILIPPINES, INC., PETITIONER, VS. LAURENCE C. MARGIN, RESPONDENT.
+
+
+D E C I S I O N
+
+
+
+
+LOPEZ, J.:
+
+
+Assailed in this Petition for Review (Rule 45) are the following: (1) the Decision
+[1]
+ dated August 18, 2014; and (2) the Resolution
+[2]
+ dated January 29, 2015, both rendered by the Court of Appeals
+[3]
+ (CA), which declared the dismissal of respondent as valid and subsequently denied petitioner's motion for reconsideration.
+Antecedents
+On March 28, 2012, respondent Laurence C. Margin (Laurence) filed a complaint for illegal dismissal and damages against petitioner Verizon Communications Philippines, Inc. (Verizon).
+[4]
+ In his Position Paper,
+[5]
+ Laurence alleged that he was hired by Verizon as network engineer on September 3, 2007.
+[6]
+ Sometime in January 2012, he noticed a decline in his health and experienced constant nausea, difficulty in breathing, colds and cough with spots of blood. Laurence consulted a doctor who advised him to undergo chest x-ray. The results showed that he was suffering from 
+"PTB vs. Pneumonia,"
+[7]
+ for which he was recommended to be in isolation and bed rest for 60 days. Laurence informed his manager, Joseph Benjamin Quintal, of his medical condition, and did not report for work from February 3, 2012 to recuperate from his illness. He went to Guimaras Island to quarantine himself and avoid the spread of his disease. On March 14, 2012, he received a notice to explain forwarded from his residence in Cavite.
+[8]
+ Laurence then called Joseph to ask why he was being made to explain. Allegedly, Joseph answered that his employment was already terminated on March 12, 2012. On the same day that Laurence filed his complaint, Verizon sent him a letter of termination.
+[9]
+Laurence claimed to have been illegally dismissed and entitled to his money claims. He alleged that there was no just or authorized cause for his dismissal and Verizon failed to observe the requirements of due process. Laurence did not abandon his work since he was able to notify Verizon of his illness and the need for medical treatment on isolation. Laurence's absence is justified due to his sickness that needs a long period of rest and quarantine to prevent the spread of the disease to his co-workers.
+[10]
+For its part,
+[11]
+ Verizon narrated that, on February 3,2012, Laurence sent his supervisor, Joseph, a text message notifying of his absence, but did not indicate the duration of his leave.
+[12]
+ Joseph tried to call Laurence wanting to remind the latter to submit a medical certificate and to ask how long he would be out of the office, but Laurence did not take his call. On February 6, 2012, Joseph, through a text message, asked Laurence for his medical certificate and test results,
+[13]
+ but Laurence did not reply. After more than a month of not hearing from Laurence, or on March 8, 2012, Verizon sent its company nurse to the house of Laurence to check on him, as well as, serve a notice
+[14]
+ requiring him to explain his unauthorized absence and why he should not be considered to have abandoned his work. The notice was received by Laurence's cousin, Melrose Anne Basillas.
+[15]
+ It was only on March 14, 2012 that Laurence called Joseph regarding the notice and explained that he had no cellphone reception in the place where he was. On the same day, Laurence sent an email in which he admitted his mistake, apologized for his unauthorized absence, and sought reconsideration of his dismissal.
+[16]
+ In view of Laurence's admission, Verizon terminated his employment on March 28, 2012.
+[17]
+Verizon further averred that Laurence was aware of the company's policies on attendance and absences. Nonetheless, he failed to notify the company of the duration of his leave. The notice he gave to his supervisor is not enough because he did not mention how long he will be absent and did not submit a medical certificate or medical test results. Therefore, Laurence's 38-day absence, from February 3 to March 8, 2012, warrant the termination of his employment. More so, Laurence admitted his mistake in his explanation dated March 14, 2012. There being valid cause to dismiss Laurence, he is not entitled to his monetary claims.
+In its Decision
+[18]
+ dated February 11, 2013, Labor Arbiter (LA) dismissed the complaint, and reasoned as follows:
+Time and again this Office held that in an illegal dismissal case, the onus probandi rests on the employer to prove that the dismissal of an employee is for a valid cause. Failure to show this necessarily means that the dismissal was unjustified and therefore illegal.
+Consistently, while the employee's security of tenure is guaranteed by law, it is also well-organized that employers have the right and prerogative to regulate every aspect of the business affairs in accordance with their discretion and judgement subject to the regulation of the State.
+The free will o[f] the management to conduct its own business includes the promulgation of policies, rules and regulations on work-related activities. The policies and regulations so promulgated, unless shown to be grossly oppressive or contrary to law are generally valid and binding on the parties and must be complied with until finally revised or amended, unilaterally or through negotiation, by competent authority. x x x.
+Undisputed is the fact that respondent company set-forth a rule against absenteeism. As shown by the evidence, the company ha[s] a rule that unauthorized absences for five (5) consecutive days is considered abandonment which carries a penalty of dismissal, x x x
+x x x x
+While this tribunal is mindful that complainant notified his Manager Mr. Quintal about his illness on February 3, 2012 and his intention not to report to work that day, this fact does not excused [sic] him from at least notifying the company of his extended absences. It bears to point out that complainant is a Network Engineer. As admitted by complainant, he is tasked to perform work with the Network Operation Center environment supporting and manage[s] services customer that strongly utilizes DSL and EVDO transport fault analysis and resolution of network anomalies. He was also tasked to diagnose and troubleshoot problems and drive application responsible parties to perform repair activities and drive applicable vendors through escalations and provide ongoing status updates to customer and management x x x. By the nature of his position, the operation of the company evidently] relies greatly on his presence in the site.
+Going on prolonged unauthorized absences for thirty eight (38) days indubitably hamper the operation of the company.
+Considering that complainant went on prolonged absence without official leave for thirty eight (38) consecutive days, without informing his immediate supervisor or the company about it and without even offering any reasonable explanation for his failure to inform the company of his prolonged absences, the company cannot be faulted its apply is rule on absenteeism.
+The contention of complainant that he was waiting for the instruction of his Manager on what to do after he went on leave will not exonerate him of his failure to file an application for leave of absence or at least inform the company of his intention to extend his absence from work, more so, that the company rule which include the rule on absenteeism was made know to all its employees during orientation and the same is even uploaded in the company's web site.
+[19]
+ (Citations omitted.)
+Aggrieved, Laurence appealed before the National Labor Relations Commission (NLRC), pointing out that the arbiter's Decision did not clearly and distinctly set forth the facts and law from which their conclusion was made. Verizon failed to present sufficient evidence to prove just or authorized cause for the dismissal nor was Verizon able to show that it observed the requirements of due process. Laurence's prolonged absence was due to health reasons and he did not intend to abandon his work.
+[20]
+The NLRC, in its Decision
+[21]
+ dated May 30, 2013, reversed the arbiter's ruling, to wit:
+WHEREFORE, the Complainant's Appeal is GRANTED and the Decision dated 11 February 2013 of the Labor Arbiter is SET ASIDE. Respondent-Verizon Communication Philippines Incorporated, Inc. [sic] is hereby ORDERED to pay the Complainant:
+1. Backwages from the time he was dismissed or on 28 March 2012 until the Decision of this case attains finality, based on his last pay before he was dismissed x x x;
+x x x x
+2. Separation pay equivalent to one month for every year of service, based on his latest salary, from the start of his employment or on 3 September 2007 until the finality of the Decision in this case. A fraction of at least six (6) months shall be considered as one (1) whole year x x x;
+x x x x
+3. Attorney's fees equivalent to 10% of the total award of backwages and separation pay in the amount of P97,893.01.
+SO ORDERED.
+[22]
+The NLRC held that Laurence was illegally dismissed because of Verizon's failure to show just cause to terminate his employment. There is no showing that Laurence's absence was unauthorized. The company's rules do not require an employee to tender proof of sickness or illness, before or during the time while he/she is sick. What the rules mandate is for an employee to notify his/her manager four hours before sick leave and to submit his/her medical certificate upon return. Laurence was able to notify his immediate supervisor, Joseph Quintal, through text message about his sickness and his leave on February 3, 2012. The NLRC likewise held that Verizon did not give Laurence an opportunity to be heard before he was dismissed.
+Unable to secure
+[23]
+ a reconsideration,
+[24]
+ Verizon filed a petition for 
+certiorari 
+before the CA reiterating its allegations in the pleadings filed before the labor tribunals.
+[25]
+ Consequently, in its Decision
+[26]
+ dated August 18, 2014, the CA upheld the Decision of the NLRC that Laurence was illegally dismissed. The CA ruled that Laurence was able to give sufficient information of his absence when he sent a text message to his supervisor. The length of his absence is justified considering that it is common knowledge that pulmonary tuberculosis and pneumonia are serious infectious diseases. And, in implementing the dismissal, Verizon denied Laurence his right to be heard. Verizon moved for reconsideration,
+[27]
+ but was denied.
+[28]
+ Hence, this petition.
+Parties' Arguments
+Verizon contends that Laurence was validly dismissed because of his deliberate violation of company rules on unauthorized absences and excessive absenteeism. The CA erroneously interpreted petitioner's company rules and applied the rule on unauthorized absences, and disregarded the provisions on absenteeism and unauthorized absences. Excessive absenteeism is one of the grounds for corrective actions under Verizon's policies. Verizon validly exercised its management prerogative in applying its rules. Finally, it granted Laurence ample opportunity to be heard.
+On the other hand, Laurence maintains that he was illegally dismissed. There was no just or authorized cause for his dismissal nor was he accorded due process. He did not go on absence without leave nor abandoned his work since he notified his supervisor about his sickness. His failure to work was caused by his medical condition, pulmonary tuberculosis, which even to an ordinary person is known to be serious and requires isolation during treatment. Moreover, Laurence contends that he was not apprised of the charges leveled against him. He was not made to explain his absence before he was outrightly dismissed by Verizon.
+The Court's Ruling
+ 
+We partly grant the petition.
+Rule 45 of the Rules of the Court limits us to review only questions of law raised against an assailed Decision.
+[29]
+ As a general rule, the Court will not review the factual determination of administrative bodies, as well as, the findings of fact by the CA. The rule though is not absolute as the Court may, in labor cases, review the facts where the findings of the CA and of the labor tribunals are contradictory,
+[30]
+ as in this case. The factual findings of the LA, and those of the NLRC and CA are contrasted, giving us sufficient basis to review the facts. Notably, the arbiter concluded that Verizon validly dismissed Laurence for excessive absenteeism sanctioned under its company policies. Laurence's absence was unauthorized because of his failure to notify his supervisor of the nature of his illness and the intended length of his leave of absence. Conversely, the NLRC and the CA ruled that under Verizon's policies, an employee is not required to submit proof of illness while he is on sick leave. It is sufficient that Laurence was able to notify his supervisor that he was diagnosed with tuberculosis before his absence. Thus, the question of whether Laurence was illegally dismissed is a question of fact, the determination of which entails an evaluation of the evidence on record.
+Laurence did not violate 
+Verizon's rules on authorized 
+and unauthorized absences.
+In an illegal dismissal case, the employer has the burden of proving that an employee's dismissal from service was for a just or authorized cause.
+[31]
+ Otherwise, the employer's failure shall result in a finding that the dismissal is unjustified.
+[32]
+ Here, Verizon dismissed Laurence because of his deliberate violation of company rules; the pertinent portion of which is hereunder quoted:
+ATTENDANCE AND PUNCTUALITY
+You are expected to report to work on time and on a regular basis. Excessive absenteeism and tardiness will be grounds for corrective action, including termination.
+Excessive absenteeism and tardiness adversely affect productivity, disrupt normal operating effectiveness, and overburden other employees who must cover for the employee who is absent.
+ATTENDANCE AND ABSENCES
+ - An employee is expected to report for work on the days and time required by their respective positions. Occasionally, it may be necessary for an employee to be absent from work as a result of illness, injury and maternity or for personal reasons. In such cases, employees are expected to inform their Manager at least 5 days before their scheduled absence.
+If the absence cannot be predicted in advance, employees, must notify their Manager at least four (4) hours before their shift schedule. Likewise, they should inform their Managers as to when they intend to report for work.
+Absences are classified into two categories - Authorized and Unauthorized - as follows:
+ 
+1.) 
+Authorized Absences - Authorized absence is a result of factors beyond an employee's control, such as emergency and sick leaves. Should an employee need to be absent due to an emergency or due to sickness, he/she must provide the Manager with reasonable description of the nature of the emergency or sickness indicating inability to work. FOUR (4) hours notification is needed to make necessary adjustment with manpower allocation.
+ 
+ 
+Absences due to emergency and illness may be considered authorized, provided, that proof of such illness or emergency is subsequently provided the employer.
+ 
+ 
+x x x x
+ 
+ 
+â¢
+ 
+For an absence to be considered authorized, the employee should inform his/her immediate Manager/Supervisor of his/her intention and reason for not coming to work. The information should be received at least four hours before his/her work scheduled. If the employee failed to inform his/her immediate superior, this may result to unauthorized absence.
+ 
+2) 
+Unauthorized Absences - Unauthorized absence occurs upon failure to report to work as expected. One or more unauthorized absences will result in corrective actions, which may include dismissal. Five (5) or more consecutive days in which an employee fails to work without an approved leave application will be considered abandonment of work, absence without leave (AWOL) or voluntary resignation on the part of the employee.
+ 
+ 
+Absence may be considered unauthorized for the following circumstances:
+ 
+ 
+â¢
+ 
+Failure to notify the manager/supervisor and/or Attendance Administrator 4 hours before scheduled duty (4 hours due to business needs)
+ 
+ 
+â¢
+ 
+Failure to submit a medical certificate on the return date, where absence was due to illness.
+Corrective Actions for Unauthorized Absences incurred within a year
+1st Offense: Verbal Warning and Counseling
+ - documentation of the verbal warning shall be kept in the employee 's record
+2nd Offense: Written Warning
+3rd Offense: SUSPENSION
+ - 1 day suspension without pay
+4th Offense: SUSPENSION
+ - 3 days suspension without pay
+5th Offense or 5 days consecutive unauthorized absences: DISMISSAL
+[33]
+Under Verizon's rules, the absence of an employee may be authorized or unauthorized. An authorized absence, due to sickness, requires that the employee send his manager notice four hours before his shift, with a reasonable description of his illness, and the submission of the employee's proof of illness on his return date. On the other hand, the employee's absence becomes unauthorized if the employee fails to notify his/her immediate superior, or if the employee fails to submit a medical certificate on his/her return date.
+Based on the records, Laurence sent his immediate supervisor, Joseph Quintal, a text message, on February 3, 2012, informing the latter that he will be absent because he was sick with pulmonary tuberculosis, a contagious disease, and was advised to take medication. Joseph did not deny having received this message from Laurence. The CA was thus correct to conclude that the information given by Laurence is sufficient to properly apprise Verizon of his condition. The CA likewise fittingly held that Laurence's failure to submit proof of illness while he was on sick leave and to indicate a return date did not render his absence unauthorized. More so, that Laurence was no longer given the opportunity to submit his medical certificate and other documents to prove his illness.
+Verizon's policy on excessive 
+absenteeism, which prescribes 
+dismissal as penalty, is too
+harsh.
+Verizon insists that Laurence was guilty of excessive absenteeism, which warrants the penalty of dismissal since under company rules, five or more consecutive days of absence is tantamount to abandonment of work, absence without leave (AWOL) or voluntary resignation of the employee. The dismissal of Laurence was a valid exercise of the right and prerogative to regulate every aspect of its business of every employer.
+We disagree.
+The Constitution looks with compassion on the working class and its intent in protecting their rights. A worker's employment is property in a constitutional sense, and he/she cannot be deprived thereof without due process and unless the deprivation is commensurate to his/her acts and degree of moral depravity. While the Court recognizes the right of an employer to terminate the services of an employee for a just or authorized cause, the dismissal must be made within the parameters of law and pursuant to the tenets of equity and fair play. An employer's power to discipline his employees must not be exercised in an arbitrary manner as to erode the constitutional guarantee of security of tenure.
+[34]
+Indeed, the power to dismiss is a formal prerogative of the employer, but this is not without limitations. The employer is bound to exercise caution in terminating the services of his employees and dismissals must not be arbitrary and capricious. Due process must be observed and employers should respect and protect the rights of their employees. To effect a valid dismissal, the law requires not only that there be just and valid cause; it must also be supported by evidence.
+[35]
+ There must be a reasonable proportionality between the offense and the penalty. Dismissal, without doubt, is the ultimate penalty that can be meted to an employee. Hence, where a penalty less punitive would suffice, whatever missteps may be committed by labor ought not to be visited with a consequence so severe.
+[36]
+ 
+Apropos
+ is the following pronouncement in 
+Cavite Apparel, Incorporated, et al. v, Marquez,
+[37]
+ citing 
+Caltex Refinery Employees Association v. NLRC
+[38]
+ and Guitierrez v. Singer Sewing Machine Company:
+[39]
+[W]e held that "[e]ven when there exist some rules agreed upon between the employer and employee on the subject of dismissal, x x x the same cannot preclude the State from inquiring on whether [their] rigid application would work too harshly on the employee." This Court will not hesitate to disregard a penalty that is manifestly disproportionate to the infraction committed.
+[40]
+In the 
+Cavite Apparel
+ case, the respondent employee went on an absence without leave for three times in a span of a year, for each instance, she was suspended accordingly. On account of sickness, respondent again was not able to report for work, and was suspended for six days. When she went back to work, her employment was terminated. The Court held that, while respondent might have been guilty of violating company rules on leaves of absence and employee discipline, the penalty of dismissal imposed on her was unjustified. Respondent had been in the employ of Cavite Apparel for six years with no derogatory record other than the four absences without official leave. The respondent's illness, which was the reason for absence, rendered her dismissal unreasonable as it is clearly disproportionate to the infraction she committed.
+Similarly, since Verizon based their defense on violation of company rules, it is incumbent upon Verizon to prove that Laurence clearly, voluntarily and intentionally committed the infraction. Laurence's absence from work was due to sickness. He gave proper notification of his absence, which reason should have been given kind consideration by Verizon. An employee cannot anticipate when an illness may happen, thus, he may not be able to give prior notice or seek prior approval of his absence, but could only do so after the occurrence of the incident.
+[41]
+Even assuming that there was deliberate violation of the company's rules, the penalty of dismissal is too harsh and not proportionate to the wrongdoing committed. Knowledge of the company's rules, its violation, and dismissal in accordance with said rules do not automatically bind this Court.
+[42]
+ It is settled that the law serves to equalize the unequal. The labor force is a special class that is constitutionally protected because of the inequality between capital and labor. This constitutional protection presupposes that the labor force is weak. However, the level of protection to labor should vary from case to case; otherwise, the State might appear to be too paternalistic in affording protection to labor.
+[43]
+Laurence was not accorded 
+procedural due process
+Lest it be forgotten, to affect a valid dismissal on the ground of just cause, the employer is bound to observe procedural due process. Procedural due process consists of the twin requirements of notice and hearing. The employer must furnish the employee with two written notices before the termination of employment can be implemented: (1) the first apprises the employee of the particular acts or omission for which his dismissal is sought; and (2) the second informs the employee of employer's decision to dismiss him.
+[44]
+ The Court, in 
+King of Kings Transport, Inc. v. Mamac,
+[45]
+ introduced the following guidelines:
+(1) The first written notice to be served on the employees should contain the specific causes or grounds for termination against them, and a directive that the employees are given the opportunity to submit their written explanation within a reasonable period. 
+"Reasonable opportunity" under the Omnibus Rules means every kind of assistance that management must accord to the employees to enable them to prepare adequately for their defense. This should be construed 
+as a period of at least five (5) calendar days from receipt of the notice
+ to give the employees an opportunity to study the accusation against them, consult a union official or lawyer, gather data and evidence, and decide on the defenses they will raise against the complaint.
+ Moreover, in order to enable the employees to intelligently prepare their explanation and defenses, 
+the notice should contain a detailed narration of the facts and circumstance that will serve as basis for the charge against the employees. A general description of the charge will not suffice.
+ Lastly, the notice should specifically mention which company rules, if any, are violated and/or which among the grounds under Art. 282 [of the Labor Code] is being charged against the employees.
+(2) After serving the first notice, the employers should schedule and conduct a hearing or conference wherein the employees will be given the opportunity to: (1) explain and clarify their defenses to the charge against them; (2) present evidence in support of their defenses; and (3) rebut the evidence presented against them by the management. During the hearing or conference, the employees are given the chance to defend themselves personally, with the assistance of a representative or counsel of their choice. Moreover, this conference or hearing could be used by the parties as an opportunity to come to an amicable settlement.
+(3) After determining that termination of employment is justified, the employers shall serve the employees a written notice of termination indicating that: (1) all circumstances involving the charge against the employees have been considered; and (2) grounds have been established to justify the severance of their employment.
+[46]
+ (Emphasis and underscoring supplied; citations omitted.)
+A perusal of the notices issued by Verizon shows that it failed to observe the standards set forth in case law:
+March 5, 2012 Notice to Explain -
+On February 3, 2012, you have notified your manager that you will be on Sick Leave. Since then, you have not provided any medical documents and you have been unreachable via mobile phone. Likewise, you have not responded to your manager's messages.
+We are writing you this letter to inform you that your absences have been affecting production and this may fall as violation of our Attendance and Punctuality implementing guidelines if no justification is provided, and to state:
+Unauthorized Absences - Unauthorized absence occurs upon the failure to report to work as expected. One or more unauthorized absences will result in corrective actions, which may include dismissal. Five (5) or more consecutive days in which an employee fails to report to work without an approved leave application will be considered abandonment of work, absence without leave (AWOL) or voluntary resignation on the part of the employee.
+You are hereby required to explain in writing why you should not be considered to have abandoned your work based on the above-mentioned absences without notification. Submit your explanation personally to the undersigned within forty-eight (48) hours from receipt hereof. You may elect to be heard if you so desire. Your failure to reply to this letter within the time required shall be considered as a waiver of your right to be heard on this matter. Accordingly, the Company shall proceed with the evaluation of the case on the basis of the evidence on hand.
+Please be guided accordingly.
+[47]
+March 28. 2012 Notice of Termination -
+This letter is to inform you that your employment with the company shall be deemed terminated effective immediately due [to] the following reasons:
+1. You failed to report to work from February 3, 2012 to date. These absences were considered unauthorized and grounds for dismissal.
+2. You did not inform your manager or HR of the reason for your absences. You also failed to reply to all the messages and calls made by your manager.
+3. The Company Nurse visited you at your residence on March 8, 2012 at 8PM. There was no one in the house and the nearby store owner directed the nurse to your relative's house. The nurse was able to speak with your cousin Melrose and she informed the company nurse that you left for abroad two (2) weeks ago. The nurse gave the Notice of Letter to Explain dated March 5, 2012 to your cousin, Melrose and advised her to hand it to your mother.
+4. You failed to do your responsibility as an employee to provide supporting medical documents for your absences and to let your manager know when you will be back for work.
+5. The Notice of Letter to Explain stated that you were given 48 hours to explain personally to you manager or HR the reasons for your unauthorized absences and failure to reply within the prescribed time shall be considered as waiver of your right to be heard. We did not hear from you within the 48 hours given timeframe and as a result the company proceeded with the evaluation of the case and decided that you have committed AWOL and abandoned your work.
+You are advised to return all Company properties including security passes, Verizon ID, keys, Medicard IDs, and any other office equipment that may have been issued to you.
+Please be guided accordingly.
+[48]
+While Verizon ostensibly afforded Laurence the opportunity to refute the charge of AWOL and abandonment against him, the company deprived him of due process when he was not given ample time to prepare his defense and later on, when his explanation was not given consideration on the ground that it was submitted beyond the 48-hour period. Thus, Laurence's right to procedural due process was violated. The CA aptly observed:
+In the present case, [Laurence] was given until 13 March 2012 to submit his answer to the [Notice to Explain] because [Verizon] insisted that [he] received the [notice] on 8 March 2012, despite its own allegation that the notice was not personally served to [Laurence] on that date but to his cousin, who lived in a nearby house. Thus, while [Laurence] had actually received the [Notice to Explain] only on 14 March 2012 and had been able to e-mail to [Verizon] his letter of explanation on that same day, his explanation was no longer considered by [Verizon] when it evaluated his case as it was allegedly submitted beyond the prescribed period in the [notice].
+x x x x
+xxx [Laurence] need not manifest his desire to be heard because the opportunity to be heard is an indispensable part of procedural due process. It must be noted that an employee's right to be heard is satisfied not only by a formal face to face confrontation but by any meaningful opportunity to controvert the charges against him and to submit evidence in support thereof. Considering that in the present case, [Laurence's] explanation to the charges against him had not been taken into account when [Verizon] arrived at its decision to terminate him, [Verizon] clearly denied him his right to be heard.
+[49]
+Considering, therefore, that Laurence was illegally terminated, he is entitled to reinstatement without loss of seniority rights and other privileges and to full backwages.
+[50]
+ However, if actual reinstatement is no longer possible, the employee becomes entitled to separation pay in lieu of reinstatement.
+[51]
+ Based on jurisprudence, reinstatement is not feasible: (1) in cases where the dismissed employee's position is no longer available; (2) the continued relationship between the employer and the employee is no longer viable due to the strained relations between them; and (c) when the dismissed employee opted not to be reinstated, or the payment of separation benefits would be for the best interest of the parties involved.
+[52]
+ In these instances, separation pay is the alternative remedy to reinstatement in addition to the award of backwages.
+[53]
+ The payment of separation pay and reinstatement are exclusive remedies. Stated differently, the payment of separation pay replaces the legal consequences of reinstatement to an employee who was illegally dismissed.
+[54]
+ Here, we uphold the grant of separation pay in favor of Laurence. The NLRC and the CA consistently found that he opted to receive separation pay instead of reinstatement.
+[55]
+Verizon is excused from paying
+backwages to Laurence 
+considering that the penalty of 
+dismissal is too harsh.
+At this point, it is worthy to note that, in labor cases, the Court is tasked with the delicate act of balancing the employee's right to security of tenure against the employer's right to freely exercise its management prerogatives.
+[56]
+ Even though it is basic in labor law that an illegally dismissed employee is entitled to reinstatement, or separation pay if reinstatement is not viable, and payment of full backwages, in some instances, the Court has carved out exceptions where the reinstatement of an employee was ordered without an award of backwages. This is on account of: (1) the fact that dismissal of the employee would be too harsh of a penalty; and (2) that the employer was in good faith in terminating the employment.
+[57]
+In the case of 
+Integrated Microelectronics, Inc. v. Pionilla,
+[58]
+ the respondent was a production worker of petitioner company, who was meted the penalty of dismissal pursuant to company rules for his act of lending his company ID to a relative who was applying for a job with the company. The Court held that respondent was illegally dismissed, but excused the petitioner company from paying his backwages on the ground that the penalty of dismissal was too harsh of a penalty, and that petitioner company was in good faith when it dismissed respondent as his dereliction of its policy was honestly perceived to be a threat to the company's security. The Court cited the earlier cases of 
+Pepsi-Cola Products Philippines Inc. v. Molon, etal.
+,
+[59]
+ 
+Itogon-Suyoc Mines, Inc. v. National Labor Relations Commission,
+[60]
+ 
+Cruz v. Minister of Labor and Employment,
+[61]
+ where the respective dismissed employees were not granted backwages despite the finding of illegal dismissal. The Court consistently held that dismissal was too harsh and that the employers were in good faith. To serve the ends of social and compassionate justice, the severity of dismissal as punishment and probity of the employers' acts may preclude or diminish recovery of backwages. Only employees discriminatorily dismissed are entitled to backpay.
+In like manner, we absolve Verizon from the payment of backwages. While we held that Laurence did not violate Verizon's rules on authorized and unauthorized absences since he was able to notify his immediate supervisor of his absence on February 3, 2012 because of his sickness, he cannot be deemed entirely faultless. Aside from the text message he sent, he did nothing else to comply with the company's rules. He did not inform the company that he would leave his residence nor leave any information on how he may be reached. On the other hand, his supervisor, Joseph, exerted efforts to contact Laurence, albeit to no avail. For these reasons, there is no basis for an award of backwages.
+WHEREFORE
+, the petition is 
+PARTLY GRANTED
+. The Decision dated August 18, 2014 of the Court of Appeals is 
+MODIFIED
+ in that the award of backwages is 
+DELETED
+.
+SO ORDERED.
+Peralta, C.J. (Chairperson), Caguioa, Reyes, Jr.
+ and 
+Lazaro-Javier, JJ.
+, concur.
+[1]
+Rollo
+, pp. 39-55.
+[2]
+Id
+. at 57-58.
+[3]
+CA-G.R. SP No. 132488; penned by Associate Justice Apolinario D. Bruselas, Jr., with the concurrence of Associate Justices Andres B. Reyes, Jr. (retired Member of this Court) and Samuel H. Gaerlan (now a Member of this Court).
+[4]
+Rollo
+, pp. 91-93.
+[5]
+Id
+. at 95-113.
+[6]
+Id
+. at 98. In Petitioner Verizon's pleadings, Laurence occupied the position of Affiliate Engineer for Network Operations and was hired on August 7, 2007; id. at 121.
+[7]
+Id
+. at 115-116.
+[8]
+Id
+. at 101 and 118.
+[9]
+Id
+. at 101 and 117.
+[10]
+Id
+. at 103-112.
+[11]
+Id
+. at 120-134.
+[12]
+Id
+. at 138. The message stated: "sir, di ako makakapasok. [L]umabas xray results Pulmonary TB and pnemonia [
+sic
+]. [Pa]hinga and medication advised [
+sic
+] sir k[asi] contagious. [L]aurence."
+[13]
+Id
+. at 139. Joseph sent the following messages to Laurence:
+Ok 
+Tawagan mo ako pagnabasa mo to.
+Lawrence, I need a copy of your medical cert[ificate], test results, etc. You can either have someone
+forward them over to the clinic or send HR a fax or scanned copy via email. Ensure that you copy
+me as well.
+[14]
+Id
+. at 141.
+[15]
+Id
+. at 143.
+[16]
+Id
+. at 142.
+[17]
+Id
+. at 147.
+[18]
+Id
+. at 180-183; penned by Labor Arbiter Michelle P. Pagtalunan.
+[19]
+Id
+. at 181-183.
+[20]
+Id
+. at 185-213.
+[21]
+Id
+. at 232-247.
+[22]
+Id
+. at 246-247. 
+[23]
+Id
+. at 265-267. 
+[24]
+Id
+. at 289-296. 
+[25]
+Id
+. at 269-303.
+[26]
+Id
+. at 39-55.
+[27]
+Id
+. at 400-411.
+[28]
+Id
+. at 57-59.
+[29]
+Cavite Apparel, Incorporated, et al. v. Marquez,
+ 703 Phil. 46, 53 (2013), citing 
+DUP Sound Phils, and/or v. Court of Appeals, et al.,
+ 676 Phil. 472, 478 (2011), citing 
+Union Industries, Inc. v. Vales,
+ 517 Phil. 247, 252 (2006).
+[30]
+Id
+.
+[31]
+Demex Rattancraft Inc., et al. v. Leron,
+ 820 Phil. 693, 705 (2017).
+[32]
+Protective Maximum Security Agency, Inc. v. Fuentes,
+ 753 Phil. 482, 513 (2013), citing 
+Stolt-Nielsen Marine Services, Inc. v. National Labor Relations Commission,
+ 360 Phil. 881, 888-889 (1998).
+[33]
+Rollo
+, pp. 148-149.
+[34]
+Zagala v. Mikado Phils. Corp.,
+ 534 Phil. 711, 720 (2006), citing
+ Brew Master International Inc. v. NAFLU,
+ 337 Phil. 728, 737 (1997);
+ Procter and Gamble Philippines v. Bondesto,
+ 468 Phil. 932, 943 (2004); 
+Asuncion v. NLRC,
+ 414 Phil. 329, 336 (2001); 
+Del Monte Philippines, Inc. v. NLRC,
+ 350 Phil. 510, 516(1998).
+[35]
+Zagala v. Mikado Phils. Corp., id.
+ at 722; 
+Union Motor Corporation v. NLRC,
+ 487 Phil. 197, 209 (2004).
+[36]
+Zagala v. Mikado Phils. Corp., supra
+ at 721, citing 
+Philips Semiconductors (Phils.), Inc. v. Fadriquela,
+ 471 Phil. 355, 377; 
+Procter and Gamble Philippines v. Bondesto, supra;
+ 
+Union Motor Corporation v. NLRC, supra; Michael Inc. v. NLRC,
+ 326 Phil. 472, 476 (1996).
+[37]
+703 Phil. 46(2013).
+[38]
+316 Phil. 225(1995).
+[39]
+458 Phil. 401 (2003).
+[40]
+Cavite Apparel, Incorporated, et al. v. Marquez, supra
+ at 56.
+[41]
+PLDT Co. v. Teves,
+ 649 Phil. 39, 49-50 (2010).
+[42]
+Cavite Apparel, Incorporated, et al. v. Marquez, supra.
+[43]
+Paredes v. Feed the Children Philippines. Inc., et al.,
+ 769 Phil. 418, 442-443 (2015), citing 
+Fuji Television Network. Inc. v. Espiritu,
+ 749 Phil. 388, 429 (2014).
+[44]
+Distribution & Control Products; Inc./ Tiamsic v. Santos,
+ 813 Phil. 423, 436 (2017), citing 
+New Puerto Commercial, et al. v. Lopez, et al.,
+ 639 Phil. 437, 445 (2010).
+[45]
+553 Phil. 108(2007).
+[46]
+Id
+. at 115-116.
+[47]
+Rollo
+, p. 118.
+[48]
+Id
+. at 117.
+[49]
+Id
+. at 52-53.
+[50]
+Labor Code, Art. 294.
+[51]
+Claret School of Quezon City v. Sinday,
+ G.R. No. 226358, October 9, 2019, citing 
+Golden Ace Builders, et al. v. Talde,
+ 634 Phil. 364, 371 (2010).
+[52]
+Session Delights Ice Cream and Fast Foods v. Hon. CA (6th Div.), et al.,
+ 625 Phil. 612, 628-629 (2010).
+[53]
+Bani Rural Bank, Inc., et al. v. De Guzman, et al.,
+ citing 
+Bombase v. NLRC,
+ 315 Phil. 551, 556(1995). 
+[54]
+Id
+., citing 
+Nissan North EDSA, Balintawak. Quezon City v. Serrano, Jr.,
+ 606 Phil. 222, 232 (2009).
+[55]
+Rollo
+, pp. 53 and 244.
+[56]
+Stream International Global Services Philippines, Inc. v. Pimentel,
+ G.R. No. 227814, April 18, 2018.
+[57]
+Id
+., citing 
+Integrated Microelectronics, Inc. v. Pionilla,
+ 716 Phil. 818, 823-824 (2013).
+[58]
+716 Phil. 818 (2013).
+[59]
+704 Phil. 120(2013).
+[60]
+202 Phil. 850(1982). 
+[61]
+205 Phil. 14(1983).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

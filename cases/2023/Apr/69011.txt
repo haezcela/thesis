@@ -1,0 +1,1006 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 240316, April 26, 2023 ]
+
+
+UNICORP FINANCE LIMITED, PETITIONER, VS. HERMA CORPORATION, RESPONDENT. 
+
+G.R. No. 241752
+UNICORP FINANCE LIMITED, PETITIONER, VS.
+HERMA CORPORATION,  RESPONDENT.
+D E C I S I O N
+
+
+
+
+INTING, J.:
+
+
+Before the Court are two consolidated Petitions for Review
+[1]
+ on 
+certiorari
+ under Rule 45 of the Rules of Court filed by Unicorp Finance
+Limited (Unicorp) against Herma Corporation (Herma).
+In G.R. No. 240316, Unicorp assails the following issuances of the Court of Appeals (CA) in CA-G.R. CV No. 105736:
+1.
+Decision
+[2]
+ 
+dated November 24, 2016,
+ granting Herma's appeal from the Decision
+[3]
+ dated October 2, 2014, issued by Branch 223, Regional Trial Court (RTC), Quezon City (RTC QC-Â­Branch 223) in LRC Case No. R-QZN-13-01369-LR; and
+ 
+2.
+Resolution
+[4]
+ 
+dated June 21, 2018,
+ denying Unicorp's Motion for Reconsideration (of the Decision Dated November 24, 2016).
+[5]
+Meanwhile, in G.R. No. 241752, Unicorp assails the following issuances of the CA in CA-G.R. SP No. 155574:
+1)
+ 
+Decision
+[6]
+ 
+dated July 12, 2018,
+ granting Herma's Petition [with Application for Issuance of a Temporary Restraining Order and/or a Writ of Preliminary Injunction]
+[7]
+ that sought to permanently enjoin the public sale of the properties registered under Transfer Certificate of Title (TCT) No. 004- 2016013529,
+[8]
+ TCT No. 004-2016013530,
+[9]
+ and TCT No. 004- 2016013531;
+[10]
+ and
+ 
+ 
+2)
+ 
+Resolution
+[11]
+ 
+dated August 20, 2018,
+ denying Unicorp's Motion for Reconsideration (of the Decision dated July 12, 2018).
+[12]
+The Antecedents
+The case involves three parcels of land (subject properties) with improvements thereon located in Quezon City, then respectively covered by TCT Nos. RT-109555 (71118),
+[13]
+ RT-2665 (71119),
+[14]
+ and RT-2666 (71120),
+[15]
+ and owned by Spouses Thelma and Margarita Escalona (Spouses Escalona). Spouses Escalona later sold the subject properties to TERP Construction Corporation (TERP) as evidenced by two documents identically titled "Absolute Deed of Sale"
+[16]
+ (hereinafter, Deeds of Absolute Sale) dated December 14, 1995, and a Deed of Sale
+[17]
+ dated March 19, 1996. Consequently, TCT Nos. RT-109555 (71118), RT-2665 (71119), and RT-2666 (71120) were canceled, and TCT Nos. N-152880,
+[18]
+ N-246723,
+[19]
+ and N-246729
+[20]
+ were respectively issued in the name of TERP.
+Subsequently, TERP joined the Margarita Asset Pool Formation and Trust Agreement
+[21]
+ (Margarita Asset Pool) and conveyed the subject properties to the latter's trustee, Planters Development Bank. To finance the housing development projects of the Margarita Asset Pool, TERP issued and sold Margarita Project Participation Certificates (MPPCs) to interested investors. The MPPCs were credit instruments that served as securities for the properties that formed part of the assets of the Margarita Asset Pool.
+[22]
+ Aside from the real properties as security, the MPPCs were also guaranteed payment by Home Insurance and Guaranty Corporation (now Home Guaranty Corporation; HGC, for brevity) pursuant to a Contract of Guaranty.
+[23]
+As the Margarita Asset Pool failed to pay the MPPCs upon their maturity, HGC settled the guarantee claims of several certificate holders. In consideration of the payments made by HGC, Planters Development Bank conveyed and delivered to HGC the entire Margarita Asset Pool, including the subject properties.
+[24]
+ Later, HGC was issued TCT Nos. N-247055, N-249442, and N-249441, which, however, carried the following annotations:
+TCT No. N-247055:
+(a) P.E. 9513/N-152880 - NOTICE OF LEVY - Levied by the Sheriff Rolando G. Acal, RTC Quezon City in 
+Civil Case No. Q-99-36998,
+ upon the rights, interests and participation of the Defendants for the sum of US$441,417.61 by virtue of WRIT OF PRELIMINARY ATTACHMENT (PE-9591) entitled "UNICORP FINANCE LIMITED, Plaintiff versus THELMO T. ESCALONA, ALEX L. ESCALONA and ALBERTO L. ESCALONA, Defendants." x x x
+Date of Instrument - March 19 & April 22, 1999 
+Date of Inscription -Ap1il 23, 1999
+(b) P.E. 1221/N-152880 - NOTICE OF LIS PENDENS - Filed by Atty. Carmina A. Abbas, Counsel for Plaintiff, notice is hereby given that an action has been commenced, and is now pending beforce [
+sic
+] the RTC Br. 83, Q. City, Civil Case No. 
+Q-99-37597,
+ entitled "UNICORP FINANCE LIMITED, Plaintiff vs. THELMO T. ESCALONA and TERP CONSTRUCTION CORP., and REGISTER OF DEEDS OF QUEZON CITY, Defendants, Plaintiff praying for ANNULMENT OF FRAUDULENT/SIMULATED SALE AND CANCELLTION [
+sic
+] OF TITLE. x x x
+Date of Instrument - May 11, 1999 
+Date of Inscription - May 14, 1999
+TCT No. N-249442:
+(a) PE -5815/RT-2665 - NOTICE OF LEVY - Levied by the Sheriff IV, Rolando G. Acal, upon the rights, interest and participation of the defendants for the sum of US$441,417.61 pursuant to the WRIT OF PRELIMINARY ATTACHMENT (PE-5816) entitled "UNICORP FINANCE LIMITED, Plaintiff versus THELMO T. ESCALONA, ALEX L. ESCALONA, and ALBERTO L. ESCALONA, Defendants" in Civil Case No. 
+Q-99-36998
+, Br. 226, Quezon City. x x x
+Date of Instrument - Mar 19 & 22, 1999 
+Date of Inscription - Mar. 22, 1999
+(b) PE-7883/RT-2665 - NOTICE OF LEVY ON ALIAS WRIT OF EXECUTION - Levied by the Sheriff Villamor Villegas, upon the rights, title, interest claims and participation of defendants Sps. Thelma Escalona and Margarita Escalona, pursuant to the Alias Writ of Execution (PE-7884) entitled "Asianbank Corp.[,] plaintiff vs. Escala Garment Manufacturing Corp. Sps. Thelmo and Margarita Escalona, and Sps. Alex and Cynthia Escalona, defendants," in Civil Case No. Civil Case No. [sic] 
+96-1758,
+ RTC Br. 141, Makati City. x x x
+Date of Instrument - June 15, 2001 
+Date of Instrument - July 12, 2001
+TCT No. T-249441:
+(a) PE-5815/RT-2665 - NOTICE OF LEVY - Levied by the Sheriff IV, Roland G Acal, upon the rights, interest and participation of the defendants for the sum of US$441,417.61 pursuant to the WRIT OF PRELIMINARY ATTACHMENT (PE-5816) entitled "UNICORP FINANCE LIMITED, Plaintiff versus THELMO T. ESCALONA, ALEX L. ESCALONA, and ALBERTO L. ESCALONA, Defendants" in Civil Case No. 
+Q-99-36998
+, Br. 226, Quezon City. x x x
+Date of Instrument - Mar 19 & 22, 1999 
+Date of Inscription - Mar. 22, 1999
+(b) PE-7883/RT-2665-NOTICE OF LEVY ON ALIAS WRIT OF EXECUTION - Levied by the Sheriff Villamor Villegas, upon the rights, title, interest claims and participation of defendants Sps. Thelmo Escalona and Margarita Escalona, pursuant to the Alias Writ of Execution (PE-7884) entitled "Asianbank Corp.[,] plaintiff vs. Escala Garment Manufacturing Corp. Sps. Thelmo and Margarita Escalona, and Sps. Alex and Cynthia Escalona, defendants," in Civil Case No. Civil Case No. [
+sic
+] 
+96-1758
+, RTC Br. 141, Makati City. x x x
+Date of Instrument - June 15, 2001 
+Date of Instrument - July 12, 2001
+[25]
+ (Emphases in the original.)
+The foregoing entries were annotated during the pendency of the following cases: (1) the consolidated Civil Case Nos. Q-99-36998 and Q-99-37597 for "
+specific performance or enforcement of foreign judgment" and "annulment of fraudulent/simulated sale and cancellation of title,
+" respectively, filed by Unicorp against Thelmo Escalona, TERP, and the Register of Deeds before Branch 226, RTC, Quezon City (RTC QCÂ­ Branch 226); and (2) Civil Case No. 96-1758 for "
+sum of money
+" filed by AsianBank Corporation (AsianBank) against Escala Garment Manufacturing Corp., Spouses Escalona, and Spouses Alex and Cynthia Escalona before Branch 141, RTC, Makati City (RTC Makati-Branch 141).
+[26]
+In Civil Case No. 96-1758, the RTC Makati-Branch 141 approved the compromise agreement between the parties therein.
+[27]
+On the other hand, in Civil Case Nos. Q-99-36998 and Q-99-27597, the RTC QC-Branch 226 rendered a decision recognizing the judgment rendered by a Hong Kong court in favor of Unicorp and adjudged Thelmo Escalona and his co-defendants Escala Garments, Alberto L. Escalona, and Alex L. Escalona solidarily liable for Unicorp's claim. Moreover, it declared that the deed of sale between TERP and Spouses Escalona of the property then covered by TCT No. RT-109555 (71118) was simulated and fictitious; consequently, it ordered the cancellation of TCT No. 152880 in the name of TERP and the reinstatement of TCT No. RT-109555 (71118) in the name of Spouses Escalona.
+[28]
+However, on June 27, 2011, the CA rendered a Decision
+[29]
+ in CA-Â­G.R. CV No. 86566 granting Herma's appeal, reversing the ruling of the RTC QC-Branch 226, and upholding the validity of the sale between Spouses Escalona and TERP of the property covered by TCT No. RT-109555 (71118). The dispositive portion of the CA Decision reads:
+WHEREFORE
+, the appeal is 
+PARTLY GRANTED
+ and the Decision dated January 24, 2006, issued by the Regional Trial Court of Quezon City, Branch 226, in the consolidated Civil Case No. Q99-36988 and Civil Case No. Q99-37597 is 
+ACCORDINGLY MODIFIED
+. In Civil Case No. Q99-36988, the Judgment dated July 9, 1998 rendered by the High Court of the Hong Kong Special Administrative Region Court of First Instance in Commercial List No. 97 of 1997 between plaintiff Unicorp Finance Limited and defendants Escala Garments Manufacturing Corporation, Thelmo T. Escalona, Alex L. Escalona and Alberto L. Escalona is 
+ENFORCED ONLY AGAINST
+ Thelmo T. Escalona, Alex L. Escalona and Alberto L. Escalona. Meanwhile, the portion of the assailed Decision with respect to Civil Case No. Q99-37597 is 
+REVERSED AND SET ASIDE
+.
+SO ORDERED.
+[30]
+ (Emphases omitted; italics in the original.)
+In upholding the sale, the CA noted that as early as December 1995, the property covered by TCT No. RT-109555 (71118) was earmarked to be sold and contributed to the Margarita Asset Pool, which was a project agreement of TERP, HGC, and Planters Development Bank in relation to two housing projects in Quezon City. In view thereof, the CA found that the sale of the property was legitimate and not for the purpose of defrauding Unicorp.
+[31]
+Aggrieved, Unicorp appealed to the Court via a petition for review on 
+certiorari
+ under Rule 45. The case was docketed as G.R. No. 200140.
+Finding no reversible error in the CA Decision dated June 27, 2011, the Court in G.R. No. 200140 issued a Resolution
+[32]
+ dated April 25, 2012, denying Unicorp's Rule 45 petition. Unicorp moved for reconsideration, but the Court denied the motion with finality in a Resolution
+[33]
+ dated August 13, 2012. Per the Entry of Judgment,
+[34]
+ the Resolution dated April 25, 2012, denying Unicorp's petition, became final and executory on October 4, 2012.
+Meanwhile, when HGC offered the subject properties for negotiated sale on an "as-is-where-is basis," Herma participated and emerged as the highest bidder. Consequently, a Deed of Absolute Sale
+[35]
+ between HGC and Herma was executed on April 17, 2013, and TCT No. 004-2016013529,
+[36]
+ TCT No. 004-2016013530,
+[37]
+ and TCT No. 004-2016013531
+[38]
+ were issued in the name of Herma.
+Subsequently, Herma, as the new owner of the subject properties, filed with the RTC QC-Branch 223 a Petition
+[39]
+ for "Cancellation of Annotation[s on TCT Nos.] N-240755, N-249442, and N-249441"
+[40]
+ (petition for cancellation of annotations), docketed as LRC Case No. RÂ­QZN-13-01369-LR. The annotations on HGC's TCT Nos. N-247055, N-249442, and N-249441 have been respectively carried over to Herma's TCT No. 004-2016013529, TCT No. 004-2016013530, and TCT No. 004-2016013531.
+In its petition for cancellation of annotations, Herma alleged as follows:
+First
+, as to TCT No. N-247055, the notice of 
+lis pendens
+ therein appears to be inappropriate because the interest of Unicorp in the subject properties is based on the supposed civil obligation of Spouses Escalona for the loan they contracted, and the rule is that a notice of 
+lis pendens
+ is not proper in collection cases.
+[41]
+Second
+, as regards Civil Case No. 96-1758, TERP was already the owner of the subject properties as early as December 14, 1995. Considering that TERP was not impleaded as a party to the case, the subject properties should not have been levied to satisfy the obligations of Spouses Escalona to AsianBank.
+[42]
+Third
+, the annotations in favor of AsianBank came after the execution in favor of HGC of the Deed of Assignment and Conveyance dated January 10, 2000. Herma has a better right over AsianBank because the titles to the subject properties were transferred from TERP to HGC, and Herma, in tum, derived its titles from HGC.
+[43]
+Fourth
+, AsianBank and Spouses Escalona had entered into a compromise agreement; and it appears that the obligation of Spouses Escalona to AsianBank "had already been satisfied [because AsianBank] never sought the enforcement of the levy on the subject properties for about [12] years from the date of the annotation of the Notice of Levy on Alias Writ of Execution."
+[44]
+The Ruling of the RTC QC-Branch 223
+On October 2, 2014, the RTC QC-Branch 223 issued its Decision,
+[45]
+ the dispositive portion of which reads:
+IN VIEW OF ALL THE FOREGOING, the Court GRANTS the prayer for the cancellation of the NOTICE OF LIS PENDENS under P.E. 1221/N-152880, but DENIES the prayer for cancellation of the annotation (Notices of Levy) under P.E. No. 9513/N-152880 and PE5815/RT-2665.
+The Register of Deeds of Quezon City is directed to CANCEL the annotation of Notice of Lis Pendens under 1221/N-152880 at the dorsal portion of Transfer Certificate of Title No. Title No. [sic] N-247055 upon the finality of this Order and after payment by petitioners of the fees and other lawful charges for such cancellation.
+SO ORDERED.
+[46]
+The RTC QC-Branch 223 held that Herma's petition for the lifting of the annotations of the levy on attachment is 
+not
+ an action 
+in rem
+ and should have been filed before the court that directed the annotation (
+i.e.,
+ RTC QC-Branch 226) and not before a land registration court. It declared that as a land registration court, it does not have jurisdiction over petitioner's action which affects only the parties therein, not the rest of the world.
+[47]
+However, insofar as the notice of 
+lis pendens
+ was concerned, the RTC QC-Branch 223 held that the cancellation thereof is proper in view of the finality of the decision upholding the sale between Spouses Escalona and TERP of the property covered by TCT N-247055.
+[48]
+Aggrieved, Herma appealed the decision of the RTC QC-Branch 223 to the CA. The appeal was docketed as CA-G.R. CV No. 105736.
+The Ruling of the CA
+CA-G.R. CV No. 105736
+On November 24, 2016, the CA rendered the assailed Decision
+[49]
+ in CA-G.R. No. 105736 against Unicorp and in favor of Herma ordering the cancellation of the notices of levy on attachment and levy on writ of execution on TCT Nos. N-247055, N-249442, and N-249441. The dispositive portion of the Decision reads:
+WHEREFORE, all premises considered, the instant appeal is GRANTED.
+Accordingly, the 
+Decision dated 02 October 2014
+ of the Regional Trial Court, Branch 223, Quezon City, in LRC Case No. RÂ­ QZN-13-01369-LR, which ordered merely the cancellation of the notice of 
+lis pendens
+ in Transfer Certificate of Title No. N-247055 is hereby MODIFIED in that the other annotations of the notices of levy on attachment and levy on writ of execution on Transfer Certificates of Title Nos. N-247055, N-249442, and N-249441 are also ordered CANCELLED.
+SO ORDERED.
+[50]
+ (Emphases omitted; italics in the original.)
+The CA held that under Section 2 of Presidential Decree No. (PD) 1529,
+[51]
+ the RTC acting as a land registration court has exclusive jurisdiction not only over applications for original registration of title to lands, including improvements and interests therein, but also over petitions filed after original registration of title, with power to hear and determine all questions arising upon such applications or petitions.
+[52]
+ As such, the CA found that the RTC QC-Branch 223, sitting as a land registration court, has jurisdiction to decide whether to decree the cancellation of the questioned notices of levy on the titles of the subject properties. However, the CA no longer remanded the case to the court of origin and deemed it apt to rule on the propriety of the cancellation of the disputed annotations.
+[53]
+According to the CA, the right of Herma to the cancellation of the annotations of notices of levy on the certificates of title in question is very clear and justified in law.
+[54]
+ It noted that Spouses Escalona were no longer the owners of the subject properties at the time of the levy in 1999 and 2001 because TERP had already acquired ownership thereof in 1995 and 1996 as evidenced by the two Deeds of Absolute Sale dated December 14, 1995, and the Deed of Sale dated March 19, 1996.
+The CA also emphasized the finality of the Court's ruling that affirmed the reversal of the decision of the RTC QC-Branch 226 in Civil Case Nos. Q-99-36998 and Q-99-37597 which, as a result, upheld the validity of the sale between Spouses Escalona and TERP over the property covered by TCT No. 247055.
+[55]
+As regards the other notices of levy on alias writ of execution appearing on TCT Nos. N-249442 and N-249441, in connection with Civil Case No. 96-1758, the CA held that as the ownership of the properties covered by these certificates of title was already transferred to TERP as early as 1995, and later to HGC through a Deed of Assignment and Conveyance dated January 10, 2000, Herma, being the successor-inÂ­ interest of HGC, has a better title over AsianBank, the plaintiff in Civil Case No. 96-1758 then lodged before the RTC Makati-Branch 141. Moreover, the CA found that the notices of levy on alias writ of execution in favor of AsianBank in relation to Civil Case No. 96-1758 had lost their force and effect considering that they had been annotated for more than 10 years without being duly implemented.
+[56]
+Unicorp moved for reconsideration, but the CA denied the motion in its Resolution
+[57]
+ dated June 21, 2018.
+CA-G.R. SP No. 155574
+Meanwhile, pending the resolution of Unicorp's motion for reconsideration in CA-G.R. CV No. 105736, Herma filed before the CA a Petition [with Application for Issuance of a Temporary Restraining Order and/or a Writ of Preliminary Injunction]
+[58]
+ seeking to permanently enjoin the RTC QC-Branch 226, its Sheriff, Unicorp, and the Register of Deeds of Quezon City from proceeding with the public sale of the subject properties, which are now registered in the name of Herma under TCT Nos. 004-201613529, 004-201613530, and 004-2016013531. The petition was docketed as CA-G.R. SP No. 155574.
+On May 9, 2018, the CA issued in CA-G.R. SP No. 155574 a Resolution
+[59]
+ granting Henna's prayer for temporary restraining order (TRO) and/or writ of preliminary injunction (WPI). It held that the injury to be suffered by Herma by virtue of the impending auction sale of the subject properties "will not be susceptible to any mathematical computation and cannot be adequately compensated in damages because what is involved is, not just deprivation of real properties, but the violation of [Herma's] constitutional right not to be deprived of its very own property without due process of law."
+[60]
+Subsequently, in CA-G.R. SP No. 155574, the CA rendered its Decision
+[61]
+ dated July 12, 2018, granting Herma's petition. The dispositive portion of the Decision reads:
+WHEREFORE, premises considered, the private respondent Unicorp's Motion for Inhibition is DENIED for lack of merit.
+The instant petition is hereby GRANTED. Let a Writ of Injunction be issued effective immediately until the case for the cancellation of annotations on the titles of the Subject Properties, which is still pending before the Court of Appeals (16th Division) and docketed as CA-G.R. CV No. 105736, is finally decided ordering respondents, their agents and anyone acting in their behalf to CEASE AND DESIST from conducting a public sale of the properties registered under TCT Nos. 004-201613529 (Property 1), 004-201613530 (Property 2), and 004-2016013531 (Property 3), upon posting a bond to answer for the damages which private respondent may suffer by reason thereof in the amount of One Million Pesos (Php1,000,000.00) payable to this Court within five (5) days from notice hereof. Failure to post the same within the aforesaid period will result to the automatic lifting of the Writ of Injunction.
+The Bondsman is hereby directed to accordingly amend the bond previously posted by petitioner pursuant to Our Resolution dated May 9, 2018, in order that it may serve as condition 
+sine qua non
+ for the issuance of the Writ of Injunction.
+The parties are REQUIRED to inform the Court of the date of receipt of the instant decision.
+The Division Clerk of Court is hereby directed to personally serve with dispatch the copies of this Decision to the parties and their agents and their respective counsels for their information and guidance.
+SO ORDERED.
+[62]
+ (Emphases omitted.)
+In accordance with the foregoing Decision, the CA issued a Writ of Injunction
+[63]
+ dated July 12, 2018.
+The CA found proper the issuance of the writ of injunction for the following reasons: (1) Herma is the true and legal owner of the subject properties and possesses a clear and unmistakable right over them;
+[64]
+ (2) Herma's right to enjoy and dispose of its properties without limitations other than those established by law is in danger of being violated;
+[65]
+ and (3) there is an urgent and paramount necessity for the writ of injunction to prevent serious damage to Herma.
+[66]
+However, the CA clarified that the writ of injunction shall remain effective only until a final decision is rendered in the case for the cancellation of annotations on the titles docketed as CA-G.R. CV No. 105736.
+[67]
+Unicorp subsequently filed a Motion for Reconsideration (of the Decision dated July 12, 2018),
+[68]
+ which, however, did not merit the CA's reversal of its findings. Thus, in its Resolution
+[69]
+ dated August 20, 2018, the CA denied Unicorp's motion for reconsideration.
+Hence, the petitions before the Court.
+The Issues
+In G.R. No. 240316, Unicorp raises the following issues:  
+I. 
+ 
+WHETHER OR NOT [THE] SUBJECT COURT (BRANCH 223) SITTING AS A LAND REGISTRATION COURT HAS JURISDICTION TO LIFT/CANCEL THE NOTICES OF LEVY ON ATTACHMENT ANNOTATED ON [THE] SUBJECT TITLES BY VIRTUE OF THE WRIT OF ATTACHMENTS EARLIER ISSUED BY ANOTHER COURT (BRANCH 226) OF CO-EQUAL AND COORDINATE JURISDICTION IN DIFFERENT CASES FILED AHEAD.
+ 
+II. 
+WHETHER OR NOT [THE] SUBJECT ANNOTATIONS CAN STILL BE CANCELLED CONSIDERING THAT THEY ARE IN THE NATURE OF A SUPERIOR LIEN AND HAVE ALREADY BECOME IMMUTABLE BECAUSE OF THE FINALITY ALREADY ATTAINED BY THE FAVORABLE DECISION AS OF OCTOBER 4, 2012.
+ 
+III. 
+WHETHER OR NOT THE FILING OF A PETITION FOR INJUNCTION WITH APPLICATION FOR TRO IN THE COURT OF APPEALS DESPITE THE PENDENCY OF CAÂ­-G.R. CV NO. 105736 IN ANOTHER DIVISION IS FORUM SHOPPING.
+[70]
+In G.R. No. 241752, on the other hand, Unicorp sets forth the following issues:
+WHETHER OR NOT THE RESPONDENT HERMA'S OWNERSHIP OF [THE] SUBJECT PROPERTIES IS SUBORDINATE TO THE SUPERIOR LIENS ANNOTATED ON THE PRECURSOR TITLES AND CARRIED OVER SAID TITLES.
+WHETHER OR NOT THE SALE OF [THE] SUBJECT PROPERTIES TO SATISFY THE JUDGMENT EARLIER RENDERED IN CIVIL CASE NO. Q-99-36998 CAN BE ENJOINED BY THE WRIT OF INJUNCTION ISSUED BY THE COURT OF APPEALS.
+WHETHER OR NOT FORUM SHOPPING WAS COMMITTED BY RESPONDENT HERMA WHEN IT FILED THE PRESENT ACTION FOR INJUNCTION DESPITE THE PENDENCY OF THE EARLIER CASE FOR CANCELLATION OF SAID ANNOTATIONS ON THE TITLES DOCKETED AS CA-G.R. CV NO. 105736.
+[71]
+To synthesize, the issues to be resolved by the Court are as follows:
+  
+(1) 
+Whether the RTC QC-Branch 223, sitting as a land registration court, has jurisdiction over the petition to cancel the notices of levy on attachment annotated on the subject titles by virtue of the writ of attachment earlier issued in different cases by the RTC QC-Branch 226, a court of coordinate jurisdiction.
+ 
+(2)
+Whether Herma's ownership of the subject properties is subordinate to the liens annotated on the subject titles.
+ 
+(3) 
+Whether the CA's issuance of the writ of injunction to enjoin the sale of the subject properties to satisfy the judgment earlier rendered in Civil Case No. Q-99-36998 was proper.
+ 
+(4) 
+Whether Herma committed forum shopping when it filed with the CA a petition for injunction with application for TRO and/or WPI, docketed as CA-G.R. SP No. 155574, to enjoin the sale of the subject properties despite the pendency of its appeal from the decision of the RTC on the petition for cancellation of annotations on the titles of the subject properties, docketed as CA-G.R. CV No. 105736, before the same court.
+The Courts Ruling
+The Court denies both petitions.
+The RTC QC-Branch 223, a land 
+registration court, has jurisdiction 
+over the petition to cancel the notices 
+of levy on attachment annotated on the 
+titles of the subject properties that 
+were caused by virtue of the writ of 
+attachments earlier issued by RTC 
+QC-Branch 226.
+Unicorp argues that the RTC QC-Branch 223, a land registration court, has no 
+jurisdiction
+ to order the lifting or cancellation of the annotations on the subject titles pursuant to the writ of attachment previously issued by RTC QC-Branch 226. It also points out that the RTC QC-Branch 226 is "a court of co-equal and coordinate jurisdiction."
+[72]
+Apparently, Unicorp misunderstood the concept of jurisdiction.
+It bears stressing that whether a particular matter should be resolved by the RTC in the exercise of its 
+general
+ jurisdiction or of its 
+limited
+ jurisdiction as a special court (e.g., probate, land registration), is 
+not an issue of jurisdiction;
+ "[i]t is in essence a procedural question involving a mode of practice 'which may be waived'."
+[73]
+ In other words, whether the RTC resolves an issue under its general jurisdiction or under its limited jurisdiction as a special court has nothing to do with the question of jurisdiction.
+Therefore, the RTC QC-Branch 223, although acting as a land registration court, is not necessarily divested of jurisdiction over cases cognizable by and falling within the general jurisdiction of the RTC.
+With the passage of PD 1529, or the "Property Registration Decree," on June 11, 1978, land registration proceedings have been characterized as in rem and are cognizable by the RTCs. Section 2 of PD 1529 specifically provides:
+SECTION 2. 
+Nature of Registration Proceedings: Jurisdiction of Courts.
+ - Judicial proceedings for the registration of lands throughout the Philippines shall be in rem and shall be based on the generally accepted principles underlying the Torrens system.
+Courts of First Instance [now the Regional Trial Courts] shall have exclusive jurisdiction over all applications for original registration of title to lands, including improvements and interests therein, and over all petitions filed after original registration of title, with power to hear and determine all questions arising upon such applications or petitions.
+ The court through its clerk of court shall furnish the Land Registration Commission with two certified copies of all pleadings, exhibits, orders, and decisions filed or issued in applications or petitions for land registration, with the exception of stenographic notes, within five days from the filing or issuance thereof. (Italics supplied.)
+Based on the foregoing provision, the RTC, acting as a land registration court, has jurisdiction not only over applications for original registration of title to lands, including improvements and interests therein, but 
+also over petitions filed after original registration of title.
+ Moreover, the RTC is vested with the power to determine all issues arising upon such applications or petitions.
+Significantly, even under Section 110 of Act No. 496,
+[74]
+ otherwise known as "The Land Registration Act," the Court of First Instance (now the RTC), sitting as a land registration court, "has the authority to conduct a hearing, receive evidence, and decide controversial matters with a view to determining whether or not the filed notice of adverse claim is valid."
+[75]
+In the 1993 case of 
+Spouses Abalos vs. Court of Appeals,
+[76]
+ the Court held that while a land registration court exercises special and limited jurisdiction, certain exceptions are recognized, 
+viz
+.:
+From an otherwise rigid rule outlining the jurisdiction of a land registration court being limited in character, deviations have been sanctioned under the following circumstances where: (1) the parties agreed or have acquiesced in submitting the aforesaid issues for determination by the court in the registration proceedings; (2) the patties were accorded full opportunity in presenting their respective arguments of the issues litigated and of the evidence in support thereof; and (3) the court has already considered the evidence on record and is convinced that the same is sufficient and adequate for rendering a decision upon the issues controverted. x x x
+[77]
+However, in the 1995 case of 
+Ignacio v. CA
+,
+[78]
+ the Court clarified that PD 1529 had 
+eliminated the distinction
+ between the 
+general jurisdiction
+ vested in the RTC and 
+its limited jurisdiction
+ when acting as a land registration court. The Court explained that the amendment introduced in PD 1529 was aimed at "avoiding multiplicity of suits" and "expediting the disposition of cases."
+[79]
+Further, in the 2014 case of 
+Lozada v. Bracewell,
+[80]
+ the Court reiterated that the passage of PD 1529 had eliminated the distinction between the general jurisdiction of the RTC and its limited jurisdiction as a land registration court. Accordingly, the Court clarified that "
+RTCs now have the power to hear and determine all questions, even contentious and substantial ones, arising from applications for original registration of titles to lands and petitions filed after such registration.
+"
+[81]
+Beyond doubt, the RTC-QC Branch 223 has jurisdiction over the petition for cancellation of the notices of levy on attachment annotated on the titles of the subject properties that were caused by virtue of the writ of attachments earlier issued by RTC QC-Branch 226. Moreover, as justified by expediency and convenience, the CA properly ruled to no longer remand the case to the court of origin and determine forthwith the propriety of the cancellation of the disputed annotations.
+Herma's ownership of the subject 
+properties is superior to the liens 
+annotated on the subject titles.
+There is no dispute that Spouses Escalona were no longer the owners of the subject properties at the time of the levy in 1999 and 2001 during the pendency of the following cases: (1) Civil Case Nos. Q-99-36998 and Q-99-37597 for "
+specific performance or enforcement of foreign judgment" and "annulment of fraudulent/simulated sale and cancellation of title,
+" respectively, filed by Unicorp against Thelmo Escalona, TERP, and the Register of Deeds and consolidated before the RTC QC-Branch 226; and (2) Civil Case No. 96-1758 for "
+sum of money
+" filed by AsianBank against Escala Garment Manufacturing Corp., Spouses Escalona, and Spouses Alex and Cynthia Escalona before the RTC Makati-Branch 141. TERP acquired ownership of the subject properties in 1995 and 1996, as evidenced by the two Deeds of Absolute Sale
+[82]
+ dated December 14, 1995, and the Deed of Sale
+[83]
+ dated March 19, 1996.
+As their ownership had been transferred to TERP in 1995 and 1996, the subject properties ceased to be owned by Spouses Escalona as early as then. Not being owned by Spouses Escalona at the time of the levy on execution, the subject properties could not be made answerable for any judgment rendered against them.
+Unicorp, however, points out that the finality of the CA decision that upheld the validity of the sale between Spouses Escalona and TERP only pertained to the property covered by TCT No. RT-109555 (71118)/TCT No. 247055 (Property 1) and did not include the properties covered by TCT No. RT-2665 (71119)/TCT No. N-249442 (Property 2) and TCT No. RT-2666 (71120)/TCT No. N-249441 (Property 3). Thus, it argues that the annotations on the titles of Property 2 and Property 3 are superior liens and have already become immutable.
+The argument is untenable.
+To emphasize, money judgments can be enforced only against properties 
+incontrovertibly belonging to the judgment obligor
+.
+[84]
+ Under Section 9(b), Rule 39 of the Rules of Court, a levy is allowed "upon the properties of the judgment obligor of every kind and nature whatsoever which may be disposed of for value and not otherwise exempt from execution." The purpose of a levy on execution is "to subject real and personal properties of the judgment [obligor] and make them answerable to the obligation in favor of the judgment obligee in case the former is not able to pay the judgment debt in cash, certified check, or similar means."
+[85]
+ Of course, this presupposes that the properties to be levied belong to and are owned by the judgment obligor.
+[86]
+Here, Spouses Escalona were no longer the owners of Property 2 and Property 3 when they were levied upon in 1999 and 2001 during the pendency of Civil Case Nos. Q-99-36998 and Q-99-37597 before the RTC QC-Branch 226 and Civil Case No. 96-1758 before the RTC MakatiÂ­-Branch 141. As shown in the Deeds of Absolute Sale
+[87]
+ dated December 14, 1995, Spouses Escalona had transferred the ownership of Property 2 and Property 3 to TERP.
+Unicorp points out, however, that because the registration of the sale of Property 2 and Property 3 to TERP was done only on January 30, 2003, and February 3, 2003, respectively, the notices of levy on attachment annotated on their respective titles are superior and immutable. It invokes the second paragraph of Section 52 of PD 1529 which provides that "
+[t]he act of registration shall be the operative act to convey or affect the land insofar as third persons are concerned x x x.
+" Arguing its being a third person to the subject sale, Unicorp submits that it should not be affected by the unregistered transactions at the time of the levy.
+[88]
+The allegations are specious at best.
+Significantly, Unicorp itself does not dispute the fact of execution of the documents evidencing the sale of the subject properties between Spouses Escalona and TERP in 1995 and 1996.
+[89]
+ Also, there is no question as to the validity of the sale. It appears that the sale was made for a legitimate purpose: to contribute the properties-to the Margarita Asset Pool, a project agreement of TERP, HGC, and Planters Development Bank in relation to two housing projects in Quezon City.
+[90]
+ Moreover, there appears no indication that the sale was made for the purpose of defrauding Unicorp or any of Spouses Escalona's creditors.
+With respect to Property 2 and Property 3, considering that the sale of these lots by Spouses Escalona to TERP in 1995 remained unregistered during the levy in 1999 and 2001, the fact of their transfer to TERP could not, at that time, affect or bind third persons, including Unicorp. Thus, insofar as Unicorp is concerned, Property 2 and Property 3 were still owned by Spouses Escalona at the time of the levy.
+Unicorp correctly points out that the sale made in 1995 but registered only in 2003 affects it only as of the date of registration.
+[91]
+ However, its contention that the annotations appearing in the respective titles of Property 2 and Property 3 are superior and immutable is untenable.
+To be sure, Spouses Escalona had lost any right, title, or interest in Property 2 and Property 3 upon their absolute sale of these lots to TERP, as evidenced by the two Deeds of Absolute Sale
+[92]
+ dated December 14, 1995.
+Needless to state, only properties incontrovertibly belonging to the judgment obligor may be the subject of a levy on execution.
+[93]
+ As held in 
+Villasi v. Garcia:
+[94]
+Indeed, the power of the court in executing judgments extends only to properties unquestionably belonging to the judgment debtor alone. An execution can be issued only against a party and not against one who did not have his day in court. The duty of the sheriff is to levy the property of the judgment debtor not that of a third person. For, as the saying goes, one man's goods shall not be sold for another man's debts.
+[95]
+As provided in Section 12, Rule 39 of the Rules of Court, the effect of levy on execution as to third persons is to create a lien in favor of the judgment obligee 
+over the right, title, and interest of the judgment obligor in the properties at the time of the levy,
+ subject to liens and encumbrances then existing. In view thereof, if the judgment obligor 
+ceases to have any right, title, or interest in the property levied upon,
+ then no lien may be created in favor of the judgment obligee by reason of the levy.
+[96]
+Applying the second paragraph of Section 52 of PD 1529, which Unicorp itself invokes, the registration of the sale to TERP of Property 2 on January 30, 2003, and Property 3 on February 3, 2003, constitutes the operative act to convey or affect these lots insofar as third persons are concerned. In other words, from the time of the registration of the sale, Unicorp was bound by the fact that Spouses Escalona had already sold Property 2 and Property 3 to TERP on December 14, 1995.
+By selling to TERP Property 2 and Property 3 in 1995 and Property 1 in 1996, Spouses Escalona had lost title or right to the possession of the subject properties. Then, TERP which acquired ownership thereof, as evidenced by the two Deeds of Absolute Sale dated December 14, 1995, and the Deed of Sale dated March 19, 1996, transferred the title to the subject properties to HGC by virtue of the Deed of Assignment and Conveyance dated January 10, 2000. Herma, in turn, subsequently acquired ownership of the subject properties from HGC as evidenced by the Deed of Absolute Sale
+[97]
+ executed on April 17, 2013. Consequently, TCT No. 004-2016013529
+[98]
+ for Property 1, TCT No. 004-2016013530
+[99]
+ for Property 2, and TCT No. 004-2016013531
+[100]
+ for Property 3 were issued in favor of Herma.
+Significantly, Herma acquired the properties 
+after
+ the registration of Spouses Escalona's sale to TERP of Property 2 and Property 3, respectively on January 30, 2003, and February 3, 2003, by which time the fact of such prior sale had become binding on third persons, including Unicorp.
+Accordingly, from the time of the registration of the sale of Property 2 and Property 3 to TERP, there was no longer any basis for the annotations to be carried over to the TCTs issued in favor of Herma. Certainly, no lien could be created upon the levy of Property 2 and Property 3 for the satisfaction of the debt of Spouses Escalona, who ceased to have any right or title to these properties or any interest therein. Herma, who acquired ownership of Property 2 and Property 3, has the right to have all the annotations appearing on its titles cancelled.
+Certainly, Henna's ownership of the subject properties is superior to the liens annotated on the subject titles which, in fact, could no longer be enforced as of the registration of the sale to TERP of Property 2 and Property 3 in 2003. Ergo, the CA correctly upheld the right of Herma to the cancellation of the annotations on the TCTs in question.
+The CA's issuance of the writ of 
+injunction to enjoin the sale of the 
+subject properties to satisfy the
+judgment earlier rendered in Civil 
+Case No. 0-99-36998 was proper.
+Having established Henna's right to the cancellation of all the annotations appearing on the titles of the subject properties, the Court finds proper, and thus affirms, the CA's issuance of the writ of injunction to enjoin the sale of the subject properties and satisfy the judgment earlier rendered in Civil Case No. Q-99-36998.
+The Court has held that any third person whose property is mistakenly levied upon to answer for another person's indebtedness has every right to challenge the levy through any of the remedies provided for under the Rules of Court.
+[101]
+ Section 16,
+[102]
+ Rule 39 of the Rules specifically provides that third-party claimants may avail themselves of either of the following: (1) 
+terceria
+, in which case they shall execute an affidavit of their title or right to the possession of the property levied upon, serve it to the officer making the levy, and likewise serve a copy thereof to the judgment obligee; or (2) a 
+separate action
+, which has for its object the recovery of ownership or possession of the property seized by the sheriff, as well as damages resulting from the alleged wrongful seizure and detention thereof despite the third-party claim.
+[103]
+ The separate action may be brought against the Sheriff and such other parties as may be alleged to have colluded with him or her in the supposedly wrongful execution proceedings, including the judgment creditor.
+[104]
+ However, such third-party claimants are not precluded from resorting to other legal remedies to prosecute their claims of ownership or right over the properties levied upon.
+[105]
+As applied in the case, Herma, as the absolute owner of the subject properties, has every right to prosecute its claim of ownership thereof. Herma should not be made answerable for any indebtedness of Spouses Escalona, who were no longer the owners of the subject properties when they were levied upon in 1999 and 2001.
+Herma did not commit forum shopping 
+when it filed with the CA a petition for 
+injunction with application for TRO 
+and/or WPI, docketed as CA-G.R. SP 
+No. 155574, to enjoin the sale of the 
+subject properties despite the
+pendency of its appeal from the 
+decision of the RTC on the petition for
+cancellation of annotations on the 
+titles of the subject properties,
+docketed as CA-G.R. CV No. 105736, 
+before the same court.
+A party commits forum shopping by instituting two or more suits involving the same parties for the same cause of action, either simultaneously or successively, on the supposition that one or the other court would make a favorable disposition or increase a party's chances of obtaining a favorable decision or action.
+[106]
+ It is a prohibited and condemned act of malpractice because it "trifles with the courts, abuses their processes, degrades the administration of justice, and adds to the already congested court dockets."
+[107]
+"[T]he test for determining forum shopping is whether in the two (or more) cases pending, there is identity of parties, identity of rights or causes of action, and identity of reliefs sought."
+[108]
+Thus, forum shopping has the following elements: (1) the identity of parties or parties that represent the same interests in the two or more actions; (2) the identity of rights asserted and reliefs prayed for, the relief being founded on the same facts; and (3) the identity of the two preceding particulars is such that any judgment rendered in one action will amount to 
+res judicata
+ in the other action or actions, regardless of which party is successful.
+[109]
+In the present case, the foregoing elements are not present.
+First
+, there is no identity of parties in the two cases because the Sheriff and the RTC QC-Branch 226, who were parties in CA-G.R. SP No. 155574 (subject of G.R. No. 241752), were not parties in LRC Case No. R-QZN-13-01369-LR/CA-G.R. CV No. 105736 (subject of G.R. No. 240316).
+Second
+, the relief prayed for in LRC Case No. R-QZN-13-01369- LR/CA-G.R. CV No. 105736 (subject of G.R. No. 240316) .is the cancellation of the annotations on the titles of the subject properties, while the relief prayed for in CA-G.R. SP No. 155574 (subject of G.R. No. 241752) is the injunction of the sale of the subject properties.
+As aptly pointed out by Herma, the petition for cancellation of the annotations on TCT Nos. N-247055, N-249442, and N-249441, docketed as LRC Case No. R-QZN-13-01369-LR, was filed in 2013; thus, the subject annotations sought to be canceled did not include the annotation of the writ of execution which was entered in Herma's TCTs only in 2018. Moreover, the petition for cancellation in 2013 did not involve any prayer for injunction against the Sheriff because it was only in 2018 that the Sheriff scheduled the public sale of the subject properties.
+[110]
+Third
+, the RTC judgment in LRC Case No. R-QZN-13-01369-LR for the cancellation of the annotations on TCT Nos. N-247055, N-249442, and N-249441 will not amount to 
+res judicata
+ in the petition for injunction before the CA, docketed as CA-G.R. SP No. 155574, because the former case did not pray and could not have prayed for the cancellation of the annotation of the writ of execution in Herma's TCTs that was entered only in 2018.
+Beyond doubt, Herma did not commit forum shopping when it filed with the CA a petition for injunction with application for TRO and/or WPI, docketed as CA-G.R. SP No. 155574, to enjoin the sale of the subject properties despite the pendency of its appeal from the decision of the RTC on the petition for cancellation of annotations on the titles of the subject properties, docketed as CA-G.R. CV No. 105736, before the same court.
+WHEREFORE
+, the petitions for review in G.R. No. 240316 and G.R. No. 241752 are both 
+DENIED
+. The Decision dated November 24, 2016 and the Resolution dated June 21, 2018 of the Court of Appeals in CA-G.R. CV No. 105736 and the Decision dated July 12, 2018 and the Resolution dated August 20, 2018 of the Court of Appeals in CA-G.R. SP No. 155574 are 
+AFFIRMED
+.
+SO ORDERED.
+ 
+Caguioa (Chairperson), Gaerlan, Dimaampao
+ and 
+Singh, JJ.,
+ concur
+[1]
+ 
+Rollo
+ (G.R. No. 240316), pp. 6-28; 
+rollo
+ (G.R. No. 241752), pp. 9-28-A.
+[2]
+ 
+Rollo
+ (G.R. No. 240316), pp. 32-47. Penned by Associate Justice Marie Christine Azcarraga-Jacob and concurred in by Associate Justices Ricardo R. Rosario (now a Member of the Court) and Edwin D. Sorongon. 
+[3]
+ 
+Id
+. at 120-127. Penned by Presiding Judge Caridad M. Walse-Lutero.  
+[4]
+ 
+Id
+. at 56-66. 
+[5]
+ 
+Id
+. at 49-54.
+[6]
+ 
+Rollo
+ (G.R. No. 241752), pp. 33-52. Penned by Associate Justice Stephen C. Cruz and concurred in by Presiding Justice Romeo F. Barza and Associate Justice Carmelita Salandanan-Manahan. 
+[7]
+ 
+Id
+. at 58-95. 
+[8]
+ 
+Id
+. at 101-103. 
+[9]
+ 
+Id
+. at 104-106. 
+[10]
+ 
+Id
+. at 107-109. 
+[11]
+ 
+Id
+. at 56-57. 
+[12]
+ 
+Id
+. at 304-315.
+[13]
+ 
+Rollo
+ (G.R. No. 240316), pp. 67-73. 
+[14]
+ 
+Id
+. at 74-80-A. 
+[15]
+ 
+Id
+. at 81-86. 
+[16]
+ 
+Id
+. at 401-404. 
+[17]
+ 
+Id
+. at 399-400.
+[18]
+ 
+Id
+. at 387. 
+[19]
+ 
+Id
+. at 88-90. 
+[20]
+ 
+Id
+. at 91-93. 
+[21]
+ 
+Id
+. at 633-649.
+[22]
+ 
+Id
+. at 33, CA Decision dated November 24, 2016. 
+[23]
+ 
+Id
+. at 372-378. 
+[24]
+ 
+Id
+. at 34, CA Decision dated November 24, 2016.
+[25]
+ 
+Id
+. at 34-36 and 121-123. 
+[26]
+ 
+Id
+. at 35-36.
+[27]
+ 
+Id
+. at 36 and 484-487. 
+[28]
+ 
+Id
+. at 121. 
+[29]
+ 
+Id
+. at 458-480. Penned by Associate Justice Ramon M. Bato, Jr. and concurred in by Associate Justices Juan Q. Enriquez, Jr. and Florito S. Macalino. 
+[30]
+ 
+Id
+. at 479.
+[31]
+ 
+Id
+. at 478. 
+[32]
+ 
+Id
+. at 481. 
+[33]
+ 
+Id
+. at 482. 
+[34]
+ 
+Id
+. at 483.
+[35]
+ 
+Id
+. at 100-104. 
+[36]
+ 
+Id
+. at 101-103. 
+[37]
+ 
+Id
+. at 104-106. 
+[38]
+ 
+Id
+. at 107-109. 
+[39]
+ 
+Id
+. at 105-119. 
+[40]
+ 
+Id
+. at 105.
+[41]
+ 
+Id
+. at 114. 
+[42]
+ 
+Id
+. at 116. 
+[43]
+ 
+Id
+. 
+[44]
+ 
+Id
+. Underscoring omitted. 
+[45]
+ 
+Id
+. at 120-127.
+[46]
+ 
+Id
+. at 127. 
+[47]
+ 
+Id
+. at 126. 
+[48]
+ 
+Id
+. at 127. 
+[49]
+ 
+Id
+. at 32-47.
+[50]
+ 
+Id
+. at 46.
+[51]
+ Property Registration Decree, approved on June 11, 1978. 
+[52]
+ 
+Rollo
+ (G.R. No. 240316), p. 41. 
+[53]
+ 
+Id
+. 
+[54]
+ 
+Id
+. at 43.
+[55]
+ 
+Id
+. at 44. 
+[56]
+ 
+Id
+. at 44-45. 
+[57]
+ 
+Id
+. at 56-66. 
+[58]
+ 
+Rollo
+ (G.R. No. 241752), pp. 58-95.
+[59]
+ 
+Id
+. at 111-116-A.
+[60]
+ 
+Id
+. at 115. 
+[61]
+ 
+Id
+. at 33-51. 
+[62]
+ 
+Id
+. at 50-51.
+[63]
+ 
+Id
+. at 53-54. 
+[64]
+ 
+Id
+. at 47. 
+[65]
+ 
+Id
+. at 48. 
+[66]
+ 
+Id
+. at 49. 
+[67]
+ 
+Id
+. at 50. 
+[68]
+ 
+Id
+. at 304-315.
+[69]
+ 
+Id
+. at 56-57.
+[70]
+ 
+Rollo
+ (G.R. No. 240316), p. 11. 
+[71]
+ 
+Rollo
+ (G.R. No. 241752), p. 16
+[72]
+ 
+Rollo
+ (G.R. No. 240316), p. 12.
+[73]
+ 
+Santos vs. Ganayo,
+ 202 Phil. 16, 29 (1982), citing 
+Manalo v. Mariano,
+ 191 Phil. 108 (1976), further citing 
+Cunanan v. Amparo,
+ 80 Phil. 227, 232 (1948), 
+Reyes v. Diaz,
+ 73 Phil. 484 (1941).
+[74]
+ Entitled "An Act to Provide for the Adjudication and Registration of Titles to Lands in the Philippine Islands," enacted on November 6, 1902. 
+[75]
+ 
+PNB v. International Corporate Bank,
+ 276 Phil. 551, 558 (1991). 
+[76]
+ 295 Phil. 624 (1993). 
+[77]
+ 
+Id
+. at 631. Citations omitted.
+[78]
+ 316 Phil. 302 (1995). 
+[79]
+ 
+Id
+. at 308-309. 
+[80]
+ 731 Phil. 128 (2014). 
+[81]
+ 
+Id
+. at 137, citing 
+PNB v. International Corporate Bank,
+ 
+supra
+ note 75 at 558-559.
+[82]
+ 
+Rollo
+ (G.R. No. 240316), pp.401-404. 
+[83]
+ 
+Id
+. at 399-400.
+[84]
+ 
+Gagoomal v. Spouses Villacorta,
+ 679 Phil. 441, 451 (2012). 
+[85]
+ 
+Miranda v. Sps. Mallari,
+ 844 Phil. 176, 196 (2018). 
+[86]
+ 
+Id
+. at 195. 
+[87]
+ 
+Rollo
+ (G.R. No. 240316), pp. 401-404. 
+[88]
+ 
+Id
+. at 17, Petition for Review.
+[89]
+ 
+Id
+. 
+[90]
+ 
+Id
+. at 33, CA Decision dated November 24, 2016. 
+[91]
+ 
+Id
+. at 33, Petition for Review. 
+[92]
+ 
+Id
+. at 401-404. 
+[93]
+ 
+Miranda v. Sps. Mallari,
+ supra note 85 at 196.
+[94]
+ 724 Phil. 519 (2014).
+[95]
+ 
+Id
+. at 528, citing 
+Corpuz v. Pascua,
+ 674 Phil. 28, 37 (2011). 
+[96]
+ 
+Miranda v. Sps. Mallari,
+ supra note 85 at 196.
+[97]
+ 
+Rollo
+ (G.R. No. 240316), pp. 100-104. 
+[98]
+ 
+Id
+. at 101-103. 
+[99]
+ 
+Id
+. at 104-106. 
+[100]
+ 
+Id
+. at 107-109.
+[101]
+ 
+Gagoomal v. Sps. Villacorta,
+ supra note 84. 
+[102]
+ Section 16, Rule 39 of the Rules of Court provides:
+SECTION 16. 
+Proceedings Where Property Claimed by Third Person.
+ - If the property levied on is claimed by any person other than the judgment obligor or his agent, and such person makes an affidavit of his title thereto or right to the possession thereof, stating the grounds of such right or title, and serves the same upon the officer making the levy and a copy thereof upon the judgment obligee, the officer shall not be bound to keep the property, unless such judgment obligee, on demand of the officer, files a bond approved by the court to indemnify the third-party claimant in a sum not less than the value of the property levied on. In case of disagreement as to such value, the same shall be determined by the court issuing the writ of execution. No claim for damages for the taking or keeping of the property may be enforced against the bond unless the action therefor is filed within one hundred twenty (120) days from the date of the filing of the bond.
+The officer shall not be liable for damages for the taking or keeping of the property, to any third-party claimant if such bond is filed. Nothing herein contained shall prevent such claimant or any third person from vindicating his claim to the property in a separate action, or prevent the judgment obligee from claiming damages in the same or a separate action against a third-party claimant who filed a frivolous or plainly spurious claim. 
+When the writ of execution is issued in favor of the Republic of the Philippines, or any officer duly representing it, the filing of such bond shall not be required, and in case the sheriff or levying officer is sued for damages as a result of the levy, he shall be represented by the Solicitor General and if held liable therefor, the actual damages adjudged by the court shall be paid by the National Treasurer out of such funds as may be appropriated for the purpose. 
+[103]
+ See 
+Power Sector Assets and Liabilities Management Corporation (PSALM) v. Maunlad Homes, Inc.,
+ 805 Phil. 544 (2017). 
+[104]
+ 
+Id
+. at 554-555. 
+[105]
+ 
+Villasi v. Garcia,
+ supra note 94 at 527.
+[106]
+ 
+Heirs of
+ 
+Mampo v. Morada, G.R. No. 214526,
+ November 3, 2020, citing 
+Zamora v. Quinan, Jr.,
+ 821 Phil. 1009, 1014 (2017); 
+Yap v. Chua,
+ 687 Phil. 392, 399 (2012). 
+[107]
+ 
+Id
+., 
+Heirs of Marcelo Sotto v. Palicte,
+ 726 Phil. 651, 654 (2014). 
+[108]
+ 
+Yap v. Chua, G.R. No. 186730,
+ 687 Phil. 392,400 (2012), citing 
+Young v. John Keng Seng,
+ 446 Phil. 823, 833 (2003). 
+[109]
+ 
+BF Citiland Corp. v. Bangko Sentral ng Pilipinas, G.R. No. 224912,
+ October 16, 2019.
+[110]
+ 
+Rollo
+ (G.R. No. 240316), p. 580.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

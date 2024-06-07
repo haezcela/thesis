@@ -1,0 +1,741 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 250440, May 12, 2021 ]
+
+
+EKISTICS PHILIPPINES, INC., PETITIONER, VS. BANGKO SENTRAL NG PILIPINAS, RESPONDENT.
+D E C I S I O N
+
+
+
+
+DELOS SANTOS, J.:
+
+
+Before the Court is a Petition for Review on 
+Certiorari
+[1]
+ filed under Rule 45 of the Rules of Court seeking to set aside and annul the Second Amended Decision
+[2]
+ dated November 13, 2019 of the Court of Appeals (CA) in CA-G.R. SP No. 148787, which set aside the Orders dated October 17, 2016
+[3]
+ (granting a Writ of Preliminary Injunction against the Bangko Sentral ng Pilipinas), and October 25, 2016
+[4]
+ (reducing the amount of the injunction bond), of the Makati City Regional Trial Court (RTC), Branch 66, in Sp. Proc. No. M-7411.
+The Facts
+Herein petitioner Ekistics Philippines, Inc. (Ekistics) is a stockholder-of-record of Banco Filipino Saving and Mortgage Bank (Banco Filipino), which is a corporation organized to engage in the general business of savings, mortgage banking and of a trust company. Respondent Bangko Sentral ng Pilipinas (BSP) is a corporate entity and the central monetary authority that exercises regulatory powers over all banking institutions in the Philippines pursuant to Republic Act (R.A.) No. 7653.
+[5]
+On March 17, 2011, the BSP, through the Monetary Board, issued Resolution No. 372-A placing the Banco Filipino under receivership of the Philippine Deposit Insurance Corporation (PDIC).
+[6]
+ The Resolution was issued based on the finding that Banco Filipino cannot continue its business without obtaining probable losses to its depositors and creditors. Some stockholders of Banco Filipino filed a petition before the CA (docketed as CA-G.R. SP No. 118599) assailing the validity of the aforesaid Resolution.
+[7]
+On October 27, 2011, the Monetary Board issued another resolution, Resolution No. 1635,
+[8]
+ placing Banco Filipino under liquidation after the PDIC submitted a report declaring that Banco Filipino can no longer be rehabilitated. Aggrieved, the majority stockholders of Banco Filipino filed another petition before the CA (docketed as CA-G.R. SP No. 122130) questioning the bank's placement under liquidation.
+[9]
+While the petitions of the Banco Filipino majority stockholders were pending before the CA, herein petitioner Ekistics filed a petition entitled: 
+"In Re: Petition for Assistance in the Liquidation of Banco Filipino Savings and Mortgage Bank"
+ docketed as Sp. Proc. No. M-7411 before the RTC.
+[10]
+ The RTC gave due course to the petition and issued an Order
+[11]
+ dated April 3, 2013 directing the publication thereof and requiring all claimants of Banco Filipino to file their claims within 30 days from publication of the aforesaid RTC Order. The stockholders who filed the petitions before the CA in CA-G.R. SP Nos. 118599 and 122130 moved for the suspension of the liquidation proceedings before the RTC pending the final determination of the cases before the CA. The RTC granted the stockholders' motion.
+During the suspension of the liquidation proceedings, the BSP posted in its website an Invitation to Bid for the sale of certain properties, which include some properties of Banco Filipino. Ekistics filed a Motion for Leave for Intervention
+[12]
+ with Petition-in-Intervention with application for Temporary Restraining Order (TRO) and Writ of Preliminary Injunction (WPI)
+[13]
+ before the RTC, praying that the BSP be enjoined from selling and disposing of Banco Filipino assets. The BSP was not impleaded in the aforesaid motion but was nonetheless served with the notice of hearing. The BSP failed to appear in the scheduled hearing.
+[14]
+On September 27, 2016, the RTC issued an Order
+[15]
+ granting a 20-day TRO against BSP and scheduled the hearing for the application of the WPI.
+The Ruling of the RTC
+The RTC found that all the essential requisites in the issuance of a WPI are present in the case, namely: (a) the posting of the Invitation to Bid by the BSP is a material and substantial invasion of the rights of Ekistics, a stockholder-of-record of Banco Filipino; (b) as a stockholder, Ekistics has clear and unmistakable rights in the preservation of the assets of Banco Filipino; and (c) the dissipation of the assets of Banco Filipino, through the selling thereof in a public bidding by BSP, will certainly cause serious damage to the bank's stakeholders.
+[16]
+The dispositive portion of the RTC Order
+[17]
+ dated October 17, 2016 reads as follows:
+WHEREFORE, premises considered, upon the filing by Petitioner-in-Intervention of a bond, in the amount of Php1,200,000,000.00 in favor of Petitioner which will answer for all the damages the latter may sustain by reason of the injunction if the Court should finally decide that the injunction Petitioner-in-Intervention was not entitled thereto, let a Writ of Preliminary Injunction be issued. Said writ shall restrain the Bangko Sentral ng Pilipinas, its agents, assignees, representatives or any person acting in behalf from continuing the public bidding, selling and disposal of the properties covered by TCT Nos. 218667, 7135, 7136, 7138 and 7139, including all acts leading to the disposal of assets it had acquired or foreclosed from Banco Filipino Savings and Mortgage Bank.
+Finally, let the writ be implemented by this Court's Sheriff Leodel N. Roxas.
+SO ORDERED.
+[18]
+Ekistics filed an Urgent Motion to Reduce Injunctive Bond,
+[19]
+ which the RTC granted through an Order
+[20]
+ dated October 25, 2016. On October 27, 2016, the RTC issued a WPI.
+[21]
+On October 27, 2016, the PDIC elevated the case before the CA 
+via 
+a Petition for 
+Certiorari
+ assailing the RTC Order
+[22]
+ dated July 25, 2016, which granted Ekistics' Motion for Leave for Intervention and the RTC Order
+[23]
+ dated September 27, 2016, which granted the issuance of the TRO. PDIC's petition was docketed as CA-G.R. SP No. 148237.
+[24]
+On the part of the BSP, it filed a Petition for 
+Certiorari
+[25]
+ under Rule 65 of the Rules of Court with prayer for the issuance of a TRO before the CA assailing the RTC Orders dated October 17, 2016 and October 25, 2016.
+[26]
+ The BSP's petition was docketed as CA-G.R. SP No. 148787.
+[27]
+The Ruling of the CA
+On April 7, 2017, the CA granted a 60-day TRO and enjoined the implementation and enforcement of the assailed RTC Orders dated October 17, 2016 and October 25, 2016.
+[28]
+Initially, the CA granted the BSP's petition on the ground that Ekistics was not entitled to the grant of the WPI since the alleged right sought to be protected, as well as the requirement of grave and irreparable injury were not established.
+[29]
+ As a stockholder, Ekistics' right over the corporate properties is merely inchoate as it is contingent on the remaining assets after Banco Filipino has settled all debts and liabilities upon its liquidation.
+[30]
+ The CA further held that the injury alleged by Ekistics is not irreparable damage within the contemplation of the rule. The possibility of irreparable damage without proof of an actual existing right is not a ground for injunction.
+[31]
+The dispositive portion of the CA Decision
+[32]
+ dated November 27, 2017, is hereby reproduced, thus:
+WHEREFORE, premises considered, the present PETITION is hereby GRANTED. The Orders dated October 17, 2016 and October 25, 2016 issued by Hon. Joselito C. Villarosa, Presiding Judge of the RTC of Makati, Branch 66 in Case No. M-7411 are hereby ANNULLED and SET ASIDE. Accordingly, the WRIT OF PRELIMINARY INJUNCTION issued by public respondent against petitioner Bangko Sentral ng Pilipinas, its agents, assignees and representatives is hereby LIFTED. Meantime, petitioner's prayer for Writ of Preliminary Injunction is deemed mooted by this Decision.
+SO ORDERED.
+[33]
+Not in conformity with the Decision of the CA, Ekistics moved for the reconsideration thereof.
+[34]
+ Finding merit in Ekistics' Motion for Reconsideration, the CA granted the motion and amended its Decision dated November 27, 2017. Applying the principle of judicial courtesy, the CA held that considering that the validity of the BSP Resolution which placed Banco Filipino under receivership is still pending before the Court and the legality of the Resolution ordering the liquidation of Banco Filipino is yet to be resolved by another division in the CA, it is prudent to reverse the originally issued Decision in order to prevent the proceedings before the Court and the CA becoming moot and academic.
+[35]
+The decretal portion of the CA Amended Decision
+[36]
+ dated July 27, 2018 reads as follows:
+WHEREFORE, premises considered, the instant Motion for Reconsideration is hereby GRANTED. The Decision dated November 27, 2017 is hereby REVERSED and SET ASIDE. Accordingly, a new judgment is entered AFFIRMING and REINSTATING the twin Orders dated October 17, 2016 and October 25, 2016 of the Regional Trial Court of Makati City, Branch 66 in Case No. M-7411.
+SO ORDERED.
+[37]
+Aggrieved, the BSP filed a Motion for Reconsideration
+[38]
+ seeking the reversal of the CA Amended Decision asseverating that: (a) under Section 30 of R.A. No. 7653, as amended by R.A. No. 11211, the Decision of the Monetary Board to liquidate the assets of a failing bank may not be enjoined, except through a petition for 
+certiorari
+ filed by shareholders holding majority of the bank's capital stocks within 10 days from notice of the Monetary Board's Order of Liquidation; and (b) even without the provisions in R.A. No. 7653, the RTC exceeded its jurisdiction in issuing the writ of injunction against the BSP because the legal requisites for the issuance of a WPI are not present in the case.
+On November 13, 2019, the CA granted the BSP's motion and rendered a Second Amended Decision
+[39]
+ reinstating its original Decision dated November 27, 2017. The CA held that the actions of the Monetary Board may not be restrained by courts except on petition for 
+certiorari
+, which should be filed before the CA.
+[40]
+ The CA further opined that Ekistics circumnavigated the law by filing a Motion to Intervene with Petition-in-Intervention and Prayer for TRO and/or Injunction in the liquidation proceedings before the RTC against Banco Filipino beyond the 10-day period prescribed by Section 10 of R.A. No. 7653.
+[41]
+The 
+fallo
+ of the now-assailed Second Amended Decision of the CA reads as follows:
+WHEREFORE, the 
+Motion for Reconsideration
+ of the Bangko Sentral ng Pilipinas is GRANTED. This Court's 
+Amended Decision
+ dated 27 July 2018, is REVERSED and SET ASIDE and this Court's original 
+Decision
+, dated 27 November 2017, setting aside the 
+Orders
+ of the trial court, dated 17 October 2016 (granting a writ of preliminary injunction against the Bangko Sentral ng Pilipinas), and 25 October 2016 (reducing the amount of injunction bond) is REINSTATED. The Petition-in-Intervention filed by Ekistics Phils., Inc. in the court 
+a quo
+ is DISMISSED.
+SO ORDERED.
+[42]
+Undaunted, Ekistics elevated the case before the Court 
+via
+ the present Petition for Review on 
+Certiorari
+ questioning the validity of the Second Amended Decision dated November 13, 2019 of the CA. Hereunder are the assigned errors submitted by Ekistics for the Court's resolution, 
+viz
+.:
+The Assigned Errors
+THE [CA] ERRED IN RULING THAT THE RTC HAS NO JURISDICTION OVER THE PETITION-IN-INTERVENTION FILED BY PETITIONER AND IN DISMISSING SAID PETITION-IN-INTERVENTION BECAUSE:
+ 
+ 
+1.
+ 
+THE ISSUE ON THE RTC'S JURISDICTION OVER THE PETITION-IN-INTERVENTION FILED BY PETITIONER IS BARRED BY [
+RES JUDICATA
+].
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.
+ 
+THE CAUSE OF ACTION IN RESPONDENT BSP'S PETITION FOR [
+CERTIORARI
+] WITH THE CA IS LIMITED TO THE NULLIFICATION OF THE ORDERS DATED OCTOBER 17, 2016 AND OCTOBER 25, 2016 OF THE RTC, WHICH GRANTED PETITIONER'S APPLICATION FOR WRIT OF PRELIMINARY INJUNCTION AND ITS URGENT MOTION TO REDUCE INJUNCTIVE BOND. THE PROPRIETY OF THE PETITION-IN-INTERVENTION WAS NOT AMONG THE ISSUES RAISED BY BSP, AND THE DISMISSAL THEREOF WAS NOT AMONG THE RELIEFS SOUGHT FOR IN BSP'S PETITION FOR [
+CERTIORARI
+] WITH THE CA.
+ 
+ 
+THE [CA] ERRED IN RULING THAT THE RTC EXCEEDED ITS JURISDICTION IN ISSUING THE INJUNCTION AGAINST THE BSP.
+ 
+ 
+[1.]
+ 
+THE REQUISITES FOR THE ISSUANCE OF WRIT OF PRELIMINARY INJUNCTION ARE PRESENT IN THIS CASE.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2.] 
+ 
+THE PRINCIPLE OF JUDICIAL COURTESY APPLIES IN THIS CASE.
+[43]
+ 
+ 
+The Petition
+In its petition, Ekistics interposed the following arguments: first, applying the principle of 
+res judicata
+, the final and executory CA Decision in CA-G.R. SP No. 148237 as affirmed by the Court in G.R. No. 239993, which declared the RTC to have jurisdiction over Ekistics' Petition-in-Intervention, bars the CA from dismissing Ekistics' Petition-in-Intervention in the now-questioned Second Amended Decision. The Petition-in-Intervention was filed to seek the rendering of an honest accounting of Banco Filipino assets and not to restrain the decision of the Monetary Board to liquidate the assets of Banco Filipino.
+[44]
+ Second, the CA is limited to rule only on the dispute against the issuance of the WPI and the reduction of injunctive bond. However, the CA went beyond the issues raised when it dismissed Ekistics' Petition-in-Intervention.
+[45]
+ Last, the principle of judicial courtesy applies in this case considering that the issues before the higher courts would be rendered moot as a result of the continuation of the proceedings in the lower court.
+[46]
+Comment
+In its Comment,
+[47]
+ the BSP interposed the following counterÂ­-arguments: first, since BSP was never made a party to the RTC Liquidation case, any order or WPI cannot be enforced against it.
+[48]
+ Second, Section (13)(e)(3) of R.A. No. 3591 or the PDIC Charter provides that collaterals (properties) securing the loans and advances granted by the BSP shall not be included in the assets of a closed bank for distribution to other creditors. Since the subject properties are not assets of Banco Filipino, but were mortgaged by the registered owners thereof to BSP, these cannot be included in the assets of Banco Filipino that are deemed in 
+custodia legis
+ in the hands of the PDIC.
+[49]
+ Third, the CA correctly ruled that the elements to justify the issuance of a WPI are not present.
+[50]
+ Last, the true intention of Ekistics is to restrain the enforcement of the Monetary Board Resolution directing the liquidation of Banco Filipino and to enjoin the liquidation process.
+[51]
+The Issues
+The core issues in this case redound to:
+ 
+ 
+(a)
+ 
+Whether the CA erred in ruling that the RTC had no jurisdiction over the Petition-in-Intervention filed by Ekistics;
+ 
+ 
+ 
+(b)
+ 
+Whether the lifting of the WPI issued by the RTC against BSP was valid; and
+ 
+ 
+ 
+(c) 
+ 
+Whether judicial courtesy applies in the present case.
+ 
+ 
+The Court's Ruling
+The petition is denied for lack of merit.
+At the outset, it bears to emphasize that in a petition for review on 
+certiorari
+ under Rule 45 of the Rules of Court, the Court's jurisdiction is limited to the resolution of questions of law. The Court is not a trier of facts. While the rules and jurisprudence allow some exceptions,
+[52]
+ none are present in the case at bench to warrant the re-assessment of the factual findings of the lower court and the appellate court.
+The RTC had no jurisdiction over the
+case; the RTC Orders are void.
+Herein petitioner Ekistics contends that the relitigation of the issue on the RTC's jurisdiction over the Petition-in-Intervention filed by Ekistics in CA-G.R. SP No. 148787 is barred by 
+res judicata
+. Ekistics argues that, in CA-G.R. SP No. 148237 (the petition filed by PDIC), the CA already declared that the RTC is vested with jurisdiction when it granted Ekistics' Motion for Intervention and permitted its Petition-in-Intervention. Subsequently, the Court, in G.R. No. 239993, denied PDIC's appeal and affirmed the CA Decision in CA-G.R. SP No. 148237.
+There are two concepts of 
+res judicata
+. First is 
+res judicata
+ by bar of prior judgement, which precludes the filing of a second case when it has the same parties, same subject, and same cause of action, or otherwise prays for the same relief as the first case. Second is 
+res judicata
+ by conclusiveness of judgment, which precludes the questioning of a fact or issue in a second case if the fact or issue has already been judicially determined in the first case between the same parties.
+[53]
+ Herein petitioner Ekistics is insisting on the application of the second concept: 
+res judicata
+ by conclusiveness of judgment.
+The following elements must concur in order for 
+res judicata
+ by conclusiveness of judgment to apply: (1) the judgment sought to bar the new action must be final; (2) the decision must have been rendered by a court having jurisdiction over the subject matter and the parties; (3) the disposition of the case must be a judgment on the merits; and (4) there must be as between the first and second action, identity of issues and parties, but not identity of causes of action.
+[54]
+Undoubtedly, the fourth essential element is markedly absent in this case. As to the issues or subject matter, in the PDIC's petition for 
+certiorari
+ in CA-G.R. SP No. 148237 (SC-G.R. No. 239993), the PDIC assailed the RTC Order admitting petitioner Ekistics' petition-in-intervention and the grant of the TRO against PDIC. Whereas, in the present case (CA-G.R. SP No. 148787), the BSP, which was not a party to the liquidation case, filed the petition for 
+certiorari
+ before the CA to assail the validity of the RTC Orders for the issuance of a WPI against the BSP and the reduction of the injunction bond.
+As to the identity of parties, there is none in this case. It is duly established that BSP is not a party in the RTC liquidation case where Ekistics filed the petition-in-intervention.
+In relation thereto, aside from the fact that 
+res judicata
+ does not apply in this case, the Court agrees with the stance of CA Associate Justice Filomena D. Singh in her Concurring Opinion to the Second Amended CA Decision that the RTC Orders granting the WPI against the BSP and the reduction of injunctive bond are void considering that the RTC had no jurisdiction over the BSP and therefore cannot issue an injunctive writ against it considering that it never acquired jurisdiction over the person of the BSP.
+[55]
+ Again, it is extant by the records that the BSP was never a party to the liquidation case before the RTC.
+Liquidation proceedings is a proceeding 
+in rem
+. However, as far as suits for injunctive relief are concerned, it is considered an action 
+in personam
+.
+[56]
+ It is well-entrenched in the rules and jurisprudence that in an action in 
+personam,
+ the jurisdiction over the person of the respondent is acquired through the coercive process of either the issuance of summons upon them or the voluntary appearance in court. Also, jurisdiction over the person of the respondent cannot be acquired even if the latter had knowledge of the pending case against them, unless there is a valid service of summons.
+[57]
+ Here, although the BSP was sent a notice of hearing to take up the petition-in-intervention with prayer for WPI and TRO against it, the fact remains that it was not impleaded in the case nor was made a party thereof. As such, the RTC had no jurisdiction over the person of the BSP when it issued the WPI enjoining the BSP from proceeding with the liquidation process, including the public bidding and disposal of Banco Filipino assets.
+To clarify, the issue of the jurisdiction of the RTC over the petition-in-intervention was taken 
+motu proprio
+ by the CA in relation to the resolution of the validity of the issuance of a WPI and TRO against the BSP from liquidating Banco Filipino. In its assailed Decision, the CA declared that if the RTC has no jurisdiction over a petition for 
+certiorari
+ against a 
+quasi
+-judicial agency like the Monetary Board or the BSP, it stands with more reason that the RTC has no jurisdiction to restrain the BSP from liquidating a non-performing bank.
+[58]
+ The CA opined that the Motion to Intervene with Petition-in-Intervention by Ekistics is a circumvention of the rules. The Court concurs.
+Indeed, Section 30 of R.A. No. 7653 expressly provides that the actions of the Monetary Board shall be final and executory, and may not be restrained or set aside by the court except on petition for 
+certiorari
+ on the ground that the action was in excess of jurisdiction or with such grave abuse of discretion amounting to lack or excess of jurisdiction. The petition for 
+certiorari
+ may be filed by the stockholders-of-record representing the majority of the capital stock within 10 days from receipt by the board of directors of the institution of the order directing receivership, liquidation or conservatorship.
+Section 30 of R.A. No. 7653 reads as follows:
+Section 30. 
+Proceedings in Receivership and Liquidation
+. - Whenever, upon report of the head of the supervising or examining department, the Monetary Board finds that a bank or quasi-bank:
+(a) is unable to pay its liabilities as they become due in the ordinary course of business: Provided, That this shall not include inability to pay caused by extraordinary demands induced by financial panic in the banking community;
+(b) has insufficient realizable assets, as determined by the Bangko Sentral, to meet its liabilities; or
+(c) cannot continue in business without involving probable losses to its depositors or creditors; or
+(d) has willfully violated a cease and desist order under Section 37 that has become final, involving acts or transactions which amount to fraud or a dissipation of the assets of the institution; in which cases, the Monetary Board may summarily and without need for prior hearing forbid the institution from doing business in the Philippines and designate the Philippine Deposit Insurance Corporation as receiver of the banking institution.
+For a quasi-bank, any person of recognized competence in banking or finance may be designed as receiver.
+The receiver shall immediately gather and take charge of all the assets and liabilities of the institution, administer the same for the benefit of its creditors, and exercise the general powers of a receiver under the Revised Rules of Court but shall not, with the exception of administrative expenditures, pay or commit any act that will involve the transfer or disposition of any asset of the institution: Provided, That the receiver may deposit or place the funds of the institution in non-speculative investments. The receiver shall determine as soon as possible, but not later than ninety (90) days from take over, whether the institution may be rehabilitated or otherwise placed in such a condition so that it may be permitted to resume business with safety to its depositors and creditors and the general public: Provided, That any determination for the resumption of business of the institution shall be subject to prior approval of the Monetary Board.
+If the receiver determines that the institution cannot be rehabilitated or permitted to resume business in accordance with the next preceding paragraph, the Monetary Board shall notify in writing the board of directors of its findings and direct the receiver to proceed with the liquidation of the institution. The receiver shall:
+(1) file [
+ex parte
+] with the proper regional trial court, and without requirement of prior notice or any other action, a petition for assistance in the liquidation of the institution pursuant to a liquidation plan adopted by the Philippine Deposit Insurance Corporation for general application to all closed banks. In case of quasi-banks, the liquidation plan shall be adopted by the Monetary Board. Upon acquiring jurisdiction, the court shall, upon motion by the receiver after due notice, adjudicate disputed claims against the institution, assist the enforcement of individual liabilities of the stockholders, directors and officers, and decide on other issues as may be material to implement the liquidation plan adopted. The receiver shall pay the cost of the proceedings from the assets of the institution.
+(2) convert the assets of the institutions to money, dispose of the same to creditors and other parties, for the purpose of paying the debts of such institution in accordance with the rules on concurrence and preference of credit under the Civil Code of the Philippines and he may, in the name of the institution, and with the assistance of counsel as he may retain, institute such actions as may be necessary to collect and recover accounts and assets of, or defend any action against, the institution. The assets of an institution under receivership or liquidation shall be deemed in [
+custodia legis
+] in the hands of the receiver and shall, from the moment the institution was placed under such receivership or liquidation, be exempt from any order of garnishment, levy, attachment, or execution.
+The 
+actions of the Monetary Board
+ taken under this section or under Section 29 of this Act 
+shall be final and executory, and may not be restrained or set aside by the court 
+except on petition for [
+certiorari
+]
+ on the ground that the action taken was in excess of jurisdiction or with such grave abuse of discretion as to amount to lack or excess of jurisdiction. 
+The petition for 
+certiorari
+ may only be filed by the 
+stockholders of record representing the majority of the capital stock
+ within ten (10) days from receipt by the board of directors of the institution of the order
+ directing receivership, liquidation or conservatorship.
+The designation of a conservator under Section 29 of this Act or the appointment of a receiver under this section shall be vested exclusively with the Monetary Board. Furthermore, the designation of a conservator is not a precondition to the designation of a receiver. (Emphases and underscoring supplied)
+In relation thereto, Section 4, Rule 65 of the Rules of Court provides that petitions for 
+certiorari
+ involving acts or omissions of 
+quasi
+-judicial bodies, like the Monetary Board, shall be filed in and cognizable only by the CA.
+[59]
+Section 4. When and where petition filed. âThe petition shall be filed not later than sixty (60) days from notice of the judgment, order or resolution. In case a motion for reconsideration or new trial is timely filed, whether such motion is required or not, the sixty (60) day period shall be counted from notice of the denial of said motion.
+The petition shall be filed in the Supreme Court or, if it relates to the acts or omissions of a lower court or of a corporation, board, officer or person, in the Regional Trial Court exercising jurisdiction over the territorial area as defined by the Supreme Court. It may also be filed in the Court of Appeals whether or not the same is in aid of its appellate jurisdiction, or in the Sandiganbayan if it is in aid of its appellate jurisdiction. 
+If it involves the acts or omissions of a quasi-judicial agency, unless otherwise provided by law or these Rules, the petition shall be 
+filed in and cognizable only by the Court of Appeals.
+ (Emphasis and underscoring supplied)
+Applying the foregoing, in order to validly question the action of the Monetary Board regarding matters of liquidation, the majority stockholders-of-record of the ailing bank must file the petition for 
+certiorari
+ before the CA. Truly, herein petitioner Ekistics cannot get around the rules and underhandedly use the petition-in-intervention to restrain a final and executory order of the Monetary Bank directing the liquidation of Banco Filipino. Assuming Ekistics filed a petition for 
+certiorari
+, it still has no legal standing to file the same considering it is a stockholder-of-record merely holding a minority share. As the rules clearly provide, only majority stockholders-of-record are allowed to file the petition for 
+certiorari
+.
+The issuance of injunctive writ by
+the RTC is unwarranted.
+The second issue is: whether the issuance of the WPI by the RTC was valid.
+As discussed earlier, considering that an action for injunctive relief is an action 
+in personam
+, it is imperative that the RTC should acquire jurisdiction over the person of BSP to enforce the WPI against it. Since BSP was not impleaded or was not made a party to the case, the injunctive writ cannot be validly imposed upon it.
+Granting that this case had no procedural infirmities or that the jurisdiction over the person of BSP was acquired, a careful study of the records reveals that the essential requirements for the issuance of such writ are absent in this case.
+Rule 58 of the Rules of Court defines preliminary injunction as "an order granted at any stage of an action or proceeding prior to the judgment or final order, requiring a party or a court, agency or a person to refrain from a particular act or acts." To warrant the issuance of the writ, the following requisites must be established:
+ 
+ 
+(a)
+ 
+ 
+That the 
+applicant is entitled to the relief demanded
+, and the whole or part of such relief consists in restraining the commission or continuance of the act or acts complained of, or in requiring the performance of an act or acts, either for a limited period or perpetually;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)
+ 
+That the commission, continuance or non-performance of the act or acts complained of during the litigation would probably 
+work injustice to the applicant
+; or
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+ 
+That a party, court, agency or a person is 
+doing, threatening, or is attempting to do,
+ or is procuring or suffering to be done, 
+some act or acts probably in violation of the rights of the applicant
+ respecting the subject of the action or proceeding, and tending to render the judgment ineffectual.
+[60]
+ 
+ 
+Jurisprudence has also set forth additional requisite before an injunctive writ, whether prohibitory or mandatory, may be issued:
+ 
+ 
+(1)
+ 
+The applicant must have a 
+clear and unmistakable right
+ to be protected, that is a right
+ in esse
+;
+ 
+ 
+ 
+(2)
+ 
+There is a 
+material and substantial invasion of such right
+;
+ 
+ 
+ 
+(3)
+ 
+There is an urgent need for the writ to 
+prevent irreparable injury
+ to the applicant; and
+ 
+ 
+ 
+(4)
+ 
+No other ordinary, speedy, and adequate remedy exists to prevent the infliction of irreparable injury.
+[61]
+The issuance of an injunctive writ is considered an extraordinary or transcendent remedy and a strong arm of equity.
+[62]
+ As such, the power to issue a writ is done with utmost caution, prudence and deliberation, and exercised reasonably and sparingly only in exceptional circumstances.
+[63]
+In the case at bench, none of the requisites were established by Ekistics.
+First, Ekistics, a minority stockholder of Banco Filipino, failed to demonstrate that it has a right 
+in esse
+. A right 
+in esse
+ is defined as a clear and unmistakable right to be protected, one which is granted by law or is enforceable as a matter of law.
+[64]
+Ekistics need not present conclusive evidence to substantiate its claim as only 
+prima facie
+ evidence or sampling is required to give the Court an idea of the justification of the issuance of an injunctive writ.
+[65]
+ Ekistics asserts that, as a stockholder, it is not claiming any asset from Banco Filipino, but it is praying for the preservation of the assets of Banco Filipino while the cases are pending before the CA and the Court. Ekistics further contends that if the public bidding is not enjoined pending litigation, it would result to great and irreparable injury to Ekistics because it will be locked up in litigation trying to recover the subject properties for its eventual distribution to its stockholders.
+[66]
+To be clear, a stockholder's interest over the properties and assets of the corporation on dissolution is purely inchoate or a sheer expectancy of a right.
+[67]
+ The corporate assets are owned by the corporation, which is a distinct and separate legal person from its stockholders. A share of stock owned by the shareholder merely represents a proportionate interest over the property of the corporation and does not in any way vest upon the stockholder any legal right or title to the corporate property.
+[68]
+ A stockholder may only be given a proportionate share of the remaining corporate assets, if there is any, after the winding up of affairs when all the liabilities and the creditors, whether secured, unsecured and/or preferential, of the corporation have been paid.
+Second, Ekistics failed to establish the possible seriousness and irreparability of the injury sought to be avoided by the issuance of an injunctive writ. A claim for the possibility of irreparable and serious damage without demonstrating an actual existing right cannot be a ground for the issuance of an injunctive relief.
+[69]
+This particular issue has been squarely addressed by the CA:
+In seeking injunction, Ekistics raised the specter of injury to itself that might arise from the sale of Banco Filipino's assets to pay its creditors and depositors. Perhaps, to a stockholder like Ekistics, the payment of creditors and depositors ahead of the return of its investment is an injury or a pecuniary loss. However, as the Supreme Court emphasized in 
+BPI vs. Hon. Hontanosas
+, such fear of potential loss of possession and ownership, or the possibility of legal suits in the future does not constitute the requisite irreparable injury that warrants the issuance of the writ of injunction. Ultimately, a bank's primary responsibility is to its depositors and creditors, who have a preference over the stockholders of the bank in the liquidation and distribution of its assets.
+In any event, a stockholder, like Ekistics, is bound by the value of the corporation's assets and/or shares of stock at the time of liquidation, only after all creditors and obligations have been paid. A stockholder cannot avoid the payment of just debts to creditors or the return of the money of depositors on the ground that there might be nothing left after such payment. Such is the risk that every stockholder accepts when investing in a bank; it is not an inquiry that may be prevented through injunction."
+[70]
+Truly, the risk of having to relitigate the recovery of the properties which are sold in the public auction is not the irreparable injury contemplated by the rules. It bears emphasizing that when a bank is declared by the Monetary Board to be insolvent, the assets are held in trust for the equal benefit of all depositors and creditors.
+[71]
+ Otherwise stated, the main purpose thereof is to protect the interests of the creditors and depositors of the bank. The Court concurs with the CA that the restraining order on the public auction and the disposal of the assets of Banco Filipino did more harm than good because it delayed the payment of Banco Filipino's creditors and depositors.
+The grant or denial of a WPI rests on the sound discretion of the court taking cognizance of the case considering that the calibration and assessment of evidence involves findings of fact. As a general rule, the court's discretion is not interfered with, unless there is clear showing that there was grave abuse of discretion in the grant or denial of the prayer for injunctive relief.
+[72]
+ Then, such may be rectified through the extraordinary remedy of 
+certiorari
+, as in this case. The CA properly lifted the WPI issued by the RTC on the ground that the issuance thereof was tainted with grave abuse of discretion amounting to lack or excess of jurisdiction considering that the movant failed to evince and establish the essential elements to warrant the grant of an injunctive writ.
+The principle of judicial courtesy
+does not apply.
+This issue on judicial courtesy is essentially mooted by the fact that Ekistics had no right to an injunctive writ. Nonetheless, for academic purposes, the Court shall delve on this matter.
+In its Amended Decision, the CA applied the doctrine or principle of judicial courtesy. Considering that there are other petitions questioning the validity of the closure and liquidation of Banco Filipino which are pending before the other Divisions of the CA, the CA initially held that it is prudent to reverse the original Decision and uphold the validity of the assailed RTC Orders and the issuance of the WPI in order not to render the proceedings in the other divisions moot. However, in its Second Amended Decision, the CA reversed its opinion. The CA ruled that had the other CA Divisions in the other pending cases deemed proper to restrain or enjoin the BSP from proceeding with Banco Filipino's liquidation, they would have issued a writ of injunction as soon as the case is elevated before them.
+The principle of judicial courtesy is applied when the suspension of the proceedings in the lower court is necessary in order to avoid mooting the matter raised in the higher court.
+[73]
+ This principle is the exception rather than the rule.
+[74]
+After a careful review of the case, the Court finds that the issues in this case will not render moot and moribund the issues raised before the Court and before the CA. To reiterate, the petitions pending before the CA at that time deal with the validity of the BSP Resolutions placing Banco Filipino under receivership and ordering its liquidation. Regardless of the outcome of these cases, the BSP is not precluded from enforcing its right as a mortgagee of Banco Filipino.
+Section 13(e)(3) of R.A. No. 3591,
+[75]
+ as amended by R.A. No. 10846,
+[76]
+ provides that:
+(3) On the assets
+Upon service of notice of closure as provided in Section 14 of this Act, 
+all the assets of the closed bank shall [be] deemed in 
+custodia legis
+ in the hands of the receiver
+, and as such, these assets may not be subject to attachment, garnishment, execution, levy or any other court processes. A judge, officer of the court or any person who shall issue, order, process or cause the issuance or implementation of the garnishment order, levy, attachment or execution, shall be liable under Section 27 of this Act: Provided, however, 
+That collaterals securing the loans and advances granted by the Bangko Sentral ng Pilipinas 
+shall not be included
+ in the assets of the closed bank for distribution to other creditors
+: Provided, further, That the proceeds in excess of the amount secured shall be returned by the Bangko Sentral ng Pilipinas to the receiver. (Emphases and underscoring supplied)
+From the foregoing, all collaterals used to secure loans which were granted by the BSP are not included in those assets deemed in 
+custodia legis
+ in the hands of the receiver. The properties disposed of through public auction were collaterals that were used to secure loans from the BSP. Indubitably, these properties are beyond the jurisdiction of the liquidation court since these are not deemed placed in 
+custodia legis
+. To reiterate, even if the order of liquidation is either affirmed or reversed, the BSP, as a mortgagee, has a right to dispose foreclosed properties, but limited to those which were used to secure loans obtained from it in accordance to Section 13(e)(3) of R.A. No. 3591, as amended.
+WHEREFORE,
+ premises considered, the Petition for Review on 
+Certiorari
+ is 
+DENIED
+. The Second Amended Decision dated November 13, 2019 of the Court of Appeals in CA-G.R. SP No. 148787 is hereby 
+AFFIRMED
+.
+SO ORDERED.
+Gesmundo,
+*
+ C.J., Leonen, (Chairperson), Hernando,
+ and 
+Inting, JJ.,
+ concur.
+*
+ Designated as additional member in lieu of Associate Justice Jhosep Y. Lopez per Raffle dated May 12, 2021.
+[1]
+ 
+Rollo
+, pp. 24-63.
+[2]
+ Id. at 65-77; penned by Associate Justice Ricardo R. Rosario (now a Member of the Court), with Associate Justices Jane Aurora C. Lantion, Jhosep Y. Lopez (now a Member of the Court), and Maria Filomena D. Singh, concurring; Associate Justice Edwin D. Sorongon interposed his dissent.
+[3]
+ Id. at 122-124.
+[4]
+ Id. at 126.
+[5]
+ The New Central Bank Act.
+[6]
+ 
+Rollo
+, p. 129.
+[7]
+ Id. at 110.
+[8]
+ Id. at 204.
+[9]
+ Supra note 7.
+[10]
+ 
+Rollo
+, pp. 747-760.
+[11]
+ Not attached to the 
+rollo
+.
+[12]
+ 
+Rollo
+, pp. 291-299.
+[13]
+ Id. at 333-339.
+[14]
+ Id. at 111.
+[15]
+ Id. at 341-344.
+[16]
+ Id. at 123.
+[17]
+ Id. at 122-124.
+[18]
+ Id. at 124.
+[19]
+ Id. at 463-467.
+[20]
+ Supra note 4.
+[21]
+ 
+Rollo
+, p. 33.
+[22]
+ Id. at 504.
+[23]
+ Id. at 516-519.
+[24]
+ Id. at 33; 469-503.
+[25]
+ Id. at 654-736.
+[26]
+ Id. at 658.
+[27]
+ Id. at 35.
+[28]
+ Id. at 1114-1117.
+[29]
+ Id. at 116.
+[30]
+ Id. at 117.
+[31]
+ Id. at 119.
+[32]
+ Id. at 109-121.
+[33]
+ Id. at 120.
+[34]
+ Id. at 1174-1186.
+[35]
+ Id. at 105-106.
+[36]
+ Id. at 103-108.
+[37]
+ Id. at 108.
+[38]
+ Id. at 1272-1310.
+[39]
+ Supra note 2.
+[40]
+ 
+Rollo
+, pp. 67 and 69.
+[41]
+ Id. at 70.
+[42]
+ Id. at 76.
+[43]
+ Id. at 41.
+[44]
+ Id. at 43-47.
+[45]
+ Id. at 48.
+[46]
+ Id. at 57.
+[47]
+ Id. at 1368-1467.
+[48]
+ Id. at 1391.
+[49]
+ Id. at 1396-1398.
+[50]
+ Id. at 1399.
+[51]
+ Id. at 1429.
+[52]
+ (1) When the findings are grounded entirely on speculation, surmises or conjectures; (2) when the inference made is manifestly mistaken, absurd or impossible; (3) when there is grave abuse of discretion; (4) when the judgment is based on a misapprehension of facts; (5) when the findings of facts are conflicting; (6) when in making its findings the Court of Appeals went beyond the issues of the case, or its findings are contrary to the admissions of both the appellant and the appellee; (7) when the findings are contrary to the trial court; (8) when the findings are conclusions without citation of specific evidence on which they are based; (9) when the facts set forth in the petition as well as in the petitioner's main and reply briefs are not disputed by the respondent; (10) when the findings of fact are premised on the supposed absence of evidence and contradicted by the evidence on record; and (11) when the Court of Appeals manifestly overlooked certain relevant facts not disputed by the parties, which, if properly considered, would justify a different conclusion. (
+Prudential Bank v. Rapanot
+, 803 Phil. 294, 306 [2017]).
+[53]
+ 
+Heirs of Elliot v. Corcuera
+, G.R. No. 233767, August 27, 2020.
+[54]
+ 
+Spouses Rosario v. Alvar
+, 817 Phil. 994, 1004-1005 (2017).
+[55]
+ 
+Rollo
+, pp. 90-93.
+[56]
+ 
+Domagas v. Jensen
+, 489 Phil. 631, 641 (2005).
+[57]
+ 
+Frias v. Alcayde
+, 826 Phil. 713, 729 (2018).
+[58]
+ 
+Rollo
+, p. 70.
+[59]
+ 
+Banco Filipino Savings and Mortgage Bank v. Bangko Sentral ng Pilipinas
+, 832 Phil. 27, 58 (2018).
+[60]
+ RULES OF COURT, Rule 58, Sec. 3.
+[61]
+ 
+Bicol Medical Center v. Botor
+, 819 Phil. 447, 458 (2017).
+[62]
+ 
+Bank of the Philippine Islands v. Hontanosas, Jr.
+, 737 Phil. 38, 53 (2014).
+[63]
+ See 
+Evy Construction and Development Corporation v. Valiant Roll Forming Sales Corporation
+, 820 Phil. 123, 135 (2017).
+[64]
+ 
+Lim v. BPI Agricultural Development Bank
+, 628 Phil. 601, 607 (2010).
+[65]
+ 
+Olalia v. Hizon
+, 274 Phil. 66, 72 (1991).
+[66]
+ 
+Rollo
+, pp. 51-52.
+[67]
+ 
+Tumagan v. Kairuz
+, G.R. No. 198124, September 12, 2018.
+[68]
+ 
+Asia's Emerging Dragon Corporation v. Department of Trade and Communication
+, 572 Phil. 523, 528 (2008).
+[69]
+ 
+Cayabyab v. Dimson
+, 813 Phil. 492, 502 (2017).
+[70]
+ 
+Rollo
+, pp. 74-75.
+[71]
+ 
+Vda. de Ballesteros v. Rural Bank of Canaman, Inc.
+, 650 Phil. 476, 487 (2010).
+[72]
+ 
+Evy Construction and Development Corp. v. Valiant Roll Forming Sales Corp.
+, 820 Phil. 123, 141 (2017).
+[73]
+ 
+Oca v. Custodio
+, G.R. No. 199825, 814 Phil. 641, 675 (2017).
+[74]
+ 
+Go-Yu v. Yu
+, G.R. No. 230443, April 3, 2019.
+[75]
+ An Act Establishing the Philippine Deposit Insurance Corporation, Defining its Powers and Duties and for Other Purposes.
+[76]
+ An Act Enhancing the Resolution and Liquidation Framework for Banks, Amending for the Purpose Republic Act No. 3591, as Amended, and Other Related Laws.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

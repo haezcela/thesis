@@ -1,0 +1,526 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			118 OG No. 42, 11718 (October 17, 2022); 881 Phil. 691
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 220250, September 07, 2020 ]
+
+
+IP E-GAME VENTURES, INC., PETITIONER, VS. BEIJING PERFECT WORLD SOFTWARE CO., LTD., RESPONDENT.
+
+
+D E C I S I O N
+
+
+
+
+GAERLAN, J.:
+
+
+This is a petition for review on certiorari under Rule 19.37 of the Special Rules of Court on Alternative Dispute Resolution,
+[1]
+ assailing the February 5, 2015
+[2]
+ and August 28, 2015
+[3]
+ Resolutions issued by the Court of Appeals (CA) in CA-G.R. SP No. 138284, which dismissed the Petition for Review filed by petitioner IP E-Game Ventures, Inc. (IPEGV).
+ In 2008, IPEGV, a Philippine corporation, entered into a Publishing Agreement with Beijing Perfect World Software Company, Ltd. (BPW), an entity incorporated in the People's Republic of China which is engaged in the development and publication of computer games.
+[4]
+ Under said Agreement,
+[5]
+ which included an arbitration clause,
+[6]
+ BPW gave IPEGV the authority to publish an Internet-based computer game called Zhu Xian Online in the Philippines.
+[7]
+ IPEGV made an open beta
+[8]
+ launch of the game in December 2008 to comply with the Agreement but the full game was not launched until March 2009.
+[9]
+ In August 2010, IPEGV ceased to operate Zhu Xian Online allegedly due to unfixed bugs
+[10]
+ and the failure of BPW to change certain features of the game to make it competitive in the Philippine market.
+[11]
+ Consequently, in January 2011, BPW filed a Request for Arbitration with the International Chamber of Commerce pursuant to the Agreement's arbitration clause.
+[12]
+ In March 2011, at the urging of IPEGV, the parties agreed to change the venue of their arbitration process to the Singapore International Arbitration Centre.
+[13]
+ The arbitration, which commenced in May 2011, was conducted with the full participation of both parties.
+[14]
+ On November 19, 2012, the appointed arbitrator issued a Final Award in tavor of BPW.
+[15]
+ IPEGV was ordered to pay specific sums of money, plus interest and costs.
+[16]
+ BPW, through counsel, demanded in writing that IPEGV pay the amounts stated in the Final Award.
+[17]
+ Without any action from IPEGV, BPW filed on December 2, 2013 a Petition for Recognition and Enforcement of the Final Award with the Regional Trial Court (RTC) of Manila.
+[18]
+ After an exchange of pleadings, the RTC granted BPW's petition in a Decision
+[19]
+ dated July 25, 2014. IPEGV filed a motion for reconsideration, which the trial court denied in a Resolution dated October 25, 2014.
+[20]
+ Consequently, upon motion of BPW, the trial court issued a writ of execution for the following sums: US$1,078,695.78, HK$430,542.05, and SG$71,080.55 plus interest of 12% per annum, representing IPEGV's liabilities under the Final Award; and P33,304.11 as costs of suit.
+[21]
+ IPEGV assailed the RTC decision before the CA via a petition for review under Rule 19.12(j) of the Special ADR Rules. On February 5, 2015, the CA rendered the first assailed resolution, which We quote in full: 
+ 
+ This is a Petition for Review under Rule 19.12 of the Special Rules of Court on Alternative Dispute Resolution (ADR) assailing the July 25, 2014 Decision and October 21, 2014 Resolution of the Regional Trial Court (RTC), Branch 19, Manila in Civil Case No. 13-131118. The assailed Decision granted [BPW's] petition for recognition and enforcement of a foreign arbitral award. On the other hand, the questioned Resolution denied petitioner [IPEGV's] motion for reconsideration and ordered the issuance of a writ of execution.
+ 
+ A perusal of the petition shows that the same is procedurally infirmed, warranting its outright dismissal, to wit:
+ 
+ There is no proof showing that Miguel Ramon Tomas B. Ladios (Ladios) is authorized to file the instant petition on behalf of [IPEGV]. Ladios did not also submit any proof that [IPEGV] authorized him to sign the verification and certification of against forum shopping; and 
+ [IPEGV] failed to submit certified true copies of the following pleadings, in violation of Rule 19.16 of the Special Rules of Court on ADR: Petition for Recognition and Enforcement of a Foreign Arbitral Award; Comment/Opposition to Petitioner's Petition tor Recognition and Enforcement of a Foreign Arbitral Award dated April 4, 2014; the parties' legal briefs; Motion for Issuance of Partial Writ of Execution filed on August 12, 2014 by [BPW]; and [IPEGV]'s for Reconsideration filed on September 9, 2014.
+ 
+ Moreover, a careful examination of the records discloses that IP E-Game received a copy of the assailed Resolution on November 7, 2014 thereby giving it until November 2014 to file its petition. However, considering that the last day of the reglementary period within which to file the instant petition fell on a Saturday, [IPEGV] had until November 24, 2014 which was the next working day to file its petition. Eventually, counsel for [IPEGV] mailed the present petition via LBC on November 24, 2014 which was received by this Court on November 28, 2014.
+ 
+ Under Section 3, Rule 13 of the Rules of Court, pleadings may be filed in court either personally or by registered mail. In the first case, the date of filing is the date of receipt. In the second case, the date of mailing is the date of receipt. In this case, however, [IPEGV] filed the instant petition via private courier, a mode not provided in the Rules. It is established jurisprudence that the date of delivery of pleadings to a private letter-forwarding agency is not to be considered as the date of filing thereof in court. Instead, the date of actual receipt by the court is deemed the date of filing of that pleading. Here, the date of filing of the petition is the date of actual receipt by this Court on November 28, 2014 which is four (4) days beyond the reglementary period. Such being the case, the present petition warrants an outright dismissal for being filed out of time.
+ 
+ We emphasize that an appeal is not a matter of right, but of sound judicial discretion. Thus, an appeal may be availed of only in the manner provided by law and the rules. Failure to follow procedural rules merits the dismissal of the case, especially when the rules themselves expressly say so.
+ 
+ 
+WHEREFORE
+, the instant petition is hereby 
+DISMISSED
+. 
+ 
+ 
+SO ORDERED.
+[22]
+ (Citations omitted, emphasis in the original) 
+ 
+ 
+ IPEGV's Motion for Reconsideration dated March 11, 2015 was denied by the appellate court in the second assailed resolution, which reads: 
+ 
+ On February 5, 2015, We issued a Resolution dismissing the instant petition for review for being formally and jurisdictionally defective. 
+ 
+ Subsequently, [IPEGV] filed a Motion for Reconsideration while [BPW] filed its Comment thereto. 
+ 
+ [IPEGV] insisted that the present petition was filed in accordance with the provisions of the Special Rules of Court on Alternative Dispute Resolution where filing via private courier is allowed. They also submitted certain documents to supposedly rectify the noted defects in the petition and stressed that a dismissal on purely technical grounds would result in miscarriage of justice. 
+ 
+ On the other hand, BPW defended the Resolution of this Court. Personal service is mandatory in a non-summary proceeding for initiatory pleadings. 
+ 
+ After a review of the parties' arguments, We are not convinced to reconsider. 
+ 
+ Contrary to [IPEGV]'s postulate, the ADR is no longer applicable when the case has already been elevated to this Court. It bears stressing that Rule 1.12 of A.M. No. 07-11-08-SC, otherwise known as the Special Rules of Court on Alternative Dispute Resolution, explicitly states that it shall only apply to cases insofar as it refers to arbitration. Considering that the instant petition is not part of the arbitration proceedings, the Rules of Court should be applied in determining the proper mode of service and timeliness of the petition. 
+ 
+ Even assuming that filing by special courier is not prohibited by the rules, the determination of the timeliness of filing would depend on the date of actual receipt by the court and not the date of delivery as held in 
+Heirs of Miranda, Sr. v. Miranda
+. Records show that the petition was received by this Court four (4) days beyond the reglementary period mandated by law. 
+ 
+ Thus, We do not find any cogent reason to re-examine the merits of the petition. 
+ 
+ 
+WHEREFORE
+, the petitioner IP E-Game Ventures, Inc.'s motion for reconsideration is hereby 
+DENIED
+ for lack of merit. 
+ 
+ 
+SO ORDERED.
+[23]
+ (Citations omitted and emphasis in the original)
+ 
+ 
+ IPEGV now comes before this Court, claiming that the CA erred in: 1) not applying the Special ADR Rules; 2) dismissing IPEGV's petition without ruling on the merits thereof; 3) applying the doctrine in 
+Heirs of Numeriano Miranda, Sr. v. Miranda
+;
+[24]
+ 4) disregarding the Secretary's Certificate attached to IPEGV's motion for reconsideration; and 5) not considering as substantial compliance IPEGV's submission of the certified true copies of the pertinent pleadings together with its motion for reconsideration.
+[25]
+ 
+ Applicability of the Special ADR Rules
+ 
+ The CA erred in holding that the Special ADR Rules no longer apply to IPEGV's petition for review. Section 46 of Republic Act No. 9285 states: 
+ 
+ SECTION 46. 
+Appeal from Court Decisions on Arbitral Awards.
+ â A decision of the Regional Trial Court confirming, vacating, setting aside, modifying or correcting an arbitral award may be appealed to the Court of Appeals in accordance with the rules of procedure to be promulgated by the Supreme Court. x x x
+ 
+ 
+ Accordingly, the Supreme Court promulgated the Special ADR Rules on September 1, 2009. 
+ IPEGV's petition was filed on the basis of Rule 19.12 of the Special ADR Rules, which explicitly provides for recourse to the Court of Appeals in certain instances. While the actual arbitration between the parties ended upon the rendition of the Final Award, the conclusion of the actual arbitration did not take their dispute out of the ambit of the Special ADR Rules, because Rules 1.1(i) and (j) explicitly state that the Special ADR Rules shall apply to recognition and enforcement of foreign arbitral awards, as well as to the recognition, enforcement, or setting aside of international commercial arbitral awards. 
+ Furthermore, Rule 2.1 of the Special ADR Rules states: 
+ 
+ RULE 2.1. 
+General Policies
+. â It is the policy of the State to actively promote the use of various modes of ADR and to respect party autonomy or the freedom of the parties to make their own arrangements in the resolution of disputes with the greatest cooperation of and the least intervention from the courts. To this end, the objectives of the Special ADR Rules are to encourage and promote the use of ADR, particularly arbitration and mediation, as an important means to achieve speedy and efficient resolution of disputes, impartial justice, curb a litigious culture and to de-clog court dockets.
+ 
+ The court shall exercise the power of judicial review as provided by these Special ADR Rules. Courts shall intervene only in the cases allowed by law or these Special ADR Rules. 
+ 
+ 
+ While the first paragraph of Rule 2.1 states the policy in favor of solving disputes through arbitration, the second paragraph reserves to the courts the power to exercise judicial review over arbitration cases. The Special ADR Rules were designed precisely to define the scope of the courts' power of judicial review in arbitration cases. Rule 19.8 explicitly states that "[t]he remedy of an appeal through a petition for review x x x from a decision of the Regional Trial Court made under the Special ADR Rules shall be allowed in the instances, and instituted 
+only in the manner, provided under this Rule
+"; while Rule 19.12 explicitly provides that "[a]n appeal to the Court of Appeals through a petition for review" is allowed from an order of the RTC recognizing or enforcing either a foreign arbitral award or an international commercial arbitral award. Furthermore, the Special ADR Rules make special provisions for these types of cases under Rules 19.13 to 19.25, which can only mean that the Special ADR Rules continue to apply to such disputes even when they move from the actual arbitral phase to the recognition and enforcement phase, the venue of which lies in the courts, as provided for in the Special ADR Rules. In fact, the CA used Rule 19.16 of the Special ADR Rules as basis for its first assailed resolution, only to reverse itself in the second assailed resolution by stating that the Special ADR Rules are "no longer applicable when the case has already been elevated to th[e CA]." 
+ 
+ 
+Applicability of
+ Miranda 
+ruling and propriety of filing by courier
+ 
+ 
+ 
+ 
+In 
+Heirs of Numeriano Miranda, Sr. v. Miranda
+,
+[26]
+ We upheld the denial of an appeal from a decision in a suit for revival of judgment, partly because the notice of appeal was belatedly filed. Petitioners filed their notice of appeal on the 15
+th
+ day of the 15-day appeal period through a private courier service; and We held that in such a case, the date of actual receipt of the pleading by the court is considered the date of filing, 
+viz
+.: 
+ 
+ In this case, however, the counsel for petitioners filed the Notice of Appeal via a private courier, a mode of filing not provided in the Rules. Though not prohibited by the Rules, we cannot consider the filing of petitioners' Notice of Appeal via LBC timely filed. It is established jurisprudence that "the date of delivery of pleadings to a private letterÂ­ forwarding agency is not to be considered as the date of filing thereof in court;" instead, "the date of actual receipt by the court . . . is deemed the date of filing of that pleading." Records show that the Notice of Appeal was mailed on the 15th day and was received by the court on the 16th day or one day beyond the reglementary period. Thus, the CA correctly ruled that the Notice of Appeal was filed out of time.
+[27]
+ 
+ 
+ 
+ However, this ruling does not apply to the case at bar, as it is governed by the Special ADR Rules. Rule 1.8 thereof states: 
+ 
+ RULE 1.8. 
+Service and Filing of Pleadings, Motions and Other Papers in Non-summary Proceedings
+. â The initiatory pleadings shall be filed directly with the court. The court will then cause the initiatory pleading to be served upon the respondent by personal service or courier. Where an action is already pending, pleadings, motions and other papers shall be filed and/or served by the concerned party by personal service or courier. Where courier services are not available, resort to registered mail is allowed. 
+ 
+ (A) 
+Proof of filing
+. â The filing of a pleading shall be proved by its existence in the record of the case. If it is not in the record, but is claimed to have been filed personally, the filing shall be proved by the written or stamped acknowledgment of its filing by the clerk of court on a copy of the same; if filed by courier, by the proof of delivery from the courier company. x x x
+ 
+ 
+ IPEGV construes this provision to mean that the filing of initiatory pleadings by private courier is authorized. BPW counters that the provision only allows the court to serve the initiatory pleading to the respondent by courier; but the petitioner must file the same personally. This Court is more inclined to agree with IPEGV. While the first part of the provision makes no explicit statement as to whether initiatory pleadings can only be filed through personal service, paragraph (A) on proof of filing makes a clear reference to pleadings filed by courier. There is no indication in the rule of an intention to distinguish between initiatory pleadings which may only be filed personally and non-initiatory pleadings which may be filed by other means. Rather, when the provision states that "[t]he initiatory pleadings shall be filed directly with the court", it only means that the petitioner need only file such pleading with the court and not with the adverse party, because it is the court that will cause the pleading to be served upon the adverse party. 
+ Even assuming 
+arguendo
+ that the 
+Heirs of Numeriano Miranda, Sr
+. ruling is applicable to the case at bar, that doctrine has already been superseded by A.M. No. 19-10-20-SC,
+[28]
+ which applies to cases pending at the time it took effect on May 1, 2020. Said issuance amended Rule 13 of the Rules of Civil Procedure, 
+viz
+.: 
+ 
+ SECTION 3. 
+Manner of Filing
+. â The filing of pleadings and other court submissions shall be made by: 
+ 
+ x x x x
+ 
+ (c) Sending them by accredited courier; or x x x
+ 
+ x x x x
+ 
+ SECTION 16. 
+Proof of Filing
+. â The filing of a pleading or any other court submission shall be proved by its existence in the record of the case. 
+ 
+x x x x
+ 
+ (c) If the pleading or any other court submission was filed through an accredited courier service, the filing shall be proven by an affidavit of service of the person who brought the pleading or other document to the service provider, together with the courier's official receipt and document tracking number. 
+ 
+ 
+ In the case at bar, IPEGV received the RTC's denial of its motion for reconsideration on November 7, 2014. Under Rules 19.14 and 1.7
+[29]
+ of the Special ADR Rules, IPEGV had until November 24, 2014
+[30]
+ to file its petition for review. IPEGV's petition having been filed on that date it should be considered as timely filed. 
+ 
+ 
+ 
+Lack of authorization to file petition and failure to submit required attachments
+ 
+ 
+ 
+ 
+Rules 19.16 and 19.17 of the Special ADR Rules states: 
+ 
+ RULE 19.16. 
+Contents of the Petition
+. â The petition for review shall (a) state the full names of the parties to the case, without impleading the court or agencies either as petitioners or respondent, (b) contain a concise statement of the facts and issues involved and the grounds relied upon for the review, (c) be accompanied by a clearly legible duplicate original or a certified true copy of the decision or resolution of the Regional Trial Court appealed from, together with certified true copies of such material portions of the record referred to therein and other supporting papers, and (d) contain a sworn certification against forum shopping as provided in the Rules of Court. The petition shall state the specific material dates showing that it was filed within the period fixed herein. 
+ 
+ RULE 19.17. 
+Effect of Failure to Comply with Requirements
+. â The court shall dismiss the petition if it fails to comply with the foregoing requirements regarding the payment of the docket and other lawful fees, the deposit for costs, proof of service of the petition, the contents and the documents, which should accompany the petition.
+ 
+ 
+ It is undeniable from the foregoing that failure to attach the required documents to the petition for review merits dismissal of the petition. As correctly pointed out by BPW, the use of the word "shall" in Rule 19.17 indicates its mandatory nature. 
+ This Court is not unaware of rulings which considered the subsequent submission of requisite documents as substantial compliance with procedural rules.
+[31]
+ However, most of these cases were either tried under the Rules of Court, which may be construed liberally in the interest of substantial justice,
+[32]
+ or involve labor or agrarian disputes, where the procedural rules are construed liberally in order to carry out the national policy on promoting social justice and advancing the welfare of workers.
+[33]
+ This case involves an arbitration dispute, which is governed by the following overarching policy: 
+ 
+ SECTION 2. 
+Declaration of Policy.
+ â It is hereby declared the policy of the State to actively promote party autonomy in the resolution of disputes or the freedom of the parties to make their own arrangements to resolve their disputes. Towards this end, the State shall encourage and actively promote the use of Alternative Dispute Resolution (ADR) as an important means to achieve speedy and impartial justice and declog court dockets. As such, the State shall provide means for the use of ADR as an efficient tool and an alternative procedure for the resolution of appropriate cases. Likewise, the State shall enlist active private sector participation in the settlement of disputes through ADR. This Act shall be without prejudice to the adoption by the Supreme Court of any ADR system, such as mediation, conciliation, arbitration, or any combination thereof as a means of achieving speedy and efficient means of resolving cases pending before all courts in the Philippines which shall be governed by such rules as the Supreme Court may approve from the time to time.
+[34]
+ 
+ 
+ In 
+Mabuhay Holdings Corp. v. Sembcorp Holdings Ltd.
+,
+[35]
+ where We sustained the CA's reversal of an RTC decision denying the enforcement of a foreign arbitral award, We made the following pronouncement: 
+ 
+ Our jurisdiction adopts a policy in favor of arbitration. The ADR Act and the Special ADR Rules both declare as a policy that the State shall encourage and actively promote the use of alternative dispute resolution, such as arbitration, as an important means to achieve speedy and impartial justice and declog court dockets. This pro-arbitration policy is further evidenced by the rule on presumption in favor of enforcement of a foreign arbitral award under the Special ADR Rules x x x.
+[36]
+ 
+ 
+ 
+ In 
+Lanuza, Jr. v. BF Corporation, et al
+.,
+[37]
+ we said: 
+ 
+ This jurisdiction adopts a policy in favor of arbitration. Arbitration allows the parties to avoid litigation and settle disputes amicably and more expeditiously by themselves and through their choice of arbitrators. 
+ 
+ The policy in favor of arbitration has been affirmed in our Civil Code, which was approved as early as 1949. It was later institutionalized by the approval of Republic Act No. 876, which expressly authorized, made valid, enforceable, and irrevocable parties' decision to submit their controversies, including incidental issues, to arbitration.
+[38]
+ 
+ 
+ 
+ Consequently, We must construe the provisions of the Special ADR Rules in line with this declared policy in favor of arbitration; and accordingly, the plain meaning of Rule 19.17 must prevail. Since IPEGV admittedly failed
+[39]
+ to attach not only the RTC petition, but also the Comment/Opposition to the Petition, the parties' legal briefs, BPW's motion for partial execution, and its Motion for Reconsideration from the RTC decision, its petition for review was defective; and the CA did not err in dismissing the same. In view of this finding, a discussion on the purported lack of authorization to file the petition before the CA petition would be superfluous. 
+ 
+The merits of the arbitral award
+ Even if this Court excuses the foregoing procedural lapses and admits IPEGV's petition, it nevertheless fails to pass the standards for review set by the Special ADR Rules, viz.: 
+ 
+ RULE 19.36. 
+Review Discretionary
+. â A review by the Supreme Court is not a matter of right, but of sound judicial discretion, which will be granted only for serious and compelling reasons resulting in grave prejudice to the aggrieved party. The following, while neither controlling nor fully measuring the court's discretion, indicate the serious and compelling, and necessarily, restrictive nature of the grounds that will warrant the exercise of the Supreme Court's discretionary powers, when the Court of Appeals: 
+ 
+ 
+ a. Failed to apply the applicable standard or test for judicial review prescribed in these Special ADR Rules in arriving at its decision resulting in substantial prejudice to the aggrieved party; 
+ 
+ b. Erred in upholding a final order or decision despite the lack of jurisdiction of the court that rendered such final order or decision; 
+ 
+ c. Failed to apply any provision, principle, policy or rule contained in these Special ADR Rules resulting in substantial prejudice to the aggrieved party; and
+ 
+ d. Committed an error so egregious and harmful to a party as to amount to an undeniable excess of jurisdiction. 
+ 
+ 
+ 
+The mere fact that the petitioner disagrees with the Court of Appeals' determination of questions of fact, of law or both questions of fact and law, shall not warrant the exercise of the Supreme Court's discretionary power.
+ The error imputed to the Court of Appeals must be grounded upon any of the above prescribed grounds for review or be closely analogous thereto. 
+ 
+ A mere general allegation that the Court of Appeals has committed serious and substantial error or that it has acted with grave abuse of discretion resulting in substantial prejudice to the petitioner without indicating with specificity the nature of such error or abuse of discretion and the serious prejudice suffered by the petitioner on account thereat: shall constitute sufficient ground for the Supreme Court to dismiss outright the petition. 
+ 
+ RULE 19.37. 
+Filing of Petition with Supreme Court
+. â A party desiring to appeal by certiorari from a judgment or final order or resolution of the Court of Appeals issued pursuant to these Special ADR Rules may file with the Supreme Court a verified petition for review on certiorari. 
+The petition shall raise only questions of law
+, which must be distinctly set forth. (Emphasis and underlining supplied) 
+ 
+ 
+ IPEGV argues that the Final Award cannot be enforced because its termination of the Publishing Agreement was not malicious and was based on a justifiable ground, 
+i.e.
+, that the game version delivered to it by BPW was full of bugs and features unsuitable to the Philippine market, and BPW failed to remedy the same.
+[40]
+ A resolution of such issue would require this Court to go into the merits of the parties' dispute and resolve questions of fact which cannot be raised in a petition for review to this Court under the Special ADR Rules. Nevertheless, this Court has reviewed the assailed RTC Decision and has found nothing in it which warrants the exercise of its discretionary powers under the Special ADR Rules. The decision sufficiently addressed IPEGV's objections to the enforcement of the Final Award, 
+viz
+.: 
+ 
+ A cursory scrutiny of the two grounds raised by IPEGV in its comment/opposition revealed that neither ground falls among the circumstances enumerated in Rule 13.4 [of the Special ADR Rules]. No allegation was made and no proof was presented by [IPEGV] regarding any party's incapacity or regarding the invalidity of the publishing agreement under Chinese laws to which the parties had subjected it or under Singaporean laws where arbitration was conducted. Moreover, there was no claim regarding the impropriety of the arbitration. Under the publishing agreement between the parties, it was agreed, under the subtitle "dispute resolution" that any "controversy or claim arising out of or relating to this contract, or the breach thereof, shall be settled by arbitration administered by the Singapore International Chamber of Commerce in accordance with its Commercial Arbitration Rules." Under prevailing jurisprudence, submission to arbitration is a contract and that a clause in a contract providing that all matters in dispute between the parties shall be referred to arbitration can also be considered, in itself, a contract. 
+ 
+ There was also no showing that [IPEGV] made any objection to the appointment of Lye Kah Cheong as arbitrator. As evidenced by the arbitration proceedings painstakingly summed up by Cheong, both parties were notified of his appointment and neither of them had manifested any opposition to it All told, both parties, [IPEGV] in particular, had actively participated in the arbitration proceedings such that neither can claim any irregularity in the conduct thereof. 
+ 
+ [IPEGV]'s objections on the ground that the arbitral award was contrary to the public policy that a judgment shall contain clearly and distinctly a statement of the facts proved or admitted, and the law upon which the judgment is based, is belied by this court's reading of the assailed foreign arbitral award. Scrutiny of the assailed award showed that arbitrator Lye Kah Cheong had already tackled the very same grounds raised by [IPEGV] as bases tor its objection to the enforcement of the award in this jurisdiction. More particularly, Lye Kah Cheong had addressed [IPEGV]'s allegations of breach on the part of [BPW] with thoroughness. The resolution Cheong rendered for every issue was made after consideration of all relevant facts. Thus it would appear that stripped to its bare essentials, respondent's opposition to the enforcement of the foreign arbitral award is premised solely on its assailment of the substantive merits of the arbitrator's findings and conclusions previously stated, the authority of this court, in acting on the instant petition, is limited only to the determination of whether the grounds enumerated exclusively in Rule 13.4. For this court to consider the two objections made by [IPEGV] would require it to review the substantive merits of the arbitral award, something which is beyond its jurisdiction.
+[41]
+ 
+ 
+ 
+ 
+IN VIEW OF THE FOREGOING
+, the present petition is
+ DENIED
+. The February 5, 2015 and August 28, 2015 Resolutions of the Court of Appeals in CA-G.R. SP No. 138284 are hereby
+ AFFIRME
+D. 
+ 
+SO ORDERED. 
+ 
+ 
+Leonen (Chairperson), Gesmundo, Carandang
+, and 
+Lazaro-Javier,
+ 
+[*]
+ 
+JJ.
+, concur. 
+[*] 
+Additional Member per Raffle dated February 24, 2020. 
+[1]
+ Hereinafter referred to as the Special ADR Rules. 
+ 
+[2]
+ 
+Rollo
+, pp. 25-27; penned by Associate Justice Pedro B. Corales with the concurrence of Associate Justices Sesinando E. Villon and Rodil V. Zalameda (now a member of this Court). 
+ 
+[3]
+ Id. at 22-24. 
+ 
+[4]
+ Id. at 250.
+ 
+ 
+[5]
+ Id. at 66-88. 
+ 
+[6]
+ Id. at 87-88. 
+ 
+[7]
+ Id. at 250.
+ 
+ 
+[8]
+ Id. In an open beta launch, "a small part of the game data and the complete game engine is provided to a core group of individuals x x x who are part of the consumer market. While the open beta is not available to everyone, [it] help[s] game development teams identify weaknesses in their product before consumers actually start buying the game, finding bugs, and returning the product or calling technical support." Dan Irish, The Game Producer's Handbook 265 (2005).
+ 
+ 
+[9]
+ Id.
+ 
+ 
+[10]
+ A bug is "[a] flaw or mistake in a computer program that results in an error or undesired result." Black's Law Dictionary 222 (2009). 
+ 
+[11]
+ 
+Rollo
+, pp. 250-251. 
+ 
+[12]
+ Id. at 686. 
+ 
+[13]
+ Id. 
+ 
+[14]
+ Id. at 687. 
+ 
+[15]
+ Id. at 108-151; rendered by Lye Kah Cheong, Sole Arbitrator.
+ 
+ 
+[16]
+ Id. at 688-689. 
+ 
+[17]
+ Id. at 689.
+ 
+ 
+[18]
+ Id.
+ 
+ 
+[19]
+ Id. at 837-843; penned by Presiding Judge Marlo A. Magdoza-Malagar.
+ 
+ 
+[20]
+ Id. at 252, 845-847.
+ 
+ 
+[21]
+ Id. at 848-850.
+ 
+[22]
+ Id. at 25-27.
+ 
+ 
+[23]
+ Id. at 22-24.
+ 
+ 
+[24]
+ 713 Phil. 541 (2013).
+ 
+ 
+[25]
+ 
+Rollo
+, pp. 253-254.
+ 
+ 
+[26]
+ Supra note 24.
+ 
+ 
+[27]
+ Id. at 550-551.
+ 
+ 
+[28]
+ The 2019 Amendments to the Rules of Civil Procedure, promulgated on October 15, 2019 and published in the Philippine Daily Inquirer on December 7, 2019. 
+ 
+ 
+[29]
+ RULE 19.14. When to Appeal. â The petition for review shall be filed within fifteen (15) days from notice of the decision of the Regional Trial Court or the denial of the petitioner's motion for reconsideration.
+ RULE 1.7. Computation of Time. â In computing any period of time prescribed or allowed by the Special ADR Rules, or by order of the court, or by any applicable statute, the day of the act or event from which the designated period of time begins to run is to be excluded and the date of performance included. If the last day of the period, as thus computed, falls on a Saturday, a Sunday, or a legal holiday in the place where the court sits, the time shall not run until the next working day. 
+ Should an act be done which effectively interrupts the running of the period, the allowable period after such interruption shall start to run on the day after notice of the cessation of the cause thereof. 
+The day of the act that caused the interruption shall be excluded from the computation of the period. 
+ 
+[30]
+ The fifteenth day of the period, November 22, 2014, was a Saturday.
+ 
+[31]
+ 
+e.g., Jaro v. Court of Appeals
+, 427 Phil. 532 (2002). 
+ 
+[32]
+ Rules of COURT, Rule 1, Section 6. 
+ 
+[33]
+ See N
+ovelty Philippines, Inc. v. Court of Appeals
+, 458 Phil. 36 (2003); 
+Jaro v. Court of Appeals,
+ supra note 31. 
+ 
+[34]
+ Alternative Dispute Resolution Act of 2004, Republic Act No. 9285, April 2, 2004. 
+ 
+[35]
+ G.R. No. 212734, December 5, 2018. 
+ 
+[36]
+ Id. 
+[37]
+ 744 Phil. 612 (2014). 
+[38]
+ Id. at 631. 
+ 
+[39]
+ 
+Rollo
+, pp. 272-273. 
+[40]
+ Amended Petition, id. at 260-269. 
+ 
+[41]
+ RTC Decision, id. at 838-839. 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

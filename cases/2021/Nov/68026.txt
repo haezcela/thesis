@@ -1,0 +1,667 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+EN BANC
+
+
+[ G.R. No. 218416, November 16, 2021 ]
+
+
+PTK2 H2O CORPORATION, PETITIONER, VS. HON. COURT OF APPEALS, SWIM, INC. (SAVE WATERS OF INDANG, CAVITE MOVEMENT INC.) AND ITS PRESIDENT BUENAVENTURA RAMOS, VICE PRESIDENT BAYANI MATEL, SECRETARY ARMIN OLORES, TREASURER ILUMINADA SILAO AND JOSEFINO VIADO, IN THEIR REPRESENTATIVE AND PERSONAL CAPACITIES, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+ZALAMEDA, J.:
+
+
+Considering the unmistakable importance of the constitutional right to a balanced and healthful ecology, especially in these times, this Court reminds the government of its eminent duty to assiduously protect said right. We likewise reiterate through this Case the extraordinary nature of the writ of 
+kalikasan
+. The enumerated reliefs in Section 15, Rule 7 of the Rules of Procedure for Environmental Cases being non-exhaustive and nonÂ­exclusive, other remedies to ensure the permanent discontinuation of environmentally harmful acts may be granted pursuant thereto. Further, when there is a lack of full scientific certainty in establishing a causal link between human activity and environmental effect, cases must be resolved by applying the precautionary principle.
+The Case
+This Petition for Review on 
+Certiorari
+ (Petition)
+[1]
+ seeks to reverse and set aside the Decision
+[2]
+ dated 30 January 2015 and the Resolution
+[3]
+ dated 25 May 2015 of the Court of Appeals (CA) in CA-G.R. SP No. 00028, which granted Save Waters of Indang, Cavite Movement Inc. and its President Buenaventura Ramos, Vice President Bayani Matel, Secretary Armin Olores, Treasurer Iluminada Silao and Josefino Viado (collectively, private respondents) Petition for Writ of 
+Kalikasan
+ with a Temporary Environmental Protection Order (TEPO)
+[4]
+ and directed PTK2 H2O Corporation (petitioner) to cease and desist from performing any and all acts in relation to the challenged contracts and activities.
+Antecedents
+On 23 April 2012, Tagaytay City Water District (TCWD) entered into a water supply contract with petitioner PTK2 H2O Corporation (PTK2) for the supply of 3,600,000 cubic meters (cu.m.) of water annually, or 10,000 cu.m. per day, to the former for a period of twenty (20) years for consumption in Tagaytay City. TCWD generally sources its water requirements from several deep wells, but it decided to contract with PTK2 as it foresaw a gigantic increase in consumption due to the influx of hotels and other industrial and commercial establishments in Tagaytay City.
+[5]
+Prior thereto, PTK2 was already a grantee of conditional water permits from the National Water Resources Board (NWRB) for four (4) major rivers, namely: Lambak, Indang, Saluysoy and Ikloy, all located in Indang, Cavite, from where the former planned to source the water for TCWD under their contract. These conditional permits, all dated 24 November 2010, allowed PTK2 to extract water at the following rates: (a) Lambak River - 126 liters per second (lps.); (b) Indang River - 110 lps.; (c) Saluysoy River - 45 lps.; and (d) Ikloy River - 50.56 lps. These conditional permits ripened into permanent water permits on 28 May 2012, despite the admitted fact that no extraction of water had then actually been made by PTK2.
+[6]
+On 04 July 2012, PTK2 and TCWD entered into a Memorandum of Understanding (for Supply of Bulk Water) to increase the volume of their water supply agreement. Accordingly, on 15 December 2012, a Memorandum of Agreement (for Increased Supply of Bulk Water) was entered into between PTK2 and TCWD where the supply volume was dramatically increased from 10,000 cu.m. to 50,000 cu.m. per day, albeit for a shorter period often (10) years.
+[7]
+With this, PTK2 applied with the NWRB for an increase in the volume of water it can extract from the Ikloy and Lambak Rivers. This was later granted by the NWRB in a Resolution dated 14 March 2012, after noting that PTK2 was allowed only 331.5 lps. or 28,646.78 cu.m./day, when it needed to supply at least 50,000 cu.m. on a daily basis. Thus, the NWRB increased the allowable water extraction from Ikloy River to 107.26 lps. or 9,267.26 cu.m./day, and from Lambak River to 270 lps. or 23,328 cu.m./day. Factoring in this increase, PTK2 was thus allowed by NWRB to extract a total volume of 532.26 lps. or 45,987.26 cu.m./day from the four (4) rivers.
+[8]
+Meanwhile, on 12 April 2013, PTK2 applied for and was granted Environmental Compliance Certificate (ECC) ECC-R4A-1304-0201 by the Department of Environment and Natural Resources (DENR). Notably, the ECC covered the Ikloy River only, and was limited to a maximum capacity of 20,000 cu.m. per day. The components of the ECC which were noted and approved by DENR for the project were the following: "Intake Structure (intake water and wet well), three (3) units of Submersible Pumps, a unit of Flocculation and Sedimentation Basin, Pressure Filter Tanks and Effluent Channel, four (4) units of Booster Pumping Stations, Administration and Laboratory Building, xxx, and installation of 11.80 kilometer water pipe xxx."
+[9]
+On 04 July 2014, Regional Director Engr. Carlos J. Magno of the DENR-EMB CALABARZON issued a Memorandum recommending that PTK2 temporarily cease in the construction of the project and pay penalty for alleged violations of the conditions and restrictions of its ECC.
+[10]
+When private respondents discovered the project, the construction of the intake structure had already started in Ikloy River. The Indang residents and other environment conservation groups vehemently protested the project and made a strong stand against it. A study was prepared by Prof. Noel Sedigo under commission from the Cavite State University (Sedigo Study) where he concluded that the project was not environmentally sound. It was also noted in that study that SUWECO and the Indang Water District measured the actual flow of the rivers in May 2012 which yielded the following results, to wit: a) Ikloy River - 369.50 lps. or 31,924.80 cu.m.; b) Lambak River - 312 lps. or 26,956.80 cu.m.; c) Saluysoy River - 59.50 lps. or 5,140.80 cu.m.; and d) Indang River - 8.4 lps. or 725.76 cu.m. Private respondents cite the writings of Wright and Nebel on environment and sustainability which advocate a maximum threshold of thirty percent (30%) of the surface water flow for appropriation. The water permits granted to PTK2, however, allow the extraction of more than the said threshold quantity.
+[11]
+Premised on these factors, private respondents filed a Petition for Writ of 
+Kalikasan
+ (With Prayer for TEPO) against PTK2, NWRB, TCWD, and DENR, praying that the CA order PTK2 and TCWD to permanently cease and desist from extracting water from the Ikloy, Indang, Lambak and Saluysoy Rivers in the province of Cavite as well as from undertaking construction works within the vicinity, and for said entities to protect, preserve, rehabilitate or restore Ikloy River and the affected areas in 
+Brgy.
+ Kayquit II, Indang, Cavite.
+[12]
+Per private respondents, PTK2 fast-tracked the process and by-passed several important environmental regulations and concerns. This is evident from the fact that PTK2 was granted a permit to extract 10,000 cu.m. of water every day from the head water of Ikloy River - the main source of other neighboring river systems- without a public hearing.
+[13]
+Ruling of the CA
+On 23 June 2014, the CA preliminarily granted the petition, 
+viz
+:
+Finding the petition to be sufficient in form and substance, let a Writ of Kalikasan with a Temporary Environmental Protection Order to be issued directing the respondents to cease and desist, pending resolution of this petition, a) from extracting water from the Ikloy, Indang, Lambak and Saluysoy rivers, from excavating, cutting trees and/or undertaking related construction works, and from implementing and/or executing any and all acts in furtherance of the challenged contracts and activities; and b) to file a verified return as provided in Section 8, Rule 7 of Administrative Matter No. 09-6-8-SC otherwise known as The Rules of Procedure for Environmental Cases within a non-extendible period of ten (10) days from receipt hereof.
+SO ORDERED.
+[14]
+The TEPO was made permanent on 30 January 2015, to wit:
+WHEREFORE
+, premises considered, the NWRB Water Permit Nos. 022584 to 022587, inclusive, as well as DENR-ECC ECC-R4A-1304-0210, are ordered 
+CANCELLED
+ and 
+REVOKED
+. Respondent PTK2 H20 is enjoined to protect, preserve, rehabilitate and restore the environment in accordance with the terms and spirit of the foregoing judgment, including but not limited to, the removal of any and all structures or earthfill that were built to placed on the riverbed of Ikloy River, the planting of double the number of trees that were cut to serve as their substitute, and the like.
+The TEPO earlier issued is made permanent, but is without prejudice to the prerogative of respondent PTK2 to refile, resubmit, or amend/supplement its application for conditional/permanent water permit, with all necessary requirements and appropriate credentials, and public respondents are similarly enjoined to conduct appropriate and realistic feasibility studies to ensure equitable distribution of the available water resources to all the six (6) cities and seventeen (17) municipalities of Cavite province in a manner consistent with sustainable development and to strictly adhere with the proper rules, regulations, and procedure as prescribed in existing environmental laws and regulations, taking into serious consideration the relevant findings and observations of this Court; and finally, all respondents are enjoined to submit to this Court a report on any material action taken in relation herewith.
+SO ORDERED.
+[15]
+In granting the petition, the CA held that the evidence showed that PTK2's applications for water permits and ECC were only perfunctorily assessed and processed by both the NWRB and DENR. These agencies granted the applications only because there was lack of objection or comment from those whom they gave notices of the application.
+[16]
+First
+, the DENR violated its own DENR Department Order 2003-30 in granting the ECC to PTK2.
+[17]
+ Ms. Noemi Paranada, Chief-Environmental Management Division of DENR Region IV-A, testified that the division issued the subject ECC without requiring an Environmental Impact Statement (EIS) because they considered the bulk water project as a "
+distribution-only
+ system," contrary to the categorical designation made by PTK2 itself in its Initial Environmental Examination (IEE) Checklist Report that the same is a "
+complete
+ system." She was also seemingly confused with the target recipients of the water. It thus appeared that the subject ECC was approved without an adequate study and without a careful reading of the IEE itself.
+[18]
+Second
+, the DENR, NWRB and TCWD were remiss in the performance of their duties as expounded under Sections 26 and 27 of the Local Government Code (LGC).
+[19]
+ Here, it was not the 
+Sangguniang Bayan
+, but only Mayor Bienvenido Dimero of Indang who - by mere letter - signified non-objection to PTK2's project.
+[20]
+In addition, the CA underscored the comprehensive study and research conducted by private respondents' witness, environmental scientist Professor Noel Sedigo. The Sedigo Study suggested that given the total discharge of the springs which flow to Ikloy river - the head water - is only measured at a minimum of 16,666.56 cu.m. to a maximum of 19,517.76 cu.m. per day, the approved water extraction rate granted by NWRB to PTK2 for Ikloy River (at 107.26lps or 9,267.26 cu.m./day) far exceeds the recommended maximum sustainable limit of 30% surface water flow.
+[21]
+The CA likewise noted that PTK2 and TCWD's water supply agreement for 50,000 cu.m./day is significantly higher than the maximum amount of water allowed to be harvested under the NWRB permit which is 45,987.26 cu.m./day and that the contract for the increase of water supply actually preceded PTK2's permit application for the increase in volume. Even the independent CEST Inc., study submitted by PTK2 concluded that the three ungaged rivers - Ikloy, Lambak and Indang - are insufficient to individually supply the target contract volume. These rivers are dependent on the flow of the springs, such that any diversion of the latter shall affect the total yield of the rivers, particularly Ikloy River. Therefore, allowing the water supply contract between PTK2 and TCWD to push through according to its terms will lead to irreversible environmental damage.
+[22]
+ Since water is an essential element of life and resource of the environment, this, in turn, can have considerable adverse and dangerous consequences to the riparian ecosystem and livelihood in Indang as well as to the other affected cities and municipalities of Cavite.
+[23]
+In sum, the CA found that, based on evidence, the allowed harvest of surface water at the particular site of Ikloy River is not sustainable and may even serve to disrupt and prejudice the water needs of other places of Cavite.
+[24]
+ The following may ensue: (1) should the current state of Ikloy River be replicated in the other three rivers, there is grave and imminent danger that these river systems will be adversely affected, thereby damaging the other watersheds in Cavite, and consequently, the industries and activities therein that are thriving and dependent on these rivers;
+[25]
+ (2) the eventual destruction of the watersheds and river system if seawater from Manila Bay will be allowed to seep up into lowland Cavite due to want of downstream flow of fresh water from the higher lands will destroy its vegetation and seafood industry, leaving a big chunk of Cavite without livelihood and several cities suffering from diminished food supply; and (3) the extinction of the giant cloud rat.
+[26]
+PTK2's Motion for Partial Reconsideration
+[27]
+ was denied in a Resolution dated 25 May 2015. The CA held that the constitutional right of the people to a balanced and healthful ecology must be given preference and sustained over PTK2's bare assertion that the project will be beneficial, as this latter posture is in stark contrast with studies conducted by private respondents' witnesses.
+[28]
+The CA also reiterated that the permit given by NWRB allowed PTK2 to extract 107.27 lps. (or 9,267.26 cu.m./day) from the Ikloy River, far beyond the allowable international extraction rate of only 30%. The maximum volume that should have been allowed by NWRB for extraction should not be more than 99 lps.
+[29]
+Hence, this Petition.
+Issues
+Aggrieved by the CA's decision, PTK2 now raises the following issues for the Court's discussion: (1) whether the CA erred in granting the writ of 
+kalikasan
+; (2) whether the CA erred in revoking the water permits and the ECC as the same is not included among the reliefs granted under Sections 1 and 15, Rule 7 of the Rules of Procedure for Environmental Cases (RPEC), and (3) whether an EIS is required before an ECC may be issued.
+[30]
+Ruling of the Court
+The Petition must be denied.
+PTK2 mainly insists that the ECC may not be questioned via a writ of 
+kalikasan
+.
+[31]
+ Even assuming that the same may be allowed, PTK2 maintains that the CA failed to name any city except Tagaytay in its Decision; thereby, the magnitude of the environmental damage was not established.
+[32]
+ PTK2 further claims that the CA only based its Decision on the figures presented in the Sedigo Study.
+[33]
+ Finally, PTK2 maintains that an EIS is not required since the project site - despite involving watersheds - is not an Environmentally Critical Project, nor an Environmentally Critical Area.
+[34]
+We are not persuaded. We affirm the CA when it ruled that the requirements for the grant of the privilege of the writ of 
+kalikasan
+ were sufficiently established.
+In 
+OsmeÃ±a v. Garganera
+,
+[35]
+ We held that:
+Under Section 1 of Rule 7 of the RPEC, the following requisites must be present to avail of this extraordinary remedy: (1) there is an actual or threatened violation of the constitutional right to a balanced and healthful ecology; (2) the actual or threatened violation arises from an unlawful act or omission of a public official or employee, or private individual or entity; and (3) the actual or threatened violation involves or will lead to an environmental damage of such magnitude as to prejudice the life, health, or property of inhabitants in two or more cities or provinces.
+Expectedly, the Rules do not define the exact nature or degree of environmental damage but only that it must be sufficiently grave, in terms of the territorial scope of such damage, so as to call for the grant of this extraordinary remedy. The gravity of environmental damage sufficient to grant the writ is, thus, to be decided on a case-to-case basis.
+[36]
+This Court is convinced from the evidence on record that private respondents have sufficiently established the aforementioned requirements for the grant of the privilege of the writ of 
+kalikasan
+.
+[37]
+The first and second requisites are present. There is a threatened violation of the constitutional right to a balanced and healthful ecology arising from the irregularities committed by the government agencies involved in the approval of the project and from the acts of PTK2.
+For one, PTK2's commitment to provide TCWD 50,000 cu.m. of water per day exceeds the maximum volume allowed to be harvested (at 45,987.26 cu.m./day) under the permits from NWRB.
+[38]
+ Likewise, the same violates the ECC issued to PTK2 which covered only the Ikloy River and for the extraction of only 20,000 cu.m./day.
+[39]
+It is also noted that with the NWRB's approval, PTK2 is permitted to extract water at the following rates: 
+Original Allowed Extraction Rate
+Increased Extraction Rate
+Actual Flow
+[40]
+30% Ceiling, As Computed
+Ikloy River
+50.56 lps. (4,368.384 cu.m./day)
+107.26 lps. (9,267.26 cu.m./day)
+369.50 lps. (31,924.80 cu.m./day) - per SUWECO
+225.9 lps. (19,517.76 cu.m./day) - per respondent's submitted studies
+[41]
+110.85 lps. (9,577.44 cu.m./day)
+67.77 lps. (5,855.33 cu.m./day)
+Lambak River
+126 lps. (10,886.4 cu.m./day)
+270 lps. (23,328 cu.m./day)
+312 lps. (26,956.80 cu.m./day)
+93.6 lps. (8,087.04 cu.m./day)
+Indang River
+110 lps. (9,504 cu.m./day)
+110 lps. (9,504 cu.m./day)
+8.4 lps. (725.76 cu.m./day)
+2.52 lps. (217.73 cu.m./day)
+Saluysoy River
+45 lps. (3,888 cu.m./day)
+45 lps. (3,888 cu.m./day)
+59.50 lps. (5,140.80 cu.m./day)
+17.85 lps. (1,542.24 cu.m./day)
+TOTAL
+331.56 lps. (28,646.784 cu.m./day) 
+532.26 lps. (45,987.26 cu.m./day)
+749.4 lps. (64,748.16 cu.m./day)
+605.8 lps. (52,341.12 cu.m./day) 
+224.82 lps. (19,424.45 cu.m./day)
+181.74 lps (15,702.34 cu.m./day)
+Private respondents have cited international authorities capping the extraction rate at 30% of surface water - which even NWRB agrees must be recognized.
+[42]
+ Private respondents, applying this threshold, emphasize that PTK2's permits grossly exceeds the recommended rate: 50,000 cu.m. a day is about 77% to 96% of the total amount of water discharged by the four (4) major rivers that spring from the watersheds. Significantly, extraction of a total of 50,000 cu.m. of water per day also exceeds the sustainable extraction rate of 36,400 cu.m., specifically determined for the Cavite Bulk Water Supply Project.
+[43]
+Notably, PTK2 admits in its Petition that as a policy, NWRB allocates permits for only 20% of the actual flow of a river.
+[44]
+ NWRB Engr. Charito Menguito likewise admitted that they based the water availability of the subject rivers on a book, entitled "Available Water in Philippine Rivers," that was published in 1977. Conspicuously, the figures therein pertain to data corresponding to the period from 1945 to 1967.
+[45]
+The evidence on record also shows that PTK2's facility is erected on the very spring and headwater - the source of water - of Ikloy River.
+[46]
+ Private respondents have presented several studies on the possible deleterious effects of such actions, including but not limited to, massive flooding, soil erosion, denudation of vegetation, deprivation of water downstream during summer season which will, in turn, result in riverbed dryness, drought, water shortage and destruction of flora and fauna,
+[47]
+ possible depletion of groundwater supply of all four (4) rivers of Indang which would then result to the drying of all the rivers going down to five lowland municipalities,
+[48]
+ extinction of cloud rats,
+[49]
+ damage to the connected watersheds may likewise affect industries and activities that are dependent on the water bodies in issue.
+[50]
+At this juncture, We underscore that per Section 5, Rule 20, Part V of the RPEC, when there is a lack of full scientific certainty in establishing a causal link between human activity and environmental effect, the court shall apply the precautionary principle in resolving the case before it. Accordingly, the constitutional right of the people to a balanced and healthful ecology shall be given the benefit of the doubt.
+[51]
+To stress, the precautionary principle is one of the key features introduced in the RPEC. It is applied in cases of uncertainty and effectively 
+shifts the burden of evidence of harm away from those likely to suffer harm and onto those desiring to change the status quo
+.
+[52]
+ Otherwise stated, when applicable, the precautionary principle requires a project proponent to 
+provide evidence to dispel concerns regarding potential harmful impacts of a project to the environment
+.
+[53]
+ This principle bridges the gap in cases where scientific certainty in factual findings cannot be achieved. By applying the precautionary principle, the court may construe a set of facts as warranting either judicial action or inaction, with the goal of preserving and protecting the environment. When these features - uncertainty, the possibility of irreversible harm, and the possibility of serious harm - coincide, the case for the precautionary principle is strongest. When in doubt, cases must be resolved in favor of the constitutional right to a balanced and healthful ecology.
+[54]
+Given the foregoing, We deem it proper to apply the precautionary principle in the instant case. Assessing the evidence on record, the Court finds all three conditions for its application present in this case - uncertainty as to the differing figures relating to the rivers, the possibility of irreversible harm on the environment, and the possibility of serious harm on the environment and on the health, safety and economy of the inhabitants of the affected areas.
+[55]
+In the instant case, private respondents proffer the following to bolster their claim as regards the environmental harm to be caused by PTK2's project: research conducted by Prof. Sedigo, the chair of the Department of Agriculture, Forestry, Environment and Natural Resources of the Cavite State University, which also cited and used NWRB's own data;
+[56]
+ research conducted by the National Irrigation Authority Cavite-Batangas Irrigation Management Office;
+[57]
+ findings of mining engineer Josefina Viado;
+[58]
+ the study commissioned for a province-wide Cavite Bulk Water Supply Project;
+[59]
+ and the findings of international authorities Wright and Nebel.
+[60]
+ Moreover, it also bears stressing that even the DENR-EMB CALABARZON issued a Memorandum in 2014 pointing out PTK2's violations of the conditions and restrictions of its ECC.
+[61]
+Significantly, PTK2 has not presented any evidence which satisfactorily refutes the foregoing assertions. It did not offer measurements nor specify numerical data to counter private respondents' findings. In fact, even the independent CEST Inc. study submitted by PTK2 supports the contentions of private respondents regarding the insufficiency of the water supply vis-a-vis the allowed extraction rates.
+[62]
+Verily, there exists a preponderance of evidence that PTK2's project threatens to damage the environment and eventually the life, health or property of inhabitants in Alfonso, Amadeo, DasmariÃ±as City, Gen. E. Aguinaldo, Indang, Mendez, Naic, Rosario, Silang, Tagaytay City, Tanza, and Trece Martirez City, Cavite where the four (4) rivers in issue supply water.
+[63]
+ Adopting the precautionary principle, such project cannot be allowed to continue without adjusting the extraction rates and several logistical details as regards PTK2's facility. The more prudent course is to immediately enjoin the project until suitable changes have been made.
+[64]
+We also agree with the CA when it held that there was less than conscientious observance by the concerned government agencies with the requirements of the law. Specifically, it appears that an ECC was granted in favor of PTK2's project even without the submission of an EIS.
+An EIS is a detailed statement containing the (a) the environmental impact of the proposed action, project or undertaking; (b) any adverse environmental effect which cannot be avoided should the proposal be implemented; (c) alternative to the proposed action; (d) a determination that the short-term uses of the resources of the environment are consistent with the maintenance and enhancement of the long-term productivity of the same; and (e) whenever a proposal involve the use of depletable or non-renewable resources, a finding must be made that such use and commitment are warranted.
+[65]
+ It is the product of a comprehensive assessment of possible environmental impacts and is required for every action, project or undertaking which significantly affects the quality of the environment. Under Environmental Management Bureau (EMB) Memorandum Circular No. 2014-005, all ECC applications are required to be accompanied by, among others, an Environmental Impact Assessment (EIA) Report in the form of an EIS.
+[66]
+As explained by Justice Leonen in his Concurring and Dissenting Opinion in 
+Paje v. CasiÃ±o
+:
+[67]
+Our law requires the EIS for a purpose. It ensures that business proponents are sufficiently committed to mitigate the full environmental impacts of their proposed projects. It also ensures that the proposed mitigating measures to be applied are appropriate for the operations of an environmentally critical project. Dispensing with the appropriate EIS encourages businesses to treat the EIS requirement as a mere formality that may be obtained and later conveniently amend without the need to conduct the appropriate studies. It discourages full responsibility and encourages businesses to resort to expedient measures to secure the proper environmental clearances.
+On the other hand, Proclamation No. 2146, series of 1981 provides:
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by law, hereby proclaim the following areas and types of projects as environmentally critical and within the scope of the Environmental Impact Statement System;
+A. Environmentally Critical Projects
+xxx
+B. Environmentally Critical Areas
+xxx
+10. Water bodies characterized by one or any combination of the following conditions;
+a. tapped for domestic purposes;
+b. within the controlled and/or protected areas declared by appropriate authorities;
+c. which support wildlife and fishery activities
+xxx
+Being an aquifer, source of water for domestic use, and water source in support of wildlife,
+[68]
+ the PTK2 Project Site located on the headwater of Ikloy River is considered an Environmentally Critical Area. As a water supply project which will utilize water source and water treatment facilities,
+[69]
+ it is also a resource extractive industry under EMB Memorandum Circular No. 2014-005.
+[70]
+The Court 
+En Banc
+ has clarified in 
+Braga v. Abaya
+ that Presidential Decree No. (PD) 1151 and PD 1586 require the submission of an EIS for every proposed project or undertaking (whether public or private) that significantly affects the quality of the environment.
+[71]
+ Given the scope and nature of PTK2's project, it should thus have submitted (and required by the concerned agencies to file) an EIS. In a way, this was a lost opportunity for PTK2, as the conduct of the required EIA (and subsequent submission of its EIS) could have been a good platform for it to address and respond to the negative assertions regarding its project.
+Consequently, bearing the above in mind, We rule that PTK2's nonÂ­submission of the EIS as well as its intended extraction volume rates violate the principle of sustainability and right to a healthy environment embodied in PD 1151 and PD 1586, to the prejudice of the inhabitants of Cavite.
+[72]
+The third requisite for the issuance of a writ of 
+kalikasan
+ has also been sufficiently proven. As earlier noted, there is evidence to show that PTK2's project threatens to cause environmental damage of such magnitude as to negatively affect the life, health or property of inhabitants at least three (3) cities and nine (9) municipalities in Cavite which source water from the four (4) rivers in issue.
+[73]
+ These are: Alfonso, Amadeo, DasmariÃ±as City, Gen. E. Aguinaldo, Indang, Mendez, Naic, Rosario, Silang, Tagaytay City, Tanza, and Trece Martirez City.
+[74]
+ Contrary to PTK2's assertions, the CA clarified the cities and municipalities affected by the project in its Decision dated 30 January 2015
+[75]
+ and Resolution dated 25 May 2015.
+[76]
+Indeed, the RPEC does not explicitly include as possible reliefs the revocation of permits and ECCs. This is not to say, however, that the enumeration therein is exhaustive. We reiterate that the reliefs that may be granted under the writ of 
+kalikasan
+ are broad, comprehensive and nonÂ­exclusive.
+[77]
+ The writ of 
+kalikasan
+ is an extraordinary remedy issued for the purpose of stopping whatever act is being done that is harmful to the environment or to compel the commission of certain protective acts.
+[78]
+ Remedies to ensure the permanent discontinuation of environmentally harmful acts may thus be granted.
+In this regard, We have already ruled in 
+Paje v. CasiÃ±o
+ that the validity of an ECC may be challenged via a writ of 
+kalikasan
+:
+As earlier noted, the writ of 
+kalikasan
+ is principally predicated on an actual or threatened violation of the constitutional right to a balanced and healthful ecology, which involves environmental damage of a magnitude that transcends political and territorial boundaries. A party, therefore, who invokes the writ based on alleged defects or irregularities in the issuance of an ECC must not only allege and prove such defects or irregularities, but must also provide a causal link or, at least, a reasonable connection between the defects or irregularities in the issuance of an ECC and the actual or threatened violation of the constitutional right to a balanced and healthful ecology of the magnitude contemplated under the Rules. Otherwise, the petition should be dismissed outright and the action re-filed before the proper forum with due regard to the doctrine of exhaustion of administrative remedies. This must be so if we are to preserve the noble and laudable purposes of the writ against those who seek to abuse it.
+[79]
+Here, it is not disputed that the ECC in favor of PTK2's project was issued without the submission of the required EIS. For lack of the EIS, the possible adverse (and, as claimed by private respondents, grave and serious) effects of the project on the surrounding environment were not thoroughly assessed and studied by the concerned government agencies, in this case, the DENR and NWRB. Without the safeguards provided by the conduct of an EIA (as evidenced by the EIS), the implementation of the project can conceivably actually violate or threaten to violate the right to a healthful and balanced ecology of the inhabitants near the vicinity of the rivers is very present. The environmental impact of the project is not properly assessed. Thus, We find that We can resolve the issue on the validity of the ECC (and, by parity of reasoning, the permits granted by the NWRB) in this case.
+[80]
+Additionally, We underscore that the power of the courts to nullify an ECC existed even prior to the promulgation of the Rules on the Writ of 
+Kalikasan
+ for judicial review of the acts of administrative agencies or bodies has long been recognized subject to the doctrine of exhaustion of administrative remedies.
+[81]
+Given the length of time since the case has been first filed before the CA, We find that ruling on the validity of the ECC and water permits would not violate the doctrines of exhaustion of administrative remedies and primary jurisdiction, - as judicial intervention is urgent and since strong public interest is involved.
+[82]
+ Prescinding from this, We declare that the ECC in favor of PTK2 is invalid for being issued without the submission of the required EIS.
+In the same vein, while generally no license may be withdrawn, suspended, revoked, or annulled without notice and hearing, the same may be dispensed with in cases of willful violation of pertinent laws, rules and regulations or when public security, health or safety requires otherwise,
+[83]
+ as in this case. To stress, the permits issued to PTK2 were in excess of the established environmentally-safe water extraction thresholds - thereby posing a serious and exigent threat to public health and safety.
+On the basis of the above discussion, We find that the CA did not err in granting the writ of 
+kalikasan
+ and revoking PTK2's DENR-ECC ECC-Â­R4A-1304-0210 and NWRB Water Permit Nos. 022584 to 022587.
+WHEREFORE
+, the Petition is hereby 
+DENIED
+. The Decision dated 30 January 2015 and the Resolution dated 25 May 2015 of the Court of Appeals in CA-G.R. SP No. 00028 are 
+AFFIRMED
+.
+SO ORDERED.
+Gesmundo, C. J., Leonen, Caguioa, Hernando, Carandang, Lazaro-Javier, Inting, Gaerlan, Rosario, J. Lopez
+, and 
+Dimaampao, JJ.
+, concur.
+Perlas-Bernabe, J.
+, on official leave.
+M. Lopez, J.
+, on leave but voted.
+[1]
+ 
+Rollo
+, pp. 3-62.
+[2]
+ 
+Id.
+ at 63-87; penned by Associate Justice Manuel M. Barrios and concurred in by Associate Justices Andres B. Reyes, Jr. (who was a Member of this Court) and Pedro B. Corales of the Former Special First (1
+st
+) Division, Court of Appeals, Manila.
+[3]
+ 
+Id.
+ at 89-93.
+[4]
+ 
+Id.
+ at 94-95.
+[5]
+ 
+Id.
+ at 64.
+[6]
+ 
+Id.
+ at 64-65.
+[7]
+ 
+Id.
+ at 65.
+[8]
+ 
+Id.
+[9]
+ 
+Id.
+ at 65-66.
+[10]
+ 
+Id.
+ at 11, 320.
+[11]
+ 
+Id.
+ at 66.
+[12]
+ 
+Id.
+[13]
+ 
+Id.
+ at 73.
+[14]
+ 
+Id.
+ at 99A.
+[15]
+ 
+Id.
+ at 86.
+[16]
+ 
+Id.
+ at 74.
+[17]
+ 
+Id.
+ at 79.
+[18]
+ 
+Id.
+ at 79-80.
+[19]
+ Section 26. Duty of National Government Agencies in the Maintenance of Ecological Balance. - It shall be the duty of every national agency or government-owned or controlled corporation authorizing or involved in the planning and implementation of any project or program that may cause pollution, climatic change, depletion of non-renewable resources, loss of crop land, rangeland, or forest cover, and extinction of animal or plant species, to consult with the local government units, nongovernmental organizations, and other sectors concerned and explain the goals and objectives of the project or program, its impact upon the people and the community in terms of environmental or ecological balance, and the measures that will be undertaken to prevent or minimize the adverse effects thereof.
+Section 27. Prior Consultations Required. - No project or program shall be implemented by government authorities unless the consultations mentioned in Sections 2 (c) and 26 hereof are complied with, and prior approval of the sanggunian concerned is obtained: Provided, That occupants in areas where such projects are to be implemented shall not be evicted unless appropriate relocation sites have been provided, in accordance with the provisions of the Constitution.
+[20]
+ 
+Id.
+ at 81-82.
+[21]
+ 
+Id.
+ at 75-76.
+[22]
+ 
+Id.
+ at 78-79.
+[23]
+ 
+Id.
+ at 75-76.
+[24]
+ 
+Id.
+ at 77-78.
+[25]
+ 
+Id.
+ at 78.
+[26]
+ 
+Id.
+ at 81-82.
+[27]
+ 
+Id.
+ at 100-108.
+[28]
+ 
+Id.
+ at 91.
+[29]
+ 
+Id.
+[30]
+ 
+Id.
+ at 12-15.
+[31]
+ 
+Id.
+ at 16-27.
+[32]
+ 
+Id.
+ at 27.
+[33]
+ 
+Id.
+ at 31-47.
+[34]
+ 
+Id.
+ at 48-60.
+[35]
+ 
+OsmeÃ±a v. Garganera
+, 828 Phil. 560 (2018), G.R. No. 231164, 20 March 2018 [Per J. Tijam].
+[36]
+ 
+Id.
+ at 569.
+[37]
+ 
+Id.
+[38]
+ 
+Rollo
+, pp. 78-79.
+[39]
+ 
+Id.
+ at 9-10, 65-66, 481.
+[40]
+ 
+Id.
+ at 66, 84.
+[41]
+ 
+Id.
+ at 402, 491-492.
+[42]
+ 
+Id.
+ at 84.
+[43]
+ 
+Id.
+ at 488-489; Per the study commissioned for a province-wide Cavite Bulk Water Supply Project.
+[44]
+ 
+Id.
+ at 40, 408.
+[45]
+ 
+Id.
+ at 83.
+[46]
+ 
+Id.
+ at 493.
+[47]
+ 
+Id.
+ at 487, 84.
+[48]
+ 
+Id.
+ at 493.
+[49]
+ 
+Id.
+ at 486, 492.
+[50]
+ 
+Id.
+ at 78, 492.
+[51]
+ 
+International Service for the Acquisition of Agri-Biotech Applications, Inc. v. Greenpeace Southeast Asia (Phils.)
+, 774 Phil. 508, 664 (2015), G.R. Nos. 209271, 209276, 209301 & 209430, 08 December 2015 [Per J. Villarama].
+[52]
+ 
+Id.
+ at 665.
+[53]
+ 
+Villar v. Alltech Contractors, Inc.
+, G.R. No. 208702, 11 May 2021 [Per J. Carandang].
+[54]
+ 
+Supra
+ at note 52.
+[55]
+ 
+Id.
+[56]
+ 
+Rollo
+, p. 468.
+[57]
+ 
+Id.
+ at 471.
+[58]
+ 
+Id.
+ at 472.
+[59]
+ 
+Id.
+ at 488-489.
+[60]
+ 
+Id.
+ at 66.
+[61]
+ 
+Id.
+ at 11, 320.
+[62]
+ 
+Id.
+ at 78.
+[63]
+ 
+Id.
+ at 169, 488.
+[64]
+ 
+Supra
+ at note 51 at 666.
+[65]
+ Section 4, Presidential Decree No. 1151.
+ 
+[66]
+ Section 2.1, EMB Memorandum Circular No. 2014-005.
+[67]
+ 
+Paje v. CasiÃ±o
+, 752 Phil. 498 (2015), G.R. Nos. 207257, 207276, 207282 & 207366, 03 February 2015, [Per J. Del Castillo] (Concurring and Dissenting Opinion).
+[68]
+ 
+Rollo
+, pp. 166-167.
+[69]
+ 
+Id.
+ at 10.
+[70]
+ Annex A, 3.1.3, EMB Memorandum Circular No. 2014-005, Revised Guidelines for Coverage Screening and Standardized Requirements Under the Philippine EIS System.
+[71]
+ 
+Braga v. Abaya
+, 794 Phil. 662, 669 (2016), G.R. No. 223076, 13 September 2016 [Per J. Brion], citing 
+supra
+ at note 65.
+[72]
+ 
+Rollo
+, p. 490.
+[73]
+ 
+Id.
+ at 169, 488.
+[74]
+ 
+Id.
+[75]
+ 
+Id.
+ at 73-74.
+[76]
+ 
+Id.
+ at 90-91.
+[77]
+ 
+Supra
+ at note 67 at 540.
+[78]
+ Section 15, Rules of Procedure for Environmental Cases.
+[79]
+ 
+Paje v. CasiÃ±o, supra
+ at note 67.
+[80]
+ 
+Id.
+[81]
+ 
+Id.
+[82]
+ 
+See Samar II Electric Cooperative, Inc. v. Seludo
+, 686 Phil. 786, 797 (2012), G.R. No. 173840, 25 April 2012 [Per J. Peralta].
+[83]
+ Section 17, Chapter 3, Book VII, Administrative Code of 1987.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

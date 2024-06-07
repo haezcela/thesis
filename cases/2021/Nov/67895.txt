@@ -1,0 +1,612 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 220613, November 11, 2021 ]
+
+
+SUBIC BAY DISTRIBUTION, INC., PETITIONER, VS. WESTERN GUARANTY CORP., RESPONDENT.
+D E C I S I O N
+
+
+
+
+LAZARO-JAVIER, J.:
+
+
+THE CASE
+This petition for review on certiorari assails the following dispositions of the Court of Appeals in CA-G.R. CV No. 101337 entitled 
+Subic Bay Distribution, Incorporated v. Western Guaranty Corporation
+:
+Decision
+[1]
+ dated April 14, 2015 which reversed the ruling of the Regional Trial Court (RTC) - Makati City in Civil Case No. 02-1524 holding respondent liable under the contract of surety; and
+Resolution
+[2]
+ dated September 17, 2015, denying petitioner's motion for reconsideration.
+ANTECEDENTS
+Petitioner Subic Bay Distribution, Inc. (SBDI) entered into a Distributor Agreement
+[3]
+ with Prime Asia Sales and Services, Inc. (PASSI) where the latter would purchase petroleum products from petitioner to be paid within fifteen (15) days, provided that the credit limit did not exceed P5,000,000.00.
+[4]
+ The agreement was effective for two (2) years, from April 16, 2001 to April 16, 2003, and shall continue on an annual basis unless sooner terminated by either party.
+[5]
+ Under Item No. 6.3 of the agreement, PASSI obligated itself to post a performance bond to secure its obligation, 
+viz
+.:
+6.3 DISTRIBUTOR agrees, when required by SELLER to put up securities real or personal, or, to furnish SELLER a performance bond issued by a reputable bonding company to be chosen by the SELLER to secure and answer for DISTRIBUTOR'S outstanding account, and/or for the faithful performance of the obligations of DISTRIBUTOR contained herein, or arising out of, and by virtue of this Agreement.
+[6]
+The agreement also provided that in case of default, all unpaid amounts shall immediately become due and payable without need of notice or demand.
+[7]
+In compliance, PASSI secured a performance bond from respondent Western Guaranty Corporation (WGC).
+[8]
+ When PASSI subsequently defaulted in its payments, petitioner sent a demand letter dated January 7, 2002 for payment of the total outstanding obligation in the amount of P100,256,601.17. It was followed by another letter dated February 11, 2002. PASSI, however, failed to settle its outstanding obligation.
+Meantime, petitioner also went after the performance bond and sought payment from respondent of the full amount of its surety contract, 
+i.e.
+ 
+P
+8.5 Million through three (3) demand letters it sent respondent on January 15, 2002, February 12, 2002, and February 27, 2002. Petitioner even sought the assistance of the Insurance Commission to recover payment from respondent. But petitioner failed to recover payment from respondent.
+Consequently, petitioner filed a complaint
+[9]
+ for sum of money against respondent with the RTC-Makati City. The case was raffled to Branch 136.
+Respondent countered
+[10]
+ that there was collusion between petitioner and PASSI to collect on the performance bond as petitioner did not include PASSI as party defendant in the complaint.
+[11]
+ Too, petitioner had allegedly already lost its cause of action against respondent because the terms of the principal contract, the Distributor Agreement, were violated/novated without respondent's consent.
+[12]
+RULING OF THE RTC
+By Decision dated September 7, 2011, the trial court ruled in petitioner's favor, 
+viz
+.:
+WHEREFORE, the Court renders judgment ORDERING defendant Western Guaranty Corporation to pay plaintiff Subic Bay Distribution, Inc. the following amounts:
+Php8,500,000.00 plus annual legal interest of six percent from July 12, 2002 until full payment;
+Ten percent of the total amount due as attorney's fees; and
+Cost of suit.
+The Court dismisses defendant's counterclaim for lack of merit.
+SO ORDERED.
+RULING OF THE COURT OF APPEALS
+On appeal, the Court of Appeals reversed under Decision dated April 14, 2015. It ruled that petitioner failed to establish that there was actual delivery to and/or acceptance by PASSI of the petroleum products subject of the obligation.
+[13]
+ The various sales invoices offered in evidence by petitioner did not convincingly prove transfer of ownership of the thing sold to the buyer. A sales invoice is simply a list of the items sent to the purchaser, factor, consignee, etc. which also indicates the prices and charges, quantity, and cost or price of the items invoiced. The sales invoice alone cannot be taken as proof of delivery or transfer of the goods as, by their nature, invoices could be accomplished anytime by the issuer, even before or after the purported delivery of the products themselves.
+[14]
+In the alternative, the Court of Appeals decreed that there was a substantial alteration in the conditions set forth in the Distributor Agreement, particularly as regards the credit term and credit limit.
+[15]
+ Under the Distributor Agreement, petitioner granted PASSI a 
+P
+5 Million credit limit but this limit was increased to 
+P
+8.5 Million. Too, the original credit term agreed on was for monthly deliveries but the obligations upon which petitioner sought to collect covered deliveries made on a daily/weekly basis, as shown by the invoices. The increase in credit limit and change in the delivery terms were made without amending the Distributor Agreement, nor with respondent's knowledge or consent. These amendments contravened respondent's surety bond guaranteeing "payment/remittance of the cost of fuel products withdrawn within the stipulated time 
+in accordance with terms and conditions of the agreement
+."
+[16]
+ In view of this alteration, respondent was deemed released from its obligation as surety, as well as from any liability for actual damages.
+[17]
+THE PRESENT PETITION
+Petitioner now seeks affirmative relief from the assailed dispositions of the Court of Appeals hinged on the following alleged erroneous findings, 
+viz
+.: (1) that it failed to adequately prove that the petroleum products were in fact delivered to PASSI; and (2) there were material alterations in the terms and conditions of the Distributor Agreement which effectively released respondent from liability.
+Petitioner asserts that prior, contemporaneous, and subsequent acts indubitably established delivery of the petroleum products to PASSI.
+[18]
+ While indeed a sales invoice is a unilateral document which identifies the trading parties, describes and quantifies the items sold, and indicates the shipment and mode of transport, prices and payment terms, the sales invoices involved in this case are more than that. For the sales invoices presented here were signed by the seller's agents themselves who confirmed receipt of the petroleum products, thus, making these bills of sale as competent proofs of the fact of delivery. More, the transactions involved here are forty-four (44) orders placed by PASSI within a period of just one (1) month. The sheer volume of these orders proved that PASSI had received its prior orders. Otherwise, it would not have placed such numerous orders if in the first place, it had not received its prior orders.
+[19]
+Petitioner also faults the Court of Appeals for overlooking the fact that PASSI itself never denied actual receipt of the deliveries in question. For instance, in respondent's January 24, 2002 letter to PASSI, respondent asked the latter to settle its obligation and even advised that, 
+" x x x if there is any reason for your nonpayment, kindly let us know within five (5) days from receipt of this letter, otherwise, we will have no further choice but to release your assigned deposit with us to the oblige."
+[20]
+ Too, in its letter dated February 27, 2002, respondent sought PASSI's affirmation of the correctness of its outstanding account with petitioner with notice that should PASSI fail to reply, respondent shall 
+"presume that the aforesaid amount (of 
+P
+8.5 Million outstanding obligation) is confirmed and accepted by (PASSI)."
+[21]
+ Petitioner further asserts that PASSI's inaction or silence on this score equated to its affirmance that the statement of accounts was correct. Respondent, therefore, is estopped from questioning the fact of delivery and its actual receipt by PASSI itself.
+[22]
+Petitioner further faults the Court of Appeals for its erroneous conclusion that the Distributor Agreement was materially altered, hence, had resulted in the extinguishment of respondent's liability as surety.
+In its Comment,
+[23]
+ respondent defends the assailed dispositions of the Court of Appeals.
+ISSUE
+Did the Court of Appeals commit reversible error when it deemed as extinguished respondent's liability under the contract of surety?
+OUR RULING
+The petition is meritorious.
+As a rule, only legal issues come within the ambit of a Rule 45 petition. The Court, not being a trier of facts, is precluded from ruling on factual issues, let alone, from calibrating anew the respective evidence of the contending parties. There are, however, recognized exceptions to this rule, as when (1) the conclusion is grounded on speculations, surmises or conjectures; (2) the inference is manifestly mistaken, absurd, or impossible; (3) there is grave abuse of discretion; (4) the judgment is based on a misapprehension of facts; (5) the findings of facts are conflicting; (6) there is no citation of specific evidence on which the factual findings are based; (7) the finding of absence of facts is contradicted by the presence of evidence on record; (8) the findings of the Court of Appeals are contrary to the findings of the trial court; (9) the Court of Appeals manifestly overlooked certain relevant and undisputed facts that, if properly considered, would justify a different conclusion; (10) the findings of the Court of Appeals are beyond the issues of the case; and (11) such findings are contrary to the admissions of both parties.
+[24]
+The present case falls under the 8
+th
+ exception. The Court, therefore, will review the factual findings of both the trial court and the appellate court in order to arrive at a correct and just disposition of the present case.
+Article 2047 of the Civil Code defines a surety, thus:
+Art. 2047. By guaranty, a person, called the guarantor, binds himself to the creditor to fulfill the obligation of the principal debtor in case the latter should fail to do so.
+If a person binds himself solidarily with the principal debtor, the provisions of Section 4, Chapter 3, Title I of this Book shall be observed. In such case the contract is called a suretyship
+Jurisprudence also defines a contract of suretyship as "an agreement where a party called the surety guarantees the performance by another party called the principal or obligor of an obligation or undertaking in favor of a third person called the obligee x x x."
+The Court expounds that "a surety's liability is joint and several, limited to the amount of the bond, and determined strictly by the terms of contract of suretyship in relation to the principal contract between the obligor and the obligee. We emphasize, however, that although the contract of suretyship is secondary to the principal contract, the surety's liability to the obligee is nevertheless direct, primary, and absolute."
+[25]
+In other words, even though the contract of a surety is secondary only to a valid principal obligation, the surety becomes liable for the debt or duty of another although it possesses no direct or personal interest over the obligations nor receives any benefit therefrom.
+[26]
+ In fact, since the surety is a solidary debtor, it is not necessary that the original debtor first failed to pay before the surety could be made liable; it is enough that a demand for payment is made by the creditor for the surety's liability to attach.
+[27]
+People's Trans-East Asia Insurance Corp. v. Doctors of New Millenium
+[28]
+ elucidated on the nature of the contracts involved in a suretyship and the effect on the surety agreement of any material alteration in the principal contract, in this wise:
+x x x x
+A suretyship consists of two different contracts: (1) the surety contract and (2) the principal contract which it guarantees. Since the insurer's liability is strictly based only on the terms stated in the surety contract in relation to the principal contract, any change in the principal contract, which materially alters the principal's obligations would, in effect, constitute an implied novation of the surety contract:
+[A] surety is released from its obligation when there is a material alteration of the contract in connection with which the bond is given, such as a change which imposes a new obligation on the promising party, or which takes away some obligation already imposed, or one which changes the legal effect of the original contract and not merely its form. A surety, however, is not released by a change in the contract which does not have the effect of making its obligation more onerous.
+x x x x
+As shown, the Court of Appeals here reversed the trial court's finding that respondent is liable under the surety contract. The Court of Appeals relied on its factual findings that 
+first,
+ there was no conclusive proof that there was actual delivery of the petroleum products in question to PASSI as to hold the latter liable therefor; and 
+second,
+ there had been material alterations of the principal contract which made respondent's obligation more onerous. As these amendments were purportedly made without respondent's knowledge and consent, respondent's obligation as surety should be deemed extinguished.
+The Court disagrees.
+DELIVERY AND SALES INVOICE
+On the matter of the alleged non-delivery, it is rather unusual for PASSI to have failed to demand delivery of the petroleum products it ordered from petitioner if the same had indeed not been delivered. Customarily, failure to deliver the goods should have prompted PASSI to follow up on the orders and ensure that the same is delivered at the earliest opportunity.
+[29]
+ It is also unnatural for PASSI to not have called the attention of petitioner when it received the billing and demand letters for payment of the cost of the petroleum products if the same had not been delivered to it. In the ordinary course of business, in case of unwarranted claims of payment of a sum of money, one would immediately protest the same.
+[30]
+ As it was, however, no such action was taken by respondent. In the absence of any protestation from PASSI, there can be no other conclusion but that it (PASSI) received the petroleum products which entitles petitioner to collect payment from PASSI, or in its default, from its duly constituted surety, respondent in this case.
+As pointed out by petitioner, at the time that it demanded payment from respondent after PASSI's default, respondent even advised PASSI through letter dated January 25, 2002 that "x x x if there is any reason for your (PASSI's) nonpayment, kindly let us know within five (5) days from receipt of this letter, otherwise we will have no further choice but to release your assigned deposit with us to the obligee." Respondent again wrote PASSI on February 27, 2002 to inquire into the "correctness" of its outstanding account. Respondent further informed PASSI that in the absence of a reply, it would 
+"presume that the amount (outstanding obligation) is confirmed and accepted by PASSI."
+ Despite the inquiry and clarification initiated by respondent, PASSI never raised the issue of the alleged non-delivery of the goods. Its silence could only mean that there was in fact delivery of petroleum products to PASSI.
+Notably, the Court of Appeals accorded weight to respondent's assertion that the sales invoices cannot be deemed as adequate proof of delivery of the petroleum products to PASSI. It ruled that delivery should have been established by presenting the document designated as "authority/authorization to load" which contained the name of the driver and plate number of the truck authorized by PASSI to receive the goods, 
+viz
+.:
+x x x x
+x x x For one, even granting that the sales invoice could be used as proof of delivery, SBDI utterly failed to show that the delivery was made by PASSI or any of its authorized representatives. During the testimonies of SBDI's witnesses, they made mention of a document designated as an "authority/authorization to load" which contained the name of the driver and plate number of the truck, as the authorized truck drivers or haulers of PASSI, to whom the goods would be released. However, SBDI failed to present the "authority/authorization to load" documents which could have lent support to its claim that goods were delivered to PASSI.
+Because SBDI failed to prove, and present, these "authority/authorization to load" documents, which allegedly authorized the individuals whose signatures appear on the sales invoices to sign on behalf of PASSI, the signatures cannot be admitted to prove the proposition that PASSI accepted the purported delivery of petroleum products. In sum, SBDI utterly failed to prove that the goods appearing on, and listed in, the sales invoice were actually delivered to, and received by, PASSI or any of its authorized representatives.
+[31]
+x x x x
+Obviously, the Court of Appeals focused on the document being denominated "authority/authorization to load" and on petitioner's alleged failure to produce the same. But how about the sales invoices which are equally competent proofs of the actual delivery of the goods, the same having been accomplished and issued by petitioner in the ordinary course of business pertaining to the products purchased by its customers? These sales invoices bore the signatures of PASSI's representative evidencing actual receipt of the goods.
+Petitioner's witnesses, Credit and Collection Manager Mr. Clemente Tangkeh and Marketing Executive Mr. Winston Rodriguez testified on the company practice in the processing and delivery of orders to its customers and how the latter would acknowledge receipt of the goods, thus:
+Mr. Clemente Tangkeh:
+x x x x
+Q: Okay what proof if any do [you have to] show that Prime Asia Sales and Services received its orders?
+A: We do have invoices to show that the products were received by Prime Asia Sales and Services.
+Q: Okay. Have you ever seen this (sic) invoices?
+A: Yes, sir.
+Q: If I show to you copies of these invoices, would you be able to identify them?
+A: Yes, sir.
+Q: Would you please take a look at these invoices and then tell me if these are the invoices you are referring to earlier?
+A: (Witness going over the invoices presented to him by the counsel and answered) Yes. These are the invoices I am referring to.
+x x x x
+Q: By looking at those invoices, Mr. Witness, how are you able to tell that Prime Asia Sales and Services were (sic) able to receive their petroleum orders?
+A: At the bottom right of the invoices, there would be signatures affixed at the bottom right of the invoices and ... right underneath that, it would have a statement that says, [RECEIVED GOODS IN GOOD CONDITION].
+[32]
+Mr. Winston Rodriguez:
+x x x x
+Q: In this case, Mr. Witness, if I were to ask you to identify which fuel oil orders were picked-up and which were delivered, would you be able to tell us?
+A: Yes, sir.
+Q: How would you be able to tell us Mr. Witness?
+A: Through the invoice... if I can see the invoice, I can really say if it's delivered or picked-up, sir.
+Q: Mr. Witness I will show you Sales Invoices pertaining to Prime Asia Sales and I would like you to go over them one by one... I want you to point out which of these sales invoices that would reflect which fuel orders were picked-up and were delivered or let's limit it to which fuel orders were delivered?
+x x x x
+Q: Now, Mr. Witness, how were you able to tell from the sales invoice... by merely looking at the sales invoice that the fuel orders was, let us say delivered by your company?
+A: It is stated in the sales invoice if company delivered, there appears a freight charge which means that the company charged the customers freight charges because it is company delivered, sir.
+Q: So in the invoices which you went through and which you said were delivered by Subic Bay, did you find these freight charges that you mentioned?
+A: Yes, sir.
+[33]
+x x x x
+In 
+Memita v. Masongsong
+,
+[34]
+ the Court acknowledged the value of sales invoices as the best evidence of the transaction through which the buyer acknowledged receipt of the deliveries without protest. The Court in fact held that the 
+load order manifest
+ which the buyer relied on to disprove delivery was not the only evidence to establish delivery of the customer's orders, thus:
+x x x x
+Memita, in alleging "questionable" and "short" deliveries, in effect alleges that Masongsong committed fraud. As the party invoking fraud, Memita has the burden of proof. Whoever alleges fraud or mistake affecting a transaction must substantiate his allegation, since it is presumed that a person takes ordinary care of his concerns and private concerns have been lair and regular. Memita chose to present evidence which did not "set forth the facts" nor the "substance of the matters upon which he relies to support his denial." 
+Memita chose to present the concepts of the load order manifest and the issue form
+. He also presented witnesses who are current and former employees of San Miguel Foods, Inc. However, per the explanation of Mr. Alberto Valenzuela, a former issuer/receiver and route salesman of San Miguel Foods, Inc., the load order manifest shows the goods ordered by Masongsong from San Miguel Foods, Inc. 
+But the load order manifest cannot be considered as the only basis of a customer's order as the customer is not precluded from calling up the San Miguel Foods, Inc. office and make additional orders. Mr. Reynaldo Geaga, an employee in charge of the warehouse of San Miguel Foods, Inc., explained that the issue form reflects the quantity of goods actually obtained by Masongsong from San Miguel Foods, Inc. San Miguel Foods, Inc. then uses the issue form as basis for billing Masongsong.
+The 
+best evidence of the transaction between Memita and Masongsong are the sales invoices. The sales invoices show that Memita or his representative acknowledged receipt of Masongsong's deliveries without protest
+. Memita aired his doubts about the amounts only after Masongsong asked him to pay his credit. Moreover, although Memita confronted Masongsong with a check dated 1 July 1996 in the amount of 
+P
+127,238.40 payable to RM Integrated Services, Masongsong stated that the said amount did not include any transaction in the present case. (Emphases supplied).
+x x x x
+More, respondent cannot discredit the sales invoices by alleging that the persons who issued them failed to testify on their genuineness and due execution. Section 8, Rule 8 of the Revised Rules of Court provides:
+Section 8. 
+How to contest such documents
+. - When an action or defense is founded upon a written instrument, or attached to the corresponding pleading as provided in the preceding section, 
+the genuineness and due execution of the instrument shall be deemed admitted unless the adverse party, under oath specifically denies them, and sets forth what he or she claims to be the facts
+; but the requirement of an oath does not apply when the adverse party does not appear to be a party to the instrument or when compliance with an order for an inspection of the original instrument is refused, (as amended) (Emphases supplied)
+Section 10 of Rule 8 further describes how a specific denial should be made:
+Section 10. 
+Specific denial
+. - A defendant must specify each material allegation of fact the truth of which he or she does not admit and, whenever practicable, shall set forth the substance of the matters upon which he or she relies to support his or her denial. Where a defendant desires to deny only a part of an averment, he or she shall specify so much of it as is true and material and shall deny only the remainder.
+Where a defendant is without knowledge or information sufficient to form a belief as to the truth of a material averment made to the complaint, he or she shall so state, and this shall have the effect of a denial. (as amended)
+Here, respondent failed to specifically deny the genuineness and due execution of the sales invoices in its Answer.
+[35]
+ By its failure to specifically deny the same, respondent is deemed to have admitted the genuineness and due execution of these documents. 
+Spouses Santos vs. Alcazar
+[36]
+ is 
+apropos
+:
+x x x x
+The effect of this is that the genuineness and due execution of the Acknowledgment is deemed admitted. "By the admission of the genuineness and due execution [of such document] is meant that the party whose signature it bears admits that he signed it or that it was signed by another for him with his authority; that at the time it was signed it was in words and figures exactly as set out in the pleading of the party relying upon it; that the document was delivered; and that any formal requisites required by law, such as a seal, an acknowledgment, or revenue stamp, which it lacks, are waived by him. Hence, such defenses as that the signature is a forgery x x x; or that it was unauthorized x x x; or that the party charged signed the instrument in some other capacity than that alleged in the pleading setting it out x x x; or that it was never delivered x x x, are cut off by the admission of its genuineness and due execution."
+x x x x
+So must it be.
+MATERIAL ALTERATIONS
+The Court of Appeals further ruled that even assuming that the sales invoices were accepted as proof of delivery, respondent would still be absolved from liability due to the purported violations of the Distributor Agreement, one of which is allegedly found in Item 6.2 thereof, 
+viz
+.:
+6.2 Payment for purchases by the DISTRIBUTOR shall be in accordance with a maximum credit term of 
+15 days
+ with a maximum credit limit of 
+P
+5,000,000 for the life of this Agreement.
+[37]
+Too, petitioner unduly extended the credit term from fifteen (15) days to thirty (30) days, as shown by the sales invoices, and the credit limit, inordinately increased from 
+P
+5 Million to 
+P
+8.5 Million, in contravention of the express terms of the Distributor Agreement.
+PCIC vs. Petroleum Distributors
+[38]
+ relevantly ordained:
+x x x a surety is released from its obligation when there is a material alteration of the principal contract in connection with which the bond is given, such as a change which imposes a new obligation on the promising party, or which takes away some obligation already imposed, or one which changes the legal effect of the original contract and not merely its form. x x x
+As decreed, not all changes in the principal contract would work to absolve a surety from liability. This liability is not extinguished when the modifications in the principal contract do not substantially or materially alter the principal's obligations.
+[39]
+ Verily, the touchstone for contrariety would be an irreconcilable incompatibility between the old and new obligations.
+[40]
+Undeniably, there are no material alterations to speak of here.
+Unlike in 
+People Trans-East Asia Insurance Corp. v. Doctors of New Millenium
+,
+[41]
+ where a waiver was inserted in the agreement, or in 
+PCIC v. PDSC
+,
+[42]
+ where a memorandum of agreement was subsequently executed to revise the work schedule of the project, the principal contract here has remained materially the same from beginning to end; there was not even a supplemental contract executed to change, vary, or modify the Distributor Agreement.
+In any event, the Court of Appeals first pointed to the supposed change in the scheduled delivery of the goods from a monthly to a daily/weekly basis as a material alteration which made respondent's obligation more onerous as it would hasten PASSI's obligation to pay, thereby increasing the risk of non-Â­payment and the forfeiture of the performance bond.
+This is at best conjectural. To be sure, no evidence was adduced to prove that the frequency of the deliveries to PASSI increased its risk of nonÂ­payment and accelerated the need to call on or forfeit the performance bond. The deliveries, in the first place, were based on orders placed by PASSI itself. Presumably, it would know if it has the capacity to pay for its orders. At any rate, should the performance bond get forfeited, respondent has the right to be subrogated to the remedies available to petitioner against PASSI.
+[43]
+More important, there is really nothing in the Distributor Agreement that set the delivery of the petroleum products on a monthly basis, thus:
+x x x x
+DELIVERIES
+SELLER shall exert its best efforts to make deliveries in approximately equal monthly quantities
+. Inspection of deliveries shall be deemed waived in case of failure of DISTRIBUTOR'S representative to appear at the appointed time and place of delivery. Deliveries are subject to SELLER'S availability of supply and delivery facilities at supply point. x x x (Emphasis supplied).
+[44]
+x x x x
+By the language of the contract, delivery was not set on a monthly basis. The phrase "equal monthly quantities" referred to the volume of products which petitioner bound itself to deliver to PASSI per month and not on the frequency of delivery. This is understandable considering that a regular monthly schedule for delivery would not be controlling as the delivery of petroleum products would always depend on the orders actually placed by PASSI.
+We now go to the second alleged material alteration pointed out by the Court of Appeals, 
+i.e.
+, the extension of the credit term from fifteen (15) days to thirty (30) days by petitioner was deemed by the Court of Appeals to be more onerous to respondent.
+But this extension should actually give PASSI more time to settle its obligations and reduce the risk of default in the payment of its purchases. Consequently, this, too, is more favorable to respondent as surety. Since the principal is given more time to settle its obligation, the risk of the surety's performance bond to be immediately called upon or burdened is necessarily reduced.
+Now, as for the alleged increase of PASSI's credit limit from 
+P
+5 Million to 
+P
+8.5 Million, the records should be set straight. Respondent was aware of the variance between the credit limit indicated in the Distributor Agreement (
+P
+5 Million) and the amount of performance bond actually applied for by PASSI (
+P
+8.5 Million). In fact, respondent admitted that it issued the surety bond despite this variance because PASSI undertook to have the Distributor Agreement amended to increase its credit limit, albeit, it did not eventually succeed. But notwithstanding PASSI's failure to have the contract amended, respondent cannot negate its liability under the contract of surety. For it bound itself to fulfill PASSI's obligation to petitioner up to the amount of 
+P
+8.5 Million. Respondent cannot put up the defense that the effectivity of the surety contract depended on the amendment of the Distributor Agreement because petitioner was not privy to this supposed understanding, if at all there was, between respondent and PASSI.
+Respondent's theory that petitioner and PASSI colluded so that the former may run after respondent's bond
+[45]
+ is specious. A surety's liability is joint and several with the principal. Under Article 2047 of the Civil Code, suretyship arises upon the 
+solidary
+ binding of a person deemed to be the surety with the principal debtor for the purpose of fulfilling an obligation.
+[46]
+A creditor's right to proceed against the surety exists independently of his right to proceed against the principal. Article 1216
+[47]
+ of the Civil Code states that the creditor may proceed against any one of the solidary debtors or some or all of them simultaneously. The rule, therefore, is that if the obligation is joint and several, the creditor has the right to proceed even against the surety alone.
+[48]
+Respondent may, thus, be sued separately or together with PASSI in view of the solidary nature of its liability.
+[49]
+ As it was, petitioner opted to pursue collection against the surety only, without impleading the principal debtor.
+Basic is the principle that "a contract is law between the parties" for as long as it is "not contrary to law, morals, good customs, public order, or public policy."
+[50]
+Under the contract of surety, respondent guaranteed the full and faithful compliance by PASSI of its obligations under the Distributor Agreement.
+The primary purpose for the acquisition of the performance bond was to ensure the payment of a sum of money for products purchased by PASSI from petitioner. Respondent's guarantee, thus, gave petitioner the right to proceed against it (respondent) following PASSI's failure to comply with its obligation.
+LEGAL INTEREST
+In its Decision dated September 7, 2011, the trial court awarded 
+"annual legal interest of six percent from July 12, 2002 until full payment."
+ This must be modified, however, to conform with the guidelines set forth in 
+Nacar v. Gallery Frames
+,
+[51]
+ thus:
+       x x x x
+When an obligation, regardless of its source, 
+i.e.
+, law, contracts, quasi-contracts, delicts or quasi-delicts is breached, the contravenor can be held liable for damages. The provisions under Title XVIII on "Damages" of the Civil Code govern in determining the measure of recoverable damages.
+ With regard particularly to an award of interest in the concept of actual and compensatory damages, the rate of interest, as well as the accrual thereof, is imposed, as follows:
+When the obligation is breached, and it consists in the payment of a sum of money, 
+i.e.
+, a loan or forbearance of money
+, the interest due should be that which may have been stipulated in writing. Furthermore, the interest due shall itself earn legal interest from the time it is judicially demanded. In the absence of stipulation, the rate of interest shall be 6% 
+per annum
+ to be 
+computed from default, 
+i.e.
+, from judicial or extrajudicial demand under and subject to the provisions of Article 1169 of the Civil Code.
+When an obligation, not constituting a loan or forbearance of money, is breached, an interest on the amount of damages awarded may be imposed at the 
+discretion of the court
+ at the rate of 6% 
+per annum
+. No interest, however, shall be adjudged on unliquidated claims or damages, except when or until the demand can be established with reasonable certainty. Accordingly, where the demand is established with reasonable certainty, the interest shall begin to run from the time the claim is made judicially or extrajudicially (Art. 1169, Civil Code), but when such certainty cannot be so reasonably established at the time the demand is made, the interest shall begin to run only from the date the judgment of the court is made (at which time the quantification of damages may be deemed to have been reasonably ascertained). The actual base for the computation of legal interest shall, in any case, be on the amount finally adjudged.
+When the judgment of the court awarding a sum of money becomes final and executory, the rate of legal interest, whether the case falls under paragraph 1 or paragraph 2, above, shall be 6% 
+per annum
+ from such finality until its satisfaction, this interim period being deemed to be by then an equivalent to a forbearance of credit. (Emphases added)
+       x x x x
+Here, it is beyond quibble that the case involves a breach of obligation to pay a sum of money. To collect payment, petitioner sent extrajudicial demands to respondent on three (3) separate occasions â January 15, 2002, February 12, 2002, and February 27, 2002. Respondent never denied receipt of these demand letters, yet, it never complied with its obligation to pay. In accordance with Articles 1169 and 1170 of the Civil Code, therefore, respondent was in default and liable for damages by way of legal interest, thus:
+x x x x
+Article 1169.
+ Those obliged to deliver or to do something incur in delay 
+from the time the obligee judicially or extrajudicially demands from them the fulfillment of their obligation.
+x x x x
+Article 1170.
+ Those who in the performance of their obligations are guilty of fraud, negligence, or 
+delay
+, and those who in any manner contravene the tenor thereof, 
+are liable for damages.
+ (Emphases added)
+x x x x
+To clarify though, the principal amount due should earn legal interest the moment respondent received the first demand dated January 15, 2002, for this is when respondent's delay set in.
+As for the rate of interest, the Court rules that the principal amount due to petitioner shall earn twelve percent (12%) legal interest 
+per annum
+ from respondent's receipt of the first demand letter dated January 15, 2002 until June 30, 2013, and thereafter, six percent (6%) legal interest 
+per annum
+ until fully paid.
+ATTORNEY'S FEES
+In the absence of stipulation, attorney's fees may be awarded as actual or compensatory damages under any of the circumstances provided for in Article 2208 of the Civil Code. The general rule is that attorney's fees cannot be recovered as part of damages because of the policy that no premium should be placed on the right to litigate. They are not to be awarded every time a party wins a suit.
+[52]
+An award of attorney's fees under Article 2208 demands factual, legal, and equitable justification to avoid speculation and conjecture surrounding the grant thereof. Due to the special nature of the award of attorney's fees, a rigid standard is imposed on the courts before these fees could be granted. Hence, it is imperative that they clearly and distinctly set forth in their decisions the basis for the award thereof. It is not enough that they merely state the amount of the grant in the dispositive portion of their decisions. It bears reiteration that the award of attorney's fees is an exception rather than the general rule; thus, there must be compelling legal reason to bring the case within the exceptions provided under Article 2208 of the Civil Code to justify the award.
+[53]
+Here, the trial court's award of attorney's fees is not grounded on a stipulation in the surety contract but on par. (2) Article 2208 of the Civil Code, 
+viz
+.:
+Art. 2208. In the absence of stipulation, attorney's fees and expenses of litigation, other than judicial costs, cannot be recovered, except:
+x x x x
+(2) When the defendant's act or omission has compelled the plaintiff to litigate with third persons or to incur expenses to protect his interest;
+x x x x
+In all cases, the attorney's fees and expenses of litigation must be reasonable.
+x x x x
+Indeed, respondent reneged on its solidary undertaking under the contract of surety. Its failure to comply with its obligation, despite demand, compelled petitioner to bring an action for sum of money to enforce the guarantees under the contract of surety which, needless to say, had dragged on for years. The Court, thus, finds that there is reasonable justification for the trial court's award of 10% attorney's fees to petitioner. In 
+Pacific Mills v. CA
+,
+[54]
+ the Court held that 10% attorney's fees is a reasonable award for the prevailing party.
+ACCORDINGLY
+, the petition is 
+GRANTED
+. The Decision dated April 14, 2015 and Resolution dated September 17, 2015 of the Court of Appeals in CA-G.R. CV No. 101337 are 
+REVERSED AND SET ASIDE
+.
+The Decision dated September 7, 2011 of the Regional Trial Court of Makati City in Civil Case No. 02-1524 is 
+REINSTATED with MODIFICATION
+. The principal amount of 
+P
+8.5 Million due to petitioner Subic Bay Distribution, Inc. shall earn twelve percent (12%) legal interest 
+per annum
+ from respondent Western Guaranty Corporation's receipt of the demand letter dated January 15, 2002 until June 30, 2013, and thereafter, six percent (6%) 
+per annum
+ until fully paid.
+SO ORDERED.
+Gesmundo, C.J., (Chairperson), Caguioa, M. Lopez,
+ and 
+J. Lopez, JJ.,
+ concur.
+[1]
+ 
+Rollo
+, pp. 58-69, penned by Associate Justice Victoria Isabel A. Paredes and concurred in by Associate Justices Isaias P. Dicdican and Elihu A. YbaÃ±ez
+[2]
+ 
+Rollo
+, pp. 70-71, penned by Associate Justice Victoria Isabel A. Paredes and concurred in by Associate Justices Stephen C. Cruz and Elihu A. YbaÃ±ez
+[3]
+ Dated April 16, 2001, 
+Id
+. at 97-101.
+[4]
+ 
+Id
+. at 99.
+[5]
+ 
+Id
+. at 97.
+[6]
+ 
+Id
+. at 99.
+[7]
+ 
+Id
+. at 99.
+[8]
+ 
+Id
+. at 103-104.
+[9]
+ 
+Id
+. at 86-94.
+[10]
+ Answer, 
+Id
+. at 160-163.
+[11]
+ 
+Id
+. at 161.
+[12]
+ 
+Id
+.
+[13]
+ 
+Id
+. at. 61.
+[14]
+ 
+Id
+. at 62-63.
+[15]
+ 
+Id
+. at 66.
+[16]
+ 
+Id
+. at 66.
+[17]
+ 
+Id
+. at 68.
+[18]
+ 
+Id
+. at 26.
+[19]
+ 
+Id
+. at 31.
+[20]
+ 
+Id
+. at 32.
+[21]
+ Id.
+[22]
+ 
+Id
+. at 33.
+[23]
+ 
+Id
+. at 411-425.
+[24]
+ 
+Royal Cargo Corp. v. DFS Sports Unlimited, Inc.
+, 594 Phil. 73, 84 (2008)
+[25]
+ 
+CCC Insurance Corp. v. Kawasaki Steel Corp. et al.,
+ 761 Phil. 1, 19(2015)
+[26]
+ 
+Lim v. Security Bank
+, 729 Phil. 345, 351 (2014), citing 
+PCIC v. Petroleum Distributors
+, 686 Phil. 154, 169 (2012).
+[27]
+ 
+TIDCORP v. Asia Paces Corporation, et al.
+, 726 Phil. 555 (2014).
+[28]
+ 741 Phil. 149 (2014).
+[29]
+ 
+NFF Industrial Corp. v. G & L Associated Brokerage
+, 750 Phil. 69 (2015).
+[30]
+ 
+Id
+.
+[31]
+ 
+Rollo
+, p. 63.
+[32]
+ TSN, June 17, 2003
+[33]
+ TSN July 23, 2004.
+[34]
+ 551, Phil. 241 (2007).
+[35]
+ 
+Rollo
+, p. 161.
+x x x x
+Defendant, thru counsel, and answering the complaint respectfully â
+x x x x
+ALLEGES that Western has no knowledge or information sufficient to form a belief as to the truth or falsity of the allegations contained in Paragraphs 6,7,8 and 9 of the complaint, as well as the averments contained in paragraphs 10 to 24, inclusive; xxx
+x x x x
+[36]
+ 729 Phil. 277, 293 (2014).
+[37]
+ 
+Rollo
+, pp. 63-64.
+[38]
+ 686 Phil. 154, 169 (2012).
+[39]
+ See supra note at 28.
+[40]
+ 
+Id
+. note at 38.
+[41]
+ 
+Id
+.
+[42]
+ 
+Id
+.
+[43]
+ See 
+EscaÃ±o v. Ortigas
+, 553 Phil. 24 (2007).
+[44]
+ 
+Rollo
+, p. 99.
+[45]
+ 
+Id
+. at 161.
+[46]
+ See 
+FGU Insurance v. Sps. Roxas
+, 816 Phil. 71 (2017).
+[47]
+ Art. 1216. The creditor may proceed against any one of the solidary debtors or some or all of them simultaneously. The demand made against one of them shall not be an obstacle to those which may subsequently be directed against the others, so long as the debt has not been fully collected.
+[48]
+ See 
+Palmares v. CA
+, 351 Phil. 664 (1998).
+[49]
+ See supra note at 46.
+[50]
+ 
+Enriquez v. Mercantile Insurance
+, 838 Phil. 816, 838 (2018).
+[51]
+ 716 Phil. 267 (2013).
+[52]
+ See 
+Sps. Timado v. Rural Bank Of San Jose, Inc., et al
+. 789 Phil. 453 (2016).
+[53]
+ See 
+PNCC v. Apac Marketing Corporation
+, 710 Phil. 389 (2013).
+[54]
+ See G.R. No. 87182, February 17, 1992.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

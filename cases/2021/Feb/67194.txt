@@ -1,0 +1,2384 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+EN BANC
+
+
+[ G.R. No. 224720-23, February 02, 2021 ]
+
+
+RICHARD T. MARTEL, ALLAN C. PUTONG, ABEL A. GUIÃARES, VICTORIA G. MIER, AND EDGAR C. GAN, PETITIONERS, VS. PEOPLE OF THE PHILIPPINES, RESPONDENT.
+[G.R. Nos. 224765-68]
+BENJAMIN P. BAUTISTA, JR., PETITIONER, VS. PEOPLE OF THE PHILIPPINES, RESPONDENT.
+DECISION
+
+
+
+
+CAGUIOA, J:
+
+
+While the Constitution exacts a higher standard of accountability with respect to public officers, as indeed public office is a public trust, the constitutional right of presumption of innocence in criminal prosecutions is likewise enjoyed by public officers who stand accused. Therefore, in order to justify conviction, their guilt must be proven beyond reasonable doubt, as with any other person who stands accused.
+In criminal cases involving Section 3(e) of Republic Act No. (R.A.) 3019, or the Anti-Graft and Corrupt Practices Act, in relation to alleged irregularities in procurement committed by public officers, findings of violations of procurement laws, rules, and regulations, 
+on their own
+, do not automatically lead to the conviction of the public officer under the said special penal law. 
+It must be established beyond reasonable doubt that the essential elements of Section 3(e) of R.A. 3019 are present.
+It is in this spirit that the Court proceeds to assess whether the conviction of petitioners under Section 3(e) of R.A. 3019 should be reversed and set aside.
+The Case
+Before the Court are two consolidated petitions.
+In 
+G.R. Nos. 224720-23
+, petitioners Richard T. Martel (Martel), Allan C. Putong (Putong), Abel A. GuiÃ±ares (GuiÃ±ares), Victoria G. Mier (Mier), and Edgar C. Gan (Gan) filed a Petition for Review on 
+Certiorari
+[1]
+ (Martel Petition) under Rule 45 of the Rules of Court, assailing the Decision
+[2]
+ dated February 24, 2016 (assailed Decision) and Resolution
+[3]
+ dated May 13, 2016 (assailed Resolution) of the Sandiganbayan, Special First Division (Sandiganbayan) in Criminal Case Nos. SB-12-CRM-0241 to SB-12-CRM-0244, which found them guilty beyond reasonable doubt for violation of Section 3(e) of R.A. 3019.
+In 
+G.R. Nos. 224765-68
+, petitioner Benjamin P. Bautista, Jr. (Bautista) also filed a Petition for Review on 
+Certiorari
+[4]
+ (Bautista Petition), seeking the reversal of the assailed Decision and Resolution, which likewise found him guilty beyond reasonable doubt for violation of Section 3(e) of R.A. 3019.
+The Facts
+The instant case revolves around the procurement of five motor vehicles for the use of the Governor and Vice Governor of Davao del Sur (the Province).
+Through Purchase Requests dated January 24, 2003,
+[5]
+ February 18, 2003,
+[6]
+ and July 15, 2003,
+[7]
+ all signed by Bautista as then Governor of the Province, the Office of the Governor requested the acquisition of five specific vehicle brands and makes for the purpose of providing service vehicles for the use of the Governor and Vice Governor, 
+i.e.
+, two units of Toyota Hilux 4x4 SR5 (Toyota Hilux), one unit of Mitsubishi L300 Exceed DX2500 Diesel (Mitsubishi L300 Exceed), and two units of Ford Ranger XLT 4x4 (Ford Ranger) (collectively, the subject vehicles).
+The procurement of the subject vehicles was not subjected to competitive public bidding as it was effected through direct purchase. The recommendation was approved by the members of the Bids and Awards Committee (BAC) of the Province, which was comprised of the following individuals: (1) Bautista; (2) Martel, then Provincial Accountant; (3) Putong, then Provincial General Services Officer (GSO); (4) GuiÃ±ares, then Provincial Treasurer; (5) Mier, then Provincial Budget Officer; and (6) Gan, then member of the 
+Sangguniang Panlalawigan
+ (collectively, petitioners). Accordingly, the vehicles were purchased. The disbursement vouchers for the subject vehicles were signed by Martel and GuiÃ±ares in their capacity as Provincial Accountant and Provincial Treasurer, respectively.
+The subject vehicles and their corresponding purchase price, date of purchase request, and vehicle suppliers, are as follows:
+Motor Vchicle Brand and Make 
+Purchase Price
+Date of Purchase Request
+Supplier
+Two units of Toyota Hilux 
+P2,500,000.00 
+January 24, 2003 
+Toyota Davao City, Inc.(Toyota Davao)
+One unit of Mitsubishi L300 Exceed 
+P878,919.50 
+February 18, 2003
+Kar Asia, Inc. (Kar Asia)
+One unit of Ford Ranger
+P1,000,000.00
+July 15, 2003
+Ford Davao
+One unit of Ford Ranger
+P1,218,000.00
+July 15, 2003
+Ford Davao
+The specifics on these purchases were detailed by the Sandiganbayan, thus:
+The procurement covered in these cases were transacted through and justified as Direct Purchase covered under Sec. 366(d) [of the Local Government Code (LGC)], based on the tenor or as described in the supporting documents involved, such as the Purchase Requests, Purchase Orders, and Awards, in particular.
+The 
+Purchase Request
+ signed by Bautista for the two units of 
+Toyota SR5
+ (Exhibit I) dated January 24, 2003, shows at the column Item Description the typewritten words: NOTE: Direct Purchase, and handwritten on the Purchase Order (Exhibit G) dated January 29, 2003, across Mode of Procurement: DIRECT PURCHASE, as well as stamped DIRECT PURCHASE at the bottom of the column Description. The 
+Abstract of Canvass
+ (Exhibit J) is stamped with the words "DIRECT PURCHASE" on the front of the form below the column Name and Description of Article and typewritten under the portion for JUSTIFICATION OF AWARD: SOLE DISTRIBUTOR. The 
+Abstract
+ form was signed by the accused Bautista, GuiÃ±ares, Martel, Putong, Mier and Gan.
+For the 
+Mitsubishi L300 EXCEED DX 2500 DIESEL
+, the 
+Purchase Request
+ (Exhibit RR) dated February 18, 2003 signed by Bautista, is stamped on the front with "DIRECT PURCHASE" and the Purpose for the request specified as "For the use of the Governor". On the 
+Purchase Order
+ dated February 26, 2003 is typewritten the letters opposite the portion Mode of Procurement: "D.P." The 
+Abstract of Canvass
+ (Exhibit SS) is also stamped Direct Purchase and under the Justification of Award: EXCLUSIVE DISTRIBUTOR, and signed by all the accused.
+For the two units of 
+Ford Ranger
+, only one 
+Purchase Request
+ dated July 15, 2003 signed by Bautista was used, designated as PR No. 2752, but one is marked as Exhibits MMM and the other Exhibit CCCC. It indicates under the column Item Description: "Vehicle preferably Ford Ranger XLT 4x4 M/T" at an estimated cost of P2,000,000.00 for both, and below it the words: DIRECT PURCHASE. The Purpose section indicated: "For the use of Governor Benjamin P. Bautista, Jr. and Vice Governor Romualdo C. Garcia". The same exhibits show different stamped entries, aside from the basic typewritten entries and the signatures of officials involved in the processing thereof.
+For the vehicle reserved for accused Bautista, Purchase Order No. 2231 (Exhibit KKK), dated July 29, 2003, for one unit Ford Ranger in the amount of P1,000,000.00 was used. It indicates "Mode of Procurement: Public Bidding," but stamped on the document are the words "DIRECT PURCHASE." The 
+DIRECT PURCHASE AWARD SHEET
+ (Exhibit LLL), naming FORD DAVAO as supplier, contains the following statement: The Local Bids & Awards Committee hereby award the above item/s to FORD DAVAO being the Manufacturer/Exclusive or Sole of the said item/s. The award sheet was signed by all the accused.
+The vehicle reserved for Vice Governor Garcia makes reference to Purchase Order/PO No. 2230 (Exhibit DDDD), dated July 21, 2003, for the amount of P1,218,000.00. The Mode of Procurement section was left blank, but stamped thereon are the words "DIRECT PURCHASE." The DIRECT PURCHASE AWARD SHEET (Exhibit EEEE) contains the same statement that it awards the purchase of one (1) unit vehicle preferably Ford Ranger XLT "4x4 M/T" for use of Vice-Gov. Romualdo C. Garcia to Ford Davao, "being the Manufacturer/Exclusive or Sole Distributor" thereof. The award sheet was signed by all the accused.
+These five (5) vehicles were delivered to the Davao del Sur Provincial Government, and after inspection and acceptance by the concerned officials, check payments were issued to Toyota Davao, Ford Davao and Kar Asia, based on the disbursement vouchers admitted by the parties.
+[8]
+Subsequently, a letter dated September 2, 2003 was filed by the 
+Concerned Citizens for Good Governance
+ (CCGG) before the Office of the Ombudsman in Mindanao (Ombudsman).
+[9]
+The CCGG alleged that petitioners procured five motor vehicles for the use of the Governor and Vice Governor of the Province in a manner violative of procurement laws. The complaint was docketed as Case No. OMB-M-C-05-0557-L entitled 
+Concerned Citizens for Good Governance v. Gov. Benjamin Bautista, Jr. Province of Davao del Sur
+.
+[10]
+On February 15, 2012, the Ombudsman issued a Resolution
+[11]
+ finding probable cause against petitioners for violating Section 3(e) of R.A. 3019, positing the view that the purchase of the subject vehicles did not conform to existing procurement laws and regulations of the Commission on Audit (COA).
+On October 30, 2012, the Ombudsman filed before the Sandiganbayan four Informations
+[12]
+ charging petitioners with 
+violation of Section 3(e) of R.A. 3019
+. The Informations against them read as follows:
+For Criminal Case No. SB-12-CRM-0241
+That on or about 24 January 2003, or sometime prior or subsequent thereto, in Matti, Digos City, Davao del Sur, and within the jurisdiction of this Honorable Court, the above-named accused, BENJAMIN P. BAUTISTA, JR., RICHARD T. MARTEL, ALLAN C. PUTONG, ABEL A. GUIÃARES, VICTORIA G. MIER, and EDGAR C. GAN, public officers being then the Governor, Accountant, General Services Officer, Treasurer, Budget Officer, Sangguniang Panlalawigan Member, respectively and all members of the Local Bids and Awards Committee of the Provincial Government of Davao del Sur, while in the discharge of their official functions, conspiring and confederating with one another, with evident bad faith, manifest partiality, or at the very least, gross inexcusable negligence, did then and there willfully, unlawfully, and criminally cause the procurement of two (2) units Toyota Hilux 4x4 through an unjustified direct purchase from TOYOTA Davao City, Inc. in the net amount of TWO MILLION FIVE HUNDRED THOUSAND PESOS (P2,5000,000.00), instead of the requisite public bidding, by specifying the brand name of the motor vehicle in the Purchase Request, in violation of the procurement laws, thereby denying the Provincial Government of Davao del Sur of the opportunity to find suitable substitutes of the same quality and obtain the most advantageous offer for the requisitioned item, and thus, giving unwarranted benefit, advantage, or preference to TOYOTA Davao City, Inc., to the damage and prejudice of the government.
+CONTRARY TO LAW.
+[13]
+For Criminal Case No. SB-12-CRM-0242
+That on or about 18 February 2003, or sometime prior or subsequent thereto, in Matti, Digos City, Davao del Sur, and within the jurisdiction of this Honorable Court, the above-named accused, BENJAMIN P. BAUTISTA, JR., RICHARD T. MARTEL, ALLAN C. PUTONG, ABEL A. GUIÃARES, VICTORIA G. MIER, and EDGAR C. GAN, public officers being then the Governor, Accountant, General Services Officer, Treasurer, Budget Officer, Sangguniang Panlalawigan Member, respectively and all members of the Local Bids and Awards Committee of the Provincial Government of Davao del Sur, while in the discharge of their official functions, conspiring and confederating with one another, with evident bad faith, manifest partiality, or at the very least, gross inexcusable negligence, did then and there willfully, unlawfully, and criminally cause the procurement of one (1) unit of Mitsubishi L300 Exceed DX2500 Diesel through an unjustified direct purchase from Kar Asia, Inc. in the net amount of EIGHT HUNDRED SEVENTY EIGHT THOUSAND NINE HUNDRED NINETEEN PESOS AND FIFTY CENTAVOS (P878,919.50), instead of the requisite public bidding, by specifying the brand name of the motor vehicle in the Purchase Request, in violation of the procurement laws, thereby denying the Provincial Government of Davao del Sur of the opportunity to find suitable substitutes of the same quality and obtain the most advantageous offer for the requisitioned item, and thus, giving unwarranted benefit, advantage, or preference to Kar Asia, Inc., to the damage and prejudice of the government.
+CONTRARY TO LAW.
+[14]
+For Criminal Case No. SB-12-CRM-0243
+That on or about 15 July 2003, or sometime prior or subsequent thereto, in Matti, Digos City, Davao del Sur, and within the jurisdiction of this Honorable Court, the above-named accused, BENJAMIN P. BAUTISTA, JR., RICHARD T. MARTEL, ALLAN C. PUTONG, ABEL A. GUIÃARES, VICTORIA G. MIER, and EDGAR C. GAN, public officers being then the Governor, Accountant, General Services Officer, Treasurer, Budget Officer, Sangguniang Panlalawigan Member, respectively and all members of the Local Bids and Awards Committee of the Provincial Government of Davao del Sur, while in the discharge of their official functions, conspiring and confederating with one another, with evident bad faith, manifest partiality, or at the very least, gross inexcusable negligence, did then and there willfully, unlawfully, and criminally cause the procurement of one (1) unit of Ford Ranger XLT 4x4 through an unjustified direct purchase from Ford Davao in the net amount of ONE MILLION PESOS (P1,000,000.00), instead of the requisite public bidding, by specifying the brand name of the motor vehicle in the Purchase Request, in violation of the procurement laws, thereby denying the Provincial Government of Davao del Sur of the opportunity to find suitable substitutes of the same quality and obtain the most advantageous offer for the requisitioned item, and thus, giving unwarranted benefit, advantage, or preference to Ford Davao to the damage and prejudice of the government.
+CONTRARY TO LAW.
+[15]
+For Criminal Case No. SB-12-CRM-0244
+That on or about 21 July 2003, or sometime prior or subsequent thereto, in Matti, Digos City, Davao del Sur, and within the jurisdiction of this Honorable Court, the above-named accused, BENJAMIN P. BAUTISTA, JR., RICHARD T. MARTEL, ALLAN C. PUTONG, ABEL A. GUIÃARES, VICTORIA G. MIER, and EDGAR C. GAN, public officers being then the Governor, Accountant, General Services Officer, Treasurer, Budget Officer, Sangguniang Panlalawigan Member, respectively and all members of the Local Bids and Awards Committee of the Provincial Government of Davao del Sur, while in the discharge of their official functions, conspiring and confederating with one another, with evident bad faith, manifest partiality, or at the very least, gross inexcusable negligence, did then and there willfully, unlawfully, and criminally cause the procurement of one (1) unit of Ford Ranger XLT 4x4 through an unjustified direct purchase from Ford Davao in the net amount of ONE MILLION TWO HUNDRED EIGHTEEN PESOS (P1,218,000.00), instead of the requisite public bidding, by specifying the brand name of the motor vehicle in the Purchase Request, in violation of the procurement laws, thereby denying the Provincial Government of Davao del Sur of the opportunity to find suitable substitutes of the same quality and obtain the most advantageous offer for the requisitioned item, and thus, giving unwarranted benefit, advantage, or preference to Ford Davao to the damage and prejudice of the government.
+CONTRARY TO LAW.
+[16]
+On January 24, 2013, each of the petitioners pleaded not guilty to the charges. Pre-trial was conducted on June 24, 2013. On August 5, 2013, the Sandiganbayan issued its Pre-Trial Order.
+[17]
+The trial proceeded thereafter. The prosecution presented two witnesses in the persons of Alicta D. San Juan (San Juan), COA State Auditor III, and Maria Victoria Napalit Ranada (Ranada), COA Attorney VI, Regional Office No. 11,
+[18]
+ though only the former was able to testify, as the testimony of the latter was dispensed with.
+[19]
+ San Juan's testimony focused on the special audit conducted by the COA with respect to the procurement of the subject vehicles. The COA Audit/Investigation Report
+[20]
+ dated July 28, 2005 reached the conclusion that the procurement of the subject vehicles was anomalous and violated procurement law.
+On May 26, 2014, petitioners filed a Motion for Leave of Court to File Demurrer to Evidence,
+[21]
+ asserting that the prosecution failed to provide sufficient evidence to establish the conviction of the accused. In its Resolution
+[22]
+ dated June 23, 2014, the Sandiganbayan denied the aforesaid Motion.
+Afterwards, the defense proceeded to present its evidence, with Putong, Martel, GuiÃ±ares, Bautista, Jr., and Mier testifying.
+[23]
+ In their testimonies, they uniformly stressed that the suppliers who provided the subject vehicles were the exclusive dealers of the subject vehicles. Hence, direct purchase as the mode of procurement was warranted under Section 371
+[24]
+ of R.A. 7160, otherwise known as the Local Government Code. They also emphasized that the documents involving the subject procurement were transmitted to the Provincial Auditor of the COA and that no adverse comment was received by petitioners from the Provincial Auditor's Office.
+The Ruling of the Sandiganbayan
+After trial on the merits, the Sandiganbayan promulgated the assailed Decision finding petitioners guilty beyond reasonable doubt of violating Section 3(e) of R.A. 3019.
+The dispositive portion of the assailed Decision reads:
+WHEREFORE
+, premises considered, this Court renders judgment finding accused Benjamin P. Bautista, Jr., Richard T. Martel, Allan C. Putong, Abel A. GuiÃ±ares, Victoria G. Mier and Edgar C. Gan GUILTY beyond reasonable doubt for violating section 3(e) of R.A. No. 3019 in all of the cases covered herein, and therefore sentences them to an indeterminate penalty of imprisonment of six (6) years and one (1) month, as minimum, to eight (8) years, as maximum, for each of the four (4) cases.
+ All of the accused are also perpetually disqualified from holding public office. There being no act or omission on which civil liability can be based on, none is pronounced.
+Costs 
+de oficio
+.
+SO ORDERED.
+[25]
+The Sandiganbayan found that the procurement of the subject vehicles violated procurement laws and that all the elements of Section 3(e) of R.A. 3019 were present when the procurement of the subject vehicles was undertaken by petitioners.
+The Sandiganbayan held that petitioners erroneously relied on Section 371 of the LGC, which provides for the direct purchase of goods from exclusive distributors. The Sandiganbayan also specifically found Bautista, Jr. and Putong guilty for acting with manifest partiality when they identified the particular brands of the subject vehicles in the Purchase Requests. On their part, Martel, GuiÃ±ares, Mier, and Gan were convicted due to their gross negligence as BAC members in arriving at the conclusion that the direct purchase of the subject vehicles was justified. Petitioners filed their Motion for Reconsideration
+[26]
+ (MR) dated March 10, 2016 and Supplement to the MR
+[27]
+ dated March 21, 2016, which were denied by the Sandiganbayan in the assailed Resolution.
+Aggrieved, petitioners filed their separate appeals before the Court.
+Proceedings before the Court
+In his petition, Bautista lays down the following arguments:
+THERE IS NO COMPETENT EVIDENCE SHOWING MANIFEST PARTIALITY ON THE PART OF PETITIONER BAUTISTA. SPECIFYING THE BRAND OF THE SUBJECT MOTOR VEHICLES DOES NOT NECESSARILY CONSTITUTE MANIFEST PARTIALITY.
+The brand and model of a particular motor vehicle is descriptive of its specifications, performance, and overall value.
+Petitioner Bautista's preference of the Subject Motor Vehicles did not restrict the BAC from determining the vehicle to be procured. 
+THE RESORT TO DIRECT PURCHASE, WHICH IS ALLOWED BY LAW, IS NOT INDICATIVE OF ANY "MANIFEST PARTIALITY".
+THE DIRECT PURCHASE OF THE SUBJECT MOTOR VEHICLES DID NOT RESULT TO ANY UNWARRANTED BENEFIT, ADVANTAGE, OR PREFERENCE TO TOYOTA DAVAO, FORD DAVAO, AND KAR ASIA.
+Contrary to the ruling of the Sandiganbayan, being able to sell products at quoted prices without public bidding does not automatically result in giving unwarranted benefits to Toyota Davao, Ford Davao, and Kar Asia.
+The State failed to discharge the burden of proving beyond reasonable doubt that unwarranted benefits resulted in favor of Toyota Davao, Ford Davao, and Kar Asia. 
+THE SANDIGANBAYAN ERRED IN FINDING PETITIONER BAUTISTA GUILTY OF GRAFT AND CORRUPT PRACTICES UNDER SECTION 3(E) OF R.A. 3019. THE RECORDS FAIL TO SHOW CRIMINAL INTENT ON THE PART OF PETITIONER BAUTISTA. ON THE CONTRARY, THE RECORDS SHOW THAT HE ACTED IN GOOD FAITH.
+[28]
+ 
+For their part, Martel, Putong, GuiÃ±ares, Mier, and Gan raised the following arguments in their petition:
+THE PROCUREMENT FROM EXCLUSIVE PHILIPPINE AGENTS OR DISTRIBUTORS OF FOREIGN SUPPLIES AS AUTHORIZED IN SEC. 371 OF THE LOCAL GOVERNMENT CODE EXTENDS LIKEWISE TO PROCUREMENT FROM EXCLUSIVE DEALERS IN VIEW OF THE PECULIAR CIRCUMSTANCES IN THE MOTOR VEHICLE INDUSTRY WHERE EXCLUSIVE PHILIPPINE AGENTS OR DISTRIBUTORS OF VEHICLES OF FOREIGN ORIGIN TRANSACT BUSINESS ONLY WITH THEIR DEALERS.
+[29]
+A.1.
+THE FINDINGS OF FACT OF THE COURT A QUO THAT TOYOTA DAVAO, FORD DAVAO, AND KAR ASIA WERE NOT EXCLUSIVE DEALERS WERE CONTRADICTED BY THE EVIDENCE ON RECORD.
+[30]
+A.2.
+EVEN THE COA AUDIT TEAM CONFIRMED THAT TOYOTA DAVAO, FORD DAVAO, AND KAR ASIA WERE EXCLUSIVE DISTRIBUTORS OF TOYOTA, FORD, AND MITSUBISHI, RESPECTIVELY.
+[31]
+THE PREPARATION OF A SUPPLEMENTARY PROCUREMENT PLAN, WHICH IS AUTHORIZED UNDER SEC. 11 OF COA CIRC. NO. 92-386, JUSTIFIED THE PROCUREMENT BY THE PROVINCIAL GOVERNMENT OF THE FORD VEHICLES.
+[32]
+THE PETITIONERS CANNOT BE HELD LIABLE FOR THE ACTS OF THE REQUISITIONER IN SPECIFYING THE BRAND OF MOTOR VEHICLES IN THE PRS.
+[33]
+C.1. 
+THE BRANDS SPECIFIED BY THE REQUISITIONERS IN THE PRS MERELY FORM PART OF THE TECHNICAL SPECIFICATIONS THAT WOULD FILL AND SATISFY THE NEEDS OF THE REQUISITIONERS.
+[34]
+C.2. 
+THE BRANDS SPECIFIED BY THE REQUISITIONERS IN THE PRS WERE MERELY RECOMMENDATORY TO THE BAC SINCE IT STILL BEHOOVED UPON THIS COMMITTEE TO DETERMINE, AFTER COMPLYING WITH THE RELEVANT LAWS, THE WINNING BIDDER.
+[35]
+C.3. 
+THE MERE SPECIFICATION OF THE BRANDS IN THE PRS CANNOT JUSTIFY A DECLARATION OF PARTIALITY TO THE BRANDS.
+[36]
+C.4. 
+THE SPECIFICATION OF THE BRANDS IN THE PRS DID NOT RESULT TO UNWARRANTED BENEFIT, ADVANTAGE, OR PREFERENCE TO ANY PARTY INCLUDING THE EXCLUSIVE DEALERS.
+[37]
+THE RESORT BY THE PROVINCIAL GOVERNMENT [TO] THE DIRECT PURCHASE OF THE VEHICLES SUBJECT OF THESE CASES, AS IT IS AUTHORIZED BY SEC. 371 OF R.A. NO. 7160, WAS JUSTIFIED.
+[38]
+THE FINDINGS OF THE COURT 
+A QUO
+ AS TO THE LIABILITY OF THE PETITIONERS WERE GROUNDED ON CONJECTURES AND PREMISED ON THE ABSENCE OF EVIDENCE.
+[39]
+ 
+E.1.
+PETITIONER PUTONG, AS THE GENERAL SERVICES OFFICER AND AS MEMBER OF THE BAC, HAD NO DUTY TO FILL-UP THE PURCHASE REQUESTS.
+[40]
+E.2.
+THE ACT OF THE REQUISITIONER IN SPECIFYING THE BRANDS TOYOTA, FORD, AND MITSUBISHI IN THE PRS CANNOT GIVE RISE TO A VALID CONCLUSION THAT PETITIONER PUTONG INTENDED TO BE PARTIAL TO TOYOTA, FORD, AND MITSUBISH1.
+[41]
+E.3.
+THE SPECIFICATION OF THE BRANDS IN THESE CASES DID NOT PREJUDICE THE INTERESTS OF THE GOVERNMENT.
+[42]
+E.4.
+THERE IS NO LAW THAT REQUIRES THE REQUISITIONER TO EXPLAIN HIS ACT IN SPECIFYING A BRAND IN THE PRIOR WHEN HE CALLS FOR A BRAND AT A HIGHER PRICE.
+[43]
+E.5.
+THE ENSUING DECISION OF THE BAC TO PROCURE THE VEHICLES AS REQUESTED BY THE REQUISITIONER WAS ANCHORED ON THE RESULTS OF ITS STUDY AND NOT SOLELY ON THE "PARTICULAR NEEDS OF THE PROVINCE'S ROAD CONDITIONS."
+[44]
+E.6.
+[AS FOR PETITIONERS MARTEL, GUIÃARES, MIER, AND GAN, THE] COURT 
+A QUO
+ FOUND THAT THERE WAS NO CONSPIRACY AMONG THE PETITIONERS WHICH ONLY FORTIFIES THE TRUTH THAT MARTEL, ET AL. WERE NOT MANIFESTLY PARTIAL TO THE BRANDS INDICATED IN THE PRS OR THAT THEY HAVE NOT GIVEN UNWARRANTED BENEFITS, ADVANTAGE, OR PREFERENCE TO THE DEALERS.
+[45]
+E.7.
+THERE WAS MANIFEST MISTAKE IN THE INFERENCE OF THE COURT 
+A QUO
+ THAT PETITIONERS MARTEC, GUIÃARES, MIER, AND GAN WERE GROSSLY NEGLIGENT WHEN THEY ARRIVED AT THE CONCLUSION THAT THE DIRECT PURCHASE CAN BE JUSTIFIED.
+[46]
+E.8.
+THERE WAS PATENT MISTAKE IN THE CONCLUSION OF THE COURT 
+A QUO
+ THAT PETITIONERS MARTEL, GUIÃARES, MIER, AND GAN HAD ACTED IN BAD FAITH.
+[47]
+The People of the Philippines, represented by the Ombudsman, through the Office of the Special Prosecutor, filed Comments
+[48]
+ for both petitions. In both Comments, the People maintain that petitioners violated the procurement rules in their resort to direct purchase without the conduct of a public bidding. By preselecting the vehicle models to be procured, petitioners are alleged to have acted with manifest partiality in favor of their preferred suppliers and accorded them unwarranted benefit and advantage, causing undue injury to the government. Their criminal intent and evident bad faith are apparent in their deliberate breach of their sworn duty to obey the laws by flouting procurement rules and procedures. Moreover, the People claim that petitioners are asking the Court to revisit evidentiary matters, which is beyond the pale of an appeal by 
+certiorari
+.
+[49]
+Petitioners filed their respective Replies,
+[50]
+ maintaining their position in their petitions.
+On August 14, 2017, the Court noted the Manifestation filed by petitioners in the Martel Petition informing the Court as to the death of Gan on December 4, 2016.
+[51]
+Issue
+Whether the Sandiganbayan erred in finding petitioners guilty beyond reasonable doubt for violation of Section 3(e) of R.A. 3019.
+The Court's Ruling
+The petition is meritorious.
+I. Procedural Matters
+The People contend that the petitions must be denied because the grounds relied upon involve questions of fact. Moreover, the petitions amount to a collateral attack on the judgment of conviction by raising doubt as to whether the acts of petitioners were sufficient to establish criminal liability, thereby assailing the Sandiganbayan's appreciation of evidence. According to the People, the petitions fail to demonstrate that the issues raised therein fall under any of the recognized exceptions warranting a factual review by the Court.
+[52]
+The Court disagrees.
+While it is the general rule that only questions of law may be raised in petitions filed under Rule 45,
+[53]
+ there are recognized exceptions, namely:
+(1) when the findings are grounded entirely on speculation, surmises or conjectures; (2) when the inference made is manifestly mistaken, absurd or impossible; (3) when there is grave abuse of discretion; (4) when the judgment is based on a misapprehension of facts;(S) when the findings of facts are conflicting; (6) when in making its findings the Court of Appeals went beyond the issues of the case, or its findings are contrary to the admissions of both the appellant and the appellee; (7) when the findings are contrary to the trial court; (8) when the findings are conclusions without citation of specific evidence on which they are based; (9) when the facts set forth in the petition as well as in the petitioner's main and reply briefs are not disputed by the respondent; (10) when the findings of fact are premised on the supposed absence of evidence and contradicted by the evidence on record; and (11) when the Court of Appeals manifestly overlooked certain relevant facts not disputed by the parties, which, if properly considered, would justify a different conclusion.
+[54]
+The petitions invoke the first, second, third, fourth, eighth, tenth, and eleventh exceptions above.
+[55]
+After a judicious examination of the records of this case, the Court finds petitioners' invocation of these exceptions to be well-taken. While the findings of fact of the Sandiganbayan as a trial court are accorded weight and respect, the Court will not hesitate to reverse the conclusions reached by the trial court when there appears to be a misappreciation of facts.
+[56]
+ Ultimately, the Court must be satisfied that in convicting the accused, the factual findings and conclusions of the trial court meet the exacting standard of proof beyond reasonable doubt.
+[57]
+ Here, such standard has not been met.
+II. Substantive Matters
+In order to convict the accused for violation of Section 3(e) of R.A. 3019, the following elements must be proven beyond reasonable doubt: (1) the accused must be a public officer discharging administrative, judicial, or official functions; (2) he must have acted with manifest partiality, or evident bad faith, or gross inexcusable negligence; and (3) his action caused undue injury to any party, including the Government, or gave any private party unwarranted benefits, advantage, or preference in the discharge of his functions.
+[58]
+The first element is established in this case. As for the second and third elements, the prohibited act of either causing undue injury or giving unwarranted benefits, advantage, or preference may be committed in three ways, as defined below:
+There is "manifest partiality" when there is a clear, notorious, or plain inclination or predilection to favor one side or person rather than another. "Evident bad faith" connotes not only bad judgment but also palpably and patently fraudulent and dishonest purpose to do moral obliquity or conscious wrongdoing for some perverse motive or ill will. "Evident bad faith" contemplates a state of mind affirmatively operating with furtive design or with some motive of self-interest or ill will or for ulterior purposes. "Gross inexcusable negligence" refers to negligence characterized by the want of even the slightest care, acting or omitting to act in a situation where there is a duty to act, not inadvertently but willfully and intentionally, with conscious indifference to consequences insofar as other persons may be affected.
+[59]
+Based on the foregoing definitions, the Court cannot uphold the conviction of the accused. A thorough review of the facts and evidence presented shows that the prosecution failed to prove beyond reasonable doubt the second element for a violation of Section 3(e) of R.A. 3019.
+On the matter of procurement
+The Sandiganbayan found Bautista, Jr. and Putong guilty of acting with manifest partiality when they identified the particular brands of the subject vehicles in the Purchase Requests. On their part, Martel, GuiÃ±ares, Mier, and Gan were convicted due to their gross negligence as BAC members in arriving at the conclusion that the direct purchase of the subject vehicles was justified. Since the case revolves around the procurement of the subject vehicles, a discussion of the applicable procurement laws is necessary.
+The prevailing law on government procurement is R.A. 9184 or the Government Procurement Reform Act. This law was signed by the President on January 10, 2003. Section 78 thereof provided for the effectivity of the law after fifteen (15) days following its publication. Considering that the Act was published in 
+Malaya
+ on January 11, 2003, R.A. 9184 became effective only on January 26, 2003.
+[60]
+As to the first subject procurement, 
+i.e.
+, the procurement of two units of Toyota Hilux 4x4 SR5, the Purchase Request was signed and issued by petitioner Bautista, Jr. on 
+January 24, 2003
+, or two days prior to the effectivity of R.A. 9184.
+Hence, the procurement law applicable to the first subject procurement is primarily the 
+LGC
+, specifically 
+Title VI, Book II
+, which deals with the property and supply management of Local Government Units (LGUs). The aforesaid section of the LGC governs "the procurement, care, utilization, custody, and disposal of supplies, as defined herein, by local government units and the other aspects of supply management at the locallevels."
+[61]
+Pursuant to Section 383
+[62]
+ of the LGC, the implementing rules and regulations of the LGC provisions on the supply and property management of LGUs was issued by the COA through 
+COA Circular No. 92-386
+.
+Upon the effectivity of R.A. 9184 on January 26, 2003, Title VI, Book II of the LGC was 
+expanded
+.
+[63]
+ Hence, with respect to the three subsequent procurements which involve Purchase Requests that were signed and issued beyond January 26, 2013, 
+R.A. 9184
+ should be considered together with the pertinent provisions of the LGC.
+In any event, it must be emphasized that the relevant rules on the procurement of goods sold by an exclusive dealer or manufacturer through direct contracting, as well as the manner by which the specifications of the goods to be procured are presented, are 
+essentially similar
+ under the LGC and R.A. 9184.
+With respect to the general policy on the method of procurement, the LGC states that the "acquisition of supplies by local government units shall be through competitive public bidding."
+[64]
+ Similarly, R.A. 9184 provides that "[a]ll Procurement shall be done through Competitive Bidding."
+[65]
+Nonetheless, the general rule of competitive public bidding under both the LGC and R.A. 9184 admits of exceptions.
+Under Section 366 of the LGC, procurement of supplies may be made without the benefit of public bidding under any of the following modes: (a) Personal canvass of responsible merchants; (b) Emergency purchase; (c) Negotiated purchase; (d) Direct purchase from manufacturers or exclusive distributors; and (e) Purchase from other government entities.
+Comparatively, under Section 48 of R.A. 9184, subject to the prior approval of the Head of the Procuring Entity or his duly authorized representative, and whenever justified by the conditions provided in the law, the Procuring Entity may resort to any of the following alternative methods of Procurement: (a) Limited Source Bidding; (b) Direct Contracting; (c) Repeat Order; (d) Shopping; and (e) Negotiated Procurement. Alternative methods shall be resorted to only in highly exceptional cases.
+[66]
+In the instant case, petitioners justify the eschewing of competitive bidding in procuring the subject vehicles on the reasoning that these were goods of foreign origin that may only be procured directly from the exclusive Philippine distributors or agents.
+Under the LGC, in case of supplies of foreign origin, LGUs may do away with competitive bidding and procure directly from the exclusive Philippine distributors or agents, subject to certain conditions:
+Section 371. 
+Procurement from Exclusive Philippine Agents or Distributors
+. - Procurement may, in the case of supplies of foreign origin, preferably be made directly from the exclusive or reputable Philippine distributors or agents, subject to the following conditions:
+(a) 
+That the Philippine distributor has no subdealers selling at lower prices; and
+(b)
+ That no suitable substitutes or substantially the same quality are available at lower prices.
+Under Section 105
+[67]
+ of COA Circular No. 92-386, a 
+certification
+ to the effect that the distributor has no subdealers selling at lower price must be secured from the principal and/or exclusive distributor.
+Similarly, Section 50 (c) of R.A. 9184 provides that direct contracting may be resorted to with respect to "[t]hose sold by an exclusive dealer or manufacturer, which does not have sub-dealers selling at lower prices and for which no suitable substitute can be obtained at more advantageous terms to the government."
+In the instant case, it is not disputed that the procurement of the subject vehicles did not undergo competitive public bidding. Petitioners justify their not resorting to bidding by asserting that the procurement of the subject vehicles was allowed by way of direct purchase from exclusive distributors. They maintain that there were no suitable substitutes of substantially the same quality as those of the subject vehicles available at lower prices.
+Procurement law defines a 
+suitable substitute
+ as an "article which would serve substantially the same purpose or produce substantially the same results as the brand, type, or make of article originally desired or requisitioned."
+[68]
+ According to petitioners, the purpose of the subject procurement was to provide vehicles for the use of the Governor and Vice Governor in transporting people and goods throughout the Province in rough roads, well-paved roads, and not so well-paved roads.
+[69]
+Bautista, Jr. clarified that the purpose for the procurement of the subject vehicles was for the general need for pick-up trucks:
+JUSTICE LAGOS:
+So, what was the appropriation for? Was it for specific Toyota, Mitsubishi and Ford vehicles or a general need for pick-up trucks?
+WITNESS:
+General need, Your Honor.
+JUSTICE LAGOS:
+It's for a general need.
+WITNESS:
+Yes, Your Honor.
+[70]
+ (Underscoring supplied)
+Hence, the resort to direct contracting would have been legally permissible only if there were no other vehicles that may have served the general need of the Governor and Vice Governor for pick-up trucks aside from the specific vehicle brands and makes purchased.
+In asserting that there are no other suitable vehicles that satisfy the abovementioned purpose, petitioners primarily relied on certifications issued by the three suppliers of the subject vehicles, 
+i.e.
+, Toyota Davao, Kar Asia, and Ford Davao.
+However, at most, these certifications merely state that the aforesaid car dealers are the exclusive dealers of Toyota Hilux, Mitsubishi L300 Exceed, and Ford Davao. These certifications do not purport to show whatsoever that there are no other suitable and more affordable vehicle brands and makes that may serve as viable service vehicles of the Governor and Vice Governor.
+Aside from the foregoing, another relevant procurement rule that comes into play is the rule on the referencing of brand names in indicating the specifications for the procurement of goods.
+Under Section 24 of COA Circular No. 92-386, "[t]he description and specification of the supplies or property called for in the requisition shall include only the technical specifications which will fill and satisfy the needs of the requisitioner." Similarly, under Section 18 of R.A. 9184, "[s]pecifications for the Procurement of Goods shall be based on relevant characteristics and/or performance requirements. Reference to brand names shall not be allowed."
+COA Circular No. 92-386 itself provides the definition of 
+specification
+ as the "technical description of supplies or property being requisitioned or ordered, which should be clear and complete, including if necessary, the specific uses therefor and how acceptability thereof can be determined."
+[71]
+Hence, when the LGU undertakes the process of requisition of supplies or properties, which the procurement law defines as the formal requesting of supplies or property made through a written request or order,
+[72]
+ only the technical description of the supplies or properties shall be indicated. The particular brand names of the goods cannot be specified in the requisition.
+Here, in the requisition of the subject vehicles, the specific brands and makes of the subject vehicles were indicated. The Purchase Requests dated January 24, 2003
+[73]
+ February 18,2003
+[74]
+ and July 15, 2003
+[75]
+ which prompted the requisition of the subject vehicles, specified the particular vehicle brands and makes. The technical descriptions of these vehicles, such as the engine displacement, braking system, and other exact specifications, were not identified in the Purchase Requests.
+In refutation, petitioners argue that under Section 54 of COA Circular No. 92-386, reference to the manufacturer's brand name is permissible and that when such reference is made, the reference is intended to be merely descriptive and not restrictive.
+[76]
+Section 54 of COA Circular No. 92-386 states that "[w]henever reference to a manufacturer's brand-name is indicated in the call for bids, it shall be intended to be descriptive, not restrictive, and shall be understood to merely indicate to prospective bidders that brand-names other than those specified, if of equal quality, may be considered, regardless of whether or not a statement to that effect is made in the tender x x x."
+However, the non-restrictive reference to brand name referred to in the foregoing provision applies to references made in the 
+call for bids
+, which refers to the act of the office of the provincial or city general services officer to call bids for open public competition.
+[77]
+ In the instant case, considering that direct purchase was chosen as the mode of procurement from the outset, there was no call for bids made as there was no public bidding that was even commenced. Hence, Section 54 of COA Circular No. 92-386 does not find any application in the instant case. On the other hand, as already discussed, in issuing the purchase requests, procurement law unequivocally mandates that LGUs shall only indicate the technical specifications and not specify the particular brand names and makes.
+Violation of procurement laws does not ipso facto give rise to violation of R.A. 3019
+ 
+From the foregoing discussion, it is evident that there were irregularities in the procurement of the subject vehicles, in violation of the applicable procurement laws. Be that as it may, it should be emphasized that petitioners were charged and convicted for violating Section 3(e) of R.A. 3019. As recently held in 
+Sabaldan, Jr. v. Ombudsman
+:
+[78]
+More importantly, it must be emphasized that the instant case involves a finding of probable cause for a criminal case for violation of Section 3 (e) of R.A. No. 3019, and not for violation of R.A. No. 9184. Hence, 
+even granting that there may be violations of the applicable procurement laws, the same does not mean that the elements of violation of Section 3 (e) of R.A. No. 3019 are already present as a matter of course. For there to be a violation under Section 3 (e) of R.A. No. 3019 based on a breach of applicable procurement laws, one cannot solely rely on the mere fact that a violation of procurement laws has been committed
+. It must be shown that (1) the violation of procurement laws caused undue injury to any party or gave any private party unwarranted benefits, advantage or preference; and (2) the accused acted with evident bad faith, manifest partiality, or gross inexcusable negligence.
+[79]
+ (Emphasis supplied)
+In support of the ruling therein, the Court in 
+Sabaldan
+ cites the earlier case of 
+Sistoza v. Desierto
+[80]
+ where the Court held:
+Clearly, the issue of petitioner Sistoza's 
+criminal liability does not depend solely upon the allegedly scandalous irregularity of the bidding procedure for which prosecution may perhaps be proper. For even if it were true and proved beyond reasonable doubt that the bidding had been rigged, an issue that we do not confront and decide in the instant case, this pronouncement alone does not automatically result in finding the act of petitioner similarly culpable.
+ It is presumed that he acted in good faith in relying upon the documents he signed and thereafter endorsed. 
+To establish a 
+prima facie
+ case against petitioner for violation of Sec. 3, par. (e), RA 3019, the prosecution must show not only the defects in the bidding procedure, a circumstance which we need not presently determine, but also the alleged evident bad faith, gross inexcusable negligence or manifest partiality of petitioner
+ in affixing his signature on the purchase order and repeatedly endorsing the award earlier made by his subordinates despite his knowledge that the winning bidder did not offer the lowest price. 
+Absent a well-grounded and reasonable belief that petitioner perpetrated these acts in the criminal manner he is accused of, there is no basis for declaring the existence of probable cause.
+[81]
+ (Emphasis supplied)
+While these two cases involve the existence of probable cause for violation of Section 3(e) of R.A. 3019, the pronouncements therein are still applicable in this case. Accordingly, it is through the lens of the anti-graft and corruption law, and not the procurement laws, that the guilt of the accused for violation of Section 3(e) of R.A. 3019 must be determined.
+Thus, in order to successfully prosecute the accused under Section 3(e) of R.A. 3019 based on a violation of procurement laws, the prosecution cannot solely rely on the fact that a violation of procurement laws has been committed. The prosecution must prove 
+beyond reasonable doubt
+ that: (1) the violation of procurement laws caused undue injury to any party, including the government, or gave any private party unwarranted benefits, advantage or preference, and (2) the accused acted with evident bad faith, manifest partiality, or gross inexcusable negligence. This the prosecution failed to do. Specifically, the prosecution miserably failed to prove beyond reasonable doubt that petitioners acted with evident bad faith, manifest partiality, or gross inexcusable negligence in relation to the subject procurements.
+The prosecution failed to establish evident bad faith
+ 
+The evidence on record is 
+not sufficient to prove beyond reasonable doubt
+ that there was evident bad faith on the part of petitioners when they directly contracted with the car dealers.
+It is settled in jurisprudence that evident bad faith "does not simply connote bad judgment or negligence"
+[82]
+ but of having a "palpably and patently fraudulent and dishonest purpose to do moral obliquity or conscious wrongdoing for some perverse motive or ill will. It contemplates a state of mind affirmatively operating with furtive design or with some motive or selfÂ­-interest or ill will or for ulterior purposes."
+[83]
+ Simply put, it partakes of the nature of fraud.
+[84]
+The presence of evident bad faith requires that the accused acted with a malicious motive or intent, or ill will. It is not enough that the accused violated a provision of law or that the provision of law violated is clear, unmistakable and elementary. To constitute evident bad faith, it must be proven that the accused acted with fraudulent intent.
+As explained in 
+Sistoza
+, "mere bad faith or partiality and negligence 
+per se
+ are not enough for one to be held liable under the law since the act of bad faith or partiality must in the first place be 
+evident
+ or 
+manifest
+."
+[85]
+To stress anew, evident bad faith "contemplates a state of mind affirmatively operating with furtive design or with some motive or self-Â­interest or ill will or for ulterior purposes."
+[86]
+ It connotes "a manifest deliberate intent on the part of the accused to do wrong or to cause damage. It contemplates a breach of sworn duty through some perverse motive or ill will."
+[87]
+Because evident bad faith entails manifest deliberate intent on the part of the accused to do wrong or to cause damage, it must be shown that the accused was "spurred by any corrupt motive."
+[88]
+ Mistakes, no matter how patently clear, committed by a public officer are not actionable "absent any clear showing that they were motivated by malice or gross negligence amounting to bad faith."
+[89]
+Applying the foregoing, while petitioners may have violated the pertinent laws and rules on procurement, there is reasonable doubt that they consciously and intentionally did so in order to commit fraud, to purposely commit a crime, or to gain profit for themselves so as to amount to fraud.
+The testimony of the prosecution's witness was able to demonstrate that violations of procurement law were committed by the petitioners. However, that was all that the evidence proved. There was no evidence presented whatsoever showing that petitioners were animated by fraudulent motives. 
+On the contrary
+, the evidence shows that petitioners honestly believed that their resort to direct purchase was proper. To recall, Section 371 of the LGC allows direct purchase of supplies of foreign origin from exclusive Philippine agents or distributors, subject to the following conditions: a) that the Philippine distributor has no subdealers selling at lower prices; and b) that no suitable substitutes or substantially the same quality are available at lower prices. As mentioned in the petition:
+3.a Undeniably, a local government unit may dispense with the public bidding and procure directly from either an exclusive or reputable Philippine distributor or agent, subject only to the two conditions set forth in the law.
+3.b. It must be stressed that the 
+vehicles subject of these cases were of foreign origin
+, i.e., Toyota Hilux 4x4 and Mitsubishi L300 Exceed DX2500 were from Japan, and the Ford Ranger XLT 4x4 from the United States. Albeit these brands of vehicles were specified by the requisitioners in the PRs, considering that it is only the requisitioner who can determine which specification will fill and satisfy the needs of his office, 
+the BAC, cognizant that the specified brands were merely recommendatory, proceeded in making a study to determine whether the procurement in each of these cases would, among others, fall under Sec. 371
+ of R.A. No. 7160.
+[90]
+ (Underscoring supplied)
+As for why they chose the mode of direct purchase, the following statements of the petitioners are illuminating:
+36. Prior to the direct purchase of the subject vehicles, 
+the Provincial Government had already acquired seven vehicles through direct purchase and at no instance were these purchases of the seven vehicles questioned or the subject of AOM, NS, or ND by the COA
+ despite the fact that the latter Office had been furnished copies of the documents pe1iinent to these transactions.
+37. In undertaking the direct purchase of the vehicles subject of these cases, the petitioners, acting as BAC, 
+made a study of the surrounding circumstances of the earlier procured seven vehicles through direct purchase
+.
+37.a. The petitioners found out that before the seven vehicles were purchased, pubic bidding were held. However, 
+the public bidding were all declared as failed bidding
+ because only one bidder or no one would join the bidding. Thus, a second bid would be held but like the first, there was also a failure of bidding for the same reason that only one or no bidder would join the bidding. For these reasons, the previous BAC decided to propose the negotiated purchase of the seven vehicles. However, because the 
+negotiated purchase would require a longer period of time as this would still require the "approval of the 
+Sangguniang Panlalawigan
+ and several meetings of the BAC resulting to the delay in the delivery
+ of the basic services, the BAC instead consulted the COA Auditor on this matter whose advice was to revisit the rules of COA, Sec. 015 of COA Circ. 92-386, Sec. 371 of R.A. No. 7160 and Art. 437 of the IRR of R.A. No. 7160.
+37.b. 
+With the advice of the COA
+, the seven vehicles were procured through direct purchase. The documents pertinent to the direct purchase of the vehicles were sent by the Province to the Office of the Provincial Auditor but the former never received any AOM, NS, or ND.
+[91]
+ (Underscoring supplied)
+As can be gleaned above, it cannot be said that petitioners were spurred by any ill or corrupt motive in resorting to direct purchase of the subject vehicles. After studying the previous procurement experiences of the Provincial Government, which were all not questioned by the COA despite having been done through direct purchase, petitioners deemed direct purchase to be a viable and allowed mode of procurement for the subject vehicles in this case.
+Indeed, the absence of any adverse findings from the Provincial Auditor should likewise be considered in their favor. The following averments of Bautista are well taken:
+111. The lack of criminal intent on the part of Petitioner Bautista is likewise evident in the fact that in all the Direct Purchases in this case, Petitioner Bautista himself 
+executed transmittal letters addressed to the Provincial Auditor
+ to apprise the latter of the same. Also, 
+the Province only prepared the Disbursement Vouchers around one (1) to two (2) months after the transmittal letters to the Provincial Auditor
+. This shows that the Province 
+waited for any Notice of Disallowance or Notice of Suspension before making payments to the suppliers
+. Since the Provincial Auditor never issued any Notice of Disallowance or Notice of Suspension, the Disbursement Vouchers were approved and the corresponding checks were issued.
+112. The foregoing only shows that Petitioner Bautista had no malicious motives in the procurement of the Subject Motor vehicles. 
+Nothing can be more indicative of good faith than his transparency to the Provincial Auditor and the chance he and the BAC afforded to the latter to object to or question the purchases.
+ As testified by the Prosecutor's very own witness, 
+no disallowance or suspension was issued
+ because the Provincial Auditor found no irregularity regarding the transactions.
+[92]
+ (Underscoring supplied)
+Thus, the evidence does not support the conclusion that petitioners possessed a state of mind operating with furtive design or some motive of selfÂ­-interest or ill will for ulterior purposes. Therefore, petitioners cannot be found guilty of committing Section 3(e) of R.A. 3019 through evident bad faith.
+The prosecution failed to establish manifest partiality
+ 
+Likewise, there is no sufficient evidence to prove 
+beyond reasonable doubt
+ that petitioners acted with manifest partiality in relation to the subject procurements.
+There is manifest partiality "when there is a clear, notorious or plain inclination or predilection to favor one side or person rather than another."
+[93]
+ It should be remembered that manifest partiality, similar to evident bad faith, is in the nature of 
+dolo
+. Hence, it must be proven that the accused had 
+malicious and deliberate intent
+ to bestow unwarranted partiality upon Toyota Davao, Kar Asia, and Ford Davao.
+Here, petitioners' act of specifying the brands of the subject vehicles in the Purchase Requests - by and of itself - is not enough to conclude 
+beyond reasonable doubt
+ that there was manifest partiality as conceptualized under Section 3(e). Otherwise stated, the evidence on record fails to establish beyond reasonable doubt that petitioners were animated with malicious intent, and consciously pursued .a notorious scheme to deliberately favor Toyota Davao City, Inc., Kar Asia, Inc., and Ford Davao. The evidence presented by the prosecution is simply not enough to prove beyond reasonable doubt that the subject procurements were pursued purposely and intently by petitioners to fraudulently benefit themselves and the said car dealers.
+As already explained, the testimony of the prosecution's witness did not establish in any manner any deceitful intent and motivation behind the procuring of the subject vehicles from the three car dealers. There was no evidence whatsoever showing that petitioners were animated by fraudulent and devious motives.
+On the other hand, petitioners' unrefuted testimonies before the Sandiganbayan reveal that their decision not to follow the competitive bidding requirement of procurement law was motivated not by any evil scheme to profit, but by their honest, albeit mistaken, belief that the alternative mode of direct contracting was warranted. As for the specification of the brands, petitioners' reliance on Section 54 of COA Circular 92-386,
+[94]
+ 
+i.e.
+, specification of the brand-name is allowed as it is intended to be merely descriptive and not restrictive, although mistaken as this only applies to calls for bids, nonetheless reveals a measure of good faith on their part.
+To be sure, for the identification of the specific brands involved, Bautista explained that he merely specified his brand preference in his request - but that there is no evidence that he persisted and insisted on sticking to this preferred brand. He maintains that there is nothing malicious about said preference:
+x x x Evidently, the Sandiganbayan failed to realize that the purchase of motor vehicles is no ordinary purchase, unlike the procurement of fungible goods or generic supplies which are practically homogenous regardless of the brand. Vehicle manufacturers have their own particular selling points and long-standing reputation and each brand alludes to a specific market or need, which differentiates it from other brands and models. x x x
+x x x Simply put, indicating the brand of the vehicle is the best way to describe the technical specifications of the motor vehicle. To be sure, Petitioner Bautista's x x x "partiality" to a particular brand of a motor vehicle does not necessarily mean "partiality" to the dealer or distributor. x x x The Toyota, the Ford, the Mitsubishi and other motor vehicle brands have been with us for years. Their performance is common knowledge and it is normal to have a brand preference as far as motor vehicles are concerned.
+[95]
+Verily, even the Sandiganbayan stated in its Decision that "[w]hether Bautista's signing the PRs specifying the brand of the vehicle was merely recommendatory or not, remains 
+disputed
+."
+[96]
+ This further strengthens Bautista's claim that he did not insist on the preferred brands and left it to the BAC to determine whether these vehicles would satisfy the needs of the Province. In the course of its study, the BAC found, among others, that:
+a. The Ford Ranger was efficient for transporting goods and passengers on rough roads.
+b. The Toyota Hilux was efficient for transporting goods in well-paved roads.
+c. The Mitsubishi L300 was efficient in transporting passengers in well-paved roads.
+d. Toyota Davao, Ford Davao, and Kar Asia (for Mitsubishi) were the exclusive dealers of their respective brands of vehicles, which were all of foreign origin. There were no other sub-dealers selling the same type of vehicles at lower prices.
+e. There were no other brands offering the same kind of vehicles at lower prices. The Subject Motor Vehicles had no reasonable substitutes of the same kind and quality available at lower prices that would adequately cater to the needs of the Province.
+f. Although Isuzu and Suzuki sold pick-up trucks, the specifications and overall performance of these trucks fall short of the stringent requirements of the Province. Moreover, the dealers of these brands, along with other dealers in the Province, were not interested in joining any public bidding for the purchase of the Subject Motor Vehicles as participating in a public bidding was considered to entail a lot of expenses which would not be a worthy investment for a dealer.
+[97]
+Petitioners maintain that "the brands indicated in the PRs were eventually chosen by the BAC not because these brands had been specified by the requisitioner but for the reason that, on the basis of their study, this would fill and satisfy the needs of the requisitioner taking into consideration the provisions of R.A. No. 7160 and COA Circ. No. 92-386."
+[98]
+From the foregoing, while there appears to be a degree of preference for a specific brand, a preference for the brand's performance record and reliability, this preference does not rise to the level of 
+manifest
+ partiality that would show an ulterior motive or purpose on the part of petitioners. Therefore, the conviction of petitioners based on manifest partiality cannot stand as the required threshold of proof beyond reasonable doubt was not met by the prosecution.
+The prosecution failed to establish gross inexcusable negligence
+ 
+As well, there is no sufficient evidence to prove 
+beyond reasonable doubt
+ that petitioners acted with gross inexcusable negligence.
+The commission of Section 3(e) of R.A. 3019 through gross inexcusable negligence requires more than simple negligence. The negligence committed must be both 
+gross
+ and 
+inexcusable
+, characterized by the want of even slight care, wherein the accused was consciously indifferent as to the compliance with his or her duty as a public officer. More than committing a breach of a legal duty, it is necessary that in committing the said breach, the public officer was inattentive, thoughtless, and careless.
+It must be stressed that gross inexcusable negligence varies from evident bad faith and manifest partiality. Evident bad faith and manifest partiality are acts committed through 
+dolo
+, while gross inexcusable negligence is committed by means of 
+culpa
+.
+Felonies committed by means of 
+dolo
+ or deceit are those performed with deliberate intent. On the other hand, felonies committed by means of 
+culpa
+ are those performed with imprudence, negligence, lack of foresight, or lack of skill.
+[99]
+ In intentional felonies, the act or omission of the offender is 
+malicious
+. However, in culpable felonies, the act or omission of the offender 
+need not be malicious
+. The wrongful act results from imprudence, negligence, lack of foresight or lack of skill.
+[100]
+Gross inexcusable negligence under Section 3(e) of R.A. 3019, a culpable felony, does not require fraudulent intent or ill-will. A public officer is guilty of gross inexcusable negligence when there is a 
+breach of duty
+ that is committed 
+flagrantly, palpably
+, and with 
+willful indifference
+.
+[101]
+ Hence, a public officer who seriously breaches his or her duty in a blatant and extremely careless manner is guilty of gross inexcusable negligence under Section 3(e) regardless of whether such breach of duty was done with malicious intent.
+In this case, while the Sandiganbayan found Bautista and Putong liable for manifest partiality, it found Martel, GuiÃ±ares, Mier, and Gan liable for gross inexcusable negligence, to wit:
+While there may be 
+scant evidence of their conspiracy with Bautista and Putong
+, criminal liability on their part can be based on their being 
+grossly negligent in arriving at the conclusion that direct purchase of these vehicles can be justified
+. As members of the BAC, these accused were duty-Â­bound to follow the rules on procurement, to ensure that any exception to the general rule on bidding was justified. As admitted by them, they were tasked to make a study on the purchase of these vehicles. 
+However, what they did was to conduct only a superficial interview of the dealers involved
+, to ask whether these dealers were open to a public bidding, in addition to inspecting the vehicles.
+[102]
+ (Underscoring supplied)
+The Sandiganbayan harps on the fact that the alleged study conducted by the BAC was not reduced into writing, that they were confined only to interviewing the dealers of the brands specified, and that there were no price matrices or comparisons for suitable substitutes.
+[103]
+ In this regard, petitioners counter:
+26.a. It was precisely because the petitioners knew that there were dealers for other brands of pick-up trucks and vans that they conducted a study for each PR to determine, 
+inter alia
+, whether a public bidding can be held; whether the procurement would fall under Sec. 371 of R.A. 7160 and if the conditions stated therein could be complied ; and, whether the vehicles offered by the dealers had the same technical specifications as that requested by the requisitioner and which would fill and satisfy the needs of his office.
+26.b. As testified to by the petitioners, acting as BAC, their study yielded the following results: that no dealers would join the bidding; Sec. 371 of R.A. 7160 would apply and that the conditions set forth therein were present; and, that the vehicles specified in the PRs would fill and satisfy the needs of the ot1ice of the requisitioner.
+[104]
+x x x x
+68.b. 
+The lapses in the conduct of the study, if these can be characterized as such was not for the reason that there was an evil intent to cause damage to the government or to give benefit, advantage or preference to themselves or the dealers but for the reason that there were no specific laws to serve as guide in undertaking the study.
+68.c. Petitioners humbly aver that they did not reduce in a formal written instrument the results of their study but this however, cannot amount to a finding that there were (
+sic
+) no actual study made by the BAC considering that, as earlier mentioned, there were no guidelines or directives either from the COA or the Local Government Code prescribing on the manner by which a study should be conducted by the BAC.
+68.d. The fact is also underscored that the results of the study was not required as one of the attachments to facilitate the transaction relative to the direct purchase of the subject vehicles or to cause the payment to the dealers.
+[105]
+ (Underscoring supplied)
+Petitioners' averments are well-taken. The records show that petitioners, as BAC members, did conduct a study, albeit limited and not reduced to writing. Moreover, as earlier discussed, they no longer considered public bidding based on their past experiences and the belief that direct purchase was availing. While it is arguable that a more thorough study would have led petitioners to conclude that direct purchase was not proper for the subject procurements, their actions cannot be characterized as without 
+even slight care and conscious indifference as to the compliance with their duties
+ so as to make them liable for gross inexcusable negligence. Hence, they cannot be held liable for violation of Section 3(e) of R.A. 3019 on this account.
+Violations of R.A. 3019 must be grounded on graft and corruption
+ 
+Based on the foregoing discussion, it is evident that the prosecution failed to establish evident bad faith, manifest partiality, or gross inexcusable negligence on the part of petitioners to satisfy the second element for violation of Section 3(e) of R.A. 3019.
+In criminal cases, it is hornbook principle that 
+all
+ the elements of the crime must be proven beyond reasonable doubt in order to convict the accused. Considering that the prosecution miserably failed to prove the second element of the crime charged, there is no more reason for the Court to discuss the third element. The absence of the second element for violation of Section 3(e) of R.A. 3019 is enough to acquit petitioners.
+At this juncture, the Court emphasizes the spirit that animates R.A. 3019. As its title implies, and as what can be gleaned from the deliberations of Congress, R.A. 3019 was crafted as an anti-graft and corruption measure. At the heart of the acts punishable under R.A. 3019 is 
+corruption
+. As explained by one of the sponsors of the law, Senator Aliuro M. Tolentino, "[w]hile we are trying to penalize, 
+the main idea of the bill is graft and corrupt practices
+. x x x Well, 
+the idea of graft is the one emphasized
+."
+[106]
+ Graft entails the acquisition of gain in dishonest ways.
+[107]
+In the instant case, petitioners' act of pursuing the subject procurements was motivated not by any corrupt intent to favor one car dealer over another or to unduly receive any pecuniary benefit. Based on the evidence on record, petitioners' actuations were simply based on their honest belief that direct procurement was legally permissible. There was no showing that graft and corruption actually transpired. As a matter of fact, there is no issue at all on overpricing:
+[108]
+19.f To stress, 
+State Auditor San Juan testified that there was no issue of overpricing in all these cases which only signifies the absence of benefit, much more of an unwarranted benefit
+, to the dealers of Ford, Toyota and Mitsubishi resulting from the procurement of the vehicles.
+[109]
+x x x x
+6l.d. The "profit" earned by Toyota-Davao, Ford-Davao and KarÂ­Asia resulted from their delivery of the vehicles procured by the Provincial Government. Hence, it cannot be claimed that the profits they received were "unwarranted", i.e., it lacked adequate or official support; unjustified; unauthorized or without justification or adequate reason. 
+These companies were entitled to the return of their investments
+ viz: "in all cases where a party enters into a contract with the government, he does so, not out of charity and not to lose money, but to gain pecuniarily. In the same vein, the 
+Provincial Government cannot unjustly enrich itself at the expense of these dealers
+.
+[110]
+x x x x
+63.d. Moreover, it must be noted that 
+respondent had never put to the fore the issue that petitioners had colluded with the dealers so that benefit, advantage or preference may be extended to the latter
+. Equally significant is the truth that the respondent had not found any reason to include the dealers as accused in these cases thus, negating any claim that these dealers were the recipients of any form of benefits from the petitioners. Petitioners respectfully state that these facts, when properly appreciated, reinforce the claim of the petitioners that 
+at no instance were they moved by an evil or criminal intent to extend benefit, advantage or preference to the dealers or to cause undue injury to the government
+.
+[111]
+ (Underscoring supplied)
+To reiterate, petitioners believed in good faith that direct purchase as the mode of procurement was justified under Section 371 of the LGC. Moreover, the procurement documents were transmitted to the Provincial Auditor of the COA prior to the procurement precisely to give the COA a chance to say if such procurement was not allowed. It was only when the COA did not give any adverse comment that the purchase proceeded. These circumstances strengthen the conclusion that petitioners were not animated by any corrupt motive.
+Indeed, while public office is a public trust, the Court is called upon to refrain from interpreting the laws to effectively be a disincentive to individuals in joining the public service. It is simply absurd to criminally punish every minute mistake that incidentally caused a benefit to private parties 
+even when these acts were not done with 
+corrupt intent
+.
+The Death of Petitioner Gan
+With respect to Gan, who died on December 4, 2016, Article 89, paragraph 1 of the RPC provides for the consequences of such death, to 
+wit
+:
+ART. 89. 
+How criminal liability is totally extinguished
+. - Criminal liability is totally extinguished:
+1. By the death of the convict, as to the personal penalties; and as to pecuniary penalties, liability therefor is extinguished only when the death of the offender occurs before final judgment.
+Construing the foregoing provision, the Court, in 
+People v. Bayotas
+,
+[112]
+ explained that "the term final judgment employed in the Revised Penal Code means judgment beyond recall. Really, as long as a judgment has not become executory, it cannot be truthfully said that defendant is definitely guilty of the felony charged against him."
+[113]
+In the same case, the Court summarized the rules in case the accused dies prior to final judgement:
+1. Death of the accused pending appeal of his conviction extinguishes his criminal liability as well as the civil liability based solely thereon. As opined by Justice Regalado, in this regard, "the death of the accused prior to final judgment terminates his criminal liability and only the civil liability 
+directly
+ arising from and based solely on the offense committed , 
+i.e.
+, civil liability 
+ex delicto in senso strictiore
+."
+2. Corollarily, the claim for civil liability survives notwithstanding the death of accused, if the same may also be predicated on a source of obligation other than delict. Article 1157 of the Civil Code enumerates these other sources of obligation from which the civil liability may arise as a result of the same act or omission:
+x x x x
+3. Where the civil liability survives, as explained in Number 2 above, an action for recovery therefor may be pursued but only by way of filing a separate civil action and subject to Section 1, Rule III of the 1985 Rules on Criminal Procedure as amended. This separate civil action may be enforced either against the executor/administrator or the estate of the accused, depending on the source of obligation upon which the same is based as explained above.
+4. Finally, the private offended party need not fear a forfeiture of his right to file this separate civil action by prescription, in cases where, during the prosecution of the criminal action and prior to its extinction, the private offended party instituted together therewith the civil action. In such case, the statute of limitations on the civil liability is deemed interrupted during the pendency of the criminal case, conformably with the provisions of Article 1155 of the Civil Code, that should thereby avoid any apprehension on a possible privation of right by prescription.
+[114]
+Thus, applying these established rules in the instant case, the death of Gan pending the resolution of the instant appeal extinguished his criminal liability inasmuch as there is no longer a defendant to stand as the accused.
+[115]
+ Accordingly, the Court holds that the death of Gan results in the dismissal of the criminal case against him.
+A Final Note
+The fundamental law of the land states that public office is a public trust. Public officers and employees must at all times be accountable to the people, serve them with utmost responsibility, integrity, loyalty, and efficiency, act with patriotism and justice, and lead modest lives.
+[116]
+ Being beholden to the Filipino people, the actions of public officers are thus subjected to a higher level of scrutiny, more so when the expenditure of public funds is involved.
+Nevertheless, the fundamental law likewise guarantees the basic and indefeasible right to a presumption of innocence to all citizens, including public officers. In all criminal prosecutions, the accused shall be presumed innocent until the contrary is proved beyond reasonable doubt.
+[117]
+ The accountability of public officers enshrined under the Constitution does not diminish whatsoever the right of public officers to be presumed innocent in criminal prosecutions.
+Therefore, bearing in mind the constitutional right of public officers to be convicted only when the elements of the crime charged have been established beyond reasonable doubt, in the instant case, it behooved the Court to meticulously examine the established facts through the lens of the elements of Section 3(e) of R.A. 3019. The Court cannot simply rely on the findings of violations of the applicable procurement laws, rules, and regulations in determining the guilt of the accused. The Court must determine whether each and every element of Section 3(e) of R.A. 3019 was established beyond reasonable doubt in order to justify holding the accused liable therein.
+To reiterate, a violation of the procurement laws does not 
+ipso facto
+ lead to a violation of R.A. 3019. This was established as early as 2002 in 
+Sistoza
+ where the Court ruled that even if the irregularities in the bidding were true and proved beyond reasonable doubt, the same does not automatically result in finding the act of the accused as culpable under R.A. 3019. Unfortunately, the Ombudsman, the prosecution, and the Sandiganbayan all strayed away from this established correct approach and instead relied on the gravely erroneous notion that a violation of the procurement laws is already tantamount to a violation of R.A. 3019.
+To be sure, even a cursory reading of the Informations filed by the Office of the Ombudsman shows its total reliance on such wrong notion - even employing a shotgun method of listing all the ways by which Section 3(e) may be violated, 
+i.e.
+ through evident bad faith, manifest partiality, and gross inexcusable negligence, despite the fact that the first two are committed by means of 
+dolo
+ while the last is by 
+culpa
+, and therefore making it illogical for all three modes to be simultaneously present.
+As for the prosecution, its belief in the false equivalency of a violation of procurement laws being a violation of R.A. 3019 is palpable in its sole reliance on the COA Audit/Investigation Report to prove petitioners' guilt under R.A. 3019. For its part, the Sandiganbayan should not have contented itself with convicting the petitioners by the mere existence of procurement irregularities - verily, it should have dismissed the case for the prosecution's failure to prove the elements of a violation of Section 3(e) of R.A. 3019.
+At the risk of being repetitive, the Court echoes the pronouncements in 
+Sistoza
+ that in order to establish a 
+prima facie
+ case for violation of Section 3(e) of R.A. 3019, the prosecution must show not only the defects in the procurement procedure but also the alleged evident bad faith, gross inexcusable negligence, or manifest partiality on the part of the accused. Absent a well-grounded and reasonable belief that the accused perpetrated the procurement irregularities in the 
+criminal manner
+ that he is accused of, then there is not even a basis for declaring the existence of probable cause, more so a finding of guilt for any violation of Section 3(e) of R.A. 3019. The prosecution should not expect the Court to do its bounden duty of proving each and every element of the crime charged - or to come to its rescue when it miserably fails to discharge this onus.
+It should be borne in mind, however, that acquitting the accused for violation of R.A. 3019 despite violations of the procurement law should not be viewed as condoning the procurement irregularities. To emphasize, R.A. 9184 contains a penal clause
+[118]
+ where public officers and private individuals may be held liable. Should their actions be considered as falling under this penal clause, then petitioners may be held criminally liable under R.A. 9184.
+As well, for their having committed procurement irregularities, they can also be held accountable administratively. In fact, for petitioners-SAC members, the Court notes that their administrative liability was upheld by the Court in 
+Office of the Ombudsman v. Martel, et al.
+[119]
+ Thus, the acquittal of the accused herein is not meant to allow a wrongdoing to go unpunished. It is only sought to be emphasized that while holding public officers accountable is a laudable objective, the same must be achieved within the bounds of law.
+Lest it be forgotten, what is involved here is a criminal case. The Sandiganbayan convicted the accused and imposed on them the penalty of imprisonment of six (6) years and one (1) month, as minimum, to eight (8) years, as maximum, for 
+each
+ of the four (4) cases. If the same would be upheld, the Court would be sentencing petitioners to a maximum of 24 years in prison for mere irregularities in the procurement of the subject vehicles, with no showing of evident bad faith, manifest partiality, or gross inexcusable negligence on their part. Evidently, if every irregularity in the performance of duties would be meted with a criminal sanction, then this will have a deleterious effect on public service.
+The demand for accountability should not be at the expense of wellÂ­meaning public officials who may have erred in the performance of their duties but have done so without a criminal mind. Our penal laws against corruption in the government are meant to enhance, and not stifle, public service. If every mistake, error, or oversight is met with criminal punishment, then qualified individuals would be hindered in serving in the government. If we all continue to "weaponize" each misstep in governmental functions, we run the risk of losing the many good people in the government. Again, it should be underscored that while public office is a public trust, the constitutionally enshrined right to presumption of innocence encompasses all persons - private individuals or public servants alike.
+In this case, while the prosecution may have shown how procurement laws had not been strictly followed, it nonetheless failed to prove beyond reasonable doubt the elements for a violation of Section 3(e) of R.A. 3019. Evident bad faith and manifest partiality are absent, owing to the prosecution's failure to prove fraudulent and malicious intent on the part of the petitioners. Gross inexcusable negligence was likewise not proven as the prosecution was not able to show that petitioners acted with want of even slight care and conscious indifference as to the compliance with their duties.
+Having failed to prove the elements for a violation of Section 3(e) of R.A. 3019 beyond reasonable doubt, the Court reverses the conviction of petitioners.
+WHEREFORE
+, in view of the foregoing, the Court 
+RESOLVES
+ to:
+DISMISS
+ the case insofar as petitioner Edgar C. Gan is concerned, in view of his death;
+GRANT
+ the appeal. The Decision dated February 24, 2016 and Resolution dated May 13, 2016 rendered by the Sandiganbayan in Criminal Case Nos. SB-12-CRM-0241 to SB-12-CRM-0244 are hereby 
+REVERSED
+ and 
+SET ASIDE
+. Consequently, the petitioners Richard T. Martel, Allan C. Putong, Abel A. GuiÃ±ares, Victoria G. Mier, and Benjamin P. Bautista, Jr. are hereby 
+ACQUITTED
+ of the crime charged, for failure of the prosecution to prove their guilt beyond reasonable doubt. 
+Let an entry of judgment be issued immediately.
+SO ORDERED.
+Peralta, C. J.
+, Please see concurring opinion.
+Gesmundo, Hernando, Carandang, Inting, Zalameda, M. Lopez, Delos Santos, Rosario
+, and 
+J. Lopez, JJ.
+, concur.
+Perlas-Bernabe, J.
+, Please see Concurring Opinion.
+Leonen, J.
+, I dissent. See separate opinion.
+Lazaro-Javier, J.
+, Please see Separate Concurring Opinion.
+Gaerlan, J.
+, I join the dissenting of J. Leonen.
+[1]
+ 
+Rollo
+ (G.R. Nos. 224720-23), pp. 118-229.
+[2]
+ Id. at 13-54. Penned by Associate Justice Rafael R. Lagos, with Associate Justices Efren N. De La Cruz and Rodolfo A. Ponferrada concurring.
+[3]
+ Id. at 109-115.
+[4]
+ 
+Rollo
+ (G.R. Nos. 224765-68), Vol. I, pp. 10-57.
+[5]
+ 
+Rollo
+ (G.R. Nos. 224720-23), p. 362.
+[6]
+ Id. at 368.
+[7]
+ Id. at 375.
+[8]
+ Id. at 41-42. Emphas is in the original.
+[9]
+ 
+Rollo
+ (G.R. Nos. 224765-68), Vol. II, pp. 724-754. (Including attachments)
+[10]
+ 
+Rollo
+ (G.R. Nos. 224765-68), Vol. I, p. 21.
+[11]
+ 
+Rollo
+ (G.R. Nos. 224765-68), Vol. II, p. 755-790.
+[12]
+ Id. at 795-807.
+[13]
+ Id. at 796.
+[14]
+ Id. at 799.
+[15]
+ Id. at 802.
+[16]
+ Id. at 805.
+[17]
+ 
+Rollo
+ (G.R. Nos. 224720-23), p. 16.
+[18]
+ Id. at 17.
+[19]
+ Id. at 26.
+[20]
+ Id. at 390-398.
+[21]
+ 
+Rollo
+ (G.R. Nos. 224765-68), Vol. III, pp. 999-1090.
+[22]
+ Id. at 1091-1092. Penned by Associate Justice Efren N. De La Cruz, with Associate Justices Rafael R. Lagos, and Napoleon E. Inoturan concurring.
+[23]
+ 
+Rollo
+ (G.R. Nos. 224720-23), pp. 27-28.
+[24]
+ SECTION 371. 
+Procurement from Exclusive Philippine Agents or Distributors
+. - Procurement may, in the case of supplies of foreign origin, preferably be made directly from the exclusive or reputable Philippine distributors or agents, subject to the following conditions:
+(a) That the Philippine distributor has no subdealers selling at lower prices; and
+(b) That no suitable substitutes of substantially the same quality are available at lower prices.
+[25]
+ 
+Rollo
+ (G.R. Nos. 224720-23), pp. 53-54.
+[26]
+ Id. at 55-97.
+[27]
+ Id. at 101-108.
+[28]
+ 
+Rollo
+ (G.R. Nos. 224765-68), pp. 31-33.
+[29]
+ 
+Rollo
+(G.R. Nos. 224720-23), Vol. I, p. 137.
+[30]
+ Id. at 140.
+[31]
+ Id. at 144.
+[32]
+ Id. at 146-147.
+[33]
+ Id. at 153.
+[34]
+ Id. at 155.
+[35]
+ Id. at 159.
+[36]
+ Id. at 161.
+[37]
+ Id. at 166.
+[38]
+ Id. at 169.
+[39]
+ Id. at 176.
+[40]
+ Id. at 177.
+[41]
+ Id. at 182.
+[42]
+ Id. at 187.
+[43]
+ Id. at 189.
+[44]
+ Id. at 192-193.
+[45]
+ Id. at 200.
+[46]
+ Id. at 203.
+[47]
+ Id. at 216.
+[48]
+ Id. at 458-492; 
+Rollo
+ (G.R. Nos. 224765-68), Vol. III, pp. 1227-1262.
+[49]
+ 
+Rollo
+ (G.R. Nos. 224765-68), Vol. III, pp. 1239 and 1332.
+[50]
+ Id. at 1267-1289; 
+Rollo
+ (G.R. Nos. 224720-23), pp. 621-667.
+[51]
+ 
+Rollo
+ (G.R. Nos. 224720-23), p. 431.
+[52]
+ 
+Rollo
+ (G.R. Nos. 224720-23), pp. 486-488; 
+Rollo
+ (G.R. Nos. 224765-68). Vol. III, pp. 1256-1259.
+[53]
+ RULES OF COURT, Rule 45, Sec. 1.
+[54]
+ 
+De Castro v. Office of the Ombudsman
+, 810 Phil. 31, 44-45 (2017).
+[55]
+ 
+Rollo
+ (G.R. Nos. 224720-23) p. 122; 
+Rollo
+ (G.R. Nos. 224765-68), Vol. III, pp. 1282-1283.
+[56]
+ 
+Cruz v. People
+, G.R. Nos. 197142 & 197153, October 9, 2019, accessed at 
+.
+[57]
+ Id.
+[58]
+ 
+Rivera v. People
+, G.R. No. 228154, October 16, 2019, accessed at 
+.
+[59]
+ 
+Tiongco v. People
+, G.R. Nos. 218709-10, November 14, 2018, accessed at 
+.
+[60]
+ See 
+Thunder Security and Investigation Agency v. NFA
+, 670 Phil. 351 (2011).
+[61]
+ LOCAL GOVERNMENT CODE, Sec. 355.
+[62]
+ SECTION 383. 
+Implementing Rules and Regulations
+. - The Chairman of the Commission on Audit shall promulgate the rules and regulations necessary to effectively implement the provisions of this Title, including requirements as to testing, inspection, and standardization of supply and property.
+[63]
+ Note: while the Repealing Clause of R.A. 9184, 
+i.e.
+, Section 76, expressly repealed E.O. 40, E.O. 262, s. 2000, E.O. 302, s. 1996, and Presidential Decree No. 1594, Title VI, Book II of the LGC was 
+merely amended
+.
+SECTION 76. 
+Repealing Clause
+. - This law 
+repeals
+ Executive Order No. 40, series of 2001 x x x. 
+This law 
+amends
+ Title Six, Book Two of Republic Act No. 7160, otherwise known as the "Local Government Code of 1991"
+; the relevant provisions of Executive Order No. 164, series of 1987, entitled "Providing Additional Guidelines in the Processing and Approval of Contracts of the National Government"; and the relevant provisions of Republic Act No. 7898 dated February 23, 1995, entitled "An Act Providing for the Modernization of the Armed Forces of the Philippines and for Other Purposes." Any other law, presidential decree or issuance, executive order, letter of instruction, administrative order, proclamation, charter, rule or regulation and/or parts thereof contrary to or inconsistent with the provisions of this Act is hereby repealed, modified or amended accordingly. (Emphasis supplied)
+[64]
+ LOCAL GOVERNMENT CODE, Sec. 356.
+[65]
+ R.A. 9184, Sec. 10.
+[66]
+ R.A. 9184 IRR-A, Sec. 48.2.
+[67]
+ SECTION 105. 
+When Procurement from Exclusive Philippine Agent or Distributors may be Made
+. - Procurement of supplies or property of foreign origin may preferably be made directly from the exclusive or reputable Philippine distributors or agents subject to the following conditions:
+a. the Philippine distributor has no subdealers selling at lower prices; and
+b. no suitable substitutes of substantially the same quality are available at lower prices.
+Provided
+, That certification to the effect that the distributor has no subdealers selling at lower price is secured from the principal and/or exclusive distributor.
+[68]
+ COA Circular No. 92-386, Sec. 4.
+[69]
+ Transcript and Stenographic Notes (TSN) dated October 20, 2014, p. 10. 
+Rollo
+ (G.R. Nos. 224765-68), Vol. III, p. 1134.
+[70]
+ TSN dated May 25, 2014, p. 41. 
+Rollo
+ (G.R. Nos. 224765-68), Vol. I, p. 213.
+[71]
+ COA Circular No. 386-92, Sec. 4.
+[72]
+ COA Circular No. 386-92, Sec. 17 in relation to Sec. 4.
+[73]
+ 
+Rollo
+ (G.R. Nos. 224720-23), p. 362.
+[74]
+ Id. at 368.
+[75]
+ Id. at 375.
+[76]
+ 
+Rollo
+ (G.R. Nos. 224720-23), p. 158.
+[77]
+ COA Circular No. 386-92, Sec. 38.
+[78]
+ G.R. No. 238014, June 15, 2020, accessed at 
+.
+[79]
+ Id.
+[80]
+ 437 Phil. 117 (2002).
+[81]
+ Id. at 133.
+[82]
+ 
+Fonacier v. Sandiganbayan
+, 308 Phil. 660, 693 (1994).
+[83]
+ 
+Fuentes v. People
+, 808 Phil. 586, 594 (2017).
+[84]
+ 
+Fonacier v. Sandiganbayan
+, supra note 82.
+[85]
+ Supra note 80 at 130. (Italics in the original)
+[86]
+ 
+Air France v. Carrascoso
+, 124 Phil. 722, 737 (1966).
+[87]
+ 
+Reyes v. People
+, 641 Phil. 91, 104 (2010).
+[88]
+ 
+Republic v. Desierto
+, 516 Phil. 509, 516 (2006).
+[89]
+ 
+Collantes v. Marcelo
+, 556 Phil. 794 (2007).
+[90]
+ 
+Rollo
+ (G.R. Nos. 224720-23), p. 138.
+[91]
+ Id. at 169-170.
+[92]
+ 
+Rollo
+ (G.R. Nos. 224765-68), Vol. I, pp. 52-53.
+[93]
+ 
+Uriarte v. People
+, 540 Phil. 477, 494 (2006).
+[94]
+ SECTION 54. 
+Bids on Brand-Names Other Than Those Specified
+. - Whenever reference to a manufacturer's brand-name is indicated in the call for bids, it shall be intended to be descriptive, not restrictive, and shall be understood to merely indicate to prospective bidders that brand-names other than those specified, if of equal quality, may be considered, regardless of whether or not a statement to that effect is made in the tender, provided that the bidder shall give full description of his offer accompanied with catalog, literature, and/or sample. An offer guaranteeing to deliver an "equal" or "equivalent" without acceptable proof shall not be considered.
+[95]
+ 
+Rollo
+ (G.R. Nos. 224765-68), Vol. I, p. 36.
+[96]
+ Id. at 96. (Underscoring supplied)
+[97]
+ Id. at 15-16.
+[98]
+ 
+Rollo
+ (G.R. Nos. 224720-23), pp. 201-202.
+[99]
+ Article 3, Act No. 3815 as amended, otherwise known as the REVISED PENAL CODE (RPC).
+[100]
+ 
+Calimutan v. People
+, 517 Phil. 272, 289 (2006), citing LUIS B. REYES, THE REVISED PENAL CODE 33-34 (13th Ed., 1993).
+[101]
+ 
+Sistoza v. Desierto
+, supra note 80 at 122.
+[102]
+ 
+Rollo
+ (G.R. Nos. 224765-68), Vol. I, p. 100.
+[103]
+ Id. at 96.
+[104]
+ 
+Rollo
+ (G.R. Nos. 224720-23), p. 161.
+[105]
+ 
+Rollo
+ (G.R. Nos. 224720-23), p. 206.
+[106]
+ Senate Deliberations of R.A 3019 dated July 1960.
+[107]
+ BLACK'S LAW DICTIONARY 794 (9th ed. 2009).
+[108]
+ 
+Rollo
+ (G.R. Nos. 224720-23), p. 209.
+[109]
+ Id. at 152.
+[110]
+ Id. at 197.
+[111]
+ Id. at 199.
+[112]
+ 306 Phil. 266 (1994).
+[113]
+ Id. at 270, citing 
+People v. Castillo and Ocfemia
+, No. 22211-R, November 4, 1959, 56 O.G. No. 23, p. 4045.
+[114]
+ Id. at 282-283.
+[115]
+ See 
+People v. Egagamao
+, 792 Phil. 500 (2016).
+[116]
+ CONSTITUTION Art. XI, Sec. 1.
+[117]
+ CONSTITUTION, Art. III, Sec. 14(2).
+[118]
+ 
+See
+ Section 65 on 
+Offenses and Penalties
+.
+[119]
+ 806 Phil. 649 (2017). The Ombudsman found Martel, GuiÃ±ares, Mier, and Putong administratively liable, but only Martel and GuiÃ±ares appealed the Decision to the CA and eventually the Court. The Ombudsman relieved Gan of his administrative liability in view of his reelection (following the condonation doctrine) while Bautista was not included in the administrative case.
+CONCURRING OPINION
+PERALTA, C.J.:
+I concur with the 
+ponencia
+.
+Petitioners should be acquitted of the crimes charged on the ground that the prosecution failed to prove beyond reasonable doubt all the elements of Section 3(e) of Republic Act (
+R.A.
+) No. 3019.
+[1]
+The consistent pronouncements of the Court in criminal cases is that evidence adduced must be closely examined under the lens of strict judicial scrutiny. This flows from the constitutionally-enshrined principle of presumption of innocence which places on the prosecution the burden of proving that an accused is guilty of the offense charged by proof beyond reasonable doubt. Conviction must rest no less than on hard evidence showing that the accused, with moral certainty, is guilty of the crime charged. Short of these constitutional mandate and statutory safeguard - that a person is presumed innocent until the contrary is proved - the Court is left without discretion and is duty bound to render a judgment of acquittal.
+[2]
+The assailed Sandiganbayan ruling, dated February 24, 2016, in Criminal Case Nos. SB-12-CRM-0241 to SB-12-CRM-0244 found petitioners Benjamin P. Bautista, Jr. (
+Bautista
+), Richard T. Martel (
+Martel
+), Allan C. Putong (
+Putong
+), Abel A. GuiÃ±ares (
+GuiÃ±ares
+), Victoria G. Mier (
+Mier
+) and Edgar C. Gan (
+Gan
+) guilty of violating Section 3(e) of R.A. No. 3019 for which they were sentenced to suffer the indeterminate penalty of imprisonment of six (6) years and one (1) month, as minimum, to eight (8) years, as maximum, for each of the four (4) cases, with perpetual disqualification from holding office, for their involvement in the procurement of five (5) motor vehicles for the use of the Governor and Vice-Governor of Davao del Sur which did not go through competitive bidding.
+[3]
+The Sandiganbayan held that petitioners erred in relying on Section 371 of the Local Government Code (
+LGC
+), which provides for the direct purchase of goods from exclusive distributors. It specifically found Bautista and Putong guilty for acting with manifest partiality when they identified the particular brands of the subject vehicles in the Purchase Requests (
+PRs
+), while Martel, GuiÃ±ares, Mier and Gan were convicted due to their gross negligence as Bids and Awards Committee (
+BAC
+) members in arriving at the conclusion that the direct purchase of the subject vehicles was justified.
+The elements of Sec. 3(e) are the following: (1) the offender is a public officer; (2) the act was done in the discharge of the public officer's official, administrative or judicial functions; (3) the act was done through manifest partiality, evident bad faith, or gross inexcusable negligence; and (4) the public officer caused any undue injury to any party, including the Government, or gave any unwarranted benefits, advantage or preference.
+[4]
+While there is no question about the presence of the first two elements in this case, we join the 
+ponencia
+ in finding that the prosecution failed to sufficiently establish the remaining elements of the offense.
+Absence of manifest partiality, evident bad faith or gross inexcusable negligence
+ 
+Invoking Sec. 371 of the LGC and Section 54 of Commission on Audit (
+COA
+) Circular No. 92-386, petitioners assert that their act of specifying the brands of the subject motor vehicles does not constitute manifest partiality as they were merely descriptive of the specifications, performance and overall value of the vehicles
+[5]
+ and the brands specified by the requisitioners in the PRs form part of the technical specifications that would fill and satisfy the needs of the requisitioners.
+[6]
+While they erred in relying on said provision, given that it applies to call for bids, such error does not rise to the level of criminality which R.A. No. 3019 seeks to punish. Such mistake is not tantamount to manifest partiality, evident bad faith, or gross inexcusable negligence as contemplated under R.A. No. 3019 that would make petitioners liable under Sec. 3(e) thereof.
+The Anti-Graft law is clearly distinct from R.A. No. 9184,
+[7]
+ or the LGC, and they have distinct requisites for violation. A violation of one does not 
+ipso facto
+ result in the violation of the others.
+[8]
+ To rule otherwise would violate the basic tenets of due process.
+The "manifest partiality" contemplated by R.A. No. 3019 is a clear, notorious, or plain inclination or predilection to favor one side or person rather another.
+[9]
+ "Partiality" was further defined as "bias" which excites a disposition to see and report matters as they are wished for rather than as they are.
+[10]
+Mere allegation that petitioners accorded preferential treatment in favor of the companies concerned is not sufficient to prove guilt for violation of Sec. 3(e). If it were so, then we would be letting suppositions based on mere presumptions constitute proof of guilt, which is constitutionally impermissible.
+[11]
+There is also no "gross inexcusable negligence" in this case, which, defined, is that negligence characterized by want of even the slightest care, acting or omitting to act in a situation where there is a duty to act, not inadvertently but willfully and intentionally, with conscious indifference to consequences insofar as other persons may be affected.
+[12]
+ Unlike manifest bias which is committed by 
+dolo
+, gross inexcusable negligence is committed by 
+culpa
+, or performed with imprudence, negligence, lack of foresight or skill.
+[13]
+Petitioners explained that they honestly believed that their resort to direct purchase was proper. Direct purchase of supplies of foreign origin from exclusive Philippine agents or distributors is allowed under Section 371 of the LGC, subject only to certain conditions.
+[14]
+ Prior to the transactions subject of the present case, the Provincial Government already acquired seven vehicles
+[15]
+ through direct purchase and at no instance were these purchases questioned or became subject of disallowance by the COA despite being furnished copies of documents pertinent to the transactions. Petitioners sought the advice of the COA Auditor on the resort to direct purchase and since no adverse finding was issued by the COA on these previous direct purchases, they assumed that direct purchase for the vehicles subject of the present case were also in order.
+[16]
+In view of these circumstances, it cannot be said that petitioners acted with brazen and flagrant negligence that would merit conviction under Sec. 3(e) of R.A. No. 3019.
+The Court has made clear that, for there to be a violation of Sec. 3 (e), based on a breach of applicable procurement laws, one cannot solely rely on the mere fact that a violation of procurement laws has been committed. It must also be shown that the accused acted with evident bad faith, manifest partiality or gross inexcusable negligence and that the violation of the procurement laws caused undue injury to any party or gave any private party unwarranted benefits, advantage or preference.
+[17]
+Absence of unwarranted benefits, advantage or preference
+ 
+To hold a person liable for violation of Section 3(e) of R.A. No. 3019, it is required that the act constituting the offense consists of either (1) causing undue injury to any party, including the government, or (2) giving any private party any unwarranted benefits, advantage or preference in the discharge by the accused of his official, administrative or judicial functions.
+[18]
+ Petitioners are charged under the second mode.
+For one to be found guilty for giving unwarranted benefits, advantage or preference, it suffices that the accused has given unjustified favor or benefit to another in the exercise of his official, administrative or judicial functions. By "unwarranted" we mean one that is lacking adequate or official support, unjustified, unauthorized or without justification or adequate reason. "Advantage" meanwhile means a more favorable or improved position or condition, benefit, profit or gain of any kind, or benefit from some course of action. Finally, "preference" signifies priority or higher evaluation or desirability, choice or estimation above another.
+Here, the Court finds no sufficient evidence to prove that the concerned companies received unwarranted benefits, advantage or preference. There was no showing, not even allegation, that the subject vehicles were overpriced and that some form of pecuniary benefit inured to any of the petitioners. The Sandiganbayan itself noted in the assailed Decision that "there is no proof of injury to the government."
+[19]
+ Prior to the transactions subject of the herein cases, the procurement of the local government's vehicles was done through direct purchases, without any notice of defect or irregularity from the concerned agencies. This gives credence to petitioners' claim that they honestly, and m good faith, believed in the regularity of the transactions undertaken.
+Bad faith is never presumed.
+[20]
+ And in criminal cases, the accused enjoys the presumption of innocence. Indeed, one is entitled to an acquittal unless his/her guilt is shown beyond reasonable doubt. The proof of guilt must amount to a moral certainty that the accused committed the crime and should be punished. Thus, an acquittal is called for whenever the State fails to establish an accused's guilt beyond reasonable doubt.
+[21]
+As we declared in 
+Jose Tapales Villarosa v. People
+:
+[22]
+[A]n accused has in his/her favor the presumption of innocence which the Bill of Rights guarantees. Unless his/her guilt is shown beyond reasonable doubt, he/she must be acquitted. This reasonable doubt standard is demanded by the due process clause of the Constitution, which protects the accused from conviction except upon proof beyond reasonable doubt of every fact necessary to constitute the crime with which he is charged. The burden of proof is on the prosecution, and unless it discharges that burden the accused need not even offer evidence in his/her behalf, and he/she would be entitled to an acquittal. Proof beyond reasonable doubt does not, of course, mean such degree of proof as, excluding the possibility of error, produce absolute certainty. Moral certainty only is required, or that degree of proof which produces conviction in an unprejudiced mind. The conscience must be satisfied that the accused is responsible for the offense charged.
+As the evidence presented by the prosecution in this case failed to pass the test of moral certainty required to warrant petitioners' conviction, such failure of the prosecution to overcome petitioners' right to be presumed innocent entitles them to an acquittal.
+Based on these premises, I vote to 
+GRANT
+ the petition.
+[1]
+ Also known as the 
+Anti-Graft and Corrupt Practices Act
+.
+[2]
+ 
+Miranda v. Sandiganbayan, et al.
+, 815 Phil. 123, 154 (2017).
+[3]
+ 
+Rollo
+ (G.R. Nos. 224765-68, Vol. I), pp. 101-102.
+[4]
+ 
+Felipe B. Sabaldan, Jr. v. Office of the Ombudsman for Mindanao
+, G.R. No. 238014, June 15, 2020.
+[5]
+ 
+Rollo
+ (G.R. No. 224765-68, Vol. I), pp. 32-39.
+[6]
+ 
+Rollo
+ (G.R. No. 224720-23, Vol. I), p. 155.
+[7]
+ The Government Procurement Reform Act.
+[8]
+ 
+Felipe B. Sabaldan, Jr. v. Office of the Ombudsman for Mindanao, supra
+ note 4.
+[9]
+ 
+Id.
+[10]
+ 
+Simeon Gabriel Rivera, et al. v. People
+, G.R. No. 228154, October 16, 2019.
+[11]
+ 
+Id.
+[12]
+ 
+Felipe B. Sabaldan, Jr. v. Office of the Ombudsman for Mindanao, supra
+ note 4.
+[13]
+ 
+Office of the Ombudsman v. Venancio G. Santidad
+, G.R. Nos. 207154 & 222046, December 5, 2019.
+[14]
+ a) that the Philippine distributor has no subdealers selling at lower prices; and (b) that no suitable substitutes or substantially the same quality are available at lower prices.
+[15]
+ These vehicles are: Mitsubishi Strada Pick-up, Mitsubishi Adventure, Toyota Revo, and lsuzu Frontier Pick-up.
+[16]
+ 
+Rollo
+ (G.R. No. 224765-68), Vol. I, p. 98.
+[17]
+ 
+Felipe B. Saba/dan, Jr. v. Office of the Ombudsman for Mindanao, supra
+ note 4.
+[18]
+ 
+Ambil, Jr. v. Sandiganbayan, et al.
+, 669 Phil 32, 53 (2011).
+[19]
+ 
+Rollo
+ (G.R. Nos. 224765-68, Vol. I), p. 101.
+[20]
+ 
+Mahilum v. Spouses Ilano
+, 761 Phil. 334, 353 (2015).
+[21]
+ 
+Simeon Gabriel Rivera, et al. v. People, supra
+ note 10.
+[22]
+ G.R. Nos. 233155-63, June 23, 2020.
+CONCURRING OPINION
+PERLAS-BERNABE, J.:
+I concur. However, I take this opportunity to expound on the third element for a violation of Section 3 (e) of Republic Act No. (RA) 3019, in relation to its second element.
+Section 3 (e) of RA 3019 states:
+Section 3. Corrupt practices of public officers. - In addition to acts or omissions of public officers already penalized by existing law, the following shall constitute corrupt practices of any public officer and are hereby declared to be unlawful:
+x x x x
+(e) Causing any undue injury to any party, including the Government, or giving any private party any unwarranted benefit, advantage or preference in the discharge of his official administrative or judicial functions through manifest partiality, evident bad faith or gross inexcusable negligence. This provision shall apply to officers and employees of offices or government corporations charged with the grant of licenses or permits or other concessions.
+As may be gleaned above, the elements of violation of Section 3 (e) of RA 3019 are as follows: (
+a
+) that the accused must be a public officer discharging administrative, judicial, or official functions (or a private individual acting in conspiracy with such public officers); (
+b
+) that he acted with manifest partiality, evident bad faith, or inexcusable negligence; and (
+c
+) that his action caused any undue injury to any party, including the government, or giving any private party unwarranted benefits, advantage, or preference in the discharge of his functions.
+The first element pertains to the 
+status
+ of the perpetrator (
+public officer discharging administrative, judicial, or official functions or a private individual acting in conspiracy with such public officers
+); the second element refers to the 
+mode of commission
+ (
+with manifest partiality, evident bad faith, or inexcusable negligence
+); whereas the third element relates to the result of the infraction (
+his action 
+caused
+ any undue injury to any party, including the government, or giving any private party unwarranted benefits, advantage, or preference in the discharge of his functions
+). The status of the perpetrator, mode of commission and the result of the infraction, while conceptually distinct elements, must nonetheless all be proven in order to convict the accused under Section 3 (e) of RA 3019. 
+Conversely, the failure of the prosecution to prove 
+even one
+ of these three elements would result into an acquittal.
+ Jurisprudence describes the third element as follows:
+The word "unwarranted" means lacking adequate or official support; unjustified; unauthorized or without justification or adequate reason. "Advantage" means a more favorable or improved position or condition; benefit, profit or gain of any kind; benefit from some course of action. "Preference" signifies priority or higher evaluation or desirability; choice or estimation above another.
+[1]
+While the 
+ponencia
+ is correct in stating that violations of RA 3019 (and necessarily all its elements) must be grounded on graft and corruption,
+[2]
+ I deem it apt to elucidate on the distinction between the second and third elements so as not to confuse the two concepts with each other. Again, as I have stated, the second element pertains to the mode of commission, while the third element pertains to the result of the infraction.
+In this case, there were "unwarranted benefits" in favor of the car dealers from whom the vehicles were purchased since they would not have expeditiously obtained the sales of their vehicles were it not for the violations committed by the petitioners, as members of the Bids and Awards Committee. While it is true that these violations were committed by petitioners 
+in good faith
+, such disposition does not negate the fact that the dealers had gained unwarranted benefits since the proper procurement process was not observed. Case law states that "
+advantage means a more favorable or improved position or condition; benefit, profit or gain of any kind; 
+benefit from some course of action
+". In other words, the third element looks into the result, 
+i.e.
+, that one would not have obtained some profit or gain of any kind were the laws and rules correctly followed.
+Although the acts of petitioners resulted into unwarranted benefits (third element), I concur that the petitioners must be 
+acquitted
+ as the prosecution failed to prove the second element. Indeed, they should be acquitted because despite the result (
+i.e.
+, unwarranted benefits), it was not proven beyond reasonable doubt that the same was achieved through the prescribed mode of commission (with manifest partiality, evident bad faith, or inexcusable negligence).
+Overall, recognizing the proper spheres of application of the second and third elements, the existente of unwarranted benefits is not enough to convict herein petitioners under Section 3 (e) of RA 3019 if the same were not achieved through the public officer's acts committed with manifest partiality, evident bad faith, or gross negligence. The two elements are conceptually distinct; but nonetheless, both of them (including the first element) need to be present in order to be convicted for violation of Section 3 (e) of RA 3019.
+ACCORDINGLY
+, petitioners Richard T. Martel, Allan C. Putong, Abel A. GuiÃ±ares, Victoria G. Mier, and Benjamin P. Bautista, Jr. should be 
+ACQUITTED
+.
+[3]
+[1]
+ 
+Rivera v. People
+, 749 Phil. 124, 143 (2014).
+[2]
+ See 
+ponencia
+, p. 29.
+[3]
+ Meanwhile, in view of petitioner Edgar C. Gan's supervening death, the criminal case must be dismissed. See id. at 31-32.
+DISSENTING OPINION
+LEONEN, J.:
+I regret I cannot join the majority. Petitioners should not be acquitted.
+I
+Republic Act No. 3019, Sec. 3(e) reads:
+SECTION 3. Corrupt practices of public officers. - In addition to acts or omissions of public officers already penalized by existing law, the following shall constitute corrupt practices of any public officer and are hereby declared to be unlawful:
+....
+(e) Causing any undue injury to any party, including the Government, or giving any private party any unwarranted benefits, advantage or preference in the discharge of his official administrative or judicial functions through manifest partiality, evident bad faith or gross inexcusable negligence. This provision shall apply to officers and employees of offices or government corporations charged with the grant of licenses or permits or other concessions.
+To convict under Section 3(e), the prosecution must establish the following elements:
+1) 
+The accused must be a public officer discharging administrative, judicial or official functions;
+2)
+ He [or she] must have acted with manifest partiality, evident bad faith or inexcusable negligence; and
+3)
+ That his [or her] action caused undue injury to any party, including the government, or gave any private party unwarranted benefits, advantage or preference in the discharge of his functions.
+[1]
+ (Citation omitted)
+It is undisputed that petitioners former Governor Benjamin P. Bautista, Jr. (Bautista), Provincial Accountant Richard T. Martel (Martel), General Services Officer Allan C. Putong (Putong), Provincial Treasurer Abel A. GuiÃ±ares (GuiÃ±ares), and Provincial Budget Officer Victoria G. Mier (Mier), and 
+Sangguniang Panlalawigan
+ Member Edgar G. Gan (Gan) were members of the Provincial Bids and Awards Committee when they committed the offense.
+[2]
+[t must be shown that their actions caused "undue injury to any party, including the government, or gave any private party unwarranted benefits, advantage or preference[,]"
+[3]
+ and that the crime was committed through: "manifest partiality, evident bad faith, or gross inexcusable negligence."
+[4]
+ The presence of any of these three in the performance of official functions is critical.
+Albert v. Sandiganbayan
+[5]
+ differentiates these modes of committing a violation:
+There is "manifest partiality" when there is a clear, notorious, or plain inclination or predilection to favor one side or person rather than another. "Evident bad faith" connotes not only bad judgment but also palpably and patently fraudulent and dishonest purpose to do moral obliquity or conscious wrongdoing for some perverse motive or ill will. "Evident bad faith" contemplates a state of mind affirmatively operating with furtive design or with some motive or self-interest or ill will or for ulterior purposes. "Gross inexcusable negligence" refers to negligence characterized by the want of even the slightest care, acting or omitting to act in a situation where there is a duty to act not inadvertently but willfully and intentionally, with conscious indifference to consequences insofar as other persons may be affected.
+[6]
+ (Citations omitted)
+In its assailed decision, the Sandiganbayan found Bautista and Putong manifestly partial, while Martel, GuiÃ±ares, Mier, and Gan were held grossly negligent in their procurement of vehicles for the governor's use.
+II
+Basic wisdom underlies the requirement of a public bidding, which is done to curb the waste of public funds. Policy considerations of the procurement rules include its aim to promote transparency in the acquisition of goods and services in the government,
+[7]
+ and encourage competitiveness "by extending equal opportunity" to eligible and qualified parties to participate in public bidding.
+[8]
+ Laws on procurement serve as a "system of accountability where both the public officials ... and the private parties that deal with government are, when warranted by circumstances, investigated and held liable for their actions."
+[9]
+Republic Act No. 9184
+[10]
+ is categorical: "[r]eference to brand names shall not be allowed."
+[11]
+ This prohibition aims to promote fair and equal competition among bidders by preventing any undue preference on certain goods.
+[12]
+From an examination of the evidence, the Sandiganbayan found the following:
+The 
+Purchase Request
+ signed by Bautista for the two units of 
+Toyota SRS
+ (Exhibit I) dated January 24, 2003, shows at the column Item Description the typewritten words: NOTE: Direct Purchase, and handwritten on the Purchase Order (Exhibit G) dated January 29, 2003, across Mode of Procurement: DIRECT PURCHASE, as well as stamped DIRECT PURCHASE at the bottom of the column Description. The 
+Abstract of Canvass
+ (Exhibit J) is stamped with the words "DIRECT PURCHASE" on the front of the form below the column Name and Description of Article and typewritten under the portion for JUSTIFICATION OF AWARD: SOLE DISTRIBUTOR. The 
+Abstract
+ form was signed by the accused Bautista, GuiÃ±ares, Martel, Putong, Mier and Gan.
+For the 
+Mitsubishi L300 EXCEED DX 2500 DIESEL
+, the 
+Purchase Request
+ (Exhibit RR) dated February 18, 2003 signed by Bautista, is stamped on the front with "DIRECT PURCHASE" and the Purpose for the request specified as "For the use of the Governor". On the 
+Purchase Order
+ dated February 26, 2003 is typewritten the letters opposite the portion Mode of Procurement: "D.P." The 
+Abstract of Canvass
+ (Exhibit SS) is also stamped Direct Purchase and under the Justification of Award: EXCLUSIVE DISTRIBUTOR, and signed by all the accused.
+For the two units of 
+Ford Ranger
+, only one 
+Purchase Request
+ dated July 15, 2003 signed by Bautista was used, designated as PR No. 2752, but one is marked as Exhibits MMM and the other Exhibit CCCC. It indicates under the column Item Description: "Vehicle preferably Ford Ranger XLT 4x4 M/T" at an estimated cost of P2,000,000.00 for both, and below it the words: DIRECT PURCHASE. The Purpose section indicated: "For the use of Governor Benjamin P. Bautista, Jr. and Vice Governor Romualdo C. Garcia". The same exhibits show different stamped entries, aside from the basic typewritten entries and the signatures of officials involved in the processing thereof.
+For the vehicle reserved for accused Bautista, Purchase Order No. 2231 (Exhibit KKK), dated July 29, 2003, for one unit Ford Ranger in the amount of P1,000,000.00 was used. It indicates "Mode of Procurement: Public Bidding," but stamped on the document are the words "DIRECT PURCHASE." The 
+DIRECT PURCHASE AWARD SHEET
+ (Exhibit LLL), naming FORD DAVAO as supplier, contains the following statement: "The Bids and Awards Committee hereby award the above item/s to FORD DAVAO being the Manufacturer/Exclusive or Sole Distributor of the said item/s." The award sheet was signed by all the accused.
+The vehicle reserved for Vice Governor Garcia makes reference to a Purchase Order/PO No. 2230 (Exhibit DDDD), dated July 21, 2003, for the amount of P1,218,000.00. The Mode of Procurement section was left blank, but stamped thereon are the words "DIRECT PURCHASE." The DIRECT PURCHASE AWARD SHEET (Exhibit EEEE) contains the same statement that it awards the purchase of one (1) unit vehicle "preferably Ford Ranger XLT 4x4 M/T" for use of Vice-Gov. Romualdo C. Garcia to Ford Davao, "being the Manufacturer/ Exclusive or Sole Distributor" thereof. The award sheet was signed by all the accused.
+These five (5) vehicles were delivered to the Davao del Sur Provincial Government, and after inspection and acceptance by the concerned officials, check payments were issued to Toyota Davao. Ford Davao and Kar Asia, based on the disbursement vouchers admitted by the parties.
+[13]
+Petitioners are members of the Bids and Awards Committee specifically tasked to conduct public bidding for acquisition of goods and services. With the Purchase Requests bearing specific vehicle brands at the outset, it is readily apparent that petitioners were manifestly partial and grossly negligent in the performance of their official functions. There is glaring preference to acquire the Toyota Hilux, Ford Ranger, and Mitsubishi L300 which the requisitioner, the then Governor, specifically named.
+III
+I agree with the majority that factual circumstances must be established to prove manifest pm1iality or gross negligence which would warrant a conviction under Section 3(e). While the majority finds reasonable doubt as to petitioners' guilt for graft and corrupt acts, I wish to underscore the findings and the procedural antecedents in the case of 
+Office of the Ombudsman-Mindanao v. Martel
+[14]
+ which it cited.
+In 
+Ombudsman-Mindanao
+, this Court ruled on the administrative liabilities of petitioners Martel and GuiÃ±ares involving the same factual milieu:
+Under the laws, the Bids and Awards Committee shall, among others, conduct the evaluation of bids, and recommend award of contract to the head of the procuring entity. It shall ensure that the procuring entity abides by the standard set forth by the procurement law. In the LGUs, the committee on awards shall decide the winning hids on procurement.
+Accordingly, as members of the PBAC, the respondents were not bound by the recommendation of the PGSO to determine th e mode of procurement. 
+As an independent committee, the PBAC was solely responsible for the conduct of the procurement and could not pass the buck to others.
+ As correctly stated by the CA, the PBAC had control over the approval of the mode of procurement and the respondents could not wash their hands from liability thereof. 
+Their role in choosing the mode of procurement was clearly an active action, and not a passive one as the respondents would want to convey.
+A scrutiny of the records would show that the respondents committed other violations of the procurement laws and regulations. The Purchase Request, with a stamp of direct purchase on its face, stated the specific brand of the vehicles to be purchased, instead of the technical specifications needed by the procuring entity, in clear violation of Section 24 of COA Circular No. 92-386. Section 18 of [Republic Act No. 9184] plainly provides that reference to brand names for the procurement of goods shall not be allowed. The underlying policy behind this prohibition is to prevent undue preference on certain goods or products and ensure fair and equal competition among the bidders. In spite of the glaring display of the vehicles' brand names on the purchase request, the PBAC still approved the same. The CA observed that 
+the PBAC itself made the bidding impossible because it pre-determined the suppliers as it indicated the preferred brand of the vehicles
+.
+Another violation committed by the respondents was that they allowed the governor of Davao del Sur to purchase and use more than one vehicle, which was evidently contrary to COA Circular No. 75-6.
+ The said provision dictates that a government official or employee is not allowed to use more than one service vehicle, to wit:
+III. Officials entitled to use of more than one motor vehicle - With the exception of the President, no government official and employee authorized to use any vehicle operated and maintained from the funds appropriated in the decree shall be allowed to use more than one such motor vehicle; PROVIDED, HOWEVER that the Chief Justice of the Supreme Court may be allowed to use two motor vehicles.
+Notwithstanding these glaring violations of the procurement laws and the illegal approval of the vehicles' procurement by the PBAC, Martel and GuiÃ±ares 
+actively participated in the acquisition
+ of the same by signing the disbursement vouchers as Provincial Accountant and Provincial Treasurer, respectively. Hence, due to the acts of the respondents, the government disbursed public funds for illegally procured service vehicles.
+[15]
+ (Emphasis supplied, citations omitted)
+Here, there were evident badges of fraud which we simply cannot ignore:
+In this case, respondents Martel and GuiÃ±ares, as members of the PBAC, being the Provincial Treasurer and the Provincial Auditor, respectively, committed the following transgressions:
+1. They failed to conduct a public or competitive bidding as a mode of procurement.
+2. 
+Without any basis in law
+, they allowed the resort to negotiated procurement in violation of Sections 35, 48, 50 and 53 of R.A. No. 9184: Sections 356, 366 and 369 of R.A. No. 7160; and COA Circular No. 92-386.
+3. In the direct purchase of the vehicles, they specified the brand name of the units they wanted to procure, instead of technical descriptions only, which violated Section 18 of R.A. No. 9184.
+4. They approved the purchase of more than one service vehicle for the use of the governor, in violation of COA Circular No. 75-6.
+5. They signed and issued the disbursement vouchers for the vehicles despite their illegal procurement.
+[16]
+Not only did they resort to direct purchase without any proper justification, the members of the Bids and Awards Committee even named a specific make and model in their purchase request to preclude other vehicles. They also sanctioned the use of excess service vehicle for the governor.
+The majority vacates the finding of the Sandiganbayan that:
+[n]ot once in the purchase of the five (5) vehicles involved, belonging to different brands and on various dates, did the accused even attempt, i.e., take steps, such as make a call for bids bad publication or giving notice thereof, among others, as starting point in the procurement of the subject vehicles. Such disregard of a very fundamental requirement in public procurement is the most incriminating aspect of these cases which makes all their excuses and/or justification legally untenable.
+[17]
+Instead, it gives credence to petitioners' claims that they were "honest, although mistaken" in assuming they can directly acquire their preferred make and model
+[18]
+ and that they allegedly conducted studies that justified their resort to direct purchase of specific vehicles.
+[19]
+I disagree that petitioners may be exculpated from their criminal liability for what the majority deems an honest mistaken belief. I maintain my position in 
+Villarosa v. People
+,
+[20]
+ that high ranking public officials must not be haphazardly excused upon claims of ignorance of the law, especially when private individuals cannot generally plead this:
+[B]asic is the rule that ignorance of the law excuses no one from compliance.
+We cannot exculpate an individual from liability for an illicit act when he or she pleads ignorance of what the law is. We have all the more reason not to condone a local chief executive's illegal and unauthorized exercise of power, especially when it is because of some patently erroneous personal view that he has the authority. 
+It must he underscored that as a local chief executive, petitioner implements the law in his municipality's territorial jurisdiction.
+[21]
+ (Emphasis supplied)
+Further, the two studies petitioners harp on having conducted, which the majority accepts, remain unsubstantiated claims before this Court.
+Petitioners insist on having conducted a study of the previous procurement of vehicles which resulted to a direct purchase.
+[22]
+ Regardless of its veracity, it cannot operate to excuse the petitioners' failure to perform their basic function of initiating public bidding as members of the Bids and Awards Committee. If anything, the study's import is that petitioners knew of the availability of vehicles other than the Toyota Hilux, Ford Ranger, and Mitsubishi L300 which they could have procured for the same purpose. Wrongful practices that went unregulated cannot serve to exculpate subsequent offenders.
+The majority also favorably adopts as fact petitioners' asset1ion that another purported study resulted in their findings that:
+a. The Ford Ranger was efficient for transporting goods and passengers on rough roads.
+b. The Toyota Hilux was efficient for transporting goods in well-paved roads.
+c. The Mitsubishi L300 was efficient in transporting passengers in well-paved roads.
+d. Toyota Davao, Ford Davao, and Kar Asia (for Mitsubishi) were the exclusive dealers of their respective brands of vehicles, which were all of foreign origin. There were no other sub-dealers selling the same type of vehicles at lower prices.
+e. There were no other brands offering the same kind of vehicles at lower prices. The Subject Motor Vehicles had no reasonable substitutes of the same kind and quality available at lower prices that would adequately cater to the needs of the Province.
+f. Although Isuzu and Suzuki sold pick-up trucks, the specifications and overall performance of these trucks fall short of the stringent requirements of the Province. Moreover, the dealers of these brands, along with other dealers in the Province, were not interested in joining any public bidding for the purchase of the Subject Motor Vehicles as participating in a public bidding was considered to entail a lot of expenses which would not be a worthy investment for a dealer.
+[23]
+Even disregarding that these are self-serving, bare claims, these findings hardly demonstrate an exercise of due diligence. That petitioners' preferred make and model of vehicles can efficiently transport passengers do not mean much in the context of procurement rules which requires equal and fair competition among various bidders. In reality, there were no "stringent requirements of the Province"
+[24]
+ to speak of, considering that no technical description was provided for the vehicles petitioner Bautista had specifically requested. Hence, I respectfully maintain that petitioners' claim that "on the basis of their study, this would fill and satisfy the needs of the requisitioner"
+[25]
+ is without basis.
+While the majority concedes that "there appears to be a degree of preference for a specific brand, a preference for the brand's performance record and reliability," it finds that this is net a manifest partiality which showed petitioners' ulterior motive or purpose.
+[26]
+However, evidence that petitioner Bautista "persisted and insisted on sticking to this preferred brand," or a showing that there is malice in his preference are not needed.
+[27]
+ Neither is proof of overpricing required. These are not elements of the offense. Petitioner Bautista's contention that "[t]he Toyota, the Ford, the Mitsubishi and other motor vehicle brands have been with us for years. Their performance is common knowledge and it is normal to have a brand preference as far as motor vehicles,"
+[28]
+ misses the point.
+The dealers of the requested vehicles derived unwarranted benefit, advantage, and preference from the transaction, since that they did not undergo the rigors that typically accompany the sale of goods and services to the government. Borrowing from petitioners' words, these are unwarranted because the transaction "lacked adequate or official support; unjustified; unauthorized or without justification or adequate reason."
+[29]
+ Their profit 
+per se
+ from the sale may not be unwarranted, since they reportedly delivered the vehicles. However, as it was in blatant disregard of procurement laws, the transaction was highly irregular at the outset and should not have transpired.
+To recall, the vehicles were for the use of petitioner Bautista as the then Governor. He was not an unwitting government official who mistook an important government process, but one who was mandated to execute laws in his province as the local chief executive. He was the requisitioner, and the vehicles which he specifically named the make and model of, were for his beneficial use. The claim that he and the dealers did not gain unwarranted benefit, advantage or preference from this anomalous transaction to the prejudice of the government's interest is inconceivable.
+Petitioners Martel, GuiÃ±ares, and Mier were grossly negligent for "acting or omitting to act in a situation where there is a duty to act."
+[30]
+ Clearly, the blatant disregard of their duties was not inadvertent but intentional.
+I appreciate the majority's conclusion:
+Hence, the resort to direct contracting would have been legally permissible only if there were no other vehicles that may have served the general need of the Governor and Vice Governor for pick-up trucks aside from the specific vehicle brands and makes purchased.
+In asserting that there are no other suitable vehicles that satisfy the abovementioned purpose petitioners primarily relied on certifications issued by the three suppliers of the subject vehicles, 
+i.e.
+, Toyota Davao, Kar Asia, and Ford Davao.
+However, at most, these certifications merely state that the aforesaid car dealers are the exclusive dealers of Toyota Hilux, Mitsubishi L300 Exceed, and Ford Davao. These certifications do not purport to show whatsoever that there are no other suitable and more affordable vehicle brands and makes that may serve as viable service vehicles of the Governor and Vice Governor.
+[31]
+The petitioners could not have validly procured suitable vehicle substitutes of the same quality at a lesser price since they were already set on a specific make and model. As 
+Martel
+ underscored, referring to brands at an early stage such as the Purchase Request, pre-determined the suppliers, which essentially precluded bidding.
+[32]
+ The Bids and Awards Committee itself made it impossible for there to be other offers for a substitute, when it specifically named the vehicle it was procuring.
+In a recent case penned by Chief Justice Diosdado Peralta, we ruled that the former Chair of Presidential Commission on Good Government is guilty of Republic Act No. 3019, Section 3(e) in light of findings that he leased vehicles which likewise did not undergo public bidding.
+[33]
+Performing duties imbued with public interest, petitioners as members of the Bids and Awards Committee betrayed their mandate when they facilitated bidding by brand and a direct purchase of preferred vehicles. They patently failed to discharge their duties in clear violation of procurement laws.
+The Constitution mandates the public officer's "utmost responsibility, integrity, loyalty, and efficiency"
+[34]
+ in the performance of duties. Procurement laws, specifically the prohibition against naming brands in the purchase of goods, aid us in guarding public coffers. Acquitting public officers who were Bids and Awards Committee members, when there were patent violations manifesting partiality and gross inexcusable negligence, renders their functions inutile.
+ACCORDINGLY
+, I vote to 
+DENY
+ the Petitions and 
+AFFIRM
+ the assailed Decision. Respondents Benjamin P. Bautista, Jr., Richard T. Martel, Allan C. Putong, Abel A. GuiÃ±ares, and Victoria G. Mier should be held liable for four counts of violation of Republic Act No. 3019, Section 3(e).
+[1]
+ 
+Reyes v. People
+, G.R. No. 237172, September 18. 2019,  [Per J. Leonen, Third Division] citing 
+Soriano v. Marcelo
+, 610 Phil. 72, 80 (2009) [Per J. Carpio, First Division].
+[2]
+ Ponencia, p. 3.
+[3]
+ 
+Reyes v. People
+, G.R. No. 237172, September 18, 2019,  
+ [Per J. Leonen, Third Division].
+[4]
+ 
+Fonacier v. Sandiganbayan
+, 308 Phil. 660, 693 (1994) [Per J. Vitug, En Banc].
+[5]
+ 599 Phil. 439 (2009) [Per J. Carpio, First Division].
+[6]
+ Id. at 450-451.
+[7]
+ Republic Act No. 9184 (2003), sec. 3(a).
+[8]
+ Republic Act No. 9184 (2003), sec. 3(b).
+[9]
+ Republic Act No. 9184 (2003), sec. 3(d).
+[10]
+ Government Procurement Reform Act.
+[11]
+ Republic Act No. 9184 (2003), sec. 18.
+[12]
+ 806 Phil. 649 (2017) [Per J. Mendoza, Second Division].
+[13]
+ 
+Rollo
+ (G.R. No. 224720-23), pp. 43-44. 
+People v. Martel
+, Criminal Case Nos. SB-12-CRM-0241 to SB-12-CRM-0244, February 24, 2016. pp. 29-30.
+[14]
+ 806 Phil. 649 (2017) [Per J. Mendoza, Second Division].
+[15]
+ Id. at 660-662.
+[16]
+ Id. at 663.
+[17]
+ 
+Rollo
+ (G.R. No. 224720-23), pp. 113.
+[18]
+ Ponencia, p. 24.
+[19]
+ Id. at 24-25.
+[20]
+ G.R. Nos. 233155-63, June 23, 2020,  
+ [Per C.J. Peralta, En Banc].
+[21]
+ Id.
+[22]
+ Ponencia, pp. 27-29.
+[23]
+ Id. at 25-26.
+[24]
+ Id. at 26.
+[25]
+ Id.
+[26]
+ Id.
+[27]
+ Id. at 25.
+[28]
+ Id. at 25.
+[29]
+ Id. at 29.
+[30]
+ 
+Albert v. Sandiganbayan
+, 599 Phil. 439, 451 (2009) [Per J. Carpio, First Division].
+[31]
+ Ponencia, pp. 17-18.
+[32]
+ 
+Ombudsman-Mindanao v. Martel
+, 806 Phil. 649 (2017) [Per J. Mendoza, Second Division].
+[33]
+ 
+Sabio v. Sandiganbayan
+, G.R. Nos. 233853-54, July 15, 2019,  
+ [Per CJ. Peralta, First Division].
+[34]
+ CONST., art. XI, sec. 1.
+CONCURRING OPINION
+LAZARO-JAVIER, J.:
+I 
+concur
+ in the 
+result
+ and a 
+sizeable portion
+ of the 
+more important doctrines
+ enunciated in the 
+ponencia
+ of the learned Justice Alfredo Benjamin S. Caguioa.
+Elements of Section 3(e), Republic Act No. 3019 (RA 3019)
+ 
+One.
+ In the 
+context
+ of a violation of the relevant procurement statutes [Sections 356, 366, and 371 of the 
+Local Government Code
+ (LGC)] and Sections 4 and 10 of the 
+Government Procurement Reform Act
+ (GPRA), the elements of 
+Section 3(e) of RA 3019
+ are as follows: (1) the accused's violation of procurement laws 
+was done with
+ evident bad faith, manifest partiality, or gross inexcusable negligence; and (2) the accused's violation of procurement laws 
+caused
+ undue injury to any party or gave any private party unwarranted benefits, advantage or preference.
+[1]
+Malice as element of evident bad faith, manifest partiality and gross inexcusable negligence
+ 
+Two.
+ I agree with the 
+ponencia
+ that the modes of 
+evident bad faith
+ and 
+manifest partiality
+ must be characterized by 
+malice
+ or 
+criminal intent
+. For better or for worse, this has been how jurisprudence has expressly defined 
+evident bad faith
+, and of late, in 
+Sabaldan Jr. v. Office of the Ombudsman for Mindanao
+,
+[2]
+ has made this state of mind 
+also
+ an 
+express
+ element of 
+manifest partiality
+.
+To be sure, I see 
+no reason to distinguish
+ between evident bad faith and manifest partiality so far as this mental element is concerned. 
+Manifest partiality
+ cannot simply mean an open or clear inclination to favor another, because as humans we are faultlessly a fan of some than others, which without malice would be unjust to punish criminally. Further, we 
+cannot remove
+ malice as an element of 
+manifest partiality
+ since 
+even
+ the 
+third mode
+ of committing Section 3(e), RA 3019, 
+gross inexcusable negligence
+, is 
+culpa
+ which by its 
+context
+ is actually a form of 
+malicious omission
+.
+In the context of a violation of the procurement statutes, there is 
+malice
+ or 
+criminal intent
+ when the violation is 
+done with a vicious and malevolent purpose or agenda
+ or 
+dolus malus
+.
+To illustrate, the crime of physical injuries in 
+The Revised Penal Code
+ 
+cannot exist
+ without 
+dolus malus
+:
+[3]
+As an act that is 
+mala in se
+, the existence of malicious intent is fundamental, since injury arises from the mental state of the wrongdoer - 
+iniuria ex affectu facientis consistat
+. If there is no criminal intent, the accused cannot be found guilty of an intentional felony. Thus, in case of physical injuries under the [RPC], there must be a 
+specific 
+animus iniuriandi
+ or 
+malicious intention to do wrong against the physical integrity or well-being of a person, so as to incapacitate and deprive the victim of certain bodily functions
+. Without proof beyond reasonable doubt of the required 
+animus iniuriandi
+, 
+the overt act of inflicting physical injuries 
+per se
+ merely satisfies the elements of freedom and intelligence in an intentional felony
+. The 
+commission of the act does not, in itself, make a man guilty
+ unless 
+his intentions are
+.
+[4]
+Like the crime of physical injuries, the consummation of Section 3(e) demands 
+two criminal intents
+ - the 
+general
+ criminal intent and the 
+specific
+ criminal intent. Where a woman slaps a male suitor, the 
+general
+ criminal intent of 
+slapping
+ the suitor is 
+presumed
+ from the perpetration of such act. But to constitute physical injuries, there must also be the 
+specific
+ intent to 
+injure
+ him. This specific criminal intent may be 
+inferred
+ from the facts or circumstances 
+contextualizing
+ the slap, and if proved beyond reasonable doubt, is 
+the same
+ as the 
+dolus malus
+.
+Violations of procurement provisions per se not probative of criminal intent
+ 
+Three.
+ A violation of a procurement provision 
+per se
+ 
+does not necessarily give rise
+ to either a 
+general
+ criminal intent or a 
+specific
+ criminal intent. It all depends upon the specific procurement violation committed. This is 
+because not all violations
+ of procurement provisions are 
+criminal
+ in nature. For instance, here, the 
+wrong
+ use of the 
+direct purchasing
+ exception to the general rule of a 
+public bidding
+ and the 
+wrong
+ reference to 
+brand names
+ in the purchase documents are 
+not crimes
+ or 
+offenses
+ though perhaps they may give rise to 
+administrative
+ or 
+civil
+ liabilities. Hence, in the latter examples, it would 
+take more than the violations themselves
+ to prove 
+dolus malus
+ or even just a 
+general criminal intent
+ - for 
+malus dolus
+, facts or circumstances
+ or 
+statutory language
+ from which to infer from the violations an 
+intent to cause fraud
+ upon the government or its coffers or 
+to commit or further graft and corrupt practices
+ will be 
+necessary
+, while for 
+general criminal intent
+, we will have to 
+require
+ a 
+statute criminalizing
+ the 
+mere erroneous use even if in good faith
+ of any of the exceptions to public bidding or the 
+mere erroneous reference sans bad faith
+ to brand names in purchase documents.
+As in the present case, 
+violations of a procurement provision
+ may constitute the 
+predicate act
+ for a charge under Section 3(e) of RA 3019. This however 
+does not mean
+ that the specific violations 
+would already prove by themselves
+ the first element of Section 3(e). As stated, we would 
+require more
+ to ensure a successful prosecution. This is 
+acutely true
+ here since 
+(i)
+ the 
+wrong
+ use of the 
+direct purchasing
+ exception to the general rule of a 
+public bidding
+ and the 
+wrong
+ reference to 
+brand names
+ in the purchase documents are 
+not
+ even crimes or offenses, and more importantly, 
+(ii)
+ the 
+first element
+ of Section 3(e) itself 
+demands
+ proof of 
+dolus malus
+.
+No evidence of criminal intent
+Three.
+ There is 
+nothing
+ from which we may infer 
+dolus malus
+ from the specific violations of the procurement statutes referred to in this case. 
+Neither
+ the LGC 
+nor
+ the GRPA characterizes the 
+mere commission
+ of any of the violations as presumptively 
+dolus malus
+. There are also 
+no facts
+ or 
+circumstances
+ from which to infer this 
+specific criminal intent
+. The subject violations 
+do not even
+ connote 
+general criminal intent
+ because these violations are 
+not
+ defined or penalized as 
+criminal
+ acts.
+The 
+wrong use
+ of 
+brand names
+ - specifically, the specification of preference for two (2) units of Toyota Hilux 4x4 SR5, one (1) unit of Mitsubishi L300 Exceed DXX2500 Diesel and two (2) units of Ford Ranger XLT 4x4 - in the purchase documents was cited in the Dissent of the learned Justice Marvic Mario Victor F. Leonen as 
+conclusive proof of 
+dolus malus
+.
+On the other hand, petitioners 
+objected
+ to their conviction, arguing that the brand names were used as mere benchmarks of the relevant characteristics and/or performance requirements of 
+pick-up trucks for general use
+ that their office needed. They 
+even went to the extent
+ of telling the Sandiganbayan in open court that all they had envisioned purchasing were vehicles for 
+general use as pick-up trucks
+.
+I am 
+not too naive to believe
+ petitioners' claims that the 
+specified brand names
+ were 
+mentioned only
+ as 
+benchmarks
+ of relevant characteristics or performance requirements. They are 
+more sophisticated
+ 
+and
+ 
+discerning
+ than what they would want to project. They are 
+the type
+ who would 
+not
+ refer to toothpastes as Colgate, refrigerators as Frigidaire, sodas as Coca Cola, rubber shoes as Adidas, photocopiers as Xerox, 8-track players as Pioneer, passenger jeepneys as Sarao, Asian utility vehicles as Ford Fiera, computers as IBM, wristwatches as Seiko, or jeans as Levis. Of course, petitioners, especially petitioner Bautista, 
+specifically wanted
+ Toyota Hilux 4x4 SR5, Mitsubishi L300 Exceed DXX2500 Diesel and Ford Ranger XLT 4x4. They 
+knew what specifically appealed
+ to their taste, what they thought would to them be not only 
+comfortable
+ and 
+useful
+ but more so 
+gutsy
+ and 
+beautifully rugged
+.
+Still, I 
+do not find
+ these 
+specific
+ choices 
+consciously
+ chosen by petitioners to be 
+indicative
+ of 
+dolus malus
+.
+Vehicles
+ are purchased not only because of their 
+utilitarian value
+. If these were the only consideration - 
+only the general need for moving around
+ - we would already be inundated with fleets upon fleets of low-cost even second-hand government vehicles. Truth to tell, vehicles are 
+chosen
+ for their 
+over-all performance, durability, after-service assurances, freebies
+, and 
+comfort
+, which would 
+most likely be at par
+ with every major vehicle and major car producer and distributor, 
+but also
+ for the 
+X-factor
+ and 
+appeal
+ they bring to the table.
+Would there 
+really
+ be 
+suitable substitutes
+ for 
+vehicles
+ when 
+suitable substitutes
+ have been 
+overbroadly defined
+ as articles "which would serve 
+substantially the same purpose
+ or produce 
+substantially the same results
+ as the brand, type, or make of article originally desired or requisitioned"?
+But what factors should be included in and excluded from the 
+determination
+ of 
+the same purpose or the same results
+? Would a 
+sense of respectability and dignity
+ be a factor in determining 
+the same purpose or the same results
+? Would a reclining seat inside a 
+Sarao jeepney
+ be serving 
+substantially the same purpose
+ or producing 
+substantively the same results
+ as a reclining seat inside a 
+Mazda CX-30
+ or a 
+Toyota Alphard
+? The fact is that 
+choices of vehicles
+ would depend 
+not just
+ on utility and price 
+but also
+ on the ooze of attraction from its grills, the ruggedness of its style, the brand appeal they each carry, and so much more imponderables.
+In the end, it would be 
+unjust to jail
+ public servants simply because they acted humanly 
+but not maliciously
+. If they did 
+not
+ profit from the procurement violations or did 
+not
+ allow others to 
+unwarrantedly
+ profit from government coffers, if the 
+government receives value for value
+ as this is defined by market forces, there would be 
+no 
+dolus malus
+ and 
+no violation
+ of 
+Section 3(e)
+ of 
+RA 3019
+.
+I 
+can hardly reconcile
+ the claim that 
+procurement standards
+ are 
+sacrosanct
+ and 
+worth protecting
+ and 
+regulating
+, 
+yet
+ the procurement statutes 
+have not criminalized deviations
+ from their standards. This fact alone 
+should signal strongly
+ that such 
+deviations per se
+ do 
+not
+ give rise to criminal liabilities under other statutes since they 
+do not
+ by themselves prove 
+dolus malus
+. These 
+deviations
+ do 
+not
+ presume 
+general
+ criminal intent because merely committing them is 
+not even
+ a criminal act.
+Here, 
+other than
+ the explicit brand preference, there are 
+no
+ other facts or circumstances from which to infer 
+dolus malus
+. On the contrary, brand preference for some specialized products like vehicles may 
+actually be warranted
+ and 
+encouraged
+ by both 
+societal
+ and 
+market values
+. Further, 
+by itself
+, brand preference is not a crime. It has 
+not
+ been criminalized in our jurisdiction.
+No evidence of malicious omission
+Four.
+ I also find 
+no
+ evidence of 
+malicious omission
+ by petitioners. For sure, they 
+intentionally omitted
+ compliance with the requirements of 
+direct purchasing
+. Their belated obtention of certifications supports the claim that they 
+knew for sure
+ what 
+direct purchasing
+ called for and when it was 
+appropriate to resort
+ to this exception. However, I am unable to find 
+malice
+ in what they have done. The 
+standing question
+ is, 
+did they omit compliance to pursue a specific result that is fraudulent or corrupt, and if yes, what was this specific fraudulent or corrupt result
+? There is simply 
+no evidence
+ of such 
+malice
+ in petitioners' 
+deliberate non-compliance
+ with the requisite procedures and documentation.
+No evidence of injury to the Government or a private party, no evidence of unwarranted benefits and advantage to the dealers of the specifically preferred vehicles
+ 
+Five.
+ I agree that the Government and any private party were not injured by the decision to 
+directly purchase
+ the brand-specified vehicles. The Government received value for its money. 
+No
+ private party ever complained of being denied a business or the right to bid. Jurisprudence
+[5]
+ has consistently held:
+x x x Unlike in actions for torts, 
+undue injury in Sec. 3(e) cannot be presumed even after a wrong or a violation of a right has been established
+. Its existence must be proven as one of the elements of the crime. In fact, the causing of undue injury, or the giving of any unwarranted benefits, advantage or preference through manifest partiality, evident bad faith or gross inexcusable negligence constitutes the very act punished under this section. Thus, it is required that the 
+undue injury be specified, quantified and proven to the point of moral certainty
+.
+In jurisprudence, 
+"undue injury" is consistently interpreted as "actual damage."
+ 
+Undue
+ has been defined as "
+more than necessary
+, not proper, [or] illegal;" and 
+injury
+ as "
+any wrong or damage done to another
+, either in his person, rights, reputation or property [; that is, the] invasion of any legally protected interest of another." 
+Actual damage
+, in the context of these definitions, is akin to that in civil law.
+In turn, 
+actual or compensatory damages
+ is defined by Article 2199 of the Civil Code as follows:
+Art. 2199. Except as provided by law or by stipulation, one is entitled to an adequate compensation only for such pecuniary loss suffered by him as he has duly proved. Such compensation is referred to as actual or compensatory damages.
+It 
+naturally follows
+ that 
+the rule that should likewise be applied in determining undue injury is that in determining actual damages
+, the court 
+cannot rely on mere assertions, speculations, conjectures
+ or 
+guesswork
+, but 
+must depend on competent proof
+ and on the 
+best evidence obtainable
+ regarding 
+specific facts
+ that could afford some 
+basis for measuring compensatory or actual damage
+.
+....
+Complainant's testimony regarding her 
+family's financial stress was inadequate
+ and 
+largely speculative
+. 
+Without giving specific details
+, she made only 
+vague references
+ to the fact that her four children were all going to school and that she was the breadwinner in the family. She, however, 
+did not say that she was unable to pay their tuition fees
+ and the 
+specific damage brought by such nonpayment
+. The fact that 
+the "injury" to her family was unspecified or unquantified does not satisfy the element of undue injury
+, as akin to actual damages. As in civil cases, actual damages, if not supported by evidence on record, cannot be considered.
+In the present case, petitioner claims that the 
+form of injury
+ he suffered from the act of Garcia in referring his case to the DOJ is the 
+resultant delay in the resolution of his Complaint
+ against Palad. 
+However, other than such assertion, petitioner failed to adduce evidence of the actual loss or damage
+ he suffered by reason of the delay. While it is not necessary that a specific amount of the damage be proven with absolute certainty, 
+there must be some reasonable basis by which the court can measure it
+. Here, petitioner utterly failed to support his bare allegation of undue injury
+However, I do 
+not agree
+ that the dealers of the 
+directly purchased
+ vehicles did 
+not
+ get 
+benefits
+ and 
+advantage from the direct purchase
+. A sale is still a sale, a business is appreciated precisely because business was consummated. The question is 
+whether
+ the benefits and advantage from the direct purchase were 
+unwarranted
+.
+I do 
+not
+ believe that the benefits and advantage received by the dealers of the preferred brand names were 
+unwarranted
+. To be 
+so
+, we have to ask 
+another question
+ - if the procurement provisions were 
+not
+ violated, would the sale or business or transaction 
+not have
+ pushed through? If the answer is yes, the sale or business or transaction would 
+not
+ have been consummated, then the benefits or advantage would be 
+unwarranted
+. However, if the answer is in the negative, that it 
+could have
+ pushed through, the benefits or advantage was 
+not unwarranted
+ or at least there 
+would have been reasonable doubt
+ about whether the benefits or advantage were 
+unwarranted
+.
+Here, given the 
+nature
+ of the items to be purchased - vehicles - it was 
+not improbable
+, or was 
+indeed all too probable
+, that even if the procurement provisions on direct purchasing were followed, the 
+selected vehicles
+ would have been 
+the same vehicles
+ that would have been bought. The 
+result
+ in the end would have been a 
+difference without any distinction
+ from the situation we have now in the present case. This is because the 
+nature
+ of vehicles is that they are 
+really brand-specific
+. A Toyota, a Ford, a Mitsubishi, have 
+features inherent only to these brands
+. A 
+reasonably prudent person
+ would 
+not
+ shop for a vehicle 
+without reference to the brand name
+ and 
+with reference solely to its utility
+ and 
+price
+. To 
+claim otherwise
+ would simply be forging a scenario 
+contrary to common logic
+ and 
+human experience
+.
+Villarosa v. People not on all fours with the facts in the case at bar
+ 
+Six.
+ I reiterate my stand in 
+Villarosa v. People
+[6]
+ that the same was 
+wrongly decided
+, 
+viz
+.:
+There can be no good faith where the circumstances point to the necessary mental element of the offense charged - manifest partiality, evident bad faith or inexcusable negligence. As noted, our case law has already settled the legal impact of petitioner's feigned ignorance of the utter lack of power to issue extraction permits. Petitioner gave out extraction permits repeatedly, albeit he had no authority to do so under the clear and unequivocal provision of Section 138 of the Local Government Code, Section 43 of the Philippine Mining Act, and Provincial Ordinance No. 2005-004. As a result, petitioner's unlawful act benefited and gave advantage to private parties that used the unduly permits to illegally extract resources. Despite petitioner's actual or at least strongly presumed knowledge of his lack of power to do so, he disputed, nay breaded the plain and categorical language of the Local Government Code, the Philippine Mining Act, and the Provincial Ordinance No. 2005-004. His actions manifest partiality, evident bad faith or inexcusable negligence.
+In 
+Villarosa
+, petitioner there was 
+several times overruled
+ about his asserted authority to issue extraction permits. 
+Several times, too, he ignored
+ the overruling of his issuance. His acts 
+gave enormous benefits
+ to contractors. These 
+benefits were unwarranted
+ - 
+had he followed the law on the proper authority to issue the extraction permits, he would not have been able to issue these permits and the favored contractors would not have been favored after all
+. These glaring facts in 
+Villarosa
+ make it an 
+unworthy precedent
+ to be followed here. The facts are 
+different
+; these facts 
+distinguish
+ one from the other.
+In sum, I concur in the result and vote to acquit petitioners.
+[1]
+ 
+Sabaldan Jr. v. Office of the Ombudsman for Mindanao
+, G.R. No. 238014, June 15, 2020.
+[2]
+ G.R. No. 238014, June 15, 2020.
+[3]
+ US Legal.com at 
+https://definitions.uslegal.com/d/dolus-malus/
+ (last accessed January 7, 2021): "
+Dolus malus
+ is a Latin phrase which means "
+bad or evil deceit
+." It refers to a 
+fraudulent design or intent
+; an 
+unjustifiable deceit
+. In short it is 
+the evil design
+ with which an act is accomplished 
+to the injury of another
+; or it may be 
+the evil design
+ with which 
+an act is omitted
+ that ought to be done."
+[4]
+ 
+Jabalde v. People
+, 787 Phil. 255, 273 (2016) quoting 
+Villareal v. People
+, 680 Phil. 527 (2012).
+[5]
+ 
+Alvarez v. People
+, 692 Phil. 89 (2012); 
+Guadines v. Sandiganbayan
+, 665 Phil. 563, 577 (2011); 
+Soriano v. Marcelo
+, 597 Phil. 308, 317-319 (2009); 
+Uriarte v. People
+, 540 Phil. 477, 497 (2006); 
+Santos v. People
+, 520 Phil. 58, 71 (2006); 
+Llorente Jr. v. Sandiganbayan
+, 350 Phil. 820, 837-839 (1998).
+[6]
+ G.R. Nos. 233155-63, June 23, 2020. 
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

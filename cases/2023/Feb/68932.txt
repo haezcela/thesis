@@ -1,0 +1,709 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 247918, February 01, 2023 ]
+
+
+CBK POWER COMPANY LIMITED, 
+PETITIONER
+, VS. COMMISSIONER OF INTERNAL REVENUE, 
+RESPONDENT
+.
+D E C I S I O N
+
+
+
+
+SINGH, J.:
+
+
+This is a Petition for Review on 
+Certiorari
+ under Rule 45 of the Rules of Court filed pursuant to Rule 16, Section 1 of the Revised Rules of the Court of Tax Appeals by CBK Power Company Limited. The Petition came with a Motion to Refer the Instant Petition to the Honorable Supreme Court 
+En Banc
+, dated July 25, 2019 challenging the Court of Tax Appeals 
+En Banc
+ Decision,
+[1]
+ dated February 20, 2019, and the Court of Tax Appeals 
+En Banc
+ Resolution,
+[2]
+ dated June 27, 2019 in the case of 
+CBK Power Company Limited v. Commissioner on Internal Revenue
+, docketed as CTA Case No. 8784. The Court of Tax Appeals 
+En Banc
+ Decision and Resolution denied CBK Power Company Limited's Petition for Review,
+[3]
+ dated August 10, 2017, and affirmed the CTA Special First Division Decision,
+[4]
+ dated February 23, 2017, and the Resolution,
+[5]
+ dated July 11, 2017. The CTA Special First Division Decision and Resolution, in turn, denied CBK's claim for refund in the amount of PHP 50,060,766.08 representing alleged unutilized or excess creditable input taxes on CBK's domestic purchases of goods other than capital goods, importation of goods other than capital goods, domestic purchases of services, payments for services rendered by non-residents, purchases of capital goods not exceeding PHP 1,000,000.00 for the period of January 1, 2012 to December 31, 2012, all attributable to zero-rated sales for the same period of January 1, 2012 to December 31, 2012, under Sections 108 (B)(7) and 112(A) of the National Internal Revenue Code of 1997 (
+NIRC
+), as amended.
+[6]
+The Facts
+CBK Power Company Limited (
+CBK
+) is a partnership duly organized and existing under Philippine law.
+[7]
+ It is a special purpose entity intended to engage in (a) the design, financing, construction, testing, commissioning, operation, maintenance, management, and ownership of Kalayaan 
+II
+ pump storage hydroelectric power plant, the New Caliraya Spillway, and other assets to be located in the Province of Laguna; and (b) the rehabilitation, upgrade, extension, testing, commissioning, operation, maintenance, and management of the Caliraya, Botocan, and Kalayaan 
+I
+ hydroelectric power plants and their related facilities located in the Province of Laguna. CBK is a registered value added tax (
+VAT
+) entity with the Bureau of Internal Revenue (
+BIR
+).
+[8]
+On September 20, 2000, CBK entered into a Second Accession Undertaking with the National Power Corporation (
+NPC
+), Industrias Metalurgicas Pescarmona S.A. (
+IMPSA
+), and CBK Power Corporation. Through the Second Accession Undertaking, CBK became a party to the Build-Rehabilitate-Operate-Transfer (
+BROT
+) Agreement, dated November 6, 1998. CBK undertook to rehabilitate, construct, operate, and maintain the Caliraya, Botocan, and Kalayaan hydroelectric power plants and other civil structures for the purpose of generating electricity for NPC. NPC, in turn, obligated itself to pay CBK recovery fees, operation and maintenance fees, and other amounts specified in the BROT Agreement.
+[9]
+In connection with this, CBK entered into an agreement denominated as a Turnkey Contract, dated August 18, 2000, with IMPSA Construction Corporation. Under this contract, IMPSA Construction Corporation was obligated to undertake the "design, engineering, procurement, supply of all plant and materials, rehabilitation, construction, commissioning, testing, completion and handover of such power plants, together with the civil structures, access roads and other works as specified in the BROT Agreement, on a fixed price, turnkey basis."
+[10]
+CBK filed with the BIR its monthly VAT declarations and original quarterly VAT returns for the first, second, third, and fourth quarters for calendar year (
+CY
+) 2012 on April 15, 2012, July 25, 2012, October 24, 2012, and January 24, 2013, respectively. CBK also amended its monthly VAT declarations and quarterly VAT returns for the same period of January 1, 2012 to December 31, 2012. CBK filed the amended quarterly VAT returns for the four quarters of CY 2012 on October 18, 2013.
+[11]
+On November 18, 2013, CBK filed with the BIR Large Taxpayers Service, Revenue District Office No. 121, an administrative claim for refund in the amount of PHP 50,060,766.08. CBK claimed that this amount represented unutilized or excess creditable input taxes paid or incurred on its domestic purchases of goods and services, all attributable to zero-rated sales for January 1, 2012 to December 31, 2012.
+[12]
+ Along with its claim for refund, CBK submitted documents in support of its administrative claim in accordance with Section 112 of NIRC and its implementing rules and regulations.
+[13]
+The BIR did not act on CBK's administrative claim for refund. Thus, on March 21, 2014, CBK filed its Petition for Review against the Commissioner of Internal Revenue (
+CIR
+) before the Court of Tax Appeals (
+CTA
+) Special First Division.
+[14]
+The CIR filed its Answer with Special Affirmative Defenses on April 14, 2014 (
+Answer
+).
+[15]
+ In its Answer, the CIR raised the following arguments: (a) CBK's administrative claim for refund is subject to administrative routinary investigation by the BIR;
+[16]
+ (b) CBK's claim for refund of the amount of PHP 50,060,766.08 was not properly documented;
+[17]
+ (c) CBK has the burden of proof to establish its right to a refund;
+[18]
+ (d) CBK must prove that it filed its refund claim within the prescriptive period provided under Section 112 of the NIRC;
+[19]
+ (e) CBK must prove that it paid the alleged VAT input taxes for the periods stated and that its sale of services is subject to VAT at 0%;
+[20]
+ (f) CBK must prove that its alleged unutilized input VAT has not been applied against any of its output tax liabilities;
+[21]
+ (g) CBK has not submitted complete documents to substantiate its administrative refund claim;
+[22]
+ and (h) CBK's failure to submit documents to support its administrative refund claim makes its administrative claim 
+pro forma
+. Since a valid administrative claim should have been filed before resorting to judicial action, CBK's 
+pro-forma
+ administrative claim fails to meet this pre-requisite and the CTA is without jurisdiction over CBK's claim.
+[23]
+During the trial, CBK and the CIR submitted this sole issue for the CTA Special First Division's resolution:
+Whether or not Petitioner is entitled to a cash refund/VAT refund in the amount of Fifty Million Sixty Thousand Seven Hundred Sixty Six & 08/100 Pesos (P50,060,766.08), allegedly representing unutilized or excess creditable input taxes on Petitioner's domestic purchases of goods other than capital goods, importations of goods other than capital goods, domestic purchases of services, payments for services rendered by non-residents, purchases of capital goods not exceeding P1 million, and purchase of capital goods exceeding P1 million, for the period January 1, 2012 to December 31, 2012, all attributable to zero-rated sales for the same period January 1, 2012 to December 31, 2012, pursuant to Sections 108(8)(7) and 112(A) of the National Internal Revenue Code (NIRC) of 1997, as amended.
+[24]
+After CBK completed its presentation of evidence, the CIR manifested that it will no longer be presenting any witness and manifested that there is no report of investigation.
+[25]
+The Ruling of the CTA Special First Division
+The CTA Special First Division ruled that CBK seasonably filed its administrative and judicial claims for refund.
+[26]
+ Further, it also found that CBK's sales of power through a renewable source qualifies for VAT zero-Â­rating under Section 108(B)(7) of the NIRC.
+[27]
+However, the CTA Special First Division ultimately concluded that CBK is not entitled to a refund because its "purchases of local supply of goods, properties and services needed for the development, construction and installation of its plant facilities are also zero-rated in accordance with Section 15(g) of RA No. 9513 or the Renewable Energy Act of 2008."
+[28]
+According to the CTA Special First Division, Section 15 of Republic Act No. 9513 or the Renewable Energy Act of 2008 (
+Republic Act No. 9513
+) provides that all renewable energy developers (
+RE Developers
+) are entitled to zero-rated VAT on its (a) "purchases of local supply of goods, properties and services needed for the development, construction and installation of its plant facilities;"
+[29]
+ and (b) "the whole process of exploring and developing renewable energy sources up to its conversion into power, including but not limited to the services performed by subcontractors and/or contractors."
+[30]
+The CTA Special First Division ruled that the law is clear that no output VAT should be shifted to RE Developers such as CBK:
+[I]n connection with their purchases of goods and services needed for the development, construction, and installation of their plant facilities as well as to the whole process of exploration and development of RE sources up to its conversion into power. Conversely, no input VAT shall be paid by RE Developers on these transactions. There being no input VAT to be paid by RE Developers, it necessarily follows that they are not entitled to refund, or issuance of TCC from the said purchases.
+[31]
+The CTA Special First Division concluded that considering that CBK is an RE Developer, it "could not have paid input taxes on its purchases of goods and services from VAT-registered suppliers because such purchases being zero-rated, that is, no output tax was paid by the suppliers, no input tax was shifted or passed on to petitioner [CBK]."
+[32]
+Moreover, the CTA Special First Division cited Revenue Memorandum Circular (RMC) No. 42-2003 (
+RMC No. 42-2003
+), dated July 15, 2003 which states that in instances where the sales transactions of suppliers and exporters-Â­buyers which are entitled to zero-rated VAT are nonetheless reported as taxable, "the claim for input tax credit by the exporter-buyer should be denied without prejudice to the claimant's right to seek reimbursement of the VAT paid, if any, from its supplier."
+[33]
+ Further, it also invoked the ruling of the Court in 
+Coral Bay Nickel Corporation v. Commissioner of Internal Revenue
+[34]
+ (
+Coral Bay
+) where the Court said that where a supplier shifts the VAT onto a buyer who is entitled to VAT zero-rating, the proper party to claim a tax refund is still the supplier who is statutorily liable to pay the VAT and not the buyer.
+[35]
+The dispositive portion of the CTA Special First Division Decision states:
+WHEREFORE
+, premises considered, the Petition for Review is 
+DENIED
+ for lack of merit.
+[36]
+The CTA Special First Division denied CBK's Motion for Reconsideration, dated March 10, 2017, in the CTA Special First Division Resolution.
+[37]
+The Ruling of the CTA En Banc
+CBK filed its Petition for Review before the CTA 
+En Banc
+. In its Petition for Review, CBK argued that the question of whether Republic Act No. 9513 applies to it was never litigated before the CTA Special First Division and was not even identified as an issue in the case. Moreover, CBK asserted that the incentives under Republic Act No. 9513 are only available to RE Developers which are registered with the Department of Energy (
+DOE
+). CBK claimed that the CIR did not allege in its pleadings, let alone prove in open court, that CBK is a DOE-registered RE Developer. CBK represented that it is not, in fact, registered with the DOE.
+[38]
+The CTA 
+En Banc
+ agreed with the CTA Special First Division that CBK's administrative and judicial claims were timely filed and that CBK's sales of electricity generated through hydropower are subject to zero-rated VAT.
+[39]
+The CTA 
+En Banc
+ also agreed with the CTA Special First Division that Republic Act No. 9513 applies to CBK. The CTA 
+En Banc
+ explained:
+Based on the foregoing discussions, CBK cannot seek a refund from the BIR of its unutilized input taxes because under RA No. 9513, its purchases of local supply of goods, properties and services needed for the development, construction and installation of its plant facilities as well as the whole process of exploring and developing renewable energy sources up to its conversion into power are zero-rated. The CTA Division is correct in its conclusion "that since no input VAT should be paid by petitioner, it is not, therefore entitled to a refund, or issuance of TCC from its purchases of goods and services needed for the development, construction and installation of their plant facilities as well as to the whole process of exploration and development of RE sources up to its conversion into power."
+[40]
+The dispositive portion of the CTA 
+En Banc
+ Decision (
+Assailed Decision
+), dated February 20, 2019 states:
+WHEREFORE
+, premises considered, the Petition for Review filed by CBK Power Limited is 
+DENIED
+ for lack of merit. Accordingly, the February 23, 2017 Decision and the July 11, 2017 Resolution of the CTA Special First Division in CTA Case No. 8784 are 
+AFFIRMED
+.
+SO ORDERED.
+[41]
+Associate Justice Catherine T. Manahan (
+Associate Justice Manahan
+) wrote a Concurring and Dissenting Opinion,
+[42]
+ dated February 20, 2019, where she stated that while she agrees with the finding of the CTA 
+En Banc
+ that CBK's administrative and judicial claims were timely filed and that CBK is engaged in zero-rated or effectively zero-rated sales under Section 108(B)(7) of the NIRC, she disagreed with the CTA 
+En Banc
+'s conclusion that CBK is not entitled to a tax refund.
+[43]
+ Associate Justice Manahan argued that the case should be resolved on the basis of whether CBK sufficiently established that it met all the requisites for entitlement to a tax refund under the NIRC. Moreover, Associate Justice Manahan explained that if the records show that output and input VAT were indeed paid by CBK and its local suppliers, the proper recourse should be for CBK to file a refund claim with the government instead of directing it to seek redress from its suppliers.
+[44]
+ Thus, Associate Justice Manahan stated that the case should be decided "on the basis of the factual veracity of the evidence presented by both parties instead of denying the claim for refund on the ground relied upon by the majority."
+[45]
+The CTA 
+En Banc
+ nonetheless denied CBK's Motion for Reconsideration,
+[46]
+ dated March 15, 2019, in its Resolution (
+Assailed Resolution
+), dated June 27, 2019.
+CBK filed this Petition for Review on 
+Certiorari
+ under Rule 45 of the Revised Rules of Court with Motion to Refer the Instant Petition to the Honorable Supreme Court 
+En Banc
+ (
+Petition for Review
+),
+[47]
+ dated July 25, 2019, seeking the reversal of the Assailed Decision and Assailed Resolution.
+CBK argues that it based its refund claim on Sections 108(B)(7), 112(A) and (C) of the NIRC and not on Republic Act No. 9513. It was the CTA Special First Division, and not any of the parties, which raised the issue of whether CBK is covered by the VAT incentives under Republic Act No. 9513 for the first time in the CTA Special First Division Decision. The CIR should have presented evidence on this point during the trial but failed to do so. The issue was also never raised, much less litigated, before the CTA Special First Division. Thus, CBK asserts that the CTA 
+En Banc
+ erred when it said that CBK improperly alleged without proof that it was not covered by Republic Act No. 9513 for the first time on appeal. CBK could not have raised this argument earlier, let alone present evidence to support this argument, because it was never at issue during the trial.
+[48]
+Further, CBK asserts that the CTA Special First Division, and the CTA 
+En Banc
+ in affirming the CTA Special First Division, deprived CBK of due process when they ruled on the question of whether Republic Act No. 9513 applies to CBK when this issue was never raised and litigated during trial and no evidence was presented to show that CBK is in fact a DOE-registered RE Developer.
+[49]
+Moreover, CBK alleges that Republic Act No. 9513 and its implementing rules and regulations, DOE Circular No. DC2009-05-0008 (
+DOE IRR
+), require an RE Developer to register with the DOE in order to be entitled to VAT at zero rate. Further, Republic Act No. 9513 and the DOE IRR also require suppliers of DOE-registered RE Developers to register with the DOE in order for their transactions to be subject to VAT at zero rate. Neither CBK nor its suppliers are registered with the DOE and thus, their transaction are subject to VAT at 12%. Moreover, CBK's suppliers did, in fact, pass on the input VAT to CBK. CBK also insists that it does not enjoy any other VAT exemption under any other law which would effectively subject its sales or supply for services at 0% VAT.
+[50]
+CBK further asserts that the Court's ruling in 
+Coral Bay
+ and Q-3/A-3 of BIR RMC No. 42-2003 do not apply to it since 
+Coral Bay
+ and BIR RMC No. 42-2003 pertain specifically to Philippine Economic Zone Authority (
+PEZA
+)-registered entities.
+[51]
+Finally, CBK claims that it established that it is entitled to a refund by presenting substantial evidence.
+[52]
+CBK also prayed that the Petition for Review should be referred to the Court 
+En Banc
+ on the following grounds: (a) the case involves novel questions of law;
+[53]
+ (b) the subject matter has a huge financial impact on businesses or affects the welfare of a community; and (c) the case is of sufficient importance and merits the 
+En Banc
+'s attention.
+[54]
+In its Comment (
+Comment
+),
+[55]
+ dated November 13, 2020, the CIR argues that Republic Act No. 9513 is clear that "all purchases of local supply of goods, properties, and services needed for the development, construction, and installation of plant facilities by RE developers" are free of VAT, "or specifically, subject to the VAT rate of 0%. In application, the same local purchases of the petitioner, as a (sic) RE Developer, is free of VAT."
+[56]
+ Moreover, the CIR asserts that Republic Act No. 9513 unequivocally requires all RE Developers to register with the DOE.
+[57]
+ Thus, according to the CIR, CBK itself is responsible for its failure to register with the DOE and it is this failure to register that is the main reason why its local suppliers shifted the output VAT to it. Given this, the State should not be compelled to incur loss arising from CBK's inaction.
+[58]
+The Issues
+Should the case be referred to the Court 
+En Banc
+?
+Is CBK entitled to avail of the VAT incentive under Republic Act No. 9513?
+Is CBK entitled to a tax refund?
+The Court's Ruling
+Preliminarily, the Court resolves to deny CBK's motion to refer this case to the Court 
+En Banc
+. The referral of a case to the Court 
+En Banc
+ is discretionary on the part of the Court. In this case, the Court finds no compelling reason that would warrant the referral of the case to the 
+En Banc
+. As will be discussed below, the resolution of the substantive issues in this case requires a fairly straightforward application of the relevant law and regulations.  
+ 
+CBK is not entitled to the fiscal incentives under Republic Act No. 9513 because it has not complied with the requirements for entitlement to such fiscal incentives under the law
+ 
+The Court emphasizes that there is no dispute that CBK's administrative and judicial claims for tax refund were timely filed. There is similarly no question that CBK's sales of electricity generated through hydropower are subject to 0% VAT in accordance with Section 108(B)(7) of the NIRC.
+[59]
+The core of the dispute in this case is whether CBK is entitled to a tax refund in the amount of PHP 50,060,766.08 representing unutilized or excess creditable input VAT paid or incurred by CBK in its domestic purchases of goods other than capital goods, importations of goods other than capital goods, domestic purchases of services, payments for services rendered by non-residents, purchases of capital goods not exceeding PHP 1,000,000.00, and purchases of capital goods exceeding PHP 1,000,000.00 for the period of January 1, 2012 to December 31, 2012, which are all attributable to zero-rated sales for the period of January 1, 2012 to December 31, 2012. In ruling that CBK is not entitled to a tax refund, the CTA 
+En Banc
+ agreed with the CTA Special First Division that the aforementioned sales are subject to zero-rated VAT because CBK is an RE Developer and is, thus, covered by the tax incentives which Republic Act No. 9513 grants to all RE Developers, without exception. The CTA 
+En Banc
+ disagreed with CBK's contention that CBK is not entitled to zero-rated VAT for its transactions because it and its suppliers did not register with the DOE. For the CTA 
+En Banc
+, this registration is not a pre-requisite for entitlement to the tax incentives under Republic Act No. 9513.
+Thus, the key to resolving this case is determining whether an RE Developer's registration with the DOE is a pre-requisite for entitlement to the VAT incentive provided by Republic Act No. 9513 such that an RE Developer's decision not to register will mean that its transactions will be subject to 12% VAT. The Court rules that it is.
+Section 15 of Republic Act No. 9513 states in part:
+SECTION 15. Incentives for Renewable Energy Projects and Activities. â 
+RE Developers of renewable energy facilities
+, including hybrid systems, in proportion to and to the extent of the RE component, for both power and non-power applications, 
+as duly certified by the DOE
+, in consultation with the BOI, shall be entitled to the following incentives:
+x  x  x
+(g) Zero Percent Value-Added Tax Rate â The sale of fuel or power generated from renewable sources of energy such as, but not limited to, biomass, solar, wind, hydropower, geothermal, ocean energy and other emerging energy sources using technologies such as fuel cells and hydrogen fuels, shall be subject to zero percent (0%) value-added tax (VAT), pursuant to the National Internal Revenue Code (NIRC) of 1997, as amended by Republic Act No. 9337.
+All RE Developers shall be entitled to zero-rated value-added tax on its purchases of local supply of goods, properties and services needed for the development, construction and installation of its plant facilities.
+This provision shall also apply to the whole process of exploring and developing renewable energy sources up to its conversion into power, including, but not limited to, the services performed by subcontractors and/or contractors.
+[60]
+Further, Sections 25 and 26 of Republic Act No. 9513 provide:
+SECTION 25. Registration of RE Developers and Local Manufacturers, Fabricators and Suppliers of Locally-Produced Renewable Energy Equipment. â RE Developers and local manufacturers, fabricators and suppliers of locally-produced renewable energy equipment shall register with the DOE, through the Renewable Energy Management Bureau. 
+Upon registration, a certification shall be issued to each RE Developer and local manufacturer, fabricator and supplier of locally-Â­produced renewable energy equipment to serve as the basis of their entitlement to incentives provided under Chapter VII of this Act.
+SECTION 26. Certification from the Department of Energy (DOE). â 
+All certifications required to qualify RE developers to avail of the incentives provided for under this Act shall be issued by the DOE through the Renewable Energy Management Bureau.
+The DOE, through the Renewable Energy Management Bureau shall issue said certification fifteen (15) days upon request of the renewable energy developer or manufacturer, fabricator or supplier: 
+Provided, That the certification issued by the DOE shall be without prejudice to any further requirements that may be imposed by the concerned agencies of the government charged with the administration of the fiscal incentives abovementioned
+.
+[61]
+It is fundamental that where the law is clear and free from any ambiguity, "there is no room for interpretation or construction. There is only room for application."
+[62]
+ When the provisions of a law are clear, plain, and free from ambiguity, they must be given their literal meaning and applied without any interpretation.
+[63]
+Section 15 of Republic Act No. 9513 states that RE Developers pertain to those which are duly certified by the DOE. Moreover, Sections 25 and 26 provide that RE Developers, local manufacturers, fabricators, and suppliers of locally-produced renewable energy equipment who register with the DOE shall be issued a certification by the Renewable Energy Management Bureau. This certification shall serve as basis for RE Developers to avail of the incentives identified under Republic Act No. 9513, including VAT at zero rate.
+It is also worth noting that the second paragraph of Section 26 categorically states that the certification issued by the Renewable Energy Management Bureau shall be "without prejudice to any further requirements that may be imposed by the concerned agencies of the government charged with the administration of the fiscal incentives abovementioned." It was, therefore, incorrect for the CTA 
+En Banc
+ to conclude that the mere fact that an entity is an RE Developer automatically entitles such entity to the incentives provided in Republic Act No. 9513. The law is clear that apart from the registration requirement imposed under Sections 15, 25, and 26, concerned government agencies tasked with administering the incentives provided under Republic Act No. 9513 can impose additional requirements.
+Further, Section 33 of Republic Act No. 9513 directed the DOE, as the government agency tasked with its implementation, to promulgate the law's implementing rules and regulations as the government agency primarily tasked with its implementation.
+[64]
+ Pursuant to this, the DOE promulgated the DOE IRR. The DOE IRR is replete with categorical statements making registration with the DOE a requirement to avail of the incentives under Section 15 of Republic Act No. 9513.
+Part III, Rule 5, Section 13(G) of the DOE IRR reads:
+SECTION 13. Fiscal Incentives for Renewable Energy Projects and Activities. â 
+DOE-certified existing and new RE Developers of RE facilities
+, including Hybrid Systems, in proportion to and to the extent of the RE component, for both Power and Non-Power Applications, shall be entitled to the following incentives:
+xxx                          xxx                          xxx
+G. Zero Percent Value-Added Tax Rate
+The following transactions/activities shall be subject to zero percent (0%) value-added tax (VAT), pursuant to the National Internal Revenue Code (NIRC) of 1997, as amended by Republic Act No. 9337:
+(a) Sale of fuel from RE sources or power generated from renewable sources of energy such as, but not limited to, biomass, solar, wind, hydropower, geothermal, ocean energy, and other emerging energy sources using technologies such as fuel cells and hydrogen fuels;
+(b) Purchase of local goods, properties and services needed for the development, construction, and installation of the plant facilities of RE Developers; and
+(c) Whole process of exploration and development of RE sources up to its conversion into power, including, but not limited to, the services performed by subcontractors and/or contractors.
+The DOE, BIR and DOF shall, within six (6) months from issuance of this IRR, formulate the necessary mechanisms/guidelines to implement this provision.
+[65]
+Further, Part III, Rule 5, Section 18 states:
+SECTION 18. Conditions for Availment of Incentives and Other Privileges. â
+A. Registration/Accreditation with the DOE
+For purposes of entitlement to the incentives and privileges under the Act, existing and new RE Developers, and manufacturers, fabricators, and suppliers of locally-produced RE equipment shall register with the DOE, through the Renewable Energy Management Bureau (REMB).
+ The following certifications shall be issued:
+(1) DOE Certificate of Registration â issued to an RE Developer holding a valid RE Service/Operating Contract.
+For existing RE projects, the new RE Service/Operating Contract shall pre-terminate and replace the existing Service Contract that the RE Developer has executed with the DOE subject to the Transitory Provision in Rule 13, Section 39.
+The DOE Certificate of Registration shall be issued immediately upon award of an RE Service/Operating Contract covering an existing or new RE project or upon approval of additional investment.
+Any investment added to existing RE projects shall be subject to prior approval by the DOE.
+(2) DOE Certificate of Accreditation â issued to RE manufacturers, fabricators, and suppliers of locally-produced RE equipment, upon submission of necessary requirements to be determined by the DOE, in coordination with the DTI.
+Part III, Rule 5, Section 18(C) is even more categorical:
+C. Certificate of Endorsement by the DOE
+RE Developers, and manufacturers, fabricators, and suppliers of locally-produced RE equipment shall be 
+qualified to avail of the incentives
+ provided for in the Act 
+only after securing a Certificate of Endorsement from the DOE
+, through the REMB, 
+on a per transaction basis
+.
+The imposition of the foregoing requirements is further explained in the DOE IRR. Specifically, Part III, Rule 5, Section 18(C) requires the DOE to issue a set of guidelines for the determination of whether an RE Developer is entitled to registration to avail of the incentives. The DOE IRR provides that the guidelines shall identify the criteria which would make an RE Developer entitled to fiscal incentives under the law, such as an RE Developer's compliance with statutory obligations and directives, reportorial requirements, and remittance of government shares and payment of applicable financial obligations.
+Stated more simply, the DOE, pursuant to its power to implement Republic Act No. 9513, imposes various criteria for an RE Developer to qualify for registration to avail of the fiscal incentives. To reiterate, it is not the mere fact that an entity is an RE Developer that makes such an entity entitled to the fiscal incentives under Republic Act No. 9513. In addition to the registration requirement expressly provided in Republic Act No. 9513, the DOE, pursuant to its power under Section 26 of the law, also has the authority to provide for a set of criteria which would qualify an RE Developer for registration in order to avail of the fiscal incentives. Moreover, the DOE IRR also requires RE Developers and manufacturers, fabricators, and suppliers of locally-produced RE equipment to register with the Board of Investments (
+BOI
+) as a condition for entitlement to the fiscal incentives under Republic Act No. 9513.
+[66]
+It is therefore clear error to conclude that all RE Developers are entitled to the fiscal incentives granted by Republic Act No. 9513. The law, as enforced through the DOE IRR, is categorical that RE Developers must meet certain standards and must register with the DOE before it can be considered as an RE Developer duly entitled to fiscal incentives.
+To be sure, implementing rules and regulations, promulgated by administrative agencies tasked to enforce a particular law, are not necessarily binding upon the Court. The Court has the ultimate authority to determine the validity of implementing rules and regulations. However, in the absence of any showing that such implementing rules and regulations go beyond the language and intent of the law that it seeks to enforce or that they violate any other law or rule or are manifestly erroneous,
+[67]
+ such rules and regulations, which constitute an administrative agency's contemporaneous interpretation of the law, carries persuasive value. It is well settled that an administrative agency's contemporaneous interpretation of the law that it is duty bound to enforce deserves great weight.
+[68]
+There is no showing in this case that the DOE IRR is invalid, goes beyond Republic Act No. 9513, or is manifestly erroneous. Thus, the DOE's contemporaneous interpretation of Republic Act No. 9513, and particularly the requirement of registration with the DOE before an RE Developer can avail of the fiscal incentives under the law, is persuasive upon this Court.
+In this regard, Part III, Rule 5, Section 13(G) of the IRR also provides that the BIR, along with the DOE and the BOI, shall formulate the mechanism for RE Developers to avail of the fiscal incentives under Republic Act No. 9153. Further, Part III, Rule 5, Section 18(D) directs the BIR to promulgate revenue regulations governing the grant of fiscal incentives. On June 22, 2022, the BIR promulgated Revenue Regulations No. 7-2022 on Tax Incentives Under the Renewable Energy Act of 2008 and the Policies and Guidelines for the Availment Thereof (
+RR No. 7-2022
+). Section 3 of RR No. 7-2022 states in part:
+SECTION 3. REQUIRED CERTIFICATIONS/ACCREDITATIONS FROM APPROPRIATE GOVERNMENT AGENCIES FOR THE AVAILMENT OF THE TAX INCENTIVES â RE developers and manufacturers, fabricators, and suppliers of locally-produced RE equipment shall 
+secure the certifications/accreditations listed hereunder before any incentive provided for in the Act [Republic Act No. 9513) may be availed of
+.
+[69]
+Consistent with the DOE IRR, Section 3 lists the following certifications which must be obtained before an RE Developer can avail of the fiscal incentives under Republic Act No. 9153: DOE Certificate of Registration, DOE Certificate of Accreditation, Certificate of Endorsement by the DOE, Registration with the BOI, and Certificate of Income Tax Holiday Entitlement.
+[70]
+ Moreover, the BIR clarifies in RR No. 7-2022:
+Accordingly, local suppliers/sellers of goods properties, and services of duly-registered RE developers should not pass on the 12% VAT on the latter's purchases of goods, properties and services that will be used for the development, construction and installation of their power plant facilities. This includes the whole process of exploring and developing renewable energy sources up to its conversion into power, including but not limited to the services performed by subcontractors and/or contractors.
+The local suppliers of goods, properties, and services shall require from the RE Developer a copy of the latter's BOI Registration and DOE Registration for purposes of availing the zero percent (0%) VAT incentive.
+[71]
+While RR No. 7-2022 was issued on June 22, 2022 and does not cover CBK's claim in this case, the BIR's contemporaneous interpretation of the registration requirement as a condition 
+sine qua non
+ for entitlement to the fiscal incentives under Republic Act No. 9513 also carries persuasive weight. Thus, the express language of Republic Act No. 9513, coupled with the DOE and the BIR's consistent contemporaneous interpretation, leads to the conclusion that an RE Developer can only avail of the fiscal incentives under Republic Act No. 9513, including VAT at zero rate, after registration with the DOE and the DOE's issuance of the corresponding certificate, in addition to the other requirements provided in the DOE IRR and RR No. 7-2022.
+Here, there is nothing in the record that would show that CBK registered with the DOE, let alone registered with the BOI and obtained all the necessary certificates required under Republic Act No. 9513 and the DOE IRR. In fact, CBK has consistently stated in its pleadings both in the CTA and before the Court that it has not registered with the DOE and is thus not entitled to VAT at zero rate. Notably, the CIR admits this in its Comment.
+[72]
+Thus, the CTA 
+En Banc
+ erred in ruling that CBK is covered by Republic Act No. 9513 and is entitled to VAT at zero rate for its transactions. CBK's transactions, in fact, are subject to 12% VAT, as it correctly asserts.  
+ 
+There is a need to determine if CBK established its entitlement to a tax refund in the amount of PHP 50,060,766.08
+ 
+Given this, the Court agrees with Associate Justice Manahan's view that in determining CBK's entitlement to a tax refund, the question is whether CBK has complied with the following established requisites for a tax refund claim:
+[73]
+The taxpayer is VAT-registered;
+The administrative and judicial claims for refund were filed within their respective prescriptive periods;
+The taxpayer is engaged in zero-rated or effectively zero-rated sales;
+The input taxes were incurred or paid;
+The input taxes are attributable to zero-rated or effectively zeroÂ­-rated sales; and
+The input taxes were not applied against any output VAT liability.
+Here, the first and second requisites have already been established. Further, there is also no dispute that CBK's sale of power generated through hydropower to NPC are VAT zero rated. Nonetheless, even as these transactions are VAT zero rated, CBK still has the 
+onus
+ to prove that it complied with the pertinent invoicing requirements under Section 113(A) and (B) of the NIRC. Moreover, CBK must also show that its sales invoices and official receipts are duly registered with the BIR pursuant to Section 237 in relation to Section 238 of the NIRC. However, because the CTA 
+En Banc
+ and the CTA Special First Division based their rulings on the question of whether CBK's transactions are subject to zero-rated VAT under Republic Act No. 9513, they did not examine CBK's evidence on record to determine whether they sufficiently established that CBK did comply with the invoicing requirements under the NIRC.
+The same is true as to the fourth, fifth, and sixth requisites. As regards the fourth requisite, CBK has the duty to present supporting documents to prove that its input taxes were actually due or paid. In connection with this, Section 4.110-8 of Revenue Regulation No. 16-2005 lists the substantiation requirements for input tax credits. For the fifth requisite, the evidence on record must be examined to confirm if the input taxes are attributable to zeroÂ­-rated sales or if CBK has both zero-rated and taxable or exempt sales. In the latter case, if the input taxes cannot be directly and entirely attributable to any of the sales, the input taxes must be proportionately allocated on the basis of sales volume. Further, as to the sixth requisite, the evidence submitted by CBK must be reviewed to ascertain if the input taxes were indeed not applied to any outstanding output VAT liability.
+Considering that this is a Rule 45 petition, which is an appeal on pure questions of law, and further taking into account that this Court is not a trier of facts, the Court is unable to make determinations as to the presence of the foregoing requisites.
+[74]
+ Thus, even as the Court reverses the CTA 
+En Banc
+'s Assailed Decision and Assailed Resolution, it cannot make a factual and definitive finding as to whether CBK is entitled to a tax refund and if so, the amount of such refund.
+Given this, the Court deems it more prudent to remand the case to the CTA Special First Division for the purpose of reviewing the evidence submitted by CBK to ascertain if it has adequately established the presence of the foregoing requisites and, ultimately, its entitlement to a tax refund in the amount of PHP 50,060,766.08. In reviewing the evidence submitted by CBK, the CTA Special First Division is directed to perform the appreciation and weighing of evidence that it ought to have done had it not relied on an erroneous interpretation of Republic Act No. 9513 in rendering its decision. Moreover, to be sure, as the CIR has opted not to present any evidence in the trial before the CTA Special First Division, it can no longer present any evidence at this stage of the proceedings.
+The Court further clarifies that 
+Coral Bay
+ and RMC No. 42-2003 are inapplicable here. As CBK correctly argued, both 
+Coral Bay
+ and RMC No. 42-2003 contemplate a situation where the taxpayer-buyer is entitled to zero-Â­rated VAT for its transactions and the seller should not have passed on the VAT to such taxpayer-buyer. Thus, in 
+Coral Bay
+ and RMC No. 42-2003, the rule established is that the taxpayer-buyer should go after the supplier who is, in turn, entitled to file a refund claim with the government. That is not the case here where CBK is not entitled to zero-rated VAT for the transactions which are, in fact, subject to 12% VAT. The question here is whether CBK sufficiently established that is entitled to a tax refund under the NIRC.
+After a proper and judicious review of CBK's evidence on record for the purpose of ascertaining CBK's compliance with the foregoing requisites, the CTA Special First Division is directed to render a decision confirming whether CBK is entitled to a tax refund and if so, the exact amount of such a refund. The CTA Special First Division is directed to proceed in this case with dispatch.
+WHEREFORE
+, the Petition is 
+GRANTED
+. The Decision, dated February 20, 2019, of the Court of Tax Appeals 
+En Banc
+ and the Resolution, dated June 27, 2019, in CTA EB No. 1685 are 
+REVERSED
+. The case is 
+REMANDED
+ to the Court of Tax Appeals Special First Division for the purpose of determining whether CBK complied with the requisites for entitlement to a tax refund, whether CBK is entitled to a tax refund, and if so, the amount of the refund.
+SO ORDERED.
+Caguioa, (Division Chairperson), Inting, Gaerlan
+, and 
+Dimaampao, JJ.
+, concur.
+[1]
+ 
+Rollo
+, pp. 18-33, 315-330. Penned by Associate Justice Juanita C. CastaÃ±eda and concurred in by Presiding Justice Roman G. Del Rosario and Associate Justices Erlinda P. Uy. Esperanza R. FabonÂ­-Victorino, Cielito N. Mindaro-Grulla, and Ma. Belen M. Ringpis-Liban. Associate Justice Catherine T. Manahan has a separate Concurring and Dissenting Opinion.
+[2]
+ 
+Id.
+ at 14-17, 310-313.
+[3]
+ 
+Id.
+ at 159. 
+[4]
+ 
+Id.
+ at 81-138. Penned by Associate Justice Cielito N. Mindaro-Grulla and concurred in by Associate Justice Erlinda P. Uy. Presiding Justice Roman G. Del Rosario has a separate Concurring and Dissenting Opinion.
+[5]
+ 
+Id.
+ at 141-151.
+[6]
+ 
+Id.
+ at 138.
+[7]
+ 
+Id.
+ at 316.
+[8]
+ 
+Id.
+[9]
+ 
+Id.
+ at 317. 
+[10]
+ 
+Id.
+[11]
+ 
+Id.
+[12]
+ 
+Id.
+ at 318.
+[13]
+ 
+Id.
+[14]
+ 
+Id.
+ at 21.
+[15]
+ 
+Id.
+[16]
+ 
+Id.
+ at 85.
+[17]
+ 
+Id.
+[18]
+ 
+Id.
+[19]
+ 
+Id.
+[20]
+ 
+Id.
+[21]
+ 
+Id.
+[22]
+ 
+Id.
+[23]
+ 
+Id.
+ at 90.
+[24]
+ 
+Id.
+ at 420.
+[25]
+ 
+Id.
+ at 21.
+[26]
+ 
+Id.
+ at 422.
+[27]
+ 
+Id.
+ at 427.
+[28]
+ 
+Id.
+ at 427.
+[29]
+ Republic Act No. 9513 (2008), sec. 15.
+[30]
+ 
+Rollo
+, p. 427
+[31]
+ 
+Id.
+ at 430.
+[32]
+ 
+Id.
+[33]
+ 
+Id.
+ at 431.
+[34]
+ 787 Phil. 57 (2016).
+[35]
+ 
+Rollo
+, p. 434.
+ 
+[36]
+ 
+Id.
+ at 435. Emphasis in the original.
+[37]
+ 
+Id.
+ at 438-448.
+[38]
+ 
+Id.
+ at 219-223.
+[39]
+ 
+Id.
+ at 322.
+[40]
+ 
+Id.
+ at 328. Citations omitted.
+[41]
+ 
+Id.
+ at 329. Emphasis in the Original.
+[42]
+ 
+Id.
+ at 34-37.
+[43]
+ 
+Id.
+ at 34.
+[44]
+ 
+Id.
+ at 36.
+[45]
+ 
+Id.
+ at 37.
+[46]
+ 
+Id.
+ at 38-77.
+[47]
+ 
+Id.
+ at 159-298.
+[48]
+ 
+Id.
+ at 216-217.
+[49]
+ 
+Id.
+ at 218-222.
+[50]
+ 
+Id.
+ at 229-235.
+[51]
+ 
+Id.
+ at 245-250.
+[52]
+ 
+Id.
+ at 253-261.
+[53]
+ 
+Id.
+ at 263.
+[54]
+ 
+Id.
+ at 264. 
+[55]
+ 
+Id.
+ at 485-509.
+[56]
+ 
+Id.
+ at 499.
+[57]
+ 
+Id.
+[58]
+ 
+Id.
+ at 501.
+[59]
+ 
+Id.
+ at 25.
+[60]
+ Emphasis supplied.
+[61]
+ Emphases supplied.
+[62]
+ 
+Dubongco v. Commission on Audit
+, 848 Phil. 366 (2019).
+[63]
+ 
+Id.
+ 
+[64]
+ Republic Act No. 9513 (2008), sec. 33. SECTION 33. Implementing Rules and Regulations (IRR). â Within six (6) months from the effectivity of this Act, the DOE shall, in consultation with the Senate and House of Representatives Committees on Energy, relevant government agencies and RE stakeholders, promulgate the IRR of this Act.
+[65]
+ Emphases supplied.
+[66]
+ DOE IRR, Part III, Rule 5, section 18(B).
+[67]
+ 
+Amores v. Acting Chairman Commission on Audit
+, 291-A Phil. 445 (1993).
+[68]
+ 
+Pascual v. Director of Lands
+, 119 Phil. 623 (1964). 
+[69]
+ Emphasis supplied.
+[70]
+ RR No. 7-2022, sec. 3(A) to (D).
+[71]
+ RR No. 7-2022, Section 4 (E).
+[72]
+ 
+Rollo
+, p. 501.
+[73]
+ 
+Id.
+ at 36. 
+[74]
+ 
+See
+ 
+Panay Power Corporation v. Commissioner of Internal Revenue
+, 751 Phil. 252 (2015).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

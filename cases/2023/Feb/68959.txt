@@ -1,0 +1,891 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 261292, February 15, 2023 ]
+
+
+BOHOL RESORT DEVELOPMENT, INC., 
+PETITIONER
+, VS. DOLOREICH DUMALUAN, 
+RESPONDENT
+.
+
+
+D E C I S I O N
+
+
+
+
+SINGH, J.:
+
+
+This is a Petition for Review on 
+Certiorari
+ filed by Bohol Resort Development Inc. seeking the reversal of the Court of Appeals (CA) Decision,
+[1]
+ dated May 26, 2021 and the CA Resolution,
+[2]
+ dated February 22, 2022, in CA-G.R. CV No. 06109 titled 
+Doloreich Dumaluan v. Bohol Resort Development, Inc., the Provincial Environment and Natural Resources Officer (PENRO), DENR, Tagbilaran City, and the Register of Deeds, Province of Bohol
+.
+ 
+The Facts
+ 
+ The Respondent Doloreich Dumaluan (
+Doloreich
+) filed a Complaint for Declaration of Nullity of Transfer Certificate Title (
+TCT
+) No. 29414 and Reconveyance with prayer for Injunctive Relief on June 6, 2005 before the Regional Trial Court of Tagbilaran City, Bohol, Branch 2 (
+RTC
+).
+[3]
+ Doloreich alleged that, through a Deed of Extrajudicial Settlement with Simultaneous Sale,
+[4]
+ he bought a parcel of land covered by Tax Declaration (
+TD
+) No. TM3-838 over Lot No. 5682 consisting of 23,971 square meters (
+sqms
+) from the heirs of the late Juan Dumaluan (
+Juan Dumuluan Heirs
+), represented by Eusebio Dumaluan. 
+ On May 29, 1996, Doloreich was issued Original Certificate of Title (
+OCT
+) No. 75904 over the parcel of land. However, OCT No. 75904 covered only 16,298 sqms., and not 23,971 sqms. as stated in TD No. TM3-838.
+[5]
+ Doloreich claimed that he later discovered that on January 31, 1983, Geralda Lorejo, Leonardo Lorejo, and Sotero Lorejo (collectively, 
+the Lojeros
+) sold to Paulino Franco (
+Franco
+) a lot with a total area of 8,998 sqms. which forms part of Lot No. 5682 covered by TD No. 33-03-0281. The lot described in TD No. 33-03-0281 is, in turn, purportedly a portion of the parcel of land that Doloreich purchased from the Juan Dumaluan Heirs. Doloreich asserts that this sale is void because (a) TD No. 33-03-0281 covers a land with an area of only 2,805 sqms., and (b) the Lorejos are not the owners of this parcel of land and thus had no right nor authority to sell it.
+[6]
+ Doloreich further averred that Franco was able to have Lot No. 5682 subdivided into Lot No. 5682-A and Lot No. 5682-B. Lot No. 5682-B is subject of a pending litigation between Doloreich and a certain Daniel Vergara for double titling.
+[7]
+ Franco had Lot 5682-A consolidated with his other lots. On December 16, 1986, he obtained OCT No. 56607 over Lot No. 5682-A and his other properties.
+[8]
+ This was later on further subdivided to Lot No. 3-A, Lot No. 3-B, and Lot No. 3-C.
+[9]
+ On July 29, 1993, Doloreich alleged that Franco sold Lot 3-B to the spouses Tirso Uytengsu and Ma. Perlita Uytengsu (
+Spouses Uytengsu
+). The Spouses Uytengsu were then issued TCT No. 20887 covering Lot 3-B.
+[10]
+ In 2002, the Spouses Uytengsu sold Lot 3-B to the Petitioner Bohol Resorts Development, Inc. (
+BRDI
+). BRDI was issued TCT No. 29414 over Lot 3-B on February 28, 2003.
+[11]
+ 
+ Doloreich insisted that Lot 3-B belongs to him as it is part of the land which he bought from the Juan Dumuluan Heirs.
+[12]
+ Thus, he prayed for the Declaration of the Nullity of TCT No. 29414 and Reconveyance of Lot 3-B. In particular, Doloreich argued that the sale between the Lorejos and Franco was void because the Lorejos had no right whatsoever over the land which they sold.
+[13]
+ Further, Franco allegedly committed extrinsic fraud when he merged Lot No. 5682-A with his other properties because this was intended to prevent interested parties from tracing Lot No. 5682-A.
+[14]
+ Doloreich also prayed for the issuance of a temporary restraining order and/or preliminary injunction to prevent BRDI from continuing with its construction works in Lot 3-B. 
+ In its Answer with Compulsory Counterclaim, dated July 8, 2005 (
+Answer
+),
+[15]
+ BRDI asserted that it is the registered owner of Lot 3-B, located at Bolod, Panglao, Bohol, with an area of 15,736 sqms. and covered by TCT No. 29414 issued on February 28, 2003.
+[16]
+ BRDI claimed that it purchased Lot 3-B from the Spouses Uytengsu in 2002, who were, at that time, the registered owner of the property under TCT No. 20887. The Spouses Uytengsu, in turn, bought Lot 3-B from Franco.
+[17]
+ 
+ According to BRDI, Franco purchased a portion of Lot No. 5682 containing an area of 8,998 sqms. from the Lorejos on January 31, 1984 as evidenced by a Deed of Absolute Sale (
+Deed of Absolute Sale
+). Lot No. 5682 is covered by TD No. 33-03-0281; which pertained to a land with the total area of 2,805 sqms. While TD No. 33-03-0281 was declared under the name of Juan Dumaluan (
+Juan
+), BRDI claimed that the true owner of Lot No. 5682 was Juan's father, Valentin Dumaluan (
+Valentin
+).
+[18]
+ 
+ Valentin, according to BRDI, had eight children, namely Simeon, Glicerio, Tomas, Geralda, Sotera, Juan, and Catalina. During his lifetime, Valentin purportedly gave Simeon and Glicerio parcels of land as their respective shares in their inheritance. Meanwhile, his other six children became the co-owners of the lot covered by TD No. 33-03-0281 upon his death.
+[19]
+ Thus, the Lorejos, who were the sellers in the Deed of Absolute Sale, were the owners of their undivided shares of the portion of land under TD No. 33-03-0281 sold to Franco.
+[20]
+ In particular, Geralda Dumuluan-Lorejo was the daughter of Valentin, and Leonardo Lorejo is the son of Geralda and was the authorized representative of Eusebio, a son of Catalina Dumaluan. Sotero Lorejo was actually Sotera Dumaluan-Mejos, also a daughter of Valentin.
+[21]
+ 
+ A year after the sale to Franco, the three remaining heirs, Tomas, Felix who represented Juan, and Pablo allegedly complained to the barangay captain of Bolod and demanded that they should be paid their share of the proceeds of the sale. This led to conciliation proceedings and the parties purportedly executed several documents confirming that Tomas, Juan, and Pablo were paid their shares for the sale of the parcel of land.
+[22]
+ 
+ In 1983, the cadastral survey of the land covered by TD No. 33-03-0281 was completed. Through the cadastral survey, it was discovered that the actual area of the land was 23,971 sqms. and not 2,805 sqms.
+[23]
+ TD No. 33-03-0281 was then cancelled and superseded by TD No. TM3-838
+[24]
+ (which is the TD referred to in the purported sale between Doloreich and the Juan Dumaluan Heirs). 
+ Franco then consolidated Lot No. 5682 with his other properties and obtained OCT No. 56607. After this, TD No. TM3-838 was supposedly cancelled in 1987 and was superseded by TD No. TM3-947 in the name of Franco and TD No. TM3-943 in the name of Juan.
+[25]
+ 
+ On July 29, 1993, Franco and the Spouses Uytengsu executed the Deed of Absolute Sale for the sale of Lot 3-B with an area of 15,736 sqms. The spouses Uytengsu eventually sold Lot 3-B to BRDI, for which it was issued TCT No. 29414 on February 28, 2003. 
+ BRDI asserted in the Answer that it is an innocent purchaser for value as it had no knowledge of any defect or flaw in the title of its vendor.
+[26]
+ It also claimed that there was no defect in the sale between the Lorejos and Franco because the Lorejos, as heirs of Valentin, sold their undivided share in the land described in TD No. 33-03-0281.
+[27]
+ Further, BRDI also explained that the discrepancy in the lot area in TD No. 33-03-0281 can be explained by the fact that this tax declaration was issued before the cadastral survey over the lot was completed. The cadastral survey was completed only in 1983 and it was confirmed that the lot area was actually 23,971 sqms. It also argued that the sale between Doloreich and the Juan Dumaluan Heirs was defective. They could not have conveyed the parcel of land described in TD No. TM3-838 in 1993 because this tax declaration was already cancelled in 1987.
+[28]
+ 
+ BRDI also argued that Doloreich acted in bad faith in purportedly purchasing the land from the Juan Dumaluan Heirs considering that the purchase price was only PHP 30,000.00 and Doloreich, who is a relative of the Juan Dumaluan Heirs, knew that they did not own the land purportedly sold. Moreover, BRDI insists that Doloreich's action for reconveyance has already prescribed. 
+[29]
+ 
+ On June 15, 2005, the RTC conducted a summary hearing in connection with Doloreich's prayer for a temporary restraining order. The hearings on the injunctive relief continued in 2013 where Doloreich submitted a judicial affidavit and a supplemental judicial affidavit, and he was the sole witness in these hearings. BRDI opted not to present any evidence in the injunction hearings.
+[30]
+ 
+ Meanwhile, on July 21, 2015, the date scheduled for the pre-trial, BRDI manifested that it is submitting its affirmative defenses for the RTC's resolution.
+[31]
+ 
+ 
+The Decision of the RTC
+ 
+ The RTC, in its Order, dated October 20, 2015, (
+October 20, 2015 Order
+)
+[32]
+ dismissed the case for lack of cause of action. The RTC ruled that it is undisputed that when BRDI purchased Lot 3-B from the spouses Uytengsu, it was presented with TCT No. 20887 in the name of the sellers. Considering that it is established that a person dealing with registered land need not go beyond the face of the title in the absence of any suspicion, there is no basis for Doloreich's complaint against BRDI.
+[33]
+ The dispositive portion of the October 20, 2015 Order states: 
+ 
+ WHEREFORE, PREMISES CONSIDERED, the instant case is hereby DISMISSED for lack of cause of action.
+[34]
+ 
+ 
+ 
+ Doloreich filed a Motion for Reconsideration with Motion to Recuse, dated November 17, 2015,
+[35]
+ where he argued, among others, that the RTC gravely erred in prematurely dismissing the case for lack of cause of action despite the fact that none of the parties had presented evidence in support of their allegations.
+[36]
+ 
+ In its Order, dated March 15, 2016 (
+March 15, 2016 Order
+),
+[37]
+ the RTC affirmed its dismissal of the case but modified the ground for the dismissal from lack of cause of action to prescription. The RTC ruled: 
+ 
+ WHEREFORE, PREMISES CONSIDERED, the instant case is hereby DISMISSED on the ground of PRESCRIPTION.
+[38]
+ 
+ 
+ 
+ In arriving at its conclusion, the RTC relied on the following: (1) prescription is a ground which may be raised at any stage of the proceedings by any party or by the court 
+motu proprio
+;
+[39]
+ (2) Doloreich's action is an action for reconveyance on the grounds of extrinsic fraud and a void contract of sale;
+[40]
+ and (3) BRDI raised prescription as an affirmative defense.
+[41]
+ 
+ Citing the case 
+Caro v. Court of Appeals
+,
+[42]
+ the RTC ruled that the prescriptive period for an action for reconveyance on the ground of fraud is ten years from the time the adverse party registers the land.
+[43]
+ In this case, the RTC concluded that the reckoning point is December 16, 1986 when Franco's title was issued. Thus, the action had long prescribed.
+[44]
+ Moreover, if the action for reconveyance is based on the ground that the contract of sale was void, while the rule is that this action does not prescribe, this rule does not apply in cases where the property is no longer in the name of the person who wrongfully caused the registration of the land.
+[45]
+ Here, Lot 3-B is already under the name of BRDI. Even if Doloreich asserts that BRDI is a purchaser in bad faith and that Franco and the spouses Uytengsu were purportedly acting as its dummies in the earlier sale of Lot 3-B, the RTC concluded that there is nothing in the pleadings which "substantially states that Bohol Resort Development Corporation [BRDI] was in bad faith."
+[46]
+ 
+ 
+The Decision of the CA
+ 
+ Doloreich filed his Notice of Appeal, dated May 15, 2016, before the CA.
+[47]
+ In its Decision, dated May 26, 2021,
+[48]
+ the CA granted the appeal and reversed and set aside the October 20, 2015 Order and the March 15, 2016 Order of the RTC. It remanded the case to the RTC for resolution of Doloreich's prayer for injunctive relief, pre-trial, and trial. The CA stated: 
+ 
+ 
+WHEREFORE
+, the appeal is 
+GRANTED
+. The Order dated October 20, 2015 and the Order dated March 15, 2016, both issued by the Regional Trial Court, Branch 2, Tagbilaran City, Bohol, in Civil Case No. 7029, are 
+REVERSED
+ and 
+SET ASIDE
+. The case is 
+REMANDED
+ to the RTC for (1) resolution of the prayer for injunctive relief; (2) the conduct of pre-trial, and (3) trial on the merits. The RTC is 
+ENJOINED
+ to act on the case with 
+DISPATCH
+ and to 
+STRICTLY COMPLY
+ with the pertinent provisions of the Rules of Court and the jurisprudence on continuance and postponement of hearings.
+[49]
+ (Emphases in the original) 
+ 
+ 
+ The CA ruled that Doloreich's Complaint is an action for reconveyance on the ground that the sale between the Lorejos and Franco was void. The CA examined the Complaint and noted that while it did not allege with particularity the circumstances constituting fraud (contrary to what is required under Rule 8, section 5 of the Revised Rules of Court),
+[50]
+ the Complaint did make adequate allegations as to Doloreich's argument that the sale was void.
+[51]
+ The CA explained: 
+ 
+ Hence, the ground on which the Complaint is anchored is that the Deed of Absolute Sale between the Lorejos and Franco was void (1) for total lack of authority on the part of the vendors and (2) for selling in excess of that declared in TD No. 33-03-0281. 
+Unfortunately, the proceedings before the RTC never reached the stage where the parties could exhaustively present their evidence on the principal issues
+.
+[52]
+ (Emphasis supplied) 
+ 
+ 
+ The CA further added that BRDI's Answer had allegations that also required a trial on the merits. In particular, it alleged that the discrepancy between TD Nos. 33-03-0281 and TM3-838 was due to the fact that TD No. 33-03-0281 was issued in 1979 before the cadastral survey of the lot was completed. Moreover, it also claimed that the Lorejos were heirs of Valentin, who was the original owner of Lot 3-B. Thus, the CA said: 
+ 
+ Hence, in the absence of a full-blown trial on the merits, it is still premature for the courts to resolve the issue on whether the sale between the Lorejos and Franco was void. Consequently, the issue on prescription is not yet ripe for resolution and the case must be remanded for further proceedings. 
+ 
+ After a trial on the merits, should the RTC find that the Lorejos were without authority to make the sale, then the Complaint cannot be dismissed on the ground of extinctive prescription.
+[53]
+ 
+ 
+ 
+ The CA further explained that considering that Doloreich's cause of action is based on the fact that the sale between the Lorejos and Franco was void (and that his argument as to fraud was not properly pleaded in the Complaint), the question of whether BRDI is an innocent purchaser for value "is relevant only insofar as it constitutes one of BRDI's defenses."
+[54]
+ This issue, according to the CA, must be determined in a trial. The CA explained: 
+ 
+ Nevertheless, '[a] determination of whether a party is an innocent purchaser in good faith and for value involves a factual issue' which must be hashed out in a trial on the merits, moreso due to the contention that BRDI was put on notice of the defects in the sale from the Lorejos to Franco, because, as alleged, Franco is an incorporator and director of BRDI. The issue cannot be conclusively determined merely after a hearing on a prayer for injunctive relief.
+[55]
+ 
+ 
+ 
+ The CA also discussed the parameters that the RTC must consider once it rules on the question of prescription. First, the CA said that if the action is prescriptible (
+i.e
+. if it turns out that Doloreich's action for reconveyance can be based on fraud depending on the applicability of Rule 8, Section 5 of the Revised Rules of Court), the reckoning point for the prescriptive period is the issuance of Franco's title.
+[56]
+ Second, if the action for reconveyance is grounded on the fact that the sale between the Lorejos and Franco is void, then the action is imprescriptible, subject to BRDI's defense that it is an innocent purchaser for value.
+[57]
+ 
+ BRDI filed a Motion for Reconsideration, dated July 6, 2021,
+[58]
+ which the CA denied in its Resolution, dated February 22, 2022.
+[59]
+ 
+ BRDI filed its Petition for Review on 
+Certiorari
+, dated June 6, 2022 (
+Petition
+),
+[60]
+ before the Court seeking the reversal of the Decision and Resolution. 
+ BRDI argues first that the CA committed reversible error when it ruled that the issue of prescription cannot he properly decided without a trial on the merits. BRDI asserts that Doloreich already sufficiently adduced evidence during the hearing for injunctive relief.
+[61]
+ According to BRDI, in requiring that the RTC hear the case on the merits, the CA contravened the Revised Rules of Court which even allows the termination of a case immediately through a judgment on the pleadings and summary judgment.
+[62]
+ 
+ Second, BRDI argues that the CA erred when it "effectively held that petitioner BRDI needs to prove first in a full-blown trial that it is an innocent purchaser for value before it can seek a dismissal of the case."
+[63]
+ BRDI insists that the defense of being an innocent purchaser for value is a defense that is immediately available to holders of Torrens titles and thus they are protected from needless litigation.
+[64]
+ 
+ Third, BRDI takes the view that the CA wrongly remanded the case to the RTC for trial notwithstanding its own ruling in the CA Decision that the prescriptive period for an action for reconveyance based on fraud is 10 years from the registration of the adverse title, which means that Doloreich's action prescribed on December 16, 1996, or 10 years from Franco's registration of his title on December 16, 1986.
+[65]
+ 
+ 
+The Issu
+e 
+ Did the CA correctly remand the case to the RTC for trial on the merits without resolving the question of whether Doloreich's cause of action has prescribed? 
+ 
+The Ruling of the Court
+ 
+ The CA correctly ruled that the issue of prescription cannot be resolved at this stage of the proceedings. Whether extinctive prescription has set in in this case depends on factual findings which have not been fully threshed out in the hearings for injunctive relief. The CA properly remanded the case to the RTC. 
+ The Rules of Court defines an affirmative defense as an "an allegation of a new matter which, while hypothetically admitting the material allegations in the pleading of the claimant, would nevertheless prevent or bar recovery by him or her."
+[66]
+ Affirmative defenses include fraud, statute of limitations, release, payment, illegality, statute of frauds, estoppel, former recovery, discharge in bankruptcy, and any other matter by way of confession and avoidance.
+[67]
+ 
+ Under the 1997 Amendments to the Rules of Court, the set of rules applicable at the time the RTC dismissed the Complaint, prescription may be raised either under a motion to dismiss or as an affirmative defense. Where prescription is raised as an affirmative defense in an answer, and not as a ground for dismissal in a motion to dismiss, a court has the discretion to conduct a preliminary hearing as if a motion to dismiss has been filed and proceed to determine if the affirmative defense of prescription warrants the dismissal of the case.
+[68]
+ 
+ Further, under Section 1 of Rule 9 of the 1997 Amendments to the Rules of Court (which is the same Rule 9, Section 1 of the 2019 Amendments to the Rules of Court),
+[69]
+ prescription as a ground for dismissal is not deemed waived even if not raised by the parties. The court has the power, 
+motu proprio
+, to dismiss the claim where it appears from the pleadings or the evidence on record that the action has already prescribed. 
+ The 2019 Amendment to the Rules of Court, which now applies to this case,
+[70]
+ slightly modified the procedure involving affirmative defenses. In particular, Section 12 of Rule 8 of the 2019 Amendments to the Rules of Court reads: 
+ 
+ "Section 12. 
+Affirmative defenses
+. â 
+ 
+ (a) A defendant shall raise his affirmative defenses in his or her answer, which shall be limited to the reasons set forth under Section 5(b), Rule 6, and the following grounds: 
+ 
+ 
+ (1) That the court has no jurisdiction over the person of the defending party; 
+ (2) That venue is improperly laid;
+ (3) That the plaintiff has no legal capacity to sue; 
+ (4) That the pleading asserting the claim states no cause of action; and
+ (5) That a condition precedent for filing the claim has not been complied with. 
+ 
+ 
+ (b) Failure to raise the affirmative defenses at the earliest opportunity shall constitute a waiver thereof. 
+ 
+ (c) The court shall 
+motu proprio
+ resolve the above affirmative defenses within thirty (30) calendar days from the filing of the answer. 
+ 
+ (d) As to the other affirmative defenses under the first paragraph of Section 5(b), Rule 6, the court may conduct a summary hearing within fifteen (15) calendar days from the filing of the answer. Such affirmative defenses shall be resolved by the court within thirty (30) calendar days from the termination of the summary hearing. 
+ 
+ Affirmative defenses, if denied, shall not be the subject of a motion for reconsideration or petition for certiorari, prohibition or mandamus, but may be among the matters to be raised on appeal after a judgment on the merits." 
+ 
+ 
+ Thus, where prescription (which is an affirmative defense mentioned in Section 5(b) of Rule 6 of the 2019 Amendments to the Rules of Court) is raised as an affirmative defense in an answer, the court may conduct a summary hearing. The affirmative defense shall then be resolved within 30 days from the termination of the summary hearing. 
+ When the RTC dismissed the Complaint on the ground of prescription even without conducting further hearing, it simply exercised its authority to do so under the 1997 Amendments to the Rules of Court's Rule 16 and Rule 9. Similarly, when the CA reversed the RTC, it determined that the proper route to ascertain whether the case should be dismissed on the ground of prescription is not through Rule 16 or Rule 9 of the 1997 Amendments to the Rules of Court nor Rule 8 of the 2019 Amendments to the Rules of Court. Instead, the CA made a determination that the question of prescription cannot be resolved unless there is a full-blown trial on the merits. Stated more simply, the CA ruled that the issue of whether the Complaint should be dismissed on the ground of prescription cannot be determined based on the pleadings or the evidence already on record nor through a mere summary hearing. 
+ The CA's ruling is supported by jurisprudence. This Court has consistently ruled that where the ground for dismissal is not indubitable, the court should defer the determination of the issue until after trial of the case on the merits.
+[71]
+ 
+ The unique circumstances of this case require that certain preliminary questions should first be resolved before the issue of prescription can be determined. First, there is a need to ascertain what the nature of the action is. Second, the nature of the cause of action determines what the period of prescription is or whether the action is imprescriptible. Third, given the facts of this case, there is a need to confirm if Doloreich has a defense against prescription. These questions require factual determinations that can only be had after a trial.
+ As to the first question, the CA concluded that the Complaint is an action for reconveyance and that Doloreich anchors this action on his allegation that the sale between the Lorejos and Franco is void. 
+ An action for reconveyance of a property is a landowner's remedy to recover property that has been wrongfully registered in another person's name after one year from the date of the registration decree, as long as the property has not passed to an innocent purchaser for value.
+[72]
+ The action does not seek to reopen the registration proceeding and to set aside the registration decree. It only purports to show that the person who secured the registration of the property is not the real owner.
+[73]
+ An action for reconveyance may be based on fraud, an implied or constructive trust, an express trust, or a void contract. The ground for an action for reconveyance is relevant because it determines the prescriptive period of the action.
+[74]
+ Where an action is based on fraud or a trust, the prescriptive period for the action is 10 years from the erroneous registration of the property.
+[75]
+ 
+ On the other hand, if the action for reconveyance is based on the nullity of the deed of conveyance, the action is imprescriptible. In 
+Uy v. Court of Appeals
+,
+[76]
+ the Court said: 
+ 
+ When the action for reconveyance is based on a void contract, as when there was no consent on the part of the alleged vendor, the action is imprescriptible. The property may be reconveyed to the true owner, notwithstanding the TCTs already issued in another's name. The issuance of a certificate of title in the latter's favor could not vest upon him or her ownership of the property; neither could it validate the purchase thereof which is null and void. Registration does not vest title; it is merely the evidence of such title. Our land registration laws do not give the holder any better title than what he actually has. Being null and void, the sale produces no legal effects whatsoever. 
+[77]
+ 
+ 
+ 
+ The allegations in a complaint determine the nature of the action. 
+ Here, the allegations in the Complaint show that Doloreich indeed seeks the reconveyance of Lot 3-B based on his assertion that the sale between the Lorejos and Franco was void and, further, that Franco, BRDI's predecessor-in-interest, committed fraud in obtaining his OCT. Doloreich then attempts to attribute this fraud on BRDI through his claim that Franco and the Spouses Uytensu are BRDI's dummies. As BRDI is not the real owner of Lot 3-B, Doloreich claims that he, as the true owner, is entitled to its possession. To quote the relevant portions of the Complaint: 
+ 
+ 
+ 
+5.
+ 
+Plaintiff Doloreich Dumaluan is the true and lawful owner of a parcel of land situated in Bolod, Panglao, Bohol which is covered by Tax Declaration No. TM3-838 consisting of 2.3971 hectares... by virtue of an Extrajudicial Settlement of Estate wth Simultaneous Sale executed by the legal heirs of the late Juan Dumaluan on June 16, 1993... 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.
+ 
+That the area of the land under Tax Declaration No. 33-03-0281 is only .2805 hectares for which reason the Deed of Sale alluded to in the preceding paragraph is legally irregular and void from the beginning because the Deed conveys 8,998 square meters which is far more than the area covered under such Tax Declaration aside from the fact, that the vendors are not the possessors and/or owners of the land because it has been declared for taxation purposes in the name of Juan Dumaluan... 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10.
+ 
+That after the alleged Deed of Absolute Sale between Geralda Lorejo, Leonardo Lorejo and Sotero Lorejo as vendors and Paulino Franco as vendee involving Tax Declaration No. 33-03-0281, Paulino Franco, through subterfuge method at the Provincial Environment and Natural Resources Office, Tagbilaran City, was able to divide Lot No. 5682 into two parts - Lot No. 5682-A and Lot No. 5682-B... 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15.
+ 
+That this particular land designated as Lot No. 3-B and now covered under TCT No. 29414 in the name of Bohol Resort Development, Inc., is in fact and in truth the property belonging and owned by plaintiff Doloreich Dumaluan being a part of the land and bought from the heirs of the late Juan Dumaluan; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16.
+ 
+That Paulino Franco did not acquire any title to this particular land because he originally purchased the same from Geralda Lorejo Leonardo Lorejo and Sotero Lorejo who have no right whatsoever over the land in question; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17.
+ 
+That when Paulino Franco merged this particular land with his other properties located in the same vicinity and applied for Free Patent thereof, he committed an EXTRINSIC FRAUD in the process thereby his title can be legally questioned even if considerable time has elapsed...
+[78]
+ 
+ 
+ 
+ 
+ 
+The CA thus correctly characterized the action as one for reconveyance anchored on the nullity of the Deed of Absolute Sale based on the above quoted allegations. The sufficiency of the allegations was confirmed by the CA to make out a case of action for reconveyance. 
+ 
+ However, the question of whether Doloreich's action for reconveyance is indeed imprescriptibie requires the resolution of certain factual issues. In particular, the RTC must first determine if Doloreich correctly claimed that the sale between the Lorejos and Franco is void because: (a) the Lorejos were not the owners of the property sold; and (b) the property sold was in excess of the property covered by TD No 33-03-0218. In this regard, BRDI also makes related factual assertions that require a trial. Specifically, BRDI alleges that the Lorejos, as Valentin's heirs, sold their undivided share to the lot covered by TD No. 33-03-0218 to Franco. Further, BRDI claims that the discrepancy in the technical description of the lot covered by TD No. 33-03-0218 can be explained by the fact that this TD was issued before the cadastral survey of the lot was completed. These are matters that have not been fully threshed out in the hearings for Doloreich's prayer for the issuance of injunctive relief especially considering that BRDI did not present any evidence in those hearings. 
+ Guidance may be found in the ruling of the Court in 
+Gatmaytan v. Misibis Land, Inc
+. (
+Gatmaytan
+).
+[79]
+ In 
+Gatmaytan
+, the cause of action in the complaint was an action for reconveyance on the ground that the underlying deed of sale which led to the issuance of a Torrens title was void. The Court ruled that the lower court erred in dismissing the complaint without a trial. The Court explained that considering that the petitioner made factual allegations pertaining to the nullity of the underlying sale, this issue should be resolved first in a trial on the merits. 
+ If, after trial, the RTC determines that the underlying Deed of Absolute Sale is indeed void, then the action for reconveyance is classified as imprescriptible and Doloreich's claim cannot be said to be time-barred. This is, of course, subject to BRDI's defense that it is an innocent purchaser for value, which, likewise still has to be proven by the required proof. 
+ Moreover, it is worth noting that Doloreich also alleged extrinsic fraud. Specifically, Doloreich alleged in the Complaint that Franco committed extrinsic fraud in causing the subdivision of Lot No. 5682.
+[80]
+ However, as the CA correctly pointed Gut, Doloreich does not make these allegations with sufficient particularity, in contravention of the express requirement in Section 5 of Rule 8 of the 2019 Amendments to the Rules of Court. In addition, Doloreich has not, so far, presented evidence supporting this allegation of fraud in the hearing for injunctive relief. In this regard, Section 5 of Rule 10 of the 2019 Amendments to the Rules of Court states: 
+ 
+ Section 5. No amendment necessary to conform to or authorize presentation of evidence. - When issues not raised by the pleadings are tried with the express or implied consent of the parties, they shall be treated in all respects as if they had been raised in the pleadings. No amendment of such pleadings deemed amended is necessary to cause them to conform to the evidence. 
+ 
+ 
+ Thus, it may be possible for Doloreich to raise the issue of fraud during trial and present evidence to support its claim. If it turns out that Doloreich is able to establish the existence of fraud, this could also support his action for reconveyance (and not that the sale is void), making the action is subject to the ten-year prescriptive period. 
+ Given this, a trial is required for the RTC to assess which of Doloreich's assertions will be proved. 
+ Moreover, under Section 10 of Rule 18 of the 2019 Amendments to the Rules of Court,
+[81]
+ a court has the discretion to submit the case for summary judgment or judgment on the pleadings if it finds, after the pre-trial, that there are no more controverted facts or no mere genuine issue or material question of fact that requires trial. Considering that this case has remained pending for years, the RTC is directed to consider the propriety of a judgment on the pleadings or summary judgment after the conclusion of the pre-trial. 
+ Finally, the RTC should be instructed to act on the case with dispatch considering that this case has remained pending for over a decade. 
+ 
+WHEREFORE
+, Bohol Resort Development, Inc.'s Petition for Review on 
+Certiorari
+, dated June 6, 2022 is 
+DENIED
+. The Court of Appeals Decision, dated May 26, 2021 and Resolution, dated February 22, 2022 in CA-G.R. CV No. 06109 are 
+AFFIRMED
+. The Regional Trial Court, Branch 2, Tagbilaran City, Bohol is directed to proceed with dispatch with the (1) resolution of the prayer for injunctive relief; (2) the conduct of pre-trial, and (3) trial. The RTC is further directed to determine the propriety of a judgment on the pleadings or summary judgment at the appropriate stage of the proceedings. 
+ 
+SO ORDERED.
+ 
+Caguioa (Chairperson), Inting, Gaerlan
+, and 
+Dimaampao, JJ
+., concur. 
+ 
+[1]
+ 
+Rollo
+, pp. 52-76. Penned by Associate Justice Bautista G. Corpin, Jr. and concurred in by Associate Justice Gabriel T. Ingles and Associate Justice Dorothy P. Montejo-Gonzaga. 
+[2]
+ 
+Id.
+ at 77-78. 
+ 
+[3]
+ 
+Id.
+ at 53. 
+ 
+[4]
+ 
+Id.
+ 
+ 
+[5]
+ 
+Id.
+ 
+ 
+[6]
+ 
+Id.
+ 
+ 
+[7]
+ 
+Id.
+ 
+ 
+[8]
+ 
+Id.
+ at 54.
+ 
+ 
+[9]
+ 
+Id.
+ 
+ 
+[10]
+ 
+Id.
+ at 55.
+ 
+ 
+[11]
+ 
+Id.
+ at 54.
+ 
+ 
+[12]
+ 
+Id.
+ 
+ 
+[13]
+ 
+Id.
+ at 146.
+ 
+ 
+[14]
+ 
+Id.
+ at 54.
+ 
+ 
+[15]
+ 
+Id.
+ at 271 to 296.
+ 
+ 
+[16]
+ 
+Id.
+ at 277.
+ 
+ 
+[17]
+ 
+Id.
+ 
+ 
+[18]
+ 
+Id.
+ at 274. 
+ 
+[19]
+ 
+Id.
+ 
+ 
+[20]
+ 
+Id.
+ 
+ 
+[21]
+ 
+Id.
+ 
+ 
+[22]
+ 
+Id.
+ at 275.
+ 
+ 
+[23]
+ 
+Id.
+ 
+ 
+[24]
+ 
+Id.
+ at 276.
+ 
+ 
+[25]
+ 
+Id.
+ 
+ 
+[26]
+ 
+Id.
+ at 277.
+ 
+ 
+[27]
+ 
+Id.
+ at 278.
+ 
+ 
+[28]
+ 
+Id.
+ at 280. 
+[29]
+ 
+Id.
+ at 284. 
+ 
+[30]
+ 
+Id.
+ at 92-93. 
+[31]
+ 
+Id.
+ at 93. 
+ 
+[32]
+ 
+Id.
+ at 137-142. 
+ 
+[33]
+ 
+Id.
+ at 140-142. 
+ 
+[34]
+ 
+Id.
+ at 142. 
+ 
+[35]
+ 
+Id.
+ at 154-167. 
+[36]
+ 
+Id.
+ at 154. 
+[37]
+ 
+Id.
+ at 143-153. 
+[38]
+ 
+Id.
+ at 153. 
+[39]
+ 
+Id.
+ at 144. 
+ 
+[40]
+ 
+Id.
+ at 145. 
+[41]
+ 
+Id.
+ 
+[42]
+ 259 Phil. 891 (1989). 
+ 
+[43]
+ 
+Rollo
+, p. 149. 
+ 
+[44]
+ 
+Id.
+ 
+[45]
+ 
+Id.
+ at 150. 
+ 
+[46]
+ 
+Id.
+ at 153. 
+ 
+[47]
+ 
+Id.
+ at 52. 
+[48]
+ 
+Id.
+ at 52-76. 
+[49]
+ 
+Id.
+ at 75. 
+ 
+[50]
+ 
+Id.
+ at 67. 
+[51]
+ 
+Id.
+ at 69. 
+ 
+[52]
+ 
+Id.
+ at 70. 
+[53]
+ 
+Id.
+ at 70-71. 
+[54]
+ 
+Id.
+ at 72. 
+ 
+[55]
+ 
+Id.
+ 
+ 
+[56]
+ 
+Id.
+ at 73. 
+ 
+[57]
+ 
+Id.
+ at 74. 
+[58]
+ 
+Id.
+ at 342-355. 
+ 
+[59]
+ 
+Id.
+ at 77-78. 
+ 
+[60]
+ 
+Id.
+ at 15-50. 
+[61]
+ 
+Id.
+ at 37. 
+[62]
+ 
+Id.
+ 
+ 
+[63]
+ 
+Id.
+ at 40. 
+ 
+[64]
+ 
+Id.
+ 
+ 
+[65]
+ 
+Id.
+ at 44. 
+ 
+[66]
+ RULES OF COURT, Rule 6, sec. 5(b). 
+ 
+[67]
+ RULES OF COURT, Rule 6, sec. 5(b). 
+ 
+[68]
+ 1997 AMENDMENTS TO THE RULES OF COURT, Rule 16, sec. 6. 
+ 
+[69]
+ RULES OF COURT, Rule 9, sec. 1: Defenses and objection not pleaded. - Defenses and objections not pleaded either in a motion to dismiss or in the answer are deemed waived. However, when it appears from the pleadings or the evidence on record that the court has no jurisdiction over the subject matter, that there is another action pending between the same parties for the same cause, or that the action is barred by prior judgment or by statute of limitations, the court shall dismiss the claim. 
+ 
+[70]
+ RULES OF COURT, Rule 144. 
+ 
+[71]
+ 
+See
+ 
+Selerio v. Bancasan, G.R. No. 222442
+, June 23, 2020; 
+Philippine National Bank v. Hipolito
+, 121 Phil. 22 (1965); 
+Sison v. McQuaid
+, 94 Phil. 201 (1953). 
+ 
+[72]
+ 
+Abejaron v. Nabasa
+, 411 Phil. 552 (2001). 
+[73]
+ 
+Id.
+ 
+[74]
+ 
+Sps. Aboitiz v. Sps. Po
+, 810 Phil. 123 (2017); 
+Uy v. Court of Appeals
+, 769 Phil. 705 (2015). 
+ 
+[75]
+ 
+Id.
+ 
+[76]
+ 769 Phil. 705 (2015); See also 
+Spouses Castillo v. Heirs of Vicente Madrigal, et al.
+, 275 Phil. 605 (1991). 
+ 
+[77]
+ 
+Id.
+ 
+ 
+[78]
+ 
+Rollo
+, pp. 67-68. 
+[79]
+ 
+G.R. No. 222166
+, June 10, 2020. 
+[80]
+ 
+Rollo
+, p. 69. 
+ 
+[81]
+ 
+Judgment after pre-trial
+. â Should there be no more controverted facts, or no more genuine issue as to any material fact, or an absence of any issue, or should the answer fail to tender an issue, the court shall, without prejudice to a party moving for judgment on the pleadings under Rule 34 or summary judgment under Rule 35, 
+motu proprio
+ include in the pre-trial order that the case be submitted for summary judgment or judgment on the pleadings, without need of position papers or memoranda. In such cases, judgment shall be rendered within ninety (90) calendar days from termination of the pre-trial. 
+ The order of the court to submit the case for judgment pursuant to this Rule shall not be the subject to appeal or 
+certiorari.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

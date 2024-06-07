@@ -1,0 +1,851 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 211837, March 16, 2022 ]
+
+
+THE REAL BANK (A THRIFT BANK), INC., PETITIONER, VS. DALMACIO CRUZ MANINGAS, RESPONDENT.
+D E C I S I O N
+
+
+
+
+HERNANDO, J.:
+
+
+This petition for review on 
+certiorari
+[1]
+ assails the November 29, 2013 Decision
+[2]
+ and March 14, 2014 Resolution
+[3]
+ of the Court of Appeals (CA) in CA-Â­G.R. CV. No. 99817, which affirmed the June 22, 2012 Decision
+[4]
+ and September 13, 2012 Resolution
+[5]
+ of the Regional Trial Court (RTC), Branch 61, Makati City in Civil Case No. 09-106.
+The Factual Antecedents
+This case arose from a complaint
+[6]
+ filed by respondent Dalmacio Cruz Maningas (Maningas) against petitioner The Real Bank (A Thrift Bank), Inc. (Real Bank), and Metropolitan Bank and Trust Co. (Metrobank) for the recovery of a sum of money with damages. Real Bank and Metrobank are domestic corporations engaged in the business of banking.
+Maningas is a Filipino-British national who was living in London, England at the time material to this case.
+[7]
+ He maintained a savings account and a checking account with Metrobank Greenhills, Eisenhower branch.
+[8]
+ On August 22, 2006, while in London, Maningas issued two crossed checks with amounts of P550,000.00 and P602,700.00 (with an aggregate amount of P1,152,700.00) in favor of his friend Bienvenido Rosaria (Rosaria).
+[9]
+ Maningas issued the checks as payment to Rosaria for a parcel of land he (Maningas) purchased.
+[10]
+ Notably, however, Maningas wrote the name BIENVINIDO ROSARIA as payee of the two checks.
+[11]
+As Rosaria was also in London at that time, he instructed Maningas to mail the checks to Maxima Jumawan, Rosaria's sister, who was residing at that time in Dongalo, ParaÃ±aque City, with a request to deposit the checks to Rosaria's account.
+[12]
+After a week, Maningas inquired if the checks were received; Rosaria informed him that the checks did not arrive.
+[13]
+ But when Maningas checked his account balance, he discovered that the amount of the checks was already deducted.
+[14]
+ He then clarified with Metrobank and learned that the checks were paid when a person named BIENVINIDO ROSARIA used the checks in opening an account with Real Bank in its Bacoor, Cavite branch.
+[15]
+ Thereafter, the full amount was withdrawn.
+[16]
+It was alleged that the person who represented himself as BIENVINIDO ROSARIA was referred by a retired manager of the Real Bank branch for the opening of an account.
+[17]
+ This person was interviewed and he presented three valid identification cards, which showed no signs of tampering and any adverse findings.
+[18]
+ The branch manager at that time then approved the opening of the account.
+[19]
+ The checks were deposited, and Real Bank sent them to Metrobank for clearing. The checks were allowed to be withdrawn only after they were cleared by Metrobank.
+[20]
+ Maningas alerted Metrobank of the alleged forgeries; so Metrobank attempted to return the checks to Real Bank on the ground of "forged endorsement," but to no avail.
+[21]
+ Maningas thus sent an electronic mail to Real Bank, informing it that the checks were paid to an impostor using the name BIENVINIDO ROSARIA, who opened an account in the branch; this, however, was also ignored, so he sent a formal demand dated September 15, 2006.
+[22]
+This resulted to the filing of Maningas' complaint who contended that both banks were negligent in allowing the unauthorized withdrawal of the amount despite the forged indorsements of the checks.
+[23]
+ As the depository bank, Metrobank has the obligation to pay the checks to the intended payee only upon a genuine indorsementâthe impostor's signature in this case is not a genuine indorsement.
+[24]
+ He added that Metrobank did not notify him prior to debiting his account.
+[25]
+ Metrobank should therefore return the amount. For Real Bank, its liability is derived from its implied warranties as a collecting bank and last indorser in guaranteeing all previous indorsements, including the forged indorsement, and the genuineness of the checks.
+[26]
+ As a result, Real Bank must bear the consequences.
+[27]
+ Maningas also claimed damages and attorney's fees.
+[28]
+Real Bank filed an answer with counterclaim.
+[29]
+ It argued that Maningas had no legal standing to file as Rosaria, being the intended payee, is the real party in interest who had the authority to file the action.
+[30]
+ Real Bank insisted that it followed all rules and regulations in allowing the opening of the account, as well as the subsequent deposit and encashment of the checks.
+[31]
+ The alleged payee, BIENVINIDO ROSARIA, presented the required proofs of identification, and the amount was withdrawn only after the checks were cleared.
+[32]
+ Maningas was therefore precluded from raising the defense of forgery and had no one to blame but himself for sending the checks to another person knowing that the intended payee was also in London.
+[33]
+ Real Bank added that the fictitious payee rule is applicable, making the checks bearer instruments; thus, the forgery had no effect.
+[34]
+Metrobank also filed an answer with crossclaim.
+[35]
+ It argued that the claim for reimbursement should be directed solely against Real Bank; as the collecting bank and last indorser, Real Bank was duty bound to ascertain the genuineness of all prior indorsements.
+[36]
+ When the checks were presented for payment, it was presumed that Real Bank performed its duty.
+[37]
+ Real Bank, however, was remiss in its duty and it should ultimately be responsible for the unlawful withdrawal by reason of the forged indorsements.
+[38]
+Ruling of the Regional Trial Court:
+In its June 22, 2012 Decision,
+[39]
+ the RTC ruled in favor of Maningas and ordered Real Bank to pay, by itself, Maningas the aggregate amount of the checks (P1,152,700.00) plus six percent (6%) interest 
+per annum
+ from the date of the filing of the complaint until full payment thereof.
+The RTC ruled that the true intention of Maningas was to issue the checks in favor of Rosaria.
+[40]
+ Real Bank failed to refute the statement that the typographical error in writing BIENVINIDO as payee was inadvertent on the part of Maningas because he was in a hurry at that time.
+[41]
+ Real Bank vouched for the validity and genuineness of the prior indorsements when it accepted the crossed checks.
+[42]
+The RTC found Real Bank to be negligent as a collecting bank and last indorser in: (a) allowing the opening of the account of a person using the name BIENVINIDO ROSARIA using the subject checks; (b) not scrutinizing and vetting the IDs presented by the person; (c) not inquiring as to the conflict in the civil status appearing in the Voter's ID and application form to open the account; (d) not checking the validity of the IDs presented with the issuing government agency; and, (e) not investigating after being informed that the person purporting to be BIENVINIDO ROSARIA was not the intended payee.
+[43]
+ On the other hand, Metrobank, as drawee, did not breach its duty and was not negligent in dealing with Maningas.
+[44]
+ It followed the instructions of the drawer and relied on the guarantee provided by Real Bank.
+[45]
+ There is nothing negligent in not sending an electronic mail to notify the drawer prior to the actual debiting of the account.
+[46]
+Only Real Bank is liable for being the collecting bank and last indorser.
+[47]
+ As such, it is must scrutinize the checks deposited with it to determine their genuineness and regularity.
+[48]
+ Real Bank, especially in its act of stamping the back of the checks with "all prior indorsements and/or lack of indorsements are guaranteed" became a general endorser under the law and therefore cannot escape liability.
+[49]
+ Metrobank, in paying the check, merely relied on this guarantee.
+[50]
+ The RTC thus ruled that Maningas had no cause of action against Metrobank; it is not solidarily liable with Real Bank in returning the amount of the checks.
+[51]
+The RTC further ruled that the fictitious payee rule is not applicable.
+[52]
+ The intended payee of the checks, Rosaria, is a living and existing person.
+[53]
+ Real Bank did not contest the claim that Maningas simply misspelled Rosaria's name on the checks, thus, the misspelling did not convert the payee to somebody fictitious under the law.
+[54]
+ The checks remained to be order instruments that necessitate indorsements for transfer.
+[55]
+The dispositive portion of the RTC Decision reads:
+WHEREFORE, apriorisms duly considered, the herein defendant The Real Bank (A Thrift Bank), Inc. (Real Bank) is hereby DIRECTED to pay the herein plaintiff the sum of One Million One Hundred Fifty Two Thousand Seven Hundred Pesos (PHP1,152,700.00), with interest at six percent (6%) per annum from the date the present "Complaint" was filed until the said amount is fully paid.
+ The "x x x Cross-Claim" of herein defendant, Metropolitan Bank and Trust Company (Metrobank), against its co-defendant, The Real Bank (A Thrift Bank), Inc. (Real Bank), is hereby DISMISSED.
+Costs de officio.
+SO ORDERED.
+[56]
+Real Bank moved for reconsideration,
+[57]
+ but this was denied by the RTC in its September 13, 2012 Resolution.
+[58]
+ Thus, Real Bank appealed to the CA.
+[59]
+Ruling of the Court of Appeals:
+In its November 29, 2013 Decision,
+[60]
+ the CA affirmed the ruling of the RTC.
+Notably, Real Bank argued in its appeal that the RTC erred in allowing additional evidence that were not included in the pre-trial order despite objections.
+[61]
+ The CA ruled that Real Bank failed to object, thereby waiving the objections and making the additional evidence admissible.
+[62]
+ Further, the RTC's admission of the additional evidence was justified as the trial court saw the necessity and declared that the interest of justice and fairness is best served by allowing the additional evidence.
+[63]
+The CA held that Maningas is not negligent in misspelling the payee's name and in sending the checks by ordinary mail; in fact, he exercised due diligence in the process by crossing the checks and closely monitoring their arrival.
+[64]
+ On the other hand, it was Real Bank that failed to exercise the highest degree of care and diligence as a bank in haphazardly reviewing the documents submitted by the BIENVINIDO person in opening an account.
+[65]
+Real Bank's liability was cemented by its status as collecting bank, especially when it presented the checks to Metrobank for payment with a stamp of guarantee of all prior indorsements.
+[66]
+ The CA held that the act of presentment to the drawee bank connotes that the collecting bank had done its duty with respect to the genuineness and validity of the checks.
+[67]
+ Therefore, Real Bank cannot escape liability and it cannot set up the defense of forgery.
+[68]
+ Real Bank is solely liable for the value of the checks.
+[69]
+ Further, it cannot invoke the fictitious payee rule. Rosaria was the intended payee; Real Bank failed to show that Maningas did not intend for Rosaria to receive the proceeds of the checks.
+[70]
+Real Bank also contended that Republic Act No. (RA) 1405,
+[71]
+ the law on secrecy of bank deposits, was violated when the RTC ordered the production of records pertaining to the deposit account of one BIENVINIDO ROSARIA.
+[72]
+ The CA held that there was no violation because that account was the subject of the instant litigationâthe law allows inquiry on bank accounts that are subject of litigation.
+[73]
+The dispositive portion of the CA Decision reads:
+WHEREFORE
+, premises considered, the assailed Decision dated June 22, 2012 and the Resolution dated September 13, 2012 of the Regional Trial Court, Branch 61, Makati City, in Civil Case No. 09-106 are hereby 
+AFFIRMED
+.
+SO ORDERED.
+[74]
+Real Bank moved for reconsideration of the Decision,
+[75]
+ but this was denied by the CA in its March 14, 2014 Resolution.
+[76]
+Hence this petition, which raises the following errors:
+1. The Court of Appeals gravely erred and departed from the usual course of judicial proceedings in sustaining the action of the trial court allowing the admission of documents and testimony of witnesses not included in the pre-trial order despite objection from petitioner REAL BANK;
+2. The Court of Appeals gravely erred in sustaining the ruling of the trial court in not finding that the writing of the name of the payee "BIENVINIDO ROSARIA" instead of "BIENVENIDO ROSARIA,["] in the two (2) subject checks was an act of gross negligence on the part of [Maningas];
+3. The Court of Appeals gravely erred in sustaining the trial court in not finding that the sending of the completely filled up checks from London England to ParaÃ±aque City, through ordinary mail was an act of gross negligence on the part of [Maningas];
+4. The Court of Appeals gravely erred and departed from the usual course of judicial proceedings in sustaining the ruling of the trial court in not finding that [Maningas] is precluded from setting up the defense of forgery or want of authority against [Real Bank] on account of his own act of gross negligence;
+5. The Court of Appeals gravely erred in sustaining the findings of the trial court that [Real Bank] was negligent and remiss in its obligation as collecting bank and last endorser of the subject checks;
+6. The Court of Appeals gravely erred and departed from the usual course of judicial proceedings in sustaining the ruling of the trial court in not finding that the checks drawn by [Maningas] came within the operation of the fictitious payee rule under Section 09 of the Negotiable Instruments Law and therefore payable to bearer and negotiable by mere delivery rendering immaterial the alleged forged [i]ndorsement;
+7. The Court of Appeals gravely erred and departed from the usual course of judicial proceedings in sustaining the action of the trial court directing [Real Bank] to produce the records of the account of "BIENVINIDO ROSARIA" as it violated the provisions of the Law on Secrecy of Bank Deposits.
+[77]
+Issue
+The issue here boils down to whether Real Bank is liable to return the amount of the checks to respondent Maningas.
+Our Ruling
+The petition has no merit. The Court affirms the rulings of the CA and the RTC. Real Bank is liable to return the amount of the checks to Maningas.  
+ 
+Real Bank is liable to return the amount of the checks to Maningas.
+ 
+Real Bank argues that it should not be liable because Maningas was negligent in misspelling the name of the payees and sending the checks by registered mail to the Philippines.
+[78]
+ Further, it insists that it was not negligent as a collecting bank in failing to detect the irregularities in the impostor's application for opening the bank account.
+[79]
+ Maningas counters that Real Bank was indeed negligent and remiss in its obligation as a collecting bank and last indorser of the checks.
+[80]
+ He also argues that, as found by the RTC and the CA, he was not negligent in misspelling the name of the payees and sending the checks by registered mail to the Philippines.
+[81]
+ He can therefore set up the defense of forgery or want of authority and claim payment from Real Bank.
+[82]
+It is clear that the instant case is a case of unauthorized payment to a person other than the intended payee named on the check. Both the RTC and the CA determined that the intended payee of the checks was indeed Rosaria. As found, the checks made their way to the hands of an impostor who used the name BIENVINIDO ROSARIA for encashment; the intended payee never received the checks.
+At the outset, the Court notes that the pronouncement of Metrobank's nonÂ­-liability has already become final. Metrobank did not file a notice of appeal to assail the RTC Decision precisely because the trial court absolved it from liability; and from then on, it no longer participated in the succeeding proceedings. The CA Decision also notably did not touch upon Metrobank's liability. Further, upon examination of the appeal briefs
+[83]
+ filed with the CA, neither Real Bank nor Maningas mentioned or raised any issue as to the liability of Metrobank. Likewise, the pleadings
+[84]
+ filed before this Court no longer raised issues on the liability of Metrobank. Because of Maningas and Real Bank's failure to appeal the RTC Decision with respect to Metrobank's lack of liability, the decision became final as to the latter. The Court also considers that Metrobank will be deprived of due process if its liability will be touched upon at this stage of the proceedings.
+Thus, the Court cannot and will no longer disturb Metrobank's non-Â­liability. The pronouncement in this case pertains to Real Bank's liability.
+In the normal course of things, however, case law provides that in cases of unauthorized payments to a person other than the payee or his order, the drawee bank is liable for the amount of the checks; in turn, the drawee bank may seek reimbursement from the collecting bank.
+[85]
+ The case of 
+BDO Unibank, Inc. v. Lao
+[86]
+ (
+BDO Unibank
+) discusses the nature of liability of the two banks in cases of unauthorized payments of checks:
+The liability of the drawee bank is based on its contract with the drawer and its duty to charge to the latter's accounts only those payables authorized by him. A drawee bank is under strict liability to pay the check only to the payee or to the payee's order. When the drawee bank pays a person other than the payee named in the check, it does not comply with the terms of the check and violates its duty to charge the drawer's account only for properly payable items.
+On the other hand, the liability of the collecting bank is anchored on its guarantees as the last endorser of the check. Under Section 66 of the Negotiable Instruments Law, an endorser warrants "that the instrument is genuine and in all respects what it purports to be; that he has good title to it; that all prior parties had capacity to contract; and that the instrument is at the time of his endorsement valid and subsisting."
+It has been repeatedly held that in check transactions, the collecting bank generally suffers the loss because it has the duty to ascertain the genuineness of all prior endorsements considering that the act of presenting the check for payment to the drawee is an assertion that the party making the presentment has done its duty to ascertain the genuineness of the endorsements. If any of the warranties made by the collecting bank turns out to be false, then the drawee bank may recover from it up to the amount of the check.
+[87]
+As stated, the drawee bank becomes liable pursuant to its breach of obligation as regards its depositor (drawer) in paying the amount of the check to a person other than the payee or his order. The drawee bank is under strict liability to pay the check only to the payee or his order.
+On the other hand, a collecting bank is "any bank handling an item for collection except the bank on which the check is drawn,"
+[88]
+ and it binds itself to "credit the amount in [the depositor's] account or infuse value thereon only after the drawee bank shall have paid the amount of the check or [after] the check [is] cleared for deposit."
+[89]
+ It becomes liable pursuant to its guarantee as the last indorser of the check, as provided in Section 66, in relation to Section 65, of the Negotiable Instruments Law (NIL), which state:
+[90]
+Section 65. 
+Warranty Where Negotiation by Delivery and So Forth
+. â Every person negotiating an instrument by delivery or by a qualified indorsement warrants â
+(a) That the instrument is genuine and in all respects what it purports to be;
+(b) That he has a good title to it;
+(c) That all prior parties had capacity to contract;
+x x x x
+Section 66. 
+Liability of General Indorser
+. â Every indorser who indorses without qualification, warrants, to all subsequent holders in due course â 
+(a)
+The matters and things mentioned in subdivisions (a), (b), and (c) of the next preceding section; and
+(b)
+That the instrument is at the time of his indorsement valid and subsisting.
+And, in addition, he engages that on due presentment, it shall be accepted or paid, or both, as the case may be, according to its tenor, and that if it be dishonored, and the necessary proceedings on dishonor be duly taken, he will pay the amount thereof to the holder, or to any subsequent indorser who may be compelled to pay it.
+The collecting bank assumes the liabilities of a general indorser when it presents a check to the drawee bank for payment.
+[91]
+ Thus, if any of these warranties turn out to be false, the collecting bank becomes liable to the drawee bank for any payments made on the check by virtue of the false warranties.
+[92]
+Pursuant to the rule, the drawee bank should reimburse the amount to the drawer; subsequently, the drawee bank may seek reimbursement from the collecting bank.
+In the instant case, Metrobank (drawee bank) charged Maningas' account and paid the subject checks to an impostor who used the name BIENVINIDO ROSARIA after Real Bank (collecting bank) presented the checks stamped with "all prior indorsements and/or lack of indorsements are guaranteed" for payment.
+Again, as Metrobank's non-liability has become final, the Court cannot disturb the pronouncement and impose upon the bank.
+But assuming that Metrobank's non-liability is not yet final and considering the above principles on liability of banks, the Court finds that, considering the circumstances, Metrobank is still not liable. As aptly pointed out by Senior Associate Justice Perlas-Bernabe, Metrobank in fact strictly complied with the drawer's instructions.
+[93]
+ The bank released payment to the named payee in the checks, although the name was misspelled.
+[94]
+ There is no indication that Metrobank knew of the typographical error in the name of the stated payee. Thus, Metrobank cannot be faulted in the performance of its duty to the drawer. The trial court is correct in finding that Metrobank is not liable.
+Notwithstanding Metrobank's non-liability, Maningas can still recover the amount of the checks from Real Bank, the collecting bank. Real Bank guaranteed that the checks were genuine and in all respects what they purport to be, and that the indorser (payee) had good title to themâwhich Metrobank relied on for the release of payment. As it turned out, the impostor had no good title to the checks as he was not the intended payee; it was proven that Rosaria (through his sister) did not receive the checks. Real Bank's guarantees thus turned out to be false, making it liable to reimburse the drawee the amount of the checks.
+Further, Real Bank's own negligence, as found by the CA and the RTC, contributed to the improper payment when it failed to detect the impostor in opening the account.
+[95]
+ The CA is correct in pointing out that the banking industry is imbued with public interest; banks are thus expected to always observe the highest degree of care and diligence in their transactions.
+[96]
+ Real Bank should have detected the irregularities in the documents of the impostor and prevented the unauthorized payment had it exercised extraordinary diligence.
+For these reasons, Real Bank is liable to return the amount of the checks to Maningas.
+Now, the Court is not unaware of the exception when liability will not attach to the drawee bank or collecting bankâwhen the unauthorized payment was caused by the drawer's own fault or negligence.
+[97]
+Real Bank insists that Maningas was grossly negligent in misspelling the name of Rosaria in the two checks and in sending the checks by registered mail from London to the Philippines.
+[98]
+ Real Bank argues that these acts of gross negligence preclude Maningas from raising the defense of "forgery or want of authority;"
+[99]
+ thus, he should not be allowed to recover the amount of the checks.
+[100]
+Negligence is the omission to do something which a reasonable human, guided by those considerations that ordinarily regulate the conduct of human affairs, would do, or doing of something which a prudent and reasonable human would not do.
+[101]
+ It is a question of fact that should be resolved on a case-byÂ­-case basis.
+[102]
+ It is not presumed and it must be proven by the party that alleges.
+[103]
+The Court agrees with the CA that Maningas was not negligent at that time. The RTC and the CA did not rule that Maningas was negligent on the issuance of the checks. As the CA duly noted, the contention that Maningas was negligent is not supported by evidence.
+[104]
+ The RTC also stated that "Real Bank did not offer any proof to countervail the claim of Maningas that it was sheer inadvertence on his part" in misspelling the name of Rosaria.
+[105]
+ In other words, Real Bank failed to overcome the presumption that Maningas is not negligent in issuing the checks. Thus, the Court finds no reason to disturb these findings of fact by the RTC and CA. After all, this Court is not a trier of facts;
+[106]
+ and, the instant case does not fall under any of the exceptions laid by jurisprudence.
+[107]
+ Maningas can therefore set up the defense of want of authority.
+Of course, Real Bank can seek reimbursement from the very personâthe impostorâthat caused the unauthorized payment of the checks and was benefitted therefrom. That person may be considered as the one ultimately liable for the unauthorized payment because of his absolute lack of valid title to the checks he was able to encash.
+[108]
+ As that person was not impleaded in this case, the Court cannot make a pronouncement on that regard.
+[109]
+ Real Bank may instead file a separate action against that individual.
+At this juncture, the Court notes that direct recourse to Real Bank for payment finds support from the rule on simplification of the proceedings for recovery in cases of unauthorized payments of checks, where the drawer may seek recovery directly from the collecting bank without passing through the drawee bank on the sequence of liability.
+[110]
+ As shown, the sequence of recovery is amply provided in case law. However, there may be exceptional circumstances which would justify simplification of recovery, such as the finality of the pronouncement on the drawee bank's non-liability and the drawee bank's strict compliance with its duty notwithstanding the actual lack of authority of the payee,
+[111]
+ as in this case.
+Considering all the foregoing, the Court holds Real Bank liable to return the amount of the checks directly to Maningas.  
+ 
+The fictitious payee rule is not applicable in this case.
+ 
+Another bone of contention is the applicability of the fictitious payee rule to this case. Real Bank argues that Maningas' act of misspelling the name of the payee calls for the application of the rule; Maningas knowingly misspelled the name, but he had no intention of making BIENVINIDO ROSARIA the recipient of the amount of the checks.
+[112]
+ Thus, BIENVINIDO ROSARIA is a fictitious payee.
+[113]
+ As such, Real Bank claims that it should not have been liable as the checks became bearer instruments and indorsements are not necessary for it to accept the checks for deposit.
+[114]
+ Maningas, on the other hand, contends that he intended the checks to be paid to an actual and existing person, Rosaria, despite the misspelling in the name.
+[115]
+The fictitious payee rule is provided in Section 9 of the NIL, thus:
+Section 9. 
+When Payable to Bearer
+. â The instrument is payable to bearer â
+x x x x
+(c) When it is payable to the order of a fictitious or non-existing person, and such fact was known to the person making it so payable; x x x
+If the payee is fictitious, the negotiable instrument becomes a bearer instrument. Indorsement is therefore not necessary for valid negotiation and transfer of the instrument.
+[116]
+ The case of 
+Philippine National Bank v. Rodriguez
+,
+[117]
+ as cited by the lower courts and the parties, discusses the concept of the fictitious payee rule:
+A check that is payable to a specified payee is an order instrument. However, under Section 9 (c) of the NIL, a check payable to a specified payee may nevertheless be considered as a bearer instrument if it is payable to the order of a fictitious or non-existing person, and such fact is known to the person making it so payable. Thus, checks issued to "Prinsipe Abante" or "Si Malakas at si "Maganda", who are well-known characters in Philippine mythology, are bearer instruments because the named payees are fictitious and non-existent.
+We have yet to discuss a broader meaning of the term "fictitious" as used in the NIL. It is for this reason that We look elsewhere for guidance. Court rulings in the United States are a logical starting point since our law on negotiable instruments was directly lifted from the Uniform Negotiable Instruments Law of the United States.
+A review of US jurisprudence yields that an actual, existing, and living payee may also be "fictitious" if the maker of the check did not intend for the payee to in fact receive the proceeds of the check. This usually occurs when the maker places a name of an existing payee on the check for convenience or to cover up an illegal activity. Thus, a check made expressly payable to a non-Â­fictitious and existing person is not necessarily an order instrument. If the payee is not the intended recipient of the proceeds of the check, the payee is considered a "fictitious" payee and the check is a bearer instrument.
+x x x x
+In the case under review, the Rodriguez checks were payable to specified payees. It is unrefuted that the 69 checks were payable to specific persons. Likewise, it is uncontroverted that the payees were actual, existing, and living persons who were members of PEMSLA that had a rediscounting arrangement with spouses Rodriguez.
+What remains to be determined is if the payees, though existing persons, were "fictitious" in its broader context.
+For the fictitious-payee rule to be available as a defense, PNB must show that the makers did not intend for the named payees to be part of the transaction involving the checks. At most, the bank's thesis shows that the payees did not have knowledge of the existence of the checks. This lack of knowledge on the part of the payees, however, was not tantamount to a lack of intention on the part of respondents-spouses that the payees would not receive the checks' proceeds. Considering that respondents-spouses were transacting with PEMSLA and not the individual payees, it is understandable that they relied on the information given by the officers of PEMSLA that the payees would be receiving the checks.
+Verily, the subject checks are presumed order instruments. This is because, as found by both lower courts, PNB failed to present sufficient evidence to defeat the claim of respondents-spouses that the named payees were the intended recipients of the checks' proceeds. The bank failed to satisfy a requisite condition of a fictitious-payee situation â that the maker of the check intended for the payee to have no interest in the transaction.
+Because of a failure to show that the payees were "fictitious" in its broader sense, the fictitious-payee rule does not apply. Thus, the checks are to be deemed payable to order. Consequently, the drawee bank bears the loss.
+[118]
+As can be gleaned, there are two instances when a payee is considered fictitious under the NIL. First is when the payee is indeed a fictitious (
+per se
+) or non-existing person, and such fact is known by the maker or drawer. As stated, examples are "Prinsipe Abante" or "Si Malakas at si Maganda"
+[119]
+ â these names are indeed fictitious. And, it would be safe to imply that it would be rare for persons to have names that are widely known to be fictitious.
+Second is when the maker or drawer does not intend for the payee indicated â though an existing person â to receive the proceeds of the instrument. To illustrate, a check made payable to the Chief Justice of the Supreme Court of the United States (Chief Justice John G. Roberts, Jr. at this time) may be considered a bearer instrument pursuant to the rule if it is shown that the drawer did not really intend for the Chief Justice to receive the amount of the check. Here, the Chief Justice is indeed an existing person; but the fictitious payee rule kicks in after determining the drawer's intent. Hence, the maker or drawer's intention is the primary consideration. In this regard, the party alleging that the payee is fictitious under the second instance should prove that the maker or the drawer did not intend for that person indicated to be the recipient of the value of the instrument.
+[120]
+In this case, Real Bank's insistence on the application of the rule is misplaced. The misspelling of Rosaria's name did not make the payee of the checks fictitious under the law. It must be emphasized that the RTC and CA have determined that Maningas truly intended for the actual Rosaria to be the payee of the checks. Maningas did not intend to write a different name from the name of the intended payee. The typographical error was not due to Maningas' negligence as found by the lower courts. Again, there is no reason for this Court to review findings of fact of the lower courts. Thus, it is proper to state that Rosaria is indeed the payee despite the misspelling of his name. BIENVINIDO ROSARIA as written on the checks pertains to Rosaria as Maningas had intended. The fictitious payee rule is not applicable because the payee written on the checks is the same with the intended payee by the drawer.
+As such, the subject checks in the instant case remain to be order instruments. Indorsement is necessary for their valid negotiation. Liability therefore validly attaches to Real Bank.  
+ 
+There is a violation of the law on secrecy of bank deposits.
+ 
+Real Bank contends that the RTC's action directing it to produce the bank records of the impostor violates the law on secrecy of bank deposits.
+[121]
+ Real Bank posits that the impostor's bank account is not the subject of litigation, and emphasized that the impostor himself is not a party to the instant case.
+[122]
+ Also, Maningas' cause of action was never to recover from the impostor's bank account.
+[123]
+ Maningas, however, argues that the money deposited to the impostor's bank account is the subject matter of litigation (the instant case) as he is seeking to recover that very amount improperly paid to the impostor.
+[124]
+The Court finds that the RTC erred in ordering the production of the impostor's bank records.
+RA 1405
+[125]
+ is enacted to help encourage the public to deposit their money in banking institutions so that it may be used on loans and eventually assist in the economic development of the country.
+[126]
+ The law protects deposits of whatever nature from examination and inquiry, subject to certain exceptions:
+[127]
+Section 2. All deposits of whatever nature with banks or banking institutions in the Philippines including investments in bonds issued by the Government of the Philippines, its political subdivisions and its instrumentalities, are hereby considered as of an absolutely confidential nature and may not be examined, inquired or looked into by any person, government official, bureau or office, except upon written permission of the depositor, or in cases of impeachment, or upon order of a competent court in cases of bribery or dereliction of duty of public officials, or in cases where the money deposited or invested is the subject matter of the litigation.
+Relevant to this case is the exception where the money deposited or invested is the subject matter of the litigation. The Court, in 
+Union Bank of the Philippines v. Court of Appeals
+,
+[128]
+ noted that inquiry will be allowed if the money deposited in the account is itself the subject matter of litigation.
+[129]
+ In 
+BSB Group, Inc. v. Go
+,
+[130]
+ the Court elaborated that the subject matter of the action should be deduced from the indictment and not from the evidence sought to be admitted.
+[131]
+ For civil cases, the subject matter should be deduced from the allegations in the complaint, and not from the evidence sought to be admitted. For inquiry to be allowed, the subject matter should be the actual money itself, not the mere money equivalent of the checks.
+[132]
+In this case, it is clear that Maningas seeks to recover the money that was deposited and encashed by the impostor in Real Bank Maningas' action, however, was directed against the banks, and not against the impostor who opened an account with Real Bank. Thus, it is apparent that Maningas is seeking to recover the mere money equivalent of the checks erroneously paid by the banks, and not the money itself that is already long gone in the hands of the impostor. For this reason, the money deposited is not the subject matter of the litigation. The exception provided in the law is not present in this case, thus, the inquiry ordered by the RTC is improper. After all, "[s]hould there be doubts in upholding the absolutely confidential nature of bank deposits against affirming the authority to inquire into such accounts, then such doubts must be resolved in favor of the former."
+[133]
+It is important to emphasize that the liabilities of the banks, as already determined, will not be affected even if the information on the bank account are to be excluded because of a violation of RA 1405. The case can be ruled upon, as it was adjudicated, even without the information on the bank account of the impostor. To recall, Real Bank's liability is by virtue of the guarantees it extended being the collecting bank and last indorser of the checks.  
+ 
+The RTC did not err in allowing the admission of additional evidence not included in the preÂ­-trial order.
+ 
+Real Bank again assails the RTC's admission of additional evidence not included in the pre-trial order. It insists that it made timely objections to the admission of the additional evidence.
+[134]
+ Real Bank argues that Maningas did not present justifiable reasons for the RTC to relax the rules and admit the additional evidence.
+[135]
+ Maningas contends that the trial court admitted evidence not included in the pre-trial order in order to aid it in the judicious evaluation of the facts of the case and to serve the end of justice.
+[136]
+ He adds that Real Bank failed to timely object to the presentation of the additional evidence; Real Bank raised its objections for the first time on appeal.
+[137]
+As to this issue, the Court agrees with the CA that the RTC did not err in admitting evidence that were not included in the pre-trial order.
+A.M. No. 03-1-09-SC
+[138]
+ provides for the guidelines to be observed by trial courts including during the pre-trial:
+I. PRE-TRIAL
+A. Civil Cases
+x x x x
+2. The parties shall submit, at least three (3) days before the pre-trial, pre-trial briefs containing the following:
+x x x x
+d. The documents or exhibits to be presented, stating the purpose thereof. (No evidence shall be allowed to be presented and offered during the trial in support of a party's evidence-in-chief other than those that had been earlier identified and pre-marked during the pre-trial, except if allowed by the court for good cause shown);
+x x x x
+f. The number and names of the witnesses, the substance of their testimonies, and the approximate number of hours that will be required by the parties for the presentation of their respective witnesses.
+x x x x
+The rule provides that the parties shall already indicate in their pre-trial briefs the documentary and testimonial evidence that they intend to present. The briefs will be the basis of the pre-trial order that the court will issue; the order will enumerate the evidence that each side is allowed to present.
+[139]
+No documentary evidence shall be presented and offered in trial other than those that had been earlier identified and pre-marked during the pre-trial, except if allowed by the court for good cause shown. There is no hard and fast rule to determine what may constitute "good cause," though this Court has previously defined it as any substantial reason "that affords a legal excuse."
+[140]
+ The good cause exception, however, does not extend to testimonial evidence,
+[141]
+ especially since the Judicial Affidavit Rule governs presentation of testimonial evidence.
+[142]
+The Court agrees with the CA. Except on two of the three additional witnesses that Maningas presented, Real Bank failed to raise timely objections to the offer of the additional documentary and testimonial evidence. Real Bank properly objected to the presentation of Celia Pineda and Angelita O. Grey as witnesses.
+[143]
+ However, it failed to object on the other documentary and testimonial evidence on the ground that they were not included in the pre-trial order.
+[144]
+ Indeed there were objections, but the grounds raised were different.
+[145]
+ Thus, the additional pieces of evidence became admissible.
+Regardless of whether these additional pieces of evidence are excluded or not, the liabilities of the banks as already determined will not be affected. The additional pieces of evidence are not necessary to rule that Real Bank is liable by virtue of the guarantees it extended being the collecting bank and last indorser of the checks.
+Legal interest
+Lastly, the Court fixes the legal interest imposable on the amount of the checks to be returned by Real Bank. Legal interest is imposed as follows: (a) twelve percent (12%) 
+per annum
+ from the filing of the complaint on February 10, 2009 until June 30, 2013; (b) six percent (6%) 
+per annum
+ from July 1, 2013 until finality of the Decision;
+[146]
+ and, (c) the total amount of the foregoing shall, in turn, earn interest at the rate of six percent (6%) 
+per annum
+, from finality of the Decision until full payment.
+WHEREFORE
+, the petition is 
+DENIED
+. The November 29, 2013 Decision and March 14, 2014 Resolution of the Court of Appeals in CA-G.R. CV. No. 99817 are 
+AFFIRMED
+ with 
+MODIFICATION
+ in that legal interest on the amount due is imposed as follows: (a) twelve percent (12%) per 
+annum
+ from the filing of the complaint on February 10, 2009 until June 30, 2013; (b) six percent (6%) per 
+annum
+ from July 1, 2013 until finality of the Decision; and, (c) the total amount of the foregoing shall, in turn, earn interest at the rate of six percent (6%) per 
+annum
+, from finality of the Decision until full payment. 
+SO ORDERED.
+Perlas-Bernabe, (Chairperson), Zalameda, Rosario
+, and 
+Marquez, JJ.
+, concur.
+[1]
+ 
+Rollo
+, pp. 12-41.
+[2]
+ Id. at 43-67. Penned by Associate Justice Remedios A. Salazar-Fernando and concurred in by Associate Justices Samuel H. Gaerlan (now a Member of this Court) and Victoria Isabel A. Paredes.
+[3]
+ Id. at 69-70. Penned by Associate Justice Remedios A. Salazar-Fernando and concurred in by Associate Justices Danton Q. Bueser and Eduardo B. Peralta, Jr.
+[4]
+ CA 
+rollo
+, pp. 36-58. Penned by Presiding Judge J. Cedrick O. Ruiz.
+[5]
+ Records, p. 703.
+[6]
+ Id. at 1-28.
+[7]
+ 
+Rollo
+, p. 44.
+[8]
+ Id. at 44-45.
+[9]
+ Id. at 45.
+[10]
+ Id.
+[11]
+ Id. Note the difference in the spelling of the first name: letters "E" and "I" for the sixth letter of the name. Bienvenido is the actual name of the intended payee; Bienvinido was the name written as payee of the checks and the name used for the opening of an account with Real Bank.
+[12]
+ Id.
+[13]
+ Id.
+[14]
+ Id.
+[15]
+ Id. at 45-46.
+[16]
+ Id. at 46.
+[17]
+ Id.
+[18]
+ Id.
+[19]
+ Id.
+[20]
+ Id.
+[21]
+ Id.
+[22]
+ Id.
+[23]
+ Id. at 47.
+[24]
+ Id.
+[25]
+ CA 
+rollo
+, p. 45.
+[26]
+ 
+Rollo
+, pp. 47-48.
+[27]
+ Id. at 48.
+[28]
+ Id.
+[29]
+ Records, pp. 43-51.
+[30]
+ 
+Rollo
+, p. 48.
+[31]
+ Id.
+[32]
+ Id.
+[33]
+ Id.
+[34]
+ Id. at 48-49.
+[35]
+ Records, pp. 56-62.
+[36]
+ 
+Rollo
+, p. 49.
+[37]
+ Id.
+[38]
+ Id.
+[39]
+ CA 
+rollo
+, pp. 36-58.
+[40]
+ Id. at 40.
+[41]
+ Id. at 40-41, 57.
+[42]
+ Id. at 41-42.
+[43]
+ Id. at 42-43.
+[44]
+ Id. at 44.
+[45]
+ Id. at 44-45.
+[46]
+ Id. at 45.
+[47]
+ Id. at 45-46.
+[48]
+ Id.
+[49]
+ Id. at 46.
+[50]
+ Id.
+[51]
+ Id. at 48-50.
+[52]
+ Id. at 52-57.
+[53]
+ Id. at 56.
+[54]
+ Id.
+[55]
+ Id.
+[56]
+ Records, p. 633.
+[57]
+ Id. at 634-647.
+[58]
+ Id. at 703.
+[59]
+ CA 
+rollo
+, pp. 59-61.
+[60]
+ 
+Rollo
+, pp. 43-67.
+[61]
+ Id. at 51-52. See id. at 98 for the list of additional documentary evidence admitted: Certification from the Professional Regulation Commission (PRC) dated September 23, 2013 (Exhibit "G"); Employee Static Information issued by the Social Security System (SSS) (Exhibit "H"); Certification from the Commission on Elections (Comelec) dated October 7, 2010 (Exhibit "I"); purported PRC ID in the name of a certain Bienvinido Rosaria (Exhibit "J"); purported Bureau of Internal Revenue ID in the name of a certain Bienvinido Rosaria (Exhibit "K"); purported SSS ID in the name of a certain Bienvinido Rosaria (Exhibit "L"); purported Comelec ID name of a certain Bienvinido Rosaria (Exhibit "M"). See id. at 22 for the list of additional testimonial evidence admitted: Celia Pineda of the PRC, Angelita O. Grey of the SSS, and Remegio Redaniel of Comelec.
+[62]
+ Id. at 52.
+[63]
+ Id.
+[64]
+ Id. at 53-56.
+[65]
+ Id. at 57-60.
+[66]
+ Id. at 61.
+[67]
+ Id.
+[68]
+ Id.
+[69]
+ Id. at 62.
+[70]
+ Id. at 63-65.
+[71]
+ Entitled "AN ACT PROHIBITING DISCLOSURE OF OR INQUIRY INTO DEPOSITS WITH ANY BANKING INSTITUTION AND PROVIDING PENALTY THEREFOR." Approved: September 9, 1955.
+[72]
+ 
+Rollo
+, pp. 65-66.
+[73]
+ Id.
+[74]
+ Id. at 66.
+[75]
+ CA 
+rollo
+, pp. 224-233.
+[76]
+ 
+Rollo
+, pp. 69-70.
+[77]
+ Id. at 19-20.
+[78]
+ Id. at 24-31.
+[79]
+ Id. at 31-33.
+[80]
+ Id. at 111-125.
+[81]
+ Id. at 125-127.
+[82]
+ Id. at 127-133.
+[83]
+ CA 
+rollo
+, pp. 72-99 (Appellant's Brief), 124-185 (Appellee's Brief), 190-196 (Reply Brief).
+[84]
+ 
+Rollo
+, pp. 12-41 (Petition), 78-142 (Comment).
+[85]
+ 
+Metropolitan Bank & Trust Co. v. Junnel's Marketing Corporation
+, G.R. Nos. 232044 & 232057, August 27, 2020.
+[86]
+ 811 Phil. 280 (2017).
+[87]
+ Id. at 293.
+[88]
+ 
+Yon Mitori International Industries v. Union Bank of the Philippines
+, G.R. No. 225538, October 14, 2020, citing 
+Areza v. Express Savings Bank, Inc.
+, 742 Phil. 623, 639 (2014).
+[89]
+ Id.
+[90]
+ Act No. 2031, The Negotiable Instruments Law (1911). Enacted: February 3, 1911. 
+[91]
+ 
+Metropolilan Bank & Trust Co. v. Junnel's Marketing Corporation
+ (2020), supra note 85.
+[92]
+ Id.
+[93]
+ 
+Letter of Senior Associate Justice Estela Perlas-Bernabe
+ dated March 1, 2022 (Re: Suggested Modifications [to the instant case]), p. 1.
+[94]
+ Id.
+[95]
+ 
+Rollo
+, pp. 56-60. CA 
+rollo
+, pp. 42-43.
+[96]
+ Id. at 57, citing Republic Act No. 8791, AN ACT PROVIDING FOR THE REGULATION OF THE ORGANIZATION AND OPERATIONS OF BANKS, QUASI-BANKS, TRUST ENTITIES AND FOR OTHER PURPOSES [THE GENERAL BANKING LAW OF 2000] sec. 2 (2000). Approved: May 23, 2000.
+[97]
+ See 
+Metropolitan Bank and Trust Company v. Junnel's Marketing Corporation
+, 833 Phil. 1107, 1124 (2018), and 
+Allied Banking Corporation v. Lim Sio Wan
+, 573 Phil. 89, 107 (2008).
+[98]
+ 
+Rollo
+, pp. 24-28.
+[99]
+ Id. at 28-31.
+[100]
+ Id. at 31.
+[101]
+ 
+Philippine Savings Bank v. Sakata
+, G.R. No. 229450, June 17, 2020.
+[102]
+ Id.
+[103]
+ Id.
+[104]
+ Id. at 53.
+[105]
+ CA 
+rollo
+, p. 57.
+[106]
+ 
+Philippine Savings Bank v. Sakata
+, supra note 101.
+[107]
+ See id., citing 
+Pascual v. Burgos
+, 776 Phil. 167, 182-183 (2016).
+[108]
+ 
+Metropolitan Bank and Trust Company v. Junnel's Marketing Corporation
+, supra.
+[109]
+ See id.
+[110]
+ See 
+BDO Unibank v. Lao
+, supra note 86.
+[111]
+ Id.
+[112]
+ 
+Rollo
+, pp. 33-36.
+[113]
+ Id.
+[114]
+ Id. at 36.
+[115]
+ Id. at 134-138.
+[116]
+ See The Negotiable Instruments Law, sec. 30.
+[117]
+ 588 Phil. 196 (2008).
+[118]
+ Id. at 210-214. Citations omitted.
+[119]
+ Id. at 210.
+[120]
+ Id. at 213.
+[121]
+ 
+Rollo
+, pp. 36-37.
+[122]
+ Id. at 37.
+[123]
+ Id.
+[124]
+ Id. at 107-110.
+[125]
+ Entitled "AN ACT PROHIBITING DISCLOSURE OF OR INQUIRY INTO DEPOSITS WITH ANY BANKING INSTITUTION AND PROVIDING PENALTY THEREFOR." Approved: September 9, 1955.
+[126]
+ See Section 1 of RA 1405.
+[127]
+ See Section 2 of RA 1405.
+[128]
+ 378 Phil. 1177 (1999).
+[129]
+ Id. at 1183.
+[130]
+ 626 Phil. 501 (2010).
+[131]
+ Id. at 516.
+[132]
+ See id. at 517.
+[133]
+ Id. at 517-518.
+[134]
+ 
+Rollo
+, p. 22.
+[135]
+ Id. at 23.
+[136]
+ Id. at 96-97.
+[137]
+ Id. at 97-107.
+[138]
+ 
+Re: Proposed Rule on Guidelines to be Observed by Trial Court Judges and Clerks of Court in the Conduct of Pre-Trial and Use of Deposition-Discovery Measures
+ (2004). Dated July 13, 2004.
+[139]
+ See Annex "D" of A.M. No. 03-1-09-SC.
+[140]
+ 
+Heirs of Lagon v. Ultramax Healthcare Supplies, Inc.
+, G.R. No. 246989, December 7, 2020, citing 
+Cruz v. People
+, 810 Phil. 801, 814-815 (2017).
+[141]
+ 
+Chua v. Spouses Cheng
+, 821 Phil. 594, 603 (2017).
+[142]
+ A.M. No. 12-8-8-SC, Judicial Affidavit Rule. Note, however, that this Rule had yet to take effect at the time the instant case was heard and decided by the RTC. Dated September 4, 2012.
+[143]
+ 
+Rollo
+, pp. 52, 190-196.
+[144]
+ Id.
+[145]
+ Id.
+[146]
+ See 
+Nacar v. Gallery Frames
+, 716 Phil. 267, 281-283 (2013), and 
+Rivera v. Spouses Chua
+, 750 Phil. 663, 684-686 (2015).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

@@ -1,0 +1,459 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			740 PHIL. 279
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 205610, July 30, 2014 ]
+
+
+PEOPLE OF THE PHILIPPINES, PLAINTIFF-APPELLEE, VS. RAMONITO VILLARTA Y RIVERA AND ALLAN ARMENTA Y CABILES, ACCUSED-APPELLANTS.
+D E C I S I O N
+
+
+
+
+PEREZ, J.:
+
+
+This is an appeal from the Court of Appeals Decision
+[1]
+ dated 20 July 2012 in CA-G.R. CR-HC No. 04953 affirming the Regional Trial Court
+[2]
+ (RTC) Joint Decision
+[3]
+ dated 26 October 2010 in Criminal Case Nos. 14948-D, 14949-D, 14950-D, 14951-D and 14952-D, convicting herein appellant Ramonito Villarta 
+y
+ Rivera 
+alias
+ Monet (Villarta) for Violation of Sections 5 and 11, Article II of Republic Act No. 9165, otherwise known as the âComprehensive Dangerous Drugs Act of 2002,â and herein appellant Allan Armenta 
+y
+ Cabiles 
+alias
+ Ambo (Armenta) for Violation of Section 11 of the same law.
+Appellant Villarta was charged in three (3) separate Informations,
+[4]
+ all dated 24 April 2006, for Violation of Sections 5 (Illegal Sale of Dangerous Drugs), 11 (Illegal Possession of Dangerous Drugs) and 15 (Illegal Use of Dangerous Drugs), Article II of Republic Act No. 9165, the accusatory portions of which read:
+CRIMINAL CASE NO. 14948-D
+On or about [20 April 2006] in Pasig City, and within the jurisdiction of this Honorable Court, the [herein appellant Villarta], 
+not being lawfully authorized by law
+, did then and there willfully, unlawfully and feloniously 
+sell, deliver and give away to [Police Officer 2 (PO2) Ronald R. Caparas], a police poseur buyer, one (1) heat-sealed transparent plastic sachet containing 0.02 gram of white crystalline substance, which was found positive to the test for 
+ephedrine
+, a dangerous drug, in violation of the said law.
+[5]
+  (Emphasis supplied).
+CRIMINAL CASE NO. 14949-D
+On or about [20 April 2006] in Pasig City, and within the jurisdiction of this Honorable Court, the [appellant Villarta], 
+not being lawfully authorized to possess any dangerous drug,
+ did then and there willfully, unlawfully and feloniously 
+have in his possession and under his custody and control one (1) heat-sealed transparent plastic sachet containing 0.03 gram of white crystalline substance, which was found positive to the test for 
+ephedrine
+, a dangerous drug, in violation of the said law.
+[6]
+  (Emphasis supplied).
+CRIMINAL CASE NO. 14950-D
+On or about [20 April 2006] in Pasig City, and within the jurisdiction of this Honorable Court, the [appellant Villarta], 
+not being lawfully authorized by law to use any dangerous drug,
+ did then and there willfully, unlawfully and knowingly 
+use, smoke and ingest into his body a 
+methylamphetamine hydrochloride
+, a dangerous drug
+, and, that this is the first offense of the [appellant Villarta] under Section 15, of the above-cited law, 
+who after a confirmatory urine test, was found positive to the test for 
+methamphetamine hydrochloride
+, a dangerous drug, in violation of the above-cited law.
+[7]
+  (Emphasis supplied).
+Appellant Armenta was charged in two (2) separate Informations,
+[8]
+ all dated 24 April 2006, for Violation of Sections 11 and 15, Article II of Republic Act No. 9165, the accusatory portions of which read:
+CRIMINAL CASE NO. 14951-D
+On or about [20 April 2006] in Pasig City, and within the jurisdiction of this Honorable Court, [the herein appellant Armenta], 
+not being lawfully authorized to possess any dangerous drug
+, did then and there willfully, unlawfully and feloniously 
+have in his possession and under his custody and control one (1) heat-sealed transparent plastic sachet containing 0.03 gram of white crystalline substance, which was found positive to the test for 
+ephedrine
+, a dangerous drug,
+ in violation of the said law.
+[9]
+  (Emphasis supplied).
+CRIMINAL CASE NO. 14952-D
+On or about [20 April 2006] in Pasig City, and within the jurisdiction of this Honorable Court, the [appellant Armenta], 
+not being lawfully authorized by law to use any dangerous drug
+, did then and there willfully, unlawfully and knowingly 
+use, smoke and ingest into his body a THC-metabolites, a dangerous drug
+, and, that this is the first offense of the [appellant Armenta] under Section 15, of the above-cited law, who
+ after a confirmatory urine test, was found positive to the test for 
+methamphetamine hydrochloride
+, a dangerous drug
+, in violation of the above-cited law.
+[10]
+  (Emphasis supplied).
+Upon arraignment,
+[11]
+ both appellants pleaded NOT GUILTY to the respective charges against them.  Thereafter, joint trial on the merits ensued.
+The prosecution presented PO2 Ronald R. Caparas (PO2 Caparas), who acted as the 
+poseur
+-buyer in the buy-bust operation conducted against appellant Villarta;
+[12]
+ PO2 Jesus Cambronero (PO2 Cambronero), who acted as the immediate back-up of PO2 Caparas;
+[13]
+ and Police Senior Inspector Sandra Decena Go (P/Sr. Insp. Go), the forensic chemical officer who conducted physical, chemical and confirmatory tests on the items seized from the appellants.
+[14]
+  The testimony, however, of the other prosecution witness PO1 Allan Mapula (PO1 Mapula) was dispensed with per stipulation of the parties that: (1) he is the investigating officer in these cases; and (2) he was the one who prepared the Affidavit of Arrest of PO2 Caparas and the Request for Laboratory Examination, as well as the Request for Drug Test.
+[15]
+On the side of the defense, both appellants were presented to contradict all the allegations of the prosecution.
+[16]
+The respective versions of the prosecution and the defense, as accurately summarized by the Court of Appeals, are as follows:
+On 19 April 2006 at around 9:30 oâclock in the evening, PO2 [Caparas] was at the Station Anti-Illegal Drugs Special Operation Task Force (SAID-SOTF) office in Pasig City.  A confidential informant arrived and spoke with Police Inspector Ronaldo Pamor [P/Insp. Pamor].  The informant gave the tip that a certain MONET was selling 
+shabu
+ along Urbano Velasco Avenue, Pinagbuhatan, Pasig City.  As a result, [P/Insp. Pamor] conducted a short briefing attended by [Senior Police Officer 1 (SPO1)] Baltazar, PO2 Camb[r]onero, PO2 Monte, [Police Officer 1 (PO1)] Caridad, PO1 Mapula and PO2 Caparas.  [P/Insp.] Pamor instructed PO1 Mapula to prepare a pre-operational report
+[17]
+ to be submitted to the Philippine Drug Enforcement Agency (PDEA), and directed PO1 Caparas to act as the 
+poseur
+-buyer while PO2 Camb[r]onera was to serve as his back-up.
+In preparation for their operation, PO2 Caparas marked two pieces of the One-Hundred Peso (P100.00) bill with his initials âRRCâ on the lower right portion.  
+Tout de suite
+, the team, together with the confidential informant proceeded to Velasco Avenue.  There, they went inside an alley located at the Cupa Compound.  However, they learned from the two persons standing along the alley that MONET had already left.  [P/Insp.] Pamor instructed the informant to inform them whenever MONET would return.
+The following day, at about 5:00 oâclock in the afternoon, the confidential informant called and told a member of the SAID-SOTF that MONET was already in the target place.  Subsequently, the buy-bust team met with the former at the market terminal.  PO2 Caparas and the informant again proceeded to Velasco Avenue.  When they reached Cupa Compound, the latter secretly told PO2 Caparas that MONET was standing at the alley.  They approached MONET.  The informant then told him: â
+Pare iiscore to
+â referring to PO2 Caparas.  He told MONET that he would buy P200.00 worth of 
+shabu
+ after which, he handed MONET the money.  At this point, a male person arrived and asked MONET: â
+Pare, meron pa ba
+?â  MONET retorted: â
+Dalawang piraso na lang ito
+.â  The male person then gave MONET P100.00.  Immediately thereafter, MONET handed one sachet to PO2 Caparas and the other one to the male person.  PO2 Caparas examined the sachet and gave the pre-arranged signal by wearing his cap.  He then introduced himself as a police officer, and arrested MONET who was identified as [herein appellant] Ramonito Villarta [
+y
+ Rivera].
+When the other members of the team arrived, PO2 Caparas told PO2 Camb[r]oner[o] that the other male person was also possessing 
+shabu
+.  In a bit, he was also apprehended and identified later on as [herein appellant] Allan Armenta [y Cabiles] @ AMBO.  PO2 Caparas recovered from MONET the marked money and one plastic sachet while PO2 Camb[r]onero recovered from AMBO the other plastic sachet.  Both PO2 Caparas and PO2 Camb[r]onero marked the items they had seized.
+At the police station, PO1 Mapula prepared the requests for drug test and laboratory examination.  Thereafter, the seized items were brought to the Philippine National Police Crime Laboratory.  Forensic Chemical Officer [P/Sr. Insp. Go] received the above-mentioned requests and conducted laboratory tests on the subject specimens.  The seized drugs gave positive result for 
+ephedrine
+, a dangerous drug.  Likewise, the drug tests showed that the respective urine samples of MONET and AMBO were positive for methamphetamine and THC metabolites, both of which are dangerous drugs.
+The defense proffered a divergent version of the facts.
+Both MONET and AMBO denied the charges.  MONET asseverated that between 3:00 oâclock and 4:00 oâclock in the afternoon of 19 April 2006, he was resting in the room he was renting.  Suddenly, four armed male persons entered looking for a certain âJay Jay.â  When he replied that he did not know such person, he was brought and detained in Pariancillo.  It was there where he first met AMBO.
+On the other hand, AMBO maintained that between 1:00 oâclock and 2:00 oâclock in the afternoon on even date while waiting for a tricycle in front of the 7-11 Store, three armed persons approached him.  One of them placed his arm around his shoulder, the other one handcuffed him, while the third called for a tricycle.  Subsequently, he was brought to the Pariancillo Headquarters.  When he asked why he was arrested, the aforesaid men did not answer him.  At the headquarters, he was frisked since they were looking for a cellular phone which he had allegedly snatched.  When nothing was found with him, he was mauled and forced to confess where he brought the phone.  It was there where he got to know MONET.
+[18]
+On 26 October 2010, the RTC, after considering the testimonies of both parties, rendered its Joint Decision, the decretal portion of which reads:
+WHEREFORE
+, premises considered, judgment is hereby rendered as follows:
+1) In 
+Criminal Case No. 14948-D
+, this Court finds the [herein appellant] 
+Ramonito Villarta 
+y
+ Rivera
+ alias
+ 
+Monet, 
+guilty
+ beyond reasonable doubt of the crime of 
+Violation of Section 5, Article II of R.A. No. 9165
+, otherwise known as the Comprehensive Dangerous Drugs of 2002, and he is sentenced to suffer the penalty of life imprisonment and to pay a fine in the amount of P500,000.00 without subsidiary imprisonment in case of insolvency;
+2) In 
+Criminal Case No. 14949-D and Criminal Case No. 14951-D
+, this Court finds the [appellants] 
+Ramonito Villarta 
+y
+ Rivera
+ alias 
+Monet
+ and 
+Allan Armenta 
+y
+ Cabiles
+ 
+alias
+ 
+Ambo, 
+guilty
+ beyond reasonable of the crime of 
+Violation of Section 11, Article II of R.A. No. 9165
+, otherwise known as the Comprehensive Dangerous Drugs of 2002 and they are each sentenced to suffer an indeterminate prison term of twelve (12) years and one (1) day, as minimum, to fourteen (14) years and eight (8) months, as maximum, and to pay a fine of P300,000.00 without subsidiary imprisonment in case of insolvency; and
+3) 
+Criminal Case No. 14950-D and Criminal Case No. 14952-D
+ for 
+Violation of Section 15, Article II of R.A. No. 9165
+ otherwise known as the Comprehensive Dangerous Drugs of 2002 against [appellants] 
+Ramonito Villarta y Rivera 
+alias 
+Monet 
+and 
+Allan Armenta 
+y
+ Cabiles
+ alias
+ Ambo are ordered 
+DISMISSED.
+In the meantime, the Branch Clerk of Court is directed to transmit the dangerous drugs, â
+ephedrine,
+â subject of these cases to the Philippine Drug Enforcement Agency for its disposition in accordance with law.
+[19]
+  (Emphasis supplied).
+The RTC elucidated that the prosecution has sufficiently established all the elements for a successful prosecution of illegal sale of prohibited drugs, which is in violation of Section 5, Article II of Republic Act No. 9165.  PO2 Caparas, who acted as the 
+poseur
+-buyer, specifically stated that appellant Villarta sold to him one-heat sealed transparent plastic sachet containing 0.02 gram of white crystalline substance worth P200.00.  It was seized and later on found positive to the test for 
+ephedrine
+, a dangerous drug.  Their transaction was proven by the actual exchange of the marked money consisting of two P100.00-peso bills, and the drug sold.  PO2 Caparas positively identified appellant Villarta as the seller of the said one-heat sealed transparent plastic sachet containing white crystalline substance, which was later on confirmed as 
+ephedrine
+, a dangerous drug, by P/Sr. Insp. Go, the Forensic Chemist, who performed laboratory examination on all the seized items.
+[20]
+As for the charge of illegal possession of prohibited drugs, which is in violation of Section 11, Article II of Republic Act No. 9165, against both appellants, the RTC also found that all the elements thereof were completely satisfied.  When the appellants were arrested by PO2 Caparas and PO2 Cambronero, they were both found in possession of dangerous drugs.  Both of them could not present any proof or justification that they were fully authorized by law to possess the same.  Having been caught 
+in flagrante delicto
+, there is 
+prima facie
+ evidence of 
+animus possidendi
+ or intent to possess.
+[21]
+In dismissing the charge of illegal use of dangerous drugs in violation of Section 15, Article II of Republic Act No. 9165, against both appellants, the RTC applied the 
+proviso
+ of the afore-stated Section 15.  The RTC, thus, held that when a person is found to have possessed and used dangerous drugs at the same time, Section 15 shall not be applicable in which case the provisions of Section 11 shall apply.
+[22]
+The RTC likewise held that despite the non-compliance with the requirements of physical inventory and photograph of the seized items, the integrity and evidentiary value of the same were properly preserved because the chain of custody appears not to have been broken.  Thus, in its entirety, there was substantial compliance with the law.
+[23]
+On appeal, the Court of Appeals affirmed the RTC Joint Decision dated 26 October 2010.
+[24]
+Hence, the present appeal raising the same assignment of errors in their Appellantsâ Brief filed before the Court of Appeals, to wit: (a) the trial court gravely erred in pronouncing the guilt of the [appellants] despite the obvious non-compliance with the requirements for the proper custody of seized dangerous drugs under Republic Act No. 9165; and (b) the trial court gravely erred in pronouncing the guilt of the [appellants] notwithstanding the failure of the prosecution to preserve the integrity and evidentiary value of the allegedly seized dangerous drugs.
+[25]
+This Court sustains appellantsâ conviction.
+Essentially, the findings of fact of the trial court are entitled to great weight on appeal and should not be disturbed except for strong and valid reasons since the trial court is in a better position to examine the demeanor of the witnesses while testifying.
+[26]
+  This rule finds an even more stringent application where said findings are sustained by the Court of Appeals
+[27]
+ as in this case.
+After a careful perusal of the records, this Court finds no compelling reason to deviate from the lower courtsâ findings that, indeed, the appellantsâ guilt on the respective charges against them were sufficiently proven by the prosecution beyond reasonable doubt.
+In every prosecution for illegal sale of dangerous drugs, like 
+ephedrine 
+in this case, the following elements must be sufficiently proved to sustain a conviction therefor: (1) the identity of the buyer, as well as the seller, the object and consideration of the sale; and (2) the delivery of the thing sold and the payment therefor.  
+What is material is proof that the transaction or sale actually took place, coupled with the presentation in court of the dangerous drugs seized as evidence.  The commission of the offense of illegal sale of dangerous drugs requires merely the consummation of the selling transaction, which happens the moment the buyer receives the drug from the seller.
+  Settled is the rule that as long as the police officer went through the operation as a buyer and his offer was accepted by appellant and the dangerous drugs delivered to the former; 
+the crime is considered consummated by the delivery of the goods.
+[28]
+In the present case, this Court totally agrees with the lower courts that the aforesaid elements of illegal sale of dangerous drugs were adequately and satisfactorily established by the prosecution.
+To note, appellant Villarta, who was caught 
+in flagrante delicto
+, was positively identified by PO2 Caparas, who acted as the poseur-buyer, as the same person who sold the one heat-sealed transparent plastic sachet containing 0.02 gram of white crystalline substance, later confirmed as 
+ephedrine,
+ for a consideration of P200.00.  The said one heat-sealed transparent plastic sachet of 
+ephedrine
+ was presented in court, which PO2 Caparas identified to be the same object sold to him by appellant Villarta.  Moreover, the same bears the markings RRV/RRC 04-20-06, which he had written at the scene of the crime.  âRRVâ represents the initials of appellant Villarta while âRRCâ represents the initials of PO2 Caparas.  The marking â04-20-06â represents the date the said drug was seized.  PO2 Caparas similarly identified in court the recovered marked money from appellant Villarta consisting of two P100.00-peso bills in the total amount of P200.00 with markings âRRCâ on the lower right portion thereof.
+[29]
+Likewise, the testimony of PO2 Caparas clearly established in detail how his transaction with appellant Villarta happened starting from the moment their informant introduced him to appellant Villarta as someone interested in buying his stuff, up to the time he handed to appellant Villarta two P100.00 peso bills marked money amounting to P200.00 and, in turn, appellant Villarta handed him the one heat-sealed transparent plastic sachet of 
+ephedrine
+ thus consummating the sale transaction between them.  PO2 Caparas caused the one-heat sealed transparent plastic sachet of 
+ephedrine
+ to be examined at the PNP Crime Laboratory.  The item weighing 0.02 gram was tested positive for 
+ephedrine
+ as evidenced by Chemistry Report No. D-355-06
+[30]
+ prepared by P/Sr. Insp. Go, Forensic Chemical Officer of the PNP Crime Laboratory, Camp Crame, Quezon City.
+[31]
+From the foregoing, it is already beyond question that appellant Villartaâs guilt for illegal sale of 
+ephedrine,
+ a dangerous drug, in violation of Section 5, Article II of Republic Act No. 9165 was proven by the prosecution beyond reasonable doubt.
+With respect to the prosecution of illegal possession of dangerous drugs, the following facts must be proved: (a) the accused was in possession of dangerous drugs, (b) such possession was not authorized by law, and (c) the accused was freely and consciously aware of being in possession of dangerous drugs.
+[32]
+In the case under consideration, this Court also conforms to the lower courtsâ findings that all the elements of illegal possession of dangerous drugs were adequately proven by the prosecution.
+It bears emphasis that when the sale transaction between PO2 Caparas and appellant Villarta was on-going, another male person, who was later on identified to be appellant Armenta, came in and also bought one-heat sealed transparent plastic sachet containing 0.03 gram of white crystalline substance later on confirmed to be 
+ephedrine
+, a dangerous drug.  Upon the consummation of the sale transaction, between PO2 Caparas and appellant Villarta, the former gave the pre-arranged signal by wearing his cap.  PO2 Caparas then introduced himself as the police officer and arrested appellant Villarta.  PO2 Caparas then recovered from appellant Villarta the marked money and another one-heat sealed transparent plastic sachet containing 0.03 gram of white crystalline substance later on confirmed as 
+ephedrine
+, a dangerous drug.  When the immediate back-up officer, PO2 Cambronero, arrived, PO2 Caparas informed him that appellant Armenta was in possession of one-heat sealed transparent plastic sachet containing 0.03 gram of white crystalline substance, which the latter just bought from appellant Villarta.  Thus, appellant Armenta was also apprehended and PO2 Cambronero recovered from him one heat-sealed transparent plastic sachet containing 0.03 gram of white crystalline substance confirmed to be 
+ephedrine,
+ a dangerous drug.
+[33]
+  Clearly, both appellants were found in possession of dangerous drugs.  As observed by the RTC, which the Court of Appeals affirmed, both appellants could not present any proof or justification that they were fully authorized by law to possess the same.  Having been caught 
+in flagrante delicto
+, there is 
+prima facie 
+evidence of 
+animus possidendi 
+or intent to possess.
+Now, going to the issue raised by the appellants on the failure of the prosecution to comply with Section 21, Article II of Republic Act No. 9165, this Court similarly affirms the findings of both lower courts that such failure will not render the appellantsâ arrest illegal or the items seized/confiscated from them inadmissible.
+In 
+People v. Ventura
+,
+[34]
+ this Court held that:
+The procedure for the custody and disposition of confiscated, seized and/or surrendered dangerous drugs, among others, is provided under Section 21, paragraph 1 of Article II of Republic Act No. 9165, as follows:
+(1) The apprehending officer/team having initial custody and control of the drugs shall, immediately after seizure and confiscation, physically inventory and photograph the same in the presence of the accused or the person/s from whom such items were confiscated and/or seized, or his/her representative or counsel, a representative from the media and the Department of Justice (DOJ), and any elected public official who shall be required to sign the copies of the inventory and be given a copy thereof.
+Section 21(a), Article II of the Implementing Rules and Regulations of Republic Act No. 9165, which implements said provision, stipulates:
+(a) The apprehending officer/team having initial custody and control of the drugs shall, immediately after seizure and confiscation, physically inventory and photograph the same in the presence of the accused or the person/s from whom such items were confiscated and/or seized, or his/her representative or counsel, a representative from the media and the Department of Justice (DOJ), and any elected public official who shall be required to sign the copies of the inventory and be given a copy thereof: x x x 
+Provided, further
+, that non-compliance with these requirements under justifiable grounds, as long as the integrity and the evidentiary value of the seized items are properly preserved by the apprehending officer/team, shall not render void and invalid such seizures of and custody over said items.
+Under the same proviso, 
+non-compliance with the stipulated procedure, under justifiable grounds, shall not render void and invalid such seizures of and custody over said items, for as long as the integrity and evidentiary value of the seized items are properly preserved by the apprehending officers.
+Clearly, 
+the purpose of the procedure outlined in the implementing rules is centered on the 
+preservation
+ of the
+ integrity
+ and 
+evidentiary value
+ of the seized items.
+[35]
+  (Emphasis supplied).
+The chain of custody requirement performs the function of ensuring that the integrity and evidentiary value of the seized items are preserved, so much so that unnecessary doubts as to the identity of the evidence are removed.
+  To be admissible, the prosecution must show by records or testimony, the continuous whereabouts of the exhibit at least between the time it came into possession of the police officers and until it was tested in the laboratory to determine its composition up to the time it was offered in evidence.
+[36]
+In the case at bench, after PO2 Caparas seized and confiscated the one heat-sealed transparent plastic sachet containing 0.02 gram of 
+ephedrine,
+ which was the subject of the sale transaction, as well as the one heat-sealed transparent plastic sachet containing 0.03 gram of 
+ephedrine
+, which was recovered from appellant Villarta after he was arrested and ordered to empty his pocket, and the marked money used in the buy-bust operation, the former immediately marked the seized drugs at the place of arrest.  He put the markings RRV/RRC 04-20-06 on the seized drug subject of the sale and the markings RRV/RRC on the seized drug recovered from appellant Villarta.  PO2 Cambronero, the immediate back-up of PO2 Caparas, also recovered from appellant Armenta one-heat sealed transparent plastic sachet containing 0.03 gram of 
+ephedrine
+.  PO2 Cambronero, who was then beside PO2 Caparas, similarly marked the seized drug from appellant Armenta at the place of arrest.  They then brought the appellants, together with the seized items at their station.  Where PO1 Mapula, the investigating officer, prepared the Request for Laboratory Examination,
+[37]
+ the Request for Drug Test
+[38]
+ and the Affidavit of Arrest of PO2 Caparas.
+[39]
+  Thereafter, PO2 Caparas personally brought all the seized items to the crime laboratory for examination.  The seized items were examined by P/Sr. Insp. Go and they all yielded positive results for 
+ephedrine
+, a dangerous drug.  When the seized items were offered in court, they were all properly identified by the prosecution witnesses.  These facts persuasively proved that the three plastic sachets of 
+ephedrine
+ presented in court were the same items seized from the appellants during the buy-bust operation.  The integrity and evidentiary value thereof were duly preserved.
+It has been judicially settled that in buy-bust operations, the testimony of the police officers who apprehended the accused is usually accorded full faith and credit because of the 
+presumption that they have performed their duties regularly
+.  This presumption is overturned only if there is clear and convincing evidence that they were not properly performing their duty or that they were inspired by improper motive.
+[40]
+  In this case, there was none.
+In comparison to the overwhelming evidence of the prosecution, all that the appellants could muster is the defense of denial and frame-up.  Denial or frame-up, like 
+alibi
+, has been viewed with disfavor for it can just as easily be concocted and is a common and standard defense ploy in most prosecutions for violation of Dangerous Drugs Act.  The defense of frame-up or denial in drug cases requires strong and convincing evidence because of the presumption that the law enforcement agencies acted in the regular performance of their official duties.
+[41]
+  In the present case, the bare denial of the appellants cannot prevail over the positive testimony of the prosecution witnesses.
+WHEREFORE
+, premises considered, the Court of Appeals Decision dated 20 July 2012 in CA-G.R. CR-HC No. 04953 is hereby 
+AFFIRMED 
+in toto
+.
+SO ORDERED.
+Carpio, (Chairperson), Brion, Del Castillo, 
+ and 
+Perlas-Bernabe, JJ
+. concur.
+[1]
+ Penned by Associate Justice Japar B. Dimaampao with Associate Justices Elihu A. YbaÃ±ez and Victoria Isabel A. Paredes, concurring.
+ Rollo
+, pp. 2-23.
+[2]
+ Pasig City, Branch 151.
+[3]
+ Penned by Presiding Judge Maria Teresa Cruz-San Gabriel.  CA rollo, pp. 22-42.
+[4]
+ Records, pp. 1-2 and 14-17.
+[5]
+ Id. at 1.
+[6]
+ Id. at 14.
+[7]
+ Id. at 16.
+[8]
+ Id. at 18-21.
+[9]
+ Id. at 18.
+[10]
+ Id. at 20.
+[11]
+ Per RTC Order dated 25 September 2006.  Id. at 38.
+[12]
+ TSN, 7 February 2007, pp. 2-21.
+[13]
+ TSN, 23 April 2007, pp. 2-12.
+[14]
+ TSN, 4 March 2009, pp. 3-18.
+[15]
+ TSN, 4 March 2009, pp. 2 and 18-19; Per RTC Order dated 4 March 2009, Records, pp. 118-119.
+[16]
+ TSN, 10 June 2009, pp. 2-6; TSN, 2 September 2009, pp. 2-12.
+[17]
+ Records, p. 11.
+[18]
+ CA Decision dated 20 July 2012.  Rollo, pp. 5-7.
+[19]
+ CA 
+rollo,
+ pp. 41-42.
+[20]
+ Id. at 29-33.
+[21]
+ Id. at 40.
+[22]
+ Id. at 40-41.
+[23]
+ Id. at 39-40.
+[24]
+ CA Decision dated 20 July 2012.  Rollo, p. 22.
+[25]
+ CA 
+rollo,
+ p. 58.
+[26]
+ 
+People v. Apattad,
+ G.R. No. 193188, 10 August 2011, 655 SCRA 335, 349.
+[27]
+ People v. Campomanes, 
+G.R. No. 187741, 9 August 2010, 627 SCRA 494, 504.
+[28]
+ 
+People v. Dela Rosa,
+ G.R. No. 185166, 26 January 2011, 640 SCRA 635, 646-647.
+[29]
+ TSN, 7 February 2007, pp. 5 and 9-13.
+[30]
+ Records, p. 141.
+[31]
+ TSN, 7 February 2007, pp. 8-10, 12 and 14-15.
+[32]
+ People v. Abedin
+, G.R. No. 179936, 11 April 2012, 669 SCRA 322, 332.
+[33]
+ TSN, 7 February 2007, pp. 9-13; TSN, 23 April 2007, pp. 4-6.
+[34]
+ G.R. No. 184957, 27 October 2009, 604 SCRA 543.
+[35]
+ Id. at 558-559.
+[36]
+ 
+People v. Dela Rosa, 
+supra note 28 at 653.
+[37]
+ Records, p. 8.
+[38]
+ Id. at 10.
+[39]
+ Id. at 5-6.
+[40]
+ 
+People v. Dela Rosa
+, supra note 28 at 654.
+[41]
+ Id. at 656.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

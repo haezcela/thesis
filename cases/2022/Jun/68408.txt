@@ -1,0 +1,499 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 253327, June 27, 2022 ]
+
+
+PEOPLE OF THE PHILIPPINES, PLAINTIFF-APPELLEE, VS. DANILO REYES CRISOLOGO AND ROBERTO LOLENG MANLAVI, ACCUSED-APPELLANTS.
+DECISION
+
+
+
+
+LAZARO-JAVIER, J.:
+
+
+The Case
+This appeal seeks to reverse and set aside the Decision
+[1]
+ dated November 29, 2019 of the Sandiganbayan in Criminal Case No. SB-17-CRM-0168 entitled 
+People of the Philippines v. Danilo Reyes Crisologo and Roberto Loleng Manlavi
+, which found appellants Danilo R. Crisologo (Crisologo) and Roberto Loleng Manlavi (Manlavi) guilty of violation of Section 3(e) of Republic Act No. 3019 (RA 3019), otherwise known as the Anti-Graft and Corrupt Practices Act, and sentenced them to six (6) years and one (1) month, as minimum, to ten (10) years, as maximum, with perpetual disqualification from holding public office.
+Antecedents
+Crisologo and Manlavi were charged with violation of Section 3(e) of RA 3019, otherwise known as the Anti-Graft and Corrupt Practices Act, as follows:
+That in 2007 and 2008, or sometime prior or subsequent thereto, in the City of Pasay, Philippines, and within the jurisdiction of this Honorable Court, accused Danilo Reyes Crisologo, high ranking public officer being then the President of the Philippine Aerospace Development Corporation (PADC), conspiring with Roberto Loleng Manlavi, Senior Vice President of PADC, while in the performance of their official functions as such, with manifest partiality, evident bad faith, or gross inexcusable negligence, did then and there willfully, unlawfully, and criminally give unwarranted benefit, advantage, or preference to Wingtips Parts Corp. (Wingtips) by selling through negotiation PADC aircraft spare parts, accessories and equipment at a loss to Wingtips, in violation of Commission on Audit rules and PADC's Revised Pricing Policy requiring 30% mark-up added to the acquisition cost of said items, thereby causing undue injury or pecuniary loss to PADC amounting to at least PhP6,246,635.00, representing the difference between total actual selling price of the items and their selling price at the standard mark-up of 30%.
+CONTRARY TO LAW
+.
+[2]
+The case was raffled to the Third Division of the Sandiganbayan composed of Honorable Presiding Justice Amparo M. Cabotaje-Tang, Honorable Associate Justice Bernelito R. Fernandez, and Honorable Associate Justice Ronald B. Moreno.
+On arraignment, appellants Crisologo and Manlavi both pleaded not guilty.
+[3]
+During the pre-trial, the parties stipulated that the Philippine Aerospace Development Corporation (PADC) is a government-owned and controlled-corporation created under Presidential Decree No. (PD) 286, as amended by PD 696, and at the time material to the case, Crisologo was holding the position of President of PADC, with Salary Grade 28, while Manlavi was holding the position of Senior Vice-President with Salary Grade 26.
+[4]
+During the trial proper, Hale Oliver Labayo, Arsenio S. Rayos, Jr., Lourdes C. Borromeo, Marianne L. Diez, Nora C. Federizo, and Phyllis O. CastaÃ±eda testified for the prosecution.
+Version of the Prosecution
+PADC is primarily engaged in aircraft repairs but it also sells aircraft spare parts.
+[5]
+ On September 4, 2006, the PADC's pricing policy committee issued a revised pricing policy for a 30% mark-up to be added to the cost of parts purchased from local sources.
+[6]
+On November 12, 2007, Crisologo, in his capacity as PADC President, appointed Manlavi as temporary Senior Vice-President. On November 16, 2007, Manlavi issued a Memorandum regarding the pricing of PADC spare parts, where he noted that PADC spare parts should be made attractive to buyers "with the end view of optimizing its remaining value before eventually becoming scrap value due to obsolescence."
+[7]
+ Thus, he proposed the following guidelines in determining the value for the said parts (
+with the signature of Crisologo affixed below the signature of Manlavi
+):
+If [the] part is without documents (No more value and need to [be] remove[d] from [the] inventory) --- reduce [the] value to 2.5% of value for single parts and to 5% for assemblies of acquisition cost.
+If [the] part is no longer in manufacturers' parts/catalogue lists (No more value and need to [be] remove[d] from [the] inventory) -- reduce to 2.5% of value for single parts and to 5% for assemblies of acquisition cost.
+If [the] part is still in the manufacturers' parts/catalogue lists from the date of acquisition, reduce value by 5% depreciation/year or reduce to 5% for single parts and 10% for assemblies, whichever is higher. For common hardware, add 2.5% increase per year.
+3. Upon determination of the value of the particular part, the following formula will apply and the sale shall be treated on [an] as-is where-is basis with no PADC guarantees as to the actual condition or documentation:
+ 
+ 
+ 
+ 
+ 
+FOR FOREIGN VALUES
+: 
+ 
+ 
+ 
+â¢ 
+ 
+Value multiply by 1.6 (existing PADC pricing policy factor for foreign) multiply by the current foreign exchange rate plus 12% VAT - PADC 
+ SELLING PRICE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FOR LOCAL VALUES:
+ 
+ 
+ 
+â¢ 
+ 
+Value multiply by 1.3 (existing PADC pricing policy factor for local) plus 12% VAT = PADC SELLING PRICE
+[8]
+ 
+ 
+From February to July 2008, PADC and Wingtips Parts Corporation (Wingtips) entered into seven (7) transactions for the sale of various aircraft parts. On June 15, 2009, Commission on Audit (COA) Chairperson Reynaldo A. Villar ordered an investigation on the alleged irregularities in the sale of aircraft parts between PADC and Wingtips.
+[9]
+Following their Fraud Audit Investigation, State Auditor IV 
+Lourdes C. Borromeo
+ submitted their Fraud Audit Report No. 2010-008 which bore the following findings, among others: (a) the aircraft spare parts were sold at prices below PADC's pricing policy, without expert appraisal as to the market value of the spare parts; (b) the prices were unilaterally set by Manlavi based on his own proposed guidelines and without the approval of the Board of Directors and expert study and appraisal as to the actual value and condition of the inventories to be sold;
+[10]
+ (c) the items sold could not be considered scrap, obsolete, or of no value, in fact, they were considered as brand new as they were still stored in PADC's stock room and remained in the inventories before the sale.
+[11]
+ It is also a general principle in accounting that items which remain in inventories are not subject to depreciation;
+[12]
+ (d) instead of bonded organic personnel manning the stockroom which housed millions worth of aircraft parts and accessories, Crisologo personally hired consultants to do this task;
+[13]
+ and (e) Crisologo ordered the use of computer-printed receipts to replace the serially pre-numbered receipts.
+[14]
+Arsenio S. Rayos, Jr.
+ testified that he was a former State Auditor of the COA assigned at the PADC. As regards the sale of aircraft parts, the auditors usually verify the acquisition cost of the item/s for sale based on the stock cards and ledger cards. It was the management's responsibility to determine the condition of the items during an inventory and it has the authority to reduce the price of its inventories, subject to the approval of the COA. Too, during a regular sale of inventories, it is not required for a COA representative to be present, as their presence is only required in large scale sale. The President of PADC, on the other hand, must participate in all inventory sales as he is primarily liable for all its assets.
+[15]
+As Resident Auditor, he conducted an audit of PADC transactions, including one relating to a sale of various aircraft spare parts, accessories, and equipment to Wingtips. This particular audit led to the issuance of Audit Observation Notice of Charge No. 2009-001 (2008) due to the sale of aircraft spare parts to Wingtips, at a loss. He also issued Memorandum No. 2008-10 wherein he recommended that the PADC stop its disposal of aircraft parts and accessories at a loss. Despite his directive, PADC did not submit its basis for selling the spare parts. PADC also failed to submit the Net Realizable Value (NRV) of the items.
+[16]
+Hale Oliver Labayo
+ of the Securities and Exchange Commission (SEC) testified that Wingtips is a duly registered corporation primarily engaged in the business of trading goods such as aircraft batteries, oils, and lubricants on wholesale or retail basis.
+[17]
+Phyllis O. CastaÃ±eda, Marianne L. Diez,
+ and 
+Nora C. Federizo
+ presented in court the certified true copies of the pertinent documents pertaining to the sale of the subject spare parts.
+[18]
+After the prosecution rested its case, on May 27, 2019 and May 28, 2019, Crisologo and Manlavi filed their respective Motions for Leave of Court to File Attached Demurrer to Evidence. Under Resolutions dated June 3, 2019 and June 25, 2019, the Sandiganbayan denied the motions for leave. On July 23, 2019 and August 20, 2019, Crisologo and Manlavi, respectively, manifested that they would pursue their demurrer to evidence without leave of court.
+Demurrer to Evidence of Crisologo
+Crisologo mainly argued that: (1) his guilt was not proven beyond reasonable doubt; (2) there was no direct evidence that linked him to the questioned sale other than his signature on the documents as President of PADC, and his signature should not automatically give rise to criminal liability; and (3) the vital witnesses to the Fraud Audit Investigation were not presented in court.
+[19]
+He claimed that the airline industry is a sophisticated one with a "fast-phased updates" on their models. Thus, old model parts easily fall to obsolescence. The subject spare parts sold to Wingtips were classified in the aircraft industry as "obsolete". In any event, the proceeds of the sale redounded to the benefit of PADC. He acted in good faith in raising funds for the "depleted funding of the PADC."
+[20]
+Worse, he was deprived of administrative due process because he was not given a chance to participate in the Fraud Audit Investigation.
+[21]
+Demurrer to Evidence of Manlavi
+Manlavi posited that the prosecution failed to prove the second and third elements of Section 3(e) of RA 3019. For one, the computation used in the determination of undue injury had no reasonable basis because: (1) the prosecution failed to establish that the subject spare parts were brand new; (2) the special audit team did not consult experts in the aviation industry as to the condition of the subject spare parts; and (3) he was not consulted on why he fixed specific prices for these spare parts. The NRV, which is the estimated selling price in the ordinary course of business less the estimated cost of completion and the estimated costs necessary to make the sale, of the subject spare parts should be the basis of the alleged undue injury, and not the acquisition cost of the subject spare parts. The old stocks are generally cheaper compared to new stocks, and aviation spare parts nearing obsolescence have little or no value compared to those that are included in the catalogue.
+[22]
+Opposition to Crisologo's Demurrer to Evidence
+The prosecution opposed Crisologo's demurrer to evidence. First, it rejected Crisologo's claim that the subject spare parts were already obsolete for lack of evidence. Too, the sale was tainted with irregularities, 
+viz
+.: (a) it was done without the approval of the board of directors; (b) a negotiated sale instead of a public bidding was resorted to, and the parts were sold at extremely reduced prices disregarding PADC's existing Revised Pricing Policy, thus causing undue injury to the government in the form of pecuniary loss in the amount of P6,246,635.00.
+[23]
+Crisologo's claim of good faith should not be given credence. No amount of good intent on his part nor on the part of Manlavi could justify the multiple violations of law and of PADC policies and standards each of them incurred. He was not denied due process. Fraud audit is not an administrative process but a mere fact-finding or investigative technique. In any event, he and Manlavi were not deprived of the opportunity to contest the 
+notice of disallowance
+ and 
+notice of suspension
+ issued against them. In any case, the position of the management and Manlavi's explanation were both taken into account during the audit. Further, the proceedings before the COA are independent from the criminal aspect of this case; hence, Crisologo cannot invoke a violation of administrative due process as a ground for demurring to the prosecution evidence.
+[24]
+Opposition to Manlavi's Demurrer to Evidence
+According to the prosecution, Manlavi incurred multiple violations of the law in the sale of PADC's aircraft spare parts, which resulted in giving unwarranted benefits to Wingtips. It was not the prosecution's duty to establish that the subject spare parts were not damaged or obsolete. Too, the audit team could not consult any aviation expert to verify the condition of the subject spare parts precisely because the subject spare parts were already sold and were no longer in the possession of PADC. Spare parts should be sold based on their recorded book values, which was not done insofar as the questioned sale was concerned.
+[25]
+Ruling of the Sandiganbayan
+By its assailed Decision dated November 29, 2019, the Sandiganbayan found Crisologo and Manlavi guilty of violation of Section 3(e) of RA 3019, 
+viz
+.:
+WHEREFORE
+, the Court finds accused Danilo Reyes Crisologo and Roberto Loleng Manlavi 
+GUILTY BEYOND REASONABLE DOUBT
+ for violation of Section 3 (e) of R.A. No. 3019. Accordingly, they are hereby sentenced to suffer the indeterminate penalty of six (6) years and one (1) month, as minimum, to ten (10) years, as maximum, and to suffer the penalty of perpetual disqualification from holding public office.
+SO ORDERED
+.
+[26]
+The Sandiganbayan held that under the Government Auditing and Accounting Manual (GAAM), the primary mode of disposal or divestment of government property is through public bidding. Negotiated sale may only be resorted to in certain exceptional cases. The sale of the subject spare parts, however, was made through negotiated sale without first conducting a public bidding and without showing that a resort to negotiated sale was justified. What Manlavi himself said was they resorted to negotiated sale because the previous sales transactions by previous PADC managements also did not observe the prescribed public bidding procedures; and "
+a deal was made based on the quotations submitted to and acceptable to buyers
+."
+[27]
+In sum, the resort to negotiated sale was absolutely devoid of any factual or legal basis. Crisologo and Manlavi's disregard of the applicable rules in the disposal of property of the PADC clearly evinced evident bad faith and manifest partiality on their part.
+Worse, it was not shown that the spare parts were already obsolete to justify their sale at extremely low prices. In fact, there was absolutely no proof as to the actual condition of the subject spare parts at the time they got sold. In any event, the fact that the subject spare parts were sold to a company engaged in trading aircraft parts, oils, or lubricants contradicts the claim that the spare parts were already obsolete or of no use or value. Notably, Borromeo testified that the spare parts were still stored in the stock room, thus, indicating they were still new. As such, the same were not yet subject to depreciation but to the revised pricing policy of PADC prescribing a 30% mark-up to be added to the acquisition cost.
+[28]
+Manlavi issued a memorandum for the pricing of the certain parts and Crisologo affixed his signature thereto, signaling his approval thereof. Manlavi used this memorandum to determine the respective prices and values of the spare parts sold to Wingtips. There was no proof at all how this new guidelines came into being. More, their proposal was not even submitted to the PADC pricing committee or its Board of Directors.
+[29]
+Based on PADC's 
+Schedule of Sold Aircraft Spare Parts, Accessories and Equipment
+ for the year 2008, PADC could have earned P7,489,868.50 from the subject sale, but it only earned P849,510.22 from said sale. Consequently, PADC suffered a loss of P6,640,358.28.
+[30]
+The Present Petition
+Crisologo and Manlavi pray anew for their acquittal, reiterating the arguments presented in their respective Demurrers to Evidence. They claim that the elements for violation of Section 3(e) are lacking, 
+viz
+.: (1) they did not act with manifest partiality, evident bad faith or gross negligence; and (2) their action did not cause any undue injury to any party, including the government, or give any private party unwarranted benefits, advantage or preference in the discharge of their functions.
+They assert that their customers purchased the spare parts from PADC not through public bidding but through the ordinary process of sale, akin to the private sector. Further, the sale made to Wingtips and the other customers did not cause undue injury to PADC and the amount of the sale was based on accepted accounting principles.
+[31]
+Our Ruling
+We affirm.
+Crisologo and Manlavi were charged with violation of Section 3(e) of RA 3019, 
+viz
+.:
+Section 3.
+ 
+Corrupt practices of public officers
+. In addition to acts or omissions of public officers already penalized by existing law, the following shall constitute corrupt practices of any public officer and are hereby declared to be unlawful:
+x x x        x x x        x x x
+(e) Causing any undue injury to any party, including the Government, or giving any private party any unwarranted benefits, advantage or preference in the discharge of his official administrative or judicial functions through manifest partiality, evident bad faith or gross inexcusable negligence. This provision shall apply to officers and employees of offices or government corporations charged with the grant of licenses or permits or other concessions.
+Violation of Section 3(e) of RA 3019 requires the following elements: (1) the accused must be a public officer discharging administrative, judicial, or official functions or a private individual acting in conspiracy with such public officers; (2) the accused acted with manifest partiality, evident bad faith, or inexcusable negligence; and (3) the action caused any undue injury to any party, including the government, or gave any private party unwarranted benefits, advantage, or preference in the discharge of his or her functions.
+[32]
+There is no question as to the presence of the first element here â Crisologo was the President while Manlavi was Senior Vice-President of PADC, a government-owned and controlled-corporation (GOCC) created under PD 286, as amended by PD 696.
+We now focus on the second and third elements.
+Second element
+Manifest partiality, evident bad faith,
+or inexcusable negligence
+In 
+Quiogue v. Estacio, Jr.
+,
+[33]
+ the Court emphasized anew that Section 3(e) of RA 3019 may be committed either by 
+dolo
+, as when the accused acted with evident bad faith or manifest partiality, or by 
+culpa
+ as when the accused committed gross inexcusable negligence. "
+Partiality
+" is synonymous with "bias" which excites a disposition to see and report matters as they are wished for rather than as they are. "
+Badfaith
+," on the other hand, does not simply connote bad judgment or negligence; it imputes a dishonest purpose or some moral obliquity and conscious doing of a wrong; a breach of sworn duty through some motive or intent or ill will; it partakes of the nature of fraud. Lastly, "
+gross negligence
+" is negligence characterized by the want of even slight care, acting or omitting to act in a situation where there is a duty to act, not inadvertently but willfully and intentionally with a conscious indifference to consequences in so far as other persons may be affected. It is the omission of that care which even inattentive and thoughtless persons never fail to take on their own property.
+[34]
+ The three modes are distinct from one another. Hence, proof of the existence of 
+any 
+of these modes suffices to warrant conviction for the violation of Section 3(e).
+[35]
+COA Circular No. 89-296,
+[36]
+ issued the "
+Audit Guidelines on the Divestment or Disposal of Property and Other Assets of National Government, Agencies and Instrumentalities, Local Government Units and Government-Owned or Controlled Corporations and their Subsidiaries
+," reads:
+III. 
+DEFINITION AND SCOPE:
+These audit guidelines shall be observed and adhered to in the divestment or disposal of property and other assets of all government entities/instrumentalities, whether national, local or corporate, including the subsidiaries thereof but 
+shall not apply to the disposal of merchandise or inventory held for sale in the regular course of business nor to the disposal by government financial institutions of foreclosed assets or collaterals acquired in the regular course of business and not transferred to the National Government under Proclamation No. 50 x x x
+x x x x
+V. 
+MODES OF DISPOSAL/DIVESTMENT:
+This Commission recognizes the following modes of disposal/divestment of assets and property of national government agencies, local government units and government-owned and controlled corporations and their subsidiaries, aside from such modes as may be provided by law.
+1. 
+Public Auction
+Conformably to existing state policy, the divestment or disposal of government property as contemplated herein shall be undertaken primarily thru public auction x x x
+2. 
+Sale Thru Negotiation
+For justifiable reasons and as demanded by the exigencies of the service, disposal thru negotiated sale may be resorted to and undertaken by the proper committee or body in the agency or entity concerned taking into consideration the following factors: x x x"
+The crucial question: do the subject spare parts fall within the guidelines of COA Circular No. 89-296 ordaining that the modes of disposal/divestment should either be through public auction or sale through negotiation, etc., except as specified in Section III, where the items are classified as 
+merchandise or inventory held for sale in the regular course of business
+?
+PADC was created by virtue of PD 696 dated May 9, 1975. Its purpose is to undertake all manner of activity, business or development projects for the establishment of a reliable aviation and aerospace industry that shall include, among others, the "
+sale of all forms of aircraft and aviation/aerospace devices, equipment or contraptions
+."
+[37]
+ In order to accomplish its corporate purposes, PADC has the power, among others, to "
+enter into, make, perform and carry out contracts of every kind and description for the foregoing corporate purpose with any person, firm or association or corporation, domestic or foreign
+."
+[38]
+We hold that the spare parts fall within the exemption specified in Section III of COA Circular No. 89-296, specifically it is an inventory held for sale in the regular course of business of PADC.
+In 
+Vda. de Urbano v. Government Service Insurance System
+,
+[39]
+ the Court adhered to the policy that GOCCs (such as PADC) are given flexibility to generate more revenue for national development, by providing for differential treatment which is more consistent with corporate organizational requirements as distinguished from regular government agencies. The exception provided in COA Circular No. 86-264 should, therefore, be construed to accommodate this policy and allow GOCCs wide latitude in the disposition of their assets, such as the subject spare parts of PADC, to wit:
+When both COA Circular No. 86-264 and COA Circular No. 89-296 were issued, affording flexibility to government-owned and controlled corporations (GOCC's) to allow them to generate more revenue for national development was a declared government policy. This policy is unmistakable in laws executed before the issuance of Circular No. 86-264 in October 1986. P.D. 2029, "Defining Government-Owned and Controlled Corporations and Identifying Their Role in National Development, " dated February 4, 1986, provides:
+'WHEREAS, there is a need to assure the flexibility of such government corporations consistent with the need for public accountability by providing for differential treatment for government corporations;
+x x x x
+SECTION 1. General Policy. â It is the policy of the State that the corporate form of organization, utilized judiciously, is one of the valid forms through which the government may participate in economic and social development.
+x x x x
+SEC. 7. Provision of adequate operational flexibility. â Government corporations shall be provided with adequate operational flexibility in order to function properly and efficiently, especially under conditions of market competition. Such flexibility shall nevertheless be consistent with the requirements of public accountability.
+x x x x
+SEC. 8. Differential treatment. â To implement the concept of greater flexibility, government corporations in general shall be accorded differential treatment which is more consistent with corporate organizational requirements as distinguished from regular government agencies, with respect to the exercise by the various service-wide agencies, such as the Civil Service Commission, the Commission on Audit, and the Office of Budget and Management, of their respective jurisdiction.
+Letter of Instructions No. 1520, issued on the same day as P. D. 2029 on February 4, 1986, also provides for the role of government corporations in national development, viz.:
+'WHEREAS, it is necessary that the limited resources of government be utilized as efficiently, as effectively, and as economically as possible to further national development and to support the economic recovery program, for which the judicious use of the corporate form of organization is critical;
+x x x x
+P.D. 2030, Providing for the Orderly Disposition of Certain Assets of Government Institutions, also issued on February 4, 1986, made explicit the policy of the government to divest government corporations of assets as an aid to national development, viz.:
+'WHEREAS, the National Government, through the agency of various financial and other government institutions, has acquired or is otherwise the owner of a large number of assets in the industrial, manufacturing and commercial sectors of the economy which, as part of the economic recovery program adopted by the National Government, it has been deemed necessary and appropriate for the National Government to divest in a planned and orderly manner;
+WHEREAS, as an integral part of this economic recovery program and in order to facilitate the reorganization of certain government financial institutions, it is necessary to relieve those institutions of assets which adversely affect their financial viability and liquidity, and for the National Government to take over such assets and to assume the related liabilities of those institutions;
+WHEREAS, it is the desire of the National Government to realize on such assets within the shortest possible time and, to such end, to dispose of such assets generally on terms that would permit immediate substantial cash returns to the National Government;
+x x x x
+Proclamation No. 50, "Proclaiming and Launching a Program for the Expeditious Disposition and Privatization of Certain Government Corporations and/or the Assets Thereof and Creating the Committee on Privatization and the Asset Privatization Trust," issued on December 8, 1986 after the issuance of COA Circular No. 86-264, but prior to COA Circular No. 89-296, reiterates the continuing policy of the government to encourage divestment of assets as an aid to national development, viz.:
+CONSIDERING that the government has decided to adopt, as the twin cornerstones of the program, the following parallel imperatives for the attainment of national policy:
+x x x x
+(b) reducing the number of government corporations which has proliferated to unmanageable proportions; circumscribing the areas of economic activities within which the government corporations may operate; and aiming to achieve these goals through the privatization of a good number of government corporations, and the disposition and liquidation of the non-relevant and non- performing assets of retained corporations as the logical first step to their rehabilitation.'
+The above-quoted laws on GOCC's and disposition of their assets unmistakably show the policy of the government to allow flexibility to GOCC's and to promote disposition of non-performing assets. This policy undergirds both COA Circular No. 86-264 and 89-296. Thus, the exception provided in COA Circular No. 86-264 should be, to the widest extent possible, construed to accommodate this policy and allow GOCCs wide latitude in the disposition of their assets, including foreclosed assets or collaterals acquired in the regular course of business. COA Circular No. 89-296 provides for two exceptions to the requirement of disposition primarily through public bidding, i.e., (1) disposal of merchandise or inventory held for sale in the regular course of business; and (2) disposal by government financial institutions of foreclosed assets or collaterals acquired in the regular course of business. "In light of the declared policy of the government on GOCC's and their assets, COA Circular No. 89-296 should be understood to have clarified the coverage of the exception under COA Circular No. 86-264, i.e., sales of merchandise/inventory held for sale in the regular course of business.
+Hence, the Sandiganbayan erred in ruling that the subject spare parts should be sold first through public bidding before resorting to negotiated sale. But this does not exonerate Crisologo and Manlavi from culpability for the multiple violations they committed in the sale of the spare parts in question.
+Records show that as President of PADC, Crisologo peremptorily approved the new pricing guidelines submitted to him by Manlavi, without even verifying from the latter how he arrived at this so called new set of guidelines, or at the very least, how he ended up with the extremely low pricing for the spare parts. Worse, Crisologo and Manlavi just kept things secret between themselves, to the exclusion of both the PADC pricing committee and the PADC Board of Directors.
+As it was, they completely disregarded the 30% mark-up prescribed by the PADC pricing policy committee for spare parts purchased from local sources. As the prosecution correctly observed, PADC could have earned P7,489,868.50 from the sale, but because of the extremely low pricing fixed by Crisologo and Manlavi, the PADC was only able to realize P849,510.22 as sale proceeds, resulting in a loss of P6,640,358.28.
+[40]
+As for Crisologo's claim that the spare parts were sold at a loss because they were already obsolete, suffice it to state that as properly noted by the Sandiganbayan, this claim is totally unsubstantiated. In fact, Crisologo did not refute the expert opinion of State Auditor IV Borromeo that the items could not be considered scrap, obsolete, or of no value since at the time of sale, the same were still stored in the stock room of PADC and remained in its inventories. It is a general principle in accounting that items that remain in the inventories are not subject to depreciation.
+Curiously, Crisologo failed to justify two things, a) instead of bonded organic personnel manning the warehouse housing millions worth of aircraft parts and accessories, he personally hired consultant to do the task; and b) instead of issuing serially pre-numbered receipts, he ordered the use of unofficial computer-printed receipts.
+More, Crisologo and Manlavi negotiated with Wingtips and did not communicate with any other offerors. There was no record of negotiation between PADC and Wingtips, nor between Crisologo or Manlavi and other potential buyers.
+These collective acts of Crisologo and Manlavi reveal a clear, notorious, or plain inclination or predilection to favor Wingtips rather than another, and entail a manifest deliberate intent on their part to do wrong or to cause damage to the government.
+[41]
+ Indubitably, they are guilty of evident bad faith and gross negligence in the performance of their official duties as President and Senior Vice-President of PADC, respectively.
+Third element
+Undue injury to any party, including the government,
+or giving any private party unwarranted benefits,
+advantage, or preference
+The third element of Section 3(e) is (1) undue injury caused to any party, including the government; or (2) any unwarranted benefit, advantage, or preference given to a private party. The disjunctive term "or" connotes that the presence of either (1) or (2) qualifies as a violation of Section 3(e) of RA 3019. In other words, the presence of one would suffice for conviction.
+[42]
+There is no denying that Wingtips unduly benefited from the questioned transactions. It procured the subject spare parts at much lower prices than warranted. To put it bluntly, the spare parts were sold to Wingtips for a song. These sale transactions undoubtedly caused undue injury to the government. Again, the government could have earned millions â P7,489,868.50 â from these transactions, yet, because of Crisologo and Manlavi's evident bad faith, manifest partiality, and gross negligence, the government was made to settle for a measly sum of P849,510.22 way below the sum paid by the government for the purchase of these brand new items.
+While it may be true that the resale value of these brand new items may no longer be the same as the original purchase, Crisologo and Manlavi failed to clearly establish that they took into account market decline or depreciation when they determined the selling price of the aircraft spare parts. Too, they failed to show that they properly applied the measures for market decline of inventory in Section 391 of the GAAM, to wit:
+SECTION 391. Provision for market decline of inventory. â Whenever proper, these measures must he applied:
+a. Price declines actually occurred on balance sheet date and not just possible, future, prospective, anticipated or contingent declines in the replacement market.
+b. Inventory is reported at cost and losses in both beginning and ending inventories are recognized separately.
+c. Cost of sales is actual and perpetual records need not be adjusted to conform with reduced inventory value.
+d. Allowance for market decline is set up and is shown as deduction from the inventory to conform with the lower trend of cost or market.
+As correctly concluded by the Sandiganbayan, Crisologo and Manlavi 
+unilaterally fixed
+ the pricing guidelines based solely on Manlavi's Memorandum dated November 16, 2007. These guidelines were not even submitted to the PADC pricing policy committee nor the PADC Board of Directors for consideration and approval.
+All told, the Sandiganbayan did not err when it rendered the verdict of conviction against Crisologo and Manlavi for violation of Section 3(e) of RA 3019.
+Penalty
+Section 9(a) of RA 3019
+[43]
+ ordains that any public officer who committed any of the unlawful acts or omissions enumerated in Section 3 of the Act shall be punished with imprisonment for not less than six (6) years and one (1) month nor more than fifteen (15) years, perpetual disqualification from public office, and confiscation or forfeiture in favor of the Government of any prohibited interest and unexplained wealth manifestly out of proportion to his or her salary and other lawful income.
+[44]
+Thus, the Sandiganbayan correctly sentenced Crisologo and Manlavi to six (6) years and one (1) month, as minimum, to ten (10) years, as maximum, with perpetual disqualification from holding public office.
+ACCORDINGLY
+, the appeal is 
+DISMISSED
+. The Decision dated November 29, 2019 of the Sandiganbayan in Criminal Case No. SB-17-CRM-0168 is 
+AFFIRMED
+. Accordingly, appellants Danilo Reyes Crisologo and Roberto Loleng Manlavi are sentenced to the indeterminate penalty of six (6) years and one (1) month, as minimum, to ten (10) years, as maximum, with perpetual disqualification from holding public office.
+SO ORDERED.
+Leonen, SAJ. (Chairperson), M. Lopez, J. Lopez,
+ and 
+Kho, Jr., JJ.,
+ concur.
+[1]
+ Penned by Presiding Justice Amparo M. Cabotaje-Tang and concurred in by Associate Justice Bernelito R. Fernandez and Associate Justice Ronald B. Moreno; 
+rollo
+, pp. 3-46.
+[2]
+ 
+Id
+. at 3-4.
+[3]
+ 
+Id
+. at 5.
+[4]
+ 
+Id
+. at 178-179.
+[5]
+ 
+Id
+. at 180.
+[6]
+ 
+Id
+. at 30.
+[7]
+ 
+Id
+. at 30-31.
+[8]
+ 
+Id
+. at 31-32.
+[9]
+ 
+Id
+. at 32.
+[10]
+ 
+Id
+. at 33.
+[11]
+ 
+Id
+. at 13.
+[12]
+ 
+Id
+. at 15.
+[13]
+ 
+Id
+. at 34.
+[14]
+ 
+Id
+.
+[15]
+ 
+Id
+. at 181.
+[16]
+ 
+Id
+. at 180-181.
+[17]
+ 
+Id
+. at 180.
+[18]
+ 
+Id
+. at 183-184.
+[19]
+ 
+Id
+. at 23.
+[20]
+ 
+Id
+. at 24.
+[21]
+ 
+Id
+.
+[22]
+ 
+Id
+. at 24-25.
+[23]
+ 
+Id
+. at 25-26.
+[24]
+ 
+Id
+. at 27-28.
+[25]
+ 
+Id
+. at 28.
+[26]
+ 
+Id
+. at 45.
+[27]
+ 
+Id
+. at 40.
+[28]
+ 
+Id
+. at 41-44.
+[29]
+ 
+Id
+. at 44.
+[30]
+ 
+Id
+. Per computation indicated in the 
+rollo
+, the loss suffered was P6,640,357.78, but the correct computation shows a loss of P6,640,358.28.
+[31]
+ 
+Id
+. at 61-62.
+[32]
+ 
+Ferrer, Jr. v. People, G.R. No. 240209
+, June 10, 2019.
+[33]
+ 
+G.R. No. 218530
+ (Resolution), January 13. 2021, citing 
+Uriarte v. People
+, 540 Phil 477, 494 (2006).
+[34]
+ 
+People v. Naciongayo, G.R. No. 243897
+, June 8, 2020.
+[35]
+ 
+Rivera v. People, G.R. No. 228154
+, October 16, 2019.
+[36]
+ Issued on January 27, 1989.
+[37]
+ Section 2, P.D. No. 696.
+[38]
+ Section 3(e), P.D. No. 696.
+[39]
+ 419 Phil. 948, 970 (2001).
+[40]
+ 
+Rollo
+, p. 44. Per computation indicated in the 
+rollo
+, the loss suffered was P6,640,357.78, but the correct computation shows a loss of P6,640,358.28.
+[41]
+ 
+Quiogue v. Estacio, Jr., G.R. No. 218530
+ (Resolution), January 13, 2021.
+[42]
+ 
+Supra
+ note 34.
+[43]
+ Section 9. 
+Penalties for violations
+. â (a) Any public officer or private person committing any of the unlawful acts or omissions enumerated in Sections 3, 4, 5 and 6 of this Act shall be punished with imprisonment for not less than six years and one month nor more than fifteen years, perpetual disqualification from public office, and confiscation or forfeiture in favor of the Government of any prohibited interest and unexplained wealth manifestly out of proportion to his salary and other lawful income. x x x x
+[44]
+ 
+Supra
+ note 34.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

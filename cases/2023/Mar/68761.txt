@@ -1,0 +1,636 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 255961, March 20, 2023 ]
+
+
+PETRON CORPORATION, 
+PETITIONER
+, VS. COMMISSIONER OF INTERNAL REVENUE, 
+RESPONDENT
+.
+D E C I S I O N
+
+
+
+
+HERNANDO, J.:
+
+
+Assailed in this Petition for Review on 
+Certiorari
+[1]
+ under Rule 45 of the Rules of Court are the July 22, 2020 Decision
+[2]
+ and the February 18, 2021 Resolution
+[3]
+ of the Court of Tax Appeals 
+En Banc
+ (CTA 
+En Banc
+) in CTA EB No. 2072. In the challenged Decision, the CTA 
+En Banc
+ denied petitioner Petron Corporation's request for refund of excise taxes it had paid in connection with its importation of alkylate on various dates from July 22, 2012 to November 6, 2012. In its subsequent Resolution, the CTA 
+En Banc
+ did not obtain the number of required affirmative votes to modify, reverse or set aside the assailed Decision, hence petitioner's Motion for Reconsideration
+[4]
+ was denied.
+The Antecedent Facts
+Petitioner is a domestic corporation engaged in the business of manufacturing and marketing petroleum products. It has its own oil refinery in Bataan where it manufactures its own gasoline products.
+[5]
+On the other hand, respondent is the duly appointed Commissioner of Internal Revenue (CIR).
+The case stemmed from petitioner's importation of alkylate on various dates from July 22, 2012 to November 6, 2012.
+On July 18, 2012, the Bureau of Customs (BOC) issued Customs Memorandum Circular (CMC) No. 164-2012,
+[6]
+ implementing the Letter
+[7]
+ from the Bureau of Internal Revenue (BIR) dated June 29, 2012, stating that "alkylate which is a product of distillation similar to that of naphtha is subject to excise tax under Section 148(e) of the National Internal Revenue Code (NIRC) of 1997, as amended." Thus, the alkylate imported by petitioner on five different occasions were subjected to excise tax in the aggregate amount of P219,153,851.00, detailed as follows:  
+VESSEL NAME
+ARRIVAL DATES
+BILL OF LADING NO.
+IEIRD NO.
+EXCISE TAX PAID
+MIT High Energy
+[July 22,] 2012
+ML-5918
+122844547
+P55,945,089.00
+M/T Golden Fortune
+[August 12,] 2012
+CTK 1985 
+122773043
+P14,662,649.00
+M/T Sun Lilac
+[September 12,] 2012
+SLC12010-DSB01
+124315222
+P35,089,705.00
+M/T Polaris
+[October 6,] 2012
+POL12007-DSBT01
+125253615
+P56,097,804.00
+M/T No. 3 Heung - A Pioneer
+[November 6,] 2012
+HASL0941TACA251
+125644382
+P57,358,604.00
+TOTAL
+P219,153,851.00
+[8]
+Petitioner then filed two administrative claims for refund of excise tax with the BIR claiming that the foregoing excise taxes were erroneously, wrongfully, illegally and excessively imposed and collected by BIR through the BOC per CMC No. 164-2012. The first administrative claim
+[9]
+ was filed on October 10, 2014 in the amount of P148,546,113.00 representing excise taxes paid on its importation of alkylate from October 24, 2012 to December 5, 2012. The second administrative claim
+[10]
+ was filed on January 23, 2015 for the amount of P70,607,738.00, covering the period from February 8, 2013 to July 23, 2013.
+Respondent did not act on both claims for refund.
+[11]
+Hence, on October 23, 2014 and February 6, 2015, petitioner instituted two separate Petitions for Review before the CTA. The petitions sought the refund or issuance of tax credit certificates for the amounts of P148,546,113.00 and P70,607,738.00, docketed as CTA Case No. 8914 and CTA Case No. 8981, respectively.
+[12]
+ The CTA Second Division ordered the consolidation of the two cases.
+[13]
+Ruling of the CTA Special Second Division
+In a Decision
+[14]
+ dated December 18, 2018, the CTA Special Second Division denied petitioner's claim for refund. The 
+fallo
+ of which reads:
+WHEREFORE
+, premises considered, the instant Petitions for Review are 
+DENIED
+ for lack of merit.
+SO ORDERED.
+[15]
+The CTA Special Second Division found that petitioner's administrative and judicial claims for refund were timely filed within the two-year prescriptive period.
+However, the CTA Special Second Division found petitioner not entitled to the refund of excise taxes. The tax court noted the testimonies of petitioner's witnesses stating that the raw materials used in producing alkylate, 
+i.e.
+, light olefins and isobutane, are derived from petroleum and that alkylate is a product of distillation. It held that while alkylate is not directly produced through distillation but by alkylation, its raw materials, light olefins and isobutane, are nonetheless products of distillation. Since the raw materials used to produce alkylate are products of distillation, it is evident that alkylate initially undergoes the process of distillation because it cannot exist without its raw materials. As such, alkylate is similar to naphtha, which is also a product of distillation, subject to excise tax pursuant to Sec. 148 (e) of the NIRC.
+[16]
+The CTA Special Second Division further cited CTA Case No. 9111 entitled "
+Petron Corporation v. Commissioner of Internal Revenue
+,"
+[17]
+ where it held that alkylate possesses properties and characteristics similar to that of gasoline, or is considered as gasoline although not in its finished state.
+[18]
+Petitioner moved for reconsideration but it was denied by the CTA Special Second Division in a Resolution
+[19]
+ dated April 30, 2019.
+Dissatisfied, petitioner filed a Petition for Review
+[20]
+ before the CTA 
+En Banc
+ arguing that there is nothing in Sec. 148 (e) of the NIRC, as amended by Republic Act No. (RA) 9337,
+[21]
+ that subjects alkylate to excise tax. Moreover, the CTA Special Second Division stretched the coverage of Sec. 148(e) of the NIRC when it considered alkylate as a product of distillation similar to naphtha and regular gasoline simply because its raw materials are produced through distillation. Petitioner asserted that alkylate is a mere blending component in motor or aviation gasoline in order to meet certain required characteristics such as octane number and volatility requirements. As such, it should not be subjected to excise tax. To tax alkylate when the finished product which is gasoline is also subjected to the same tax, is already tantamount to double taxation which is prohibited by law.
+[22]
+For its part, respondent argued that Sec. 148 (e) of the NIRC, as amended, does not qualify whether the items subject to excise tax are primary or secondary products of distillation. It added that CMC No. 164-2012 was issued by the Bureau of Customs in the exercise of its quasi-legislative function, thus, carries with it the force and effect of law. Unless and until CMC 164-2012 is declared null and void, petitioner cannot claim that the excise tax imposed on its importation of alkylate is erroneous and illegal.
+[23]
+Ruling of the CTA 
+En Banc
+On July 22, 2020, the CTA 
+En Banc
+ issued its assailed Decision denying petitioner's Petition for Review.
+ 
+The CTA 
+En Banc
+ agreed with the Special Second Division's finding that since the raw materials used to produce alkylate are derived from petroleum and are likewise products of distillation, it cannot be denied that alkylate is also a product of distillation similar to naphtha and regular gasoline. The CTA 
+En Banc
+ likewise cited the Letter of former BIR Commissioner, Kim S. JacintoÂ­-Henares (Henares), addressed to then BOC Commissioner Rozanno Rufino B. Biazon, attesting that alkylate qualifies as a product similar to naphtha, used as gasoline blending component.
+[24]
+The CTA 
+En Banc
+ also highlighted the rule that tax refunds are in the nature of tax exemption, hence, the same must be construed strictly against the taxpayer. It found that petitioner failed to clearly and distinctively state the basis for its claim and prove that its importation of alkylate is exempted from excise tax.
+[25]
+The appellate tax court likewise rejected petitioner's claim of double taxation, holding that the tax imposed on the importation of alkylate is different from the tax imposed on the production of gasoline in the country for domestic sale or consumption. It explained that when imported goods go through reprocessing, the imposition of tax happens twice. The first imposition is upon importation of articles, while the second is upon removal or reprocessed goods from the production site. Thus, the element of "same subject matter" in double taxation is wanting in this case.
+[26]
+The 
+fallo
+ of the CTA 
+En Banc
+ Decision reads:
+WHEREFORE
+, the foregoing considered, the Petition for Review dated 29 May 2019 is 
+DENIED
+ for lack of merit. Accordingly, the Decision dated 18 December 2018 and the Resolution dated 30 April 2019, respectively, of the Special Second Division in the consolidated CTA Case Nos. 8914 and 8981, both entitled 
+Petron Corporation v. Commissioner of Internal Revenue
+, are 
+AFFIRMED
+.
+SO ORDERED.
+[27]
+On Motion for Reconsideration,
+[28]
+ however, some of the members of the CTA 
+En Banc
+, after a second hard look at the parties' arguments and the relevant jurisprudence, were convinced that the assailed Decision must be reconsidered. They ratiocinated that in cases of claim for refund premised on erroneous payment of tax, the proper rule to be applied is the doctrine of strict interpretation in the imposition of taxes. Since alkylate is not directly produced by distillation but by alkylation, and considering that the Congress did not clearly, expressly, and unambiguously impose tax on alkylate under Sec. 148 (e) of the 1997 NIRC, as amended, some of the members of the CTA 
+En Banc
+ opined that the same is not subject to excise tax, applying the rule of strict interpretation.
+In addition, they observed that alkylate is not similar to regular gasoline and naphtha based on the testimony
+[29]
+ of Dr. Joey Ocon (Dr. Ocon) stating, among others, that alkylate is not suitable as a motor fuel in the operation of vehicles because it does not possess the essential physical properties to ensure the effective operation of vehicles under different driving conditions. This was confirmed by the Department of Energy (DOE), through its Letter
+[30]
+ dated July 24, 2017. As a result, some of the members of the CTA 
+En Banc
+ were of the view that alkylate is excluded from excise tax. As such, the excise taxes imposed against petitioner were erroneously and illegally collected, warranting their refund pursuant to Sec. 229
+[31]
+ of the 1997 NIRC, as amended.
+However, since the number of required affirmative votes to modify, reverse or set aside the assailed December 18, 2018 CTA Special Second Division Decision was not obtained, the CTA 
+En Banc
+ was compelled to deny petitioner's Motion for Reconsideration.
+[32]
+The decretal portion of the said Decision reads:
+WHEREFORE
+, considering that the number of required affirmative votes was not obtained to modify, reverse or set aside the assailed Decision of the Special Second Division dated 18 December 2018, pursuant to Section 2 of Republic Act No. 1125, as amended by Republic Act No. 9503 in relation to Section 3, Rule 2 of the Revised Rules of the Court of Tax Appeals, petitioner Petron Corporation's Motion for Reconsideration, filed on 17 September 2020, is hereby 
+DENIED
+. Accordingly, the Special Second Division Decision dated 18 December 2018, as upheld in the Court 
+En Banc
+ Decision dated 22 July 2020, shall stand 
+AFFIRMED
+.
+SO ORDERED.
+[33]
+ 
+Hence, this petition.
+Petitioner ascribes error to the CTA 
+En Banc
+ in applying the rule of strict construction of laws granting tax exemptions arguing that its claim for refund was not based on tax exemption but on Art. 148 (e) of the 1997 NIRC, as amended, which does include alkylate as among the excisable articles enumerated therein.
+Petitioner insists that alkylate is a product of alkylation and not distillation, hence, it is not subject to excise tax. It further posits that alkylate is not imported for domestic sale or consumption, or for any other disposition, thus, levying taxes on it constitutes double taxation.
+Our Ruling
+There is merit in the petition.  
+ 
+The rule applicable in this case is the doctrine of strict construction of tax laws in favor of the taxpayer
+ 
+It bears to point out that petitioner does not seek to be exempt from excise taxes on its alkylate importations. Instead, petitioner anchors its claim for tax refund on the absence of a law that imposes excise tax on alkylate. Hence, the CTA incorrectly applied the rule on strict interpretation in construing tax exemptions since petitioner is not asking to be exempt from excise tax. To be precise, petitioner prays for the refund of the excise taxes erroneously assessed and illegally collected from it on the ground that there is no law that authorizes such exaction.
+As correctly pointed out by petitioner, not all claims for tax refund partake the nature of a tax exemption such that the rule of strict interpretation against the taxpayer is always applicable. The Court has long settled that "[t]here is parity between tax refund and tax exemption only when the former is based either on a tax exemption statute or a tax refund statute."
+[34]
+ In such case, the rule of strict interpretation against the taxpayer is applicable as the claim for refund partakes of the nature of an exemption, a legislative grace, which cannot be allowed unless granted in the most explicit and categorical language.
+[35]
+However, when the claim for tax refund is premised on the taxpayer's erroneous payment of the tax or the government's exaction in the absence of a law, the rule to be applied must be the well-settled doctrine of strict interpretation in the imposition of taxes, not the similar doctrine as applied to tax exemptions.
+[36]
+In the case at bar, petitioner's claim for tax refund is not founded on any tax exemption law but on the government's erroneous assessment and collection of excise taxes on its alkylate importations, without clear legal basis therefor. Otherwise stated, petitioner's entitlement to a tax refund is not based on the existence of a tax exemption clause in its favor but premised on its claim that alkylate is not subject to excise tax under Art. 148 (e) of the 1997 NIRC, as amended. Thus, the CTA Special Second Division erroneously applied the doctrine of strict construction against the taxpayer in this case.
+Verily, since petitioner's claim for tax refund is not in the nature of a tax exemption, it is not burdened to prove that the legislature intended to exempt it from tax clearly and distinctly, contrary to the CTA Special Second Division's ratiocination. To reiterate, alkylate is not among the articles covered by Sec. 148 (e) of the 1997 NIRC, as amended. Thus, in the absence of a law expressly and unambiguously imposing excise tax on alkylate, the appropriate rule to be applied is the strict interpretation in the imposition of taxes such that the statute must be construed most strongly against the government and in favor of the taxpayer.
+[37]
+ Simply put, insofar as excise tax is concerned, non-taxability is the rule, while taxability is the exception. Verily, since alkylate is not categorically covered by Sec. 148 (e) of the 1997 NIRC, as amended, the doubt should be resolved in petitioner's favor. As burdens, taxes should not be unduly exacted nor assumed beyond the plain meaning of the tax laws.
+[38]
+Apropos in this regard is the Court's pronouncement in 
+Commissioner of Internal Revenue v. The Philippine American Accident Insurance Company, Inc.
+:
+[39]
+The rule that tax exemptions should be construed strictly against the taxpayer presupposes that the taxpayer is clearly subject to the tax being levied against him. 
+Unless a statute imposes a tax clearly, expressly and unambiguously, what applies is the equally well-settled rule that the imposition of a tax cannot be presumed. Where there is doubt, tax laws must be construed strictly against the government and in favor of the taxpayer.
+ This is because taxes are burdens on the taxpayer, and should not be unduly imposed or presumed beyond what the statutes expressly and clearly import.
+[40]
+ (Emphasis Ours) 
+Relatedly, Sec. 148 (e) of the 1997 NIRC, provides:
+Sec. 148. 
+Manufactured Oils and Other Fuels
+. - There shall be collected on refined and manufactured mineral oils and motor fuels, the following excise taxes which shall attach to the goods hereunder enumerated as soon as they are in existence as such:
+x x x x
+(e) Naphtha, regular gasoline and other similar products of distillation, per liter of volume capacity, Four pesos and eighty centavos (P4.80): Provided, however, That naphtha, when used as a raw material in the production of petrochemical products or as replacement fuel for natural-gas-fired-combined cycle power plant, in lieu of locally-extracted natural gas during the nonÂ­ availability thereof, subject to the rules and regulations to be promulgated by the Secretary of Energy, in consultation with the Secretary of Finance, per liter of volume capacity, Zero (P0.00): Provided, further, That the by-product including fuel oil, diesel fuel, kerosene, pyrolysis gasoline, liquefied petroleum gases and similar oils having more or less the same generating power, which are produced in the processing of naphtha into petrochemical products shall be subject to the applicable excise tax specified in this Section, except when such by-products are transferred to any of the local oil refineries through sale, barter or exchange, for the purpose of further processing or blending into finished products which are subject to excise tax under this Section;
+Indeed, alkylate is not expressly mentioned in the above-quoted provision as one of the goods subject to excise tax. Neither does it tax "products whose raw materials are products of distillation." Rather, the provision plainly taxes only "[n]aphtha, regular gasoline and other similar products of distillation." Hence, to be covered by the said provision, alkylate itself, rather than its "raw materials," must be the "product of distillation." Notably, it is undisputed that alkylate is not produced by the process of distillation, but by alkylation. This was confirmed by Dr. Ocon and echoed by no less than the BIR's own witness, Ma. Lourdes Rosula R. Ramos (Ramos), the Chief of the BIR Laboratory Section during her cross-examination.
+[41]
+ Even the CTA 
+En Banc
+ has concluded that alkylate is produced through the process of alkylation.
+However, in ruling that alkylate should be taxed, the CTA Special Second Division as affirmed by the CTA 
+En Banc
+ declared that alkylate falls under the "other similar products of distillation" clause of the above provision. The tax courts stressed that while alkylate is not directly produced through the process of distillation, its raw materials, olefins and isobutane, are nevertheless products of distillation and thus alkylate first undergoes the process of distillation.
+This argument fails to persuade.  
+ 
+Alkylate does not fall under the category of "other similar products of distillation" subject to excise tax
+ 
+At this juncture, it should be clarified that between the two raw materials of alkylate, only isobutane is produced by distillation. In the Judicial Affidavit submitted by petitioner's witness, Simon Christopher Mulqueen (Mulqueen), Light C3-C5 Olefins are typically produced from a fluid catalytic cracker (FCC) and/or coker unit. Isobutane, on the other hand, can be a product of crude oil distillation or may be recovered from other petroleum refinery streams that result from catalytic cracking, catalytic reforming.
+[42]
+Thus, it is incorrect to say that both raw materials utilized to produce alkylate are products of distillation, much more to declare alkylate as a product of distillation simply because its raw materials are produced through distillation. To be sure, Sec. 148 (e) of the 1997 NIRC, as amended, imposes excise tax on naphtha, regular gasoline, and other similar products of distillation only, and not on the raw materials or ingredients used for their production.
+Moreover, it is significant to note that the Officer-In Charge Director of the Oil Industry Management Bureau of the DOE, Melita V. Obillo (Obillo), in a July 24, 2017 letter-reply
+[43]
+ to petitioner's Tax Manager, Ma. Clarissa C. Arguelles (Arguelles), confirmed the details contained in the June 28, 2017 letter
+[44]
+ of Arguelles addressed to Obillo. Inferred from the said letter are the following important points:
+1. 
+Alkylate is not a finished product but an intermediate or raw gasoline component used as blend stock in the production of PNS-compliant unleaded gasoline consistent with requirements of the Philippine Clean Air Act.
+[45]
+2. 
+Alkylate is produced through alkylation, a chemical process for converting light olefins and isobutane into isoparaffin isomers of the correct boiling range and octane numbers.
+3. 
+Alkylation and distillation are different processes and are separate and distinct from one another.
+[46]
+x x x x
+4. 
+In terms of properties and recovery process, alkylate is different from and cannot be placed in the same category as that of naphtha and regular gasoline. Alkylate and naphtha differ in boiling range, volatility and recovery process.
+ [Naphtha's boiling point is 190Â°C maximum while alkylate's final boiling point is higher than 200Â°C. As to volatility, naphtha's vapor pressure is at 95kPa maximum while that of alkylate is less than 36kPa. On the recovery process, naphtha can be recovered straight from the process of crude distillation or from other processes. On the contrary, alkylate cannot be recovered straight from crude distillation but only from the process of alkylation.]
+[47]
+5. 
+Similarly, alkylate and regular gasoline differ in boiling range, volatility and recovery process.
+ [Regular gasoline distillation boiling point at 10% recovery (T-10) is 70Â°C maximum as specified in the (Philippine National Standards) while alkylate has a boiling point greater than 79Â°C, which does not meet the 70Â°C maximum specification for regular gasoline. In terms of volatility, regular gasoline vapor pressure can go as high as 68kPa while alkylate's vapor pressure is only at 25-36 kPa. As to recovery process, regular gasoline is produced through the blending of gasoline components that are derived directly from crude oil through distillation and those that are produced from special conversion/reactions processes. Alkylate, on the other hand, cannot be produced from crude oil distillation but only through alkylation process.]
+[48]
+6. 
+Alkylate cannot be used as a motor fuel without violating specific standards.
+ [Specifically, when alkylate is loaded into a vehicle's gas tank without any other component, it can cause poor starting and poor warm-up which can affect driveability and acceleration due to its low vapor pressure. More importantly, under Philippine laws, alkylate cannot be sold as a motor fuel suitable for operating motor vehicles because the specifications of alkylate render it unfit as a motor fuel. It does not conform to the specification of the PNS imposed by the Clean Air Act upon motor fuels since its distillation at 10% Volume (TIO) exceeds the 70Â°C maximum limit set by the PNS.]
+[49]
+Significantly, the above contents of Arguelles' letter were validated by Obillo in a July 24, 2017 letter.
+[50]
+ She further proposed that item 2.c of Arguelles' letter be re-stated in this wise:
+Distillation, a physical separation process, does not directly cause the production of alkylate.
+ Alkylation, a separate chemical process utilizing products from distillation, converts light olefins and isobutane into isoparaffin isomers that produces alkylates.
+[51]
+ (Emphasis supplied)
+From the foregoing, it is clear that alkylate is a mere component which can be blended into finished gasoline to help meet the specification requirements, particularly those related to octane quality and volatility. As aptly pointed out by petitioner, alkylate is exclusively intended for use solely as a raw material or blending component in the manufacture of unleaded premium gasoline. Alkylate has no use as a product by itself as it does not possess the necessary volatility to run a vehicle's engine. This position has been maintained by the experts presented by petitioner during trial and affirmed by DOE OIC Director Obillo. Considering the intended purpose and nature of alkylate, it certainly cannot be placed under the same category as naphtha and regular gasoline.
+Consequently, the payment of excise taxes by petitioner upon its importation of alkylate is deemed illegal and erroneous in the absence of a specific provision of law that distinctly and categorically imposes tax thereon. As discussed earlier, the rule that tax laws must be construed 
+strictissimi juris
+ against the government and in favor of the taxpayer applies herein since Sec. 148 (e) of the 1997 NIRC, as amended, did not clearly, expressly, and unambiguously impose tax on alkylate (or those which are not directly produced by distillation).
+Corollary to the above rule, the absence of a distinction in Sec. 148 (e) of the 1997 NIRC, as amended, between 
+primary and secondary or direct and indirect
+ products of distillation should work in petitioner's favor.
+Additionally, We agree with petitioner's position that the statutory construction principle of 
+ejusdem generis
+ is equally applicable in the instant case, thus removing alkylate from the ambit of "other products of distillation," even if some of its raw materials undergo the process of distillation.
+Under the principle of 
+ejusdem generis
+, "where a general word or phrase follows an enumeration of particular and specific words of the same class or where the latter follow the former, the general word or phrase is to be construed to include, or to be restricted to persons, things or cases akin to, resembling, or of the same kind or class as those specifically mentioned."
+[52]
+Therefore, in construing the phrase "other similar products of distillation" as stated in Sec. 148 (e) of the 1997 NIRC, as amended, the same must only include or be restricted to things or cases akin to, resembling, or of the same kind or class as those specifically mentioned, (
+i.e.
+, naphtha and regular gasoline). In light of the Court's determination that alkylate does not belong to the same category as naphtha and regular gasoline, the same should not be subjected to excise tax.  
+ 
+The CIR's interpretation should not override, supplant, or modify the law
+  
+ 
+The CTA relied heavily on the CIR's interpretation and position regarding Sec. 148 (e) of the 1997 NIRC, as amended, in relation to the nature of alkylate. To recall, former Commissioner Henares adopted the stance of Ramos, the OIC-Â­Chief of the BIR Laboratory Section that alkylate qualifies as a product similar to naphtha used as gasoline blending component.
+However, a careful examination of the records reveal that the report of Ramos was based merely on definitions of the relevant scientific terms from reference materials such as books and the internet,
+[53]
+ and not on actual testing and experience. According to her, in terms of boiling range, volatility and recovery process, alkylate qualifies as a product similar to naphtha.
+[54]
+ However, she did not give specific details regarding the boiling range and volatility of either naphtha or alkylate to justify her conclusion. Moreover, Ramos herself conceded that the process of distillation is not the primary process to produce alkylate but the process of alkylation.
+[55]
+In contrast, the expert witnesses presented by petitioner painstakingly described the difference between naphtha and alkylate insofar as boiling range, volatility, and recovery process are concerned. In particular, Dr. Ocon, a tenured professor at the Department of Chemical Engineering of the University of the Philippines, Diliman and the Head of the Laboratory of Electrochemical Engineering of the same university, and an experienced consultant,
+[56]
+ made a detailed comparison between naphtha and alkylate. As to boiling range, alkylate ranges from 40Â°C to 150Â°C while naphtha is limited only to 30Â°C to 100Â°C. He also noted a variance on the olefins, aromatics, and sulfur contents of naphtha and alkylate. Naphtha has 20-30 vol% of olefins, 29 vol% of aromatics, and 800ppm of sulfur. On the other hand, alkylate has 0.5 vol% of olefins, 0 vol% of aromatics, and 16ppm of sulfur. In addition, the drivability indices of naphtha differ from alkylate in that naphtha values at 1223 while alkylate is at 1134.
+[57]
+Evidently, substantial distinctions exist between alkylate and naphtha which compel the Court to invalidate the conclusion reached by Ramos that alkylate is similar to naphtha.
+The dissimilarities noted above were echoed and supported by Mulqueen, the Technical Manager of Innospec Fuel Specialties for Europe, Middle East and Africa, who has actual laboratory experience in petroleum and fuel production and is exposed in the field of trial and laboratory testing,
+[58]
+ and Bayani I. Rodriguez (Rodriguez), petitioner's Process Engineering Department Head, who is in charge in monitoring the production of gasoline and other petroleum products of petitioner to ensure that the gasoline components meet the desired quality in accordance with the Philippine National Standards (PNS).
+[59]
+In addition, Rodriguez categorically testified that under the Philippine laws and PNS specification PNS/DOE QS 008:2012 ICS 75.160.20, alkylate cannot be considered or sold as a motor fuel because its properties are not suitable for operating motor vehicles. It does not conform to the PNS imposed by the Clean Air Act. Moreover, alkylate is more expensive than premium motor gasoline such that it is more costly to import the same. Hence, it can only be used as a mere blending component.
+[60]
+Mulqueen added that alkylate is used by many countries to blend high octane gasoline. It has no use as a product by itself since it needs to be blended with other components to form a standard gasoline.
+[61]
+Similarly, Dr. Ocon stated that alkylate is not suitable for use as a motor fuel in the operation of vehicles because it does not possess the essential physical properties to ensure the effective operation of vehicles under different driving conditions. Likewise, alkylate, due to its high boiling point, and consequently, low volatility, may also cause spark plug fouling and increase combustion chamber deposits. More importantly, alkylate cannot be used in vehicles as substitute for motor fuel without violating environmental and legal standards.
+[62]
+The foregoing testimonies of these experts are too substantial to be ignored. Indeed, the CTA erred in giving more weight to the testimony of Ramos over the combined testimonies of Dr. Ocon, Mulqueen and Rodriguez, who are all experts in the field of fuel and petroleum, and whose experience cannot be ignored. Not to mention, both Mulqueen and Dr. Ocon are impartial witnesses as they are not in any way connected with petitioner.
+On this score, it is settled that the Court is not bound by the administrative interpretations or rulings of executive officers. As We have consistently ruled, interpretations placed upon a statute by the executive officers, whose duty is to enforce it, are not conclusive and will be ignored if judicially found to be erroneous as the courts will not countenance administrative issuances that override, instead of remaining consistent and in harmony with, the law they seek to apply and implement.
+[63]
+For this Court to subject alkylate to excise tax, the authority should be reasonably founded on the language of the statute. That language is wanting in this case. "In the scheme of judicial tax administration, the need for certainty and predictability in the implementation of tax laws is crucial. Our tax authorities fill in the details that Congress may not have the opportunity or competence to provide. The regulations these authorities issue are relied upon by taxpayers, who are certain that these will be followed by the courts. Courts, however, will not uphold these authorities' interpretations when clearly absurd, erroneous or improper."
+[64]
+ Here, We find that the CIR's interpretation as to the nature and taxability of alkylate is patently erroneous for lack of both textual and non-textual support.
+As previously pointed out, alkylate is not among the excisable articles enumerated in Sec. 148 (e) of the 1997 NIRC, as amended. Neither can it be categorized as "other similar products of distillation" precisely because it is 
+not a direct product of distillation
+. Given this, the CTA's reliance on the CIR's administrative interpretation on the matter is utterly misplaced. To reiterate, administrative interpretations cannot go beyond or be inconsistent with the terms and provisions of the law it seeks to interpret or implement.
+[65]
+All told, the Court finds that the CTA 
+En Banc
+ erred in denying petitioner's claim for tax refund or credit. To be clear, alkylate does not fall under the category of "other similar products of distillation" as contemplated in Sec. 148 (e) of the 1997 NIRC, as amended.
+WHEREFORE
+, the Court 
+GRANTS
+ the instant Petition for Review on 
+Certiorari
+, and 
+REVERSES
+ and 
+SETS ASIDE
+ the July 22, 2020 Decision and the February 18, 2021 Resolution of the Court of Tax Appeals 
+En Banc
+ in CTA EB No. 2072. Accordingly, respondent Commissioner of Internal Revenue is 
+ORDERED
+ to refund or issue a tax credit certificate in favor of petitioner Petron Corporation in the total amount of P219,153,851.00, representing the erroneously paid excise taxes on its importation of alkylate covered by Import Entry and Internal Revenue Declaration Nos. 122844547, 122773043, 124315222, 125253615,and 125644382.
+SO ORDERED.
+Gesmundo, C.J. (Chairperson), Zalameda
+, and 
+Rosario, JJ.
+, concur.
+Marquez
+,
+*
+ 
+J.
+, on official business.
+*
+ On official business.
+[1]
+ 
+Rollo
+, Vol. 1, pp. 103-215.
+[2]
+ 
+Id.
+ at 49-69. Penned by Associate Justice Jean Marie A. Bacorro-Villena and concurred in by Associate Justices Juanito C. CastaÃ±eda, Jr., Erlinda P. Uy, Esperanza R. Fabon-Victorino, Ma. Belen M. Ringpis-Â­Liban and Maria Rowena Modesto-San Pedro. Presiding Justice Roman G. Del Rosario dissented.
+[3]
+ 
+Id.
+ at 77-93. Penned by Associate Justice Jean Marie A. Bacorro-Villena and concurred in by Presiding Justice Roman G. Del Rosario and Associate Justice Maria Rowena Modesto-San Pedro Associate Justices Juanito C. CastaÃ±eda, Jr., Erlinda P. Uy, and Ma. Belen M. Ringpis-Liban voted to affirm the assailed decision. Associate Justice Catherine T. Manahan inhibited.
+[4]
+ 
+Id.
+ at 92.
+[5]
+ 
+Id.
+ at 111.
+[6]
+ 
+Id.
+ at 50.
+[7]
+ 
+Id.
+[8]
+ 
+Id.
+[9]
+ 
+Rollo
+, Vol. 2, pp. 706-716.
+[10]
+ 
+Id.
+ at 733-743.
+[11]
+ 
+Rollo
+, Vol. 1, p. 51.
+[12]
+ 
+Id.
+ at 14.
+[13]
+ 
+Id.
+ at 25.
+[14]
+ 
+Id.
+ at 12-40. Penned by Associate Justice Juanito CastaÃ±eda, Jr. and concurred in by Associate Justice Cielito N. Mindaro-Grulla. Associate Justice Catherine T. Manahan inhibited.
+[15]
+ 
+Id.
+ at 39
+[16]
+ 
+Id.
+ at 37-38.
+[17]
+ CTA Case No. 9111, October 26, 2017.
+[18]
+ 
+Rollo
+, Vol. 1, p. 38.
+[19]
+ 
+Id.
+ at 41-48. Penned by Associate Justice Juanito CastaÃ±eda, Jr. and concurred in by Associate Justice Cielito N. Mindaro-Grulla. Associate Justice Catherine T. Manahan inhibited.
+[20]
+ 
+Id.
+ at 344-384.
+[21]
+ Entitled "AN ACT AMENDING SECTIONS 27, 28, 34, 106, 107, 108, 109, 110, 111, 112, 113, 114, 116, 117, 119, 121, 148, 151, 236, 237 AND 288 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES." Approved: May 24, 2005.
+[22]
+ 
+Rollo
+, Vol. 1, pp. 58-59.
+[23]
+ 
+Id.
+ at 60.
+[24]
+ 
+Id.
+ at 62.
+[25]
+ 
+Id.
+ at 63.
+[26]
+ 
+Id.
+ at 66-67.
+[27]
+ 
+Id.
+ at 68.
+[28]
+ 
+Id.
+ at 308-343.
+[29]
+ 
+Rollo
+, Vol. 2, p. 1052.
+[30]
+ 
+Id.
+ at 913.
+[31]
+ Sec. 229. 
+Recovery of Tax Erroneously or Illegally Collected
+. â No suit or proceeding shall be maintained in any court for the recovery of any national internal revenue tax hereafter alleged to have been erroneously or illegally assessed or collected, or of any penalty claimed to have been collected without authority, or of any sum alleged to have been excessively or in any manner wrongfully collected, until a claim for refund or credit has been duly filed with the Commissioner; but such suit or proceeding may be maintained, whether or not such tax, penalty, or sum has been paid under protest or duress.
+In any case, no such suit or proceeding shall be filed after the expiration of two (2) years from the date of payment of the tax or penalty regardless of any supervening cause that may arise after payment: Provided, however, That the Commissioner may, even without a written claim therefor, refund or credit any tax, where on the face of the return upon which payment was made, such payment appears clearly to have been erroneously paid.
+[32]
+ 
+Rollo
+, Vol. 1, p. 92.
+[33]
+ 
+Id.
+[34]
+ 
+Commissioner of Internal Revenue v. Fortune Tobacco Corporation
+, 581 Phil. 146, 166 (2008).
+[35]
+ 
+Id.
+ at 166-167.
+[36]
+ 
+Id.
+[37]
+ 
+Id.
+[38]
+ 
+Commissioner of Internal Revenue v. Fortune Tobacco Corporation
+, 
+supra
+.
+[39]
+ 493 Phil. 785 (2005).
+[40]
+ 
+Id.
+ at 793-794.
+[41]
+ 
+Rollo
+, Vol. 1, p. 86.
+[42]
+ 
+Id.
+ at 33-34.
+[43]
+ 
+Rollo
+, Vol. 2, p. 913.
+[44]
+ 
+Id.
+ at 914-917.
+[45]
+ 
+Id.
+ at 914.
+[46]
+ 
+Id.
+[47]
+ 
+Id.
+ at 915-916.
+[48]
+ 
+Id.
+ at 916.
+[49]
+ 
+Id.
+[50]
+ 
+Id.
+ at 913.
+[51]
+ 
+Id.
+[52]
+ 
+Power Sector Assets and Liabilities Management Corporation v. Commission on Audit, G.R. No. 205490
+, September 22, 2020, citing 
+Alta Vista Golf and Country Club v. The City of Cebu
+, 778 Phil. 685, 704 (2016).
+[53]
+ TSN, April 26, 2017; 
+Rollo
+, Vol. 2, p. 1203.
+[54]
+ 
+Rollo
+, Vol. 2, p. 1208.
+[55]
+ 
+Id.
+ at 1211.
+[56]
+ 
+Id.
+ at 1049.
+[57]
+ 
+Id.
+ at 1054.
+[58]
+ 
+Id.
+ at 1039.
+[59]
+ 
+Id.
+ at 1029.
+[60]
+ 
+Id.
+ at 1030-1032.
+[61]
+ 
+Id.
+ at 1040.
+[62]
+ 
+Id.
+ at 1052.
+[63]
+ 
+Philippine Bank of Communications v. Commissioner of Internal Revenue
+, 361 Phil. 916, 929 (1999).
+[64]
+ 
+Medicard Philippines, Inc. v. Commissioner of Internal Revenue
+, 808 Phil. 528, 554-555 (2017).
+[65]
+ 
+Philippine Bank of Communications v. Commissioner of Internal Revenue
+, 
+supra
+.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

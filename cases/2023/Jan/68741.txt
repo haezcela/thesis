@@ -1,0 +1,1052 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 250539, January 11, 2023 ]
+
+
+DHY REALTY & DEVELOPMENT CORPORATION, 
+PETITIONER
+, VS. THE HONORABLE COURT OF APPEALS-SPECIAL SIXTH [6
+TH
+] DIVISION, CONSTRUCTION INDUSTRY ARBITRATION COMMISSION, SHERIFF OF THE CONSTRUCTION INDUSTRY AUTHORITY OF THE PHILIPPINES, AND WING-AN CONSTRUCTION DEVELOPMENT CORPORATION, 
+RESPONDENTS
+.
+D E C I S I O N
+
+
+
+
+SINGH, J.:
+
+
+This is a Petition for 
+Certiorari
+[1]
+ under Rule 65 of the Rules of Court. The Petitioner DHY Realty & Development Corporation prays that the following decisions, resolutions, awards, and orders of the Court of Appeals and the Construction Industry Arbitration Commission be declared void: (a) the Court of Appeals Decision,
+[2]
+ dated January 29, 2019, issued in 
+Wing-An Construction Development Corporation v. DHY Realty & Development Corporation
+, docketed as CA-G.R. SP No. 151286 which denied the Petition for Review,
+[3]
+ dated June 21, 2017, filed by the Respondent Wing-An Construction Development Corporation under Rule 43 of the Rules of Court; (b) the Court of Appeals Resolution,
+[4]
+ dated June 21, 2019, which denied Wing-An's motion for reconsideration, (c) the Construction Industry Arbitration Commission Final Award,
+[5]
+ dated May 8, 2017; (d) the Construction Industry Arbitration Commission Notice of Award,
+[6]
+ dated May 9, 2017; (e) the Construction Industry Arbitration Commission Order,
+[7]
+ dated May 30, 2017, (f) the Construction Industry Arbitration Commission Writ of Execution,
+[8]
+ dated August 15, 2019, (g) the Construction Industry Arbitration Commission Notice of Garnishment,
+[9]
+ dated October 8, 2019; and (h) the Construction Industry Arbitration Commission Order,
+[10]
+ dated December 4, 2019 (collectively, the 
+assailed issuances
+).
+The Facts
+The petitioner DHY Realty & Development Corporation (
+DHY Realty
+) and the respondent Wing-An Construction Development Corporation (
+Wing-An
+) entered into a contract, denominated as Construction Contract Agreement (the 
+Construction Contract
+),
+[11]
+ on June 24, 2014. Under the Construction Contract, Wing-An obligated itself to construct a warehouse building with a canteen for DHY Realty at M. Eusebio Avenue, Barangay San Miguel, Pasig City. The Construction Contract contained an arbitration clause which provided that any dispute, controversy or differences between the parties arising from the contract shall be submitted to arbitration.
+[12]
+Wing-An commenced the construction on January 10, 2014 with the intention of completing all the works in August 2014. In connection with this, DHY Realty engaged Richard N. Santos & Associates (
+RNS
+) to serve as the Construction Manager for the project. In the course of the construction, WingÂ­-An submitted a proposal for the construction of a 114.11 x 2.0 meters high fence near the canteen. Wing-An quoted a contract price of PHP 12,284.069.54. DHY Realty accepted and approved the proposal. Thus, Wing-An constructed the high fence.
+[13]
+ However, Wing-An claimed that when it demanded payment of the contract price agreed upon, DHY Realty refused to pay and instead demanded that the height of the fence should be increased by 1.5 meters. According to Wing-An, it agreed to increase the height of the fence but only received PHP 600,000.00 from DHY Realty despite the latter's promise to fully pay the contract price upon completion of the additional work on the high fence.
+[14]
+Wing-An sent a letter,
+[15]
+ dated October 4, 2014, to DHY Realty demanding the payment of its partial billing for all the additional works already completed. Wing-An sent a second letter, dated January 20, 2015, informing DHY Realty that it would be imposing an interest rate of 3% per month on the unpaid billing because it had purportedly obtained a loan from China Banking Corporation (
+China Bank
+) to fund the additional work it had to perform for DHY Realty.
+[16]
+DHY Realty, Wing-An, and RNS, through their representatives, held a meeting to discuss Wing-An's demand for payment. In this meeting, DHY Realty and Wing-An agreed that Wing-An will cease construction work except for certain identified works which the parties agreed would continue.
+[17]
+ All remaining unfinished and rectification works would then be assigned by DHY Realty to another contractor provided that Wing-An will agree to the cost of, and shall monitor the works. Moreover, RNS shall evaluate all the works which Wing-An performed, prepare a report of all the additional works done, and endorse to DHY Realty the payment of the total amount due to Wing-An. DHY Realty purportedly agreed to pay the amount within 15 days from receipt of RNS's endorsement.
+[18]
+ DHY Realty also supposedly agreed to pay Billing No. 13, which was outstanding at the time of the meeting.
+[19]
+Wing-An claimed that DHY Realty reneged on its obligations in their agreement. Thus, Wing-An sent a letter, dated February 5, 2015, demanding the payment of the unsettled billings for the additional works, change orders, and variation orders. However, after another meeting, and following an exchange of letters between the parties, no agreement was reached as to the payment of Wing-An's claims.
+[20]
+Wing-An sent another letter, dated June 22, 2015, demanding the payment for the additional works pertaining to the completed high fence plus 3% interest. DHY Realty, through its President, Domingo H. Yap (
+Yap
+), responded in a letter, dated June 25, 2015, where it stated that Wing-An had no basis for the imposition of the 3% interest and informed Wing-An that it will claim liquidated damages against it if Wing-An insisted on the payment of interest.
+[21]
+ Wing-An countered in its letter, dated June 25, 2015. Then, in a letter dated July 12, 2015, Wing-An expressed its intention to commence arbitration unless DHY Realty complied with its demand for payment within five days from receipt of the letter. Finally, on October 27, 2015, Wing-An sent a final demand letter to DHY Realty for the payment of PHP 15,864,178.01 plus interest at the rate of 3% reckoned from the third day of DHY Realty's receipt of the final demand. DHY Realty did not heed Wing-Â­An's demand.
+[22]
+On September 29, 2016, Wing-An filed its Complaint (
+Complaint
+),
+[23]
+ dated June 17, 2016, and a Request for Arbitration,
+[24]
+ dated September 29, 2016, with the Construction Industry Arbitration Commission (
+CIAC
+). In the Complaint, Wing-An prayed that DHY Realty and Yap be held solidarity liable for the payment of (a) PHP 15,864,178.01 representing Wing-An's claim for additional works, change orders, and variation orders, subject to the payment of interest at the rate of 3%; (b) PHP 1,000,000.00 in exemplary damages; and (c) filing fees and the fees of the arbitrators.
+[25]
+The Complaint also stated that DHY Realty and Yap may be served "with summons and other legal processes"
+[26]
+ at their address at Bel-air Soho Condominium Corp, #45 Polaris Corner Badajos St., Poblacion, Makati City (
+Makati Address
+).
+[27]
+On September 30, 2016, the CIAC Executive Director Kathryn Josephine T. Dela Cruz (
+CIAC Executive Director Dela Cruz
+) wrote a letter (
+September 30, 2016 letter
+), dated September 30, 2016 (
+Letter-Notice
+)
+[28]
+, to Yap, as President of DHY Realty, informing him that Wing-An filed a Complaint and Request for Arbitration against DHY Realty and Yap. The letter also stated that DHY Realty and Yap should answer the Complaint and nominate six arbitrators from the list of arbitrators attached to the letter within 15 days from receipt of the notice. Further, the letter informed DHY Realty and Yap that in the event that they fail to answer and/or submit nominees for arbitrators within the prescribed period, the CIAC will proceed with the arbitration.
+[29]
+ Copies of the Complaint, Request for Arbitration, and the annexed documents were attached to the letter. The letter was sent via courier to the Makati Address provided by Wing-An in the Complaint.
+The CIAC then sent letters
+[30]
+ to Wing-An's nominees, Atty. Myra Angeli G. Batungbakal (
+Atty. Batungbakal
+), Engr. Danilo B. CariÃ±o (
+Engr. CariÃ±o
+), and Atty. Eduardo R. Ceniza (
+Atty. Ceniza
+), informing them of their nomination as arbitrators of the arbitral tribunal (
+CIAC Tribunal
+). All the nominees accepted their appointment. The parties were furnished with copies of all the relevant communications pertaining to the appointment of the members of the CIAC Tribunal. Again, copies of the said communications were served on DHY Realty through the Makati Address.
+The CIAC issued an Order,
+[31]
+ dated January 10, 2017, setting the case for preliminary conference on January 31, 2017 at 9:00 a.m. Copies of the order were furnished upon Wing-An through its counsel and upon DHY Realty and Yap using the Makati Address.
+[32]
+On January 20, 2017, the CIAC issued an Order
+[33]
+ of the same date (
+January 20, 2017 CIAC Order
+) where it said that the Letter-Notice was delivered to DHY Realty and Wing-An through LBC courier on October 1, 2016.
+[34]
+ The January 20, 2017 CIAC Order further stated that:
+By email dated 19 January 2017, Ms. Lorna Rivera, the CIAC Staff in charge of this case, gave the Tribunal the following information based on the website of the LBC courier:
+(a)
+The letter of Executive Director Dela Cruz adverted to above, was received by a certain Sheena Garcia on 1 October 2016. No advice was received by CIAC from LBC that the documents were returned to them.
+(b)
+The copy of the appointment of the members of the Tribunal, which was sent via LBC courier Mr. Domingo H. Yap, President, DHY Realty & Development Corporation, was received by Angelo Reyes and Jerry Santos (security guards on duty). However, the document was later returned to LBC and the latter, in turn, returned it to CIAC for the reason: Returned shipment due to move out/consignee not known.
+(c)
+The Tribunal's Order dated 10 January 2017 calling the parties to a Preliminary Conference was sent to the Respondents via LBC but was not served/received for the reason: "Consignee unknown per guard on duty."
+Unless the Respondents [the Petitioner and Yap] are duly served with copies of pleadings, other submissions, notices, orders and other processes in these arbitral proceedings, there is the likelihood that the validity of the arbitral proceedings might be challenged on the ground that the Respondents were denied due process or reasonable opportunity to present their case.
+WHEREFORE, in view of the foregoing, the Claimant is directed to (a) take appropriate steps to determine whether the Respondents have moved out from the address at "Bel-Air Soho Condominium Corporation, No 45 Polaris corner Badajos Street, Poblacion, Makati City" and, if so, what is now the correct principal address of the Respondents; and (b) thereafter, to accordingly notify the CIAC Secretariat and the Tribunal of the present principal address of the Respondents.
+[35]
+In compliance with this order, Wing-An submitted DHY Realty's Amended Articles of Incorporation (
+AOI
+)
+[36]
+ and latest General Information Sheet (
+GIS
+),
+[37]
+ dated September 22, 2016. The GIS stated that DHY Realty's principal official address is Bel-Air Soho Condominium Corporation, No. 45 Polaris Street corner Badajos Street, Poblacion, Makati City.
+[38]
+The preliminary conference pushed through on February 17, 2017. Only Wing-An and its counsel appeared before the CIAC.
+[39]
+ Pursuant to the Terms of Reference
+[40]
+ issued during the preliminary conference, Wing-An filed the Judicial Affidavit of Engr. Selwyn F. Lao,
+[41]
+ its sole witness, and its documentary evidence.
+[42]
+ Neither DHY Realty nor Yap filed any witness statements or submitted any other evidence.
+[43]
+The CIAC held the evidentiary hearing on March 31, 2017. Again, only Wing-An appeared. DHY Realty and Yap did not appear in the hearing. Following the conclusion of the evidentiary hearing, Wing-An filed its Formal Offer of Documentary Evidence,
+[44]
+ dated April 18, 2017, and its Memorandum on April 19, 2017.
+[45]
+The Ruling of the CIAC Tribunal
+The CIAC Tribunal promulgated the Final Award
+[46]
+ on May 9, 2017. As to the issue of whether DHY Realty and Yap were properly served with notices and communications relating to the arbitration proceedings, the CIAC concluded that there was proper service. First, the CIAC stated that the Makati Address which Wing-An provided in the Complaint is also DHY Realty's and Yap's address as stated in (a) the letterhead of DHY Realty in the letter, dated June 25, 2015, which DHY Realty sent to Wing-An and (b) the letter, dated September 30, 2015, sent by CIAC Executive Director Dela Cruz to Yap informing him of the filing of the Complaint and the Request for Arbitration.
+[47]
+ Second, the CIAC explained that it has no duty to "verify the correct address and whereabouts of Respondents" and that it "simply assumes that the address of the Respondents, as stated in the Complaint, is correct." Further, while the CIAC recognized that this assumption may be overturned by evidence that the address stated in the complaint is not the respondent's true address, "[s]uch is not the case here."
+[48]
+After explaining that the CIAC was "extra careful and scrupulous in examining and evaluating the Claimant's [Wing-An's] evidence on the claim for accomplished extra works/change and variation orders"
+[49]
+ considering that the arbitration was conducted in the absence of DHY Realty and Yap, the CIAC stated in the Final Award:
+WHEREFORE, the Tribunal hereby decides and awards full and final disposition of this arbitration as follows:
+ 
+(a)
+Respondent DHY is ordered to pay the Claimant â
+(i)
+The amount of Php9,160,000.00 representing the value of the extra or additional works/change and variation orders which were accomplished by the claimant, plus interest thereon at 6% per annum from the date of finality of this Final Award until fully paid;
+(ii)
+The amount of Php300,000.00 as and for attorney's fees;
+(iii)
+The amount of Php487,043.07 for cost of arbitration;
+(b)
+ The claim for exemplary damages is denied for lack of merit; and
+(c)
+All other claims and/or request for relief not disposed of in this Final Award is/are denied for lack of merit.
+[50]
+On the same date, the CIAC also issued the Notice of Award
+[51]
+ informing the parties that the CIAC had already rendered the Final Award. The Notice of Award and the Final Award were served upon DHY Realty using the Makati Address.
+[52]
+ On May 24, 2017, Wing-An filed a Motion for Correction of Computation and/or Reconsideration,
+[53]
+ dated May 24, 2017, of the Final Award, which the CIAC Tribunal denied in its Order,
+[54]
+ dated May 30, 2017.
+Wing-An filed its Petition for Review
+[55]
+ with the CA assailing the Final Award. Specifically, Wing-An prayed that the amount awarded to Wing-An in the Final Award should be increased from PHP9,160,000.00 to PHP15,864,178.01.
+[56]
+ The Petition for Review was served on DHY Realty through the Makati Address.
+[57]
+The Ruling of the CA
+The CA, in its Resolution, dated January 23, 2018 (
+January 23, 2018 Resolution
+),
+[58]
+ granted Wing-An's motion to serve DHY Realty through substituted service. Thus, the CA ordered Wing-An to serve a copy of the Petition for Review and its annexes to the CA Clerk of Court, pursuant to Section 3 of Rule 18 of the Rules of Court.
+[59]
+ Further, in its Resolution,
+[60]
+ dated May 23, 2018, the CA ruled that Wing-An had already complied with the January 23, 2018 Resolution since it submitted a copy of the Petition for Review and its annexes along with its earlier motion for substituted service.
+[61]
+Then, in its Resolution,
+[62]
+ dated May 28, 2018, the CA confirmed that the service of the Petition for Review to the Clerk of Court by way of substituted service is deemed complete. In the same Resolution, the CA also ordered the personal service of its Resolution, dated July 5, 2017, to DHY Realty considering that the earlier attempt to serve the July 5, 2017 Resolution through registered mail was unsuccessful. Notably, the July 5, 2017 Resolution contains the CA's order that DHY Realty file its Comment on the Petition for Review.
+[63]
+In its Resolution, dated June 21, 2018 (
+June 21, 2018 Resolution
+),
+[64]
+ the CA noted that the attempt to personally serve the July 5, 2017 Resolution to DHY Realty and Yap was unsuccessful because the addressees "were unknown at the given address according to Mr. Rico J. Estanislao, OIC at the Bel-Air Soho Cond. Corp."
+[65]
+ In the same resolution, the CA ruled:
+There being proof of failure of both personal service and service by mail of the July 5, 2017 Resolution upon respondent, service thereof is considered COMPLETE at the time of the delivery to the Division Clerk of Court on May 31, 2018, in accordance with Section 8, Rule 13, Rev. Rules of Court.
+[66]
+Further, the June 21, 2018 Resolution required DHY Realty and Yap to show cause, within 10 days from notice, why the Petition for Review should not be deemed submitted for decision without any comment.
+[67]
+On August 8, 2018, the CA issued another Resolution
+[68]
+ stating that:
+There being proof of failure of both personal service and service by mail that no comment to petition and/or reply to show cause was filed, respondent is deemed to have waived the right to file comment and the Court RESOLVES to CONSIDER the case SUBMITTED FOR DECISION.
+[69]
+On January 29, 2019, the CA rendered the Decision
+[70]
+ which denied Wing-An's Petition for Review. The dispositive portion of the CA Decision states:
+WHEREFORE, the Petition for Review is DENIED for lack of merit. The Final Award dated 8 May 2017 rendered by the Construction Industry Arbitration Commission is hereby AFFIRMED.
+[71]
+As to the issue of whether there was valid service to DHY Realty and Yap of the Request for Arbitration, the appointment of the members of the CIAC Tribunal, and the January 10, 2017 Order setting the case for preliminary conference, the CA Decision relied on the Final Award's statement that the CIAC has no duty to verify the correct address of DHY Realty and Yap.
+[72]
+ Moreover, the CA Decision cited Section 4.2 of the Revised Rules of Procedure Governing Construction Arbitration (
+CIAC Rules
+), which states:
+SEC. 4.2 Failure or refusal to arbitrate â Where the jurisdiction of CIAC is properly invoked by the filing of a Request for Arbitration in accordance with these Rules, the failure despite due notice which amounts to a refusal of the Respondent to arbitrate, shall not stay the proceedings notwithstanding the absence or lack of participation of the Respondent. In such case, CIAC shall appoint the arbitrator/s in accordance with these Rules. Arbitration proceedings shall continue, and the award shall be made after receiving the evidence of the Claimant.
+[73]
+The CA also denied Wing-An's Motion for Reconsideration through the CA Resolution.
+[74]
+On August 15, 2019, the CIAC issued the Writ of Execution ordering Mr. Allan R. Amon (
+Amon
+), the Ex-Officio Sheriff of the CIAC, to execute the Final Award.
+[75]
+ Subsequently, on October 8, 2019, Amon issued the Notice of Garnishment
+[76]
+ to China Bank.
+On October 30, 2019, DHY Realty filed its Formal Entry of Appearance with Omnibus Motion (a) to Quash Writ of Execution and (b) Lift Notice of Garnishment of the same date (
+Formal Entry with Omnibus Motion
+).
+[77]
+ DHY Realty stated that, on October 8, 2019, it was informed by China Bank that the CIAC had issued a Notice of Garnishment upon all of DHY Realty's bank deposits with China Bank. The Notice of Garnishment also included a copy of the Writ of Execution which mentioned the Final Award. DHY Realty claimed that it was unaware of the proceedings which led to the issuance of the Final Award, the Writ of Execution, and the Notice of Garnishment.
+[78]
+ DHY Realty asserted that it only learned of the arbitration proceedings because of China Bank's notice. DHY Realty stressed that the Makati Address, which the CIAC used to serve copies of pleadings and communications to it and Yap, was wrong. According to DHY Realty, its principal address is at Christine Royale Executive Subdivision, M. Eusebio Street, San Miguel, Pasig City (
+Pasig Address
+).
+[79]
+ Considering that there was no proper service to DHY Realty and Yap of any of the pleadings and communications in the arbitration proceedings, DHY Realty prayed that the Writ of Execution should be quashed and the Notice of Garnishment lifted.
+[80]
+In its Order,
+[81]
+ dated November 11, 2019, the CIAC set the Formal Entry with Omnibus Motion for hearing in view of the "seriousness of the allegations in the Omnibus Motion."
+[82]
+Following the hearing, the CIAC issued an Order, dated December 4, 2019 (
+December 4, 2019 Order
+),
+[83]
+ denying DHY Realty's Formal Entry and Omnibus Motion. In the December 4, 2019 Order, the CIAC stated that the CA Decision which affirmed the Final Award was already final and executory. Thus, the CIAC's jurisdiction over the case has terminated and its sole duty was to enforce the Final Award through the issuance of a writ of execution. The CIAC also stated that DHY Realty's remedy, "if any, will have to be pursued in a court of law, but not before this Tribunal."
+[84]
+On December 10, 2019, DHY Realty filed this Petition for 
+Certiorari
+ (With Application for Issuance of a Temporary Restraining Order and/or Writ of Preliminary Injunction) (
+Petition
+).
+[85]
+ It argues that it did not receive the notices issued by the CIAC which resulted in its failure to appear in the arbitral proceedings. DHY Realty claims that the Makati Address, which Wing-An provided in its Complaint was erroneous because DHY Realty's current principal office address is at Christine Royale Executive Subdivision, M. Eusebio Street, San Miguel, Pasig City.
+[86]
+ According to DHY Realty, Wing-Â­An acted with bad faith when it failed to disclose the Pasig Address notwithstanding the fact that Wing-An was purportedly aware of this address because both parties conducted meetings in this address during the implementation of the Construction Contract.
+[87]
+DHY Realty further argues that while the CIAC, through the January 20, 2017 Order, required Wing-An to ascertain DHY Realty's correct principal address, Wing-An purportedly did not comply with this directive.
+[88]
+ According to DHY Realty, despite Wing-An's knowledge that the Makati Address it provided in its Complaint was incorrect, it still used DHY Realty's GIS which was filed on September 22, 2016.
+[89]
+ DHY Realty asserts that "justice and fairness would dictate that the use of the 2016 GIS is insufficient to ascertain the 2017 office address of the Petitioner."
+[90]
+Thus, DHY Realty asserts that since there was no proper service to it of the CIAC's notices, it was denied its right to participate in the hearing, to confront Wing-An, and defend its position. This, DHY Realty claims, amounts to grave abuse of discretion on the part of the CIAC.
+[91]
+DHY Realty also argues that the CA similarly acted with grave abuse of discretion when it entertained Wing-An's Petition for Review "without considering the blatant violation of DHY Realty's right to due process and consequently, the nullity of the Assailed Award."
+[92]
+Ultimately, DHY Realty seeks the nullity of the assailed issuances because it alleges that the invalid service of the CIAC notices deprived it of its right to due process, and specifically to participate in the arbitration proceedings. This denial of due process, DHY Realty insists, continued when the CA allowed the substituted service upon DHY Realty because of its reliance on the representation of Wing-An that the Makati Address is DHY Realty's current principal address.
+[93]
+Wing-An filed its Comment on the Petition,
+[94]
+ dated February 7, 2020. Wing-An argues that the Petition should be denied because DHY Realty failed to file a motion for reconsideration before it filed its Petition. Wing-An asserts that the filing of a motion for reconsideration is a precondition before a party can institute a special civil action for 
+certiorari
+.
+[95]
+ Wing-An also argues that the CA Decision and the Final Award have both attained finality. Thus, they have become immutable and must be enforced.
+[96]
+As to DHY Realty's argument that there was no proper service of the CIAC's notices because they were served using the erroneous Makati Address, Wing-An insists that DHY Realty failed to present any evidence showing that the Pasig Address is its principal address. According to WingÂ­An, the Pasig Address is the location of the construction project, which is a warehouse, and is not DHY Realty's office.
+[97]
+ In this regard, Wing-An takes the view that it properly relied on DHY Realty's AOI and GIS in determining its principal address. Wing-An emphasizes that the AOI and the GIS it submitted to the CIAC were DHY Realty's latest AOI and GIS which were filed on September 22, 2016.
+[98]
+Moreover, Wing-An invokes Resolution No. 11-2010, entitled, 
+Adopting Guidelines on the Filing and Delivery of Communications in CIAC Cases
+ (
+Resolution No. 11-2010
+) as support for its argument that, unlike regular court cases where the service of summons is the operative act which allows a court to acquire jurisdiction over a party, the CIAC only requires that the relevant notices must be served at a party's last known address by personal delivery or by courier. As this was complied with in the arbitration proceedings, there is, therefore, no defect that would taint the Final Award and subsequent proceedings.
+[99]
+Amon filed a Comment,
+[100]
+ dated February 14, 2020, where he argued that, as a Sheriff, the fiduciary nature of his duties dictated that he should act with reasonable promptness and celerity in the enforcement of writs of execution. He emphasized that his duty to enforce a writ of execution is purely ministerial and unless restrained by a court, he ought to execute a final award without undue delay. Thus, he prayed that DHY Realty should be directed to comply with the Writ of Execution.
+[101]
+Meanwhile, the CIAC filed an Entry of Appearance With Manifestation and Motion,
+[102]
+ dated February 14, 2020, where it prayed that it be excused from filing a comment on the Petition considering that the CIAC, much like a judge, is not an active combatant in proceedings involving the review of its rulings. The Court granted the CIAC's prayer in its Resolution, dated June 29, 2020.
+[103]
+The Issues
+The issues for the Court's resolution are:
+Is a petition for 
+certiorari
+ under Rule 65 the correct remedy to challenge the alleged invalidity of the assailed issuances?
+Was DHY Realty properly served with the CIAC Tribunal's notices pertaining to the arbitration proceedings?
+The Ruling of the Court
+The Court highlights its ruling in 
+Global Medical Center of Laguna, Inc. v. Ross Systems International, Inc.
+ (
+Global Medical Center
+)
+[104]
+ promulgated on May 11, 2021. In 
+Global Medical Center
+, the Court identified the specific routes by which an award rendered by the CIAC may be reviewed. The Court said:
+For the avoidance of doubt, the Court now holds that the judicial review of CIAC arbitral awards takes either of two remedial routes, depending on the issue being raised. 
+First, if the issue raised is a pure question of law, the petition should be filed directly and exclusively with the Court, notwithstanding Rule 43.
+ Second, 
+in cases where the petition takes issue on the integrity of the arbitral tribunal and its decision, (i.e., allegations of corruption, fraud, misconduct, evident partiality, incapacity or excess of powers within the tribunal), or the unconstitutionality or invalidity of its actions in the arbitral process then the parties can and should appeal the CIAC award before the CA under Rule 65, on grounds of grave abuse of discretion amounting to lack or excess in jurisdiction, where a factual review may then be had by the CA.
+Concomitantly, the availability of a resort to the CA via a Rule 65 petition under these circumstances must also necessarily amend Rule 19.7 of the Special ADR Rules which proscribes any filing of a special civil action of a petition for 
+certiorari
+. This necessary amendment will allow for the narrowest of grounds for a factual review of a CIAC arbitral award to be brought before the proper court through the correct action. This amendment is also merited so that the Special ADR Rules may not, without their intention, frustrate instead of facilitate the modes of appeal from CIAC arbitral awards.
+[105]
+Notably, the ruling in 
+Global Medical Center
+ is of prospective application and does not apply to appeals of CIAC arbitral awards filed and pending before the CA prior to its promulgation. The Court explained:
+The Court hereby sets the following guidelines with respect to the application of the present ruling on modes of judicial review vis-Ã -vis CIAC arbitral awards:
+For appeals from CIAC arbitral awards that have already been filed and are currently pending before the CA under Rule 43, the prior availability of the appeal on matters of fact and law thereon applies. This is only proper since the patties resorted to this mode of review as it was the existing procedural rules at the time of filing, prior to the instant amendment.
+For future appeals from CIAC arbitral awards that will be filed after the promulgation of this Decision:
+If the issue to be raised by the parties is a pure question of law, the appeal should be filed directly and exclusively with the Court through a petition for review under Rule 45.
+If the parties will appeal factual issues, the appeal may be filed with the CA, but only on the limited grounds that pertain to either a challenge on the integrity of the CIAC arbitral tribunal (i.e., allegations of corruption, fraud, misconduct, evident partiality, incapacity or excess of powers within the tribunal) or an allegation that the arbitral tribunal violated the Constitution or positive law in the conduct of the arbitral process, through the special civil action of a petition for 
+certiorari
+ under Rule 65, on grounds of grave abuse of discretion amounting to lack or excess in jurisdiction. The CA may conduct a factual review only upon sufficient and demonstrable showing that the integrity of the CIAC arbitral tribunal had indeed been compromised, or that it committed unconstitutional or illegal acts in the conduct of the arbitration.
+Under no other circumstances other than the limited grounds provided above may parties appeal to the CA a CIAC arbitral award.
+[106]
+In this case, Wing-An filed its Petition for Review under Rule 43 before the CA on June 21, 2017. On the other hand, DHY Realty's present Petition challenging the various issuances of the CIAC and the CA was filed on December 10, 2019. Thus, at the time the Petition for Review and the subsequent Petition now before the Court were filed, the applicable rule as to the judicial review of CIAC arbitral awards were those that prevailed prior to 
+Global Medical Center
+. Specifically, at the time of the filing of the Petition for Review and the current Petition, a CIAC arbitral award may be reviewed by the CA through a Rule 43 petition. A ruling of the CA on such a Rule 43 petition may be appealed before the Court on questions of law via a Rule 45 petition. As to whether a special civil action for 
+certiorari
+ may be filed under Rule 65 to challenge the decision of the CA, there was no proscription against it prior to the Court's pronouncements in 
+Global Medical Center
+. Nonetheless, a resort to a Rule 65 petition for 
+certiorari
+ must comply with its established stringent requirements.
+The Court highlights that while this case will be resolved based on the appellate procedure for CIAC arbitral awards prior to 
+Global Medical Center
+, its decision is necessarily informed by the rationale that animated its promulgation. 
+ 
+A petition for certiorari under Rule 65 of the Rules of Court is not the appropriate remedy to challenge the assailed issuances
+ 
+A special civil action for 
+certiorari
+ under Rule 65 of the Rules of Court is an extraordinary remedy. It is not equivalent nor similar to an appeal as it is subject to more stringent requirements. Section 1 of Rule 65 of the Rules of Court states:
+Section 1.
+ 
+Petition for certiorari
+. â When any tribunal, board or officer exercising judicial or quasi-judicial functions has acted without or in excess of its or his jurisdiction, or with grave abuse of discretion amounting to lack or excess of jurisdiction, and there is no appeal, or any plain, speedy, and adequate remedy in the ordinary course of law, a person aggrieved thereby may file a verified petition in the proper court, alleging the facts with certainty and praying that judgment be rendered annulling or modifying the proceedings of such tribunal, board or officer, and granting such incidental reliefs as law and justice may require.
+A petition for 
+certiorari
+ under Rule 65 is available to assail actions of a "tribunal, board or officer exercising judicial or quasi-judicial functions" who acted "without or in excess of its or his jurisdiction, or with grave abuse of discretion amounting to lack or excess of jurisdiction." Further, it is a remedy available only when "there is no appeal, or any plain, speedy, and adequate remedy in the ordinary course of law."
+In 
+Romy's Freight Service v. Castro
+,
+[107]
+ the Court explained the meaning of the term grave abuse of discretion:
+The sole object of the writ is to correct errors of jurisdiction or grave abuse of discretion. 
+The phrase 'grave abuse of discretion' has a precise meaning in law, denoting abuse of discretion 'too patent and gross as to amount to an evasion of a positive duty, or a virtual refusal to perform the duty enjoined or act in contemplation of law, or where the power is exercised in an arbitrary and despotic manner by reason of passion and personal hostility.
+ It does not encompass an error of law. Nor does it include a mistake in the appreciation of the contending parties' respective evidence or the evaluation of their relative weight.
+[108]
+Further, because a petition for 
+certiorari
+ under Rule 65 is an extraordinary remedy, it is only available if there is no other plain, speedy, adequate remedy in the ordinary course of law. Thus, it does not function as a substitute for an ordinary appeal and cannot be resorted to where appeal, or another mode of reviewing or nullifying the assailed action, is an available remedy.
+[109]
+ Consistent with this, a pre-requisite for the institution of a special civil action for 
+certiorari
+ is the filing of a motion for reconsideration before the lower court which rendered the assailed action. This is necessarily so in order to afford the lower court the opportunity to correct its imputed errors. Generally, a Rule 65 petition may only be filed after a motion for reconsideration has been filed and denied.
+[110]
+DHY Realty failed to comply with these stringent requirements. First, it did not file a motion for reconsideration in the CA. While it is true that this requirement is subject to exceptions, DHY Realty does not allege, let alone show, that these exceptions are present here. DHY Realty does not even attempt to explain why it opted to directly file the Rule 65 Petition before this Court. Second, at the time of the filing of the Petition, the remedy of appeal through a petition for review on 
+certiorari
+ under Rule 45 of the Rules of Court was available to DHY Realty to assail the CA Decision and CA Resolution. Since DHY Realty assails the conclusions of law of the CA as to whether it was denied due process because of the improper service of the CIAC's notices, DHY Realty could have raised these legal questions in a Rule 45 Petition. However, it opted instead to file this Rule 65 Petition without even as much as explaining why it opted to avail of the latter remedy instead of filing a Rule 45 petition to appeal the CA Decision and Resolution.
+Similarly, in assailing the validity of the Final Award and the CIAC's issuances arising from the Final Award, DHY Realty also had a plain, speedy, and adequate remedy. To repeat, at the time that DHY Realty filed the Petition, the prevailing rule was that a party to a CIAC arbitration can assail the arbitral award through Rule 43 of the Rules of Court. Thus, DHY Realty could have filed a Rule 43 appeal of the Final Award and raised before the CA its arguments as to the purported errors committed by the CIAC.
+Moreover, a Rule 65 petition imposes a high bar where the party filing it alleges that the assailed action is tainted with grave abuse of discretion. DHY Realty has the 
+onus
+ of proving that the CA and the CIAC acted in a whimsical, arbitrary, and capricious manner in rendering the assailed Issuances.
+In this regard, the Court emphasizes that while a Rule 65 petition already imposes stringent requirements, in 
+Global Medical Center
+, the Court further clarified that in instances where this remedy is invoked to seek the review of a CIAC arbitral award, the grounds available are even stricter. In particular, the Court explained:
+If the parties will appeal factual issues, the appeal may be filed with the CA, 
+but only on the limited grounds that pertain to either a challenge on the integrity of the CIAC arbitral tribunal (i.e., allegations of corruption, fraud, misconduct, evident partiality, incapacity or excess of powers within the tribunal) or an allegation that the arbitral tribunal violated the Constitution or positive law in the conduct of the arbitral process
+, through the special civil action of a petition for 
+certiorari
+ under Rule 65, on grounds of grave abuse of discretion amounting to lack or excess in jurisdiction.
+[111]
+The Court rules that DHY Realty failed to meet the stringent requirements that would justify a review of the assailed issuances via a Rule 65 Petition. The records show that the CA and the CIAC were both circumspect and afforded DHY Realty as many opportunities as possible to participate in the proceedings and protect its interests.
+In the arbitration proceedings in the CIAC, the records show that the CIAC acted judiciously in ensuring that DHY Realty was properly notified of the proceedings. Specifically, when the CIAC was informed that its notices, 
+i.e.
+, the appointment of the arbitrators and the Order, dated January 10, 2017, which set the date for the preliminary conference, intended to be delivered to DHY Realty were returned by the courier to the CIAC for the reason "consignee unknown" and "returned shipment due to move out." the CIAC promptly directed Wing-An to determine DHY Realty's correct address.
+[112]
+ After ascertaining that the Makati Address is indeed DHY Realty's last known address based on its latest GIS filed with the Securities and Exchange Commission (
+SEC
+), the CIAC opted to proceed with the arbitration. The CIAC's decision to continue with the arbitration is consistent with Rule 4.2 of the CIAC Rules which states that the failure of a party to appear, despite due notice, amounts to a refusal to arbitrate and shall not stay the proceedings.
+Further, an examination of the Final Award will show that the CIAC, in resolving the dispute, gave due regard to the fact that DHY Realty and Yap were not represented in the proceedings. Thus, the CIAC emphasized in the Final Award that it was "extra careful and scrupulous" in evaluating WingÂ­-An's claim.
+In addition, when DHY Realty filed its Formal Entry and Omnibus Motion, the CIAC gave it the opportunity to be heard before the CIAC ultimately opted to deny DHY Realty's prayer to quash the Writ of Execution and lift the Notice of Garnishment.
+The CIAC's conduct in the arbitration proceedings cannot be described as wanton, arbitrary, capricious, and colored with bad faith. While DHY Realty raises questions as to some of the CIAC's issuances and directives in the arbitration proceedings, these questions, however, involve only potential errors of law and judgment but not errors of jurisdiction which would merit a review of the assailed issuances through a Rule 65 Petition.
+As to the CA, the records also show that the CA exercised diligence to ensure that DHY Realty was properly served with notices and pleadings. In particular, even as the CA allowed the substituted service of Wing-An's Petition for Review, it nonetheless specifically ordered that its July 5, 2017 Resolution should be personally served on DHY Realty following a failed attempt to serve by registered mail. It was only when the July 5, 2017 Resolution could not be served personally nor by registered mail that the CA again ordered the substituted service through the delivery of a copy of the resolution to the Division Clerk of Court. Not only this, the CA also gave DHY Realty another chance to protect its interest through the June 21, 2018 Resolution where it directed DHY Realty to show cause why the case should not be deemed submitted for resolution without its comment.
+Given these, it cannot be said that the CA was whimsical, arbitrary, despotic, or capricious in its decision to rule on Wing-An's Petition for Review. To be clear, DHY Realty's contention here is that the CA should not have allowed the substituted service of its notices. Whether the CA correctly allowed the substituted service of notices and whether it could validly rely on the information provided by Wing-An as to DHY Realty's principal address are questions of law and any erroneous rulings arising from these questions are merely errors of judgment. It bears repeating that mere errors of law and judgment cannot be the subject of a Rule 65 petition. Here, DHY Realty failed to show that the purported errors amounted to grave abuse of discretion and were thus, errors of jurisdiction.
+DHY Realty, therefore, should not have resorted to a Rule 65 Petition in seeking the review of the assailed issuances. On this ground alone, this Petition should be dismissed.
+Nonetheless, even on the substantive issues, DHY Realty's case must fail. 
+ 
+DHY Realty was duly notified of the proceedings in the CIAC and the CA
+ 
+The core of DHY Realty's argument is that the CIAC did not properly serve it with notices of the arbitration proceedings. DHY Realty asserts that the CIAC erroneously relied on the information provided by Wing-An as to the Makati Address. For DHY Realty, Wing-An should have disclosed that it was aware of the Pasig Address. This erroneous reliance on the Makati Address provided by Wing-An, DHY Realty insists, persisted up to the CA which led to the substituted service of the Petition for Review and the CA notices. Thus, DHY Realty asserts that considering that there was no proper service of the notices in the CIAC, it was deprived of its right to due process. Given this, DHY Realty claims that the Final Award, and all other issuances arising from it, including the CA Decision and CA Resolution, should be declared null and void.
+In resolving the question of whether DHY Realty was properly served with notices of the arbitration proceedings, the rules applicable to arbitration proceedings in the CIAC govern.
+Sections 4.1 and 4.1.1 of the 2016 CIAC Rules state:
+SECTION 4.1. 
+Submission to CIAC jurisdiction
+ - 
+An arbitration clause in a construction contract or a submission to arbitration of a construction dispute shall be deemed an agreement to submit an existing or future controversy to CIAC jurisdiction
+, notwithstanding the reference to a different arbitration institution or arbitral body in such contract or submission.
+4.1.1 Submission to CIAC Rules â when the parties have agreed to submit the dispute/s to arbitration by CIAC, they shall be deemed thereby to have submitted ipso facto to these Rules and any amendments hereto.
+[113]
+Thus, where a contract includes an arbitration clause, the CIAC Rules dictate that this shall constitute an all-encompassing agreement that all construction disputes arising from the contract shall be subject to CIAC jurisdiction.
+Further, Section 4.2 of the CIAC Rules provides:
+SECTION 4.2
+ 
+Failure or refusal to arbitrate
+ - Where the jurisdiction of CIAC is properly invoked by the filing of a Request for Arbitration in accordance with these Rules,
+ the failure despite due notice which amounts to a refusal of the Respondent to arbitrate, shall not stay the proceedings notwithstanding the absence or lack of participation of the Respondent
+. In such case, CIAC shall appoint the arbitrator/s in accordance with these Rules. Arbitration proceedings shall continue, and the award shall be made after receiving the evidence of the Claimant.
+[114]
+Under the CIAC Rules, a respondent's absence or lack of participation in the arbitration shall not stay the proceedings and shall be construed instead as the respondent's failure or refusal to arbitrate provided that the respondent was given due notice.
+In this regard, paragraph 2 of Section 6.2 of the CIAC Rules, states:
+If the Notice to Respondent/Request to Answer the complaint under Section 3.3 hereof is not received by Respondent due to wrong address or because Respondent has moved out from, or cannot be found at, the last known address provided by the Claimant, 
+the CIAC Secretariat shall inform the Claimant of the non-delivery/non-receipt of the notice and require Claimant to provide CIAC with Respondent's correct/new address within fifteen (15) days from receipt of advice. If Claimant fails to comply, the Commission shall dismiss the case without prejudice to its refiling once the whereabouts of Respondent's are known to Claimant/s
+.
+[115]
+Further, the CIAC also issued Resolution No. 11-2010 to clarify Section 6.2 of the CIAC Rules.
+[116]
+ Resolution No. 11-2010 states that it is intended to address concerns over "problems encountered in the delivery of notices/communications to parties who are no longer residing or cannot be found at the addresses given or at their last known addresses"
+[117]
+ considering that the "delivery/provision of notices/pleadings/processes/communications is essential to comply with the requirements of due process."
+[118]
+ Paragraph 5 of Resolution No. 11-2010 provides:
+5. Delivery of initial and subsequent communications from CIAC or from the arbitral tribunal to any party whose whereabouts are unknown shall be made to his/her/its last known address by personal delivery or by courier. The communication is deemed delivered, when made in this manner, when it is duly certified to CIAC or the arbitral tribunal.
+Thus, the CIAC Rules and Resolution No. 11-2010 provide the steps that must be complied with in serving notices to parties and ascertaining whether notices have been properly served. First, Section 6.2 of the CIAC Rules state that if the notice to respondent or the request to answer is not received by the respondent because it was delivered to a wrong address or because the respondent had moved out or cannot be found at the last known address provided by the claimant the CIAC shall require the claimant to provide the correct or new address of the respondent. The claimant's failure to comply with this order will cause the dismissal of the claim. Second, under Resolution No. 11-2010, if a party's whereabouts are unknown, the delivery of initial or subsequent communications at the last known address by personal delivery or by courier shall suffice if such delivery is duly certified to the CIAC or the CIAC Tribunal.
+Harmonizing these rules would mean that where the notice to the respondent or the request to answer is not delivered because of a wrong address or the respondent could not he found in the address provided by the claimant, the CIAC shall require the claimant to ascertain the respondent's correct address. Once the claimant has complied with this order, Resolution No. 11-2010 should apply. After the claimant has confirmed the respondent's last known address, the CIAC's initial and subsequent communications shall be served by personal delivery or by courier to this last known address. The delivery shall then be deemed complete if it is duly certified to the CIAC or the CIAC Tribunal.
+Wing-An provided the Makati Address in its Complaint. When the CIAC sent the Letter-Notice, it relied on the information provided by the Respondent. 
+It is worth noting that the Letter-Notice, which was delivered through courier, was not returned to the CIAC. Nor did the courier inform the CIAC that the Letter-Notice was not successfully delivered.
+ In fact, the records show that the courier confirmed that it was duly delivered to the Makati Address and was not returned to the CIAC. What were returned to the CIAC were actually communications and notices subsequent to the Letter-Notice. In the Order, dated January 20, 2017, the CIAC confirmed the following:
+(a) The letter of Executive Director Dela Cruz adverted to above, was 
+received by a certain Sheena Garcia on 1 October 2016. No advice was received by the CIAC from LBC that the documents were returned to them
+.
+[119]
+While DHY Realty denies that it received the Letter-Notice, this bare denial not only is not supported, but is actually belied by the records of the case. Moreover, the Court deems it significant that the Letter-Notice was not returned to the CIAC by the courier nor was the CIAC notified that it was not successfully delivered. Only the notices subsequent to the Letter-Notice were returned. That the latter notices were returned, while the Letter-Notice was not, shows that the courier was able to deliver the Letter-Notice to the proper recipient. Otherwise, it would have informed the CIAC of the failure to deliver the notice, as it did in the latter communications from the CIAC. More importantly, DHY Realty offers no proof to support its assertion that the Letter-Notice was not served upon it such as a confirmation from the courier that it was not able to successfully deliver the Letter-Notice.
+Moreover, unlike the rules governing the service of summons under the Rules of Court, the CIAC Rules do not require that where the respondent is a corporation, the delivery of the notice to respondent/request to answer must only be made to a specific list of corporate officers. It suffices that the notice was properly delivered and received in the respondent's last known address.
+Given this, the CIAC's obligation to require Wing-An to confirm DHY Realty's address under paragraph 2 of Section 6.2 of the CIAC Rules did not even arise. To reiterate, this provision states that the CIAC shall direct a claimant to provide the correct or new address of a respondent "[i]f the Notice to Respondent/Request to Answer the complaint" was not received by the respondent "due to wrong address or because Respondent has moved out from, or cannot be found at, the last known address provided by the Claimant." To be sure, it is the delivery of this notice (which states that a complaint and request for arbitration has been filed and that the respondent may file its answer within a specific period) that is crucial to afford such a respondent the opportunity to be heard. It is this notice that informs the respondent of the claim against it as well as of its right to participate in the proceedings by first filing its answer to the complaint.
+This notwithstanding, the CIAC exercised due care when, after being informed that its subsequent notices could no longer be delivered to DHY Realty, it required Wing-An to determine DHY Realty's correct address. In ascertaining DHY Realty's correct address, Wing-An relied on DHY Realty's AOI and GIS, which were filed on September 22, 2016.
+DHY Realty asserts that Wing-An, the CIAC, and eventually, the CA were wrong to have relied on the GIS given that first, the GIS was filed on September 22, 2016 while the CIAC's order to Wing-An to determine DHY Realty's correct address was made on January 20, 2017, and second, WingÂ­An was aware of the Pasig Address and should have disclosed it.
+Wing-An, the CIAC, and the CA correctly relied on the information provided in the GIS in ascertaining DHY Realty's address for purposes of delivering notices and communications relating to the arbitration and the appeal before the CA.
+A GIS is a document that the SEC requires corporations to submit. It contains vital information pertaining to the corporation, including its principal office address. The information provided in a GIS are relevant to the SEC's ability to, among others, regulate the corporate sector, and to comply with court orders, subpoenas, and other legal obligations as well as the requests of regulatory and administrative agencies in the conduct of investigations.
+[120]
+ Moreover, a GIS is required to be submitted under oath which means that the corporate secretary filing it on behalf of a corporation also attests to the accuracy of the information provided therein.
+[121]
+ In numerous cases, this Court has relied on the information provided in a GIS in making key factual determinations.
+To illustrate, in 
+Guanzon v. Arrazada
+[122]
+ the Court affirmed the trial court's reliance on the address of a corporate director provided in the corporation's GIS for purposes of serving summons. Similarly, in 
+Ellice Agro-Industrual Corp. v. Young
+,
+[123]
+ the Court relied on the statement in the GIS in ascertaining whether a party was the authorized corporate secretary of a corporation. Further, in 
+Belo Medical Group, Inc. v. Santos
+,
+[124]
+ the Court looked at the GIS of a corporation to ascertain whether the parties to the case were stockholders, which in turn determined if the dispute is an intracorporate controversy. Finally, in 
+Querubin v. Commission on Elections (En Banc)
+,
+[125]
+ the Court, in determining whether a corporation is a Filipino corporation, gave credence to the information provided in the GIS, which showed that its class A common shares were reserved exclusively to Filipinos.
+Given the importance of a GIS as a corporate document and the reliability accorded to it by the courts, Wing-An, the CIAC, and the CA reasonably relied on DHY Realty's GIS to determine its last known address. DHY Realty's insistence that the GIS, which was filed on September 22, 2016, should not have been given credence considering that the CIAC required Wing-An to provide DHY Realty's address on January 20, 2017 deserves no merit. The Court notes that a GIS is submitted annually. DHY Realty did not allege, let alone prove, that it submitted a new GIS which provided updated information as to its address at the time that the CIAC issued the January 20, 2017 Order. The CIAC therefore reasonably concluded that the September 22, 2016 GIS was the latest GIS at the time that the CIAC required Wing-An to determine DHY Realty's present address. DHY Realty also cannot deny that in its letter, dated June 25, 2015, the letterhead clearly showed that its principal office address is the Makati Address.
+[126]
+DHY Realty further contends that Wing-An acted in bad faith when it did not disclose the Pasig Address notwithstanding its claim that Wing-An was aware of the Pasig Address because they had held meetings in this location during the implementation of the Construction Contract. Wing-An, on the other hand, asserts that the Pasig Address is not DHY Realty's office address but is, instead, the location of the construction project which is a warehouse.
+[127]
+ Wing-An's claim is supported by the records, and specifically, the Construction Contract which provides that the Pasig Address is the address of the warehouse building subject of the construction project.
+[128]
+In this regard, the ruling of this Court in 
+Hyatt Elevators and Escalators Corp. v. Goldstar Elevators Phils. Inc.
+[129]
+ is relevant:
+Inconclusive are the bare allegations of petitioner that it had closed its Makati office and relocated to Mandaluyong City, and that respondent was well aware of those circumstances. Assuming 
+arguendo
+ that they transacted business with each other in the Mandaluyong office of petitioner, the fact remains that, in law, the latter's residence was still the place indicated in its Articles of Incorporation.
+To be sure, an AOI is not the same as a GIS. Nonetheless, considering that the GIS is, like an AOI, a corporate document that corporations are required to submit to the SEC and further considering that the information included in a GIS are under oath and given credence not just by the SEC but by courts as well, parties are reasonably entitled to rely on the GIS in ascertaining a corporation's address. Bare allegations that a corporation has moved to a different address cannot outweigh the reliability placed on a GIS. Wing-An. therefore, was justified in choosing to rely on the address provided in DHY Realty's latest GIS.
+Nonetheless, at the risk of repetition, there is no evidence on record showing that the Letter-Notice was not duly delivered to DHY Realty. To be sure, it was crucial that the Letter-Notice was properly delivered to DHY Realty. This is because it is the delivery of this notice which determines whether the arbitration may proceed or should be dismissed under Section 6.2 of the CIAC Rules. Moreover, the delivery of the Letter-Notice is also vital because it is the document through which a respondent is apprised of the claims against it and is afforded the opportunity to file its answer. Stated more simply, the delivery of the Letter-Notice ensures that a respondent's right to due process is protected.
+Here, despite DHY Realty's bare assertion that it did not receive the CIAC's notices, the record shows that the Letter-Notice was duly delivered. Moreover, the Makati Address to which the Letter-Notice was delivered was DHY Realty's principal office address provided in its latest GIS at the time of actual delivery. As there were no indications that the Letter-Notice was not at all delivered, the CIAC sufficiently complied with its obligation under Resolution No. 11-2020 which, to repeat, only requires the delivery of notices to the last known address of a respondent whose whereabouts are unknown. Whether the respondent opts to comply with the Letter-Notice does not affect the authority of the CIAC to proceed with the arbitration. It may do so even in the absence of the respondent as long as there was due notice. This due notice requirement was complied with in this case. If DHY Realty transferred to a new address after the delivery of the Letter-Notice, it was incumbent upon it to inform the CIAC.
+Further, if DHY Realty indeed changed its principal office address, it was also incumbent upon DHY Realty to update this information in its GIS and AOI. That it did not do so is its own choice. Hence, the CIAC's reliance on the information provided in the GIS was warranted.
+Thus, as DHY Realty was duly notified of the Complaint and of its right to file an answer, the CIAC had the authority to proceed with the arbitration even in DHY Realty's absence. The Final Award rendered after the arbitration proceeding is valid. Similarly, the CIAC properly issued the Writ of Execution and Notice of Garnishment. Wing-An is entitled to the enforcement of the Final Award.
+The CA was thus similarly justified in relying on the information provided in the GIS in determining DHY Realty's address. Since there were several failed attempts to serve DHY Realty, through both personal service and by registered mail, with court notices pertaining to the appeal, the CA acted in accordance with Section 8, Rule 13 of the Rules of Court when it allowed the substituted service of court notices through the filing of copies of such notices with the division clerk of court.
+WHEREFORE
+, the Petition for 
+Certiorari
+, dated December 10, 2019 is 
+DISMISSED
+. The Court 
+AFFIRMS
+ the following assailed issuances of the Court of Appeals and the Construction Industry Arbitration Commission:
+Court of Appeals Decision, dated January 29, 2019;
+ Court of Appeals Resolution, dated June 21, 2019;
+Construction Industry Arbitration Commission Final Award, dated May 8, 2017;
+Construction Industry Arbitration Commission Notice of Award, dated May 9, 2017;
+Construction Industry Arbitration Commission Order, dated May 30, 2017;
+Construction Industry Arbitration Commission Writ of Execution, dated August 15, 2019;
+Construction Industry Arbitration Commission Notice of Garnishment, dated October 8, 2019; and
+Construction Industry Arbitration Commission Order, dated December 4, 2019.
+SO ORDERED.
+Caguioa (Chairperson), Inting, Gaerlan
+, and 
+Dimaampao, JJ.
+, concur.
+[1]
+ 
+Rollo
+, pp. 3-48.
+[2]
+ 
+Id.
+, at 50-67. Penned by Associate Justice Rafael Antonio M. Santos and concurred in by Associate Justice Danton Q. Bueser Associate Justice Ma. Luisa C. Quijano-Padilla.
+[3]
+ 
+Id.
+ at 265-288.
+[4]
+ 
+Id.
+ at 69-71.
+[5]
+ 
+Id.
+ at 72-92.
+[6]
+ 
+Id.
+ at 93-94.
+[7]
+ 
+Id.
+ at 95-97.
+[8]
+ 
+Id.
+ at 98-99.
+[9]
+ 
+Id.
+ at 100.
+[10]
+ 
+Id.
+ at 101 to 103.
+[11]
+ 
+Id.
+ at 104 to 118.
+[12]
+ 
+Id.
+ at 52.
+[13]
+ 
+Id.
+ at 53.
+ 
+[14]
+ 
+Id.
+[15]
+ 
+Id.
+[16]
+ 
+Id.
+[17]
+ 
+Id.
+[18]
+ 
+Id.
+ at 55.
+[19]
+ 
+Id.
+[20]
+ 
+Id.
+[21]
+ 
+Id.
+ at 56.
+ 
+[22]
+ 
+Id.
+ at 57.
+[23]
+ 
+Id.
+ at 124-131.
+[24]
+ 
+Id.
+ at 132.
+[25]
+ 
+Id.
+ at 130-131.
+[26]
+ 
+Id.
+ at 124.
+[27]
+ 
+Id.
+[28]
+ 
+Id.
+ at 122-123.
+[29]
+ 
+Id.
+ at 122.
+[30]
+ 
+Id.
+ at 135-141.
+ 
+[31]
+ 
+Id.
+ at 143-145.
+[32]
+ 
+Id.
+ at 145.
+[33]
+ 
+Id.
+ at 146 to 148.
+[34]
+ 
+Id.
+ at 147.
+[35]
+ 
+Id.
+ at 147-148.
+[36]
+ 
+Id.
+ at 227-237.
+[37]
+ 
+Id.
+ at 217-226.
+[38]
+ 
+Id.
+ at 218.
+[39]
+ 
+Id.
+ at 149.
+[40]
+ 
+Id.
+ at 149-155.
+[41]
+ 
+Id.
+ at 245-258
+[42]
+ 
+Id.
+ at 76.
+[43]
+ 
+Id.
+[44]
+ 
+Id.
+ at 156 to 162.
+[45]
+ 
+Id.
+ at 76.
+[46]
+ 
+Id.
+ at 72-94.
+[47]
+ 
+Id.
+ at 84.
+ 
+[48]
+ 
+Id.
+[49]
+ 
+Id.
+ at 87.
+[50]
+ 
+Id.
+ at 92 to 92-A.
+[51]
+ 
+Id.
+ at 93-94.
+[52]
+ 
+Id.
+ at 94.
+[53]
+ 
+Id.
+ at 259-267.
+[54]
+ 
+Id.
+ at 95-97.
+[55]
+ 
+Id.
+ at 268-285.
+[56]
+ 
+Id.
+ at 284.
+[57]
+ 
+Id.
+ at 287.
+[58]
+ 
+Id.
+ at 416.
+[59]
+ 
+Id.
+[60]
+ 
+Id.
+ at 417.
+[61]
+ 
+Id.
+[62]
+ 
+Id.
+ at 418.
+[63]
+ 
+Id.
+[64]
+ 
+Id.
+ at 419.
+[65]
+ 
+Id.
+[66]
+ 
+Id.
+[67]
+ 
+Id.
+[68]
+ 
+Id.
+ at 420.
+[69]
+ 
+Id.
+ at 420.
+[70]
+ 
+Id.
+ at 50-67.
+[71]
+ 
+Id.
+ at 66.
+[72]
+ 
+Id.
+ at 58.
+[73]
+ 
+Id.
+ at 59.
+[74]
+ 
+Id.
+ at 69.
+[75]
+ 
+Id.
+ at 98 to 99.
+ 
+[76]
+ 
+Id.
+ at 100.
+[77]
+ 
+Id.
+ at 316-331.
+[78]
+ 
+Id.
+ at 317.
+[79]
+ 
+Id.
+ at 318.
+[80]
+ 
+Id.
+ at 330.
+[81]
+ 
+Id.
+ at 422-424.
+[82]
+ 
+Id.
+ at 423.
+[83]
+ 
+Id.
+ at 101-103.
+[84]
+ 
+Id.
+ at 103.
+[85]
+ 
+Id.
+ at 50-67.
+[86]
+ 
+Id.
+ at 9.
+[87]
+ 
+Id.
+ at 20.
+[88]
+ 
+Id.
+ at 22.
+[89]
+ 
+Id.
+ at 23.
+[90]
+ 
+Id.
+[91]
+ 
+Id.
+ at 27.
+[92]
+ 
+Id.
+ at 28.
+[93]
+ 
+Id.
+ at 32.
+[94]
+ 
+Id.
+ at 435-449.
+[95]
+ 
+Id.
+ at 439.
+[96]
+ 
+Id.
+ at 440.
+[97]
+ 
+Id.
+ at 443.
+[98]
+ 
+Id.
+[99]
+ 
+Id.
+ at 447.
+[100]
+ 
+Id.
+ at 453-455.
+[101]
+ 
+Id.
+ at 454.
+[102]
+ 
+Id.
+ at 464-467. 
+[103]
+ 
+Id.
+ at 472.
+[104]
+ 
+G.R. No. 230112
+, May 11, 2021.
+[105]
+ Emphases supplied; citations omitted. 
+[106]
+ 
+Id.
+ 
+[107]
+ 523 Phil. 540 (2006).
+ 
+[108]
+ Emphasis supplied; citations omitted.
+[109]
+ 
+National Housing Authority v. Court of Appeals
+, 413 Phil. 58 (2001).
+[110]
+ 
+Id.
+[111]
+ 
+Supra
+ note 104; emphases supplied. 
+[112]
+ 
+Rollo
+, p. 147.
+[113]
+ Emphasis supplied. 
+[114]
+ Emphasis supplied.
+ 
+[115]
+ Emphasis supplied.
+[116]
+ Resolution No. 11-2010, First Whereas Clause.
+[117]
+ Resolution No. 11-2010, Second Whereas Cause.
+[118]
+ Resolution No. 11-2010, Third Whereas Clause.
+[119]
+ 
+Rollo
+, p. 147. Emphasis supplied.
+[120]
+ 
+See
+ Privacy Notice for Filers of General Information Sheet (GIS). SEC website, available at <
+https://www.sec.gov.ph/privacy-policy-3/general-information-sheet-gis/
+> (last accessed on January 10, 2023).
+ 
+[121]
+ 
+Id.
+[122]
+ 539 Phil. 367-376 (2006).
+[123]
+ 699 Phil. 48-62 (2012).
+[124]
+ 817 Phil. 363-391 (2017).
+[125]
+ 774 Phil. 766-846 (2015).
+[126]
+ 
+Rollo
+, p. 443.
+[127]
+ 
+Id.
+[128]
+ 
+Id.
+ at 164.
+ 
+[129]
+ 510 Phil. 467-477 (2005).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

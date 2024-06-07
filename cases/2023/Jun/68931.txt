@@ -1,0 +1,755 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 255038, June 26, 2023 ]
+
+
+MANILA ELECTRIC COMPANY (MERALCO), 
+PETITIONER
+, VS. LUCY YU, REPRESENTED BY HER ATTORNEY-IN-FACT, DENNIS ENCARNACDON, 
+RESPONDENT
+.
+D E C I S I O N
+
+
+
+
+KHO, JR., J.:
+
+
+Assailed in the Petition for Review on 
+Certiorari
+[1]
+ is the Decision
+[2]
+ dated November 26, 2020 of the Court of Appeals (CA) in CA-G.R. CV No. 111808, which affirmed the Decision
+[3]
+ dated July 27, 2018 of the Regional Trial Court of Valenzuela City, Branch 172 (RTC) in Civil Case No. 22-V-00 finding petitioner Manila Electric Company (MERALCO) to have violated Republic Act No. (RA.) 7832
+[4]
+ by disconnecting respondent Lucy Yu's (Yu) electricity supply without prior due notice.
+The Facts
+MERALCO is a domestic public utility corporation duly organized and existing under the laws of the Philippines. and engaged in the business of providing electric power for the consumption of the general public in Metro Manila and nearby areas.
+[5]
+ On the other hand, Yu is engaged in the business of manufacturing spare parts of appliances through New Supersonic Industrial Corporation (NSIC) â a corporation owned by Yu's family.
+[6]
+ Yu is a registered customer of MERALCO under Service Identification No. (SIN) 801498301.
+[7]
+Under Yu's agreement with MERALCO, the latter would supply electricity to No. 8 Dr. Manuel St., Fortune Village, Phase 4, Paso de Blas, Valenzuela City â the address of both Yu's residence and NSIC's factory.
+[8]
+ Yu's service account (SIN 801498301) and the service account of Antonio Go (SIN 592677701) were used to supply electricity to NSIC's factory.
+[9]
+On January 24, 2000, Yu filed a Complaint
+[10]
+ for damages with prayer for preliminary and permanent mandatory injunction with the RTC, claiming that she had been deprived of due process when her electricity supply was illegally and abruptly cut. She averred that on December 9, 1999, MERALCO's representatives, headed by Engineer William T. Chan (Chan), along with several armed persons in plain clothing, forcibly entered the premises of NSIC's factory to inspect the electricity meter, which had been installed pursuant to MERALCO's contract with Yu. After the inspection, and within the same day, Chan and his team issued a Notice of Disconnection
+[11]
+ and 
+immediately disconnected
+ the electricity supply of NSIC's factory and Yu's residence.
+[12]
+ Further, Yu averred that the lifeblood of NSIC's business is electricity, and that due to the unjustified disconnection of the electrical services, she suffered actual damages. She alleged in her complaint that MERALCO's acts caused her sleepless nights, serious anxieties, wounded feelings, besmirched reputation, and similar injuries.
+[13]
+In an Order
+[14]
+ dated December 12, 2003, the RTC granted the motion for a writ of preliminary injunction and ordered MERALCO to restore the electrical services of Yu.
+[15]
+ Despite this Order, Yu noted that MERALCO only restored electricity services in 2008.
+[16]
+Thereafter, trial ensued.
+To support her claim for actual damages, Yu presented the testimony of NSIC's production manager, Leocardo Abracia (Abracia), and a comparative data sheet showing the difference in production output before and after the electricity supply was cut off, to show that the resulting production loss to NSIC's business amounted to P23,500,000.00.
+[17]
+ Abracia admitted, however, that he had no knowledge on whether the alleged losses were reflected in NSIC's financial statements.
+[18]
+MERALCO, for its part, denied in its Answer
+[19]
+ that its representatives forcibly entered Yu's business. Its representative, Chan, inspected Yu's electric metering installation in the presence of NSIC employees, Reynaldo G. Sandel (Sandel), Victor E. Magno, Jr., and Dennis Encarnacion. MERALCO's representatives were accompanied by members of the Philippine National Police (PNP), Senior Police Officer 2 Leoncio Dela Cruz (SPO2 Dela Cruz) and Police Officer 2 Noel Ramirez (PO2 Ramirez).
+[20]
+During the inspection, Chan found that Yu had been using a reversing current transformer with removable tapping wire. Thus, he issued a Notice of Disconnection, which was signed by Sandel. MERALCO insisted that this was enough to comply with the requirements in RA 7832.
+[21]
+Thereafter, MERALCO confiscated the transformer and took photographs. Unfortunately, a fire gutted the Operations Building of MERALCO where the pieces of evidence were stored. A Certification
+[22]
+ was issued by the Office of the Fire Chief, Bureau of Fire Protection about the fire that took place. To prove the tampering, MERALCO presented the remaining photographic evidence of the reversing transformer taken during the inspection, the Field Order
+[23]
+ detailing the inspection, and the testimonies of Chan and PO2 Ramirez. Further, MERALCO determined that they had suffered losses amounting to P33,936,707.15
+[24]
+ from the tampering, based on Yu's billing records and their own laboratory findings. Thus, MERALCO sent a letter dated December 9, 1999 for the payment of the said amount or differential billing, which was duly received and acknowledged by Yu's representative.
+[25]
+ Hence, MERALCO prayed that Yu's complaint be dismissed, and as a counterclaim, prayed that Yu be ordered to pay MERALCO P33,936,707.15 representing the value of used but unregistered electric consumption plus interest thereon from date of demand; P150,000.00 as attorney's fees and expenses of litigation; P100,000.00 as exemplary damages; and costs of suit.
+[26]
+The RTC Ruling
+In a Decision
+[27]
+ dated July 27, 2018, the RTC ruled in Yu's favor, and accordingly: (a) granted her prayer for permanent mandatory injunction; (b) ordered MERALCO to pay Yu the amounts of P300,000.00 as temperate damages, P100,000.00 as moral damages, and P50,000.00 as exemplary damages, all with interest of six percent per annum from finality of the RTC Decision; and (c) dismissed MERALCO's counterclaim for differential billings.
+[28]
+Concluding that MERALCO violated Section 6 of RA 7832 by disconnecting Yu's electricity supply without due notice, the RTC found that there was no evidence of tampering as MERALCO failed to present neither the reversing current transformer itself nor proof of its existence, and likewise failed to present proof that the transformer was inspected and tested.
+[29]
+ Further, even assuming Yu had indeed been caught tampering the meter 
+in flagrante delicto
+, the RTC ruled that MERALCO may not immediately disconnect electricity without first serving a written notice or warning to the owner of the house or establishment concerned.
+[30]
+However, the RTC found that there was no competent proof of the actual damages suffered by Yu; thus, she is only entitled to temperate damages which the RTC based on an estimation of NSIC's loss of earnings. Since the RTC also found that Yu's right against deprivation of property without due process of law was violated, she was awarded moral damages following Article 32, in relation to Article 2219 of the New Civil Code. Exemplary damages were also awarded by the RTC by way of example or correction for the public good.
+[31]
+Aggrieved, MERALCO appealed
+[32]
+ to the CA.
+The CA Ruling
+In a Decision
+[33]
+ dated November 26, 2020, the CA affirmed the RTC ruling with modification, increasing the award of exemplary damages from P50,000.00 to P500,000.00.
+[34]
+ The CA agreed that prior written notice was required even where the consumer was caught 
+in flagrante delicto
+ doing any of the acts enumerated under Section 4 of RA 7832. The CA emphasized that there are two requisites under RA 7832 for an electric service provider to be authorized to disconnect its customers' electric service on the basis of alleged electricity pilferage: "(
+i
+) an officer of the law or an authorized Energy Regulatory Board [ERB]
+[35]
+ representative must be present during the inspection of the electric facilities; and (
+ii
+) even if there is 
+prima facie
+ evidence of illegal use of electricity and the customer is caught 
+in flagrante delicto
+ committing the acts under Section [4 (a)], the customer must still be given due notice prior to the disconnection."
+[36]
+ The CA stated that, notably, MERALCO did not claim to have served prior notice to Yu.
+[37]
+Hence the instant Petition.
+The Issue Before the Court
+The issues for the Court's resolution are whether or not MERALCO: (
+i
+) failed to comply with the requirements for disconnection under R.A. 7832; (
+ii
+) is liable to Yu for temperate, moral, and exemplary damages; and (
+iii
+) is entitled to its counterclaim for the alleged differential billings.
+Petitioner MERALCO argues that contrary to the rulings of the courts 
+a quo
+, it gave due notice before disconnection. As testified by Chan, he and his crew executed a disconnection notice and had it signed by Sandel, one of NSIC's employees, prior to disconnecting the electricity supply. Thus, bad faith on the part of MERALCO cannot be presumed. The fact that MERALCO did not test the reversing transformer should not be taken against it as the sole function of a reversing transformer is to alter the accurate registration of electricity by the meter.
+[38]
+ Even assuming that there is bad faith, MERALCO maintains that Yu is not entitled to temperate damages, as the alleged losses of her business are actually the corporation-NSIC's losses, not hers, as the NSIC has a separate juridical personality from Yu.
+[39]
+ MERALCO further argues that Yu is not entitled to moral damages as she failed to present any proof nor testify that she had suffered sleepless nights, serious anxieties, wounded feelings, besmirched reputation, and similar injuries. Yu's complaint affidavit cannot be given any probative value as she failed to take the witness stand.
+[40]
+ MERALCO emphasizes that its failure to present the reversing transformer should not be taken against it, and that it had sufficiently proven that a fire had occurred. MERALCO adds that it had provided photographic evidence that the transformer was attached to the meter installed pursuant to Yu's contract with MERALCO.
+[41]
+For her part, Yu reiterates in her Comment
+[42]
+ that MERALCO failed to present sufficient evidence of tampering. Photographic evidence alone is not sufficient to establish any overt act of actual tampering since what was shown was merely the presence of a person near an electric post.
+[43]
+ Further, she states that there was no actual proof that the alleged reversing transformer had been burned in the fire. MERALCO only proved that a fire had occurred, but the testimony of Chan only referred to the "probability" of the evidence being destroyed by the fire.
+[44]
+ Yu adds that MERALCO failed to present any convincing evidence to overturn the factual findings of the courts 
+a quo
+. She asserts that if MERALCO believed she had stolen electricity equivalent to P33,936,707.15 â  a significant sum â  it would have filed a criminal case against her. However, MERALCO has not initiated the filing of a criminal case.
+[45]
+ As to the claim of MERALCO that the Notice of Disconnection served on the day Yu's electricity supply was disconnected, Yu cited Section 97 of the ERB
+[46]
+ Revised Order No. 1 that states that a customer must be given a written notice of disconnection at least 48 hours prior to disconnection. Failure to serve such prior notice amounts to tort. It is a flagrant violation of RA 7832 and deprived Yu of her property without due process of law.
+[47]
+The Court's Ruling
+The Petition is denied.
+Meralco is presumed to be in bad faith 
+for its failure to comply with the strict 
+requirements under RA 7832.
+Electricity is a basic necessity that is imbued with public interest. Its provider is considered as a public utility subject to the strict regulation by the State in the exercise of its police power. Failure to comply with the regulations laid down by the State gives rise to the presumption of bad faith or abuse of right.
+[48]
+Relevant to this case is Section 4 (a) of RA 7832, the relevant portion of which reads:
+Section 4. 
+Prima Facie Evidence.
+ - (a) The presence of any of the following circumstances shall constitute 
+prima facie
+ evidence of illegal use of electricity, as defined in this Act, by the person benefitted thereby, and shall be the basis for: (1) 
+the immediate disconnection by the electric utility to such person 
+after due notice
+,
+ (2) the holding of a preliminary investigation by the prosecutor and the subsequent filing in court of the pertinent information, and (3) the lifting of any temporary restraining order or injunction which may have been issued against a private electric utility or rural electric cooperative:
+x x x x
+(v) 
+The presence in any part of the building or its premises which is subject to the control of the consumer or on the electric meter, of a current reversing transformer,
+ jumper, shorting and/or shunting wire, and/or loop connection or any other similar device;
+x x x x
+(viii) The acceptance of money and/or other valuable consideration by any officer of employee of the electric utility concerned or the making of such an offer to any such officer or employee for not reporting the presence of any of the circumstances enumerated in subparagraphs (i), (ii), (iii), (iv), (v), (vi), or (vii) hereof: 
+Provided, however,
+ That the discovery of any of the foregoing circumstances, in order to constitute 
+prima facie
+ evidence, must be personally witnessed and attested to by an officer of the law or a duly authorized representative of the Energy Regulatory Board (ERB)
+. (Emphasis and underscoring supplied)
+Verily, this provision states that the discovery of tampering of an electric meter shall constitute a 
+prima facie
+ evidence of illegal use of electricity by the person who benefits therefrom. However, before an electric service provider can be authorized to disconnect its customer's electric service on the basis of the acts enumerated under Section 4 (a) of RA 7832, 
+the customer must be given due notice prior to the disconnection
+.
+[49]
+Relatedly, Section 6 of RA 7832 states:
+Section 6. 
+Disconnection of Electric Service.
+ - The private electric utility or rural electric cooperative concerned shall have the right and authority to disconnect immediately the electric service after serving a 
+written notice or warning
+ to that effect. without the need of a court or administrative order, and deny restoration of the same, when the owner of the house or establishment concerned or someone acting in his behalf shall have been caught 
+en flagrante delicto
+ doing any or the acts enumerated in Section 4 (a) hereof, or when any of the circumstances so enumerated shall have been discovered for the second time: 
+Provided
+, 
+That 
+in the second case, a written notice or warning shall have been issued upon the first discovery: 
+Provided, further,
+ That the electric service shall not be immediately disconnected or shall be immediately restored upon the deposit or the amount representing the differential billing by the person denied the service, with the private electric utility or rural electric cooperative concerned or with the competent court, as the case may be: 
+Provided, furthermore,
+ That if the court finds that illegal use of electricity has not been committed by the same person, the amount deposited shall be credited against future billings, with legal interest thereon chargeable against the private utility or rural electric cooperative, and the utility or cooperative shall be made to immediately pay such person double the value of the payment or deposit with legal interest, which amount shall likewise be creditable against immediate future billings, without prejudice to any criminal, civil or administrative action that such person may be entitled to file under existing laws, rules and regulations: 
+Provided, finally,
+ That if the court finds the same person guilty of such illegal use of electricity, he shall, upon final judgment, be made to pay the electric utility or rural electric cooperative concerned double the value of the estimated electricity illegally used which is referred to in this section as differential billing.
+For purposes of this Act "differential billing" shall refer to the amount to be charged to the person concerned for the unbilled electricity illegally consumed by him as determined through the use of methodologies which utilize, among others, as basis for determining the amount of monthly electric consumption in kilowatt-hours to be billed, either: (a) the highest recorded monthly consumption within the five-year billing period preceding the time of the discovery, (b) the estimated monthly consumption as per the report of load inspection conducted during the time of discovery, (c) the higher consumption between the average consumptions before or after the highest drastic drop in consumption within the five-year billing period preceding the discovery, (d) the highest recorded monthly consumption within four (4) months after the time of discovery, or (e) the result of the ERB test during the time of discovery and, as basis for determining the period to be recovered by the differential billing either: (1) the time when the electric service of the person concerned recorded an abrupt or abnormal drop in consumption, or (2) when there was a change in his service connection such as a change of meter, change of seal or reconnection, or in the absence thereof, maximum of sixty (60) billing months up to the time of discovery: 
+Provided, however,
+ That such period shall, in no case, be less than one (1) year preceding the date of discovery of the illegal use of electricity. (Emphasis and underscoring supplied)
+Hence, the requirements for a valid disconnection by an electric service provider for a customer's violation of Section 4 (a) in relation to Section 6 of RA 7832 are: (
+1
+) the disconnection must be on the basis of any of the acts enumerated under Section 4 (a) of RA 7832; (
+2
+) the discovery of any of the acts enumerated under Section 4 (a) of RA 7832 must be personally witnessed and attested to by an officer of the law or a duly authorized representative of the ERB (now the Energy Regulatory Commission [ERC] following RA 9136); and (
+3
+) prior written due notice to the customer.
+As to the first requirement, MERALCO averred that there was a current reversing transformer on Yu's meter, one of the 
+prima facie
+ evidence of illegal activity under RA 7832. As to the second requirement, since SPO2 Dela Cruz and PO2 Ramirez, PNP members, were present when MERALCO's representatives discovered the alleged tampering, and PO2 Ramirez testified before the trial court, the second requirement was met.
+Anent the third requirement on prior written due notice to the customer, the Court, through now retired Chief Justice Diosdado M. Peralta, had the opportunity to define "due notice" in 
+Securities and Exchange Commission v. Universal Rightfield Property Holdings, Inc.,
+[50]
+ thusly: "the information x x x must be given or made to a particular person or to the public 
+within a legally mandated period of time
+ so that its recipient will have the opportunity to respond to a situation or to allegations that affect the individual's or public's legal rights or duties."
+[51]
+ Unfortunately, neither RA 7832 or its implementing rules provide for a specific period during which electric service providers must give due notice to its customers.
+Yu, in her Comment, suggests that the 48-hour period for due notice under Section 97 of the Revised Order No. 1 of the Public Service Commission (PSC) (now the ERC) applies to this case,
+[52]
+ to wit:
+SEC. 97. 
+Payment of Bills.
+ - A  public service may require that bills for service be paid within a specified time after rendition. When the billing period covers a month or more, the minimum time allowed will be ten days and upon expiration of the specified time, service may be discontinued for the nonpayment of bills, provided that a 48 hours' written notice of such disconnection has been given the customer; 
+Provided however,
+ That disconnections of service shall not be made on Sundays and official holidays and never after 2 p.m., of any working day: 
+Provided further,
+ That if at the moment the disconnection is to be made the customer tenders payment of the unpaid bill to the agent or employee of the operator who is to effect the disconnection, the said agent or employee shall be obliged to accept tendered payment and issue a temporary receipt for the amount and shall desist from disconnecting the service.
+[53]
+While the above provision refers to disconnection of service arising from nonpayment of electricity bills, the Court believes that the 48 hours' written notice requirement before disconnection is made under Section 97 of Revised Order No. 1 of the PSC should also apply by analogy to disconnections made by electric service providers pursuant to Section 4 (a) of RA 7832. In 
+Spouses Quisumbing v. MERALCO
+[54]
+ involving alleged meter tampering, the Court cited a similar 48-hour written notice before a disconnection is made under the Revised Order No. 1 of the PSC. Thus, we hold that the prior written notice required under Section 4 (a) in relation to Section 6 of RA 7832 must be given 
+at least forty-eight (48) hours prior to disconnection
+ pursuant to due process requirements.
+As such, the Court finds untenable MERALCO's claims that the disconnection notice issued by Chan and his team constituted sufficient due notice. The disconnection notice was issued by Chan 
+on the very same day
+ that the electricity supply at Yu's residence and NSIC's place of business was cut off. Clearly, this could not have afforded Yu with enough time to respond to the situation or allegations interposed by MERALCO. Thus, it does not fall within the definition of "due notice."
+"The twin requirements of notice and hearing constitute the essential elements of due process."
+[55]
+ Due process is only satisfied when a person is notified of the charge against them and given an opportunity to explain or defend themselves.
+[56]
+ As such, when one has not been notified of the charge against them and/or is deprived of the opportunity to explain their side, they have been deprived of their right to due process.
+[57]
+ As applied to the disconnection of electricity services under Section 4 (a) of RA 7832, an electricity service provider cannot deprive their customers of their electricity services, without first giving written notice of the grounds for such disconnection, and giving the notice at least 48-hours prior to disconnection as to afford their customers ample time to explain or defend their side. Without such due notice and opportunity to explain their side, the customers would be deprived of property rights without due process of law.
+[58]
+For its failure to follow the due notice requirement under RA 7832 during the disconnection of Yu's electric service, MERALCO is presumed to have acted in bad faith.
+[59]
+ As such, the Court agrees with the courts 
+a quo
+ that an award of damages is in order. However, the Court deems it proper to modify the award of temperate damages and delete the award of moral damages, as will be discussed below.
+Yu is entitled only to temperate and 
+exemplary damages.
+The courts 
+a quo
+ erroneously based the award of temperate damages in favor of Yu on an estimation of NSIC's loss of earnings. In this regard, it is axiomatic that a corporation has a separate juridical personality from its stockholders or members.
+[60]
+ Yu and NSIC are separate and distinct persons under the law. Even if Yu, as a stockholder of NSIC, may be affected by any loss of earnings of the latter, the same does not give her the right to file a suit for damages to seek redress for the wrong done to NSIC. NSIC is an entity separate and distinct from Yu. It is, therefore, NSIC who should have itself sued MERALCO for the wrong done resulting in the corporation's loss of earnings.
+[61]
+ Here, Yu sued MERALCO in her individual capacity and not in representation of NSIC. Considering their separate and distinct juridical personalities, shareholders cannot individually enforce obligations owed to a corporation and vice-versa. Thus, Yu cannot claim damages on the basis of NSIC's  loss of earnings.
+Notwithstanding the foregoing however, the Court holds that Yu herself may recover damages from MERALCO in her own right. As borne by the records, the MERALCO service account is in her name and, more importantly, she is also a beneficial user of the account as she resides in the address covered by the account. Essentially, Yu suffered injury on account of MERALCO's breach of its service contract with her when MERALCO deprived her residence of electricity supply from December 1999 to 2008.
+Despite absence of competent proof of the actual damages suffered by Yu, the RTC was correct to award temperate damages. It is axiomatic that temperate damages may be awarded where pecuniary injury exists, but the courts cannot, from the nature of the case, prove the exact amount of the loss with certainty.
+[62]
+ In this regard, case law instructs that the amount of temperate damages is within the sound discretion of the courts subject to the condition that it is reasonable and greater than nominal damages but less than compensatory damages.
+[63]
+ Where temperate damages are awarded for breaches of contract, the Court considers: (1) the investment to be lost by the injured party; (2) the duration of suffering of the injured party; and (3) the urgent action undertaken by the party in breach to remedy the situation.
+[64]
+As stated, Yu suffered injury resulting from the disconnection of the electricity supply to her residence for a period of about eight years (from December 1999 to 2008). However, because Yu and NSIC are separate and distinct persons, the effect of MERALCO's culpable act on Yu herself cannot be equated with the loss of earnings suffered by NSIC, on the basis of which the courts 
+a quo
+ awarded the temperate damages in the amount of P300,000.00. Thus, the Court deems it reasonable to lower the award of temperate damages to P50,000.00 in favor of Yu.
+Anent the award of moral damages, the same must be deleted. Mere allegations of physical suffering, mental anguish, fright, serious anxiety, besmirched reputation, wounded feelings, moral shock, social humiliation, and similar injury are not sufficient to justify an award of moral damages. Such sufferings
+[65]
+ and the causal relation of the injury with the defendant's acts
+[66]
+ must be both pleaded and proven. Thus, to award moral damages, the following must be established: (1) there must be an injury, clearly sustained by the claimant; (2) there must be a culpable act or omission factually established; (3) the wrongful act or omission of the defendant is the proximate cause of the injury sustained by the claimant; and (4) the award of damages is predicated on any of the cases in Article 2219 of the New Civil Code.
+[67]
+ Notably, the enumeration of injuries for which moral damages are awarded excludes pecuniary loss; hence, a party entitled to temperate damages is not necessarily also entitled to moral damages, and vice-versa.
+Thus, contrary to the rulings of the courts 
+a quo
+, the mere presence of a culpable act â in this case, the violation of due process rights â does not by itself satisfy the requirements for the award of moral damages. The requisites above enumerated must be complied with. Articles 32 and 2219 of the New Civil Code must be construed with the entirety of the Civil Code, particularly Article 2217 thereof which expressly requires that it be proven that the physical suffering, mental anguish, fright, serious anxiety, besmirched reputation, wounded feelings, moral shock, social humiliation, or similar injury are the proximate result of the defendant's wrongful act or omission.
+Although the Court has ruled in one case, where MERALCO has violated the due process rights of its customer, that moral damages shall be awarded, in that case, the aggrieved party was able to present testimonial evidence that established all the requisites for the award of moral damages.
+[68]
+ Verily, it would be absurd to award damages when in fact no injury â of the sort that is required â has been proven to exist. It is only when the prayer for moral damages is based on 
+delict
+ that the Court presumes physical, mental, or psychological injury.
+[69]
+ Here, as MERALCO correctly pointed out, Yu did not even testify as to her supposed sufferings and only alleged them in her complaint-affidavit. Thus, Yu's sufferings remain to be allegations not founded on competent evidence; and thus, she is not entitled to moral damages.
+Finally, the Court affirms the award of exemplary damages to deter the repetition of socially deleterious actions.
+[70]
+ In 
+MERALCO v. Spouses Ramos,
+[71]
+ the Court, speaking through Associate Justice Arturo D. Brion, set the award of exemplary damages for MERALCO's failure to comply with the requirements for disconnection under RA 7832 to P500,000.00. The Court reasoned that since previous awards of exemplary damages against MERALCO "have not served their purpose as a means to prevent the repetition of the same damaging actions that it has committed in the past," raising the amount of exemplary damages to be awarded from P300,000.00 to P500,000.00 was proper.
+[72]
+ However, unlike in the foregoing case, in this case, MERALCO conducted the disconnection in the presence of officers of the law and gave written notice to Yu's representative before disconnection â although the notice was not enough to afford Yu the opportunity to respond. Hence, the award of exemplary damages should be reduced to P100,000.00.
+MERALCO is  not  entitled to the 
+alleged differential billings.
+As to MERALCO's counterclaim, the Court agrees with the Courts 
+a quo
+ that MERALCO is not entitled to differential billings. Section 6 of RA 7832 defines "differential billings" as "the amount to be charged to the person concerned for the unbilled electricity illegally consumed by him." Case law expounds on this definition stating: "the law provides that the person who 
+actually consumed
+ the electricity illegally shall be liable for the differential billing. It does not 
+ipso facto
+ make liable for payment of the differential billing the registered customer whose electrical facilities had been tampered with and utilized for the illegal use of electricity."
+[73]
+The existence of the acts under Section 4 (a) of RA 7832, and similar acts that may result in differential billings, must be duly proven.
+[74]
+ In the case of tampering, the Court has ruled that where MERALCO fails to present the allegedly tampered meter, the allegations of meter tampering are unsubstantiated.
+[75]
+ However, in this case MERALCO alleged valid reasons for being unable to present the reversing current transformer, as it had been destroyed in a fire. Thus, in lieu of the tampered meter and transformer, MERALCO presented testimonial and photographic evidence to support its cause.
+It should be borne in mind that the "findings of the trial court on the credibility of witnesses deserve great weight, as the trial judge is in the best position to assess the credibility of the witnesses, and has the unique opportunity to observe the witness firsthand and note his demeanor, conduct, and attitude under grueling examination. Absent any showing that the trial court's calibration of credibility was flawed, the appellate court is bound by its assessment."
+[76]
+ In this case, MERALCO failed to provide sufficient reasons to question the trial court's appreciation of its witnesses.
+As to the photographic evidence presented, they were not authenticated by the person who took them,
+[77]
+ as required under Section 20, Rule 132 of the Rules of Court. Thus, the photographs cannot be given any probative value. In any case, the photograph presented simply depicted a man next to a MERALCO pole. The Court agrees with Yu and the courts 
+a quo
+ that this is insufficient to establish tampering. Notably, MERALCO's own witness, Chan, admitted that he did not know what the man was going to do at the time the photo was taken.
+[78]
+It should also be noted that while the Court has held that an award of damages to MERALCO's customer does not preclude the same customer's liability for outstanding differential billing, 
+the amount billed must be duly proven
+.
+[79]
+ Based on the transcripts of the testimony of Edgard Caras from MERALCO's Billing Adjustment and Violation of Contract Team, it appears that the computation of differential billings was based on the measured load current indicated in the inspection report and nothing else.
+[80]
+ While differential billings may be based on an estimate of the customer's monthly consumption per the report of the load inspection conducted during the time of the tampering's discovery,
+[81]
+ to recall, it is admitted that no verifying tests were conducted on the reversing current transformer. Thus, it is not even clear if the device was in fact a reversing current transformer and had resulted in differential billings. Considering there is no evidence of tampering and Yu had religiously paid her electricity bills before her electric supply was disconnected, MERALCO's counterclaim has no factual basis.
+ACCORDINGLY
+, the petition is 
+DENIED
+. The Decision dated November 26, 2020 of the Court of Appeals in CA-G.R. CV No. 111808 is hereby 
+AFFIRMED with MODIFICATION
+, as fol tows: (
+a
+) the award of temperate damages is reduced to P50,000.00; (
+b
+) the award of moral damages is deleted for lack of basis; and (
+c
+) the award of exemplary damages is reduced to P100,000.00. The rest of the CA ruling 
+STANDS
+.
+SO ORDERED.
+Leonen, Acting C.J. (Chairperson),
+*
+ Lazaro-Javier (Working Chairperson),
+**
+ M. Lopez,
+ and 
+J. Lopez, JJ.,
+ concur. 
+*
+ Acting Chief Justice per Special Order No. 2989 dated June 24, 2023.
+**
+ Per Special Order No. 2993 dated June 26, 2023.
+[1]
+ 
+Rollo
+, pp. 29-56.
+[2]
+ 
+Id
+. at 63-80-A. Penned by Associate Justice Walter S. Ong and concurred in by Associate Justices Fernanda Lampas Peralta and Victoria Isabel A. Paredes.
+[3]
+ 
+Id
+. at 87-94. Penned by Judge Nancy Rivas-Palmones.
+[4]
+ Entitled "AN ACT PENALIZING THE PILFERAGE OF ELECTRICITY AND THEFT  OF ELECTRIC POWER TRANSMISSION LINES/MATERIALS, RATIONALIZING SYSTEM LOSSES BY PHASING OUT PILFERAGE LOSSES AS A COMPONENT THEREOF, AND FOR OTHER PURPOSES," otherwise known as "ANTI-ELECTRICITY AND ELECTRIC TRANSMISSION LINES/MATERIALS PILFERAGE ACT OF 1994" approved on December 8, 1994.
+[5]
+ 
+Rollo
+, pp. 32 and 87. 
+[6]
+ 
+Id
+. at 87-88. 
+[7]
+ 
+Id
+. at 32 and 87.
+[8]
+ 
+Id
+. at 32 and 89
+[9]
+ 
+Id
+. at 34. 
+[10]
+ Not attached to the 
+rollo
+. 
+[11]
+ 
+Rollo
+, pp. 114. 
+[12]
+ 
+Id
+. at 89 and 368-369.
+[13]
+ 
+Id
+. at 87.
+[14]
+ Not attached to the 
+rollo
+. 
+[15]
+ 
+Rollo
+, pp. 88-89. 
+[16]
+ 
+Id
+. at 90. 
+[17]
+ 
+Id
+. at 89 and 93. 
+[18]
+ 
+Id
+. at 93.
+[19]
+ Not attached to the 
+rollo
+.
+[20]
+ 
+Rollo
+, pp. 34 and 88-90. 
+[21]
+ 
+Id
+. at 88-90. 
+[22]
+ 
+Id
+. at 137. Signed by Acting Fire Chief Francisco S. Senot. 
+[23]
+ 
+Id
+. at 113. 
+[24]
+ 
+Id
+. at 153-154.
+[25]
+ 
+Id
+. at 90.
+[26]
+ 
+Id
+. at 88. 
+[27]
+ 
+Id
+. at 87-94. Penned by Judge Nancy Rivas-Palmones. 
+[28]
+ 
+Id
+. at 94. 
+[29]
+ 
+Id
+. at 91-92. 
+[30]
+ 
+Id
+. at 92. 
+[31]
+ 
+Id
+. at 93-94.
+[32]
+ Not attached to the 
+rollo
+.
+[33]
+ 
+Rollo
+, pp. 63-80-A
+[34]
+ 
+Id
+. at 80.
+[35]
+ The ERB has been reconstituted as the Energy Regulatory Commission under RA 9136, entitled "AN ACT ORDAINING REFORMS IN THE ELECTRIC POWER INDUSTRY, AMENDING FOR THE PURPOSE CERTAIN LAWS AND FOR OTHER PURPOSES," otherwise known as"ELECTRIC POWER INDUSTRY REFORM ACT OF 2001," approved on June 8, 2001.
+[36]
+ 
+Rollo
+, p. 75
+[37]
+ 
+Id
+. at 76.
+[38]
+ 
+Id
+. at 41-44 and 45-47.
+[39]
+ 
+Id
+. at 48-50.
+[40]
+ 
+Id
+. at 50-51.
+[41]
+ 
+Id
+. at 42. 
+[42]
+ 
+Id
+. at 367-409.
+[43]
+ 
+Id
+. at 380-382.
+[44]
+ 
+Id
+. at 383.
+[45]
+ 
+Id
+. at 385.
+[46]
+ Formerly the Public Service Commission.
+[47]
+ 
+Rollo
+, pp. 393-395.
+[48]
+ 
+Samar II Electric Cooperatives, Inc. v. Quijano,
+ 550 Phil. 523, 537 (2007) [Per J. Austria-Martinez, Third Division]; 
+MERALCO v. Spouses Ramos,
+ 780 Phil. 720, 729 (2016) [Per J. Brion, Second Division].
+[49]
+ 
+MERALCO v. Spouses Ramos,
+ id. at 730; 
+MERALCO v. Navarro-Domingo,
+ 526 Phil. 325, 332 (2006) [Per J. Carpio Morales, Third Division]
+[50]
+ 764 Phil. 267 (2015) [Per J. Peralta, Third Division]. 
+[51]
+ 
+Id
+. at 283; underscoring supplied. 
+[52]
+ 
+Rollo
+, pp. 387-388.
+[53]
+ As cited in 
+Benito v. The Public Service Commission,
+ 86 Phil. 624 (1950) [Per J. Paras, Second Division].
+[54]
+ 429 Phil. 727, 746 (2002) [Per J. Panganiban, Third Division].
+[55]
+ 
+Perez v. Philippine Telegraph and Telephone Company,
+ 602 Phil. 522, 539 (2009) [Per J. Corona, 
+En Banc
+].
+[56]
+ 
+Vivo v. Philippine Amusement and Gaming Corporation (PAGCOR),
+ 721 Phil. 34, 39 (2013) [Per J. Bersamin, 
+En Banc
+].
+[57]
+ See 
+Office of the Ombudsman v. Conti,
+ 806 Phil. 384, 394-395 (2017) [Per J. Mendoza, Second Division].
+[58]
+ See 
+MERALCO v. Castillo,
+ 701 Phil. 416, 434-435 (2013) [Per J. Villarama Jr., First Division].
+[59]
+ 
+MERALCO v. Spouses Ramos,
+ 
+supra
+ note 48, at 731.
+[60]
+ See 
+Linden Suites, Inc. v. Meridien Far East Properties, Inc., G.R. No. 211969,
+ October 4, 2021 [Per J. Hernando, Second Division]; 
+Ago Realty & Development Corp. v. Ago, G.R. Nos. 210906 & 211203,
+ October 16, 2019 [Per J. A. Reyes, Jr., Third Division]; 
+Maricalum Mining Corp. v. Florentino,
+ 836 Phil. 655, 684 (2018) [Per J. Gesmundo, Third Division]; 
+Development Bank of the Philippines v. Sta. Ines Melale Forest Products Corp.,
+ 805 Phil. 58, 91 (2017) [Per J. Leonen, Second Division]; 
+Situs Development Corp. v. Asiatrust Bank,
+ 691 Phil. 707, 722 (2012) [Per J. Sereno, Second Division]; 
+Kukan International Corporation v. Reyes,
+ 646 Phil. 210 (2010) [Per J. Velasco, Jr., First Division]; and 
+Republic v. Sandiganbayan,
+ 325 Phil. 762 (1996) [Per J. Fancisco].
+[61]
+ See 
+Florete, Jr. v. Florete,
+ 778 Phil. 614 (2016) [Per J. Leonen, Second Division].
+[62]
+ 
+Newsounds Broadcasting Network, Inc. v. Dy,
+ 602 Phil. 255,292 (2009) [Per J. Tinga, Second Division]; and 
+MERALCO v. AAA Cryogenics Philippines, Inc., G.R. No. 207429,
+ November 18, 2020 (Per J. Hernando, Third Division].
+[63]
+ 
+MERALCO v. AAA Cryogenics Philippines, Inc.,
+ id.; and 
+MERALCO v. Castillo,
+ 
+supra
+ at 442. 
+[64]
+ Aquino, Timoteo B., 
+Torts and Damages,
+ p. 906, 2019 Edition, citing 
+Universal International Investment (BVI) Limited v. Ray Burton Development Corp.,
+ 799 Phil. 420, 445 (2016) [Per C.J. Sereno, First Division], further citing 
+Adrian Wilson International Associates, Inc. v. TMX Philippines, Inc.,
+ 639 Phil. 335 (2010) [Per J. Del Castillo, First Division]; 
+Canada v. All Commodoties Marketing Corp.,
+ 590 Phil. 342 (2008); 
+College Assurance Plan v. Belfranlt Development, Inc.,
+ 563 Phil. 355 (2007) [Per J. AustriaÂ­-Martinez, Third Division]; 
+Caritas Health Shield, Inc. v. MRL Cybertech Corp., G.R. Nos. 221651 and 221691,
+ July 11, 2016; and 
+Araneta v. Bank of America, 
+148-B Phil. 124 (1971) [Per J. Makalintal]. 
+[65]
+ 
+Id
+. at 877, citing 
+CompaÃ±ia Maritima v. Allied Free Workers Union,
+ 167 Phil. 381 (1977) [Per J. Aquino, Second Division]. 
+[66]
+ 
+Id
+. at 877-878, citing 
+Raagas v. Traya,
+ 130 Phil. 846 (1968) [Per J. Castro]; Article 2217 of the NEW CIVIL CODE. 
+[67]
+ 
+Id
+. at 877, citing 
+Ching v. Quezon City Sports Club, Inc.,
+ 798 Phil. 45(2016) [Per J. Leonardo-De Castro, First Division]; 
+Regala v. Carin,
+ 622 Phil. 782 (2011) [Per J. Carpio Morales, Third Division]; 
+Delos Santos v. Papa,
+ 605 Phil. 460 (2009) [Per J. Brion, Second Division]; 
+Nazareno v. City of Dumaguete
+ 607 Phil. 768 (2009) [Per J. Chico-Nazario, 
+En Banc
+]; 
+B.F. Metal (Corporation) v. Lomoton,
+ 574 Phil. 740 (2008) [Per J. Tinga, Second Division]: 
+Philippine Telegraph & Telephone Corp., v. CA, 
+437 Phil. 76 (2002) [Per J. Vitug, First Division]; and 
+Expert Travel & Tours, Inc. v. CA,
+ 368 Phil. 444 (1999) [Per J. Vitug, Third Division]. 
+[68]
+ See 
+MERALCO v. Spouses Chua,
+ 631 Phil. 80, 113-114 (2010) [Per J. Brion, Third Division].
+[69]
+ 
+People v. Jugueta,
+ 783 Phil. 806, 827-829 (2016) [Per J. Peralta, En Banc]. 
+[70]
+ 
+MERALCO v. Spouses Ramos,
+ 
+supra
+ note 48, at 736, citing 
+Tan v. OMC Carriers, Inc.,
+ 654 Phil. 443, 458 (2011) [Per J. Brion, Third Division].
+[71]
+ 
+MERALCO v. Spouses Ramos,
+ id. 
+[72]
+ 
+Id
+. at 737.
+[73]
+ 
+Id
+. at 732. 
+[74]
+ See 
+id
+. at 732-734. 
+[75]
+ 
+MERALCO v. Hsing Nan Tannery Phils. Inc.,
+ 593 Phil. 456, 463 (2009) [Per J. Carpio Morales, Second Division]. 
+[76]
+ 
+Bank of the Philippine Island v. Mendoza,
+ 807 Phil. 640, 649 (2017) [Per J. Perlas-Bernabe, First Division]. 
+[77]
+ 
+Rollo
+ p. 92.
+[78]
+ 
+Id. 
+[79]
+ See 
+Spouses Miano v. MERALCO,
+ 800 Phil, 118 (2016) [Per J. Leonen, Second Division].
+[80]
+ See 
+rollo
+, pp. 90 and 187.
+[81]
+ Section 6 of RA 7832.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

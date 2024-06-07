@@ -1,0 +1,531 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			826 Phil. 427
+			
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. No. 196045, February 21, 2018 ]
+
+
+PEOPLE OF THE PHILIPPINES, PETITIONER, VS. AMADOR PASTRANA AND RUFINA ABAD, RESPONDENTS.
+DECISION
+
+
+
+
+MARTIRES, J.:
+
+
+The sacred right against an arrest, search or seizure without valid warrant is not only ancient. It is also zealously safeguarded. The Constitution guarantees the right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures. Any evidence obtained in violation of said right shall thus be inadmissible for any purpose in any proceeding. Indeed, while the power to search and seize may at times be necessary to the public welfare, still it must be exercised and the law implemented without contravening the constitutional rights of the citizens; for the enforcement of no statute is of sufficient importance to justify indifference to the basic principles of government.
+[1]
+This is a petition for review on certiorari seeking to reverse and set aside the Decision,
+[2]
+ dated 22 September 2010, and Resolution,
+[3]
+ dated 11 March 2011, of the Court of Appeals (
+CA
+) in CA-G.R. CV No. 77703. The CA affirmed the Omnibus Order,
+[4]
+ dated 10 May 2002, of the Regional Trial Court, Makati City, Branch 58 (
+RTC
+), which nullified Search Warrant No. 01-118.
+THE FACTS
+On 26 March 2001, National Bureau of Investigation (
+NBI
+) Special Investigator Albert Froilan Gaerlan (
+SI Gaerlan
+) filed a Sworn Application for a Search Warrant
+[5]
+ before the RTC, Makati City, Branch 63, for the purpose of conducting a search of the office premises of respondents Amador Pastrana and Rufina Abad at Room 1908, 88 Corporate Center, Valero Street, Makati City. SI Gaerlan alleged that he received confidential information that respondents were engaged in a scheme to defraud foreign investors. Some of their employees would call prospective clients abroad whom they would convince to invest in a foreign-based company by purchasing shares of stocks. Those who agreed to buy stocks were instructed to make a transfer for the payment thereof. No shares of stock, however, were actually purchased. Instead, the money collected was allocated as follows: 42% to respondent Pastrana's personal account; 32% to the sales office; 7% to investors-clients, who threatened respondents with lawsuits; 10% to the cost of sales; and 8% to marketing. Special Investigator Gaerlan averred that the scheme not only constituted 
+estafa
+ under Article 315 of the Revised Penal Code (
+RPC
+), but also a violation of Republic Act (
+R.A.
+) No. 8799 or the Securities Regulation Code (
+SRC
+).
+[6]
+In support of the application for search warrant, SI Gaerlan attached the affidavit of Rashed H. Alghurairi, one of the complainants from Saudi Arabia;
+[7]
+ the affidavits of respondents' former employees who actually called clients abroad;
+[8]
+ the articles of incorporation of domestic corporations used by respondents in their scheme;
+[9]
+ and the sketch of the place sought to be searched.
+[10]
+On 26 March 2001, Judge Tranquil Salvador, Jr. (
+Judge Salvador, Jr.
+) of the RTC, Branch 63, Makati City, issued Search Warrant No. 01-118, 
+viz
+:
+PEOPLE OF THE PHILIPPINES,
+Search Warrant No. 01-118
+ 
+For: Violation of R.A. 8799
+-versus-
+(The Securities Regulation Code) and Estafa (Art. 315, RPC)
+ 
+ 
+AMADOR PASTRANA AND
+ 
+RUFINA ABAD of 1908 88
+ 
+Corporate Center, Valero St.,
+ 
+Makati City
+ 
+SEARCH WARRANT
+TO ANY PEACE OFFICER:
+GREETINGS:
+It appearing to the satisfaction of the undersigned after examining under oath the applicant NBI [Special Investigator] ALBERT FROILAN G. GAERLAN and his witnesses RONNIE AROJADO and MELANIE O. BATO, that there is probable cause to believe that AMADOR PASTRANA and RUFINA ABAD have in their possession/control located in [an] office premises located at 1908 88 Corporate Center, Valero St., Makati City, as shown in the application for search warrant the following documents, articles and items, to wit:
+Telephone bills showing the companies['] calls to clients abroad; list of brokers and their personal files; incorporation papers of all these companies[,] local and abroad; sales agreements with clients; copies of official receipts purposely for clients; fax messages from the clients; copies of credit advise from the banks; clients['] message slips; company brochures; letterheads; envelopes; copies of listings of personal assets of Amador Pastrana; list of clients and other showing that these companies acted in violation of their actual registration with the SEC.
+which should be seized and brought to the undersigned.
+You are hereby commanded to make an immediate search anytime of the day of the premises above-described and forewith seize and take possession thereof and bring said documents, articles and items to the undersigned to be dealt with as the law directs.
+The officer(s) making the search shall make a return of their search within the validity of the warrant.
+This search warrant shall be valid for ten (10) days from this date.
+[11]
+Thus, on 27 March 2001, NBI agents and representatives from the Securities and Exchange Commission (
+SEC
+) proceeded to respondents' office to search the same. The search was witnessed by Isagani Paulino and Gerardo Derma, Chief Security Officer and Building Administrator, respectively of 88 Corporate Center. Pursuant to the Return,
+[12]
+ dated 2 April 2001, and the Inventory Sheet
+[13]
+ attached thereto, the NBI and the SEC were able to seize the following:
+1. Eighty-nine (89) boxes containing the following documents:
+Telephone bills of the company calls to clients;
+List of brokers and 201 files;
+Sales agreements; 
+Official receipts; 
+Credit advise;
+Fax messages;
+Clients message slips;
+Company brochures;
+Letterheads; and
+Envelopes.
+2. Forty (40) magazine stands of brokers' records;
+3. Offshore incorporation papers;
+4. Lease contracts; and
+5. Vouchers/ledgers.
+On 11 June 2001, respondent Abad moved to quash Search Warrant No. 01-118 because it was issued in connection with two (2) offenses, one for violation of the SRC and the other for 
+estafa
+ under the RPC, which circumstance contravened the basic tenet of the rules of criminal procedure that search warrants are to be issued only upon a finding of probable cause in connection with one specific offense. Further, Search Warrant No. 01-118 failed to describe with specificity the objects to be seized.
+[14]
+On 19 September 2001, pending the resolution of the motion to quash the search warrant, respondent Abad moved for the inhibition of Judge Salvador, Jr. She contended that the lapse of three (3) months without action on the motion to quash clearly showed Judge Salvador, Jr.'s aversion to passing judgment on his own search warrant.
+[15]
+In an Order,
+[16]
+ dated 15 November 2001, Judge Salvador, Jr. voluntarily inhibited himself from the case. Hence, the case was re-raffled to the RTC, Makati City, Branch 58.
+The Regional Trial Court Ruling
+In an Omnibus Order, dated 10 May 2002, the RTC ruled that the search warrant was null and void because it violated the requirement that a search warrant must be issued in connection with one specific offense only. It added that the SRC alone punishes various acts such that one would be left in limbo divining what specific provision was violated by respondents; and that even 
+estafa
+ under the RPC contemplates multifarious settings. The RTC further opined that the search warrant and the application thereto as well as the inventory submitted thereafter were all wanting in particularization. The 
+fallo
+ reads:
+WHEREFORE, Search Warrant No. 01-118 issued on March 26, 2001 is hereby QUASHED and NULLIFIED. All documents, articles and items seized are hereby ordered to be RETURNED to petitioner/accused. Any and all items seized, products of the illegal search are INADMISSIBLE in evidence and cannot be used in any proceeding for whatever purpose. The petition to cite respondent SEC and NBI officers for contempt of court is DENIED for lack of merit.
+SO ORDERED.
+[17]
+Aggrieved, petitioner, through the Office of the Solicitor General elevated an appeal before the CA.
+The Court of Appeals Ruling
+In its decision, dated 22 September 2010, the CA affirmed the ruling of the RTC. It declared that Search Warrant No. 01-118 clearly violated Section 4, Rule 126 of the Rules of Court which prohibits the issuance of a search warrant for more than one specific offense, because the application failed to specify what provision of the SRC was violated or even what type of 
+estafa
+ was committed by respondents. The appellate court observed that the application for search warrant never alleged that respondents or their corporations were not SEC-registered brokers or dealers, contrary to petitioner's allegation that respondents violated Section 28.1 of the SRC which makes unlawful the act of buying or selling of stocks in a dealer or broker capacity without the requisite SEC registration.
+The CA further pronounced that the subject search warrant failed to pass the test of particularity. It reasoned that the inclusion of the phrase "other showing that these companies acted in violation of their actual registration with the SEC" rendered the warrant all-embracing as it subjected any and all records of respondents inside the office premises to seizure and the implementing officers effectively had unlimited discretion as to what property should be seized. The CA disposed the case in this wise:
+WHEREFORE, premises considered, the appeal is hereby DENIED. The Omnibus Order dated May 10, 2002 of the Regional Trial Court, Branch 58, Makati City is AFFIRMED.
+SO ORDERED.
+[18]
+Petitioner moved for reconsideration but the motion was denied by the CA in its resolution, dated 11 March 2011. Hence, this petition.
+ASSIGNMENT OF ERRORS
+THE COURT OF APPEALS COMMITTED GRAVE ERROR IN SUSTAINING THE TRIAL COURT'S ORDER WHICH QUASHED SEARCH WARRANT NO. 01-118 CONSIDERING THAT:
+I.
+READ TOGETHER, THE ALLEGATIONS IN NBI AGENT GAERLAN'S APPLICATION FOR A SEARCH WARRANT AND SEARCH WARRANT NO. 01-118 SHOW THAT SAID WARRANT WAS ISSUED IN CONNECTION WITH THE CRIME OF VIOLATION OF SECTION 28.1 OF R.A. NO. 8799.
+II.
+SEARCH WARRANT NO. 01-118 PARTICULARLY DESCRIBED THE ITEMS LISTED THEREIN WHICH SHOW A REASONABLE NEXUS TO THE OFFENSE OF ACTING AS STOCKBROKER WITHOUT THE REQUIRED LICENSE FROM THE SEC. THE IMPUGNED STATEMENT FOUND AT THE END OF THE ENUMERATION OF ITEMS DID NOT INTEND TO SUBJECT ALL DOCUMENTS OF RESPONDENTS TO SEIZURE BUT ONLY THOSE "SHOWING THAT THESE COMPANIES ACTED IN VIOLATION OF THEIR ACTUAL REGISTRATION WITH THE SEC."
+[19]
+Petitioner argues that violation of Section 28.1 of the SRC and 
+estafa
+ are so intertwined that the punishable acts defined in one of them can be considered as including or are necessarily included in the other; that operating and acting as stockbrokers without the requisite license infringe Section 28.1 of the SRC; that these specific acts of defrauding another by falsely pretending to possess power or qualification of being a stockbroker similarly constitute 
+estafa
+ under Article 315 of the RPC; and that both Section 28.1 of the SRC and Article 315 of the RPC penalize the act of misrepresentation, an element common to both offenses; thus, the issuance of a single search warrant did not violate the "one specific offense rule."
+[20]
+Petitioner further contends that the subject search warrant is not a general warrant because the items listed therein show a reasonable nexus to the offense of acting as stockbrokers without the required license from the SEC; that the statement "and other showing that these companies acted in violation of their actual registration with the SEC" did not render the warrant void; and that the words "and other" only intend to emphasize that no technical description could be given to the items subject of the search warrant because of the very nature of the offense.
+[21]
+In their comment,
+[22]
+ respondents counter that the lower court was correct in ruling that the subject warrant was issued in connection with more than one specific offense; that 
+estafa
+ and violation of the SRC could not be considered as one crime because the former is punished under the RPC while the latter is punished under a special law; that there are many violations cited in the SRC that there can be no offense which is simply called "violation of R.A. No. 8799;" and that, similarly, there are three classes of 
+estafa
+ which could be committed through at least 10 modes, each one of them having elements distinct from those of the other modes.
+Respondents assert that Search Warrant No. 01-118 does not expressly indicate that the documents, articles, and items sought to be seized thereunder are subjects of the offense, stolen or embezzled and other proceeds or fruits of the offense, or used or intended to be used as the means of committing an offense; that it is a general warrant because it enumerates every conceivable document that may be found in an office setting; that, as a result, it is entirely possible that in the course of the search for the articles and documents generally listed in the search warrant, those used and intended for legitimate purposes may be included in the seizure; that the concluding sentence in the subject warrant "and other showing that these companies acted in violation of their actual registration with the SEC" is a characteristic of a general warrant; and that it allows the raiding team unbridled latitude in determining by themselves what items or documents are evidence of the imputation that respondents and the corporations they represent are violating their registration with the SEC.
+[23]
+In its reply,
+[24]
+ petitioner avers that the validity of a search warrant may be properly evaluated by examining both the warrant itself and the application on which it was based; that the acts alleged in the application clearly constitute a transgression of Section 28.1 of the SRC; and that the nature of the offense for which a search warrant is issued is determined based on the factual recital of the elements of the subject crime therein and not the formal designation of the crime itself in its caption.
+THE COURT'S RULING
+Article III, Section 2 of the Constitution guarantees every individual the right to personal liberty and security of homes against unreasonable searches and seizures, 
+viz
+:
+The right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures of whatever nature and for any purpose shall be inviolable, and no search warrant or warrant of arrest shall issue except upon probable cause to be determined personally by the judge after examination under oath or affirmation of the complainant and the witnesses he may produce, and particularly describing the place to be searched and the persons or things to be seized.
+The purpose of the constitutional provision against unlawful searches and seizures is to prevent violations of private security in person and property, and unlawful invasion of the sanctity of the home, by officers of the law acting under legislative or judicial sanction, and to give remedy against such usurpations when attempted.
+[25]
+Additionally, Rule 126, Sections 4 and 5 of the 2000 Rules on Criminal Procedure provide for the requisites for the issuance of a search warrant, to wit:
+SEC. 4. 
+Requisites for issuing search warrant.
+ A search warrant shall not issue except upon probable cause in connection with one specific offense to be determined personally by the judge after examination under oath or affirmation of the complainant and the witness he may produce, and particularly describing the place to be searched and the things to be seized which may be anywhere in the Philippines.
+SEC. 5. 
+Examination of complainant; record.
+ The judge must, before issuing the warrant, personally examine in the form of searching questions and answers, in writing and under oath, the complainant and the witnesses he may produce on facts personally known to them and attach to the record their sworn statements, together with the affidavits submitted.
+Hence, in the landmark case of 
+Stonehill v. Diokno (Stonehill)
+,
+[26]
+ the Court stressed two points which must be considered in the issuance of a search warrant, namely: (1) that no warrant shall issue but 
+upon probable
+ cause, to be determined personally by the judge; and (2) that the warrant shall 
+particularly
+ describe the things to be seized.
+[27]
+ Moreover, in 
+Stonehill
+, on account of the seriousness of the irregularities committed in connection with the search warrants involved in that case, the Court deemed it fit to amend the former Rules of Court by providing that "a search warrant shall not issue except upon probable cause 
+in connection with one specific offense
+."
+The search warrant must be issued for one specific offense.
+One of the constitutional requirements for the validity of a search warrant is that it must be issued based on probable cause which, under the Rules, must be in connection with one specific offense to prevent the issuance of a scatter-shot warrant.
+[28]
+ In search warrant proceedings, probable cause is defined as such facts and circumstances that would lead a reasonably discreet and prudent man to believe that 
+an offense has been committed
+ and that the objects sought in connection with the offense are in the place sought to be searched.
+[29]
+In 
+Stonehill
+, the Court, in declaring as null and void the search warrants which were issued for "violation of Central Bank Laws, Tariff and Customs Laws, Internal Revenue (Code) and Revised Penal Code," stated:
+In other words, no 
+specific
+ offense had been alleged in said applications. The averments thereof with respect to the offense committed were 
+abstract
+. As a consequence, it was 
+impossible
+ for the judges who issued the warrants to have found the existence of probable cause, for the same presupposes the introduction of competent proof that the party against whom it is sought has performed 
+particular
+ acts, or committed 
+specific
+ omissions, violating a given provision of our criminal laws. As a matter of fact, the applications involved in this case do not allege any specific acts performed by herein petitioners. It would be the legal heresy, of the highest order, to convict anybody of a "violation of Central Bank Laws, Tariff and Customs Laws, Internal Revenue (Code) and Revised Penal Code," - as alleged in the aforementioned applications - without reference to any determinate provision of said laws; or
+To uphold the validity of the warrants in question would be to wipe out completely one of the most fundamental rights guaranteed in our Constitution, for it would place the sanctity of the domicile and the privacy of communication and correspondence at the mercy of the whims caprice or passion of peace officers. This is precisely the evil sought to be remedied by the constitutional provision above quoted-to outlaw the soÂ­ called general warrants. It is not difficult to imagine what would happen, in times of keen political strife, when the party in power feels that the minority is likely to wrest it, even though by legal means.
+[30]
+In 
+Philippine Long Distance Telephone Company v. Alvarez
+,
+[31]
+ the Court further ruled:
+In the determination of probable cause, the court must necessarily determine whether an offense exists to justify the issuance or quashal of the search warrant because the personal properties that may be subject of the search warrant are very much intertwined with the "one specific offense" requirement of probable cause. The only way to determine whether a warrant should issue in connection with one specific offense is to juxtapose the facts and circumstances presented by the applicant with the elements of the offense that are alleged to support the search warrant.
+x x x x
+The one-specific-offense requirement reinforces the constitutional requirement that a search warrant should issue only on the basis of probable cause. Since the primary objective of applying for a search warrant is to obtain evidence to be used in a subsequent prosecution for an offense for which the search warrant was applied, a judge issuing a particular warrant must satisfy himself that the evidence presented by the applicant establishes the facts and circumstances relating to this specific offense for which the warrant is sought and issued. x x x
+[32]
+In this case, Search Warrant No. 01-118 was issued for "violation of R.A. No. 8799 (The Securities Regulation Code) and for 
+estafa
+ (Art. 315, RPC)."
+[33]
+First
+, violation of the SRC is not an offense in itself for there are several punishable acts under the said law such as manipulation of security prices,
+[34]
+ insider trading,
+[35]
+ acting as dealer or broker without being registered with the SEC,
+[36]
+ use of unregistered exchange,
+[37]
+ use of unregistered clearing agency,
+[38]
+ and violation of the restrictions on borrowings by members, brokers, and dealers
+[39]
+ among others. Even the charge of "
+estafa
+ under Article 315 of the RPC" is vague for there are three ways of committing the said crime: ( 1) with unfaithfulness or abuse of confidence; (2) by means of false pretenses or fraudulent acts; or (3) through fraudulent means. The three ways of committing 
+estafa
+ may be reduced to two, 
+i.e.
+, (1) by means of abuse of confidence; or (2) by means of deceit. For these reasons alone, it can be easily discerned that Search Warrant No. 01-118 suffers a fatal defect.
+Indeed, there are instances where the Court sustained the validity of search warrants issued for violation of R.A. No. 6425 or the then Dangerous Drugs Act of 1972. In 
+Olaes v. People
+,
+[40]
+ even though the search warrant merely stated that it was issued in connection with a violation of R.A. No. 6425, the Court did not nullify the same for it was clear in the body that it was issued for the specific offense of possession of illegal narcotics, 
+viz
+:
+While it is true that the caption of the search warrant states that it is in connection with Violation of R.A. No. 6425, otherwise known as the Dangerous Drugs Act of 1972, it is clearly recited in the text thereof that [t]here is probable cause to believe that Adolfo Olaes alias Debie and alias Baby of No. 628 Cornia St., Filtration, Sta. Rita, Olongapo City, 
+[have] in their possession and control and custody
+ of marijuana dried stalks/leaves/seeds/cigarettes and other regulated/prohibited and exempt narcotics preparations which is the subject of the offense stated above. Although the specific section of the Dangerous Drugs Act is not pinpointed, there is no question at all of the specific offense alleged to have been committed as a basis for the finding of probable cause. The search warrant also satisfies the requirement in the Bill of Rights of the particularity of the description to be made of the place to be searched and the persons or things to be seized.
+[41]
+ (emphasis supplied)
+In 
+People v. Dichoso
+,
+[42]
+ the search warrant was also for violation of R.A. No. 6425, without specifying what provisions of the law were violated. The Court upheld the validity of the warrant:
+Appellants' contention that the search warrant in question was issued for more than one (1) offense, hence, in violation of Section 3, Rule 126 of the Rules of Court, is unpersuasive. He engages in semantic juggling by suggesting that 
+since illegal possession of shabu, illegal possession of marijuana and illegal possession of paraphernalia
+ are covered by different articles and sections of the Dangerous Drugs Act of 1972, the search warrant is clearly for more than one (1) specific offense. In short, following this theory, there should have been three (3) separate search warrants, one for illegal possession of shabu, the second for illegal possession of marijuana and the third for illegal possession of paraphernalia. This argument is pedantic. The Dangerous Drugs Act of 1972 is a special law that deals specifically with dangerous drugs which are subsumed into prohibited and regulated drugs and defines and 
+penalizes categories of offenses which are closely related or which belong to the same class or species
+. Accordingly, one (1) search warrant may thus be validly issued for the said violations of the Dangerous Drugs Act.
+[43]
+ (emphases supplied)
+Meanwhile, in 
+Prudente v. Dayrit
+,
+[44]
+ the search warrant was captioned: For Violation of P.D. No. 1866 (Illegal Possession of Firearms, etc.), the Court held that while "illegal possession of firearms is penalized under Section 1 of P.D. No. 1866 and illegal possession of explosives is penalized under Section 3 thereof, it cannot be overlooked that said decree is a codification of the various laws on illegal possession of firearms, ammunitions and explosives; such illegal possession of items destructive of life and property are related offenses or belong to the same species, as to be subsumed within the category of illegal possession of firearms, etc. under P.D. No. 1866."
+[45]
+The aforecited cases, however, are not applicable in this case. Aside from its failure to specify what particular provision of the SRC did respondents allegedly violate, Search Warrant No. 01-118 also covered 
+estafa
+ under the RPC. Even the application for the search warrant merely stated:
+Amador Pastrana and Rufina Abad through their employees scattered throughout their numerous companies call prospective clients abroad and convince them to buy shares of stocks in a certain company likewise based abroad. Once the client is convinced to buy said shares of stocks, he or she is advised to make a telegraphic transfer of the money supposedly intended for the purchase of the stocks. The transfer is made to the account of the company which contacted the client. Once the money is received, the same is immediately withdrawn and brought to the treasury department of the particular company. The money is then counted and eventually allocated to the following: 42% to Pastrana, 32% for the Sales Office, 7% for the redeeming clients (those with small accounts and who already threatened the company with lawsuits), 10% for the cost of sales and 8% goes to marketing. No allocation is ever made to buy the shares of stocks.
+[46]
+Moreover, the SRC is not merely a special penal law. It is first and foremost a codification of various rules and regulations governing securities. Thus, unlike, the drugs law wherein there is a clear delineation between use and possession of illegal drugs, the offenses punishable under the SRC could not be lumped together in categories. Hence, it is imperative to specify what particular provision of the SRC was violated.
+Second
+, to somehow remedy the defect in Search Warrant No. 01-118, petitioner insists that the warrant was issued for violation of Section 28.1 of the SRC, which reads, "No person shall engage in the business of buying or selling securities in the Philippines as a broker or dealer, or act as a salesman, or an associated person of any broker or dealer unless registered as such with the Commission." However, despite this belated attempt to pinpoint a provision of the SRC which respondents allegedly violated, Search Warrant No. 01-118 still remains null and void. The allegations in the application for search warrant do not indicate that respondents acted as brokers or dealers without prior registration from the SEC which is an essential element to be held liable for violation of Section 28.1 of the SRC. It is even worthy to note that Section 28.1 was specified only in the SEC's Comment on the Motion to Quash,
+[47]
+ dated 5 April 2002.
+In addition, even assuming that violation of Section 28.1 of the SRC was specified in the application for search warrant, there could have been no finding of probable cause in connection with that offense. In 
+People v. Hon. Estrada
+,
+[48]
+ the Court pronounced:
+The facts and circumstances that would show probable cause must be the best evidence that could be obtained under the circumstances. The introduction of such evidence is necessary especially in cases where the issue is the existence of the negative ingredient of the offense charged - for instance, 
+the absence of a license required by law, as in the present case - and such evidence is within the knowledge and control of the applicant who could easily produce the same
+. But if the best evidence could not be secured at the time of application, the applicant must show a justifiable reason therefor during the examination by the judge. The necessity of requiring stringent procedural safeguards before a search warrant can be issued is to give meaning to the constitutional right of a person to the privacy of his home and personalities.
+[49]
+ (emphasis supplied)
+Here, the applicant for the search warrant did not present proof that respondents lacked the license to operate as brokers or dealers. Such circumstance only reinforces the view that at the time of the application, the NBI and the SEC were in a quandary as to what offense to charge respondents with.
+Third
+, contrary to petitioner's claim that violation of Section 28.1 of the SRC and 
+estafa
+ are so intertwined with each other that the issuance of a single search warrant does not violate the one-specific-offense rule, the two offenses are entirely different from each other and neither one necessarily includes or is necessarily included in the other. An offense may be said to necessarily include another when some of the essential elements or ingredients of the former constitute the latter. And vice versa, an offense may be said to be necessarily included in another when the essential ingredients of the former constitute or form part of those constituting the latter.
+[50]
+The elements of 
+estafa
+ in general are the following: (a) that an accused defrauded another by abuse of confidence, or by means of deceit; and (b) that damage and prejudice capable of pecuniary estimation is caused the offended party or third person.
+[51]
+ On the other hand, Section 28.1 of the SRC penalizes the act of performing dealer or broker functions without registration with the SEC. For such offense, defrauding another and causing damage and prejudice capable of pecuniary estimation are not essential elements. Thus, a person who is found liable of violation of Section 28.1 of the SRC may, in addition, be convicted of 
+estafa
+ under the RPC. In the same manner, a person acquitted of violation of Section 28.1 of the SRC may be held liable for 
+estafa
+. Double jeopardy will not set in because violation of Section 28.1 of the SRC is 
+malum prohibitum
+, in which there is no necessity to prove criminal intent, whereas 
+estafa
+ is 
+malum in se
+, in the prosecution of which, proof of criminal intent is necessary.
+Finally
+, the Court's rulings in 
+Columbia Pictures, Inc. v. CA (Columbia)
+[52]
+ and 
+Laud v. People (Laud)
+[53]
+ even militate against petitioner. In 
+Columbia
+, the Court ruled that a search warrant which covers several counts of a certain specific offense does not violate the one-specific-offense rule, 
+viz
+:
+That there were several counts of the offense of copyright infringement and the search warrant uncovered several contraband items in the form of pirated videotapes is not to be confused with the number of offenses charged. The search warrant herein issued does not violate the one-specific-offense rule.
+[54]
+In 
+Laud
+, Search Warrant No. 09-14407 was adjudged valid as it was issued only for one specific offense - that is, for Murder, albeit for six (6) counts.
+In this case, the core of the problem is that the subject warrant did not state one specific offense. It included violation of the SRC which, as previously discussed, covers several penal provisions and 
+estafa
+, which could be committed in a number of ways.
+Hence, Search Warrant No. 01-118 is null and void for having been issued for more than one specific offense.
+Reasonable particularity of the description of the things to be seized
+It is elemental that in order to be valid, a search warrant must particularly describe the place to be searched and the things to be seized. The constitutional requirement of reasonable particularity of description of the things to be seized is primarily meant to enable the law enforcers serving the warrant to: (1) readily identify the properties to be seized and thus prevent them from seizing the wrong items; and (2) leave said peace officers with no discretion regarding the articles to be seized and thus prevent unreasonable searches and seizures. It is not, however, required that the things to be seized must be described in precise and minute detail as to leave no room for doubt on the part of the searching authorities.
+[55]
+In 
+Bache and Co. (Phil.), Inc. v. Judge Ruiz
+,
+[56]
+ it was pointed out that one of the tests to determine the particularity in the description of objects to be seized under a search warrant is when the things described are limited to those which bear 
+direct relation to the offense for which the warrant is being issued
+.
+[57]
+In addition, under the Rules of Court, the following personal property may be the subject of a search warrant: (i) the subject of the offense; (ii) fruits of the offense; or (iii) those used or intended to be used as the means of committing an offense.
+[58]
+Here, as previously discussed, Search Warrant No. 01-118 failed to state the specific offense alleged committed by respondents. Consequently, it could not have been possible for the issuing judge as well as the applicant for the search warrant to determine that the items sought to be seized are connected to any crime. Moreover, even if Search Warrant No. 01-118 was issued for violation of Section 28.1 of the SRC as petitioner insists, the documents, articles and items enumerated in the search warrant failed the test of particularity. The terms used in this warrant were too all-embracing, thus, subjecting all documents pertaining to the transactions of respondents, whether legal or illegal, to search and seizure. Even the phrase "and other showing that these companies acted in violation of their actual registration with the SEC" does not support petitioner's contention that Search Warrant No. 01-118 was indeed issued for violation of Section 28.1 of the SRC; the same could well-nigh pertain to the corporations' certificate of registration with the SEC and not just to respondents' lack of registration to act as brokers or dealers.
+In fine, Search Warrant No. 01-118 is null and void for having been issued for more than one offense and for lack of particularity in the description of the things sought for seizure.
+WHEREFORE
+, the petition is 
+DENIED
+. The 22 September 2010 Decision and 11 March 2011 Resolution of the Court of Appeals in CA-G.R. CV No. 77703 are 
+AFFIRMED
+.
+SO ORDERED.
+Velasco, Jr. (Chairperson), Bersamin, Leonen
+, and 
+Gesmundo, JJ.
+, concur.
+[1]
+ 
+Valdez v. People
+, G.R. No. 170180, 23 November 2007, citing 1987 Constitution, Article III, Section 2 and 
+People v. Aruta
+, 351 Phil. 868, 895 (1998).
+[2]
+ 
+Rollo
+, pp. 47-63; penned by Associate Justice Ramon R. Garcia with Associate Justice Rosmari D. Carandang and Associate Justice Manuel M. Barrios, concurring.
+[3]
+ Id. at 64-65.
+[4]
+ Id. at 123-132; penned by Judge Winlove M. Dumayas.
+[5]
+ Id. at 69-70.
+[6]
+ Id.
+[7]
+ Id. at 78-82.
+[8]
+ Id. at 72-77.
+[9]
+ Records (Vol. 1), pp. 74-167.
+[10]
+ Id. at 72-73.
+[11]
+ 
+Rollo
+, p. 87.
+[12]
+ Id. at 88.
+[13]
+ Id. at 89.
+[14]
+ Id. at 90-106.
+[15]
+ Id. at 107-120.
+[16]
+ Id. at 121-122.
+[17]
+ Id. at 132.
+[18]
+ Id. at 62-63.
+[19]
+ Id. at 21-22.
+[20]
+ Id. at 23-32.
+[21]
+ Id. at 33-40.
+[22]
+ Id. at 235-257.
+[23]
+ Id. at 247-250.
+[24]
+ Id. at 274-299.
+[25]
+ 
+Nala v. Judge Barroso, Jr.
+, 455 Phil. 999, 1007 (2003).
+[26]
+ 126 Phil. 738 (1967).
+[27]
+ Id. at 747.
+[28]
+ 
+Tambasen v. People
+, 316 Phil. 237, 243-244 (1995).
+[29]
+ 
+Del Castillo v. People
+, 680 Phil. 447, 457 (2012).
+[30]
+ Supra note 26 at 747-748.
+[31]
+ 728 Phil. 391 (2014).
+[32]
+ Id. at 412-413 and 420.
+[33]
+ 
+Rollo
+, p. 87.
+[34]
+ Section 24, R.A. No. 8799.
+[35]
+ Section 27, R.A. No. 8799.
+[36]
+ Section 28.1, R.A. No. 8799.
+[37]
+ Section 32, R.A. No. 8799.
+[38]
+ Section 41, R.A. No. 8799.
+[39]
+ Section 49, R.A. No. 8799.
+[40]
+ 239 Phil. 468 (1987).
+[41]
+ Id. at 472.
+[42]
+ 295 Phil. 198 (1993).
+[43]
+ Id. at 214.
+[44]
+ 259 Phil. 541 (1989).
+[45]
+ Id. at 554.
+[46]
+ 
+Rollo
+, pp. 69-70.
+[47]
+ Records (Vol. IV), pp. 793-807.
+[48]
+ 357 Phil. 377 (1998).
+[49]
+ Id. at 392.
+[50]
+ 
+Daan v. Sandiganbayan
+, 573 Phil. 368, 382 (2008).
+[51]
+ Luis B. Reyes, Revised Penal Code (Book Two), 17
+th
+ Edition, p. 776 (2008).
+[52]
+ 329 Phil. 875 ( 1996).
+[53]
+ 747 Phil. 503 (2014).
+[54]
+ 
+Columbia Pictures, Inc. v. CA
+, supra note 52 at 928.
+[55]
+ 
+Hon Ne Chan, et ai. v. Honda Motor Co.. Ltd. and Honda Phil., Inc.
+, 565 Phil. 545, 557 (2007).
+[56]
+ 148 Phil. 794 (1971 ).
+[57]
+ Id. at 811.
+[58]
+ Section 3, Rule 126, Rules of Court.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

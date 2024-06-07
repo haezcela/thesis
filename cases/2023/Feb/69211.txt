@@ -1,0 +1,645 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 259309, February 13, 2023 ]
+
+
+COMMISSIONER OF INTERNAL REVENUE, 
+PETITIONER
+, VS. TOLEDO POWER COMPANY, 
+RESPONDENT
+.
+D E C I S I O N
+
+
+
+
+LAZARO-JAVIER, J.:
+
+
+This Petition for Review on 
+Certiorari
+[1]
+ seeks to reverse the following dispositions of the Court of Tax Appeals 
+En Banc
+ in CTA EB No. 2237: 
+1)
+Decision
+[2]
+ dated July 12, 2021 affirming the award of PHP 6,971,071.10 as tax refund in favor of respondent Toledo Power Company; and
+2)
+Resolution
+[3]
+ dated March 4, 2022 denying the Motion for Reconsideration of petitioner Commissioner of Internal Revenue (CIR).
+Antecedents
+Respondent Toledo Power Company (Toledo) is a domestic corporation
+[4]
+ primarily engaged in the business of acquiring, owning, rehabilitating, maintaining, and operating coal-fired and oil-fired electrical generation facilities.
+[5]
+ It has an existing authority to operate generation facilities issued by the Energy Regulatory Commission under Certificate of Compliance No. 09-11-GXT-61-0066.
+[6]
+ It is registered with the Bureau of Internal Revenue (BIR) with Certificate of Registration (COR) No. 2RC0000074406 VAT and TIN 003-883-626-000 VAT.
+[7]
+By virtue of a Letter of Authority dated April 5, 2013, petitioner CIR authorized a tax investigation on Toledo for internal revenue taxes covering the taxable year 2011.
+[8]
+On July 30, 2015, Toledo received a Preliminary Assessment Notice (PAN) dated July 28, 2015
+[9]
+ detailing deficiency taxes in the total amount of PHP 92,769,216.84: 
+Tax Type
+Basic Deficiency
+Interest & Surcharges
+Compromise Penalty
+Total
+Income Tax
+P43,683,620.05
+P29,146,682.05
+P50,000.00
+P72,880,302.10
+VAT
+9,767,576.46
+7,010,949.33
+50,000.00
+16,828,525.79
+EWT 
+1,748,892.73
+1,255,316.34
+40,000.00
+3,044,209.07
+DST
+6,679.00
+6,500.89
+3,000.00
+16,179.89
+Total
+P92.769,216.84
+Specific to this petition, under the attached Details of Discrepancies of the PAN, Toledo got assessed with deficiency Value-Added Taxes (VAT) in the amount of PHP 4,025,642.60 on its sale of power to Carmen Copper Corporation (CCC):
+[10]
+... Sale to Carmen Copper Corp. subject to 12% VAT - P33,547,021.69 - Verification of your sales to Carmen Copper Corporation, a 100% BOI Registered Exporter, you have subjected to Zero-rating (0%) your total sales to said customer, which is not fully in accordance with Section 4.106-5 of RR 16-2005 which specifically identifies that only sale of raw materials and packaging materials sold to an export-oriented enterprise is subject to zeroÂ­-rating; however, to follow the rationale of RMC 74-99 and RMO 9-2000 on "the cross-border doctrine of the VAT system that no VAT shal1 form part of the cost 
+component
+ of the products which are destined for consumption outside the territorial border of the Philippines" it is understood that the cost of power necessary to produce the product to be exported is pat1of its direct cost and thus shall likewise be subject to zero-rating. Hence, 
+only the amount of the sale of power pertaining to general and administrative cost of the said customer shall be subjected to 12% VAT, which is computed on the ratio of direct cost and general & administrative expenses, as shown in Schedule 8, hereunder
+: (Emphasis supplied)
+Schedule 8 â Additional Taxable Sales â Carmen Copper Corporation  
+ 
+CARMEN COPPER CORP â FS 2011
+TPC â SALE OF POWER
+POWER COST
+AMOUNT
+Ratio
+SALE
+VAT Rate
+VAT DUE Basic
+POWER â Direct Cost
+P1,990,055,552.00
+98% 
+P1,643,804,062.86
+0%
+ 
+POWER â Gen. & Admin
+32,578,515.00
+2% 
+33,547,021.69
+12%
+P4,025,642.60
+TOTAL
+P2,022,634,067.00
+100%
+P1,677,351,084.55
+ 
+P4,025,642.60
+[11]
+After 36 days from receipt of the PAN, on September 4, 2015, Toledo paid the assessed VAT deficiency based on the PAN, together with interests, in the total amount of PHP 6,971,071.10,
+[12]
+ 
+viz
+.: 
+VAT Deficiency
+ 
+PHP 4,025,642.60
+ 
+Interest 
+2,945,428.50
+ 
+Total VAT Deficiency
+PHP 6,971,071.10
+ 
+Toledo used the BIR Electronic Filing and Payment System in paying the amount, generating the following documents: (a) BIR Payment Form No. 0605 for PHP 6,971,071.10 with VT as Tax Type for Tax Period ending December 31, 2011, designated as Voluntary Payment dated September 4, 2015;
+[13]
+ (b) Tax Payment Details (TRN 269-066-150904-50462) with Confirmation No. 00009042015142748213;
+[14]
+ (c) BIR Electronic Filing and Payment System Payment Details;
+[15]
+ (d) Filing Reference No. 291500012447485;
+[16]
+ and (e) Transaction Acknowledgment.
+[17]
+Curiously, Toledo never mentioned whether the tax investigation under Letter of Authority dated April 5, 2013 already got terminated. Notably though, after its payment, no new notices or correspondences were issued by the CIR relative to this tax investigation.
+Fifty-two days after payment, on March 26, 2015, in a complete turnabout, but still within the two year prescriptive period,
+[18]
+ Toledo filed a Letter Request for Administrative Claim
+[19]
+ dated October 22, 2015, before the BIR Large Taxpayers Division-Cebu, addressed to the BIR National Office, through OIC-Assistant Commissioner Nestor S. Valeroso and Large Taxpayers District Officer Socorro O. Lozano (LTDO Lozano), requesting the refund of the assessed VAT deficiency it paid last September 4, 2015,
+[20]
+ based on the following: 
+(a)
+Letter dated January 30, 2012 by Board of Investment Director for Incentives Department Ms. Erlinda Arcellana addressed to the CIR,
+[21]
+ with an attached Board of Investment Certification dated January 30, 2012, issued by Board of Investment Executive Director for Management Services Group Efren V. LeaÃ±o that CCC is a registered manufacturer-exporter with 100% export sales;
+[22]
+(b)
+CCC Notarized Certificate dated October 9, 2015 issued by CCC Vice-President Rodrigo C. Cal that its entire amount of electric power that was supplied by Toledo in 2011 was used for mining and ore processing activities;
+[23]
+(c)
+The cross-border doctrine states that no VAT should form part of products destined for consumption outside the territorial border of the Philippines; and
+(d)
+Since there was no Final Letter of Demand/Final Assessment Notice (FLD/FAN), the assessed amount is unauthorized and deemed erroneous.
+Close to a year after, on March 18, 2016, pursuant to Revenue Memorandum Circular (RMC) No. 51-2007,
+[24]
+ Toledo refiled the 
+same
+ Letter Request for Administrative Claim
+[25]
+ now addressed only to LTDO before BIR Large Taxpayers District Office-Cebu, together with an Application for Tax Credit/Refund BIR Form No. 1914 dated March 18, 2016.
+[26]
+Merely three days later, in view of the mandatory rule that "
+no such suit or proceeding shall be filed after the expiration of two (2) years from the date of payment of the tax or penalty regardless of any supervening cause that may arise after payment
+" prescribed under Sections 204(C)
+[27]
+ and 229
+[28]
+ of the National Internal Revenue Code (NIRC), as amended, Toledo filed a Petition for Review with the Court of Tax Appeals entitled 
+Toledo Power Company v. CIR
+, docketed as CTA Case No. 9307.
+Proceedings before the Court of Tax Appeals Second Division
+In its Petition for Review,
+[29]
+ Toledo asked the Court of Tax Appeals Second Division to grant its claim for refund of PHP 6,971,071.10, which was allegedly paid by mistake as assessed VAT deficiency last September 4, 2015. It also invoked the doctrine of 
+solutio indebiti
+.
+By Answer
+[30]
+ dated June 15, 2016, the CIR riposted that: (a) It had denied the claim last March 15, 2016 and imposed the 12% VAT as Toledo's sale of electricity to CCC was not part of its direct cost; (b) Toledo's claim that the electricity supplied to CCC was wholly used for mining and ore processing activities was mostly self-serving; (c) Based on Toledo's Summary List of Sales (SLS), there was an output VAT due from the portion of its sales to CCC in 2011; and (d) There was no erroneous or illegally collected tax as Toledo voluntarily paid for the assessment. Thus, 
+solutio indebiti
+ did not apply.
+During the hearing, Toledo presented its documentary evidence as well as the testimonies of its Chief Financial Officer, Mr. Fernando A. Rimando, and Independent Certified Public Accountant, Atty. Clifford Chua. Under Resolutions dated September 25, 2017 and August 3, 2018, the Court of Tax Appeals admitted Toledo's documentary evidence.
+[31]
+ On the other hand, the CIR presented the testimony of Revenue Officer Pamela G. Echavez.
+[32]
+Ruling of the Court of Tax Appeals-Second Division
+Under Decision
+[33]
+ dated October 9, 2019, the Court of Tax AppealsÂ­ Second Division granted the petition and ordered the refund of PHP 6,971,071.10 representing Toledo's erroneous payment of assessed VAT deficiency last September 4, 2015. It found that:
+one
+, Toledo satisfied the requirements for the refund of taxes erroneously paid or illegally collected, 
+viz
+.:
+That the taxpayer should file a written claim for refund or tax credit with the BIR Commissioner within two years from the date of payment of the tax or penalty;
+That in case of denial or inaction on the part of the BIR within said period, the petition for refund shall be filed with the Court of Tax Appeals within 30 days from receipt of the denial, or the lapse of the said period, and within said two-year period from the said date of payment of the tax regardless of any supervening cause;
+The claim for refund must be a categorical demand for reimbursement;
+There must be proof of payment of the erroneously or illegally collected taxes; and
+No refund shall be given resulting from availment of incentives granted to special laws for which no actual payment was made.
+two
+, Toledo's sale of power to CCC was zero-rated, in compliance with Revenue Memorandum Order No. 9-2000 dated March 29, 2000. Under such revenue issuance, sales of goods, properties and services made by VATÂ­-registered suppliers to Board of Investment-registered manufacturersÂ­-exporters with 100% export sales are automatically zero-rated, provided that: 
+(a)
+The supplier must be VAT-registered;
+(b)
+The Board of Investment-registered buyer must likewise be VATÂ­ registered;
+(c)
+The buyer must be a Board of Investment-registered manufacturer/producer whose products are 100% exported as certified by the Board of Investment;
+(d)
+The Board of Investment-registered buyer shall furnish each of its suppliers with a copy of the Board of Investment Certification; and
+(e)
+The VAT-registered supplier shall issue for each sale to Board of Investment-registered manufacturer/exporters a duly-registered VAT invoice with the words "zero-rated" stamped thereon.
+three
+, an "erroneous or illegal tax" is one levied without statutory authority, or upon property not subject to taxation or by some officer having no authority to levy the tax, or one which, in other similar respects, is illegal. Verily, since there was no FLD/FAN to speak of which supposedly became final and executory, Toledo's payment based on the PAN was erroneous.
+ 
+The Motion for Reconsideration dated October 28, 2019 of the CIR was denied under Resolution
+[34]
+ dated February 3, 2020.
+Ruling of the Court of Tax Appeals 
+En Banc
+On CIR's Petition for Review under CTA EB No. 2237, the Court of Tax Appeals 
+En Banc
+ affirmed by Decision
+[35]
+ dated July 12, 2021. The Motion for Reconsideration dated July 21, 2021 of the CIR was subsequently denied under Resolution
+[36]
+ dated March 4, 2022.
+The Present Petition
+The CIR now seeks the Court's discretionary appellate jurisdiction to reverse the foregoing dispositions of the Court of Tax Appeals 
+En Banc
+.
+The CIR asse1ts that there is no factual or legal basis to grant the claim for refund as it failed to discharge the burden of proving its entitlement thereto. More, since Toledo already paid the assessed VAT deficiency based on the PAN, it was superfluous for the CIR to still issue an FLD/FAN. Too, Toledo's voluntary payment implies that Toledo already abandoned its objections against the assessment in question.
+In its Comment/Opposition
+[37]
+ dated September 21, 2022, Toledo ripostes that it is entitled to the refund. All arguments raised by the CIR have already been resolved by the Court of Tax Appeals. It maintained that the issuance of the FLD/FAN cannot be dispensed with. While claims for refund are construed 
+strictissimi juris
+ against the person or entity claiming exemption, it is equally important to note that Section 229 of the NIRC necessitates only a preponderance of evidence for its approbation. Here, it was able to discharge the burden of proof required by law to establish its right to refund.
+Our Ruling
+We grant the petition.
+In the words of Chief Judge Irving R. Kaufman, US Court of Appeals for the Second Circuit, "
+[w]e are presented in this case with a rather interesting illustration of tax gamesmanship. The taxpayer's contention is 'Heads I win, tails you lose
+.'"
+[38]
+ Here, we have Toledo claiming for the refund of PHP 6,971,071.10, the total amount of taxes it paid on assessed VAT deficiency on September 4, 2015. It claims to have erroneously paid the amount, thus, effectively seeking to undo the informal settlement it previously forged with the BIR.
+Central to this argument is Toledo's assertion that it paid the amount of assessed VAT deficiency based on what otherwise was an unauthorized and erroneous PAN. Since the sale of its power to CCC is zero-rated, there should allegedly be no imposition of VAT deficiency. It even claimed 
+solutio indebiti
+ against the State should the latter retain the company's so called erroneous payment.
+We cannot agree.
+The NIRC, as amended, provides the procedure for settlement and compromise of tax disputes including limitations on authority, through the BIR. But the Legislature, in all its wisdom, has never prevented the BIR to use other less formal methods of resolving tax controversy, without going through the tedious process of litigation. This is precisely why the CIR is vested with authority to compromise or abate any tax liability under Section 204, NIRC
+[39]
+ at any stage of the proceeding, even criminal violations not involving fraud before the same are filed in cou1t. As such, the NIRC
+[40]
+ may enter into informal settlements to write 
+finis
+ to any of these cases within the parameters prescribed by law.
+There was here an informal settlement of tax liability
+ when Toledo paid PHP 6,971,071.10 on the assessed VAT deficiency on September 4, 2015. We say so because as soon as Toledo made this payment, the series of communications and notices between parties stopped dead in its tracks. The BIR no longer pursued or even tried to issue an FLD/FAN though it is mandated under Section 3.1.1,
+[41]
+ Revenue Regulations (RR) No. 18-2013 dated November 28, 2013 after Toledo failed to file its reply to the PAN.
+The CIR even explained that "
+[Toledo's] failure to file a reply to the PAN within fifteen (15) days from its receipt of PAN on 30 July 2015 caused [the CIR] to initially draft a FAN and FLD, however, since petitioner paid the assessed deficiency VAT on 4 September 2015, FAN and FLD need not be issued
+."
+[42]
+When the CIR admitted that it did not issue an FLD/FAN, it was deemed to have relinquished its right to pursue deficiency taxes against Toledo in the total amount of PHP 92,769,216.84 initially assessed under the PAN. For the BIR already accepted Toledo's payment of just PHP 6,971,071.10 or just 7.5% of its total deficiency taxes. The end result is Toledo's exemption from what would have been a tedious tax investigation and enormous tax liability.
+Under Article 1305 of the Civil Code, "a contract is a meeting of minds between two persons whereby one binds himself, with respect to the other, to give something or to render some service." On the other hand, Article 1318 of the same code requires the concurrence of the following elements: (1) Consent of the contracting parties; (2) Object certain which is the subject matter of the contract; and (3) Cause of the obligation which is established.
+Here, these essential elements are all present. Both parties entered into an informal settlement agreement to terminate the tax investigation and right to pursue deficiency taxes in the total amount of PHP 92,769,216.84 in exchange for the payment of PHP 6,971,071.10 on the VAT deficiency. Toledo paid the amount on September 4, 2015 as consideration and the CIR stopped its tax investigation constituting the object or subject matter of the informal agreement, thus, allowing his cause of action against Toledo to prescribe.
+On this score, Article 1356 of the Civil Code provides that contracts shall be obligato1y in whatever form they may have been entered into, provided all the essential requisites for their validity are present.
+Verily, the informal settlement between the patties is generally binding and cannot be undone except in case of falsity or fraud under Section 248(b) of the NlRC.
+[43]
+ Hence, Toledo is now estopped from seeking a refund of this settlement amount especially after it had already benefitted therefrom in terms of being made exempt from an otherwise tedious litigation and the payment of the huge amount of PHP 92,769,216.84. More, Toledo should not be allowed to take advantage of the fact that as a necessary result of the info1mal settlement, the prescriptive period for the government to collect the actual amount of Toledo's tax liability, meantime, had expired. Indeed, to give imprimatur to Toledo's 
+clear manipulative scheme
+ would be the highest form of injustice.
+In another vein, even assuming there was no informal settlement to speak of in this case, Toledo's claim for refund must still fail.
+Under Article 1431 of the Civil Code, the doctrine of estoppel is anchored on the rule that "
+an admission or representation is rendered conclusive upon the person making it, and cannot be denied or disproved as against the person relying thereon
+." A party is precluded from denying his own acts, admissions or representations to the prejudice of the other patty in order to prevent fraud and falsehood.
+[44]
+By 
+paying
+ the VAT deficiency for PHP 6,971,071.10, Toledo impliedly admitted the validity of the findings under the PAN. Had it truly believed that its sale of power to CCC is zero-rated, it would not have paid the amount in question. The CIR has vigorously asserted that the VAT deficiency is only imposed on the sale of power which CCC used for general and administrative expenses. Toledo could have therefore filed a reply to PAN or questioned the validity of the CIR findings after the issuance of an FLD/FAN. It had a myriad of avenues to contest the findings of the CIR, but it chose to pay the amount without any reservation or protest. Verily, it is estopped from seeking the refund of this amount, much less, the invalidation of the findings under the PAN.
+In 
+Rizal Commercial Banking Corporation (RCBC) v. CIR
+,
+[45]
+ the Court applied the 
+doctrine of estoppel
+ when the taxpayer made partial payments of the revised assessments, 
+viz
+.: 
+Petitioner is estopped from questioning the validity of the waivers
+ 
+RCBC assails the validity of the waivers of the statute of limitations on the ground that the said waivers were merely attested to by Sixto Esquivias, then Coordinator for the CIR, and that he failed to indicate acceptance or agreement of the CIR, as required under Section 223 (b) of the 1977 Tax Code. RCBC further argues that the principle of estoppel cannot be applied against it because its payment of the other tax assessments does not signify a clear intention on its part to give up its right to question the validity of the waivers.
+The Court disagrees.
+Under Article 1431 of the Civil Code, the doctrine of estoppel is anchored on the rule that "an admission or representation is rendered conclusive upon the person making it, and cannot be denied or disproved as against the person relying thereon." A party is precluded from denying his own acts, admissions or representations to the prejudice of the other party in order to prevent fraud and falsehood.
+Estoppel is clearly applicable to the case at bench. RCBC, through its partial payment of the revised assessments issued within the extended period as provided for in the questioned waivers, impliedly admitted the validity of those waivers. Had petitioner truly believed that the waivers were invalid and that the assessments were issued beyond the prescriptive period, then it should not have paid the reduced amount of taxes in the revised assessment. RCBC's subsequent action effectively belies its insistence that the waivers are invalid. The records show that on December 6, 2000, upon receipt of the revised assessment, RCBC immediately made payment on the uncontested taxes. Thus, RCBC is estopped from questioning the validity of the waivers. To hold otherwise and allow a party to gainsay its own act or deny rights which it had previous y recognized would run counter to the principle of equity which this institution holds dear.
+[46]
+ (Emphases and italics supplied; Citations omitted) 
+In 
+CIR v. Systems Technology Institute, Inc.
+,
+[47]
+ the Court would later on characterize the 
+RCBC
+ ruling as 
+estoppel arising from the taxpayer's act of payment
+ and not from the reduction of the assessed taxes.
+More, in 
+Arthur L. Stair and Bernice Stair v. United States of America
+,
+[48]
+ under a similar scenario, stricter requirements for estoppel were imposed, 
+viz
+.: (1) there must be a false representation or wrongful misleading silence; (2) the error must originate in a statement of fact, and not in opinion or a statement of law; (3) the one claiming the benefits of estoppel must not know the true facts; and (4) that same person must be adversely affected by the acts or statements of the one against whom an estoppel is claimed.
+But even against these stricter requirements, we still find Toledo in estoppel because: (a) Toledo was, for the better part of this case, silent on why it erroneously paid the amount; (b) The supposed error originated from a statement of fact, 
+i.e.
+, that there is a VAT deficiency on the sale of power to CCC as it is used for general and administrative purposes; (c) The CIR who claimed he did not know the cold facts because he was precluded from pursuing further investigation; and (d) The government was adversely affected because the CIR did not issue an FLD/FAN within the prescribed timeline, thus, losing the chance to collect the total amount of PHP 92,769,216.84 in audit findings.
+Too, Toledo's deafening silence on what really transpired during the tax investigation further put to fore its 
+double-dealing actions
+. On the one hand, it was telling the Court of Tax Appeals that it was entitled to a refund of its erroneous payment to the government. On the other hand, it did not even explain why it paid the amount in the first place. It simply stomped its feet and unilaterally declared it was an erroneous payment per Revenue Memorandum Order No. 9-2000 dated March 29, 2000.
+In her Judicial Affidavit
+[49]
+ dated July 19, 2016, Tax Compliance Officer Mary Ann C. Vergara of Global Business Power Corporation (GBPC), the parent company of Toledo, stated that the VAT payment was erroneous because it was paid on the basis of the PAN, albeit CCC is a Board of Investment-certified manufacturer/exporter with 100% export sales. But she did enumerate the pieces of evidence that were available at the time Toledo decided to pay the VAT deficiency.
+In 
+Pasion v. Melegrito
+,
+[50]
+ the Court stated that a party may be in estoppel by silence if it refrains from speaking and leads the other to believe in the existence of a state of fact, 
+viz
+.:
+Whenever a party has, by his own declaration, act, or omission, intentionally and deliberately led another to believe a particular thing true, and to act upon such belief, he cannot, in any litigation arising out of such declaration, act or omission, be permitted to falsify it.
+Thus, we have held:
+The principles of equitable estoppel, sometimes called estoppel in pais, are made part of our law by Art. 1432 of the Civil Code. Coming under this class is estoppel by silence, which obtains here and as to which it has been held that:
+. . . an estoppel may arise from silence as well as from words. 
+'Estoppel by silence' arises where a person, who by force of circumstances is under a duty to another to speak, refrains from doing so and thereby leads the other to believe in the existence of a state of facts in reliance on which he acts to his prejudice. Silence may support an estoppel whether the failure to speak is intentional or negligent.
+'Inaction or silence may under some circumstances amount to a misrepresentation and concealment of facts, so as to raise an equitable estoppel. 
+When the silence is of such a character and under such circumstances that it would become a fraud on the other party to permit the party who has kept silent to deny what his silence has induced the other to believe and act on, it will operate as an estoppel. This doctrine rests on the principle that if one maintains silence, when in conscience he ought to speak, equity will debar him from speaking when in conscience he ought to remain silent. He who remains silent when he ought to speak cannot be heard to speak when he should be silent.
+'
+x x x x
+... Litigation must end and terminate sometime and somewhere, and it is essential to an effective administration of justice that once a judgment has become final, the winning party be not, through a mere subterfuge, deprived of the fruits of the verdict. Courts must therefore guard against any scheme calculated to bring about that result. Constituted as they are to put an end to controversies, courts should frown upon any attempt to prolong them.
+The rule on estoppel in pais is a well-settled rule of equity which has been adopted by the courts of law that where for instance A has, by his acts or representations, or by his silence when he ought to speak out, intentionally or through culpable negligence, induced B to believe certain facts to exist, and B has rightfully acted on his belief, so that he will be prejudiced if A is permitted to deny the existence of such facts, A is conclusively estopped to interpose a denial thereof.
+[51] 
+(Emphases and italics supplied; Citations omitted) 
+Here, Toledo kept mum for 36 days from its receipt of the PAN. It did not file a reply thereto nor wait for an FLD/FAN to first issue. It just paid the amount, without much ado. It again kept silent for 52 days more before it filed an administrative claim for refund of its alleged erroneous payment. When it refiled the same claim for refund close to a year later on March 18, 2016, it did not care to explain either. In all the pleadings it filed, sta1iing from the administrative claim, to the judicial claim, and up to this Court, it never bothered to give even a token explanation why it paid the amount in the first place.
+To be sure, Toledo could have, during the tax investigation, disproved the findings in the PAN based on its own records. But it never did. It simply kept its peace and paid the amount. As Mr. Justice Cardozo aptly said: 'The applicable principle is fundamental and unquestioned.' 
+He who prevents a thing from being done may not avail himself of the nonperformance which he has himself occasioned, for the law says to him in effect 'this is your own act, and therefore you are not damnified.
+'
+[52]
+Abuse of rights.
+ Every person must, in the exercise of his rights and in the performance of his duties, act with justice, give everyone his due, and observe honesty, and good faith.
+[53]
+ To repeat, no matter how this case is resolved, the government is the clear loser. After giving up so much for such a measly sum of PHP 6,971,071.10, it still had to be burdened to defend itself against Toledo's unexpected suit simply because Toledo could not keep its part of the settlement.
+The misrepresentation of Toledo does not only hinge on its deafening silence on the real reason it paid the amount in the first place but also on its inexplicable failure to categorically state or make of record insofar as the government is concerned that the payment made by the company was after all conditional or under protest. Had Toledo explicitly reserved its right to seek a refund of what it paid, the CIR would have been less considerably willing to forego the right to assess a full deficiency on the company.
+In fine, prudential and practical considerations dictate a resolution of the present case in favor of the government. A contrary outcome would arm the taxpayer with both shield and sword, and the permission to rig the outcome without any chance of losing. If Toledo loses, it could fare no worse as it already paid the amount. If it wins, it gets back the amount which it had already negotiated successfully with the government. Given these odds, Toledo remains to be the winner that takes it all. In contrast, the government is left holding an empty bag all by its lonesome.
+ACCORDINGLY
+, the Petition is 
+GRANTED
+. The Decision dated July 12, 2021 and Resolution dated March 4, 2022 of the Court of Tax Appeals 
+En Banc
+ in CTA EB No. 2237 are 
+REVERSED
+. Toledo Power Company's Letter Request for Administrative Claim dated March 18, 2016 in the total amount of PHP 6,971,071.10 is 
+DENIED
+ for utter lack of merit.
+SO ORDERED.
+Leonen, SAJ. (Chairperson), M. Lopez, J. Lopez
+, and 
+Kho, Jr., JJ.
+, concur.
+[1]
+ Under Rule 45 of the Rules of Court, 
+rollo
+, pp. 11-47.
+[2]
+ Penned by Associate Justice Maria Rowena Modesto-San Pedro and concurred in by Presiding Justice Roman G. Del Rosario. Associate Justices Juanito C. CastaÃ±eda, Jr., Erlinda P. Uy, Ma. Belen M. Ringpis-Liban, Catherine T. Manahan, and Jean Marie A. Bacorro-Villena, 
+id.
+ at 48-64.
+[3]
+ 
+Id.
+ at 65-71.
+[4]
+ 
+Id.
+ at 73-74. Respondent Toledo Power Company (Toledo) is a partnership, duly organized and existing under Philippine law, with principal office address at Sangi, Toledo City, Cebu.
+[5]
+ 
+Id.
+ at 174-213.
+[6]
+ 
+Id.
+ at 214-217. It was granted by the Energy Regulatory Commission the authority to operate its generation facilities under Certificate of Compliance (COC) No. 09-11-GXT-61-0066, which was subsequently renewed by the Energy Regulatory Commission under COC No. 09-11-GXT-61-0066.
+[7]
+ 
+Id.
+ at 218.
+[8]
+ 
+Id.
+ at 74.
+[9]
+ 
+Id.
+ at 111-113.
+[10]
+ 
+Id.
+ at 259.
+[11]
+ 
+Id.
+[12]
+ 
+Id.
+ at 74.
+[13]
+ 
+Id.
+ at 114.
+[14]
+ 
+Id.
+ at 115.
+[15]
+ 
+Id.
+ at 116.
+[16]
+ 
+Id.
+ at 117.
+[17]
+ 
+Id.
+ at 265.
+[18]
+ Sec. 229. 
+Recovery of Tax Erroneously or Illegally Collected
+. â [N]o suit or proceeding shall be maintained in any court for the recovery of any national internal revenue tax hereafter alleged to have been erroneously or illegally assessed or collected, or of any penalty claimed to have been collected without authority, of any sum alleged to have been excessively or in any manner wrongfully collected without authority, or of any sum alleged to have been excessively or in any manner wrongfully collected, until a claim for refund or credit has been duly filed with the Commissioner; but such suit or proceeding may be maintained, whether or not such tax, penalty, or sum has been paid under protest or duress.
+In any case, no such suit or proceeding shall be filed after the expiration of two (2) years from the date of payment of the tax or penalty regardless of any supervening cause that may arise after payment: 
+Provided, however
+, that the Commissioner may, even without a written claim therefor, refund or credit any tax, where on the face of the return upon which payment was made, such payment appears clearly to have been erroneously paid. (National Internal Revenue Code, as amended).
+[19]
+ 
+Rollo
+, pp. 266-268 & 158-173, Judicial Affidavit of Ms. Mary Ann C. Vergara, particularly on p. 166, Question and Answer No. 35, where Ms. Vergara testified that Toledo filed a Letter Request for refund with the Large Taxpayers Division â Cebu on October 26, 2015, and again on March 18, 2016.
+[20]
+ 
+Id.
+ at 114-117 & 276-279.
+[21]
+ 
+Id.
+ at 272.
+[22]
+ 
+Id.
+ at 273-274.
+[23]
+ 
+Id.
+ at 275.
+[24]
+ Revenue Memorandum Circular (RMC) No. 51-2007 dated July 30, 2007, Circularization or the Revisions on the New Paradigm in Meeting the Collection Target as Embodied in the Memorandum Issued by OIC-CIR dated July 27, 2007.
+It mandates that administrative claim of Large Taxpayers should be filed with the Large Taxpayer Service concerned.
+[25]
+ 
+Rollo
+, pp. 269-271.
+[26]
+ 
+Id.
+ at 279.
+[27]
+ Section 204(C). Credit or refund taxes erroneously or illegally received or penalties imposed without authority, refund the value of internal revenue stamps when they are returned in good condition by the purchaser, and, in his discretion, redeem or change unused stamps that have been rendered unfit for use and refund their value upon proof of destruction.
+No credit or refund of taxes or penalties shall be allowed unless the taxpayer files in writing with the Commissioner a claim for credit or refund within two (2) years after the payment of the tax or penalty:
+ 
+Provided, however
+, [t]hat a return filed showing an overpayment shall be considered as a written claim for credit or refund. (National Internal Revenue Code, as amended).
+[28]
+ Sec. 229. 
+Recovery of Tax Erroneously or Illegally Collected
+. â 
+[N]o suit or proceeding shall be maintained in any court for the recovery of any national internal revenue tax hereafter alleged to have been erroneously
+ or illegally assessed or collected, or of any penalty claimed to have been collected without authority, of any sum alleged to have been excessively or in any manner wrongfully collected without authority, or of any sum alleged to have been excessively or in any manner wrongfully collected, 
+until a claim for refund or credit has been duly filed with the Commissioner
+; but such suit or proceeding may be maintained, whether or not such tax, penalty, or sum has been paid under protest or duress.
+In any case, no such suit or proceeding shall be filed after the expiration of two (2) years from the date of payment of the tax or penalty regardless of any supervening cause that may arise after payment:
+ 
+Provided, however
+, that the Commissioner may, even without a written claim therefor, refund or credit any tax, where on the face of the return upon which payment was made, such payment appears clearly to have been erroneously paid. (National Internal Revenue Code, as amended).
+[29]
+ 
+Rollo
+, pp. 118-134.
+[30]
+ 
+Id.
+ at 135-146.
+[31]
+ 
+Id.
+ at 83.
+[32]
+ 
+Id.
+ at 93.
+[33]
+ Penned by Associate Justice Cielito N. Mindaro-Grulla and concurred in by Associate Justices Juanito C. CastaÃ±eda, Jr. and Jean Marie A. Bacorro-Villena, 
+id.
+ at 72-106.
+[34]
+ 
+Id.
+ at 108-110.
+[35]
+ 
+Id.
+ at 48-64.
+[36]
+ 
+Id.
+ at 65-71.
+[37]
+ Temporary 
+rollo
+, pp. 1-23.
+[38]
+ 
+Arthur L. Stair and Bernice Stair v. United States of America, US Court of Appeals for the Second Circuit
+, 516 F.2d 560 (2d Cir. 1975), Argued April 16, 1975. Decided May 9, 1975. <
+https://law.justia.com/cases/federal/appellate-courts/F2/516/560/419490/
+> Last accessed on June 19, 2022 at 8:26am.
+[39]
+ Sec. 204 â 
+Authority of the Commissioner to Compromise, Abale and Refund or Credit Taxes
+. â The Commissioner may â
+(A) 
+Compromise the payment of any internal revenue tax, when
+:
+(1) A reasonable doubt as to the validity of the claim against the taxpayer exists; or (2) The financial position of the taxpayer demonstrates a clear inability to pay the assessed tax. The compromise settlement of any tax liability shall be subject to the following minimum amounts:
+For cases of financial incapacity, a minimum compromise rate equivalent to ten percent (10%) of the basic assessed tax: and
+For other cases, a minimum compromise rate equivalent to forty percent (40%) of the basic assessed tax.
+Where the basic tax involved exceeds One million pesos (P1,000.000) or where the settlement offered is less than the prescribed minimum rates, the compromise shall be subject to the approval of the Evaluation Board which shall be composed of the Commissioner and the four (4) Deputy Commissioners.
+(B) 
+Abate or cancel a tax liability, when
+:
+(1) The tax or any portion thereof appears to be unjustly or excessively assessed; or (2) The administration and collection costs involved do not justify the collection of the amount due.
+All criminal violations may be compromised except: (a) those already filed in court, or (b) those involving fraud. x x x x.
+(National Internal Revenue Code, as amended).
+[40]
+ Sec. 4. 
+Power of the Commissioner to Interpret Tax laws and to Decide Tax Cases
+. â
+x x x x
+The power to decide disputed assessments, refunds of internal revenue taxes, fees or other charges, penalties imposed in relation thereto, or other matters arising under this Code or other laws or portions thereof administered by the Bureau of Internal Revenue is vested in the Commissioner, subject to the exclusive appellate jurisdiction of the Court of Tax Appeals.
+(National Internal Revenue Code, as amended).
+[41]
+ Section 3.1.1 â 
+Preliminary Assessment Notice (PAN)
+. â If after review and evaluation by the Commissioner or his duly authorized representative, as the case may be, it is determined that there exists sufficient basis to assess the taxpayer for any deficiency tax or taxes, the said Office shall issue to the taxpayer a Preliminary Assessment Notice (PAN) for the proposed assessment. It shall show in detail the facts and the law, rules and regulations, or jurisprudence on which the proposed assessment is based (see illustration in ANNEX "A" hereof).
+If the taxpayer fails to respond within fifteen (15) day from date of receipt of the PAN, he shall be considered in default, in which case, a Formal Letter or Demand and Final Assessment Notice (FLD/FAN) shall be issued calling for payment of the taxpayer's deficiency tax liability, inclusive of the applicable penalties.
+(Revenue Regulations No. 18-2013, November 28, 2013).
+[42]
+ 
+Rollo
+, p. 142.
+[43]
+ NIRC, sec. 248, par.(b), as amended. In case of willful neglect to file the return within the period prescribed by this Code or by rules and regulations, or in case a false or fraudulent return is willfully made, the penalty to be imposed shall be fifty percent (50%) of the tax or of the deficiency tax, in case any payment has been made on the basis of such return before the discovery of the falsity or fraud: 
+Provided
+, That a substantial underdeclaration of taxable sales, receipts or income, or a substantial overstatement of deductions, as determined by the Commissioner pursuant to the rules and regulations to be promulgated by the Secretary of Finance, shall constitute prima facie evidence of a false or fraudulent return: 
+Provided, further
+, That failure to report sales, receipts or income in an amount exceeding thirty percent (30%) of that declared per return, and a claim of deductions in an amount exceeding thirty percent (30%) of actual deductions, shall render the taxpayer liable for substantial underdeclaration of sales, receipts or income or for overstatement of deductions. as mentioned herein.
+[44]
+ 
+Rizal Commercial Banking Corporation v. Commissioner of Internal Revenue
+, 672 Phil. 514, 526 (2011). [Per 
+J
+. Mendoza, Third Division], 
+citing
+ Tolentino, Arturo M. Commentaries and Jurisprudence on the Civil Code of the Philippines, Vol. 4, p. 660.
+[45]
+ 
+Id.
+ at 526-527.
+[46]
+ 
+Id.
+[47]
+ 814 Phil. 933 (2017) [Per 
+J
+. Caguioa, First Division].
+[48]
+ 
+Arthur L. Stair and Bernice Stair v. United States of America, US Court of Appeals for the Second Circuit
+, 516 F.2d 560 (2d Cir. 1975), Argued April 16, 1975. Decided May 9, 1975. <
+https://law.justia.com/cases/federal/appellate-courts/F2/516/560/419490/
+> Last accessed on June 19, 2022 at 8:26am.
+[49]
+ 
+Rollo
+, pp. 158-173.
+[50]
+ 548 Phil. 302 (2007) [Per 
+J
+. Tinga, Second Division].
+[51]
+ 
+Id.
+ at 311-312.
+[52]
+ 
+The Collector of Internal Revenue v. Suyoc Consolidated Mining Company, et al.
+, 104 Phil. 819, 824 (1958) [Per 
+J
+. Bautista Angelo], 
+citing
+ 
+R. H. Stearns Co. vs. U.S.
+, 78 L. ed., 647.
+[53]
+ Civil Code, art. 19.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

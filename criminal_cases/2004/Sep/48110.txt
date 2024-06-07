@@ -1,0 +1,388 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			481 Phil. 550
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 140946, September 13, 2004 ]
+
+
+MICROSOFT CORPORATION AND LOTUS DEVELOPMENT CORPORATION, PETITIONERS, VS. MAXICORP, INC., RESPONDENT.
+ D E C I S I O N
+
+
+
+
+CARPIO, J.:
+
+
+The Case
+This petition for review on certiorari
+[1]
+ seeks to reverse the Court of Appealsâ Decision
+[2]
+ dated 23 December 1998 and its Resolution dated 29 November 1999 in CA-G.R. SP No. 44777.  The Court of Appeals reversed the Order
+[3]
+ of the Regional Trial Court, Branch 23, Manila (âRTCâ), denying respondent Maxicorp, Inc.âs (âMaxicorpâ) motion to quash the search warrant that the RTC issued against Maxicorp.  Petitioners are the private complainants against Maxicorp for copyright infringement under Section 29 of Presidential Decree No. 49 (âSection 29 of PD 49â)
+[4]
+ and for unfair competition under Article 189 of the Revised Penal Code (âRPCâ).
+[5]
+Antecedent Facts
+On 25 July 1996, National Bureau of Investigation (âNBIâ) Agent Dominador Samiano, Jr. (âNBI Agent Samianoâ) filed several applications for search warrants in the RTC against Maxicorp for alleged violation of Section 29 of PD 49 and Article 189 of the RPC. After conducting a preliminary examination of the applicant and his witnesses, Judge William M. Bayhon issued Search Warrants Nos. 96-451, 96-452, 96-453 and 96-454, all dated 25 July 1996, against Maxicorp.
+Armed with the search warrants, NBI agents conducted on 25 July 1996 a search of Maxicorpâs premises and seized property fitting the description stated in the search warrants.
+On 2 September 1996, Maxicorp filed a motion to quash the search warrants alleging that there was no probable cause for their issuance and that the warrants are in the form of âgeneral warrants.â The RTC denied Maxicorpâs motion on 22 January 1997. The RTC also denied Maxicorpâs motion for reconsideration.
+The RTC found probable cause to issue the search warrants after examining NBI Agent Samiano, John Benedict Sacriz (âSacrizâ), and computer technician Felixberto Pante (âPanteâ). The three testified on what they    discovered during their respective visits to Maxicorp. NBI Agent Samiano also presented certifications from petitioners that they have not authorized Maxicorp to perform the witnessed activities using petitionersâ products.
+On 24 July 1997, Maxicorp filed a petition for certiorari with the Court of Appeals seeking to set aside the RTCâs order. On 23 December 1998, the Court of Appeals reversed the RTCâs order denying Maxicorpâs motion to quash the search warrants. Petitioners moved for reconsideration. The Court of Appeals denied petitionersâ motion on 29 November 1999.
+The Court of Appeals held that NBI Agent Samiano failed to present during the preliminary examination conclusive evidence that Maxicorp produced or sold the counterfeit products.  The Court of Appeals pointed out that the sales receipt NBI Agent Samiano presented as evidence that he bought the products from Maxicorp was in the name of a certain âJoel Diaz.â
+Hence, this petition.
+The Issues
+Petitioners seek a reversal and raise the following issues for resolution:
+WHETHER THE PETITION RAISES QUESTIONS OF LAW;
+WHETHER PETITIONERS HAVE LEGAL PERSONALITY TO FILE THE PETITION;
+WHETHER THERE WAS PROBABLE CAUSE TO ISSUE THE SEARCH WARRANTS;
+WHETHER THE SEARCH WARRANTS ARE âGENERAL WARRANTS.â
+The Ruling of the Court
+The petition has merit.
+On Whether the Petition Raises Questions of Law
+Maxicorp assails this petition as defective since it failed to raise questions of law.  Maxicorp insists that the arguments petitioners presented are questions of fact, which this Court should not consider in a Rule 45 petition for review. Petitioners counter that all the issues they presented in this petition involve questions of law.  Petitioners point out that the facts are not in dispute.
+A petition for review under Rule 45 of the Rules of Court should cover questions of law.
+[6]
+ Questions of fact are not reviewable.  As a rule, the findings of fact of the Court of Appeals are final and conclusive and this Court will not review them on appeal,
+[7]
+ subject to exceptions as when the findings of the appellate court conflict with the findings of the trial court.
+[8]
+The distinction between questions of law and questions of fact is settled.  A question of law exists when the doubt or difference centers on what the law is on a certain state of facts.  A question of fact exists if the doubt centers on the truth or falsity of the alleged facts.  Though this delineation    seems simple, determining the true nature and extent of the distinction is sometimes problematic. For example, it is incorrect to presume that 
+all 
+cases where the facts are not in dispute automatically involve purely questions of law.
+There is a question of law if the issue raised is capable of being resolved without need of reviewing the probative value of the evidence.
+[9]
+ The resolution of the issue must rest solely on what the law provides on the given set of circumstances.  Once it is clear that the issue invites a review of the evidence presented, the question posed is one of fact.
+[10]
+ If the query requires a re-evaluation of the credibility of witnesses, or the existence or relevance of surrounding circumstances and their relation to each other, the issue in that query is factual.
+[11]
+ Our ruling in 
+Paterno v. Paterno
+[12]
+ is illustrative on this point:
+Such questions as whether certain items of evidence should be accorded probative value or weight, or rejected as feeble or spurious, or whether or not the proofs on one side or the other are clear and convincing and adequate to establish a proposition in issue, are without doubt questions of fact. Whether or not the body of proofs presented by a party, weighed and analyzed in relation to contrary evidence submitted by adverse party, may be said to be strong, clear and convincing; whether or not certain documents presented by one side should be accorded full faith and credit in the face of protests as to their spurious character by the other side; whether or not    inconsistencies in the body of proofs of a party are of such gravity as to justify refusing to give said proofs weight â all these are issues of fact.
+It is true that Maxicorp did not contest the facts alleged by petitioners.  But this situation does not automatically transform 
+all
+ issues raised in the petition into questions of law. The issues must meet the tests outlined in 
+Paterno
+.
+Of the three main issues raised in this petition â the legal personality of the petitioners, the nature of the warrants issued and the presence of probable cause â only the first two qualify as questions of law. The pivotal issue of whether there was probable cause to issue the search warrants is a question of fact. At first glance, this issue appears to involve a question of law since it does not concern itself with the truth or falsity of certain facts. Still, the resolution of this issue would require this Court to inquire into the probative value of the evidence presented before the RTC.   For a question to be one of law, it must not involve an examination of the probative value of the evidence presented by the litigants or any of them.
+[13]
+Yet, this is precisely what the petitioners ask us to do by raising arguments requiring an examination of the TSNs and the documentary evidence presented during the search warrant proceedings.  In short, petitioners would have us substitute our own judgment to that of the RTC and the Court of Appeals by conducting our own evaluation of the evidence. This is exactly the situation which Section 1, Rule 45 of the Rules of Court prohibits by requiring the petition to raise only questions of law.  This Court is not a trier of facts. It is not the function of this court to analyze or weigh evidence.
+[14]
+ When we give due course to such situations, it is solely by way of exception. Such exceptions apply only in the presence of extremely meritorious circumstances.
+[15]
+Indeed, this case falls under one of the exceptions because the findings of the Court of Appeals conflict with the findings of the RTC.
+[16]
+ Since petitioners properly raised the conflicting findings of the lower courts, it is proper for this Court to resolve such contradiction.
+On Whether Petitioners have the Legal Personality to File this Petition
+Maxicorp argues that petitioners have no legal personality to file this petition since the proper party to do so in a criminal case is the Office of the Solicitor General as representative of the People of the Philippines. Maxicorp states the general rule but the exception governs this case.
+[17]
+ We ruled in 
+Columbia Pictures Entertainment, Inc. v. Court of Appeals
+[18]
+ that the petitioner-complainant in a petition for review under Rule 45 could argue its case before this Court in lieu of the Solicitor General if there is grave error committed by the lower court or lack of due process. This avoids a situation where a complainant who actively participated in the prosecution of a case would suddenly find itself powerless to pursue a remedy due to circumstances beyond its control. The circumstances in 
+Columbia Pictures Entertainment
+ are sufficiently similar to the present case to warrant the application of this doctrine.
+On Whether there was Probable Cause to Issue the Search Warrants
+Petitioners argue that the Court of Appeals erred in reversing the RTC based on the fact that the sales receipt was not in the name of NBI Agent Samiano.  Petitioners point out that the Court of Appeals disregarded the overwhelming evidence that the RTC considered in determining the existence of probable cause.  Maxicorp counters that the Court of Appeals did not err in reversing the RTC.  Maxicorp maintains that the entire preliminary examination that the RTC conducted was defective.
+The Court of Appeals based its reversal on two factual findings of the RTC.  First, the fact that the sales receipt presented by NBI Agent Samiano as proof that he bought counterfeit goods from Maxicorp was in the name of a certain âJoel Diaz.â Second, the fact that petitionersâ other witness, John Benedict Sacriz, admitted that he did not buy counterfeit goods from Maxicorp.
+We rule that the Court of Appeals erred in reversing the RTCâs findings.
+Probable cause means âsuch reasons, supported by facts and circumstances as will warrant a cautious man in the belief that his action and the means taken in prosecuting it are legally just and proper.â
+[19]
+ Thus, probable cause for a search warrant requires such facts and circumstances that would lead a reasonably prudent man to believe that an offense has been committed and the objects sought in connection with that offense are in the place to be searched.
+[20]
+The judge determining probable cause must do so only after personally examining under oath the complainant and his witnesses. The oath required must refer to âthe truth of the facts within the 
+personal knowledge
+ of the petitioner or his witnesses, because the purpose thereof is to convince the committing magistrate, not the individual making the affidavit and seeking the issuance of the warrant, of the existence of probable cause.â
+[21]
+ The applicant must have personal knowledge of the circumstances. âReliable informationâ is insufficient.
+[22]
+ Mere affidavits are not enough, and the judge must depose in writing the complainant and his witnesses.
+[23]
+The Court of Appealsâ reversal of the findings of the RTC centers on the fact that the two witnesses for petitioners during the preliminary examination failed to prove conclusively that they bought counterfeit software from Maxicorp. The Court of Appeals ruled that this amounted to a failure to prove the existence of a connection between the offense charged and the place searched.
+The offense charged against Maxicorp is copyright infringement under Section 29 of PD 49 and unfair competition under Article 189 of the RPC. To support these charges, petitioners presented the testimonies of NBI Agent Samiano, computer technician Pante, and Sacriz, a civilian. The offenses that petitioners charged Maxicorp contemplate several overt acts. The sale of counterfeit products is but one of these acts. Both NBI Agent Samiano and Sacriz related to the RTC how they personally saw Maxicorp commit acts of infringement and unfair competition.
+During the preliminary examination, the RTC subjected the testimonies of the witnesses to the requisite examination. NBI Agent Samiano testified that he saw Maxicorp display and offer for sale counterfeit software in its premises. He also saw how the counterfeit software were produced and packaged within Maxicorpâs premises.  NBI Agent Samiano categorically stated that he was certain the products were counterfeit because Maxicorp sold them to its customers without giving the accompanying ownership manuals, license agreements and certificates of authenticity.
+Sacriz testified that during his visits to Maxicorp, he witnessed several instances when Maxicorp installed petitionersâ software into computers it had assembled.  Sacriz also testified that he saw the sale of petitionersâ software within Maxicorpâs premises.  Petitioners never authorized Maxicorp to install or sell their software.
+The testimonies of these two witnesses, coupled with the object and documentary evidence they presented, are sufficient to establish the existence of probable cause.  From what they have witnessed, there is reason to believe that Maxicorp engaged in copyright infringement and unfair competition to the prejudice of petitioners. Both NBI Agent Samiano and Sacriz were clear and insistent that the counterfeit software were not only displayed and sold within Maxicorpâs premises, they were also produced, packaged and in some cases, installed there.
+The determination of probable cause does not call for the application of rules and standards of proof that a judgment of conviction requires after trial on the merits. As implied by the words themselves, âprobable causeâ is concerned with probability, not absolute or even moral certainty. The prosecution need not present at this stage proof beyond reasonable doubt.  The standards of judgment are those of a reasonably prudent man,
+[24]
+ not the exacting calibrations of a judge after a full-blown trial.
+No law or rule states that probable cause requires a specific kind of evidence.  No formula or fixed rule for its determination exists.
+[25]
+ Probable cause is determined in the light of conditions obtaining in a given situation.
+[26]
+ Thus, it was improper for the Court of Appeals to reverse the RTCâs findings simply because the sales receipt evidencing NBI Agent Samianoâs purchase of counterfeit goods is not in his name.
+For purposes of determining probable cause, the sales receipt is not the only proof that the sale of petitionersâ software occurred.  During the search warrant application proceedings, NBI Agent Samiano presented to the judge the computer unit that he purchased from Maxicorp, in which computer unit Maxicorp had pre-installed petitionersâ software.
+[27]
+ Sacriz, who was present when NBI Agent Samiano purchased the computer unit, affirmed that NBI Agent Samiano purchased the computer unit.
+[28]
+ Pante, the computer technician, demonstrated to the judge the presence of petitionersâ software on the same computer unit.
+[29]
+ There was a comparison between petitionersâ genuine software and Maxicorpâs software pre-installed in the computer unit that NBI Agent Sambiano purchased.
+[30]
+ Even if we disregard the sales receipt issued in the name of âJoel Diaz,â which petitioners explained was the alias NBI Agent Samiano used in the operation, there still remains more than sufficient evidence to establish probable cause for the issuance of the search warrants.
+This also applies to the Court of Appealsâ ruling on Sacrizâs testimony. The fact that Sacriz did not actually purchase counterfeit software from Maxicorp does not eliminate the existence of probable cause. Copyright infringement and unfair competition are not limited to the act of selling counterfeit goods. They cover a whole range of acts, from copying, assembling, packaging to marketing, including the mere offering for sale of the counterfeit goods.  The clear and firm testimonies of petitionersâ witnesses on such other acts stand untarnished. The Constitution and the Rules of Court only require that the judge examine personally and thoroughly the applicant for the warrant and his witnesses to determine probable cause.  The RTC complied adequately with the requirement of the Constitution and the Rules of Court.
+Probable cause is dependent largely on the opinion and findings of the judge who conducted the examination and who had the opportunity to question the applicant and his witnesses.
+[31]
+ For this reason, the findings of the judge deserve great weight. The reviewing court should overturn such findings only upon proof that the judge disregarded the facts before him or ignored the clear dictates of reason.
+[32]
+ Nothing in the records of the preliminary examination proceedings reveal any impropriety on the part of the judge in this case. As one can readily see, here the judge examined thoroughly the applicant and his witnesses. To demand a higher degree of proof is unnecessary and untimely.  The prosecution would be placed in a compromising situation if it were required to present all its evidence at such preliminary stage. Proof beyond reasonable doubt is best left for trial.
+On Whether the Search Warrants are in the Nature of General Warrants
+A search warrant must state particularly the place to be searched and the objects to be seized.  The evident purpose for this requirement is to limit the articles to be seized only to those particularly described in the search warrant.  This is a protection against potential abuse. It is necessary to leave the officers of the law with no discretion regarding what articles they shall seize, to the end that no unreasonable searches and seizures be committed.
+[33]
+In addition, under Section 4, Rule 126 of the Rules of Criminal Procedure, a search warrant shall issue âin connection with one specific offense.â The articles described must bear a direct relation to the offense for which the warrant is issued.
+[34]
+ Thus, this rule requires that the warrant must state that the articles subject of the search and seizure are used or intended for use in the commission of a specific offense.
+Maxicorp argues that the warrants issued against it are too broad in scope and lack the specificity required with respect to the objects to be seized. After examining the wording of the warrants issued, the Court of Appeals ruled in favor of Maxicorp and reversed the RTCâs Order thus:
+Under the foregoing language, almost any item in the petitionerâs store can be seized on the ground that it is âused or intended to be usedâ in the illegal or unauthorized copying or reproduction of the private respondentsâ software and their manuals.
+[35]
+The Court of Appeals based its reversal on its perceived infirmity of paragraph (e) of the search warrants the RTC issued. The appellate court found that similarly worded warrants, all of which noticeably employ the phrase âused or intended to be used,â were previously held void by this Court.
+[36]
+ The disputed text of the search warrants in this case states: 
+ 
+ 
+a)
+ 
+Complete or partially complete reproductions or copies of Microsoft software bearing the Microsoft copyrights and/or trademarks owned by MICROSOFT CORPORATION contained in CD-ROMs, diskettes and hard disks;
+ 
+ 
+ 
+  
+ 
+ 
+b)
+Complete or partially complete reproductions or copies of Microsoft instruction manuals and/or literature bearing the Microsoft copyrights and/or trademarks owned by MICROSOFT CORPORATION;
+ 
+    
+ 
+  
+ 
+ 
+c)
+Sundry items such as labels, boxes, prints, packages, wrappers, receptacles, advertisements and other paraphernalia bearing the copyrights and/or trademarks owned by MICROSOFT CORPORATION;
+ 
+ 
+ 
+  
+ 
+ 
+d)
+Sales invoices, delivery receipts, official receipts, ledgers, journals, purchase orders and all other books of accounts and documents used in the recording of the reproduction and/or assembly, distribution and sales, and other transactions in connection with fake or counterfeit products bearing the Microsoft copyrights and/or trademarks owned by MICROSOFT CORPORATION;
+ 
+    
+ 
+  
+ 
+ 
+e)
+Computer hardware, including central processing units including hard disks, CD-ROM drives, keyboards, monitor screens and diskettes, photocopying machines and other equipment or paraphernalia used or intended to be used in the illegal and unauthorized copying or reproduction of Microsoft software and their manuals, or which contain, display or otherwise exhibit, without the authority of MICROSOFT CORPORATION, any and all Microsoft trademarks and copyrights; and
+ 
+    
+ 
+  
+ 
+ 
+f)
+Documents relating to any passwords or protocols in order to access all computer hard drives, data bases and other information storage devices containing unauthorized Microsoft software.
+[37]
+ (Emphasis supplied)
+It is only required that a search warrant be specific as far as the circumstances will ordinarily allow.
+[38]
+ The description of the property to be seized need not be technically accurate or precise.  The nature of the description should vary according to whether the identity of the property or its character is a matter of concern.
+[39]
+ Measured against this standard we find that paragraph (e) is not a general warrant. The articles to be seized were not only sufficiently identified physically, they were also specifically identified by stating their relation to the offense charged.  Paragraph (e) specifically refers to those articles used or intended for use in the illegal and unauthorized copying of petitionersâ software.  This language meets the test of specificity.
+[40]
+The cases cited by the Court of Appeals are inapplicable. In those cases, the Court found the warrants too broad because of particular circumstances, not because of the mere use of the phrase âused or intended to be used.â In 
+Columbia Pictures, Inc. v. Flores
+, the warrants ordering the seizure of âtelevision sets, video cassette recorders, rewinders and tape cleaners x x xâ were found too broad since the defendant there was a licensed distributor of video tapes.
+[41]
+ The mere presence of counterfeit video tapes in the defendantâs store does not mean that the machines were used to produce the counterfeit tapes.  The situation in this case is different.  Maxicorp is not a licensed distributor of petitioners.  In 
+Bache & Co. (Phil.), Inc., et al. v. Judge Ruiz, et al.
+, the Court voided the warrants because they authorized the seizure of records pertaining to âall business transactionsâ of the defendant.
+[42]
+ And in 
+20
+th
+ Century Fox Film Corp. v. Court of Appeals
+, the Court quashed the warrant because it merely gave a list of articles to be seized, aggravated by the fact that such appliances are âgenerally connected with the legitimate business of renting out betamax tapes.â
+[43]
+However, we find paragraph (c) of the search warrants lacking in particularity. Paragraph (c) states:
+c)
+    
+Sundry items such as labels, boxes, prints, packages, wrappers, receptacles, advertisements and other paraphernalia bearing the copyrights and/or trademarks owned by MICROSOFT CORPORATION;
+The scope of this description is all-embracing since it covers property used for personal or other purposes not related to copyright infringement or unfair competition. Moreover, the description covers property that Maxicorp may have bought legitimately from Microsoft or its licensed distributors.   Paragraph (c) simply calls for the seizure of all items bearing the Microsoft logo, whether legitimately possessed or not. Neither does it limit the seizure to products used in copyright infringement or unfair competition.
+Still, no provision of law exists which requires that a warrant, partially defective in specifying some items sought to be seized yet particular with respect to the other items, should be nullified as a whole. A partially defective warrant remains valid as to the items specifically described in the warrant.
+[44]
+ A search warrant is severable, the items not sufficiently described may be cut off without destroying the whole warrant.
+[45]
+ The exclusionary rule found in Section 3(2) of Article III of the Constitution renders inadmissible in any proceeding all evidence obtained through unreasonable searches and seizure.  Thus, all items seized under paragraph (c) of the search warrants, not falling under paragraphs a, b, d, e or f, should be returned to Maxicorp.
+WHEREFORE
+, we 
+PARTIALLY GRANT
+ the instant petition.  The Decision of the Court of Appeals dated 23 December 1998 and its Resolution dated 29 November 1999 in CA-G.R. SP No. 44777 are 
+REVERSED
+ and 
+SET ASIDE
+ except with respect to articles seized under paragraph (c) of Search Warrants Nos. 96-451, 96-452, 96-453 and 96-454. All articles seized under paragraph (c) of the search warrants, not falling under paragraphs a, b, d, e or f, are ordered returned to Maxicorp, Inc. immediately.
+SO ORDERED.
+Davide, Jr., C.J., (Chairman), Ynares-Santiago,
+ and 
+Azcuna, JJ.,
+ concur.
+Quisumbing, J.,
+ no part, close relation to counsel.
+[1]
+ Under Rule 45 of the 1997 Rules of Civil Procedure.
+[2]
+  Penned by Associate Justice Hector L. HofileÃ±a with Associate Justices Jorge S. Imperial and Omar U. Amin concurring.
+[3]
+ Penned by Judge William M. Bayhon.
+[4]
+ Presidential Decree on Intellectual Property. Section 29 punishes copyright infringement.
+[5]
+ Article 189 punishes unfair competition.
+[6]
+ Section 1, Rule 45 of the 1997 Rules of Civil Procedure.
+[7]
+ Amigo v. Teves, 96 Phil. 252 (1954).
+[8]
+ Ramos, et al. v. Pepsi-Cola Bottling Co. of the Phils., et al., 125 Phil. 701 (1967).
+[9]
+  Arroyo, et al. v. El Beaterio del Santissimo Rosario De Molo, et al., 132 Phil. 9 (1968).
+[10]
+  Cheesman v. Intermediate Appellate Court, G.R. No. 74833, 21 January 1991, 193 SCRA 93.
+[11]
+  Bernardo v. Court of Appeals, G.R. No. 101680, 7 December 1992, 216 SCRA 224.
+[12]
+  G.R. No. 63680, 23 March 1990, 183 SCRA 630.
+[13]
+ Manila Bay Club Corp. v. CA, 315 Phil. 805 (1995).
+[14]
+ Nicolas v. Court of Appeals, No. L-37631, 12 October 1987, 154 SCRA 635.
+[15]
+ As laid out in Ramos, et al. v. Pepsi-Cola Bottling Co. of the Phils., et al., 125 Phil. 701 (1967):
+(a)        
+when the conclusion is a finding grounded entirely on speculations, surmises or conjectures;
+(b)        
+when the inference made is manifestly mistaken, absurd or impossible;
+(c)        
+where there is a grave abuse of discretion;
+(d)        
+when the judgment is based on a misapprehension of facts;
+(e)        
+when the findings of fact of the trial court and the Court of Appeals are conflicting;
+(f)         
+where the findings of fact are contradicted by the evidence of record.
+[16]
+ 
+Ibid
+.
+[17]
+ People v. Nano, G.R. No. 94639, 13 January 1992, 205 SCRA 155.
+[18]
+ G.R. No. 111267, 20 September 1996, 262 SCRA 219.
+[19]
+ United States 
+v
+. Addison, 28 Phil. 566 (1914).
+[20]
+ Burgos, Sr., et al. v. The Chief of Staff, AFP, et al., 218 Phil. 754 (1984).
+[21]
+ Alvarez v. Court of First Instance of Tayabas, 64 Phil. 33 (1937).
+[22]
+ 
+Ibid
+.
+[23]
+ Roan v. Hon. Gonzales, 230 Phil. 90 (1986).
+[24]
+ People v. Sy Juco, 64 Phil. 667 (1937).
+[25]
+ La Chemise Lacoste, S.A. v. Hon. Fernandez, etc., et al., 214 Phil. 332 (1984).
+[26]
+ Central Bank of the Phils. v. Morfe, et al., 126 Phil. 885 (1967).
+[27]
+ TSN of proceedings on application for search warrants, rollo, p. 50.
+[28]
+ 
+Ibid
+., p. 59.
+[29]
+ 
+Ibid
+., p. 52.
+[30]
+ 
+Ibid
+., p. 61.
+[31]
+ Luna 
+v
+. Hon. Plaza, etc., et al., 135 Phil. 329 (1968).
+[32]
+ 
+Supra
+ note 25.
+[33]
+ Uy Kheytin v. Villareal, 42 Phil. 886 (1920).
+[34]
+ BACHE & Co. (Phil.), Inc., et al. v. Judge Ruiz, et al., 147 Phil. 794 (1971).
+[35]
+ Rollo, p. 38.
+[36]
+ Columbia Pictures, Inc. v. Flores, G.R. No. 78631, 29 June 1993, 223 SCRA 761; 20
+th
+ Century Fox Film Corp. v. Court of Appeals, Nos. L-76649-51, 19 August 1988, 164 SCRA 655; BACHE & Co. (Phil.), Inc., et al. v. Judge Ruiz, et al., 147 Phil. 794 (1971).
+[37]
+ Rollo, p. 64.
+[38]
+ People v. Rubio, 57 Phil. 384 (1932).
+[39]
+ Kho v. Hon. Makalintal, 365 Phil. 511 (1999).
+[40]
+ Columbia Pictures Entertainment, Inc. v. Court of Appeals, 
+supra
+ note 18.
+[41]
+ 
+Supra
+ note 36.
+[42]
+ 
+Supra
+ note 34.
+[43]
+ 
+Supra
+ note 36.
+[44]
+ People v. Salanguit, G.R. Nos. 133254-55, 19 April 2001, 356 SCRA 683.
+[45]
+ Uy v. Bureau of Internal Revenue, G.R. No. 129651, 20 October 2000, 344 SCRA 36.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

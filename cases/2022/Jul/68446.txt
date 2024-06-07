@@ -1,0 +1,551 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 206327, July 06, 2022 ]
+
+
+INTERNATIONAL EXCHANGE BANK, 
+PETITIONER
+, 
+VS.
+ RUDY S. LABOS AND ASSOCIATES, INC., SPS. RODOLFO S. LABOS AND CONSUELO R. LABOS, AND ROCKWELL LAND CORPORATION, 
+RESPONDENTS
+.
+D E C I S I O N
+
+
+
+
+HERNANDO, J.:
+
+
+This Petition for Review on 
+Certiorari
+[1]
+ seeks to reverse and set aside the December 20, 2012 Resolution
+[2]
+ of the Court of Appeals (CA) in CA G.R. CV No. 95810, which overturned its November 23, 2011 Decision,
+[3]
+ and affirmed in 
+toto
+ the December 22, 2009 Decision
+[4]
+ of the Regional Trial Court (RTC) of Makati City, Branch 62 in Civil Case No. 05-313.
+The Facts
+The instant case stemmed from an action for sum of money with prayer for preliminary attachment
+[5]
+ filed by herein petitioner International Exchange Bank (IEB), now Union Bank of the Philippines, against respondents Rudy S. Labos & Associates, Inc. (RSLAI), spouses Rodolfo S. Labos and Consuelo R. Labos (spouses Labos), and Rockwell Land Corporation (Rockwell).
+[6]
+ The facts, as summarized by the RTC, are as follows:
+[The] factual antecedents of the case, as culled from the body of evidence, both testimonial & documentary[,] shows that [respondent] Rudy S. Labos & Associates, Inc. or RSLAI, represented by its President, [respondent] Rodolfo S. Labos, was granted by [IEB] a 10 million peso credit line under a Letter Agreement dated June 6, 2003 & Credit Agreement dated July 2, 2003. As partial security for the credit line & all availments thereunder, RSLAI assigned to [IEB] all its rights, title & interest over one (1) condominium unit identified as Unit 23-A Luna Gardens, Rockwell Center, Makati City under a Deed of Assignment dated July 2, 200[3] whereunder [respondent] RSLAI represented by Rodolfo S. Labos & [IEB] agreed not to sell, assign or transfer the assigned property to another person without the consent of the [IEB]. The condominium unit was purchased by RSLAI from [Rockwell] under a Contract to Sell dated December 20, 1999. As additional security for the credit line, Rodolfo S. Labos in his behalf & as attorney-in-fact of Consuelo R. Labos, executed a Continuing Surety Agreement dated July 2, 2003 in favor of [IEB].
+[Respondent] RSLAI availed of its credit line under 1) Promissory Note No. 0210401052 dated January 30, 2004 in the amount of Php 3,240,000.00, 2) Promissory Note No. 02104012036 dated January 30, 2004 in the amount of Php 1,978,755.94, 3) Promissory Note No. 0210401044 dated January 30, 2004 in the amount of Php 920,000.00, & 4) Promissory Note No. 0210401061 in the amount of Php 3,300,000.00. All promissory notes [were to] mature on July 30, 2004.
+However, upon maturity of the promissory notes, RSLAI defaulted in the payment thereof. This prompted [IEB] to demand payment of the outstanding obligation under its demand letter dated September 8, 2004. Upon receipt of the demand letter, RSLAI, through Rodolfo S. Labos, requested for an extension of the maturity date of the subject promissory notes with the end view of restructuring its loan obligations. Pending negotiations for the loan restructure, [IEB] agreed to extend & consolidate all the outstanding promissory notes into one (I) promissory note, Promissory Note No. SCL04469 dated October 29, 2004 in the amount of Php 5,434,709.95 to mature on January 31, 2005. In the meantime, negotiations for a restructure of the loans failed. When Promissory Note No. SCL04469 matured on January 31, 2005, [respondent] RSLAI again, failed to pay. [IEB] sent demand letters both dated April 5, 2005 to RSLAI & the Sps. Labos. Per Statement of Account dated April 5, 2005, RSLAI and the Spouses Labos' total outstanding obligation amounted to Php 5,729,726.94. Despite demands for payment, RSLAI & the Sps. Labos failed to pay the [IEB].
+[IEB]'s witness Vicente de Ocampo III declared in his Judicial Affidavit that because of the non-payment of the outstanding notes of RSLAI on their maturity dates, as well as Rodolfo S. Labos' request for extension, [IEB] wrote a letter dated August 31, 2004 to [Rockwell] to inquire about the status of the assigned condominium unit. In a letter dated September 9, 2004 from Rockwell's Assistant Vice President-Legal, Ma. Fe Carolyn Go-Pinoy, Rockwell confirmed that Rodolfo S. Labos wrote them on July 13, 2004 informing Rockwell of the transfer of ownership over the subject unit to JHL & Sons Realty, Inc. by virtue of a Deed of Assignment dated August 25, 2004.
+With the transfer of the assigned property, [IEB] lost substantial collateral for the loan of RSLAI. Notwithstanding the agreement under Section 2.04 of the Deed of Assignment that any transfer of the assigned property shall require the written conformity of [IEB], Rockwell allowed the transfer of the same by RSLAI to JHL & Sons Realty, Inc. without securing [IEB]'s written conformity. [IEB]'s letters to Rockwell dated October 5, 2004 & March 14, 2005, informed Rockwell of the latter's violation of the requirement of conformity under the Deed of Assignment & that it would institute action against Rockwell. [IEB] prays that [Rockwell] be made jointly and severally liable with RSLAI & the Spouses Labos for the amount of the unpaid loan of Php 5,729,726.94 as of April 5, 2005.
+In their [Answer], RSLAI averred by way of affirmative & negative defenses that the omnibus credit line granted by [IEB] to [RSLAI] was novated by the subsequent loan restructure. According to [RSLAI], the credit line granted by [IEB] in the amount of 10 million pesos on June 2003 for a term period of one (1) year or until July 30, 2004 was secured by several collaterals namely: 1) Continuing Surety Agreement in the amount of 10 million pesos executed by the Spouses Labos; 2) the Assignment of the Contract to Sell of Unit 23-A Luna Gardens, Rockwell Center worth 23 million pesos; & assignment of receivables from several projects of RSLAI. During the effectivity of the credit line agreement, [RSLAI] obtained loans covered by the four (4) promissory notes for the aggregate sum of Php 9,438,744.94 but because [RSLAI was] having a difficult time collecting their receivables from their clients, [RSLAI] failed to pay the promissory notes as they fell due. [RSLAI was] then constrained to request for a restructuring of the credit line to which [IEB] agreed. In the negotiations for the restructure, it was agreed by the parties that [respondent] RSLAI pay first the amount of Php 4,004,046.89 & that all maturing notes be disregarded. [RSLAI] paid the same amount & accordingly, [IEB] cancelled all four promissory notes.
+In that regard, RSLAI executed a new promissory note in the amount of Php 5,434,079.05. According to [RSLAI], when [IEB] approved the loan restructure & required [RSLAI] to execute the new promissory note, it had, by all intents & purposes, entered into a new contract with [RSLAI]. Novation having taken place, [RSLAI's] obligation under the omnibus credit line was already extinguished.
+[Respondents RSLAI and Spouses Labos] averred that the court did not acquire jurisdiction over them because of improper service of summons. [Respondent] RSLAI assail[ed] the service of summons made upon Arlene dela Victoria, one who is not among the officers specifically mentioned under Section 11, Rule 14 of the Rules of Court, upon whom service of summons to a domestic private juridical entity may be served. Likewise, [respondent] Spouses Labos assail[ed] the substituted service upon Dennis Estrimera, of the summons addressed to them.
+[Respondents claimed] that granting there was no novation, [IEB] erroneously enforced the acceleration clause of the contract because [IEB] failed to divulge that there were other securities or collateral given by [respondent] RSLAI that there were more than sufficient to cover the original loan such as 1) JSS of Spouses Labos; & 2) assignment of project receivables/progress billings as enumerated under "Supplemental Conditions" of the Credit Agreement.
+By way of counterclaim, RSLAI & the Spouses Labos pray that they be awarded Php 500,000.00 as moral damages for besmirched reputation, sleepless nights & wounded feelings they suffered by the filing of this case. To set an example to the public & to deter others under similar circumstances, [IEB] should indemnify [respondents] the sum of Php 500,000.00 as exemplary damages. They also claim by way of attorney's fees the amount of Php 100,000.00 & P3,500.00 per court appearance, as they were constrained to secure service of counsel in order to protect their interests & defend themselves against the baseless complaint.
+[Respondent Rockwell] alleged in [its Answer] that on December 20, 1999, RSLAI entered into a Contract to Sell with [Rockwell] over a 247 square meter residential condominium unit designated as 23A Luna Gardens Building for a total contract price of Php 23,635,370.00. On April 10, 2002, Rockwell issued a notice to Rudy S. Labos, president of RSLAI[,] that his account was overdue & that the total outstanding amount of Php 9,706,185.62 had to be settled on or before April 17, 2002. On April 26, 2002, Rockwell issued a notice of cancellation to RSLAI since the account was already 120 days overdue. In a letter dated May 9, 2002, RSLAI requested for additional time within which to settle the outstanding account. In a letter dated June 24, 2002 to Rockwell, Rudy S. Labos signified the intent to restructure the obligation, & proposed that the unpaid amounts be paid over a period of one (1) year beginning July 2002. On August 25, 2004, RSLAI executed a Deed of Assignment in favor of JHL & Sons Realty, Inc. over the subject property whereby RSLAI assigned to JHL its rights under the contract to sell. Consequently, a Deed of Absolute Sale over the subject property was executed in favor of JHL upon full payment of the purchase price recomputed to Php 21,148,670.00.
+On September 1, 2004, Rockwell received a letter dated August 31, 2004 from [IEB] requesting for a copy of the latest statement of account over the condominium unit & to confirm that ownership of the subject property had not been transferred to another party. In his letter dated September 15, 2004, Rudy S. Labos acknowledged RSLAI's obligation & offered to settle the same by assigning its cash receivables from existing projects, as well as its office condominium unit in Petron Towers in Makati City. But RSLAI's offer was allegedly rejected by [IEB]. In a letter dated September 23, 2004, Rockwell advised [IEB] that it shall proceed with the transfer of the unit to JHL since there was no reason to suspect that the assignment of rights over the subject property was tainted with irregularity. On October 1, 2004, Condominium Certificate No. 85534 was issued by the Register of Deeds of Makati City over the subject property in the name of JHL & Sons Realty, Inc. On October 5, 2004, Rockwell received [IEB]'s letter threatening to take legal action for the supposed breach under the Deed of Assignment dated July 2, 2003.
+Rockwell alleged by way of special & affirmative defenses that [IEB] has no cause of action against it because the purported Deed of Assignment does not impose any obligation or liability upon Rockwell, not being a party to the Deed of Assignment. Despite the absence of privity between [IEB] & Rockwell, the former insisted on the liability of Rockwell by virtue of its alleged conformity to the Deed of Assignment. According to Rockwell, its act of signing the Deed of Assignment was merely [a] recognition of RSLAI's right to alienate or encumber the property. Rockwell asserts that Section 2.04 under the Deed of Assignment invoked by [IEB], is a void stipulation inasmuch as it forbids Rockwell as the owner from alienating its mortgaged property. Finally, Rockwell averred that the Deed of Assignment was not registered with the Register of Deed[s] of Makati hence does not bind the property. Thus, the assignment of the subject property as well as the subsequent transfer of the same to JHL & Sons Realty, Inc. were proper & did not violate any vested rights.
+By way of counterclaim, Rockwell prays that it be awarded attorney's fees in the amount of not less than Php 500,000.00 because it was constrained to protect itself from unfounded suit by engaging the service of counsel. It also prays that it be compensated for its besmirched business reputation & standing in an amount not less than Php 1,000,000.00 as & by way of moral damages, & in order to deter others from committing similar acts, by way of example & correction for public good, it also be awarded not less than P1,000,000.00 as exemplary damages.
+[7]
+Ruling of the Regional Trial Court
+In its Decision
+[8]
+ dated December 22, 2009, the RTC ruled in favor of IEB and found RSLAI and the spouses Labos jointly and severally liable for the payment of their loan obligations. However, it held that Rockwell cannot be made liable to pay the amount owed by RSLAI and/or the spouses Labos as it is not a party to the Deed of Assignment
+[9]
+ dated July 2, 2003. The dispositive portion of the Decision states:
+WHEREFORE,
+ premises considered, judgment is hereby rendered in favor of plaintiff International Exchange Bank & against defendants Rudy S. Labos & Associates, Inc. & the Spouses Rodolfo S. Labos & Consuelo R. Labos, who are ordered to pay jointly & severally pay plaintiff (1) the sum of Php 5,729,726.94 representing their total outstanding obligation as of April 5, 2005 plus interest thereon at the rate of 16% per annum from April 12, 2005 up to finality of this judgment & 12% per annum from finality of judgment until fully paid; & (2) the amount equivalent to 10% of the total outstanding obligation as of April 5, 2005 due as collection & attorney's fees, plus cost of suit.
+Considering that the liability of defendant Rockwell Land Corporation was not duly established by preponderance of evidence, the complaint as against said defendant is hereby 
+dismissed.
+SO ORDERED.
+[10]
+Dissatisfied, IEB filed a partial appeal
+[11]
+ before the CA to contest the trial court's absolution of Rockwell from any liability.
+Ruling of the Court of Appeals
+In its Decision
+[12]
+ dated November 23, 2011, the CA granted IEB's appeal. It found that Rockwell is jointly and severally liable with RSLAI and the spouses Labos to IEB. Rockwell became bound to the Deed of Assignment when it signed the same, as this meant that Rockwell "expressly agreed to subrogate [IEB] in the rights of the purchaser, which rights formerly belonged to RSLAl."
+[13]
+ Further, novation took place and that a new contract to sell impliedly emerged from the Deed of Assignment that was executed and signed by all three parties.
+[14]
+ Consequently, this allowed IEB to demand enforcement of its rights under the contract from Rockwell.
+[15]
+ Moreover, Rockwell's conformity to the second deed of assignment and its express participation and facilitation of the transfer of the property in the name of JHL & Sons Realty, Inc. "violated [IEB]'s rights and Rockwell's obligations under the original contract to sell."
+[16]
+ The CA thus held:
+WHEREFORE,
+ the foregoing premises considered, the appeal is 
+GRANTED
+ and the appealed Decision dated December 22, 2009 of the RTC of Makati City, Branch 62, in Civil Case No. 05-313, is 
+MODIFIED 
+to hold appellee Rockwell Land Corporation 
+JOINTLY AND SEVERALLY LIABLE
+ with the other defendan
+appellees for the awards adjudged therein.
+SO ORDERED.
+[17]
+Aggrieved, Rockwell filed its Motion for Reconsideration
+[18]
+ dated December 19, 2011.
+In its Resolution
+[19]
+ dated December 20, 2012, the appellate court found Rockwell's motion to be impressed with merit.
+[20]
+ Ultimately, it ruled that Rockwell cannot be made liable to IEB since it did not assume any obligation under the Deed of Assignment, which was, for all intents and purposes, only between RSLAI and IEB.
+[21]
+ It also ruled that when Rockwell, through its President, Nestor J. Padilla (Padilla), signed the Deed of Assignment, it was simply to signify its 
+conforme
+ or lack of objection to the assignment RSLAI executed in favor of IEB, which cannot be construed as tantamount to an assumption of liability for RSLAI's loans.
+[22]
+ Moreover, the CA overturned its previous finding that novation took place.
+[23]
+ The dispositive portion of the Resolution reads:
+WHEREFORE,
+ premises considered, Rockwell's motion for reconsideration is 
+GRANTED
+ and the Decision dated November 23, 2011 is, accordingly, 
+REVERSED
+ and 
+SET ASIDE.
+ In lieu thereof, another is entered 
+AFFIRMING 
+in toto
+ the RTC's December 22, 2009 [Decision] in Civil Case No. 05-313.
+SO ORDERED.
+[24]
+IEB then filed its Motion for Reconsideration dated January 20, 2013,
+[25]
+ but the same was denied by the CA through its Resolution
+[26]
+ dated March 15, 2013 for lack of merit.
+Hence, the present petition, where IEB claims that the CA gravely erred when it abandoned its original ruling that: (a) Rockwell is bound under its obligations both under the Contract to Sell dated December 20, 1999 and its adjunct, the Deed of Assignment dated July 2, 2003; (b) there was a novation of the Contract to Sell between Rockwell and RSLAI; (c) IEB is entitled to seek damages from Rockwell, RSLAI, and the spouses Labos; and (d) the obligation is joint and several with respect to Rockwell.
+[27]
+In essence, IEB would like to convince this Court that Rockwell ought to be held liable for actual damages when it gave its consent, or allowed RSLAI to transfer or sell the subject condominium property to JHL Sons and Realty, Inc., even though it had already previously assigned the same to IEB. It seeks to hold Rockwell jointly and severally liable with RSLAI and the spouses Labos for the outstanding loan of RSLAI in the amount of P5,729,726.94.
+[28]
+Issue
+The main issue is whether or not Rockwell should be held liable to IEB.
+Our Ruling
+The petition is unmeritorious. The Court finds that the lower courts correctly absolved Rockwell from any liability.
+The basic principle of relativity of contracts is that contracts can only bind parties who entered into it, and cannot favor or prejudice a third person, even if he or she is aware of such contract and has acted with knowledge thereof. Where there is no privity of contract, there is likewise no obligation or liability to speak about.
+[29]
+ This principle is embodied in Art. 1311 of the Civil Code, which states that "contracts take effect only between the parties, their assigns and heirs, except in case where the rights and obligations arising from the contract are not transmissible by their nature, or by stipulation, or by provision of law."
+In the case at bar, IEB would like to convince the Court that Rockwell became bound to the Deed of Assignment dated July 2, 2003 when Padilla signed the 
+conforme
+ portion of the said contract.
+[30]
+However, a plain perusal of the subject deed shows that there was no intention to include Rockwell as a party thereto. The Deed of Assignment provides:
+The ASSIGNMENT made this day of July 02 2003 at Makati City by:
+RUDY S. LABOS & ASSOCIATES INC., a corporation duly organized and existing under the laws of the Philippines with office address at Suite 111 Casman Building, 372 Quezon Avenue, Quezon City, hereafter referred to as the "ASSIGNOR";
+- in favor of -
+INTERNATIONAL EXCHANGE BANK, a commercial banking corporation, duly organized and existing under and by virtue of Philippine laws, with principal office at iBank Exchange Building, 142 Amorsolo Street, Salcedo Village, Makati City, 1227, Philippines, and hereinafter referred to as "BANK".
+[31]
+From the foregoing, it is clear that there were only two parties involved therein, namely, RSLAI and IEB. To include Rockwell as a party in the Deed of Assignment will force it to enter into a contract that it did not intend to join. If Rockwell was meant to be a party to the Deed of Assignment, the same could have easily declared and specified it to be so. In 
+Norton Resources v. All Asia Bank
+,
+[32]
+ this Court ruled:
+The agreement or contract between the parties is the formal expression of the parties' rights, duties and obligations. It is the best evidence of the intention of the parties. Thus, when the terms of an agreement have been reduced to writing, it is considered as containing all the terms agreed upon and there can be no evidence of such terms other than the contents of the written agreement between the parties and their successors in interest. Time and again, we have stressed the rule that a contract is the law between the parties, and courts have no choice but to enforce such contract so long as it is not contrary to law, morals, good customs or public policy. Otherwise, courts would be interfering with the freedom of contract of the parties. Simply put, courts cannot stipulate for the parties or amend the latter's agreement, for to do so would be to alter the real intention of the contracting parties when the contrary function of courts is to give force and effect to the intention of the parties.
+[33]
+Moreover, in 
+Gaw v. Court of Appeals,
+[34]
+ this Court held:
+[A] court, even the Supreme Court, has no right to make new contracts for the parties or ignore those already made by them, simply to avoid seeming hardships. Neither abstract justice nor the rule of liberal construction justifies the creation of a contract for the parties which they did not make themselves or the imposition upon one party to a contract of an obligation not assumed.
+[35]
+Records reveal that Rockwell signed the 
+conforme
+ portion of the Deed of Assignment because under its Contract to Sell with RSLAI, it had an obligation, as the developer, to give its express consent before the latter can assign the subject property to another. Sec. 9, paragraph (e) of the Contract to Sell states: "The purchaser cannot transfer, assign, or cede his [or her] rights & interest over the property without the express written consent of the developer."
+[36]
+ In this regard, the Court finds that Padilla's signature was not meant to make Rockwell a party to the agreement, but it was merely to show that it was giving its consent to the assignment, as required by the Contract to Sell. The Court agrees with the CA's conclusion that such conformity cannot be construed to mean that Rockwell had assumed any liability for RSLAI's loans under the Deed of Assignment, as such matter was solely between RSLAI and IEB.
+Even if this Court were to accept IEB's argument that Rockwell became a party to the Deed of Assignment, a simple assessment thereof readily shows that it did not impose any obligation on Rockwell in which it can be held liable to IEB for. Section 2.04 of the Deed of Assignment
+[37]
+ states:
+SECTION 2.04. For as long as any obligation of the ASSIGNOR to the BANK remains unpaid or the loan is subsisting, the ASSIGNOR warrants and undertakes that it shall not perform or omit any act which will impair, reduce, damage, dilute or cancel, its rights, titles, interest, and participation in the Assigned Property under this AGREEMENT.
+Neither shall the ASSIGNOR assign, sell, transfer or otherwise dispose of, or encumber, or create a lien or liability in the Assigned Property in favor of any third party without the written consent of the BANK.
+[38]
+Given this, it can be gleaned that it was RSLAI, as the assignor, who warranted and undertook not to assign, sell, or transfer the subject property in favor of any third party without the written consent of IEB. Nowhere did it provide that Rockwell had such similar undertaking or that it had the same obligation to obtain IEB's consent. Thus, We find that Rockwell was not privy to the Deed of the Assignment between RSLAI and IEB. Consequently, the same cannot be enforced against Rockwell, and the latter's act of incorporating its signature in the 
+conforme
+ portion cannot be used as a ground for liability in favor of IEB.
+On this score, IEB contends that Sec. 2.04 of the Deed of Assignment between RSLAI and IEB became part and parcel of the Contract to Sell between Rockwell and RSLAI because the former amended or supplemented the latter.
+[39]
+ IEB anchors such contention on Sec. 9(f) of the Contract to Sell, which provides that: "This Contract shall not be considered as changed, modified, or altered by acts of tolerance on the part of the developer unless such changes, modifications or alterations are in writing and signed by both parties to this Contract."
+[40]
+ IEB posits that since the Deed of Assignment was in writing and signed by RSLAI and Rockwell, the provisions of the Deed, especially Section 2.04, modified and became part of the Contract to Sell; hence, Rockwell became bound or obligated to observe the same.
+[41]
+Such argument is bereft of any merit.
+The Deed of Assignment did not amend or alter the Contract to Sell. There is nothing in the records that would indicate that such was the intention of the parties when they executed the Deed. It bears to emphasize that courts cannot supply material stipulations, read into contract words it does not contain or, for that matter, read into any other intention that would contradict its plain import.
+[42]
+ In 
+The Commoner Lending Corp. v. Spouses Villanueva,
+[43]
+ this Court explained:
+It is settled that the literal meaning shall govern when the terms of a contract are clear and leave no doubt as to the intention of the parties. The courts have no authority to alter the agreement or to make a new contract for the parties. Their duty is confined to the interpretation of the terms and conditions which the parties have made for themselves without regard to their wisdom or folly. The courts cannot supply material stipulations or read into the contract words which it does not contain. It is only when the contract is vague and ambiguous that the courts are permitted to interpret the agreement and determine the intention of the parties.
+[44]
+Here, the Deed of Assignment between RSLAI and IEB is very clear and leaves no doubt as to its purpose, 
+i.e.,
+ to secure the credit line that IEB granted to RSLAI, rather than to change or supplement the Contract to Sell. This is obvious from the deed itself, to wit:
+WHEREAS,
+ the 
+ASSIGNOR
+ applied and was granted by the 
+BANK
+ a credit line in the amount of Php 10,000,000.00 (Ten Million Pesos) loan, hereinafter referred to as the Credit Line;
+WHEREAS,
+ as collateral of the Credit Line, the 
+ASSIGNOR
+ offered to mortgage to the 
+BANK
+ a condominium unit identified and situated at 
+Unit 23A Luna Gardens, Rockwell Center, Makati City (with two parking slots)
+ as evidenced by a Contract to Sell No. ______ dated Dec. 20, 1999 between the 
+ASSIGNOR,
+ as buyer, and 
+ROCKWELL LAND CORPORATION
+ (the "Developer"), as seller, a photocopy of which is hereto attached and made an integral part hereof as ANNEX "1 ," hereinafter referred to as the "Purchased Property";
+WHEREAS,
+ title to the Purchased Property is yet to be issued by the appropriate Register of Deeds in the name of the 
+ASSIGNOR,
+ and considering that such issuance will take sometime, the 
+BANK
+ requested the 
+BANK
+ to execute this Deed of Assignment as and by way of interim collateral.
+[45]
+x x x x
+Section 2.01. This 
+ASSIGNMENT
+ is executed as an interim security for the repayment of any loan granted and those that may be granted in the future by the 
+BANK
+ to the 
+ASSIGNOR
+ and for compliance with the terms and conditions of the relevant credit and/or loan documents thereof, including interest, penalties and charges, as well as renewal, extension or amendments thereon, and any other document or instrument related thereto, as they appear in the books and records of account of the 
+BANK,
+ which shall, except for manifest error, be deemed binding and conclusive upon the 
+ASSIGNOR
+ (the "Secured Obligations").
+[46]
+In connection with this, the Court also finds that no novation ever took place in the present case. The appellate court correctly retracted its previous ruling that a new contract to sell was formed between Rockwell and IEB, such that IEB stepped into the shoes of RSLAI as the new buyer of the condominium unit.
+Novation is a mode of extinguishing an obligation by changing its objects or principal conditions of the obligation, by substituting a new debtor in place of the old one, or by subrogating a third person to the rights of the creditor. Novation is never presumed. It must be "proven as a fact either by express stipulation of the parties or by implication derived from an irreconcilable incompatibility between old and new obligations or contracts."
+[47]
+ The test to determine the presence of incompatibility is whether or not the two obligations can stand together, each one having its independent existence. If they cannot, they are incompatible and the latter obligation novates the first.
+[48]
+In the case at bar, there was no express agreement by the parties that they were going to do away with the original Contract to Sell in favor of a new one with IEB as the new purchaser. There was also no irreconcilable incompatibility between the Contract to Sell and the Deed of Assignment. A plain reading of these two shows that they are separate and distinct contracts which involve different parties and obligations. The Contract to Sell between Rockwell and RSLAI involves the sale of a condominium unit upon RSLAI's full payment of the purchase price. Meanwhile, the Deed of Assignment between RSLAI and IEB is a form of"interim security" for the payment of RSLAI's loan with IEB. As such, the two contracts can stand and exist together.
+It is also worthy to note at this juncture that the Deed of Assignment is actually a prelude to the creation of a Deed of Real Mortgage in favor of IEB once the title over the condominium unit is transferred to RSLAI. This is evident in Sec. 2.02 of the Deed of Assignment, 
+viz.
+:
+Section 2.02. The 
+ASSIGNOR
+ hereby warrants and undertakes that as soon as title to the Assigned Property is issued in its name, it shall immediately execute the necessary Deed of Real Mortgage in favor of the 
+BANK
+. Likewise, it undertakes to deliver or cause the delivery of the covering title to the Assigned Property in favor of the 
+BANK
+. In such event, the Deed of Assignment shall become null and void.
+[49]
+From the foregoing, it can be said that the Deed of Assignment between RSLAI and IEB is, in essence, a mortgage to secure RSLAI's loan obligations.
+[50]
+ If the parties had truly intended to make IEB the new purchaser of the subject condominium unit, then the inclusion of Sec. 2.02 in the Deed of Assignment would not have been necessary.
+[51]
+ From the foregoing, the Court finds IEB's argument that "the privity of contract springs from the fact that IEB is an assignee of RSLAI whose original contract with Rockwell has now been changed/modified to allow IEB to step into the shoes of RSLAI as buyer under the Contract to Sell"
+[52]
+ to be untenable.
+IEB further contends that Rockwell breached its fiduciary obligation in favor of purchasers and their assignees, 
+i.e.,
+ RSLAI and IEB, and its duty to observe honesty and good faith in its dealings.
+[53]
+ IEB claims that Rockwell acted in bad faith when it gave its consent twice â first, to the Deed of Assignment between RSLAI and IEB, and second, to the Deed of Assignment between RSLAI and JHL Sons and Realty, Inc, which then resulted in two patently conflicting and irreconcilable Deeds of Assignment over the same property.
+[54]
+ Additionally, IEB posits that such act of Rockwell was tantamount to a case of double sale or "double dealing,"
+[55]
+ and was the immediate and proximate cause of IEB's loss of significant collateral over RSLAI's loans.
+[56]
+ IEB thus postulates that Rockwell violated the standards of conduct espoused under Articles 19 to 21 of the Civil Code.
+[57]
+ Moreover, IEB asserts that Rockwell committed a contractual breach against the rights of IEB, as assignee of the Contract to Sell, entitling the latter for actual damages in the amount of P5,729,726.94 (the extent of RSLAI's outstanding loan obligations), in accordance with Articles 1170-1173 in relation to Article 2201 of the Civil Code.
+[58]
+This Court is not persuaded.
+To reiterate, the Deed of Assignment between RSLAI and IEB actually partook the nature of a mortgage, where it was stipulated that in case of default on the part of RSLAI, IEB would have the right to sell the subject condominium unit in accordance with the provisions of Act No. 3135,
+[59]
+ as amended, and apply the same in payment of any amount of the Secured Obligations due and unpaid.
+[60]
+ "An assignment to guarantee an obligation is in effect a mortgage and not an absolute conveyance of title which confers ownership on the assignee."
+[61]
+ Thus, under the foregoing circumstances, the Court finds that there was no double sale, and that there was only one sale or transfer, which was to JHL Sons and Realty, Inc. Moreover, when Rockwell gave its consent to allow RSLAI to assign its rights to JHL Sons & Realty, Inc., it was simply recognizing RSLAI's right to assign, transfer, or cede its rights over the subject property under the Contract to Sell.
+Consequently, there is no basis to hold Rockwell liable for damages. This Court has held that for one to be held liable under Article 19 of the Civil Code
+[62]
+ or the principle of abuse of rights, three elements must be found to exist, namely: (1) the existence of a legal right or duty, (2) an exercise of such right or discharge of such duty in bad faith, and (3) such exercise of right or discharge of duty was made with the sole intent of prejudicing or injuring another.
+[63]
+ This Court has also ruled that the crucial element to be proved for there to be a violation of Article 19 is the element of bad faith.
+[64]
+ "The person claiming bad faith must prove its existence by clear and convincing evidence for the law always presumes good faith. Bad faith does not simply connote bad judgment or negligence. It imports a dishonest purpose or some moral obliquity and conscious doing of a wrong, a breach of known duty through some motive or interest or ill will that partakes of the nature of fraud. It is, therefore, a question of intention, which can be inferred from one's conduct and/or contemporaneous statements."
+[65]
+Here, the Court is not convinced by IEB's bare assertion that Rockwell had an ulterior motive,
+[66]
+ or that Rockwell acted in such a manner as to defraud IEB. As aptly held by the CA: "Without adequate proof of bad faith on the part of Rockwell, however, said provision cannot be a source of liability for Rockwell, much less one that is solidary in nature."
+[67]
+ It also then follows that Rockwell cannot be held liable for damages arising from contractual breach under Articles 1170 to 1173, in relation to Article 2201, of the Civil Code.
+[68]
+Finally, this Court likewise finds no basis to hold Rockwell jointly and solidarily liable with RSLAI and the spouses Labos. It is a well-settled doctrine in this jurisdiction that solidary liability is not to be inferred lightly, and must be so clearly expressed. Article 1207 of the Civil Code provides:
+Article 1207. The concurrence of two or more creditors or of two or more debtors in one and the same obligation does not imply that each one of the former has a right to demand, or that each one of the latter is bound to render, entire compliance with the prestation. 
+There is a solidary liability only when the obligation expressly so states, or when the law or the nature of the obligation requires solidarity.
+ (Emphasis supplied)
+Here, none of the aforementioned circumstances are present. Rockwell's solidary liability is neither expressly stated nor required by law or the nature of the obligation. Thus, the CA correctly found that Rockwell cannot be held jointly and severally liable with RSLAI and the spouses Labos for the obligation sued upon.
+[69]
+WHEREFORE,
+ We 
+DENY
+ the petition for lack of merit, and accordingly 
+AFFIRM
+ the challenged Resolution of the Court of Appeals dated December 20, 2012 in CA G.R. CV No. 95810, absolving Rockwell Land Corporation of any liability to herein petitioner International Exchange Bank. Correspondingly, the Decision dated December 22, 2009 of the Regional Trial Court of Makati City, Branch 62, in Civil Case No. 05-313, is hereby 
+AFFIRMED 
+in toto.
+SO ORDERED.
+Gesmundo, C.J. (Chairperson), Inting,
+*
+ Rosario,
+ and 
+Marquez, JJ.,
+ concur.
+*
+ Designated additional Member per February 28, 2022 Raffle vice J. Zalameda who recused due to prior action in the Court of Appeals.
+[1] 
+Rollo,
+ pp. 13-35.
+[2] 
+Id
+. at 40-47. Penned by Associate Justice Rebecca De Guia-Salvador and concurred in by Associate Justices Normandie B. Pizarro and Rodil V. Zalameda (now a Member of the Court).
+[3] 
+Id
+. at 53-67.
+[4] 
+Id
+. at 213-220. Penned by Judge Selma Palacio Alaras.
+[5] 
+Id
+. at 58.
+[6] 
+Id
+. at 213.
+[7] 
+Id
+. at 215-217.
+[8] 
+Id
+. at 213-220.
+[9] 
+Id
+. at 218-220.
+[10] 
+Id
+. at 220.
+[11] 
+Id
+. at 21.
+[12] 
+Id
+. at 53-67.
+[13] 
+Id
+. at 64.
+[14] 
+Id
+.
+[15] 
+Id
+. at 65.
+[16] 
+Id
+.
+[17] 
+Id
+. at 66-67.
+[18] 
+Id
+. at 68-93.
+[19] 
+Id
+. at 40-47.
+[20] 
+Id
+. at 41.
+[21] 
+Id
+. at 44.
+[22] 
+Id
+. at 42.
+[23] 
+Id
+.
+[24] 
+Id
+. at 46.
+[25] 
+Id
+. at 94-111.
+[26] 
+Id
+. at 49.
+[27] 
+Id
+. at 21-22.
+[28] 
+Id
+. at 34.
+[29] 
+Philippine National Bank v. Dee
+, 727 Phil. 473, 480 (2014).
+[30] 
+Rollo,
+ pp. 31 and 132.
+[31] 
+Id
+. at 128.
+[32] 
+620 Phil. 381 (2009).
+[33] 
+Id
+. at 391-392.
+[34] 
+521 Phil. 549 (2006).
+[35] 
+Id
+. at 558, citing 
+Insular life v. Court of Appeals
+, 472 Phil. 11-30 (2004).
+[36] 
+Rollo,
+ p. 138.
+[37] 
+Id
+. at 130.
+[38] 
+Id
+.
+[39] 
+Id
+. at 28.
+[40] 
+Id
+. at 28 and 138.
+[41] 
+Id
+. at 28-29.
+[42] 
+Spouses Cabahug v. National Power Corp.
+, 702 Phil. 597, 604-605 (2013).
+[43] 
+G.R. No. 235260
+, August 27, 2020 (Resolution).
+[44] 
+Id
+.
+[45] 
+Rollo,
+ p. 128.
+[46] 
+Id. at 129.
+[47] 
+Spouses Angeles v. Traders Royal Bank, G.R. No. 235604
+, May 3, 2021.
+[48] 
+CCC Insurance Corp. v. Kawasaki Steel Corp.
+, 761 Phil. 1-32 (2015).
+[49] 
+Rollo,
+ p. 129.
+[50] 
+See 
+Y
+ulim International Co., Ltd. v. International Exchange Bank
+, 754 Phil. 279, 291 (2015).
+[51] 
+Rollo,
+ p. 237.
+[52] 
+Id
+. at 30-31.
+[53] 
+Id
+. at 26.
+[54] 
+Id
+.
+[55] 
+Id
+. at 29.
+[56] 
+Id
+. at 32.
+[57] 
+Id
+. at 26.
+[58] 
+Id
+. at 32-34.
+[59] 
+Entitled "AN ACT TO REGULATE THE SALE OF PROPERTY UNDER SPECIAL POWERS INSERTED IN OR ANNEXED TO REAL-ESTATE MORTGAGES." Approved: March 6, 1924.
+[60] 
+Id
+. at 130.
+[61] 
+Manila Banking Corp. v. Teodoro Jr.
+, 251 Phil. 98-107 (1989).
+[62] 
+Article 19. Every person must, in the exercise of his rights and in the performance of his duties, act with justice, give everyone his due, and observe honesty and good faith.
+[63] 
+Tocoms Philippines, Inc. v. Philips Electronics, G.R. No. 214046
+, February 5, 2020.
+[64] 
+Id
+.
+[65] 
+Ona v. Northstar International Travel, Inc.,
+ G.R. No. 209581
+, January 15, 2020 (Notice).
+[66] 
+Rollo,
+ p. 29.
+[67] 
+Id
+. at 46.
+[68] 
+ART. 1170. Those who in the performance of their obligations are guilty of fraud, negligence, or delay, and those who in any manner contravene the tenor thereof, are liable for damages.
+Article 1171. Responsibility arising from fraud is demandable in all obligations. Any waiver of an action for future fraud is void.
+Article 1172. Responsibility arising from negligence in the performance of every kind of obligation is also demandable, but such liability may be regulated by the courts, according to the circumstances.
+Article 1173. The fault or negligence of the obligor consists in the omission of that diligence which is required by the nature of the obligation and corresponds with the circumstances of the persons, of the time and of the place. When negligence shows bad faith, the provisions of articles 1171 and 2201, paragraph 2, shall apply.
+If the law or contract does not state the diligence which is to be observed in the performance, that which is expected of a good father of a family shall be required.
+Art. 2201. In contracts and quasi-contracts, the damages for which the obligor who acted in good faith is liable shall be those that are the natural and probable consequences of the breach of the obligation, and which the parties have foreseen or could have reasonably foreseen at the time the obligation was constituted.
+In case of fraud, bad faith, malice or wanton attitude, the obligor shall be responsible for all damages which may be reasonably attributed to the non-performance of the obligation.
+[69] 
+Rollo,
+ p. 46.
+â¢ Amended as of March 4, 2024.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

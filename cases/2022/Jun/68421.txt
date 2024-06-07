@@ -1,0 +1,938 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 250013, June 15, 2022 ]
+
+
+ARNALDO M. ESPINAS, PETITIONER, 
+VS.
+ OFFICE OF THE OMBUDSMAN, RESPONDENT.
+D E C I S I O N
+
+
+
+
+LOPEZ, J., J.:
+
+
+This Court resolves the Petition for Review on
+ Certiorari
+[1]
+ assailing the Decision
+[2]
+ dated June 7, 2019 and the Resolution
+[3]
+ dated October 22, 2019 of the Court of Appeals (
+CA
+) in CA-G.R. SP No. 145982, which denied the petition for review filed by Arnaldo M. Espinas (
+Espinas
+) and affirmed the Joint Resolution
+[4]
+ dated March 16, 2015 of the Ombudsman in OMB-C-C-13-0212, finding Espinas guilty of grave misconduct and conduct prejudicial to the best interest of the service.
+This case finds its roots in the acquisition of Express Savings Bank, Inc. (
+ESBI
+), a local thrift bank, located in Cabuyao, Laguna, by the Local Water Utilities Administration (
+LWUA
+).
+The LWUA is a government-owned and controlled corporation attached to the Office of the President that was created under Presidential Decree No. 198
+[5]
+ (
+P.D. No. 198
+). It carries the mandate to (1) prescribe minimum standards and regulations in order to assure acceptable standards of construction materials and supplies, maintenance, operation, personnel, training, accounting and fiscal practices for local water utilities; (2) furnish technical assistance and personnel training programs for local water utilities; (3) monitor and evaluate local water standards; and (4) effect system integration, joint investment and operation, district annexation and de-annexation whenever economically warranted.
+[6]
+ Pursuant to Section 51 of P.D. No. 198, the LWUA exercises its powers and performs its functions through a Board of Trustees (
+LWUA Board
+), composed of one (1) chairperson and four (4) other members.
+[7]
+On September 23, 2008, the LWUA Board, composed of Prospero Pichay, Jr. (
+Pichay
+) as Chairperson, Eduardo Bangayan (
+Bangayan
+), Aurelio Puentevella (
+Puentevella
+), Enrique Montilla III (
+Montilla)
+ as members, and Espinas as Corporate Legal Counsel and Board Secretary,
+[8]
+ issued Resolution No. 145
+[9]
+ approving the establishment of a water development bank, which shall be a wholly-owned subsidiary of the LWUA, and "shall cater primarily to the financing needs of all water districts, water service providers, and other government agencies."
+Through a letter dated October 13, 2008, Pichay informed the Office of the Government Corporate Counsel (
+OGCC
+) of its intention to establish a water development bank and requested the latter to assess the feasibility of structuring the same as a wholly-owned subsidiary of the LWUA.
+[10]
+On October 16, 2008, the OGCC, thru then Government Corporate Counsel Alberto C. Agra, issued Opinion No. 242
+[11]
+ advising Pichay that it was well within the corporate powers of the LWUA to create a subsidiary to perform banking functions. The OGCC added that should the LWUA pursue such undertaking, it must coordinate with the Bangko Sentral ng Pilipinas (
+BSP
+) regarding certain requirements pertaining to government banks. The OGCC also reminded the LWUA that the creation of a subsidiary is subject to applicable banking laws, rules, and regulations, as well as to the review of the Department of Finance (
+DOF
+), and the approval of the Office of the President (
+OP
+).
+In a letter
+[12]
+ dated October 20 2008, Pichay informed then President Gloria Macapagal-Arroyo of the LWUA's plan to establish a water development bank and asked whether she could give her support for its creation.
+On November 28, 2008, the DOF requested from the LWUA the submission of certain documents and information in order to evaluate the possibility of creating the proposed water development bank.
+[13]
+On January 22, 2009, the BSP, through then Governor Nestor Espenilla, wrote to the OP,
+[14]
+ stating that as part of its efforts to rationalize and consolidate the banking system, it enforced a moratorium on the establishment of new banks. Thus, in lieu of creating another entity, it advised the LWUA to acquire an existing financing company, which must, however, consistently comply with the corporate governance standards required by the BSP.
+On March 24, 2009, the LWUA Board passed Resolution No. 56 approving the acquisition of a thrift bank. Shortly thereafter, it passed Resolution No. 64, authorizing the LWUA to engage the services of Jose U. Pontiveros and Associates (
+JPA
+), a private accounting firm, to conduct due diligence on ESBI.
+[15]
+On April 17, 2009, the BSP wrote a letter to the LWUA, addressed to Pichay, informing it of the requirements for the acquisition of an existing bank pursuant to Section X126.2 of the Manual of Regulations of Banks (
+MORB
+).
+[16]
+ More specifically, the prior approval by the Monetary Board was indispensable for the following transactions, to wit:
+x x x (1) any sale or transfer or series of sales or transfers which will result in ownership or control of more than twenty percent (20%) of the voting stock of a bank by any person, whether natural or juridical, or which will enable such person to elect, or be elected as a director of such bank, and (2) any sale or transfer or series of sales or transfers which will effect a change in the majority ownership or control of the voting stock of the bank from one group of persons to another group.
+[17]
+Considering that several ESBI stockholders expressed their interest to dispose their 445,377 outstanding common shares amounting to sixty percent 60% of ESBI's total equity, the LWUA was prompted to conduct due diligence on the bank for its eventual acquisition.
+The Audit Report
+[18]
+ by JPA revealed that ESBI was insolvent, with its total liabilities exceeding its total assets by P34,386,606.00.
+[19]
+ Moreover, its operations have resulted in losses for the last five years, with its gross loans amounting to P71,031,221.00.
+[20]
+Nevertheless, on May 19, 2009, the LWUA issued Resolution No. 120 expressly authorizing the acquisition of 60% of the outstanding shares of ESBI, and directing Daniel Landingin (
+Landingin
+), as Acting Administrator, and Wilfredo Feleo (
+Feleo
+), as Acting Deputy Administrator for Investment and Financial Services, to negotiate the reduction of the shares' offered price.
+[21]
+On May 26, 2009, the LWUA Board passed Resolution No. 129-A approving the acquisition of 445,377 shares of stock, or 60% of the total outstanding shares, of ESBI for a total amount of P80,000,000.00.
+[22]
+On June 3, 2009, the LWUA executed a Deed of Sale for the purchase of the 445,377 shares of stock of ESBI. The Deed of Sale stipulated that aside from paying the total purchase price of the stocks of P80,003,070.51, the LWUA shall also assume the (a) unpaid subscription balance of two shareholders in the amount of P517,425.00; and (b) loan obligations to ESBI in the amount of P20,842,807.34.
+[23]
+ Pursuant to the sale, several Land Bank of the Philippines (
+LBP
+) manager's checks in various amounts were issued from June to October 2009, all drawn from the LWUA funds and paid to the sellers of the ESBI shares.
+[24]
+On June 4, 2009, the DOF, in a letter addressed to Pichay in behalf of the LWUA, reiterated its instructions in its Letter dated November 28, 2008 for the submission of documents needed to evaluate the proposal of creating or acquiring a water development bank. The DOF reminded the LWUA that "[the latter] will still need DOF approval for the creation or acquisition of a bank pursuant to Section 17 of Administrative Order No. 59, s. 1988."
+[25]
+On June 17, 2009, ESBI requested for BSP's approval of the sale and the transfer of the shares of stock. It also informed the BSP that the management of ESBI would officially be turned over to the LWUA on June 25, 2009 pursuant to Resolution No. 129-B issued by the LWUA Board.
+[26]
+Subsequently, even without the approval of both the DOF and the Monetary Board of the BSP, the LWUA took over the management of ESBI.
+[27]
+ The General Information Sheet (
+GIS
+) of ESBI dated August 11, 2009 showed that a majority of its board of directors were almost entirely made up of officers from the LWUA,
+[28]
+ more particularly, Pichay as Chairperson and Director, Montilla, as Vice-Chairperson and Director, Feleo, as Treasurer and Director, and Espinas, as Assistant Corporate Secretary.
+On August 4, 2009, the LWUA Board passed Resolution No. 303 unanimously approving the designation of ESBI as a depository bank of the LWUA. Pursuant thereto, ESBI accepted a P300,000,000.00 deposit from the LWUA, withdrawn from the latter's LBP account.
+[29]
+As part of the take-over, the new board of directors of ESBI amended its Articles of Incorporation (
+AOI
+) to increase its authorized capital stock from P500,000,000.00 to P2,000,000,000.00.
+[30]
+ It likewise approved certain loan applications and released loan proceeds to ESBI employees, water districts, and even to private individuals.
+[31]
+On September 13, 2009, around three months since the take-over of the LWUA, the OGCC, in a letter to Pichay, reiterated that the creation of a bank, although within the corporate powers of the LWUA, was still subject to review by the DOF and approval by the OP.
+[32]
+ This prompted Pichay to write to the OP to formally request the approval of the acquisition of ESBI shares by the LWUA.
+[33]
+On September 24, 2009, Feleo, as then the Acting President of ESBI, also wrote to the DOF, requesting for official approval of the acquisition of the shares of ESBI by the LWUA.
+[34]
+In a Memorandum dated October 14, 2009, then Executive Secretary Eduardo Ermita, in behalf of the OP, interposed no objections to the acquisition of ESBI shares by the LWUA.
+[35]
+ On the other hand, in a letter addressed to BSP in December 2009, the DOF, through then Undersecretary Jeremias Paul, expressed its formal objection to the proposed acquisition of a controlling interest in ESBI by the LWUA.
+[36]
+ The DOF explained that the acquisition by the LWUA of a majority stake in a thrift bank is inconsistent with the ongoing rationalization and streamlining of the government corporate sector. Moreover, such majority ownership in a thrift bank would indirectly provide the LWUA the license to engage in other forms of financing that could diminish its focus on the financing of water facilities.
+[37]
+After a thorough examination of ESBI's records, the Integrated Supervision Department II of the BSP (
+BSP ISD II
+) submitted a Memorandum dated April 23, 2010 to the Monetary Board, finding ESBI as a high-risk bank and recommending that: (1) the LWUA's request for approval of its acquisition of 445,377 shares in ESBI be
+ denied;
+ and (2) a cease-and-desist order be
+ issued,
+ and (3) other sanctions be imposed on ESBI for engaging in the unsafe and unsound banking practice of accepting government deposits without prior authorization by the Monetary Board.
+[38]
+On April 29, 2010, the Monetary Board approved the recommendations of the BSP ISD II in its Resolution No. 605. It (1) issued a Cease-and-Desist Order against ESBI, barring it from further accepting government deposits without authorization from the MB; and (2) required ESBI to immediately dispose/return the deposits generated from various government entities until the required authorization is secured, and submit a corresponding report within 30 days from notice.
+[39]
+ It also directed ESBI to submit a written explanation, within 15 days from notice, on why it should not be administratively sanctioned for its repeated violations of existing banking rules and regulations.
+[40]
+On June 6, 2011, the new LWUA Board, now composed of Ephyro Luis B. Amatong, Antonieta F. Ibe, Carlos Primo C. David, Eduardo C. Santos, and Landingin, issued Resolution No. 74, directing Landingin, as the Acting Deputy Administrator for Investment and Financial Services, to "initiate the immediate transfer of all LWUA deposits/investments with all non-Â­government banks, including [ESBI], to all authorized government depository banks."
+[41]
+On June 7, 2011, Landingin, pursuant to Resolution No. 74, requested ESBI to return LWUA's previous deposit in the amount of P400,000,000.00 by way of a manager's check.
+[42]
+On June 13, 2011, Landingin also requested the ESBI to return the second deposit made by the LWUA amounting to P300,000,000.00.
+[43]
+ On the same day, ESBI, through Feleo, as Acting President, informed the LWUA that the return of such deposits, in the aggregate amount of P700,000,000.00, is "subject of deliberation of the new Board."
+[44]
+On July 7, 2011, the Monetary Board issued Resolution No. 987.B, placing ESBI under receivership due to: "(1) its inability to pay its liabilities as these became due in the ordinary course of business; (2) its inability to continue operating without involving probable losses to its depositors and creditors; and (3) the failure of its Board and management to restore the bank's financial health and viability despite being given considerable time within which to address its financial problems."
+[45]
+In a Complaint-Affidavit
+[46]
+ dated July 29, 2013, the Field Investigation Office (
+FIO
+) of the Ombudsman filed several criminal and administrative charges against certain officers of the LWUA and ESBI docketed as OMB-C-C-10-0402-I, OMB-C-C-12-0031-A, OMB-C-C-13-0212, OMB-C-C-13-0213, OMB-C-C-13-0214, and OMB-C-A-13-0211.
+[47]
+ Specific to this case is OMB-C-A-13-0211 charging Espinas and other persons of grave misconduct and conduct prejudicial to the best interest of the service for disregarding Republic Act (
+R.A.
+) Nos. 8791 and 7653, and existing banking laws and regulations of the BSP in approving ESBI's acceptance of the LWUA's deposits amounting to at least P700,000,000.00.
+On September 2, 2013, Espinas filed his Counter-Affidavit
+[48]
+ before the Ombudsman, praying that the instant administrative complaint against him be dismissed in the absence of any factual or legal bases.
+In its Joint Resolution
+[49]
+ dated March 16, 2015, the Ombudsman found Espinas, among others, administratively liable for grave misconduct and conduct prejudicial to the best interest of the service. The relevant portion of the
+ fallo
+ reads:
+WHEREFORE,
+ this Office through the undersigned:
+x x x x
+ 
+ 
+ 
+(f)
+ 
+ 
+FINDS
+ respondents 
+ ARNALDO M. ESPINAS, GEORGE S. CHUA, GREGORIO T. IPONG, WILFRED L. BILLENA, EDITA S. BUENO,
+ and 
+ GENEROSO D.C. TULAGAN ADMINISTRATIVELY GUILTY
+ of 
+ Grave Misconduct
+ and 
+Conduct Prejudicial to the Best Interest of the Service
+ and metes upon them the penalty of 
+ DISMISSAL
+ from the service, including all its accessory penalties of (a) cancellation of eligibility, (b) forfeiture of retirement benefits, (c) perpetual disqualification for re-employment in the government service and (d) perpetual bar from taking Civil Service examinations.
+ 
+ 
+SO ORDERED.
+[50]
+In finding Espinas guilty of grave misconduct and conduct prejudicial to the best interest of the service, the Ombudsman ruled that he disregarded the provisions of R.A. Nos. 8791
+[51]
+ and 7653
+[52]
+ when he served as an officer of the LWUA and ESBI at the same time. The Ombudsman emphasized that as a public officer and a member of the Bar, it was Espinas' sworn duty to obey the law.
+Undaunted, Espinas filed a Petition for Review
+[53]
+ under Rule 43 of the Rules of Court before the CA, which was docketed as CA-G.R. SP No. 145982.
+On June 7, 2019, the CA rendered the assailed Decision
+[54]
+ denying the petition for review and affirming the Joint Resolution of the Ombudsman.
+At the outset, the CA held that the earlier case docketed as CA-G.R. SP No. 120934 and entitled "
+Rustico B. Tutol, Luis D.G. Estrada, and Carmen F. Amores v. Office of the Ombudsman and Atty. Arnaldo M. Espinas
+," which affirmed the dismissal by the Ombudsman of the administrative charges of grave misconduct and violation of R.A. No. 6713,
+[55]
+ against Espinas, does not constitute
+ res judicata
+ as a bar to the present case, as there was no identity of parties and subject matter.
+ First,
+ the complainants in CA-G.R. SP No. 120934 were Rustico B. Tutol, Luis D.G. Estrada, and Carmen F. Amores, while the complainant in CA-G.R. SP No. 145982 is the FIO.
+ Second,
+ CA-G.R. SP No. 145982 deals with the propriety of the simultaneous occupation of positions by Espinas, while CA-G.R. SP No. 120934 involved Espinas' complicity and participation in the anomalous and irregular acquisition of ESBI by the LWUA.
+[56]
+On the merits, the CA affirmed the ruling of the Ombudsman that Espinas is guilty of Section 19
+[57]
+ of R.A. No. 8791, which prohibits any appointive or elective public official from serving as an officer of any private bank at the same time. Here, Espinas served simultaneously as the Assistant Corporate Secretary of the ESBI and the Corporate Legal Counsel of the LWUA. The CA did not find credence in Espinas' argument that ESBI was transformed into a public bank upon the LWUA's acquisition of its controlling interest. The CA explained that the mere acquisition of a majority interest, absent prior monetary board approval and compliance with law and other rules and regulations, would not automatically result in the conversion of ESBI into a public bank. The CA ruled that there was substantial evidence to hold Espinas guilty of grave misconduct since he benefited from the position despite having knowledge of the law as a member of the Bar. Espinas is likewise guilty of conduct prejudicial to the best interest since the simultaneous holding of such positions tarnished the image and integrity of his office, not to mention, cast the legal profession into disrepute.
+[58]
+A Motion for Reconsideration
+[59]
+ was filed by Espinas, which was denied by the CA in a Resolution
+[60]
+ dated October 22, 2019.
+Hence, this Petition.
+The core issue for this Court's resolution is whether the CA correctly found Espinas administratively liable for grave misconduct and conduct prejudicial to the best interest of the service.
+The petition is granted.
+At the outset, this Court shall first cut through the procedural technicalities invoked in this case.
+Petitioner maintains that it was gross error for the CA to rule that
+ res judicata
+ does not apply as a bar to the present case. Aside from having been exonerated for plunder, malversation, and violation of R.A. No. 3019 in OMB Case No. C-C-10-0402-I for lack of substantial evidence,
+[61]
+ the administrative charges of grave misconduct and violation of R.A. No. 6713 were, likewise, dismissed by the CA in CA-G.R. SP No. 120934,
+[62]
+ the decision on which has since been declared final and executory by this Court.
+[63]
+ Thus, the conclusiveness of judgment in the prior litigated case necessarily precludes respondent from relitigating the same facts against him.
+In its Comment,
+[64]
+ respondent counters that conclusiveness of judgment does not find application in the present case. The point or question in issue here is whether petitioner is guilty of grave misconduct and conduct prejudicial to the best interest of the service when he simultaneously served as an officer of ESBI and the LWUA. In CA-G.R. SP No. 120934, the issue involved was petitioner's participation in the unlawful investment in, and eventual acquisition of, ESBI by the LWUA. Moreover, there is no identity of parties in two cases.
+[65]
+The Court agrees with the CA that CA-G.R. SP No. 120934 does not constitute
+ res judicata
+ and is not a bar to the present case.
+Res judicata
+ was defined in
+ Spouses Selga v. Brar
+[66]
+ in this wise:
+"[A] matter adjudged; a thing judicially acted upon or decided; a thing or matter settled by judgment." It lays the rule that an existing final judgment or decree rendered on the merits, without fraud or collusion, by a court of competent jurisdiction, upon any matter within its jurisdiction, is conclusive of the rights of the parties or their privies, in all other actions or suits in the same or any other judicial tribunal of concurrent jurisdiction on the points and matters in issue in the first suit.
+[67]
+This doctrine is embodied under Section 47, Rule 39 of the Rules of Court which provides:
+Section 47.
+ 
+Effect of judgments or final orders
+. â
+ The effect of a judgment or final order rendered by a court of the Philippines, having jurisdiction to pronounce the judgment or final order, may be as follows:
+x x x x
+(b) In other cases, the judgment or final order is, with respect to the matter directly adjudged or as to any other matter that could have been missed in relation thereto, conclusive between the parties and their successors in interest by title subsequent to the commencement of the action or special proceeding, litigating for the same thing and under the same title and in the same capacity; and
+(c) In any other litigation between the same parties or their successors in interest, that only is deemed to have been adjudged in a former judgment or final order which appears upon its face to have been so adjudged, or which was actually and necessarily included therein or necessary thereto.
+Founded on the principle of estoppel and on public policy against unnecessary multiplicity of suits,
+[68]
+ res judicata
+ embraces two concepts: the first is "bar by prior judgment" under paragraph (b), and "conclusiveness of judgment" under paragraph (c) as abovementioned.
+[69]
+To distinguish, there is "bar by prior judgment" when, as between the first case where the judgment was rendered and the second case that is sought to be barred, there is identity of parties, subject matter, and causes of action.
+[70]
+ In effect, the judgment in the first case constitutes an absolute bar to the subsequent action; it is final as to the claim or demand in controversy.
+[71]
+ In contrast, there is a "conclusiveness of judgment" where there is merely an identity of parties in the first and second cases, but the causes of action are completely distinct.
+[72]
+ Thus, the first judgment is conclusive only as to "those matters actually and directly controverted and determined and not as to matters merely involved therein."
+[73]
+Pertinent in this case is the second concept, or
+ res judicata
+ by conclusiveness of judgment. In
+ Heirs of Eutiquio Elliot v. Corcuera,
+[74]
+ this Court said that there is
+ res judicata
+ by conclusiveness of judgment if all the following elements are present:
+(1) the judgment sought to bar the new action must be final; (2) the decision must have been rendered by a court having jurisdiction over the subject matter and the parties; (3) the disposition of the case must be a judgment on the merits; (4) there must be between the first and second action, identity of parties, but not identity of causes of action.
+[75]
+There is no dispute as to the presence of the first, second, and third elements here. With respect to the fourth element, this Court finds no identity of causes of action between CA-G.R. SP No. 120934 and the present case. CA-G.R. SP No. 120934 involved petitioner's complicity and degree of participation in the anomalous and irregular acquisition of ESBI by the LWUA, while the present case deals with the propriety of the simultaneous occupation of petitioner of positions in the LWUA and ESBI. This Court agrees with the observation of the CA that CA-G.R. SP No. 120934 "never touched upon the legality and propriety of the concurrent holding and simultaneous exercise of [petitioner] of the positions and functions of the office of the Corporate Legal Officer of the LWUA and the Assistant Corporate Secretary of ESBI."
+[76]
+ Be that as it may, there is no identity of parties between the two cases. In CA-G.R. SP No. 120934, the complainants are LWUA employees Rustico B. Tutol, Luis D.G. Estrada, and Carmen F. Amores, while in the present case, the complainant is the FIO of the Ombudsman. To further highlight the lack of this requisite, both parties in the present case were actually co-respondents in CA-G.R. SP No. 120934.
+[77]
+Without identity of parties, the rule on conclusiveness of judgment does not apply and cannot serve to bar the present case.
+With the procedural issue being settled, the remaining issue is whether the CA erred in finding petitioner liable for grave misconduct and conduct prejudicial to the best interest of the service.
+In the main, petitioner insists on his non-culpability due to the absence of substantial evidence. He alleges that the mere inclusion of his name in the GIS of ESBI as Assistant Corporate Secretary, without more, cannot rise to the level of a serious offense such as grave misconduct and conduct prejudicial to the best interest of the service.
+[78]
+ Respondent failed to offer any evidence to prove that he had a hand in the approval of the board resolution relating to ESBI's acquisition of the majority shares or to its daily affairs.
+[79]
+ Petitioner likewise avers that his holding of simultaneous positions did not tarnish the image of his office as counsel for the LWUA, because he did not receive any salary, allowance, or any kind of benefit whatsoever as Assistant Corporate Secretary of ESBI.
+[80]
+ Assuming that petitioner is liable, the CA failed to consider his 24 unblemished years of service as a mitigating circumstance in meting out the penalty.
+[81]
+For its part, respondent, in its Comment,
+[82]
+ counters that petitioner's concurrent service as a public official in the LWUA and as an officer of ESBI, a private bank, directly contravenes Sections 19 and 66 of R.A. No. 8791, in relation to Section 36 of R.A. No. 7653.
+[83]
+ Contrary to petitioner's asseveration, the change in the category of a financial institution is regulated by the BSP and does not happen
+ ipso facto.
+ Thus, the mere act of acquisition by the LWUA of a majority interest in ESBI does not automatically result in the transformation of the latter into a public bank.
+[84]
+ Petitioner cannot claim good faith, as the simultaneous holding of offices represents a willful violation and disregard of banking laws and regulations. Moreover, petitioner's length of service, no matter how unblemished, may not be counted in his favor as he exhibited impunity in willfully violating the law.
+[85]
+It must be remembered that the Office of the Ombudsman is vested with the sole power to investigate and prosecute,
+ motu proprio
+ or on complaint of any person, any act or omission of any public officer or employee, office, or agency when such act or omission appears to be illegal, unjust, improper, or inefficient.
+[86]
+ Consistent with its constitutionally guaranteed independence,
+[87]
+ it is "beholden to no one, acts as the champion of the people, and the preserver of the integrity of public service."
+[88]
+In recognition of the expertise and independence of the Office of the Ombudsman, it is common practice for this Court in administrative cases to avoid interfering with its findings when supported by substantial evidence. As emphasized in
+ Casing v. Ombudsman
+,
+[89]
+ "so long as substantial evidence supports the Ombudsman's ruling, [his/her] decision should stand."
+[90]
+ As defined, substantial evidence is "such relevant evidence as a reasonable mind may accept as adequate to support a conclusion. The requirement is satisfied where there is reasonable ground to believe that one is guilty of the act or omission complained of, even if the evidence might not be overwhelming."
+[91]
+ Substantial evidence is more than a mere scintilla of evidence. In administrative cases before the Office of the Ombudsman, the rule is that "the complainant has the burden of proving, by substantial evidence, the allegations in his/her complaint."
+[92]
+In the case at bench, both the Ombudsman and the CA found that substantial evidence exists to hold petitioner guilty of grave misconduct and conduct prejudicial to the best interest of the service.
+Misconduct was authoritatively defined in the recent case of
+ Domingo v. Civil Service Commission
+[93]
+ as "a transgression of some established and definite rule of action, particularly as a result of a public officer's unlawful behavior, recklessness, or gross negligence. This type of misconduct is characterized for purposes of gravity and penalty as simple misconduct."
+[94]
+ "It is an intentional wrongdoing or deliberate violation of a rule of law or standard of behavior[.]"
+[95]
+To be qualified as grave, the misconduct must involve additional elements, such as "corruption or willful intent to violate the law or to disregard established rules."
+[96]
+ "Grave misconduct is not a mere failure to comply with law."
+[97]
+ Such non-compliance must be done deliberately and with the intention to procure benefits for the offender or for some other person. More importantly, an allegation of grave misconduct must necessarily be proven by substantial evidence; failing to do so, and in the absence of any of additional elements to qualify the misconduct as grave, such misconduct shall only be considered as simple.
+[98]
+In
+ Ombudsman v. Mallari
+,
+[99]
+ this Court held that as an element of grave misconduct â
+[C]orruption consists in the act of an official or fiduciary person who unlawfully and wrongfully uses his station or character to procure some benefit for himself or for another person, contrary to duty and the rights of others.
+[100]
+On the other hand, the element of disregard of rules has been manifested in instances of open defiance of a customary rule that must be "clearly manifested by his or her actions."
+[101]
+ In
+ Sabio v. Ombudsman
+,
+[102]
+ this Court recognized several instances tantamount to such disregard of rules:
+the repeated voluntary disregard of established rules in the procurement of supplies; the practice of illegally collecting fees more than what is prescribed for delayed registration of marriages when several violations or disregard of regulations governing the collection of government funds were committed; and when the employee arrogated unto herself responsibilities that were clearly beyond her given duties.
+[103]
+Here, the evidence on record falls short of proving petitioner's culpability for the charge of grave misconduct.
+Essentially, respondent would like to impress upon this Court that petitioner, through his individual actions, caused deliberate injury to the government by holding concurrent positions in the LWUA and the ESBI. While petitioner appears to hold such positions in contravention to Section 19 of R.A. No. 8791, this Court finds that such act, by itself, does not
+ ipso facto 
+amount to grave misconduct. Taken as a whole, there is a lack of substantial evidence to prove that the foregoing act done by petitioner was tainted with "corruption, a clear intent to violate the law, or a flagrant disregard of an established rule."
+[104]
+Contrary to the CA's sweeping assertion, there is a dearth of evidence to prove that petitioner, in occupying both roles, was motivated and was actually "benefiting from the perquisites of such position."
+[105]
+ Glaringly, neither was it shown that he actively positioned himself, nor did he have any choice in his appointment as Assistant Corporate Secretary of the ESBI. Except for the GIS which bears his name as Assistant Corporate Secretary, nothing on record would prove that petitioner had indeed consented to holding such a position in ESBI. Uncontroverted by respondent is the fact that petitioner was merely acting in accordance with the instructions from his superiors to assume such office under pain of insubordination.
+[106]
+Withal, respondent failed to demonstrate that petitioner had unlawfully used his station and character while concurrently serving as the Corporate Legal Counsel of the LWUA and the Assistant Corporate Secretary of ESBI to deliberately gain or appropriate any form of benefit for himself or for any other person. Regrettably, there is simply nothing on the record which proves petitioner's supposed ulterior motives for holding both positions.
+On the same score, the pieces of evidence likewise failed to establish that petitioner wielded any influence or was in connivance or in conspiracy with others regarding the acquisition of ESBI by the LWUA. Petitioner, by the mere nature of his position as Corporate Legal Counsel, cannot be held accountable for the anomalous acquisition of ESBI by the LWUA. After all, it is with the LWUA Board that the decision to enter into certain transactions and acquire entities, such as the ESBI, ultimately falls. Likewise damning is the lack of any indication that petitioner participated in the day-to-day business and operations of ESBI.
+Bare circumstances do not qualify as substantial evidence. Elementary is the rule that bare allegations, unsubstantiated by evidence, are not equivalent to proof.
+[107]
+ Worth reiterating is the ruling in
+ Ombudsman v. De Villa,
+[108]
+ that "[a] presumption or conjecture is not sufficient substantial evidence to sustain a finding of administrative liability."
+[109]
+ Verily, the mere act of holding a position in a private bank while serving in a government-owned and controlled corporation, without more, does not rise to the level of grave misconduct which requires the elements of corruption or willful disregard of rules.
+On another point, neither is there any persuasive basis to find petitioner guilty of conduct prejudicial to the best interest of the service.
+It is settled that under this jurisdiction's civil service laws, "there is no concrete description of what specific acts constitute conduct prejudicial to the best interest of the service."
+[110]
+ Resultantly, any act is within the ambit of this offense as long as "it tarnishes the image and integrity" of the public office.
+[111]
+ To illustrate, this Court has considered the following acts or omissions,
+ inter alia,
+ as tantamount to conduct prejudicial to the best interest of service, to wit: "misappropriation of public funds, abandonment of office, failure to report back to work without prior notice, failure to safekeep public records and property, making false entries in public documents, and falsification of court orders."
+[112]
+Here, the CA makes much of the fact that petitioner is a member of the Bar, and as such, should be charged with knowledge that holding simultaneous positions would be an infringement of Section 19 of R.A. No. 8791. This Court hastens to add that it does not tolerate any form of misconduct by a civil servant, especially one who is a member of the Bar. "Public service is a public trust, and whoever breaks that trust is subject to penalty."
+[113]
+ Be that as it may, while lawyers cannot effortlessly rid themselves of the expectations and ethical duties of his profession, holding them liable for administrative infractions should still be in accordance with law and established procedure.
+[114]
+ Consequently, respondent's failure to satisfy the threshold of evidence, with only mere suppositions in its arsenal, only serves to militate against petitioner's culpability of supposedly having tarnished the image and integrity of his office.
+At this juncture, it is well to remind that respondent, as the protector of the integrity of public service, is not simply prosecuting ordinary citizens, but also public servants who are crucial to the country's system of government. Thus, it is enjoined to avoid from pursuing cases without any mooring in fact and in law, as it unduly places a burden upon public servants, not only on their person, but also on their capacity to effectively dispense their respective governmental functions.
+All told, this Court cannot adopt the findings of the CA, there being absolutely no substantial evidence existing from the records to hold petitioner liable for grave misconduct and conduct prejudicial to the best interest of the service. To reiterate the ruling in
+ Jaspe v. Public Assistance and Corruption Prevention Office
+[115]
+ which involves a similar charge of grave misconduct, "reliance on mere allegation, conjectures, and suppositions, as in this case, warrants the dismissal of the charge." Concomitantly, this Court is hard-pressed to rule in favor of his exoneration.
+Conformably, considering petitioner's absolution from the penalty of dismissal, which is immediately executory and is not stayed by a pending appeal,
+[116]
+ petitioner should rightfully be reinstated, without loss of rights and benefits accrued to him, pursuant to Section 58
+[117]
+ of the 2017 Rules on Administrative Cases in the Civil Service.
+[118]
+WHEREFORE,
+ in view of the foregoing, the instant petition is 
+GRANTED.
+ The Decision dated June 7, 2019 and the Resolution dated October 22, 2019 of the Court of Appeals in CA-G.R. SP No. 145982 are 
+REVERSED
+ and
+ SET ASIDE.
+ The complaint insofar as it found petitioner Arnaldo M. Espinas guilty of grave misconduct and conduct prejudicial to the best interest of the service is hereby
+ DISMISSED.
+Accordingly, petitioner Arnaldo M. Espinas is
+ ORDERED REINSTATED
+ immediately to his former or equivalent position in the Local Water Utilities Administration without loss or diminution to his seniority rights, salaries, or benefits. He shall be paid his salary and such other emoluments corresponding to the period he was out of the service by reason of the judgment of dismissal as decreed by the Office of the Ombudsman and as affirmed by the Court of Appeals.
+SO ORDERED.
+Leonen, SAJ. (Chairperson), M. Lopez,
+ and 
+Kho, Jr., JJ.
+, concur.
+Lazaro-Javier, J., 
+on official leave.
+*
+ On official leave.
+[1]
+ 
+Rollo,
+ pp. 8-30.
+[2]
+ Penned by Associate Justice Maria Filomena D. Singh (now a member of this Court), with Associate Justices Japar B. Dimaampao (now a member of this Court) and Pablito A. Perez, concurring; 
+Id.
+ at 31-52.
+[3]
+ 
+Id.
+ at 65-67.
+[4]
+ CA 
+rollo,
+ Vol. 1, pp. 26-163.
+[5]
+ Entitled "
+Declaring a National Policy Favoring Local Operation and Control of Water Systems; Authorizing the Formation of Local Water Districts and Providing for the Government and Administration of Such Districts; Chartering a National Administration to Facilitate Improvement of Local Water Utilities; Granting Said Administration such Powers as are Necessary to Optimize Public Service from Water Utility Operations, and for Other Purposes
+" otherwise known as "
+Provincial Water Utilities Act of 1973." 
+[6]
+ P.D. No. 198, Sec. 50, as amended.
+[7]
+ 
+Id.
+, Sec. 51, as amended.
+[8]
+ 
+See
+ Joint Resolution dated March 16, 2015; CA
+ rollo,
+ Vol. 1, pp. 26-160.
+[9]
+ CA
+ rollo,
+ Vol. 1, pp. 342-343.
+[10]
+ 
+Id.
+ at 38.
+[11]
+ 
+Id.
+ at 344-350.
+[12]
+ 
+Id.
+ at 351.
+[13]
+ 
+Id.
+ at 354.
+[14]
+ 
+Id.
+ at 355-356.
+[15]
+ 
+Id.
+ at 40.
+[16]
+ 
+Id.
+[17]
+ 
+Id.
+ at 357.
+[18]
+ 
+See
+ Audit Report and Findings, Due Diligence Audit for the Planned Acquisition of Express Savings Bank, Inc. by the Local Water Utilities Administration; 
+id.
+ at 358-371.
+[19]
+ 
+Id.
+ at 360.
+[20]
+ 
+Id.
+[21]
+ 
+Id.
+ at 42-43.
+[22]
+ 
+Id.
+ at 43.
+[23]
+ 
+Id.
+ at 44-45.
+[24]
+ 
+Id.
+ at 45.
+[25]
+ 
+Id.
+ at 47.
+[26]
+ 
+Id.
+[27]
+ 
+Id.
+[28]
+ 
+Id.
+ at 48.
+[29]
+ 
+Id.
+ at 49.
+[30]
+ 
+Id.
+ at 50.
+[31]
+ See
+ CA Decision dated June 7, 2019;
+ rollo,
+ p. 36.
+[32]
+ 
+See
+ Joint Resolution dated March 16, 2015; CA
+ rollo
+, Vol. 1, pp. 52-53.
+[33]
+ 
+Id.
+ at 53.
+[34]
+ 
+Id.
+[35]
+ 
+Id.
+[36]
+ 
+Id.
+ at 54.
+[37]
+ 
+Id.
+[38]
+ 
+Id.
+ at 56-57.
+[39]
+ 
+Id.
+ at 58.
+[40]
+ 
+Id.
+[41]
+ 
+Id.
+[42]
+ 
+Id.
+[43]
+ 
+Id.
+[44]
+ 
+Id.
+ at 59.
+[45]
+ 
+Id.
+[46]
+ 
+Id.
+ at 239-289.
+[47]
+ 
+Id.
+ at 60-61.
+[48]
+ 
+Id.
+ at 419-425.
+[49]
+ 
+Id.
+ at 26-163.
+[50]
+ 
+Id.
+ at 157-160. (Citation omitted).
+[51]
+ Entitled "
+An Act Providing for the Regulation of the Organization and Operation of Banks, Quasi-Banks, Trust Entities and for Other Purposes
+," otherwise known as "The General Banking Law of 2000."
+[52]
+ Entitled "
+The New Central Bank Act.
+"
+[53]
+ CA 
+rollo
+, Vol. 1, pp. 5-25.
+[54]
+ 
+Rollo
+, pp. 31-52.
+[55]
+ Otherwise known as the "
+Code of Conduct and Ethical Standards for Public Officials and Employees
+."
+[56]
+ 
+Rollo
+, p. 41.
+[57]
+ Section 19. 
+Prohibition on Public Officials
+. â Except as otherwise provided in the Rural Banks Act, no appointive or elective public official whether full-time or part-time shall at the same time serve as officer of any private bank, save in cases where such service is incident to financial assistance provided by the government or a government-owned or controlled corporation to the bank or unless otherwise provided under existing laws. (13)
+[58]
+ 
+Rollo
+, p. 50.
+[59]
+ 
+Id.
+ at 53-61.
+[60]
+ 
+Id.
+ at 65-67.
+[61]
+ 
+Id.
+ at 20; 
+see
+ Joint Resolution dated March 16, 2015; CA 
+rollo
+, Vol. I, p. 159.
+[62]
+ 
+See
+ CA Decision dated April 23, 2012; penned by Associate Justice Mario V. Lopez (now a member of this Court), with Associate Justices Fernanda Lampas Peralta and Socorro B. Inting, concurring; CA 
+rollo,
+ Vol. I, pp. 227-236.
+[63]
+ 
+See
+ Entry of Judgment dated April 2, 2013; 
+Id.
+ at 238.
+[64]
+ 
+Rollo
+, pp. 126-154.
+[65]
+ 
+Id.
+ at 137-139.
+[66]
+ 673 Phil. 581 (2011).
+[67]
+ 
+Id.
+ at 591. (Citation omitted)
+[68]
+ 
+Spouses Camara v. Court of Appeals
+, 369 Phil. 858, 865 (1999).
+[69]
+ 
+Ocho v. Calos
+, 399 Phil. 205, 215 (2000).
+[70]
+ 
+Gamboa v. Court of Appeals
+, 194 Phil. 624, 642 (1981).
+[71]
+ 
+Id.
+[72]
+ 
+Spouses Camara v. Court of Appeals
+, 
+supra
+ note 68, at 866.
+[73]
+ 
+Oropeza Marketing Corporation v. Allied Banking Corporation
+, 441 Phil. 551, 564 (2002).
+[74]
+ 
+G.R. No. 233767
+, August 27, 2020.
+[75]
+ 
+Id.
+ (Citation omitted)
+[76]
+ 
+Rollo
+, p. 42.
+[77]
+ 
+Id.
+ at 41.
+[78]
+ 
+Id.
+ at 11.
+[79]
+ 
+Id.
+ at 12.
+[80]
+ 
+Id.
+ at 13.
+[81]
+ 
+Id.
+ at 25-26.
+[82]
+ 
+Id.
+ at 126-154.
+[83]
+ 
+Id.
+ at 143.
+[84]
+ 
+Id.
+ at 145.
+[85]
+ 
+Id.
+ at 149-150.
+[86]
+ 
+Vergara v. Ombudsman
+, 600 Phil. 26, 41 (2009).
+[87]
+ Art. XI, Sec. 5 of the 1987 Constitution guarantees the independence of the Office of the Ombudsman:
+Section 5. There is hereby created the 
+independent Office of the Ombudsman
+, composed of the Ombudsman to be known as Tanodbayan, one overall Deputy and at least one Deputy each for Luzon, Visayas, and Mindanao. A separate Deputy for the military establishment may likewise be appointed.
+(Emphasis supplied)
+[88]
+ 
+Espinosa v. Ombudsman
+,
+ 397 Phil, 829, 831 (2000).
+[89]
+ 687 Phil. 468 (2012).
+[90]
+ 
+Id.
+ at 477.
+[91]
+ 
+Ombudsman v. De Zosa
+, 751 Phil. 293, 299 (2015).
+[92]
+ 
+Ombudsman v. Bungubung
+, 575 Phil. 538, 557 (2008).
+[93]
+ 
+G.R. No. 236050
+, June 17, 2020.
+[94]
+ 
+Id.
+[95]
+ 
+Ombudsman v. Espina
+, 807 Phil. 529, 541 (2017).
+[96]
+ 
+Ramos v. Rosell, G.R. No. 241363
+, September 16, 2020.
+[97]
+ 
+Ombudsman v. De Guzman
+, 819 Phil. 282, 305 (2017).
+[98]
+ 
+Miro v. Mendoza
+, 721 Phil. 772, 797 (2013).
+[99]
+ 749 Phil. 224 (2014).
+[100]
+ 
+Id.
+ at 249.
+[101]
+ 
+Sabio v. Ombudsman
+, 825 Phil. 848, 862 (2018).
+[102]
+ 
+Supra
+.
+[103]
+ 
+Id.
+ at 862.
+[104]
+ 
+Gabornes v. Office of the Ombudsman, G.R. No. 237245
+, September 15, 2021.
+[105]
+ 
+Rollo
+, p. 50.
+[106]
+ 
+Id.
+ at 13.
+[107]
+ 
+Rosaroso v. Soria
+, 711 Phil. 644, 656 (2013).
+[108]
+ 760 Phil. 937 (2015).
+[109]
+ 
+Id.
+ at 953.
+[110]
+ 
+Miranda v. Civil Service Commission, et al, G.R. No. 213502
+, February 18, 2019, 893 SCRA 146, 165.
+[111]
+ 
+Civil Service Commission v. Catacutan, G.R. Nos. 224651, 224656
+, July 3, 2019, 907 SCRA 373, 390.
+[112]
+ 
+Office of the Ombudsman-Visayas v. Castro
+, 759 Phil. 68, 80 (2015).
+[113]
+ 
+Civil Service Commission v. Nierras
+, 569 Phil. 37, 44 (2008).
+[114]
+ 
+Philippine National Police-Criminal Investigation and Detection Group (PNP-CIDG) v. P/Supt. Villafuerte
+, 840 Phil. 243, 262 (2018).
+[115]
+ 
+G.R. No. 251940
+, July 12, 2021.
+[116]
+ Rules of Procedure of the Office of the Ombudsman, as amended by Administrative Order No. 17 dated September 15, 2003, Rule III, Sec. 7:
+Rule III
+PROCEDURE IN ADMINISTRATIVE CASES
+x x x x
+Section 7. Finality and execution of decision. - Where the respondent is absolved of the charge, and in case of conviction where the penalty imposed is public censure or reprimand, suspension of not more than one month, or a line equivalent to one month salary, the decision shall be final, executory and unappealable. In all other cases, the decision may be appealed to the Court of Appeals on a verified petition for review under the requirements and conditions set forth in Rule 43 of the Rules of Court, within fifteen (15) days from receipt of the written Notice of the Decision or Order denying the motion for reconsideration.
+An appeal shall not stop the decision from being executory. In case the penalty is suspension or removal and the respondent wins such appeal, he shall be considered as having been under preventive suspension and shall be paid the salary and such other emoluments that he did not receive by reason of the suspension or removal.
+A decision of the Office of the Ombudsman in administrative cases shall be executed as a matter of course. The Office of the Ombudsman shall ensure that the decision shall be strictly enforced and properly implemented. The refusal or failure by any officer without just cause to comply with an order of the Office of the Ombudsman to remove, suspend, demote, fine, or censure shall he a ground for disciplinary action against such officer.
+ (Emphases supplied)
+[117]
+ Section 58.
+ 
+Effects of Exoneration on Certain Penalties
+.
+ The following rules shall govern when the decision is for exoneration:
+In case the penalty imposed is fine, the same shall be refunded.
+In case of demotion, the respondent shall be entitled to restoration of former salary grade with the same salary step and payment of salary differentials during the period the demotion was imposed.
+In case the penalty imposed is suspension, the respondent shall immediately be reinstated to former post without loss of seniority rights and with payment of back wages and all benefits which would have accrued as if the respondent has not been illegally suspended
+In case the penalty imposed is dismissal, the respondent shall immediately be reinstated without loss of seniority rights and with payment of back wages and all benefits which would have accrued as if the respondent has not been illegally dismissed.
+The respondent who is exonerated on appeal shall he entitled to the leave credits for the period the respondent had been out of the service.
+The grant of back wages and other benefits may be subject of settlement and/or compromise. (Emphases supplied)
+[118]
+ CSC Resolution No. 1701077.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

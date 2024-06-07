@@ -1,0 +1,737 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. Nos. 219630-31, December 07, 2021 ]
+
+
+COMMISSIONER OF INTERNAL REVENUE, PETITIONER, VS. TAGANITO MINING CORPORATION, RESPONDENT.
+[G.R. Nos. 219635-36]
+TAGANITO MINING CORPORATION, PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+D E C I S I O N
+
+
+
+
+GESMUNDO, C.J.:
+
+
+Before the Court are two (2) petitions for review on 
+certiorari
+ under Rule 45 of the Rules of Court, filed separately by the Commissioner of Internal Revenue (
+CIR
+) and Taganito Mining Corporation (
+TMC
+), seeking the reversal of the Decision
+[1]
+ dated December 16, 2014, and Resolution
+[2]
+ dated August 3, 2015 of the Court of Tax Appeals 
+(CTA) En Banc
+ in CTA EB Case Nos. 935 and 936. In the assailed decision, the CTA 
+En Banc
+ affirmed 
+in toto
+ the May 25, 2012 Decision
+[3]
+ of the CTA Second Division (
+CTA Division
+) in CTA Case No. 8090 ordering the CIR to refund or issue a Tax Credit Certificate (
+TCC
+) in favor of TMC in the reduced amount of P3,981,970.05, representing the latter's unutilized input Value Added Tax (
+VAT
+) on purchases of capital goods attributable to its zero-rated sales for the calendar year 2008.
+TMC is a corporation duly organized under Philippine laws primarily engaged in the business of exploring, producing, and exporting nickel, chromite, cobalt, gold, and all kinds of ores, metals, and their by-products. It is registered as a VAT taxpayer with the Bureau of Internal Revenue (
+BIR
+) and as an exporter of beneficiated nickel silicate ores and chromite ores with the Board of Investments (
+BOI
+). As certified by the BOI, TMC exports and ships 100% of its ores to foreign countries, such as Japan and Australia.
+On December 1, 2009, TMC filed with the BIR a claim for refund of excess input VAT paid on domestic purchases of taxable goods and services and importation of goods in the total amount of P42,038,669.54, covering the period of January 1 to December 31, 2008. TMC attached to its letter-claim the following supporting documents:
+1) Duly accomplished BIR Form No. 1914;
+2) Original and latest amended quarterly VAT Returns for the four (4) quarters of 2008 with supporting schedules on Summary Lists of Sales and Purchases for the year 2008;
+3) Original and latest amended Monthly VAT Declarations for 2008 with supporting schedules or Summary Lists of Sales and Purchases for the year 2008;
+4) Photocopy of the Certification issued by Security Bank Corporation dated February 17, 2009 as to the export remittance proceeds received by the said bank in favor of TMC for the year 2008;
+5) Photocopy of Certificate of Registration No. OCN 8RC0000017494 and corresponding BIR Form 1905 filed on December 9, 2004;
+6) Annual Income Tax Return For CY 2008 duly filed with the BIR;
+7) Audited Financial Statements For CY 2008 with attached Report of Independent Auditors;
+8) Certification issued by the Department of Finance (DOF) One Stop Shop Inter-Agency Tax Credit and Duty Drawback Center to [the] effect that TMC has not filed any similar, previous and/or outstanding application for tax credit and duty drawback with the said agency for the period January 1, 2008 to December 31, 2008.
+[4]
+When the BIR failed to take action on its administrative claim, TMC filed a petition for review before the CTA on April 21, 2010, to forestall the lapse of the two-year prescriptive period for such a judicial claim. The petition was docketed as CTA Case No. 8090 and raffled to the CTA Division of the tax court. In its petition for review, TMC sought the tax refund/credit of the lower amount of P34,131,592.29 because of the CIR's alleged representation that a portion of the claim of TMC pertaining to purchases of non-capital goods and capital goods below P1 Million was already about to be released.
+After trial, the CTA Division rendered its Decision
+[5]
+ on May 25, 2012, partially granting the petition of TMC.
+The CTA Division found that TMC was able to sufficiently substantiate P33,608,456.58 out of its total claim, after disallowing three transactions amounting to P523,135.71 which were not supported by proper VAT invoices. However, the CTA Division also held that not all of the substantiated claims of TMC were refundable/creditable. It reasoned that pursuant to Section 110(A) of the National Internal Revenue Code (
+NIRC
+) of 1997, as amended, input VAT on purchases of capital goods which are attributable to zero-rated sales may be claimed as refund/credit in two ways, depending on the aggregate acquisition cost of the capital goods in the calendar month, 
+i.e.
+: (a) If the aggregate acquisition cost of the capital goods does not exceed P1 Million, the full amount of input VAT shall be allowed as credit/refund in the month of acquisition; or (b) If the aggregate acquisition cost of the capital goods exceeds P1 Million, the claim for input VAT would be spread over 60 months or the estimated useful life of the capital goods, whichever is shorter. Since the judicial claim of TMC only involved its purchases of capital goods with aggregate acquisition cost exceeding P1 Million, the CTA Division spread the P33,608,456.58 substantiated input VAT of TMC in 2008 over 60 months or the estimated useful life of the capital goods, whichever was shorter, to compute for the amount of input VAT refundable/creditable by December 31, 2008, thus:  
+ 
+ 
+ 
+ 
+Allowable Input VAT
+Exhibit 
+Capital Goods Purchases Exceeding P 1 M
+Input VAT
+Useful Life(in months)
+Month of Acquisition 
+Remaining Months of 2008
+Total
+ 
+FEBRUARY
+ 
+ 
+ 
+ 
+ 
+N-11-19,
+N-11-19-2
+2,241,071.50
+268,928.58
+ 
+60
+4,482.14
+44,821.43
+49,303.57
+ 
+MARCH
+ 
+ 
+ 
+ 
+ 
+N-11-172,
+N-1-172-A
+18,873.328.63
+2,264,799.44
+48
+47,183.32
+ 
+424,649.90
+471,833.22
+ 
+MAY
+ 
+ 
+ 
+ 
+ 
+N-11-173
+ 
+54,413,695.00
+6,529,643.40
+ 
+48
+136,034.24
+952,239.66
+1,088.273.90
+ 
+JUNE 
+ 
+ 
+ 
+ 
+ 
+N-11-93-1
+1,339,285.71
+160,714.29
+ 
+48
+3,348.21
+20,089.29
+23,437.50
+ 
+JULY
+ 
+ 
+ 
+ 
+ 
+N-11-175
+ 
+89,641,766.66
+10,757,012.00
+48
+224,104.42
+1,120,522.08
+1,344,626.50
+N-11-176
+56,436,650.00
+6,772,398.00
+48
+141,091.63
+705,458.13
+ 
+846,549.75
+ 
+SEPTEMBER
+ 
+ 
+ 
+ 
+ 
+N-11-133
+2,017,857.14
+242,142.86
+ 
+48
+5,044.64
+15,133.93
+20,178.57
+ 
+DECEMBER
+ 
+ 
+ 
+ 
+ 
+N-11-177
+24,300,291.67
+2,916,035.00
+ 
+48
+60,750.73
+60,750.73
+N-11-174
+ 
+30,806,522.14
+3,696,782.66
+48
+77,016.31
+77,016.31
+INPUT VAT ALLOWABLE FOR REFUND
+3,981,970.05
+[6]
+Based on the foregoing, the CTA determined that only P3,981,970.05 input VAT of TMC may be refunded/credited for the year 2008. It further ruled that since TMC only reported zero-rated sales in its quarterly VAT returns for 2008, all of its purchases and input VAT incurred thereon were attributable to its zero-rated sales; and that there was no output VAT liability during the same time period against which the said input VAT could have been applied.
+As for the timeliness of the filing by TMC of its administrative and judicial claims, the CTA Division cited the case of 
+Commissioner of Internal Revenue v. Aichi Forging Company of Asia, Inc.
+[7]
+ (
+Aichi
+). According to the CTA Division, it was clarified in 
+Aichi
+ that the administrative claim for refund/credit of creditable input VAT should be made within two years from the close of the taxable quarter when the sales were made, as provided under Sec. 112(A) of the Tax Code of 1997. It then concluded that the administrative claim for refund/credit of TMC in this case, filed on December 1, 2009, was within the two-year prescriptive period, as the following summary would show:
+Year 2008
+End of the Quarter
+End of 2-year Period
+Administrative Claim filed on
+1
+st
+ Quarter 
+March 31, 2008
+March 31, 2010
+2
+nd
+ Quarter
+ 
+June 30, 2008
+ 
+June 30, 2010
+December 1,2009
+[8]
+3
+rd
+ Quarter
+ 
+September 30, 2008
+September 30, 2010
+4
+th
+ Quarter
+December 31, 2008
+December 31, 2010
+Still referring to 
+Aichi
+, the CTA Division stated that the filing of a judicial claim for refund/credit should comply with the provisions of Sec. 112(D) [now Sec. 112(C)] of the same Code, which gives the CIR 120 days to act on the administrative claim, counted from the date of submission by the taxpayer of complete documents in support of its claim. Thereafter, the taxpayer should file its petition for review before the CTA within 30 days, either from the receipt of the CIR's decision denying its administrative claim or after the expiration of the 120-day period for the CIR to act on its administrative claim. TMC filed its administrative claim on December 1, 2009, together with the supporting documents. The CIR did not inform TMC that it submitted incomplete supporting documents or that it still needed to submit additional documents, so that the 120-day period for the CIR to act on the claim started to run on December 1, 2009. The filing by TMC of its petition for review before the CTA on April 21, 2010, was well within the 30-day period after the lapse of the 120-day period for the CIR to act on the administrative claim.
+The dispositive portion of the decision of the CTA Division reads:
+WHEREFORE
+, premises considered, the instant Petition for Review is hereby 
+PARTIALLY GRANTED
+. [CIR] is hereby 
+ORDERED TO REFUND OR ISSUE A TAX CREDIT CERTIFICATE
+ to [TMC] in the reduced amount of P3,981,970.05 representing its unutilized input VAT on capital goods purchases attributable to its zero-rated sales for the period January 1 to December 31,2008.
+SO ORDERED.
+[9]
+The CIR and TMC filed their respective motions for reconsideration of the foregoing decision together with comment on each other's motion for reconsideration. In its Resolution
+[10]
+ dated August 30, 2012, the CTA Division denied both the motions for reconsideration of the CIR and TMC for lack of merit.
+The parties each filed an appeal before the CTA 
+En Banc
+, with the appeal of TMC being docketed as CTA EB Case No. 935, while that of the CIR as CTA EB Case No. 936. The CTA 
+En Banc
+, in its Decision
+[11]
+ dated December 16, 2014, denied both appeals and affirmed 
+in toto
+ the judgment of the CTA Division. It also subsequently denied in its Resolution dated August 3, 2015, the respective motions for reconsideration of the parties for lack of merit.
+The parties sought recourse from the Court through the petitions for review at bar.
+The Court's Ruling
+TMC timely filed its judicial claim.
+The CIR contends in its petition, docketed as G.R. Nos. 219630-31, that the judicial claim of TMC before the CTA Division was prematurely filed. The CIR stresses that the 120-day period for her to act on the administrative claim, accorded by Sec. 112 of the Tax Code of 1997, as amended, is jurisdictional and mandatory; and its non-observance would lead to the dismissal of the judicial claim due to the CTA's lack of jurisdiction. Since TMC did not submit the complete documents as required under Revenue Memorandum Order (
+RMO
+) No. 53-98,
+[12]
+ the CIR posits that the 120-day period has not yet commenced, thus, also depriving the CIR of the opportunity to examine and evaluate its claim for refund. The CIR lastly maintains that claims for tax refund/credit are in the nature of claims for tax exemption, so that the law relied upon is not only construed in 
+strictissimi juris
+ against the taxpayer, but the proof presented entitling a taxpayer to an exemption is also 
+strictissimi
+ scrutinized.
+There is no merit in the CIR's contentions.
+Sec. 112 of the Tax Code of 1997, as amended,
+[13]
+ provides for the time periods for the filing and processing of administrative claims for tax refund/credit:
+Section 112. 
+Refunds or Tax Credits of Input Tax
+. -
+(A) 
+Zero-Rated or Effectively Zero-Rated Sales
+. - Any VAT-registered person, whose sales are zero-rated or effectively zero-rated may, 
+within two (2) years after the close of the taxable quarter
+ when the sales were made, apply for the issuance of a tax credit certificate or refund of creditable input tax due or paid attributable to such sales, except transitional input tax, to the extent that such input tax has not been applied against output tax: 
+Provided, however
+, That in the case of zero-rated sales under Section 106(A)(2)(a)(l), (2) and (b) and Section 108(B)(l) and (2), the acceptable foreign currency exchange proceeds thereof had been duly accounted for in accordance with the rules and regulations of the Bangko Sentral ng Pilipinas (BSP): 
+Provided, further
+, That where the taxpayer is engaged in zero-rated or effectively zero-rated sale and also in taxable or exempt sale of goods or properties or services, and the amount of creditable input tax due or paid cannot be directly and entirely attributed to any one of the transactions, it shall be allocated proportionately on the basis of the volume of sales: 
+Provided, finally
+, That for a person making sales that are zero-rated under Section 108(B)(6), the input taxes shall be allocated ratably between his zero-rated and non-zero-rated sales.
+x x x x
+(C) 
+Period within which Refund or Tax Credit of Input Taxes shall be Made
+. - In proper cases, the Commissioner shall grant a refund or issue the tax credit certificate for creditable input taxes 
+within one hundred twenty (120) days from the date of submission of complete documents
+ in support of the application filed in accordance with Subsection (A) hereof, (emphases supplied)
+As for the time period for filing of judicial claims for tax refund/credit, reference may be made to Sec. 11 of Republic Act (
+R.A.
+) No. 1125,
+[14]
+ as amended:
+[15]
+Section 11. 
+Who May Appeal; Mode of Appeal; Effect of Appeal
+. - Any party adversely affected by a decision, ruling or inaction of the Commissioner of Internal Revenue, the Commissioner of Customs, the Secretary of Finance, the Secretary of Trade and Industry or the Secretary of Agriculture or the Central Board of Assessment Appeals or the Regional Trial Courts may file an appeal with the CTA 
+within thirty (30) days after the receipt of such decision or ruling or after the expiration of the period fixed by law for adion
+ as referred to in Section 7(a)(2) herein.
+Appeal shall be made by filing a petition for review under a procedure analogous to that provided for under Rule 42 of the 1997 Rules of Civil Procedure with the CTA 
+within thirty (30) days from the receipt of the decision or ruling or in the case of inaction as herein provided, from the expiration of the period fixed by law to act thereon
+. A Division of the CTA shall hear the appeal: 
+Provided, however
+, That with respect to decisions or rulings of the Central Board of Assessment Appeals and the Regional Trial Court in the exercise of its appellate jurisdiction, appeal shall be made by filing a petition for review under a procedure analogous to that provided for under rule 43 of the 1997 Rules of Civil-Procedure with the CTA, which shall hear the case 
+en banc
+.
+x x x x (emphases supplied)
+In 
+Commissioner of Internal Revenue v. Mindanao II Geothermal Partnership
+,
+[16]
+ the Court provided a summary of the rules on prescriptive periods for claiming refund/credit of input VAT, considering the aforequoted statutory provisions together with relevant jurisprudence:
+[17]
+SUMMARY OF RULES ON PRESCRIPTIVE PERIODS FOR CLAIMING REFUND OR CREDIT OF INPUT VAT
+The lessons of this case may be summed up as follows:
+A. Two-Year Prescriptive Period
+It is only the administrative claim that must be filed within the two-year prescriptive period. (
+Aichi
+)
+The proper reckoning date for the two-year prescriptive period is the close of the taxable quarter when the relevant sales were made. (
+San Roque
+)
+The only other rule is the 
+Atlas
+ ruling, which applied only from 
+8 June 2007
+ to 
+12 September 2008
+. 
+Atlas
+ states that the two-year prescriptive period for 
+filing a claim for tax refund or credit of unutilized input VAT payments should be counted from the date of filing of the VAT return and payment of the tax
+. (
+San Roque
+)
+B. 120+30 Day Period
+ 
+The taxpayer can file an appeal in one of two ways: (1) file the judicial claim within thirty days after the Commissioner denies the claim within the 120-day period, or (2) file the judicial claim within thirty days from the expiration of the 120-day period if the Commissioner does not act within the 120-day period.
+The 30-day period always applies, whether there is a denial or inaction on the part of the CIR.
+As a general rule, the 30-day period to appeal is both mandatory and jurisdictional. (
+Aichi
+ and 
+San Roque
+)
+As an exception to the general rule, premature filing is allowed only if filed between 10 December 2003 and 5 October 2010, when BIR Ruling No. DA-489-03 was still in force. (
+San Roque
+)
+Late filing is absolutely prohibited, even during the time when BIR Ruling No. DA-489-03 was in force. (
+San Roque
+)
+[18]
+There appears to be no dispute as to the two-year prescriptive period. As determined by the CTA Division, TMC filed its administrative claim for the four quarters of 2008 within two years from the close of the taxable quarters in question.
+The controversy lies in the 120+30 day period, with the CIR insisting that the 120-day period had not commenced at all because TMC did not submit the complete documents as listed in RMO No. 53-98.
+The Court already settled in 
+Pilipinas Total Gas, Inc. v. Commissioner of Internal Revenue
+[19]
+ (
+Total Gas
+) that it is the taxpayer who ultimately determines when complete documents have been submitted for the purpose of commencing and continuing the running of the 120-day period:
+Indeed, the 120-day period granted to the CIR to decide the administrative claim under the Section 112 is primarily intended to benefit the taxpayer, to ensure that his claim is decided judiciously and expeditiously. After all, the sooner the taxpayer successfully processes his refund, the sooner can such resources be further reinvested to the business translating to greater efficiencies and productivities that would ultimately uplift the general welfare. To allow the CIR to determine the completeness of the documents submitted and, thus, dictate the running of the 120-day period, would undermine these objectives, as it would provide the CIR the unbridled power to indefinitely delay the administrative claim, which would ultimately prevent the filing of a judicial claim with the CTA.
+x x x x
+Thus, the question must be asked: In an administrative claim for tax credit or refund of creditable input VAT, from what point does the law allow the CIR to determine when it should decide an application for refund? Or stated differently: 
+Under the present law, when should the submission of documents be deemed "completed" for purposes of determining the running of the 120-day period?
+Ideally
+, upon filing his administrative claim, a taxpayer should complete the necessary documents to support his claim for tax credit or refund or for excess utilized VAT. After all, should the taxpayer decide to submit additional documents and effectively extend the 120-period, it grants the CIR more time to decide the claim. Moreover, it would be prejudicial to the interest of a taxpayer to prolong the period of processing of his application before he may reap the benefits of his claim. Therefore, 
+ideally
+, the CIR has a period of 120 days from the date an administrative claim is filed within which to decide if a claim for tax credit or refund of excess unutilized VAT has merit.
+x x x x
+Then, except in those instances where the BIR would require additional documents in order to fully appreciate a claim for tax credit or refund, in terms 
+what
+ additional document must be presented in support of a claim for tax credit or refund - it is the taxpayer who has that right and the burden of providing any and all documents that would support his claim for tax credit or refund. After all, in a claim for tax credit or refund, it is the taxpayer who has the burden to prove his cause of action. As such, he enjoys relative freedom to submit such evidence to prove his claim. 
+The foregoing conclusion is but a logical consequence of the due process guarantee under the Constitution. Corollary to the guarantee that one be afforded the opportunity to be heard, it goes without saying that the applicant should be allowed reasonable freedom as to when and how to present his claim within the allowable period.
+Thereafter, whether these documents are 
+actually
+ complete as required by law - is for the CIR and the courts to determine.
+ Besides, as between a taxpayer-applicant, who seeks the refund of his creditable input tax and the CIR, it cannot be denied that the former has greater interest in ensuring that the complete set of documentary evidence is provided for proper evaluation of the State.
+Lest it be misunderstood, the benefit given to the taxpayer to determine when it should complete its submission of documents is not unbridled. Under RMC No. 49-2003, if in the course of the investigation and processing of the claim, additional documents are required for the proper determination of the legitimacy of the claim, the taxpayer-claimants shall submit such documents within thirty (30) days from request of the investigating/processing office. 
+Again, notice, by way of a request from the tax collection authority to produce the complete documents in these cases, is essential.
+Moreover, under Section 112 (A) of the NIRC, as amended by RA 9337, a taxpayer has two (2) years, after the close of the taxable quarter when the sales were made, to apply for the issuance of a tax credit certificate or refund of creditable input tax due or paid attributable to such sales. Thus, before the administrative claim is barred by prescription, the taxpayer must be able to submit his complete documents in support of the application filed. This is because, it is upon the complete submission of his documents in support of his application that it can be said that the application was, "officially received" as provided under RMC No. 49-2003.
+To summarize, for the just disposition of the subject controversy, the rule is that from the date an administrative claim for excess unutilized VAT is filed, a taxpayer has thirty (30) days within which to submit the documentary requirements sufficient to support his claim, unless given further extension by the CIR. Then, upon filing by the taxpayer of his complete documents to support his application, or expiration of the period given, the CIR has 120 days within which to decide the claim for tax credit or refund. Should the taxpayer, on the date of his filing, manifest that he no longer wishes to submit any other addition documents to complete his administrative claim, the 120 day period allowed to the CIR begins to run from the date of filing.
+In all cases, whatever documents a taxpayer intends to file to support his claim must be completed within the two-year period under Section 112(A) of the NIRC. The 30-day period from denial of the claim or from the expiration of the 120-day period within which to appeal the denial or inaction of the CIR to the CTA must also be respected.
+x x x x
+Applying the foregoing precepts to the case at bench, it is observed that the CIR made no effort to question the inadequacy of the documents submitted by Total Gas. It neither gave notice to Total Gas that its documents were inadequate, nor ruled to deny its claim for failure to adequately substantiate its claim. Thus, for purposes of counting the 120-day period, it should be reckoned from August 28, 2008, the date when Total Gas made its "submission of complete documents to support its application" for refund of excess unutilized input VAT. Consequently, counting from this later date, the BIR had 120 clays to decide the claim or until December 26, 2008. With absolutely no action or notice on the part of the BIR for 120 days, Total Gas had 30 days or until January 25, 2009 to file its judicial claim.
+Total Gas, thus, timely filed its judicial claim on January 23, 2009.
+[20]
+ (emphases in the original)
+In 
+Total Gas
+, taxpayer Total Gas filed its administrative claim for refund of its unutilized input VAT for the first two quarters of 2007, inclusive of supporting documents, on May 15, 2008. It submitted additional supporting documents to the BIR on August 28, 2008. Since Total Gas did not receive any notice from the BIR that its submitted documents were in any way inadequate, the Court found that Total Gas had submitted complete documents in support of its claim on August 28, 2008, and started counting the 120-day period from said date.
+In the instant case, TMC filed its administrative claim for refund of its excess input VAT for all four quarters of 2008, with the attached supporting documents, on December 1, 2009. TMC did not state any intention of filing additional documents and it had, in fact, made no further submission of supporting documents. Consequently, TMC is deemed to have already submitted its complete documents together with its administrative claim on December 1, 2009. Similar to 
+Total Gas
+, the BIR did not give any notice to TMC that it lacked supporting documents and/or that TMC needed to submit additional documents. As the Court also declared in 
+Total Gas
+, such written notice from the taxing authority is essential. Hence, the 120-day period for the BIR to act on the administrative claim of TMC commenced to run on 
+December 1, 2009
+, and expired on 
+March 31, 2010
+. Given the inaction of the BIR by the end of the period, TMC had 30 days from March 31, 2010, or until 
+April 30, 2010
+, to file its judicial claim. TMC then timely filed its petition for review with the CTA on 
+April 21, 2010
+.
+The CIR cannot invoke RMO No. 53-98 to challenge the completeness of the supporting documents submitted by TMC. Again, in 
+Total Gas
+, the Court had already rejected using the list of documents in RMO No. 53-98 as the benchmark for determining whether the taxpayer submitted complete documents in support of its claim for tax refund/credit. It reasoned as follows:
+As can be gleaned from the above, RMO No. 53-98 is addressed to internal revenue officers and employees, for purposes of equity and uniformity, to guide them as to what documents they may require taxpayers to present 
+upon audit of their tax liabilities
+. Nothing stated in the issuance would show that it was intended to be a benchmark in determining whether the documents submitted by a taxpayer are 
+actually
+ complete to support a claim for tax credit or refund of excess unutilized excess VAT. As expounded in 
+Commissioner of Internal Revenue v. Team Sual Corporation (formerly Mirant Sual Corporation)
+:
+The CIR's reliance on RMO 53-98 is misplaced. 
+There is nothing in Section 112 of the NIRC, RR 3-88 or RMO 53-98 itself that requires submission of the complete documents enumerated in RMO 53-98 for a grant of a refund or credit of input VAT.
+ The subject of RMO 53-98 states that it is a "Checklist of Documents to be Submitted by a Taxpayer upon 
+Audit
+ of his Tax Liabilities x x x." In this case, TSC was applying for a grant of refund or credit of its input tax. There was no allegation of an audit being conducted by the CIR. Even assuming that RMO 53-98 applies, it specifically states that some documents are required to be submitted by the taxpayer "if applicable."
+Moreover, if TSC indeed failed to submit the complete documents in support of its application, the CIR could have informed TSC of its failure, consistent with Revenue Memorandum Circular No. (RMC) 42-03.
+ However, the CIR did not inform TSC of the document it failed to submit, even up to the present petition. The CIR likewise raised the issue of TSC's alleged failure to submit the complete documents only in its motion for reconsideration of the CTA Special First Division's 4 March 2010 Decision. Accordingly, we affirm the CTA EB's finding that TSC filed its administrative claim on 21 December 2005, and submitted the complete documents in support of its application for refund or credit of its input tax at the same time.
+As explained earlier and underlined in 
+Team Sual
+ above, taxpayers cannot simply be faulted for failing to submit the complete documents enumerated in RMO No. 53-98, absent notice from a revenue officer or employee that other documents are required. Granting that the BIR found that the documents submitted by Total Gas were inadequate, it should have notified the latter of the inadequacy by sending it a request to produce the necessary documents in order to make a just and expeditious resolution of the claim.
+Indeed, a taxpayer's failure with the requirements listed under RMO No. 53-98 is not fetal to its claim for tax credit or refund of excess unutilized excess VAT. This holds especially true when the application for tax credit or refund of excess unutilized excess VAT has arrived at the judicial level. After all, in the judicial level or when the case is elevated to the Court, the Rules of Court governs. Simply put, the question of whether the evidence submitted by a party is sufficient to warrant the granting of its prayer lies within the sound discretion and judgment of the Court.
+[21]
+ (emphasis and underscoring in the original)
+There is no showing in the present case that an audit had been conducted by the BIR against TMC for RMO No. 53-98 to apply. It is worth reiterating that TMC did not receive any written notice from the BIR requiring it to submit additional supporting documents to comply with RMO No. 53-98. Thus, per jurisprudence, the noncompliance by TMC with all the requirements listed in RMO No. 53-98 should not be taken against it and should not be fatal to its claim for tax refund/credit; more so in this case, wherein the CTA Division and 
+En Banc
+ found, based on the evidence presented during trial, that TMC was able to substantiate its claim. 
+ 
+The tax credit/refund of input VAT on depreciable capital goods attributable to zero-rated sales, with aggregate monthly acquisition cost of more than P1 Million, is subject to amortization.
+ 
+In its petition, docketed as G.R. Nos. 219635-36, TMC asserts that the CTA 
+En Banc
+ committed reversible error in affirming the CTA Division ruling that the refund granted to a 100% zero-rated taxpayer of its input tax on depreciable goods amounting to more than P1 Million is subject to amortization. It questions the application by the CTA Division and 
+En Banc
+ of only Sec. 110(A) of the Tax Code of 1997, as amended, asserting that Sec. 110 of the said Code, including paragraphs (B) and (C) thereof, should be applied as a whole. TMC differentiates between "creditable input tax" governed by Sec. 110(A) and "input tax credit" attributable to zero-rated sales referred to in the 
+proviso
+ in Sec. 110(B). "Creditable income tax" in Sec. 110(A) is the input tax on purchases which can be credited against output VAT. In contrast, the 
+proviso
+ in Sec. 110(B) pertains to any input tax attributable to zero-rated sales which may be refunded or credited by the zero-rated taxpayer at its option. It is the submission of TMC herein that the provisions on depreciation and amortization of the Tax Code of 1997, as amended, as well as of Revenue Regulations (RR) No. 16-2005,
+[22]
+ as amended,
+[23]
+ cover only creditable input tax, and not input tax attributable to zero-rated sales being claimed for tax refund/credit; so that the application by the CTA of the said provisions to the latter constitutes judicial legislation.
+The Court is not persuaded.
+Sec. 110 of the Tax Code of 1997, as amended, quoted in full below, provides for tax credits in general:
+Section 110. 
+Tax Credits
+. -
+(A) 
+Creditable Input Tax
+. - 
+ 
+(1) 
+Any input tax evidenced by a VAT invoice or official receipt issued in accordance with Section 113 hereof on the following transactions shall be creditable against the output tax:
+(a)
+Purchase or importation of goods:
+(i)
+ For sale; or
+(ii)
+ For conversion into or intended to form part of a finished product for sale including packaging materials; or
+(iii)
+For use as supplies in the course of business; or
+(iv)
+ For use as materials supplied in the sale of service; or
+(v)
+ 
+For use in trade or business for which deduction for depreciation or amortization is allowed under this Code.
+(b)
+Purchase of services on which a value-added tax has actually been paid.
+(2)
+ 
+The input tax on domestic purchase or importation of goods or properties by a VAT-registered person shall be creditable:
+(a)
+ 
+To the purchaser upon consummation of sale and on importation of goods or properties; and
+(b)
+To the importer upon payment of the value-added tax prior to the release of the goods from the custody of the Bureau of Customs.
+Provided
+, That the input tax on goods purchased or imported in a calendar month for use in trade or business for which deduction for depreciation is allowed under this Code, shall be spread evenly over the month of acquisition and the fifty-nine (59) succeeding months if the aggregate acquisition cost for such goods, excluding the VAT component thereof, exceeds One million pesos (P1,000,000): 
+Provided, however
+, That if the estimated useful life of the capital good is less than five (5) years, as used for depreciation purposes, then the input VAT shall be spread over such a shorter period:
+ 
+Provided, finally
+, That in the case of purchase of services, lease or use of properties, the input shall be creditable to the purchaser, lessee or licensee upon payment of the compensation, rental, royalty or fee. 
+ 
+(3)
+A VAT-registered person who is also engaged in transactions not subject to the value-added tax shall be allowed tax credit as follows:
+(a)
+Total input tax which can be directly attributed to transactions subject to value-added tax; and
+(b)
+A ratable portion of any input tax which cannot be directly attributed to either activity.
+The term "input tax" means the value-added tax due from or paid by a VAT-registered person in the course of his trade or business on importation of goods or local purchase of goods or services, including lease or use of property, from a VAT-registered person. It shall also include the transitional input tax determined in accordance with Section 111 of this Code.
+The term "output tax" means the value-added tax due on the sale or lease of taxable goods or properties or services by any person registered or required to register under Section 236 of this Code.  
+ 
+(B) 
+Excess Output or Input Tax
+. - If at the end of any taxable quarter the output tax exceeds the input tax, the excess shall be paid by the VAT-registered person. If the input tax exceeds the output tax, the excess shall be carried over to the succeeding quarter or quarters: 
+Provided
+, That the input tax inclusive of input VAT carried over from the previous quarter that may be credited in every quarter shall not exceed seventy percent (70%) of the output VAT: 
+Provided, however
+, That any input tax attributable to zero-rated sales by a VAT-registered person may at his option be refunded or credited against other internal revenue taxes, subject to the provisions of Section 112
+.
+(C)
+Determination of Creditable Input Tax
+. - The sum of the excess input tax carried over from the preceding month or quarter and the input tax creditable to a VAT-registered person during the taxable month or quarter shall be reduced by the amount of claim for refund or tax credit for value-added tax and other adjustments, such as purchase returns or allowances and input tax attributable to exempt sale.
+The claim for tax credit referred to in the foregoing paragraph shall include not only those filed with the Bureau of Internal Revenue but also those filed with other government agencies, such as the Board of Investments and the Bureau of Customs. (emphases supplied)
+At the outset, it is established that the Philippine VAT system adheres to the tax credit method. The following discussion in 
+Commissioner of Internal Revenue v. Seagate Technology (Phils.)
+[24]
+ is instructive on the matter:
+Viewed broadly, the VAT is a uniform tax ranging, at present, from 0 percent to 10 percent levied on every importation of goods, whether or not in the course of trade or business, or imposed on each sale, barter, exchange or lease of goods or properties or on each rendition of services in the course of trade or business as they pass along the production and distribution chain, the tax being limited only to the value added to such goods, properties or services by the seller, transferor or lessor.
+ It is an indirect tax that may be shifted or passed on to the buyer, transferee or lessee of the goods, properties or services. As. such, it should be understood not in the context of the person or entity that is primarily, directly and legally liable for its payment, but in terms of its nature as a tax on consumption. In either case, though, the same conclusion is arrived at.
+The law that originally imposed the VAT in the country, as well as the subsequent amendments of that law, has been drawn from the 
+tax credit method
+.
+ Such method adopted the mechanics and self-enforcement features of the VAT as first implemented and practiced in Europe and subsequently adopted in New Zealand and Canada. 
+Under the present method that relies on invoices, an entity can credit against or subtract from the VAT charged on its sales or outputs the VAT paid on its purchases, inputs and imports.
+If at the end of a taxable quarter the output taxes charged by a seller are equal to the input taxes passed on by the suppliers, no payment is required. It is when the output taxes exceed the input taxes that the excess has to be paid. If, however, the input taxes exceed the output taxes, the excess shall be carried over to the succeeding quarter or quarters. Should the input taxes result from zero-rated or effectively zero-rated transactions or from the acquisition of capital goods, any excess over the output taxes shall instead be refunded to the taxpayer or credited against other internal revenue taxes.
+[25]
+ (citations omitted; emphases supplied)
+TMC is of the mistaken notion that input VAT attributable to zero-rated sales is not creditable input VAT. Zero-rated sales or transactions are described as follows:
+Zero-rated transactions generally refer to the export sale of goods and supply of services. The tax rate is set at zero. When applied to the tax base, such rate obviously results in no tax chargeable against the purchaser. The seller of such transactions charges no output tax, but can claim a refund of or a tax credit certificate for the VAT previously charged by suppliers.
+[26]
+The tax credit method still applies to zero-rated sales; and input VAT attributable to such zero-rated sales also constitute creditable input VAT, 
+i.e.
+, input VAT evidenced by VAT invoice or official receipt which is creditable against output VAT. Zero-rated sales are distinct only because with tax rate set at zero percent, then no output tax shall be due on such sales. Without any output VAT against which the input VAT can be credited, the VAT-registered taxpayer is then allowed to apply for tax refund/credit of the input VAT from such sales.
+In fact, Sec. 112(A) of the Tax Code of 1997, as amended, states that, "[a]ny VAT-registered person, whose sales are zero-rated or effectively zero-rated may x x x apply for the issuance of a tax credit certificate or refund of creditable input tax due or paid attributable to such sales x x x 
+to the extent that such input tax has not been applied against output tax
+." This means that input VAT attributable to zero-rated sales may, at the option of the taxpayer, be (a) applied directly against output VAT due on other transactions, or (b) claimed as tax refund/credit. The second option is the only one available for taxpayers whose transactions are 100% zero-rated as it will not have any output VAT against which it may apply its input VAT. It may also be the more favorable option for taxpayers with mixed transactions as the refunded amount will be cash on hand, while the TCC issued may be applied to all national internal revenue taxes (not just limited to output VAT). When the taxpayer avails itself of the second option, it must prove that it has not previously availed itself of the first option. The necessary implication of all this is that input VAT attributable to zero-rated sales is still creditable input VAT, and having the second option available to the taxpayer does not change its nature.
+Per the mandate of Sec. 110(A) of the Tax Code of 1997, as amended, input VAT shall be amortized when: (a) the goods purchased or imported are capital goods, 
+i.e.
+, used in the taxpayer's trade or business; (b) deduction for depreciation of the capital goods are allowed under the Tax Code of 1997, as amended; and (c) the aggregate acquisition cost of the depreciable capital goods for the calendar month they were purchased or imported exceeds P1 Million. Notably, the provision refers to "input tax" in general, without making any distinctions, exceptions, or exclusions.
+Indeed, pursuant to the 
+proviso
+ in Sec. 110(B) of the Tax Code of 1997, as amended, the input VAT attributable to zero-rated sales may be credited against all other internal revenue taxes, as opposed to creditable input VAT in general which, under Sec. 110(A) of the same Code, is creditable only against output VAT. Nonetheless, this express difference pertains only to the type of taxes against which the input VAT may be credited. No other distinction between input VAT attributable to zero-rated sales and creditable input VAT can be deduced from the 
+proviso
+, especially as to the amount thereof on depreciable capital goods which can be credited or refunded.
+There is likewise no merit in the assertion of TMC that amortization violates the right accorded to the VAT-registered taxpayer by the 
+proviso
+ in Sec. 110(B) of the Tax Code of 1997, as amended, to claim, at its option, either the refund or credit of "
+any
+ input tax" attributable to its zero-rated sales. It is apparent that to TMC, the word "any" is synonymous to "all" and amortization unduly limits the input tax on zero-rated sales which the taxpayer can claim as refund or credit. 
+The Court, in 
+Abakada Guro Party List v. Ermita
+[27]
+ 
+(Abakada)
+, upheld the validity of such amortization of input VAT on depreciable capital goods with aggregate acquisition cost of more than P1 Million for the month of purchase or importation, as it does not deprive the taxpayer of any tax credit, but merely delays the crediting of the same by spreading it out over the amortization period. In the words of the Court in 
+Abakada
+:
+The foregoing section imposes a 60-month period within which to amortize the creditable input tax on purchase or importation of capital goods with acquisition cost of P1 Million pesos, exclusive of the VAT component. 
+Such spread-out only poses a delay in the crediting of the input tax.
+ Petitioners1 argument is without basis because 
+the taxpayer is not permanently deprived of his privilege to credit the input tax
+.
+It is worth mentioning that Congress admitted that the spread-out of the creditable input tax in this case amounts to a 4-year interest-free loan to the government. In the same breath, Congress also justified its move by saying that the provision was designed to raise an annual revenue of 22.6 billion. The legislature also dispelled the fear that the provision will fend off foreign investments, saying that foreign investors have other tax incentives provided by law, and citing the case of China, where despite a 17.5% non-creditable VAT, foreign investments were not deterred. Again, 
+for whatever is the purpose of the 60-month amortization, this involves executive economic policy and legislative wisdom in which the Court cannot intervene
+.
+[28]
+ (citations omitted; emphases supplied)
+For the same reasons as the foregoing, TMC herein is not deprived of any of the input tax attributable to its zero-rated sales when the amount of tax refund or credit granted to it for the input VAT on depreciable capital goods attributable to its zero-rated sales, with aggregate acquisition cost exceeding P1 Million for the month of purchase or importation, is amortized for 60 months or the estimated useful life of the capital goods, whichever is shorter. Ultimately, TMC will still be able to receive the full amount of the input VAT granted as tax refund or credit by the end of the amortization period.
+Sec. 4.110-3 of RR No. 16-2005, as amended, merely fills in the details necessary for the implementation of Sec. 110(A) of the Tax Code of 1997, as amended, thus:
+Section 4.110-3. 
+Claim for Input Tax on Depreciable Goods
+. -Where a VAT-registered person purchases or imports capital goods, which are depreciable assets for income tax purposes, the aggregate acquisition cost of which (exclusive of VAT) in a calendar month exceeds One Million pesos (P1,000,000.00), regardless of the acquisition cost of each capital good, shall be claimed as credit against output tax in the following manner:
+(a) If the estimated useful life of a capital good is five (5) years or more - The input tax shall be spread evenly over a period of sixty (60) months and the claim for input tax credit will commence in the calendar month when the capital good is acquired. The total input taxes on purchases or importations of this type of capital goods shall be divided by 60 and the quotient will be the amount to be claimed monthly.
+(b) If the estimated useful life of a capital good is less than five (5) years -The input tax shall be spread evenly on a monthly basis by dividing the input tax by the actual number of months comprising the estimated use life of a capital good. The claim for input tax credit shall commence in the month that the capital goods were acquired.
+Where the aggregate acquisition cost (exclusive of VAT) of the existing or finished depreciable capital goods purchased or imported during any calendar month does not exceed one million pesos (P1,000,000.00), the total input taxes will be allowable as credit against output tax in the month of acquisition; Provided, however, that the total amount of input taxes (input tax on depreciable capital goods plus other allowable input taxes) allowed to be claimed against the output tax in the quarterly VAT Returns shall be subject to the limitation prescribed under Sec. 4.110-7 of these Regulations.
+Capital goods or properties refers to goods or properties with estimated useful life greater than one (1) year and which are treated as depreciable assets under Sec. 34(F) of the Tax Code, used directly or indirectly in the production or sale of taxable goods or services.
+The aggregate acquisition cost of depreciable assets in any calendar month refers to the total price, excluding the VAT, agreed upon for one or more assets acquired and not on the payments actually made during the calendar month. Thus, an asset acquired on installment for an acquisition cost of more than P1,000,000.00, excluding the VAT, will be subject to the amortization of input tax despite the fact that the monthly payments/installments may not exceed P1,000,000.00.
+x x x x
+If the depreciable capital good is sold/transferred within a period of five (5) years or prior to the exhaustion of the amortizable input tax thereon, the entire unamortized input tax on the capital goods sold/transferred can be claimed as input tax credit during the month/quarter when the sale or transfer was made but subject to the limitation prescribed under Sec. 4.110-7 of these Regulations.
+Construction in progress (CIP) is the cost of construction work which is not yet completed. CIP is not depreciated until the asset is placed in service. Normally, upon completion, a CIP item is reclassified and the reclassified asset is capitalized and depreciated.
+CIP is considered, for purposes of claiming input tax, as a purchase of service, the value of which shall be determined based on the progress billings. Until such time the construction has been completed, it will not qualify as capital goods as herein defined, in which case, input tax credit on such transaction can be recognized in the month the payment was made; 
+Provided
+, that an official receipt of payment has been issued based on the progress billings.
+In case of contract for the sale of service where only the labor will be supplied by the contractor and the materials will be purchased by the contractee from other suppliers, input tax credit on the labor contracted shall still be recognized on the month the payment was made based on a progress billings while input tax on the purchase of materials shall be recognized at the time the materials were purchased.
+Once the input tax has already been claimed while the construction is still in progress, no additional input tax can be claimed upon completion of the asset when it has been reclassified as a depreciable capital asset and depreciated.
+It is beyond dispute that Sec. 224 of the Tax Code of 1997, as amended, grants the Secretary of Finance, upon recommendation of the CIR, the authority to promulgate all needful rules and regulations for the effective enforcement of the provisions of said Code. RR No. 16-2005 and its subsequent amendments, issued by the Secretary of Finance upon the CIR's recommendation, enjoy a strong presumption of validity.
+[29]
+ The Court has extended the presumption of validity accorded to legislative issuances also to rules and regulations issued by administrative agencies with its pronouncement in 
+ABAKADA GURO Party List v. Purisima
+[30]
+ that:
+Administrative regulations enacted by administrative agencies to implement and interpret the law which they are entrusted to enforce have the force of law and are entitled to respect. Such rules and regulations partake of the nature of a statute and are just as binding as if they have been written in the statute itself. As such, they have the force and effect of law and enjoy the presumption of constitutionality and legality until they are set aside with finality in an appropriate case by a competent court.
+[31]
+ (citations omitted)
+A perusal of Sec. 4.110-3 of RR No. 16-2005, as amended, shows that it is consistent with Sec. 110(A) of the Tax Code of 1997, as amended, and it does not in any way override, supplant, or modify the latter.
+Having settled in the preceding paragraphs that input VAT attributable to zero-rated sales is still creditable input VAT, then the CTA Division and 
+En Banc
+ did not commit judicial legislation in applying the provisions of Sec. 110(A) of the Tax Code of 1997, as amended, and Sec. 4.110-3 of RR No. 16-2005, as amended, on the amortization of input VAT on depreciable capital goods attributable to its zero-rated sales, with aggregate acquisition cost exceeding P1 Million for the month of purchase or importation, to the tax refund/credit of input VAT attributable to zero-rated sales.
+Lastly, the Court is well aware that with the further amendment of Sec. 110 of the Tax Code of 1997, as amended, by R.A. No. 10963,
+[32]
+ which took effect on January 1, 2018, the amortization of input VAT shall only be allowed until December 31, 2021; after which taxpayers with unutilized input VAT on capital goods purchased or imported shall be allowed to apply the same as scheduled until fully utilized. This latest amendment of the Tax Code, however, will not apply retroactively to this case which involves the question of the amount of amortized refund/credit of excess or unutilized input VAT for the calendar year 2008.
+WHEREFORE
+, the respective Petitions for Review of the Commissioner of Internal Revenue in G.R. Nos. 219630-31, and Taganito Mining Corporation in G.R. Nos. 219635-36, are both 
+DENIED
+ for lack of merit. The Decision dated December 16, 2014, and Resolution dated August 3, 2015 of the Court of Tax Appeals 
+En Banc
+ in CTA EB Case Nos. 935 and 936 are 
+AFFIRMED
+.
+ 
+SO ORDERED.
+Caguioa, Lazaro-Javier, M. Lopez
+, and 
+J. Lopez, JJ.
+, concur.
+[1]
+ 
+Rollo
+ (G.R. Nos. 219630-31), pp. 35-60 and 
+rollo
+ (G.R. Nos. 219635-36), pp. 26-51; penned by Associate Justice Lovell R. Bautista, with Presiding Justice Roman G. Del Rosario and Associate Justices Juanito C. CastaÃ±eda, Jr., Erlinda P. Uy, Caesar A. Casanova, Esperanza R. Fabon-Victorino, Cielito N. Mindaro-Grulla, Amelia R. Cotangco-Manalastas, and Ma. Belen M. Ringpis-Liban, concurring.
+[2]
+ 
+Rollo
+ (G.R. Nos. 219630-31), pp. 62-71 and 
+rollo
+ (G.R. Nos. 219635-36), pp. 53-62; penned by Associate Justice Lovell R. Bautisla, with Presiding Justice Roman G. Del Rosario and Associate Justices Juanito C. CastaÃ±eda, Jr., Erlinda P. Uy, Caesar A. Casanova, Esperanza R. Fabon-Victorino, Cielito N. Mindaro-Grulla, and Amelia R. Cotangco-Manalastas, concurring; Associate Justice Ma. Belen M. Ringpis-Liban, on leave.
+[3]
+ 
+Rollo
+ (G.R. Nos. 219630-31), pp.  144-164; penned by Associate Justice Caesar A. Casanova, with Associate Justice Juanito C. CastaÃ±eda. Jr., concurring; Associate Justice Cielito N. Mindaro-Grulla, on leave.
+[4]
+ Id. at 161-162.
+ 
+[5]
+ Supra note 3.
+[6]
+ 
+Rollo
+ (G.R. Nos. 219630-31), p. 159.
+[7]
+ 646 Phil. 710 (2010).
+[8]
+ 
+Rollo
+ (G.R. Nos. 219630-31), p. 161.
+[9]
+ Id. at 163.
+[10]
+ Id. at 192-204: penned by Associate Justice Caesar A. Casanova, with Associate Justices Juanito C. CastaÃ±eda, Jr. and Cielito N. Mindaro-Grulla, concurring.
+[11]
+ Supra note 1.
+[12]
+ Checklist of Documents to be Submitted by a Taxpayer upon Audit of his Tax Liabilities as well as of the Mandatory Reporting Requirements to be Prepared by a Revenue Officer, all of which comprise a Complete Tax Docket (June 1, 1998).
+[13]
+ Republic Act No. 9337, otherwise known as the Value Added Tax (VAT) Reform Act (May 24, 2005).
+[14]
+ An Act Creating the Court of Tax Appeals (June 16, 1954).
+[15]
+ Republic Act No. 9282, otherwise known as An Act Expanding the Jurisdiction of the Court of Tax Appeals (CTA), Elevating Its Rank to the Level of a Collegiate Court with Special Jurisdiction and Enlarging Its Membership, Amending for the Purpose Certain Sections of Republic Act No. 1125, as Amended, Otherwise Known as the Law Creating the Court of Tax Appeals, and for Other Purposes (March 30, 2004).
+[16]
+ 724 Phil. 534 (2014).
+[17]
+ See 
+Commissioner of Internal Revenue v. Aichi Forging Company of Asia, Inc.
+, supra note 7, at 731-732; 
+Commissioner of Internal Revenue v. San Roque Power Corp.
+, 703 Phil. 310 (2013); 
+Atlas Consolidated Mining Development Corp. v. Commissioner of Internal Revenue
+, 551 Phil. 519 (2007). 
+ 
+[18]
+ 
+Commissioner of Internal Revenue v. Mindanao II Geothermal Partnership
+, supra note 16, at 562-563.
+[19]
+ 774 Phil. 473 (2015).
+[20]
+ Id. at 488-497.
+[21]
+ Id. at 499-500, citing 
+Commissioner of Internal Revenue v. Team Sual Corp.
+, 739 Phil. 215 (2014).
+[22]
+ Consolidated Value-Added Tax Regulations of 2005, which took effect on November 1, 2005.
+[23]
+ RR No. 4-2007, dated February 7, 2007.
+[24]
+ 491 Phil. 317 (2005).
+[25]
+ Id. at 33 1-333.
+[26]
+ Id. at 334.
+[27]
+ 506 Phil. 1 (2005).
+[28]
+ Id. at 125.
+[29]
+ 
+Spouses Dacudao v. Gonzales
+, 701 Phil. 96, 110 (2013).
+[30]
+ 584 Phil. 246 (2008).
+[31]
+ Id. at 283.
+[32]
+ Otherwise known as the Tax Reform for Acceleration and Inclusion (TRAIN).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

@@ -1,0 +1,393 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			870 Phil. 526
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. Nos. 217530-31, February 10, 2020 ]
+
+
+KABALIKAT PARA SA MAUNLAD NA BUHAY, INC., PETITIONER , VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+ [G.R. Nos. 217536-37]
+ KABALIKAT PARA SA MAUNLAD NA BUHAY, INC., PETITIONER, VS. COMMISSIONER OF INTERNAL REVENUE, RESPONDENT.
+[G.R. No. 217802] 
+ COMMISSIONER OF INTERNAL  REVENUE, PETITIONER, VS. KABALIKAT PARA SA MAUNLAD NA BUHAY, INC., RESPONDENT.
+R E S O L U T I O N
+
+
+
+
+INTING, J.:
+
+
+Before the Court are consolidated Petitions for Review on 
+Certiorari
+ under Rule 45 of the Rules of Court:
+G.R. Nos. 217530-31
+[1]
+ and 217536-37
+[2]
+ filed by Kabalikat Para Sa Maunlad Na Buhay, Inc. (Kabalikat); and
+G.R. No. 217802
+[3]
+ filed by the Commissioner of Internal Revenue (CIR), through the Office of the Solicitor General (OSG).
+These petitions assail the Court of Tax Appeals (CTA) 
+En Banc
+'s Resolutions dated January 13, 2015
+[4]
+ and March 25, 2015
+[5]
+ in CTA EB Nos. 1238 and 1239.
+The Facts
+Kabalikat is a non-stock, non-profit civic organization.
+[6]
+ The Bureau of Internal Revenue (BIR) confirmed Kabalikat's status as a civic organization, as well as its exemption from the payment of income tax, through BIR Ruling No. S-30-071-2001
+[7]
+ dated October 8, 2001.
+In 2006, pursuant to Republic Act No. 8425 or the "Social Reform and Poverty Alleviation Act," Kabalikat amended its Articles of Incorporation
+[8]
+ to expressly provide micro-financing services to "small, cottage-scale, micro-entrepreneurial poor and the disadvantaged such as farmers, fishermen, women, tribal minorities, urban poor and other similar sectors."
+[9]
+BIR, through Regional Director Jaime B. Santiago, issued Preliminary Assessment Notices (PAN) against Kabalikat in relation to unpaid taxes for the taxable year 2006 amounting to P78,380,415.03, computed as follows:
+ 
+ 
+ 
+ 
+ 
+ Tax Type 
+ 
+ Amount 
+ 
+ 
+ 
+ 
+ 
+ 
+Income Tax
+[10]
+ 
+ 
+P 33,813,201.05
+ 
+ 
+ 
+Expanded witholding tax (EWT)
+[11]
+ 
+ 
+177,320.13
+ 
+ 
+ 
+Vallue-added tax (VAT)
+[12]
+ 
+44,389,893.85
+ 
+ 
+ 
+ 
+ 
+ 
+Total amount due 
+ 
+P 78,380,415.03
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In reply, Kabalikat filed a Position Letter
+[13]
+ dated November 9, 2009 for the cancellation and withdrawal of the assessed amounts.
+On December 28, 2009, Kabalikat executed a Waiver of the Defense of Prescription Under the Statute of Limitations
+[14]
+ (Waiver) to extend the assessment period for its 2006 unpaid taxes until December 31, 2010.
+The CIR, through Regional Director Arnel SD. Guballa, issued Final Assessment Notices
+[15]
+ and a Formal Letter of Demand
+[16]
+ (FAN/FLD) against Kabalikat for unpaid taxes amounting to P91,234,747.55, inclusive of interest, surcharge, and compromise penalty, computed as follows:
+ 
+ 
+ 
+ 
+ 
+ Tax Type 
+ 
+ Amount 
+ 
+ 
+ 
+ 
+ 
+ 
+Income Tax
+ 
+P 39,798,934.55
+ 
+ 
+ 
+EWT
+ 
+197,192.98
+ 
+ 
+ 
+VAT
+ 
+51,238,620.02
+ 
+ 
+ 
+ 
+ 
+ 
+Total amount due 
+ 
+P 91,234,747.55 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kabalikat filed a Protest Letter
+[17]
+ dated December 22, 2010 to oppose the FAN/FLD (Administrative Protest). However, the CIR failed to act on this protest. Thus, on September 15, 2011, Kabalikat filed a Petition for Review (Judicial Protest) before the CTA, docketed as CTA Case No. 8336 and assigned to the CTA Second Division (CTA Division).
+The CTA Division Ruling
+In the Decision
+[18]
+ dated June 20, 2014, the CTA Division cancelled and set aside the assessments issued against Kabalikat. It found that the Waiver was infirm; thus, null and void. Consequently, the tax authorities' right to assess has already prescribed. The CTA Division also denied the parties' subsequent motions for reconsideration.
+Both parties appealed to the CTA 
+En Banc
+ 
+via
+ their respective petitions for review.
+The CTA En Banc Ruling
+In its assailed Resolutions, the CTA 
+En Banc
+ relied on Section 7, Rule 43
+[19]
+ of the Rules of Court and dismissed both petitions outright for being procedurally defective.
+The court 
+a quo
+ noted the following formal defects in their petitions: Kabalikat failed to aver in their petition a "concise and direct statement of complete facts" and attach "either clearly legible duplicate originals or certified true copies" of the issuances assailed.
+[20]
+ On the other hand, the CIR failed to attach a Verification and Certification Against Forum Shopping (Verification). Even their belatedly submitted verification (executed by Mr. Gerardo R. Florendo) did not cure the deficiency because the CIR did not show proof of Florendo's authority to execute and sign the verification. Furthermore, the CIR also failed to properly serve a copy of the petition upon Kabalikat.
+After the CTA 
+En Banc
+ denied their respective motions for reconsideration, the parties separately filed the present petitions wherein they commonly raised one issue: Did the CTA 
+En Banc
+ err when it denied outright the parties' respective petitions due solely to formal and procedural infirmities?
+Our Ruling
+The petitions are meritorious.
+Verily, it is settled that "procedural rules are designed to facilitate the adjudication of cases. Courts and litigants alike are enjoined to abide strictly by the rules."
+[21]
+ However, it is not novel for courts to brush aside technicalities in the interest of substantial justice. Notably, in 
+Malixi v. Baltazar
+,
+[22]
+ the Court recounted the long line of jurisprudence
+[23]
+ consistently supporting the relaxation of procedural rules if strict adherence thereto would only frustrate rather than promote justice.
+While the Court has entertained petitions in the past despite the presence of procedural lapses, the Court has restricted its liberality only to exceptional circumstances. To warrant relaxation of the rules, the erring party must: (a) show reasonable cause justifying its noncompliance with the rules,
+[24]
+ (b) convince the Court that the outright dismissal of the petition would defeat the administration of substantive justice,
+[25]
+ and (c) offer proof of at least a reasonable attempt at compliance therewith.
+[26]
+ "The desired leniency cannot be accorded absent valid and compelling reasons for such a procedural lapse."
+[27]
+In the present case, both parties offer reasons justifying their respective procedural flaws.
+To recall, the outright dismissal of Kabalikat's petition was due to its failure to aver a "concise and direct statement of complete facts" and attach "either clearly legible duplicate originals or certified true copies" of the issuances assailed. Thus, they rectified these deficiencies through their subsequent motion for reconsideration. On the other hand, the CIR's petition was dismissed because it failed to attach the requisite verification. The CIR has since submitted a verification to supplant the previous deficiency.
+In these lights, the Court finds that the CTA 
+En Banc
+ erred when it refused to consider these as sufficient rectification of the parties' respective mistakes. The circumstances in the present case warrant the relaxation of procedural rules.
+The present case involves taxes amounting to P91,234,747.55. The parties face significant financial loss from the assessment's final adjudication. If cancelled, the government stands to lose revenues from taxation, its lifeblood. On the other hand, if upheld, the immensely onerous obligation of settling the assessment shall loom over Kabalikat, a non-stock, non-profit civic organization generally exempt therefrom. Certainly, an appeal is the proper forum to fully ventilate their cases. To abruptly put an end to litigation solely based on technicalities amounts to serious injustice to the parties.
+Moreover, their appeals do not appear to be merely frivolous and dilatory. Both parties show willingness to continue litigation. Certainly, a liberal application of the rules will not unjustly prejudice either of them.
+To be sure, the formal and procedural lapses in the present case should not have rendered the parties' respective appeals fatally defective. The court 
+a quo's
+ insistence on a strict implementation of these technicalities is unjust, especially when "the more prudent course of action would have been to afford petitioners time" to remedy their oversightâwhich they already haveâinstead of using these mistakes to justify "dispossessing petitioners of relief."
+[28]
+At this juncture, the Court shall no longer go over the parties' arguments on the present case's substantial issues. Based on the discussion above, it is proper to remand this case to the CTA 
+En Banc
+ to proceed in hearing the parties' appeals on the merits.
+WHEREFORE,
+ the consolidated petitions are 
+GRANTED
+. The Resolutions dated January 13, 2015 and March 25, 2015 of the Court of Tax Appeals 
+En Banc
+ in CTA EB Nos. 1238 and 1239 are 
+REVERSED
+ and 
+SET ASIDE
+. The case is hereby 
+REMANDED
+ to the Court of Tax Appeals 
+En Banc
+ for a resolution on the merits of the case.
+SO ORDERED.
+Perlas-Bernabe, (Chairperson), A. Reyes, Jr., Hernando,
+ and 
+Delos Santos, JJ.,
+ concur.
+[1]
+ 
+Rollo
+ (G.R Nos. 217530-31), pp. 3-21.
+[2]
+ 
+Rollo
+ (G.R Nos. 217536-37), pp. 3-13.
+[3]
+ 
+Rollo
+ (G.R Nos. 217802). pp. 12-34.
+[4]
+ 
+Rollo
+ (G.R Nos. 217530-31), pp. 25-30; penned by Associate Justice Erlinda P. Uy with Presiding Justice Roman G. Del Rosario and Associate Justices Juanito C. CastaÃ±eda, Jr., Lovell R. Bautista, Caesar A. Casanova, Esperanza R. Fabon-Victorino, Cielito N. Mindaro-Grulla, Amelia R. Cotangco-Manalastas and Ma. Belen M . Ringpis-Liban, concurring.
+[5]
+ 
+Id.
+ at 31-34.
+[6]
+ 
+Id.
+ at 147.
+[7]
+ 
+Id.
+ at 76-77.
+[8]
+ 
+Id.
+ at 78-84.
+[9]
+ 
+Id.
+ at 80.
+[10]
+ 
+Id.
+ at 85.
+[11]
+ 
+Id.
+ at 86.
+[12]
+ 
+Id.
+ at 87.
+[13]
+ 
+Id.
+ at 90-99.
+[14]
+ 
+Id.
+ at 100.
+[15]
+ 
+Id.
+ at 101-103.
+[16]
+ 
+Id.
+ at 104-105.
+[17]
+ 
+Id.
+ at l07-119.
+[18]
+ 
+Id.
+ at 146-166: penned by Associate Justice Caesar A. Casanova with Associate Justices Juanito C.CastaÃ±eda, Jr. and Amelia R. Cotangco-Manalastas concurring.
+[19]
+ Section 7, Rule 43, RULES OF COURT.
+SEC. 7. 
+Effect of failure to comply with requirements.
+ â The failure of the petitioner to comply with any of the foregoing requirements regarding the payment of the docket and other lawful fees, the deposit for costs, proof of service of the petition, and the contents of and the documents which should. accompany the petition shall be sufficient ground for the dismissal thereof.
+[20]
+ 
+Rollo
+ (G.R Nos. 217530-31 ), p. 26.
+[21]
+ 
+Mitsubishi Motors Philippines Corporation v Bureau of Customs
+, 760 Phil. 954, 962 (2015), citing 
+Anderson v. Ho
+, 701 Phil. 6 (2013).
+[22]
+ G.R. No. 208224, November 22, 2017, 846 SCRA 244.
+[23]
+ 
+Acaylar, Jr. v. Harayo
+, 582 Phil. 600 (2008); 
+Barroga v. Data Center College of the Phils., et al.
+, 667 Phil. 808 (2011); 
+Paras v. Judge Baldado
+, 406 Phil. 589 (2001); 
+Durban Apartments Corporation v. Catacutan
+, 514 Phil. 187 (2005); 
+Manila Electric Company v. Gala
+, 683 Phil. 356 (2012); 
+Doble v. ABB, Inc./Nitin Desai
+, 810 Phil. 210 (2017); 
+Heirs of Amada Zaulda v. Zaulda
+, 729 Phil. 639 (2014); 
+Trajano v. Uniwide Sales Warehouse Club
+, 736 Phil. 264 (2014).
+[24]
+ 
+Fortune Tobacco Corp. v. Commissioner of Internal Revenue
+, 762 Phil. 450, 465, citing 
+Daikoku Electronics Phils., Inc. v. Raza
+, 606 Phil. 786, 803-804 (2009).
+[25]
+ 
+Id.
+[26]
+ 
+Anderson v. Ho
+, 701 Phil. 6, 18 (2013), citing 
+Mediserv, Inc. v. CA (Special Former 13
+th
+ Division), et al.
+, 631 Phil. 282, 295 (2010).
+[27]
+ 
+Supra
+ note 24.
+[28]
+ 
+Cortal, et al. v. Inaki A. Larrazabal Enterprises et al.
+, 817 Phil. 464, 493 (2017).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

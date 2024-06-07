@@ -1,0 +1,1096 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 254440, March 23, 2022 ]
+
+
+INDEPENDENT ELECTRICITY MARKET OPERATOR OF THE PHILIPPINES, INC. (IEMOP), PETITIONER, VS. ENERGY REGULATORY COMMISSION, RESPONDENT.
+D E C I S I O N
+
+
+
+
+ZALAMEDA, J.:
+
+
+Mandamus
+ may issue when there is grave abuse of discretion, manifest injustice, or palpable excess of authority in the performance of discretionary duty. This is because discretion must be exercised in accordance with, and not contrary to, the law.
+[1]
+ 
+Mandamus
+ may also issue to compel action when there is unnecessary and unreasonable delay in the exercise of a duty that is clearly imposed by law.
+[2]
+The present case is another reminder to the Energy Regulatory Commission (ERC) that while it is an independent quasi-judicial regulatory body,
+[3]
+ it has no independence or discretion to disregard, as it is legally bound to follow, the rules, regulations, and circulars issued by the Department of Energy (DOE) pursuant to Republic Act (R.A.) No. 9136, otherwise known as the "Electric Power Industry Reform Act of 2001" (EPIRA). Its legal duty, first and foremost, is to enforce such rules, regulations, and circulars, as formulated and adopted by the Department of Energy.
+[4]
+The Case
+This is a Petition for 
+Mandamus
+[5]
+ filed under Rule 65 of the Rules of Court, seeking to compel respondent ERC to act upon and consider the Market Fees Application for Calendar Year 2021 filed by petitioner Independent Electricity Market Operator of the Philippines, Inc.
+Antecedents
+In 2001, the EPIRA was enacted to ensure, among others, the quality, reliability, security, and affordability of the supply of electric power; and the transparent and reasonable prices of electricity in a regime of free and fair competition and full public accountability.
+[6]
+One of the reforms introduced in the EPIRA is the establishment of the Wholesale Electricity Spot Market (WESM) to provide the mechanism for identifying and setting the price of actual variations from the quantities transacted under contracts between sellers and purchasers of electricity.
+[7]
+ The WESM serves as a venue for trading electricity as a commodity, and as a clearing house to reflect the economic value of electricity for a particular period as indicated by the "spot" price.
+[8]
+On 18 November 2003, through the initiative of the DOE, the Philippine Electricity Market Corporation (PEMC) was incorporated as a non-stock, non-profit corporation with the primary purpose of managing, governing, and administering an efficient, competitive, transparent, and reliable market for the wholesale and purchase of electricity and ancillary services in the Philippines.
+[9]
+ It was constituted with equitable representation from the electric power industry participants.
+[10]
+On 22 October 2004, PEMC and the National Transmission Corporation (TRANSCO) entered into a Memorandum of Agreement
+[11]
+ for the transfer of personnel, assets, contracts, and liabilities from the Market Operations Unit of TRANSCO (TRANSCO-MO) to PEMC.
+[12]
+ Upon completion of the transfer, PEMC became the Autonomous Group Market Operator (AGMO) and Governance Arm of the WESM.
+[13]
+ As AGMO, PEMC undertook the preparatory work and initial operation of the WESM.
+[14]
+The WESM then began commercial operations in Luzon, Visayas, and Mindanao on 26 June 2006, 26 December 2010, and June 2017, respectively.
+[15]
+On 17 January 2018, the DOE issued Department Circular (D.C.) No. DC2018-01-0002,
+[16]
+ entitled "Adopting Policies for the Effective and Efficient Transition to the Independent Market Operator for the Wholesale Electricity Spot Market."
+Thereafter, on 03 February 2018, the board of directors of PEMC (PEM Board) approved the "Plan for Transition to the Independent Market Operator of the Philippine Wholesale Electricity Spot Market" (IMO Transition Plan).
+[17]
+ The members of the PEMC ratified the IMO Transition Plan in a meeting held on 06 February 2018.
+[18]
+The Department Circular and the IMO Transition Plan provide that the Independent Market Operator (IMO) shall be an independent entity, formed separate from the PEMC, and incorporated as a private corporation.
+[19]
+ The IMO shall assume all the functions of the Market Operator, and the necessary personnel shall be transferred from PEMC to the IMO.
+[20]
+ Meanwhile, PEMC shall remain to be the Governance Arm of the WESM.
+[21]
+ The PEM Board shall monitor and supervise the IMO, in accordance with the WESM Rules.
+[22]
+Petitioner Independent Electricity Market Operator of the Philippines, Inc. (IEMOP) was then organized as a non-stock, non-profit private corporation, separate from the PEMC, and incorporated by individuals who are independent from the electric power industry participants and the government. It was incorporated to become the IMO.
+[23]
+On 19 September 2018, PEMC and IEMOP executed an Operating Agreement
+[24]
+ to formalize the transfer and assumption of functions, assets, and liabilities of PEMC, as AGMO, to IEMOP, as IMO. IEMOP was acknowledged and confirmed therein as the corporation duly incorporated to act as the IMO, pursuant to DOE D.C. No. DC2018-01-0002 and the IMO Transition Plan.
+[25]
+On 26 September 2018, IEMOP assumed the Market Operator functions and other services defined in the Operating Agreement.
+[26]
+ The related personnel, assets, and liabilities were likewise transferred from PEMC to IEMOP.
+[27]
+On 18 August 2020, IEMOP filed the Application (With Motion for Issuance of Provisional Authority)
+[28]
+ dated 04 August 2020 or the Market Fees Application for Calendar Year 2021 before respondent ERC. In the Application, IEMOP discussed the transition from PEMC, as AGMO, to IEMOP, as IMO, which assumed the functions of the Market Operator. Together with the Application, IEMOP submitted the documents required for the Pre-Filing Requirements under Rule 6 of the ERC Rules of Practice and Procedure (ERC Rules).
+[29]
+On the same date, the ERC acknowledged receipt of the Application and advised that it will be endorsed to the Market Operations Service for technical pre-filing. It also advised that the Legal Service will only accept pre-filing after the technical pre-filing and the certification of the technical service concerned is attached to the Request for Pre-Filing.
+[30]
+However, in an e-mail dated 01 September 2020,
+[31]
+ the ERC, through Mr. Von Carlo AÃ±onuevo of the Market Operations Service-Spot Market Division, returned the Application to IEMOP "as directed by superiors," and advised that PEMC should be the applicant. It also sent a pre-filing checklist for the initial technical evaluation of the Market Operations Service. It further advised to strictly comply with the guidelines in the Decisions of the ERC under Case Nos. 2014-092RC and 2015-160RC.
+[32]
+On 28 September 2020 and 12 October 2020, IEMOP filed a Manifestation and Submission with Request for Confidential Treatment of Information
+[33]
+ and a Supplemental Submission with Request for Confidential Treatment of Information,
+[34]
+ respectively, where IEMOP submitted additional documents in compliance with the pre-filing checklist sent by the ERC. IEMOP likewise reiterated its authority to file the Market Fees Application.
+On 20 October 2020, IEMOP filed a Manifestation and Request for Issuance of Certification,
+[35]
+ praying for the issuance of the requisite certification to confirm the completion of the technical pre-filing.
+As the ERC did not respond to the foregoing submissions, IEMOP, on 11 November 2020, wrote a letter
+[36]
+ to the Director for Market Operations Service of the ERC. It urged the Market Operations Service for the completion of the pre-filing request and the issuance of the requisite certification, in view of its compliance with the pre-filing requirements and the pre-filing checklist. It also stressed that the prompt approval of the Market Fees Application is indispensable to the continued operations of the WESM.
+On 26 November 2020, IEMOP wrote another follow-up letter
+[37]
+ and appealed for the issuance of the technical certification and the commencement of the proceedings as it was nearing the end of the calendar year.
+On 07 December 2020, IEMOP sent another follow up letter,
+[38]
+ reiterating its compliance with the requirements and that there has been sufficient time to evaluate the Application, justifying the issuance of the technical certification.
+The ERC or its Market Operations Service still did not respond.
+Thus, on 11 December 2020, IEMOP filed the instant Petition, alleging that the ERC has unlawfully neglected the performance of its legal duty to consider and approve the Market Fees Application. It asserted its legal right to file and pursue the application as the duly constituted Market Operator. IEMOP prayed that the ERC be ordered to consider and proceed with dispatch lEMOP's Market Fees Application until its resolution on the merits.
+Thereafter, IEMOP sent further follow-up letters to the Director of Market Operations Service on 21 December 2020,
+[39]
+ 06 January 2021,
+[40]
+ and 25 January 2021.
+[41]
+On 24 May 2021, after three motions for extension, the ERC, through the Office of the Solicitor General, filed its Comment.
+[42]
+In its Comment, the ERC alleged that it did not neglect the performance of its legal duty of approving applications for market fees. It asserted that it acted on IEMOP's Market Fees Application when it returned and rejected the same due to lacking documentary requirements and advised IEMOP that the application must be submitted by PEMC as the Market Operator. The reasons for such rejection were promptly communicated through the 01 September 2020 e-mail. However, IEMOP ignored the instruction of the ERC regarding the proper party for the application, 
+i.e.
+, PEMC, which remains existing and has not been dissolved despite the incorporation of IEMOP. Moreover, IEMOP has not shown any entitlement to the position enjoyed by PEMC and the market fees that may be collected upon the approval of the ERC.
+[43]
+The ERC further argued that IEMOP is not entitled to a writ of 
+mandamus
+ because it can only be issued to compel the performance of a ministerial act; and it cannot be issued to direct the exercise of judgment or discretion in a particular way, or the retraction or reversal of an action already taken in the exercise of such judgment or discretion.
+[44]
+On 28 May 2021, IEMOP filed its Reply,
+[45]
+ reiterating that the AGMO already transitioned to the IMO. It argued that the ERC has no authority to ignore or postpone the transition to the IMO, which was the policy issued by the DOE pursuant to the EPIRA. Meanwhile, the 01 September 2020 e-mail is not an official act of the ERC as it does not comply with the requirements of a proper resolution or action. Further, IEMOP emphasized that it does not pray for the favorable resolution of its Market Fees Application, but only for the ERC to act on the same, particularly its pre-filing request.
+On 15 June 2021, IEMOP filed a Supplemental Petition,
+[46]
+ informing the Court of the following developments:
+On 15 February 2021, the ERC, through its Director of Market Operations Service, sent a letter
+[47]
+ to PEMC and copy furnished IEMOP. In the said letter, the ERC stated that the Market Fees Application was not given due course in view of the ERC's Decisions in Case Nos. 2014-092RC and 2015-160RC, "where PEMC is the Market Operator and remains to be so as of date."
+[48]
+ Thus, the said application will only be acted upon if the same "is officially filed by PEMC."
+[49]
+On 17 February 2021, IEMOP responded
+[50]
+ to the ERC's letter, reiterating that it is the IMO, pursuant to the EPIRA. In fact, it has been performing the functions of the Market Operator since 26 September 2018, and has complied with the ERC's various directives, which were duly acknowledged and not questioned by the ERC. Moreover, the ERC Decisions cited in the ERC's letter pertained to applications filed by PEMC as the AGMO prior to the transition to the IMO.
+On 24 May 2021, the DOE Secretary sent a letter
+[51]
+ to the ERC Chairman, reiterating the DOE's policy directions in relation to the WESM, including the establishment of an IMO and the assumption of IEMOP as the IMO. Thus, "the ERC must now be ready to accord IEMOP all the rights and authority granted to it by law, including the filing of market fees for the WESM."
+[52]
+On 27 May 2021, PEMC replied
+[53]
+ to ERC's letter, reiterating that PEMC ceased to be the AGMO and IEMOP's designation as the IMO commenced upon its complete formation and the execution of the Operating Agreement between PEMC and IEMOP. PEMC was restructured as the Governance Arm and is no longer the Market Operator of the WESM. As the IMO, IEMOP is responsible to recover the amount for the administration and operation of the WESM through the Market Fees to be filed with and approved by the ERC.
+Issue
+The issue for the Court's resolution is whether the remedy of 
+mandamus
+ is proper to compel the ERC to act upon IEMOP's Market Fees Application.
+Ruling of the Court
+The petition is granted.
+The petition is within the jurisdiction
+of the Court
+In filing the instant petition directly with the Court, IEMOP invokes Section 78 of the EPIRA, which provides that "[t]he implementation of the provisions of the Act shall not be restrained or enjoined except by an order issued by the Supreme Court of the Philippines."
+In 
+NPC Drivers and Mechanics Association v. National Power Corp.
+,
+[54]
+ the Court ruled that "Section 78 of the EPIRA confines the jurisdiction of the Court to Cases involving the implementation of its provisions." Thus, "the Court exercises jurisdiction on all questions involving the enforcement of the provisions of the EPIRA."
+This case involves the enforcement of Section 30 of the EPIRA, which pertains to the implementation of the WESM through the Market Operator and the recovery of the cost of administering and operating the WESM. Thus, it is covered by Section 78 of the EPIRA. Accordingly, the Court can properly exercise jurisdiction over the instant petition.
+A petition for 
+mandamus
+ is a remedy that may be filed against a tribunal, corporation, board, officer, or person who either (1) unlawfully neglects the performance of an act, which the law specifically enjoins as a duty resulting from an office, trust, or station; or (2) unlawfully excludes another from the use and enjoyment of a right or office to which such other is entitled, and there is no other plain, speedy, and adequate remedy in the ordinary course of law.
+[55]
+ In such petition, the petitioner prays that judgment be rendered commanding the respondent, immediately, or at some other specified time, to do the act required to be done to protect the rights of the petitioner.
+[56]
+The requisites for the issuance of 
+mandamus
+ are the following: (1) the petitioner has a clear legal right to the act demanded; (2) it must be the duty of the respondent to perform the act because it is mandated by law; (3) the respondent unlawfully neglects the performance of the duty enjoined by law [or unlawfully excludes another from the use and enjoyment of a right or office to which such other is entitled]; (4) the act to be performed is ministerial, not discretionary; and (5) there is no appeal or any other plain, speedy and adequate remedy in the ordinary course of law.
+[57]
+The foregoing requisites are present in this case.
+IEMOP has a clear legal right to
+demand the ERC to act upon its
+Market Fees Application
+The ERC refused to act on the Market Fees Application filed by IEMOP for two reasons: (1) the application must be filed by PEMC as the Market Operator; and (2) there were lacking documentary requirements.
+IEMOP has a clear legal right to demand the ERC to act upon its Market Fees Application. IEMOP, as the Market Operator of the WESM, has the clear legal right to file the application for market fees for the approval of the ERC.
+Section 30 of the EPIRA provides that the Market Operator shall implement the WESM. The Market Operator shall initially be an autonomous group, to be constituted by DOE, with equitable representation from electric power industry participants. Thereafter, within one year after the implementation of the WESM, an independent entity shall be formed, and the functions, assets, and liabilities of the Market Operator shall be transferred to such entity with the joint endorsement of the DOE and the electric power industry participants.
+The Implementing Rules and Regulations of EPIRA (EPIRA IRR) defines "Market Operator" as referring to either (1) the Autonomous Group Market Operator or AGMO constituted by the DOE; 
+or (2) the Independent Market Operator or IMO
+, the entity jointly endorsed by the DOE and electric power industry participants to assume the functions, assets, and liabilities from AGMO, pursuant to Section 30 of the EPIRA.
+[58]
+Meanwhile, the EPIRA IRR defines "Independent Market Operator" or "IMO" as "a person who is financially and technically capable, with proven experience and expertise of not less than two (2) years as a leading independent market operator of similar or larger size electricity markets 
+endorsed jointly by the DOE and Electric Power Industry Participants to assume the functions, assets, and liabilities from the Autonomous Group Market Operator (AGMO)
+, pursuant to Section 30 of the Act."
+[59]
+Thus, based on the foregoing, the Market Operator of the WESM is either the AGMO or the IMO. The IMO becomes the Market Operator once it assumes the functions of the AGMO after the transition from the AGMO.
+In this case, PEMC, as AGMO, already transitioned to IEMOP, as IMO, pursuant to the joint endorsement of the DOE and the electric power industry participants as mandated by Section 30 of the EPIRA and Rule 9, Section 6(a) of the EPIRA IRR. The respective endorsements of the DOE and the electric power industry participants were set out in the DOE D.C. No. DC2018-01-0002
+[60]
+ and the IMO Transition Plan.
+[61]
+It may be noticed that the said DOE Circular and the IMO Transition Plan did not specifically state IEMOP as the IMO. These could not have mentioned IEMOP as it was formed pursuant to the joint endorsement or after such endorsements were made.
+The transition transpired when PEMC, as AGMO, and IEMOP, as IMO, executed the Operating Agreement on 18 September 2018. The Operating Agreement specifically acknowledged and confirmed that "IEMOP is the corporation duly incorporated in the Philippines to act as the Independent Market Operator pursuant to the IMO Transition Plan, DOE Department Circular No. 2018-01-0002 dated 18 January 2018."
+[62]
+The DOE Secretary and the PEMC, which the ERC insists as still the Market Operator and the proper party to file the application for market fees, both confirmed that IEMOP is the IMO.
+On 24 May 2021, DOE Secretary Alfonso G. Cusi wrote a letter
+[63]
+ to ERC Chairman Agnes Vicenta S. Torres Devanadera, seeking the latter's attention to the DOE's policy direction on the establishment of the IMO and the assumption of IEMOP as the IMO, and appealing to the ERC to accord IEMOP all the rights and authority granted to it by law.
+On 27 May 2021, PEMC likewise wrote a letter
+[64]
+ to the ERC, stating that PEMC ceased to be the AGMO and IEMOP is now the IMO. It also stated that PEMC was restructured as the Governance Arm and is no longer the Market Operator of the WESM.
+Thus, it is clear from the foregoing facts that IEMOP is now the IMO or the Market Operator of the WESM.
+Section 30 of the EPIRA, Rule 9, Section 9 of the EPIRA IRR, and Section 2.10.1 of the WESM Rules provide for the right of the Market Operator to recover the cost of administering and operating the WESM through a charge, 
+i.e.
+, the Market Fees,
+[65]
+ imposed on all market members, subject to the approval of the ERC.
+The right and obligation of IEMOP, as IMO, to file for the approval of the market fees with the ERC is likewise confirmed under the following:
+ 
+ 
+ 
+â¢ 
+ 
+ 
+ 
+ 
+Section 2.10.2.3 of the WESM Rules: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.10. 2.3
+ 
+Upon the approval of the PEM Board,
+ the Market Operator shall file the proposed structure and level of market fees with the ERC for approval
+.
+[66]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+â¢ 
+ 
+ 
+ 
+ 
+Sections 5.5 and 7.7 of DOE D.C. No. DC2018-01-0002: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 5. Formation of the IMO. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xxx 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.5
+ 
+Budget Application. The budget that shall be sourced from 
+the market fees shall be applied by the IMO to the ERC
+. The  ERC shall approve the rates; Provided that it shall have the minimal impact to the consumers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xxx 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.7
+ 
+The budget and revenue requirements of PEMC and the IMO for the operation and administration of the WESM shall be recovered from the market fees. Upon approval of the PEM Board, 
+the IMO shall file the same with the Energy Regulatory Commission (ERC) for approval
+.
+[67]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+â¢ 
+ 
+ 
+ 
+ 
+Section 7.5.1 of the IMO Transition Plan: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.5.1. 
+ 
+ 
+Market fees are intended to defray cost of administering and operating the WESM. The components of the market fees are set out in the WESM Rules and covers the budgetary requirements of the Market Operator and the costs reasonably incurred by the PEM Board and its committees. 
+The obligation to file for approval of the market fees with the ERC rests with the IMO company
+,
+ xxx.
+[68]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+â¢
+ 
+ 
+Section 10.03(a) of the Operating Agreement:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 10.03 Market Fees. 
+The revenue requirements of both PEMC and the 
+IEMOP
+ shall be recovered through Market Fees
+ to be collected from Market Participants. Consistent with Applicable Laws, the Market Fees are subject to approval by the ERC. For this purpose:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+IEMOP is responsible for filing of the application for approval of the Market Fees with the ERC
+, in accordance with the rules of procedures or other relevant rules or issuances of the ERC. xxx
+[69]
+ 
+ 
+The DOE Secretary, in his 24 May 2021 letter
+[70]
+ to the ERC Chairman, also emphasized IEMOP's right to file the application for market fees, stating that "the ERC must now be ready to accord IEMOP all the rights and authority granted to it by law, 
+including the filing of market fees for the WESM
+."
+[71]
+Hence, it cannot be denied that IEMOP has the clear legal right to file the Market Fees Application for the approval of the ERC. Consequently, as the authorized and proper party to file the application, it has the clear legal right to demand the ERC to act on its Application.
+There is also no merit on the second reason of the ERC for refusing to act on IEMOP's Application, 
+i.e.
+, lacking documentary requirements.
+Rule 6 of the ERC Rules provides for the pre-filing requirements. All applications and petitions shall comply with the pre-filing requirements before the ERC accepts and dockets rate applications and petitions affecting the consumers.
+[72]
+Rule 6, Section 2 of the ERC Rules provides for the following pre-filing requirements: (1) the applicant or petitioner must furnish the Local Government Unit (LGU) Legislative Body of the city or municipality where it principally operates a copy of the application or petition with all its annexes and accompanying documents; and (2) the applicant or petitioner must cause the publication of the entire application or petition with verification and certification against forum shopping, excluding its annexes, in a newspaper of general circulation within its franchise area or area where it principally operates.
+To prove compliance with the foregoing, the applicant or petitioner must comply with Rule 6, Section 3 of the ERC Rules:
+Section 3. Proof of Compliance with the Pre-filing Requirements. â To demonstrate compliance with the foregoing requirements, the applicant or petitioner shall attach to its application or petition a certification issued by the Presiding Officer, Secretary of the LGU Legislative Body concerned, or their duly authorized representatives, attesting to the fact that such LGU Legislative Body was served a copy of the application or petition, with all its annexes and accompanying documents, and the date of such service. In the absence of such certification, the applicant or petitioner shall prove compliance by attaching the affidavit of the person that served the application or petition on the LGU Legislative Body, attesting to such fact and the date of such service. The affiant shall also attach to the affidavit a copy of the page of the application or petition bearing the stamp "received" or acknowledgement of receipt by the LGU Legislative Body, in case the application or petition was served personally; or the copy of the registry or private courier receipt, in case the application or petition was served through registered mail or private courier.
+The applicant or petitioner shall also attach to the application or petition an affidavit of publication executed by the editor-in-chief or other responsible officer of the newspaper of general circulation wherein the application or petition was published, together with a copy of the newspaper issue containing the published application or petition. The affidavit of publication shall also contain information on the area or areas where the newspaper is being circulated.
+In compliance with the aforementioned rules, IEMOP attached to its Market Fees Application the following documents: (1) copy of the first page of the Application with the receiving stamp of the Secretariat of the Pasig City Council;
+[73]
+ (2) Affidavit of Service of the messenger of IEMOP, attesting to the fact that he furnished the 
+Sangguniang Panlungsod
+ of Pasig City a copy of the Application and its annexes and supporting documents;
+[74]
+ (3) Affidavit of Publication of the Billing & Collection Manager of PhilSTAR Daily, attesting to the fact that the Application was published in The Philippine STAR's 10 August 2020 issue;
+[75]
+ (4) complete copy of the 10 August 2020 issue of the Philippine STAR;
+[76]
+ and (5) Acknowledgement dated 11 August 2020 issued by the City Council Secretary of Pasig City, acknowledging receipt of a copy of IEMOP's Application with attached annexes.
+[77]
+IEMOP likewise submitted additional documents in its pleadings filed on 28 September 2020
+[78]
+ and 12 October 2020,
+[79]
+ in compliance with the instructions in the ERC's 01 September 2020 e-mail.
+[80]
+Thus, IEMOP complied with the pre-filing requirements under Rule 6 of the ERC Rules, as well as the instructions in the 01 September 2020 e-mail.
+However, despite the foregoing, the ERC did not respond to IEMOP or act on any of its additional submissions or compliance. There is thus no basis for ERC to reject or refuse to act on IEMOP's Market Fees Application on the ground of lacking documentary requirements.
+Considering that IEMOP is the Market Operator, and it has complied with the pre-filing requirements and the ERC's 01 September 2020 e-mail, IEMOP has a clear legal right to demand from ERC to act upon its application.
+The ERC unlawfully neglected and
+refused to perform its duties imposed
+upon it by law, and unlawfully
+excluded IEMOP from the exercise of
+its rights as Market Operator
+Section 43 of the EPIRA provides for the functions and responsibilities of the ERC, which include, among others, enforcing the rules and regulations of the EPIRA, the rules and regulations governing the operations of the WESM, and the activities of the Market Operator.
+[81]
+While the ERC is an independent, quasi-judicial regulatory body,
+[82]
+ it is duty-bound to adhere to the rules, regulations, and circulars formulated and adopted by the DOE pursuant to the provisions of the EPIRA, thus:
+Under the EPIRA, it is the DOE that issues the rules and regulations to implement the EPIRA
+, including the implementation of the policy objectives stated in Section 2 of the EPIRA. 
+Rules and regulations include circulars that have the force and effect of rules or regulations.
+ xxx
+xxxx
+Thus, 
+the very first mandate of the ERC under its charter, the EPIRA, is to "[en]force the implementing rules and regulations" of the EPIRA as formulated and adopted by DOE. Clearly, under the EPIRA, it is the DOE that formulates the policies, and issues the rules and regulations, to implement the EPIRA. The function of the ERC is to enforce and implement the policies formulated, as well as the rules and regulations issued, by the DOE. The ERC has no power whatsoever to amend the implementing rules and regulations of the EPIRA as issued by the DOE.
+ The ERC is further mandated under EPIRA to ensure that the "pass through of bulk purchase cost by distributors is transparent [and] non-discriminatory."
+xxxx
+In any event, even in quasi-judicial cases, the ERC is bound to apply the policies, rules, regulations, and circulars issued by the DOE as the ERC has no power to ignore, waive, amend, postpone, or revoke the policies, rules, regulations, and circulars issued by the DOE pursuant to the EPIRA. To repeat, 
+the DOE's rules, regulations, and circulars issued pursuant to the DOE's rule-making power under the EPIRA have the force and effect of law which the ERC is legally bound to follow
+, whether the ERC is exercising executive, quasi-legislative, or quasi-judicial powers.
+[83]
+Pertinent to this case, Section 30 of the EPIRA has given the authority to the DOE and the electric power industry participants to jointly endorse the formation of an independent entity that shall assume the functions of the Market Operator within one year after the implementation of the WESM. Accordingly, the DOE and the electric power industry participants, through the PEMC, have jointly endorsed the transition from the AGMO to the IMO, and have designated IEMOP as the IMO.
+Moreover, Section 30 of the EPIRA, Rule 9, Section 9 of the EPIRA IRR, and Section 2.10.1 of the WESM Rules provide that the application for market fees shall be filed by the Market Operator with the ERC for approval.
+In relation thereto, Rule 6, Section 4 of the ERC Rules provides that the ERC shall inquire into the compliance with the pre-filing requirements. Furthermore, Rule IV, Section 2 of the ERC's Guidelines Governing Electronic Applications, Filings and Virtual Hearings before the Energy Regulatory Commission (ERC Guidelines)
+[84]
+ provides that the ERC must verify the completeness of the pre-filing requirements. If it finds the submission complete, the ERC shall notify the Pre-Filer with a Confirmation of Completeness E-mail (CCE). On the other hand, if it finds the submission incomplete, the ERC shall notify the Pre-Filer through a Notice of Incomplete Submission E-mail (NISE), with attached list of non-compliant or lacking pre-filing requirements, specifically indicating the reasons for its findings.
+From the foregoing, it is clear that the ERC has the following duties imposed by law, including its own rules and guidelines: (1) to implement the joint endorsement of the DOE and the electric power industry participants for the transition to the IMO; (2) to act on and approve applications for market fees filed by the Market Operator; and (3) verify the completeness of pre-filing requirements, and accordingly notify the Pre-Filer either with a CCE or a NISE.
+The ERC unlawfully neglected and refused to perform the foregoing duties imposed upon it by law.
+First, the ERC unlawfully neglected and/or refused to implement the IMO transition when it refused to recognize IEMOP as the IMO or Market Operator, insisting that "PEMC is the Market Operator and remains to be so as of date" and that the application for market fees will only be acted upon if the same is "officially filed by PEMC."
+[85]
+The ERC continued to do so despite: (1) the joint endorsement of the DOE and the electric power industry participants for the IMO transition, as reflected in DOE D.C. No. DC2018-01-0002 and PEMC's IMO Transition Plan; (2) the Operating Agreement between PEMC and IEMOP for the transfer and assumption of functions of the AGMO to the IMO; (3) IEMOP's repeated explanation in its pleadings and letters to the ERC that the AGMO already transitioned to IMO; (4) confirmation from the DOE Secretary that IEMOP is now the IMO and should be accorded "all the rights and authority granted to it by law, including the filing of market fees for the WESM;"
+[86]
+ and (5) PEMC's categorical statement in its letter to the ERC that it is no longer the AGMO and that an IMO has been duly formed, which is IEMOP.
+[87]
+Second, the ERC unlawfully neglected and refused to act on the Market Fees Application filed by IEMOP.
+Section 4(a) of R.A. No. 11032, otherwise known as the "Ease of Doing Business and Efficient Government Service Delivery Act of 2018," defines 
+action
+ as referring to "
+the written approval or disapproval
+ made by a government office or agency on the application or request submitted by an applicant or requesting party for processing."
+[88]
+Section 9(b)(2) of R.A. No. 11032 provides that "
+[n]o application or request shall be returned
+ to the applicant or requesting party 
+without appropriate action
+. In case an application or request is disapproved, the officer or employee who rendered the decision shall send a formal notice to the applicant or requesting party within the prescribed processing time, stating therein the reason for the disapproval."
+[89]
+ Moreover, Section 9(c) of the same law requires that "
+[a]ny denial
+ of application or request for access to government service 
+shall be fully explained in writing, stating
+ the name of the person making the denial and 
+the grounds upon which such denial is based
+."
+[90]
+In this case, the ERC argues that it did not neglect to perform its duty because it 
+acted
+ on IEMOP's Market Fees Application when it returned and "rejected" the same due to lacking documentary requirements and instructed the proper party that should file the application, 
+i.e.
+, PEMC, as stated in its 01 September 2020 e-mail to IEMOP. The said e-mail reads:
+Relative to your Application for Market Transaction Fees for CY 2021, we are 
+returning
+ [to] you the said Application received by the Commission on 18 August 2020 as directed by superiors. Please be advised that 
+PEMC should be the applicant under the said case
+.
+We also attached here the 
+pre-filing checklist
+ for the initial technical evaluation. We would like to reiterate that 
+the guidelines
+ provided in the Decisions under ERC Case 2014-092 RC and ERC Case 2015-160 RC 
+must be strictly complied for the progress of this case
+.
+For your information and reference.
+Thanks for your usual cooperation.
+xxx and best regards,
+Von Carlo Anonuevo
+Energy Regulation Officer II
+MOS-Spot Market Division
+[91]
+The foregoing e-mail cannot be considered as 
+action
+ on the part of the ERC as it is not a written approval or disapproval of the application. The e-mail "returned" the Application without 
+action
+ as it did not state whether the Application was approved or disapproved. At the most, the e-mail is a preliminary assessment of the accompanying requirements of the Application, where IEMOP was informed of the deficiency in the said requirements, pursuant to the first stage in Accessing Government Services provided under Section 9(a)(2), thus:
+Sec. 9. Accessing Government Services. â The following shall be adopted by all government offices and agencies:
+ 
+ 
+(a)
+ 
+Acceptance of Applications or Requests. â
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) All officers or employees shall accept written applications, requests, and/or documents being submitted by applicants or requesting parties of the offices or agencies.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) 
+The receiving officer or employee shall perform a preliminary assessment of the application
+ or request 
+submitted with its supporting documents to ensure a more expeditious action on the application or request. The receiving officer or employee shall immediately inform the applicant
+ or requesting party 
+of any deficiency in the accompanying requirements,
+ which shall be limited to those enumerated in the Citizen's Charter.
+[92]
+ 
+ 
+The e-mail dated 01 September 2020 cannot also be considered as a 
+denial
+ of IEMOP's Market Fees Application. Aside from the fact that the e-mail did not state that the application was "denied," "disapproved," or "dismissed," the e-mail does not fully explain the grounds upon which the "denial" is based, as required under Section 9(c) of R.A. No. 11032. In particular, it did not fully explain why "PEMC should be the applicant under the said case," despite IEMOP's discussion in its Application that the AGMO already transitioned to the IMO.
+Moreover, the tenor of the e-mail does not indicate the denial of the Market Fees Application as it was stated therein that the attached "pre-filing checklist for the initial technical evaluation" and "the guidelines provided in the Decisions under ERC Case 2014-092 RC and ERC Case x x x 
+must be strictly complied for the progress of this case
+."
+[93]
+ Hence, it cannot be said that IEMOP's Application has been 
+denied
+ as it may still progress upon compliance with the instructions in the said e-mail. The Application is thus, at the most, on hold pending compliance with the instructions in the e-mail, and has not been acted upon, 
+i.e.
+, approved or disapproved.
+Consequently, the ERC cannot be considered as having 
+acted
+ on and/or 
+denied
+ the Market Fees Application filed by IEMOP through the 01 September 2020 e-mail.
+Third, the ERC unlawfully, neglected to verify the completeness of IEMOP's pre-filing requirements, as provided for in its own Rules and Guidelines. This is shown by the fact that the ERC neither notified IEMOP either with a CCE or a NISE after IEMOP's compliance with the ERC's 01 September 2020 e-mail.
+While the ERC's e-mail dated 01 September 2020 may be considered as a Notice of Incomplete Submission E-mail or NISE, it must be noted that IEMOP pursued its remedy with respect to such e-mail by complying with the instructions therein, subsequently submitting additional documents with the ERC. This is in accordance with Rule IV, Section 3 of the ERC Guidelines, which provides that "[w]ithin sixty (60) calendar days from receipt of the First NISE, the Pre-Filer may continue the previously commenced pre-filing process through the submission, via e-mail, of the complete and compliant pre-filing requirements."
+IEMOP, as the Pre-Filer, continued its previously commenced pre-filing process. In addition to the proofs of compliance for the pre-filing requirements that were attached to the Market Fees Application, IEMOP filed a Manifestation and Submission with Request for Confidential Treatment of Information,
+[94]
+ and a Supplemental Submission with Request for Confidential Treatment of Information,
+[95]
+ submitting more documents in compliance with the e-mail dated 01 September 2020. The said submissions were made on 28 September 2020 and 12 October 2020, respectively, both within 60 calendar days from receipt of the First NISE, or the 01 September 2020 e-mail. As to the ERC's instruction that the PEMC should file the application, IEMOP reiterated its authority as IMO to file the application for market fees.
+After these submissions, the ERC made no other action. The ERC did not respond or make any other notification or communication to IEMOP despite its compliance with the 01 September 2020 e-mail and its numerous follow-up letters, the ERC continued to neglect and refuse to act on IEMOP's Market Fees Application, and its pre-filing requirements even after the DOE Secretary and the PEMC separately confirmed with the ERC the assumption of IEMOP as IMO, and its corresponding right and authority to file the Application.
+Instead, the ERC's Director of Market Operations Service sent the letter
+[96]
+ dated 15 February 2021 
+addressed to PEMC (not IEMOP)
+, stating that IEMOP's Market Fees Application was not given due course in view of the ERC's Decisions in Case Nos. 2014-092RC and 2015-160RC "where PEMC is the Market Operator and remains to be so as of date."
+[97]
+ Thus, the ERC will only act upon the Application if it is "officially filed by PEMC."
+[98]
+Such letter, however, cannot be considered as official action on IEMOP's Market Fees Application. Rule IV, Section 2 of the ERC's Guidelines, states that the ERC should 
+notify the Pre-Filer
+, 
+i.e.
+, IEMOP, through either a CCE or NISE. PEMC was not the Pre-Filer. It was a letter to a third party, not a CCE or NISE. Hence, such letter is not an 
+action
+ on IEMOP's Application.
+In any case, there is no merit in the ERC's citation of its previous decisions on applications for market fees "where PEMC is the Market Operator and remains to be so as of date." Clearly, such applications were filed by PEMC when it was still the AGMO. However, as established in this case, the AGMO has already transitioned to the IMO. The ERC has no authority to disregard such transition, which was done in accordance with Section 30 of the EPIRA.
+In view of its lack of authority and legal basis to refuse to recognize IEMOP and to act upon its Market Fees Application, the ERC has unlawfully neglected and refused to perform its legal duties to implement the IMO transition and to act upon the Application duly filed by IEMOP as the Market Operator.
+In refusing to perform such duties and to recognize IEMOP as the IMO, the ERC likewise unlawfully excluded IEMOP from its rights and authority as Market Operator, particularly its rights to file the application for market fees and to recover the cost of administering and operating the WESM, pursuant to Section 30 of the EPIRA.
+The ERC may be directed to perform
+its discretionary duty and to exercise
+its discretion in accordance with the
+law
+As a rule, 
+mandamus
+ shall issue only to compel the performance of a ministerial duty.
+[99]
+ However, the Court has ruled that 
+mandamus
+ may also issue in cases involving the performance of a discretionary duty where the concerned official or tribunal "can only be directed by 
+mandamus
+ to act, but not to act one way or the other, except where there is grave abuse of discretion, manifest injustice, or palpable excess of authority."
+[100]
+ 
+Mandamus
+ lies "to remedy official inaction."
+[101]
+Mandamus
+ is a proper remedy in cases of grave abuse of discretion, manifest injustice, or palpable excess of authority "because the discretion must be exercised under the law, and not contrary to law."
+[102]
+ Moreover, the courts can intervene through, the remedy of 
+mandamus
+ to compel action when there is unnecessary and unreasonable delay in the exercise of a duty that is clearly imposed by law upon an official or tribunal.
+[103]
+There is no issue in this case that the ERC's duty to approve the applications for market fees involves the exercise of discretion or judgment, and not merely ministerial. IEMOP filed the instant petition, praying that judgment be rendered to "ORDER Respondent ERC 
+to proceed with dispatch to consider
+ petitioner IEMOP's Market Fees Application for Calendar Year 2021 until its resolution on the merits.'"
+[104]
+ It reiterated that it does 
+not
+ pray for the favorable decision or action of the ERC on its Application, but only for the ERC 
+to act
+ upon the same, pursuant to its legal duty to approve applications for market fees.
+[105]
+IEMOP correctly argued that while the evaluation, consideration, and resolution of the Market Fees Application are discretionary on the part of the ERC, it is ministerial on the part of the ERC to act upon the Application, including the verification of the completeness of the pre-filing requirements.
+As discussed, IEMOP is the Market Operator authorized by law to file the application for market fees, and it has complied not only with the pre-filing requirements under the ERC's Rules, but also with the instructions in the ERC's 01 September 2020 e-mail. There is thus no reason left for the ERC to refuse to act upon IEMOP's Market Fees Application. The ERC has also unreasonably and unnecessarily delayed acting upon the Application to date, despite official confirmation from the DOE Secretary and the PEMC as of May 2021 that IEMOP is now the Market Operator.
+The ERC's continued refusal, unreasonable and unnecessary delay in acting upon IEMOP's Market Fees Application justify the issuance of the 
+mandamus
+ to direct the ERC to promptly act upon the said Application and proceed with dispatch in the process of its approval or disapproval. Such continued refusal and unreasonable and unnecessary delay without legal basis likewise constitute grave abuse of discretion, manifest injustice, or palpable excess of authority that further warrants the remedy of 
+mandamus
+.
+IEMOP has no other plain speedy,
+and adequate remedy against the
+ERC's inaction or refusal to act
+The ERC's inaction or refusal to act has left IEMOP with no appeal or any other plain, speedy, and adequate remedy in the ordinary course of law.
+By not acting on the Market Fees Application filed by IEMOP, the revenue and budgetary requirements of the Governance Arm and the Market Operator of the WESM for Calendar Year 2021 are put on hold and remain unacted upon.
+As explained above, the ERC cannot be considered as having 
+acted
+ upon or 
+denied
+ IEMOP's Market Fees Application. Until the ERC officially takes action on the Application, either to approve or disapprove the same, or at the very least its pre-filing request by issuing another NISE or a CCE, IEMOP has no formal or official action or decision to assail or appeal in the ordinary course of law. The remedy of 
+mandamus
+ is therefore the only available and adequate remedy to IEMOP against the ERC's continuing inaction.
+Thus, in view of all the foregoing, a writ of 
+mandamus
+ is proper to compel the ERC to perform its duties of acting upon and proceeding with the process of approval or disapproval of the Market Fees Application filed by IEMOP, and to accord IEMOP all the rights and authority of the Market Operator of WESM, in accordance with the EPIRA and the relevant rules and regulations.
+WHEREFORE
+, the Petition for 
+Mandamus
+ is hereby 
+GRANTED
+. Accordingly, respondent Energy Regulatory Commission is 
+ORDERED
+ to 
+IMMEDIATELY
+ act upon and resolve the Market Fees Application for Calendar Year 2021 filed by petitioner Independent Electricity Market Operator of the Philippines, Inc.
+SO ORDERED.
+Hernando, (Acting Chairperson),
+**
+ 
+Rosario,
+ and 
+Marquez, JJ.,
+ concur.
+Perlas-Bernabe,
+*
+ (Chairperson), J.,
+ On official leave.
+*
+ On official leave.
+**
+ Per Special Order No. 2882 dated 17 March 2022.
+[1]
+ 
+Antiquera v. Baluyot
+, 91 Phil. 213, 220 (1952).
+[2]
+ 
+Association of Small Landowners in the Philippines, Inc. v. Secretary of Agrarian Reform
+, 256 Phil. 777 (1989).
+[3]
+ Republic Act No. 9136, otherwise known as the "Electric Power Industry Reform Act of 2001" (EPIRA), Sec. 38.
+[4]
+ 
+Alyansa para sa Bagong Pilipinas, Inc. v. Energy Regulatory Commission
+, G.R. No. 227670, 03 May 2019 [Per J. Carpio]; 
+Philippine Chamber of Commerce and Industry v. Department of Energy
+, G.R. Nos. 228588, 229143 & 229453, 02 March 2021 [Per J. Leonen].
+[5]
+ 
+Rollo
+, pp. 3-51.
+[6]
+ Republic Act No. 9136 (EPIRA), Secs. 2 (b) and (c).
+[7]
+ Republic Act No. 9136 (EPIRA), Sec. 30.
+[8]
+ 
+Rollo
+, p. 19.
+[9]
+ Id at 95.
+[10]
+ 
+Id
+.
+[11]
+ 
+Id
+.
+[12]
+ 
+Id
+.
+[13]
+ 
+Id
+. at 111 and 871.
+[14]
+ 
+Id
+. at 95.
+[15]
+ 
+Id
+.; WESM History Timeline, available at https:
+//www.wesm.ph/about-us/wesm-history-timeline
+ (last accessed on 21 February 2022).
+[16]
+ 
+Id
+. at. 94-100.
+[17]
+ 
+Id
+. at 103-140.
+[18]
+ 
+Id
+. at 23; 103 and 464.
+[19]
+ Id at 97 and 120; DOE Department Circular (D.C.) No. DC2018-01-0002, Sec. 5.1; IMO Transition Plan, Sec. 5.3.
+[20]
+ 
+Id
+. at 97 and 121; DOE D.C. No. DC2018-01-0002, Secs. 5.2 and 5.3; IMO Transition Plan, Sec. 5.3.5.
+[21]
+ 
+Id
+. at 99 and 121; DOE D.C. No. DC2018-01-0002, Sec. 7.1; IMO Transition Plan, Sec. 5.4; Wholesale Electricity Spot Market (WESM) Rules, Sec. 1.4.1.
+[22]
+ 
+Id
+. at 97 and 114; DOE D.C. No. DC2018-01-0002, Sec. 5.3; IMO Transition Plan, Secs. 2.6.8 & 7.4.1.
+[23]
+ 
+Id
+. at 96.
+[24]
+ 
+Id
+. at 141-172.
+[25]
+ 
+Id
+. at 146; Operating Agreement, Sec. 2.01.
+[26]
+ 
+Id
+. at 24.
+[27]
+ 
+Id
+. at 54.
+[28]
+ 
+Id
+. at 71-89.
+[29]
+ 
+Id
+. at 282-291.
+[30]
+ 
+Id
+. at 309.
+[31]
+ 
+Id
+. at 311.
+[32]
+ 
+Id
+. at 337.
+[33]
+ 
+Id
+. at 323-334.
+[34]
+ 
+Id
+. at 360-369.
+[35]
+ 
+Id
+. at 383-387.
+[36]
+ 
+Id
+. at 404-405.
+[37]
+ 
+Id
+. at 407.
+[38]
+ 
+Id
+. at 416.
+[39]
+ 
+Id
+. at 760.
+[40]
+ 
+Id
+. at 761.
+[41]
+ 
+Id
+. at 762.
+[42]
+ 
+Id
+. at 538-564.
+[43]
+ 
+Id
+.
+[44]
+ 
+Id
+. at 552-556.
+[45]
+ 
+Id
+. at 566-601.
+[46]
+ 
+Id
+. at 831-848.
+[47]
+ 
+Id
+. at 851-852.
+[48]
+ 
+Id
+. at 853.
+[49]
+ 
+Id
+.
+[50]
+ 
+Id
+. at 853-856.
+[51]
+ Id at 864-867.
+[52]
+ 
+Id
+. at 865.
+[53]
+ 
+Id
+. at 857-863.
+[54]
+ 737 Phil. 210, 250-251 (2014).
+[55]
+ RULES OF COURT, Rule 65, Sec. 3.
+[56]
+ RULES OF COURT, Rule 65, Sec. 3.
+[57]
+ 
+De Castro v. Judicial and Bar Council
+, 629 Phil. 629, 705 (2010)
+[58]
+ EPIRA IRR, Rule 4 (bbb).
+[59]
+ EPIRA IRR, Rule 4 (ss). Emphasis supplied.
+[60]
+ 
+Rollo
+, pp. 94-100; "Adopting Policies for the Effective and Efficient Transition to the Independent Market Operator for the Wholesale Electricity Spot Market."
+[61]
+ 
+Id
+. at 103-140; "Plan for Transition to the Independent Market Operator of the Philippine Wholesale Electricity Spot Market."
+[62]
+ 
+Id
+. at 146; Operating Agreement, Sec. 2.01.
+[63]
+ 
+Id
+. at 864-867.
+[64]
+ 
+Id
+. at 857-863.
+[65]
+ EPIRA IRR, Rule 4 (aaa): "'Market Fees' refer to the charges imposed on all market members by the Market Operator to cover the cost of administering and operating the WESM, as approved by the ERC."
+[66]
+ Emphasis and underscoring supplied.
+[67]
+ 
+Rollo
+, p. 97. Emphasis and underscoring supplied.
+[68]
+ 
+Id
+. at 130. Emphasis and underscoring supplied.
+[69]
+ 
+Id
+. at 153. Emphasis and underscoring supplied.
+[70]
+ 
+Id
+. at 864-867.
+[71]
+ 
+Id
+. at 865. Emphasis and underscoring supplied.
+[72]
+ ERC Rules of Practice and Procedure (ERC Rules), Rule 6, Secs. 1 and 2
+[73]
+ 
+Rollo
+, p. 282.
+[74]
+ 
+Id
+. at 283.
+[75]
+ 
+Id
+. at 284.
+[76]
+ 
+Id
+. at 285-290.
+[77]
+ 
+Id
+. at 291.
+[78]
+ Manifestation and Submission with Request for Confidential Treatment of Information dated 28 September 2020; 
+Id
+. at 323-334.
+[79]
+ Supplemental Submission with Request for Confidential Treatment of Information dated 12 October 2020; 
+Id
+. at 360-369.
+[80]
+ 
+Id
+. at 311.
+[81]
+ R.A. No. 9136 (EPIRA), Sec. 43 (a) and (c).
+[82]
+ R.A. No. 9136 (EPIRA), Sec. 38.
+[83]
+ 
+Alyansa para sa Bagong Pilipinas, Inc. v. Energy Regulatory Commission
+, supra note 4. Emphasis supplied. See also 
+Philippine Chamber of Commerce and Industry v. Department of Energy
+, supra note 4.
+[84]
+ ERC Resolution No. 9, series of 2020.
+[85]
+ 
+Rollo
+, pp. 851-852.
+[86]
+ 
+Id
+. at 865.
+[87]
+ 
+Id
+. at 857-858.
+[88]
+ Emphasis supplied.
+[89]
+ Emphasis and underscoring supplied.
+[90]
+ Emphasis and underscoring supplied.
+[91]
+ 
+Rollo
+, p. 311. Emphasis supplied.
+[92]
+ 
+Id
+.
+[93]
+ 
+Id
+. Emphasis and underscoring supplied.
+[94]
+ 
+Id
+. at 323-334.
+[95]
+ 
+Id
+. at 360-369.
+[96]
+ 
+Id
+. at 851-852.
+[97]
+ 
+Id
+. at 853.
+[98]
+ 
+Id
+.
+[99]
+ 
+De Castro v. Judicial and Bar Council
+, supra note 57.
+[100]
+ 
+M.A. Jimenez Enterprises, Inc. v. Ombudsman
+, 665 Phil. 523, 540-541 (2011).
+[101]
+ 
+Lemi v. Valencia
+, 135 Phil. 185, 186 (1968).
+[102]
+ 
+Antiquera v. Baluyot
+, 91 Phil. 213, 220 (1952).
+[103]
+ 
+Association of Small Landowners in the Philippines, Inc. v. Secretary of Agrarian Reform
+, 256 Phil. 777, 803 (1989).
+[104]
+ 
+Rollo
+, p. 43. Emphasis supplied.
+[105]
+ 
+Id
+. at 586.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)
