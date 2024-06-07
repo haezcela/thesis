@@ -1,0 +1,342 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			845 Phil. 858
+			
+
+
+
+
+FIRST DIVISION
+
+
+[ G.R. No. 228262, January 21, 2019 ]
+
+
+PEOPLE OF THE PHILIPPINES, PLAINTIFF-APPELLEE, VS. JOENIL PIN MOLDE, ACCUSED-APPELLANT.
+D E C I S I O N
+
+
+
+
+DEL CASTILLO, J.:
+
+
+Assailed in this appeal is the October 30, 2015 Decision
+[1]
+ of the Court of Appeals (CA) in CA-G.R. CR-HC No. 06077 which affirmed the April 3, 2013 Decision
+[2]
+ of the Regional Trial Court (RTC), Branch 197, Las PiÃ±as City, finding Joenil Pin Molde (appellant) guilty beyond reasonable doubt of the crime of qualified theft.
+The Antecedent Facts
+Appellant was charged with the crime of qualified theft under Article 310, in relation to Article 308, of the Revised Penal Code (RPC) in an Information which reads:
+That on or about the 26
+th
+ day of May 2010, in the City of Las PiÃ±as, Philippines and within the jurisdiction of this Honorable Court, the above named accused, being then the former ACCOUNTING IN CHARGE of SUN PRIDE FOODS INC. Las PiÃ±as City branch, herein represented by: complainant HENRY DY, and as such he has custody of all the cash collections and checks of the said company and enjoying the trust and confidence reposed upon him by said complainant, with intent to gain and without the knowledge and consent of the latter and with grave abuse of confidence, did then and there willfully, unlawfully and feloniously take, steal and carry away cash money amounting to Php1,149,960.56, belonging to the said SUN PRIDE FOODS INC. herein represented by: HENRY DY, to the damage and prejudice of the latter in the total amount of Php1,149,960.56.
+CONTRARY TO LAW.
+[3]
+During his arraignment on November 15, 2010, appellant entered a plea of not guilty.
+[4]
+ Trial thereafter ensued.
+Version of the Prosecution
+The prosecution's version of the incident is as follows:
+Appellant was hired as an office clerk by Sun Pride Foods, Inc. (Sun Pride) in 2006. In February 2008, he was assigned to the company's Las PiÃ±as Branch as the "accounting-in-charge".
+[5]
+ As such, appellant had custody over the cash and check collections of sales agents as well as the Weekly Remittance Transmittal Reports (WRTR) submitted by them.
+[6]
+ In particular, he was in-charge of depositing the cash payments in Sun Pride's account with the Bank of the Philippine Islands (BPI), and sending the checks issued as payments for Sun Pride to its main office in Cebu City.
+[7]
+Sometime in 2010, Grace Maquiling, the overall head of accounting of Sun Pride, ordered an investigation with regard the low cash remittances from the company's Las PiÃ±as Branch. After the audit conducted by Mariano Victorillo (Victorillo), Sun Pride's internal auditor, it was discovered that the total amount unremitted to Sun Pride had ballooned to P1,149,960.56, comprising of P757,998.35 in cash and P391,962.21 in checks.
+[8]
+After furnishing appellant with a copy of the audit report, Sun Pride sent two demand letters requiring the former to pay the total unremitted amount but to no avail. Sun Pride eventually suspended appellant from work pending investigation. For his part, appellant stopped reporting to work after tendering his letter of resignation despite Sun Pride's refusal to accept said letter.
+[9]
+Version of the Defense
+Appellant denied the allegations against him. He testified that:
+While [he] received check payments, the checks were payable to [Sun Pride] Foods, Inc., and he was not authorized to encash the same. Also, the BPI bank deposit slips he received were from the sales agents, who deposit their cash collections directly to the bank. Copies of the deposit slips were submitted to him to be attached to the WRTR.
+[10]
+Ruling of the Regional Trial Court
+In its Decision dated April 3, 2013, the RTC found appellant guilty beyond reasonable doubt of the crime of qualified theft.
+[11]
+ It held that:
+[A]s Accounting-In-Charge of [Sun Pride) in its branch in Las PiÃ±as City, [appellant] was authorized to receive collections and payments from sales agents and walk-in customers of [Sun Pride). [Appellant] was able to perpetrate the crime, using the trust and confidence reposed upon him by [Sun Pride], by his failure to remit all collections [that] he received. To reiterate, [the] audit report of [Sun Pride's] internal audit showed that [appellant] unlawfully took the amount of Php1,149,960.56 belonging to [Sun Pride.]
+[12]
+x x x x
+The defense of denial advanced by [appellant] that he did not receive cash collections from [Sun Pride's] sales agents cannot overcome the positive declaration of the prosecution[']s witnesses, particularly [S]ales [A]gents Remogat and Tigson that they directly remitted their cash collection to [appellant.] The audit report showing the unremitted amount supports and bolsters the claim of the sales agents. x x x
+[13]
+Accordingly, the RTC sentenced appellant to suffer the penalty of 
+reclusion perpetua
+ and to pay Sun Pride the amounts of P1,149,960.56, representing the stolen funds, and P458,863.48 as attorney's fees and other litigation expenses.
+[14]
+Appellant thereafter appealed the RTC Decision before the CA.
+Ruling of the Court of Appeals
+In its Decision dated October 30, 2015, the CA affirmed the assailed RTC Decision 
+in toto
+. It upheld the RTC's findings that the prosecution was able to prove all the elements of the crime charged.
+[15]
+The CA further noted that appellant's denial of the allegations against him was merely a desperate attempt to exculpate himself from liability, 
+viz
+.:
+Notably, initially[,] [appellant] on cross-examination x x x had acknowledged that he received the cash and checks. Later, [appellant] on cross-examination x x x claimed that he did not receive the cash collections and checks. This denial (after initially admitting receipt [thereof]) was a desperate attempt to exculpate himself from liability and an intrinsically weak defense which must be buttressed by strong evidence of non-culpability to merit credibility. [Appellant] did not adduce any such strong evidence to support his claim that he did not receive such cash collections and checks. Bare denials cannot overcome the positive testimonies of private complainant Sun Pride's sales agents that they turned over the cash collections and checks to [appellant]. The defense that [appellant] did not receive the cash and checks was a mere afterthought, in a desperate attempt to escape criminal liability for the crime he committed.
+[16]
+Aggrieved, appellant filed the present appeal.
+The Issue
+Appellant raises the sole issue of whether his guilt was proven beyond reasonable doubt, considering the prosecution's failure to present evidence that he indeed pocketed the missing cash and check remittances from Sun Pride in the total amount of P1,149,960.56.
+[17]
+The Court's Ruling
+The elements of qualified theft are: "(
+a
+) taking of personal property; (
+b
+) that the said property belongs to 'another; (
+c
+) that the said taking be done with intent to gain; (
+d
+) that it be done without the owner's consent; (
+e
+) that it be accomplished without the use of violence or intimidation against persons, nor of force upon things; [and] (
+f
+) that it be done with grave abuse of confidence."
+[18]
+After a thorough review of the records, we find that the prosecution miserably failed to establish the elements of the crime of qualified theft. The prosecution failed to prove the crucial elements of 
+taking of personal property
+ and 
+intent to gain
+ on the part of appellant.
+For one thing, the subject checks were issued 
+payable to Sun Pride
+; hence, appellant could not have possibly presented said checks to the drawee bank for encashment for his own personal gain. This fact was confirmed by Sun Pride's own internal auditor, Victorillo, who testified that:
+[ATTY. VICTOR REY BUENAVENTURA]
+Q: 
+The One Million something, did it consist [of cash or checks?]
+A: 
+It consist[ed] of cash and checks[,] sir.
+x x x x
+Q: 
+The checks [were] payable to [appellant?]
+A: 
+Payable to Sun Pride[,] sir.
+Q: 
+He could not encash the check in his own initiative?
+A: 
+Yes[,] sir.
+Q:
+[Was appellant] able to encash those checks?
+A: 
+Not yet[,] your honor.
+Q: 
+Where are those checks now?
+A:
+ 
+I don't know[,] your honor.
+[19]
+ (Emphasis supplied)
+For another, it appears that appellant, too, could not have taken the cash collections of Sun Pride's sales agents for his own personal gain, considering that what he actually received from said sales agents were only deposit slips of the cash payments, personally deposited by the sales agents themselves with the bank. This matter was exhaustively discussed by the defense during appellant's direct examination, 
+viz
+.:
+[ATTY. PERLITA DP DASING:]
+Q: 
+x x x [Y]ou said you also do collections from sales agents, x x x what specifically do you collect from sales agents?
+A:
+ I collected the Weekly Remittance and [sic] Transmittal Report with the acknowledgment receipts from the customers, official receipts, checks and deposit slips for the cash collections, ma'am.
+[20]
+x x x x
+Q:
+ 
+The deposit slips[,] what are these deposit slips that you are referring to?
+A:
+ 
+Deposit slips [of] their cash,collections, ma'am.
+[21]
+x x x x
+Q: 
+How did the sales agents have deposit slips from banks x x x if you know?
+A: 
+They will deposit their cash collections directly to the bank then [we retain] two (2) copies of deposit slips[:] one mailed to Cebu and the other one left as attachment [on the WRTR], ma'am.
+[22]
+x x x x
+Q: 
+We go to Exhibit 'R' because it has here [a] different portion of a deposited amount. Exhibit 'R', [y]our Honor, is the WRTR by the name of Sonia M. Tigson [(one of Sun Pride's sales agents)] dated December 13, 2009 and [in] this WRTR[,] it has on the 'amount' portion, it has a figure there and for the record, [y]our Honor, is [P]13,711.50, what does it show to us?
+A: 
+That means Sonia Tigson deposited [the amount of [P]13,711.50, ma'am.
+[23]
+ (Emphasis supplied)
+x x x x
+Q: 
+Why do you say that Sonia Tigson deposited the corresponding amount of [P]13,711.50?
+A: 
+Because it was indicated in the deposited amount together with the supporting documents coming from the bank as evidence that [she] deposited the amount, ma'am.
+[24]
+ (Emphasis supplied)
+Notably, the prosecution 
+never
+ denied that the company policy mandated its sales agents to personally deposit their cash collections to the bank.
+[25]
+ It simply argued that the policy was suddenly changed for the months of November and December [2009] and January [2010] to accommodate the high sales during said period.
+[26]
+ The documentary evidence, however, 
+negates
+ this assertion completely.
+To illustrate, the WRTR of Sonia Tigson (Tigson) dated December 13, 2009 showed that P47,467.80 worth of cash collections for the period December 7 to 12, 2009 had been deposited by Tigson herself to Sun Pride's bank account.
+[27]
+ Another WRTR dated December 13, 2009 similarly showed that cash collections for the same period in the sum of P95,850.37 was also deposited by Tigson to said bank account.
+[28]
+Significantly, the prosecution failed to adduce any evidence that appellant had actually received the check and cash collections from the company's sales agents. The supposed acknowledgment receipts proving that appellant actually received cash and check remittances from Sun Pride's sales agents had mysteriously gone missing and could not be located in any of the company's offices. For clarity, the pertinent portion of Victorillo's testimony is quoted below:
+COURT
+Q: 
+There was no document to show that indeed [appellant] received the remittances from the agents?
+A: 
+There was[,] your honor, but the same is missing in our office.
+Q:
+ Did you not ask the respective agents who [were] in possession of the documents that indeed the accused received the same?
+A: 
+I asked the agents, your h nor[,] but their copies were missing in the office.
+Q: 
+Why is it that they were missing in the office?
+A: 
+When I asked from the agent the WRTR (transmittal report) and they look[ed] [for] the same [inside] their drawers but the same was missing[,] your honor.
+Q: 
+Drawers of whom?
+A:
+ 
+Of their own drawers[,] your honor.
+Q: 
+Drawers of the respective agents?
+A: 
+Yes[,] your honor.
+Q: 
+Those acknowledgment receipt[s] signed by [appellant] were lost while inside the respective drawers of the agents?
+A: 
+[Maybe,] your honor.
+x x x x
+Q: 
+You just presumed about the allegation or claim of agents that they remitted the amount, without proving that the [appellant] received the amount?
+A: 
+Yes[,] your honor.
+[29]
+ (Emphasis supplied)
+The totality of these circumstances leads us to inevitably conclude that the elements of 
+taking of personal property with intent to gain
+ were not proven beyond reasonable doubt. Absent any concrete proof that appellant indeed received: (
+a
+) cash collections of Sun Pride's sales agents; and/or (
+b
+) checks payable to cash or in appellant's name, he cannot be adjudged to have taken the same for his own personal gain.
+At this juncture, it bears to stress that the burden to overcome the presumption of innocence of the accused lies on the prosecution.
+[30]
+ It is in this context that we have consistently ruled that "the evidence for the prosecution must stand or fall on its own weight and cannot be allowed to draw strength from the weakness of the defense."
+[31]
+WHEREFORE
+, the appeal is 
+GRANTED
+. The October 30, 2015 Decision of the Court of Appeals in CA-G.R. CR-HC No. 06077 is 
+REVERSED
+ and 
+SET ASIDE
+. Appellant Joenil Pin Molde is hereby 
+ACQUITTED
+ for insufficiency of evidence. His immediate 
+RELEASE
+ from detention is hereby ordered unless he is being held for another lawful cause.
+Let a copy of this Decision be furnished the Director of the Bureau of Corrections, Muntinlupa City for immediate implementation, who is then also directed to report to this Court the action he has taken within five (5) days from his receipt of this Decision
+SO ORDERED.
+Bersamin, C. J., A. Reyes, Jr.
+,
+*
+ 
+Gesmundo
+, and 
+Carandang, JJ.
+, concur.
+*
+ Per Raffle dated January 14, 2019, vice J. Jardeleza who recused due to prior action as Solicitor General.
+[1]
+ 
+Rollo
+, pp. 2-12; penned by Associate Justice Nina G. Antonio-Valenzuela and concurred in by Associate Justices Fernanda Lampas Peralta and Jane Aurora C. Lantion.
+[2]
+ CA 
+rollo
+, pp. 20-37; penned by Judge Ismael T. Duldulao.
+[3]
+ Records, p. 1.
+[4]
+ See Certificate of Arraignment, id. at 137. 
+[5]
+ CA 
+rollo
+, pp. 101.
+[6]
+ Id. at 101-102.
+[7]
+ Id. at 102.
+[8]
+ Id.
+[9]
+ Id. at 102-103.
+[10]
+ Id. at 60.
+[11]
+ Id. at 37.
+[12]
+ Id. at 34-35.
+[13]
+ Id. at 36.
+[14]
+ Id. at 37.
+[15]
+ 
+Rollo
+, p. 2-12.
+[16]
+ Id. at 11.
+[17]
+ CA 
+rollo
+, pp. 62-64.
+[18]
+ 
+People v. Cruz
+, 786 Phil. 609, 618 (2016).
+[19]
+ TSN, April 28, 2011, pp. 16-17.
+[20]
+ TSN, June 26, 2012, pp. 13-14.
+[21]
+ Id. at 14-15.
+[22]
+ Id. at 15.
+[23]
+ Id. at 22. See also Exhibit "R," records, p. 354.
+[24]
+ Id.
+[25]
+ TSN, September 27, 2012, pp. 7-8.
+[26]
+ Id. at 9.
+[27]
+ Records, p. 354.
+[28]
+ Id. at 355.
+[29]
+ TSN, April 28, 2011, pp. 28-30.
+[30]
+ 
+People v. Dacuma
+, 753 Phil. 276, 287 (2015).
+[31]
+ Id.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)

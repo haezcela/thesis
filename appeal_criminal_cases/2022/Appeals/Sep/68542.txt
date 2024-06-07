@@ -1,0 +1,1566 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+
+
+
+
+
+
+THIRD DIVISION
+
+
+[ G.R. Nos. 242506-10, September 14, 2022 ]
+
+
+LUIS RAMON P. LORENZO, 
+PETITIONER
+, VS. HON. SANDIGANBAYAN (SIXTH DIVISION) AND THE PEOPLE OF THE PHILIPPINES, 
+RESPONDENTS
+.
+[G.R. Nos. 242590-94]
+ARTHUR CUA YAP, 
+PETITIONER
+, VS. SANDIGANBAYAN (SIXTH DIVISION) AND THE PEOPLE OF THE PHILIPPINES, 
+RESPONDENTS
+.
+D E C I S I O N
+
+
+
+
+CAGUIOA, J:
+
+
+Before the Court are consolidated
+[1]
+ Petitions
+[2]
+ for 
+Certiorari
+ under Rule 65 of the Rules of Court, assailing the August 9, 2018 and September 25, 2018 Resolutions
+[3]
+ of the Sandiganbayan Sixth Division (Sandiganbayan) in Criminal Case Nos. SB-18-CRM-0288 to 0292 (subject criminal cases). Tue assailed Resolutions denied the Motions to Quash Informations filed by petitioners Luis Ramon P. Lorenzo (Lorenzo) and Arthur C. Yap (Yap).
+The subject criminal cases stemmed from the alleged anomalous procurement of various quantities of fertilizer (granular urea) from the Philippine Phosphate Fertilizer Corporation (Philphos) for the Luzon regions in 2003.
+[4]
+ At the time material to these cases, Lorenzo was the Secretary of the Department of Agriculture (DA) and Yap was the Administrator of the National Food Authority (NFA).
+The Facts
+On April 20, 2018, five Criminal Informations for violation of Section 3(e)
+[5]
+ of Republic Act No. (R.A.) 3019 (the Anti-Graft and Corrupt Practices Act) were filed against Lorenzo, Yap, and Tomas A. Guibani (Guibani), the latter being the representative of Philphos. One Information reads in part:
+On 04 July 2003, or sometime prior or subsequent thereto, in the City of Manila, Philippines, and within the jurisdiction of this Honorable Court, the above-named accused 
+LUIS P. LORENZO, JR.
+ and 
+ARTHUR C. YAP
+, both public officers with salary grade 30, being then the Secretary of the Department of Agriculture and Administrator of the National Food Authority (NFA), respectively, while in the performance of their official functions and in grave abuse thereof, acting with evident bad faith, manifest partiality and/or gross inexcusable negligence, conspiring with one another and with co-accused 
+TOMAS A. GUIBANI
+, Representative of the Philippine Phosphate Fertilizer Corporation (Philphos), did then and there, willfully, unlawfully, and criminally cause undue injury to the government and/or give unwarranted benefits, advantage and preference to Philphos, by (a) directing the Regional Bids and Awards Committees (RBACs) of NFA Regions 1 to 5 and the National Capital Region (NCR) to conduct procurement of their fertilizer requirements through the negotiated mode in violation of the general rule on competitive bidding prescribed under Section 10 of Republic Act 9184; (b) issuing a guideline that the opening of the bids for the Luzon-wide procurement of fertilizers shall be simultaneously done at the NFA Central Office in Manila; and (c) amending the original guideline allowing only those suppliers with depots within and/or adjacent to the procuring NFA Region to participate as bidders, which issuances and directives were issued to ensure the award to ManilaÂ­based Philphos of the Php595,636.37 procurement contract for the supply of 1,300 bags of fertilizers to NFA-NCR to the damage and prejudice of the government.
+CONTRARY TO LAW.
+[6]
+The other four Informations were similarly worded except for (a) the date and place of the commission of the crime, (b) the NFA region involved, (c) the amount of the contract, and (d) the quantity of fertilizers.
+[7]
+The factual backdrop of the case is summarized by the Office of the Ombudsman (Ombudsman) as follows:
+The national government, through the Department of Agriculture (DA) allotted Four Hundred Thirty[-]Two Million Pesos (PhP432M) for the 
+Ginintuang Masaganang Ani (GMA) Rice Program in 2003
+.
+In a 
+Memorandum dated 30 April 2003, respondent DA Secretary [Lorenzo] authorized the National Food Authority (NFA) to enter into contracts for the procurement of fertilizers intended for the wet season (May to October 2003)
+.
+Thus, on May 13, 2003 
+the DA and the NFA entered into a Memorandum of Agreement (MOA) to jointly implement the fertilizer component of the GMA Rice Program for the government
+.
+Two Hundred Million Pesos (PhP200M) was transferred by the DA to the NFA Central Office, which in turn, released PhP151,981,640.00 to its Regional Field Units (RFUs) all over the country. The NFA Regional and Provincial Offices in Luzon received a total allocation of PhP108,885,979, but actual fund releases amounted only to PhP105,608,679.00 x x x.
+x x x x
+The PhP105,608,679.00 actual disbursement was utilized for the procurement of fertilizers (PhP74,701,400.00) arid certified seeds (PhP23,437,139.00) and other administrative expenses (PhP7,470,140.00) related thereto.
+[8]
+ (Emphasis supplied)
+The regions in the Luzon-wide procurement of fertilizers were as follows: NFA Region I (Ilocos Region), NFA Region II (Cagayan Valley), NFA Region III (Central Luzon), NFA Region IV (CALABARZON and MIMAROPA), NFA Region V (Bicol Region), and National Capital Region (NCR). The Ombudsman found several irregularities in the procurement of fertilizers in the said regions. Mainly, the grounds relied upon by the Ombudsman were the absence of public bidding and other acts allegedly showing manifest partiality towards Philphos.
+The negotiated mode was adopted in the Luzon-wide procurement of fertilizers amounting to P46,831,638.00, upon the instruction of Yap, as authorized by Lorenzo. The mode was adopted for the reason given that there was an emergency brought by the urgency to buy the needed fertilizers in time for the May to October cropping season.
+[9]
+ 
+To ensure an unimpeded procurement process, Yap also issued general guidelines 
+via
+ wire instructions to the concerned NFA officials in Regions I to V and the NCR. Among these were: 1) the opening of bids to be conducted simultaneously at NFA Central Office; and 2) a directive that suppliers with depots outside or adjacent to the procuring region may submit their bids or be invited to participate in the bids.
+[10]
+The Ombudsman found that the DA-Central, as the primary implementing office of the 2003 GMA Rice Program, actively intervened in the procurement process through its regional directors who were given authority to confirm the initial recommendations of the Regional Bids and Awards Committee (RBAC) of each procuring NFA Region. The DA also submitted the list of accredited suppliers that were invited by the RBAC of each NFA Regional Office. Moreover, the DA issued certifications that enabled Philphos to participate in all the subject biddings despite it being a Manila-based business entity.
+[11]
+The Ombudsman Ruling
+In a Resolution
+[12]
+ dated July 25, 2017, the Ombudsman ordered the filing of separate Informations for five (5) counts of violation of Section 3(e) of R.A. 3019 against Lorenzo, Yap, and Guibani. The Ombudsman found that Lorenzo and Yap, as public officers, and in conspiracy with Guibani, demonstrated manifest partiality towards Philphos.
+The Ombudsman found that Lorenzo intentionally favored Philphos by sanctioning the conduct of the Luzon-wide procurement without public bidding and by delegating the procurement task to the NFA. The resort to negotiated procurement was done even without meeting the criteria set forth in R.A. 9184 or the Government Procurement Act, allegedly to meet an emergency.
+[13]
+As for Yap, the Ombudsman found that he actively intervened in the biddings conducted. Specifically, the Ombudsman found that Yap's issuances enabled Philphos to participate in the procurements conducted for Regions I to V and the NCR. According to the Ombudsman, the law provides for the non-discretionary pass/fail criteria on eligibility check of bidders, hence, Yap's amendments of the criteria or guidelines after the conduct of the June 27, 2003 bidding in order to make Philphos eligible and compliant was highly irregular and showed his predilection towards Philphos.
+[14]
+According to the Ombudsman, Lorenzo and Yap "wielded their power and influence as DA Secretary and NFA Administrator, respectively, to control the bidding procedures and the technical requirements/eligibility of prospective bidders to tailor-fit the requirements of favored bidder Philphos,"
+[15]
+ and therefore, probable cause exists to indict them for violation of Section 3(e) of R.A. 3019.
+The Ombudsman, however, found no showing that the government was grossly disadvantaged when the fertilizers were purchased from Philphos as to hold Lorenzo and Yap liable for violation of Section 3(g) of R.A. 3019.
+[16]
+ Likewise, the Ombudsman dismissed the charge for violation of Section 65(6)(4) of R.A. 9184 against Lorenzo, Yap, and their co-respondents.
+[17]
+Yap moved for partial reconsideration where he: (i) maintained the absence of the elements of violation of Section 3(e) of R.A. 3019, (ii) disputed the finding of conspiracy, and (iii) claimed that his right to speedy disposition of cases has been violated. He also attached the Ombudsman's May 6, 2015 Joint Resolution in OMB-C-C-14-0064 titled 
+FIO v. Lorenzo, et al.
+, which dismissed a case involving the same set of facts but in the Visayas region.
+[18]
+In a Joint Order
+[19]
+ dated October 23, 2017 and approved on January 15, 2018, the Ombudsman denied the Motion for Partial Reconsideration.
+Aggrieved, Lorenzo, Yap, and Guibani filed before the Sandiganbayan their respective Motions to Quash and/or Dismiss.
+[20]
+Yap and Lorenzo both assailed the Informations on the following grounds: 1) the facts alleged in the Informations do not constitute an offense; and 2) the inordinate delay in the proceedings had ousted the Ombudsman of its authority to file the lnformations.
+[21]
+Among the contentions made by Lorenzo is that the resort to negotiated procurement was above board.
+[22]
+ He pointed out that R.A. 9184 became effective on January 26, 2003 while the questioned procurements occurred between May to August 2003. However, the Implementing Rules and Regulations-A (IRR-A) of R.A. 9184, which require public bidding in government procurement, took effect only on October 8, 2003 and, under Section 77 thereof, it is specifically stated that where the advertisements or invitations for bids were issued after the effectivity of R.A. 9184 but before the effectivity of the IRR-A, then the applicable law at the time of the questioned procurements would be Executive Order No. (E.O.) 40: 
+In cases 
+where the advertisements or invitations for bids were issued after the effectivity of the Act but before the effectivity of this IRR-A
+, procuring entities 
+may continue adopting the procurement procedures, rules and regulations provided in E.O. 40
+ and its IRR, P.D. 1594 and its IRR, R.A. 7160 and its IRR, or other applicable laws, as the case may be.
+[23]
+ (Emphasis and underscoring supplied)
+Lorenzo also brought to fore the previous rulings by the Ombudsman in similar cases involving the same parties and factual backdrop where the charges against him and his co-respondents were dismissed. In this regard, Yap invoked the exception to the general rule that only allegations within the four comers of an information should be considered in resolving a motion to quash based on the ground that the facts alleged therein do not constitute an offense.
+[24]
+Lastly, Lorenzo and Yap alleged that there has been an inordinate delay in the termination of the preliminary investigation against them, which amounts to a violation of their right to speedy disposition of cases.
+[25]
+ As emphasized by Lorenzo, counting from October 2003 when the fact-finding investigation was officially commenced and up to April 20 2018 when the five Informations were filed with the Sandiganbayan, it took more than 14 years for the Ombudsman to build a case against them.
+[26]
+The Sandiganbayan Ruling
+In a Resolution
+[27]
+ dated August 9, 2018, the Sandiganbayan denied the motions of Lorenzo, Yap, and Guibani. The Sandiganbayan found that the material averments in the Informations, assuming them to be true, sufficiently allege all the elements constitutive of violation of Section 3(e) of R.A. 3019, as amended. An Information needs only to state the ultimate facts constituting the offense, not the finer details of why and how the illegal acts amounted to undue injury or damage â matters that are appropriate for trial.
+[28]
+On Lorenzo's allegation that negotiated procurement was proper, the Sandiganbayan ruled that even granting 
+arguendo
+ that E.O. 40, and not R.A. 9184 was applicable, resort to methods of procurement other than competitive bidding remained subject to the following preconditions: 1) when justified by extraordinary conditions; 2) prior approval of the head of the agency; and 3) resort thereto was made in the interest of economy and efficiency. The Sandiganbayan agreed with the prosecution that "whether Lorenzo was justified from deviating from the general requirement of competitive bidding is evidentiary in nature and is a matter of defense that may be passed upon after a full-blown trial on the merits."
+[29]
+ 
+The Sandiganbayan also ruled that Lorenzo and Yap cannot rely on past resolutions of the Ombudsman to justify the quashal of the instant Informations since the facts in those cases are not on all fours with the present case. The Sandiganbayan also ruled that evidence 
+aliunde
+ cannot be used to quash the information and likewise, matters of defense cannot be considered in a motion to quash.
+[30]
+The Sandiganbayan also rejected their claim of violation of the right to speedy disposition of cases. The Sandiganbayan reckoned the commencement of the prosecutorial process as of the year 2013, when the Complaint was filed by the Field Investigation Office (FIO) of the Ombudsman against petitioners. While the Sandiganbayan recognized that there was a delay of more than three years to finish the preliminary investigation, it found that such delay alone should not be a cause for an unfettered abdication of its duty to try cases and to finally make a determination of the controversy after the presentation of evidence. According to the Sandiganbayan, the delay adverted to in these cases does not measure up to the unreasonableness of the delay of disposition as laid out in jurisprudence.
+[31]
+ In any case, the Sandiganbayan ruled that Lorenzo and Yap waived their right to speedy disposition of cases for their failure to seasonably invoke the same.
+[32]
+Lorenzo and Yap moved for reconsideration, which was denied by the Sandiganbayan in a Resolution
+[33]
+ dated September 25, 2018. Thus, Lorenzo and Yap filed before the Court their respective petitions for certiorari with application for issuance of a temporary restraining order (TRO).
+Proceedings before the Court
+In his Rule 65 Petition,
+[34]
+ Lorenzo argues that the Sandiganbayan committed grave abuse of discretion amounting to lack or excess of jurisdiction: 1) when it did not apply the exception to the hypothetical admission rule that evidence 
+aliunde
+ may be allowed or considered in resolving a motion to quash to serve the ends of justice; 2) in not quashing the subject Informations when Lorenzo was being charged for violating IRR-A of R.A. 9184 which took effect only on October 8 2003 for a transaction undertaken during the period of May to August 2003; and 3) when it did not apply the prevailing and applicable jurisprudence on the matter of inordinate delay at the time his omnibus motion was filed with the court.
+[35]
+Yap's Petition
+[36]
+ is based on similar grounds. He claims that the Sandiganbayan committed grave abuse of discretion amounting to lack or excess of jurisdiction when it denied his motion to quash informations on the ground that the facts charged therein do not constitute an offense. Yap maintains that in resolving his motion to quash, the Sandiganbayan should have considered evidence 
+aliunde
+ which are admitted or not denied by the prosecution, emphasizing that the prosecution's mere objection to a motion to quash information does not foreclose the application of the exception to the general rule. Moreover, Yap argues that the inordinate delay in the termination of the preliminary investigation ousted the Ombudsman of its authority to file the Informations.
+[37]
+On June 10, 2019, the Court issued a TRO enjoining the Sandiganbayan from proceeding with the arraignment and trial of Criminal Case Nos. SB-18-CRM-0288 to 0292, pending final adjudication of the instant case.
+[38]
+ Respondent People of the Philippines (respondent People) was also ordered to comment on the petitions.
+[39]
+Respondent People, represented by the Ombudsman, through the Office of the Special Prosecutor, filed its Comment and Opposition
+[40]
+ on the petitions of Lorenzo and Yap and their prayers for issuance of TRO. On both Comments, respondent People counters that the Sandiganbayan correctly ruled that: 1) the inquiry into the facts outside the Informations is not permitted where the prosecution objects to the presentation thereof; 2) the Informations clearly and categorically alleged that petitioners failed to observe the general rule on competitive public bidding as prescribed under Section 10 of R.A. 9184, which took effect on January 26, 2003, and that the Informations sufficiently stated all the elements of violation of Section 3(e) of R.A. 3019; and 3) there was no inordinate delay.
+[41]
+Lorenzo and Yap filed their respective Replies
+[42]
+ maintaining their arguments in their petitions.
+On September 23, 2019, the petitions of Lorenzo and Yap were consolidated considering that they involve the same parties and raise the same issues.
+[43]
+Issue
+The issue for the Court's resolution is whether the Sandiganbayan committed grave abuse of discretion in denying the Motions to Quash the Informations filed by Lorenzo and Yap.
+The Court's Ruling
+The Petitions are granted.
+ 
+At the very outset, the Court finds meritorious the argument that petitioners' right to speedy disposition of cases has been violated. On this ground alone, the cases against them are already dismissible.
+Moreover, the Court likewise finds meritorious petitioners' stand on the other substantive issue regarding the admission of evidence 
+aliunde
+ in resolving a motion to quash.
+I.
+In resolving questions involving the right to speedy disposition of cases, the Court is guided by its ruling in 
+Cagang v. Sandiganbayan
+[44]
+ (
+Cagang
+) wherein the following guidelines were laid down:
+First
+, the right to speedy disposition of cases is different from the right to speedy trial. While the rationale for both rights is the same, the right to speedy trial may only be invoked in criminal prosecutions against courts of law. The right to speedy disposition of cases, however, may be invoked before any tribunal, whether judicial or quasi-judicial. What is important is that the accused may already be prejudiced by the proceeding for the right to speedy disposition of cases to be invoked.
+Second
+, a case is deemed initiated upon the filing of a formal complaint prior to a conduct of a preliminary investigation. This Court acknowledges, however, that the Ombudsman should set reasonable periods for preliminary investigation, with due regard to the complexities and nuances of each case. Delays beyond this period will be taken against the prosecution. The period taken for fact-finding investigations prior to the filing of the formal complaint shall not be included in the determination of whether there has been inordinate delay.
+Third
+, courts must first determine which party carries the burden of proof. If the right is invoked within the given time periods contained in current Supreme Court resolutions and circulars, and the time periods that will be promulgated by the Office of the Ombudsman, the defense has the burden of proving that the right was justifiably invoked. If the delay occurs beyond the given time period and the right is invoked, the prosecution has the burden of justifying the delay.
+If the defense has the burden of proof, it must prove 
+first
+, whether the case is motivated by malice or clearly only politically motivated and is attended by utter lack of evidence, and 
+second
+, that the defense did not contribute to the delay.
+Once the burden of proof shifts to the prosecution, the prosecution must prove 
+first
+, that it followed the prescribed procedure in the conduct of preliminary investigation and in the prosecution of the case; 
+second
+, that the complexity of the issues and the volume of evidence made the delay inevitable; and 
+third
+, that no prejudice was suffered by the accused as a result of the delay.
+ 
+Fourth
+, determination of the length of delay is never mechanical. Courts must consider the entire context of the case, from the amount of evidence to be weighed to the simplicity or complexity of the issues raised.
+An exception to this rule is if there is an allegation that the prosecution of the case was solely motivated by malice, such as when the case is politically motivated or when there is continued prosecution despite utter lack of evidence. Malicious intent may be gauged from the behavior of the prosecution throughout the proceedings. If malicious prosecution is properly alleged and substantially proven, the case would automatically be dismissed without need of further analysis of the delay.
+Another exception would be the waiver of the accused to the right to speedy disposition of cases or the right to speedy trial. If it can be proven that the accused acquiesced to the delay, the constitutional right can no longer be invoked.
+In all cases of dismissals due to inordinate delay, the causes of the delays must be properly laid out and discussed by the relevant court.
+Fifth
+, the right to speedy disposition of cases or the right to speedy trial must be timely raised. The respondent or the accused must file the appropriate motion upon the lapse of the statutory or procedural periods. Otherwise, they are deemed to have waived their right to speedy disposition of cases.
+[45]
+From the foregoing guidelines, the Court finds that Lorenzo and Yap's right to speedy disposition of cases was violated by the Ombudsman's inordinate delay in concluding the preliminary investigation.
+Lorenzo argues that the delay in this case spanned more than 14 years, counted from October 30, 2003, when the fact-finding investigation began, up to April 20, 2018, when the Informations against them were filed with the Sandiganbayan.
+[46]
+ For reference, below is the Ombudsman's response to Lorenzo's query on when the case was officially docketed for fact-finding investigation: 
+DATE
+ACTION TAKEN
+October 30, 2003 
+Action Slip of former PAMO Assistant Ombudsman x x x requesting the assignment of a CPL reference number
+November 3, 2003
+CRD Form 1, CPL-C-03-2519 was assigned to the records, for its return to PAMO
+November 13, 2003
+1
+st
+ Indorsement returning the records of CPL-C-03-2519 to PAMO
+May 18, 2009
+Case Referral Slip assigning CPL-C-03-2519 to an Investigator-On-Case for fact-finding investigation
+November 8, 2011
+Case Referral Slip re-assigning CPL-C-03-2519 to an Investigator-On-Case for factÂ­-finding investigation
+The records of the case failed to indicate the action taken between the period of November, 2003 to May 18, 2009.
+[47]
+ (Emphasis supplied)
+For its part, respondent People counters that in determining whether there was inordinate delay, the period of the fact-finding investigation should be excluded.
+[48]
+ Hence, the period should be counted from November 11, 2013 when the Complaint was filed by the FIO before the Ombudsman.
+[49]
+Notwithstanding the 
+ponente
+'s reservations as regards the conclusion reached in 
+Cagang
+ "that for purpose of determining whether inordinate delay exists, a case is deemed to have commenced from the filing of the formal complaint and the subsequent conduct of the preliminary investigation,"
+[50]
+ the 
+ponente
+ respects that 
+Cagang
+ is the standing doctrine. Thus, for purposes of computing the length of delay in the instant case, the guidelines in 
+Cagang
+ will be followed and the case against Lorenzo and Yap will be deemed initiated only upon the filing of the complaint, or on November 11, 2013.
+For reference, below is the timeline of the significant incidents of the case upon the filing of the complaint on November 11, 2013:
+[51]
+ 
+November 11, 2013
+Complaint filed by the FIO before the Ombudsman
+November 28, 2013
+The Ombudsman issued the Order to file Counter-Affidavit.
+June 23, 2014 
+Supplemental Complaint-Affidavit filed by the FIO
+July 14, 2014 
+The Ombudsman issued the Order to file Counter-Affidavit on the Supplemental Complaint-Affidavit.
+November 10, 2014 
+Yap filed his Counter-Affidavit.
+[52]
+July 31, 2017 
+The Ombudsman approved the Joint Resolution dated July 25, 2017 finding probable cause against petitioners for violation of Section 3(e) of R.A. 3019.
+September 11, 2017 
+Motion for Partial Reconsideration filed by Yap
+January 15, 2018
+The Ombudsman approved the October 23, 2017 Joint Order denying Yap's Motion for Partial Reconsideration.
+[53]
+April 20, 2018
+The Ombudsman filed the five Informations against Lorenzo and Yap before the Sandiganbayan.
+As seen from the foregoing, it took almost four years from the filing of the Complaint until the approval of the Joint Resolution finding probable cause against petitioners, and another year to resolve the Motion for Partial Reconsideration filed by Yap.
+To determine whether the delay is inordinate, 
+Cagang
+ instructs the Court to examine whether the Ombudsman followed the 
+specified time periods
+ for the conduct of the preliminary investigation. To further supplement the parameters in 
+Cagang
+, the subsequent rulings of 
+Javier v. Sandiganbayan
+[54]
+ (
+Javier
+), and 
+Catamco v. Sandiganbayan
+[55]
+ (
+Catamco
+) pointed out that the rules of the Ombudsman did not provide for specific time periods to conclude preliminary investigations. Thus, the Court deemed the time periods provided in the Rules of Court as applicable, considering that these find suppletory application to proceedings before the Ombudsman.
+In the absence of specific time periods in the Rules of the Ombudsman, 
+Javier
+ and 
+Catamco
+ thus applied Section 3, Rule 112 of the Revised Rules of Criminal Procedure, which provides that the investigating prosecutor has 10 days after the investigation to determine whether there is sufficient ground to hold the respondent for trial. This 10-day period may appear short or unreasonable from an administrative standpoint. However, as held in 
+Alarilla v. Sandiganbayan
+[56]
+ (
+Alarilla
+), given the Court's duty to balance the right of the State to prosecute violations of its law 
+vis-Ã -vis
+ the rights of citizens to speedy disposition of cases, the citizens ought not to be prejudiced by the Ombudsman's failure to provide for particular time periods in its own Rules of Procedure.
+Soon after the promulgation of 
+Javier
+ and 
+Catamco
+, the Ombudsman issued Administrative Order No. (A.O.) 1 series of 2020
+[57]
+ which specified the time periods in conducting its investigations.
+For fact-finding Investigations, A.O. 1 provides that "[u]nless otherwise provided for in a separate issuance, such as an Office Order creating a special panel of investigators and prescribing therein the period for the completion of an investigation, the period for completion of the investigation shall not exceed six (6) months for simple cases and twelve (12) months for complex cases,"
+[58]
+ subject to considerations on the complexity of the case and the possibility of requesting for extension on justifiable reasons, which shall not exceed one year.
+[59]
+ Notably, the fact-finding investigation in this case arguably spanned 10 years, or from October 2003 until November 2013 when the Complaint was filed before the Ombudsman, which is clearly beyond the period provided in A.O. 1. Nevertheless, the Court is constrained to disregard this apparent delay following the prevailing doctrine in 
+Cagang
+ that the period taken for fact-finding investigations prior to the filing of the formal complaint shall not be included in the determination of whether there has been inordinate delay.
+As regards the period for the conduct of preliminary investigation, the relevant portions of A.O. 1 are reproduced below:
+Section 7. 
+Commencement of Preliminary Investigation
+.
+ â Without prejudice to the Procedure in Criminal Cases prescribed under Rule II of Administrative Order No. 07, as amended, 
+a preliminary investigation is deemed to commence whenever a verified complaint, grievance or request for assistance is assigned a case docket number
+ under any of the following instances: 
+(a)
+Upon referral by an Ombudsman case evaluator to the preliminary investigation units/offices of the Office of the Ombudsman, after determining that the verified complaint, grievance or request for assistance is sufficient in form and substance and establishes the existence of a 
+prima facie
+ case against the respondent/s; or
+(b)
+At any time before the lapse of the period for the conduct of a fact-finding investigation whenever the results thereof support a finding of 
+prima facie
+ case.
+In all instances, the complaint, grievance or request for assistance with an assigned case docket number shall be considered as pending for purposes of issuing an Ombudsman clearance.
+Section 8. 
+Period for the conduct of Preliminary Investigation
+.
+ â Unless otherwise provided for in a separate issuance, such as an Office Order creating a special panel of investigators/prosecutors and prescribing the period for completion of the preliminary investigation, the proceedings therein 
+shall not exceed twelve (12) months for simple cases or twenty-Â­four months (24) months for complex cases
+, subject to the following considerations: 
+(a)
+The complexity of the case shall be determined on the basis of factors such as, but not limited to, the number of respondents, the number of offenses charged, the volume of documents, the geographical coverage, and the amount of public funds involved. 
+(b)
+ Any delay incurred in the proceedings, whenever attributable to the respondent, shall suspend the running of the period for purposes of completing the preliminary investigation.
+(c)
+The period herein prescribed may be extended by written authority of the Ombudsman, or the Overall Deputy Ombudsman/Special Prosecutor/Deputy Ombudsman concerned for justifiable reasons, which extension shall not exceed one-(1) year.
+Section 9. 
+Termination of Preliminary Investigation
+.
+ â A preliminary investigation shall be deemed terminated 
+when the resolution of the complaint, 
+including any motion for reconsideration
+ filed in relation to the result thereof
+, as recommended by the Ombudsman investigator/prosecutor and their immediate supervisors, 
+is approved by the Ombudsman
+ or the Overall Deputy Ombudsman/Special Prosecutor/Deputy Ombudsman concerned. (Emphasis and underscoring supplied)
+In the instant case, the entire preliminary investigation spanned more than four years, counted from the filing of the Complaint on November 11, 2013 until January 15, 2018, when the Ombudsman approved the October 23, 2017 Joint Order denying Yap's Motion for Partial Reconsideration of the Joint Resolution finding probable cause for violation of Section 3(e) of R.A. 3019. Whether the Court applies the 10-day period provided in 
+Javier
+ and 
+Catamco
+, or the more generous periods of 12 to 24 months under A.O. 1, the conclusion is the same â that the Ombudsman exceeded the specified period provided for preliminary investigations. Consequently, in light of the guidelines in 
+Cagang
+, the burden of proof to show that petitioners' right to speedy disposition of cases was not violated shifts to the prosecution, which must establish that the delay was reasonable and justified by proving the following: 1) that it followed the prescribed procedure in the conduct of preliminary investigation and in the prosecution of the case; 2) that the complexity of the issues and the volume of evidence made the delay inevitable; and 3) that no prejudice was suffered by the accused as a result of the delay.
+[60]
+In justifying the delay, respondent People cites the ruling in 
+Dansal v. Fernandez, Sr.
+[61]
+ which took judicial notice of the steady stream of cases reaching the Ombudsman. Accordingly, respondent People argues that:
+x x x [t]he case against petitioner, which was part of the so-called "Fertilizer Scam," was not the only case being investigated by the OMB, as numerous complaints against alleged erring government officials and employees are continuously being filed with and investigated by the OMB. Hence, any perceived delay attendant to the resolution of the case against petitioner was reasonable and normal in the ordinary processes of justice.
+[62]
+The Court recognizes that there are constraints in the Ombudsman's resources, thereby impeding its capacity to timely carry out its mandate amidst the increasing caseload, which 
+Cagang
+ refers to as institutional delay. Nevertheless, this in itself does not justify the belated resolution of the preliminary investigation against an accused. As when parties request for additional time to comply with the court's directive, or for the admission of a belatedly filed pleading, the Court does not accept the solitary explanation of heavy workload on the part of the party's counsel.
+[63]
+Apart from the heavy caseload of the Ombudsman, the prosecution must also establish that the issues are so complex and the evidence so voluminous as to render the delay inevitable. In this case, the prosecution neither alleged nor proved any of these circumstances. The oft-recognized principle of institutional delay is not a blanket authority for the Ombudsman's non-observance of the periods fixed for preliminary investigation.
+[64]
+ Further, the mere fact that the case is part of the so-called "Fertilizer Fund Scam" is not proof in itself of the complexity of the case as to automatically justify delay. As held in 
+People v. Sandiganbayan
+:
+[65]
+The Court understands that the instant case is part of the so called "Fertilizer Fund Scam" cases. However, this does not mean that the case is highly complex that requires a serious amount of time.
+ Records show that the instant case involves only one transaction: the procurement of fertilizer that was paid in two tranches. There is also no allegation that respondents here conspired with other government officials involved in the other Fertilizer Fund Scam cases elsewhere in the country. Further, there are only seven respondents. To add, the OMB was in effect assisted by the COA in the latter's issuance of the NOD. In fact, it was the primary basis of the Task Force's filing of the complaint. Likewise, there was no showing that the records of this case were voluminous that would necessitate a number of years for the conduct of review.
+In the cases of 
+Javier v. Sandiganbayan
+ and 
+Catamco v. Sandiganbayan
+ (
+Catamco
+), which also involve the "Fertilizer Fund Scam," the OMB also posited the same arguments of complexity and voluminous records. The Court, in ruling that there was inordinate delay, disregarded the OMB's arguments absent proof as regards the assertions. Similarly in the instant case, the OMB did not show proof of complexity and volume that would make the delay inevitable and justified
+.
+[66]
+ (Emphasis supplied)
+In this case, in studying the propriety of petitioners' resort to negotiated procurement, the prosecution had to scrutinize only one issuance, 
+i.e.
+, the April 30, 2003 Memorandum Order issued by Lorenzo. Furthermore, the questioned issuances by Yap in implementing said Memorandum were not numerous enough as to be regarded as voluminous. Evidently, apart from bare assertions, there is a dearth of evidence from the prosecution to show clear proof of the peculiar circumstances of this case as to justify the delay.
+Additionally, the prosecution failed to show that petitioners did not suffer any prejudice as a result of the delay. In defining prejudice to the accused, 
+Cagang
+ cites the following pronouncements in 
+Corpuz v. Sandiganbayan
+:
+[67]
+x x x 
+Prejudice should be assessed in the light of the interest of the defendant that the speedy trial was designed to protect, namely: to prevent oppressive pre-trial incarceration; to minimize anxiety and concerns of the accused to trial; and to limit the possibility that his defense will be impaired. Of these, the most serious is the last, because the inability of a defendant adequately to prepare his case skews the fairness of the entire system.
+ There is also prejudice if the defense witnesses are unable to recall accurately the events of the distant past. Even if the accused is not imprisoned prior to trial, he is still disadvantaged by restraints on his liberty and by living under a cloud of anxiety, suspicion and often, hostility. His financial resources may be drained, his association is curtailed, and he is subjected to public obloquy.
+[68]
+ (Emphasis supplied)
+Cagang
+ further cites the following pronouncements in 
+Coscolluela v. Sandiganbayan
+[69]
+ (
+Coscolluela
+) in explaining prejudice to the accused:
+Lest it be misunderstood, the right to speedy disposition of cases is not merely hinged towards the objective of spurring dispatch in the administration of justice but also to prevent the oppression of the citizen by holding a criminal prosecution suspended over him for an indefinite time. Akin to the right to speedy trial, its "salutary objective" is to assure that an innocent person may be free from the anxiety and expense of litigation or, if otherwise, of having his guilt determined within the shortest possible time compatible with the presentation and consideration of whatsoever legitimate defense he may interpose. 
+This looming unrest as well as the tactical disadvantages carried by the passage of time should be weighed against the State and in favor of the individual.
+[70]
+ (Emphasis supplied)
+Indeed, the Court has recognized that "inordinate delay places the accused in a protracted period of uncertainty which may cause anxiety, suspicion, or even hostility."
+[71]
+ Yap himself states in his Petition that while he is not imprisoned, his right to travel is impaired, and he experiences anxiety "especially since he is being brought to trial for acts that actually benefitted the government."
+[72]
+ He also underscores that he is incurring legal fees to defend himself.
+[73]
+Moreover, the Court has also recognized that "the lengthy delay would result to the accused's inability to adequately prepare for the case which would result to the deterioration or loss of evidence, leading to impairment of the accused's defense."
+[74]
+ Yap likewise points this out, stating that the march of time itself impairs his defenses, especially since the long passage of time will affect the memories of possible witnesses and the integrity of the records pertaining to this case.
+[75]
+ Lorenzo echoes the same sentiment.
+[76]
+The Court gives credence to petitioners' claims. Surely, petitioners are placed "at a tactical disadvantage in going against the well-oiled machinery of the government and its infinite resources,"
+[77]
+ especially considering that the questioned transactions in this case dates to 2003 and the case build-up has likewise begun in the same year. As a result of the delay, the impairment of their defense is apparent and the prejudice against them is clear.
+The Sandiganbayan, however, ruled that even assuming there was delay in the termination of the preliminary investigation, petitioners are deemed to have slept on their right and failed to seasonably invoke their right to speedy disposition of cases.
+[78]
+ According to the Sandiganbayan, they failed to take any step whatsoever to accelerate the disposition of the matter, as for instance, the filing of a motion for early resolution. As a result of their failure to timely object, the Sandiganbayan ruled that petitioners impliedly acquiesced to the supervening delay.
+[79]
+In ruling that petitioners should have moved for the early resolution of the case, the Sandiganbayan effectively â and erroneously â shifted the burden back to the accused despite the manifest delay on the part of the prosecution to terminate the preliminary investigation. This is egregious error. It should be emphasized that the filing of a motion for early resolution is not a mandatory pleading during a preliminary investigation. With or without the prodding of the accused, there are determined periods for the termination of the preliminary investigation.
+[80]
+ The following pronouncements in 
+Coscolluela
+, which were not abandoned by 
+Cagang
+, are enlightening:
+Being the respondents in the preliminary investigation proceedings, it was not the petitioners' duty to follow up on the prosecution of their case. Conversely, it was the Office of the Ombudsman's responsibility to expedite the same within the bounds of reasonable timeliness in view of its mandate to promptly act on all complaints lodged before it. As pronounced in the case of 
+Barker v. Wingo
+:
+A defendant has no duty to bring himself to trial; the State has that duty as well as the duty of insuring that the trial is consistent with due process.
+[81]
+Accordingly, petitioners' failure to prod the Ombudsman to perform its positive duty and mandate should not, as it simply cannot, be deemed as acquiescence to an unjustified delay. It is the Ombudsman which is mandated by no less than the Constitution,
+[82]
+ as enforced by The Ombudsman Act of 1989,
+[83]
+ to act promptly on complaints filed before it against public officials and government employees. Verily, mere inaction on the part of the accused, without more, does not qualify as an intelligent waiver of their constitutionally guaranteed right to the speedy disposition of cases.
+Notably, cases applying 
+Cagang
+ have considered the filing of a motion for reconsideration of the Ombudsman Resolution finding probable cause as a timely invocation of the right to speedy disposition of cases.
+[84]
+ Here, the Court considers the Motion for Partial Reconsideration filed by Yap before the Ombudsman as sufficient for purposes of determining whether petitioners' right to speedy disposition of cases had been violated. Following the ruling in 
+People v. Sandiganbayan
+, Yap's invocation of the right in his Motion for Partial Reconsideration is deemed to cover Lorenzo because they are coÂ­respondents in the same case, and it assails a single resolution that applies to both of them. 
+Above all
+, petitioners moved for the quashal of the Informations against them at the earliest opportunity, which is after the filing of the Informations and prior to arraignment. The timely filing of their motions to quash â where they invoked their right to speedy disposition of cases â undoubtedly contradicts any implied intention on the part of Lorenzo and Yap as to the waiver of their constitutional right to the speedy disposition of cases.
+Considering that the prosecution failed to provide sufficient justification for the delay in the termination of the preliminary investigation, the Sandiganbayan gravely abused its discretion in denying petitioners' motions to quash.
+II.
+As earlier mentioned, while the cases herein may already be dismissed on the ground of violation of petitioners' right to speedy disposition of cases, the Court nonetheless reviewed the records of the cases and finds it important to rule on the other substantive issue raised regarding the admission of evidence 
+aliunde
+ in resolving a motion to quash.
+No less than the Bill of Rights of the Constitution provides that an accused has the right to be informed of the nature and cause of the accusation against him.
+[85]
+ In this regard, the main purpose of an Information is for the accused to be formally informed of the facts and the acts constituting the offense charged. If an Information is insufficient, the accused can file a motion to have the same quashed and/or dismissed before he or she enters a plea. In a motion to quash, the accused challenges the efficacy of an Information and compels the court to determine whether the Information suffices to require the accused to endure the rigors of a trial. If the Information is found to be insufficient, the same cannot be the basis of a valid conviction; hence, the court must promptly dismiss the case and save the accused from the anxiety of undergoing a useless trial.
+[86]
+Section 6, Rule 110 of the Rules of Court provides that the acts or omissions complained of as constituting the offense must be alleged in the Information. Likewise, every element which constitutes the offense must be duly alleged in the Information since the facts and circumstances necessary to be alleged therein are determined by reference to the definition and essential elements of the specific crime involved.
+[87]
+ Hence, in the present case, the Informations must allege the following essential elements of the crime of violation of Section 3(e) of R.A. 3019: (1)the accused must be a public officer discharging administrative, judicial, or official functions; (2) he/she must have acted with manifest partiality, evident bad faith or gross inexcusable negligence; and (3) that his/her action caused any undue injury to any party, including the government, or gave any private party unwarranted benefits, advantage or preference in the discharge of his/her functions.
+[88]
+For reference, one of the subject Informations in this case is herein quoted anew:
+On 04 July 2003, or sometime prior or subsequent thereto, in the City of Manila, Philippines, and within the jurisdiction of this Honorable Court, the above-named accused 
+LUIS P. LORENZO, JR.
+ and 
+ARTHUR C. YAP
+, both public officers with salary grade 30, being then the Secretary of the Department of Agriculture and Administrator of the National Food Authority (NFA), respectively, while in the performance of their official functions and in grave abuse thereof, acting with evident bad faith, manifest partiality and/or gross inexcusable negligence, conspiring with one another and with co-accused 
+TOMAS A. GUIBANI
+, Representative of the Philippine Phosphate Fertilizer Corporation (Philphos), did then and there, willfully, unlawfully, and criminally cause undue injury to the government and/or give unwarranted benefits, advantage and preference to Philphos, by (a) directing the Regional Bids and Awards Committees (RBACs) of NFA Regions 1 to 5 and the National Capital Region (NCR) to conduct procurement of their fertilizer requirements through the negotiated mode in violation of the general rule on competitive bidding prescribed under Section 10 of Republic Act 9184; (b) issuing a guideline that the opening of the bids for the Luzon-wide procurement of fertilizers shall be simultaneously done at the NFA Central Office in Manila; and (c) amending the original guideline allowing only those suppliers with depots within and/or adjacent to the procuring NFA Region to participate as bidders, which issuances and directives were issued to ensure the award to ManilaÂ­based Philphos of the Php595,636.37 procurement contract for the supply of 1,300 bags of fertilizers to NFA-NCR, to the damage and prejudice of the government.
+ 
+CONTRARY TO LAW.
+[89]
+As earlier mentioned, the other four Informations were similarly worded except for (a) the date and place of the commission of the crime, (b) the NFA region involved, (c) the amount of the contract, and (d) the quantity of fertilizers.
+[90]
+One of the grounds relied upon by petitioners in their motions to quash is that the facts in the Informations do not constitute an offense. Specifically, Lorenzo and Yap argue that the second and third elements of the crime of violation of Section 3(e) of R.A. 3019 are absent. In support thereof, petitioners invoke the issuances of the Ombudsman in ON.IB-C-C-14-0064 (the Visayas case) and OMB-C-C-15-0029 (the Mindanao case) which involve the same procurement matter as in the present case, where the Ombudsman dismissed the complaints for violation of Section 3(e) of R.A. 3019 against them due to lack of probable cause. Petitioners emphasize that for both the Visayas and Mindanao cases, the Ombudsman found that the second element of manifest partiality, evident bad faith or inexcusable negligence was lacking.
+[91]
+ Likewise, petitioners also invoke the Resolution of the Ombudsman in the instant case to raise the absence of the third element, 
+i.e.
+, causing any undue injury to any party, including the government, or giving any private party unwarranted benefits, advantage or preference. They note that in dismissing the complaint for violation of Section 3(g) of R.A. 3019 against them, the Ombudsman ruled that there is no adequate showing that the government was grossly disadvantaged when the fertilizers were purchased from Philphos.
+[92]
+A motion to quash is a hypothetical admission of the facts alleged in the Information; hence, the general rule is that the court will not consider allegations contrary to those appearing on the face of the lnformation.
+[93]
+ Moreover, the fundamental test in considering a motion to quash on the ground that the facts in the Information do not constitute an offense is whether the facts alleged, if hypothetically admitted, will establish the essential elements of the offense as defined in the law.
+[94]
+ Thus, as a general rule, facts outside the Information itself will not be considered.
+That said, case law also recognizes exceptions to the aforementioned general rule â one of which being a situation where there are additional facts not alleged in the Information but are admitted or not denied by the prosecution. Inquiry into such facts may be allowed where the ground invoked is that the allegations in the Information do not constitute an offense.
+[95]
+ 
+Petitioners invoke this exception. In support thereof, both petitioners cite 
+People v. Navarro and Atienza
+[96]
+ (
+Navarro
+). Therein, the accused Provincial Governor and Warden were charged with arbitrary detention for allegedly imprisoning private complainants without legal grounds. During the pre-trial, the Fiscal conceded that the offended parties were detained by order of the Commanding General, Western Visayan Task Force, United States Army. Thus, the accused filed a Motion to Quash on the ground that the facts charged in the Information did not constitute an offense. The trial court granted the motion, from which the Solicitor General appealed, alleging that "if the informations must be quashed on the ground 'that the facts charged do not constitute an offense[,]' elementary logic dictates that the facts charged 'in the informations' must be the one examined and analyzed to determine the sufficiency of the allegations."
+[97]
+ In denying the appeal, the Court, in 
+Navarro
+, ruled as follows:
+The [O]ffice of the Solicitor General does not deny that the Beloncios had been committed to jail by order of competent authorities of the American forces of liberation. The record fails to show any motion for reconsideration by the provincial fiscal disputing the admissions attributed to him in the court's decision. Hence[,] we are justified, in assuming, that such representations had been made. Consequently[,] when the defense urged that the facts charged did not constitute an offense, invoking not only the allegations of the information but also the admissions made by the fiscal. the trial judge rightly sustained the motion.
+ Because the Beloncios had been placed by competent authority of the United States military forces in the official custody of defendants, who were public officials entrusted with the detention of prisoners, they could not very well be turned loose without a countermand. The fiscal should have mentioned other subsequent circumstances, if any, establishing defendants' duty (which they failed to fulfill) to release the Beloncios.
+It must be noted that the section of the rule (sec. 2[a], Rule 113) permitting a motion to quash on the ground that "the facts charged do not constitute an offense" omits reference to the facts detailed "in the information." Other sections of the same rule would imply that the issue is restricted to those alleged in the information (see secs. 9 and 10, Rule 113). 
+Prima facie
+, the "facts charged" are those described in the complaint, but they may be amplified or qualified by others appearing to be additional circumstances, upon admissions made by the people's representative, which admissions could anyway be submitted by him as amendments to the same information. 
+It would seem to be pure technicality to hold that in the consideration of the motion the parties and the judge were precluded from considering facts which the fiscal admitted to be true, simply because they were not described in the complaint.
+ Of course, it may be added that upon similar motions the court and the fiscal are not required to go beyond the averments of the information, nor is the latter to be inveigled into a premature and risky revelation of his evidence. But 
+we see no reason to prohibit the fiscal from making, in all candor, admissions of undeniable facts, 
+because the principle can never be sufficiently reiterated that such official's role is to see that justice is done: not that all accused are convicted, but that the guilty are justly punished
+. Less reason can there be to prohibit the court from considering those admissions, and deciding accordingly, in the interest of a speedy administration of justice.
+[98]
+ (Emphasis and underscoring supplied)
+Here, petitioners argue that the exception to the general rule applies because the evidence 
+aliunde
+ sought to be considered in their motions to quash were admitted by the prosecution. Lorenzo submits:
+x x x that on the basis of the very comment/opposition of the prosecution, contrary to the ruling of the court [
+a quo
+], 
+the evidence [
+aliunde
+] introduced by the petitioner was not really objected to by the prosecution but was actually admitted as a common allegation in the three (3) complaints
+ filed by the Office of the Ombudsman relative to the questioned procurement of fertilizers in the areas of Luzon, Visayas, and Mindanao. 
+The prosecution[,] by admitting and/or not denying the three (3) resolutions of the Office of the Ombudsman even clarified and tried to harmonize the three (3) resolutions
+ by arguing that the Office of the Ombudsman did not really [revoke, repeal, abrogate, and then reinstate] its own rulings and the perceived flip-flopping rulings were merely brought about by the fact that since the allegations and pieces of evidence in the three complaints differ from one another, necessarily, the factual and legal findings in the three Resolutions would also vary. However, 
+the prosecution did not deny the fact that while indeed allegations and pieces of evidence may vary in the three complaints covering the procurement of fertilizers in the Luzon, Visayas and Mindanao areas, there is only one April 30, 2003 Memorandum Order issued by the petitioner. Consequently, such fact was deemed admitted and uncontroverted especially so that the prosecution even categorically admitted the same as a common allegation
+. Thus, whether it will be the Luzon, Visayas or Mindanao procurement that will be questioned, it will always refer to the same April 30, 2003 Memorandum Order of the petitioner the propriety of the issuance thereof was already found and declared by the same Ombudsman as valid and legal in its July 24, 2015 Resolution x x x and May 2, 2018 Resolution x x x.
+[99]
+ (Emphasis supplied)
+Similarly, Yap argues that the evidence sought to be considered in his motion to quash, while not alleged in the Information, were admitted or not denied by the prosecution.
+[100]
+ According to him, undeniable facts appearing on the records of the case and not susceptible of contradiction should have been considered by the Sandiganbayan in resolving his motion to quash.
+[101]
+For its part, respondent People counters that while matters 
+aliunde
+ or extraneous facts not appearing on the face of the Informations may be admitted as an exception to the general rule, the same is only applicable when the prosecution fails to object at the time the evidence was presented.
+[102]
+ In support thereof, respondent People cites 
+People v. Valencia
+[103]
+ (
+Valencia
+), where the Court ruled as follows: 
+As a general proposition, a motion to quash on the ground that the allegations of the information do not constitute the offense charged, or any offense for that matter, should be resolved on the basis alone of said allegations whose truth and veracity are hypothetically admitted. The informations need only state the ultimate facts; the reasons therefor could be proved during the trial.
+The fundamental test in reflecting on the viability of a motion to quash under this particular ground is whether or not the facts asseverated if hypothetically admitted, would establish the essential elements of the crime defined in the law. In this examination, matters 
+aliunde
+ are not considered. 
+However, inquiry into facts outside the information may be allowed where the prosecution does not object to the presentation thereof.
+ In the early case of 
+People v. Navarro
+, we held:
+x x x x
+It should be stressed, however, that 
+for a case to fall under the exception, it is essential that there be no objection from the prosecution. Thus, the above rule does not apply where the prosecution objected to the presentation of extraneous facts and even opposed the motion to quash
+.
+[104]
+ (Emphasis supplied)
+Here, respondent People maintains that the exception to the hypothetical admission rule cannot be applied because the prosecution opposed the extraneous facts introduced during the motion to quash stage. According to respondent People, petitioners' proposition "is belied by the Comment/Opposition to the Motion to Quash filed by the prosecution thereto, its vehement objections[,] and controverting facts which were raised to oppose the presentation of extrinsic evidence by the petitioner."
+[105]
+ The Sandiganbayan sided with respondent People when it ruled that:
+Irrefragably, the Prosecution is up in arms against the presentation of evidence 
+aliunde
+ and the precipitate dismissal of this case. Conformably with the Supreme Court's ruling in 
+Valencia
+, this Court finds the accused's position to be untenable, to begin with, and conforms to the Prosecution's Opposition.
+[106]
+As will be shown below, a careful review of the parties' submissions as well as the relevant jurisprudence leads to the conclusion that favors petitioners' position â that is, what is applicable here is the exception to the general rule against admission of evidence 
+aliunde
+ in a motion to quash on the ground that the allegations in the Information do not constitute an offense.
+The Court notes that 
+Valencia
+, which respondent People cites, is not on all fours with the instant case. In 
+Valencia
+, the evidence 
+aliunde
+ sought by the accused to be considered in their motion to quash was the Resolution of the Ombudsman which dismissed the administrative case against them involving the same subject matter as the criminal case in question. However, as pointed out by the Court in 
+Valencia
+, said Resolution was not even offered and admitted as evidence by the Sandiganbayan as it was merely attached to the accused's Supplemental Pleading in support of their motion to quash. More importantly, the Resolution therein did not even bear the approval of the Ombudsman.
+[107]
+In any case, 
+Valencia
+ does cite 
+Navarro
+, which is the leading case on this matter. In his Concurring Opinion in 
+Navarro
+, Associate Justice Gregorio Perfecto elucidated on the spirit which animates the ruling of the Court:
+We concur. 
+To attain the substantial ends of justice, procedural technicalities must be dispensed with, and the court rules must be interpreted so as to give them the resiliency demanded by the circumstances of the case. Court rules must give way to judicial liberalism and legal progress. The law embodied in them must grow and develop.
+ Even the calcareous shells of the large phylum of mollusks, notwithstanding their rocky hardness and apparent fixity, grow in answer to the evolutionary requirements of biological laws.
+Prosecution's statements belong to a class of evidence of the highest order in behalf of the accused. It is based on the same principle upon which estoppel is established, and from which the 
+ad hominem
+ argument in logic derives its force.
+[108]
+ (Emphasis supplied)
+It is under this prism that the Court analyzes the relevant jurisprudence applying the doctrine in 
+Navarro
+.
+A few years after the promulgation of 
+Navarro
+, the Court decided 
+People v. Lancanan
+[109]
+ (
+Lancanan
+) which dealt with an appeal from an order of the Court of First Instance granting a motion to quash on the alleged failure of the Information to allege facts sufficient to constitute an action. To support the motion to quash, the accused therein alleged facts that were clearly not alleged in the Information, which led to the fiscal opposing said motion. In upholding the order granting the motion to quash, the Court ruled as follows:
+The first error imputed to the trial court is its consideration of facts not alleged in the information. 
+The facts, however, are apparent from the record and these facts are not denied by the provincial fiscal. Though they may not constitute admissions on the part of the fiscal, they certainly fall within the spirit and principle contained in People 
+vs.
+ Navarro,
+ 75 Phil., 516. 
+We find no difference between facts merely admitted and undeniable facts appearing on the record of a case.
+ If one is allowed, there is no reason for denying admission of the other. 
+As the facts are clear and not susceptible of contradiction, it would be idle ceremony to return the case to the trial court for trial at which the same facts of record will have to be introduced.
+ It seems more in accord with expediency for us to overlook the technical irregularity that the trial court is claimed to have committed, which irregularity we do not here admit to exist because it was sanctioned by us in the case of Navarro, 
+supra
+, and proceed to determine the validity of the order of the court on the basis of the facts found in the record, rather than remand the case to the trial court. The claim that the court acted improperly in the consideration of the motion to quash must be dismissed.
+[110]
+ (Emphasis supplied)
+In 
+People v. Rodriguez
+[111]
+ (
+Rodriguez
+), the Court also allowed the quashal of the Information on the basis of evidence 
+aliunde
+ in support of the accused's claim of double jeopardy. The fiscal therein filed an opposition to the motion to quash, arguing that the question raised is a matter of defense which the accused may present during the trial on the merits. In upholding the order to quash the Information, the Court ruled that:
+The claim of the prosecution that the trial court erred in not holding that the ground on which the motion to quash is based is a matter of defense which the appellee should establish at the trial of the case on the merits is also of no avail, it appearing that 
+the fact concerning the inclusion of the same firearm in the crime of rebellion as well as its presentation as evidence therein has been brought out by the defense in his petition to quash and that fact was not disputed by the prosecution
+.
+[112]
+ (Emphasis supplied)
+Similarly, in 
+People v. De la Rosa
+[113]
+ (
+De la Rosa
+), the Court upheld the quashing of the Information on the basis of evidence 
+aliunde
+ despite the opposition of the prosecution. Therein, the prosecutor admitted certain facts and participated in the hearings where both parties presented documentary and testimonial evidence. Thereafter, the court 
+a quo
+ found that, in light of the admitted facts as they emerged after the hearing, the allegation in the amended Information did not constitute an offense. In affirming the order of the court 
+a quo
+, the Court ruled as follows:
+It is true that on the basis of the allegations of the amended information, standing alone, an offense is charged. But from admissions made by the prosecution, and the evidence presented
+, as even the prosecution asked the court to be permitted to present such evidence in its Motion to Reopen Consideration of the Motion to Quash of March 21, 1969, 
+the respondent court found justification in quashing the information
+, as he issued the order complained of on June 14, 1971.
+The question to be resolved is whether the respondent court committed a reversible error in issuing the afore-mentioned order.
+As a general proposition, a motion to quash on the ground that the allegations of the information do not constitute the offense charged, or any offense for that matter, should be resolved on the basis alone of said allegations whose truth and veracity are hypothetically admitted. However, 
+as held in the case of 
+People vs. Navarro
+, 75 Phil. 516, additional facts not alleged in the information, but admitted or not denied by the prosecution may be invoked in support of the motion to quash
+. Former Chief Justice Moran supports this theory.
+x x x x
+Indeed, 
+where in the hearing on a motion to quash predicated on the ground that the allegations of the information do not charge an offense, 
+facts have been brought out by evidence presented by both parties which destroy the 
+prima facie
+ truth accorded to the allegations of the information on the hypothetical admission thereof
+, as is implicit in the nature of the ground of the motion to quash, it would be pure technicality for the court to close its eyes to said facts and still give due course to the prosecution of the case already shown to be weak even to support possible conviction, and hold the accused to what would clearly appear to be a merely vexatious and expensive trial, on her part, and a wasteful expense of precious time on the part of the court, as well as of the prosecution
+.
+[114]
+ (Emphasis and underscoring supplied)
+In 
+Lopez v. Sandiganbayan
+[115]
+ (
+Lopez
+), the Court had another occasion to rule that the facts admitted by the prosecution are an exception to the rule that evidence 
+aliunde
+ may not be considered in a motion to quash. The Court ruled as such even if the prosecution opposed to the same:
+We uphold the submission that the factual defenses of petitioner are matters within the concept of mandatory judicial notice. 
+While it is true that, as pontificated by the Court 
+a quo
+, factual defenses on the part of the accused are evidentiary matters which may be presented only during trial on the merits, the facts alleged by the accused are facts 
+admitted, whether directly or impliedly
+, in pleadings of the prosecution
+ and in the reports of the Provincial Prosecutor of Davao Oriental and Graft Investigator Gay Maggie Balajadia. Consequently, the disposition of the matter in the questioned Resolution which states that "The nature, scope and legal consequences of the inculpatory allegations in the Amended Information, with respect to accused-movant, remains (sic) to be ascertained during the trial," is not at all correct.
+Judicial notice may be taken of petitioner's oath taking before the Regional Trial Court Judge of Mati, Davao Oriental, the Hon. Roque A. Agton, as evidenced by a certification from the Records Officer of the office of the Provincial Governor. The oath taking partakes of an official act, while the certification is an official act of an official of the Executive Department of the government.
+We had the occasion to make rulings on a similar issue. In People 
+vs.
+ Navarro & Atienza, 75 Phil. 516, for example, x x x.
+Reiterating Navarro, this Court ruled in 
+People 
+vs
+. De la Rosa
+, 98 SCRA 191, that:
+x x x x
+And in Milo 
+vs.
+ Salanga, 152 SCRA 113, We likewise ruled that:
+This is because a motion to quash is a hypothetical admission of the facts alleged in the information. Matters of defense cannot be proved during the hearing of such a motion, except where the Rules expressly permit, such as extinction of criminal liability, prescription and former jeopardy. In the case of U.S. v. Perez, this Court held that 
+a motion to quash on the ground that the facts charged do not constitute an offense cannot allege new facts not only different but diametrically opposed to those alleged in the complaint. This rule admits of only one exception and that is when the facts are admitted by the prosecution
+. (Milo v. Salanga, 
+supra
+, at 121).
+Since the prosecution has admitted the fact
+ that petitioner was not yet the Municipal Mayor on or about December 10, 1987 and that Petitioner Mayor Lopez became the Municipal Mayor only after the date of the commission of the offense charged, 
+such an admission constitutes as a judicial admission which is binding upon the prosecution
+.
+[116]
+ (Emphasis and underscoring supplied)
+As can be gleaned from the cases applying 
+Navarro
+, the mere objection of the prosecution from the introduction of evidence 
+aliunde
+ in a motion to quash does not operate to 
+ipso facto
+ prevent the court from applying the exception to the general rule. Verily, in 
+Lancanan, Rodriguez, De la Rosa
+, and 
+Lopez
+, the court still granted the motion to quash after considering extraneous facts presented by the accused â notwithstanding the opposition from the prosecution.
+From the aforementioned jurisprudential guidelines, it becomes clear that in the application of the exception to the general rule on non-admission of evidence 
+aliunde
+ in a motion to quash on the ground that the allegations of the Information do not charge an offense, what is controlling is the presence of facts that are apparent from the records and are admitted, directly or impliedly, or not denied by the prosecution, which destroy the 
+prima facie
+ truth accorded to the allegations of the Information on the hypothetical admission thereof.
+Applying the foregoing, the Court finds that the exception applies in the instant case. As readily evident, the previous issuances of the Ombudsman in the Visayas and Mindanao cases, as well as the findings of the Ombudsman in the Complaint herein, which are not denied by the prosecution, put in serious doubt the 
+prima facie
+ truth accorded to the allegations in the Informations, as the findings therein negate the presence of the second and third elements of the crime of violation of Section 3(e) of R.A. 3019.
+To recall, the specific acts in the Informations that are attributed to petitioners are as follows: a) directing the RBACs of the NFA Regions I to V and the NCR to conduct procurement of fertilizer requirements through the negotiated mode in violation of the general rule on competitive bidding prescribed under Section 10 of R.A. 9184; b) issuing a guideline that the opening of bids for the Luzon-wide procurement of fertilizers shall be simultaneously done at the NFA Central Office in Manila; and c) amending the original guideline allowing only those suppliers with depots within and/or adjacent to the procuring NFA Region to participate as bidders.
+[117]
+ According to respondent People, these acts of petitioners were done with evident bad faith, manifest partiality and/or gross inexcusable negligence, thereby causing undue injury to the government and/or giving unwarranted benefits, advantage, and preference to Philphos.
+[118]
+At the center of the allegations against petitioners is the failure to resort to public bidding in the procurement of the subject fertilizers, which purportedly showed manifest partiality towards Philphos. However, as consistently pointed out by petitioners, these matters have already been addressed by the issuances of the Ombudsman in the Visayas and Mindanao cases. To repeat, these two cases involved substantially the same factual backdrop as this case, revolving on the procurement of fertilizer under the same April 30, 2003 Memorandum issued by Lorenzo. In those cases, Lorenzo, Yap, and their co-accused were similarly charged with violation of Section 3(e) of R.A. 3019 but the complaints against them were dismissed by the Ombudsman for lack of probable cause. In particular, the Ombudsman found that the resort to negotiated procurement, instead of public bidding, was proper under E.O. 40, in relation to Section 77 IRR-A of R.A. 9184, and that not all elements of violation of Section 3(e) of R.A. 3019 were present. These issuances are discussed in detail below.
+In the May 6, 2015 Resolution
+[119]
+ in the 
+Visayas case
+, the Ombudsman dismissed the complaint for lack of probable cause. In particular, the second element for violation of Section 3(e) (that he or she must have acted with manifest partiality, evident bad faith or gross inexcusable negligence) was found by the Ombudsman to be wanting. The pertinent parts of the Resolution are reproduced below:
+This Office finds no probable cause for violation of Section 3(e) of R.A. 3019.
+x x x x
+The second element is wanting.
+x x x x
+There is nothing in the 30 April 2003 Memorandum that shows that it was issued by respondent Lorenzo, then DA Secretary, for the purpose of giving favor to Philphos.
+ Said Memorandum merely states the reason for the alternative method, i.e., to ensure the timely distribution of fertilizers to the farmer-beneficiaries for the wet season (May to October 2003) under the GMA Rice Program.
+It bears stressing that 
+the assailed procurement in this case transpired before the 08 October 2003 effectivity of the [IRR-A] of the Government Procurement Act
+. NFA Region VII RBAC sent out the Invitations to Bid on 06 June 2003 and on 20 June 2003 while NFA Region VIII RBAC sent out the Invitations to Bid on 04 June 2003. Further, the Region VII contract was awarded on 27 June 2003 while the Region VII Contract was awarded on 14 July 2003. Thusly, this Office finds the applicability of EO 40 pursuant to Section 77 of the IRR-A of the Government Procurement Act which provides that "
+[I]n cases where the advertisements or invitations for bids were issued after the effectivity of the Act but before the effectivity of this IRR-A, procuring entities may continue adopting the procurement procedures, rules and regulations provided in E.O. 40 and its IRR, P.D. 1594 and its IRR, R.A. 7166 and its IRR, or other applicable laws, as the case may be
+."
+Section 2 of EO 40 still requires, as a general rule, the conduct of public bidding in all government procurement. However, the first paragraph of Section 35 thereof provides:
+Alternative Methods. When justified by extraordinary conditions as provided in this Executive Order and its IRR, and subject to the prior approval of the head of the agency in the interest of economy and efficiency, the agency head, upon the recommendation of the BAC, may adopt alternative methods of procurement.
+While Section 35.1 of its IRR states:
+In the interest of economy and efficiency, the agency concerned may adopt the following alternative methods of procurement after the Head of Agency concerned or his duly authorized representative has approved the use of the same, upon recommendation of the BAC, as indicated in the bidding documents.
+From said provisions, 
+while public bidding is the standard, resort to alternative methods of procurement is not entirely prohibited
+. Extraordinary conditions, as well as efficient and economic grounds, may warrant an adoption of an alternative method of procurement.
+The alternative mode of negotiated procurement was directed by respondent Lorenzo in order to coincide with the planting period, taking into consideration the wet season from May to October 2003. The assessment of respondent Lorenzo that there was urgency for the procurement of the fertilizers is well within his ambit of authority and discretion. It also appears to be in consonance with paragraph (c) of Section 35.1.5 of IRR of EO 40, which provides:
+Negotiated Procurement for Goods may be employed by agencies only in the following cases:
+x x x x 
+ 
+c) 
+Whenever the goods are to be used in connection with a project or activity which cannot be delayed without causing detriment to public service; and
+x x x x
+Respondent Yap, as then NFA Administrator, was prompted by the 30 April 2003 Memorandum to issue directives relative to the procurement.
+ In turn, the other respondents acted pursuant to said authority and directives. 
+Mere compliance by respondents Yap x x x with the 30 April 2003 Memorandum does not establish manifest partiality, evident bad faith and inexcusable negligence on their part.
+ With the directive of the DA Secretary in conducting the alternative method of negotiated procurement, which is presumed to be valid at the time of its issuance, the other respondents were left with no other option but to follow the same. 
+They cannot thus be said to have deliberately intended to award the contracts to Philphos.
+Furthermore, 
+the records show that Philphos was not the only distributor invited to submit price quotations
+. x x x
+The sending out of invitations to other suppliers and distributors negates any showing of partiality.
+[120]
+ (Emphasis and underscoring supplied)
+Two years later, the Ombudsman issued its July 25, 2017 Resolution in the instant case involving the Luzon regions, which found probable cause against petitioners for violation of Section 3(e) of R.A. 3019.
+Not long after, the Ombudsman ruled on the 
+Mindanao case
+. In its July 17, 2017 Resolution, the Ombudsman initially found probable cause against Lorenzo, Yap, and others for violation of Section 3(e) of R.A. 3019 as regards the procurement of fertilizers in the Mindanao Area. However, on motion for reconsideration by Yap, the Ombudsman reversed its findings and dismissed the case against Yap in an Order
+[121]
+ dated April 26, 2018. The Resolution made similar pronouncements with that of the Visayas case and even referenced the same in dismissing the complaint. While the Order was issued in relation to Yap as the movant, the pronouncements therein are also applicable to Lorenzo, to wit:
+A second look at the case records shows that there was no "no performance bond policy." The guidelines dated 23 June 2003 x x x issued by Yap still required a performance bond. It merely dispensed with the 
+bid
+ bond for 
+all
+ bidders. 
+Clearly, said issuance cannot be considered as showing manifest partiality in favor of Philphos.
+Second, the procurement subject of the present case transpired 
+before
+ the 8 October 2003 effectivity of the [IRR-A] of the Government Procurement Act (R.A. No. 9184).
+ Pertinently, Section 77 of IRR-A provides that "in cases where the advertisements or invitations for bids were issued after the effectivity of the Act but 
+before
+ the effectivity of this IRRÂ­A, procuring entities may continue adopting the procurement procedures, rules and regulations provided in E.O. 40 and its IRR x x x or other applicable laws, as the case may be."
+Paragraph (c) of Section 35.1.5 of the IRR of E.O. 40, the rule applicable during the subject procurement, allows negotiated procurement of goods "whenever the goods are to be used in connection with a project or activity which cannot be delayed without causing detriment to public service." 
+Relevantly, the 30 April 2003 Memorandum of the Secretary of the Department of Agriculture [Lorenzo] authorized Yap to enter into a negotiated procurement of the fertilizers for its timely distribution to the farmers in time for the wet season of May to October 2003. 
+Yap followed and implemented the aforementioned directive of the DA Secretary. There is nothing manifestly wrong or damaging in following the said directive that was aimed at a timely distribution of the fertilizers to the farmers.
+ Neither does obedience to it constitute bad judgment or conscious indifference to consequences insofar as other persons may be affected. 
+Consequently, 
+Yap may not be said to have acted with manifest partiality, evident bad faith, or inexcusable negligence
+. Absent one element of the crime of violation of Section 3 (e), probable cause to indict Yap therefor does not lie.
+At all events, in 
+OMB-C-C-14-0064
+ [regarding the Visayas case] â 
+a kindred fertilizer procurement case involving the same guidelines/issuances by Yap â a similar finding of absence of the element of manifest partiality, evident bad faith or inexcusable negligence against Yap was made
+.
+[122]
+ (Emphasis and underscoring supplied)
+In refusing to recognize the issuances by the Ombudsman in the Visayas and Mindanao cases, the Sandiganbayan ruled that the reliance on matters 
+aliunde
+ is misplaced because the "factual milieu, including the adminicle of evidence, in said cases is not on all fours with the present case."
+[123]
+ Following the ruling in 
+Valencia
+, the Sandiganbayan also harped on the opposition by the prosecution to justify its refusal to consider the evidence 
+aliunde
+. Further, the Sandiganbayan ruled that the "disposition in one case does not inevitably and necessarily govern the resolution of the other, albeit related, cases."
+[124]
+ According to the Sandiganbayan, "the evidentiary value, if any, of past resolutions of the Office of Ombudsman 
+vis a vis
+ this case may be threshed out during the adjudication on the merits."
+[125]
+The Court disagrees and finds the foregoing reasoning of the Sandiganbayan egregiously wrong.
+In light of the jurisprudential guidelines in the line of cases following 
+Navarro
+, there is rock solid justification for resort to evidence 
+aliunde
+ in this case. As discussed earlier, the mere opposition by the prosecution does not foreclose the application of the exception to the general rule on non-admission of evidence 
+aliunde
+ in a motion to quash on the ground that the allegations of the Information do not charge an offense. To reiterate, what is controlling is the presence of facts that are apparent from the records and are admitted, directly or impliedly, or not denied by the prosecution, which destroy the 
+prima facie
+ truth accorded to the allegations of the Information on the hypothetical admission thereof.
+In the present case, while the prosecution opposed the admission of the issuances of the Ombudsman in the Visayas and Mindanao cases, it nevertheless did not deny the same but merely sought to differentiate them from the instant case. In its Comment/Opposition to the Motion to Quash, the prosecution stated that:
+x x x Lorenzo's reliance on the findings in the Visayas and Mindanao cases is erroneous. At the outset, it must be highlighted that the present cases, the Visayas and the Mindanao cases were not based on one and the same complaint. The basis for the present cases is the Complaint dated July 23, 2013 of x x x the Office of the Ombudsman. 
+As the allegations and pieces of evidence obtaining in the Complaint for the present cases differ from those in the Visayas and the Mindanao cases, necessarily the factual and legal findings in the three Resolutions vary 
+even if they may have common allegations, i.e., the April 30, 2003 Memorandum
+.
+ Therefore, it is incorrect for Lorenzo to conclude that the Office of the Ombudsman has revoked, repealed, abrogated and then reinstated its own ruling in the present cases and in the Visayas and Mindanao cases.
+[126]
+ (Emphasis and underscoring supplied)
+Evidently, the prosecution did not deny the findings of the Ombudsman in the Visayas and Mindanao cases and even admitted that they have common allegations with the instant case, 
+i.e.
+, the April 30, 2003 Memorandum issued by Lorenzo. Following 
+Lancanan
+, the facts are apparent from the record and are not denied by the prosecution; though they may not constitute admissions on the part of the prosecution, they still fall within the spirit and principle of the ruling in 
+Navarro
+, as there should be no difference between facts merely admitted and undeniable facts appearing on the record of the case.
+[127]
+Verily, the Sandiganbayan should not have turned a blind eye to the previous issuances of the Ombudsman in the Visayas and Mindanao cases by the simple expedient of the prosecution's opposition, especially when the 
+prima facie
+ truth accorded to the allegations in the Informations have already been put into serious doubt. Had the Sandiganbayan considered the previous Resolution and Order of the Ombudsman in the Visayas and Mindanao cases, it would have already arrived at the same conclusion that the elements of the crime charged are wanting.
+For instance, the Sandiganbayan sided with the prosecution and ruled that "[w]hether Lorenzo was justified from deviating from the general requirement of competitive bidding is evidentiary in nature and is a matter of defense that may be passed upon after a full-blown trial on the merits."
+[128]
+ However, this is belied by the Ombudsman herself where she already made a categorical finding in the Visayas case that Lorenzo was justified in issuing the April 30, 2003 Memorandum Order directing the conduct of negotiated procurement of the fertilizers in order to coincide with the planting period, taking into consideration the wet season from May to October 2003.
+[129]
+ The Ombudsman found therein that Lorenzo's assessment of the urgency for the procurement of the fertilizers was well within his ambit of authority and discretion, and was in consonance with paragraph (c) of Section 35.1.5 of the IRR of E.O. 40, which was the applicable rule instead of R.A. 9184.
+[130]
+ The same finding was echoed in the Order of the Ombudsman in the Mindanao case.
+[131]
+At this juncture, the Court notes that even without resorting to the Ombudsman's ruling in the Visayas and Mindanao cases, the Sandiganbayan should already have given credence to Lorenzo's position that the applicable law in this case is E.O. 40, not R.A. 9184, as stated in the Informations. The questioned procurements in this case transpired between 
+May to August 2003
+. While R.A. 9184 became effective on 
+January 26, 2003
+, its IRR took effect only on 
+October 8, 2003
+ and under Section 77 thereof, it is clear that "where the advertisements or invitations for bids were issued after the effectivity of the Act but before the effectivity of the IRR-A, procuring entities may continue adopting the procurement procedures, rules and regulations provided in E.O. 40." The relevant dates of the questioned procurements, as well as the citation of R.A. 9184, are well within the four corners of the Informations and the Sandiganbayan need not resort to evidence 
+aliunde
+ to find merit in Lorenzo's contention.
+Indeed, while there may be variations in the allegations for the Luzon, Visayas, and Mindanao cases, it is undeniable that there is still only one and the same April 30, 2003 Memorandum Order issued by Lorenzo directing the conduct of negotiated procurement which was already twice found by the Ombudsman to be valid and justified in accordance with E.O. 40.
+Further, the Sandiganbayan also refused to consider Yap's allegations, stating that these are matters of defense that are better threshed out in a fullÂ­blown trial.
+[132]
+ However, Yap's liability has already been addressed by the Ombudsman in the Visayas and Mindanao cases. A closer look at the questioned directives made by Yap would show that while these may vary from the issuances he made in the Visayas and Mindanao regions, it is uncontroverted that, similar to the issuances in the latter regions, his directives in the instant case were made 
+pursuant
+ to the April 30, 2003 Memorandum. In this regard, the Ombudsman already made a categorical finding in the Visayas case that Yap, as then NFA Administrator, was merely prompted by the April 30, 2003 Memorandum to issue directives relative to the procurement and his mere compliance with Lorenzo's Memorandum does not establish manifest partiality, evident bad faith and inexcusable negligence on his part.
+[133]
+ As held by the Ombudsman therein, the April 30, 2003 Memorandum is presumed valid at the time of its issuance and Yap was left with no other option but to follow the same; hence, he cannot be said to have deliberately intended to award the contracts to Philphos.
+[134]
+ The Ombudsman in the Mindanao case also had similar findings, ruling that "[t]here is nothing manifestly wrong or damaging in following the said directive that was aimed at a timely distribution of the fertilizers to the farmers. Neither does obedience to it constitute bad judgment or conscious indifference to consequences insofar as other persons may be affected."
+[135]
+Thus, the Sandiganbayan should have considered the Ombudsman's previous pronouncement that "the 30 April 2003 Memorandum of the DA Secretary (Lorenzo) and the directives issued by the NFA Administrator (Yap) xx x are deemed to have been issued within their respective authority and discretion,"
+[136]
+ and its finding that "the claim that the alternative method of negotiated procurement of fertilizers was resorted to in order to ensure the timely distribution of fertilizers to the fanner-beneficiaries for the wet season (May to October 2003) under the GMA Rice Prograin is xx x plausible."
+[137]
+In addition to the categorical findings of the Ombudsman in the Visayas and Mindanao cases that the second element of violation of Section 3(e) of R.A. 3019 is absent, there are also pronouncements in the Resolution in the Visayas case which belie the damage and prejudice caused to the government, as alleged in the Informations, which likewise put into doubt the presence of the third element of the crime, 
+i.e.
+, causing undue injury to any party, including the government, or giving any private party unwarranted benefits, advantage or preference in the discharge of his or her functions. In particular, the pertinent portion of the Ombudsman Resolution in the Visayas case is reproduced below:
+Mere surmises and unsupported conclusions do not establish that the contracts were unfavorable to the government. On the other hand, at the time of the perfection of the assailed contracts in 2003, it appears that the amount of PhP480.00 per bag for the required fertilizers for Region VII and PhP485.00 per bag for Region VIII offered by Philphos were much lower than the prevailing average prices of PhP542.00 per bag for Region VII and PhP550.88 for Region VIII during said year.
+[138]
+These findings by the Ombudsman in the Visayas case are similar to the findings of the Ombudsman in the instant case in its discussion on the absence of probable cause for violation of Section 3(g) of R.A. 3019, to wit:
+There is no adequate showing that the government was grossly disadvantaged when the fertilizers were purchased from Philphos. For one, there is no evidence, much less any allegation, that the fertilizers were overpriced.
+ Based on the data of the Bureau of Agricultural Statistics and the DA Field Operators Office, the average price of fertilizers in 2003 was pegged at PhP537.90/bag which is even higher than the prices offered by Philphos which ranged from PhP469 to PhP480.00.
+Second, 
+the warehouse stock receipts prove that the amount of fertilizers contracted and paid for were delivered to the concerned NFA regions
+. There is also 
+no allegation that any portion of said goods was defective or substandard
+.
+ 
+With regard to the COA findings that 
+some of the fertilizers were also given to non-masterlisted farmer-beneficiaries, more so to deceased farmers, non-farmers and/or those already living abroad
+, 
+the same cannot conclusively establish that the government was grossly or manifestly disadvantaged
+. In fact, the COA simply reminded the DA to update its master list of farmer-beneficiaries.
+[139]
+ (Emphasis supplied)
+Clearly, the aforementioned findings of the Ombudsman had already cast serious doubt as to the presence of the elements of the crime in this case, which should have prompted the Sandiganbayan to consider the same. Echoing 
+De la Rosa
+:
+x x x where in the hearing on a motion to quash predicated on the ground that the allegations of the information do not charge an offense, facts have been brought out by evidence presented by both parties which destroy the 
+prima facie
+ truth accorded to the allegations of the information on the hypothetical admission thereof, as is implicit in the nature of the ground of the motion to quash, it would be pure technicality for the court to close its eyes to said facts and still give due course to the prosecution of the case already shown to be weak even to support possible conviction, and hold the accused to what would clearly appear to be a merely vexatious and expensive trial, on her part, and a wasteful expense of precious time on the part of the court, as well as of the prosecution.
+[140]
+In sum, the Court finds that the Sandiganbayan committed grievous error in refusing to consider the evidence 
+aliunde
+ presented by petitioners in their motions to quash on the ground that the facts charged do not constitute an offense. Moreover, the Sandiganbayan gravely abused its discretion in denying petitioners' motions to quash despite the prosecutions' failure to provide sufficient justification for the delay in the termination of the preliminary investigation. Consequently, the cases against petitioners before the Sandiganbayan should be dismissed for violation of petitioners' right to speedy disposition of cases.
+WHEREFORE
+, premises considered, the Petitions are 
+GRANTED
+. The assailed Resolutions dated August 9, 2018 and September 25, 2018 of the Sandiganbayan Sixth Division in Criminal Case Nos. SB-18-CRM-0288 to 0292 are 
+ANNULLED
+ and 
+SET ASIDE
+. The Temporary Restraining Order issued by the Court on June 10, 2019 in these cases before the Sandiganbayan is hereby made 
+PERMANENT
+. The Sandiganbayan is hereby ordered to 
+DISMISS
+ Criminal Case Nos. SB-18-CRM-0288 to 0292 for violation of the constitutional right to speedy disposition of cases of petitioners Luis Ramon P. Lorenzo and Arthur C. Yap.
+SO ORDERED.
+Inting, Gaerlan, Dimaampao
+, and 
+Singh, JJ.
+, concur.
+[1]
+ 
+Rollo
+ (
+G.R. Nos. 242590-94
+), p. 301, per Court Resolution dated September 23, 2019.
+[2]
+ 
+Rollo
+ (
+G.R. Nos. 242506-10
+), pp. 3-53 and 
+Rollo
+ (G.R. Nos. 242590-94), pp. 3-53.
+[3]
+ 
+Rollo
+ (
+G.R. Nos. 242590-94
+), pp. 56-83.
+[4]
+ 
+Rollo
+ (
+G.R. Nos. 242590-94
+), p. 6.
+[5]
+ Section 3(e) of R.A. 3019: "(e) Causing any undue injury to any party, including the Government, or giving any private party any unwarranted benefits, advantage or preference in the discharge of his official administrative or judicial functions through manifest partiality, evident bad faith or gross inexcusable negligence. This provision shall apply to officers and employees of offices or government corporations charged with the grant of licenses or permits or other concessions."
+[6]
+ 
+Rollo
+ (
+G.R. Nos. 242506-10
+), p. 166.
+[7]
+ 
+Id.
+ at 167.
+[8]
+ 
+Id.
+ at 106-108.
+[9]
+ 
+Id.
+ at 133.
+[10]
+ 
+Id.
+ at 134.
+[11]
+ 
+Id.
+[12]
+ 
+Id.
+ at 102-148.
+[13]
+ 
+Id.
+ at 135-136.
+[14]
+ 
+Id.
+ at 136-137.
+[15]
+ 
+Id.
+ at 138.
+[16]
+ 
+Id.
+ at 142. Section 3(g) of R.A. 3019 punishes the act of "entering, on behalf of the Government, into any contract or transaction manifestly and grossly disadvantageous to the same, whether or not the public officer profited or will profit thereby."
+[17]
+ 
+Id.
+ at 145. Section 65(b)(4) of R.A. 9184 considers it punishable: "[w]hen a bidder, by himself or in connivance with others, employ schemes which tend to restrain the natural rivalry of the parties or operates to stifle or suppress competition and thus produce a result disadvantageous to the public."
+[18]
+ 
+Id.
+ at 153.
+[19]
+ 
+Id.
+ at 149-156.
+[20]
+ 
+Id.
+ at 165.
+[21]
+ 
+Id.
+ at 167.
+[22]
+ 
+Id.
+ at 171.
+[23]
+ 
+Id.
+ at 171.
+[24]
+ 
+Id.
+ at 172.
+[25]
+ 
+Id.
+ at 173.
+[26]
+ 
+Id.
+ at 75.
+[27]
+ 
+Id.
+ at 165-179; penned by Associate Justice Kevin Narce B. Vivero and concurred in by Associate Justices Sarah Jane T. Fernandez and Maryann E. Corpus-MaÃ±alac.
+[28]
+ 
+Id.
+ at 170.
+[29]
+ 
+Id.
+ at 171.
+[30]
+ 
+Id.
+ at 172.
+[31]
+ 
+Id.
+ at 175-176.
+[32]
+ 
+Id.
+ at 176-177.
+[33]
+ 
+Id.
+ at 206-218.
+[34]
+ 
+Id.
+ at 3-53.
+[35]
+ 
+Id.
+ at 24-25.
+[36]
+ 
+Rollo
+ (
+G.R. Nos. 242590-94
+), pp. 3-53.
+[37]
+ 
+Id.
+ at 21-22.
+[38]
+ 
+Rollo
+ (
+G.R. Nos. 242506-10
+), p. 309.
+[39]
+ 
+Id.
+[40]
+ 
+Rollo
+ (
+G.R. Nos. 242506-10
+), pp. 438-461; and 
+Rollo
+ (
+G.R. Nos. 242590-94
+), pp. 457-476.
+[41]
+ 
+Rollo
+ (
+G.R. Nos. 242506-10
+), pp. 443-444; and 
+Rollo
+ (
+G.R. Nos. 242590-94
+), p. 462.
+[42]
+ 
+Rollo
+ (
+G.R. Nos. 242506-10
+), pp. 1072-1104; and 
+Rollo
+ (
+G.R. Nos. 242590-94
+), pp. 487-502.
+[43]
+ 
+Rollo
+ (
+G.R. Nos. 242590-94
+), p. 301.
+[44]
+ 837 Phil. 815 (2018).
+[45]
+ 
+Id.
+ at 880-882.
+[46]
+ 
+Rollo
+ (
+G.R. Nos. 242506-10
+), p. 37.
+[47]
+ 
+Id.
+ at 306.
+[48]
+ 
+Id.
+ at 452.
+[49]
+ 
+Id.
+ at 455.
+[50]
+ 
+Supra
+ note 43, at 868.
+[51]
+ 
+Rollo
+ (
+G.R. Nos. 242506-10
+), p. 455.
+[52]
+ 
+Id.
+ at 120. 
+N.B.
+ Lorenzo failed to file his counter-affidavit. 
+See id.
+ at 132. Also, there is no complete record of when all the respondents filed their Counter-Affidavits in the case before the Ombudsman. Thus, the Court focuses on the date when Yap filed his counter-affidavit.
+[53]
+ 
+Id.
+ at 155-156.
+[54]
+ 
+G.R. 237997
+, June 10, 2020, accessed at <
+https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/66260
+>.
+[55]
+ 
+G.R. 243560-62
+, July 28, 2020, accessed at <
+https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/66306
+>.
+[56]
+ 
+G.R. Nos. 236177-210
+, February 3, 2021, accessed at <
+https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/67118
+>.
+[57]
+ Administrative Order No. 1, Series of 2020, "Prescribing the Periods in the Conduct of Investigations by the Office of the Ombudsman" (August 15, 2020).
+[58]
+ A.O. 1, s. 2020, Section 3.
+[59]
+ 
+Id.
+[60]
+ 
+Alarilla v. Sandiganbayan
+, 
+supra
+ note 56.
+[61]
+ 383 Phil. 897 (2000).
+[62]
+ 
+Rollo
+ (G.R. Nos. 242506-10), p. 453.
+[63]
+ 
+Perez v. Sandiganbayan, G.R. No. 245862
+, November 3, 2020, accessed at <
+https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/67037
+>.
+[64]
+ 
+Id.
+[65]
+ 
+G.R. No. 239878
+, February 28, 2022, accessed at <
+https://sc.judiciary.gov.ph/26692/
+>.
+[66]
+ 
+Id.
+[67]
+ 484 Phil. 899 (2004).
+[68]
+ 
+Id.
+ at 918.
+[69]
+ 714 Phil. 55 (2013).
+[70]
+ 
+Id.
+ at 65.
+[71]
+ 
+People v. Sandiganbayan
+, 
+supra
+ note 65.
+[72]
+ 
+Rollo
+ (
+G.R. Nos. 242590-94
+), p. 46.
+[73]
+ 
+Id.
+[74]
+ 
+People v. Sandiganbayan
+, 
+supra
+ note 65.
+[75]
+ 
+Rollo
+ (
+G.R. Nos. 242590-94
+), p. 45.
+[76]
+ 
+Rollo
+ (
+G.R. Nos. 242506-10
+), pp. 42-43.
+[77]
+ 
+Magante v. Sandiganbayan (Third Division)
+, 836 Phil. 1109, 1139 (2018).
+[78]
+ 
+Rollo
+ (
+G.R. Nos. 242590-94
+), pp. 67-68.
+[79]
+ 
+Id.
+ at 68.
+[80]
+ 
+Perez v. Sandiganbayan
+, 
+supra
+ note 65.
+[81]
+ 
+Id.
+[82]
+ CONSTITUTION Art. XI, Sec. 12.
+[83]
+ R.A. 6770, "An Act Providing for the Functional and Structural Organization of the Office of the Ombudsman, and for Other Purposes," Sec. 13.
+[84]
+ 
+People v. Sandiganbayan
+, 
+supra
+ note 65.
+[85]
+ CONSTITUTION, Art. III, Sec. 14(2).
+[86]
+ 
+People v. Sandiganbayan (Fourth Division)
+, 769 Phil. 378, 387 (2015).
+[87]
+ 
+Spouses Tayamen v. People, G.R. No. 246986
+, April 28, 2021, accessed at <
+https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/67471
+>.
+[88]
+ 
+Jacinto v. Sandiganbayan
+, 258-A Phil. 20, 26 (1989).
+[89]
+ 
+Rollo
+ (
+G.R. Nos. 242506-10
+), p. 166.
+[90]
+ 
+Id.
+ at 167.
+[91]
+ 
+Rollo
+ (
+G.R. Nos. 242506-10
+), pp. 94 and 161.
+[92]
+ 
+Id.
+ at 142.
+[93]
+ 
+Antone v. Beronilla
+, 652 Phil. 151, 165 (2010).
+[94]
+ 
+Id.
+[95]
+ 
+Garcia v. Court of Appeals
+, 334 Phil. 621, 634 (1997).
+[96]
+ 75 Phil. 516 (1945).
+[97]
+ 
+Id.
+ at 517.
+[98]
+ 
+Id.
+[99]
+ 
+Rollo
+ (
+G.R. Nos. 242506-10
+), p. 27.
+[100]
+ 
+Rollo
+ (
+G.R. Nos. 242590-94
+), p. 23.
+[101]
+ 
+Id.
+ at 25.
+[102]
+ 
+Rollo
+ (
+G.R. Nos. 242506-10
+), p. 445.
+[103]
+ 477 Phil. 103 (2004).
+[104]
+ 
+Id.
+ at 112-113.
+[105]
+ 
+Rollo
+ (
+G.R. Nos. 242506-10
+), p. 446.
+[106]
+ 
+Id.
+ at 211. 
+[107]
+ 
+Valencia v. Sandiganbayan
+, 
+supra
+ note 103, at 115.
+[108]
+ 
+People v. Navarro
+, 
+supra
+ note 96, at 519-520.
+[109]
+ 95 Phil. 375 (1954).
+[110]
+ 
+Id.
+ at 377.
+[111]
+ 107 Phil. 659 (1960).
+[112]
+ 
+Id.
+ at 663.
+[113]
+ 187 Phil. 118 (1980).
+[114]
+ 
+Id.
+ at 122-126.
+[115]
+ 319 Phil. 387 (1995).
+[116]
+ 
+Id.
+ at 386-398.
+[117]
+ 
+Rollo
+ (
+G.R. Nos. 242506-10
+), p. 10.
+[118]
+ 
+Id.
+[119]
+ 
+Id.
+ at 84-101.
+[120]
+ 
+Id.
+ at 94-98.
+[121]
+ 
+Id.
+ at 157-163.
+[122]
+ 
+Id.
+ at 160-162.
+[123]
+ 
+Id.
+ at 172.
+[124]
+ 
+Id.
+ at 211.
+[125]
+ 
+Id.
+ at 213.
+[126]
+ 
+Id.
+ at 26.
+[127]
+ 
+People v. Lancanan
+, 
+supra
+ note 109, at 377.
+[128]
+ 
+Rollo
+ (
+G.R. Nos. 242506-10
+), p. 171.
+[129]
+ 
+Id.
+ at 96.
+[130]
+ 
+Id.
+ at 96-97.
+[131]
+ 
+See id.
+ at 161.
+[132]
+ 
+Id.
+ at 172-173.
+[133]
+ 
+Id.
+ at 97.
+[134]
+ 
+Id.
+[135]
+ 
+Id.
+ at 161.
+[136]
+ 
+Id.
+ at 100.
+[137]
+ 
+Id.
+[138]
+ 
+Id.
+ at 99.
+[139]
+ 
+Id.
+ at 142-143.
+[140]
+ 
+People v. Dela Rosa
+, 
+supra
+ note 113 at 126.
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)
