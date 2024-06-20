@@ -1,0 +1,520 @@
+E-Library - Information At Your Fingertips: Printer Friendly
+
+
+
+
+    
+
+			451 Phil. 380
+			
+
+
+
+
+SECOND DIVISION
+
+
+[ G.R. No. 125297, June 06, 2003 ]
+
+
+ELVIRA YU OH, PETITIONER, VS. COURT OF APPEALS AND PEOPLE OF THE PHILIPPINES, RESPONDENTS.
+D E C I S I O N
+
+
+
+
+AUSTRIA-MARTINEZ, J.:
+
+
+Before this Court is a petition for review on 
+certiorari
+ of the decision
+[1]
+ of the Court of Appeals in CA-G.R. No. CR No. 16390, promulgated on January 30, 1996, affirming the conviction of petitioner Elvira Yu Oh by the Regional Trial Court (RTC), Branch 99, Quezon City and the resolution dated May 30, 1996 which denied her motion for reconsideration.
+The facts as borne by the records are as follows:
+Petitioner purchased pieces of jewelry from Solid Gold International Traders, Inc., a company engaged in jewelry trading.  Due to her failure to pay the purchase price, Solid Gold filed civil cases
+[2]
+ against her for specific performance before the Regional Trial Court of Pasig.  On September 17, 1990, petitioner and Solid Gold, through its general manager Joaquin Novales III, entered into a compromise agreement to settle said civil cases.
+[3]
+ The compromise agreement, as approved by the trial court, provided that petitioner shall issue a total of ninety-nine post-dated checks in the amount of P50,000.00 each, dated every 15
+th
+ and 30
+th
+ of the month starting October 1, 1990 and the balance of over P1 million to be paid in lump sum on November 16, 1994 which is also the due date of the 99
+th
+ and last postdated check.  Petitioner issued ten checks at P50,000.00 each, for a total of P500,000.00, drawn against her account at the Equitable Banking Corporation (EBC), Grace Park, Caloocan City Branch.  Novales then deposited each of the ten checks on their respective due dates with the Far East Bank and Trust Company (FEBTC).  However, said checks were dishonored by EBC for the reason "Account Closed."  Dishonor slips were issued for each check that was returned to Novales.
+[4]
+On October 5, 1992, Novales filed ten separate Informations, docketed as Criminal Cases Nos. 92-26243 to 92-36252 before the RTC of Quezon City charging petitioner with violation of Batas Pambansa Bilang 22, otherwise known as the Bouncing Checks Law.
+[5]
+  Except for the dates and the check numbers, the Informations uniformly allege:
+That on or about the ... in Quezon City, Philippines, the said accused did then and there willfully, unlawfully and feloniously make or draw and issue to JOAQUIN P. LOVALES III to apply on account or for value Equitable Banking Corp. Grace Park Caloocan Branch Check No. ... dated ... payable to SOLID GOLD INTERNATIONAL TRADERS, INC. in the amount of P50,000.00, Philippine Currency, said accused well knowing that at the time of issue she/he/they did not have sufficient funds in or credit with the drawee bank for payment of such check in full upon its presentment, which check when presented for payment was subsequently dishonored by the drawee bank for insufficiency of funds/Account Closed and despite receipt of notice of such dishonor, said accused failed to pay said SOLID GOLD INTERNATIONAL TRADERS, INC. the amount of said check or to make arrangement for full payment of the same within five (5) banking days after receiving said notice.
+CONTRARY TO LAW.
+[6]
+The cases were consolidated and subsequently raffled to Branch 99 of the said RTC.  Upon arraignment, accused pleaded not guilty.
+[7]
+ Trial then ensued.  On December 22, 1993, the RTC rendered its decision, the dispositive portion of which reads:
+WHEREFORE, this Court finds the accused GUILTY of ten counts of violation of BP 22 and hereby sentences her to a penalty of one year imprisonment for each count, or a total of ten years, to be served in accordance with the limitation prescribed in par. 4, Article 70 of the Revised Penal Code and to indemnify complainant the amount of the checks in their totality, or in the amount of P500,000.00.
+SO ORDERED.
+[8]
+Petitioner appealed to the Court of Appeals alleging that:  the RTC has no jurisdiction over the offense charged in the ten informations; it overlooked the fact that no notice of dishonor had been given to the appellant as drawer of the dishonored checks; it failed to consider that the reason of "closed account" for the dishonor of the ten checks in these cases is not the statutory cause to warrant prosecution, much more a conviction, under B.P. Blg. 22; it failed to consider that there is only one act which caused the offense, if any, and not ten separate cases; and it disregarded the definition of what a `check' is under Sec. 185 of the Negotiable Instruments Law.
+[9]
+Finding the appeal to be without merit, the Court of Appeals affirmed the decision of the trial court with costs against appellant.
+Hence, herein petition raising the following errors:
+I
+THAT THE COURT OF APPEALS ERRED IN NOT RESOLVING THE JURISDICTIONAL ISSUE IN FAVOR OF THE ACCUSED-APPELLANT BY UNJUSTLY DEPRIVING HER OF THE LEGAL BENEFITS OF GIVING RETROACTIVE EFFECT TO THE PROVISIONS OF R.A. NO. 7691 EXPANDING THE JURISDICTION OF THE INFERIOR COURTS TO COVER THE OFFENSES INVOLVED IN THESE CASES PURSUANT TO ART. 22 OF THE REVISED PENAL CODE, THUS IN EFFECT RENDERING THE JUDGMENT OF CONVICTION PROMULGATED BY THE TRIAL COURT BELOW AND AFFIRMED BY THE COURT OF APPEALS PATENTLY NULL AND VOID FOR HAVING BEEN RENDERED WITHOUT OR IN EXCESS OF JURISDICTION.
+II
+THAT THE COURT OF APPEALS ERRED IN NOT RESOLVING IN FAVOR OF ACCUSED-APPELLANT THE FACT THAT NO NOTICE OF DISHONOR HAD BEEN GIVEN HER AS DRAWER OF THE DISHONORED "CHECKS" PURSUANT TO THE REQUIREMENT EXPRESSLY PROVIDED UNDER BATAS PAMBANSA BILANG 22.
+III
+THAT THE COURT OF APPEALS ERRED IN CONSTRUING THE PROVISIONS OF BATAS PAMBANSA BILANG 22 CONTRARY TO THE WELL-ESTABLISHED RULE OF STATUTORY CONSTRUCTION THAT "PENAL STATUTES, SUBSTANTIVE AND REMEDIAL OR PROCEDURAL, ARE, BY THE CONSECRATED RULE, CONSTRUED STRICTLY AGAINST THE STATE, OR LIBERALLY IN FAVOR OF THE ACCUSED" AND THAT "IT IS ALWAYS THE DUTY OF THE COURT TO RESOLVE THE CIRCUMSTANCES OF EVIDENCE UPON A THEORY OF INNOCENCE RATHER THAN UPON A THEORY OF GUILT WHERE IT IS POSSIBLE TO DO SO", AND IN SO DOING THE DECISION APPEALED FROM INDULGED ITSELF IN "JUDICIAL LEGISLATION" TO FAVOR THE PROSECUTION AND TO WORK GRAVE INJUSTICE TO THE ACCUSED.
+Simply worded, the issues of this case may be stated as follows: (1) whether or not the appellate court erred in not granting retroactive effect to Republic Act No. 7691
+[10]
+ in view of Art. 22 of the Revised Penal Code (RPC); (2) whether or not notice of dishonor is dispensable in this case; and (3) whether or not the appellate court erred in construing B.P. Blg. 22.
+We will resolve the first and third issues before considering the second issue.
+First issue
+ â Whether or not the Court of Appeals erred in not giving retroactive effect to R.A. 7690 in view of Article 22 of the RPC.
+Petitioner argues that: the failure of the appellate court to give retroactive application to R.A. 7691 is a violation of Art. 22 of the Revised Penal Code which provides that penal laws shall have retroactive effect insofar as they favor the person guilty of the felony;  R.A. 7691 is a penal law in the sense that it affects the jurisdiction of the court to take cognizance of criminal cases; taken separately, the offense covered by each of the ten Informations in this case falls within the exclusive original jurisdiction of the Municipal Trial Court under Sec. 2 of R.A. 7691; and the Court of Appeals is guilty of judicial legislation in stating that after the arraignment of petitioner, said cases could no longer be transferred to the MTC without violating the rules on double jeopardy, because that is not so provided in R.A. 7691.
+[11]
+The Solicitor General, in its Comment, counters that the arguments of petitioner are baseless contending that:  penal laws are those which define crimes and provides for their punishment; laws defining the jurisdiction of courts are substantive in nature and not procedural for they do not refer to the manner of trying cases but to the authority of the courts to hear and decide certain and definite cases in the various instances of which they are susceptible; R.A. No. 7691 is a substantive law and not a penal law as nowhere in its provisions does it define a crime neither does it provide a penalty of any kind; the purpose of enacting R.A. No. 7691 is laid down in the opening sentence thereof as "An Act Expanding the Jurisdiction of the Municipal Trial Courts, Municipal Circuit Trial Courts and the Metropolitan Trial Court" whereby it reapportions the jurisdiction of said courts to cover certain civil and criminal case, erstwhile tried exclusively by the Regional Trial Courts; consequently, Art. 22 of the RPC finds no application to the case at bar; jurisdiction is determined by the law in force at the time of the filing of the complaint, and once acquired, jurisdiction is not affected by subsequent legislative enactments placing jurisdiction in another tribunal; in this case, the RTC was vested with jurisdiction to try petitioner's cases when the same were filed in October 1992; at that time, R.A. No. 7691 was not yet effective;
+[12]
+ in so far as the retroactive effect of R.A. No. 7691 is concerned, that same is limited only to pending civil cases that have not reached pre-trial stage as provided for in Section 7 thereof and as clarified by this Court in 
+People vs. Yolanda Velasco
+[13]
+, where it was held:  "[a] perusal of R.A. No. 7691 will show  that its retroactive provisions apply only to civil cases that have not yet reached the pre-trial stage.  Neither from an express proviso nor by implication can it be understood as having retroactive application to criminal cases pending or decided by the RTC prior to its effectivity."
+[14]
+On this point, the Court fully agrees with the Solicitor General and holds that Article 22 of the Revised Penal Code finds no application to the case at bar.
+Said provision reads:
+ART. 22.  
+Retroactive effect of penal laws
+. â Penal laws shall have a retroactive effect insofar as they favor the person guilty of a felony, who is not a habitual criminal, as this term is defined in Rule 5 of Article 62 of this Code, although at the time of the publication of such laws a final sentence has been pronounced and the convict is serving sentence.
+A penal law, as defined by this Court, is an act of the legislature that prohibits certain acts and establishes penalties for its violations.  It also defines crime, treats of its nature and provides for its punishment.
+[15]
+ R.A. No. 7691 does not prohibit certain acts or provides penalties for its violation; neither does it treat of the nature of crimes and its punishment.  Consequently, R.A. No. 7691 is not a penal law, and therefore, Art. 22 of the RPC does not apply in the present case.
+B. P. Blg. 22, which took effect on April 24, 1979, provides the penalty of imprisonment of not less than thirty days but not more than one year or by a fine of not less than but not more then double the amount of the check which fine shall in no case exceed P200,000.00, or both such fine and imprisonment at the discretion of the court.
+R.A. No. 7691 which took effect on June 15, 1994, amended B.P. Blg. 129, and vested on the Metropolitan, Municipal and Municipal Circuit Trial Courts jurisdiction to try cases punishable by imprisonment of not more than six (6) years.
+[16]
+  Since R.A. No. 7691 vests jurisdiction on courts, it is apparent that said law is 
+substantive
+.
+[17]
+In the case of 
+Cang vs. Court of Appeals
+,
+[18]
+  this Court held that "jurisdiction being a matter of substantive law, the established rule is that the statute in force at the time of the commencement of the action determines the jurisdiction of the court."
+[19]
+  R.A. No. 7691 was not yet in force at the time of the commencement of the cases in the trial court.  It took effect only during the pendency of the appeal before the Court of Appeals.
+[20]
+  There is therefore no merit in the claim of petitioner that R.A. No. 7691 should be retroactively applied to this case and the same be remanded to the MTC.  The Court has held that a "law vesting additional jurisdiction in the court cannot be given retroactive effect."
+[21]
+Third issue
+ â Whether or not the Court of Appeals erroneously construed B.P. Blg. 22.
+Petitioner insists that: penal statutes must be strictly construed and where there is any reasonable doubt, it must always be resolved in favor of the accused;
+[22]
+ the Court of Appeals, in construing that B.P. Blg. 22 embraces cases of "no funds" or "closed accounts" when the express language of B.P. Blg. 22 penalizes only the issuance of checks that are subsequently dishonored by the drawee bank for "insufficiency" of funds or credit, has enlarged by implication the meaning of the statute which amounts to judicial legislation;
+[23]
+ a postdated check, not being drawn payable on demand, is technically not a special kind of a bill of exchange, called check, but an ordinary bill of exchange payable at a fixed date, which is the date indicated on the face of the postdated check, hence, the instrument is still valid and the obligation covered thereby, but only civilly and not criminally;
+[24]
+ the trial court also erroneously cited a portion in the case of 
+Lozano vs. Martinez
+[25]
+  that the "language of B.P. Blg. 22  is broad enough to cover all kinds of checks, whether present dated or postdated, or whether issued in payment of pre-existing obligations or given in mutual or simultaneous exchange for something of value," since the same is mere 
+obiter dictum
+;
+[26]
+ in the interpretation of the meaning of a "check", where the law is clear and unambiguous, the law must be taken as it is, devoid of judicial addition or subtraction.
+[27]
+The Solicitor General counters that a postdated check is still a check and its being a postdated instrument does not necessarily make it a bill of exchange "payable at a fixed or determinable future time" since it is still paid on demand on the date indicated therein or thereafter just like an ordinary check.
+[28]
+  It also points out that the doctrine laid down in 
+Lozano vs. Martinez
+ was reiterated in 
+People vs. Nitafan,
+[29]
+ hence, it can no longer be argued that the statement in the case of 
+Lozano
+ regarding the scope of "checks" is mere 
+obiter dictum
+.
+Again, we agree with the Solicitor General and find petitioner's claim to be without merit.
+The rationale behind B.P. Blg. 22 was initially explained by the Court in the landmark case of 
+Lozano vs. Martinez
+[30]
+ where we held that:
+The gravamen of the offense punished by B.P. Blg. 22 is the act of making and issuing a worthless check or a check that is dishonored upon its presentation for payment ... The thrust of the law is to prohibit, under pain of penal sanctions, the making or worthless checks and putting them in circulation.  Because of its deleterious effects on the public interest, the practice is proscribed by law.  The law punished the act not as an offense against property, but an offense against public order.
+[31]
+. . .
+The effects of the issuance of a worthless check transcend the private interests of the parties directly involved in the transaction and touches the interests of the community at large.  The mischief it creates is not only a wrong to the payee or holder but also an injury to the public. The harmful practice of putting valueless commercial papers in circulation, multiplied a thousandfold, can very well pollute the channels of trade and commerce, injure the banking system and eventually hurt the welfare of society and the public interest.
+[32]
+The same is reiterated in 
+Cueme vs. People
+[33]
+ where we pronounced that:
+. . . B.P. Blg. 22 was purposely enacted to prevent the proliferation of worthless checks in the mainstream of daily business and to avert not only the undermining of the banking system of the country but also the infliction of damage and injury upon trade and commerce occasioned by the indiscriminate issuances of such checks. By its very nature, the offenses defined under B.P. Blg. 22 are against public interest.
+[34]
+In 
+Recuerdo vs. People
+, this Court also held that the terms and conditions surrounding the issuance of the checks are irrelevant since its primordial intention is to ensure the stability and commercial value of checks as being virtual substitutes for currency.
+[35]
+Petitioner's claim that cases of "closed accounts" are not included in the coverage of B.P. Blg. 22 has no merit considering the clear intent of the law, which is to discourage the issuance of worthless checks due to its harmful effect to the public. This Court, in 
+Lozano vs. Martinez
+, was explicit in ruling that the language of B.P. Blg. 22 is broad enough to cover all kinds of checks, whether present dated or postdated, or whether issued in payment of pre-existing obligations or given in mutual or simultaneous exchange for something of value.
+[36]
+In 
+People vs. Nitafan
+,
+[37]
+ the Supreme Court reiterated this point and held that:
+B.P. Blg. 22 ... does not distinguish but merely provides that "[a]ny person who makes or draws and issues 
+any check
+ knowing at the time of issue that he does not have sufficient funds in or credit with the drawee bank ... which check is subsequently dishonored ... shall be punished by imprisonment ... 
+Ubi lex non distinguit nec nos distinguere debemus.
+But even if We retrace the enactment of the "Bouncing Check Law" to determine the parameters of the concept of "check", we can easily glean that the members of the then Batasang Pambansa intended it to be comprehensive as to include all checks drawn against banks.
+[38]
+In this light, it is easy to see that the claim of petitioner that B.P. Blg. 22 does not include `postdated checks' and cases of `closed accounts' has no leg to stand on.  The term "closed accounts" is within the meaning of the phrase "does not have sufficient funds in or credit with the drawee bank".
+Anent the second issue: whether or not notice of dishonor is dispensable in the case at bar.  Petitioner failed to show any cogent reason for us to disturb the findings of the RTC and the Court of Appeals.
+B.P. Blg. 22 or the Bouncing Check's Law seeks to prevent the act of making and issuing checks with the knowledge that at the time of issue, the drawer does not have sufficient funds in or credit with the bank for payment and the checks were subsequently dishonored upon presentment.
+[39]
+  To be convicted thereunder, the following elements must be proved:
+1.       The accused makes, draws or issues any check to apply to account or for value;
+2.       The accused knows at the time of the issuance that he or she does not have sufficient funds in, or credit with, the drawee bank for the payment of the check in full upon its presentment; and
+3.       The check is subsequently dishonored by the drawee bank for insufficiency of funds or credit or it would have been dishonored for the same reason had not the drawer, without any valid reason, ordered the bank to stop payment.
+[40]
+For liability to attach under B.P. Blg. 22, it is not enough that the prosecution establishes that checks were issued and that the same were subsequently dishonored.  The prosecution must also prove that the issuer, at the time of the check's issuance, had knowledge that he did not have enough funds or credit in the bank of payment thereof upon its presentment.
+[41]
+Since the second element involves a state of mind which is difficult to establish, Section 2 of B.P. Blg. 22 created a 
+prima facie
+ presumption of such knowledge, as follows:
+SEC. 2.  
+Evidence of knowledge of insufficient funds
+. â The making, drawing and issuance of a check payment of which is refused by the drawee because of insufficient funds in or credit with such bank, when presented within ninety (90) days from the date of the check, shall be 
+prima facie
+ evidence of knowledge of such insufficiency of funds or credit unless such maker or drawer pays the holder thereof the amount due thereon, or makes arrangements for payment in full by the drawee of such check within five (5) banking days after receiving notice that such check has not been paid by the drawee.
+Based on this section, the presumption that the issuer had knowledge of the insufficiency of funds is brought into existence 
+only after it is proved that the issuer had received a notice of dishonor
+ and that within five days from receipt thereof, he failed to pay the amount of the check or to make arrangement for its payment.
+[42]
+  The presumption or 
+prima facie
+ evidence as provided in this section cannot arise, if such notice of non-payment by the drawee bank is not sent to the maker or drawer, or if there is no proof as to when such notice was received by the drawer, since there would simply be no way of reckoning the crucial 5-day period.
+[43]
+In this case, it is not disputed that checks were issued by petitioner and said checks were subsequently dishonored.  The question however is, was petitioner furnished a notice of dishonor?  If not, is it sufficient justification to exonerate petitioner from her criminal and civil liabilities for issuing the bouncing checks?
+The trial court ruled that the second element is present because:
+... the accused knew at the time of issuance of the checks that she did not have sufficient funds in or credit with her drawee bank for the payment of the checks in full upon their presentment 
+[as] admitted by her in the Counter-Affidavit she executed during the preliminary investigation of these criminal cases
+ (itals. ours), to wit:
+4.            That the time of the issuance of the said checks, due notice and information had been so given to Solid Gold anent 
+the actual status of the checks that the same might not be able to cover the amount of the said checks so stated therein
+ ... (Exhibit "N", "1", underscoring supplied).
+This fact became evident again during the cross-examination by the accused's counsel of the prosecution's witness, Joaquin Novales III:
+ 
+ 
+ATTY. TAGANAS:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q: 
+ 
+And the reason you agreed to the terms and conditions for the issuance of post-dated checks because you are also aware the particular time the accused Mrs. Elvira Yu Oh did not also have enough funds or money in the bank within which to cover the amount of the checks?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A: 
+ 
+I am not aware, sir.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q: 
+ 
+To your knowledge when the accused had already admitted to you that she had not enough money to pay you?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A:
+ 
+That is the terms and promise and agreed upon, sir.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q: 
+ 
+But inspite of the fact that she already told you about that, that you never suspected that she did not have enough money to cover the checks agreed upon and issued to you?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A: 
+ 
+Yes, sir.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q: 
+ 
+And inspite of the fact she told you you never suspected that she did not have enough money to cover you . . .
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q: 
+ 
+You still believe that although she does not have enough money she still issued checks to you?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A: 
+ 
+Yes, sir. (TSN, April 6, 1993, pp. 24-26)
+ 
+ 
+At any rate, there is already 
+prima facie
+ evidence of knowledge of insufficiency of funds on the part of the accused from her failure to pay the amount due on the checks or to make arrangements for payment in full by the drawee bank within five banking days after she received notice of their dishonor, each of the checks having been presented within ninety days from their respective dated (B.P. Blg. 22, Sec. 2). The defense did not controvert this evidence.  (itals. ours)
+[44]
+Although the trial court in its decision, mentioned that herein petitioner received notices of dishonor, nowhere in the records is there proof that the prosecution ever presented evidence that petitioner received or was furnished a notice of dishonor.  The notices of dishonor that were presented in court and marked as Exhibits "D-2", "E-2", "F-2", "G-2", "H-2", "I-2", "J-2", "K-2", "L-2", "C-2"
+[45]
+ were all sent to the private complainant, Solid Gold, and 
+not
+ to petitioner.  In convicting petitioner, the trial court, gave probative weight on the admission of petitioner in her Counter-Affidavit which she submitted during the preliminary investigation that at the time of issuance of the subject checks, she was aware and even told private complainant that the checks might not be able to cover the amount stated therein.
+The Court of Appeals sustained the RTC, to wit:
+. . . Neither can We agree that accused-appellant was still entitled to notice of dishonor of the bouncing checks as she had no more checking account with the drawee bank at the time of the dishonor of the ten checks in question.  Accused-appellant must have realized that by closing her checking account after issuing the ten postdated checks, all of said checks would bounce.  Knowing that she had already closed her checking account with the drawee bank, certainly accused-appellant would not have expected, even in her wildest imagination, that her postdated checks would be honored by the drawee bank.  Thus, accused-appellant need not be notified anymore of the obvious dishonor of her rubber checks.  (itals. ours)
+[46]
+Based on the law and existing jurisprudence, we find that the appellate court erred in convicting petitioner.
+In cases for violation of B.P. Blg. 22, it is necessary that the prosecution prove that the issuer had received a notice of dishonor.  Since service of notice is an issue, the person alleging that the notice was served must prove the fact of service.  Basic also is the doctrine that in criminal cases, the quantum of proof required is proof beyond reasonable doubt.  Hence, for cases of B.P. Blg. 22 there should be clear proof of notice.
+[47]
+Indeed, this requirement cannot be taken lightly because Section 2 provides for an opportunity for the drawer to effect full payment of the amount appearing on the check, within five banking days 
+from notice of dishonor
+.  The absence of said notice therefore deprives an accused of an opportunity to preclude criminal prosecution.  In other words, procedural due process demands that a notice of dishonor be actually served on petitioner.  In the case at bar, appellant has a right to demand â and the basic postulate of fairness requires â that the notice of dishonor be actually sent to and received by her to afford her to opportunity to aver prosecution under B.P. Blg. 22.
+[48]
+The Solicitor General contends that notice of dishonor is dispensable in this case considering that the cause of the dishonor of the checks was "Account Closed" and therefore, petitioner already knew that the checks will bounce anyway.  This argument has no merit.  The Court has decided numerous cases where checks were dishonored for the reason, "Account Closed"
+[49]
+ and we have explicitly held in said cases that "it is essential for the maker or drawer to be notified of the dishonor of her check, so she could pay the value thereof or make arrangements for its payment within the period prescribed by law"
+[50]
+ and omission or neglect on the part of the prosecution to prove that the accused received such notice of dishonor is fatal to its cause.
+[51]
+  
+A perusal of the testimony of the prosecution witness Joaquin Novales III, General Manager of complainant Solid Gold, discloses that no personal demands were made on appellant before the filing of the complaints against her.
+[52]
+  Thus, absent a clear showing that petitioner actually knew of the dishonor of her checks and was given the opportunity to make arrangements for payment as provided for under the law, we cannot with moral certainty convict her of violation of B.P. Blg. 22.  The failure of the prosecution to prove that petitioner was given the requisite notice of dishonor is a clear ground for her acquittal.
+[53]
+Moreover, as understood by the trial court itself in the herein aforequoted portion of its decision, General Manager Novales knew of the non-availability of sufficient funds when appellant issued the subject checks to him.  This Court has held that there is no violation of B.P. 22 if complainant was told by the drawer that he has no sufficient funds in the bank.
+[54]
+For these reasons, we reverse the ruling of the Court of Appeals affirming the trial court's conviction of petitioner for violation of B.P. Blg. 22.  This is without prejudice, however, to her civil liability towards private complainant Solid Gold in the amount of P500,000.00 plus interest thereon at the rate of 12% per annum from date of finality of herein judgment.
+[55]
+WHEREFORE
+, the assailed Decision and Resolution of the Court of Appeals are hereby 
+REVERSED
+ and 
+SET ASIDE
+.  Petitioner Elvira Yu Oh is 
+ACQUITTED
+ of the offense of violation of B.P. Blg. 22 on ten counts for insufficiency of evidence.  However, she is ordered to pay complainant Solid Gold International Traders, Inc. the total amount of Five Hundred Thousand Pesos (P500,000.00) with 12% interest per annum from date of finality of herein judgment.
+SO ORDERED.
+Bellosillo, (Chairman), Quisumbing
+, and 
+Callejo, Sr., JJ
+., concur.
+[1]
+ Penned by Justice Lourdes K. Tayao-Jaguros and concurred in by Justices Jorge A. Imperial and B.A. Adefina-dela Cruz (former Ninth Division).
+[2]
+ Docketed as Civil Cases No. 58907-59366.
+[3]
+ Records, pp. 25-29.
+[4]
+ Rollo, pp. 65-66.
+[5]
+ Effective April 24, 1979.
+[6]
+ Rcords, pp. 1-20.
+[7]
+ Records, p. 78.
+[8]
+ Rollo, p. 55.
+[9]
+ 
+Id
+., pp. 42-43.
+[10]
+ AN ACT EXPANDING THE JURISDICTION OF THE METROPOLITAN TRIAL COURTS, MUNICIPAL TRIAL COURTS, AND MUNICIPAL CIRCUIT TRIAL COURTS, AMENDING FOR THE PURPOSE BATAS PAMBANS BLG. 129, OTHERWISE KNOWN AS THE "JUDICIARY REORGANIZATIO ACT OF 1980", Approved March 25, 1994.
+[11]
+ Rollo, pp. 17, 19-21.
+[12]
+ Rollo, pp. 70-73.
+[13]
+ G.R. No. 110592, 252 SCRA 135 (1996).
+[14]
+ Rollo, p. 74.
+[15]
+ Lacson vs. Executive Secretary, et al., G.R. No. 128096, 301 SCRA 298, 323 (1999).
+[16]
+ Sec. 2, Rep. Act No. 7691.
+[17]
+ DENR vs. Damaran, G.R. No. 125797, February 15, 2002, and Office of the Court Administrator vs. Matas, Adm. Matter No. RTJ-92-836, 247 SCRA 9, 18 (199) and DOH vs. NLRC, G.R. No. 113212, 251 SCRA 700, 707 (1995).
+[18]
+ G.R. No. 105308, 296 SCRA 128 (1998).
+[19]
+ 
+Id
+., p. 141.  See also Republic vs. Court of Appeals, G.R. No. 92326, 205 SCRA 256, 362 (1992).
+[20]
+ Rollo, p. 14, Petition, p. 6.
+[21]
+ Largado vs. Masaganda, L-17624, 5 SCRA 522 (1962).
+[22]
+ Rollo, p. 25.
+[23]
+ 
+Id
+., p. 27.
+[24]
+ Rollo, p. 31.
+[25]
+ 146 SCRA 323 (1986).
+[26]
+ Rollo, pp. 32-33.
+[27]
+ 
+Id
+., pp. 33-34.
+[28]
+ 
+Id
+., p. 78.
+[29]
+ 215 SCRA 83 (1992).
+[30]
+ G.R. No. L-63419, 146 SCRA 323 (1986).
+[31]
+ 
+Id
+., p. 338.
+[32]
+ 
+Id
+., p. 340.
+[33]
+ G.R. No. 133325, 334 SCRA 795 (2000).
+[34]
+ Id., p. 803.
+[35]
+ G.R. No. 133036, January 22, 2003, citing Meriz vs. People, G.R. No. 134498, November 13, 2001.
+[36]
+ Supra, p. 330.
+[37]
+ G.R. No. 75954, 215 SCRA 79 (1992).
+[38]
+ 
+Id
+., p. 83.
+[39]
+ Lagman vs. People, G.R. No. 146238, December 7, 2001.
+[40]
+ Danao vs. Court of Appeals, G.R. No. 122353, 358 SCRA 450, 457-458 (2001).
+[41]
+ Victor Ting "Seng Dee" vs. Court of Appeals, G.R. No. 140665, 344 SCRA 551, 557-558 (2000).
+[42]
+ 
+Id
+.
+[43]
+ Danao vs. Court of Appeals, 
+supra
+, pp. 458-459.
+[44]
+ Rollo, pp. 52-53.
+[45]
+ Records, pp. 132-141.
+[46]
+ Rollo, p. 44.
+[47]
+ Ting vs. Court of Appeals, 
+supra
+, p. 561.
+[48]
+ 
+Id
+., p. 559 citing Lina Lim Lao vs. Court of Appeals, 274 SCRA 572 (1997).
+[49]
+ Caras vs. Court of Appeals, G.R. No. 129900, 366 SCRA 371, 380 (2001); Danao vs. Cout opf Appeals, G.R. No. 122353, 358 SCRA 450 (2001); Ting vs. Court of Appeals, 
+supra
+, n. 15; Domagsang vs. Court of Appeals, G.R. No. 139292, 347 SCRA 75 (2000) and King vs. People, G.R. No. 131540, 319 SCRA 654 (1999).
+[50]
+ Caras case, 
+supra
+.
+[51]
+ 
+Id
+., p. 381.
+[52]
+ TSN, April 6, 1993, pp. 18-19.
+[53]
+ Id., pp. 383-384, citing King vs. People, G.R. No. 131540, 319 SCRA 654, 670 (1999).
+[54]
+ Eastern Assurance and Surety Corporation vs. Court of Appeals, 322 SCRA 73, 79 (2000).
+[55]
+ Magno vs. Court of Appeals, G.R. No. 96132, 210 SCRA 471, 482 (1992).
+
+
+
+
+ 
+
+
+Source: Supreme Court E-Library 
+		
+This page was dynamically generated 
+		
+by the E-Library Content Management System (E-LibCMS)
