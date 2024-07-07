@@ -1,5 +1,0 @@
-nltk
-scikit-learn
-numpy
-gensim
-tqdm

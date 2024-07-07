@@ -1,4 +1,0 @@
-Firewall Captcha Authentication
-Security check
-Please enter the above text to continue
-Captcha Code:
